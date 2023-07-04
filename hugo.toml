@@ -1,9 +1,9 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "Urban GmbH"
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/de"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -59,31 +59,22 @@ id = "UA-00000000-0"
 # Language configuration
 
 [languages]
-[languages.en]
-languageName ="English"
+[languages.de]
+languageName ="Deutsch"
 # Weight used for sorting.
 weight = 1
-[languages.en.params]
-title = "Goldydocs"
-description = "A Docsy example site"
+[languages.de.params]
+title = "Urban VitalControl"
+description = "Gesundheitsmanagement 2.0"
 
-[languages.no]
-languageName ="Norsk"
-contentDir = "content/no"
-[languages.no.params]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
+[languages.en]
+languageName ="English"
+contentDir = "content/en"
+[languages.en.params]
+title = "Urban VitalControl"
+description = "Health management 2.0"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
-
-[languages.fa]
-languageName ="فارسی"
-contentDir = "content/fa"
-[languages.fa.params]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
 
 [markup]
   [markup.goldmark]
@@ -104,7 +95,7 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "Urban GmbH & Co.KG"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
