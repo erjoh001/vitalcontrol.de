@@ -82,6 +82,9 @@ description = "Health management 2.0"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 privacy_policy = "https://www.urbanonline.de/en/privacy-policy"
+[[languages.en.menu.main]]
+name = 'Demo app'
+url = '/en/demo/'
 
 [markup]
   [markup.goldmark]
@@ -220,6 +223,13 @@ enable = false
 [module]
   # uncomment line below for temporary local development of module
   # replacements = "github.com/google/docsy -> ../../docsy"
+  [[module.mounts]]
+    source = "static/demo"
+    target = "static/en/demo"
+    lang = "en"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
   [module.hugoVersion]
     extended = true
     min = "0.110.0"
