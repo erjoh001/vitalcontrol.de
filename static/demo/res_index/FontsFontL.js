@@ -4197,4 +4197,4 @@ index.abG=[26,7,0,16,712,712,"\
 \u09FF\u0000\uD9E6\uFE00\u0631\u10C0\uD001\u3FDF\u0001\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2019 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

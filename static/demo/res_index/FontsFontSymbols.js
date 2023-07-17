@@ -152,4 +152,4 @@ index.abJ=[38,10,0,16,21,21,"\
 \u557B\uB592\u2EF6\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2019 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

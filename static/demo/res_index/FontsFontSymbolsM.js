@@ -47,4 +47,4 @@ index.abK=[21,5,0,16,3,3,"\
 \u03F3\uCF7C\u12B7\uCB30\uC00F\u24EF\uDEE0\uEF7B\uF7BD\u005E"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2019 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

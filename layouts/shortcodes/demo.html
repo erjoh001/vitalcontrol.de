@@ -1,3 +1,17 @@
+{{ $langs := dict "en" 0 "de" 1 "es" 2 "fr" 3 "it" 4 "fi" 5 "cn" 6 "tr" 7 "el" 8 "ru" 9 "nl" 10 "cs" 11 "et" 12 "bg" 13 "bs" 14 "no" 15 "uk" 16 -}}
+
+{{ $lang := "de" -}}
+{{ if and (not .IsNamedParams) (.Get 0) -}}
+  {{ $lang = (.Get 0) -}}
+{{ else -}}
+  {{/* Set language if not given as named or unnamed parameter */ -}}
+  {{ $lang = .Get "lang" | default "de" -}}
+{{ end -}}
+
+<script>
+const ewLanguage = {{ index $langs $lang }};
+</script>
+
 <CANVAS id="_canvas_index" width="1000" height="740" tabindex="1">
     Sorry, your browser doesn't support the canvas element.
   </CANVAS>
@@ -28,7 +42,7 @@
   <SCRIPT type="text/javascript" src="/demo/code_index/Templates.js"></SCRIPT>
   <SCRIPT type="text/javascript" src="/demo/code_index/Charts.js"></SCRIPT>
   <SCRIPT type="text/javascript" src="/demo/code_index/Device.js"></SCRIPT>
-  <SCRIPT type="text/javascript" src="/demo/code_index/{{- with .Get "Language" -}}{{- . -}}{{- end -}}DeviceSimulation.js"></SCRIPT>
+  <SCRIPT type="text/javascript" src="/demo/code_index/DeviceSimulation.js"></SCRIPT>
   <SCRIPT type="text/javascript" src="/demo/code_index/DeviceDemonstrator.js"></SCRIPT>
   <SCRIPT type="text/javascript" src="/demo/code_index/DropDown.js"></SCRIPT>
   <SCRIPT type="text/javascript" src="/demo/code_index/DeviceTarget.js"></SCRIPT>

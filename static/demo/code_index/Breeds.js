@@ -235,6 +235,6 @@ C.UST={1:"Ma\u0111arsko sivo govedo",0:"Hungarian Grey",6:"UST",8:"B\u0153uf gri
 ,15:"\u042F\u043A",18:"\u042F\u043A"};C.ZEB={1:"minijaturna zebu",0:"Miniature Zebu"
 ,6:"ZEB",8:"Zebu miniature",9:"Zwerg-Zebu",15:"\u041A\u0430\u0440\u043B\u0438\u043A\u043E\u0432\u044B\u0439 \u0417\u0435\u0431\u0443"
 };
-C._Init=function(){};C._ReInit=function(){};C.Dn=function(D){};return C;})();
+C._Init=function(){};C._ReInit=function(){};C.Dq=function(D){};return C;})();
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2019 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

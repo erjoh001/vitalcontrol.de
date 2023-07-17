@@ -683,4 +683,4 @@ index.abM=[56,15,0,16,78,78,"\
 \u4654\uF3E4\u00ED\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2019 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

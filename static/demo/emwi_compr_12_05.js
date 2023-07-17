@@ -2321,4 +2321,4 @@ f.aau=0x00000000;f.aaw=0x00000101;f.aax=0x00000202;f.aav=0x00000303;f.ot=0x00000
 f.ou=0x00010000;f.ov=0x00020000;f.vO=0;f.vM=1;f.q1=2;f.vN=3;f.aaE=4;f.aa7=0;f.vR=
 1;f.kH=2;f.kG=3;return f;})();
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2019 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

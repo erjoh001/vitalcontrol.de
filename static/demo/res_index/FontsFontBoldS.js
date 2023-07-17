@@ -2346,4 +2346,4 @@ index.abF=[18,5,0,16,712,712,"\
 \u003D\uFBFF\u0C07\uB003\u1B7F\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2019 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

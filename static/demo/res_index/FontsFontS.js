@@ -2437,4 +2437,4 @@ index.abI=[18,5,0,16,712,712,"\
 \uEC0D\u5017\uF003\u03FF\u00C6\u0DEC"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2019 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
