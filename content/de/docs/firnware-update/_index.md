@@ -1,14 +1,46 @@
 ---
-title: Concepts
+title: Firmware-Update
+linkTitle: Firmware-Update
 weight: 4
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it?
+  Mit einem Firmware-Update aktualisieren Sie die auf dem Gerät installierte Software.
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+Aktualisieren Sie die Firmware Ihres Gerätes regelmäßig, mindestens einmal im Jahr.
 
-For many projects, users may not need much information beyond the information in the [Overview](/docs/overview/), so this section is **optional**. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.
+Ob eine neue Firmware-Version vorhanden ist, erfahren Sie unter firmware.vitalcontrol.de.
+Auf dieser Webseite finden Sie die jeweils aktuelle Firmware-Datei sowie eine Anleitung zum Herunterladen und Aufspielen des Updates auf Ihr Gerät.
 
-Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.
+## Benötigtes Zubehör
+
+Um das Update auf Ihr Gerät aufzuspielen, benötigen Sie einen Dual USB-Stick (2-in-1 USB-Stick) Type-C/USB 3.0 mit einem USB C-Stecker und einem USB-A-Stecker. Ein solcher Dual USB-Stick ist im Lieferumfang des Geräts mit enthalten. Ggf. ist solch ein USB-Sticks auch im Handel erhältlich.
+
+![Dual USB-Stick (USB A / USB C)](images/usb-dual-stick.svg )
+
+## Aktualisierung vorbereiten
+
+1. Erstellen Sie mithilfe eines Computers auf einem Dual USB-Stick (s. Hinweis) ein Verzeichnis mit dem Namen `update`.
+
+    ![Windows Explorer: USB-Stick mit Verzeichnis 'update'](images/create-folder-update.png)
+
+1. Laden Sie die [Firmware-Datei](firmware/firmware.vcu) (Dateiname: `firmware.vcu`) herunter und speichern Sie die Datei auf dem USB-Stick im Verzeichnis `update`. Die Update-Datei benötigt ca. 2 MB Speicherplatz auf dem Stick.
+
+    ![Windows Explorer: USB-Stick mit Firmware-Datei 'firmware.vcu'](images/save-firmware-file.png)
+
+## Aktualisierung durchführen
+
+1. Öffnen Sie über den Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
+
+2. Wechseln Sie ins Untermenü `Service`, wählen Sie dort den Eintrag `Aktualisierung Firmware` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, den USB-Stick einzustecken.
+
+    ![VitalControl: Menüfolge Aktualisierung Firmware](images/firmware-update.png)
+
+3. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts und bestätigen Sie mit `OK`.
+
+    ![VitalControl: USB-Stick einstecken](images/plug-in-dual-usb-stick.svg)
+
+Das Gerät führt das Update automatisch durch. Während des Updates informiert das Display über den Fortschritt der Aktualisierung. Nach Abschluss des Updates startet das Gerät automatisch neu und zeigt nach dem Neustart eine Erfolgsmeldung an:
+
+![VitalControl: Erfolgsmeldung Aktualisierung Firmware](images/update-success.png)
+
+Damit ist die neue Firmware eingespielt.
