@@ -1,15 +1,11 @@
 ---
-title: Firmware-Update
-linkTitle: Firmware-Update
-weight: 4
+title: Aktualisierung der Geräte-Firmware
+linkTitle: Aktualisierung
+weight: 20
 description: >
   Mit einem Firmware-Update aktualisieren Sie die auf dem Gerät installierte Software.
 ---
-
-Aktualisieren Sie die Firmware Ihres Gerätes regelmäßig, mindestens einmal im Jahr.
-
-Ob eine neue Firmware-Version vorhanden ist, erfahren Sie unter firmware.vitalcontrol.de.
-Auf dieser Webseite finden Sie die jeweils aktuelle Firmware-Datei sowie eine Anleitung zum Herunterladen und Aufspielen des Updates auf Ihr Gerät.
+Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version](../version/) vorhanden ist, und aktualisieren Sie ggf. die Firmware Ihres Gerätes gemäß der folgenden Anleitung.
 
 ## Benötigtes Zubehör
 
@@ -19,11 +15,11 @@ Um das Update auf Ihr Gerät aufzuspielen, benötigen Sie einen Dual USB-Stick (
 
 ## Aktualisierung vorbereiten
 
-1. Erstellen Sie mithilfe eines Computers auf einem Dual USB-Stick (s. Hinweis) ein Verzeichnis mit dem Namen `update`.
+1. Erstellen Sie mithilfe eines Computers im Wurzelverzeichnis des mitgelieferten Dual USB-Sticks ein neues Verzeichnis mit dem Namen `update`.
 
     ![Windows Explorer: USB-Stick mit Verzeichnis 'update'](images/create-folder-update.png)
 
-1. Laden Sie die [Firmware-Datei](firmware/firmware.vcu) (Dateiname: `firmware.vcu`) herunter und speichern Sie die Datei auf dem USB-Stick im Verzeichnis `update`. Die Update-Datei benötigt ca. 2 MB Speicherplatz auf dem Stick.
+2. Laden Sie die [Firmware-Datei](firmware/firmware.vcu) (Dateiname: `firmware.vcu`) herunter und speichern Sie die Datei auf dem USB-Stick im Verzeichnis `update`. Die Update-Datei benötigt ca. 2 MB Speicherplatz auf dem Stick.
 
     ![Windows Explorer: USB-Stick mit Firmware-Datei 'firmware.vcu'](images/save-firmware-file.png)
 
