@@ -19,7 +19,7 @@ Um das Update auf Ihr Gerät aufzuspielen, benötigen Sie einen Dual USB-Stick (
 
     ![Windows Explorer: USB-Stick mit Verzeichnis 'update'](images/create-folder-update.png)
 
-2. Laden Sie die [Firmware-Datei](firmware/firmware.vcu) (Dateiname: `firmware.vcu`) herunter und speichern Sie die Datei auf dem USB-Stick im Verzeichnis `update`. Die Update-Datei benötigt ca. 2 MB Speicherplatz auf dem Stick.
+2. Laden Sie die [Firmware-Datei](/download/firmware.vcu) (Dateiname: `firmware.vcu`) herunter und speichern Sie die Datei auf dem USB-Stick im Verzeichnis `update`. Die Update-Datei benötigt ca. 2 MB Speicherplatz auf dem Stick.
 
     ![Windows Explorer: USB-Stick mit Firmware-Datei 'firmware.vcu'](images/save-firmware-file.png)
 

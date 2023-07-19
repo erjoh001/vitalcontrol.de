@@ -19,7 +19,7 @@ To install the update on your device, you need a dual USB flash drive (2-in-1 US
 
     ![Windows Explorer: USB flash drive with directory 'update'](images/create-folder-update.png)
 
-2. Download the [firmware file](firmware/firmware.vcu) (file name: `firmware.vcu`) and store it in the previously created directory `update` of your USB flash drive. The update file requires approx. 2.5 MB of storage space on the flash drive.
+2. Download the [firmware file](/download/firmware.vcu) (file name: `firmware.vcu`) and store it in the previously created directory `update` of your USB flash drive. The update file requires approx. 2.5 MB of storage space on the flash drive.
 
     ![Windows Explorer: flash drive with firmware file 'firmware.vcu'](images/save-firmware-file.png)
 
