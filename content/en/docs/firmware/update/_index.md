@@ -5,13 +5,13 @@ weight: 4
 description: >
   By performing a firmware update, the firmware of your VitalControl device can be updated to the latest available versions.
 ---
-First, make sure that a [newer firmware version](../version/) is available for your device and, if needed, update the firmware of your device according to the following instructions.
+First, make sure that a [newer firmware version](../versions/) is available for your device and, if needed, update the firmware of your device according to the following instructions.
 
 ## Required accessory
 
 To install the update on your device, you need a dual USB flash drive (2-in-1 USB stick) Type-C/USB 3.0 with a USB C connector and a USB A connector. Such a dual USB flash drive is delivered together with your device. You may also purchase such an USB flash drive from different vendors.
 
-![Dual USB flash drive (USB A / USB C)](images/usb-dual-stick.svg )
+![Dual USB flash drive (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg)
 
 ## Preparation: download latest firmware
 
@@ -33,7 +33,7 @@ To install the update on your device, you need a dual USB flash drive (2-in-1 US
 
 3. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `OK`.
 
-    ![VitalControl: USB-Stick einstecken](images/plug-in-dual-usb-stick.svg)
+    ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg)
 
 
 The device performs the update automatically. During the update, the display informs you about the progress of the update. After the update is completed, the device restarts automatically and displays a success message after the restart:

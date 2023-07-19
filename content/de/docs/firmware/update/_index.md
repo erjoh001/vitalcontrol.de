@@ -5,13 +5,13 @@ weight: 20
 description: >
   Mit einem Firmware-Update aktualisieren Sie die auf dem Gerät installierte Software.
 ---
-Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version](../version/) vorhanden ist, und aktualisieren Sie ggf. die Firmware Ihres Gerätes gemäß der folgenden Anleitung.
+Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version](../versions/) vorhanden ist, und aktualisieren Sie ggf. die Firmware Ihres Gerätes gemäß der folgenden Anleitung.
 
 ## Benötigtes Zubehör
 
 Um das Update auf Ihr Gerät aufzuspielen, benötigen Sie einen Dual USB-Stick (2-in-1 USB-Stick) Type-C/USB 3.0 mit einem USB C-Stecker und einem USB-A-Stecker. Ein solcher Dual USB-Stick ist im Lieferumfang des Geräts mit enthalten. Ggf. ist solch ein USB-Sticks auch im Handel erhältlich.
 
-![Dual USB-Stick (USB A / USB C)](images/usb-dual-stick.svg )
+![Dual USB-Stick (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg)
 
 ## Aktualisierung vorbereiten
 
@@ -33,7 +33,7 @@ Um das Update auf Ihr Gerät aufzuspielen, benötigen Sie einen Dual USB-Stick (
 
 3. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts und bestätigen Sie mit `OK`.
 
-    ![VitalControl: USB-Stick einstecken](images/plug-in-dual-usb-stick.svg)
+    ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg)
 
 Das Gerät führt das Update automatisch durch. Während des Updates informiert das Display über den Fortschritt der Aktualisierung. Nach Abschluss des Updates startet das Gerät automatisch neu und zeigt nach dem Neustart eine Erfolgsmeldung an:
 

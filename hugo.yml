@@ -30,6 +30,9 @@ menu:
   - name: Demonstrator
     url: /demo/
     weight: 42
+  - name: Firmware
+    url: /docs/firmware/
+    weight: 43
 
 # You can add your own taxonomies
 taxonomies:
@@ -92,7 +95,10 @@ languages:
       main:
       - name: 'Demo app'
         url: /en/demo/
-
+        weight: 42
+      - name: 'Firmware'
+        url: /en/docs/firmware/
+        weight: 42
 markup:
   goldmark:
     parser:
