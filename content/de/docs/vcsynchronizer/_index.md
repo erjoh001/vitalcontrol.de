@@ -1,7 +1,8 @@
 ---
-title: Tutorials
-description: Show your user how to work through some end to end examples.
-date: 2017-01-04
+title: VCSynchronizer
+linkTitle: VCSynchronizer
+description: Software zur Datensynchronisation zwischen VitalControl and Softwareprogrammen von Drittanbietern.
+date: 2023-07-19
 weight: 8
 ---
 

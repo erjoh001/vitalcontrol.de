@@ -1,10 +1,11 @@
 
 ---
-title: "Innsiden av monografer: Hvordan virker det?"
-linkTitle: "Innsiden av monografer"
-date: 2017-01-06
+title: Data export
+linkTitle: Data export
+date: 2023-07-19
+weight: 20
 description: >
- En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+ Export amimal data and measurement values from VitalControl fevice into a CVS file
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).

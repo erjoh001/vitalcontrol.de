@@ -1,9 +1,10 @@
 ---
-title: Multi-Bear Domicile Setup
+title: Export von Tierdaten und Messwerten
+linkTitle: Datenexport
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-date: 2017-01-05
-weight: 4
+  Tierdaten und Messwerte auf dem VitalControl in eine CVS-Datei exportieren
+date: 2023-07-19
+weight: 20
 ---
 
 {{% pageinfo %}}

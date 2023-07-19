@@ -1,10 +1,11 @@
 
 ---
-title: "Matten til rekursjon: Drivverket"
-linkTitle: "Matten til rekursjon"
-date: 2017-01-07
+title: Installation
+linkTitle: Installation
+date: 2023-07-19
+weight: 10
 description: >
- En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+  How to install VCSynchronizer software on your Windows PC
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
