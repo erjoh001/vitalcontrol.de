@@ -7,14 +7,14 @@ weight: 20
 description: >
   Bei einer Datenrücksicherung wird mittels einer Backup-Datei der gesamte Datenbestand des VitalControl-Geräts wiederhergestellt.
 ---
-{{% usb-drive/de "Um Daten auf ihrem ihr Gerät eine Datenrücksicherung durchzuführen," %}}
+{{% usb-drive/de "Um auf ihrem Gerät eine Datenrücksicherung durchzuführen," %}}
 
 Dieser Stick muss zwingend ein Verzeichnis `backup` enthalten, in dem sich eine gültige **Datensicherungsdatei `backup.vcu`** befindet.
 
 ![USB-Stick mit Datensicherungsdatei VitalControl](../images/backup-datei.png)
 
-{{% alert title="ACHTUNG" %}}
-Sollten sich im Verzeichnis `backup` ihres USB-Sticks mehrere Sicherungsdateien mit der Endung `.vcu` befinden, so achten Sie unbedingt darauf, dass die die neueste Datei zurücksichern. Das VitalControl-Gerät verwendet für die Rücksicherung immer die Datei mit dem Namen `backup.vcu`, Sicherungsdateien mit dem Sicherungsdatum im Dateinamen werden **nicht** berücksichtigt! Ggf. müssen sie vor der Rücksicherung ihre jüngste vorliegende Sicherungsdatei nach `backup.vcu` umbenennen!
+{{% alert title="HINWEIS" %}}
+Im Verzeichnis `backup` ihres USB-Sticks können sich mehrere Sicherungsdateien mit der Endung `.vcu` befinden. Das VitalControl-Gerät verwendet für die Rücksicherung immer die Datei mit dem Namen `backup.vcu`, dies ist immer auch die neueste Datei. Wollen Sie eine ältere Sicherungsdateien (mit dem Sicherungsdatum im Dateinamen) zurückspielen, so müssen Sie diese ältere Sicherungsdatei vor der Rücksicherung nach `backup.vcu` umbenennen!
 {{% /alert %}}
 
 ## Daten aufs VitalControl zurücksichern

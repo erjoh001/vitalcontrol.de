@@ -7,7 +7,6 @@ weight: 10
 description: >
   Mittels einer Datensicherung wird eine Backup-Datei erzeugt, welche den gesamten Datenbestand des VitalControl-Geräts enthält.
 ---
-
 {{% usb-drive/de "Um für ihr Gerät eine Datensicherung durchzuführen," %}}
 
 ## Datensicherung durchführen
@@ -31,7 +30,7 @@ description: >
    ![USB-Stick mit Datensicherungsdatei VitalControl](../images/backup-datei.png)
 
    {{% alert title="Hinweis" %}}
-  Ist im Verzeichnis `backup` ihres USB-Stick bereits eine Datei `backup.vcu` vorhanden, so wird diese **nicht** überschrieben. Vielmehr wird der Dateiname der neu erstellten Datei um das Datum und die Uhrzeit zum Zeitpunkt der Sicherung erweitert (z. B. `backup_2023-07-17_12-50-37.vcb`).
+  Ist im Verzeichnis `backup` ihres USB-Stick bereits eine Datei `backup.vcu` vorhanden, so wird diese Datei umbenannt. Der neue Name der Datei setzt sich zusammen aus der führenden Zeichenkette `backup` und dem Datum und der Uhrzeit, an dem die Sicherungsdatei erstellt wurde (z. B. `backup_2023-07-17_12-50-37.vcb`). Die neu erstellte Datei trägt immer den Namen `backup.vcu`.
    {{% /alert %}}
 
 6. Die erstellte Backup-Datei kann ggf. zur [Wiederherstellung](../restore) des gesicherten Datenbestands auf einem beliebigen VitalControl-Gerät genutzt werden.

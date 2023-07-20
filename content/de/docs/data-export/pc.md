@@ -7,3 +7,6 @@ date: 2023-07-20
 weight: 20
 manualLink: /docs/vcsynchronizer/data-export/
 ---
+<script>
+  window.location.href = "/docs/vcsynchronizer/data-export/";
+</script>
