@@ -1,11 +1,10 @@
-
 ---
 title: Data export
 linkTitle: Data export
 date: 2023-07-19
 weight: 20
 description: >
- Export amimal data and measurement values from VitalControl fevice into a CVS file
+ Export animal data and measurement values from VitalControl device into a CVS file
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
