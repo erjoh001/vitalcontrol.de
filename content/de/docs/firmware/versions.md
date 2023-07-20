@@ -21,7 +21,7 @@ description: >
 Die folgende Tabelle listet die aktuellen Firmware-Versionen auf:
 
 |                 | GUI-Firmware | Middleware  | Bootloader |
-|-----------------|--------------|-------------|------------|
+|-----------------|:------------:|:-----------:|:----------:|
 | **Version**     | 0.9.9        | 0.9.9       | 1.0.4      |
 | **Datum**       | 07.07.2023   | 07.07.2023  | 03.05.2023 |
 | **Commit Hash** | aa177e1a     | 8e40109     | d3d2a3d    |

@@ -17,11 +17,11 @@ To install the update on your device, you need a dual USB flash drive (2-in-1 US
 
 1. Insert your USB flash drive into the USB connector of your computer. Then create a new directory named 'update' in the root directory of your flash drive.
 
-    ![Windows Explorer: USB flash drive with directory 'update'](images/create-folder-update.png)
+    ![Windows Explorer: USB flash drive with directory 'update'](../images/create-folder-update.png)
 
 2. Download the [firmware file](/download/firmware.vcu) (file name: `firmware.vcu`) and store it in the previously created directory `update` of your USB flash drive. The update file requires approx. 2.5 MB of storage space on the flash drive.
 
-    ![Windows Explorer: flash drive with firmware file 'firmware.vcu'](images/save-firmware-file.png)
+    ![Windows Explorer: flash drive with firmware file 'firmware.vcu'](../images/save-firmware-file.png)
 
 ## Perform firmware update
 
@@ -29,15 +29,14 @@ To install the update on your device, you need a dual USB flash drive (2-in-1 US
 
 2. Invoke the submenu `Service`, select the menu item `Firmware update` and confirm with `OK`. You are now asked to insert the USB flash drive you prepared already:
 
-    ![VitalControl: Menüfolge Aktualisierung Firmware](images/firmware-update.png)
+    ![VitalControl: Menüfolge Aktualisierung Firmware](../images/firmware-update.png)
 
 3. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `OK`.
 
     ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg)
 
+   The device performs the update automatically. During the update, the display informs you about the progress of the update. After the update is completed, the device restarts automatically and displays a success message after the restart:
 
-The device performs the update automatically. During the update, the display informs you about the progress of the update. After the update is completed, the device restarts automatically and displays a success message after the restart:
+   ![VitalControl: Success message firmware update](../images/update-success.png)
 
-![VitalControl: Success message firmware update](images/update-success.png)
-
-The new firmware is now installed on your device.
+   The new firmware is now installed on your device.
