@@ -7,11 +7,7 @@ description: >
 ---
 Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version](../versions/) vorhanden ist, und aktualisieren Sie ggf. die Firmware Ihres Gerätes gemäß der folgenden Anleitung.
 
-## Benötigtes Zubehör
-
-Um das Update auf Ihr Gerät aufzuspielen, benötigen Sie einen Dual USB-Stick (2-in-1 USB-Stick) Type-C/USB 3.0 mit einem USB C-Stecker und einem USB-A-Stecker. Ein solcher Dual USB-Stick ist im Lieferumfang des Geräts mit enthalten. Ggf. ist solch ein USB-Sticks auch im Handel erhältlich.
-
-![Dual USB-Stick (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg)
+{{% usb-drive/de "Um das Update auf Ihr Gerät aufzuspielen" %}}
 
 ## Aktualisierung vorbereiten
 
@@ -25,7 +21,7 @@ Um das Update auf Ihr Gerät aufzuspielen, benötigen Sie einen Dual USB-Stick (
 
 ## Aktualisierung durchführen
 
-1. Öffnen Sie über den Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
+1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
 
 2. Wechseln Sie ins Untermenü `Service`, wählen Sie dort den Eintrag `Aktualisierung Firmware` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, den USB-Stick einzustecken.
 

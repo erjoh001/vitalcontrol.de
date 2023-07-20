@@ -5,5 +5,5 @@ date: 2023-07-20
 weight: 20
 description: >
   Export CVS files with animal data and measured values of the VitalControl device to the mass storage of a computer.
-manualLink: ../../vcsynchronizer/data-export/
+manualLink: /en/docs/vcsynchronizer/data-export/
 ---

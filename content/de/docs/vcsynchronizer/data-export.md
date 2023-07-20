@@ -6,7 +6,7 @@ description: >
 date: 2023-07-19
 weight: 20
 ---
-Gehen Sie wie folgt vor, um Daten vom VitalControl zu exportieren:
+Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihres PCs zu exportieren:
 
 1. [Verbinden](#) Sie das VitalControl-Gerät via USB-Kabel mit ihrem Computer und stellen Sie sicher, das das VitalControl-Gerät eingeschaltet ist.
 
