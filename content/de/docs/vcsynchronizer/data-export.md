@@ -2,7 +2,7 @@
 title: Export von Tierdaten und Messwerten
 linkTitle: Datenexport
 description: >
-  Tierdaten und Messwerte auf dem VitalControl in eine CVS-Datei exportieren
+  Tierdaten und Messwerte auf dem VitalControl in mehrere CVS-Dateien exportieren
 date: 2023-07-19
 weight: 20
 ---
@@ -22,27 +22,15 @@ Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihre
 
 1. Klicken Sie jetzt auf den Menüeintrag `Datenexport (CVS)`.
 
-   ![dd](../images/data-export.png)
+   ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../images/data-export.png "Windows Startmenü, VitalControl")
    
-1. Der Exportvorgang wird gestartet. Nach dem Ende des Exportvorgangs öffnet sich ein Windows-Explorer Fenster, mit dem Datenverzeichnis `data`.
+1. Der Exportvorgang wird gestartet. Nach dem Ende des Exportvorgangs öffnet sich ein Windows-Explorer Fenster, in dem das Datenverzeichnis angezeigt wird. In dem angezeigten Verzeichnis `data` befinden sich die vier neu erstellten [Exportdateien](../../data-export/data-files/).
 
-   ![dd](../images/data-export/exportdateien.png)
-
-1. in dem  Datenverzeichnis finden sich 4 Dateien im CSV-Format, welche.
-
-Die folgende Tabelle listet die aktuellen Firmware-Versionen auf:
-
-|                 | animals.csv  | temperatures.csv | weights.csv | ratings.csv | 
-|-----------------|:--------------:|:-------------:|:------------:|:------------:|
-| **Inhalt der Tabelle**     | Tierdaten        | Temperaturen      | Tiergewichte      | Bewertungen  |
-| **Spaltenanzahl**       | 6   |   | 5 | 8 |
-| **Spalte 1** | : `National-Animal-ID`: VVO-Nummer des Tieres : ||||
-| **Commit №**    | 1884         | n/a         | n/a        |------------|
-
+   ![Lokales Datenverzeichnis mit Exportdateien](../images/data-export/exportdateien.png "Exportdataien, lokal gespeichert")
 
    {{% alert title="Hinweis" %}}
-  Sie können jede dieser 4 Tabellen in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel]() oder [Openoffice Calc]() öffnen und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einer Tabellenkalkulation wiedergegeben.
+  Sie können jede dieser 4 [Exportdateien](../../data-export/data-files/) in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [Openoffice Calc](https://www.openoffice.org/de/) öffnen und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einer Tabellenkalkulation wiedergegeben.
 
-  ![dd](/images/data-export/animals.png)
+  ![Exportierte Tierdaten, geöffnet in Tabellenkalkulationsprogramm](/images/data-export/animals.png "Tabellenkalkulationsprogramm mit Tierdaten")
    {{% /alert %}}
 
