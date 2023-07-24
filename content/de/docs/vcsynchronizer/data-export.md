@@ -29,7 +29,7 @@ Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihre
    ![Lokales Datenverzeichnis mit Exportdateien](../images/data-export/exportdateien.png "Exportdataien, lokal gespeichert")
 
    {{% alert title="Hinweis" %}}
-  Sie können jede dieser 4 [Exportdateien](../../data-export/data-files/) in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [Openoffice Calc](https://www.openoffice.org/de/) öffnen und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einer Tabellenkalkulation wiedergegeben.
+  Sie können jede dieser 4 [Exportdateien](../../data-export/data-files/) in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [Openoffice Calc](https://www.openoffice.org/de/) und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einem Tabellenkalkulationsprogramm wiedergegeben.
 
   ![Exportierte Tierdaten, geöffnet in Tabellenkalkulationsprogramm](/images/data-export/animals.png "Tabellenkalkulationsprogramm mit Tierdaten")
    {{% /alert %}}
