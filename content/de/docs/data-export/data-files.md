@@ -6,7 +6,6 @@ description: >
 date: 2023-07-20
 weight: 30
 ---
-
 ## Allgemeines
 
 Beim Export von Tierdaten, unabhängig ob auf den [USB-Stick][] oder auf einen [lokalen Datenträger am PC][], werden jeweils vier Exportdateien erzeugt:
@@ -94,11 +93,11 @@ Die folgende Tabelle listet die einzelnen Spalten der Tabelle mit den Körpertem
 | 2 | `Farm-ID-Animal`      | Stallnummer des gemessenen Tieres       | 2- bis 6-stellig, oft zugleich auch Halsbandnummer |
 | 3 | `Date`                | Datum der Temperaturmessung             | Format: `JJJJ-MM-TT` (`Jahr-Monat-Tag`)            |
 | 4 | `Time`                | Uhrzeit der Temperaturmessung           | Format: `HH-MM-SS` (`Stunde:Minute:Sekunde`)       |
-| 5 | `Temperature-Celsius` | Gemessener Temperaturwert               | Einheit: Grad Celsius                              |
+| 5 | `Temperature-Celsius` | Gemessener Temperaturwert               | Einheit: `Grad Celsius`                              |
 
 Ggf. können Sie auch die bereit gestellte Beispieldatei [temperatures.csv][] herunterladen. Untenstehende Abbildung zeigt diese Datei geöffnet in einem Tabellenkalkulationsprogramm.
 
-![Datei mit Körpertemperaturwerten, geöffnet in Tabellenkalkulationsprogramm](../images/temperaturen.png "Tabelle Tierbewertungen")
+![Datei mit Körpertemperaturwerten, geöffnet in Tabellenkalkulationsprogramm](../images/temperaturen.png "Tabelle Temperaturwerte")
 
 [temperatures.csv]: /data-export/temperatures.csv
 
@@ -126,7 +125,7 @@ Die folgende Tabelle listet die einzelnen Spalten der Gewichtstabelle auf und be
 | 2 | `Farm-ID-Animal`      | Stallnummer des gewogenen Tieres        | 2- bis 6-stellig, oft zugleich auch Halsbandnummer |
 | 3 | `Date`                | Datum der Wägung                        | Format: `JJJJ-MM-TT` (`Jahr-Monat-Tag`)            |
 | 4 | `Time`                | Uhrzeit der Wägung                      | Format: `HH-MM-SS` (`Stunde:Minute:Sekunde`)       |
-| 5 | `Weight-Kg`           | Tiergewicht                             | Einheit: Kilogramm                                 |
+| 5 | `Weight-Kg`           | Tiergewicht                             | Einheit: `Kilogramm`                               |
 
 Ggf. können Sie auch die bereit gestellte Beispieldatei [weights.csv][] herunterladen. Untenstehende Abbildung zeigt diese Datei geöffnet in einem Tabellenkalkulationsprogramm.
 
@@ -140,7 +139,7 @@ Ggf. können Sie auch die bereit gestellte Beispieldatei [weights.csv][] herunte
 - **Beschreibung:** Tierbewertungen, erhalten durch visuelle Inspektion von Tieren
 - **Spaltenzahl:** 8
 
-Jede Zeile der Tabelle mit den Tierbewertungen repräsentiert jeweils eine mit dem VitalControl bei einem Tier durchgeführte Körpertemperaturmessung. Eine beispielhafte Tabelle mit Tierbewertungen hat damit folgendes Aussehen:
+Jede Zeile der Tabelle mit den Tierbewertungen repräsentiert jeweils eine mit dem VitalControl bei einem Tier durchgeführte Bewertung. Eine beispielhafte Tabelle mit Tierbewertungen hat dabei folgendes Aussehen:
 
 ```csv
 National-ID-Animal;Farm-ID-Animal;Date;Time;ScoreCondition;ScoreFeedIntake;ScoreScours;ScoreRespiratory
