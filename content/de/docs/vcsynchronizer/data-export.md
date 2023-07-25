@@ -5,6 +5,7 @@ description: >
   Tierdaten und Messwerte auf dem VitalControl in mehrere CVS-Dateien exportieren
 date: 2023-07-19
 weight: 20
+categories: [Datenexport]
 ---
 Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihres PCs zu exportieren:
 
@@ -22,15 +23,14 @@ Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihre
 
 1. Klicken Sie jetzt auf den Menüeintrag `Datenexport (CVS)`.
 
-   ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../images/data-export.png "Windows Startmenü, VitalControl")
+   ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../images/datenexport/datenexport.png "Windows Startmenü, VitalControl")
    
 1. Der Exportvorgang wird gestartet. Nach dem Ende des Exportvorgangs öffnet sich ein Windows-Explorer Fenster, in dem das Datenverzeichnis angezeigt wird. In dem angezeigten Verzeichnis `data` befinden sich die vier neu erstellten [Exportdateien](../../data-export/data-files/).
 
-   ![Lokales Datenverzeichnis mit Exportdateien](../images/data-export/exportdateien.png "Exportdataien, lokal gespeichert")
+   ![Lokales Datenverzeichnis mit Exportdateien](../images/datenexport/exportdateien.png "Exportdataien, lokal gespeichert")
 
    {{% alert title="Hinweis" %}}
-  Sie können jede dieser 4 [Exportdateien](../../data-export/data-files/) in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [Openoffice Calc](https://www.openoffice.org/de/) und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einem Tabellenkalkulationsprogramm wiedergegeben.
+  Sie können jede dieser 4 [Exportdateien](../../data-export/data-files/) in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [OpenOffice Calc](https://www.openoffice.org/de/) und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einem Tabellenkalkulationsprogramm wiedergegeben.
 
-  ![Exportierte Tierdaten, geöffnet in Tabellenkalkulationsprogramm](/images/data-export/animals.png "Tabellenkalkulationsprogramm mit Tierdaten")
+  ![Exportierte Tierdaten, geöffnet in Tabellenkalkulationsprogramm](../images/datenexport/animals.png "Tabellenkalkulationsprogramm mit Tierdaten")
    {{% /alert %}}
-

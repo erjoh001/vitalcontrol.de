@@ -5,6 +5,8 @@ description: >
   Beschreibung der Struktur und des Inhalts der beim Export erzeugten vier Datendateien
 date: 2023-07-20
 weight: 30
+categories: [Datenexport]
+tags: [Exportdateien, Temperaturwerte, Gewichtswerte, Tierbewertungen]  
 ---
 ## Allgemeines
 
@@ -27,7 +29,7 @@ Bei allen vier Dateien wird das [CSV](https://de.wikipedia.org/wiki/CSV_(Dateifo
 
 ## Weiterverarbeitung der Daten
 
-Sie können jede dieser 4 Exportdateien in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [Openoffice Calc](https://www.openoffice.org/de/)) und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einem Tabellenkalkulationsprogramm wiedergegeben.
+Sie können jede dieser 4 Exportdateien in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [OpenOffice Calc](https://www.openoffice.org/de/)) und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einem Tabellenkalkulationsprogramm wiedergegeben.
 
 ![Exportierte Tierdaten, geöffnet in Tabellenkalkulationsprogramm](../images/tiere.png "Tabellenkalkulationsprogramm mit Tierdaten")
 

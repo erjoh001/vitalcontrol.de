@@ -5,6 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Description of the structure and content of the four data files created during the export.
+categories: [Data export]
+tags: [export files, temperatures, weights, ratings]  
 ---
 ## General information
 
@@ -27,13 +29,13 @@ All four files are human readable [CSV](https://en.wikipedia.org/wiki/Comma-sepa
 
 ## Further processing of exported data
 
-You can open each of these 4 export files in a spreadsheet program of your choice (such as [Microsoft Excel](https://products.office.com/excel) or [Openoffice Calc](https://www.openoffice.org/)) and perform advanced analysis of the data there. As an example, the view of the table 'animals.csv' in a spreadsheet program is shown below:
+You can open each of these four export files in a spreadsheet program of your choice (such as [Microsoft Excel](https://products.office.com/excel) or [OpenOffice Calc](https://www.openoffice.org/)) and perform advanced analysis of the data there. As an example, the view of the table `animals.csv` in a spreadsheet program is shown below:
 
 ![Exported animal data, opened in a spreadsheet program](../images/animals.png "Animal data opened in spreadsheet program")
 
 ## Description of data files
 
-The following four sections describe each of the data files in detail:
+The following four sections describe each of the exported data files in detail:
 
 ### Animal data (`animals.csv`)
 
@@ -60,7 +62,7 @@ The following table lists and describes each column of the animal data table:
 | 3 | `Transponder-ID`     | Transponder number              | may be missing , may be identical with national animal ID |
 | 4 | `DateOfBirth`        | Date of birth                   | Format: `YYYY-MM-TT` (`Year-Month-Day`)                   |
 | 5 | `Sex`                | Sex                             | _Values:_ `M`: male, `F`: female, `?`: unknown            |
-| 6 | `BirthWeight-Kg`     | Birth weight                    | in kilogram, maybe not recorded / missing                 |
+| 6 | `BirthWeight-Kg`     | Birth weight                    | Unit: `kilogram`, maybe not recorded / missing                 |
 
 [ISO1174/85]: https://en.wikipedia.org/wiki/ISO_11784_and_ISO_11785
 
@@ -156,10 +158,10 @@ The following table lists and describes each column of the animal ratings table:
 | 2 | `Farm-ID-Animal`      | Management number of rated animal       | 2- to 6 digits, often equal to collar number    |
 | 3 | `Date`                | Date of rating                          | Format: `YYYY-MM-TT` (`Year-Month-Day`)         |
 | 4 | `Time`                | Time of rating                          | Format: `hh-mm-ss` (`hour:minute:second`)       |
-| 5 | `ScoreCondition`      | Rating of general condition             | _Ratings:_ `Red`, `Yellow`, `Green`, `None`)    |
-| 6 | `ScoreFeedIntake`     | Rating of feed intake                   | _Ratings:_ `Red`, `Yellow`, `Green`, `None`)    |
-| 7 | `ScoreScours`         | Rating of status concerning `Scours`    | _Ratings:_ `Red`, `Yellow`, `Green`, `None`)    |
-| 8 | `ScoreRespiratory`    | Rating of status `Respiratory diseases` | _Ratings:_ `Red`, `Yellow`, `Green`, `None`)    |
+| 5 | `ScoreCondition`      | Rating of general condition             | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
+| 6 | `ScoreFeedIntake`     | Rating of feed intake                   | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
+| 7 | `ScoreScours`         | Rating of status concerning `Scours`    | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
+| 8 | `ScoreRespiratory`    | Rating of status `Respiratory diseases` | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
 
 If necessary, you can also download the provided sample file [ratings.csv][]. The figure below shows this file opened in a spreadsheet program.
 

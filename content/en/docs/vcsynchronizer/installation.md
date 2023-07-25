@@ -16,18 +16,18 @@ description: >
 
 3. *New installation only:* a language selection window will open, leave the selection `English` as is and click `OK` to start the installation.
 
-   ![Installation VC-Synchronizer: Selection of language](../images/lang-select.png)
+   ![Installation VC-Synchronizer: Selection of language](../images/installation/lang-select.png)
 
 4. Click `Next` on the welcome screen of the installer. Then accept the given license terms.
 
-   ![Installation VC-Synchronizer: Welcome screen](../images/welcome.png) ![Installation VC-Synchronizer: License screen](../images/license.png)
+   ![Installation VC-Synchronizer: Welcome screen](../images/installation/welcome.png) ![Installation VC-Synchronizer: License screen](../images/installation/license.png)
 
 5. In the screen for component selection, leave options unchanged and press `Next`. On the next screen, leave the suggested destination folder unchanged and press `Install`.
 
-   ![Installation VC-Synchronizer: Selection of components to be installed](../images/components.png) ![Installation VC-Synchronizer: Selection of target directory](../images/install-dir.png)
+   ![Installation VC-Synchronizer: Selection of components to be installed](../images/installation/components.png) ![Installation VC-Synchronizer: Selection of target directory](../images/installation/install-dir.png)
 
 6. Click `Next` on the screen that informs you about installation success. On the final screen, press `Complete` without selecting any of the options offered`.
 
-   ![Installation VC-Synchronizer: Installation completed](../images/completed.png) ![Installation VC-Synchronizer: Final screen](../images/finish.png)
+   ![Installation VC-Synchronizer: Installation completed](../images/installation/completed.png) ![Installation VC-Synchronizer: Final screen](../images/installation/finish.png)
 
 7. `VCSynchronizer` software is now installed on your computer.
