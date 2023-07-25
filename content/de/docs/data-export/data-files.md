@@ -5,7 +5,7 @@ description: >
   Beschreibung der Struktur und des Inhalts der beim Export erzeugten vier Datendateien
 date: 2023-07-20
 weight: 30
-categories: [Datenexport]
+kategorien: [Datenexport]
 tags: [Exportdateien, Temperaturwerte, Gewichtswerte, Tierbewertungen]  
 ---
 ## Allgemeines

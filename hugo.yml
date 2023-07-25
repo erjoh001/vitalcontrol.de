@@ -13,7 +13,6 @@ enableRobotsTXT: true
 # Will give values to .Lastmod etc.
 enableGitInfo: true
 
-
 pygmentsCodeFences: true
 pygmentsUseClasses: false
 # Use the new Chroma Go highlighter in Hugo.
@@ -21,9 +20,6 @@ pygmentsUseClassic: false
 #pygmentsOptions: linenos=table
 # See https://help.farbox.com/pygments.html
 pygmentsStyle: tango
-
-# Comment out to enable taxonomies in Docsy
-# disableKinds: ["taxonomy", "taxonomyTerm"]
 
 menu:
   main:
@@ -33,13 +29,6 @@ menu:
   - name: Firmware
     url: /docs/firmware/
     weight: 43
-
-# You can add your own taxonomies
-taxonomies:
-  tag: tags
-  category: categories
-
-params:
 
 # Configure how URLs look like per section.
 permalinks:
@@ -62,14 +51,19 @@ languages:
   de:
     languageName: Deutsch
     # Weight used for sorting.
-    weight: 1
+    weight: 10
+    taxonomies:
+      tag: tags
+      kategorie: kategorien
     params:
       title: Urban VitalControl
       description: Gesundheitsmanagement 2.0
+      copyright: Urban GmbH & Co.KG
+      privacy_policy: https://www.urbanonline.de/datenschutz
       taxonomy:
         # set taxonomyCloud: [] to hide taxonomy clouds
         taxonomyCloud:
-          - categories
+          - kategorien
           - tags
         # If used, must have same length as taxonomyCloud
         taxonomyCloudTitle:
@@ -77,17 +71,21 @@ languages:
           - "Tags"
         # set taxonomyPageHeader: [] to hide taxonomies on the page headers
         taxonomyPageHeader:
+          - kategorien
           - tags
-          - categories
-
   en:
     languageName: English
     contentDir: content/en
+    weight: 20
+    taxonomies:
+      tag: tags
+      category: categories
     params:
       title: Urban VitalControl
       description: Health management 2.0
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
+      copyright: Urban GmbH & Co.KG
       privacy_policy: https://www.urbanonline.de/en/privacy-policy
       taxonomy:
         # set taxonomyCloud: [] to hide taxonomy clouds
@@ -100,8 +98,8 @@ languages:
           - "Tag cloud"
         # set taxonomyPageHeader: [] to hide taxonomies on the page headers
         taxonomyPageHeader:
-          - tags
           - categories
+          - tags
     menu:
       main:
       - name: 'Demo app'
@@ -133,8 +131,6 @@ outputs:
    - RSS
 
 params:
-  copyright: Urban GmbH & Co.KG
-  privacy_policy: https://www.urbanonline.de/datenschutz
 
 # First one is picked as the Twitter card image if not set on page.
 # images: ["images/project-illustration.png"]
@@ -246,7 +242,7 @@ params:
 
 module:
   # uncomment line below for temporary local development of module
-  # replacements: github.com/google/docsy -> ../../docsy
+  workspace: hugo.work
   mounts:
     - source: static/demo
       target: static/en/demo

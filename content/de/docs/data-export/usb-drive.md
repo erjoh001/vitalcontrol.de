@@ -5,6 +5,7 @@ description: >
   CVS-Dateien mit Tierdaten und Messwerten des VitalControl-Geräts auf einen USB-Stick exportieren
 date: 2023-07-20
 weight: 10
+kategorien: [Datenexport]
 ---
 {{% usb-drive/de "Um mit ihrem Gerät einen Datenexport auf USB-Stick durchzuführen," %}}
 
