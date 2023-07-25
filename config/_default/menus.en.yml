@@ -1,0 +1,7 @@
+main:
+  - name: 'Demo app'
+    url: /en/demo/
+    weight: 42
+  - name: 'Firmware'
+    url: /en/docs/firmware/
+    weight: 42

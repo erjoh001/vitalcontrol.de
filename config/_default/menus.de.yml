@@ -1,0 +1,8 @@
+main:
+  - name: Demonstrator
+    url: /demo/
+    weight: 42
+  - name: Firmware
+    url: /docs/firmware/
+    weight: 43
+

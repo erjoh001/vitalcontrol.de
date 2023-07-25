@@ -1,0 +1,17 @@
+title: Urban VitalControl
+description: Gesundheitsmanagement 2.0
+copyright: Urban GmbH & Co.KG
+privacy_policy: https://www.urbanonline.de/datenschutz
+taxonomy:
+  # set taxonomyCloud: [] to hide taxonomy clouds
+  taxonomyCloud:
+    - kategorien
+    - tags
+  # If used, must have same length as taxonomyCloud
+  taxonomyCloudTitle:
+    - "Kategorien"
+    - "Tags"
+  # set taxonomyPageHeader: [] to hide taxonomies on the page headers
+  taxonomyPageHeader:
+    - kategorien
+    - tags
