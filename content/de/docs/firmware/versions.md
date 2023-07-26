@@ -4,6 +4,7 @@ linkTitle: "Aktuelle Versionen"
 date: 2023-07-18T12:31:38+02:00
 draft: false
 weight: 10
+slug: versionen
 description: >
   Zusammenstellung der aktuellen Firmware-Versionen für das VitalControl Gerät.
 ---
