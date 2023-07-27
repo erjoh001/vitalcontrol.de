@@ -65,6 +65,51 @@ module:
     - source: static/demo
       target: static/en/demo
       lang: en
+    - source: static/demo
+      target: static/bs/demo
+      lang: bs
+    - source: static/demo
+      target: static/bg/demo
+      lang: bg
+    - source: static/demo
+      target: static/cs/demo
+      lang: cs
+    - source: static/demo
+      target: static/el/demo
+      lang: el
+    - source: static/demo
+      target: static/es/demo
+      lang: es
+    - source: static/demo
+      target: static/et/demo
+      lang: et
+    - source: static/demo
+      target: static/fi/demo
+      lang: fi
+    - source: static/demo
+      target: static/fr/demo
+      lang: fr
+    - source: static/demo
+      target: static/gr/demo
+      lang: gr
+    - source: static/demo
+      target: static/nl/demo
+      lang: nl
+    - source: static/demo
+      target: static/no/demo
+      lang: no
+    - source: static/demo
+      target: static/ru/demo
+      lang: ru
+    - source: static/demo
+      target: static/tr/demo
+      lang: tr
+    - source: static/demo
+      target: static/uk/demo
+      lang: uk
+    - source: static/demo
+      target: static/zh/demo
+      lang: zh
     - source: static
       target: static
   hugoVersion:
