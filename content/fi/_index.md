@@ -7,5 +7,5 @@ _build:
   _build:
     list: false
     render: true
-title: Demo
+title: Demo VitalControl
 ---

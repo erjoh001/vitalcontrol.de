@@ -1,5 +1,5 @@
 ---
-title: Demo application VitalControl
+title: Demo application VitalControl - Czech
 type: "docs"
 ---
 {{< demo lang="cs" >}}
