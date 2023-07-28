@@ -1,0 +1,7 @@
+main:
+  - name: Αρχική σελίδα VitalControl (στα αγγλικά)
+    url: ../en/
+    weight: 10
+  - name: Τεκμηρίωση (στα αγγλικά)
+    url: ../en/docs/
+    weight: 20

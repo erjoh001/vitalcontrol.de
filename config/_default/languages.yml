@@ -36,6 +36,7 @@ el:
 es:
   languageName: Español
   contentDir: content/es
+  title: Urban GmbH
   weight: 60
 fi:
   languageName: Suomalainen

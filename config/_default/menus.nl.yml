@@ -1,0 +1,7 @@
+main:
+  - name: Honepage VitalControl (in het Engels)
+    url: ../en/
+    weight: 10
+  - name: Documentatie (in het Engels)
+    url: ../en/docs/
+    weight: 20
