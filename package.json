@@ -1,12 +1,14 @@
 {
-  "name": "docsy-example-site",
-  "version": "0.7.1",
-  "description": "Example site that uses Docsy theme for technical documentation.",
-  "repository": "github:google/docsy-example",
-  "homepage": "https://example.docsy.dev",
-  "author": "Docsy Authors",
-  "license": "Apache-2.0",
-  "bugs": "https://github.com/google/docsy-example/issues",
+  "name": "VitalControl Web site",
+  "version": "0.1.0",
+  "description": "Home page, user manual and documentation site for VitalControl device.",
+  "repository": "https://git.urbanonline.de/vitalcontrol.de",
+  "homepage": "https://www.vitalcontrol.de",
+  "author": "Andreas Deininger, Urban GmbH",
+  "license": "See file 'AGB_URBAN_DE.rtf'",
+  "bugs": {
+    "email": "adeininger@urbanonline.de"
+  },
   "spelling": "cSpell:ignore HTMLTEST precheck postbuild -",
   "scripts": {
     "_build": "npm run _hugo-dev",
@@ -32,7 +34,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
-    "hugo-extended": "0.113.0",
+    "hugo-extended": "0.115.4",
     "postcss-cli": "^10.1.0"
   }
 }
