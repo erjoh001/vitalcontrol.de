@@ -4,30 +4,30 @@ linkTitle: Language
 date: 2023-07-28T13:25:28+02:00
 draft: false
 description: >
-  Legen Sie die Sprache für die Benutzerführung auf ihrem VitalControl-Gerät fest.
-Kategorien: [Einstellungen]
-Tags: [Einstellungen, Sprache]
+  Set and permanently store the language of the user interface on your VitalControl device.
+Kategorien: [Settings]
+Tags: [Settings, Language]
 ---
-## Sprache festlegen
+## Setting your language
 
-Um erfolgreich einen [Import ihres Tierbestands] aus der HI-Tier-Datenbank durchführen zu können, müssen Sie einmalig ihre zehnstellige Betriebsnummer eingeben und abspeichern. Gehen Sie hierfür wie folgt vor:
+To set the language of your VitalCOntrol device, proceed as follows:
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Einstellungen` und drücken Sie die Taste `OK`.
+1. `Select` the menu item `Settings` in the main screen of your VitalControl device and press `OK`.
 
-2. Es öffnet sich ein Untermenü in dem zuoberst die aktuelle Sprache angezeigt wird. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Sprache auszuwählen. Die Sprache der Benutzerführung ändert sich jeweils sofort bei der Wahl einer anderen Sprache.
+1. A submenu opens up, presenting the current language at the top. Use the arrow keys ◁ ▷ to select the desired language. The language of the user guidance changes on the fly as you select another language.
 
-   ![VitalControl: Menüfolge Einstellung Sprache](../bilder/sprachwahl.png "Sprache einstellen")
+   ![VitalControl: Menu path Language settings](../images/select-lang.png "Setting your language")
 
-3. Drücken sie zweimal die linke obere `T`aste `F1`, um zurück ins Hauptmenü zu gelangen. Die Sprache auf ihrem Gerät ist jetzt eingestellt und gespeichert.
+1. Press the upper left key `F1` twice to return to the main menu.
 
-[Import ihres Tierbestands]: {{< relref "../vcsynchronizer/animal-import/" >}}
+The language on your VitalControl device is now set and permanently stored.
 
 ## Available languages
 
-Für folgende Sprachen sind Übersetzungen im VitalControl-Gerät hinterlegt:
+VitalControl firmware holds translations for the following languages:
 
 - German (DE)
-- Englisch (EN)
+- English (EN)
 - Bulgarian (BG)
 - Bosnian (BS)
 - Chinese (Taiwan)  (ZH-TW)
@@ -43,49 +43,49 @@ Für folgende Sprachen sind Übersetzungen im VitalControl-Gerät hinterlegt:
 - Turkish (TR)
 - Ukrainian (UK)
 
-## Hauptmenü in den verfügbaren Sprachen
+## Main menu in all available languages
 
 {{< tabpane text=true right=false >}}
-  {{% tab header="Deutsch" lang="de" %}}
-[![VitalControl: Hauptmenü bei deutscher Sprachwahl](../bilder/deutsch.png "Hauptmenü - Deutsch")](/demo/ "Demonstrator VitalControl (DE)")
+  {{% tab header="German" lang="de" %}}
+[![VitalControl: Main menu with German language selected](/images/homescreen/german.png "Main menu German")](/demo/ "Demo app VitalControl (DE)")
   {{% /tab %}}
-  {{% tab header="Englisch" lang="en" %}}
-[![VitalControl: Hauptmenü bei englischer Sprachwahl](../bilder/englisch.png "Hauptmenü - Englisch")](/en/demo/ "Demonstrator VitalControl (EN)")
+  {{% tab header="English" lang="en" %}}
+[![VitalControl: Main menu with English language selected](/images/homescreen/english.png "Main menu English")](/en/demo/ "Demo app VitalControl (EN)")
   {{% /tab %}}
-  {{% tab header="Bulgarisch" lang="bg" %}}
-[![VitalControl: Hauptmenü bei bulgarischer Sprachwahl](../bilder/bulgarisch.png "Hauptmenü - Bulgarisch")](/bg/demo/ "Demonstrator VitalControl (BG)")
+  {{% tab header="Bulgarian" lang="bg" %}}
+[![VitalControl: Main menu with Bulgarian language selected](/images/homescreen/bulgarian.png "Main menu Bulgarian")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
-  {{% tab header="Bosnisch" lang="bs" %}}
-[![VitalControl: Hauptmenü bei bosnischer Sprachwahl](../bilder/bosnisch.png "Hauptmenü - Bosnisch")](/bs/demo/ "Demonstrator VitalControl (BS)")
+  {{% tab header="Bosnian" lang="bs" %}}
+[![VitalControl: Main menu with Bosnian language selected](/images/homescreen/bosnian.png "Main menu Bosnian")](/bs/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
-  {{% tab header="Estnisch" lang="et" %}}
-[![VitalControl: Hauptmenü bei estnischer Sprachwahl](../bilder/estnisch.png "Hauptmenü - Estnisch")](/et/demo/ "Demonstrator VitalControl (ET)")
+  {{% tab header="Estonian" lang="et" %}}
+[![VitalControl: Main menu with Estonian language selected](/images/homescreen/estonian.png "Main menu Estonian")](/et/demo/ "Demo app VitalControl (ET)")
   {{% /tab %}}
-  {{% tab header="Französisch" lang="fr" %}}
-[![VitalControl: Hauptmenü bei französischer Sprachwahl](../bilder/franzoesisch.png "Hauptmenü - Französisch")](/fr/demo/ "Demonstrator VitalControl (FR)")
+  {{% tab header="French" lang="fr" %}}
+[![VitalControl: Main menu with French language selected](/images/homescreen/french.png "Main menu French")](/fr/demo/ "Demo app VitalControl (FR)")
   {{% /tab %}}
-  {{% tab header="Griechisch" lang="el" %}}
-[![VitalControl: Hauptmenü bei griechischer Sprachwahl](../bilder/griechisch.png "Hauptmenü - Griechisch")](/el/demo/ "Demonstrator VitalControl (EL)")
+  {{% tab header="Greek" lang="el" %}}
+[![VitalControl: Main menu with Greek language selected](/images/homescreen/greek.png "Main menu Greek")](/el/demo/ "Demo app VitalControl (EL)")
   {{% /tab %}}
-  {{% tab header="Niederländisch" lang="nl" %}}
-[![VitalControl: Hauptmenü bei niederländischer Sprachwahl](../bilder/niederlaendisch.png "Hauptmenü - Niederländisch")](/nl/demo/ "Demonstrator VitalControl (NL)")
+  {{% tab header="Dutch" lang="nl" %}}
+[![VitalControl: Main menu with Dutch language selected](/images/homescreen/dutch.png "Main menu Dutch")](/nl/demo/ "Demo app VitalControl (NL)")
   {{% /tab %}}
-  {{% tab header="Norwegisch" lang="no" %}}
-[![VitalControl: Hauptmenü bei norwegischer Sprachwahl](../bilder/norwegisch.png "Hauptmenü - Norwegisch")](/no/demo/ "Demonstrator VitalControl (NO)")
+  {{% tab header="Norwegian" lang="no" %}}
+[![VitalControl: Main menu with Norwegian language selected](/images/homescreen/norwegian.png "Main menu Norwegian")](/no/demo/ "Demo app VitalControl (NO)")
   {{% /tab %}}
-  {{% tab header="Russisch" lang="ru" %}}
-[![VitalControl: Hauptmenü bei russischer Sprachwahl](../bilder/russisch.png "Hauptmenü - Russisch")](/ru/demo/ "Demonstrator VitalControl (RU)")
+  {{% tab header="Russian" lang="ru" %}}
+[![VitalControl: Main menu with Russian language selected](/images/homescreen/russian.png "Main menu Russian")](/ru/demo/ "Demo app VitalControl (RU)")
   {{% /tab %}}
-  {{% tab header="Spanisch" lang="es" %}}
-[![VitalControl: Hauptmenü bei spanischer Sprachwahl](../bilder/spanisch.png "Hauptmenü - Spanisch")](/es/demo/ "Demonstrator VitalControl (ES)")
+  {{% tab header="Spanish" lang="es" %}}
+[![VitalControl: Main menu with Spanish language selected](/images/homescreen/spanish.png "Main menu Spanish")](/es/demo/ "Demo app VitalControl (ES)")
   {{% /tab %}}
-  {{% tab header="Tschechisch" lang="cs" %}}
-[![VitalControl: Hauptmenü bei tschechischer Sprachwahl](../bilder/tschechisch.png "Hauptmenü - Tschechisch")](/cs/demo/ "Demonstrator VitalControl (CS)")
+  {{% tab header="Czech" lang="cs" %}}
+[![VitalControl: Main menu with Czech language selected](/images/homescreen/czech.png "Main menu Czech")](/cs/demo/ "Demo app VitalControl (CS)")
   {{% /tab %}}
-  {{% tab header="Türkisch" lang="tr" %}}
-[![VitalControl: Hauptmenü bei türkischer Sprachwahl](../bilder/tuerkisch.png "Hauptmenü - Türkisch")](/tr/demo/ "Demonstrator VitalControl (TR)")
+  {{% tab header="Turkish" lang="tr" %}}
+[![VitalControl: Main menu with Turkish language selected](/images/homescreen/turkish.png "Main menu Turkish")](/tr/demo/ "Demo app VitalControl (TR)")
   {{% /tab %}}
-  {{% tab header="Ukrainisch" lang="uk" %}}
-[![VitalControl: Hauptmenü bei ukrainischer Sprachwahl](../bilder/ukrainisch.png "Hauptmenü - Ukrainisch")](/uk/demo/ "Demonstrator VitalControl (UK)")
+  {{% tab header="Ukrainian" lang="uk" %}}
+[![VitalControl: Main menu with Ukrainian language selected](/images/homescreen/ukrainian.png "Main menu Ukrainian")](/uk/demo/ "Demo app VitalControl (UK)")
   {{% /tab %}}
 {{< /tabpane >}}
