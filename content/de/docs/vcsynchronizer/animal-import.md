@@ -6,8 +6,8 @@ draft: false
 weight: 30
 description: >
   Tierbestand komplett oder teilweise von HI-Tier Datenbank ins VitalControl importieren
-kategorien: ["Tierimport"]
-tags: [HI-Tier Import Tierbestand]
+kategorien: [Tierimport]
+tags: [HI-Tier, Import Tierbestand]
 slug: tierimport
 ---
 ## Import des Tierbestandes aus HI-Tier

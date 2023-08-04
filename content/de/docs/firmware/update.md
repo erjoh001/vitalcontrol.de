@@ -15,19 +15,27 @@ Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version
 
     ![Windows Explorer: USB-Stick mit Verzeichnis 'update'](../images/create-folder-update.png)
 
-2. Laden Sie die [Firmware-Datei](/download/firmware.vcu) (Dateiname: `firmware.vcu`) herunter und speichern Sie die Datei auf dem USB-Stick im Verzeichnis `update`. Die Update-Datei benötigt ca. 2 MB Speicherplatz auf dem Stick.
+1. Laden Sie die [Firmware-Datei](/download/firmware.vcu) (Dateiname: `firmware.vcu`) herunter und speichern Sie die Datei auf dem USB-Stick im Verzeichnis `update`. Die Update-Datei benötigt ca. 2 MB Speicherplatz auf dem Stick.
 
     ![Windows Explorer: USB-Stick mit Firmware-Datei 'firmware.vcu'](../images/save-firmware-file.png)
+
+1. Erstellen Sie ein [Datensicherung][] für ihr Gerät.
+
+    {{% alert title="Info" %}}
+Bei der Datensicherung handelt es sich um eine empfohlene Vorsichtsmaßnahme. Alle vorhandenen Tier- und Gerätedaten bleiben bei einer Aktualisierung der Firmware erhalten.
+    {{% /alert %}}
+
+[Datensicherung]: {{< relref "../backup/backup/" >}}
 
 ## Aktualisierung durchführen
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
 
-2. Wechseln Sie ins Untermenü `Service`, wählen Sie dort den Eintrag `Aktualisierung Firmware` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, den USB-Stick einzustecken.
+1. Wechseln Sie ins Untermenü `Service`, wählen Sie dort den Eintrag `Aktualisierung Firmware` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, den USB-Stick einzustecken.
 
    ![VitalControl: Menüfolge Aktualisierung Firmware](../images/firmware-update.png)
 
-3. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts und bestätigen Sie mit `OK`.
+1. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts und bestätigen Sie mit `OK`.
 
    ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg)
 

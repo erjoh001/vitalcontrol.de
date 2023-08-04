@@ -19,19 +19,27 @@ To install the update on your device, you need a dual USB flash drive (2-in-1 US
 
     ![Windows Explorer: USB flash drive with directory 'update'](../images/create-folder-update.png)
 
-2. Download the [firmware file](/download/firmware.vcu) (file name: `firmware.vcu`) and store it in the previously created directory `update` of your USB flash drive. The update file requires approx. 2.5 MB of storage space on the flash drive.
+1. Download the [firmware file](/download/firmware.vcu) (file name: `firmware.vcu`) and store it in the previously created directory `update` of your USB flash drive. The update file requires approx. 2.5 MB of storage space on the flash drive.
 
     ![Windows Explorer: flash drive with firmware file 'firmware.vcu'](../images/save-firmware-file.png)
+
+1. Create a [data backup][] on your device.
+
+    {{% alert title="Info" %}}
+The data backup is a recommended precautionary measure. All existing animal and device data will be preserved when updating the firmware of the VitalControl device.
+    {{% /alert %}}
+
+[data backup]: {{< relref "../backup/backup/" >}}
 
 ## Perform firmware update
 
 1. Open the menu item `Device` in the main screen of your VitalControl device.
 
-2. Invoke the submenu `Service`, select the menu item `Firmware update` and confirm with `OK`. You are now asked to insert the USB flash drive you prepared already:
+1. Invoke the submenu `Service`, select the menu item `Firmware update` and confirm with `OK`. You are now asked to insert the USB flash drive you prepared already:
 
     ![VitalControl: Menüfolge Aktualisierung Firmware](../images/firmware-update.png)
 
-3. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `OK`.
+1. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `OK`.
 
     ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg)
 
