@@ -20,4 +20,4 @@ Um erfolgreich einen [Import ihres Tierbestands] aus der HI-Tier-Datenbank durch
 
 3. Bestätigen sie mit `OK`, sobald Sie ihre Nummernfolge korrekt eingeben ist. Die Betriebsnummer ist jetzt auf dem Gerät gespeichert.
 
-[Import ihres Tierbestands]: {{< relref "../vcsynchronizer/animal-import/" >}}
+[Import ihres Tierbestands]: {{< relref "../data-link/hi-tier/animal-import/" >}}

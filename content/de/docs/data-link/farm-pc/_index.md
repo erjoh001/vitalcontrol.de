@@ -1,10 +1,10 @@
 ---
-title: Export von Tierdaten und Messwerten
-linkTitle: Datenexport
+title: Export von Tierdaten und Messwerten auf den Betriebs-PC
+linkTitle: Datenexport (PC)
 description: >
   Tierdaten und Messwerte auf dem VitalControl in mehrere CVS-Dateien exportieren
 date: 2023-07-19
-weight: 20
+weight: 15
 kategorien: [Datenexport]
 ---
 Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihres PCs zu exportieren:

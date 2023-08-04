@@ -1,8 +1,8 @@
 ---
-title: Export of animal and measurement data
-linkTitle: Data export
+title: Export of animal and measurement data to the farm management PC
+linkTitle: Data export (PC)
 date: 2023-07-19
-weight: 20
+weight: 15
 description: >
  Export animal data and measurement values from VitalControl device into several CVS files
 categories: [Data export]

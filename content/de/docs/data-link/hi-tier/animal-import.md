@@ -4,9 +4,10 @@ linkTitle: Tierimport
 date: 2023-07-19T10:32:21+02:00
 draft: false
 weight: 30
+translationKey: import-db-nais
 description: >
   Tierbestand komplett oder teilweise von HI-Tier Datenbank ins VitalControl importieren
-kategorien: [Tierimport]
+kategorien: [HI-Tier, Tierimport]
 tags: [HI-Tier, Import Tierbestand]
 slug: tierimport
 ---
@@ -16,7 +17,7 @@ Gehen Sie wie folgt vor, um ihren in der HI-Tier Datenbank hinterlegten Tierbest
 
 ### Nur beim ersten Import: Betriebsnummer am VitalControl eingeben 
 
-1. Vor dem ersten Datenimport müssen Sie einmalig am Vitalcontrol Ihre [Betriebsnummer eingeben]({{< relref "../settings/farm-number.md" >}}).
+1. Vor dem ersten Datenimport müssen Sie einmalig am VitalControl Ihre [Betriebsnummer eingeben]({{< relref "../../settings/farm-number.md" >}}).
 
   {{% alert title="Hinweis" %}}
 Die Betriebsnummer wird permanent in den Einstellungen des VitalControls gespeichert, daher kann dieser Schritt bei allen zukünftigen Tierimporten übersprungen werden.
@@ -58,7 +59,7 @@ Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht 
 
    ![DOS-Fenster, Import des Tierbestandes aus HI-Tier](../images/tierimport/ablauf-import.png "DOS-Fenster, Import Tierbestand")
 
-1. Das Programm stellt nun anhand der im VitalControl hinterlegten [Betriebsnummer]({{< relref "../settings/farm-number.md" >}}) die Verbindung zur HI-Tier Datenbank her. In diesem Zuge wird ihr ➄ **Passwort** bei HI-Tier abgefragt, tippen Sie dieses im Fenster ein.
+1. Das Programm stellt nun anhand der im VitalControl hinterlegten [Betriebsnummer]({{< relref "../../settings/farm-number.md" >}}) die Verbindung zur HI-Tier Datenbank her. In diesem Zuge wird ihr ➄ **Passwort** bei HI-Tier abgefragt, tippen Sie dieses im Fenster ein.
 
 1. Nach einer korrekten Passworteingabe werden die zu importierenden Tiere abgerufen und auf das VitalControl-Gerät übertragen.
 
