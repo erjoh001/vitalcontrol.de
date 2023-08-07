@@ -1,5 +1,6 @@
 ---
 title: Datensicherung
-weight: 10
+linkTitle: Datensicherung
+weight: 30
 description: Gesamten Datenbestand des VitalControl-Geräts sichern und auf einem anderen Gerät wiederherstellen
 ---

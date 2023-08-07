@@ -1,6 +1,6 @@
 ---
-title: "Data Backup and restore"
-linkTitle: "Data Backup"
+title: "Data backup and restore"
+linkTitle: "Data backup"
 date: 2023-07-20
 weight: 10
 description: >

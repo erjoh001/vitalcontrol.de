@@ -7,6 +7,7 @@ description: >
 date: 2023-07-26
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Betriebsnummer]
+translationKey: settings/farm-number
 ---
 ## Betriebsnummer festlegen
 

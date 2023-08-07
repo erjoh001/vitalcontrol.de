@@ -1,4 +1,4 @@
 ---
-title: Søkeresultat
+title: Search results
 layout: search
 ---

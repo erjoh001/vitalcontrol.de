@@ -8,6 +8,7 @@ description: >
   Legen Sie die Sprache für die Benutzerführung auf ihrem VitalControl-Gerät fest.
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Sprache]
+translationKey: settings/language
 ---
 ## Sprache festlegen
 

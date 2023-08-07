@@ -6,6 +6,7 @@ categories: [Settings]
 tags: [Settings, Farm number]
 description: >
   Permanently save your official twelve digit national farm ID on VitalControl device.
+translationKey: settings/farm-number
 ---
 {{< alert title="Attention" >}}
 Entering the farm number is currently of interest for German farmers only. Farmers from all other nationalities currently do **not** benefit from entering the farm ID. This may change with future [firmware versions]({{< relref "../firmware/versions/" >}}) of VitalControl.
