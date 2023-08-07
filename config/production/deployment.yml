@@ -1,0 +1,4 @@
+targets:
+  - name: aws
+    URL: 's3://www.vitalcontrol.de?region=eu-central-1'
+    cloudFrontDistributionID: E2RZ8TKM941HG2
