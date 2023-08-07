@@ -12,7 +12,7 @@ tags: [export files, temperatures, weights, ratings]
 
 When exporting animal data, regardless of whether to the [USB flash drive][] or to a local mass storage device [on the PC][], four export files are generated in each case:
 
-- [Animal data](#tierdaten-animalscsv) `(animals.csv)`
+- [Animal data][] `(animals.csv)`
 - [Body temperature data][] `(temperatures.csv)`
 - [Weight data][] `(weights.csv)`
 - [Animal ratings][] `(ratings.csv)`

@@ -12,7 +12,7 @@ tags: [Exportdateien, Temperaturwerte, Gewichtswerte, Tierbewertungen]
 
 Beim Export von Tierdaten, unabhängig ob auf den [USB-Stick][] oder auf einen [lokalen Datenträger am PC][], werden jeweils vier Exportdateien erzeugt:
 
-- [Tierdaten](#tierdaten-animalscsv) `(animals.csv)`
+- [Tierdaten][] `(animals.csv)`
 - [Körpertemperaturdaten][] `(temperatures.csv)`
 - [Gewichtsdaten][] `(weights.csv)`
 - [Tierbewertungen][] `(ratings.csv)`

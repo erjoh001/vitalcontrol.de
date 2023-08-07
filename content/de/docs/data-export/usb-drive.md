@@ -25,7 +25,7 @@ kategorien: [Datenexport]
 
    ![VitalControl: Erfolgsmeldung Datenexport](../images/erfolg-datenexport.png "Datenexport abgeschlossen")
 
-5. Der Datenexport ist damit abgeschlossen. Sie finden die erstellten vier [Exportdateien](../data-files/) im Verzeichnis `export-csv` auf ihrem USB-Stick. 
+5. Der Datenexport ist damit abgeschlossen. Sie finden die erstellten vier [Exportdateien](../data-files/) im Verzeichnis `export-csv` auf ihrem USB-Stick.
 
    ![USB-Stick mit Exportdateien VitalControl](../images/exportdateien.png "Exportdateien auf USB-Stick")
 

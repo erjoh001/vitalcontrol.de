@@ -9,7 +9,15 @@ categories: [Data export]
 ---
 Proceed as follows to export data from VitalControl to a mass storage device of your PC:
 
-1. [Connect](#) the VitalControl device to your computer via USB cable and make sure the VitalControl device is turned on.
+### Connect VitalControl to PC
+
+1. Connect the VitalControl device to your computer or laptop via the supplied USB cable.
+
+   ![Connect VitalControl to PC or laptop](/images/synchronisation/connect-to-pc.svg "Connect VitalControl to PC")
+
+1. Make sure your VitalControl device is turned on.
+
+### Perform data export
 
 1. Press the Windows key to open the Start menu
 

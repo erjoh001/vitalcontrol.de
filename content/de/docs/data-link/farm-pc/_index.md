@@ -9,7 +9,15 @@ kategorien: [Datenexport]
 ---
 Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihres PCs zu exportieren:
 
-1. [Verbinden](#) Sie das VitalControl-Gerät via USB-Kabel mit ihrem Computer und stellen Sie sicher, dass das VitalControl-Gerät eingeschaltet ist.
+### VitalControl mit dem PC verbinden
+
+1. Verbinden Sie das VitalControl-Gerät via des mitgelieferten USB-Kabels mit ihrem Computer oder Laptop.
+
+   ![VitalControl mit dem PC verbinden](/images/synchronisation/connect-to-pc.svg "VitalControl mit PC koppeln")
+
+1. Stellen Sie sicher, dass das VitalControl-Gerät eingeschaltet ist.
+
+### Datenexport durchführen
 
 1. Drücken Sie die Windows-Taste, um das Startmenü zu öffnen
 
@@ -24,7 +32,7 @@ Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihre
 1. Klicken Sie jetzt auf den Menüeintrag `Datenexport (CVS)`.
 
    ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../images/datenexport/datenexport.png "Windows Startmenü, VitalControl")
-   
+
 1. Der Exportvorgang wird gestartet. Nach dem Ende des Exportvorgangs öffnet sich ein Windows-Explorer Fenster, in dem das Datenverzeichnis angezeigt wird. In dem angezeigten Verzeichnis `data` befinden sich die vier neu erstellten [Exportdateien](../../data-export/data-files/).
 
    ![Lokales Datenverzeichnis mit Exportdateien](../images/datenexport/exportdateien.png "Exportdataien, lokal gespeichert")
