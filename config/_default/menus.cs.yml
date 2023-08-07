@@ -1,0 +1,7 @@
+main:
+  - name: Honepage VitalControl (in English)
+    url: ../en/
+    weight: 10
+  - name: Documentation (in English)
+    url: ../en/docs/
+    weight: 20

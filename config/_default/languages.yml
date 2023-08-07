@@ -1,0 +1,73 @@
+de:
+  languageName: Deutsch
+  languageCode: de-DE
+  # Weight used for sorting.
+  weight: 10
+  taxonomies:
+    tag: tags
+    kategorie: kategorien
+en:
+  languageName: English
+  contentDir: content/en
+  weight: 20
+  taxonomies:
+    tag: tags
+    category: categories
+bs:
+  languageName: Bosanski
+  contentDir: content/bs
+  weight: 30
+bg:
+  languageName: Български
+  contentDir: content/bg
+  weight: 35
+cs:
+  languageName: Čeština
+  contentDir: content/cs
+  weight: 40
+et:
+  languageName: Eesti
+  contentDir: content/et
+  weight: 50
+el:
+  languageName: Ελληνικά
+  contentDir: content/el
+  weight: 55
+es:
+  languageName: Español
+  contentDir: content/es
+  title: Urban GmbH
+  weight: 60
+fi:
+  languageName: Suomalainen
+  contentDir: content/fi
+  weight: 125
+fr:
+  languageName: French
+  contentDir: content/fr
+  weight: 80
+nl:
+  languageName: Nederlands
+  contentDir: content/nl
+  weight: 100
+no:
+  languageName: Norsk
+  contentDir: content/no
+  weight: 110
+ru:
+  languageName: Русский
+  contentDir: content/ru
+  weight: 120
+tr:
+  languageName: Türkçe
+  contentDir: content/tr
+  weight: 130
+uk:
+  languageName: Український
+  contentDir: content/uk
+  weight: 150
+zh:
+  languageName: 正體字/繁體字
+  languageCode: zh-TW
+  contentDir: content/zh
+  weight: 140

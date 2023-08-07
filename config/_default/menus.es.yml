@@ -1,0 +1,7 @@
+main:
+  - name: Página de inicio VitalControl (en inglés)
+    url: ../en/
+    weight: 10
+  - name: Documentación (en inglés)
+    url: ../en/docs/
+    weight: 20

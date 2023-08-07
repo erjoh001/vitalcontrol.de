@@ -1,0 +1,7 @@
+go 1.19
+
+use .
+
+// running docsy theme locally (troubleshooting)
+// uncomment line below for troubleshooting purposes
+// use ../docsy/
