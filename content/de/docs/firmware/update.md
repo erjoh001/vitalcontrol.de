@@ -4,6 +4,7 @@ linkTitle: Aktualisierung
 weight: 20
 description: >
   Mit einem Firmware-Update aktualisieren Sie die auf dem Gerät installierte Software.
+kategorien: [Firmware]  
 ---
 Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version](../versions/) vorhanden ist, und aktualisieren Sie ggf. die Firmware Ihres Gerätes gemäß der folgenden Anleitung.
 
