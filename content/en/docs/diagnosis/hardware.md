@@ -15,12 +15,12 @@ If there is a malfunction on your device, you should first perform a hardware ch
 
 1. Open the menu item `Device` in the main screen of your VitalControl device.
 
-1. Invoke the submenu `Service`, select the menu item `Firmware update` and confirm with `OK`.
+1. Invoke the submenu `Service`, select the menu item `Check device drivers` and confirm with `OK`.
 
 The device now lists all hardware components of the device, together with their status. Ideally, all components listed should show a green dot on the far right; this signals a functioning component. If a red dot is shown  for a component, this indicates that the corresponding component is defective. In this case, the device must be returned to the manufacturer for service.
 
    ![VitalControl: Menu path Check of hardware components](../images/device-check.png "Hardware check")
 
-{{% alert title="HINWEIS" %}}
+{{% alert title="NOTE" %}}
 If the status of all components is shown as as intact (green dots) and there is still a malfunction of the device, it may be a software defect. In this case, contact your local dealer or the manufacturer's [service hotline](https://www.urbanonline.de/en/contact).
 {{% /alert %}}
