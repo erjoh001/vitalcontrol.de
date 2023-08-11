@@ -35,7 +35,7 @@ Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihre
 
 1. Der Exportvorgang wird gestartet. Nach dem Ende des Exportvorgangs öffnet sich ein Windows-Explorer Fenster, in dem das Datenverzeichnis angezeigt wird. In dem angezeigten Verzeichnis `data` befinden sich die vier neu erstellten [Exportdateien](../../data-export/data-files/).
 
-   ![Lokales Datenverzeichnis mit Exportdateien](../images/datenexport/exportdateien.png "Exportdataien, lokal gespeichert")
+   ![Lokales Datenverzeichnis mit Exportdateien](../images/datenexport/exportdateien.png "Exportdateien, lokal gespeichert")
 
    {{% alert title="Hinweis" %}}
   Sie können jede dieser 4 [Exportdateien](../../data-export/data-files/) in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [OpenOffice Calc](https://www.openoffice.org/de/) und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einem Tabellenkalkulationsprogramm wiedergegeben.
