@@ -20,10 +20,20 @@ Gehen Sie wie folgt vor, um Daten zwischen der Herde Software und dem VitalContr
 
 ### Vollständigen Datentausch durchführen
 
-1. Der Exportvorgang wird gestartet. Nach dem Ende des Exportvorgangs öffnet sich ein Windows-Explorer Fenster, in dem das Datenverzeichnis angezeigt wird. In dem angezeigten Verzeichnis `data` befinden sich die vier neu erstellten [Exportdateien](../../data-export/data-files/).
+1. Weisen Sie die Herde-Software an, einen Datenaustausch durchzuführen. Je nach Konfiguration ihrer Benutzeroberfläche erreichen Sie den entsprechenden Menüpunkt `Datentausch` im Hauptmenü (Menüpunkt _Technik_),  in der Seitenleiste oder in der Werkzeugleiste (horizontal oder vertikal).
 
-   ![Lokales Datenverzeichnis mit Exportdateien](../screenshots/datentausch.png "Exportdataien, lokal gespeichert")
+   ![Herde Software: Aufruf der Funktion Datenaustausch](../screenshots/datentausch.png "Herde: Aufruf Datenaustausch")
 
-1. Der Exportvorgang wird gestartet. Nach dem Ende des Exportvorgangs öffnet sich ein Windows-Explorer Fenster, in dem das Datenverzeichnis angezeigt wird. In dem angezeigten Verzeichnis `data` befinden sich die vier neu erstellten [Exportdateien](../../data-export/data-files/).
+1. Es öffnet sich ein Pop-up, in dessen linker Seitenleiste die eingerichteten Technikkopplung aufgelistet sind. Klicken Sie auf den Eintrag `VitalControl`, um den Datenaustausch zu starten:
 
-   ![Lokales Datenverzeichnis mit Exportdateien](../screenshots/start-kopplung.png "Exportdataien, lokal gespeichert")
+   ![Herde Software: Datenaustausch starten](../screenshots/start-kopplung.png "Herde: Start Datenaustausch")
+
+1. Beim erstmaligen Datenaustausch erscheint ein Warnhinweis, dass noch keine Tiere auf dem VitalControl angelegt sind. Quittieren Sie diesen Hinweis mit `Ja`.
+
+   ![Herde Software: Datenaustausch starten](../screenshots/warnung.png "Herde: Start Datenaustausch")
+
+    {{% alert title="Achtung" %}}
+Falls viele Tiere übertragen sollen, kann der Importvorgang eine gewisse Zeitspanne in Anspruch nehmen. Den Fortschritt des Datenimports können Sie dabei dem Display des VitalControl-Geräts entnehmen.
+
+![Importierte Herde, Ansicht im VitalControl](../../vcsynchronizer/images/tierimport/datenuebertragung.png "Importierte Tiere")
+    {{% /alert %}}

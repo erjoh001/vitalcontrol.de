@@ -5,6 +5,7 @@ description: >
   CVS-Dateien mit Tierdaten und Messwerten des VitalControl-Geräts auf den Massenspeicher eines Computers exportieren
 date: 2023-07-20
 weight: 20
+translationKey: data-export/pc
 manualLink: /docs/data-link/farm-pc/
 ---
 <script>

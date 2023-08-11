@@ -6,4 +6,5 @@ description: >
 date: 2023-07-20
 weight: 20
 kategorien: [Datenexport]
+translationKey: data-export
 ---

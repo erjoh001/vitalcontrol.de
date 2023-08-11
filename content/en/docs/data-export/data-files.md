@@ -6,7 +6,9 @@ weight: 30
 description: >
   Description of the structure and content of the four data files created during the export.
 categories: [Data export]
-tags: [export files, temperatures, weights, ratings]  
+tags: [export files, temperatures, weights, ratings]
+slug: export-files
+translationKey: data-export/data-files
 ---
 ## General information
 

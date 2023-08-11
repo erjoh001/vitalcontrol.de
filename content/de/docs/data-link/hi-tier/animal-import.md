@@ -45,7 +45,7 @@ Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht 
 
 1. Klicken Sie jetzt auf den Menüeintrag `Import Tierbestand HI-Tier`.
 
-   ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../images/tierimport/import-tierbestand.png "Windows Startmenü, VitalControl")
+   ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../../vcsynchronizer/images/tierimport/import-tierbestand.png "Windows Startmenü, VitalControl")
    
 1. Es öffnet sich ein DOS-Fenster, der Importvorgang wird gestartet. Es werden mehrere Abfragen gestellt, anhand derer sie Angaben zum Umfang des Tierimports festlegen können. Hierbei werden abgefragt:
 
@@ -57,7 +57,7 @@ Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht 
      Geben Sie hier das Meldedatum der zu importierenden Tiere (im Format `Tag-Monat-Jahr`) an oder drücken Sie `OK` um ohne Datumsbeschränkung fortzufahren.  
      <br>
 
-   ![DOS-Fenster, Import des Tierbestandes aus HI-Tier](../images/tierimport/ablauf-import.png "DOS-Fenster, Import Tierbestand")
+   ![DOS-Fenster, Import des Tierbestandes aus HI-Tier](../../vcsynchronizer/images/tierimport/ablauf-import.png "DOS-Fenster, Import Tierbestand")
 
 1. Das Programm stellt nun anhand der im VitalControl hinterlegten [Betriebsnummer]({{< relref "../../einstellungen/farm-number.md" >}}) die Verbindung zur HI-Tier Datenbank her. In diesem Zuge wird ihr ➄ **Passwort** bei HI-Tier abgefragt, tippen Sie dieses im Fenster ein.
 
@@ -66,12 +66,12 @@ Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht 
     {{% alert title="Achtung" %}}
 Falls viele Tiere übertragen sollen, kann der Importvorgang eine gewisse Zeitspanne in Anspruch nehmen. Den Fortschritt des Datenimports können Sie dabei dem Display des VitalControl-Geräts entnehmen.
 
-![Importierte Herde, Ansicht im VitalControl](../images/tierimport/datenuebertragung.png "Importierte Tiere")
+![Importierte Herde, Ansicht im VitalControl](../../vcsynchronizer/images/tierimport/datenuebertragung.png "Importierte Tiere")
     {{% /alert %}}
 
 1. Der Import der Tiere ist jetzt abgeschlossen. Wenn Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Herde` aufrufen, können Sie sich davon überzeugen, ob alle Tiere erfolgreich übertragen wurden.
 
-  ![Importierte Herde, Ansicht im VitalControl](../images/tierimport/herde.png "Importierte Tiere")
+  ![Importierte Herde, Ansicht im VitalControl](../../vcsynchronizer/images/tierimport/herde.png "Importierte Tiere")
 
 
 

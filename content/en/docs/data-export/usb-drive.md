@@ -7,6 +7,7 @@ description: >
   Export CVS data files containing animal data and measurement values stored on the VitalControl device to a USB flash drive.
 categories: [Data export]
 tags: [CSV files, USB flash drive]
+translationKey: data-export/usb-drive
 ---
 {{% usb-drive/en "In order to perform an export of your device data," %}}
 

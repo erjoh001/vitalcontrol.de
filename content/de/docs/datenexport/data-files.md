@@ -6,7 +6,9 @@ description: >
 date: 2023-07-20
 weight: 30
 kategorien: [Datenexport]
-tags: [Exportdateien, Temperaturwerte, Gewichtswerte, Tierbewertungen]  
+tags: [Exportdateien, Temperaturwerte, Gewichtswerte, Tierbewertungen]
+slug: exportdateien
+translationKey: data-export/data-files
 ---
 ## Allgemeines
 

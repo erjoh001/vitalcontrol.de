@@ -6,6 +6,7 @@ description: >
 date: 2023-07-20
 weight: 10
 kategorien: [Datenexport]
+translationKey: data-export/usb-drive
 ---
 {{% usb-drive/de "Um mit ihrem Gerät einen Datenexport auf USB-Stick durchzuführen," %}}
 
