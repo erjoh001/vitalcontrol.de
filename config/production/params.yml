@@ -1,5 +1,9 @@
-# Enable Algolia DocSearch
-algolia_docsearch: true
+# Configure Algolia DocSearch
+search:
+  algolia:
+    appId: 1Z1TMJYUKF
+    apiKey: e28fb68fa9dfc66d93502fab73edb219
+    indexName: vitalcontrol
 
 # Enable Lunr.js offline search
 offlineSearch: false
