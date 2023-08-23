@@ -31,7 +31,7 @@ Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihre
 
 1. Klicken Sie jetzt auf den Menüeintrag `Datenexport (CVS)`.
 
-   ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../../datenexport/images/datenexport.png "Windows Startmenü, VitalControl")
+   ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/datenexport/datenexport.png "Windows Startmenü, VitalControl")
 
 1. Der Exportvorgang wird gestartet. Nach dem Ende des Exportvorgangs öffnet sich ein Windows-Explorer Fenster, in dem das Datenverzeichnis angezeigt wird. In dem angezeigten Verzeichnis `data` befinden sich die vier neu erstellten [Exportdateien](../../data-export/data-files/).
 
@@ -40,5 +40,5 @@ Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihre
    {{% alert title="Hinweis" %}}
   Sie können jede dieser 4 [Exportdateien](../../datenexport/data-files/) in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [OpenOffice Calc](https://www.openoffice.org/de/) und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einem Tabellenkalkulationsprogramm wiedergegeben.
 
-  ![Exportierte Tierdaten, geöffnet in Tabellenkalkulationsprogramm](../images/datenexport/animals.png "Tabellenkalkulationsprogramm mit Tierdaten")
+  ![Exportierte Tierdaten, geöffnet in Tabellenkalkulationsprogramm](../../datenexport/images/tiere.png "Tabellenkalkulationsprogramm mit Tierdaten")
    {{% /alert %}}
