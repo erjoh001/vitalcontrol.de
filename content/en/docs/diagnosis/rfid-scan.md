@@ -22,7 +22,7 @@ Using the menu 'Range test' you can determine whether VitalControl device can re
 
 1.  Slowly approach your transponder to the reading head of the VitalControl device. To achieve a good reading result, the transponder must be aligned horizontally to the reading head of the VitalControl device.
 
-    ![ VitalControl:  correctly approach transponder to RFID reading head](/images/diagnosis/transponderscan.svg "Correct transponder scan")
+    ![ VitalControl: correctly approach transponder to RFID reading head](/images/diagnosis/transponderscan.svg "Correct transponder scan")
 
 1. As soon as the RFID scanner detects the transponder, a vibration alarm is triggered and the background color of the transponder image displayed on the screen changes to green:
 

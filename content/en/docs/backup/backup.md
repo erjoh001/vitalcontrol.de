@@ -26,7 +26,7 @@ tags: [backup file, USB flash drive]
 
    ![VitalControl: success message backup](../images/backup-done.png "Success data backup")
 
-5. The data backup is now created. You will find the created file `backup.vcu` in the directory `backup` on your USB flash drive.  The backup file requires approx. 1 MB of storage space on the flash drive.
+5. The data backup is now created. You will find the created file `backup.vcu` in the directory `backup` on your USB flash drive. The backup file requires approx. 1 MB of storage space on the flash drive.
 
    ![USB flash drive with backup file VitalControl](../images/backup-file.png "USB flash drive with backup file")
 

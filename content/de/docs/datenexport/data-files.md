@@ -97,7 +97,7 @@ Die folgende Tabelle listet die einzelnen Spalten der Tabelle mit den Körpertem
 | 2 | `Farm-ID-Animal`      | Stallnummer des gemessenen Tieres       | 2- bis 6-stellig, oft zugleich auch Halsbandnummer |
 | 3 | `Date`                | Datum der Temperaturmessung             | Format: `JJJJ-MM-TT` (`Jahr-Monat-Tag`)            |
 | 4 | `Time`                | Uhrzeit der Temperaturmessung           | Format: `HH-MM-SS` (`Stunde:Minute:Sekunde`)       |
-| 5 | `Temperature-Celsius` | Gemessener Temperaturwert               | Einheit: `Grad Celsius`                              |
+| 5 | `Temperature-Celsius` | Gemessener Temperaturwert               | Einheit: `Grad Celsius`                            |
 
 Ggf. können Sie auch die bereit gestellte Beispieldatei [temperatures.csv][] herunterladen. Untenstehende Abbildung zeigt diese Datei geöffnet in einem Tabellenkalkulationsprogramm.
 

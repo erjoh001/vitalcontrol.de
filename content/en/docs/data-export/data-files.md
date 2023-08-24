@@ -64,7 +64,7 @@ The following table lists and describes each column of the animal data table:
 | 3 | `Transponder-ID`     | Transponder number              | may be missing , may be identical with national animal ID |
 | 4 | `DateOfBirth`        | Date of birth                   | Format: `YYYY-MM-TT` (`Year-Month-Day`)                   |
 | 5 | `Sex`                | Sex                             | _Values:_ `M`: male, `F`: female, `?`: unknown            |
-| 6 | `BirthWeight-Kg`     | Birth weight                    | Unit: `kilogram`, maybe not recorded / missing                 |
+| 6 | `BirthWeight-Kg`     | Birth weight                    | Unit: `kilogram`, maybe not recorded / missing            |
 
 [ISO1174/85]: https://en.wikipedia.org/wiki/ISO_11784_and_ISO_11785
 

@@ -17,7 +17,7 @@ If there is a malfunction on your device, you should first perform a hardware ch
 
 1. Invoke the submenu `Service`, select the menu item `Check device drivers` and confirm with `OK`.
 
-The device now lists all hardware components of the device, together with their status. Ideally, all components listed should show a green dot on the far right; this signals a functioning component. If a red dot is shown  for a component, this indicates that the corresponding component is defective. In this case, the device must be returned to the manufacturer for service.
+The device now lists all hardware components of the device, together with their status. Ideally, all components listed should show a green dot on the far right; this signals a functioning component. If a red dot is shown for a component, this indicates that the corresponding component is defective. In this case, the device must be returned to the manufacturer for service.
 
    ![VitalControl: Menu path Check of hardware components](../images/device-check.png "Hardware check")
 
