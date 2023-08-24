@@ -6,7 +6,7 @@ description: >
   Mit einem Firmware-Update aktualisieren Sie die auf dem Gerät installierte Software.
 kategorien: [Firmware]  
 ---
-Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version](../versions/) vorhanden ist, und aktualisieren Sie ggf. die Firmware Ihres Gerätes gemäß der folgenden Anleitung.
+Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version](../versionen/) vorhanden ist, und aktualisieren Sie ggf. die Firmware Ihres Gerätes gemäß der folgenden Anleitung.
 
 {{% usb-drive/de "Um das Update auf Ihr Gerät aufzuspielen" %}}
 

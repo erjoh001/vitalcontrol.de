@@ -33,7 +33,7 @@ If you cannot find the entry `Urban VitalControl` in your applications list, you
 
    ![Windows Start menu, menu entry for Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows start menu, VitalControl")
 
-1. The export process is started. Once data export is finished, an Explorer window opens which displays the local data directory with the four newly created [export files](../../data-export/data-files/).
+1. The export process is started. Once data export is finished, an Explorer window opens which displays the local data directory with the four newly created [export files](../../data-export/export-files/).
 
    ![Local data directory with export files](../../data-export/images/export-files.png "Export files, locally stored")
 

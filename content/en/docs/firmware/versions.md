@@ -14,7 +14,7 @@ description: >
 
 2. Invoke the submenu `Info`, select the menu item `Software` and confirm with `OK`. A pop-up window opens which lists the software versions currently installed on your device:
 
-![VitalControl: determine firmware versions](images/firmware-versions.png)
+![VitalControl: determine firmware versions](../images/firmware-versions.png)
 
 ## Latest firmware versions:
 

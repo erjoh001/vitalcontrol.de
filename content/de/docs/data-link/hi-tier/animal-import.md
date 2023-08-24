@@ -40,7 +40,7 @@ Die Betriebsnummer wird permanent in den Einstellungen des VitalControls gespeic
 1. Scrollen Sie in der Liste ihrer installierten Anwendungen nach unten bis zum Buchstaben `U`. Dort sollten Sie einen Eintrag `Urban VitalControl` vorfinden. Klappen Sie ggf. diesen Eintrag auf, damit alle Untermenüeinträge angezeigt werden.
 
     {{% alert title="Achtung" %}}
-Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht finden können, müssen Sie ggf. die Software `VCSynchronizer` auf ihrem [PC installieren](../installation/).
+Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht finden können, müssen Sie ggf. die Software `VCSynchronizer` auf ihrem [PC installieren](../../vcsynchronizer/installation/).
     {{% /alert %}}
 
 1. Klicken Sie jetzt auf den Menüeintrag `Import Tierbestand HI-Tier`.
