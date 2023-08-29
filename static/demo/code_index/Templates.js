@@ -34,17 +34,17 @@
 *******************************************************************************/
 
 var index;if(!index)throw new Error("The application file '_project.js' isn't yet loaded!"
-);if(index.abp)throw new Error("The unit file 'Templates.js' included twice!");index.
-abp=(function(){var A=index;var C={};
+);if(index.abo)throw new Error("The unit file 'Templates.js' included twice!");index.
+abo=(function(){var A=index;var C={};
 
-C.AfD={_Init:function(aArg){A.Core.O._Init.call(this,aArg);this.__proto__=C.AfD;}
-,_className:"Templates::PushButton"};C.AfR={_Init:function(aArg){A.Core.O._Init.
-call(this,aArg);this.__proto__=C.AfR;},_className:"Templates::TextEditor"};C.Menu={
-_Init:function(aArg){A.Core.O._Init.call(this,aArg);this.__proto__=C.Menu;},_className:
-"Templates::Menu"};C.AfB={_Init:function(aArg){A.Core.O._Init.call(this,aArg);this.
-__proto__=C.AfB;},_className:"Templates::PickerControl"};
-C._Init=function(){C.AfD.__proto__=A.Core.O;C.AfR.__proto__=A.Core.O;C.Menu.__proto__=
-A.Core.O;C.AfB.__proto__=A.Core.O;};C._ReInit=function(){};C.Dq=function(D){};return C;
+C.AgG={_Init:function(aArg){A.Core.O._Init.call(this,aArg);this.__proto__=C.AgG;}
+,_className:"Templates::PushButton"};C.I5={_Init:function(aArg){A.Core.O._Init.call(
+this,aArg);this.__proto__=C.I5;},_className:"Templates::TextEditor"};C.Menu={_Init:
+function(aArg){A.Core.O._Init.call(this,aArg);this.__proto__=C.Menu;},_className:
+"Templates::Menu"};C.AgE={_Init:function(aArg){A.Core.O._Init.call(this,aArg);this.
+__proto__=C.AgE;},_className:"Templates::PickerControl"};
+C._Init=function(){C.AgG.__proto__=A.Core.O;C.I5.__proto__=A.Core.O;C.Menu.__proto__=
+A.Core.O;C.AgE.__proto__=A.Core.O;};C._ReInit=function(){};C.DB=function(D){};return C;
 })();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
