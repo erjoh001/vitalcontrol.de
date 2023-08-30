@@ -2,6 +2,7 @@
 title: "Sprache des VitalControl-Geräts einstellen"
 linkTitle: "Sprache"
 date: 2023-07-28T13:25:28+02:00
+weight: 10
 draft: false
 slug: sprache
 description: >

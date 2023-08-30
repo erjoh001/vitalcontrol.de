@@ -2,6 +2,7 @@
 title: Betriebsnummer eingeben
 linkTitle: Betriebsnummer
 slug: betriebsnummer
+weight: 80
 description: >
   Legen Sie ihre zehnstellige Betriebsnummer gemäß VVO fest.
 date: 2023-07-26

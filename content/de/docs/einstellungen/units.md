@@ -2,10 +2,11 @@
 title: "Einheiten festlegen"
 linkTitle: "Einheiten"
 date: 2023-07-28T13:25:28+02:00
+weight: 20
 draft: false
 slug: Units
 description: >
- Hier wählen Sie Einheiten für die Temperatur und die Masse aus. Es stehen als Temperatureinheit Celsius (°C) und Fahrenheit (°F) und als Masseneinheit Kilogramm (kg) und Pfund (lbs) zur Verfügung.
+ Hier wählen Sie Einheiten für die Temperatur und die Masse aus. 
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Einheiten]
 translationKey: units
@@ -23,7 +24,7 @@ auswählen können. Wählen Sie `Temperatureinheit`.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Temperatureinheit auszuwählen.
 
-![VitalControl: Menüfolge Einstellung Datum](../bilder/temperature.png "Datum einstellen")
+    ![VitalControl: Menüfolge Einstellung Datum](../bilder/temperature.png "Datum einstellen")
 
 ## Masseneinheit festlegen
 
@@ -38,11 +39,11 @@ auswählen können. Wählen Sie `Masseneinheit`.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Masseneinheit auszuwählen.
 
-![VitalControl: Menüfolge Einstellung Datum](../bilder/degree.png "Datum einstellen")
+    ![VitalControl: Menüfolge Einstellung Datum](../bilder/degree.png "Datum einstellen")
 
-## Speichern und zurück zum Obermenü `Einstellungen`
+## Speichern und zurück zum Obermenü Einstellungen
 
-1. Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
 
 
 
