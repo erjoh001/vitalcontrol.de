@@ -11,7 +11,7 @@ translationKey: settings/language
 ---
 ## Setting your language
 
-To set the language of your VitalCOntrol device, proceed as follows:
+To set the language of your VitalControl device, proceed as follows:
 
 1. `Select` the menu item `Settings` in the main screen of your VitalControl device and press `OK`.
 
@@ -27,19 +27,19 @@ The language on your VitalControl device is now set and permanently stored.
 
 VitalControl firmware holds translations for the following languages:
 
-- German (DE)
 - English (EN)
+- German (DE)
+- French (FR)
+- Spanish (ES)
+- Russian (RU)
 - Bulgarian (BG)
 - Bosnian (BS)
 - Chinese (Taiwan)  (ZH-TW)
 - Estonian (ET)
 - Finnish (FI)
-- French (FR)
 - Greek (EL)
 - Dutch (NL)
 - Norwegian (NO)
-- Russian (RU)
-- Spanish (ES)
 - Czech (CS)
 - Turkish (TR)
 - Ukrainian (UK)
@@ -47,11 +47,20 @@ VitalControl firmware holds translations for the following languages:
 ## Main menu in all available languages
 
 {{< tabpane text=true right=false >}}
+  {{% tab header="English" lang="en" %}}
+[![VitalControl: Main menu with English language selected](/images/homescreen/english.png "Main menu English")](/en/demo/ "Demo app VitalControl (EN)")
+  {{% /tab %}}
   {{% tab header="German" lang="de" %}}
 [![VitalControl: Main menu with German language selected](/images/homescreen/german.png "Main menu German")](/demo/ "Demo app VitalControl (DE)")
   {{% /tab %}}
-  {{% tab header="English" lang="en" %}}
-[![VitalControl: Main menu with English language selected](/images/homescreen/english.png "Main menu English")](/en/demo/ "Demo app VitalControl (EN)")
+  {{% tab header="French" lang="fr" %}}
+[![VitalControl: Main menu with French language selected](/images/homescreen/french.png "Main menu French")](/fr/demo/ "Demo app VitalControl (FR)")
+  {{% /tab %}}
+  {{% tab header="Spanish" lang="es" %}}
+[![VitalControl: Main menu with Spanish language selected](/images/homescreen/spanish.png "Main menu Spanish")](/es/demo/ "Demo app VitalControl (ES)")
+  {{% /tab %}}
+  {{% tab header="Russian" lang="ru" %}}
+[![VitalControl: Main menu with Russian language selected](/images/homescreen/russian.png "Main menu Russian")](/ru/demo/ "Demo app VitalControl (RU)")
   {{% /tab %}}
   {{% tab header="Bulgarian" lang="bg" %}}
 [![VitalControl: Main menu with Bulgarian language selected](/images/homescreen/bulgarian.png "Main menu Bulgarian")](/bg/demo/ "Demo app VitalControl (BG)")
@@ -62,9 +71,6 @@ VitalControl firmware holds translations for the following languages:
   {{% tab header="Estonian" lang="et" %}}
 [![VitalControl: Main menu with Estonian language selected](/images/homescreen/estonian.png "Main menu Estonian")](/et/demo/ "Demo app VitalControl (ET)")
   {{% /tab %}}
-  {{% tab header="French" lang="fr" %}}
-[![VitalControl: Main menu with French language selected](/images/homescreen/french.png "Main menu French")](/fr/demo/ "Demo app VitalControl (FR)")
-  {{% /tab %}}
   {{% tab header="Greek" lang="el" %}}
 [![VitalControl: Main menu with Greek language selected](/images/homescreen/greek.png "Main menu Greek")](/el/demo/ "Demo app VitalControl (EL)")
   {{% /tab %}}
@@ -73,12 +79,6 @@ VitalControl firmware holds translations for the following languages:
   {{% /tab %}}
   {{% tab header="Norwegian" lang="no" %}}
 [![VitalControl: Main menu with Norwegian language selected](/images/homescreen/norwegian.png "Main menu Norwegian")](/no/demo/ "Demo app VitalControl (NO)")
-  {{% /tab %}}
-  {{% tab header="Russian" lang="ru" %}}
-[![VitalControl: Main menu with Russian language selected](/images/homescreen/russian.png "Main menu Russian")](/ru/demo/ "Demo app VitalControl (RU)")
-  {{% /tab %}}
-  {{% tab header="Spanish" lang="es" %}}
-[![VitalControl: Main menu with Spanish language selected](/images/homescreen/spanish.png "Main menu Spanish")](/es/demo/ "Demo app VitalControl (ES)")
   {{% /tab %}}
   {{% tab header="Czech" lang="cs" %}}
 [![VitalControl: Main menu with Czech language selected](/images/homescreen/czech.png "Main menu Czech")](/cs/demo/ "Demo app VitalControl (CS)")
