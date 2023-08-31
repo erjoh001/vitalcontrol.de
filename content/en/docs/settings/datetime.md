@@ -1,92 +1,46 @@
 ---
-title: Set your date & time
-linkTitle: Date & time
+title: "Date & Time setting"
+linkTitle: "Date & Time"
+weight: 15
 date: 2023-07-28T13:25:28+02:00
 draft: false
+slug: datetime
 description: >
-  Set and permanently store the language of the user interface on your VitalControl device.
+  Here, you set the date and time.
 Kategorien: [Settings]
-Tags: [Settings, Language]
+Tags: [Settings, Date & Time]
 translationKey: settings/datetime
 ---
-## Setting your language
+## To set the date
+{{% alert title="Warning" color="warning" %}}
+Make sure the date and time are set correctly. Otherwise, the timestamps of the measurements and the birth dates of newly added animals will be incorrect!
+{{% /alert %}}
+To set the date on your device, follow these steps:
 
-To set the language of your VitalCOntrol device, proceed as follows:
+1. On the main screen of your VitalControl device, select the menu option `Settings` and press the `OK` button.
 
-1. `Select` the menu item `Settings` in the main screen of your VitalControl device and press `OK`.
+2. A submenu will open, displaying various `Settings`. Select the `Date & Time` section. Confirm with `OK`.
 
-1. A submenu opens up, presenting the current language at the top. Use the arrow keys ◁ ▷ to select the desired language. The language of the user guidance changes on the fly as you select another language.
+3. Another submenu will open, where you can choose between `Date` and `Time`. Select `Date` and confirm with `OK` or use the pencil icon with F3.
 
-   ![VitalControl: Menu path Language settings](../images/select-lang.png "Setting your language")
+4. Now you can set the day using the arrow buttons △ ▽. Press the F3 button to go to the month setting. Alternatively, you can confirm with `OK`. Use arrow keys △ ▽ again here. Click F3 again to go to the year setting. Again, use the arrow keys △ ▽. Confirm with `OK` once the correct date is set.
 
-1. Press the upper left key `F1` twice to return to the main menu.
+    ![VitalControl: menu settings date](../images/date.png "To set the date")
 
-The language on your VitalControl device is now set and permanently stored.
+## To set the time
 
-## Available languages
+To set the time on your device, follow these steps:
 
-VitalControl firmware holds translations for the following languages:
+1. On the main screen of your VitalControl device, select the menu option `Settings` and press the `OK` button.
 
-- German (DE)
-- English (EN)
-- Bulgarian (BG)
-- Bosnian (BS)
-- Chinese (Taiwan)  (ZH-TW)
-- Estonian (ET)
-- Finnish (FI)
-- French (FR)
-- Greek (EL)
-- Dutch (NL)
-- Norwegian (NO)
-- Russian (RU)
-- Spanish (ES)
-- Czech (CS)
-- Turkish (TR)
-- Ukrainian (UK)
+2. A submenu will open, displaying various settings. Select the `Date & Time` section. Confirm with `OK`.
 
-## Main menu in all available languages
+3. Another submenu will open, where you can choose between `Date` and `Time`. Select `Time` and confirm with `OK` or use the pencil icon with `F3`.
 
-{{< tabpane text=true right=false >}}
-  {{% tab header="German" lang="de" %}}
-[![VitalControl: Main menu with German language selected](/images/homescreen/german.png "Main menu German")](/demo/ "Demo app VitalControl (DE)")
-  {{% /tab %}}
-  {{% tab header="English" lang="en" %}}
-[![VitalControl: Main menu with English language selected](/images/homescreen/english.png "Main menu English")](/en/demo/ "Demo app VitalControl (EN)")
-  {{% /tab %}}
-  {{% tab header="Bulgarian" lang="bg" %}}
-[![VitalControl: Main menu with Bulgarian language selected](/images/homescreen/bulgarian.png "Main menu Bulgarian")](/bg/demo/ "Demo app VitalControl (BG)")
-  {{% /tab %}}
-  {{% tab header="Bosnian" lang="bs" %}}
-[![VitalControl: Main menu with Bosnian language selected](/images/homescreen/bosnian.png "Main menu Bosnian")](/bs/demo/ "Demo app VitalControl (BS)")
-  {{% /tab %}}
-  {{% tab header="Estonian" lang="et" %}}
-[![VitalControl: Main menu with Estonian language selected](/images/homescreen/estonian.png "Main menu Estonian")](/et/demo/ "Demo app VitalControl (ET)")
-  {{% /tab %}}
-  {{% tab header="French" lang="fr" %}}
-[![VitalControl: Main menu with French language selected](/images/homescreen/french.png "Main menu French")](/fr/demo/ "Demo app VitalControl (FR)")
-  {{% /tab %}}
-  {{% tab header="Greek" lang="el" %}}
-[![VitalControl: Main menu with Greek language selected](/images/homescreen/greek.png "Main menu Greek")](/el/demo/ "Demo app VitalControl (EL)")
-  {{% /tab %}}
-  {{% tab header="Dutch" lang="nl" %}}
-[![VitalControl: Main menu with Dutch language selected](/images/homescreen/dutch.png "Main menu Dutch")](/nl/demo/ "Demo app VitalControl (NL)")
-  {{% /tab %}}
-  {{% tab header="Norwegian" lang="no" %}}
-[![VitalControl: Main menu with Norwegian language selected](/images/homescreen/norwegian.png "Main menu Norwegian")](/no/demo/ "Demo app VitalControl (NO)")
-  {{% /tab %}}
-  {{% tab header="Russian" lang="ru" %}}
-[![VitalControl: Main menu with Russian language selected](/images/homescreen/russian.png "Main menu Russian")](/ru/demo/ "Demo app VitalControl (RU)")
-  {{% /tab %}}
-  {{% tab header="Spanish" lang="es" %}}
-[![VitalControl: Main menu with Spanish language selected](/images/homescreen/spanish.png "Main menu Spanish")](/es/demo/ "Demo app VitalControl (ES)")
-  {{% /tab %}}
-  {{% tab header="Czech" lang="cs" %}}
-[![VitalControl: Main menu with Czech language selected](/images/homescreen/czech.png "Main menu Czech")](/cs/demo/ "Demo app VitalControl (CS)")
-  {{% /tab %}}
-  {{% tab header="Turkish" lang="tr" %}}
-[![VitalControl: Main menu with Turkish language selected](/images/homescreen/turkish.png "Main menu Turkish")](/tr/demo/ "Demo app VitalControl (TR)")
-  {{% /tab %}}
-  {{% tab header="Ukrainian" lang="uk" %}}
-[![VitalControl: Main menu with Ukrainian language selected](/images/homescreen/ukrainian.png "Main menu Ukrainian")](/uk/demo/ "Demo app VitalControl (UK)")
-  {{% /tab %}}
-{{< /tabpane >}}
+4. Use the arrow buttons △ ▽ to adjust the hours. Press the `F3` button to move to the minute setting. Alternatively, you can confirm with `OK`. Once the time is set correctly, confirm with `OK`.
+
+    ![VitalControl: menu settings time](../images/time.png "To set the time")
+
+## Save and return to the top menu Settings
+
+- Save the settings and return to the top menu `Settings` by pressing the `F1` key.
