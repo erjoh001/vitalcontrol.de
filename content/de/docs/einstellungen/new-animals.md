@@ -32,7 +32,7 @@ Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb e
 
 ### Alter beim Anlegen einstellen
 
-Anhand der dort hinerlegten Altersangabe berechnet das Gerät das Geburtsdatum, welches für ein manuell neu anzulegendes Tier vorgeschlagen bzw. welches beimautomatischen Anlegen im Hintergrund (via Tranponderscan) verwendet wird. Bei Milchviehbetrieben ist hier das Alter in Tagen einzugeben, in dem neugeborene Kälber im VitalControl registriert werden. Bei Fresseraufzuchtbetrieben ist hier das durchschnittliche Alter der Zukaufskälber einzugeben. Der zulässige Wertebereich reicht von 0 bis 99 Tagen.Um das Alter beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Anhand der dort hinterlegten Altersangabe berechnet das Gerät das Geburtsdatum, welches für ein manuell neu anzulegendes Tier vorgeschlagen bzw. welches beim automatischen Anlegen im Hintergrund (via Transponderscan) verwendet wird. Bei Milchviehbetrieben ist hier das Alter in Tagen einzugeben, in dem neugeborene Kälber im VitalControl registriert werden. Bei Fresseraufzuchtbetrieben ist hier das durchschnittliche Alter der Zukaufskälber einzugeben. Der zulässige Wertebereich reicht von 0 bis 99 Tagen.Um das Alter beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
 
@@ -47,7 +47,7 @@ Anhand der dort hinerlegten Altersangabe berechnet das Gerät das Geburtsdatum, 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Alter](../bilder/alterbeimanlegen.png "Alter beim Anlegen einstellen")
 
 {{% alert title="Tipp" %}}
-Anhand der dort hinerlegten Altersangabe berechnet das Gerät das Geburtsdatum, welches für ein manuell neu anzulegendes Tier vorgeschlagen bzw. welches beim automatischen Anlegen im Hintergrund (via Tranponderscan) verwendet wird. Bei Milchviehbetrieben ist hier das Alter in Tagen einzugeben, in dem neugeborene Kälber im VitalControl registriert werden. Bei Fresseraufzuchtbetrieben ist hier das durchschnittliche Alter der Zukaufskälber einzugeben. Der zulässige Wertebereich reicht von 0 bis 99 Tagen..
+Anhand der dort hinterlegten Altersangabe berechnet das Gerät das Geburtsdatum, welches für ein manuell neu anzulegendes Tier vorgeschlagen bzw. welches beim automatischen Anlegen im Hintergrund (via Transponderscan) verwendet wird. Bei Milchviehbetrieben ist hier das Alter in Tagen einzugeben, in dem neugeborene Kälber im VitalControl registriert werden. Bei Fresseraufzuchtbetrieben ist hier das durchschnittliche Alter der Zukaufskälber einzugeben. Der zulässige Wertebereich reicht von 0 bis 99 Tagen..
 {{% /alert %}}
 
 
@@ -124,7 +124,7 @@ Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zug
 ## Tiere automatisch anlegen 
 
 Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl-Gerät noch unbekannter Transponder eingescannt wird. Für diesem Fall könnten drei 
-verschiede Verhaltsweisen definiert werden. Um die Verhaltensweise beim Automatischen anlegen des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+verschiedene Verhaltsweisen definiert werden. Um die Verhaltensweise beim Automatischen anlegen des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
 
@@ -143,7 +143,7 @@ Beim vom Nutzer bestätigten Anlegen von Tieren erscheint ein Eingabebildschirm,
 
 ### Vergabe Tiernummer einstellen
 
-Hier definieren Sie welche Tiernummer beim Neuanlegen eines neuen Tieres in Ihrem Betrieb vorgeschlagen (ableitung von Transpondernummer) bzw. verwendet (fortlaufend) wird. Um die Vergabe der Tiernummern beim Anlegen des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie welche Tiernummer beim Neuanlegen eines neuen Tieres in Ihrem Betrieb vorgeschlagen (Ableitung von Transpondernummer) bzw. verwendet (fortlaufend) wird. Um die Vergabe der Tiernummern beim Anlegen des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
 
@@ -155,7 +155,7 @@ Hier definieren Sie welche Tiernummer beim Neuanlegen eines neuen Tieres in Ihre
 
 5. Nutzen Sie die Pfeiltasten ◁ ▷ um die Vergabe der Tiernummer des Nutztieres beim Anlegen einzustellen.
 
-6. Wählen Sie die Einstellung `Fortlaufend` haben Sie die Möglichekeit die `Nächste Tiernummer` festzulegen. Nutzen Sie dafür die Pfeiltasten △ ▽ um den Bereich `Nächste Tiernummer` auszuwählen und bestätigen Sie mit `OK`. Navigieren Sie mittels der Pfeiltasten ◁ ▷ innerhalb des Bereiches. Nun können Sie mit den Pfeiltasten △ ▽ eine Zahl auswählen. Das Gerät verwendet diese Nummer nun automatisch um ab dort die Fortlaufende Zählung zu beginnen. Desweiteren können Sie einstellen ob die Nummern Fortlaufend steigend oder Fortlaufend sinkend gezählt werden sollen. Dafür nutzen Sie die Pfeiltasten ◁ ▷ um auf das Symbol 9/1 zu gelangen. Mittels der Pfeiltasten  △ ▽ können Sie umstellen zwischen Fortlaufend steigend oder Fortlaufend sinkend zählen. Speichern Sie die Einstellungen mittels der `F1` oder `OK` Taste. 
+6. Wählen Sie die Einstellung `Fortlaufend` haben Sie die Möglichkeit die `Nächste Tiernummer` festzulegen. Nutzen Sie dafür die Pfeiltasten △ ▽ um den Bereich `Nächste Tiernummer` auszuwählen und bestätigen Sie mit `OK`. Navigieren Sie mittels der Pfeiltasten ◁ ▷ innerhalb des Bereiches. Nun können Sie mit den Pfeiltasten △ ▽ eine Zahl auswählen. Das Gerät verwendet diese Nummer nun automatisch um ab dort die Fortlaufende Zählung zu beginnen. Des Weiteren können Sie einstellen ob die Nummern Fortlaufend steigend oder Fortlaufend sinkend gezählt werden sollen. Dafür nutzen Sie die Pfeiltasten ◁ ▷ um auf das Symbol 9/1 zu gelangen. Mittels der Pfeiltasten  △ ▽ können Sie umstellen zwischen Fortlaufend steigend oder Fortlaufend sinkend zählen. Speichern Sie die Einstellungen mittels der `F1` oder `OK` Taste. 
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Vergabe Tiernummern](../bilder/vergabetiernummern.png "Vergabe Tiernummern einstellen")
 
@@ -163,7 +163,7 @@ Hier definieren Sie welche Tiernummer beim Neuanlegen eines neuen Tieres in Ihre
 
 {{% alert title = "Tipp" %}}
 Tipp:
-Wählen Sie die Option „Fortlaufend“, wenn die von Ihnen zur visuellen Identifikation des Tieres verwendete Stallnummer unabhängig von der zur elektronischen Identifikation verwendeten Transpondernummer vergeben wird. Die Stall oder Halsbandnummern werden dann fortlaufend innerhalb eines bestimmten Bereichs vergeben (z. B. 1 - 40) und stehen dann in keiner direkten Beziehung zu den verwendeten Transpondernummern. Wählen Sie die Option „Ableitung von Transpondernummer“, wenn sie die Stallnummer des Tieres direkt an die Nummer des Transponders koppeln wollen, welcher dem Tier zugewiesen wurde. Diese Option ist inbesondere dann sinnvoll, wenn Sie gelbe elektronische Ohrmarken einsetzen, die Stallnummer ist dann identisch mit den Endziffern der auf der gelben Ohrmarken abgedruckten, zehnstelligen Tiernummer.
+Wählen Sie die Option „Fortlaufend“, wenn die von Ihnen zur visuellen Identifikation des Tieres verwendete Stallnummer unabhängig von der zur elektronischen Identifikation verwendeten Transpondernummer vergeben wird. Die Stall oder Halsbandnummern werden dann fortlaufend innerhalb eines bestimmten Bereichs vergeben (z. B. 1 - 40) und stehen dann in keiner direkten Beziehung zu den verwendeten Transpondernummern. Wählen Sie die Option „Ableitung von Transpondernummer“, wenn sie die Stallnummer des Tieres direkt an die Nummer des Transponders koppeln wollen, welcher dem Tier zugewiesen wurde. Diese Option ist insbesondere dann sinnvoll, wenn Sie gelbe elektronische Ohrmarken einsetzen, die Stallnummer ist dann identisch mit den Endziffern der auf der gelben Ohrmarken abgedruckten, zehnstelligen Tiernummer.
 {{% /alert %}}
 
 {{% alert title = "Tipp" %}}
@@ -234,9 +234,3 @@ Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuel
 ## Speichern und zurück zum Obermenü Einstellungen
 
 - Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
-
-
-
-
-
-

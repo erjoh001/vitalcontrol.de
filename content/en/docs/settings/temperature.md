@@ -6,7 +6,7 @@ weight: 30
 draft: false
 slug: temperature
 description: >
- Set the temperature settings for the application of your Vital-Control device
+ Set the temperature settings for the application of your VitalControl device
 Kategorien: [settings]
 Tags: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
@@ -19,7 +19,7 @@ To set the threshold & temperature ranges on your device proceed as follows:
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 
-3. A further submenu opens in which you can select between `Treshholds`, `Undertemperature` and `Anus spotligt` can be selected. Select `Treshholds`.
+3. A further submenu opens in which you can select between `Tresholds`, `Undertemperature` and `Anus spotlight` can be selected. Select `Tresholds`.
 
 4. Use the arrow keys ◁ ▷ to select the desired threshold.
 
@@ -41,7 +41,7 @@ To set the threshold value for the undertemperature, proceed as follows:
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 
-3. A further submenu opens in which you can select between `Treshholds`, `Undertemperature` and `Anus spotlighting` can be selected. Select `Undertemperature`.
+3. A further submenu opens in which you can select between `Tresholds`, `Undertemperature` and `Anus spotlighting` can be selected. Select `Undertemperature`.
 
 4. Use the arrow keys ◁ ▷ to select the desired threshold value for the undertemperature.
 
@@ -55,7 +55,7 @@ To deactivate or activate the anus spotlight during the 'Temperature' action, pr
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 
-3. A further submenu opens in which you can select between `Treshholds`, `Undertemperature` and `Anus spotligt` can be selected. Select `Anus spotligt`.
+3. A further submenu opens in which you can select between `Tresholds`, `Undertemperature` and `Anus spotligt` can be selected. Select `Anus spotligt`.
 
 4. Use the arrow keys ◁ ▷ to deactivate or activate the anus spotlight.
 

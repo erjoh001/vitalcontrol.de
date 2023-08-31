@@ -19,7 +19,7 @@ Um die Temperatureinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Wählen Sie den Bereich `Einheiten` aus . Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen `Temperatureineit` und `Masseneinheit` 
+3. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen `Temperatureinheit` und `Masseneinheit` 
 auswählen können. Wählen Sie `Temperatureinheit`.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Temperatureinheit auszuwählen.
@@ -44,6 +44,3 @@ auswählen können. Wählen Sie `Masseneinheit`.
 ## Speichern und zurück zum Obermenü Einstellungen
 
 - Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
-
-
-

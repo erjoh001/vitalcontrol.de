@@ -4,7 +4,7 @@ linkTitle: "Data acquisition"
 weight: 40
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: dataacqiusition
+slug: data-acquisition
 description: >
  Here you store relevant information for the animal data collection
 Kategorien: [settings]
@@ -18,7 +18,7 @@ To set the `Daily weight gain` on your device proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acqusition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
 3. A further submenu opens in which you can select between `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
 
@@ -46,7 +46,7 @@ To set the `birth weight` on your device proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acqusition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
 3. A further submenu opens in which you can select between `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
 
@@ -60,7 +60,7 @@ To set the `average daily weight gain` on your device proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acqusition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
 3. A further submenu opens in which you can select between `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
 
@@ -73,23 +73,23 @@ To set the `average daily weight gain` on your device proceed as follows.
 The defined daily increase is used for the calculation of the suggested weight value during animal weighing. If the suggested weight value is too low or too high for the majority of the animals to be weighed, you should adjust the defined value downwards or upwards, respectively, to shorten the manual setting of the weight value with the arrow keys.
 {{% /alert %}}
 
-### Save and return to the top menu Data acqusition
+### Save and return to the top menu Data acquisition
 
-- Save the settings and return to the top menu `Data acqusition` by pressing the `F1` key.
+- Save the settings and return to the top menu `Data acquisition` by pressing the `F1` key.
 
-## Set Raiting of animals
+## Set Rating of animals
 
-To set the `Raiting of animals` on your device proceed as follows.
+To set the `Rating of animals` on your device proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acqusition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
-3. A further submenu opens in which you can select between `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Raiting of animals`.
+3. A further submenu opens in which you can select between `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Rating of animals`.
 
-4. Use the ◁ ▷ arrow keys to set the desired raiting of animals.
+4. Use the ◁ ▷ arrow keys to set the desired rating of animals.
 
-    ![VitalControl: menu settings average raiting of animals](../images/raitingofanimals.png "Raiting of animals")
+    ![VitalControl: menu settings average rating of animals](../images/raitingofanimals.png "Rating of animals")
 
 {{% alert title="Hint" %}}
 In the simple mode, only the general condition is queried during the animal evaluation (green/yellow/red). In the extended evaluation, 4 evaluation categories are queried: general condition, feed consumption, diarrhea and respiratory disease.
@@ -101,7 +101,7 @@ To set the `Control period fresh cows` on your device proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acqusition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
 3. A further submenu opens in which you can select between `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Control period fresh cows`.
 

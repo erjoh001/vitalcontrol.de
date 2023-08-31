@@ -42,6 +42,3 @@ Um die `Vergabe Tiernummern` auf ihrem Gerät festzulegen gehen Sie wie folgt vo
 ## Speichern und zurück zum Obermenü Einstellungen
 
 - Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
-
-
-

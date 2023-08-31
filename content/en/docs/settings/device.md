@@ -81,9 +81,9 @@ To deactivate or activate the vibration on keypress of the device, proceed as fo
 
     ![VitalControl: menu settings Display brightness](../images/vibrationonkeypress.png "Display brightness")
 
-## Ressource monitor
+## Resource monitor
 
-To deactivate or activate the vibration ressource monitor of the device, proceed as follows:
+To deactivate or activate the vibration resource monitor of the device, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
 
@@ -91,7 +91,7 @@ To deactivate or activate the vibration ressource monitor of the device, proceed
 
 3. Another submenu opens where you can choose between `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Display brightness`.
 
-4. Use the arrow keys ◁ ▷ to activate or deactivate the ressource monitor.
+4. Use the arrow keys ◁ ▷ to activate or deactivate the resource monitor.
 
     ![VitalControl: menu settings Ressource monitor](../images/ressourcemonitor.png "Ressource monitor")
 

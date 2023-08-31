@@ -6,7 +6,7 @@ weight: 30
 draft: false
 slug: temperatur
 description: >
- Legen Sie die Temperatureinstellungen für die Anwendung ihres Vital-Controll Gerät fest
+ Legen Sie die Temperatureinstellungen für die Anwendung ihres VitalControl Gerät fest
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Temperatur, Schwellenwert, Beleuchtung Messort]
 translationKey: settings/temperature
@@ -24,7 +24,7 @@ auswählen können. Wählen Sie `Schwellenwert`.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen.
 
-5. Nutzen Sie das Stiftsymbol mit der Taste `F3` um den Schwellenwert des Gelben und Roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F3` oder die Pfeiltasen ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen. 
+5. Nutzen Sie das Stiftsymbol mit der Taste `F3` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen. 
 
 6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurückpfeil mit der Taste `F1` um zurück auf den `Schwellenwert` zu springen.
 
@@ -68,4 +68,3 @@ auswählen können. Wählen Sie `Beleuchtung Messort`.
 ## Einstellungen speichern und zurück zum Obermenü Einstellungen
 
 - Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
-
