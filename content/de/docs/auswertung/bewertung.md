@@ -1,13 +1,13 @@
 ---
-title: Bewertung auswerten
-linkTitle: Bewertung auswerten
-slug: bewertung-auswerten
+title: Tierbeurteilungen auswerten
+linkTitle: Tierbeurteilungen
+slug: beurteilung-tiere
 weight: 30
 description: >
   Werten Sie ihre gespeicherten Daten in der Rubrik Bewertung aus.
 date: 2023-07-26
 Kategorien: [Auswertungen]
-Tags: [Auswertungen, Bewertung]
+Tags: [Auswertungen, Tierbeurteilungen]
 translationKey: evaluation/rating
 ---
 {{% alert title="HINWEIS" %}}

@@ -1,7 +1,7 @@
 ---
 title: Temperatur auswerten
-linkTitle: Temperatur auswerten
-slug: temperatur-auswerten
+linkTitle: Temperatur
+slug: temperatur
 weight: 20
 description: >
   Werten Sie ihre gespeicherten Daten in der Rubrik Temperatur aus.
@@ -18,7 +18,7 @@ In den folgenden Auswertungen können Sie jeweils einen Filter anlegen. Sehen Si
 
 In dieser Auswertung können Sie folgende Informationen einsehen:
 - Aktuell fiebrig erkrankte Tiere 
-- Bereits ein- oder merhmals fiebrig diagnostizierte Tiere
+- Bereits ein- oder mehrmals fiebrig diagnostizierte Tiere
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 

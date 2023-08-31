@@ -1,7 +1,7 @@
 ---
 title: Verlustraten auswerten
 linkTitle: Verlustraten auswerten
-slug: verlustraten-auswerten
+slug: verlustrate
 weight: 40
 description: >
   Werten Sie ihre gespeicherten Daten in der Rubrik Verlustraten aus.
@@ -10,9 +10,6 @@ Kategorien: [Auswertungen]
 Tags: [Auswertungen, Verlustraten]
 translationKey: evaluation/mortality
 ---
-{{% alert title="HINWEIS" %}}
-In den folgenden Auswertungen können Sie jeweils einen Filter anlegen. Sehen Sie dazu [Filter](../filter-anlegen/)
-{{% /alert %}}
 ## Verlustraten auswerten
 
 In dieser Auswertung können Sie Ihre Verlustraten als Historie einsehen. Die Verlustrate wird Ihnen als Prozentzahl angegeben und in die Kategorien Grün, Gelb und Rot unterteilt.

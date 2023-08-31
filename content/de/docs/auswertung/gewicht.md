@@ -1,17 +1,17 @@
 ---
-title: Gewicht auswerten
-linkTitle: Gewicht auswerten
-slug: gewicht-auswerten
+title: Auswertung der Gewichtsentwicklung ihrer Tiere 
+linkTitle: Gewichtsentwicklung
+slug: gewicht
 weight: 10
 description: >
-  Werten Sie ihre gespeicherten Daten in der Rubrik Gewicht aus.
+  Werten Sie die mit dem VitalControl erfassten Gewichtswerte ihrer Tiere aus.
 date: 2023-07-26
 Kategorien: [Auswertungen]
 Tags: [Auswertungen, Gewicht]
 translationKey: evaluation/weight
 ---
 {{% alert title="HINWEIS" %}}
-In den folgenden Auswertungen können Sie jeweils einen Filter anlegen. Sehen Sie dazu [Filter](../filter-anlegen/)
+In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filter](../filter-anlegen/) können Sie die Auswertung auf eine Teilmenge der Tiere auf ihrem Gerät beschränken, z.B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
 {{% /alert %}}
 
 ## Heutige Wiegungen
@@ -29,7 +29,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Heutige Wiegung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
-4. Nach Abschluss der Berechnung können Sie die oben gennanten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste. 
+4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste. 
 
    ![VitalControl: Menüfolge Auswertungen Heutige Wiegungen](../bilder/heutewiegung.png "Heutige Wiegungen auswerten")
 
@@ -46,7 +46,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Geburtsgewichte` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
-4. Nach Abschluss der Berechnung können Sie die oben gennanten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
+4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 
    ![VitalControl: Menüfolge Auswertungen Geburtsgewichte](../bilder/geburtsgewichte.png "Geburtsgewichte auswerten")
 
@@ -66,7 +66,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
-4. Nach Abschluss der Berechnung können Sie die oben gennanten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste. 
+4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste. 
 
    ![VitalControl: Menüfolge Auswertungen Gewichtsentwicklung](../bilder/gewichtsentwicklung.png "Gewichtsentwicklung auswerten")
 
