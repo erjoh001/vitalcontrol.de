@@ -3,13 +3,13 @@ title: "Geräteeinstellungen"
 linkTitle: "Gerät"
 date: 2023-07-28T13:25:28+02:00
 weight: 50
-slug: tool
+slug: geraet
 description: >
  Hier nehmen Sie verschiedene Geräteeinstellungen vor.
 date: 2023-07-26
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Gerät]
-translationKey: settings/farm-number
+translationKey: settings/device
 ---
 ## Gerät abschalten nach einstellen
 

@@ -3,6 +3,7 @@ title: Language settings
 linkTitle: Language
 date: 2023-07-28T13:25:28+02:00
 draft: false
+weight: 10
 description: >
   Set and permanently store the language of the user interface on your VitalControl device.
 Kategorien: [Settings]

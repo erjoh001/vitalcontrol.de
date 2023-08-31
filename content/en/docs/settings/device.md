@@ -1,15 +1,15 @@
 ---
-title: "Device setting" 
+title: "Device settings"
 linkTitle: "Device"
 date: 2023-07-28T13:25:28+02:00
 weight: 50
 slug: device
 description: >
- Here you make various device settings.
+ Here you can adjust various device settings.
 date: 2023-07-26
 Kategorien: [settings]
 Tags: [settings, device]
-translationKey: settings/farm-number
+translationKey: settings/device
 ---
 ## Shutdown device after
 To set the period of non-activity until the device is switched off, proceed as follows.

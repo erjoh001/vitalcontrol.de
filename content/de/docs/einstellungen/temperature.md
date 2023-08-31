@@ -4,12 +4,12 @@ linkTitle: "Temperatur"
 date: 2023-07-28T13:25:28+02:00
 weight: 30
 draft: false
-slug: temperature
+slug: temperatur
 description: >
  Legen Sie die Temperatureinstellungen für die Anwendung ihres Vital-Controll Gerät fest
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Temperatur, Schwellenwert, Beleuchtung Messort]
-translationKey: temperature
+translationKey: settings/temperature
 ---
 ## Tierart des Schwellenwertes & Temperaturbereiche einstellen
 

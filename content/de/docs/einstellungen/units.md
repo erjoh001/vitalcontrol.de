@@ -4,12 +4,12 @@ linkTitle: "Einheiten"
 date: 2023-07-28T13:25:28+02:00
 weight: 20
 draft: false
-slug: Units
+slug: einheiten
 description: >
  Hier wählen Sie Einheiten für die Temperatur und die Masse aus. 
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Einheiten]
-translationKey: units
+translationKey: settings/units
 ---
 ## Temperatureinheit festlegen
 

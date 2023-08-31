@@ -1,6 +1,6 @@
 ---
-title: "Data acqiusition"
-linkTitle: "Data acqiusition"
+title: "Data acquisition"
+linkTitle: "Data acquisition"
 weight: 40
 date: 2023-07-28T13:25:28+02:00
 draft: false
@@ -8,8 +8,8 @@ slug: dataacqiusition
 description: >
  Here you store relevant information for the animal data collection
 Kategorien: [settings]
-Tags: [settings, units]
-translationKey: units
+Tags: [settings, data acquisition]
+translationKey: settings/data-acquisition
 ---
 ## Set weight recording
 ### Set daily weight gain

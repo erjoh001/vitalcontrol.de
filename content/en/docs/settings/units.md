@@ -9,7 +9,7 @@ description: >
  Here you select units for temperature and mass.
 Kategorien: [settings]
 Tags: [settings, units]
-translationKey: units
+translationKey: settings/units
 ---
 ## Set temperature unit
 

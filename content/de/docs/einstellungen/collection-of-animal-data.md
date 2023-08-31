@@ -1,15 +1,15 @@
 ---
 title: "Tierdatenerfassung festlegen"
-linkTitle: "Tierdaten"
+linkTitle: "Tierdatenerfassung"
 weight: 40
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: collectionofanimaldata
+slug: erfassung-tierdaten
 description: >
  Hier hinterlegen Sie relevante Informationen für die Tierdatenerfassung.
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Einheiten]
-translationKey: units
+translationKey: settings/data-acquisition
 ---
 ## Gewichtserfassung einstellen
 ### Tägliche Zunahmen einstellen
@@ -22,7 +22,7 @@ Um die `Tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
 
-4. Nutzen Sie im Bereich `Tägliche Zuhnamen` die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen. Bestätigen Sie mit `OK`. Alternativ können Sie das Stiftsymbol mit der Taste `F3` verwenden um direkt zur Bearbeitung des Roten und Gelben Bereiches zu springen.
+4. Nutzen Sie im Bereich `Tägliche Zunahmen` die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen. Bestätigen Sie mit `OK`. Alternativ können Sie das Stiftsymbol mit der Taste `F3` verwenden um direkt zur Bearbeitung des Roten und Gelben Bereiches zu springen.
 
 5. Nutzen Sie die Pfeiltasten hoch und runter um im Roten und Gelben Bereich die gewünschte "größer gleich" g/Tag Zunahme auszuwählen. Nutzen Sie die Tasten `F3` oder die Pfeiltasen ◁ ▷ um zwischen dem Roten und Gelben Bereich zu wählen. 
 

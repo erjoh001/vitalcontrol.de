@@ -3,13 +3,13 @@ title: "Zuordnung des Transponders"
 linkTitle: "Transponder zuordnen"
 date: 2023-07-28T13:25:28+02:00
 weight: 70
-slug: classifytransponder
+slug: zuordnung-transponder
 description: >
-  Legen Sie die Zuordnung des Transpnders auf ihrem VitalControl-Gerät fest.
+  Legen Sie die Zuordnung des Transponders auf ihrem VitalControl-Gerät fest.
 date: 2023-07-26
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Maximalalter, Vergabe Tiernummern]
-translationKey: settings/farm-number
+translationKey: settings/link-transponder
 ---
 ## Maximalalter zugekaufter Fresser einstellen
 

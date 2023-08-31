@@ -4,12 +4,12 @@ linkTitle: "Registration of animals"
 date: 2023-07-28T13:25:28+02:00
 weight: 60
 draft: false
-slug: registrationofanimals
+slug: animal-registration
 description: >
-  Here you adapt several factory-set standards to the requirements of your operation.
+  Here you can adjust several factory-set standards concerning the registration of new animals to the requirements of your farm.
 Kategorien: [settings]
 Tags: [settings, Default values]
-translationKey: units
+translationKey: settings/new-animals
 ---
 ## Set default values
 ### Set recorded weight(s)

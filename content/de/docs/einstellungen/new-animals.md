@@ -4,12 +4,12 @@ linkTitle: "Tiere neu anlegen"
 date: 2023-07-28T13:25:28+02:00
 weight: 60
 draft: false
-slug: newanimal
+slug: tiere-neu-anlegen
 description: >
-  Hier passen Sie mehrere werksseitig eingestellte Standards an die Erfordernisse Ihres Betriebs an. 
+  Hier passen Sie mehrere werksseitig eingestellte Standards bezüglich des Anlegens von neuen Tieren an die Erfordernisse Ihres Betriebs an. 
 Kategorien: [Einstellungen]
-Tags: [Einstellungen, Standardwerte]
-translationKey: units
+Tags: [Einstellungen, Tiere neu anlegen]
+translationKey: settings/new-animals
 ---
 ## Standardwerte festlegen
 ### Erfasste Gewichte(e) einstellen
