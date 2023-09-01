@@ -18,7 +18,7 @@ To set the period of non-activity until the device is switched off, proceed as f
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
-3. Another submenu opens where you can choose between `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Shutdown device after`.
+3.  Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for  `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Shutdown device after`.
 
 4. Use the arrow keys ◁ ▷ to set the desired duration in minutes.
 
@@ -32,7 +32,7 @@ To set the start up screen proceed as follows.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
-3. Another submenu opens where you can choose between `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Start-up screen`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for  `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Start-up screen`.
 
 4. Use the arrow keys ◁ ▷ to set the desired start-up screen.
 
@@ -40,14 +40,13 @@ To set the start up screen proceed as follows.
 
 ## Demonstration mode
 
-If the presentation mode is selected, the device simulates the temperature measurements and displays a randomly generated temperature as a measured value. This mode is used for device demonstration
-if no animals are available for a measurement. To deactivate or activate the presentation mode of the device, proceed as follows:
+If the presentation mode is selected, the device simulates the temperature measurements and displays a randomly generated temperature as a measured value. This mode is used for device demonstration if no animals are available for a measurement. To deactivate or activate the presentation mode of the device, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
-3. Another submenu opens where you can choose between `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Demonstration mode`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for  `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Demonstration mode`.
 
 4. Use the arrow keys ◁ ▷ to activate or deactivate the presentation mode.
 
@@ -61,7 +60,7 @@ To set the display brightness proceed as follows.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
-3. Another submenu opens where you can choose between `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Display brightness`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for  `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Display brightness`.
 
 4. Use the arrow keys ◁ ▷ to set the display brightness.
 
@@ -75,7 +74,7 @@ To deactivate or activate the vibration on keypress of the device, proceed as fo
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
-3. Another submenu opens where you can choose between `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Display brightness`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for  `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Vibration on keypress`.
 
 4. Use the arrow keys ◁ ▷ to activate or deactivate the vibration on keypress.
 
@@ -89,7 +88,7 @@ To deactivate or activate the vibration resource monitor of the device, proceed 
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
-3. Another submenu opens where you can choose between `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Display brightness`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for  `Shutdown device after`, `Start-up screen`, `Demonstration mode`, `Display brightness`, `Vibration on keypress` and `Resource monitor`. Select  `Resource monitor`.
 
 4. Use the arrow keys ◁ ▷ to activate or deactivate the resource monitor.
 

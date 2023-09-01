@@ -14,11 +14,11 @@ translationKey: settings/link-transponder
 ## Set maximum age of purchased calves
 To set the `Purchased calves maximum age` on your device proceed as follows.
 
-1. select the menu item `Settings` in the main screen of your VitalControl device and press the `OK` button.
+1. Select the menu item `Settings` in the main screen of your VitalControl device and press the `OK` button.
 
-2. a submenu opens in which various settings are displayed. Use the arrow keys  △ ▽ to select `Link transponder`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys  △ ▽ to select `Link transponder`. Confirm with `OK`.
 
-3. The `Purchased calves maximum age` area is automatically selected. Use the arrow keys ◁ ▷ to set the maximum age.
+3. The setting field `Purchased calves maximum age` is automatically selected. Use the arrow keys ◁ ▷ to set the maximum age.
 
     ![VitalControl: menu settings link transponder](../images/maximumage.png "Purchased calves maximum age")
 
@@ -26,15 +26,15 @@ To set the `Purchased calves maximum age` on your device proceed as follows.
 
 To set the `Assignment animal ID` on your device, proceed as follows.
 
-1. select the menu item `Settings` in the main screen of your VitalControl device and press the `OK` key.
+1. Select the menu item `Settings` in the main screen of your VitalControl device and press the `OK` key.
 
-2. a submenu opens in which various settings are displayed. Use the arrow keys up and down to select `Link transponder`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽  to select `Link transponder`. Confirm with `OK`.
 
-3. Select the `Assignment animal ID` area.
+3. Use the arrow keys △ ▽ to select the setting field `Assignment animal ID`.
 
 4. Use the arrow keys ◁ ▷ to set the assignment of the animal numbers. If you select the setting `Derivation from transponder number`, you will get the options to set the `Digits of new ID` and `Right offset`. Use the arrow keys △ ▽ to select the appropriate range and the arrow keys ◁ ▷ to select the desired setting.
 
-5. select the option `Consecutive` or `Derivation from transponder number` please proceed as in LINK EINSETZEN
+5. Select the option `Consecutive` or `Derivation from transponder number` please proceed as in [Assignment animal ID](../animal-registration/#assignment-animal-id)
 
 
     ![VitalControl: menu settings link transponder](../images/assignmentanimalid.png "Assignment animal ID")

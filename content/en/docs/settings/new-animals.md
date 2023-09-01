@@ -14,13 +14,13 @@ translationKey: settings/new-animals
 ## Set default values
 ### Set recorded weight(s)
 
-Here you define which weight will be recorded and saved when creating new animals in your farm. To set the recorded weight on your device, proceed as follows.
+Here you define which weight is recorded and saved when creating new animals on your farm. To set the recorded weight on your device, proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`. 
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`. 
 
 4. The `Recorded weight(s)` area is automatically selected. Use the arrow keys ◁ ▷ to select the weight to be captured.
 
@@ -31,24 +31,23 @@ Here you define which weight will be recorded and saved when creating new animal
 {{% /alert %}}
 
 ### Set age at registration
+{{% alert title="Hint" %}}
+Based on the age entered here, the device calculates the date of birth that is suggested for a manually created animal or that is used for automatic creation in the background (via tranponder scan). For dairy farms, enter the age in days at which newborn calves are registered in VitalControl. For feeder rearing farms, the average age of the purchased calves is to be entered here. The permissible range of values is from 0 to 99 days.
+{{% /alert %}}
 
-Based on the age entered here, the device calculates the date of birth that is suggested for a manually created animal or that is used for automatic creation in the background (via tranponder scan). For dairy farms, enter the age in days at which newborn calves are registered in VitalControl. For feeder rearing farms, the average age of the purchased calves is to be entered here. The permissible range of values is from 0 to 99 days.To set the age at creation on your device proceed as follows:
+To set the age at creation on your device proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
 
-4. Select the `Age at registration` area.
+4. Use the arrow keys △ ▽ to select the `Age at registration`.
 
 5. Use the arrow keys ◁ ▷ to set the age at creation.
 
     ![VitalControl: menu settings Set age at registration](../images/ageatregistration.png "Set age at registration")
-
-{{% alert title="Hint" %}}
-Based on the age information entered there, the device calculates the date of birth that is suggested for a manually created animal or that is used for automatic creation in the background (via tranponder scan). For dairy farms, enter the age in days at which newborn calves are registered in VitalControl. For feeder rearing farms, the average age of the purchased calves is to be entered here. The permissible range of values is from 0 to 99 days.
-{{% /alert %}}
 
 ### Set sex
 
@@ -59,9 +58,9 @@ background). To define the sex when creating on your device, proceed as follows.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
 
-4. Select the `Sex` area.
+4. Use the arrow keys △ ▽ to select the `Sex`.
 
 5. Use the arrow keys ◁ ▷ to set the sex when creating.
 
@@ -75,9 +74,9 @@ Here you define which type of animal is recorded when creating new animals in yo
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
 
-4. Select the `Type of animal` area.
+4. Use the arrow keys △ ▽ to select the `Type of animal`.
 
 5. Use the arrow keys ◁ ▷ to set the type of animal when creating.
 
@@ -91,9 +90,9 @@ Here you define which breed of the livestock is recorded when creating new anima
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
 
-4. Select the `Breed` area.
+4. Use the arrow keys △ ▽ to select `Breed`.
 
 5. Use the arrow keys ◁ ▷ to set the breed when creating.
 
@@ -107,9 +106,9 @@ Here you define which whereabouts are assigned to the animals when creating new 
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
 
-4. Select the `Whereabouts` area.
+4. Use the arrow keys △ ▽ to select `Whereabouts`.
 
 5. Use the arrow keys ◁ ▷ to set the whereabouts when creating.
 
@@ -122,29 +121,41 @@ Here you define which whereabouts are assigned to the animals when creating new 
 ## Auto-registration 
 
 Here you define the behavior of the device when a new transponder, which is not yet known to the VitalControl device, is scanned. For this case three different 
-different behaviors can be defined. In order to define the behavior when the user animal is automatically created on your device, proceed as follows:
+different behaviors can be defined. 
+
+{{% alert title = "Hint" %}}
+When the user confirms the creation of animals, an input screen appears in which the user can enter the data of the new animal to be created (gender, date of birth, etc.). With automatic creation, the values ​​defined in "Settings > Create new animals" are used for all automatically created animals for sex, age, etc. Animal-specific settings are not possible here.
+{{% /alert %}}
+
+In order to define the behavior when the user animal is automatically created on your device, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Auto-registration` and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Auto-registration` and confirm with `OK`.
 
-4. The `Auto-registration` area is automatically selected. Use the arrow keys ◁ ▷ to select the Auto-registration behavior.
+4. The preference field `Auto-registration` is selected automatically. Use the arrow keys ◁ ▷ to determine the behavior of the device when creating new animals.
 
     ![VitalControl: menu settings auto-registration](../images/autoregistration.png "auto-registration")
 
 ## Assignment animal ID
 
-Here you define which animal ID is proposed (derived from transponder number) or used (consecutive) when creating a new animal in your farm. To define the assignment of the animal ID when creating the farm animal on your device, proceed as follows:
+Here you define which animal ID is proposed (derived from transponder number) or used (consecutive) when creating a new animal in your farm. 
+
+{{% alert title = "Hint" %}}
+Select the "Consecutive" option if the stall number you use for visual identification of the animal is assigned independently of the transponder number used for electronic identification. The stall or collar numbers are then assigned consecutively within a certain range (e.g. 1 - 40) and are then not directly related to the transponder numbers used. Select the option "Derive from transponder number" if you want to link the animal's stall number directly to the number of the transponder that was assigned to the animal. This option is especially useful if you use yellow electronic ear tags, the barn number is then identical to the end digits of the ten-digit animal number printed on the yellow ear tag.
+{{% /alert %}}
+
+To define the assignment of the animal ID when creating the farm animal on your device, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Auto-registration` and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Auto-registration` and confirm with `OK`.
 
-4. Select the `Assignment animal ID` area.
+4. Use the arrow keys △ ▽ to select `Assignment animal ID`.
 
 5. Use the arrow keys ◁ ▷ to set the assignment of the animal ID of the working animal when creating.
 
@@ -153,10 +164,6 @@ Here you define which animal ID is proposed (derived from transponder number) or
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid2.png "Assignment animal ID")
     
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid3.png "assignment animal ID")
-
-{{% alert title = "Hint" %}}
-Select the "Consecutive" option if the stall number you use for visual identification of the animal is assigned independently of the transponder number used for electronic identification. The stall or collar numbers are then assigned consecutively within a certain range (e.g. 1 - 40) and are then not directly related to the transponder numbers used. Select the option "Derive from transponder number" if you want to link the animal's stall number directly to the number of the transponder that was assigned to the animal. This option is especially useful if you use yellow electronic ear tags, the barn number is then identical to the end digits of the ten-digit animal number printed on the yellow ear tag.
-{{% /alert %}}
 
 {{% alert title = "Hint" %}}
 Only when using the "Consecutive" option: if you have set to use separate number ranges for male and female animals when assigning the ear tag number, a next animal number is stored for each of male, female and animals of unknown sex. A symbol placed to the left of the animal number indicates what the next animal number is used for: either for male ♀ or for female ♂ or for animals of unknown sex ♀♂?
@@ -170,9 +177,9 @@ Here you define which length a barn number derived from the transponder number h
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Auto-registration` and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Auto-registration` and confirm with `OK`.
 
-4. Select the `Digits of the new ID` area.
+4. Use the arrow keys △ ▽ to select `Assignment animal ID`.
 
 5. Use the arrow keys ◁ ▷ to set the digit of the new ID of the working animal when creating.
 
@@ -180,24 +187,26 @@ Here you define which length a barn number derived from the transponder number h
 
 ### Right offset
 
-Here you define whether an offset is also taken into account when deriving a barn number from the transponder number. Without offset the last 2-6 digits of the transponder number will be used as stable number, with an offset of 1 the rightmost digit will be discarded, with an offset of 2 the two rightmost digits, and so on. To set the offset to the right of the animal on your device, proceed as follows:
-
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
-
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
-
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Auto-registration` and confirm with `OK`.
-
-4. Select the `Right offset` area.
-
-5. Use the arrow keys ◁ ▷ to set the right offset area of the working animal when creating.
-
-    ![VitalControl: menu settings right offset](../images/rightoffset.png "right offset")
+Here you define whether an offset is also taken into account when deriving a barn number from the transponder number. Without offset the last 2-6 digits of the transponder number will be used as stable number, with an offset of 1 the rightmost digit will be discarded, with an offset of 2 the two rightmost digits, and so on. 
 
 {{% alert title = "Hint" %}}
 To graphically illustrate the effect of the set parameters, a fifteen-digit transponder number is displayed below the line for setting the offset. A green frame indicates the stall number that would be derived from the transponder number with the current settings. A change of the setting values "Length" and "Offset" leads directly to an update of the derived
 leads immediately to an update of the derived barn number.
 {{% /alert %}}
+
+To set the offset to the right of the animal on your device, proceed as follows:
+
+1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
+
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Auto-registration` and confirm with `OK`.
+
+4. Use the arrow keys △ ▽ to select `Right offset`.
+
+5. Use the arrow keys ◁ ▷ to set the right offset area of the working animal when creating.
+
+    ![VitalControl: menu settings right offset](../images/rightoffset.png "right offset")
 
 ### Save and return to the top menu Settings
 
@@ -211,7 +220,7 @@ Here you define whether one or two number ranges are used when assigning the ear
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can select between `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Assignment ear tag number`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Assignment ear tag number` and confirm with `OK`.
 
 4. Use the arrow keys ◁ ▷ to assign the ear tag number the working animal when creating.
 

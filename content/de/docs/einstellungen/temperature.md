@@ -12,54 +12,55 @@ Tags: [Einstellungen, Temperatur, Schwellenwert, Beleuchtung Messort]
 translationKey: settings/temperature
 ---
 ## Tierart des Schwellenwertes & Temperaturbereiche einstellen
+{{% alert title = "Hinweis" %}}
+Hier sind Schwellenwerte für die Körpertemperatur jeweils individuell für die Tierarten Kalb, Kuh und Lamm hinterlegt. Das gelbe und das rote Feld zeigen jeweils den Schwellenwert für „erhöhte Temperatur“ bzw. für „Fieber“. VitalControl setzt Tiere im gelben und roten Bereich auf die Alarmliste und erleichtert Ihnen so die Kontrolle kranker Tiere. Ein Schwellenwert für Untertemperatur kann ebenfalls frei definiert werden. 
+{{% /alert %}}
 
 Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Schwellenwert` auszuwählen. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen `Schwellenwert`, `Untertemperatur` und `Beleuchtung Messort`
-auswählen können. Wählen Sie `Schwellenwert`. 
+3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Schwellenwerte`, `Untertemperatur` und `Beleuchtung Messort` wechseln können. Wählen Sie das Einstellungsfeld `Schwellenwert` aus.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen.
 
-5. Nutzen Sie das Stiftsymbol mit der Taste `F3` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen. 
+5. Nutzen Sie das Stiftsymbol mit der Taste `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen. 
 
-6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurückpfeil mit der Taste `F1` um zurück auf den `Schwellenwert` zu springen.
+6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurückpfeil mit der Taste `F1` um zurück auf `Schwellenwerte` zu springen.
 
     ![VitalControl: Menüfolge Einstellung Datum](../bilder/schwellenwert.png "Datum einstellen")
 
-{{% alert title = "Tipp" %}}
-Tipp:
-Hier sind Schwellenwerte für die Körpertemperatur jeweils individuell für die Tierarten Kalb, Kuh und Lamm hinterlegt. Das gelbe und das rote Feld zeigen jeweils den Schwellenwert für „erhöhte Temperatur“ bzw. für „Fieber“. VitalControl setzt Tiere im gelben und roten Bereich auf die Alarmliste und erleichtert Ihnen so die Kontrolle kranker Tiere. Ein Schwellenwert für Untertemperatur kann ebenfalls frei definiert werden. 
-{{% /alert %}}
-
 ## Untertemperatur festlegen
+{{% alert title = "Hinweis" %}}
+Hier stellen Sie ein ab welcher gemessenen Temperatur eine Untertemperatur vorliegt. Während des Fiebermessens wird Ihnen diese Temperatur blau hinterlegt angezeigt. 
+{{% /alert %}}
 
 Um den Schwellenwert für die Untertemperatur einzustellen gehen Sie wie folgt vor:
 
-1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen `Schwellenwert`, `Untertemperatur` und `Beleuchtung Messort`
-auswählen können. Wählen Sie `Untertemperatur`. 
+3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Schwellenwerte`, `Untertemperatur` und `Beleuchtung Messort` wechseln können. Wählen Sie das Einstellungsfeld `Untertemperatur` aus.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte "kleiner als" Temperatur auszuwählen.
 
     ![VitalControl: Menüfolge Einstellung Datum](../bilder/untertemperatur.png "Datum einstellen")
 
 ## Beleuchtung Messort
+{{% alert title = "Hinweis" %}}
+Hier stellen Sie ein, ob das Licht während des Fiebermessens automatisch aktiviert bzw. deaktiviert sein soll. 
+{{% /alert %}}
 
 Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu aktivieren gehen sie wie folgt vor:
 
-Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen `Schwellenwert`, `Untertemperatur` und `Beleuchtung Messort`
-auswählen können. Wählen Sie `Beleuchtung Messort`. 
+3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Schwellenwerte`, `Untertemperatur` und `Beleuchtung Messort` wechseln können. Wählen Sie das Einstellungsfeld `Beleuchtung Messort` aus.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die Beleuchtungsautomatik zu de- bzw. zu aktivieren. 
 

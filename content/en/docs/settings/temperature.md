@@ -12,6 +12,9 @@ Tags: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
 ## Set the threshold & temperature ranges
+{{% alert title = "Hint" %}}
+Threshold values for the body temperature are stored here individually for the animal species calf, cow and lamb. The yellow and red fields show the threshold value for "elevated temperature" and "fever" respectively. VitalControl places animals in the yellow and red areas on the alarm list, making it easier for you to monitor sick animals. A threshold for under temperature can also be freely defined.
+{{% /alert %}}
 
 To set the threshold & temperature ranges on your device proceed as follows:
 
@@ -19,7 +22,7 @@ To set the threshold & temperature ranges on your device proceed as follows:
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 
-3. A further submenu opens in which you can select between `Tresholds`, `Undertemperature` and `Anus spotlight` can be selected. Select `Tresholds`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Thresholds`, `Undertemperature` and `Anus spotlight`. Select the `Threshold` settings field.
 
 4. Use the arrow keys ◁ ▷ to select the desired threshold.
 
@@ -29,11 +32,11 @@ To set the threshold & temperature ranges on your device proceed as follows:
 
     ![VitalControl: menu settings threshold & temperature ranges](../images/threshold.png "Threshold & Temperature ranges")
 
-{{% alert title = "Hint" %}}
-Threshold values for the body temperature are stored here individually for the animal species calf, cow and lamb. The yellow and red fields show the threshold value for "elevated temperature" and "fever" respectively. VitalControl places animals in the yellow and red areas on the alarm list, making it easier for you to monitor sick animals. A threshold for under temperature can also be freely defined.
-{{% /alert %}}
 
 ## Set undertemperature
+{{% alert title = "Hinweis" %}}
+Here you set the measured temperature from which an undertemperature occurs. During the fever measurement, this temperature is displayed with a blue background.
+{{% /alert %}}
 
 To set the threshold value for the undertemperature, proceed as follows:
 
@@ -41,21 +44,24 @@ To set the threshold value for the undertemperature, proceed as follows:
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 
-3. A further submenu opens in which you can select between `Tresholds`, `Undertemperature` and `Anus spotlighting` can be selected. Select `Undertemperature`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Thresholds`, `Undertemperature` and `Anus spotlight`. Select the `Undertemperature` settings field.
 
 4. Use the arrow keys ◁ ▷ to select the desired threshold value for the undertemperature.
 
     ![VitalControl: menu settings undertemperature](../images/undertemperature.png "Undertemperature")
 
 ## Anus spotlight
+{{% alert title = "Hinweis" %}}
+Here you can set whether the light should be automatically activated or deactivated during fever measurement. 
+{{% /alert %}}
 
-To deactivate or activate the anus spotlight during the 'Temperature' action, proceed as follows:
+To deactivate or activate the anus spotlight during the `Temperature` action, proceed as follows:
 
 1. From the main screen of your VitalControl device, select `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 
-3. A further submenu opens in which you can select between `Tresholds`, `Undertemperature` and `Anus spotligt` can be selected. Select `Anus spotligt`.
+3.  Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Thresholds`, `Undertemperature` and `Anus spotlight`. Select the `Anus spotlight` settings field.
 
 4. Use the arrow keys ◁ ▷ to deactivate or activate the anus spotlight.
 

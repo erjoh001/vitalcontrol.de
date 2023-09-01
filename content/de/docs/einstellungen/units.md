@@ -17,10 +17,9 @@ Um die Temperatureinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Wählen Sie den Bereich `Einheiten` aus . Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Menüpunkte angezeigt werden. Wählen Sie den Menüpunkt `Einheiten` aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen `Temperatureinheit` und `Masseneinheit` 
-auswählen können. Wählen Sie `Temperatureinheit`.
+3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Temperatureinheit` und `Masseneinheit` wechseln können. Wählen Sie Einstellungsfeld `Temperatureinheit` aus.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Temperatureinheit auszuwählen.
 
@@ -32,10 +31,9 @@ Um die Masseneinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Wählen Sie den Bereich `Einheiten` aus. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Menüpunkte angezeigt werden. Wählen Sie den Menüpunkt `Einheiten` aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen `Temperatureinheit` und `Masseneinheit` 
-auswählen können. Wählen Sie `Masseneinheit`.
+3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Temperatureinheit` und `Masseneinheit` wechseln können. Wählen Sie Einstellungsfeld `Masseneinheit` aus.
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Masseneinheit auszuwählen.
 
