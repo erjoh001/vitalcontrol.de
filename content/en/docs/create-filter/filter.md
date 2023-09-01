@@ -6,17 +6,20 @@ weight: 50
 description: >
  Create a filter for the evaluations.
 date: 2023-07-26
-categories: [Evaluation]
-tags: [Evaluation, Filter]
-translationKey: evaluation/filter
+categories: [Filter]
+tags: [Filter]
+translationKey: filter
 ---
 ## Create filter
+{{% alert title="HINWEIS" %}}
+The filter helps you to carry out a selection using filter criteria within the menu items `Herd`, `Lists` and `Evaluation` of the VitalControl device. As soon as you apply a filter, symbols for the various filter criteria appear at the top of the screen. These symbols are used to help you find out whether and which filter criteria are activated. For example, if you set the `Sex` filter to male, the device will only use male animals. For example, if you also activate the `On watch` filter, the device only uses male animals that are on the observation list.
+{{% /alert %}}
 
 To create a filter in the evaluations, proceed as follows:
 
-1. Use the `F3` key either in the top menu `Evaluation` or within the evaluation categories `Weight`, `Temperature`, `Rating` and `Mortality`.
+1. Use the `F3` key once in the menu item `Evaluation` and twice in the menu items `Lists` and `Herd`.
 
-2. A submenu opens in which you can set all filter options. You can filter by `Animal ID`, `Age`, `Sex`, `Transponder`, `National animal ID`, `Fever`, `On watch`, `Type of animal` and `Alarm`. 
+2. A submenu opens in which you can set all filter options. You can filter by `Animal ID`, `Age`, `Sex`, `Transponder`, `National animal ID`, `Fever`, `On watch`, `Type of animal` and `Alarm`.
 
 3. For the filters `Type of animal`, `Sex`, `Transponder` and `National animal ID` navigate to the corresponding area and confirm with `OK`. Use the arrow keys ◁ ▷ to specify the desired setting.
 

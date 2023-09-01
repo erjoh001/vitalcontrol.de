@@ -11,11 +11,11 @@ Tags: [Auswertungen, Gewicht]
 translationKey: evaluation/weight
 ---
 {{% alert title="HINWEIS" %}}
-In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filter](../filter-anlegen/) können Sie die Auswertung auf eine Teilmenge der Tiere auf ihrem Gerät beschränken, z.B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
+In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filters](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf ihrem Gerät beschränken, z.B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
 {{% /alert %}}
 
 ## Heutige Wiegungen
-In dieser Auswertung können Sie folgende, auf die Wiegungen der letzten 6 Stunden bezogenen, Informationen einsehen: 
+In dieser Auswertung können Sie folgende, auf die Wiegungen der letzten 6 Stunden bezogenen, Informationen einsehen:
 - Das mittlere Tiergewicht
 - Die mittlere tägliche Zunahme seit der Geburt
 - Mittlere tägliche Zunahme seit der letzten Wiegung
@@ -23,13 +23,13 @@ In dieser Auswertung können Sie folgende, auf die Wiegungen der letzten 6 Stund
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Auswerten`.
+1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü `Auswerten` aus. Bestätigen Sie mit `OK`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Heutige Wiegung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
-4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste. 
+4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 
    ![VitalControl: Menüfolge Auswertungen Heutige Wiegungen](../bilder/heutewiegung.png "Heutige Wiegungen auswerten")
 
@@ -40,9 +40,9 @@ In dieser Auswertung können Sie folgende Informationen einsehen:
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Auswerten`.
+1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü `Auswerten` aus. Bestätigen Sie mit `OK`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Geburtsgewichte` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
@@ -52,7 +52,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 ## Gewichtsentwicklung auswerten
 
-In dieser Auswertung können Sie folgende, auf alle Wiegungen bezogenen, Informationen einsehen: 
+In dieser Auswertung können Sie folgende, auf alle Wiegungen bezogenen, Informationen einsehen:
 - Das mittlere Tiergewicht
 - Die mittlere tägliche Zunahme seit der Geburt
 - Die mittlere tägliche Zunahme seit der letzten Wiegung
@@ -62,12 +62,10 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Auswerten`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
-4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste. 
+4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 
    ![VitalControl: Menüfolge Auswertungen Gewichtsentwicklung](../bilder/gewichtsentwicklung.png "Gewichtsentwicklung auswerten")
-
-

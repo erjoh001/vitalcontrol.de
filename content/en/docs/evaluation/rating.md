@@ -11,22 +11,21 @@ Tags: [Evaluation, Rating]
 translationKey: evaluation/rating
 ---
 {{% alert title="Hint" %}}
-You can create a filter in each of the following evaluations. See for this [Filter](../create-filter/)
+In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../create-filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
 {{% /alert %}}
-## Evalute rating
 
-In this evaluation you can see the following information as a clear pie chart:
+## Evaluate rating
+
+In this evaluation you can see the following information as a pie chart:
 - Evaluation of the condition of the last three days
-- Evaluation of the condition overall
+- Evaluation of the overall condition
 
 To perform the evaluation, proceed as follows:
 
-1. Open the menu `Evaluation` in the main screen of your VitalControl device.
+1. Open the main screen of your VitalControl device and select the `Evaluate` menu. Confirm with `OK`.
 
-2. Another submenu opens in which you can choose between `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Rating` and confirm with `OK`. 
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Rating` and confirm with `OK`.
 
 3. The device now starts to calculate the success variables.
 
    ![VitalControl: menu Evaluation Evaluate rating](../images/rating.png "Evaluate rating")
-
-
