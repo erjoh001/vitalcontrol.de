@@ -1,5 +1,5 @@
 ---
-title: Auswertung der Gewichtsentwicklung ihrer Tiere 
+title: Auswertung der Gewichtsentwicklung ihrer Tiere
 linkTitle: Gewichtsentwicklung
 slug: gewicht
 weight: 10

@@ -20,7 +20,7 @@ Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren.
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
 
-2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`. 
+2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion `Tierverlust` aus und bestätigen Sie mit `OK`.
 
@@ -29,4 +29,3 @@ Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren.
 5. Verwenden Sie die Taste `F3` um das Tier mit den festgelegten Einstellungen abzumelden.
 
     ![VitalControl: Menüfolge Aktionen Tierverlust](../bilder/tierverlust.png "Tierverlust")
-    

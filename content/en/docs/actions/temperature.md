@@ -85,4 +85,3 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 2. Press the `F1` key to cancel the action.
 
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
-    

@@ -28,7 +28,7 @@ To set the `Daily weight gain` on your device proceed as follows.
 
 4. The `Daily weight gain` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `OK`. Alternatively, you can use the pencil icon with the `F3` key to jump directly to editing the red and yellow areas.
 
-5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the `F3` keys or the ◁ ▷ arrow keys to select between the Red and Yellow areas. 
+5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the `F3` keys or the ◁ ▷ arrow keys to select between the Red and Yellow areas.
 
 6. Once you have set the desired "greater than" or "equal to" g/day increase, use the back arrow with the `F1` key to jump back to `Daily weight gain` or confirm with `OK`.
 
@@ -39,8 +39,7 @@ To set the `Daily weight gain` on your device proceed as follows.
 ### Set birth weight
 
 {{% alert title="Warning" color="warning" %}}
-The standard birth weight is only an approximate value, 
-which must be individually adjusted when creating a new animal. 
+The standard birth weight is only an approximate value, which must be individually adjusted when creating a new animal.
 If you do not want to make this adjustment or if you create animals automatically in the background, no birth weight should be requested or saved when creating a new animal. birth weight should not be queried or saved when creating a new animal. This can be arranged in the settings for "Registration of animals".
 {{% /alert %}}
 

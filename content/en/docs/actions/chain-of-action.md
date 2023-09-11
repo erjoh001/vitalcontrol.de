@@ -9,8 +9,8 @@ date: 2023-07-26
 Kategorien: [Actions]
 Tags: [Actions, chain of action]
 translationKey: actions/chain-of-action
-manualLink: /docs/chain-of-actions/
+manualLink: /en/docs/chain-of-actions/
 ---
 <script>
-  window.location.href = "/docs/chain-of-actions/";
+  window.location.href = "/en/docs/chain-of-actions/";
 </script>

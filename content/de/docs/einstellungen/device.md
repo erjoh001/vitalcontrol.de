@@ -1,5 +1,5 @@
 ---
-title: "Geräteeinstellungen" 
+title: "Geräteeinstellungen"
 linkTitle: "Gerät"
 date: 2023-07-28T13:25:28+02:00
 weight: 50
@@ -50,7 +50,7 @@ wenn keine Tiere für eine Messung zur Verfügung stehen. Um den Präsentationsm
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Präsentationsmodus`.
 
-4. Nutzen Sie die Pfeiltasten ◁ ▷ um den Präsentationsmodus zu de- bzw. aktivieren. 
+4. Nutzen Sie die Pfeiltasten ◁ ▷ um den Präsentationsmodus zu de- bzw. aktivieren.
 
     ![VitalControl: Menüfolge Einstellung Gerät Präsentationsmodus](../bilder/präsentationsmodus.png "Präsentationsmodus einstellen")
 
@@ -64,7 +64,7 @@ Um die Helligkeit des Displays ihres Gerätes einzustellen gehen Sie wie folgt v
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gerät abschalten nach`, `Startbildschirm`, `Präsentationsmodus`, `Helligkeit Display`, `Vibration Tastendruck` und `Ressourcenmonitor` auswählen können. Wählen Sie `Helligkeit Display`.
 
-4. Nutzen Sie die Pfeiltasten ◁ ▷ um die Helligkeit des Displays ihres Gerätes einzustellen. 
+4. Nutzen Sie die Pfeiltasten ◁ ▷ um die Helligkeit des Displays ihres Gerätes einzustellen.
 
     ![VitalControl: Menüfolge Einstellung Gerät Helligkeit Display](../bilder/helligkeitdisplay.png "Helligkeit des Displays einstellen")
 

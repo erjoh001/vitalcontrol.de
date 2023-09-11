@@ -15,7 +15,7 @@ slug: tierimport
 
 Gehen Sie wie folgt vor, um ihren in der HI-Tier Datenbank hinterlegten Tierbestand ganz oder teilweise auf das VitalControl zu übertragen:
 
-### Nur beim ersten Import: Betriebsnummer am VitalControl eingeben 
+### Nur beim ersten Import: Betriebsnummer am VitalControl eingeben
 
 1. Vor dem ersten Datenimport müssen Sie einmalig am VitalControl Ihre [Betriebsnummer eingeben]({{< relref "../../einstellungen/farm-number.md" >}}).
 
@@ -46,7 +46,7 @@ Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht 
 1. Klicken Sie jetzt auf den Menüeintrag `Import Tierbestand HI-Tier`.
 
    ![Windows Startmenü, Eintrag für Urban VitalControl (VCSynchronizer)](../../vcsynchronizer/images/tierimport/import-tierbestand.png "Windows Startmenü, VitalControl")
-   
+
 1. Es öffnet sich ein DOS-Fenster, der Importvorgang wird gestartet. Es werden mehrere Abfragen gestellt, anhand derer sie Angaben zum Umfang des Tierimports festlegen können. Hierbei werden abgefragt:
 
    - ➀ **Geschlecht** der zu importierenden Tiere:

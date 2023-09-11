@@ -6,7 +6,7 @@ weight: 60
 draft: false
 slug: tiere-neu-anlegen
 description: >
-  Hier passen Sie mehrere werksseitig eingestellte Standards bezüglich des Anlegens von neuen Tieren an die Erfordernisse Ihres Betriebs an. 
+  Hier passen Sie mehrere werksseitig eingestellte Standards bezüglich des Anlegens von neuen Tieren an die Erfordernisse Ihres Betriebs an.
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Tiere neu anlegen]
 translationKey: settings/new-animals
@@ -22,7 +22,7 @@ Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb e
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Standardwerte` aus und bestätigen Sie mit `OK`.
 
-4. Das Einstellungsfeld `Erfasste Gewichte` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um das zu erfassende Gewicht auszuwählen. 
+4. Das Einstellungsfeld `Erfasste Gewichte` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um das zu erfassende Gewicht auszuwählen.
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Standardwerte](../bilder/gewichtfestlegen.png "Erfasste Gewicht(e) einstellen")
 
@@ -119,8 +119,8 @@ Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zug
 
 - Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
 
-## Tiere automatisch anlegen 
-Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl-Gerät noch unbekannter Transponder eingescannt wird. Für diesem Fall könnten drei verschiedene Verhaltsweisen definiert werden. 
+## Tiere automatisch anlegen
+Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl-Gerät noch unbekannter Transponder eingescannt wird. Für diesem Fall könnten drei verschiedene Verhaltensweisen definiert werden.
 
 {{% alert title = "Hinweis" %}}
 Beim vom Nutzer bestätigten Anlegen von Tieren erscheint ein Eingabebildschirm, in dem der Nutzer die Daten des neu anzulegenden Tieres eintragen kann (Geschlecht, Geburtsdatum, etc.). Beim automatischen Anlegen werden für alle automatisch angelegten Tiere für Geschlecht, Alter etc. diejenigen Werte übernommen, die in den „Einstellungen > Tiere neu anlegen“ definiert wurden. Tierindividuelle Einstellungen sind hier nicht möglich.
@@ -134,12 +134,12 @@ Um die Verhaltensweise beim Automatischen anlegen des Nutztieres auf ihrem Gerä
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den Einstellungsfeldern `Standardwerte`, `Tiere automatisch anlegen` und `Zuordnung Ohrmarkennummer` wechseln können. Wählen Sie das Einstellungsfeld `Tiere automatisch anlegen` aus und bestätigen Sie mit `OK`.
 
-4. Das Einstellungsfeld `Tiere automatisch anlegen` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um das Verhalten des Gerätes beim Anlegen neuer Tiere festzulegen. 
+4. Das Einstellungsfeld `Tiere automatisch anlegen` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um das Verhalten des Gerätes beim Anlegen neuer Tiere festzulegen.
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Tiere automatisch anlegen](../bilder/tiereautomatischanlegen.png "Tiere automatisch anlegen einstellen")
 
 ### Vergabe Tiernummer einstellen
-Hier definieren Sie welche Tiernummer beim Neuanlegen eines neuen Tieres in Ihrem Betrieb vorgeschlagen (Ableitung von Transpondernummer) bzw. verwendet (fortlaufend) wird. 
+Hier definieren Sie welche Tiernummer beim Neuanlegen eines neuen Tieres in Ihrem Betrieb vorgeschlagen (Ableitung von Transpondernummer) bzw. verwendet (fortlaufend) wird.
 
 {{% alert title = "Tipp" %}}
 Wählen Sie die Option „Fortlaufend“, wenn die von Ihnen zur visuellen Identifikation des Tieres verwendete Stallnummer unabhängig von der zur elektronischen Identifikation verwendeten Transpondernummer vergeben wird. Die Stall oder Halsbandnummern werden dann fortlaufend innerhalb eines bestimmten Bereichs vergeben (z. B. 1 - 40) und stehen dann in keiner direkten Beziehung zu den verwendeten Transpondernummern. Wählen Sie die Option „Ableitung von Transpondernummer“, wenn sie die Stallnummer des Tieres direkt an die Nummer des Transponders koppeln wollen, welcher dem Tier zugewiesen wurde. Diese Option ist insbesondere dann sinnvoll, wenn Sie gelbe elektronische Ohrmarken einsetzen, die Stallnummer ist dann identisch mit den Endziffern der auf der gelben Ohrmarken abgedruckten, zehnstelligen Tiernummer.
@@ -157,7 +157,7 @@ Um die Vergabe der Tiernummern beim Anlegen des Nutztieres auf ihrem Gerät fest
 
 5. Nutzen Sie die Pfeiltasten ◁ ▷ um die Vergabe der Tiernummer des Nutztieres beim Anlegen einzustellen.
 
-6. Wählen Sie die Einstellung `Fortlaufend` haben Sie die Möglichkeit die `Nächste Tiernummer` festzulegen. Nutzen Sie dafür die Pfeiltasten △ ▽ um den Bereich `Nächste Tiernummer` auszuwählen und bestätigen Sie mit `OK`. Navigieren Sie mittels der Pfeiltasten ◁ ▷ innerhalb des Bereiches. Nun können Sie mit den Pfeiltasten △ ▽ eine Zahl auswählen. Das Gerät verwendet diese Nummer nun automatisch um ab dort die Fortlaufende Zählung zu beginnen. Des Weiteren können Sie einstellen ob die Nummern Fortlaufend steigend oder Fortlaufend sinkend gezählt werden sollen. Dafür nutzen Sie die Pfeiltasten ◁ ▷ um auf das Symbol 9/1 zu gelangen. Mittels der Pfeiltasten  △ ▽ können Sie umstellen zwischen Fortlaufend steigend oder Fortlaufend sinkend zählen. Speichern Sie die Einstellungen mittels der `F1` oder `OK` Taste. 
+6. Wählen Sie die Einstellung `Fortlaufend` haben Sie die Möglichkeit die `Nächste Tiernummer` festzulegen. Nutzen Sie dafür die Pfeiltasten △ ▽ um den Bereich `Nächste Tiernummer` auszuwählen und bestätigen Sie mit `OK`. Navigieren Sie mittels der Pfeiltasten ◁ ▷ innerhalb des Bereiches. Nun können Sie mit den Pfeiltasten △ ▽ eine Zahl auswählen. Das Gerät verwendet diese Nummer nun automatisch um ab dort die Fortlaufende Zählung zu beginnen. Des Weiteren können Sie einstellen ob die Nummern Fortlaufend steigend oder Fortlaufend sinkend gezählt werden sollen. Dafür nutzen Sie die Pfeiltasten ◁ ▷ um auf das Symbol 9/1 zu gelangen. Mittels der Pfeiltasten  △ ▽ können Sie umstellen zwischen Fortlaufend steigend oder Fortlaufend sinkend zählen. Speichern Sie die Einstellungen mittels der `F1` oder `OK` Taste.
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Vergabe Tiernummern](../bilder/vergabetiernummern.png "Vergabe Tiernummern einstellen")
 

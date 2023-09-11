@@ -6,7 +6,7 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: datum-uhrzeit
 description: >
-  Hier stellen Sie das Datum und die Uhrzeit für ihr VitalControl-Gerät ein. 
+  Hier stellen Sie das Datum und die Uhrzeit für ihr VitalControl-Gerät ein.
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Datum & Uhrzeit]
 translationKey: settings/datetime

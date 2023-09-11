@@ -6,7 +6,7 @@ weight: 20
 draft: false
 slug: einheiten
 description: >
- Hier wählen Sie Einheiten für die Temperatur und die Masse aus. 
+ Hier wählen Sie Einheiten für die Temperatur und die Masse aus.
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Einheiten]
 translationKey: settings/units

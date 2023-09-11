@@ -20,7 +20,7 @@ Here you define which weight is recorded and saved when creating new animals on 
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`. 
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Default values`, `Auto-registration` and `Assignment ear tag number`. Select `Default values` and confirm with `OK`.
 
 4. The `Recorded weight(s)` area is automatically selected. Use the arrow keys ◁ ▷ to select the weight to be captured.
 
@@ -118,10 +118,9 @@ Here you define which whereabouts are assigned to the animals when creating new 
 
 - Save the settings and return to the top menu `Settings` by pressing the `F1` key.
 
-## Auto-registration 
+## Auto-registration
 
-Here you define the behavior of the device when a new transponder, which is not yet known to the VitalControl device, is scanned. For this case three different 
-different behaviors can be defined. 
+Here you define the behavior of the device when a new transponder, which is not yet known to the VitalControl device, is scanned. For this case three different behaviors can be defined.
 
 {{% alert title = "Hint" %}}
 When the user confirms the creation of animals, an input screen appears in which the user can enter the data of the new animal to be created (gender, date of birth, etc.). With automatic creation, the values ​​defined in "Settings > Create new animals" are used for all automatically created animals for sex, age, etc. Animal-specific settings are not possible here.
@@ -141,7 +140,7 @@ In order to define the behavior when the user animal is automatically created on
 
 ## Assignment animal ID
 
-Here you define which animal ID is proposed (derived from transponder number) or used (consecutive) when creating a new animal in your farm. 
+Here you define which animal ID is proposed (derived from transponder number) or used (consecutive) when creating a new animal in your farm.
 
 {{% alert title = "Hint" %}}
 Select the "Consecutive" option if the stall number you use for visual identification of the animal is assigned independently of the transponder number used for electronic identification. The stall or collar numbers are then assigned consecutively within a certain range (e.g. 1 - 40) and are then not directly related to the transponder numbers used. Select the option "Derive from transponder number" if you want to link the animal's stall number directly to the number of the transponder that was assigned to the animal. This option is especially useful if you use yellow electronic ear tags, the barn number is then identical to the end digits of the ten-digit animal number printed on the yellow ear tag.
@@ -162,7 +161,7 @@ To define the assignment of the animal ID when creating the farm animal on your 
 6. If you select the setting `Consecutive`, you have the option of specifying the `Next animal ID`. Use the arrow keys △ ▽ to select the `Next animal ID` area and confirm with `OK`. Navigate within the area using the arrow keys ◁ ▷. Now you can select a number using the arrow keys △ ▽. The device will now automatically use this number to start the continuous count from there. Furthermore, you can set whether the numbers are to be counted continuously increasing or continuously decreasing. To do this, use the arrow keys ◁ ▷ to go to the 9/1 symbol. Use the arrow keys △ ▽ to toggle between counting continuously increasing or continuously decreasing. Save the settings using the `F1` or `OK` key.
 
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid2.png "Assignment animal ID")
-    
+
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid3.png "assignment animal ID")
 
 {{% alert title = "Hint" %}}
@@ -187,7 +186,7 @@ Here you define which length a barn number derived from the transponder number h
 
 ### Right offset
 
-Here you define whether an offset is also taken into account when deriving a barn number from the transponder number. Without offset the last 2-6 digits of the transponder number will be used as stable number, with an offset of 1 the rightmost digit will be discarded, with an offset of 2 the two rightmost digits, and so on. 
+Here you define whether an offset is also taken into account when deriving a barn number from the transponder number. Without offset the last 2-6 digits of the transponder number will be used as stable number, with an offset of 1 the rightmost digit will be discarded, with an offset of 2 the two rightmost digits, and so on.
 
 {{% alert title = "Hint" %}}
 To graphically illustrate the effect of the set parameters, a fifteen-digit transponder number is displayed below the line for setting the offset. A green frame indicates the stall number that would be derived from the transponder number with the current settings. A change of the setting values "Length" and "Offset" leads directly to an update of the derived

@@ -13,7 +13,7 @@ translationKey: actions/description
 ---
 ## Einführung
 
-- Der Menüpunkt Aktionen wird direkt während der Tierkontrolle angewendet. Dieser Menüpunkt bietet Ihnen die Möglichkeit unterschiedliche Tieraktionen auszuführen. Im folgenden werden die einzelnen Aktionen erläutert und beschrieben. Sollten Sie eine Schritt für Schritt Anleitung benötigen finden Sie dieses jeweils hinter dem entsprechendem Link. 
+- Der Menüpunkt Aktionen wird direkt während der Tierkontrolle angewendet. Dieser Menüpunkt bietet Ihnen die Möglichkeit unterschiedliche Tieraktionen auszuführen. Im folgenden werden die einzelnen Aktionen erläutert und beschrieben. Sollten Sie eine Schritt für Schritt Anleitung benötigen finden Sie dieses jeweils hinter dem entsprechendem Link.
 
 ## Aktion Temperatur
 

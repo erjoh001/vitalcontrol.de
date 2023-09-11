@@ -45,4 +45,4 @@ Um die Tierdaten zu ändern gehen Sie wie folgt vor:
 
 7. Speichern Sie die Änderung mit der Taste `F3`.
 
-    ![VitalControl: Menüfolge Aktionen Ändern](../bilder/ändern.png "Ändern")
+    ![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern.png "Ändern")

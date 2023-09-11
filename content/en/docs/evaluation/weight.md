@@ -15,7 +15,7 @@ In the default setting, all animals stored on the VitalControl are included in t
 {{% /alert %}}
 
 ## Today's weighings
-In this evaluation you can see the following information related to the weighings of the last 6 hours: 
+In this evaluation you can see the following information related to the weighings of the last 6 hours:
 - The mean animal weight
 - The mean daily gain since birth
 - The average daily increase since the last weighing
@@ -25,7 +25,7 @@ To perform the evaluation, proceed as follows:
 
 1. Open the main screen of your VitalControl device and select the `Evaluate` menu. Confirm with `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`. 
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`.
 
 3. The evaluation options for the Weight section now appear. Select the evaluation option  `Today´s weighing` and confirm with `OK`. The device now begins to calculate the success variables.
 
@@ -52,17 +52,17 @@ To perform the evaluation, proceed as follows:
 
 ## Weight development
 
-In this evaluation you can see the following information related to all weighings: 
+In this evaluation you can see the following information related to all weighings:
 - The average animal weight
-- The average daily weight gain since birth 
-- The average daily weight gain since last weighing 
+- The average daily weight gain since birth
+- The average daily weight gain since last weighing
 - The birth weight doubled after
 
 To perform the evaluation, proceed as follows:
 
 1. Open the main screen of your VitalControl device and select the `Evaluate` menu. Confirm with `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`. 
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`.
 
 3. Now the evaluation options for the weight section appear. Select `Weight development` and confirm with `OK`. The device now starts to calculate the success variables.
 

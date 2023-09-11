@@ -19,7 +19,7 @@ Um das `Maximalalter zugekaufter Fresser` auf ihrem Gerät festzulegen gehen Sie
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Transponder zuordnen` auszuwählen. Bestätigen Sie mit `OK`.
 
-3. Das Einstellungsfeld `Maximalalter zugekaufter Fresser` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um das Maximalalter einzustellen. 
+3. Das Einstellungsfeld `Maximalalter zugekaufter Fresser` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um das Maximalalter einzustellen.
 
     ![VitalControl: Menüfolge Einstellung Zuordnung Transponder Maximalalter zugekaufter Fresser](../bilder/maximalalterfresser.png "Maximalalter zugekaufter Fresser einstellen")
 
@@ -33,9 +33,9 @@ Um die `Vergabe Tiernummern` auf ihrem Gerät festzulegen gehen Sie wie folgt vo
 
 3. Nutzen Sie die Pfeiltasten △ ▽ um das Einstellungsfeld `Vergabe Tiernummer` auszuwählen.
 
-4. Nutzen Sie die Pfeiltasten ◁ ▷ um die Vergabe der Tiernummern einzustellen.  
+4. Nutzen Sie die Pfeiltasten ◁ ▷ um die Vergabe der Tiernummern einzustellen.
 
-5. Wählen Sie die Option "Fortlaufend" oder "Ableitung von Transpondernummmer" verfahren Sie bitte wie in [Vergabe Tiernummern einstellen](../newanimal/#vergabe-tiernummer-einstellen)  
+5. Wählen Sie die Option `Fortlaufend` oder `Ableitung von Transpondernummmer` und verfahren Sie dann wie in [Vergabe Tiernummern einstellen](../tiere-neu-anlegen/#vergabe-tiernummer-einstellen)
 	
     ![VitalControl: Menüfolge Einstellung Zuordnung Transponder Vergabe Tiernummern](../bilder/vergabetiernummer.png "Vergabe Tiernummern einstellen")
 

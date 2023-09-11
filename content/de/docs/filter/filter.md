@@ -1,5 +1,5 @@
 ---
-title: Filter anlegen 
+title: Filter anlegen
 linkTitle: Filter anlegen
 slug: filter-anlegen
 weight: 50
@@ -19,9 +19,9 @@ Der Filter hilft Ihnen innerhalb der Menüpunkte `Herde`, `Listen` und `Auswertu
 
 Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
-1. Verwenden Sie die `F3` Taste im Menüpunkt `Auswertungen` einmal und in den Menüpunkten `Listen` und `Herde` zweimal. 
+1. Verwenden Sie die `F3` Taste im Menüpunkt `Auswertungen` einmal und in den Menüpunkten `Listen` und `Herde` zweimal.
 
-2. Es öffnet sich ein Unternemü in dem Sie alle Filtermöglichkeiten einstellen können. Sie können nach `Tiernummer`, `Alter`, `Geschlecht`, `Transponder`, `Ohrmarkennummer`, `Fieber`, `Beobachtung`, `Art des Nutztieres` und `Alarm` filtern. 
+2. Es öffnet sich ein Untermenü in dem Sie alle Filtermöglichkeiten einstellen können. Sie können nach `Tiernummer`, `Alter`, `Geschlecht`, `Transponder`, `Ohrmarkennummer`, `Fieber`, `Beobachtung`, `Art des Nutztieres` und `Alarm` filtern.
 
 3. Für die Filter `Art des Nutztieres`, `Geschlecht`, `Transponder`und `Ohrmarkennummer` navigieren Sie mit den Pfeiltasten △ ▽ auf das entsprechende Filterkriterium und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung festzulegen. Kehren Sie mit der `F1` Taste zurück zu der Filterauswahl.
 
@@ -31,7 +31,7 @@ Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
    ![VitalControl: Menüfolge Auswertungen Filter einstellen](../bilder/filter1.png "Filter einstellen")
 
-5. Für die Filter `Fieber`, `Beobachtung` und `Alarm` besteht die Möglichkeit deren Anwendung zu de- bzw. zu aktivieren. Wählen Sie dafür den entsprechenden Filter mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Der Filter ist nun aktiv. Bestätigen Sie ein weiteres mal mit `OK` um den Filter zu deaktivieren. 
+5. Für die Filter `Fieber`, `Beobachtung` und `Alarm` besteht die Möglichkeit deren Anwendung zu de- bzw. zu aktivieren. Wählen Sie dafür den entsprechenden Filter mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Der Filter ist nun aktiv. Bestätigen Sie ein weiteres mal mit `OK` um den Filter zu deaktivieren.
 
    ![VitalControl: Menüfolge Auswertungen Filter einstellen](../bilder/filter2.png "Filter einstellen")
 

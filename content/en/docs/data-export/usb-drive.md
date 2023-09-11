@@ -27,7 +27,7 @@ translationKey: data-export/usb-drive
 
    ![VitalControl: success message data export](../images/success-data-export.png "Success data export")
 
-5. Data export is now complete. You will find the four created [export files](../export-files/) inside the directory `export-csv` on your USB flash drive. 
+5. Data export is now complete. You will find the four created [export files](../export-files/) inside the directory `export-csv` on your USB flash drive.
 
    ![USB flash drive with export files VitalControl](../images/export-files.png "Export files on USB flash drive")
 

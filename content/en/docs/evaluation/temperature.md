@@ -17,14 +17,14 @@ In the default setting, all animals stored on the VitalControl are included in t
 ## Evaluate temperature
 
 In this evaluation you can see the following information:
-- Currently febrile ill animals 
+- Currently febrile ill animals
 - Animals with febrile illnesses during lifetime
 
 To perform the evaluation, proceed as follows:
 
 1. Open the main screen of your VitalControl device and select the `Evaluate` menu. Confirm with `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Temperature` and confirm with `OK`. 
+3. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Temperature` and confirm with `OK`.
 
 3. The device now starts to calculate the success variables.
 

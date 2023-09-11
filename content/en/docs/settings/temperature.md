@@ -52,7 +52,7 @@ To set the threshold value for the undertemperature, proceed as follows:
 
 ## Anus spotlight
 {{% alert title = "Hinweis" %}}
-Here you can set whether the light should be automatically activated or deactivated during fever measurement. 
+Here you can set whether the light should be automatically activated or deactivated during fever measurement.
 {{% /alert %}}
 
 To deactivate or activate the anus spotlight during the `Temperature` action, proceed as follows:

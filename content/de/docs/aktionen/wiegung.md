@@ -16,7 +16,7 @@ Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tie
 
 ## Gewicht erfassen
 
-Die Aktion `Wiegung` nutzen Sie um das Gewicht Ihres Tieres individuell abzuspeichern. Hierzu wiegen Sie ihre Tiere oder führen eine Schätzung des Gewichtes durch und tragen diesen Wert in das VitalControl-Gerät ein. Somit können Sie die Gewichtsentwicklung ihrer Tiere überprüfen und tierindividuell auswerten. 
+Die Aktion `Wiegung` nutzen Sie um das Gewicht Ihres Tieres individuell abzuspeichern. Hierzu wiegen Sie ihre Tiere oder führen eine Schätzung des Gewichtes durch und tragen diesen Wert in das VitalControl-Gerät ein. Somit können Sie die Gewichtsentwicklung ihrer Tiere überprüfen und tierindividuell auswerten.
 
 {{% alert title="Hinweis" %}}
 Weicht das Gewicht im Durchschnitt sehr stark in eine Richtung ab (zu hoch/zu tief), so sollte der Wert für die tägliche Zunahme angepasst werden.
