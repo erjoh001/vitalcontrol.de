@@ -1,6 +1,6 @@
 ---
-title: "Temperatur"
-linkTitle: "Temperatur"
+title: Temperatur
+linkTitle: Temperatur
 date: 2023-07-28T13:25:28+02:00
 weight: 30
 draft: false

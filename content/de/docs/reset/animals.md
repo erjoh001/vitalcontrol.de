@@ -1,6 +1,6 @@
 ---
 title: "Kompletten Tierbestand vom Gerät löschen"
-linkTitle: "Tierbestand"
+linkTitle: Tierbestand
 date: 2023-08-01T16:44:06+02:00
 draft: false
 description: >
