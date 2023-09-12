@@ -21,7 +21,7 @@
 * https://www.vitalcontrol.de
 *
 * This file is part of demonstration application developed in order to be able
-* to demonstrate the use of the device to both interested parties and 
+* to demonstrate the use of the device to both interested parties and
 * prospective customers.
 *
 * The demonstration application is browser based and can be run from inside any
