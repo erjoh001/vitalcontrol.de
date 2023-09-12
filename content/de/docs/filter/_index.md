@@ -1,18 +1,17 @@
 ---
-title: Filter anlegen
-linkTitle: Filter anlegen
-slug: filter-anlegen
+title: Tierfilter auf eine Tierliste anwenden
+linkTitle: Filter
 weight: 90
 description: >
-  Definieren Sie einen Tierfilter und wenden diesen an.
+  Wie Sie einen Tierfilter definieren und anwenden, so dass ihnen in einer Liste nur eine Teilmenge der auf dem Gerät vorhandenen Tiere angezeigt wird.
 date: 2023-07-26
 Kategorien: [Auswertungen]
 Tags: [Auswertungen, Filter]
 translationKey: filter
 ---
-## Filter anlegen
+## Tierfilter anwenden
 {{% alert title="HINWEIS" %}}
-Der Filter hilft Ihnen innerhalb der Menüpunkte `Herde`, `Listen` und `Auswertungen` des VitalControl-Gerätes eine Selektion mittels Filterkriterien durchzuführen. Sobald Sie einen Filter anwenden erscheinen im oberen Bildschirmrand Symbole für die verschiedenen Filterkriterien. Diese Symbole dienen Ihnen zur Orientierung ob und welche Filterkriterien aktiviert sind. Setzen Sie z.B. den Filter `Geschlecht` auf männlich, verwendet das Gerät nur noch die männlichen Tiere. Aktivieren Sie z.B. zusätzlich den Filter `Beobachtung` verwendet das Gerät nur noch männliche Tiere die auf der Beobachtungsliste stehen.
+Der Filter hilft Ihnen innerhalb der Menüpunkte `Herde`, `Listen` und `Auswertungen` des VitalControl-Gerätes eine Selektion mittels Filterkriterien durchzuführen. Sobald Sie einen Filter anwenden, erscheinen im oberen Bildschirmrand Symbole für die verschiedenen Filterkriterien. Diese Symbole dienen Ihnen zur Orientierung ob und welche Filterkriterien aktiviert sind. Setzen Sie z.B. den Filter `Geschlecht` auf männlich, verwendet das Gerät nur noch die männlichen Tiere. Aktivieren Sie z. B. zusätzlich den Filter `Beobachtung` verwendet das Gerät nur noch männliche Tiere die auf der Beobachtungsliste stehen.
 {{% /alert %}}
 
 ### Tierfilter anlegen
@@ -21,7 +20,7 @@ Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
 1. Verwenden Sie die `F3` Taste im Menüpunkt `Auswertungen` einmal und in den Menüpunkten `Listen` und `Herde` zweimal.
 
-2. Es öffnet sich ein Untermenü in dem Sie alle Filtermöglichkeiten einstellen können. Sie können nach `Tiernummer`, `Alter`, `Geschlecht`, `Transponder`, `Ohrmarkennummer`, `Fieber`, `Beobachtung`, `Art des Nutztieres` und `Alarm` filtern.
+2. Es öffnet sich ein Untermenü in dem Sie alle Filtermöglichkeiten einstellen können. Sie können nach `Tiernummer`, `Alter`, `Geschlecht`, `Transponder`, `Ohrmarkennummer`, `Fieber`, `Beobachtung`, `Art des Nutztiers` und `Alarm` filtern.
 
 3. Für die Filter `Art des Nutztieres`, `Geschlecht`, `Transponder`und `Ohrmarkennummer` navigieren Sie mit den Pfeiltasten △ ▽ auf das entsprechende Filterkriterium und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung festzulegen. Kehren Sie mit der `F1` Taste zurück zu der Filterauswahl.
 
