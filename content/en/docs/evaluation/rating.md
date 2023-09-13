@@ -1,7 +1,7 @@
 ---
 title: Evaluate rating
 linkTitle: Evaluate rating
-slug: evaluate-rating
+slug: rating
 weight: 30
 description: >
  Evaluate your stored data in the rating section.
@@ -11,7 +11,7 @@ Tags: [Evaluation, Rating]
 translationKey: evaluation/rating
 ---
 {{% alert title="Hint" %}}
-In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../create-filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
+In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
 {{% /alert %}}
 
 ## Evaluate rating

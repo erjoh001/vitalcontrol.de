@@ -20,9 +20,9 @@ Innerhalb des Menüpunktes Herde können Sie ihre gesamte Herde einsehen, einzel
 - [Bewertungsdaten](#bewertung-anzeigen-lassen) anzeigen lassen
 - [Gewichtsdaten](#gewicht-anzeigen-lassen) anzeigen lassen
 - [Tier suchen](#tier-suchen)
-- [Filter](#filter-setzen) setzen
+- [Filter](../filter/#tierfilter-anwenden) setzen
 - [Spalteninformationen](#spalteninformationen-einstellen) einstellen
-- [Aktionen](#aktionen-aufrufen) aufrufen
+- [Aktionen](#aktionsmen%C3%BC-aufrufen) aufrufen
 
 ### Vorbereitende Schritte
 

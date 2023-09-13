@@ -1,7 +1,7 @@
 ---
 title: Tierbewertung durchführen
 linkTitle: Bewertung
-slug: tierbewertung-durchführen
+slug: tierbewertung
 weight: 30
 description: >
   Führen Sie eine Bewertung ihrer Tiere durch.

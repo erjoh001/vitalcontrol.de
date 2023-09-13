@@ -1,7 +1,7 @@
 ---
 title: Evaluate temperature
 linkTitle: Evaluate temperature
-slug: evaluate-temperature
+slug: temperature
 weight: 20
 description: >
  Evaluate your stored data in the Temperature section.
@@ -11,7 +11,7 @@ Tags: [Evaluation, Temperature]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Hint" %}}
-In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../create-filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
+In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
 {{% /alert %}}
 
 ## Evaluate temperature

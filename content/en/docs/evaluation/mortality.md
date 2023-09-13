@@ -1,7 +1,7 @@
 ---
 title: Evaluate mortality
 linkTitle: Evaluate mortality
-slug: evaluate-mortality
+slug: mortality
 weight: 40
 description: >
  Evaluate your stored data in the mortality section.

@@ -22,7 +22,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 - [Search animal](#search-animal)
 - Set [filter](#set-filter)
 - Set [columns info](#set-column-information)
-- [Actions](#call-actions)
+- [Actions](#call-action-menu)
 
 ### Preparatory steps
 
@@ -118,7 +118,7 @@ You always have the option to call up the action menu for an animal.
 
 2. Select an animal from the list with the arrow keys △ ▽ and confirm with `OK`.
 
-3. The action menu is now open. How to use this can be found [here](./actions.).
+3. The action menu is now open. How to use this can be found [here](../actions).
 
 4. Return to the herd list with the `F3` key.
 
