@@ -41,16 +41,16 @@ C.Abr={_class:function(){return A.abj.Aj;},0:{FileName:"./res_index/SimulationRe
 ,Format:A.cC,NoOfFrames:1,FrameSize:[354,730],FrameDelay:0,_this:null}};C.APa={_class:
 function(){return A.abj.Aj;},0:{FileName:"./res_index/SimulationLightCone.png",Format:
 A.jt,NoOfFrames:1,FrameSize:[120,120],FrameDelay:0,_this:null}};C.AAg={_Init:function(
-){A.abr.ASK._Init.call(this,0);this.Bjv(0xFF706E6C);this.Bjy(0xFF706E6C);this.Bjx(
-0xFFABABA8);this.Bjw(0xFF706E6C);this.Bjq(0xFF706E6C);this.Bjt(0xFF706E6C);this.
-Bjs(0xFFABABA8);this.Bjr(0xFF706E6C);this.Bjp(34);this.Bjg(0xFF706E6C);this.Bjj(
-0xFF706E6C);this.Bji(0xAAABABA8);this.Bjh(0xFF706E6C);this.Bjc(0xFF706E6C);this.
-Bjf(0xFF706E6C);this.Bje(0xAAABABA8);this.Bjd(0xFF706E6C);this.Bjb(34);this.Bjo(
-0x11);this.Bjz(A.zW(A.eV.AB));this.Bju(A.zW(A.eV.AB));this.Bi$(0x11);this.BiL(0x4
-);this.BiY(7);this.Bi1(5);this.Bi0(1);this.BiZ(3);this.BiU(A.zW(A.abr.Ada));this.
-BiX(A.zW(A.abr.Ada));this.BiW(A.zW(A.abr.Ada));this.BiV(A.zW(A.abr.Ada));this.BiQ(
-6);this.BiT(4);this.BiS(0);this.BiR(2);this.BiM(A.zW(A.abr.Ada));this.BiP(A.zW(A.
-abr.Ada));this.BiO(A.zW(A.abr.Ada));this.BiN(A.zW(A.abr.Ada));this.AD1(B_);},_variants:
+){A.abr.ASK._Init.call(this,0);this.Bjw(0xFF706E6C);this.Bjz(0xFF706E6C);this.Bjy(
+0xFFABABA8);this.Bjx(0xFF706E6C);this.Bjr(0xFF706E6C);this.Bju(0xFF706E6C);this.
+Bjt(0xFFABABA8);this.Bjs(0xFF706E6C);this.Bjq(34);this.Bjh(0xFF706E6C);this.Bjk(
+0xFF706E6C);this.Bjj(0xAAABABA8);this.Bji(0xFF706E6C);this.Bjd(0xFF706E6C);this.
+Bjg(0xFF706E6C);this.Bjf(0xAAABABA8);this.Bje(0xFF706E6C);this.Bjc(34);this.Bjp(
+0x11);this.BjA(A.zW(A.eV.AB));this.Bjv(A.zW(A.eV.AB));this.Bja(0x11);this.BiM(0x4
+);this.BiZ(7);this.Bi2(5);this.Bi1(1);this.Bi0(3);this.BiV(A.zW(A.abr.Ada));this.
+BiY(A.zW(A.abr.Ada));this.BiX(A.zW(A.abr.Ada));this.BiW(A.zW(A.abr.Ada));this.BiR(
+6);this.BiU(4);this.BiT(0);this.BiS(2);this.BiN(A.zW(A.abr.Ada));this.BiQ(A.zW(A.
+abr.Ada));this.BiP(A.zW(A.abr.Ada));this.BiO(A.zW(A.abr.Ada));this.AD1(B_);},_variants:
 function(){return this;},_this:null};
 C._Init=function(){};C._ReInit=function(){var B;if((B=C.AAg._this))B._ReInit();};
 C.DE=function(D){var B;if((B=C.Abr[0]._this)&&(B._cycle!=D))B._Done(C.Abr[0]._this=

@@ -37,7 +37,7 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 );if(index.abv)throw new Error("The unit file 'StringsXL.js' included twice!");index.
 abv=(function(){var A=index;var C={};
 
-C.Ajs={0:"\u2013.\u2013",15:"-.-",18:"-.-"};C.Bl9={1:"previsoko",2:"\u0412\u0438\u0441\u043E\u043A\u0430!"
+C.Ajs={0:"\u2013.\u2013",15:"-.-",18:"-.-"};C.Bl_={1:"previsoko",2:"\u0412\u0438\u0441\u043E\u043A\u0430!"
 ,3:"\u9AD8",4:"P\u0159\xEDli\u0161 vysok\xFD",0:"Too high",5:"Te hoog",6:"Liiga k\xF5rge"
 ,7:"Korkeus",8:"Haut",9:"Hoch",10:"\u03A8\u03B7\u03BB\u03AC",13:"For h\xF8y",15:
 "\u0412\u044B\u0441\u043E\u043A\u0438\u0439",16:"Alta",17:"Y\xFCksek",18:"\u0412\u0438\u0441\u043E\u043A\u0438\u0439"
