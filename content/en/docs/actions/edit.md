@@ -4,7 +4,7 @@ linkTitle: Edit
 slug: edit
 weight: 90
 description: >
- Edit your animal data.
+ Edit data of the selected animal.
 date: 2023-07-26
 Kategorien: [Actions]
 Tags: [Actions, animal data, edit]

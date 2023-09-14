@@ -31,7 +31,7 @@ The alarm list is structured as follows:
 |Symbol   | Description
 |-------  |----
    ![VitalControl Lists Alarmlist](../images/kopf.png "Head") | Shows how many animals are on the list
-| ![VitalControl Lists Alarmlist](../images/ID.png "ID") | Shows whether the selected animal is a calf or a cow. The clinical thermometer shows whether the animal was in the yellow or red zone at the last measurement. The animal ID is displayed below the symbol. 
+| ![VitalControl Lists Alarmlist](../images/ID.png "ID") | Shows whether the selected animal is a calf or a cow. The clinical thermometer shows whether the animal was in the yellow or red zone at the last measurement. The animal ID is displayed below the symbol.
 | ![VitalControl Lists Alarmlist](../images/auge.png "Rating") | The last recorded rating is shown below the symbol with the colors of the traffic light system
 |![VitalControl Lists Alarmlist](../images/thermometer.png "Thermometer") | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
 |![VitalControl Lists Alarmlist](../images/auge2.png "Bewertung") |The circle mark below the symbol shows that the animal is on the watch list
@@ -106,7 +106,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Clear alarm")
 
-### Toggle watch status 
+### Toggle watch status
 
 1. Complete the preliminary steps.
 

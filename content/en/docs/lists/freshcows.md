@@ -6,7 +6,7 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: fresh-cows
 description: >
-  Check out your fresh cows list. 
+  Check out your fresh cows list.
 Kategorien: [Lists]
 Tags: [Lists, fresh cow]
 translationKey: lists/fresh-cows

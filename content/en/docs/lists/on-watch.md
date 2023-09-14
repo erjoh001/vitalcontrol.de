@@ -6,7 +6,7 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: on-watch
 description: >
- Check out your on watch list. 
+ Check out your on watch list.
 Kategorien: [Lists]
 Tags: [Lists, on watch]
 translationKey: lists/on-watch
@@ -58,7 +58,7 @@ The alarm list is structured as follows:
 
 3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
-4. The animal is now removed from the watch list. 
+4. The animal is now removed from the watch list.
 
    ![VitalControl Lists On watch list](../images/remove.png "Remove from watch list")
 

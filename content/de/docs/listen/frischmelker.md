@@ -6,7 +6,7 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: frischmelkerliste
 description: >
-  Sehen Sie ihre Frischmelkerliste ein. 
+  Sehen Sie ihre Frischmelkerliste ein.
 Kategorien: [Listen]
 Tags: [Listen, Frischmelker]
 translationKey: lists/fresh-cows
@@ -22,7 +22,7 @@ In der Frischmelkerliste finden Sie ihre Frischmelker. Tiere bei denen eine Abka
 - Status [Beobachtung umkehren](../frischmelkerliste/#status-beobachtung-umkehren)
 - [Gemessene ausblenden](../frischmelkerliste/#gemessene-ausblenden)
 - [Tier suchen](../alarm/#tier-suchen)
-- [Filter setzen](../alarm/#filter-setzen) 
+- [Filter setzen](../alarm/#filter-setzen)
 
 {{% alert title="Hinweis" %}}
 Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
@@ -34,17 +34,17 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste `Frischmelker` aus. Bestätigen Sie mit `OK`.
 
-3. Die Frischmelkerliste ist nun geöffnet. 
+3. Die Frischmelkerliste ist nun geöffnet.
 
    ![VitalControl Listen Frischmelkerliste](../bilder/vorbereitendeschritte4.png "Vorbereitende Schritte")
 
 ### Alarmstatus ändern
 
-1. Führen Sie die vorbereitenden Schritte aus. 
+1. Führen Sie die vorbereitenden Schritte aus.
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Alarmstatus ändern` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Frischmelkerliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Frischmelkerliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Das Tier ist nun, abhängig von seinem Ausgangsstatus, zu der Alarmliste hinzugefügt oder von dieser entfernt.
 
@@ -52,11 +52,11 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 ### Status Beobachtung umkehren
 
-1. Führen Sie die vorbereitenden Schritte aus. 
+1. Führen Sie die vorbereitenden Schritte aus.
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Status Beobachtung umkehren` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Frischmelkerliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Frischmelkerliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Das Tier ist nun, abhängig von seinem Ausgangsstatus, zu der Beobachtungsliste hinzugefügt oder von dieser entfernt.
 
@@ -66,10 +66,10 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine Messung der Temperatur durchgeführt wurde, auf der Trockensteherliste ausgeblendet. Ist diese Funktion nicht aktiviert bleiben die Tiere auf der Liste sichtbar.
 
-1. Führen Sie die vorbereitenden Schritte aus. 
+1. Führen Sie die vorbereitenden Schritte aus.
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `gemessene ausblenden` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
 3. Die Funktion `gemessene ausblenden` ist nun aktiviert. Die Aktivierung wird durch ein Häkchen in dem Kasten verdeutlicht.
 
-   ![VitalControl Listen Frischmelkerliste](../bilder/gemesseneausblenden.png "Gemessene ausblenden")
+    ![VitalControl Listen Frischmelkerliste](../bilder/gemesseneausblenden.png "Gemessene ausblenden")

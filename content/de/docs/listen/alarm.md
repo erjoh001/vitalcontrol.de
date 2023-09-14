@@ -31,7 +31,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 |Symbol   | Beschreibung
 |-------  |----
    ![VitalControl Listen Alarmliste](../bilder/kopf.png "Kopf") | Zeigt wie viele Tiere auf der Liste stehen
-| ![VitalControl Listen Alarmliste](../bilder/ID.png "ID") | Zeigt ob das ausgewählte Tier ein Kalb oder eine Kuh ist. Das Fieberthermometer stellt dar, ob sich das Tier bei der letzten Messung im gelben oder roten Bereich befunden hat. Unterhalb des Symbols wird die Tier-ID angezeigt. 
+| ![VitalControl Listen Alarmliste](../bilder/ID.png "ID") | Zeigt ob das ausgewählte Tier ein Kalb oder eine Kuh ist. Das Fieberthermometer stellt dar, ob sich das Tier bei der letzten Messung im gelben oder roten Bereich befunden hat. Unterhalb des Symbols wird die Tier-ID angezeigt.
 | ![VitalControl Listen Alarmliste](../bilder/auge.png "Bewertung") | Unterhalb des Symbols wird die letzte erfasste Bewertung mit den Farben des Ampelsystems dargestellt
 |![VitalControl Listen Alarmliste](../bilder/thermometer.png "Thermometer") | Unterhalb des Symbols wird die letzte erfasste Fiebermessung mit den Farben des Ampelsystems dargestellt
 |![VitalControl Listen Alarmliste](../bilder/auge2.png "Bewertung") | Die Kreismarkierung unterhalb des Symbols zeigt, dass das Tier auf der Beobachtungsliste steht
@@ -52,11 +52,11 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Aktionsmenü` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Das Menü `Aktionen` öffnet sich automatisch. Die Handhabung der Aktionen finden Sie [hier](/docs/aktionen/).
 
-   ![VitalControl Listen Alarmliste](../bilder/aktionsmenü.png "Aktionsmenü aufrufen")
+   ![VitalControl Listen Alarmliste](../bilder/aktionsmenue.png "Aktionsmenü aufrufen")
 
 ### Tierdaten einsehen
 
@@ -64,9 +64,9 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tierdaten` aus und bestätigen Sie mit der Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
-4. Die Tierdaten werden Ihnen nun angezeigt. 
+4. Die Tierdaten werden Ihnen nun angezeigt.
 
    ![VitalControl Listen Alarmliste](../bilder/tierdateneinsehen.png "Tierdaten einsehen")
 
@@ -76,7 +76,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Temperatur messen` aus und bestätigen Sie mit der Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Die Funktion [Temperatur messen](/docs/aktionen/temperatur/#fieber-messen) wird nun automatisch gestartet.
 
@@ -88,7 +88,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier bewerten` aus und bestätigen Sie mit der Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Die Funktion [Tier bewerten](/docs/aktionen/tierbewertung/#tierbewertung-durchf%C3%BChren) wird nun automatisch gestartet.
 
@@ -100,7 +100,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Alarm zurücksetzen` aus und bestätigen Sie mit der Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Das Tier ist nun von der Alarmliste entfernt.
 
@@ -112,7 +112,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Status beobachten umkehren` aus und bestätigen Sie mit der Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Das Tier ist nun, abhängig von seinem Ausgangsstatus, zu der Beobachtungsliste hinzugefügt oder von dieser entfernt.
 

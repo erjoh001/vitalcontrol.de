@@ -44,7 +44,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier wiegen` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Die Funktion [Tier wiegen](/docs/aktionen/wiegung/#gewicht-erfassen) wird nun automatisch gestartet.
 
@@ -56,7 +56,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Aktionskette` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Die Funktion [Aktionskette](/docs/aktionskette/#aktionskette) wird nun automatisch gestartet.
 
@@ -70,7 +70,7 @@ Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem A
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Transponder zuordnen` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Scannen Sie nun den Transponder des entsprechenden Tieres ein.
 

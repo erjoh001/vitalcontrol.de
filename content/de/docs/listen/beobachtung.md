@@ -22,7 +22,7 @@ Auf der Beobachtungsliste finden Sie alle Tiere die Sie manuell auf die Liste ge
 - [Tier von der Beobachtungsliste entfernen](../beobachtung/#tier-von-der-beobachtungsliste-entfernen)
 - [Alarmstatus ändern](../beobachtung/#alarmstatus-%C3%A4ndern)
 - [Tier suchen](../alarm/#tier-suchen)
-- [Filter setzen](../../filter/#tierfilter-anwenden) 
+- [Filter setzen](../../filter/#tierfilter-anwenden)
 
 {{% alert title="Hinweis" %}}
 Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
@@ -46,17 +46,17 @@ Die Beobachtungsliste ist wie folgt aufgebaut:
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste `Beobachtung` aus. Bestätigen Sie mit `OK`.
 
-3. Die Beobachtungsliste ist nun geöffnet. 
+3. Die Beobachtungsliste ist nun geöffnet.
 
    ![VitalControl Listen Beobachtungsliste](../bilder/vorbereitendeschritte2.png "Vorbereitende Schritte")
 
 ### Tier von der Beobachtungsliste entfernen
 
-1. Führen Sie die vorbereitenden Schritte aus. 
+1. Führen Sie die vorbereitenden Schritte aus.
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier von der Beobachtungsliste entfernen` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Das Tier ist nun von der Beobachtungsliste entfernt.
 
@@ -64,11 +64,11 @@ Die Beobachtungsliste ist wie folgt aufgebaut:
 
 ### Alarmstatus ändern
 
-1. Führen Sie die vorbereitenden Schritte aus. 
+1. Führen Sie die vorbereitenden Schritte aus.
 
 2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Alarmstatus ändern` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. 
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Das Tier ist nun, abhängig von seinem Ausgangsstatus, zu der Alarmliste hinzugefügt oder von dieser entfernt.
 

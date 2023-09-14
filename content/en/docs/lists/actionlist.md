@@ -6,7 +6,7 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: actions
 description: >
- Check out your on Actionlist. 
+ Check out your on action list.
 Kategorien: [Lists]
 Tags: [Lists, Action]
 translationKey: lists/action
