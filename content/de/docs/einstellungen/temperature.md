@@ -6,7 +6,7 @@ weight: 30
 draft: false
 slug: temperatur
 description: >
- Legen Sie die Temperatureinstellungen für die Anwendung ihres VitalControl Gerät fest
+ Legen Sie die Temperatureinstellungen für die Anwendung ihres VitalControl Gerät fest.
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Temperatur, Schwellenwert, Beleuchtung Messort]
 translationKey: settings/temperature

@@ -34,4 +34,4 @@ Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
    ![VitalControl: Menüfolge Auswertungen Filter einstellen](bilder/filter2.png "Filter einstellen")
 
-6. Sobald Sie alle Filter eingestellt haben nutzen Sie die Taste `F3` oder `F1` um die Filter anzuwenden.
+6. Sobald Sie alle Filter eingestellt haben nutzen Sie die Taste `F3` oder `F1` um die vereinbarten Filter anzuwenden.
