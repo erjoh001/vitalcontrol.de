@@ -1,7 +1,10 @@
 main:
-  - name: 'Demo app'
+  - name: Menu structure
+    url: /docs/menue-tree/
+    weight: 40
+  - name: Demo app
     url: /en/demo/
     weight: 42
-  - name: 'Firmware'
+  - name: Firmware
     url: /en/docs/firmware/
     weight: 42

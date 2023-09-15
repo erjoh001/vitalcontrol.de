@@ -1,4 +1,7 @@
 main:
+  - name: Menüstruktur
+    url: /docs/menuebaum/
+    weight: 40
   - name: Demonstrator
     url: /demo/
     weight: 42
