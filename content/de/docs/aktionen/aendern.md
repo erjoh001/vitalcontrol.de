@@ -16,7 +16,7 @@ Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tie
 
 ## Tierdaten ändern
 
-Die Aktion `ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
+Die Aktion `ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
 
 - Art des Nutztieres
 - Geschlecht

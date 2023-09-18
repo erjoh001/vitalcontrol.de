@@ -14,7 +14,7 @@ translationKey: menu-tree
 
 The interactive graphic below shows the menu tree of the VitalControl device:
 
-{{% alert title="Hinweis" %}}
+{{% alert title="Note" %}}
 When clicking on a menu item, you will be forwarded to the page documenting the respective function.
 {{% /alert %}}
 
