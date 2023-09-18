@@ -4,3 +4,10 @@ node_modules/
 .hugo_build.lock
 
 .vscode/settings.json
+
+# Content
+content/de/docs/aktionen/.$aktionen.svg.bkp
+content/en/docs/aktionen/.$actions.svg.bkp
+
+content/de/docs/menu/.$menuebaum.svg.bkp
+content/en/docs/menu/.$menu-tree.svg.bkp
