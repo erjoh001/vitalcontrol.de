@@ -37,26 +37,26 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 );if(index.eV)throw new Error("The unit file 'Fonts.js' included twice!");index.
 eV=(function(){var A=index;var C={};
 
-C.AB={_class:function(){return A.abj.B5;},0:{Data:function(){return A.abI;},Cache:[
-],_this:null}};C.Aw={_class:function(){return A.abj.B5;},0:{Data:function(){return A.
-abH;},Cache:[],_this:null}};C.Gv={_class:function(){return A.abj.B5;},0:{Data:function(
-){return A.abG;},Cache:[],_this:null}};C.Adr={_class:function(){return A.abj.B5;
+C.AB={_class:function(){return A.abj.B6;},0:{Data:function(){return A.abI;},Cache:[
+],_this:null}};C.Aw={_class:function(){return A.abj.B6;},0:{Data:function(){return A.
+abH;},Cache:[],_this:null}};C.Gw={_class:function(){return A.abj.B6;},0:{Data:function(
+){return A.abG;},Cache:[],_this:null}};C.Adr={_class:function(){return A.abj.B6;
 },0:{Data:function(){return A.abM;},Cache:[],_this:null}};C.Hg={_class:function(
-){return A.abj.B5;},0:{Data:function(){return A.abJ;},Cache:[],_this:null}};C.Cw={
-_class:function(){return A.abj.B5;},0:{Data:function(){return A.abN;},Cache:[],_this:
-null}};C.AMp={_class:function(){return A.abj.B5;},0:{Data:function(){return A.abK;
-},Cache:[],_this:null}};C.LC={_class:function(){return A.abj.B5;},0:{Data:function(
-){return A.abF;},Cache:[],_this:null}};C.Pg={_class:function(){return A.abj.B5;}
-,0:{Data:function(){return A.abE;},Cache:[],_this:null}};C.AMq={_class:function(
-){return A.abj.B5;},0:{Data:function(){return A.abL;},Cache:[],_this:null}};
+){return A.abj.B6;},0:{Data:function(){return A.abJ;},Cache:[],_this:null}};C.Cx={
+_class:function(){return A.abj.B6;},0:{Data:function(){return A.abN;},Cache:[],_this:
+null}};C.AMm={_class:function(){return A.abj.B6;},0:{Data:function(){return A.abK;
+},Cache:[],_this:null}};C.LC={_class:function(){return A.abj.B6;},0:{Data:function(
+){return A.abF;},Cache:[],_this:null}};C.Pg={_class:function(){return A.abj.B6;}
+,0:{Data:function(){return A.abE;},Cache:[],_this:null}};C.AMn={_class:function(
+){return A.abj.B6;},0:{Data:function(){return A.abL;},Cache:[],_this:null}};
 C._Init=function(){};C._ReInit=function(){};C.DE=function(D){var B;if((B=C.AB[0].
 _this)&&(B._cycle!=D))B._Done(C.AB[0]._this=null);if((B=C.Aw[0]._this)&&(B._cycle
-!=D))B._Done(C.Aw[0]._this=null);if((B=C.Gv[0]._this)&&(B._cycle!=D))B._Done(C.Gv[
+!=D))B._Done(C.Aw[0]._this=null);if((B=C.Gw[0]._this)&&(B._cycle!=D))B._Done(C.Gw[
 0]._this=null);if((B=C.Adr[0]._this)&&(B._cycle!=D))B._Done(C.Adr[0]._this=null);
-if((B=C.Hg[0]._this)&&(B._cycle!=D))B._Done(C.Hg[0]._this=null);if((B=C.Cw[0]._this
-)&&(B._cycle!=D))B._Done(C.Cw[0]._this=null);if((B=C.AMp[0]._this)&&(B._cycle!=D
-))B._Done(C.AMp[0]._this=null);if((B=C.LC[0]._this)&&(B._cycle!=D))B._Done(C.LC[
+if((B=C.Hg[0]._this)&&(B._cycle!=D))B._Done(C.Hg[0]._this=null);if((B=C.Cx[0]._this
+)&&(B._cycle!=D))B._Done(C.Cx[0]._this=null);if((B=C.AMm[0]._this)&&(B._cycle!=D
+))B._Done(C.AMm[0]._this=null);if((B=C.LC[0]._this)&&(B._cycle!=D))B._Done(C.LC[
 0]._this=null);if((B=C.Pg[0]._this)&&(B._cycle!=D))B._Done(C.Pg[0]._this=null);if((
-B=C.AMq[0]._this)&&(B._cycle!=D))B._Done(C.AMq[0]._this=null);};return C;})();
+B=C.AMn[0]._this)&&(B._cycle!=D))B._Done(C.AMn[0]._this=null);};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

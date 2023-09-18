@@ -39,7 +39,7 @@ index=(function(){var A={__proto__:EmWiCompr_12_05};
 A.Bosnian=1;A.Bulgarian=2;A.Chinese_TWN=3;A.Czech=4;A.Default=0;A.Dutch=5;A.Estonian=
 6;A.Finnish=7;A.French=8;A.German=9;A.Greek=10;A.Italian=11;A.Japanese=12;A.Norwegian=
 13;A.Polish=14;A.Russian=15;A.Spanish=16;A.Turkish=17;A.Ukrainian=18;
-A.aaF=[1000,740];A.qJ=function(){return A.kh.AKD;};A.y9="URBAN VitalControl - Demo App";
+A.aaF=[1000,740];A.qJ=function(){return A.kh.AKA;};A.y9="URBAN VitalControl - Demo App";
 A.on=0;A.aa6=0;A.ju=[];A._Init=function(){A.Core._Init();A.abm._Init();A.Graphics.
 _Init();A.abj._Init();A.abh._Init();A.kh._Init();A.abg._Init();A.abi._Init();A.iF.
 _Init();A.eV._Init();A.abz._Init();A.abo._Init();A.abw._Init();A.Device._Init();
