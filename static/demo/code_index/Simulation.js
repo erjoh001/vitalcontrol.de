@@ -38,23 +38,23 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 index.abz=(function(){var A=index;var C={};
 var B$=[26,26];
 C.Abr={_class:function(){return A.abj.Aj;},0:{FileName:"./res_index/SimulationReader.png"
-,Format:A.cC,NoOfFrames:1,FrameSize:[354,730],FrameDelay:0,_this:null}};C.AO9={_class:
+,Format:A.cC,NoOfFrames:1,FrameSize:[354,730],FrameDelay:0,_this:null}};C.AO8={_class:
 function(){return A.abj.Aj;},0:{FileName:"./res_index/SimulationLightCone.png",Format:
-A.jt,NoOfFrames:1,FrameSize:[120,120],FrameDelay:0,_this:null}};C.AAh={_Init:function(
-){A.abr.ASH._Init.call(this,0);this.Bjx(0xFF706E6C);this.BjA(0xFF706E6C);this.Bjz(
-0xFFABABA8);this.Bjy(0xFF706E6C);this.Bjs(0xFF706E6C);this.Bjv(0xFF706E6C);this.
-Bju(0xFFABABA8);this.Bjt(0xFF706E6C);this.Bjr(34);this.Bji(0xFF706E6C);this.Bjl(
-0xFF706E6C);this.Bjk(0xAAABABA8);this.Bjj(0xFF706E6C);this.Bje(0xFF706E6C);this.
-Bjh(0xFF706E6C);this.Bjg(0xAAABABA8);this.Bjf(0xFF706E6C);this.Bjd(34);this.Bjq(
-0x11);this.BjB(A.zW(A.eV.AB));this.Bjw(A.zW(A.eV.AB));this.Bjb(0x11);this.BiN(0x4
-);this.Bi0(7);this.Bi3(5);this.Bi2(1);this.Bi1(3);this.BiW(A.zW(A.abr.Ada));this.
-BiZ(A.zW(A.abr.Ada));this.BiY(A.zW(A.abr.Ada));this.BiX(A.zW(A.abr.Ada));this.BiS(
-6);this.BiV(4);this.BiU(0);this.BiT(2);this.BiO(A.zW(A.abr.Ada));this.BiR(A.zW(A.
-abr.Ada));this.BiQ(A.zW(A.abr.Ada));this.BiP(A.zW(A.abr.Ada));this.AD1(B$);},_variants:
+A.jt,NoOfFrames:1,FrameSize:[120,120],FrameDelay:0,_this:null}};C.AAi={_Init:function(
+){A.abr.ASG._Init.call(this,0);this.Bjy(0xFF706E6C);this.BjB(0xFF706E6C);this.BjA(
+0xFFABABA8);this.Bjz(0xFF706E6C);this.Bjt(0xFF706E6C);this.Bjw(0xFF706E6C);this.
+Bjv(0xFFABABA8);this.Bju(0xFF706E6C);this.Bjs(34);this.Bjj(0xFF706E6C);this.Bjm(
+0xFF706E6C);this.Bjl(0xAAABABA8);this.Bjk(0xFF706E6C);this.Bjf(0xFF706E6C);this.
+Bji(0xFF706E6C);this.Bjh(0xAAABABA8);this.Bjg(0xFF706E6C);this.Bje(34);this.Bjr(
+0x11);this.BjC(A.zW(A.eV.AB));this.Bjx(A.zW(A.eV.AB));this.Bjc(0x11);this.BiO(0x4
+);this.Bi1(7);this.Bi4(5);this.Bi3(1);this.Bi2(3);this.BiX(A.zW(A.abr.Adb));this.
+Bi0(A.zW(A.abr.Adb));this.BiZ(A.zW(A.abr.Adb));this.BiY(A.zW(A.abr.Adb));this.BiT(
+6);this.BiW(4);this.BiV(0);this.BiU(2);this.BiP(A.zW(A.abr.Adb));this.BiS(A.zW(A.
+abr.Adb));this.BiR(A.zW(A.abr.Adb));this.BiQ(A.zW(A.abr.Adb));this.AD2(B$);},_variants:
 function(){return this;},_this:null};
-C._Init=function(){};C._ReInit=function(){var B;if((B=C.AAh._this))B._ReInit();};
+C._Init=function(){};C._ReInit=function(){var B;if((B=C.AAi._this))B._ReInit();};
 C.DE=function(D){var B;if((B=C.Abr[0]._this)&&(B._cycle!=D))B._Done(C.Abr[0]._this=
-null);if((B=C.AO9[0]._this)&&(B._cycle!=D))B._Done(C.AO9[0]._this=null);if((B=C.
-AAh._this)&&(B._cycle!=D))B._Done(C.AAh._this=null);};return C;})();
+null);if((B=C.AO8[0]._this)&&(B._cycle!=D))B._Done(C.AO8[0]._this=null);if((B=C.
+AAi._this)&&(B._cycle!=D))B._Done(C.AAi._this=null);};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
