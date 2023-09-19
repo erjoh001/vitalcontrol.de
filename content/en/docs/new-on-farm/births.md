@@ -37,14 +37,14 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
 In addition to creating the export file, you have the following options:
 
-- [Change](../births/#change-between-list-view-and-single-animal-view) between list view and single animal view
-- [Clear all birth notices](../purchased-animals/#clear-all-purchased-notices)
-- [Delete animal + notices](../purchased-animals/#delete-animal--notices)
-- [Clear notice of birth](../purchased-animals/#clear-notice-of-purchased)
-- [Edit](../births/#edit-a-notice) a notice
+- [Change](#change-between-list-view-and-single-animal-view) between list view and single animal view
+- [Clear all birth notices](../purchased-animals/#clear-all-purchase-notices)
+- [Delete animal + notices](../purchased-animals/#delete-animal--purchase-notice)
+- [Clear notice of birth](../purchased-animals/#clear-notice-of-purchase)
+- [Edit](#edit-data-of-birth-notice) a notice
 
 {{% alert title="Hint" %}}
-Some actions are identical to the actions in the `purchased animals` list. Follow the links to the step-by-step instructions. Always open the `births` list first as described in the instructions above.
+Some actions are identical to the actions in the `Purchased animals` list. Follow the links to the step-by-step instructions. Always open the `Births` list first as described in the instructions above.
 {{% /alert %}}
 
 ### Change between list view and single animal view
@@ -57,7 +57,7 @@ Some actions are identical to the actions in the `purchased animals` list. Follo
 
     ![VitalControl: Menu New on farm Births](../images/change.png "Change between list view and single animal view")
 
-### Edit a notice
+### Edit data of birth notice
 
 {{% alert title="Hint" %}}
 Editing the animal data is only possible in the list view!

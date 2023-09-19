@@ -42,7 +42,7 @@ Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 - [Alle Meldungen](../zuk%C3%A4ufe/#alle-meldungen-l%C3%B6schen) löschen
 - [Tier + Meldung ](../zuk%C3%A4ufe/#tier--meldung-l%C3%B6schen) löschen
 - [Zugangsmeldung](../zuk%C3%A4ufe/#zugangsmeldung-l%C3%B6schen) löschen
-- Eine [Meldung](../zuk%C3%A4ufe/#eine-meldung-bearbeiten) bearbeiten
+- Eine [Meldung](../zuk%C3%A4ufe/#daten-eines-zu-meldenden-tieres-bearbeiten) bearbeiten
 
 {{% alert title="Hinweis" %}}
 Öffnen Sie immer zuerst die Liste `Zukäufe` wie in der Anleitung oben beschrieben.

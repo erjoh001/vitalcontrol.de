@@ -10,8 +10,8 @@ Kategorien: [Transponder]
 Tags: [Transponder]
 translationKey: actions/transponder
 ---
-{{% alert title="Hinweis" %}}
-Diese Aktion ist standardmäßig nicht aktiviert! Aktivieren Sie diese wie in [Menüeinträge & Aktionskette](/docs/aktionen/einstellungen/) beschrieben.
+{{% alert title="Achtung" color="warning" %}}
+Diese Aktion ist standardmäßig deaktiviert! Um diese Aktion nutzen zu können, müssen Sie diese zunächst im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/) aktivieren.
 {{% /alert %}}
 
 ## Transponder zuordnen

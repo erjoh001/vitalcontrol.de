@@ -1,10 +1,10 @@
 ---
-title: Beobachtung
+title: Tier zur Beobachtung markieren
 linkTitle: Beobachtung
 slug: beobachtung
 weight: 70
 description: >
- Setzen Sie Tiere auf die Beobachtungsliste oder entfernen sie.
+ Setzen Sie ein Tier auf die Beobachtungsliste oder entfernen es von dort.
 date: 2023-07-26
 Kategorien: [Aktionen]
 Tags: [Aktionen, Beobachtung]

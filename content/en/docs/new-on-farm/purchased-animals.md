@@ -39,10 +39,10 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
 In addition to creating the export file, you have the following options:
 
-- [Clear all purchased notices](../purchased-animals/#clear-all-purchased-noticess)
-- [Delete animal + notices](../purchased-animals/#delete-animal--notices)
-- [Clear notice of purchased](../purchased-animals/#clear-notice-of-purchased)
-- [Edit a mark](../purchased-animals/#edit-a-mark)
+- [Clear all purchased notices](#clear-all-purchase-notices)
+- [Delete animal + notice](#delete-animal--purchase-notice)
+- [Clear notice of purchase](#clear-notice-of-purchase)
+- [Edit a mark](#edit-data-of-purchased-animal)
 
 {{% alert title="Hint" %}}
 Always open the `purchased animals` list first as described in the instructions above.

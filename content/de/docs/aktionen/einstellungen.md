@@ -1,16 +1,16 @@
 ---
-title: Menüeinträge & Aktionskette
-linkTitle: Menüeinräge & Aktionskette
+title: Aktionsbezogene Einstellungen vornehmen
+linkTitle: Einstellungen
 slug: einstellungen
 weight: 120
 description: >
- Legen Sie die Menüeinträge für das Menü Aktion fest und stellen Sie die Aktionskette ein
+ Stellen Sie die Sichtbarkeit und Reihenfolge der Menüeinträge ein und legen die Einzelaktionen der Aktionskette fest.
 date: 2023-07-26
 Kategorien: [Aktionen, Aktionskette]
 Tags: [Aktionen, Aktionskette]
 translationKey: actions/settings
 ---
-## Menüeinträge
+## Menüeinträge: Sichtbarkeit und Reihenfolge
 
 In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des Menüs `Aktionen` angezeigt werden. 
 
@@ -28,9 +28,9 @@ In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des 
 
     ![VitalControl: Menüfolge Aktionen Menüeinträge](../bilder/menue.png "Menüeinträge")
 
-## Aktionskette
+## Aktionskette: Einzelaktionen
 
-In diesem Einstellungsmenü stellen Sie die `Aktionskette` ein.
+In diesem Einstellungsmenü legen Sie die einzelnen Aktionen der `Aktionskette` ein.
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
 

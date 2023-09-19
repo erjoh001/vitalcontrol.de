@@ -19,7 +19,7 @@ Beim Export von Tierdaten, unabhängig ob auf den [USB-Stick][] oder auf einen [
 - [Gewichtsdaten][] `(weights.csv)`
 - [Tierbewertungen][] `(ratings.csv)`
 
-[USB-Stick]: ../usb-drive/
+[USB-Stick]: ../usb-stick/
 [lokalen Datenträger am PC]: ../pc/
 
 [Tierdaten]: #tierdaten-animalscsv

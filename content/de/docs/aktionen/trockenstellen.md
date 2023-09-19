@@ -1,5 +1,5 @@
 ---
-title: Trockenstellen
+title: Trockenstellen einer Kuh
 linkTitle: Trockenstellen
 slug: trockenstellen
 weight: 115
@@ -10,21 +10,22 @@ Kategorien: [Trockenstellen]
 Tags: [Trockenstellen]
 translationKey: actions/dry-cows
 ---
-{{% alert title="Hinweis" %}}
-Diese Aktion ist standardmäßig nicht aktiviert! Aktivieren Sie diese wie in [Menüeinträge & Aktionskette](/docs/aktionen/einstellungen/) beschrieben. Außerdem wird Ihnen diese Funktion nur bei Kühen angezeigt.
+{{% alert title="Hinweise" %}}
+Diese Funktion wird ihnen nur bei Kühen angezeigt, nicht aber bei Kälbern oder bei Lämmern.  
+Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/) deaktivieren.
 {{% /alert %}}
 
 ## Trockenstellen
 
 {{% alert title="Hinweis" %}}
-Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder Trockenstellen und somit auf die Trockenstellerliste hinzufügen oder Sie können das Tier als Frischmelker, markieren und somit auf die Frischmelkerliste setzen. Die Unterscheidung der Funktion wird durch ein Plussymbol oder ein Minussymbol verdeutlicht. 
+Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenstellen und somit auf die Trockenstellerliste hinzufügen oder Sie können das Tier als Frischmelker markieren und somit auf die Frischmelkerliste setzen. Die Unterscheidung der Funktion wird durch ein Plus- oder ein Minus-Symbol verdeutlicht. 
 {{% /alert %}}
 
 ### Eine Kuh trockenstellen
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
 
-2. Scannen Sie entweder das Tier ohne Ohrmarkennummer mit dem Transponder ein oder wählen Sie das Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Bestätigen Sie mit `OK`.
+2. Scannen Sie jetzt den Transponder des Tiers ein. Alternativ können Sie das Tier auch manuell aus der Tierliste auswählen, Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Wählen Sie das Tier dann durch erneutes Drücken von `OK` aus.
 
 3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion `Trockenstellen` aus und bestätigen Sie mit `OK`.
 
@@ -36,10 +37,14 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder Trockenst
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
 
-2. Scannen Sie entweder das Tier ohne Ohrmarkennummer mit dem Transponder ein oder wählen Sie das Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Bestätigen Sie mit `OK`.
+2. Scannen Sie jetzt den Transponder des Tiers ein. Alternativ können Sie das Tier auch manuell aus der Tierliste auswählen, Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Wählen Sie das Tier dann durch erneutes Drücken von `OK` aus.
 
 3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion `Trockenstellen` aus und bestätigen Sie mit `OK`.
 
 4. Das Tier wurde erfolgreich als laktierend markiert.
 
    ![VitalControl: Menüfolge Aktionen Als laktierend markieren](../bilder/laktierend.png "Eine Kuh als laktierend markieren")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}
