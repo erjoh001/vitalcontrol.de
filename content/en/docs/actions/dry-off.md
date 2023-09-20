@@ -28,7 +28,7 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 
 3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action `dry off` and confirm with `OK`.
 
-4. The animal was successfully marked as dry. 
+4. The animal was successfully marked as dry.
 
    ![VitalControl: Menu Actions Dry off](../images/dryoff.png "Dry off a cow")
 
@@ -40,6 +40,6 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 
 3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action `dry off` and confirm with `OK`.
 
-4. The animal was successfully marked as lactated. 
+4. The animal was successfully marked as lactated.
 
    ![VitalControl: Menu Actions Mark as lactated](../images/lactated.png "Mark as lactated")

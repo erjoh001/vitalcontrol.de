@@ -26,7 +26,6 @@ Mit dieser Aktion können Sie einem Tier, welches noch keinen Transponder zugewi
 
 4. Scannen Sie nun den Transponder ein, den Sie dem Tier zuordnen möchten.
 
-5. Dem Tier wurde erfolgreich der Transponder zugeordnet. 
+5. Dem Tier wurde erfolgreich der Transponder zugeordnet.
 
     ![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen.png "Transponder zuordnen")
-    

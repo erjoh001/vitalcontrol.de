@@ -6,7 +6,7 @@ weight: 40
 draft: false
 description: >
  Rufen Sie Herstellerinformationen ab.
-translationKey: device/info/about 
+translationKey: device/info/about
 ---
 ## Menü "Über" aufrufen
 

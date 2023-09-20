@@ -11,7 +11,7 @@ Tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Hint" %}}
-This action is not enabled by default! Activate this as described in [action setting](/en/docs/actions/action-setting/). 
+This action is not enabled by default! Activate this as described in [action setting](/en/docs/actions/action-setting/).
 {{% /alert %}}
 
 ## Unlink transponder

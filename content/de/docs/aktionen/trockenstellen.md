@@ -11,14 +11,14 @@ Tags: [Trockenstellen]
 translationKey: actions/dry-cows
 ---
 {{% alert title="Hinweise" %}}
-Diese Funktion wird ihnen nur bei Kühen angezeigt, nicht aber bei Kälbern oder bei Lämmern.  
+Diese Funktion wird ihnen nur bei Kühen angezeigt, nicht aber bei Kälbern oder bei Lämmern.
 Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/) deaktivieren.
 {{% /alert %}}
 
 ## Trockenstellen
 
 {{% alert title="Hinweis" %}}
-Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenstellen und somit auf die Trockenstellerliste hinzufügen oder Sie können das Tier als Frischmelker markieren und somit auf die Frischmelkerliste setzen. Die Unterscheidung der Funktion wird durch ein Plus- oder ein Minus-Symbol verdeutlicht. 
+Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenstellen und somit auf die Trockenstellerliste hinzufügen oder Sie können das Tier als Frischmelker markieren und somit auf die Frischmelkerliste setzen. Die Unterscheidung der Funktion wird durch ein Plus- oder ein Minus-Symbol verdeutlicht.
 {{% /alert %}}
 
 ### Eine Kuh trockenstellen
