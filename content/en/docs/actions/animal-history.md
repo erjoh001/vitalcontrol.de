@@ -10,9 +10,6 @@ Kategorien: [Actions]
 Tags: [Actions, Animal history]
 translationKey: actions/animalshistory
 ---
-{{% alert title="Hint" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
 
 ## Animal History
 
@@ -35,3 +32,7 @@ To view the animal history, proceed as follows:
 7. Use the `On/Off` button to switch between the table and graph display.
 
     ![VitalControl: Menu Action Animal history](../images/animalhistory.png "Animal history")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

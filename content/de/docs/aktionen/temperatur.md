@@ -10,9 +10,6 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Fieber, Temperatur]
 translationKey: actions/temperature
 ---
-{{% alert title="Hinweis" %}}
-Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
-{{% /alert %}}
 ## Fieber messen
 
 Die Aktion Temperatur verwenden Sie um bei Ihren Tieren Fieber zu messen. Führen Sie die Messspitze rektal bis zur vorgegebenen Messtiefe ein (bei Großtieren die komplette Länge bis zum Wulst, bei kleinen Wiederkäuern ca. 6 cm bzw. 2/3 der Messspitze). Der Messvorgang läuft automatisch ab. Sobald der Messvorgang beendet ist, zeigt das Gerät die gemessene Temperatur an. Die Farbcodierung zeigt an, ob die Temperatur im grünen, gelben oder roten Bereich liegt. Sie haben während der Aktion Fieber messen unterschiedliche Möglichkeiten:
@@ -84,3 +81,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 2. Drücken Sie die `F1` Taste um die Aktion abzubrechen.
 
     ![VitalControl: Menüfolge Aktionen Datum](../bilder/ergebnisspeichern.png "Datum einstellen")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}

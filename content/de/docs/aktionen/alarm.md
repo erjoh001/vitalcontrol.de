@@ -10,10 +10,6 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Alarm]
 translationKey: actions/alarm
 ---
-{{% alert title="Hinweis" %}}
-Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
-{{% /alert %}}
-
 ## Alarm
 
 Mit der Aktion `Alarm` setzen Sie Tiere auf die Alarmliste oder entfernen Sie von dieser. Die Alarmliste hilft Ihnen auffällige Tiere schneller und leichter wiederzufinden und erleichtert Ihnen somit die täglichen Routinekontrollen. Um die Aktion `Alarm` anzuwenden gehen Sie wie folgt vor:
@@ -29,3 +25,7 @@ Mit der Aktion `Alarm` setzen Sie Tiere auf die Alarmliste oder entfernen Sie vo
 5. Durch erneutes Anwenden der Aktion `Alarm` entfernen Sie das Tier wieder von der Alarmliste. Ob Sie das Tier durch Verwenden der Aktion `Alarm` zu der Alarmliste hinzufügen oder es entfernen wird Ihnen mit einem kleinen + oder - Zeichen angezeigt.
 
     ![VitalControl: Menüfolge Aktionen Alarm](../bilder/alarm.png "Alarm")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}

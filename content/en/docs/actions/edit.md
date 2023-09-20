@@ -10,9 +10,6 @@ Kategorien: [Actions]
 Tags: [Actions, animal data, edit]
 translationKey: actions/edit
 ---
-{{% alert title="Hint" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
 
 ## Edit animal data
 
@@ -46,3 +43,7 @@ To change the animal data, proceed as follows:
 7. Save the change with the `F3` key.
 
     ![VitalControl: Menu Action Edit animal data](../images/edit.png "Edit animal data")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

@@ -10,10 +10,6 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Tierbewertung]
 translationKey: actions/animal-rating
 ---
-{{% alert title="Hinweis" %}}
-Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
-{{% /alert %}}
-
 ## Tierbewertung durchführen
 Bei der Tierbewertung dokumentieren Sie den Zustand des individuellen Tieres. Der Zustand wird visuell ermittelt und mit Hilfe des Ampelsystems erfasst. In der einfachen Bewertung wird nur der Allgemeinzustand erfasst. In der erweiterten Bewertung erfassen Sie den Allgemeinzustand, Futteraufnahme, Kotbeschaffenheit und Atemwegserkrankungen. Den Bewertungsmodus können Sie entweder direkt in der Aktion `Bewertung` umstellen oder Sie legen diesen in den [Einstellungen](..) fest.
 
@@ -44,3 +40,7 @@ Treffen Sie keine Auswahl über die Pfeiltasten ◁ ▷ sondern speichern direkt
 ### Bewertung erweitert
 
    ![VitalControl: Menüfolge Aktionen Bewertung](../bilder/bewertungerweitert.png "Erweiterte Bewertung durchführen")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}

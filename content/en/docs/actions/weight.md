@@ -10,9 +10,6 @@ Kategorien: [Actions]
 Tags: [Actions, weight]
 translationKey: actions/weight
 ---
-{{% alert title="Hint" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
 
 ## Record weight
 Use the `Weighing` action to save the weight of your animal individually. To do this, weigh your animals or estimate their weight and enter this value in the VitalControl device. This allows you to check the weight development of your animals and evaluate them individually.
@@ -30,3 +27,7 @@ If the average weight deviates very strongly in one direction (too high/too low)
 4. A menu opens with a weight specification. Increase or decrease this with the arrow keys △ ▽ and save the result with the `F3` key or with the `OK` key.
 
     ![VitalControl: Menu Action Weighing](../images/weighing.png "Weighing")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

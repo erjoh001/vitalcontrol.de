@@ -11,9 +11,6 @@ Kategorien: [Actions]
 Tags: [Actions, newborn care]
 translationKey: actions/newborn-care
 ---
-{{% alert title="Hint" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
 
 ## Newborn care
 
@@ -31,3 +28,7 @@ close. To apply the `newborn care` action, proceed as follows:
 5. Save the settings with the `F1` key.
 
     ![VitalControl: Menu Action Newborn care](../images/newborncare.png "Newborn care")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}
