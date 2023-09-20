@@ -27,5 +27,5 @@ Mit der Aktion `Beobachtung` setzen Sie Tiere auf die Beobachtungsliste oder ent
     ![VitalControl: Menüfolge Aktionen Beobachtung](../bilder/beobachtung.png "Beobachtung")
 
 {{% alert title="Hinweis" %}}
-Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
 {{% /alert %}}

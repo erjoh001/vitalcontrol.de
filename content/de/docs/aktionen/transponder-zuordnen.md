@@ -29,7 +29,3 @@ Mit dieser Aktion können Sie einem Tier, welches noch keinen Transponder zugewi
 5. Dem Tier wurde erfolgreich der Transponder zugeordnet.
 
     ![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen.png "Transponder zuordnen")
-
-{{% alert title="Hinweis" %}}
-Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). 
-{{% /alert %}}
