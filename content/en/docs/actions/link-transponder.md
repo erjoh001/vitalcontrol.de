@@ -10,7 +10,7 @@ Kategorien: [Transponder]
 Tags: [Transponder]
 translationKey: actions/transponder
 ---
-{{% alert title="Hint" %}}
+{{% alert title="Warning" color="warning" %}}
 This action is not enabled by default! Activate this as described in [action setting](/en/docs/actions/action-setting/).
 {{% /alert %}}
 
@@ -29,3 +29,4 @@ With this action you can assign a transponder to an animal that has not yet been
 5. The transponder was successfully assigned to the animal.
 
     ![VitalControl: Menu Action Link transponder](../images/linktransponder.png "Link transponder")
+

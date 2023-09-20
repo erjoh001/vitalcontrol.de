@@ -10,10 +10,6 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Tierdaten]
 translationKey: actions/edit
 ---
-{{% alert title="Hinweis" %}}
-Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
-{{% /alert %}}
-
 ## Tierdaten ändern
 
 Die Aktion `ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
@@ -46,3 +42,7 @@ Um die Tierdaten zu ändern gehen Sie wie folgt vor:
 7. Speichern Sie die Änderung mit der Taste `F3`.
 
     ![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern.png "Ändern")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}

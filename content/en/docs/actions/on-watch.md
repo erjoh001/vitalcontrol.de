@@ -10,9 +10,6 @@ Kategorien: [Actions]
 Tags: [Actions, on watch]
 translationKey: actions/on-watch
 ---
-{{% alert title="Hint" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
 
 ## On watch
 
@@ -29,3 +26,7 @@ With the action `on watch` you put animals on the on-watch list or remove them f
 5. You can remove the animal from the on-watch list again by applying the `on watch` action again. Whether you add or remove the animal from the on-watch list by using the `on watch` action is indicated with a small + or - sign.
 
     ![VitalControl: Menu Actions On watch](../images/onwatch.png "On watch")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

@@ -10,9 +10,6 @@ Kategorien: [Actions]
 Tags: [Actions, Alarm]
 translationKey: actions/alarm
 ---
-{{% alert title="Hint" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
 
 ## Alert
 
@@ -29,3 +26,7 @@ With the action `Alarm` you put animals on the alarm list or remove them from it
 5. You can remove the animal from the alarm list again by applying the `Alarm` action again. Whether you add or remove the animal from the alarm list by using the `Alert` action is indicated with a small + or - sign.
 
     ![VitalControl: Menu Actions Alarm](../images/alarm.png "Alarm")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

@@ -10,9 +10,6 @@ Kategorien: [Actions]
 Tags: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
-{{% alert title="Hint" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
 
 ## Animal loss
 
@@ -29,3 +26,7 @@ The action `animal loss` allows you to register an animal loss. To register an a
 5. Use the `F3` key to deregister the animal with the specified settings.
 
     ![VitalControl: Menu Action Animal loss](../images/animalloss.png "Register an animal loss")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

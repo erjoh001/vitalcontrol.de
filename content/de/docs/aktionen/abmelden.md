@@ -10,10 +10,6 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Abmelden]
 translationKey: actions/unregister
 ---
-{{% alert title="Hinweis" %}}
-Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
-{{% /alert %}}
-
 {{% alert title="Warnung" color="warning" %}}
 Sobald Sie den Tierdatensatz löschen steht er Ihnen nicht mehr zu Auswertungszwecken zur Verfügung! Sollten Sie ein Tier abmelden, möchten aber im Nachgang z.B. noch einmal die Tierentwicklung auswerten müssen Sie den Tierdatensatz beibehalten!
 {{% /alert %}}
@@ -31,3 +27,7 @@ Die Aktion `Abmelden` ermöglicht es Ihnen ein Tier abzumelden sobald es ausgest
 5. Verwenden Sie die Taste `F3` um das Tier mit den festgelegten Einstellungen abzumelden.
 
     ![VitalControl: Menüfolge Aktionen Abmelden](../bilder/abmelden.png "Abmelden")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}

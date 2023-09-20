@@ -10,7 +10,7 @@ Kategorien: [Transponder]
 Tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
-{{% alert title="Hint" %}}
+{{% alert title="Warning" color="warning" %}}
 This action is not enabled by default! Activate this as described in [action setting](/en/docs/actions/action-setting/).
 {{% /alert %}}
 

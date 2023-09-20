@@ -10,9 +10,6 @@ Kategorien: [Dry off]
 Tags: [Dry off]
 translationKey: actions/dry-cows
 ---
-{{% alert title="Hint" %}}
-This action is not enabled by default! Activate this as described in [action setting](/en/docs/actions/action-setting/). Additionally, you will only see this feature for cows.
-{{% /alert %}}
 
 ## Dry off
 
@@ -43,3 +40,7 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 4. The animal was successfully marked as lactated.
 
    ![VitalControl: Menu Actions Mark as lactated](../images/lactated.png "Mark as lactated")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

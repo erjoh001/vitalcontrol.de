@@ -10,9 +10,6 @@ Kategorien: [Actions]
 Tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
-{{% alert title="Hinweis" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
 
 ## Measure fever
 
@@ -85,3 +82,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 2. Press the `F1` key to cancel the action.
 
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

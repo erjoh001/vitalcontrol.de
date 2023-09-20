@@ -10,10 +10,6 @@ Kategorien: [Actions]
 Tags: [Actions, Unregister]
 translationKey: actions/unregister
 ---
-{{% alert title="Hint" %}}
-If you call up the Actions menu item, you must first either scan in an animal using the transponder or select an animal manually. Only then will you have access to the various promotions.
-{{% /alert %}}
-
 {{% alert title="Warning" color="warning" %}}
 As soon as you delete the animal data record, it is no longer available for evaluation purposes! If you deregister an animal, but want for example evaluate the animal's development again afterwards, you must retain the animal data record!
 {{% /alert %}}
@@ -33,3 +29,7 @@ The action `unregister` allows you to deregister an animal as soon as it is move
 5. Use the `F3` key to deregister the animal with the specified settings.
 
     ![VitalControl: Menu Action Unregister](../images/unregister.png "Unregister an animal")
+
+{{% alert title="Hint" %}}
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+{{% /alert %}}

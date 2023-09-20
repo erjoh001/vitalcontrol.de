@@ -10,10 +10,6 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Beobachtung]
 translationKey: actions/on-watch
 ---
-{{% alert title="Hinweis" %}}
-Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
-{{% /alert %}}
-
 ## Beobachtung
 
 Mit der Aktion `Beobachtung` setzen Sie Tiere auf die Beobachtungsliste oder entfernen Sie von dieser. Die Beobachtungsliste hilft Ihnen auffällige Tiere schneller und leichter wiederzufinden und erleichtert Ihnen somit die täglichen Routinekontrollen. Um die Aktion `Beobachtung` anzuwenden gehen Sie wie folgt vor:
@@ -29,3 +25,7 @@ Mit der Aktion `Beobachtung` setzen Sie Tiere auf die Beobachtungsliste oder ent
 5. Durch erneutes Anwenden der Aktion `Beobachtung` entfernen Sie das Tier wieder von der Beobachtungsliste. Ob Sie das Tier durch Verwenden der Aktion `Beobachtung` zu der Beobachtungsliste hinzufügen oder es entfernen wird Ihnen mit einem kleinen + oder - Zeichen angezeigt.
 
     ![VitalControl: Menüfolge Aktionen Beobachtung](../bilder/beobachtung.png "Beobachtung")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}

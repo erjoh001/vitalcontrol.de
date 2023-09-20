@@ -10,10 +10,6 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Tierverlust]
 translationKey: actions/animal-loss
 ---
-{{% alert title="Hinweis" %}}
-Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
-{{% /alert %}}
-
 ## Tierverlust
 
 Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren. Um einen Tierverlust zu registrieren gehen Sie wie folgt vor:
@@ -29,3 +25,7 @@ Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren.
 5. Verwenden Sie die Taste `F3` um das Tier mit den festgelegten Einstellungen abzumelden.
 
     ![VitalControl: Menüfolge Aktionen Tierverlust](../bilder/tierverlust.png "Tierverlust")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}

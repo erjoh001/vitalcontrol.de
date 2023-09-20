@@ -11,7 +11,8 @@ Tags: [Calving]
 translationKey: actions/calving
 ---
 {{% alert title="Hint" %}}
-This action is not enabled by default! Activate this as described in [action setting](/en/docs/actions/action-setting/). Additionally, you will only see this feature for cows.
+This function is only displayed for cows, but not for calves or lambs.
+If you do not need this function, you can deactivate it in the [actions settings menu](/en/docs/actions/action-setting/).
 {{% /alert %}}
 
 ## Register a calving

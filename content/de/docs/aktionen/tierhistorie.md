@@ -10,10 +10,6 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Tierhistorie]
 translationKey: actions/animalshistory
 ---
-{{% alert title="Hinweis" %}}
-Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
-{{% /alert %}}
-
 ## Tierhistorie
 
 Die Tierhistorie gibt Ihnen einen Überblick über die bisher erfassten Daten und die Entwicklung des ausgewählten Tieres. Die angezeigte Information können Sie frei wählen. Auch können Sie auswählen ob Ihnen die Historie als Tabelle oder als Diagramm dargestellt werden soll. Die Tierhistorie hilft Ihnen besonders bei auffälligen Tieren einzusehen ob und wann diese das letzte Mal auffällig waren. Auch hilft Sie Transparenz zu schaffen sollten mehrere Personen die Tierkontrolle durchführen.
@@ -35,3 +31,7 @@ Um die Tierhistorie einzusehen gehen Sie wie folgt vor:
 7. Verwenden Sie die `An/Aus` Taste um zwischen der Darstellungsform Tabelle oder Diagramm zu wechseln.
 
     ![VitalControl: Menüfolge Aktionen Tierhistorie](../bilder/tierhistorie.png "Tierhistorie")
+
+{{% alert title="Hinweis" %}}
+Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+{{% /alert %}}
