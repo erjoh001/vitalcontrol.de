@@ -42,7 +42,7 @@ Um einem Tier, das über eine elektronische Ohrmarke verfügt, eine Ohrmarkennum
 
 3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion `Ohrmarkennummer zuordnen` aus und bestätigen Sie mit `OK`.
 
-4. Scannen Sie nun die elektronische Ohrmarke ein. 
+4. Scannen Sie nun die elektronische Ohrmarke ein.
 
 5. Dem Tier wurde erfolgreich eine Ohrmarkennummer zugewiesen.
 

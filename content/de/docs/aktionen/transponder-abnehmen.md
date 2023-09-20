@@ -16,7 +16,7 @@ Diese Aktion ist standardmäßig deaktiviert! Um diese Aktion nutzen zu können,
 
 ## Transponder abnehmen
 
-Mit dieser Aktion können Sie einen Transponder, der bereits einem Tier zugeordnet wurde, von diesem Tier lösen. 
+Mit dieser Aktion können Sie einen Transponder, der bereits einem Tier zugeordnet wurde, von diesem Tier lösen.
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
 
@@ -27,4 +27,3 @@ Mit dieser Aktion können Sie einen Transponder, der bereits einem Tier zugeordn
 4. Der Transponder wurde erfolgreich von dem Tier gelöst.
 
     ![VitalControl: Menüfolge Aktionen Transponder abnehmen](../bilder/transponderabnehmen.png "Transponder abnehmen")
-    

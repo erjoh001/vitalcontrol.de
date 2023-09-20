@@ -12,17 +12,17 @@ translationKey: actions/settings
 ---
 ## Menüeinträge: Sichtbarkeit und Reihenfolge
 
-In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des Menüs `Aktionen` angezeigt werden. 
+In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des Menüs `Aktionen` angezeigt werden.
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
 
-2. Verwenden Sie die `An/Aus` Taste entweder direkt oder Scannen Sie zuvor ein Tier ein. 
+2. Verwenden Sie die `An/Aus` Taste entweder direkt oder Scannen Sie zuvor ein Tier ein.
 
-3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Menüeinträge` aus und bestätigen Sie mit `OK`. 
+3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Menüeinträge` aus und bestätigen Sie mit `OK`.
 
-4. Es öffnet sich ein weiteres Untermenü mit allen Aktionen die Sie anzeigen lassen können. Wählen Sie die gewünschte Aktion mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Die Aktion wird Ihnen nun, abhängig von ihrem Ausgangsstatus, angezeigt oder nicht mehr angezeigt. Ein gelbe Kreis markiert angezeigte Aktionen, ein grauer Kreis markiert nicht angezeigte Aktionen. 
+4. Es öffnet sich ein weiteres Untermenü mit allen Aktionen die Sie anzeigen lassen können. Wählen Sie die gewünschte Aktion mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Die Aktion wird Ihnen nun, abhängig von ihrem Ausgangsstatus, angezeigt oder nicht mehr angezeigt. Ein gelbe Kreis markiert angezeigte Aktionen, ein grauer Kreis markiert nicht angezeigte Aktionen.
 
-5. Möchten Sie die `Reihenfolge zurücksetzen`, wählen Sie den entsprechenden Menüpunkt mit den Pfeiltasten aus und bestätigen Sie mit `OK`. 
+5. Möchten Sie die `Reihenfolge zurücksetzen`, wählen Sie den entsprechenden Menüpunkt mit den Pfeiltasten aus und bestätigen Sie mit `OK`.
 
 6. Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück zu dem Menü `Aktionen`.
 
@@ -34,11 +34,10 @@ In diesem Einstellungsmenü legen Sie die einzelnen Aktionen der `Aktionskette` 
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
 
-2. Verwenden Sie die `An/Aus` Taste entweder direkt oder Scannen Sie zuvor ein Tier ein. 
+2. Verwenden Sie die `An/Aus` Taste entweder direkt oder Scannen Sie zuvor ein Tier ein.
 
-3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Aktionskette` aus und bestätigen Sie mit `OK`. 
+3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Aktionskette` aus und bestätigen Sie mit `OK`.
 
 4. Die weitere Anleitung finden Sie [hier](/docs/aktionskette/#aktionskette-einstellen).
 
     ![VitalControl: Menüfolge Aktionen Aktionskette](../bilder/aktionskette.png "Aktionskette")
-    

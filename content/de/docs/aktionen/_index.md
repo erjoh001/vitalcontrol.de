@@ -7,5 +7,5 @@ translationKey: actions
 weight: 10
 ---
 
-<object data="bilder/aktionen.svg" type="image/svg+xml" width="200" style="margin-left: 50mm" >
+<object data="bilder/aktionen.svg" type="image/svg+xml" width="800" style="margin-left: 50mm" >
 </object>

@@ -10,6 +10,7 @@ description: >
 Categories: [Menu]
 Tags: [Main menu, Actions]
 translationKey: menu-tree
+no_list: True
 ---
 
 The interactive graphic below shows the menu tree of the VitalControl device:

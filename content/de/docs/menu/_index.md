@@ -10,8 +10,8 @@ description: >
 Kategorien: [Menü]
 Tags: [Hauptmenü, Aktionen]
 translationKey: menu-tree
+no_list: True
 ---
-
 Die nachfolgende interaktive Grafik zeigt den Menübaum des VitalControl-Geräts an:
 
 {{% alert title="Hinweis" %}}
