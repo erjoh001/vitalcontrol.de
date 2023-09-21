@@ -1,7 +1,7 @@
 ---
-title: Action setting
-linkTitle: Action setting
-slug: action-setting
+title: Action settings
+linkTitle: Settings
+slug: settings
 weight: 120
 description: >
  Set the menu items for the Action menu and set the chain of actions

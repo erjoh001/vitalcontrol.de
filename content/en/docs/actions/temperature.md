@@ -84,5 +84,5 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}

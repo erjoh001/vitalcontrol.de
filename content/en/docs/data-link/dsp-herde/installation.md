@@ -8,7 +8,7 @@ description: >
 weight: 10
 categories: [DSP Herde]
 ---
-Vor dem erstmaligen [Datenaustausch](../datenaustausch/) muss einmalig die Installation der Technikkopplung zum VitalControl-Gerät eingerichtet werden.
+Vor dem erstmaligen [Datenaustausch](../data-exchange/) muss einmalig die Installation der Technikkopplung zum VitalControl-Gerät eingerichtet werden.
 
 {{% alert title="Achtung" %}}
 Vor der Einrichtung der Technikkopplung muss zwingend die Software `VCSynchronizer` auf ihrem [PC installieren](../../vcsynchronizer/installation/).<br>Wenn Sie in der Liste ihrer Anwendungen im Windows Startmenü den Eintrag `Urban VitalControl` finden können, ist die Software bereits installiert.
@@ -93,4 +93,4 @@ Klicken Sie als nächstes auf den Reiter `Technikspezifische Einstellungen`, um 
 ## Technikkopplung speichern
 
 Drücken Sie auf die Taste `Speichern (F2)`, nachdem Sie die Konfiguration der Technikkopplung vorgenommen haben. Damit ist die Technikkopplung für das VitalControl gespeichert und einsatzbereit.  
-Führen Sie nun sofort einen [Datenaustausch](../datentausch) durch, um zu überprüfen, ob die von Ihnen vorgenommenen Einstellungen gültig und zielführend sind.
+Führen Sie nun sofort einen [Datenaustausch](../data-exchange/) durch, um zu überprüfen, ob die von Ihnen vorgenommenen Einstellungen gültig und zielführend sind.

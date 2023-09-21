@@ -42,5 +42,5 @@ Depending on the initial status of the cow, you can either dry the animal and ad
    ![VitalControl: Menu Actions Mark as lactated](../images/lactated.png "Mark as lactated")
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}
