@@ -18,7 +18,7 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
   <area shape="rect" coords="0,160,116,280" alt="Aktionen" title="Aktionen am Tier&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/">
   <area shape="rect" coords="0,280,116,400" alt="Herde" title="Herdenmenü&#10;Mausklick: zur Dokumentation" href="/docs/herde/">
   <area shape="rect" coords="0,400,116,520" alt="Listen" title="Tierlisten&#10;Mausklick: zur Dokumentation" href="/docs/listen/">
-  <area shape="rect" coords="0,520,116,640" alt="Gerät" title="Gerät&#10;Mausklick: zur Dokumentation" href="/docs/listen/">
+  <area shape="rect" coords="0,520,116,640" alt="Gerät" title="Gerät&#10;Mausklick: zur Dokumentation" href="/docs/geraet/">
 
   <area shape="rect" coords="116,40,232,160" alt="Zugänge" title="Zugänge von Tieren&#10;Mausklick: zur Dokumentation" href="/docs/zugaenge/">
   <area shape="rect" coords="116,160,232,280" alt="Aktionskette" title="Aktionskette&#10;Mausklick: zur Dokumentation" href="/docs/aktionskette/">
