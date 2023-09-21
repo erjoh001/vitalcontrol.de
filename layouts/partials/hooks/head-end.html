@@ -1,0 +1,13 @@
+{{ $version := "1.4.2" -}}
+{{ $cdnurl := printf "https://cdnjs.cloudflare.com/ajax/libs/maphilight/%s/jquery.maphilight.min.js" $version -}}
+{{ if eq (resources.GetRemote $cdnurl) nil -}}
+  {{ errorf "Invalid maphilight version %s, could not retrieve this version from CDN" $version -}}
+{{ end -}}
+{{ with resources.GetRemote $cdnurl -}}
+  {{ with .Err -}}
+    {{ errorf "Error while retrieving resource %q from CDN. Status: %s." $cdnurl .Data.Status -}}
+  {{ else -}}
+    {{ $secureJS := . | resources.Fingerprint "sha512" -}}
+<script src="{{ .RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" crossorigin="anonymous" ></script>
+  {{ end -}}
+{{ end -}}

@@ -22,5 +22,5 @@ If you click on a menu item, you will be redirected to a description of the resp
   <area shape="rect" coords="116,160,232,280" alt="Chain of actions" title="Chain of actions&#10;Mouse click: open documentation" href="/en/docs/chain-of-actions/">
   <area shape="rect" coords="116,280,232,400" alt="Animal" title="Animal&#10;Mouse click: open documentation" href="/en/docs/animal/">
   <area shape="rect" coords="116,400,232,520" alt="Evaluation" title="Evaluation&#10;Mouse click: open documentation" href="/en/docs/evaluation/">
-  <area shape="rect" coords="116,400,232,640" alt="Settings" title="Settings&#10;Mouse click: open documentation" href="/en/docs/settings/">
+  <area shape="rect" coords="116,400,520,640" alt="Settings" title="Settings&#10;Mouse click: open documentation" href="/en/docs/settings/">
 </map>
