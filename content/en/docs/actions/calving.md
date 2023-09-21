@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Hint" %}}
 This function is only displayed for cows, but not for calves or lambs.
-If you do not need this function, you can deactivate it in the [actions settings menu](/en/docs/actions/action-setting/).
+If you do not need this function, you can deactivate it in the [actions settings menu](../settings/).
 {{% /alert %}}
 
 ## Register a calving

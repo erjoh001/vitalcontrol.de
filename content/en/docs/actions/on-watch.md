@@ -28,5 +28,5 @@ With the action `on watch` you put animals on the on-watch list or remove them f
     ![VitalControl: Menu Actions On watch](../images/onwatch.png "On watch")
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}

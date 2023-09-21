@@ -31,5 +31,5 @@ The action `unregister` allows you to deregister an animal as soon as it is move
     ![VitalControl: Menu Action Unregister](../images/unregister.png "Unregister an animal")
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](/docs/actions/settings/). Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}
