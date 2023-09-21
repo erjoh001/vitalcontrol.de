@@ -6,7 +6,7 @@ draft: false
 description: >
   Importieren Sie den Tierbestand von der Herde Software auf das VitalControl und spielen sie mit dem VitalControl erfasste Daten in Herde ein.
 weight: 20
-slug: datenaustausch
+slug: datentausch
 Kategorien: [Datenaustausch, DSP Herde]
 ---
 Gehen Sie wie folgt vor, um Daten zwischen der Herde Software und dem VitalControl abzugleichen:
