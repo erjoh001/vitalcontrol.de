@@ -1,6 +1,6 @@
 ---
-title: "Info"
-linkTitle: "Info"
+title: Info
+linkTitle: Info
 date: 2023-07-28T13:25:28+02:00
 weight: 20
 slug: info
@@ -17,7 +17,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/menu.png" alt="VitalControl Info" title="Info" usemap="#workmap" class="maphilight">
+<img src="bilder/menu.png" alt="VitalControl Info" title="Info" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="2,40,238,80" alt="Seriennummer" title="Um die Seriennummer ihres Gerätes abzurufen klicken Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/geraet/info/seriennummer-abrufen/">

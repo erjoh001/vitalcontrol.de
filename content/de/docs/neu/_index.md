@@ -11,7 +11,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/neu2.png/" alt="VitalControl Neu" title="Neu" usemap="#workmap" class="maphilight">
+<img src="bilder/neu2.png" alt="VitalControl Neu" title="Neu" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="3,40,116,160" alt="Neues Tier" title="Wie Sie ein neues Tier auf dem VitalControl-Gerät anlegen&#10;Mausklick: zur Dokumentation" href="/docs/neu/neues-tier/">

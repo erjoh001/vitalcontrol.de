@@ -11,7 +11,7 @@ maphilight: true
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="images/menu.png/" alt="VitalControl Device" title="Device" usemap="#workmap" class="maphilight">
+<img src="images/menu.png" alt="VitalControl Device" title="Device" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="2,40,238,80" alt="Data management" title="Run data backups, export your data and reset the device&#10;Mouse klick: open documentation" href="/en/docs/device/data-management/">

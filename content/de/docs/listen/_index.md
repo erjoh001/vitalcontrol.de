@@ -11,7 +11,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/listen.png" alt="VitalControl Listen" title="Listen" usemap="#workmap" class="maphilight">
+<img src="bilder/listen.png" alt="VitalControl Listen" title="Listen" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="3,40,116,160" alt="Alarm" title="Sehen Sie ihre Alarmliste ein&#10;Mausklick: zur Dokumentation" href="/docs/listen/alarm/">

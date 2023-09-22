@@ -10,7 +10,7 @@ maphilight: true
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="mainmenu.png" alt="VitalControl Main menu" title="Main menu" usemap="#workmap" class="maphilight">
+<img src="mainmenu.png" alt="VitalControl Main menu" title="Main menu" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="3,40,116,160" alt="New" title="Create new animals&#10;Mouse click: open documentation" href="/en/docs/new/">

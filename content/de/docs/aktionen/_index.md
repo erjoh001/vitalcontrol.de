@@ -13,7 +13,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/menu.png/" alt="VitalControl Aktionen" title="Aktionen" usemap="#workmap"  class="maphilight">
+<img src="bilder/menu.png" alt="VitalControl Aktionen" title="Aktionen" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="3,100,60,165" alt="Temperatur" title="Messen Sie Fieber bei Ihren Tieren&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/temperatur/">

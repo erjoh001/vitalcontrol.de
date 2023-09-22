@@ -17,7 +17,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="menu.png" alt="VitalControl Service" title="Service" usemap="#workmap" class="maphilight">
+<img src="menu.png" alt="VitalControl Service" title="Service" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="2,42,238,82" alt="Prüfung Gerätetreiber" title="Die Anleitung zur Prüfung ihrer Gerätetreiber finden Sie hier&#12;Mausklick: zur Dokumentation" href="/docs/diagnose/hardware/">

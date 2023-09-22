@@ -11,7 +11,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/zukauefe.png/" alt="VitalControl Zugänge" title="Zugänge" usemap="#workmap" class="maphilight">
+<img src="bilder/zukauefe.png" alt="VitalControl Zugänge" title="Zugänge" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="3,40,116,160" alt="Zukäufe, kein Transponder" title="Hier weisen Sie ihren neu zugekauften Tiere einen Transponder zu&#10;Mausklick: zur Dokumentation" href="/docs/zugaenge/zukaeufe-kein-transponder/">

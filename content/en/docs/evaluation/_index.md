@@ -10,7 +10,7 @@ maphilight: true
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="images/evaluate.png/" alt="VitalControl Evaluation" title="Evaluation" usemap="#workmap" class="maphilight">
+<img src="images/evaluate.png" alt="VitalControl Evaluation" title="Evaluation" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="3,40,116,160" alt="Weight" title="Evaluate your stored data in the Weight section&#10;Mouse klick: open documentation" href="/en/docs/evaluation/weight/">

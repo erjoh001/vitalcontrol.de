@@ -1,6 +1,6 @@
 ---
-title: "Datenmanagement"
-linkTitle: "Datenmanagement"
+title: Datenmanagement
+linkTitle: Datenmanagement
 date: 2023-07-28T13:25:28+02:00
 weight: 10
 slug: datenmanagement
@@ -17,7 +17,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="datamanagement.png" alt="VitalControl Datenmanagement" title="Datenmanagement" usemap="#workmap" class="maphilight">
+<img src="datamanagement.png" alt="VitalControl Datenmanagement" title="Datenmanagement" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
   <area shape="rect" coords="2,40,238,80" alt="Datensicherung erstellen" title="Die Anleitung zu Erstellung einer Datensicherung finden Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/backup/backup/">
