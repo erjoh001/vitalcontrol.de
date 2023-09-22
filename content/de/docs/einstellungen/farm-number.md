@@ -12,7 +12,7 @@ translationKey: settings/farm-number
 ---
 ## Betriebsnummer festlegen
 
-Um erfolgreich einen [Import ihres Tierbestands] aus der HI-Tier-Datenbank durchführen zu können, müssen Sie einmalig ihre zehnstellige Betriebsnummer eingeben und abspeichern. Gehen Sie hierfür wie folgt vor:
+Um erfolgreich einen [Import ihres Tierbestands] aus der HI-Tier Datenbank durchführen zu können, müssen Sie einmalig ihre zehnstellige Betriebsnummer eingeben und abspeichern. Gehen Sie hierfür wie folgt vor:
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Einstellungen`.
 

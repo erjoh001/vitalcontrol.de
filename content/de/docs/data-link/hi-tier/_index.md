@@ -1,5 +1,5 @@
 ---
-title: "HI-Tier-Datenbank: Import des Tierbestands und Meldung von Geburten"
+title: "HI-Tier Datenbank: Import des Tierbestands und Meldung von Geburten"
 linkTitle: HI-Tier
 date: 2023-08-04T12:12:10+02:00
 draft: false
