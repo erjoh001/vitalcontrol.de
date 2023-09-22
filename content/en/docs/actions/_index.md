@@ -11,7 +11,7 @@ maphilight: true
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="images/menu2.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap" class="maphilight">
+<img src="images/menu2.png" alt="VitalControl Gerät" title="Gerät" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,100,60,165" alt="Temperature" title="Measure fever in your animals&#10;Mouse klick: open documentation" href="/en/docs/actions/measure-temperature/">

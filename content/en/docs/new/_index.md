@@ -11,7 +11,7 @@ maphilight: true
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="images/neuen.png/" alt="VitalControl New" title="New" usemap="#workmap" class="maphilight">
+<img src="images/neuen.png" alt="VitalControl New" title="New" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,116,160" alt="New animal" title="How to register a new animal using the VitalControl device&#10;Mouse klick: open documentation" href="/en/docs/new/animal/">

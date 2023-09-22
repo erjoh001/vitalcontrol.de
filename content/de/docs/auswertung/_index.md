@@ -11,7 +11,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/auswerten.png/" alt="VitalControl Auswertung" title="Auswertung" usemap="#workmap" class="maphilight">
+<img src="bilder/auswerten.png" alt="VitalControl Auswertung" title="Auswertung" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,116,160" alt="Gewicht" title="Werten Sie die mit dem VitalControl erfassten Gewichtswerte ihrer Tiere aus&#10;Mausklick: zur Dokumentation" href="/docs/auswertung/gewicht/">

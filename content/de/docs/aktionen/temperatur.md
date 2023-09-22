@@ -34,7 +34,15 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 4. Führen Sie nun die Messung durch. Sobald die Messung abgeschlossen ist wird die Temperatur, je nach gesetzten Schwellenwert, blau, grün, gelb oder rot hinterlegt.
 
-    ![VitalControl: Menüfolge Aktionen Datum](../bilder/vorbereitendeschritte.png "Datum einstellen")
+{{< tabpane >}}
+{{< tab header="Tierauswahl:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+![VitalControl: Menüfolge Aktion Temperaturmessung](../bilder/aktion-temperatur-scan.png "Temperaturmessung")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+![VitalControl: Menüfolge Aktion Temperaturmessung](../bilder/aktion-temperatur-manuelle-auswahl.png "Temperaturmessung")
+{{% /tab %}}
+{{< /tabpane >}}
 
 ### Ergebnis abspeichern
 

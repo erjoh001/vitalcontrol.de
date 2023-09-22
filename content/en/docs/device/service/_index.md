@@ -17,7 +17,7 @@ maphilight: true
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="menu.png/" alt="VitalControl Service" title="Service" usemap="#workmap" class="maphilight">
+<img src="menu.png" alt="VitalControl Service" title="Service" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,80" alt="Check device drivers" title="The instructions for checking your device drivers can be found here&#10;Mausklick: zur Dokumentation" href="/en/docs/diagnosis/hardware/">
