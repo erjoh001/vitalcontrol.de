@@ -20,8 +20,8 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
 <img src="bilder/menu.png" alt="VitalControl Info" title="Info" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
-  <area shape="rect" coords="0,40,240,80" alt="Seriennummer" title="Um die Seriennummer ihres Gerätes abzurufen klicken Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/geraet/info/seriennummer-abrufen/">
-  <area shape="rect" coords="0,80,240,120" alt="Software" title="Die Anleitung zur Einsicht ihrer Softwareversion finden Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/firmware/versionen/">
-  <area shape="rect" coords="0,120,240,160" alt="Hardware" title="Um die Hardwareinformationen ihres Gerätes abzurufen klicken Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/geraet/info/hardware/">
-  <area shape="rect" coords="0,160,240,200" alt="Über" title="Rufen Sie Herstellerinformationen ab&#10;Mausklick: zur Dokumentation" href="/docs/geraet/info/ueber/">
+  <area shape="rect" coords="2,40,238,80" alt="Seriennummer" title="Um die Seriennummer ihres Gerätes abzurufen klicken Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/geraet/info/seriennummer-abrufen/">
+  <area shape="rect" coords="2,80,238,120" alt="Software" title="Die Anleitung zur Einsicht ihrer Softwareversion finden Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/firmware/versionen/">
+  <area shape="rect" coords="2,120,238,160" alt="Hardware" title="Um die Hardwareinformationen ihres Gerätes abzurufen klicken Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/geraet/info/hardware/">
+  <area shape="rect" coords="2,160,238,200" alt="Über" title="Rufen Sie Herstellerinformationen ab&#10;Mausklick: zur Dokumentation" href="/docs/geraet/info/ueber/">
 </map>
