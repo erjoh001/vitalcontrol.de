@@ -40,6 +40,8 @@ Innerhalb des Menüpunktes Herde können Sie ihre gesamte Herde einsehen, einzel
 
 3. Es werden Ihnen nun die Tierdaten angezeigt.
 
+4. Alternativ können Sie mit den Pfeiltasten ◁ ▷ zwischen den unterschiedlichen Anzeigemöglichkeiten wechseln.
+
     ![VitalControl: Menüfolge Herde](bilder/tierdaten.png "Tierdaten anzeigen lassen")
 
 {{% alert title = "Hinweis" %}}
@@ -54,6 +56,8 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 3. Es werden Ihnen nun die Temperaturdaten angezeigt.
 
+4. Alternativ können Sie mit den Pfeiltasten ◁ ▷ zwischen den unterschiedlichen Anzeigemöglichkeiten wechseln.
+
     ![VitalControl: Menüfolge Herde](bilder/temperatur.png "Temperatur anzeigen lassen")
 
 ### Bewertung anzeigen lassen
@@ -64,6 +68,8 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 3. Es werden Ihnen nun die Bewertungsdaten angezeigt.
 
+4. Alternativ können Sie mit den Pfeiltasten ◁ ▷ zwischen den unterschiedlichen Anzeigemöglichkeiten wechseln.
+
     ![VitalControl: Menüfolge Herde](bilder/bewertung.png "Bewertung anzeigen lassen")
 
 ### Gewicht anzeigen lassen
@@ -73,6 +79,8 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Gewicht` aus und bestätigen Sie mit `OK`.
 
 3. Es werden Ihnen nun die Gewichtsdaten angezeigt.
+
+4. Alternativ können Sie mit den Pfeiltasten ◁ ▷ zwischen den unterschiedlichen Anzeigemöglichkeiten wechseln.
 
     ![VitalControl: Menüfolge Herde](bilder/gewicht.png "Gewicht anzeigen lassen")
 
