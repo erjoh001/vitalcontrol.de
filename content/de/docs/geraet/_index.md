@@ -4,13 +4,14 @@ linkTitle: Gerät
 description: Geräte- und Prozesseinstellungen für ihr VitalControl-Gerät
 translationKey: device
 weight: 105
-no_list: True
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap"> 
+<img src="bilder/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,80" alt="Datenmanagement" title="Führen Sie Datensicherungen aus, exportieren Sie ihre Daten und setzen Sie das Gerät zurück&#10;Mausklick: zur Dokumentation" href="/docs/geraet/datenmanagement/">

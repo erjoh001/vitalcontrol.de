@@ -4,13 +4,14 @@ linkTitle: Auswerten
 description: Werten Sie die von Ihnen mit dem VitalControl erfassten Daten aus.
 translationKey: evaluation
 weight: 30
-no_list: True
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/auswerten.png/" alt="VitalControl Listen" title="Listen" usemap="#workmap"> 
+<img src="bilder/auswerten.png/" alt="VitalControl Auswertung" title="Auswertung" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,116,160" alt="Gewicht" title="Werten Sie die mit dem VitalControl erfassten Gewichtswerte ihrer Tiere aus&#10;Mausklick: zur Dokumentation" href="/docs/auswertung/gewicht/">

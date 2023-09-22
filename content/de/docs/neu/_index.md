@@ -4,13 +4,14 @@ linkTitle: Neu
 description: Wie sie neue Tiere auf dem VitalControl-Gerät anlegen.
 translationKey: new
 weight: 140
-no_list: True
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/neu2.png/" alt="VitalControl Hauptmenü" title="Hauptmenü" usemap="#workmap"> 
+<img src="bilder/neu2.png/" alt="VitalControl Hauptmenü" title="Hauptmenü" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,116,160" alt="Neues Tier" title="Wie Sie ein neues Tier auf dem VitalControl-Gerät anlegen&#10;Mausklick: zur Dokumentation" href="/docs/neu/neues-tier/">

@@ -10,13 +10,14 @@ date: 2023-07-26
 Kategorien: [Gerät, Datenexport]
 Tags: [Gerät, Datenexport, Aktualisierung]
 translationKey: device/data-management
-no_list: T
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="datamanagement.png/" alt="VitalControl Datenmanagement" title="Datenmanagement" usemap="#workmap"> 
+<img src="datamanagement.png/" alt="VitalControl Datenmanagement" title="Datenmanagement" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,80" alt="Datensicherung erstellen" title="Die Anleitung zu Erstellung einer Datensicherung finden Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/backup/backup/">

@@ -10,13 +10,14 @@ date: 2023-07-26
 Kategorien: [Gerät]
 Tags: [Gerät]
 translationKey: device/info
-no_list: T
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/menu.png/" alt="VitalControl Info" title="Info" usemap="#workmap"> 
+<img src="bilder/menu.png/" alt="VitalControl Info" title="Info" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,80" alt="Seriennummer" title="Um die Seriennummer ihres Gerätes abzurufen klicken Sie hier&#10;Mausklick: zur Dokumentation" href="/docs/geraet/info/seriennummer-abrufen/">

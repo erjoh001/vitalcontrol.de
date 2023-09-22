@@ -3,13 +3,14 @@ title: Evaluation
 linkTitle: Evaluation
 description: Evaluate your stored data.
 translationKey: evaluation
-no_list: True
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hint" %}}
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="images/evaluate.png/" alt="VitalControl New on farm" title="New on farm" usemap="#workmap"> 
+<img src="images/evaluate.png/" alt="VitalControl New on farm" title="New on farm" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,116,160" alt="Weight" title="Evaluate your stored data in the Weight section&#10;Mouse klick: open documentation" href="/en/docs/evaluation/weight/">

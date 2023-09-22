@@ -4,13 +4,14 @@ linkTitle: Zugänge
 description: Verwalten Sie ihre Zugänge
 translationKey: new-on-farm
 weight: 150
-no_list: True
+no_list: true
+
 ---
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/zukauefe.png/" alt="VitalControl Hauptmenü" title="Zugänge" usemap="#workmap"> 
+<img src="bilder/zukauefe.png/" alt="VitalControl Hauptmenü" title="Zugänge" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,116,160" alt="Zukäufe, kein Transponder" title="Hier weisen Sie ihren neu zugekauften Tiere einen Transponder zu&#10;Mausklick: zur Dokumentation" href="/docs/zugaenge/zukaeufe-kein-transponder/">

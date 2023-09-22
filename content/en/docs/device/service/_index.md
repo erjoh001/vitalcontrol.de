@@ -10,13 +10,14 @@ date: 2023-07-26
 Kategorien: [Device]
 Tags: [Device]
 translationKey: device/service
-no_list: T
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hint" %}}
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="menu.png/" alt="VitalControl Service" title="Service" usemap="#workmap"> 
+<img src="menu.png/" alt="VitalControl Service" title="Service" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,80" alt="Check device drivers" title="The instructions for checking your device drivers can be found here&#10;Mausklick: zur Dokumentation" href="/en/docs/diagnosis/hardware/">

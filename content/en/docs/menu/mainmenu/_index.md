@@ -4,12 +4,13 @@ linkTitle: Main menu
 translationKey: mainmenu
 weight: 130
 no_list: true
+maphilight: true
 ---
 {{% alert title="Hint" %}}
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="mainmenu.png/" alt="VitalControl Mainmenu" title="Mainmenu" usemap="#workmap"> 
+<img src="mainmenu.png/" alt="VitalControl Main menu" title="Main menu" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,116,160" alt="New" title="Create new animals&#10;Mouse click: open documentation" href="/en/docs/new/">

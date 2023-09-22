@@ -2,15 +2,16 @@
 title: Aktionen am Tier durchführen
 linkTitle: Aktionen
 description: Führen Sie unterschiedliche Tieraktionen aus.
-no_list: T
+no_list: true
 translationKey: actions
 weight: 10
+maphilight: true
 ---
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap"> 
+<img src="bilder/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap"  class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,100,60,165" alt="Temperatur" title="Messen Sie Fieber bei Ihren Tieren&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/temperatur/">

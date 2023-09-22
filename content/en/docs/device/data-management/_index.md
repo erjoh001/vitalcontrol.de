@@ -10,13 +10,14 @@ date: 2023-07-26
 Kategorien: [Device, Data export]
 Tags: [Device, Data export]
 translationKey: device/data-management
-no_list: T
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hint" %}}
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="menu.png/" alt="VitalControl Data management" title="Data management" usemap="#workmap"> 
+<img src="menu.png/" alt="VitalControl Data management" title="Data management" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,80" alt="Create backup" title="The instructions for creating a backup can be found here&#10;Mouse klick: open documentation" href="/en/docs/backup/backup/">

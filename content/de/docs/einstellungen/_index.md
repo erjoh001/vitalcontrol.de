@@ -4,13 +4,14 @@ linkTitle: Einstellungen
 description: Geräte- und Prozesseinstellungen für ihr VitalControl-Gerät
 translationKey: settings
 weight: 80
-no_list: True
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap"> 
+<img src="bilder/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,120" alt="Sprache" title="Legen Sie die Sprache für die Benutzerführung auf ihrem VitalControl-Gerät fest&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/sprache/">

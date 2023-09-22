@@ -1,13 +1,42 @@
-{{ $version := "1.4.2" -}}
-{{ $cdnurl := printf "https://cdnjs.cloudflare.com/ajax/libs/maphilight/%s/jquery.maphilight.min.js" $version -}}
-{{ if eq (resources.GetRemote $cdnurl) nil -}}
-  {{ errorf "Invalid maphilight version %s, could not retrieve this version from CDN" $version -}}
-{{ end -}}
-{{ with resources.GetRemote $cdnurl -}}
-  {{ with .Err -}}
-    {{ errorf "Error while retrieving resource %q from CDN. Status: %s." $cdnurl .Data.Status -}}
-  {{ else -}}
-    {{ $secureJS := . | resources.Fingerprint "sha512" -}}
-<script src="{{ .RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" crossorigin="anonymous" ></script>
+{{ with page.Params.maphilight -}}
+  {{ $version := "1.4.2" -}}
+  {{ $cdnurl := printf "https://cdnjs.cloudflare.com/ajax/libs/maphilight/%s/jquery.maphilight.min.js" $version -}}
+  {{ if eq (resources.GetRemote $cdnurl) nil -}}
+    {{ errorf "Invalid maphilight version %s, could not retrieve this version from CDN" $version -}}
   {{ end -}}
+  {{ with resources.GetRemote $cdnurl -}}
+    {{ with .Err -}}
+      {{ errorf "Error while retrieving resource %q from CDN. Status: %s." $cdnurl .Data.Status -}}
+    {{ else -}}
+      {{ $secureJS := . | resources.Fingerprint "sha512" -}}
+<script src="{{ .RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" crossorigin="anonymous" ></script>
+    {{ end -}}
+  {{ end -}}
+<script  type="text/javascript">
+$(function() {
+  $('.maphilight').maphilight();
+});
+$.fn.maphilight.defaults = {
+  fill: true,
+  fillColor: '1a77b6',
+  fillOpacity: 0.2,
+  stroke: true,
+  strokeColor: '1a77b6',
+  strokeOpacity: 1,
+  strokeWidth: 3,
+  fade: true,
+  alwaysOn: false,
+  neverOn: false,
+  groupBy: false,
+  wrapClass: true,
+  shadow: false,
+  shadowX: 0,
+  shadowY: 0,
+  shadowRadius: 6,
+  shadowColor: '000000',
+  shadowOpacity: 0.8,
+  shadowPosition: 'outside',
+  shadowFrom: false
+}
+</script>
 {{ end -}}

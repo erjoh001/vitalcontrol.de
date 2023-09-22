@@ -4,13 +4,14 @@ linkTitle: New on farm
 description: Manage your new animals.
 translationKey: new-on-farm
 weight: 80
-no_list: True
+no_list: true
+maphilight: true
 ---
 {{% alert title="Hint" %}}
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="images/newonfarm.png/" alt="VitalControl New on farm" title="New on farm" usemap="#workmap"> 
+<img src="images/newonfarm.png/" alt="VitalControl New on farm" title="New on farm" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,116,160" alt="New on farm, no transponder" title="Here you assign a transponder to new animals without a transponder&#10;Mouse klick: open documentation" href="/en/docs/new-on-farm/new-no-transponder/">
