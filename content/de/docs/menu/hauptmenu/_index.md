@@ -12,7 +12,7 @@ Die nachfolgende interaktive Grafik zeigt den Menübaum des VitalControl-Geräts
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/hauptmenue.png/" alt="VitalControl Hauptmenü" title="Hauptmenü" usemap="#workmap" class="maphilight">
+<img src="bilder/hauptmenue.png" alt="VitalControl Hauptmenü" title="Hauptmenü" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="3,40,116,160" alt="Neu" title="Neue Tiere anlegen&#10;Mausklick: zur Dokumentation" href="/docs/neu/">

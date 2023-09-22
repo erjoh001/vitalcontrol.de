@@ -40,6 +40,8 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
 3. The animal data will now be displayed.
 
+4. Alternatively, you can use the arrow keys ◁ ▷ to switch between the different display options.
+
     ![VitalControl: Menu Herd](images/animaldata.png "View animal data")
 
 {{% alert title = "Hinweis" %}}
@@ -54,6 +56,8 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 3. The temperature data will now be displayed.
 
+4. Alternatively, you can use the arrow keys ◁ ▷ to switch between the different display options.
+
     ![VitalControl: Menu Herd](images/temperature.png "Display temperature")
 
 ### View rating
@@ -64,6 +68,8 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 3. The rating data will now be displayed.
 
+4. Alternatively, you can use the arrow keys ◁ ▷ to switch between the different display options.
+
     ![VitalControl: Menu Herd](images/rating.png "View rating")
 
 ### Display weight
@@ -73,6 +79,8 @@ By default, the animal data is displayed first. Only when you have the weight di
 2. Use the `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Weight` and confirm with `OK`.
 
 3. The weight data will now be displayed.
+
+4. Alternatively, you can use the arrow keys ◁ ▷ to switch between the different display options.
 
     ![VitalControl: Menu Herd](images/weight.png "Display weight")
 

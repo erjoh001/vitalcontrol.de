@@ -11,7 +11,7 @@ maphilight: true
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap" class="maphilight">
+<img src="bilder/menu.png" alt="VitalControl Gerät" title="Gerät" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,120" alt="Sprache" title="Legen Sie die Sprache für die Benutzerführung auf ihrem VitalControl-Gerät fest&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/sprache/">

@@ -7,11 +7,13 @@ translationKey: actions
 weight: 10
 maphilight: true
 ---
+## Verfügbare Aktionen
+
 {{% alert title="Hinweis" %}}
 Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
 {{% /alert %}}
 
-<img src="bilder/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap"  class="maphilight">
+<img src="bilder/menu.png" alt="VitalControl Gerät" title="Gerät" usemap="#workmap"  class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,100,60,165" alt="Temperatur" title="Messen Sie Fieber bei Ihren Tieren&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/temperatur/">
@@ -31,3 +33,23 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
    <area shape="rect" coords="120,280,175,340" alt="Ohrmarkennummer manuell zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#manuelle-zuordnung">
    <area shape="rect" coords="175,280,232,340" alt="Ohrmarkennummer mit Scan zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#zuordnung-mittels-scan-einer-elektronischen-ohrmarke">
 </map>
+
+## Allgemeiner Ablauf
+
+Innerhalb des Menüs `Aktionen` haben Sie jederzeit die Möglichkeit das nächste Tier auszuwählen, ohne dass Sie den Menüpunkt Aktionen verlassen müssen. Um das nächste Tier auszuwählen gehen Sie wie folgt vor:
+
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+
+2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
+
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. In der unteren Bedienleiste finden Sie den Menüpunkt `Nächstes Tier`. Verwenden Sie die `F3` Taste um diesen auszuführen.
+
+4. Es öffnet sich automatisch wieder das Fenster aus Schritt zwei und Sie können das nächste Tier auswählen.
+
+    ![VitalControl: Menüfolge Aktionen Nächstes Tier](bilder/naechstestier.png "Nächstes Tier auswählen")
+
+## Tierauswahl
+
+### Via Transponderscan
+
+### Manuell aus Liste

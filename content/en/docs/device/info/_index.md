@@ -17,7 +17,7 @@ maphilight: true
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="images/menu.png/" alt="VitalControl Info" title="Info" usemap="#workmap" class="maphilight">
+<img src="images/menu.png" alt="VitalControl Info" title="Info" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,80" alt="Serial number" title="To retrieve the serial number of your device click here&#10;Mausklick: zur Dokumentation" href="/en/docs/device/info/serial-number/">

@@ -9,7 +9,7 @@ description: >
  Sehen Sie wichtige Informationen einzeltierbezogen ein.
 Kategorien: [Einzeltier]
 Tags: [Einzeltier, Temperatur, Gewicht, Tierdaten]
-translationKey: animal
+translationKey: animal/animal
 ---
 ## Einzeltier
 
@@ -22,7 +22,8 @@ Die Funktion Einzeltier ermöglicht es Ihnen wichtige Informationen über Gewich
  ![VitalControl: Menüfolge Einzeltier](bilder/einzeltier.png "Einzeltier als Liste")
 
 {{% alert title="Hinweis"  %}}
-Innerhalb jeder Informationsanzeige haben Sie die Möglichkeit ein [Tier zu suchen](#tier-suchen), einen [Filter](#filter-setzen) zu setzen und auf eine [Grafische Ansicht](#grafische-ansicht-einstellen) umzuschalten.
+Innerhalb jeder Informationsanzeige haben Sie die Möglichkeit ein [Tier zu suchen](#tier-suchen), einen [Filter](#filter-setzen) zu setzen und auf eine [Grafische Ansicht](#grafische-ansicht-einstellen) umzuschalten. 
+Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzelnen Tieren wechseln.
 {{% /alert %}}
 
 ### Grafische Ansicht einstellen

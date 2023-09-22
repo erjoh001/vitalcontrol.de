@@ -13,7 +13,7 @@ maphilight: true
 If you click on a menu item, you will be redirected to a description of the respective function.
 {{% /alert %}}
 
-<img src="images/menu.png/" alt="VitalControl Gerät" title="Gerät" usemap="#workmap" class="maphilight">
+<img src="images/menu.png" alt="VitalControl Gerät" title="Gerät" usemap="#workmap" class="maphilight">
 
 <map name="workmap">
   <area shape="rect" coords="0,40,240,120" alt="Language" title="Set and permanently store the language of the user interface on your VitalControl device&#10;Mouse klick: open documentation" href="/en/docs/settings/language/">
