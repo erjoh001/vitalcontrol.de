@@ -16,9 +16,9 @@ Vor der Einrichtung der Technikkopplung muss zwingend die Software `VCSynchroniz
 
 Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
 
-## Technikkopplung anlegen
+## Create new parameter set for data exchange with VitalControl device
 
-1. Öffnen Sie in der Herde-Software das Einstellungsmenü. Je nach Konfiguration ihrer Benutzeroberfläche erreichen Sie den entsprechenden Menüpunkt `Einstellungen` im Hauptmenü (Menüpunkt _Organisation_), in der Seitenleiste oder in der Werkzeugleiste (horizontal oder vertikal).
+1. Within the software `Herde`, open the `Settings` window. Depending on the configuration of your user interface, you can open this window via the menu item `Organization` in the main menu (top level item _Settings_), in the sidebar menu or in your customized toolbox (horizontal oder vertical).
 
    ![Herde Software: Aufruf des Einstellungsmenüs](../screenshots/settings.png "Herde: Aufruf Einstellungen")
 
@@ -34,63 +34,63 @@ Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
    
    Die Technikkopplung ist jetzt angelegt und muss in den nächsten Schritten konfiguriert werden.
 
-## Grundeinstellungen konfigurieren
+## Configuration: Basic settings
 
 Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` ➊, `Tierdaten` ➊ und `Orte` ➌ Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
 
    ![Herde Software: Konfiguration Technikkopplung](../screenshots/basic-settings.png "Technikkopplung: Basic settings").
    
-### Kategorie `Externes Programm` ➊
+### Category `External program` ➊
 
-Für die Durchführung des Datenaustauschs zwischen VitalControl und Herde Plus wird als externes Programm die Basissoftware [VitalControl Synchronizer](../../vcsynchronizer) verwendet. Für die korrekte Funktion dieses Programms müssen in der Kategorie `Externes Programm` ➊ einige Anpassungen vorgenommen werden
+In order to perform data exchange between VitalControl and Herde Plus, basic software [VitalControl Synchronizer](../../vcsynchronizer) is needed as external helper program. For the correct function of this program, some adjustments have to be made in the category `External program` ➊.
 
-- **Rechnername Kopplung**:  
-  In der Voreinstellung ist dieses Feld leer, es empfiehlt sich, hier den eigenen Rechnernamen einzutragen. Drücken Sie hierzu auf das Symbol `Pfeil nach unten` ![Herde Software: Neue Technikkopplung anlegen](/icons/arrow-down.png "Herde: Technikkopplung anlegen") am rechten Ende des Drop-Down Feldes. Ihr Rechnername wird jetzt ermittelt und zur Auswahl vorgeschlagen. Sofern in diesem Feld ihr Rechnername eingetragen ist, kann der Datenaustausch nur noch von ihrem Rechner aus gestartet werden, die Durchführung des Datenaustauschs wird also an ihren Rechner gebunden.
+- **Device name for data exchange**:  
+  By default this field is empty. However, it is recommended to enter the name of your computer here. To do so, press the icon 'Arrow down' ![Herde Software: Create new technology coupling](/icons/arrow-down.png "Herde: Create technology coupling") at the right end of the drop-down field. Your computer name will now be determined and displayed for selection inside the drop down list. Once the field is filled with your computer name and this setting is stored, data exchange can only be triggered from your computer from now on.
 
-- **Ausführen in Pfad**:  
-  Hier bitte als Wert `%LOCALAPPDATA%\Urban\VitalControl\Synchronizer` eintragen, dies ist der absolute Pfad zum Programm `VitalControl Synchronizer` bzw. zur Datei `vcsynchronizer.exe`. Sollte bei der [Installation des VCSynchronizers](../../vcsynchronizer/installation) das Zielverzeichnis für das Programm geändert worden sein, bitte hier das gewählte Zielverzeichnis angeben.
+- **Execute in path**:
+  Please enter `%LOCALAPPDATA%\Urban\VitalControl\Synchronizer` into this input field. This is the absolute path to the program `VitalControl Synchronizer` respectively to the file `vcsynchronizer.exe`. If the target directory for this program has been changed during the [installation of the VCSynchronizer](../../vcsynchronizer/installation), please enter the selected target directory here.
 
-- **Herde 🡒 Technik**:  
-  Hier bitte als Wert `vc_imp.bat` eintragen. Diese Batchdatei gibt den Ablauf des Datenimports vor.
+- **Program HerdePlus 🡒 Technology**:  
+  This input field needs to be filled with the value `vc_imp.bat`. The correspondingly named batch file specifies the sequence of operations during data import.
 
-- **Technik 🡒  Herde**:  
-  Hier bitte als Wert `vc_exp.bat` eintragen. Diese Batchdatei gibt den Ablauf des Datenexports vor.
+- **Technology 🡒  Program HerdePlus**:  
+  This input field needs to be filled with the value `vc_exp.bat`. The correspondingly named batch file specifies the sequence of operations during data export.
 
-### Kategorie `Tierdaten` ➊
+### Category `Animal Data` ➊
 
-Für die korrekte Funktion des Datenaustausch müssen in der Kategorie `Tierdaten` ➋ weitere Anpassungen vorgenommen werden
+Further adjustments have to be made in the category 'Animal data' ➋ in order to get data exchange fully functional.
 
-- **Tier-Nummer**:  
-  Diese Einstellung legt fest, welche ID die Tiere auf dem VitalControl zur Anzeige erhalten:
-  - Sofern Sie Stallnummern an ihre Tiere vergeben haben, sollten Sie hier den Wert `Stallnummer` auswählen: die angezeigte ID eines Tieres auf dem VitalControl wird dann jeweils der ihnen bekannten Stallnummer entsprechen.
-  - Falls Sie -wie etwa im Mastbereich üblich- ihren Tieren **keine** Stallnummern zuweisen, dann sollten Sie hier den Wert `Ohr-Nr. (5 Stellen)` auswählen. die angezeigte ID eines Tieres auf dem VitalControl wird dann dem letzten 5 Ziffern der auf der gelben Ohrmarke aufgedruckten Nummer entsprechen.
+- **Animal number**:  
+  This setting determines which ID animals receive for display on VitalControl device:
+  - If you have assigned short IDs (`Barn no.`, 2 to 6 digits) to your animals, you should select the value 'Barn number' here: the displayed ID of an animal on the VitalControl will then correspond to the barn number assigned to the animal.
+  - If you do **not** have assigned short ID numbers to your animals - this is common in the fattening sector, for example - then you should select the value `Tag no. (5 digits)` here. The displayed ID of an animal on VitalControl device will then correspond to the last 5 digits of the ID printed on the yellow ear tag of the animal.
+  
+<br>
+
+- **Transmitter no.**:  
+  This setting determines the number expected for an animal during RFID scan:  
+  - If you put a collar with a transponder on your animals or put an ear transponder on your animals -for example for identification at the automatic feeder-, you should select the value 'Transponder' here.
+  - If your animals or calves carry electronic ear tags encoded with the official national 15-digit identification number of your animal which will serve for the identification of the animal throughout its whole life, you should select the value 'Tag no. (15 digits)` here.
 
 <br>
 
-- **Sender-Nr.**:  
-  Diese Einstellung legt die beim RFID-Scan erwartete Nummer für ein Tier fest:  
-  - Falls Sie ihren Tieren ein Halsband mit einem Transponder anlegen oder ihren Tieren einen Ohrtransponder einziehen ‒jeweils etwa zur Identifikation am Tränkeautomaten‒, sollten Sie hier den Wert `Transponder` auswählen.
-  - Falls Sie ihre Tiere bzw. Kälber elektronische Lebendohrmarken tragen, auf denen die offizielle 15-stelligen Nummer ihres Tieres kodiert sind und die ein Leben lang zur Identifikation des Tieres dienen werden, sollten Sie hier den Wert `Ohr-Nr. (15 Stellen)` auswählen.
+- **Minimum age for transfer**:  
+  If `0` is entered as value for this input field, **all animals** will be transferred to the VitalControl device, regardless of their age. A value greater than `0` defines the minimum age (in days) for the animals to be transferred. For example, if **only cows** are to be transferred to the device, a value of 600 days (= 20 months) must be entered here as the minimum age.
 
-<br>
+### Category `Locations` ➌
 
-- **Mindestalter für Übergabe**:  
-  Ist hier als Wert `0` eintragen, so werden **alle Tiere** an das VitalControl-Gerät übertragen, unabhängig von ihrem Alter. Ein Wert größer `0` legt das Mindestalter (in Tagen) für die zu übertragenden Tiere fest. Sollen etwa **nur Kühe** auf das Gerät übertragen werden, so ist hier ein Wert von 600 Tagen (= 20 Monate) als Mindestalter einzutragen.
+Use this category to exclude animals at certain locations from data transfer to the device. To do so, remove the checkmark from the location(s) for which you **do not** want to transfer the animals housed there to the device.
 
-### Kategorie `Orte` ➌
+## Configuration: Technology-specific settings
 
-Hier können Sie Tiere an bestimmten Orten von der Übertragung ausschließen. Entfernen Sie dazu das Häkchen von denjenigen Ort(en), für die Sie **keine** Übertragung der dort aufgestallten Tiere wünschen.
+Next, click on the `Technology-specific settings` tab to determine the scope of the data exchange. It is recommended to check all check boxes listed there except for the checkbox `Save import file after processing`. The latter checkbox is meant for diagnostic purposes and should be selected only if demanded by service personnel.
 
-## Technikspezifische Einstellungen konfigurieren
+- **Maximum age for transfer**:  
+  If `0` is entered here as the value, **all animals** will be transferred to the VitalControl device, regardless of their age. A value greater than `0` defines the maximum age (in days) for the animals to be transferred. If, for example, **only calves** are to be transferred to the device, a value of 90 days (= 3 months) must be entered here as the maximum age.
 
-Klicken Sie als nächstes auf den Reiter `Technikspezifische Einstellungen`, um dort Angaben zum Umfang des Datenaustauschs zu machen. Es empfiehlt sich, alle dort aufgeführten Kästchen anzuhaken, einzig das Feld `Importdatei nach Verarbeitung sichern` sollte nur dann ausgewählt werden, wenn es zu Diagnosezwecken vom Service empfohlen wird. 
+   ![Herde Software: Configuration Data exchange](../screenshots/technology-specific-settings.png "Data exchange: specific settings").
 
-- **Höchstalter für Übergabe**:  
-  Ist hier als Wert `0` eintragen, so werden **alle Tiere** an das VitalControl-Gerät übertragen, unabhängig von ihrem Alter. Ein Wert größer `0` legt das Höchstalter (in Tagen) für die zu übertragenden Tiere fest. Sollen etwa **nur Kälber** auf das Gerät übertragen werden, so ist hier ein Wert von 90 Tagen (= 3 Monate) als Höchstalter einzutragen.
+## Save data exchange settings
 
-   ![Herde Software: Konfiguration Technikkopplung](../screenshots/technology-specific-settings.png "Technikkopplung: Spezifische Einstellungen").
-
-## Technikkopplung speichern
-
-Drücken Sie auf die Taste `Speichern (F2)`, nachdem Sie die Konfiguration der Technikkopplung vorgenommen haben. Damit ist die Technikkopplung für das VitalControl gespeichert und einsatzbereit.  
-Führen Sie nun sofort einen [Datenaustausch](../data-exchange/) durch, um zu überprüfen, ob die von Ihnen vorgenommenen Einstellungen gültig und zielführend sind.
+Press the `Save (F2)` key after you have configured all configuration parameters appropriately. The parameter set for data exchange to VitalControl device is now saved and ready for use.  
+Perform a [data exchange](../data-exchange/) now to check whether the stipulated settings are valid so that you successfully can exchange data to and from VitalControl device.
