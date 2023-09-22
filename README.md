@@ -19,7 +19,7 @@ Furthermore, you need to install the [latest long term support (LTS) Version](ht
 Clone a working copy of the site repo:
 
 ```bash
-git clone https://git.urbanonline.de/vitalcontrol.de.git
+git clone https://github.com/deining/vitalcontrol.de.git
 ```
 ### Install dependencies
 
@@ -37,7 +37,7 @@ In order to preview the web site, issue this command:
 hugo server
 ```
 
-On first startup, hugo will download needed module dependencies, this is a may take a while.
+On first startup, hugo will download needed module dependencies, this may take a while.
 
 Now open your web browser and type [http://localhost:1313](http://localhost:1313) in your navigation bar.
 This opens a local instance of the VitalControl homepage. You can now make
@@ -52,8 +52,8 @@ In order to deploy the web site, issue this command:
 hugo
 ```
 
-This will create a folder `public` at the root level of the site that helds the HTML sources of the web site.
-Transfer the content of this folder to be web server hosting the site `vitalcontrol.de`.
+This will create a folder `public` at the root level of the site that holds the HTML sources of the web site.
+Transfer the content of this folder to the web server hosting the site `vitalcontrol.de`.
 
 ## Theming
 
