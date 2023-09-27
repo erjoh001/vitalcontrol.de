@@ -9,8 +9,10 @@ maphilight: true
 ---
 ## Verfügbare Aktionen
 
+Je nach Tierart können Sie bis zu 16 verschiedene Aktionen für ein Tier ausführen.
+
 {{% alert title="Hinweis" %}}
-Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
+Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger über ein Symbol in der untenstehende Grafik und lassen ihn kurz ruhen. Im einem Tooltip werden ihnen jetzt Infos zur jeweiligen Aktion präsentiert. Klicken Sie auf eines der Symbole, so werden Sie zu einer Beschreibung der jeweiligen Aktion weitergeleitet.
 {{% /alert %}}
 
 <img src="bilder/menu.png" alt="VitalControl Aktionen" title="Aktionen" usemap="#workmap" class="maphilight" />

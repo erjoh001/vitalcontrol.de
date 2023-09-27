@@ -1,6 +1,6 @@
 ---
-title: "Herde"
-linkTitle: "Herde"
+title: Herde
+linkTitle: Herde
 date: 2023-07-28T13:25:28+02:00
 weight: 120
 draft: false

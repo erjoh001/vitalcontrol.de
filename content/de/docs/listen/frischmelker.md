@@ -1,10 +1,10 @@
 ---
-title: "Frischmelkerliste"
-linkTitle: "Frischmelkerliste"
+title: Frischmelkerliste
+linkTitle: Frischmelkerliste
 weight: 40
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: frischmelkerliste
+slug: frischmelker
 description: >
   Sehen Sie ihre Frischmelkerliste ein.
 Kategorien: [Listen]

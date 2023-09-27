@@ -1,6 +1,6 @@
 ---
-title: "Zuordnung des Transponders"
-linkTitle: "Transponder zuordnen"
+title: Zuordnung des Transponders
+linkTitle: Transponder zuordnen
 date: 2023-07-28T13:25:28+02:00
 weight: 70
 slug: zuordnung-transponder

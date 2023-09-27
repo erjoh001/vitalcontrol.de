@@ -8,10 +8,10 @@ description: >
 weight: 10
 Kategorien: [DSP Herde, Technikkopplung]
 ---
-Vor dem erstmaligen [Datenaustausch](../datentausch/) muss einmalig die Installation der Technikkopplung zum VitalControl-Gerät eingerichtet werden.
+Vor dem erstmaligen [Datenaustausch](../datentausch/) muss einmalig die Technikkopplung zum VitalControl-Gerät angelegt und eingerichtet werden.
 
 {{% alert title="Achtung" %}}
-Vor der Einrichtung der Technikkopplung muss zwingend die Software `VCSynchronizer` auf ihrem [PC installieren](../../vcsynchronizer/installation/).<br>Wenn Sie in der Liste ihrer Anwendungen im Windows Startmenü den Eintrag `Urban VitalControl` finden können, ist die Software bereits installiert.
+Überprüfen Sie  vor der Einrichtung der Technikkopplung, ob die Software `VCSynchronizer` auf ihrem PC installiert ist, diese Software wird zwingend zum Datenaustausch benötigt.  Öffnen Sie dazu im Windows Startmenü die Liste ihrer Anwendungen und überprüfen Sie, ob dort den Eintrag `Urban VitalControl` finden können. Falls nicht, [installieren](../../vcsynchronizer/installation/) sie die Software `VCSynchronizer` auf ihren PC.
 {{% /alert %}}
 
 Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
@@ -22,7 +22,7 @@ Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
 
    ![Herde Software: Aufruf des Einstellungsmenüs](../screenshots/einstellungen.png "Herde: Aufruf Einstellungen")
 
-1. Es öffnet sich ein Pop-up betitelt `Einstellungen` ➊, in dessen linker Seitenleiste zahlreiche Einstellungskategorien aufgelistet sind. Öffnen Sie die Kategorie `Service` ➋, und wählen sie die Unterkategorie `Technik` aus:
+1. Es öffnet sich ein Pop-up betitelt `Einstellungen`, in dessen linker Seitenleiste zahlreiche Einstellungskategorien aufgelistet sind. Öffnen Sie die Kategorie `Service` ➊, und wählen sie die Unterkategorie `Technik` ➋ aus:
 
 1. In der Kopfzeile des rechten Hauptbereichs erscheint jetzt ein Dropdown im welchem die aktuell bereits eingerichteten Technikkopplungen aufgeführt sind. Rechts daneben wird die Anzahl der vorhandenen Kopplungen angegeben. Klicken Sie auf die Schaltfläche  ![Herde Software: Neue Technikkopplung anlegen](/icons/new.png "Herde: Technikkopplung anlegen") `Neue Kopplung anlegen` ➌.
 

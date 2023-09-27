@@ -1,54 +1,54 @@
 ---
-title: "Setup of Technology: definition of synchronisation parameters"
+title: "Setup of Technology VitalControl:"
 linkTitle: Setup
 date: 2023-08-04T12:21:53+02:00
 draft: false
 description: >
-  Set up the technology coupling once for data synchronisation between the software *Herde* and the VitalControl device.
+  Define the synchronisation parameters for data exchange between the software *Herde* and the VitalControl device.
 weight: 10
 categories: [DSP Herde]
 ---
-Vor dem erstmaligen [Datenaustausch](../data-exchange/) muss einmalig die Installation der Technikkopplung zum VitalControl-Gerät eingerichtet werden.
+Prior to the first [data exchange](../data-exchange/), the technology coupling to the VitalControl device must be created and set up once.
 
-{{% alert title="Achtung" %}}
-Vor der Einrichtung der Technikkopplung muss zwingend die Software `VCSynchronizer` auf ihrem [PC installieren](../../vcsynchronizer/installation/).<br>Wenn Sie in der Liste ihrer Anwendungen im Windows Startmenü den Eintrag `Urban VitalControl` finden können, ist die Software bereits installiert.
+{{% alert title="Attention" %}}
+Before setting up the technology coupling, check whether the 'VCSynchronizer' software is installed on your PC; this software is mandatory for data exchange.  To do so, open the the Windows Start menu and search the in list of your applications in for an entry named 'Urban VitalControl' there. If you can't find such an entry, [install](../../vcsynchronizer/installation/) the `VCSynchronizer` software on your PC.
 {{% /alert %}}
 
-Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
+To set up the technology, proceed as follows:
 
 ## Create new parameter set for data exchange with VitalControl device
 
 1. Within the software `Herde`, open the `Settings` window. Depending on the configuration of your user interface, you can open this window via the menu item `Organization` in the main menu (top level item _Settings_), in the sidebar menu or in your customized toolbox (horizontal oder vertical).
 
-   ![Herde Software: Aufruf des Einstellungsmenüs](../screenshots/settings.png "Herde: Aufruf Einstellungen")
+   ![Software Herde: invocation of settings menu](../screenshots/settings.png "Herde: invoke Settings")
 
-1. Es öffnet sich ein Pop-up betitelt `Einstellungen` ➊, in dessen linker Seitenleiste zahlreiche Einstellungskategorien aufgelistet sind. Öffnen Sie die Kategorie `Service` ➋, und wählen sie die Unterkategorie `Technik` aus:
+1. A pop-up window `Settings` opens, in whose left sidebar numerous setting categories are listed. Open the category `Service` ➊ and select the subcategory `Technology` ➋.
 
-1. In der Kopfzeile des rechten Hauptbereichs erscheint jetzt ein Dropdown im welchem die aktuell bereits eingerichteten Technikkopplungen aufgeführt sind. Rechts daneben wird die Anzahl der vorhandenen Kopplungen angegeben. Klicken Sie auf die Schaltfläche  ![Herde Software: Neue Technikkopplung anlegen](/icons/new.png "Herde: Technikkopplung anlegen") `Neue Kopplung anlegen` ➌.
+1. In the header of the right-hand main area, a dropdown now appears in which all defined technology parameter sets are listed. The number of set up technologies is shown to the right. Click on the button ![Software Herde: Create new technology parameter set](/icons/new.png "Herde: Create Technology Coupling") `Create new technology parameter set` ➌.
 
-   ![Herde Software: Einstellungen Technik aufrufen](../screenshots/settings-technology.png "Herde: Settings Technology")
+   ![Software Herde: settings screen for technology](../screenshots/settings-technology.png "Herde: Settings for Technology")
 
-1. Es öffnet sich ein weiteres Popup-Fenster. Geben Sie dort als **Name der Kopplung** `VitalControl` und als **Techniktyp** `Urban VitalControl (Gen 2)`an und klicken Sie anschließend die Schaltfläche `Übernehmen`.
+1. Another pop-up window opens. Enter `VitalControl` as **Name of the connection** and `Urban VitalControl (Gen 2)` as **Type of Technology** and then click the `Accept` button.
 
-   ![Herde Software: Neue Technikkopplung VitalControl](../screenshots/new-technology.png "New technology VitalControl").
-   
-   Die Technikkopplung ist jetzt angelegt und muss in den nächsten Schritten konfiguriert werden.
+   ![Software Herde: Create new parameter set for VitalControl device](../screenshots/new-technology.png "Create new technology: VitalControl").
+
+   The parameter set for technology `VitalControl` is now created and must be configured in the next steps.
 
 ## Configuration: Basic settings
 
-Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` ➊, `Tierdaten` ➊ und `Orte` ➌ Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
+Initially, the tab `Basic settings` is selected in the screen displayed, as shown in the figure below. Make adjustments there in the categories `External program` ➊, `Animal data` ➊ and `Locations` ➌ according to your farm-specific conditions.
 
-   ![Herde Software: Konfiguration Technikkopplung](../screenshots/basic-settings.png "Technikkopplung: Basic settings").
+   ![Software Herde: Configuration of basic settings](../screenshots/basic-settings.png "Technology VitalControl: Basic settings").
    
 ### Category `External program` ➊
 
 In order to perform data exchange between VitalControl and Herde Plus, basic software [VitalControl Synchronizer](../../vcsynchronizer) is needed as external helper program. For the correct function of this program, some adjustments have to be made in the category `External program` ➊.
 
 - **Device name for data exchange**:  
-  By default this field is empty. However, it is recommended to enter the name of your computer here. To do so, press the icon 'Arrow down' ![Herde Software: Create new technology coupling](/icons/arrow-down.png "Herde: Create technology coupling") at the right end of the drop-down field. Your computer name will now be determined and displayed for selection inside the drop down list. Once the field is filled with your computer name and this setting is stored, data exchange can only be triggered from your computer from now on.
+  By default this field is empty. However, it is recommended to enter the name of your computer here. To do so, press the icon ![Herde Software: Create new technology coupling](/icons/arrow-down.png "Herde: Create technology coupling") `Arrow down` at the right end of the drop-down field. Your computer name will now be determined and displayed for selection inside the drop down list. Once the field is filled with your computer name and this setting is stored, data exchange can only be triggered from your computer from now on.
 
 - **Execute in path**:
-  Please enter `%LOCALAPPDATA%\Urban\VitalControl\Synchronizer` into this input field. This is the absolute path to the program `VitalControl Synchronizer` respectively to the file `vcsynchronizer.exe`. If the target directory for this program has been changed during the [installation of the VCSynchronizer](../../vcsynchronizer/installation), please enter the selected target directory here.
+  Please enter `%LOCALAPPDATA%\Urban\VitalControl\Synchronizer` into this input field. This is the absolute path to the program `VitalControl Synchronizer` (or more specifically to the file `vcsynchronizer.exe`). If the target directory for this program has been changed during the [installation of the VCSynchronizer](../../vcsynchronizer/installation), please enter the selected target directory here.
 
 - **Program HerdePlus 🡒 Technology**:  
   This input field needs to be filled with the value `vc_imp.bat`. The correspondingly named batch file specifies the sequence of operations during data import.

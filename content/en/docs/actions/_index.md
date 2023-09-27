@@ -7,8 +7,12 @@ translationKey: actions
 weight: 50
 maphilight: true
 ---
+## Available actions
+
+Depending on the animal type, you can perform up to 16 different actions for an animal.
+
 {{% alert title="Hint" %}}
-If you click on a menu item, you will be redirected to a description of the respective function.
+Each action is identified by a symbol. Move the mouse pointer over a symbol in the graphic below and let it rest for a moment. A tooltip appears, presenting information about the respective action. If you click on one of the symbols, you will be forwarded to a description of the respective action.
 {{% /alert %}}
 
 <img src="images/menu2.png" alt="VitalControl Actions" title="Actions" usemap="#workmap" class="maphilight" />
