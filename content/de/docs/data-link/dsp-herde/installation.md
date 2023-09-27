@@ -24,7 +24,7 @@ Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
 
 1. Es öffnet sich ein Pop-up betitelt `Einstellungen`, in dessen linker Seitenleiste zahlreiche Einstellungskategorien aufgelistet sind. Öffnen Sie die Kategorie `Service` ➊, und wählen sie die Unterkategorie `Technik` ➋ aus:
 
-1. In der Kopfzeile des rechten Hauptbereichs erscheint jetzt ein Dropdown im welchem die aktuell bereits eingerichteten Technikkopplungen aufgeführt sind. Rechts daneben wird die Anzahl der vorhandenen Kopplungen angegeben. Klicken Sie auf die Schaltfläche  ![Herde Software: Neue Technikkopplung anlegen](/icons/new.png "Herde: Technikkopplung anlegen") `Neue Kopplung anlegen` ➌.
+1. In der Kopfzeile des rechten Hauptbereichs erscheint jetzt ein Dropdown im welchem die aktuell bereits eingerichteten Technikkopplungen aufgeführt sind. Rechts daneben wird die Anzahl der vorhandenen Kopplungen angegeben. Klicken Sie auf die Schaltfläche ![Herde Software: Neue Technikkopplung anlegen](/icons/new.png "Herde: Technikkopplung anlegen") `Neue Kopplung anlegen` ➌.
 
    ![Herde Software: Einstellungen Technik aufrufen](../screenshots/einstellungen-technik.png "Herde: Einstellungen Technik")
 

@@ -4,7 +4,7 @@ linkTitle: Neues Tier
 date: 2023-07-28T13:25:28+02:00
 weight: 10
 draft: false
-slug: neues-tier
+slug: tier
 description: >
   Wie Sie ein neues Tier auf dem VitalControl-Gerät anlegen.
 Kategorien: [Neues Tier]
@@ -15,9 +15,9 @@ translationKey: new/animal
 
 Um ein neues Tier anzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Neu` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neu` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt `Neues Tier` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neues Tier` und bestätigen Sie mit `OK`.
 
 3. Scannen sie entweder den Transponder des Tieres ein oder verwenden sie die Taste `F3` ESC um ohne einen eingescannten Transponder fortzufahren. Diese Funktion können Sie verwenden, wenn das Tier noch über keinen Transponder verfügt. Diesen können Sie auch nachträglich noch einscannen und dem Tier zuordnen.
 
@@ -34,3 +34,5 @@ Weitere Informationen und Einstellungsmöglichkeiten für das Anlegen neuer Tier
 {{% /alert %}}
 
    ![VitalControl: Menüfolge Neu Neues Tier](../bilder/neu.png "Neues Tier anlegen")
+
+![Herde Software: Neue Technikkopplung anlegen](/icons/new-animal.svg "Herde: Technikkopplung anlegen")
