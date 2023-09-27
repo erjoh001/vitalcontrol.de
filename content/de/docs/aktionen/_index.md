@@ -34,7 +34,7 @@ Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger übe
    <area shape="rect" coords="55,280,120,336" alt="Transponder abnehmen" title="Lösen Sie die Transponderverknüpfung zu einem Tier&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/transponder-abnehmen/">
    <area shape="rect" coords="120,280,175,336" alt="Ohrmarkennummer manuell zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#manuelle-zuordnung">
    <area shape="rect" coords="175,280,230,336" alt="Ohrmarkennummer mit Scan zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#zuordnung-mittels-scan-einer-elektronischen-ohrmarke">
-   <area shape="rect" coords="140,339,221,374" alt="Nächstes Tier" title="Wählen Sie das nächste Tier&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/naechstes-tier/">
+   <area shape="rect" coords="140,339,221,374" alt="Nächstes Tier" title="Wählen Sie das nächste Tier&#10;Mausklick: zur Dokumentation" href="#">
 </map>
 
 ## Allgemeiner Ablauf

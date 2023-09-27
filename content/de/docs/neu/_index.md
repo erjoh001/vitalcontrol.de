@@ -14,7 +14,7 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
 <img src="bilder/neu2.png" alt="VitalControl Neu" title="Neu" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="3,40,116,160" alt="Neues Tier" title="Wie Sie ein neues Tier auf dem VitalControl-Gerät anlegen&#10;Mausklick: zur Dokumentation" href="/docs/neu/neues-tier/">
+  <area shape="rect" coords="3,40,116,160" alt="Neues Tier" title="Wie Sie ein neues Tier auf dem VitalControl-Gerät anlegen&#10;Mausklick: zur Dokumentation" href="/docs/neu/tier/">
   <area shape="rect" coords="3,160,116,280" alt="Abkalbung" title="Wie sie eine neue Abkalbung erfassen&#10;Mausklick: zur Dokumentation" href="/docs/neu/abkalbung/">
   <area shape="rect" coords="3,280,116,399" alt="Tierverlust" title="Wie Sie einen Tierverlust auf dem VitalControl-Gerät erfassen&#10;Mausklick: zur Dokumentation" href="/docs/neu/tierverlust/">
 

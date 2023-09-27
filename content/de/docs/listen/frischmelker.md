@@ -18,9 +18,9 @@ In der Frischmelkerliste finden Sie ihre Frischmelker. Tiere bei denen eine Abka
 - [Aktionsmenü](../alarm/#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) aufrufen
 - [Tierdaten](../alarm/#tierdaten-einsehen) einsehen
 - [Temperatur](../alarm/#temperatur-messen) messen
-- [Alarmstatus](../frischmelkerliste/#alarmstatus-%C3%A4ndern) ändern
-- Status [Beobachtung umkehren](../frischmelkerliste/#status-beobachtung-umkehren)
-- [Gemessene ausblenden](../frischmelkerliste/#gemessene-ausblenden)
+- [Alarmstatus](#alarmstatus-%C3%A4ndern) ändern
+- Status [Beobachtung umkehren](#status-beobachtung-umkehren)
+- [Gemessene ausblenden](#gemessene-ausblenden)
 - [Tier suchen](../alarm/#tier-suchen)
 - [Filter setzen](../alarm/#filter-setzen)
 
