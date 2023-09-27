@@ -21,7 +21,7 @@ You can use this function if you want to register animals with a consecutive tra
 
 To create several new animals, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `new` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
 
 2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item `New animals` and confirm with `OK`.
 

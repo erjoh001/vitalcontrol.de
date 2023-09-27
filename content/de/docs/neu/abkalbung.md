@@ -15,7 +15,7 @@ translationKey: new/calving
 
 Um eine Abkalbung zu erfassen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Neu` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Neu` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt `Abkalbung` und bestätigen Sie mit `OK`.
 

@@ -52,7 +52,7 @@ To set the age at creation on your device proceed as follows:
 ### Set sex
 
 Here you define which sex is suggested (manual creation) or automatically adopted (creation in the
-background). To define the sex when creating on your device, proceed as follows.
+background). To define the sex when registering an animal on your device, proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
 

@@ -19,7 +19,7 @@ Die Funktion Tierverlust in diesem Menüpunkt dient vor allem der Erfassung von 
 
 Um den Verlust eines Tieres zu erfassen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Neu` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Neu` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü. Navigieren Sie mit den Pfeiltasten ◁ ▷ △ ▽ zum Menüpunkt `Tierverlust` und bestätigen Sie mit `OK`.
 

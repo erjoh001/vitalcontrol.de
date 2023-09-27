@@ -6,7 +6,7 @@ weight: 10
 description: >
   Measure fever in your animals.
 date: 2023-07-26
-Kategorien: [Actions]
+Categories: [Actions]
 Tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
@@ -15,11 +15,11 @@ translationKey: actions/temperature
 
 Use the temperature action to measure the temperature of your animals. Insert the measuring tip rectally to the specified measuring depth (for large animals the entire length up to the bulge, for small ruminants approx. 6 cm or 2/3 of the measuring tip). The measuring process runs automatically. As soon as the measurement process is complete, the device displays the measured temperature. The color coding indicates whether the temperature is in the green, yellow or red range. You have a number of options during the Take a temperature campaign:
 
-- [Save the result](../measure-temperature/#save-result) to document the measurement animal-specifically
-- Put the animal on the [Watch List](../measure-temperature/#put-on-the-watch-list). This makes it easier for you to check the repetitions, as you can call up these animals using the 'observation list' and thus find the conspicuous animals more easily.
-- Turn the [Measurement Site Illumination](../measure-temperature/#lighting-of-the-measurement-location-on-and-off) on and off
-- The [Repeat measurement](../measure-temperature/#repeat-the-measurement)
-- The [Cancel Action](../measure-temperature/#cancel-the-action)
+- [Save the result](#save-result) to document the measurement animal-specifically
+- Put the animal on the [Watch List](#put-on-the-watch-list). This makes it easier for you to check the repetitions, as you can call up these animals using the 'observation list' and thus find the conspicuous animals more easily.
+- Turn the [Measurement Site Illumination](#lighting-of-the-measurement-location-on-and-off) on and off
+- The [Repeat measurement](#repeat-the-measurement)
+- The [Cancel Action](#cancel-the-action)
 
 {{% alert title="Hint" %}}
 If the temperature is in the yellow area ("elevated") or red area ("fever"), VitalControl automatically puts the selected animal on the alarm list. By correlating with other data, you can continuously monitor the health of the individual animal.

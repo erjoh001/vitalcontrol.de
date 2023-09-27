@@ -9,13 +9,13 @@ maphilight: true
 ---
 ## Verfügbare Aktionen
 
-Je nach Tierart können Sie bis zu 16 verschiedene Aktionen für ein Tier ausführen.
-
-{{% alert title="Hinweis" %}}
-Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger über ein Symbol in der untenstehende Grafik und lassen ihn kurz ruhen. Im einem Tooltip werden ihnen jetzt Infos zur jeweiligen Aktion präsentiert. Klicken Sie auf eines der Symbole, so werden Sie zu einer Beschreibung der jeweiligen Aktion weitergeleitet.
-{{% /alert %}}
+Je nach Tierart können Sie bis zu 16 verschiedene Aktionen für ein Tier ausführen:
 
 <img src="bilder/menu.png" alt="VitalControl Aktionen" title="Aktionen" usemap="#workmap" class="maphilight" />
+
+{{% alert title="Hinweis" %}}
+Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger über ein Symbol in der obigen Grafik und lassen ihn kurz ruhen. Im einem Tooltip werden ihnen jetzt Infos zur jeweiligen Aktion präsentiert. Klicken Sie auf eines der Symbole, so werden Sie zu einer Beschreibung der jeweiligen Aktion weitergeleitet.
+{{% /alert %}}
 
 <map name="workmap">
   <area shape="rect" coords="3,100,60,165" alt="Temperatur" title="Messen Sie Fieber bei Ihren Tieren&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/temperatur/">

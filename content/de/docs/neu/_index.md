@@ -7,9 +7,8 @@ weight: 140
 no_list: true
 maphilight: true
 ---
-{{% alert title="Hinweis" %}}
-Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweiligen Funktion weitergeleitet.
-{{% /alert %}}
+
+Über den Hauptmenüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neu` gelangen Sie zu einem Untermenü, dort werden ihnen 5 Unterpunkte zur Auswahl angeboten:
 
 <img src="bilder/neu2.png" alt="VitalControl Neu" title="Neu" usemap="#workmap" class="maphilight" />
 
@@ -21,3 +20,7 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
   <area shape="rect" coords="116,40,230,160" alt="Neue Tiere" title="Wie Sie mittels einer einzigen Aktion mehrere neue Tiere auf dem VitalControl-Gerät anlegen&#10;Mausklick: zur Dokumentation" href="/docs/neu/neue-tiere/">
   <area shape="rect" coords="116,160,230,280" alt="Massenzugang" title="Nutzen Sie den Barcodescanner um mittels der Tierpässe eine Vielzahl von zugekauften Tieren zu erfassen&#10;Mausklick: zur Dokumentation" href="/docs/neu/massenzugang/">
 </map>
+
+{{% alert title="Hinweis" %}}
+Jedes Untermenü ist über ein eigenes Symbol gekennzeichnet. Bewegen Sie den Mauszeiger über ein Symbol in der obigen Grafik und lassen ihn kurz ruhen. Im einem Tooltip werden ihnen jetzt Infos zum jeweiligen Untermenüpunkt präsentiert. Klicken Sie auf eines der Symbole, werden Sie zu einer Beschreibung des jeweiligen Unterpunkts weitergeleitet.
+{{% /alert %}}

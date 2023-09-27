@@ -21,7 +21,7 @@ Diese Funktion können Sie verwenden, wenn Sie Tiere mit einem fortlaufenden Tra
 
 Um mehrere neue Tiere anzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Neu` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Neu` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt `Neue Tiere` und bestätigen Sie mit `OK`.
 

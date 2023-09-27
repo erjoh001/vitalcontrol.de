@@ -7,9 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-{{% alert title="Hint" %}}
-If you click on a menu item, you will be redirected to a description of the respective function.
-{{% /alert %}}
+Via the main menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` you get to a submenu, where 5 subitems are presented for selection:
 
 <img src="images/neuen.png" alt="VitalControl New" title="New" usemap="#workmap" class="maphilight" />
 
@@ -21,3 +19,7 @@ If you click on a menu item, you will be redirected to a description of the resp
   <area shape="rect" coords="116,40,230,160" alt="New animals" title="How to create multiple new animals on the VitalControl device using one single action&#10;Mouse click: open documentation" href="/en/docs/new/animals/">
   <area shape="rect" coords="116,160,230,280" alt="Bulk recording" title="Use the barcode scanner to record a variety of animals&#10;Mouse click: open documentation" href="/en/docs/new/bulk-recording/">
 </map>
+
+{{% alert title="Hint" %}}
+Each submenu carries its own icon. Move the mouse pointer over an icon in the graphic above and let it rest for a moment. A tooltip appears, showing information for the selected submenu. If you click on one of the icons, you will be forwarded to a description of the selected sub-menu item.
+{{% /alert %}}

@@ -9,6 +9,7 @@ date: 2023-07-26
 Kategorien: [Actions]
 Tags: [Actions]
 translationKey: actions/next-animal
+draft: true
 ---
 ## Next animal
 

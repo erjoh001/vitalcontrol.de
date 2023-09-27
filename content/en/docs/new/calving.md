@@ -15,9 +15,9 @@ translationKey: new/calving
 
 To register a calving, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `New` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
 
-2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item `New animal` and confirm with `OK`.
+2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item `Calving` and confirm with `OK`.
 
 3. Give the ID of the dam, either via scan of the dam's transponder or by pressing the `OK` button and entering the ID of the dam using the arrow keys ◁ ▷ △ ▽ and confirming with `OK`. Now either scan the transponder of the newborn calf or use the `F3` `ESC` key to continue without scanning. Use this function if the calf does not yet have a transponder. You can scan a transponder later on once it was assigned to the animal.
 
