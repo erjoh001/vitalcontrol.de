@@ -41,7 +41,7 @@ Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger übe
 
 Innerhalb des Menüs `Aktionen` haben Sie jederzeit die Möglichkeit das nächste Tier auszuwählen, ohne dass Sie den Menüpunkt Aktionen verlassen müssen. Um das nächste Tier auszuwählen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 

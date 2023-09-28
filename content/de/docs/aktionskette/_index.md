@@ -17,7 +17,7 @@ Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisc
 
 ### Aktionskette verwenden
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionskette` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="40" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder bestätigen Sie mit `OK` und verwenden Sie die Pfeiltasten △ ▽ ◁ ▷ um die gewünschte Tier ID einzugeben.
 
@@ -27,9 +27,9 @@ Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisc
 
 ### Aktionskette einstellen
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionskette` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="40" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` und drücken Sie die Taste `OK`.
 
-2. Verwenden Sie die `F2` Taste ⚙ (`Einstellungen`).
+2. Drücken Sie die `F2` Taste  &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`Einstellungen`).
 
 3. Es öffnet sich ein Untermenü. Verwenden Sie die Pfeiltasten △ ▽ um zwischen den Aktionsnummern zu wählen. Sie können bis zu vier Aktionen hintereinander ausführen. Verwenden Sie die Pfeiltasten ◁ ▷ um für die jeweilige Aktionsnummer die gewünschte Aktion auszuwählen. Speichern Sie die Einstellungen mit der Taste `F1`.
 

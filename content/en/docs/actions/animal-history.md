@@ -21,7 +21,7 @@ To view the animal history, proceed as follows:
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action `Animal history` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/history.svg" width="35" align="bottom" alt="Animal history" /> `Animal history` and confirm with `OK`.
 
 4. The information that was set last is now displayed. Use the `F3` key to open the information settings menu.
 

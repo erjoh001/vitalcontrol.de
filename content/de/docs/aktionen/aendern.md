@@ -1,7 +1,7 @@
 ---
 title: Tierdaten ändern
 linkTitle: Ändern
-slug: ändern
+slug: aendern
 weight: 90
 description: >
  Wie Sie die Daten des ausgewählten Tieres bearbeiten können.
@@ -12,7 +12,7 @@ translationKey: actions/edit
 ---
 ## Tierdaten ändern
 
-Die Aktion `ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
+Die Aktion `Ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
 
 - Art des Nutztieres
 - Geschlecht
@@ -31,7 +31,7 @@ Um die Tierdaten zu ändern gehen Sie wie folgt vor:
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion `ändern` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/edit.svg" width="25" align="bottom" alt="Einstellungen" /> `Ändern` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich eine Liste mit den Tierdaten. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Änderungsoption auszuwählen.
 

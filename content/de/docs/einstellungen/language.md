@@ -15,7 +15,7 @@ translationKey: settings/language
 
 Um die Sprache auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem zuoberst die aktuelle Sprache angezeigt wird. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Sprache auszuwählen. Die Sprache der Benutzerführung ändert sich jeweils sofort bei der Wahl einer anderen Sprache.
 

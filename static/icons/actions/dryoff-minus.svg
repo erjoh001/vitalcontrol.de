@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Dry_off" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 45.25 42.54" style="enable-background:new 0 0 45.25 42.54;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:1.75;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1;stroke-miterlimit:9.9999;}
+	.st3{fill:none;stroke:#000000;stroke-width:1.75;stroke-miterlimit:9.9999;}
+	.st4{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:2.8346;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:1.75;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M21.15,24.54v9.38c0,0.89-0.73,1.62-1.62,1.62c-0.9,0-1.62-0.73-1.62-1.62V23.46"/>
+<path class="st0" d="M23.84,25.72v9.38c0,0.89,0.73,1.62,1.62,1.62c0.9,0,1.62-0.73,1.62-1.62V24.64"/>
+<path class="st0" d="M29.64,24.51v9.38c0,0.89,0.73,1.62,1.62,1.62c0.9,0,1.62-0.73,1.62-1.62V23.42"/>
+<path class="st1" d="M39.38,18.08c-1.27,6.53-7.02,11.45-13.92,11.45c-5.75,0-10.7-3.42-12.93-8.34c-0.44-0.98-0.78-2.02-0.99-3.11
+	L39.38,18.08z"/>
+<rect x="22.97" y="4.29" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -8.5754 25.2798)" class="st2" width="6.52" height="37.4"/>
+<ellipse id="Circle_1_" class="st3" cx="25.87" cy="23.17" rx="18.5" ry="18.5"/>
+<line class="st4" x1="13.04" y1="9.8" x2="39.48" y2="36.18"/>
+<path class="st5" d="M13.97,6.62c0.15,3.83-2.79,7.1-6.64,7.34"/>
+<circle class="st6" cx="6.9" cy="6.9" r="6.02"/>
+<line class="st7" x1="3.97" y1="6.9" x2="9.83" y2="6.9"/>
+</svg>

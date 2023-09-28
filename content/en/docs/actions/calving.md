@@ -17,6 +17,6 @@ If you do not need this function, you can deactivate it in the [actions settings
 
 ## Register a calving
 
-As soon as you have entered the action menu, select the menu item `calving` and confirm with `OK`. Proceed as described in the instructions [calving](/en/docs/new/calving/).
+As soon as you have entered the action menu, select the menu item <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Abkalbung" /> `Calving` and confirm with `OK`. Proceed as described in the instructions [Registration of a calving](/en/docs/new/calving/).
 
    ![VitalControl: Menu Actions Calving](../images/calving.png "Calving")

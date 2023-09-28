@@ -17,7 +17,7 @@ Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstel
 
 ## Abkalbung erfassen
 
-Sobald Sie das Aktionsmenü betreten haben wählen Sie den Menüpunkt `Abkalbung` aus und bestätigen Sie mit `OK`. Verfahren Sie wie in der Anleitung [Abkalbung erfassen](/docs/neu/abkalbung/) beschrieben.
+Sobald Sie das Aktionsmenü betreten haben wählen Sie den Menüpunkt <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Abkalbung" /> `Abkalbung` aus und bestätigen Sie mit `OK`. Verfahren Sie wie in der Anleitung [Abkalbung erfassen](/docs/neu/abkalbung/) beschrieben.
 
    ![VitalControl: Menüfolge Aktionen Abkalbung](../bilder/abkalbung.png "Abkalbung")
 
