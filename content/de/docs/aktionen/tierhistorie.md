@@ -30,7 +30,15 @@ Um die Tierhistorie einzusehen gehen Sie wie folgt vor:
 
 7. Verwenden Sie die `An/Aus` Taste um zwischen der Darstellungsform Tabelle oder Diagramm zu wechseln.
 
-    ![VitalControl: Menüfolge Aktionen Tierhistorie](../bilder/tierhistorie.png "Tierhistorie")
+{{< tabpane >}}
+{{< tab header="Beobachtung:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Tierhistorie](../bilder/tierhistorie-transponderscan.png "Tierhistorie")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Tierhistorie](../bilder/tierhistorie.png "Tierhistorie")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.

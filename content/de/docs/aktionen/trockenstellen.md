@@ -31,7 +31,15 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 
 4. Das Tier wurde erfolgreich zur Trockensteherliste hinzugefügt.
 
-   ![VitalControl: Menüfolge Aktionen Trockenstellen](../bilder/trockenstellen.png "Trockenstellen")
+{{< tabpane >}}
+{{< tab header="Eine Kuh trockenstellen:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Trockenstellen](../bilder/trockenstellen-scan.png "Trockenstellen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Trockenstellen](../bilder/trockenstellen.png "Trockenstellen")
+{{% /tab %}}
+{{< /tabpane >}}
 
 ### Eine Kuh als laktierend markieren
 
@@ -43,7 +51,15 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 
 4. Das Tier wurde erfolgreich als laktierend markiert.
 
-   ![VitalControl: Menüfolge Aktionen Als laktierend markieren](../bilder/laktierend.png "Eine Kuh als laktierend markieren")
+{{< tabpane >}}
+{{< tab header="Eine Kuh als laktierend markieren:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Als laktierend markieren](../bilder/laktierend-scan.png "Eine Kuh als laktierend markieren")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Als laktierend markieren](../bilder/laktierend.png "Eine Kuh als laktierend markieren")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.

@@ -41,7 +41,16 @@ Um die Tierdaten zu ändern gehen Sie wie folgt vor:
 
 7. Speichern Sie die Änderung mit der Taste `F3`.
 
-    ![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern.png "Ändern")
+{{< tabpane >}}
+{{< tab header="Tierdaten ändern:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern-transponderscan.png "Ändern")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern.png "Ändern")
+{{% /tab %}}
+{{< /tabpane >}}
+
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.

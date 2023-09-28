@@ -26,4 +26,12 @@ Mit dieser Aktion können Sie einen Transponder, der bereits einem Tier zugeordn
 
 4. Der Transponder wurde erfolgreich von dem Tier gelöst.
 
-    ![VitalControl: Menüfolge Aktionen Transponder abnehmen](../bilder/transponderabnehmen.png "Transponder abnehmen")
+{{< tabpane >}}
+{{< tab header="Transponder abnehmen:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Transponder abnehmen](../bilder/transponderabnehmen-transponderscan.png "Transponder abnehmen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Transponder abnehmen](../bilder/transponderabnehmen.png "Transponder abnehmen")
+{{% /tab %}}
+{{< /tabpane >}}

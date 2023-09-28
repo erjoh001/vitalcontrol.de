@@ -35,11 +35,28 @@ Treffen Sie keine Auswahl über die Pfeiltasten ◁ ▷ sondern speichern direkt
 
 ### Bewertung einfach
 
-   ![VitalControl: Menüfolge Aktionen Bewertung](../bilder/bewertungeinfach.png "Einfache Bewertung durchführen")
+{{< tabpane >}}
+{{< tab header="Bewertung einfach:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+  ![VitalControl: Menüfolge Aktionen Bewertung](../bilder/bewertungeinfach-manuelle-auswahl.png "Einfache Bewertung durchführen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+  ![VitalControl: Menüfolge Aktionen Bewertung](../bilder/bewertungeinfach.png "Einfache Bewertung durchführen")
+{{% /tab %}}
+{{< /tabpane >}}
 
 ### Bewertung erweitert
 
+{{< tabpane >}}
+{{< tab header="Bewertung erweitert:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+   ![VitalControl: Menüfolge Aktionen Bewertung](../bilder/bewertungerweitert-transponder.png "Erweiterte Bewertung durchführen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
    ![VitalControl: Menüfolge Aktionen Bewertung](../bilder/bewertungerweitert.png "Erweiterte Bewertung durchführen")
+{{% /tab %}}
+{{< /tabpane >}}
+
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.

@@ -35,7 +35,15 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 4. Now carry out the measurement. As soon as the measurement is completed, the temperature is highlighted in blue, green, yellow or red, depending on the threshold set.
 
-    ![VitalControl: Menu Actions Preliminary steps](../images/firststeps.png "Preliminary steps")
+{{< tabpane >}}
+{{< tab header="Preliminary steps:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu Actions Preliminary steps](../images/firststeps-scan.png "Preliminary steps")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Actions Preliminary steps](../images/firststeps.png "Preliminary steps")
+{{% /tab %}}
+{{< /tabpane >}}
 
 ### Save result
 

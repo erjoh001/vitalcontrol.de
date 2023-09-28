@@ -28,4 +28,12 @@ Mit dieser Aktion können Sie einem Tier, welches noch keinen Transponder zugewi
 
 5. Dem Tier wurde erfolgreich der Transponder zugeordnet.
 
-    ![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen.png "Transponder zuordnen")
+{{< tabpane >}}
+{{< tab header="Transponder zuordnen:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen-scan.png "Transponder zuordnen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen.png "Transponder zuordnen")
+{{% /tab %}}
+{{< /tabpane >}}

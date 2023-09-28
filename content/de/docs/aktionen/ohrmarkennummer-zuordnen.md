@@ -30,6 +30,17 @@ Um einem Tier manuell eine Ohrmarkennummer zuzuweisen gehen Sie wie folgt vor:
 
 6. Speichern Sie die Einstellungen und gelangen Sie mittels der Taste `F3` zurück in das Hauptmenü `Aktionen`.
 
+{{< tabpane >}}
+{{< tab header="Manuelle Zuordnung:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Ohrmarkennummer zuordnen](../bilder/zuweisung-ohrmarkennummer-transponderscan.png "Ohrmarkennummer zuordnen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Ohrmarkennummer zuordnen](../bilder/zuweisung-ohrmarkennummer.png "Ohrmarkennummer zuordnen")
+{{% /tab %}}
+{{< /tabpane >}}
+
+
     ![VitalControl: Menüfolge Aktionen Ohrmarkennummer zuordnen](../bilder/zuweisung-ohrmarkennummer.png "Ohrmarkennummer zuordnen")
 
 ## Zuordnung mittels Scan einer elektronischen Ohrmarke
@@ -46,4 +57,12 @@ Um einem Tier, das über eine elektronische Ohrmarke verfügt, eine Ohrmarkennum
 
 5. Dem Tier wurde erfolgreich eine Ohrmarkennummer zugewiesen.
 
-    ![VitalControl: Menüfolge Aktionen Tier ID zuordnen](../bilder/zuweisung-ohrmarkennummer-scan.png "Tier ID zuordnen")
+{{< tabpane >}}
+{{< tab header="Zuordnung mittels Scan einer elektronisches Ohrmarke:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Tier ID zuordnen](../bilder/zuweisung-ohrmarkennummer-scan-transponderscan.png "Tier ID zuordnen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Tier ID zuordnen](../bilder/zuweisung-ohrmarkennummer-scan.png "Tier ID zuordnen")
+{{% /tab %}}
+{{< /tabpane >}}

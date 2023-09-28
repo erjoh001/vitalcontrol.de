@@ -23,7 +23,16 @@ Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisc
 
 3. Die Aktionskette wird nun ausgeführt. Sobald alle Aktionen der Aktionskette durchgeführt wurden, kann direkt das nächste Tier ausgewählt werden.
 
-    ![VitalControl: Menüfolge Aktionskette](bilder/aktionskette.png "Aktionskette")
+{{< tabpane >}}
+{{< tab header="Aktionskette verwenden:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionskette](bilder/aktionskette-transponderscan.png "Aktionskette")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionskette](bilder/aktionskette.png "Aktionskette")
+{{% /tab %}}
+{{< /tabpane >}}
+
 
 ### Aktionskette einstellen
 

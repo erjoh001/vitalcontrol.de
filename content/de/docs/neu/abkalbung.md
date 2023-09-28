@@ -33,4 +33,12 @@ Um eine Abkalbung zu erfassen gehen Sie wie folgt vor:
 Weitere Informationen und Einstellungsmöglichkeiten für das Anlegen neuer Tiere finden Sie [hier](../../einstellungen/tiere-neu-anlegen/).
 {{% /alert %}}
 
-   ![VitalControl: Menüfolge Neu Neue Tiere](../bilder/abkalbung.png "Abkalbung erfassen")
+{{< tabpane >}}
+{{< tab header="Abkalbung erfassen:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+  ![VitalControl: Menüfolge Neu Neue Tiere](../bilder/abkalbung-scan.png "Abkalbung erfassen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+  ![VitalControl: Menüfolge Neu Neue Tiere](../bilder/abkalbung.png "Abkalbung erfassen")
+{{% /tab %}}
+{{< /tabpane >}}

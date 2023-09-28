@@ -37,11 +37,27 @@ If you do not make a selection using the arrow keys ◁ ▷ but save directly us
 
 ### Basic rating
 
-![VitalControl: Menu Actions Rating](../images/basicrating.png "Basic rating")
+{{< tabpane >}}
+{{< tab header="Basic rating:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu Actions Rating](../images/basicrating-scan.png "Basic rating")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Actions Rating](../images/basicrating.png "Basic rating")
+{{% /tab %}}
+{{< /tabpane >}}
 
 ### Extended Rating
 
-![VitalControl: Menu Actions Rating](../images/extendedrating.png "Extended rating")
+{{< tabpane >}}
+{{< tab header="Basic rating:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu Actions Rating](../images/extendedrating-scan.png "Extended rating")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Actions Rating](../images/extendedrating.png "Extended rating")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.

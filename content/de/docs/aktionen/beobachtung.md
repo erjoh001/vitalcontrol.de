@@ -24,7 +24,15 @@ Mit der Aktion `Beobachtung` setzen Sie Tiere auf die Beobachtungsliste oder ent
 
 5. Durch erneutes Anwenden der Aktion `Beobachtung` entfernen Sie das Tier wieder von der Beobachtungsliste. Ob Sie das Tier durch Verwenden der Aktion `Beobachtung` zu der Beobachtungsliste hinzufügen oder es entfernen wird Ihnen mit einem kleinen + oder - Zeichen angezeigt.
 
-    ![VitalControl: Menüfolge Aktionen Beobachtung](../bilder/beobachtung.png "Beobachtung")
+{{< tabpane >}}
+{{< tab header="Beobachtung:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+![VitalControl: Menüfolge Aktionen Beobachtung](../bilder/beobachtung-transponderscan.png "Beobachtung")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+![VitalControl: Menüfolge Aktionen Beobachtung](../bilder/beobachtung.png "Beobachtung")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.

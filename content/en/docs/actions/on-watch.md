@@ -25,7 +25,15 @@ With the action `on watch` you put animals on the on-watch list or remove them f
 
 5. You can remove the animal from the on-watch list again by applying the `on watch` action again. Whether you add or remove the animal from the on-watch list by using the `on watch` action is indicated with a small + or - sign.
 
-    ![VitalControl: Menu Actions On watch](../images/onwatch.png "On watch")
+{{< tabpane >}}
+{{< tab header="On watch:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu Actions On watch](../images/onwatch-scan.png "On watch")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Actions On watch](../images/onwatch.png "On watch")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.

@@ -31,7 +31,15 @@ To view the animal history, proceed as follows:
 
 7. Use the `On/Off` button to switch between the table and graph display.
 
-    ![VitalControl: Menu Action Animal history](../images/animalhistory.png "Animal history")
+{{< tabpane >}}
+{{< tab header="Animal history:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu Action Animal history](../images/animalhistory-scan.png "Animal history")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Action Animal history](../images/animalhistory.png "Animal history")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.

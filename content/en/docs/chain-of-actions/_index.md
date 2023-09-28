@@ -23,7 +23,15 @@ The action chain allows you to automatically carry out several actions for an an
 
 3. The chain of actions is now executed. As soon as all actions in the action chain have been carried out, the next animal can be selected directly.
 
-    ![VitalControl: Menu chain of actions](images/chainofactions.png "Chain of actions")
+{{< tabpane >}}
+{{< tab header="Use chain of actions:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu chain of actions](images/chainofactions-scan.png "Chain of actions")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu chain of actions](images/chainofactions.png "Chain of actions")
+{{% /tab %}}
+{{< /tabpane >}}
 
 ### Set chain of actions
 

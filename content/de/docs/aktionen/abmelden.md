@@ -26,7 +26,15 @@ Die Aktion `Abmelden` ermöglicht es Ihnen ein Tier abzumelden sobald es ausgest
 
 5. Verwenden Sie die Taste `F3` um das Tier mit den festgelegten Einstellungen abzumelden.
 
-    ![VitalControl: Menüfolge Aktionen Abmelden](../bilder/abmelden.png "Abmelden")
+{{< tabpane >}}
+{{< tab header="Ein Tier abmelden:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Abmelden](../bilder/abmelden-transponderscan.png "Abmelden")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Abmelden](../bilder/abmelden.png "Abmelden")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.

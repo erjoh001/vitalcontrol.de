@@ -26,7 +26,15 @@ If the average weight deviates very strongly in one direction (too high/too low)
 
 4. A menu opens with a weight specification. Increase or decrease this with the arrow keys △ ▽ and save the result with the `F3` key or with the `OK` key.
 
-    ![VitalControl: Menu Action Weighing](../images/weighing.png "Weighing")
+{{< tabpane >}}
+{{< tab header="Record weight:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+  ![VitalControl: Menu Action Weighing](../images/weighing-scan.png "Weighing")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+  ![VitalControl: Menu Action Weighing](../images/weighing.png "Weighing")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.

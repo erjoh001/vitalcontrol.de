@@ -25,6 +25,16 @@ With the action `Alarm` you put animals on the alarm list or remove them from it
 
 5. You can remove the animal from the alarm list again by applying the `Alarm` action again. Whether you add or remove the animal from the alarm list by using the `Alert` action is indicated with a small + or - sign.
 
+{{< tabpane >}}
+{{< tab header="Alert:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu Actions Alarm](../images/alarm-scan.png "Alarm")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Actions Alarm](../images/alarm.png "Alarm")
+{{% /tab %}}
+{{< /tabpane >}}
+
     ![VitalControl: Menu Actions Alarm](../images/alarm.png "Alarm")
 
 {{% alert title="Hint" %}}

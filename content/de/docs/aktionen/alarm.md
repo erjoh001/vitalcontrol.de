@@ -24,7 +24,16 @@ Mit der Aktion `Alarm` setzen Sie Tiere auf die Alarmliste oder entfernen Sie vo
 
 5. Durch erneutes Anwenden der Aktion `Alarm` entfernen Sie das Tier wieder von der Alarmliste. Ob Sie das Tier durch Verwenden der Aktion `Alarm` zu der Alarmliste hinzufügen oder es entfernen wird Ihnen mit einem kleinen + oder - Zeichen angezeigt.
 
-    ![VitalControl: Menüfolge Aktionen Alarm](../bilder/alarm.png "Alarm")
+{{< tabpane >}}
+{{< tab header="Alarm:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Alarm](../bilder/alarm-transponderscan.png "Alarm")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Alarm](../bilder/alarm.png "Alarm")
+{{% /tab %}}
+{{< /tabpane >}}
+
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.

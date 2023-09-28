@@ -42,7 +42,15 @@ To change the animal data, proceed as follows:
 
 7. Save the change with the `F3` key.
 
-    ![VitalControl: Menu Action Edit animal data](../images/edit.png "Edit animal data")
+{{< tabpane >}}
+{{< tab header="Edit animal data:" text=true disabled=true />}}
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu Action Edit animal data](../images/edit-scan.png "Edit animal data")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Action Edit animal data](../images/edit.png "Edit animal data")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.
