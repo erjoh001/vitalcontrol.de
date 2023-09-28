@@ -28,7 +28,7 @@ If the average weight deviates very strongly in one direction (too high/too low)
 
 {{< tabpane >}}
 {{< tab header="Record weight:" text=true disabled=true />}}
-{{% tab header="Transponder scan" text=true %}}
+{{% tab header="Transponderscan" text=true %}}
   ![VitalControl: Menu Action Weighing](../images/weighing-scan.png "Weighing")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
