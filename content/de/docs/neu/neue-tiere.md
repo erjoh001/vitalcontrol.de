@@ -25,7 +25,7 @@ Um mehrere neue Tiere anzulegen gehen Sie wie folgt vor:
 
 2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt `Neue Tiere` und bestätigen Sie mit `OK`.
 
-3. Scannen sie entweder den Transponder des Tieres ein oder verwenden sie die Taste `F3` ESC um ohne einen eingescannten Transponder fortzufahren. Diese Funktion können Sie verwenden, wenn das Tier noch keinen Transponder besitzt. Diesen können Sie nachträglich Einscannen und dem Tier zuordnen.
+3. Scannen Sie entweder den Transponder des Tieres ein oder verwenden Sie die Taste `F3` ESC um ohne einen eingescannten Transponder fortzufahren. Diese Funktion können Sie verwenden, wenn das Tier aktuell keinen Transponder besitzt. Diesen können Sie nachträglich einlesen und dem Tier zuordnen.
 
 4. Es öffnet sich ein weiteres Untermenü in dem Sie die Informationen über die Tiere abspeichern können. Verwenden Sie die Pfeiltasten △ ▽ um den gewünschten Einstellungspunkt auszuwählen.
 

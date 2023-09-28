@@ -39,7 +39,7 @@ Mit dieser Einstellungsoption bestimmten Sie, ob das Geburtsdatum beim Anlegen d
 
 3. Der gelbe Kreis symbolisiert, dass die Funktion aktiviert ist. Ein grauer Kreis symbolisiert, dass die Funktion deaktiviert ist.
 
-4. Speichern Sie die Einstellungen und gelangen sie mit der `F1` Taste zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen Sie mit der `F1` Taste zurück zum Menüpunkt `Massenzugang`.
 
    ![VitalControl: Menüfolge Neu Massenzugang](../bilder/geburtsdatum.png "Geburtsdatum muss angegeben werden aktivieren bzw. deaktivieren")
 
@@ -67,8 +67,8 @@ Innerhalb des Einstellungsmenüs `Erfasste Werte` legen Sie fest, welche Werte z
 
 3. Wählen Sie den gewünschten zu erfassenden Wert mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Es erscheint ein gelber Kreis. Möchten Sie den zu erfassenden Wert wieder deaktivieren bestätigen Sie erneut mit `OK`. Der gelbe Kreis verschwindet.
 
-4. Speichern Sie die Einstellungen und gelangen sie mit der `F1` Taste zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen Sie mit der `F1` Taste zurück zum Menüpunkt `Massenzugang`.
 
-5. Möchten Sie alle zu erfassenden Werte wieder deaktivieren wählen Sie im Menüpunkt `Erfasste Werte` die Einstellungsoption Reihenfolge zurücksetzen und bestätigen Sie mit `OK`.
+5. Möchten Sie alle zu erfassenden Werte wieder deaktivieren wählen Sie im Menüpunkt `Erfasste Werte` unten die Einstellungsoption Reihenfolge zurücksetzen und bestätigen Sie mit `OK`.
 
    ![VitalControl: Menüfolge Neu Erfasste Werte](../bilder/erfasstewerte.png "Erfasste Werte einstellen")

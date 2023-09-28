@@ -15,7 +15,7 @@ translationKey: actions/temperature
 Die Aktion Temperatur verwenden Sie um bei Ihren Tieren Fieber zu messen. Führen Sie die Messspitze rektal bis zur vorgegebenen Messtiefe ein (bei Großtieren die komplette Länge bis zum Wulst, bei kleinen Wiederkäuern ca. 6 cm bzw. 2/3 der Messspitze). Der Messvorgang läuft automatisch ab. Sobald der Messvorgang beendet ist, zeigt das Gerät die gemessene Temperatur an. Die Farbcodierung zeigt an, ob die Temperatur im grünen, gelben oder roten Bereich liegt. Sie haben während der Aktion Fieber messen unterschiedliche Möglichkeiten:
 
 - Das [Ergebnis abspeichern](#ergebnis-abspeichern) um die Messung Tiergenau dokumentieren
-- Das Tier auf die [Beobachtungsliste](#auf-die-beobachtungsliste-setzen) setzen. Dies erleichtert Ihnen die Wiederholungskontrolle da Sie diese Tiere mittels der `Beobachtungsliste` aufrufen können und somit die auffälligen Tiere leichter wiederfinden
+- Das Tier auf die [Beobachtungsliste](#auf-die-beobachtungsliste-setzen) setzen. Dies erleichtert Ihnen die Wiederholungskontrolle, da Sie diese Tiere mittels der `Beobachtungsliste` aufrufen können, und somit die auffälligen Tiere leichter wiederfinden
 - Die [Beleuchtung des Messortes](#beleuchtung-des-messortes-an-und-ausschalten) an und ausschalten
 - Die [Messung wiederholen](#die-messung-wiederholen)
 - Die [Aktion abbrechen](#die-aktion-abbrechen)
@@ -58,7 +58,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 2. Nutzen Sie die `An/Aus` Taste.
 
-3. Es öffnet sich ein Untermenü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Zur Beobachtungsliste hinzufügen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü in dem Sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Zur Beobachtungsliste hinzufügen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
     ![VitalControl: Menüfolge Aktionen Datum](../bilder/beobachtungsliste.png "Datum einstellen")
 

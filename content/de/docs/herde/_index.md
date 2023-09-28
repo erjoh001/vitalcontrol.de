@@ -13,7 +13,7 @@ translationKey: herd
 ---
 ## Herde
 
-Innerhalb des Menüpunktes Herde können Sie ihre gesamte Herde einsehen, einzelne Tiere suchen und sich wichtige Informationen anzeigen lassen. Sie haben folgende Möglichkeiten:
+Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzelne Tiere suchen und sich wichtige Informationen anzeigen lassen. Sie haben dabei folgende Möglichkeiten:
 
 - [Tierdaten](#tierdaten-anzeigen-lassen) anzeigen lassen
 - [Temperaturdaten](#temperatur-anzeigen-lassen) anzeigen lassen
@@ -100,7 +100,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Filter setzen` aus und bestätigen Sie mit `OK`.
 
-3. Wie sie den Filter anwenden finden Sie [hier](../filter).
+3. Wie Sie den Filter anwenden finden Sie [hier](../filter).
 
     ![VitalControl: Menüfolge Herde](bilder/filter.png "Set filter")
 

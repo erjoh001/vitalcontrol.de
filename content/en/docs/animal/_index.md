@@ -22,7 +22,7 @@ The individual animal function allows you to view important information about we
  ![VitalControl: Menu Animal](images/list.png "Display as a list")
 
 {{% alert title="Hint"  %}}
-Within each information display you have the option of [searching for an animal](#search-animal), setting a [filter](#set-filter) and switching to a [graphical view](#set-graphical-view). 
+Within each information display you have the option of [searching for an animal](#search-animal), setting a [filter](#set-filter) and switching to a [graphical view](#set-graphical-view).
 You can also switch between the individual animals at any time using the arrow keys ◁ ▷.
 {{% /alert %}}
 
