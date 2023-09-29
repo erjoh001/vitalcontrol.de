@@ -11,17 +11,17 @@ Tags: [Aktionen, Tierbewertung]
 translationKey: actions/animal-rating
 ---
 ## Tierbewertung durchführen
-Bei der Tierbewertung dokumentieren Sie den Zustand des individuellen Tieres. Der Zustand wird visuell ermittelt und mit Hilfe des Ampelsystems erfasst. In der einfachen Bewertung wird nur der Allgemeinzustand erfasst. In der erweiterten Bewertung erfassen Sie den Allgemeinzustand, Futteraufnahme, Kotbeschaffenheit und Atemwegserkrankungen. Den Bewertungsmodus können Sie entweder direkt in der Aktion `Bewertung` umstellen oder Sie legen diesen in den [Einstellungen](../../einstellungen/erfassung-tierdaten/#tierbewertung-einstellen) fest.
+Bei der Tierbewertung dokumentieren Sie den Zustand des individuellen Tieres. Der Zustand wird visuell ermittelt und mit Hilfe des Ampelsystems erfasst. In der einfachen Bewertung wird nur der Allgemeinzustand erfasst. In der erweiterten Bewertung erfassen Sie den Allgemeinzustand, Futteraufnahme, Kotbeschaffenheit und Atemwegserkrankungen. Den Bewertungsmodus können Sie entweder direkt in der Aktion <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Bewertung" /> `Bewertung` umstellen oder Sie legen diesen in den [Einstellungen](../../einstellungen/erfassung-tierdaten/#tierbewertung-einstellen) fest.
 
 {{% alert title="Hinweis" %}}
 Eine gelbe oder rote Bewertung führt dazu, dass VitalControl das Tier als auffällig einstuft und auf die Alarmliste setzt.
 {{% /alert %}}
 
-1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion `Bewertung` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Bewertung" /> `Bewertung` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich das Bewertungsmenü. Sollten Sie den Bewertungsmodus umschalten wollen verwenden Sie den `An/Aus` Button und die  Pfeiltasten ◁ ▷. Mit der Taste `F1` gelangen Sie zurück in das Bewertungsmenü.
 

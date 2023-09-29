@@ -22,11 +22,11 @@ Die Aktion `Wiegung` nutzen Sie um das Gewicht Ihres Tieres individuell abzuspei
 Weicht das Gewicht im Durchschnitt sehr stark in eine Richtung ab (zu hoch/zu tief), so sollte der Wert für die tägliche Zunahme angepasst werden.
 {{% /alert %}}
 
-1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion `Wiegung` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Wiegung" /> `Wiegung` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein Menü mit einer Gewichtsangabe. Erhöhen oder vermindern Sie diese mit den Pfeiltasten △ ▽ und speichern Sie das Ergebnis mit der Taste `F3` oder mit der `OK` Taste.
 

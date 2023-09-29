@@ -26,11 +26,11 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 ### Vorbereitende Schritte
 
-1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Die Aktion `Temperatur` ist automatisch ausgewählt. Bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Die Aktion <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatur" /> `Temperatur` ist automatisch ausgewählt. Bestätigen Sie mit `OK`.
 
 4. Führen Sie nun die Messung durch. Sobald die Messung abgeschlossen ist wird die Temperatur, je nach gesetzten Schwellenwert, blau, grün, gelb oder rot hinterlegt.
 
