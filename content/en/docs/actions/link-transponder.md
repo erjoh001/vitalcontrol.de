@@ -28,5 +28,12 @@ With this action you can assign a transponder to an animal that has not yet been
 
 5. The transponder was successfully assigned to the animal.
 
-    ![VitalControl: Menu Action Link transponder](../images/linktransponder.png "Link transponder")
-
+{{< tabpane >}}
+{{< tab header="Link transponder:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menu Action Link transponder](../images/linktransponder-scan.png "Link transponder")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Action Link transponder](../images/linktransponder.png "Link transponder")
+{{% /tab %}}
+{{< /tabpane >}}

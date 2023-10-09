@@ -37,4 +37,12 @@ To record the loss of an animal, proceed as follows:
 Further information and setting options for creating new animals can be found [here](../../settings/animal-registration/).
 {{% /alert %}}
 
-   ![VitalControl: Menüfolge New Animal-loss](../images/animalloss.png "Record the loss of an animal")
+{{< tabpane >}}
+{{< tab header="Animal loss:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge New Animal-loss](../images/animalloss-scan.png "Record the loss of an animal")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menüfolge New Animal-loss](../images/animalloss.png "Record the loss of an animal")
+{{% /tab %}}
+{{< /tabpane >}}

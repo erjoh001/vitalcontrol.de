@@ -34,5 +34,3 @@ Weitere Informationen und Einstellungsmöglichkeiten für das Anlegen neuer Tier
 {{% /alert %}}
 
    ![VitalControl: Menüfolge Neu Neues Tier](../bilder/neu.png "Neues Tier anlegen")
-
-![Herde Software: Neue Technikkopplung anlegen](/icons/new-animal.svg "Herde: Technikkopplung anlegen")
