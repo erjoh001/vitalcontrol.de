@@ -37,7 +37,7 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 );if(index.iF)throw new Error("The unit file 'Colors.js' included twice!");index.
 iF=(function(){var A=index;var C={};
 
-C.C1=0xFFFFFFFF;C.CL=0xFFE6DED8;C.Za=0x00000000;C.Text=0xFF333333;C.AY=0xFFB6771A;
+C.C1=0xFFFFFFFF;C.CL=0xFFE6DED8;C.Zb=0x00000000;C.Text=0xFF333333;C.AY=0xFFB6771A;
 C.H1=0xFF00DCFF;C.EY=0xFF3DD87D;C.Ft=0xFF001EFF;C.Bd=0xFFFFFFFF;C.Ba=0xFF7B7975;
 C.AeI=0xFFFFB03B;C.BfJ=0xFFD9D2CC;C.AOI=0xFFF5ECE5;C.Al_=0xFF6E6E6E;C.Adc=0xFF5F5350;
 C.Bk4=0xAA5F5350;C.Bgc=0xE6FFFFFF;
