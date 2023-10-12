@@ -30,7 +30,15 @@ To assign a national animal ID to an animal that does not have a national animal
 
 6. Save the settings and return to the main menu `actions` using the `F3` key.
 
-    ![VitalControl: Menu Action Link animal ID](../images/linkanimalid.png "Link animal ID")
+{{< tabpane >}}
+{{< tab header="Link animal ID:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menu Action Link animal ID](../images/linkanimalid-scan.png "Link animal ID")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Action Link animal ID](../images/linkanimalid.png "Link animal ID")
+{{% /tab %}}
+{{< /tabpane >}}
 
 ## Link animal ID with electronic ear tag scan
 
@@ -46,4 +54,12 @@ To assign a national animal ID to an animal that has an electronic ear tag, proc
 
 5. The animal has been successfully assigned an national animal ID.
 
-    ![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan.png "Link animal ID")
+{{< tabpane >}}
+{{< tab header="Link animal ID with electronic ear tag scan:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan-scan.png "Link animal ID")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan.png "Link animal ID")
+{{% /tab %}}
+{{< /tabpane >}}

@@ -28,7 +28,16 @@ The action `unregister` allows you to deregister an animal as soon as it is move
 
 5. Use the `F3` key to deregister the animal with the specified settings.
 
-    ![VitalControl: Menu Action Unregister](../images/unregister.png "Unregister an animal")
+{{< tabpane >}}
+{{< tab header="Unregister:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menu Action Unregister](../images/unregister-scan.png "Unregister an animal")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Action Unregister](../images/unregister.png "Unregister an animal")
+{{% /tab %}}
+{{< /tabpane >}}
+
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.

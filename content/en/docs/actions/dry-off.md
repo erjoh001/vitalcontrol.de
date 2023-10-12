@@ -27,7 +27,15 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 
 4. The animal was successfully marked as dry.
 
-   ![VitalControl: Menu Actions Dry off](../images/dryoff.png "Dry off a cow")
+{{< tabpane >}}
+{{< tab header="Dry off a cow:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menu Actions Dry off](../images/dryoff-scan.png "Dry off a cow")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Actions Dry off](../images/dryoff.png "Dry off a cow")
+{{% /tab %}}
+{{< /tabpane >}}
 
 ### Mark as lactated
 
@@ -39,7 +47,16 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 
 4. The animal was successfully marked as lactated.
 
-   ![VitalControl: Menu Actions Mark as lactated](../images/lactated.png "Mark as lactated")
+{{< tabpane >}}
+{{< tab header="Mark as lactated:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menu Actions Mark as lactated](../images/lactated-scan.png "Mark as lactated")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Actions Mark as lactated](../images/lactated.png "Mark as lactated")
+{{% /tab %}}
+{{< /tabpane >}}
+
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.

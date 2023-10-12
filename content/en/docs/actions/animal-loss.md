@@ -25,7 +25,15 @@ The action `animal loss` allows you to register an animal loss. To register an a
 
 5. Use the `F3` key to deregister the animal with the specified settings.
 
-    ![VitalControl: Menu Action Animal loss](../images/animalloss.png "Register an animal loss")
+{{< tabpane >}}
+{{< tab header="Animal loss:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menu Action Animal loss](../images/animalloss-scan.png "Register an animal loss")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+ ![VitalControl: Menu Action Animal loss](../images/animalloss.png "Register an animal loss")
+{{% /tab %}}
+{{< /tabpane >}}
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.

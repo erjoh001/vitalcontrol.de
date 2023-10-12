@@ -27,15 +27,13 @@ With the action `Alarm` you put animals on the alarm list or remove them from it
 
 {{< tabpane >}}
 {{< tab header="Alert:" text=true disabled=true />}}
-{{% tab header="Transponder scan" text=true %}}
+{{% tab header="Transponderscan" text=true %}}
  ![VitalControl: Menu Actions Alarm](../images/alarm-scan.png "Alarm")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
  ![VitalControl: Menu Actions Alarm](../images/alarm.png "Alarm")
 {{% /tab %}}
 {{< /tabpane >}}
-
-    ![VitalControl: Menu Actions Alarm](../images/alarm.png "Alarm")
 
 {{% alert title="Hint" %}}
 If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.

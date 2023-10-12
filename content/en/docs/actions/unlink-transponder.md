@@ -26,4 +26,12 @@ With this action you can detach a transponder that has already been assigned to 
 
 4. The transponder was successfully detached from the animal.
 
-    ![VitalControl: Menu Action Unlink transponder](../images/unlinktransponder.png "Unlink transponder")
+{{< tabpane >}}
+{{< tab header="Unlink transponder:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+![VitalControl: Menu Action Unlink transponder](../images/unlinktransponder-scan.png "Unlink transponder")
+{{% /tab %}}
+{{% tab header="Manual selection from list" text=true %}}
+![VitalControl: Menu Action Unlink transponder](../images/unlinktransponder.png "Unlink transponder")
+{{% /tab %}}
+{{< /tabpane >}}

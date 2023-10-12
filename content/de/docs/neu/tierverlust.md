@@ -33,4 +33,12 @@ Um den Verlust eines Tieres zu erfassen gehen Sie wie folgt vor:
 
 7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste `F3` `Speichern` an.
 
-   ![VitalControl: Menüfolge Neu Tierverlust](../bilder/tierverlust.png "Verlust eines Tieres erfassen")
+{{< tabpane >}}
+{{< tab header="Verlust eines Tieres erfassen:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Neu Tierverlust](../bilder/tierverlust-scan.png "Verlust eines Tieres erfassen")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Neu Tierverlust](../bilder/tierverlust.png "Verlust eines Tieres erfassen")
+{{% /tab %}}
+{{< /tabpane >}}
