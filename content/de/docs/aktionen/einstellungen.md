@@ -24,7 +24,7 @@ In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des 
 
 5. Möchten Sie die `Reihenfolge zurücksetzen`, wählen Sie den entsprechenden Menüpunkt mit den Pfeiltasten aus und bestätigen Sie mit `OK`.
 
-6. Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück zu dem Menü `Aktionen`.
+6. Drücken Sie die Taste `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="60" align="bottom" alt="Speichern und zurück" /> um die Einstellungen abzuspeichern und zum Menü `Aktionen` zurückzukehren.
 
     ![VitalControl: Menüfolge Aktionen Menüeinträge](../bilder/menue.png "Menüeinträge")
 

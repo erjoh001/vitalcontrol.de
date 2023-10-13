@@ -24,4 +24,3 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
    <area shape="rect" coords="2,362,230,400" alt="Transponder zuordnen" title="Legen Sie die Zuordnung des Transponders auf ihrem VitalControl-Gerät fest&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/zuordnung-transponder/">
    <area shape="rect" coords="2,400,230,439" alt="Betrieb" title="Legen Sie ihre zehnstellige Betriebsnummer gemäß VVO fest&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/betriebsnummer/">
 </map>
-x

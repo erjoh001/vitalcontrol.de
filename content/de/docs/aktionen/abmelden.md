@@ -20,7 +20,7 @@ Die Aktion `Abmelden` ermöglicht es Ihnen ein Tier abzumelden sobald es ausgest
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion `Abmelden` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/unregister.svg" width="35" align="bottom" alt="Abmelden" /> `Abmelden` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein weiteres Untermenü in dem Sie verschiedene Einstellungen speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 

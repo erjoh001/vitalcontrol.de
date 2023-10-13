@@ -15,7 +15,7 @@ translationKey: device/temperature-measurement
 
 Hier können Sie die Temperaturmessung Ihres Gerätes testen ohne, dass die Messung für ein Tier abgespeichert wird. Um den Test durchzuführen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Gerät` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/device.svg" width="25" align="bottom" alt="Gerät" /> `Gerät` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü mit mehreren Menüpunkten. Wählen Sie `Temperaturmessung` und bestätigen Sie mit `OK`.
 

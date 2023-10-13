@@ -28,7 +28,7 @@ Weicht das Gewicht im Durchschnitt sehr stark in eine Richtung ab (zu hoch/zu ti
 
 3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Wiegung" /> `Wiegung` aus und bestätigen Sie mit `OK`.
 
-4. Es öffnet sich ein Menü mit einer Gewichtsangabe. Erhöhen oder vermindern Sie diese mit den Pfeiltasten △ ▽ und speichern Sie das Ergebnis mit der Taste `F3` oder mit der `OK` Taste.
+4. Es öffnet sich ein Menü mit einer Gewichtsangabe. Erhöhen oder vermindern Sie diese mit den Pfeiltasten △ ▽ und speichern Sie das Ergebnis mit der Taste `F3` &nbsp;<img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> `Speichern` oder mit der `OK` Taste.
 
 {{< tabpane >}}
 {{< tab header="Gewicht erfassen:" text=true disabled=true />}}
