@@ -8,3 +8,5 @@ description: >
 weight: 20
 categories: [Data exchange, Alma Pro]
 ---
+
+![Connect VitalControl to Alma Pro](/images/synchronisation/connect-to-alma-pro.svg "Connect VitalControl to Alma Pro")
