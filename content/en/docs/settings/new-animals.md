@@ -16,7 +16,7 @@ translationKey: settings/new-animals
 
 Here you define which weight is recorded and saved when creating new animals on your farm. To set the recorded weight on your device, proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -37,7 +37,7 @@ Based on the age entered here, the device calculates the date of birth that is s
 
 To set the age at creation on your device proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -54,7 +54,7 @@ To set the age at creation on your device proceed as follows:
 Here you define which sex is suggested (manual creation) or automatically adopted (creation in the
 background). To define the sex when registering an animal on your device, proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -70,7 +70,7 @@ background). To define the sex when registering an animal on your device, procee
 
 Here you define which type of animal is recorded when creating new animals in your farm. To define the type of animal when creating it on your device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -86,7 +86,7 @@ Here you define which type of animal is recorded when creating new animals in yo
 
 Here you define which breed of the livestock is recorded when creating new animals on your farm. To define the breed when creating on your device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -102,7 +102,7 @@ Here you define which breed of the livestock is recorded when creating new anima
 
 Here you define which whereabouts are assigned to the animals when creating new farm animals. To define the whereabouts of the farm animal when it is created on your device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -128,7 +128,7 @@ When the user confirms the creation of animals, an input screen appears in which
 
 In order to define the behavior when the user animal is automatically created on your device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -148,7 +148,7 @@ Select the "Consecutive" option if the stall number you use for visual identific
 
 To define the assignment of the animal ID when creating the farm animal on your device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -172,7 +172,7 @@ Only when using the "Consecutive" option: if you have set to use separate number
 
 Here you define which length a barn number derived from the transponder number has for a new animal in your farm. The possible value range is from 2 to 6 digits. To define the length of the new ID of the farm animal on your device proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -195,7 +195,7 @@ leads immediately to an update of the derived barn number.
 
 To set the offset to the right of the animal on your device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 
@@ -215,7 +215,7 @@ To set the offset to the right of the animal on your device, proceed as follows:
 
 Here you define whether one or two number ranges are used when assigning the ear tag number in the course of the manual re-registration of animals. To define the assignment of the ear tag number of the farm animal on your device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Registration of animals`. Confirm with `OK`.
 

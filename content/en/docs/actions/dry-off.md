@@ -19,7 +19,7 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 
 ### Dry off a cow
 
-1. On the main screen of your VitalControl device, select the menu item `actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
 
 2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 
@@ -39,7 +39,7 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 
 ### Mark as lactated
 
-1. On the main screen of your VitalControl device, select the menu item `actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
 
 2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 

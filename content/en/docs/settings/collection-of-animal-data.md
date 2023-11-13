@@ -20,7 +20,7 @@ The red field shows the "critical too low weight gain" area. The yellow field sh
 
 To set the `Daily weight gain` on your device proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
@@ -45,7 +45,7 @@ If you do not want to make this adjustment or if you create animals automaticall
 
 To set the `birth weight` on your device proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
@@ -62,7 +62,7 @@ The defined daily increase is used for the calculation of the suggested weight v
 
 To set the `average daily weight gain` on your device proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
@@ -84,7 +84,7 @@ In the simple mode, only the general condition is queried during the animal eval
 
 To set the `Rating of animals` on your device proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
@@ -101,7 +101,7 @@ The set value for the period of the fresh milker account is used in the fresh mi
 
 To set the `Control period fresh cows` on your device proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 

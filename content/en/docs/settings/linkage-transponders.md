@@ -14,7 +14,7 @@ translationKey: settings/link-transponder
 ## Set maximum age of purchased calves
 To set the `Purchased calves maximum age` on your device proceed as follows.
 
-1. Select the menu item `Settings` in the main screen of your VitalControl device and press the `OK` button.
+1. Select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` in the main screen of your VitalControl device and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys  △ ▽ to select `Link transponder`. Confirm with `OK`.
 
@@ -26,7 +26,7 @@ To set the `Purchased calves maximum age` on your device proceed as follows.
 
 To set the `Assignment animal ID` on your device, proceed as follows.
 
-1. Select the menu item `Settings` in the main screen of your VitalControl device and press the `OK` key.
+1. Select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` in the main screen of your VitalControl device and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽  to select `Link transponder`. Confirm with `OK`.
 
@@ -41,4 +41,4 @@ To set the `Assignment animal ID` on your device, proceed as follows.
 
 ## Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the `F1` key.
+- Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key.

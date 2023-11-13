@@ -12,7 +12,7 @@ translationKey: actions/edit
 ---
 ## Tierdaten ändern
 
-Die Aktion `Ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
+Die Aktion <img src="/icons/actions/edit.svg" width="25" align="bottom" alt="Einstellungen" /> `Ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
 
 - Art des Nutztieres
 - Geschlecht
@@ -27,7 +27,7 @@ Die Aktion `Ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres
 
 Um die Tierdaten zu ändern gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 

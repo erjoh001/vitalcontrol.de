@@ -18,7 +18,7 @@ Hier sind Schwellenwerte für die Körpertemperatur jeweils individuell für die
 
 Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Schwellenwert` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -39,7 +39,7 @@ Hier stellen Sie ein ab welcher gemessenen Temperatur eine Untertemperatur vorli
 
 Um den Schwellenwert für die Untertemperatur einzustellen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -56,7 +56,7 @@ Hier stellen Sie ein, ob das Licht während des Fiebermessens automatisch aktivi
 
 Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu aktivieren gehen sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
 

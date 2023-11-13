@@ -18,13 +18,13 @@ Make sure the date and time are set correctly. Otherwise, the timestamps of the 
 
 To set the date on your device, follow these steps:
 
-1. On the main screen of your VitalControl device, select the menu option `Settings` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu option <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Date & Time`. Confirm with `OK`.
 
 3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Date` and `Time`. Select the `Date` settings field.
 
-4. Press `OK` key or use `F3` key to switch to setting mode. Now you can set the day using the arrows △ ▽. The `F3` button takes you to the month setting. Alternatively, you can confirm with `OK`. Use the arrow keys △ ▽ here as well. Click `F3` again to go to year setting. Use the arrow keys △ ▽ here as well. Confirm with `Ok` as soon as the date is set correctly.
+4. Press `OK` key or use `F3` <img src="/icons/actions/edit.svg" width="25" align="bottom" alt="Settings" /> key to switch to setting mode. Now you can set the day using the arrows △ ▽. The `F3` button takes you to the month setting. Alternatively, you can confirm with `OK`. Use the arrow keys △ ▽ here as well. Click `F3` again to go to year setting. Use the arrow keys △ ▽ here as well. Confirm with `Ok` as soon as the date is set correctly.
 
     ![VitalControl: menu settings date](../images/date.png "To set the date")
 
@@ -32,13 +32,13 @@ To set the date on your device, follow these steps:
 
 To set the time on your device, follow these steps:
 
-1. On the main screen of your VitalControl device, select the menu option `Settings` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu option <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Date & Time`. Confirm with `OK`.
 
 3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Date` and `Time`. Select the `Date` settings field.
 
-4. Press `OK` key or use `F3` key to switch to setting mode. Now you can set the day using the arrows △ ▽. The `F3` button takes you to the minute setting. Alternatively, you can confirm with `OK`. Use the arrow keys △ ▽ here as well. Confirm with `Ok` as soon as the time is set correctly.
+4. Press `OK` key or use `F3` <img src="/icons/actions/edit.svg" width="25" align="bottom" alt="Settings" /> key to switch to setting mode. Now you can set the day using the arrows △ ▽. The `F3` button takes you to the minute setting. Alternatively, you can confirm with `OK`. Use the arrow keys △ ▽ here as well. Confirm with `Ok` as soon as the time is set correctly.
 
     ![VitalControl: menu settings time](../images/time.png "To set the time")
 

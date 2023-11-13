@@ -14,7 +14,7 @@ translationKey: settings/device
 ## Shutdown device after
 To set the period of non-activity until the device is switched off, proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
@@ -28,7 +28,7 @@ To set the period of non-activity until the device is switched off, proceed as f
 
 To set the start up screen proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
@@ -42,7 +42,7 @@ To set the start up screen proceed as follows.
 
 If the presentation mode is selected, the device simulates the temperature measurements and displays a randomly generated temperature as a measured value. This mode is used for device demonstration if no animals are available for a measurement. To deactivate or activate the presentation mode of the device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
@@ -56,7 +56,7 @@ If the presentation mode is selected, the device simulates the temperature measu
 
 To set the display brightness proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
@@ -70,7 +70,7 @@ To set the display brightness proceed as follows.
 
 To deactivate or activate the vibration on keypress of the device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 
@@ -84,7 +84,7 @@ To deactivate or activate the vibration on keypress of the device, proceed as fo
 
 To deactivate or activate the vibration resource monitor of the device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
 

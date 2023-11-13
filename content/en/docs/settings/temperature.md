@@ -18,7 +18,7 @@ Threshold values for the body temperature are stored here individually for the a
 
 To set the threshold & temperature ranges on your device proceed as follows:
 
-1. From the main screen of your VitalControl device, select `Settings` and press the `OK` button.
+1. From the main screen of your VitalControl device, select <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 
@@ -40,7 +40,7 @@ Here you set the measured temperature from which an undertemperature occurs. Dur
 
 To set the threshold value for the undertemperature, proceed as follows:
 
-1. From the main screen of your VitalControl device, select `Settings` and press the `OK` button.
+1. From the main screen of your VitalControl device, select <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 
@@ -57,7 +57,7 @@ Here you can set whether the light should be automatically activated or deactiva
 
 To deactivate or activate the anus spotlight during the `Temperature` action, proceed as follows:
 
-1. From the main screen of your VitalControl device, select `Settings` and press the `OK` button.
+1. From the main screen of your VitalControl device, select <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Temperature`. Confirm with `OK`.
 

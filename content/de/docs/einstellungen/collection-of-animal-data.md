@@ -19,7 +19,7 @@ Das rote Feld zeigt den Bereich "kritische zu niedrige Gewichtszunahme". Das gel
 
 Um die `Tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -42,7 +42,7 @@ Wenn Sie diese Anpassung nicht vornehmen wollen oder wenn Sie Tiere automatisch 
 
 Um das `Geburtsgewicht` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -60,7 +60,7 @@ Die definierte tägliche Zunahme wird bei der Tierwiegung für die Berechnung de
 
 Um die `Mittlere Tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -82,7 +82,7 @@ Im einfachen Modus wird bei der Tierbewertung lediglich der Allgemeinzustand abg
 
 Um die Tierbewertung auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -102,7 +102,7 @@ Der eingestellte Wert für den Zeitraum der Frischmelkerkontolle wird in der Fri
 
 Um die Länge der Kontrolle der Frischmelker auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
 

@@ -23,7 +23,7 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 
 ### Eine Kuh trockenstellen
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie jetzt den Transponder des Tiers ein. Alternativ können Sie das Tier auch manuell aus der Tierliste auswählen, Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Wählen Sie das Tier dann durch erneutes Drücken von `OK` aus.
 
@@ -43,7 +43,7 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 
 ### Eine Kuh als laktierend markieren
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie jetzt den Transponder des Tiers ein. Alternativ können Sie das Tier auch manuell aus der Tierliste auswählen, Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Wählen Sie das Tier dann durch erneutes Drücken von `OK` aus.
 

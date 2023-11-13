@@ -48,7 +48,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `F3`Taste oder bestätigen Sie mit `OK` um das Ergebnis abzuspeichern.
+2. Nutzen Sie die `F3` <img src="/icons/save.svg" width="25" align="bottom" alt="Speichern" /> Taste oder bestätigen Sie mit `OK` um das Ergebnis abzuspeichern.
 
     ![VitalControl: Menüfolge Aktionen Datum](../bilder/ergebnisspeichern.png "Datum einstellen")
 
@@ -56,7 +56,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `An/Aus` Taste.
+2. Nutzen Sie die `An/Aus` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Einstellungen" /> Taste.
 
 3. Es öffnet sich ein Untermenü in dem Sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Zur Beobachtungsliste hinzufügen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
@@ -66,7 +66,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `An/Aus` Taste.
+2. Nutzen Sie die `An/Aus` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Einstellungen" /> Taste.
 
 3. Es öffnet sich ein Untermenü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Licht` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
@@ -76,7 +76,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `An/Aus` Taste.
+2. Nutzen Sie die `An/Aus` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Einstellungen" /> Taste.
 
 3. Es öffnet sich ein Untermenü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Messung wiederholen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
@@ -86,7 +86,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Drücken Sie die `F1` Taste um die Aktion abzubrechen.
+2. Drücken Sie die `F1` <img src="/icons/break.svg" width="25" align="bottom" alt="Abbrechen" /> Taste um die Aktion abzubrechen.
 
     ![VitalControl: Menüfolge Aktionen Datum](../bilder/ergebnisspeichern.png "Datum einstellen")
 

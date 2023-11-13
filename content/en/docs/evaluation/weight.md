@@ -23,11 +23,11 @@ In this evaluation you can see the following information related to the weighing
 
 To perform the evaluation, proceed as follows:
 
-1. Open the main screen of your VitalControl device and select the `Evaluate` menu. Confirm with `OK`.
+1. Open the main screen of your VitalControl device and select the  &nbsp;<img src="/icons/actions/evaluate.svg" width="40" align="bottom" alt="Evaluate today`s weighing" />&nbsp;`Evaluate` menu. Confirm with `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`.
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items  &nbsp;<img src="/icons/actions/weightevaluate.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`.
 
-3. The evaluation options for the Weight section now appear. Select the evaluation option  `Today´s weighing` and confirm with `OK`. The device now begins to calculate the success variables.
+3. The evaluation options for the Weight section now appear. Select the evaluation option &nbsp;<img src="/icons/actions/todayweight.svg" width="40" align="bottom" alt="Today's weighing" />&nbsp; `Today´s weighing` and confirm with `OK`. The device now begins to calculate the success variables.
 
 4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
 
@@ -40,11 +40,11 @@ In this evaluation you can view the following information:
 
 To perform the evaluation, proceed as follows:
 
-1. Open the main screen of your VitalControl device and select the `Evaluate` menu. Confirm with `OK`.
+1. Open the main screen of your VitalControl device and select the &nbsp;<img src="/icons/actions/evaluate.svg" width="40" align="bottom" alt="Evaluate birth weights" />&nbsp; `Evaluate` menu. Confirm with `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`.
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/actions/weightevaluate.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
 
-3. Now the evaluation options for the weight section appear. Select `Birth weights` and confirm with `OK`. The device now starts to calculate the success variables.
+3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/actions/birthweight.svg" width="40" align="bottom" alt="Birth weights" />&nbsp; `Birth weights` and confirm with `OK`. The device now starts to calculate the success variables.
 
 4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
 
@@ -60,11 +60,11 @@ In this evaluation you can see the following information related to all weighing
 
 To perform the evaluation, proceed as follows:
 
-1. Open the main screen of your VitalControl device and select the `Evaluate` menu. Confirm with `OK`.
+1. Open the main screen of your VitalControl device and select the &nbsp;<img src="/icons/actions/evaluate.svg" width="40" align="bottom" alt="Evaluate birth weights" />&nbsp; `Evaluate` menu. Confirm with `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`.
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/actions/weightevaluate.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
 
-3. Now the evaluation options for the weight section appear. Select `Weight development` and confirm with `OK`. The device now starts to calculate the success variables.
+3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/actions/weightdevelopement.svg" width="40" align="bottom" alt="Weight development" />&nbsp; `Weight development` and confirm with `OK`. The device now starts to calculate the success variables.
 
 4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
 

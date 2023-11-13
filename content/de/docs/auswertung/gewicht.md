@@ -23,11 +23,11 @@ In dieser Auswertung können Sie folgende, auf die Wiegungen der letzten 6 Stund
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü `Auswerten` aus. Bestätigen Sie mit `OK`.
+1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü &nbsp;<img src="/icons/actions/evaluate.svg" width="40" align="bottom" alt="Heutige Wiegungen auswerten" />&nbsp;  `Auswerten` aus. Bestätigen Sie mit `OK`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/actions/weightevaluate.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
 
-3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Heutige Wiegung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/actions/todayweight.svg" width="40" align="bottom" alt="Heutige Wiegung" />&nbsp; `Heutige Wiegung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
 4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 
@@ -40,11 +40,11 @@ In dieser Auswertung können Sie folgende Informationen einsehen:
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen Sie das Menü `Auswerten` aus. Bestätigen Sie mit `OK`.
+1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen Sie das Menü &nbsp;<img src="/icons/actions/evaluate.svg" width="40" align="bottom" alt="Geburtsgewichte auswerten" />&nbsp; `Auswerten` aus. Bestätigen Sie mit `OK`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten  &nbsp;<img src="/icons/actions/weightevaluate.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
 
-3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Geburtsgewichte` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/actions/birthweight.svg" width="40" align="bottom" alt="Geburtsgewicht" />&nbsp; `Geburtsgewichte` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
 4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 
@@ -60,11 +60,11 @@ In dieser Auswertung können Sie folgende, auf alle Wiegungen bezogenen, Informa
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Auswerten`.
+1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/actions/evaluate.svg" width="40" align="bottom" alt="Gewichtsentwicklung auswerten" />&nbsp; `Auswerten`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/actions/weightevaluate.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
 
-3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/actions/weightdevelopement.svg" width="40" align="bottom" alt="Gewichtsentwicklung" />&nbsp; `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
 4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 

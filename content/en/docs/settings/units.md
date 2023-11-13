@@ -15,7 +15,7 @@ translationKey: settings/units
 
 To set the temperature unit on your device, proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Select the section `Units` . Confirm with `OK`.
 
@@ -29,7 +29,7 @@ To set the temperature unit on your device, proceed as follows.
 
 To set the mass unit on your device, proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item `Settings` and press the `OK` key.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` key.
 
 2. A submenu opens in which various settings are displayed. Select the section `Units` . Confirm with `OK`.
 

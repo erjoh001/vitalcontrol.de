@@ -13,21 +13,21 @@ translationKey: actions/animal-rating
 
 ## Rate your animals
 
-When rating the animal, you document the condition of the individual animal. The condition is determined visually and recorded with the help of the traffic light system. In the basic assessment, only the general condition is recorded. In the extended evaluation you record the general condition, feed intake, consistency of faeces  and respiratory diseases. You can either change the rating mode directly in the `Rating` action or you can define it in the [settings](../../settings/data-acquisition/#set-rating-of-animals).
+When rating the animal, you document the condition of the individual animal. The condition is determined visually and recorded with the help of the traffic light system. In the basic assessment, only the general condition is recorded. In the extended evaluation you record the general condition, feed intake, consistency of faeces  and respiratory diseases. You can either change the rating mode directly in the <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Rating` action or you can define it in the [settings](../../settings/data-acquisition/#set-rating-of-animals).
 
 {{% alert title="Hint" %}}
 A yellow or red evaluation means that VitalControl classifies the animal as conspicuous and puts it on the alarm list.
 {{% /alert %}}
 
-1. In the main screen of your VitalControl device, select the menu item `Actions` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action `Rating` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Rating` and confirm with `OK`.
 
-4. The rating menu opens. If you want to switch the rating mode, use the `On/Off` button and the arrow keys ◁ ▷. With the `F1` key you get back to the evaluation menu.
+4. The rating menu opens. If you want to switch the rating mode, use the `On/Off` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chain-of-actions" />&nbsp; button and the arrow keys ◁ ▷. With the `F1` key you get back to the evaluation menu.
 
-5. Use the arrow keys ◁ ▷ △ ▽ to select a state and save it with the `F3` key or the `OK` key.
+5. Use the arrow keys ◁ ▷ △ ▽ to select a state and save it with the `F3` <img src="/icons/save.svg" width="25" align="bottom" alt="Save" />  key or the `OK` key.
 
 6. In advanced mode, use the `F1` and `F3` keys to switch between the rating parameters.
 
