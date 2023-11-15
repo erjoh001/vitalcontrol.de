@@ -12,7 +12,7 @@ translationKey: device/info/about
 
 To retrieve the hardware information of your device, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item `device` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `device` and press the `OK` button.
 
 2. A submenu opens with several menu items. Select `info` and confirm with `OK`.
 

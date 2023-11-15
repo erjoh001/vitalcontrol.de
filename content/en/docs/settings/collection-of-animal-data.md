@@ -26,11 +26,11 @@ To set the `Daily weight gain` on your device proceed as follows.
 
 3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
 
-4. The `Daily weight gain` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `OK`. Alternatively, you can use the pencil icon with the `F3` key to jump directly to editing the red and yellow areas.
+4. The `Daily weight gain` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `OK`. Alternatively, you can use the pencil icon with the <img src="/icons/edit.svg" width="25" align="bottom" alt="Edit" /> `F3` key to jump directly to editing the red and yellow areas.
 
-5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the `F3` keys or the ◁ ▷ arrow keys to select between the Red and Yellow areas.
+5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the <img src="/icons/arrow.svg" width="25" align="bottom" alt="Arrow" /> `F3` keys or the ◁ ▷ arrow keys to select between the Red and Yellow areas.
 
-6. Once you have set the desired "greater than" or "equal to" g/day increase, use the back arrow with the `F1` key to jump back to `Daily weight gain` or confirm with `OK`.
+6. Once you have set the desired "greater than" or "equal to" g/day increase, use the back arrow with the <img src="/icons/back.svg" width="25" align="bottom" alt="Arrow" /> `F1` key to jump back to `Daily weight gain` or confirm with `OK`.
 
     ![VitalControl: menu settings daily weight gain](../images/dailyweightgain.png "Daily weight gain")
 
@@ -75,9 +75,10 @@ To set the `average daily weight gain` on your device proceed as follows.
 
 ### Save and return to the top menu Data acquisition
 
-- Save the settings and return to the top menu `Data acquisition` by pressing the `F1` key.
+- Save the settings and return to the top menu `Data acquisition` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
 
 ## Set Rating of animals
+
 {{% alert title="Hint" %}}
 In the simple mode, only the general condition is queried during the animal evaluation (green/yellow/red). In the extended evaluation, 4 evaluation categories are queried: general condition, feed consumption, diarrhea and respiratory disease.
 {{% /alert %}}
@@ -113,4 +114,4 @@ To set the `Control period fresh cows` on your device proceed as follows.
 
 ## Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the `F1` key.
+- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.

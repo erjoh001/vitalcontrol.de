@@ -26,7 +26,7 @@ Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzul
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen.
 
-5. Nutzen Sie das Stiftsymbol mit der Taste `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen.
+5. Nutzen Sie das Stiftsymbol mit der Taste <img src="/icons/edit.svg" width="25" align="bottom" alt="Einstellungen" /> `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten <img src="/icons/arrow.svg" width="25" align="bottom" alt="Pfeil" /> `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen.
 
 6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurückpfeil mit der Taste `F1` um zurück auf `Schwellenwerte` zu springen.
 
@@ -68,4 +68,4 @@ Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu akt
 
 ## Einstellungen speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.

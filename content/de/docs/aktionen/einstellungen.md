@@ -29,13 +29,13 @@ In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des 
 
 ## Aktionskette: Einzelaktionen
 
-In diesem Einstellungsmenü legen Sie die einzelnen Aktionen der &nbsp;<img src="/icons/actions/action-chain.svg" width="40" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` fest.
+In diesem Einstellungsmenü legen Sie die einzelnen Aktionen der &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` fest.
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Verwenden Sie die `An/Aus` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; Taste entweder direkt oder Scannen Sie zuvor ein Tier ein.
 
-3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="40" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` aus und bestätigen Sie mit `OK`.
 
 4. Die weitere Anleitung finden Sie [hier](/docs/aktionskette/#aktionskette-einstellen).
 

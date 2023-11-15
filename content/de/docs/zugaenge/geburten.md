@@ -19,13 +19,13 @@ In dieser Liste können Sie ihre Geburten einsehen, diese bearbeiten und eine Ex
 Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie den USB-Stick mit dem USB-C Adapter an ihr VitalControl-Gerät an bevor Sie der Anleitung folgen.
 {{% /alert %}}
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Zugänge` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/zugaenge.svg" width="40" align="bottom" alt="Zugänge" /> `Zugänge` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem Sie zwischen `Zukäufe, kein Transponder`, `Zukäufe`, `Keine Ohrmarkennummer zugewiesen`, `Geburten` und `Kein Transponder zugewiesen` auswählen können. Verwenden Sie die Pfeiltasten ◁ ▷ △ ▽ um den Menüpunkt `Geburten` auszuwählen und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem Sie zwischen <img src="/icons/keintransponder.svg" width="40" align="bottom" alt="Zukäufe, kein Transponder" /> `Zukäufe, kein Transponder`, <img src="/icons/zukeaufe.svg" width="40" align="bottom" alt="Zukäufe" /> `Zukäufe`, <img src="/icons/keineOhrmarke.svg" width="40" align="bottom" alt="Keine Ohrmarkennummer zugewiesen" /> `Keine Ohrmarkennummer zugewiesen`, <img src="/icons/geburten.svg" width="40" align="bottom" alt="Geburten" /> `Geburten` und <img src="/icons/keinTransponder.svg" width="40" align="bottom" alt="Kein Transponder zugewiesen" /> `Kein Transponder zugewiesen` auswählen können. Verwenden Sie die Pfeiltasten ◁ ▷ △ ▽ um den Menüpunkt <img src="/icons/geburten.svg" width="40" align="bottom" alt="Geburten" />  `Geburten` auszuwählen und bestätigen Sie mit `OK`.
 
 3. Es öffnet sich eine Liste mit all Ihren Geburten.
 
-4. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü.
+4. Verwenden Sie die <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3` Taste. Es öffnet sich ein Untermenü.
 
 5. Wählen Sie mit den Pfeiltasten  △ ▽ den Menüpunkt `HIT-Meldeliste exportieren` und bestätigen Sie mit `OK`.
 
@@ -50,11 +50,11 @@ Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen 
 
 ### Wechsel zwischen Listen- und Einzelansicht
 
-1. Verwenden Sie die `An/Aus` Taste.
+1. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> `An/Aus` Taste.
 
 2. Wählen Sie mit den Pfeiltasten ◁ ▷ zwischen `Listenansicht` und `Einzelansicht`.
 
-3. Speichern Sie ihre Einstellung mit der Taste `F1`. Verwenden Sie innerhalb der Einzelansicht die Pfeiltasten ◁ ▷ um zwischen den Tieren zu wechseln.
+3. Speichern Sie ihre Einstellung mit der Taste <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1`. Verwenden Sie innerhalb der Einzelansicht die Pfeiltasten ◁ ▷ um zwischen den Tieren zu wechseln.
 
     ![VitalControl: Menüfolge Zugänge Geburten](../bilder/wechsel.png "Wechsel zwischen Listen- und Einzelansicht")
 

@@ -13,7 +13,7 @@ If there is a malfunction on your device, you should first perform a hardware ch
 
 ## Check the hardware of your device
 
-1. Open the menu item `Device` in the main screen of your VitalControl device.
+1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 
 1. Invoke the submenu `Service`, select the menu item `Check device drivers` and confirm with `OK`.
 

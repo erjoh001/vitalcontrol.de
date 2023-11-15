@@ -13,7 +13,7 @@ weight: 20
 
 ## Reichweitentest durchführen
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
+1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
 
 1. Wechseln Sie ins Untermenü `Service`, wählen Sie dort den Eintrag `Reichweitentest` und bestätigen Sie mit `OK`. Es wird nun ein animierter Scan-Bildschirm angezeigt.
 

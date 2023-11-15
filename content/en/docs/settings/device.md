@@ -96,4 +96,4 @@ To deactivate or activate the vibration resource monitor of the device, proceed 
 
 ## Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the `F1` key.
+- Save the settings and return to the top menu <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `Settings` by pressing the `F1` key.

@@ -31,7 +31,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. The <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" />  `Temperature` action is automatically selected. Confirm with `OK`.
+3. A submenu with the animal actions opens. The <img src="/icons/temperature.svg" width="10" align="bottom" alt="Temperature" />  `Temperature` action is automatically selected. Confirm with `OK`.
 
 4. Now carry out the measurement. As soon as the measurement is completed, the temperature is highlighted in blue, green, yellow or red, depending on the threshold set.
 

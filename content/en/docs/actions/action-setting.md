@@ -30,13 +30,13 @@ In this settings menu you determine which actions are displayed to you within th
 
 ## Chain of actions
 
-In this settings menu you set the &nbsp;<img src="/icons/actions/action-chain.svg" width="40" align="bottom" alt="Chain of actions" />&nbsp; `chain of actions`.
+In this settings menu you set the &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `chain of actions`.
 
 1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
 
 2. Use the `On/Off` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chain of actions" />&nbsp; button either directly or scan an animal beforehand.
 
-3. A submenu opens. Use the arrow keys △ ▽ to select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="40" align="bottom" alt="Chain of actions" />&nbsp; `chain of actions` and confirm with `OK`.
+3. A submenu opens. Use the arrow keys △ ▽ to select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `chain of actions` and confirm with `OK`.
 
 4. Further instructions can be found [here](/en/docs/chain-of-actions/#set-chain-of-actions).
 

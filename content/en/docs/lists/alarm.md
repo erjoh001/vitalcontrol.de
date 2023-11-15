@@ -38,9 +38,9 @@ The alarm list is structured as follows:
 
 ### Preliminary Steps
 
-1. Select the `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Select the <img src="/icons/listen.svg" width="25" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
-2. A submenu opens in which various lists are displayed. Select the `Alarm` list. Confirm with `OK`.
+2. A submenu opens in which various lists are displayed. Select the <img src="/icons/alarmlist.svg" width="25" align="bottom" alt="Alarm" /> `Alarm` list. Confirm with `OK`.
 
 3. The alarm list is now open.
 
@@ -50,7 +50,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Full action menu` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Full action menu` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -62,7 +62,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Animal data` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Animal data` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -74,7 +74,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Take Temperature` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Take Temperature` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -86,7 +86,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Rate animal` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Rate animal` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -98,7 +98,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Clear alarm` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Clear alarm` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -110,7 +110,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `toggle watch status` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `toggle watch status` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -122,7 +122,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Search animal` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Search animal` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" />  `F3` key or with `OK`.
 
 3. Use the arrow keys △ ▽ ◁ ▷ to select the desired animal ID.
 
@@ -132,7 +132,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Set filter` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Set filter` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" />  `F3` key or with `OK`.
 
 3. Set the desired filter. You can find how to use the filter [here](../../filter/#applying-filters).
 

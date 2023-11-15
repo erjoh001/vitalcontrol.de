@@ -26,7 +26,7 @@ To set the threshold & temperature ranges on your device proceed as follows:
 
 4. Use the arrow keys ◁ ▷ to select the desired threshold.
 
-5. Use the pen symbol with the `F3`key to set the threshold value of the yellow and red area. Use the arrows △ ▽ to set the desired "greater than" or "equal to" temperature. Use the `F3` keys or the ◁ ▷ arrows to select between the Yellow and Red ranges.
+5. Use the pen symbol with the <img src="/icons/edit.svg" width="25" align="bottom" alt="Einstellungen" /> `F3`key to set the threshold value of the yellow and red area. Use the arrows △ ▽ to set the desired "greater than" or "equal to" temperature. Use the <img src="/icons/arrow.svg" width="25" align="bottom" alt="Arrow" /> `F3` keys or the ◁ ▷ arrows to select between the Yellow and Red ranges.
 
 6. Once you have set the desired "greater than" or "equal to" temperature, use the back arrow with the `F1` key to jump back to the `Threshold` value.
 
@@ -69,5 +69,5 @@ To deactivate or activate the anus spotlight during the `Temperature` action, pr
 
 ## Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the `F1` key.
+- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
 

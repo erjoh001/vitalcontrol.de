@@ -19,15 +19,15 @@ Innerhalb dieser Liste finden Sie alle Tiere die Sie über den Massenzugang ange
 Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie den USB-Stick mit dem USB-C Adapter an ihr VitalControl-Gerät an bevor Sie der Anleitung folgen.
 {{% /alert %}}
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Zugänge` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/zugaenge.svg" width="40" align="bottom" alt="Zugänge" /> `Zugänge` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem Sie zwischen `Zukäufe, kein Transponder`, `Zukäufe`, `Keine Ohrmarkennummer zugewiesen`, `Geburten` und `Kein Transponder zugewiesen` auswählen können. Verwenden Sie die Pfeiltasten ◁ ▷ △ ▽ um den Menüpunkt `Zukäufe` auszuwählen und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem Sie zwischen <img src="/icons/keintransponder.svg" width="40" align="bottom" alt="Zukäufe, kein Transponder" /> `Zukäufe, kein Transponder`, <img src="/icons/zukeaufe.svg" width="40" align="bottom" alt="Zukäufe" /> `Zukäufe`, <img src="/icons/keineOhrmarke.svg" width="40" align="bottom" alt="Keine Ohrmarkennummer zugewiesen" /> `Keine Ohrmarkennummer zugewiesen`, <img src="/icons/geburten.svg" width="40" align="bottom" alt="Geburten" /> `Geburten` und <img src="/icons/keinTransponder.svg" width="40" align="bottom" alt="Kein Transponder zugewiesen" /> `Kein Transponder zugewiesen` auswählen können. Verwenden Sie die Pfeiltasten ◁ ▷ △ ▽ um den Menüpunkt <img src="/icons/zukeaufe.svg" width="40" align="bottom" alt="Zukäufe" /> `Zukäufe` auszuwählen und bestätigen Sie mit `OK`.
 
 3. Es öffnet sich eine Liste mit Ihren Zukäufen, die Sie über den Menüpunkt Massenzugang registriert haben.
 
-4. Verwenden Sie die `An/Aus` Taste und die Pfeiltasten ◁ ▷ um zwischen der Exportdatei für DSP-Herde und HI-Tier auszuwählen. Speichern Sie ihre Einstellungen mit der Taste `F1`.
+4. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> `An/Aus` Taste und die Pfeiltasten ◁ ▷ um zwischen der Exportdatei für DSP-Herde und HI-Tier auszuwählen. Speichern Sie ihre Einstellungen mit der Taste <img src="/icons/save-return.svg" width="40" align="bottom" alt="Speichern und zurück" /> `F1`.
 
-5. Verwenden Sie die Taste `F3`. Es öffnet sich ein Untermenü.
+5. Verwenden Sie die Taste <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3`. Es öffnet sich ein Untermenü.
 
 6. Verwenden Sie die Pfeiltasten △ ▽ um `Export CSV-Meldeliste` auszuwählen und bestätigen Sie mit `OK`.
 
@@ -53,7 +53,7 @@ Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
 Mit dieser Funktion können Sie alle Tiere aus der Liste `Zukäufe` löschen ohne zuvor eine Export-Datei erstellen zu müssen.
 
-1. Verwenden Sie die Taste `F3`. Es öffnet sich ein Untermenü.
+1. Verwenden Sie die Taste <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3`. Es öffnet sich ein Untermenü.
 
 2. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Alle Meldungen löschen` aus und bestätigen Sie mit `OK`.
 
@@ -67,7 +67,7 @@ Um ein Tier und die Zugangsmeldung zu löschen gehen Sie wie folgt vor:
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, welches Sie löschen möchten.
 
-2. Verwenden Sie die Taste `F3`. Es öffnet sich ein Untermenü.
+2. Verwenden Sie die Taste <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3`. Es öffnet sich ein Untermenü.
 
 3. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Tier + Meldung löschen` aus und bestätigen Sie mit `OK`.
 
@@ -81,7 +81,7 @@ Um die Zugangsmeldung eines Tieres aus der Liste zu löschen gehen Sie wie folgt
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, welches Sie löschen möchten.
 
-2. Verwenden Sie die Taste `F3`. Es öffnet sich ein Untermenü.
+2. Verwenden Sie die Taste <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3`. Es öffnet sich ein Untermenü.
 
 3. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Zugangsmeldung löschen` aus und bestätigen Sie mit `OK`.
 

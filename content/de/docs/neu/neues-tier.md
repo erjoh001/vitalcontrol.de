@@ -27,7 +27,7 @@ Um ein neues Tier anzulegen gehen Sie wie folgt vor:
 
 6. Für die Einstellungen `Ohrmarkennummer`, `ID` und `Geburtsdatum` verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten △ ▽◁ ▷ um die gewünschten Zahlen auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
-7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste `F3` an.
+7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" /> `F3` an.
 
 {{% alert title="Hinweis" %}}
 Weitere Informationen und Einstellungsmöglichkeiten für das Anlegen neuer Tiere finden Sie [hier](../../einstellungen/tiere-neu-anlegen/).

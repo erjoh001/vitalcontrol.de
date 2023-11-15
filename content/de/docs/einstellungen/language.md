@@ -21,7 +21,7 @@ Um die Sprache auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
    ![VitalControl: Menüfolge Einstellung Sprache](../bilder/sprachwahl.png "Sprache einstellen")
 
-3. Drücken sie zweimal die linke obere Taste `F1`, um zurück ins Hauptmenü zu gelangen.
+3. Drücken sie zweimal die linke obere Taste <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" /> `F1`, um zurück ins Hauptmenü zu gelangen.
 
 Die Sprache auf ihrem Gerät ist jetzt eingestellt und dauerhaft gespeichert.
 

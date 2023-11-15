@@ -25,11 +25,11 @@ Um die `Tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
 
-4. Das Einstellungsfeld `Tägliche Zunahmen` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen. Bestätigen Sie mit `OK`. Alternativ können Sie das Stiftsymbol mit der Taste `F3` verwenden um direkt zur Bearbeitung des Roten und Gelben Bereiches zu springen.
+4. Das Einstellungsfeld `Tägliche Zunahmen` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen. Bestätigen Sie mit `OK`. Alternativ können Sie das Stiftsymbol mit der Taste <img src="/icons/edit.svg" width="25" align="bottom" alt="Einstellungen" /> `F3` verwenden um direkt zur Bearbeitung des Roten und Gelben Bereiches zu springen.
 
-5. Nutzen Sie die Pfeiltasten △ ▽ um im Roten und Gelben Bereich die gewünschte "größer gleich" g/Tag Zunahme auszuwählen. Nutzen Sie die Tasten `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Roten und Gelben Bereich zu wählen.
+5. Nutzen Sie die Pfeiltasten △ ▽ um im Roten und Gelben Bereich die gewünschte "größer gleich" g/Tag Zunahme auszuwählen. Nutzen Sie die Tasten <img src="/icons/arrow.svg" width="25" align="bottom" alt="Arrow" /> `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Roten und Gelben Bereich zu wählen.
 
-6. Sobald Sie die gewünschte "größer gleich" g/Tag Zunahme festgelegt haben, nutzen Sie den Zurück-Pfeil mit der Taste `F1` um zurück auf `Tägliche Zunahmen` zu springen oder bestätigen Sie mit `OK`.
+6. Sobald Sie die gewünschte "größer gleich" g/Tag Zunahme festgelegt haben, nutzen Sie den Zurück-Pfeil mit der Taste <img src="/icons/back.svg" width="25" align="bottom" alt="Zurück" /> `F1` um zurück auf `Tägliche Zunahmen` zu springen oder bestätigen Sie mit `OK`.
 
     ![VitalControl: Menüfolge Einstellung Tierdaten Tägliche Zunahme](../bilder/täglichezunahme2.png "Tägliche Zunahme einstellen")
 
@@ -72,7 +72,7 @@ Um die `Mittlere Tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie f
 
 ### Einstellungen speichern und zurück in das Obermenü Datenerfassung
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Datenerfassung`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Datenerfassung`.
 
 ## Tierbewertung einstellen
 
@@ -117,4 +117,4 @@ Um die Länge der Kontrolle der Frischmelker auf ihrem Gerät festzulegen gehen 
 
 ## Einstellungen speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.

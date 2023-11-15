@@ -13,7 +13,7 @@ Liegt auf ihrem Gerät eine Fehlfunktion vor, so sollten Sie in einem ersten Sch
 
 ## Hardwarediagnose durchführen
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
+1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
 
 1. Wechseln Sie ins Untermenü `Service`, wählen Sie dort den Eintrag `Prüfung Gerätetreiber` und bestätigen Sie mit `OK`.
 

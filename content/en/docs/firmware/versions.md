@@ -10,7 +10,7 @@ description: >
 
 ## Determine firmware versions installed on your device
 
-1. Open the menu item `Device` in the main screen of your VitalControl device.
+1. Open the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 
 2. Invoke the submenu `Info`, select the menu item `Software` and confirm with `OK`. A pop-up window opens which lists the software versions currently installed on your device:
 

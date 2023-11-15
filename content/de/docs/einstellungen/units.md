@@ -41,4 +41,4 @@ Um die Masseneinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 ## Speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.

@@ -27,7 +27,7 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 
 2. Scannen Sie jetzt den Transponder des Tiers ein. Alternativ können Sie das Tier auch manuell aus der Tierliste auswählen, Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Wählen Sie das Tier dann durch erneutes Drücken von `OK` aus.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/dryoff-plus.svg" width="40" align="bottom" alt="Trockenstellen" /> `Trockenstellen` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/dryoff-plus.svg" width="40" align="bottom" alt="Trockenstellen" /> `Trockenstellen` aus und bestätigen Sie mit `OK`.
 
 4. Das Tier wurde erfolgreich zur Trockensteherliste hinzugefügt.
 
@@ -47,7 +47,7 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 
 2. Scannen Sie jetzt den Transponder des Tiers ein. Alternativ können Sie das Tier auch manuell aus der Tierliste auswählen, Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Wählen Sie das Tier dann durch erneutes Drücken von `OK` aus.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/dryoff-minus.svg" width="40" align="bottom" alt="Trockenstellen" /> `Trockenstellen` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/dryoff-minus.svg" width="40" align="bottom" alt="Trockenstellen" /> `Trockenstellen` aus und bestätigen Sie mit `OK`.
 
 4. Das Tier wurde erfolgreich als laktierend markiert.
 

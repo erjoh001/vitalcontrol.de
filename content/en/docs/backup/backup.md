@@ -12,7 +12,7 @@ tags: [backup file, USB flash drive]
 
 ## Perform data backup
 
-1. Open the menu item `Device` in the main screen of your VitalControl device.
+1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 
 2. Invoke the submenu `Data management`, select the menu item `Create backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
 

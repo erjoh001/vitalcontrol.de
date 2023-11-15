@@ -12,7 +12,7 @@ slug: werkseinstellungen
 ---
 ## Durchführung eines Geräteresets
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
+1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü <img src="/icons/device.svg" width="25" align="bottom" alt="Gerät" /> `Gerät`.
 
 1. Wechseln Sie ins Untermenü `Datenmanagement`, und navigieren Sie zum untersten Menüeintrag `Reset Werkseinstellung`. Belassen Sie die dort vorgeschlagene Option `Alle Gerätedaten` unverändert.
 

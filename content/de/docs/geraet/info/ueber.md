@@ -12,7 +12,7 @@ translationKey: device/info/about
 
 Um Informationen über den Hersteller Ihres Gerätes aufzurufen, gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Gerät` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Gerät" /> `Gerät` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü mit mehreren Menüpunkten. Wählen Sie `Info` und bestätigen Sie mit `OK`.
 
