@@ -7,3 +7,6 @@ weight: 60
 description: >
   Download the latest firmware version and install it on your VitalControl device.
 ---
+#### VitalControl version 0.9.10
+
+<a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Download firmware</a>
