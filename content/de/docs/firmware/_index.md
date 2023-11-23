@@ -6,3 +6,6 @@ draft: false
 description: Neueste Firmware-Version herunterladen und auf ihrem VitalControl-Gerät einspielen.
 weight: 100
 ---
+#### VitalControl Version 0.9.10
+
+<a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Firmware herunterladen</a>
