@@ -28,7 +28,7 @@ With this action you can detach a transponder that has already been assigned to 
 
 {{< tabpane >}}
 {{< tab header="Unlink transponder:" text=true disabled=true />}}
-{{% tab header="Transponderscan" text=true %}}
+{{% tab header="Transponder scan" text=true %}}
 ![VitalControl: Menu Action Unlink transponder](../images/unlinktransponder-scan.png "Unlink transponder")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}

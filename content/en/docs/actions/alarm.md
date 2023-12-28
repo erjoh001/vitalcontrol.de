@@ -27,7 +27,7 @@ With the action `Alarm` you put animals on the alarm list or remove them from it
 
 {{< tabpane >}}
 {{< tab header="Alert:" text=true disabled=true />}}
-{{% tab header="Transponderscan" text=true %}}
+{{% tab header="Transponder scan" text=true %}}
  ![VitalControl: Menu Actions Alarm](../images/alarm-scan.png "Alarm")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}

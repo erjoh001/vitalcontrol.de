@@ -39,10 +39,10 @@ Further information and setting options for creating new animals can be found [h
 
 {{< tabpane >}}
 {{< tab header="Animal loss:" text=true disabled=true />}}
-{{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge New Animal-loss](../images/animalloss-scan.png "Record the loss of an animal")
+{{% tab header="Transponder scan" text=true %}}
+ ![VitalControl: Menu path New animal loss](../images/animalloss-scan.png "Record the loss of an animal")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menüfolge New Animal-loss](../images/animalloss.png "Record the loss of an animal")
+ ![VitalControl: Menu path New animal loss](../images/animalloss.png "Record the loss of an animal")
 {{% /tab %}}
 {{< /tabpane >}}

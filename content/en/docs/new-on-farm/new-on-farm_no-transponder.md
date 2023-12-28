@@ -27,7 +27,7 @@ In this list you will find all newly created animals with a maximum age of X day
 
 {{< tabpane >}}
 {{< tab header="New on farm, no transponder:" text=true disabled=true />}}
-{{% tab header="Transponderscan" text=true %}}
+{{% tab header="Transponder scan" text=true %}}
  ![VitalControl: Menu New on farm new on farm, no transponder](../images/notransponder-scan.png "New on farm, no transponder ")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}

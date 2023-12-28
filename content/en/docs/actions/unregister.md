@@ -30,7 +30,7 @@ The action `unregister` allows you to deregister an animal as soon as it is move
 
 {{< tabpane >}}
 {{< tab header="Unregister:" text=true disabled=true />}}
-{{% tab header="Transponderscan" text=true %}}
+{{% tab header="Transponder scan" text=true %}}
  ![VitalControl: Menu Action Unregister](../images/unregister-scan.png "Unregister an animal")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}

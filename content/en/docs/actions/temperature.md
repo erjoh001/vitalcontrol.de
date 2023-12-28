@@ -37,7 +37,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 {{< tabpane >}}
 {{< tab header="Preliminary steps:" text=true disabled=true />}}
-{{% tab header="Transponderscan" text=true %}}
+{{% tab header="Transponder scan" text=true %}}
  ![VitalControl: Menu Actions Preliminary steps](../images/firststeps-scan.png "Preliminary steps")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}

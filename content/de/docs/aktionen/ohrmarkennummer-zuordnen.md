@@ -40,9 +40,6 @@ Um einem Tier manuell eine Ohrmarkennummer zuzuweisen gehen Sie wie folgt vor:
 {{% /tab %}}
 {{< /tabpane >}}
 
-
-    ![VitalControl: Menüfolge Aktionen Ohrmarkennummer zuordnen](../bilder/zuweisung-ohrmarkennummer.png "Ohrmarkennummer zuordnen")
-
 ## Zuordnung mittels Scan einer elektronischen Ohrmarke
 
 Um einem Tier, das über eine elektronische Ohrmarke verfügt, eine Ohrmarkennummer zuzuweisen gehen Sie wie folgt vor:
