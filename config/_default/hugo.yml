@@ -5,7 +5,7 @@ title: Urban GmbH
 contentDir: content/de
 defaultContentLanguage: de
 defaultContentLanguageInSubdir: false
-# Useful when translating.
+# Useful when translating
 enableMissingTranslationPlaceholders: true
 
 enableRobotsTXT: true
@@ -49,17 +49,16 @@ markup:
     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: true
 
-# Comment out if you don't want the "print entire section" link enabled.
+# Comment out '-print' if you don't want the "print entire section" link enabled.
 outputs:
   section:
    - HTML
-#   - print
+   - print
    - RSS
 
 # hugo module configuration
 
 module:
-  # uncomment line below for temporary local development of module
   workspace: hugo.work
   mounts:
     - source: static/demo
@@ -117,6 +116,4 @@ module:
     min: 0.110.0
   imports:
     - path: github.com/google/docsy
-      disable: false
-    - path: github.com/google/docsy/dependencies
       disable: false
