@@ -6,3 +6,6 @@ description: >
   Application to synchronize data between VitalControl and third-party applications.
 weight: 10
 ---
+#### VCSynchronizer version 0.9.10
+
+<a href="/download/SetupVitalControlSynchronizer.exe" role="button" class="btn btn-primary btn-lg">Download VCSynchronizer</a>
