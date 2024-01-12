@@ -22,9 +22,9 @@ In dieser Auswertung können Sie folgende Informationen als übersichtliches Kre
 
 Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
-1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü `Auswerten` aus. Bestätigen Sie mit `OK`.
+1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü &nbsp;<img src="/icons/evaluate.svg" width="40" align="bottom" alt="Auswerten" />&nbsp; `Auswerten` aus. Bestätigen Sie mit `OK`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Bewertung` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/ratingevaluate.svg" width="40" align="bottom" alt="Bewertung" />&nbsp; `Bewertung` und bestätigen Sie mit `OK`.
 
 3. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 

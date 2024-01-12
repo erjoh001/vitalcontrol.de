@@ -18,13 +18,13 @@ Achten Sie unbedingt darauf, dass Datum- und Uhrzeit korrekt eingestellt sind. A
 
 Um das Datum auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Datum & Uhrzeit` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Datum` und `Uhrzeit` wechseln können. Wählen Sie das Einstellungsfeld `Datum` aus.
 
-4. Drücken Sie die Taste `OK` oder verwenden Sie die Taste `F3` um in den Einstellungsmodus umzuschalten. Nun können Sie den Tag mittels der Pfeile △ ▽ einstellen. Über den Button `F3` gelangen Sie zu der Monatseinstellung. Alternativ können Sie mit `OK` bestätigen. Verwenden Sie auch hier die Pfeiltasten △ ▽. Klicken Sie ein weiteres mal `F3` um zu Jahreseinstellung zu gelangen. Verwenden Sie auch hier die Pfeiltasten △ ▽. Bestätigen Sie mit `Ok` sobald das Datum korrekt eingestellt ist.
+4. Drücken Sie die Taste `OK` oder verwenden Sie die Taste `F3` <img src="/icons/edit.svg" width="25" align="bottom" alt="Einstellungen" /> um in den Einstellungsmodus umzuschalten. Nun können Sie den Tag mittels der Pfeile △ ▽ einstellen. Über den Button `F3` gelangen Sie zu der Monatseinstellung. Alternativ können Sie mit `OK` bestätigen. Verwenden Sie auch hier die Pfeiltasten △ ▽. Klicken Sie ein weiteres mal <img src="/icons/arrow.svg" width="25" align="bottom" alt="Pfeil" /> `F3` um zu Jahreseinstellung zu gelangen. Verwenden Sie auch hier die Pfeiltasten △ ▽. Bestätigen Sie mit `Ok` sobald das Datum korrekt eingestellt ist.
 
     ![VitalControl: Menüfolge Einstellung Datum](../bilder/date.png "Datum einstellen")
 
@@ -36,16 +36,16 @@ Wird das Gerät länger als eine Woche nicht genutzt, werden Sie beim nächsten 
 
 Um die Uhrzeit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Datum & Uhrzeit` auszuwählen. Bestätigen Sie mit `OK`.
 
 3. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ zwischen den beiden Einstellungsfeldern für `Datum` und `Uhrzeit` wechseln können. Wählen Sie das Einstellungsfeld `Uhrzeit` aus.
 
-4. Drücken Sie die Taste `OK` oder verwenden Sie die Taste `F3` um in den Einstellungsmodus umzuschalten. Nun können Sie den Tag mittels der Pfeile △ ▽ einstellen. Über den Button `F3` gelangen Sie zu der Minuteneinstellung. Alternativ können Sie mit `OK` bestätigen. Verwenden Sie auch hier die Pfeiltasten △ ▽. Bestätigen Sie mit `Ok` sobald die Uhrzeit korrekt eingestellt ist.
+4. Drücken Sie die Taste `OK` oder verwenden Sie die Taste `F3` <img src="/icons/edit.svg" width="25" align="bottom" alt="Einstellungen" /> um in den Einstellungsmodus umzuschalten. Nun können Sie den Tag mittels der Pfeile △ ▽ einstellen. Über den Button <img src="/icons/arrow.svg" width="25" align="bottom" alt="Pfeil" />  `F3` gelangen Sie zu der Minuteneinstellung. Alternativ können Sie mit `OK` bestätigen. Verwenden Sie auch hier die Pfeiltasten △ ▽. Bestätigen Sie mit `Ok` sobald die Uhrzeit korrekt eingestellt ist.
 
     ![VitalControl: Menüfolge Einstellung Uhrzeit](../bilder/time.png "Uhrzeit einstellen")
 
 ## Speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" />  `F1` Taste zurück in das Obermenü `Einstellungen`.

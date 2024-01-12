@@ -30,9 +30,9 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 ### Preliminary Steps
 
-1. Select the `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Select the <img src="/icons/listen.svg" width="25" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
-2. A submenu opens in which various lists are displayed. Select the `dry cows` list. Confirm with `OK`.
+2. A submenu opens in which various lists are displayed. Select the <img src="/icons/drycows.svg" width="25" align="bottom" alt="Dry-Cows" /> `dry cows` list. Confirm with `OK`.
 
 3. The dry cows list is now open.
 
@@ -42,16 +42,16 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `calving` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `calving` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
 4. You will now be asked to scan the mother animal's transponder. Alternatively, you can also confirm with `OK` and enter the animal ID with the arrow keys △ ▽ ◁ ▷.
 
-5. Now scan the calf's transponder or skip this step with the 'F3' ESC key if the calf does not yet have a transponder. You can later assign this to the animal using the `transponder number` function.
+5. Now scan the calf's transponder or skip this step with the <img src="/icons/break.svg" width="25" align="bottom" alt="Break" /> `F3` key if the calf does not yet have a transponder. You can later assign this to the animal using the `transponder number` function.
 
 6. Another settings menu opens in which you can save various details about the new calf. Use the arrow keys △ ▽ to select the appropriate setting option. For the setting options `Type of animal`, `Sex`, `Birth weight`, `Breed`, `Whereabouts`, `Multiples` and `Calving ease` use the arrow keys △ ▽ to select the desired setting. For the setting options `National animal ID`, `ID` and `Date of birth` select the corresponding setting option and confirm with `OK`. Now use the arrow keys △ ▽ ◁ ▷ to select the desired numbers.
 
-7. Save the settings with the `F3` key.
+7. Save the settings with the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F3` key.
 
    ![VitalControl Lists Dry cows list](../images/calving.png "Calving")

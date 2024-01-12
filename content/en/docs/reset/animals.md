@@ -8,7 +8,7 @@ categories: [Reset]
 ---
 ## Erasing all animal data from device
 
-1. Open the menu item `Device` in the main screen of your VitalControl device.
+1. Open the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 
 1. Invoke the submenu `Data management`, navigate to the menu entry `Factory reset`. Select the option `Animal data only` in this menu.
 

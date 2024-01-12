@@ -30,9 +30,9 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 ### Vorbereitende Schritte
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Listen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/listen.svg" width="25" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste `Frischmelker` aus. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste <img src="/icons/freshcows.svg" width="25" align="bottom" alt="Frischmelker" /> `Frischmelker` aus. Bestätigen Sie mit `OK`.
 
 3. Die Frischmelkerliste ist nun geöffnet.
 
@@ -42,7 +42,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Alarmstatus ändern` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
+2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Alarmstatus ändern` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
 
 3. Wählen Sie innerhalb der Frischmelkerliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -54,7 +54,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Status Beobachtung umkehren` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
+2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Status Beobachtung umkehren` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
 
 3. Wählen Sie innerhalb der Frischmelkerliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -68,7 +68,7 @@ Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine Messung der T
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `gemessene ausblenden` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
+2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `gemessene ausblenden` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
 
 3. Die Funktion `gemessene ausblenden` ist nun aktiviert. Die Aktivierung wird durch ein Häkchen in dem Kasten verdeutlicht.
 

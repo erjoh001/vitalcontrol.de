@@ -14,7 +14,7 @@ Using the menu 'Range test' you can determine whether VitalControl device can re
 
 ## Perform range test
 
-1. Open the menu item `Device` in the main screen of your VitalControl device.
+1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 
 1. Invoke the submenu `Service`, select the menu item `Range test` and confirm with `OK`. An animated scan screen is displayed now.
 

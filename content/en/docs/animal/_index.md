@@ -15,9 +15,9 @@ translationKey: animal/animal
 
 The individual animal function allows you to view important information about weight, temperature and rating for each individual animal. You always have the option of displaying the information as a graphic or as a list. To use the single animal function, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item `Animal` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item <img src="/icons/einzeltier.svg" width="25" align="bottom" alt="Animal" /> `Animal` and press the `OK` button.
 
-2. An overview of the most important animal information opens. The upper edge of the screen shows you which animal you are currently viewing. Use the `F3` key to choose between animal information, temperature, weight and rating.
+2. An overview of the most important animal information opens. The upper edge of the screen shows you which animal you are currently viewing. Use the `F3` key to choose between animal information <img src="/icons/information.svg" width="25" align="bottom" alt="Infos" />, temperature <img src="/icons/temperatur.svg" width="25" align="bottom" alt="Temperature" />, weight  <img src="/icons/kg.svg" width="25" align="bottom" alt="Weight" /> and rating <img src="/icons/auge.svg" width="25" align="bottom" alt="Rating" />.
 
  ![VitalControl: Menu Animal](images/list.png "Display as a list")
 
@@ -28,7 +28,7 @@ You can also switch between the individual animals at any time using the arrow k
 
 ### Set graphical view
 
-1. Use the `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
+1. Use the <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Graphical view" /> `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
 
 2. Select `Graphical view` with the arrow keys △ ▽ and confirm with `OK`.
 
@@ -36,7 +36,7 @@ You can also switch between the individual animals at any time using the arrow k
 
 ### Search animal
 
-1. Use the `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
+1. Use the <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Graphical view" /> `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
 
 2. Select `Search animal` with the arrow keys △ ▽ and confirm with `OK`.
 
@@ -46,7 +46,7 @@ You can also switch between the individual animals at any time using the arrow k
 
 ### Set filter
 
-1. Use the `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
+1. Use the <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Graphical view" /> `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
 
 2. Select `Set filter` with the arrow keys △ ▽ and confirm with `OK`.
 You can find out how to use the filter [here](../filter).

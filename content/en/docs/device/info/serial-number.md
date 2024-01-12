@@ -11,7 +11,7 @@ description: >
 
 To retrieve the serial number of your device, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item `Device` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `Device` and press the `OK` button.
 
 2. A submenu opens with several menu items. Select `Info` and confirm with `OK`.
 

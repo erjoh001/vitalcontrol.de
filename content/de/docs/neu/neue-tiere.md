@@ -23,7 +23,7 @@ Um mehrere neue Tiere anzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Neu` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt `Neue Tiere` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/neueTiere.svg" width="35" align="bottom" alt="Neue Tiere" /> `Neue Tiere` und bestätigen Sie mit `OK`.
 
 3. Scannen Sie entweder den Transponder des Tieres ein oder verwenden Sie die Taste `F3` ESC um ohne einen eingescannten Transponder fortzufahren. Diese Funktion können Sie verwenden, wenn das Tier aktuell keinen Transponder besitzt. Diesen können Sie nachträglich einlesen und dem Tier zuordnen.
 
@@ -33,7 +33,7 @@ Um mehrere neue Tiere anzulegen gehen Sie wie folgt vor:
 
 6. Für die Einstellungen `Ohrmarkennummer` und `ID des ersten Tieres` verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten  △ ▽◁ ▷ um die gewünschten Zahlen auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
-7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste `F3` an.
+7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste <img src="/icons/save-return.svg" width="35" align="bottom" alt="Speichern und Zurück" /> `F3` an.
 
 {{% alert title="Hinweis" %}}
 Weitere Informationen und Einstellungsmöglichkeiten für das Anlegen neuer Tiere finden Sie [hier](../../einstellungen/tiere-neu-anlegen/).

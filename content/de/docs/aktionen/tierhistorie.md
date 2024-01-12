@@ -16,19 +16,19 @@ Die Tierhistorie gibt Ihnen einen Überblick über die bisher erfassten Daten un
 
 Um die Tierhistorie einzusehen gehen Sie wie folgt vor:
 
-1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1.  Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/history.svg" width="35" align="bottom" alt="Tierhistorie" /> `Tierhistorie` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/history.svg" width="35" align="bottom" alt="Tierhistorie" /> `Tierhistorie` aus und bestätigen Sie mit `OK`.
 
-4. Nun wird Ihnen die zuletzt eingestellte Information dargestellt. Verwenden Sie die Taste `F3` um das Einstellungsmenü für die Informationen zu öffnen.
+4. Nun wird Ihnen die zuletzt eingestellte Information dargestellt. Verwenden Sie die Taste &nbsp;<img src="/icons/animalhistoriesettings.svg" width="40" align="bottom" alt="Darstellung" />  `F3` um das Einstellungsmenü für die Informationen zu öffnen.
 
 5. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Information auszuwählen. Bestätigen Sie mit der Taste `F3` oder mit der Taste `OK`.
 
 6. Die ausgewählte Information wird Ihnen dargestellt.
 
-7. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/chart.svg" width="35" align="bottom" alt="Tierhistorie" />  um zwischen der Darstellungsform `Tabelle` oder `Diagramm` zu wechseln.
+7. Verwenden Sie die  &nbsp;<img src="/icons/graphik.svg" width="40" align="bottom" alt="Darstellung" /> `An/Aus` Taste um zwischen der Darstellungsform Tabelle &nbsp;<img src="/icons/tabelle.svg" width="40" align="bottom" alt="Darstellung" /> oder Diagramm &nbsp;<img src="/icons/graphik.svg" width="40" align="bottom" alt="Darstellung" />zu wechseln.
 
 {{< tabpane >}}
 {{< tab header="Beobachtung:" text=true disabled=true />}}

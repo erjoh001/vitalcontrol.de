@@ -21,7 +21,7 @@ Um den Verlust eines Tieres zu erfassen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Neu` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü. Navigieren Sie mit den Pfeiltasten ◁ ▷ △ ▽ zum Menüpunkt `Tierverlust` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü. Navigieren Sie mit den Pfeiltasten ◁ ▷ △ ▽ zum Menüpunkt <img src="/icons/animalloss.svg" width="35" align="bottom" alt="Tierverlust" /> `Tierverlust` und bestätigen Sie mit `OK`.
 
 3. Scannen sie entweder den Transponder des Muttertieres ein oder verwenden sie die Taste `OK`. Geben Sie mit den Pfeiltasten ◁ ▷ △ ▽ die ID des Muttertieres ein und bestätigen Sie mit `OK`.
 
@@ -31,7 +31,7 @@ Um den Verlust eines Tieres zu erfassen gehen Sie wie folgt vor:
 
 6. Für die Einstellung `Geburtsdatum` verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten  △ ▽◁ ▷ um die gewünschten Zahlen auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
-7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste `F3` `Speichern` an.
+7. Speichern Sie die Einstellungen und legen Sie das neue Tier mit der Taste <img src="/icons/speichern-weiter.svg" width="35" align="bottom" alt="Speichern und weiter" />  `F3` an.
 
 {{< tabpane >}}
 {{< tab header="Verlust eines Tieres erfassen:" text=true disabled=true />}}

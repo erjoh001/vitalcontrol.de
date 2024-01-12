@@ -26,7 +26,7 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 
 ### Vorbereitende Schritte
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Herde` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/herde.svg" width="25" align="bottom" alt="Herde" /> `Herde` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich die Herdenübersicht.
 
@@ -36,7 +36,7 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Tierdaten` aus und bestätigen Sie mit `OK`.
+2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" /> `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Tierdaten` aus und bestätigen Sie mit `OK`.
 
 3. Es werden Ihnen nun die Tierdaten angezeigt.
 
@@ -52,7 +52,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Temperatur` aus und bestätigen Sie mit `OK`.
+2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" />  `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Temperatur` aus und bestätigen Sie mit `OK`.
 
 3. Es werden Ihnen nun die Temperaturdaten angezeigt.
 
@@ -64,7 +64,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Bewertung` aus und bestätigen Sie mit `OK`.
+2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" />  `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Bewertung` aus und bestätigen Sie mit `OK`.
 
 3. Es werden Ihnen nun die Bewertungsdaten angezeigt.
 
@@ -76,7 +76,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Gewicht` aus und bestätigen Sie mit `OK`.
+2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" />  `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Gewicht` aus und bestätigen Sie mit `OK`.
 
 3. Es werden Ihnen nun die Gewichtsdaten angezeigt.
 
@@ -88,7 +88,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Tier suchen` aus und bestätigen Sie mit `OK`. Alternativ können Sie direkt nach Schritt eins die `An/Aus` Taste verwenden.
+2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" />  `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Tier suchen` aus und bestätigen Sie mit `OK`. Alternativ können Sie direkt nach Schritt eins die <img src="/icons/lupe.svg" width="25" align="bottom" alt="Suchen" /> `An/Aus` Taste verwenden.
 
 3. Verwenden Sie die Pfeiltasten △ ▽ ◁ ▷ um die gewünschte Tiernummer einzugeben und bestätigen Sie mit `OK`.
 
@@ -98,7 +98,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Filter setzen` aus und bestätigen Sie mit `OK`.
+2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" />  `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Filter setzen` aus und bestätigen Sie mit `OK`.
 
 3. Wie Sie den Filter anwenden finden Sie [hier](../filter).
 
@@ -112,7 +112,7 @@ Diese Einstellungsmöglichkeit können Sie nur verwenden, wenn Sie sich die `Tie
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ zwischen `Geschlecht & Typ` oder `Ohrmarkennummer` aus und bestätigen Sie mit `OK`.
+2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" /> `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ zwischen `Geschlecht & Typ` oder `Ohrmarkennummer` aus und bestätigen Sie mit `OK`.
 
 3. Es wird Ihnen die gewählte Spalteninformation angezeigt.
 
@@ -128,6 +128,6 @@ Sie haben jederzeit die Möglichkeit das Aktionsmenü für ein Tier aufzurufen.
 
 3. Das Aktionsmenü ist nun geöffnet. Wie Sie dieses anwenden finden Sie [hier](../aktionen).
 
-4. Kehren Sie durch Drücken der Taste `F3` zurück zur Herdenliste.
+4. Kehren Sie durch Drücken der Taste <img src="/icons/back.svg" width="25" align="bottom" alt="Zurück" /> `F3` zurück zur Herdenliste.
 
     ![VitalControl: Menüfolge Herde](bilder/aktionenaufrufen.png "Aktionen aufrufen")

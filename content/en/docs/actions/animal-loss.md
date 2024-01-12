@@ -15,7 +15,7 @@ translationKey: actions/animal-loss
 
 The action `animal loss` allows you to register an animal loss. To register an animal loss, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item `Actions` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 

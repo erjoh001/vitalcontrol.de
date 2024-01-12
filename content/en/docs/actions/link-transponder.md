@@ -18,11 +18,11 @@ This action is not enabled by default! Activate this as described in [action set
 
 With this action you can assign a transponder to an animal that has not yet been assigned a transponder.
 
-1. On the main screen of your VitalControl device, select the menu item `Action` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` and press the `OK` button.
 
 2. Select the desired animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action `link transponder` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/link-transponder.svg" width="40" align="bottom" alt="Link transponder" /> `link transponder` and confirm with `OK`.
 
 4. Now scan the transponder that you want to assign to the animal.
 

@@ -23,7 +23,7 @@ To create several new animals, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
 
-2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item `New animals` and confirm with `OK`.
+2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/neueTiere.svg" width="35" align="bottom" alt="New animals" /> `New animals` and confirm with `OK`.
 
 3. Either scan the animal's transponder or use the `F3` ESC key to continue without a scanned transponder. You can use this function if the animal does not yet have a transponder. You can scan this later and assign it to the animal.
 
@@ -33,7 +33,7 @@ To create several new animals, proceed as follows:
 
 6. For the settings `national animal ID`and `ID of first animal` use the arrow keys △ ▽ to select the desired setting option and confirm with `OK`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `OK`.
 
-7. Save the settings and create the new animal with the `F3` key.
+7. Save the settings and create the new animal with the <img src="/icons/save-return.svg" width="35" align="bottom" alt="Save and return" /> `F3` key.
 
 {{% alert title="Hint" %}}
 Further information and setting options for creating new animals can be found [here](../../settings/animal-registration/).

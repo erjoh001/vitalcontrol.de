@@ -30,9 +30,9 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 ### Vorbereitende Schritte
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Listen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/listen.svg" width="25" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste `Aktion` aus. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste <img src="/icons/actionlist.svg" width="25" align="bottom" alt="Aktion" />  `Aktion` aus. Bestätigen Sie mit `OK`.
 
 3. Die Aktionsliste ist nun geöffnet.
 
@@ -42,7 +42,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier wiegen` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
+2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" />  `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier wiegen` aus und bestätigen Sie mit Taste <img src="/icons/save.svg" width="25" align="bottom" alt="Speichern" /> `F3` oder mit `OK`.
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -54,7 +54,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Aktionskette` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
+2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Aktionskette` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -68,7 +68,7 @@ Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem A
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Transponder zuordnen` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
+2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Transponder zuordnen` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" />  `F3` oder mit `OK`.
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -82,7 +82,7 @@ Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine überfällige
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `nach Aktion ausblenden` aus und bestätigen Sie mit Taste `F3` oder mit `OK`.
+2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `nach Aktion ausblenden` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" />  `F3` oder mit `OK`.
 
 3. Die Funktion `nach Aktion ausblenden` ist nun aktiviert. Die Aktivierung wird durch ein Häkchen in dem Kasten verdeutlicht.
 

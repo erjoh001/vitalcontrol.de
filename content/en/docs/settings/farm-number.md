@@ -17,7 +17,7 @@ Entering the farm number is currently of interest for German farmers only. Farme
 
 To set the company number on your device, proceed as follows:
 
-1. Open the menu item `Settings` in the main screen of your VitalControl device.
+1. Open the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` in the main screen of your VitalControl device.
 
 2. Invoke the submenu `Farm number`. An input mask appears in which you can conveniently set your farm number. First, use the arrow keys to navigate to the far left of the input field and select your country. Afterwards, use the arrow keys to enter your twelve-digit farm number.
 

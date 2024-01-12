@@ -11,7 +11,7 @@ description: >
 
 ## Firmware-Versionen ihres Geräts ermitteln
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Gerät`.
+1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Gerät`.
 
 2. Wechseln Sie ins Untermenü `Info`, wählen Sie dort den Eintrag `Software` und bestätigen Sie mit `OK`. Es öffnet sich ein Popup-Fenster, in dem die aktuell auf ihrem Gerät aufgespielten Software-Versionen angezeigt werden:
 

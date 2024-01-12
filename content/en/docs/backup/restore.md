@@ -18,7 +18,7 @@ Inside the directory `backup` of your USB flash drive, you may find several back
 
 ## Data restoration to VitalControl device
 
-1. Open the menu item `Device` in the main screen of the VitalControl device to which you want to restore the data.
+1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of the VitalControl device to which you want to restore the data.
 
 2. Invoke the submenu `Data management`, select the menu item `Restore backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
 

@@ -18,11 +18,11 @@ Diese Aktion ist standardmäßig deaktiviert! Um diese Aktion nutzen zu können,
 
 Mit dieser Aktion können Sie einen Transponder, der bereits einem Tier zugeordnet wurde, von diesem Tier lösen.
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder das Tier mit dem gewünschten Transponders ein oder wählen Sie das Tier mit dem Transponder aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion `Transponder abnehmen` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/unlink-transponder.svg" width="40" align="bottom" alt="Transponder abnehmen" /> `Transponder abnehmen` aus und bestätigen Sie mit `OK`.
 
 4. Der Transponder wurde erfolgreich von dem Tier gelöst.
 

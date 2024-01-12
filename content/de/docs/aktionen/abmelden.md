@@ -16,15 +16,15 @@ Sobald Sie den Tierdatensatz löschen steht er Ihnen nicht mehr zu Auswertungszw
 
 Die Aktion `Abmelden` ermöglicht es Ihnen ein Tier abzumelden sobald es ausgestallt wird. Um ein Tier abzumelden gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Aktionen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/unregister.svg" width="35" align="bottom" alt="Abmelden" /> `Abmelden` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/unregister.svg" width="40" align="bottom" alt="Abmelden" /> `Abmelden` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein weiteres Untermenü in dem Sie verschiedene Einstellungen speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
-5. Verwenden Sie die Taste `F3` um das Tier mit den festgelegten Einstellungen abzumelden.
+5. Verwenden Sie die Taste &nbsp;<img src="/icons/unregisterword.svg" width="40" align="bottom" alt="Abmelden" /> `F3` um das Tier mit den festgelegten Einstellungen abzumelden.
 
 {{< tabpane >}}
 {{< tab header="Ein Tier abmelden:" text=true disabled=true />}}

@@ -15,7 +15,7 @@ translationKey: settings/device
 
 Um die Zeitspanne der nicht Aktivität bis zum Abschalten des Gerätes einzustellen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -29,7 +29,7 @@ Um die Zeitspanne der nicht Aktivität bis zum Abschalten des Gerätes einzustel
 
 Hier legen Sie fest welche Anwendung das Gerät nach dem Starten als erstes Anzeigt. Um den Startbildschirm des Gerätes einzustellen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -44,7 +44,7 @@ Hier legen Sie fest welche Anwendung das Gerät nach dem Starten als erstes Anze
 Ist der Präsentationsmodus gewählt, simuliert das Gerät die Temperaturmessungen und zeigt eine per Zufallsgenerator generierte Temperatur als Messwert an. Dieser Modus dient der Gerätevorführung
 wenn keine Tiere für eine Messung zur Verfügung stehen. Um den Präsentationsmodus des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -58,7 +58,7 @@ wenn keine Tiere für eine Messung zur Verfügung stehen. Um den Präsentationsm
 
 Um die Helligkeit des Displays ihres Gerätes einzustellen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -72,7 +72,7 @@ Um die Helligkeit des Displays ihres Gerätes einzustellen gehen Sie wie folgt v
 
 Um die Vibration bei Tastendruck des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -86,7 +86,7 @@ Um die Vibration bei Tastendruck des Gerätes zu de- bzw. aktivieren gehen Sie w
 
 Um den Ressourcenmonitor des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten  △ ▽  um `Gerät` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -98,5 +98,5 @@ Um den Ressourcenmonitor des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt
 
 ## Speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.
 

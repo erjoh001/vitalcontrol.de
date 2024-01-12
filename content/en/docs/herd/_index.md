@@ -26,7 +26,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
 ### Preparatory steps
 
-1. On the main screen of your VitalControl device, select the menu item `Herd` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item <img src="/icons/herde.svg" width="25" align="bottom" alt="Herd" /> `Herd` and press the `OK` button.
 
 2. Your herd overview opens.
 
@@ -36,7 +36,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Animal data` and confirm with `Ok`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" />  `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Animal data` and confirm with `Ok`.
 
 3. The animal data will now be displayed.
 
@@ -52,7 +52,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Temperature` and confirm with `Ok`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" /> `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Temperature` and confirm with `Ok`.
 
 3. The temperature data will now be displayed.
 
@@ -64,7 +64,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Rating` and confirm with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" /> `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Rating` and confirm with `OK`.
 
 3. The rating data will now be displayed.
 
@@ -76,7 +76,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Weight` and confirm with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" /> `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Weight` and confirm with `OK`.
 
 3. The weight data will now be displayed.
 
@@ -88,7 +88,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Search animal` and confirm with `OK`. Alternatively, you can use the `On/Off` button immediately after step one.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" /> `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Search animal` and confirm with `OK`. Alternatively, you can use the <img src="/icons/lupe.svg" width="25" align="bottom" alt="Search" /> `On/Off` button immediately after step one.
 
 3. Use the arrow keys △ ▽ ◁ ▷ to enter the desired animal number and confirm with `OK`.
 
@@ -98,7 +98,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Set filter` and confirm with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" /> `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Set filter` and confirm with `OK`.
 
 3. How to apply the filter can be found [here](..).
 
@@ -112,7 +112,7 @@ You can only use this setting option if you display the `animal data`!
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select between `sex + type` or `eartag` and confirm with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" /> `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select between `sex + type` or `eartag` and confirm with `OK`.
 
 3. The selected column information is displayed.
 

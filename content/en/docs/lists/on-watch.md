@@ -42,9 +42,9 @@ The alarm list is structured as follows:
 
 ### Preliminary Steps
 
-1. Select the `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Select the <img src="/icons/listen.svg" width="25" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
-2. A submenu opens in which various lists are displayed. Select the `on watch` list. Confirm with `OK`.
+2. A submenu opens in which various lists are displayed. Select the <img src="/icons/onwatch.svg" width="25" align="bottom" alt="On-Watch" /> `on watch` list. Confirm with `OK`.
 
 3. The on watch list is now open.
 
@@ -54,7 +54,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `remove from watch list` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `remove from watch list` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -66,7 +66,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `toggle alarm status` and confirm with the `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `toggle alarm status` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
 
 3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 

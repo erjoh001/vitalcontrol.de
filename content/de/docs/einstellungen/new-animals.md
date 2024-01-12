@@ -16,7 +16,7 @@ translationKey: settings/new-animals
 
 Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb erfasst und abgespeichert wird. Um das Erfasste Gewicht auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -38,7 +38,7 @@ Anhand der dort hinterlegten Altersangabe berechnet das Gerät das Geburtsdatum,
 
 Um das Alter beim Anlegen einzustellen verfahren Sie wie folgt:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`
 
@@ -54,7 +54,7 @@ Um das Alter beim Anlegen einzustellen verfahren Sie wie folgt:
 
 Hier definieren Sie, welches Geschlecht beim Anlegen neuer Tiere in Ihrem Betrieb vorgeschlagen (manuelles Anlegen) bzw. automatisch übernommen wird (Anlegen im Hintergrund). Um das Geschlecht beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -70,7 +70,7 @@ Hier definieren Sie, welches Geschlecht beim Anlegen neuer Tiere in Ihrem Betrie
 
 Hier definieren Sie welche Art des Nutztieres beim Anlegen neuer Tiere in Ihrem Betrieb erfasst wird. Um die Art des Nutztieres beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -86,7 +86,7 @@ Hier definieren Sie welche Art des Nutztieres beim Anlegen neuer Tiere in Ihrem 
 
 Hier definieren Sie welche Rasse des Nutztieres beim Anlegen neuer Tiere in ihrem Betrieb erfasst wird. Um die Rasse beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -102,7 +102,7 @@ Hier definieren Sie welche Rasse des Nutztieres beim Anlegen neuer Tiere in ihre
 
 Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zugeordnet wird. Um den Verbleib des Nutztieres beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -117,7 +117,7 @@ Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zug
 
 ### Speichern und zurück zum Obermenü Tiere neu anlegen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
 
 ## Tiere automatisch anlegen
 Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl-Gerät noch unbekannter Transponder eingescannt wird. Für diesem Fall könnten drei verschiedene Verhaltensweisen definiert werden.
@@ -128,7 +128,7 @@ Beim vom Nutzer bestätigten Anlegen von Tieren erscheint ein Eingabebildschirm,
 
 Um die Verhaltensweise beim Automatischen anlegen des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -147,7 +147,7 @@ Wählen Sie die Option „Fortlaufend“, wenn die von Ihnen zur visuellen Ident
 
 Um die Vergabe der Tiernummern beim Anlegen des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -157,7 +157,7 @@ Um die Vergabe der Tiernummern beim Anlegen des Nutztieres auf ihrem Gerät fest
 
 5. Nutzen Sie die Pfeiltasten ◁ ▷ um die Vergabe der Tiernummer des Nutztieres beim Anlegen einzustellen.
 
-6. Wählen Sie die Einstellung `Fortlaufend` haben Sie die Möglichkeit die `Nächste Tiernummer` festzulegen. Nutzen Sie dafür die Pfeiltasten △ ▽ um den Bereich `Nächste Tiernummer` auszuwählen und bestätigen Sie mit `OK`. Navigieren Sie mittels der Pfeiltasten ◁ ▷ innerhalb des Bereiches. Nun können Sie mit den Pfeiltasten △ ▽ eine Zahl auswählen. Das Gerät verwendet diese Nummer nun automatisch um ab dort die Fortlaufende Zählung zu beginnen. Des Weiteren können Sie einstellen ob die Nummern Fortlaufend steigend oder Fortlaufend sinkend gezählt werden sollen. Dafür nutzen Sie die Pfeiltasten ◁ ▷ um auf das Symbol 9/1 zu gelangen. Mittels der Pfeiltasten  △ ▽ können Sie umstellen zwischen Fortlaufend steigend oder Fortlaufend sinkend zählen. Speichern Sie die Einstellungen mittels der `F1` oder `OK` Taste.
+6. Wählen Sie die Einstellung `Fortlaufend` haben Sie die Möglichkeit die `Nächste Tiernummer` festzulegen. Nutzen Sie dafür die Pfeiltasten △ ▽ um den Bereich `Nächste Tiernummer` auszuwählen und bestätigen Sie mit `OK`. Navigieren Sie mittels der Pfeiltasten ◁ ▷ innerhalb des Bereiches. Nun können Sie mit den Pfeiltasten △ ▽ eine Zahl auswählen. Das Gerät verwendet diese Nummer nun automatisch um ab dort die Fortlaufende Zählung zu beginnen. Des Weiteren können Sie einstellen ob die Nummern Fortlaufend steigend oder Fortlaufend sinkend gezählt werden sollen. Dafür nutzen Sie die Pfeiltasten ◁ ▷ um auf das Symbol 9/1 zu gelangen. Mittels der Pfeiltasten  △ ▽ können Sie umstellen zwischen Fortlaufend steigend oder Fortlaufend sinkend zählen. Speichern Sie die Einstellungen mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` oder `OK` Taste.
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Vergabe Tiernummern](../bilder/vergabetiernummern.png "Vergabe Tiernummern einstellen")
 
@@ -172,7 +172,7 @@ Nur bei Nutzung der Option „Fortlaufend“: wenn Sie eingestellt haben, dass S
 
 Hier definieren Sie, welche Länge eine von der Transpondernummer abgeleitete Stallnummer für ein neues Tier in Ihrem Betrieb hat. Die mögliche Wertebereich reicht von 2 bis 6 Ziffern. Um die Länge der neuen ID des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -194,7 +194,7 @@ führt unmittelbar zu einer Aktualisierung der abgeleiteten Stallnummer.
 
 Um das Offset rechts des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -208,13 +208,13 @@ Um das Offset rechts des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie f
 
 ### Speichern und zurück zum Obermenü Tiere neu anlegen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
 
 ## Zuordnung Ohrmarkennummern einstellen
 
 Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuellen Neu-Anmeldens von Tieren ein oder zwei Nummernbereiche verwendet werden. Um die Zuordnung der Ohrmarkennummer des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Tiere neu anzulegen` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -226,8 +226,8 @@ Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuel
 
 ## Speichern und zurück zum Obermenü Tiere neu anlegen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
 
 ## Speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.

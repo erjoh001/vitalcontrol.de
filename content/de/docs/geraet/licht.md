@@ -15,10 +15,10 @@ translationKey: device/flashlight
 
 Hier können Sie das Licht iim Kopfteil Ihres VitalControl-Geräts aktivieren bzw. deaktivieren. Aktivieren Sie das Licht, leuchtet es dauerhaft.
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Gerät` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Gerät" /> `Gerät` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü mit mehreren Menüpunkten. Wählen Sie `Licht` und bestätigen Sie mit `OK` oder verwenden Sie die Taste `F3`.
+2. Es öffnet sich ein Untermenü mit mehreren Menüpunkten. Wählen Sie `Licht` und bestätigen Sie mit `OK` oder verwenden Sie die Taste `F3` (An).
 
-3. Das Licht ist nun aktiviert. Diese Einstellung wird durch einen gelben Kreis symbolisiert. Bestätigen Sie erneut mit `OK` oder verwenden Sie die Taste `F3` um das Licht zu deaktivieren.
+3. Das Licht ist nun aktiviert. Diese Einstellung wird durch einen gelben Kreis symbolisiert. Bestätigen Sie erneut mit `OK` oder verwenden Sie die Taste `F3` (Aus) um das Licht zu deaktivieren.
 
    ![VitalControl: Menüfolge Gerät Licht](../bilder/licht.png "Licht aktivieren und deaktivieren")

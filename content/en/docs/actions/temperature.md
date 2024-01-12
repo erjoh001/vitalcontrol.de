@@ -27,11 +27,11 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 ### Preliminary steps
 
-1. In the main screen of your VitalControl device, select the menu item `Actions` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. The `Temperature` action is automatically selected. Confirm with `OK`.
+3. A submenu with the animal actions opens. The <img src="/icons/temperature.svg" width="10" align="bottom" alt="Temperature" />  `Temperature` action is automatically selected. Confirm with `OK`.
 
 4. Now carry out the measurement. As soon as the measurement is completed, the temperature is highlighted in blue, green, yellow or red, depending on the threshold set.
 
@@ -49,7 +49,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key or confirm with `OK` to save the result.
+2. Use the `F3` <img src="/icons/save.svg" width="25" align="bottom" alt="Save" /> key or confirm with `OK` to save the result.
 
     ![VitalControl: Menu Actions Save results](../images/saveresults.png "Save results")
 
@@ -57,7 +57,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `On/Off` button.
+2. Use the `On/Off` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Settings" /> button.
 
 3. A submenu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` and `Flashlight`. Use the arrow keys △ ▽ to select `Add to Watch List` and press `F3` or confirm with `OK`.
 
@@ -67,7 +67,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `On/Off` button.
+2. Use the `On/Off` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Settings" /> button.
 
 3. A submenu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` and `Flashlight`. Use the arrow keys △ ▽ to select `Flashlight` and press the `F3` key or confirm with `OK`.#
 
@@ -77,7 +77,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `On/Off` button.
+2. Use the `On/Off` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Settings" /> button.
 
 3. A submenu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` and `Flashlight`. Use the arrow keys △ ▽ to select `Repeat measurement` and press the `F3` key or confirm with `OK`.
 
@@ -87,7 +87,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Press the `F1` key to cancel the action.
+2. Press the `F1` <img src="/icons/break.svg" width="25" align="bottom" alt="Break" /> key to cancel the action.
 
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 

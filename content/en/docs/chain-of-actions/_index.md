@@ -17,7 +17,7 @@ The action chain allows you to automatically carry out several actions for an an
 
 ### Use chain of actions
 
-1. On the main screen of your VitalControl device, select the menu item `Chain of actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Chain of actions` and press the `OK` button.
 
 2. Either scan an animal using the transponder or confirm with `OK` and use the arrow keys △ ▽ ◁ ▷ to enter the desired animal ID.
 
@@ -35,11 +35,11 @@ The action chain allows you to automatically carry out several actions for an an
 
 ### Set chain of actions
 
-1. On the main screen of your VitalControl device, select the menu item `Chain of Actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Chain of Actions` and press the `OK` button.
 
-2. Use the button `F2` ⚙ (`settings`).
+2. Use the button `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`settings`).
 
-3. An overlay screen pops up. Use the arrow keys △ ▽ to choose between the listed actions 1 - 4 (you can perform up to four actions in a row). Use the arrow keys ◁ ▷ to select the desired action for the respective action. Save the settings with the `F1` key.
+3. An overlay screen pops up. Use the arrow keys △ ▽ to choose between the listed actions 1 - 4 (you can perform up to four actions in a row). Use the arrow keys ◁ ▷ to select the desired action for the respective action. Save the settings with the `F1` <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" />  key.
 
 4. If you want to reset the entire action chain, select the option `Reset chain of actions` in the submenu using the arrow keys △ ▽ and confirm with `OK`.
 

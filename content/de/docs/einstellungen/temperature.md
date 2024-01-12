@@ -18,7 +18,7 @@ Hier sind Schwellenwerte für die Körpertemperatur jeweils individuell für die
 
 Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Schwellenwert` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -26,7 +26,7 @@ Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzul
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen.
 
-5. Nutzen Sie das Stiftsymbol mit der Taste `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen.
+5. Nutzen Sie das Stiftsymbol mit der Taste <img src="/icons/edit.svg" width="25" align="bottom" alt="Einstellungen" /> `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten <img src="/icons/arrow.svg" width="25" align="bottom" alt="Pfeil" /> `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen.
 
 6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurückpfeil mit der Taste `F1` um zurück auf `Schwellenwerte` zu springen.
 
@@ -39,7 +39,7 @@ Hier stellen Sie ein ab welcher gemessenen Temperatur eine Untertemperatur vorli
 
 Um den Schwellenwert für die Untertemperatur einzustellen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -56,7 +56,7 @@ Hier stellen Sie ein, ob das Licht während des Fiebermessens automatisch aktivi
 
 Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu aktivieren gehen sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt `Einstellungen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um `Temperatur` auszuwählen. Bestätigen Sie mit `OK`.
 
@@ -68,4 +68,4 @@ Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu akt
 
 ## Einstellungen speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.

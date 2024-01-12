@@ -18,17 +18,17 @@ This action is not enabled by default! Activate this as described in [action set
 
 To assign a national animal ID to an animal that does not have a national animal ID, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item `actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
 
 2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action `link animal ID` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/national-animal-ID.svg" width="40" align="bottom" alt="Link animal ID" /> `link animal ID` and confirm with `OK`.
 
 4. Another submenu opens with all the setting options for the animal data. The setting option `national animal ID` is automatically selected. Confirm with `OK`.
 
 5. Use the arrow keys ◁ ▷ △ ▽ to set the national animal ID. Confirm again with `OK`.
 
-6. Save the settings and return to the main menu `actions` using the `F3` key.
+6. Save the settings and return to the main menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` using the `F3` key.
 
 {{< tabpane >}}
 {{< tab header="Link animal ID:" text=true disabled=true />}}
@@ -44,11 +44,11 @@ To assign a national animal ID to an animal that does not have a national animal
 
 To assign a national animal ID to an animal that has an electronic ear tag, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item `actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
 
 2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action `link animal ID` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/national-animal-ID-scan.svg" width="40" align="bottom" alt="Link animal ID" />  `link animal ID` and confirm with `OK`.
 
 4. Now scan the electronic ear tag.
 

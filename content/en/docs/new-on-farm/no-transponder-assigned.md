@@ -15,9 +15,9 @@ translationKey: new-on-farm/no-transponder-assigned
 
 The handling within this list is identical to the `New on farm, no transponder` list. However, in this list you will find all animals that have not yet been assigned a transponder, regardless of their age.
 
-1. In the main screen of your VitalControl device, select the menu item `new on farm` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/zugaenge.svg" width="40" align="bottom" alt="new on farm" /> `new on farm` and press the `OK` button.
 
-2. A submenu opens in which you can choose between `New on farm, no transponder`, `Purchased animals`, `No national animal ID assigned`, `Births` and `No transponder assigned`. Use the arrow keys ◁ ▷ △ ▽ to select the menu item `No transponder assigned` and confirm with `OK`.
+2. A submenu opens in which you can choose between <img src="/icons/keintransponder.svg" width="40" align="bottom" alt="New on farm, no transponder" /> `New on farm, no transponder`, <img src="/icons/zukeaufe.svg" width="40" align="bottom" alt="Purchased animals" /> `Purchased animals`, <img src="/icons/keineOhrmarke.svg" width="40" align="bottom" alt="No national animal ID" /> `No national animal ID assigned`, <img src="/icons/geburten.svg" width="40" align="bottom" alt="Births" /> `Births` and <img src="/icons/keinTransponder.svg" width="40" align="bottom" alt="No transponder assigned" /> `No transponder assigned`. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/keinTransponder.svg" width="40" align="bottom" alt="No transponder assigned" /> `No transponder assigned` and confirm with `OK`.
 
 3. A list opens with all animals that have not yet been assigned a transponder. To assign a transponder, proceed as in [`New on farm, no transponder`](../new-no-transponder/#new-on-farm-no-transponder) from step three.
 

@@ -14,13 +14,13 @@ translationKey: settings/language
 
 To set the language of your VitalControl device, proceed as follows:
 
-1. `Select` the menu item `Settings` in the main screen of your VitalControl device and press `OK`.
+1. `Select` the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` in the main screen of your VitalControl device and press `OK`.
 
 1. A submenu opens up, presenting the current language at the top. Use the arrow keys ◁ ▷ to select the desired language. The language of the user guidance changes on the fly as you select another language.
 
    ![VitalControl: Menu path Language settings](../images/select-lang.png "Setting your language")
 
-1. Press the upper left key `F1` twice to return to the main menu.
+1. Press the upper left key <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" />  `F1` twice to return to the main menu.
 
 The language on your VitalControl device is now set and permanently stored.
 
