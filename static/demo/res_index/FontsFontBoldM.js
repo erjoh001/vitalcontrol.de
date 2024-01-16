@@ -27,16 +27,16 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 12.05
+* Version  : 13.00
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *
 *******************************************************************************/
 
 var index;if(!index)throw new Error("The application file '_project.js' isn't yet loaded!"
-);if(index.abE)throw new Error("The file file 'FontsFontBoldM.js' included twice!"
+);if(index.acC)throw new Error("The file file 'FontsFontBoldM.js' included twice!"
 );
-index.abE=[21,5,0,16,712,712,"\
+index.acC=[21,5,0,16,712,712,"\
 \u0000\u8001\u7FF0\u0008\u0010\u800A\u0000\u0000\u0020\u8000\u8000\u0000\u0000\u8005\u0000\u0185\
 \u0021\u8001\u7FF0\u0004\u0010\u8006\u0000\u0185\u0022\u8000\u7FEF\u0007\u0006\u8007\u0000\u0235\
 \u0023\u8000\u7FF0\u000D\u0010\u800D\u0000\u029E\u0024\u8001\u7FED\u000B\u0016\u800D\u0000\u04CF\

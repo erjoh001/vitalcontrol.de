@@ -27,20 +27,20 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 12.05
+* Version  : 13.00
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *
 *******************************************************************************/
 
 var index;if(!index)throw new Error("The application file '_project.js' isn't yet loaded!"
-);if(index.iF)throw new Error("The unit file 'Colors.js' included twice!");index.
-iF=(function(){var A=index;var C={};
+);if(index.jb)throw new Error("The unit file 'Colors.js' included twice!");index.
+jb=(function(){var A=index;var C={};
 
-C.C1=0xFFFFFFFF;C.CL=0xFFE6DED8;C.Zb=0x00000000;C.Text=0xFF333333;C.AY=0xFFB6771A;
-C.H1=0xFF00DCFF;C.EY=0xFF3DD87D;C.Ft=0xFF001EFF;C.Bd=0xFFFFFFFF;C.Ba=0xFF7B7975;
-C.AeI=0xFFFFB03B;C.BfJ=0xFFD9D2CC;C.AOI=0xFFF5ECE5;C.Al_=0xFF6E6E6E;C.Adc=0xFF5F5350;
-C.Bk4=0xAA5F5350;C.Bgc=0xE6FFFFFF;
-C._Init=function(){};C._ReInit=function(){};C.DE=function(D){};return C;})();
+C.CZ=0xFFFFFFFF;C.CL=0xFFE6DED8;C.AbX=0x00000000;C.Text=0xFF333333;C.AY=0xFFB6771A;
+C.HY=0xFF00DCFF;C.EX=0xFF3DD87D;C.FU=0xFF001EFF;C.Bh=0xFFFFFFFF;C.Bb=0xFF7B7975;
+C.AeL=0xFFFFB03B;C.Bga=0xFFD9D2CC;C.AOZ=0xFFF5ECE5;C.Amm=0xFF6E6E6E;C.Ads=0xFF5F5350;
+C.Blg=0xAA5F5350;C.BgC=0xE6FFFFFF;
+C._Init=function(){};C._ReInit=function(){};C.Dz=function(D){};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

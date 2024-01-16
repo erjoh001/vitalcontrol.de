@@ -23,9 +23,9 @@ The following table lists the current firmware versions:
 |                 | GUI-Firmware | Middleware  | Bootloader |
 |-----------------|:------------:|:-----------:|:----------:|
 | **Version**     | 0.9.9        | 0.9.9       | 1.0.4      |
-| **Date**        | 2023-07-07   | 2023-07-07  | 2023-05-03 |
-| **Commit hash** | aa177e1a     | 8e40109     | d3d2a3d    |
-| **Commit №**    | 1884         | n/a         | n/a        |
+| **Date**        | 2023-09-05   | 2023-09-06  | 2023-05-03 |
+| **Commit hash** | ad516b18     | 5c2c5cb     | d3d2a3d    |
+| **Commit №**    | 1931         | n/a         | n/a        |
 
 {{% alert title="Tip" %}}
 If you miss newer features on your device or face stability problems, you are encouraged to [update](../update/) the firmware on your device to latest released version.

@@ -27,36 +27,36 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 12.05
+* Version  : 13.00
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *
 *******************************************************************************/
 
 var index;if(!index)throw new Error("The application file '_project.js' isn't yet loaded!"
-);if(index.eV)throw new Error("The unit file 'Fonts.js' included twice!");index.
-eV=(function(){var A=index;var C={};
+);if(index.fl)throw new Error("The unit file 'Fonts.js' included twice!");index.
+fl=(function(){var A=index;var C={};
 
-C.AB={_class:function(){return A.abj.B6;},0:{Data:function(){return A.abI;},Cache:[
-],_this:null}};C.Aw={_class:function(){return A.abj.B6;},0:{Data:function(){return A.
-abH;},Cache:[],_this:null}};C.Gw={_class:function(){return A.abj.B6;},0:{Data:function(
-){return A.abG;},Cache:[],_this:null}};C.Ads={_class:function(){return A.abj.B6;
-},0:{Data:function(){return A.abM;},Cache:[],_this:null}};C.Hg={_class:function(
-){return A.abj.B6;},0:{Data:function(){return A.abJ;},Cache:[],_this:null}};C.Cx={
-_class:function(){return A.abj.B6;},0:{Data:function(){return A.abN;},Cache:[],_this:
-null}};C.AMl={_class:function(){return A.abj.B6;},0:{Data:function(){return A.abK;
-},Cache:[],_this:null}};C.LC={_class:function(){return A.abj.B6;},0:{Data:function(
-){return A.abF;},Cache:[],_this:null}};C.Pg={_class:function(){return A.abj.B6;}
-,0:{Data:function(){return A.abE;},Cache:[],_this:null}};C.AMm={_class:function(
-){return A.abj.B6;},0:{Data:function(){return A.abL;},Cache:[],_this:null}};
-C._Init=function(){};C._ReInit=function(){};C.DE=function(D){var B;if((B=C.AB[0].
-_this)&&(B._cycle!=D))B._Done(C.AB[0]._this=null);if((B=C.Aw[0]._this)&&(B._cycle
-!=D))B._Done(C.Aw[0]._this=null);if((B=C.Gw[0]._this)&&(B._cycle!=D))B._Done(C.Gw[
-0]._this=null);if((B=C.Ads[0]._this)&&(B._cycle!=D))B._Done(C.Ads[0]._this=null);
-if((B=C.Hg[0]._this)&&(B._cycle!=D))B._Done(C.Hg[0]._this=null);if((B=C.Cx[0]._this
-)&&(B._cycle!=D))B._Done(C.Cx[0]._this=null);if((B=C.AMl[0]._this)&&(B._cycle!=D
-))B._Done(C.AMl[0]._this=null);if((B=C.LC[0]._this)&&(B._cycle!=D))B._Done(C.LC[
-0]._this=null);if((B=C.Pg[0]._this)&&(B._cycle!=D))B._Done(C.Pg[0]._this=null);if((
-B=C.AMm[0]._this)&&(B._cycle!=D))B._Done(C.AMm[0]._this=null);};return C;})();
+C.Ak={_class:function(){return A.aci.B3;},0:{Data:function(){return A.acG;},Cache:[
+],_this:null}};C.Ah={_class:function(){return A.aci.B3;},0:{Data:function(){return A.
+acF;},Cache:[],_this:null}};C.Ey={_class:function(){return A.aci.B3;},0:{Data:function(
+){return A.acE;},Cache:[],_this:null}};C.AdJ={_class:function(){return A.aci.B3;
+},0:{Data:function(){return A.acK;},Cache:[],_this:null}};C.Hh={_class:function(
+){return A.aci.B3;},0:{Data:function(){return A.acH;},Cache:[],_this:null}};C.By={
+_class:function(){return A.aci.B3;},0:{Data:function(){return A.acL;},Cache:[],_this:
+null}};C.AMB={_class:function(){return A.aci.B3;},0:{Data:function(){return A.acI;
+},Cache:[],_this:null}};C.H$={_class:function(){return A.aci.B3;},0:{Data:function(
+){return A.acD;},Cache:[],_this:null}};C.J6={_class:function(){return A.aci.B3;}
+,0:{Data:function(){return A.acC;},Cache:[],_this:null}};C.AMC={_class:function(
+){return A.aci.B3;},0:{Data:function(){return A.acJ;},Cache:[],_this:null}};
+C._Init=function(){};C._ReInit=function(){};C.Dz=function(D){var B;if((B=C.Ak[0].
+_this)&&(B._cycle!=D))B._Done(C.Ak[0]._this=null);if((B=C.Ah[0]._this)&&(B._cycle
+!=D))B._Done(C.Ah[0]._this=null);if((B=C.Ey[0]._this)&&(B._cycle!=D))B._Done(C.Ey[
+0]._this=null);if((B=C.AdJ[0]._this)&&(B._cycle!=D))B._Done(C.AdJ[0]._this=null);
+if((B=C.Hh[0]._this)&&(B._cycle!=D))B._Done(C.Hh[0]._this=null);if((B=C.By[0]._this
+)&&(B._cycle!=D))B._Done(C.By[0]._this=null);if((B=C.AMB[0]._this)&&(B._cycle!=D
+))B._Done(C.AMB[0]._this=null);if((B=C.H$[0]._this)&&(B._cycle!=D))B._Done(C.H$[
+0]._this=null);if((B=C.J6[0]._this)&&(B._cycle!=D))B._Done(C.J6[0]._this=null);if((
+B=C.AMC[0]._this)&&(B._cycle!=D))B._Done(C.AMC[0]._this=null);};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

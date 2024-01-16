@@ -27,35 +27,35 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 12.05
+* Version  : 13.00
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *
 *******************************************************************************/
 
-var EmWiCompr_12_05;var index;if(!EmWiCompr_12_05)throw new Error("The Embedded Wizard runtime environment file 'emwi_compr_12_05.js' isn't yet loaded!"
+var EmWiCompr_13_00;var index;if(!EmWiCompr_13_00)throw new Error("The Embedded Wizard runtime environment file 'emwi_compr_13_00.js' isn't yet loaded!"
 );if(index)throw new Error("The application file '_project.js' included twice!");
-index=(function(){var A={__proto__:EmWiCompr_12_05};
+index=(function(){var A={__proto__:EmWiCompr_13_00};
 A.Bosnian=1;A.Bulgarian=2;A.Chinese_TWN=3;A.Czech=4;A.Default=0;A.Dutch=5;A.Estonian=
 6;A.Finnish=7;A.French=8;A.German=9;A.Greek=10;A.Italian=11;A.Japanese=12;A.Norwegian=
 13;A.Polish=14;A.Russian=15;A.Spanish=16;A.Turkish=17;A.Ukrainian=18;
-A.aaF=[1000,740];A.qJ=function(){return A.kh.AKz;};A.y9="URBAN VitalControl - Demo App";
-A.on=0;A.aa6=0;A.ju=[];A._Init=function(){A.Core._Init();A.abm._Init();A.Graphics.
-_Init();A.abj._Init();A.abh._Init();A.kh._Init();A.abg._Init();A.abi._Init();A.iF.
-_Init();A.eV._Init();A.abz._Init();A.abo._Init();A.abw._Init();A.Device._Init();
-A.abt._Init();A.abq._Init();A.abx._Init();A.abA._Init();A.abk._Init();A.aby._Init(
-);A.abC._Init();A.abD._Init();A.abr._Init();A.abn._Init();A.abB._Init();A.abv._Init(
-);A.abl._Init();A.abp._Init();A.abu._Init();this.__proto__._Init.apply(this,arguments
-);};A._ReInit=function(){A.Core._ReInit();A.abm._ReInit();A.Graphics._ReInit();A.
-abj._ReInit();A.abh._ReInit();A.kh._ReInit();A.abg._ReInit();A.abi._ReInit();A.iF.
-_ReInit();A.eV._ReInit();A.abz._ReInit();A.abo._ReInit();A.abw._ReInit();A.Device.
-_ReInit();A.abt._ReInit();A.abq._ReInit();A.abx._ReInit();A.abA._ReInit();A.abk.
-_ReInit();A.aby._ReInit();A.abC._ReInit();A.abD._ReInit();A.abr._ReInit();A.abn.
-_ReInit();A.abB._ReInit();A.abv._ReInit();A.abl._ReInit();A.abp._ReInit();A.abu.
-_ReInit();};A.aaD=function(D){A.Core.DE(D);A.abm.DE(D);A.Graphics.DE(D);A.abj.DE(
-D);A.abh.DE(D);A.kh.DE(D);A.abg.DE(D);A.abi.DE(D);A.iF.DE(D);A.eV.DE(D);A.abz.DE(
-D);A.abo.DE(D);A.abw.DE(D);A.Device.DE(D);A.abt.DE(D);A.abq.DE(D);A.abx.DE(D);A.
-abA.DE(D);A.abk.DE(D);A.aby.DE(D);A.abC.DE(D);A.abD.DE(D);A.abr.DE(D);A.abn.DE(D
-);A.abB.DE(D);A.abv.DE(D);A.abl.DE(D);A.abp.DE(D);A.abu.DE(D);};return A;})();
+A.abC=[1000,740];A.rs=function(){return A.kR.AKO;};A.zU="URBAN VitalControl - Demo App";
+A.o7=0;A.wA=0;A.j0=[];A._Init=function(){A.Core._Init();A.acl._Init();A.Graphics.
+_Init();A.aci._Init();A.acg._Init();A.kR._Init();A.acf._Init();A.ach._Init();A.jb.
+_Init();A.fl._Init();A.acx._Init();A.acn._Init();A.acu._Init();A.Device._Init();
+A.acr._Init();A.acp._Init();A.acv._Init();A.acy._Init();A.acj._Init();A.acw._Init(
+);A.acA._Init();A.acB._Init();A.acq._Init();A.acm._Init();A.acz._Init();A.act._Init(
+);A.ack._Init();A.aco._Init();A.acs._Init();this.__proto__._Init.apply(this,arguments
+);};A._ReInit=function(){A.Core._ReInit();A.acl._ReInit();A.Graphics._ReInit();A.
+aci._ReInit();A.acg._ReInit();A.kR._ReInit();A.acf._ReInit();A.ach._ReInit();A.jb.
+_ReInit();A.fl._ReInit();A.acx._ReInit();A.acn._ReInit();A.acu._ReInit();A.Device.
+_ReInit();A.acr._ReInit();A.acp._ReInit();A.acv._ReInit();A.acy._ReInit();A.acj.
+_ReInit();A.acw._ReInit();A.acA._ReInit();A.acB._ReInit();A.acq._ReInit();A.acm.
+_ReInit();A.acz._ReInit();A.act._ReInit();A.ack._ReInit();A.aco._ReInit();A.acs.
+_ReInit();};A.abA=function(D){A.Core.Dz(D);A.acl.Dz(D);A.Graphics.Dz(D);A.aci.Dz(
+D);A.acg.Dz(D);A.kR.Dz(D);A.acf.Dz(D);A.ach.Dz(D);A.jb.Dz(D);A.fl.Dz(D);A.acx.Dz(
+D);A.acn.Dz(D);A.acu.Dz(D);A.Device.Dz(D);A.acr.Dz(D);A.acp.Dz(D);A.acv.Dz(D);A.
+acy.Dz(D);A.acj.Dz(D);A.acw.Dz(D);A.acA.Dz(D);A.acB.Dz(D);A.acq.Dz(D);A.acm.Dz(D
+);A.acz.Dz(D);A.act.Dz(D);A.ack.Dz(D);A.aco.Dz(D);A.acs.Dz(D);};return A;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
