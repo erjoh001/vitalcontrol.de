@@ -64,7 +64,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/weightevaluate.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
 
-3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/weightdevelopement.svg" width="40" align="bottom" alt="Gewichtsentwicklung" />&nbsp; `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
+3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/weightdevelopment.svg" width="40" align="bottom" alt="Gewichtsentwicklung" />&nbsp; `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
 4. Nach Abschluss der Berechnung können Sie die oben genannten Erfolgsgrößen einsehen. Navigieren Sie hiermit mit den Pfeiltasten △ ▽ durch die angezeigte Liste.
 

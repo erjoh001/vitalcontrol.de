@@ -28,7 +28,7 @@ Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzul
 
 5. Nutzen Sie das Stiftsymbol mit der Taste <img src="/icons/edit.svg" width="25" align="bottom" alt="Einstellungen" /> `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten <img src="/icons/arrow.svg" width="25" align="bottom" alt="Pfeil" /> `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen.
 
-6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurückpfeil mit der Taste `F1` um zurück auf `Schwellenwerte` zu springen.
+6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurück-Pfeil mit der Taste `F1` um zurück auf `Schwellenwerte` zu springen.
 
     ![VitalControl: Menüfolge Einstellung Datum](../bilder/schwellenwert.png "Datum einstellen")
 
@@ -47,7 +47,7 @@ Um den Schwellenwert für die Untertemperatur einzustellen gehen Sie wie folgt v
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte "kleiner als" Temperatur auszuwählen.
 
-    ![VitalControl: Menüfolge Einstellung Datum](../bilder/untertemperatur.png "Datum einstellen")
+    ![VitalControl: Menüfolge Einstellung Untertemperatur](../bilder/untertemperatur.png "Untertemperatur einstellen")
 
 ## Beleuchtung Messort
 {{% alert title = "Hinweis" %}}
@@ -64,7 +64,7 @@ Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu akt
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die Beleuchtungsautomatik zu de- bzw. zu aktivieren.
 
-    ![VitalControl: Menüfolge Einstellung Datum](../bilder/beleuchtung.png "Datum einstellen")
+    ![VitalControl: Menüfolge Einstellung Beleuchtung Messort](../bilder/beleuchtung.png "Beleuchtung Messort einstellen")
 
 ## Einstellungen speichern und zurück zum Obermenü Einstellungen
 

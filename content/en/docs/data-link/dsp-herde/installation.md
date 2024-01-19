@@ -36,7 +36,7 @@ To set up the technology, proceed as follows:
 
 ## Configuration: Basic settings
 
-Initially, the tab `Basic settings` is selected in the screen displayed, as shown in the figure below. Make adjustments there in the categories `External program` ➊, `Animal data` ➊ and `Locations` ➌ according to your farm-specific conditions.
+Initially, the tab `Basic settings` is selected in the screen displayed, as shown in the figure below. Make adjustments there in the categories `External program` ➊, `Animal data` ➋ and `Locations` ➌ according to your farm-specific conditions.
 
    ![Software Herde: Configuration of basic settings](../screenshots/basic-settings.png "Technology VitalControl: Basic settings").
    
@@ -56,7 +56,7 @@ In order to perform data exchange between VitalControl and Herde Plus, basic sof
 - **Technology 🡒  Program HerdePlus**:  
   This input field needs to be filled with the value `vc_exp.bat`. The correspondingly named batch file specifies the sequence of operations during data export.
 
-### Category `Animal Data` ➊
+### Category `Animal Data` ➋
 
 Further adjustments have to be made in the category 'Animal data' ➋ in order to get data exchange fully functional.
 

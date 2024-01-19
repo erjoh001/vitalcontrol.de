@@ -24,9 +24,9 @@ Die folgende Tabelle listet die aktuellen Firmware-Versionen auf:
 |                 | GUI-Firmware | Middleware  | Bootloader |
 |-----------------|:------------:|:-----------:|:----------:|
 | **Version**     | 0.9.9        | 0.9.9       | 1.0.4      |
-| **Datum**       | 06.09.2023   | 05.09.2023  | 03.05.2023 |
+| **Datum**       | 05.09.2023   | 06.09.2023  | 03.05.2023 |
 | **Commit Hash** | ad516b18     | 5c2c5cb     | d3d2a3d    |
-| **Commit №**    | 1884         | n/a         | n/a        |
+| **Commit №**    | 1931         | n/a         | n/a        |
 
 {{% alert title="Tip" %}}
 Falls Sie auf ihrem Gerät neuere Funktionen vermissen oder mit Stabilitätsproblemen konfrontiert sind, [aktualisieren](../update/) Sie ggf. die auf ihrem Gerät aufgespielte Firmwareversion.

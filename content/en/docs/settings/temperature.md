@@ -34,7 +34,7 @@ To set the threshold & temperature ranges on your device proceed as follows:
 
 
 ## Set undertemperature
-{{% alert title = "Hinweis" %}}
+{{% alert title = "Hint" %}}
 Here you set the measured temperature from which an undertemperature occurs. During the fever measurement, this temperature is displayed with a blue background.
 {{% /alert %}}
 
@@ -51,7 +51,7 @@ To set the threshold value for the undertemperature, proceed as follows:
     ![VitalControl: menu settings undertemperature](../images/undertemperature.png "Undertemperature")
 
 ## Anus spotlight
-{{% alert title = "Hinweis" %}}
+{{% alert title = "Hint" %}}
 Here you can set whether the light should be automatically activated or deactivated during fever measurement.
 {{% /alert %}}
 

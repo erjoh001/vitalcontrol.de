@@ -92,7 +92,7 @@ To deactivate or activate the vibration resource monitor of the device, proceed 
 
 4. Use the arrow keys ◁ ▷ to activate or deactivate the resource monitor.
 
-    ![VitalControl: menu settings Ressource monitor](../images/ressourcemonitor.png "Ressource monitor")
+    ![VitalControl: Menu settings Resource monitor](../images/resourcemonitor.png "Resource monitor")
 
 ## Save and return to the top menu Settings
 

@@ -36,7 +36,7 @@ Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
 
 ## Grundeinstellungen konfigurieren
 
-Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` ➊, `Tierdaten` ➊ und `Orte` ➌ Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
+Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` ➊, `Tierdaten` ➋ und `Orte` ➌ Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
 
    ![Herde Software: Konfiguration Technikkopplung](../screenshots/grundeinstellungen.png "Technikkopplung: Grundeinstellungen").
 
@@ -56,7 +56,7 @@ Für die Durchführung des Datenaustauschs zwischen VitalControl und Herde Plus 
 - **Technik 🡒  Herde**:  
   Hier bitte als Wert `vc_exp.bat` eintragen. Diese Batchdatei gibt den Ablauf des Datenexports vor.
 
-### Kategorie `Tierdaten` ➊
+### Kategorie `Tierdaten` ➋
 
 Für die korrekte Funktion des Datenaustausch müssen in der Kategorie `Tierdaten` ➋ weitere Anpassungen vorgenommen werden:
 

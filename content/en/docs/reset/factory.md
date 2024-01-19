@@ -14,7 +14,7 @@ categories: [Reset]
 
 1. Press the `OK` button to trigger the factory reset. Now a pop-up with a security question appears. Confirm with `Yes` here.
 
-1. Settings are reset to factory defaults now. A start-up menu appears, enter your langauge, date and time there.
+1. Settings are reset to factory defaults now. A start-up menu appears, enter your language, date and time there.
 
    ![VitalControl: Menu path Reset to factory default settings](../images/resetdevice.png "Reset to factory settings")
 
