@@ -37,7 +37,7 @@ Sie können den oben beschriebenen Reichweitentest auch dazu nutzen, um Informat
 
 1. Setzen Sie für ihre Tiere Transponderohrmarken ein, auf denen die offiziell vergebene, 15-stellige Ohrmarkennummer des Tiers kodiert ist, so werden nach der Erkennung des Transponders folgende Angaben auf dem Bildschirm ausgegeben:
 
-    - 15 stellige ID des Tieres, unter der dieses Tiere im nationalen Meldesystem (Deutschland: HI-Tier, Österreich: AMA) bekannt ist
+    - 15 stellige ID des Tiers, unter der dieses Tiere im nationalen Meldesystem (Deutschland: HI-Tier, Österreich: AMA) bekannt ist
     - Land in dem der Betrieb ansässig ist
     - Bundesland in dem der Betrieb ansässig ist
     - Verwendetes Übertragungsprotokoll (FDX oder HDX)

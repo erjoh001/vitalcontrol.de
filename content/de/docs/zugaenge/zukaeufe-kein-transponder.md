@@ -21,7 +21,7 @@ Innerhalb dieser Liste finden Sie alle neu angelegten Tiere, denen noch kein Tra
 
 3. Es öffnet sich eine Liste mit allen Tieren die neu angelegt wurden, denen aber noch kein Transponder zugeordnet wurde. Wählen Sie mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die <img src="/icons/lupe.svg" width="40" align="bottom" alt="Lupe" /> `An/Aus` Taste und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
-4. Scannen Sie nun den Transponder des Tieres ein.
+4. Scannen Sie nun den Transponder des Tiers ein.
 
 5. Dem Tier wurde erfolgreich ein Transponder hinzugefügt.
 

@@ -36,7 +36,7 @@ To set up the technology, proceed as follows:
 
 ## Configuration: Basic settings
 
-Initially, the tab `Basic settings` is selected in the screen displayed, as shown in the figure below. Make adjustments there in the categories `External program` ➊, `Animal data` ➋ and `Locations` ➌ according to your farm-specific conditions.
+Initially, the tab `Basic settings` is selected in the screen displayed, as shown in the figure below. Make adjustments there in the categories `External program` ➊, `Animal data` ➋, `Locations` ➌ and `Leaving` ➍ according to your farm-specific conditions.
 
    ![Software Herde: Configuration of basic settings](../screenshots/basic-settings.png "Technology VitalControl: Basic settings").
    
@@ -80,6 +80,11 @@ Further adjustments have to be made in the category 'Animal data' ➋ in order t
 ### Category `Locations` ➌
 
 Use this category to exclude animals at certain locations from data transfer to the device. To do so, remove the checkmark from the location(s) for which you **do not** want to transfer the animals housed there to the device.
+
+### Category `Leaving` ➍
+
+Tick the 'Leaving in HERDEplus' option here. This way you specify that animals that left the herd are also deleted from VitalControl device during synchronisation.
+Also tick the 'Does not exist in stock' option. This way you specify that animals on the VitalControl that are not known to `Herde` software are deleted from the VitalControl during synchronisation.
 
 ## Configuration: Technology-specific settings
 

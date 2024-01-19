@@ -21,6 +21,6 @@ slug: tierdaten
 
    ![VitalControl: Menüfolge Löschung aller Tierdaten](../bilder/loeschungtierdaten.png "Löschung Tierdaten")
 
-1. Alle Tiere wurden jetzt vom VitalControl-Gerät gelöscht. Über den Menüpunkt `Herde` im Hauptmenü können Sie sich vom Erfolg der Löschung` vergewissern:
+1. Alle Tiere wurden jetzt vom VitalControl-Gerät gelöscht. Über den Menüpunkt `Herde` im Hauptmenü können Sie sich vom Erfolg der Löschung vergewissern:
 
    ![VitalControl: Aufruf Menü Herde, keine Tiere angemeldet](../bilder/keinetiere.png "Keine Tiere angemeldet")

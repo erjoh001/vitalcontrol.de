@@ -64,7 +64,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 ### Transponder zuordnen
 
-Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem Anlegen des Tieres zugeordnet wurde.
+Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem Anlegen des Tiers zugeordnet wurde.
 
 1. Führen Sie die vorbereitenden Schritte aus.
 

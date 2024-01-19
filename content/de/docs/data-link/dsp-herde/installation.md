@@ -36,7 +36,7 @@ Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
 
 ## Grundeinstellungen konfigurieren
 
-Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` ➊, `Tierdaten` ➋ und `Orte` ➌ Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
+Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` ➊, `Tierdaten` ➋, `Orte` ➌ und Abgang ➍ Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
 
    ![Herde Software: Konfiguration Technikkopplung](../screenshots/grundeinstellungen.png "Technikkopplung: Grundeinstellungen").
 
@@ -70,7 +70,7 @@ Für die korrekte Funktion des Datenaustausch müssen in der Kategorie `Tierdate
 - **Sender-Nr.**:  
   Diese Einstellung legt die beim RFID-Scan erwartete Nummer für ein Tier fest:  
   - Falls Sie ihren Tieren ein Halsband mit einem Transponder anlegen oder ihren Tieren einen Ohrtransponder einziehen ‒jeweils etwa zur Identifikation am Tränkeautomaten‒, sollten Sie hier den Wert `Transponder` auswählen.
-  - Falls ihre Tiere bzw. Kälber elektronische Lebendohrmarken tragen, auf denen die offizielle 15-stelligen Nummer ihres Tieres kodiert sind und die ein Leben lang zur Identifikation des Tieres dienen werden, sollten Sie hier den Wert `Ohr-Nr. (15 Stellen)` auswählen.
+  - Falls ihre Tiere bzw. Kälber elektronische Lebendohrmarken tragen, auf denen die offizielle 15-stelligen Nummer ihres Tieres kodiert sind und die ein Leben lang zur Identifikation des Tiers dienen werden, sollten Sie hier den Wert `Ohr-Nr. (15 Stellen)` auswählen.
 
 <br>
 
@@ -80,6 +80,11 @@ Für die korrekte Funktion des Datenaustausch müssen in der Kategorie `Tierdate
 ### Kategorie `Orte` ➌
 
 Hier können Sie Tiere an bestimmten Orten von der Übertragung ausschließen. Entfernen Sie dazu das Häkchen von denjenigen Ort(en), für die Sie **keine** Übertragung der dort aufgestallten Tiere wünschen.
+
+### Kategorie `Abgang` ➍
+
+Setzen Sie hier das das Häkchen bei der Option `In Herde abgegangen`. Dadurch legen Sie fest, dass abgegangene Tiere im Zuge der Synchronisation auch vom VitalControl gelöscht werden.
+Setzen bei der Option `In Herde nicht vorhanden` ebenfalls das Häkchen. Dadurch legen Sie fest, dass Tiere auf dem VitalControl, die der `Herde` Software nicht bekannt sind, im Zuge der Synchronisation vom VitalControl gelöscht werden.
 
 ## Technikspezifische Einstellungen konfigurieren
 
