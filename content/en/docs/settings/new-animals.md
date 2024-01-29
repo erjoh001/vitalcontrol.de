@@ -116,7 +116,7 @@ Here you define which whereabouts are assigned to the animals when creating new 
 
 ### Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
 
 ## Auto-registration
 
@@ -158,7 +158,7 @@ To define the assignment of the animal ID when creating the farm animal on your 
 
 5. Use the arrow keys ◁ ▷ to set the assignment of the animal ID of the working animal when creating.
 
-6. If you select the setting `Consecutive`, you have the option of specifying the `Next animal ID`. Use the arrow keys △ ▽ to select the `Next animal ID` area and confirm with `OK`. Navigate within the area using the arrow keys ◁ ▷. Now you can select a number using the arrow keys △ ▽. The device will now automatically use this number to start the continuous count from there. Furthermore, you can set whether the numbers are to be counted continuously increasing or continuously decreasing. To do this, use the arrow keys ◁ ▷ to go to the 9/1 symbol. Use the arrow keys △ ▽ to toggle between counting continuously increasing or continuously decreasing. Save the settings using the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` or `OK` key.
+6. If you select the setting `Consecutive`, you have the option of specifying the `Next animal ID`. Use the arrow keys △ ▽ to select the `Next animal ID` area and confirm with `OK`. Navigate within the area using the arrow keys ◁ ▷. Now you can select a number using the arrow keys △ ▽. The device will now automatically use this number to start the continuous count from there. Furthermore, you can set whether the numbers are to be counted continuously increasing or continuously decreasing. To do this, use the arrow keys ◁ ▷ to go to the 9/1 symbol. Use the arrow keys △ ▽ to toggle between counting continuously increasing or continuously decreasing. Save the settings using the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` or `OK` key.
 
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid2.png "Assignment animal ID")
 
@@ -209,7 +209,7 @@ To set the offset to the right of the animal on your device, proceed as follows:
 
 ### Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
 
 ## Assignment ear tag number
 
@@ -227,10 +227,10 @@ Here you define whether one or two number ranges are used when assigning the ear
 
 ## Save and return to the top menu Registration of animals
 
-- Save the settings and return to the top menu `Registration of animals` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Registration of animals` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
 
 ## Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
 
 

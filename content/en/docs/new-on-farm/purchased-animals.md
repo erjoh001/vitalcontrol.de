@@ -25,7 +25,7 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
 3. A list opens with your purchases that you have registered via the bulk recording menu item.
 
-4. Use the <img src="/icons/gear.svg" width="25" align="bottom" alt="On/Off" /> `On/Off` button and the arrow keys ◁ ▷ to select between the export file for DSP herd and HI animal. Save your settings with the <img src="/icons/save-return.svg" width="40" align="bottom" alt="Save and return" /> `F1` key.
+4. Use the <img src="/icons/gear.svg" width="25" align="bottom" alt="On/Off" /> `On/Off` button and the arrow keys ◁ ▷ to select between the export file for DSP herd and HI animal. Save your settings with the <img src="/icons/footer/save_exit.svg" width="40" align="bottom" alt="Save and return" /> `F1` key.
 
 5. Use the <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3` key. A submenu opens.
 

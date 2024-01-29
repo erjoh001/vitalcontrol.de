@@ -117,7 +117,7 @@ Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zug
 
 ### Speichern und zurück zum Obermenü Tiere neu anlegen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
 
 ## Tiere automatisch anlegen
 Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl-Gerät noch unbekannter Transponder eingescannt wird. Für diesem Fall könnten drei verschiedene Verhaltensweisen definiert werden.
@@ -157,7 +157,7 @@ Um die Vergabe der Tiernummern beim Anlegen des Nutztieres auf ihrem Gerät fest
 
 5. Nutzen Sie die Pfeiltasten ◁ ▷ um die Vergabe der Tiernummer des Nutztieres beim Anlegen einzustellen.
 
-6. Wählen Sie die Einstellung `Fortlaufend` haben Sie die Möglichkeit die `Nächste Tiernummer` festzulegen. Nutzen Sie dafür die Pfeiltasten △ ▽ um den Bereich `Nächste Tiernummer` auszuwählen und bestätigen Sie mit `OK`. Navigieren Sie mittels der Pfeiltasten ◁ ▷ innerhalb des Bereiches. Nun können Sie mit den Pfeiltasten △ ▽ eine Zahl auswählen. Das Gerät verwendet diese Nummer nun automatisch um ab dort die Fortlaufende Zählung zu beginnen. Des Weiteren können Sie einstellen ob die Nummern Fortlaufend steigend oder Fortlaufend sinkend gezählt werden sollen. Dafür nutzen Sie die Pfeiltasten ◁ ▷ um auf das Symbol 9/1 zu gelangen. Mittels der Pfeiltasten  △ ▽ können Sie umstellen zwischen Fortlaufend steigend oder Fortlaufend sinkend zählen. Speichern Sie die Einstellungen mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` oder `OK` Taste.
+6. Wählen Sie die Einstellung `Fortlaufend` haben Sie die Möglichkeit die `Nächste Tiernummer` festzulegen. Nutzen Sie dafür die Pfeiltasten △ ▽ um den Bereich `Nächste Tiernummer` auszuwählen und bestätigen Sie mit `OK`. Navigieren Sie mittels der Pfeiltasten ◁ ▷ innerhalb des Bereiches. Nun können Sie mit den Pfeiltasten △ ▽ eine Zahl auswählen. Das Gerät verwendet diese Nummer nun automatisch um ab dort die Fortlaufende Zählung zu beginnen. Des Weiteren können Sie einstellen ob die Nummern Fortlaufend steigend oder Fortlaufend sinkend gezählt werden sollen. Dafür nutzen Sie die Pfeiltasten ◁ ▷ um auf das Symbol 9/1 zu gelangen. Mittels der Pfeiltasten  △ ▽ können Sie umstellen zwischen Fortlaufend steigend oder Fortlaufend sinkend zählen. Speichern Sie die Einstellungen mittels der `F1` oder `OK` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />.
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Vergabe Tiernummern](../bilder/vergabetiernummern.png "Vergabe Tiernummern einstellen")
 
@@ -208,7 +208,7 @@ Um das Offset rechts des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie f
 
 ### Speichern und zurück zum Obermenü Tiere neu anlegen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
 
 ## Zuordnung Ohrmarkennummern einstellen
 
@@ -226,8 +226,8 @@ Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuel
 
 ## Speichern und zurück zum Obermenü Tiere neu anlegen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Tiere neu anlegen`.
 
 ## Speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.

@@ -44,4 +44,4 @@ To set the time on your device, follow these steps:
 
 ## Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.

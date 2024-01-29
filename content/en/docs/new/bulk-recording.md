@@ -39,7 +39,7 @@ With this setting option you can determine whether the date of birth must be spe
 
 3. The yellow circle symbolizes that the function is activated. A gray circle symbolizes that the function is deactivated.
 
-4. Save the settings and use the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key to return to the menu item `Bulk-recording`.
+4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item `Bulk-recording`.
 
    ![VitalControl: Menu New Birth date mandatory](../images/birthdate.png "Birth date mandatory")
 
@@ -53,7 +53,7 @@ Within the `Default values` settings menu you set standards that apply to each a
 
 3. A submenu opens with the different setting options. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
 
-4. Save the settings and use the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key to return to the `bulk-recording` menu item.
+4. Save the settings and use the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key to return to the `bulk-recording` menu item.
 
    ![VitalControl: Menu New Default values](../images/defaultvalues.png "Default values")
 
@@ -67,7 +67,7 @@ Within the `Recorded values` settings menu, you can specify which values ​​s
 
 3. Select the desired value to be recorded with the arrow keys △ ▽ and confirm with `OK`. A yellow circle appears. If you want to deactivate the value to be recorded, confirm again with `OK`. The yellow circle disappears.
 
-4. Save the settings and use the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key to return to the `bulk-recording` menu item.
+4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the `bulk-recording` menu item.
 
 5. If you would like to deactivate all the values ​​to be recorded again, select the `Enable all + reset order` setting option in the menu item `Recorded values` and confirm with `OK`.
 

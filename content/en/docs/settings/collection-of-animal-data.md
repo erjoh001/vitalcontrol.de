@@ -75,7 +75,7 @@ To set the `average daily weight gain` on your device proceed as follows.
 
 ### Save and return to the top menu Data acquisition
 
-- Save the settings and return to the top menu `Data acquisition` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Data acquisition` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
 
 ## Set Rating of animals
 
@@ -114,4 +114,4 @@ To set the `Control period fresh cows` on your device proceed as follows.
 
 ## Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.

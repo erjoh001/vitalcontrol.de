@@ -72,7 +72,7 @@ Um die `Mittlere Tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie f
 
 ### Einstellungen speichern und zurück in das Obermenü Datenerfassung
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü `Datenerfassung`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tierdatenerfassung`.
 
 ## Tierbewertung einstellen
 
@@ -117,4 +117,4 @@ Um die Länge der Kontrolle der Frischmelker auf ihrem Gerät festzulegen gehen 
 
 ## Einstellungen speichern und zurück zum Obermenü Einstellungen
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" /> `F1` Taste zurück in das Obermenü `Einstellungen`.
+- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und Zurück" /> zurück in das Obermenü `Einstellungen`.

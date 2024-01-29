@@ -33,13 +33,13 @@ Innerhalb des Menüpunktes Massenzuganges haben Sie noch weitere Einstellungsmö
 
 Mit dieser Einstellungsoption bestimmten Sie, ob das Geburtsdatum beim Anlegen der Tiere mit angegeben werden muss. Deaktivieren Sie diese Option müssen Sie nur noch den Barcode scannen um ein Tier einzuspeichern. Bei diesen Tieren wird dann jedoch das aktuelle Datum als Geburtsdatum hinterlegt! Diese Funktion ist standardmäßig aktiviert. Um Sie zu deaktivieren gehen Sie wie folgt vor:
 
-1. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungsmenü" /> `An/Aus` Taste um das Einstellungsmenü zu öffnen.
+1. Verwenden Sie die `An/Aus` Taste &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen Massenzugang" /> um das Einstellungsmenü für den Massenzugang zu öffnen.
 
 2. Verwenden Sie die Pfeiltasten △ ▽ um die Einstellungsoption `Geburtsdatum muss angegeben werden` auszuwählen und bestätigen Sie mit `OK`.
 
 3. Der gelbe Kreis symbolisiert, dass die Funktion aktiviert ist. Ein grauer Kreis symbolisiert, dass die Funktion deaktiviert ist.
 
-4. Speichern Sie die Einstellungen und gelangen Sie mit der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen Sie mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück zum Menüpunkt `Massenzugang`.
 
    ![VitalControl: Menüfolge Neu Massenzugang](../bilder/geburtsdatum.png "Geburtsdatum muss angegeben werden aktivieren bzw. deaktivieren")
 
@@ -53,7 +53,7 @@ Innerhalb des Einstellungsmenüs `Standardwerte` legen Sie Standards fest die f�
 
 3. Es öffnet sich ein Untermenü mit den unterschiedlichen Einstellungsmöglichkeiten. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
-4. Speichern Sie die Einstellungen und gelangen sie mit der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen sie mit der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück zum Menüpunkt `Massenzugang`.
 
    ![VitalControl: Menüfolge Neu Standardwerte](../bilder/standardwerte.png "Standardwerte einstellen")
 
@@ -67,7 +67,7 @@ Innerhalb des Einstellungsmenüs `Erfasste Werte` legen Sie fest, welche Werte z
 
 3. Wählen Sie den gewünschten zu erfassenden Wert mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Es erscheint ein gelber Kreis. Möchten Sie den zu erfassenden Wert wieder deaktivieren bestätigen Sie erneut mit `OK`. Der gelbe Kreis verschwindet.
 
-4. Speichern Sie die Einstellungen und gelangen Sie mit der <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen Sie mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück zum Menüpunkt `Massenzugang`.
 
 5. Möchten Sie alle zu erfassenden Werte wieder deaktivieren wählen Sie im Menüpunkt `Erfasste Werte` unten die Einstellungsoption Reihenfolge zurücksetzen und bestätigen Sie mit `OK`.
 

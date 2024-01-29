@@ -54,6 +54,6 @@ Innerhalb der Trockensteherliste können Sie direkt für ein individuelles Tier 
 
 6. Es öffnet sich ein weiteres Einstellungsmenü in dem Sie verschiedene Angaben zu dem neuen Kalb speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die entsprechende Einstellungsoption auszuwählen. Für die Einstellungsoptionen `Art des Nutztieres`, `Geschlecht`, `Geburtsgewicht`, `Rasse`, `Verbleib`, `Einling/Mehrling` und `Geburtsverlauf` verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellung zu wählen. Für die Einstellungsoptionen `Ohrmarkennummer`, `ID` und `Geburtsdatum` wählen Sie die entsprechende Einstellungsoption aus und bestätigen Sie mit `OK`. Verwenden Sie nun die Pfeiltasten △ ▽ ◁ ▷ um die gewünschten Zahlen auszuwählen.
 
-7. Speichern Sie die Einstellungen mit der Taste <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" /> `F3`.
+7. Speichern Sie die Einstellungen mit der `F3` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und Zurück" />&nbsp;.
 
    ![VitalControl Listen Trockensteherliste](../bilder/abkalbung.png "Abkalbung erfassen")

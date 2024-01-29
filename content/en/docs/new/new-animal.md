@@ -27,7 +27,7 @@ To create a new animal, proceed as follows:
 
 6. For the settings `national animal ID`, `ID` and `date of birth` use the arrow keys △ ▽ to select the desired setting option and confirm with `OK`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `OK`.
 
-7. Save the settings and create the new animal with the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F3` key.
+7. Save the settings and create the new animal with the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F3` key.
 
 {{% alert title="Hint" %}}
 Further information and setting options for creating new animals can be found [here](../../settings/animal-registration/).

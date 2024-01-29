@@ -54,7 +54,7 @@ Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen 
 
 2. Wählen Sie mit den Pfeiltasten ◁ ▷ zwischen `Listenansicht` und `Einzelansicht`.
 
-3. Speichern Sie ihre Einstellung mit der Taste <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und zurück" /> `F1`. Verwenden Sie innerhalb der Einzelansicht die Pfeiltasten ◁ ▷ um zwischen den Tieren zu wechseln.
+3. Speichern Sie ihre Einstellung mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp;. Verwenden Sie innerhalb der Einzelansicht die Pfeiltasten ◁ ▷ um zwischen den Tieren zu wechseln.
 
     ![VitalControl: Menüfolge Zugänge Geburten](../bilder/wechsel.png "Wechsel zwischen Listen- und Einzelansicht")
 

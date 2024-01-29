@@ -53,7 +53,7 @@ Some actions are identical to the actions in the `Purchased animals` list. Follo
 
 2. Use the arrow keys ◁ ▷ to choose between `list view` and `animal view`.
 
-3. Save your setting with the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F1` key. Within the list view, use the arrow keys ◁ ▷ to switch between the animals.
+3. Save your setting with the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key. Within the list view, use the arrow keys ◁ ▷ to switch between the animals.
 
     ![VitalControl: Menu New on farm Births](../images/change.png "Change between list view and single animal view")
 

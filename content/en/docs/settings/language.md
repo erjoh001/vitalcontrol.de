@@ -20,7 +20,7 @@ To set the language of your VitalControl device, proceed as follows:
 
    ![VitalControl: Menu path Language settings](../images/select-lang.png "Setting your language")
 
-1. Press the upper left key <img src="/icons/save-return.svg" width="25" align="bottom" alt="Speichern und Zurück" />  `F1` twice to return to the main menu.
+1. Press the upper left key <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und Zurück" />  `F1` twice to return to the main menu.
 
 The language on your VitalControl device is now set and permanently stored.
 

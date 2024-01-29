@@ -39,7 +39,7 @@ The action chain allows you to automatically carry out several actions for an an
 
 2. Use the button `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`settings`).
 
-3. An overlay screen pops up. Use the arrow keys △ ▽ to choose between the listed actions 1 - 4 (you can perform up to four actions in a row). Use the arrow keys ◁ ▷ to select the desired action for the respective action. Save the settings with the `F1` <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" />  key.
+3. An overlay screen pops up. Use the arrow keys △ ▽ to choose between the listed actions 1 - 4 (you can perform up to four actions in a row). Use the arrow keys ◁ ▷ to select the desired action for the respective action. Save the settings with the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
 4. If you want to reset the entire action chain, select the option `Reset chain of actions` in the submenu using the arrow keys △ ▽ and confirm with `OK`.
 

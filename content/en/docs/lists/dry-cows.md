@@ -52,6 +52,6 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 6. Another settings menu opens in which you can save various details about the new calf. Use the arrow keys △ ▽ to select the appropriate setting option. For the setting options `Type of animal`, `Sex`, `Birth weight`, `Breed`, `Whereabouts`, `Multiples` and `Calving ease` use the arrow keys △ ▽ to select the desired setting. For the setting options `National animal ID`, `ID` and `Date of birth` select the corresponding setting option and confirm with `OK`. Now use the arrow keys △ ▽ ◁ ▷ to select the desired numbers.
 
-7. Save the settings with the <img src="/icons/save-return.svg" width="25" align="bottom" alt="Save and return" /> `F3` key.
+7. Save the settings with the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F3` key.
 
    ![VitalControl Lists Dry cows list](../images/calving.png "Calving")
