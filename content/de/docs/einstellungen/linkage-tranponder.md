@@ -35,7 +35,7 @@ Um die `Vergabe Tiernummern` auf ihrem Gerät festzulegen gehen Sie wie folgt vo
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die Vergabe der Tiernummern einzustellen.
 
-5. Wählen Sie die Option `Fortlaufend` oder `Ableitung von Transpondernummmer` und verfahren Sie dann wie in [Vergabe Tiernummern einstellen](../tiere-neu-anlegen/#vergabe-tiernummer-einstellen)
+5. Wählen Sie die Option `Fortlaufend` oder `Ableitung von Transpondernummer` und verfahren Sie dann wie in [Vergabe Tiernummern einstellen](../tiere-neu-anlegen/#vergabe-tiernummer-einstellen)
 	
     ![VitalControl: Menüfolge Einstellung Zuordnung Transponder Vergabe Tiernummern](../bilder/vergabetiernummer.png "Vergabe Tiernummern einstellen")
 

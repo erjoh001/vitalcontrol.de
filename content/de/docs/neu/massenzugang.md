@@ -53,7 +53,7 @@ Innerhalb des Einstellungsmenüs `Standardwerte` legen Sie Standards fest die f�
 
 3. Es öffnet sich ein Untermenü mit den unterschiedlichen Einstellungsmöglichkeiten. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
-4. Speichern Sie die Einstellungen und gelangen sie mit der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen sie mit der  `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp; zurück zum Menüpunkt `Massenzugang`.
 
    ![VitalControl: Menüfolge Neu Standardwerte](../bilder/standardwerte.png "Standardwerte einstellen")
 

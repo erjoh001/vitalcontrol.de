@@ -24,7 +24,7 @@ In this settings menu you determine which actions are displayed to you within th
 
 5. If you would like to `enable all + reset order`, select the corresponding menu item using the arrow keys and confirm with `OK`.
 
-6. Save the settings and use the &nbsp;<img src="/icons/footer/save_exit.svg" width="40" align="bottom" alt="Save and back" /> `F1` key to return to the &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` menu.
+6. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` menu.
 
     ![VitalControl: Menu Actions Menu items](../images/menu.png "Menu items")
 

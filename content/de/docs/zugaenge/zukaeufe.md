@@ -25,7 +25,7 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
 3. Es öffnet sich eine Liste mit Ihren Zukäufen, die Sie über den Menüpunkt Massenzugang registriert haben.
 
-4. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> `An/Aus` Taste und die Pfeiltasten ◁ ▷ um zwischen der Exportdatei für DSP-Herde und HI-Tier auszuwählen. Speichern Sie ihre Einstellungen mit der Taste <img src="/icons/footer/save_exit.svg" width="40" align="bottom" alt="Speichern und zurück" /> `F1`.
+4. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> `An/Aus` Taste und die Pfeiltasten ◁ ▷ um zwischen der Exportdatei für DSP-Herde und HI-Tier auszuwählen. Speichern Sie ihre Einstellungen mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp;.
 
 5. Verwenden Sie die Taste <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3`. Es öffnet sich ein Untermenü.
 

@@ -53,7 +53,7 @@ Within the `Default values` settings menu you set standards that apply to each a
 
 3. A submenu opens with the different setting options. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
 
-4. Save the settings and use the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key to return to the `bulk-recording` menu item.
+4. Save the settings and use the `F1` key&nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the `bulk-recording` menu item.
 
    ![VitalControl: Menu New Default values](../images/defaultvalues.png "Default values")
 

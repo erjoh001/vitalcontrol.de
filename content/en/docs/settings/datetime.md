@@ -42,6 +42,6 @@ To set the time on your device, follow these steps:
 
     ![VitalControl: menu settings time](../images/time.png "To set the time")
 
-## Save and return to the top menu Settings
+## Save and return to the top menu `Settings`
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

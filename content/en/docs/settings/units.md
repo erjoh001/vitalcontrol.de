@@ -41,4 +41,4 @@ To set the mass unit on your device, proceed as follows.
 
 ## Save and return to Settings top menu
 
-- Save the settings and use the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key to return to the main menu `Settings`.
+- Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings`.

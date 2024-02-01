@@ -27,7 +27,7 @@ Here you define which weight is recorded and saved when creating new animals on 
     ![VitalControl: menu settings Set recorded weight(s)](../images/recordweights.png "Set recorded weight(s)")
 
 {{% alert title="Hint" %}}
- Select "none" if: the animals are created automatically in the background (via transponder scan), no scale is available in the farm and no estimated values are wanted, the birth weights are unknown.
+ Select `none` if: the animals are created automatically in the background (via transponder scan), no scale is available in the farm and no estimated values are wanted, the birth weights are unknown.
 {{% /alert %}}
 
 ### Set age at registration
@@ -116,7 +116,7 @@ Here you define which whereabouts are assigned to the animals when creating new 
 
 ### Save and return to the top menu Settings
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
 ## Auto-registration
 
@@ -158,14 +158,14 @@ To define the assignment of the animal ID when creating the farm animal on your 
 
 5. Use the arrow keys ◁ ▷ to set the assignment of the animal ID of the working animal when creating.
 
-6. If you select the setting `Consecutive`, you have the option of specifying the `Next animal ID`. Use the arrow keys △ ▽ to select the `Next animal ID` area and confirm with `OK`. Navigate within the area using the arrow keys ◁ ▷. Now you can select a number using the arrow keys △ ▽. The device will now automatically use this number to start the continuous count from there. Furthermore, you can set whether the numbers are to be counted continuously increasing or continuously decreasing. To do this, use the arrow keys ◁ ▷ to go to the 9/1 symbol. Use the arrow keys △ ▽ to toggle between counting continuously increasing or continuously decreasing. Save the settings using the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` or `OK` key.
+6. If you select the setting `Consecutive`, you have the option of specifying the `Next animal ID`. Use the arrow keys △ ▽ to select the `Next animal ID` area and confirm with `OK`. Navigate within the area using the arrow keys ◁ ▷. Now you can select a number using the arrow keys △ ▽. The device will now automatically use this number to start the continuous count from there. Furthermore, you can set whether the numbers are to be counted continuously increasing or continuously decreasing. To do this, use the arrow keys ◁ ▷ to go to the 9/1 symbol. Use the arrow keys △ ▽ to toggle between counting continuously increasing or continuously decreasing. Save the settings using the `F1` or `OK` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid2.png "Assignment animal ID")
 
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid3.png "assignment animal ID")
 
 {{% alert title = "Hint" %}}
-Only when using the "Consecutive" option: if you have set to use separate number ranges for male and female animals when assigning the ear tag number, a next animal number is stored for each of male, female and animals of unknown sex. A symbol placed to the left of the animal number indicates what the next animal number is used for: either for male ♀ or for female ♂ or for animals of unknown sex ♀♂?
+Only when using the option `Consecutive`: if you have set to use separate number ranges for male and female animals when assigning the ear tag number, a next animal number is stored for each of male, female and animals of unknown sex. A symbol placed to the left of the animal number indicates what the next animal number is used for: either for male ♀ or for female ♂ or for animals of unknown sex ♀♂?
 {{% /alert %}}
 
 ### Digit of the new ID
@@ -207,9 +207,9 @@ To set the offset to the right of the animal on your device, proceed as follows:
 
     ![VitalControl: menu settings right offset](../images/rightoffset.png "right offset")
 
-### Save and return to the top menu Settings
+### Save and return to the top menu `Settings`
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
 ## Assignment ear tag number
 
@@ -225,12 +225,12 @@ Here you define whether one or two number ranges are used when assigning the ear
 
     ![VitalControl: menu settings Assignment ear tag number](../images/assignmenteartagnumber.png "Assignment ear tag number")
 
-## Save and return to the top menu Registration of animals
+## Save and return to the top menu `Registration of animals`
 
-- Save the settings and return to the top menu `Registration of animals` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu `Registration of animals` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
-## Save and return to the top menu Settings
+## Save and return to the top menu `Settings`
 
-- Save the settings and return to the top menu `Settings` by pressing the <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> `F1` key.
+- Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
 

@@ -40,7 +40,7 @@ Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisc
 
 2. Drücken Sie die `F2` Taste  &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`Einstellungen`).
 
-3. Es öffnet sich ein Untermenü. Verwenden Sie die Pfeiltasten △ ▽ um zwischen den Aktionsnummern zu wählen. Sie können bis zu vier Aktionen hintereinander ausführen. Verwenden Sie die Pfeiltasten ◁ ▷ um für die jeweilige Aktionsnummer die gewünschte Aktion auszuwählen. Speichern Sie die Einstellungen mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />.
+3. Es öffnet sich ein Untermenü. Verwenden Sie die Pfeiltasten △ ▽ um zwischen den Aktionsnummern zu wählen. Sie können bis zu vier Aktionen hintereinander ausführen. Verwenden Sie die Pfeiltasten ◁ ▷ um für die jeweilige Aktionsnummer die gewünschte Aktion auszuwählen. Speichern Sie die Einstellungen mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp;.
 
 4. Wenn Sie die gesamte Aktionskette zurücksetzen möchten wählen Sie im Untermenü mit den Pfeiltasten △ ▽ die am Ende der Liste befindliche Option `Reset Aktionskette` und bestätigen Sie mit `OK`.
 
