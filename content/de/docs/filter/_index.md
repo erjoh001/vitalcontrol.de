@@ -22,11 +22,11 @@ Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
 2. Es öffnet sich ein Untermenü in dem Sie alle Filtermöglichkeiten einstellen können. Sie können nach `Tiernummer`, `Alter`, `Geschlecht`, `Transponder`, `Ohrmarkennummer`, `Fieber`, `Beobachtung`, `Art des Nutztiers` und `Alarm` filtern.
 
-3. Für die Filter `Art des Nutztieres`, `Geschlecht`, `Transponder`und `Ohrmarkennummer` navigieren Sie mit den Pfeiltasten △ ▽ auf das entsprechende Filterkriterium und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung festzulegen. Kehren Sie mit der <img src="/icons/back.svg" width="25" align="bottom" alt="Zurück" /> `F1` Taste zurück zu der Filterauswahl.
+3. Für die Filter `Art des Nutztieres`, `Geschlecht`, `Transponder`und `Ohrmarkennummer` navigieren Sie mit den Pfeiltasten △ ▽ auf das entsprechende Filterkriterium und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung festzulegen und drücken sie abschließend `Ok`, um den Editiermodus zu verlassen. Speichern Sie ihre Filtereinstellungen mittels der `F3` Taste `Anwenden` ab, wenn Sie ihre Filtereinstellungen erfolgreich vorgenommen haben. Durch Drücken der `F1` Taste &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Zurück" />&nbsp; können Sie ihre Änderungen auch verwerfen.
 
    ![VitalControl: Menüfolge Auswertungen Filter einstellen](bilder/filter3.png "Filter einstellen")
 
-4. Für die Filter `Tiernummer` und `Alter` wählen Sie das entsprechende Filterkriterium mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Ihnen wird nun eine Unter- und Obergrenze angezeigt. Navigieren Sie mit den Pfeiltasten △ ▽ auf die gewünschte Grenze und bestätigen Sie zweimal mit `OK`. Nun können Sie mittels der Pfeiltasten ◁ ▷  und Pfeiltasten △ ▽ die gewünschte Zahl einstellen. Kehren Sie mit der <img src="/icons/back.svg" width="25" align="bottom" alt="Zurück" /> `F1` oder <img src="/icons/anwenden.svg" width="25" align="bottom" alt="Anwenden" /> `F3` Taste zurück zu der Filterauswahl.
+4. Für die Filter `Tiernummer` und `Alter` wählen Sie das entsprechende Filterkriterium mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Ihnen wird nun eine Unter- und Obergrenze angezeigt. Navigieren Sie mit den Pfeiltasten △ ▽ auf die gewünschte Grenze und bestätigen Sie zweimal mit `OK`. Nun können Sie mittels der Pfeiltasten ◁ ▷  und Pfeiltasten △ ▽ die gewünschte Zahl einstellen. Nachdem ihre Einstellungen korrekt sind, drücken Sie `OK`, um den Editiermodus zu verlassen. Speichern Sie die ausgewählten Filtereinstellungen mittels der `F3` Taste `Anwenden` ab. Mit der `F1` Taste <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Zurück" />&nbsp; können Sie ihre getätigten Filtereinstellungen auch verwerfen.
 
    ![VitalControl: Menüfolge Auswertungen Filter einstellen](bilder/filter1.png "Filter einstellen")
 
@@ -34,4 +34,4 @@ Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
    ![VitalControl: Menüfolge Auswertungen Filter einstellen](bilder/filter2.png "Filter einstellen")
 
-6. Sobald Sie alle Filter eingestellt haben nutzen Sie die Taste <img src="/icons/anwenden.svg" width="25" align="bottom" alt="Anwenden" /> `F3` oder <img src="/icons/back.svg" width="25" align="bottom" alt="Zurück" /> `F1` um die vereinbarten Filter anzuwenden.
+6. Sobald Sie alle Filter eingestellt haben nutzen Sie die `F3` Taste `Anwenden` um die vereinbarten Filtereinstellungen abzuspeichern. Durch Drücken der `F1` Taste <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Zurück" /> werden die vereinbarten Filtereinstellungen verworfen.

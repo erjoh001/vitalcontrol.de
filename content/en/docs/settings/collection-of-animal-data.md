@@ -24,17 +24,15 @@ To set the `Daily weight gain` on your device proceed as follows.
 
 2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animals` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
 
 4. The `Daily weight gain` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `OK`. Alternatively, you can use the pencil icon with the <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `F3` key to jump directly to editing the red and yellow areas.
 
 5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the keys `F2`/`F3` 🡄 🡆 or the arrow keys ◁ ▷ to select between the red and yellow areas.
 
-6. Once you have set the desired "greater than" or "equal to" g/day increase, use the back arrow with the <img src="/icons/back.svg" width="25" align="bottom" alt="Arrow" /> `F1` key to jump back to `Daily weight gain` or confirm with `OK`.
+6. Once you have set the desired "greater than" or "equal to" g/day increase, use the `F1` key <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Exit" /> or confirm with `OK` to jump back to `Daily weight gain`.
 
     ![VitalControl: menu settings daily weight gain](../images/dailyweightgain.png "Daily weight gain")
-
-
 
 ### Set birth weight
 
@@ -71,7 +69,6 @@ To set the `average daily weight gain` on your device proceed as follows.
 4. Use the arrow keys △ ▽ to select the setting field `Average daily weight gain`. Use the arrow keys ◁ ▷ to set the desired average daily increase g/day. The device now uses the average daily gain defined here as the standard for the expected daily gain of the animals.
 
     ![VitalControl: menu settings average daily weight gain](../images/averagedailyweightgain.png "Average daily weight gain")
-
 
 ### Save and return to the top menu Data acquisition
 

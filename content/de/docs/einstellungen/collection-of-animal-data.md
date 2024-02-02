@@ -29,7 +29,7 @@ Um die `Tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 5. Nutzen Sie die Pfeiltasten △ ▽ um im roten und gelben Bereich die gewünschte "größer gleich" g/Tag Zunahme auszuwählen. Nutzen Sie die Tasten `F2`/`F3` 🡄 🡆 oder die Pfeiltasten ◁ ▷ um zwischen dem roten und dem gelben Bereich zu wählen.
 
-6. Sobald Sie die gewünschte "größer gleich" g/Tag Zunahme festgelegt haben, nutzen Sie den Zurück-Pfeil mit der Taste <img src="/icons/back.svg" width="25" align="bottom" alt="Zurück" /> `F1` um zurück auf `Tägliche Zunahmen` zu springen oder bestätigen Sie mit `OK`.
+6. Sobald Sie die gewünschte "größer gleich" g/Tag Zunahme festgelegt haben, nutzen Sie die `F1` Taste <img src="/icons/footer/exit.svg" width="24" align="bottom" alt="Zurück" />&nbsp; oder bestätigen Sie mit `OK` um zurück auf `Tägliche Zunahmen` zu springen.
 
     ![VitalControl: Menüfolge Einstellung Tierdaten Tägliche Zunahme](../bilder/täglichezunahme2.png "Tägliche Zunahme einstellen")
 

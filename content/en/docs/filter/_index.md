@@ -21,11 +21,11 @@ To create a filter in the evaluations, proceed as follows:
 
 2. A submenu opens in which you can set all filter options. You can filter by `Animal ID`, `Age`, `Sex`, `Transponder`, `National animal ID`, `Fever`, `On watch`, `Type of animal` and `Alarm`.
 
-3. For the filters `Type of animal`, `Sex`, `Transponder` and `National animal ID` navigate to the corresponding area and confirm with `OK`. Use the arrow keys ◁ ▷ to specify the desired setting. Return to the filter selection with the <img src="/icons/back.svg" width="25" align="bottom" alt="Back" /> `F1` key.
+3. For the filters `Type of animal`, `Sex`, `Transponder` and `National animal ID` navigate to the corresponding area and confirm with `OK`. Use the arrow keys ◁ ▷ to specify the desired setting. Use `F3` key `Apply` to put the selected setting in place. To discard your filter changes, press `F1` key &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Back" />&nbsp;.
 
    ![VitalControl: menu Evaluation Create filter](images/filter.png "Create filter")
 
-4. For the filters `Animal ID` and `Age` select the corresponding range and confirm with `OK`. You will now be shown a lower and upper limit. Navigate to the desired limit using the arrow keys △ ▽ and confirm by pressing `OK` twice. Now you can set the desired number using the arrow keys ◁ ▷ and arrow keys △ ▽. Return to the filter selection with the <img src="/icons/back.svg" width="25" align="bottom" alt="Back" /> `F1` key.
+4. For the filters `Animal ID` and `Age` select the corresponding criterion and confirm with `OK`. You will now be shown a lower and upper limit. Navigate to the desired limit using the arrow keys △ ▽ and confirm by pressing `OK` twice. Now you can set the desired number using the arrow keys ◁ ▷ and arrow keys △ ▽. Once all settings are correct press `OK` again to leave the setting mode and apply the selected filter(s) with `F3` key `Apply`. Using the `F1` key &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Back" />&nbsp;, you can discard your changes if desired.
 
    ![VitalControl: menu Evaluation Create filter](images/filter2.png "Create filter")
 
@@ -33,4 +33,4 @@ To create a filter in the evaluations, proceed as follows:
 
    ![VitalControl: menu Evaluation Create filter](images/filter3.png "Create filter")
 
-6. Once you have set all the filters, use the <img src="/icons/apply.svg" width="25" align="bottom" alt="Apply" /> `F3` or <img src="/icons/back.svg" width="25" align="bottom" alt="Back" /> `F1` key to apply the filters.
+6. Once you have set all the filters, use the `F3` key `Apply` to put the defined filters in place or press `F1` key <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Back" /> to discard your changes to the filter(s).

@@ -128,6 +128,6 @@ Sie haben jederzeit die Möglichkeit das Aktionsmenü für ein Tier aufzurufen.
 
 3. Das Aktionsmenü ist nun geöffnet. Wie Sie dieses anwenden finden Sie [hier](../aktionen).
 
-4. Kehren Sie durch Drücken der Taste <img src="/icons/back.svg" width="25" align="bottom" alt="Zurück" /> `F3` zurück zur Herdenliste.
+4. Kehren Sie durch Drücken der `F1` Taste <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Zurück" />&nbsp; zurück zum Hauptmenü. Alternativ können Sie mit `F3` zurück zur Herdenliste wechseln um das nächste Tier auszuwählen.
 
     ![VitalControl: Menüfolge Herde](bilder/aktionenaufrufen.png "Aktionen aufrufen")
