@@ -25,7 +25,7 @@ Um die `Tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
 
-4. Das Einstellungsfeld `Tägliche Zunahmen` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen. Bestätigen Sie mit `OK`. Alternativ können Sie das Stiftsymbol mit der Taste <img src="/icons/edit.svg" width="25" align="bottom" alt="Einstellungen" /> `F3` verwenden um direkt zur Bearbeitung des Roten und Gelben Bereiches zu springen.
+4. Das Einstellungsfeld `Tägliche Zunahmen` ist automatisch ausgewählt. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen. Bestätigen Sie mit `OK`. Alternativ können Sie das Stiftsymbol mit der Taste <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" /> `F3` verwenden um direkt zur Bearbeitung des Roten und Gelben Bereiches zu springen.
 
 5. Nutzen Sie die Pfeiltasten △ ▽ um im Roten und Gelben Bereich die gewünschte "größer gleich" g/Tag Zunahme auszuwählen. Nutzen Sie die Tasten <img src="/icons/arrow.svg" width="25" align="bottom" alt="Arrow" /> `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Roten und Gelben Bereich zu wählen.
 

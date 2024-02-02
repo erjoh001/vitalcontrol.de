@@ -26,7 +26,7 @@ To set the `Daily weight gain` on your device proceed as follows.
 
 3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
 
-4. The `Daily weight gain` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `OK`. Alternatively, you can use the pencil icon with the <img src="/icons/edit.svg" width="25" align="bottom" alt="Edit" /> `F3` key to jump directly to editing the red and yellow areas.
+4. The `Daily weight gain` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `OK`. Alternatively, you can use the pencil icon with the <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `F3` key to jump directly to editing the red and yellow areas.
 
 5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the <img src="/icons/arrow.svg" width="25" align="bottom" alt="Arrow" /> `F3` keys or the ◁ ▷ arrow keys to select between the Red and Yellow areas.
 
