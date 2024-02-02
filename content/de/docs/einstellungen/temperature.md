@@ -6,12 +6,12 @@ weight: 30
 draft: false
 slug: temperatur
 description: >
- Legen Sie die Temperatureinstellungen für die Anwendung ihres VitalControl Gerät fest.
+ Legen Sie die Temperatureinstellungen bei der Anwendung ihres VitalControl Gerät fest.
 Kategorien: [Einstellungen]
 Tags: [Einstellungen, Temperatur, Schwellenwert, Beleuchtung Messort]
 translationKey: settings/temperature
 ---
-## Tierart des Schwellenwertes & Temperaturbereiche einstellen
+## Tierartspezifische Schwellenwerte & Temperaturbereiche einstellen
 {{% alert title = "Hinweis" %}}
 Hier sind Schwellenwerte für die Körpertemperatur jeweils individuell für die Tierarten Kalb, Kuh und Lamm hinterlegt. Das gelbe und das rote Feld zeigen jeweils den Schwellenwert für „erhöhte Temperatur“ bzw. für „Fieber“. VitalControl setzt Tiere im gelben und roten Bereich auf die Alarmliste und erleichtert Ihnen so die Kontrolle kranker Tiere. Ein Schwellenwert für Untertemperatur kann ebenfalls frei definiert werden.
 {{% /alert %}}
@@ -26,7 +26,7 @@ Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzul
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Tierart auszuwählen.
 
-5. Nutzen Sie das Stiftsymbol mit der Taste <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" /> `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten <img src="/icons/arrow.svg" width="25" align="bottom" alt="Pfeil" /> `F3` oder die Pfeiltasten ◁ ▷ um zwischen dem Gelben und Roten Bereiche zu wählen.
+5. Nutzen Sie das Stiftsymbol mit der Taste <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" /> `F3` oder den Button `OK` um den Schwellenwert des gelben und roten Bereiches einzustellen. Nutzen Sie die Pfeile △ ▽ um die gewünschte "größer gleich" Temperatur einzustellen. Nutzen Sie die Tasten `F2`/`F3` 🡄 🡆 oder die Pfeiltasten ◁ ▷ um zwischen dem gelben und dem roten Bereich zu wechseln.
 
 6. Sobald Sie die gewünschte "größer gleich" Temperatur festgelegt haben, nutzen Sie den Zurück-Pfeil mit der Taste `F1` um zurück auf `Schwellenwerte` zu springen.
 

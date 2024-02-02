@@ -28,7 +28,7 @@ To set the `Daily weight gain` on your device proceed as follows.
 
 4. The `Daily weight gain` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `OK`. Alternatively, you can use the pencil icon with the <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `F3` key to jump directly to editing the red and yellow areas.
 
-5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the <img src="/icons/arrow.svg" width="25" align="bottom" alt="Arrow" /> `F3` keys or the ◁ ▷ arrow keys to select between the Red and Yellow areas.
+5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the keys `F2`/`F3` 🡄 🡆 or the arrow keys ◁ ▷ to select between the red and yellow areas.
 
 6. Once you have set the desired "greater than" or "equal to" g/day increase, use the back arrow with the <img src="/icons/back.svg" width="25" align="bottom" alt="Arrow" /> `F1` key to jump back to `Daily weight gain` or confirm with `OK`.
 
