@@ -411,7 +411,7 @@ ActionSettings={1:"Pode\u0161avanje aktivnosti",2:"\u041D\u0430\u0441\u0442\u044
 "m\xE1s, \xA1por favor ten paciencia!"};C.Basic={1:"osnovno",2:"\u041E\u0441\u043D\u043E\u0432\u0435\u043D"
 ,3:"\u57FA\u672C",4:"Z\xE1klad",0:"Basic",5:"Simpel",6:"Alg",7:"Perustieto",8:"Simple"
 ,9:"Einfach",10:"\u0392\u03B1\u03C3\u03B9\u03BA\u03AC",13:"Grunnleggende",15:"\u0411\u0430\u0437\u043E\u0432\u044B\u0439"
-,16:"B\xE1sico",17:"Temel",18:"\u0411\u0430\u0437\u043E\u0432\u0438\u0439"};C.Beg={
+,16:"B\xE1sico",17:"Temel",18:"\u0411\u0430\u0437\u043E\u0432\u0438\u0439"};C.Bek={
 1:"Baterija \u0107e se isprazniti!",2:"\u0411\u0430\u0442\u0435\u0440\u0438\u044F\u0442\u0430 \u0435 \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u043E "+
 "\u0438\u0437\u0442\u043E\u0449\u0435\u043D\u0430!",3:"\u96FB\u6C60\u96FB\u91CF\u56B4\u91CD\u4E0D\u8DB3\uFF01"
 ,4:"Stav baterie p\u0159\xEDli\u0161 n\xEDzk\xFD",0:"Battery is critically low!"
@@ -436,7 +436,7 @@ ActionSettings={1:"Pode\u0161avanje aktivnosti",2:"\u041D\u0430\u0441\u0442\u044
 ,15:"\u0411\u0430\u0442\u0430\u0440\u0435\u044F: \u043E\u0447\u0435\u043D\u044C "+
 "\u043D\u0438\u0437\u043A\u0438\u0439 \u0437\u0430\u0440\u044F\u0434!",16:"\xA1Bater\xEDa baja!"
 ,18:"\u0414\u0443\u0436\u0435 \u043D\u0438\u0437\u044C\u043A\u0438\u0439 \u0437\u0430\u0440\u044F\u0434 "+
-"\u0431\u0430\u0442\u0430\u0440\u0435\u0457!"};C.Bei={1:"trenutno + ro\u0111enje"
+"\u0431\u0430\u0442\u0430\u0440\u0435\u0457!"};C.Bem={1:"trenutno + ro\u0111enje"
 ,2:"\u041D\u0430\u0441\u0442\u043E\u044F\u0449\u043E + \u0440\u0430\u0436\u0434\u0430\u043D\u0435"
 ,3:"\u76EE\u524D\u7684+\u51FA\u751F",4:"Porodn\xED hmotnost aktu\xE1ln\xED",0:"Current + birth"
 ,5:"Huidig+ Geboorte",6:"Praegune + s\xFCnd",7:"Nykyinen paino + syntym\xE4paino"
@@ -444,7 +444,7 @@ ActionSettings={1:"Pode\u0161avanje aktivnosti",2:"\u041D\u0430\u0441\u0442\u044
 "\u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03C1\u03AD\u03C7\u03BF\u03BD\u03C4\u03BF\u03C2"
 ,13:"N\xE5v\xE6rende + kalving",15:"\u0422\u0435\u043A\u0443\u0449\u0435\u0435 + \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u0435"
 ,16:"Actual + nacimiento",18:"\u041D\u0438\u043D\u0456\u0448\u043D\u0456\u0439 + \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F"
-};C.A22={0:"Birth date mandatory",9:"Geburtsdatum muss angegeben werden"};C.Bej={
+};C.A22={0:"Birth date mandatory",9:"Geburtsdatum muss angegeben werden"};C.Ben={
 0:"Birth notices were deleted after export!",8:"Les d\xE9clarations de naissance ont \xE9t\xE9 supprim\xE9es apr\xE8s l\'exportation\xA0!"
 ,9:"Geburtsmeldungen wurden nach Export gel\xF6scht!",15:"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0431\u044B\u043B\u0438 "+
 "\u0443\u0434\u0430\u043B\u0435\u043D\u044B \u043F\u043E\u0441\u043B\u0435 "+"\u044D\u043A\u0441\u043F\u043E\u0440\u0442\u0430!"
@@ -465,7 +465,7 @@ ActionSettings={1:"Pode\u0161avanje aktivnosti",2:"\u041D\u0430\u0441\u0442\u044
 "\u0443\u0434\u0432\u043E\u0438\u043B\u0441\u044F \u0447\u0435\u0440\u0435\u0437"
 ,16:"Peso al nacer duplicado despu\xE9s de",18:"\u0412\u0430\u0433\u0430 \u043F\u0440\u0438 \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u0456 "+
 "\u043F\u043E\u0434\u0432\u043E\u0457\u043B\u0430\u0441\u044F \u0447\u0435\u0440\u0435\u0437"
-};C.Bel={1:"na ro\u0111enju",2:"\u041F\u0440\u0438 \u0440\u0430\u0436\u0434\u0430\u043D\u0435"
+};C.Bep={1:"na ro\u0111enju",2:"\u041F\u0440\u0438 \u0440\u0430\u0436\u0434\u0430\u043D\u0435"
 ,3:"\u51FA\u751F\u6642",4:"Porodn\xED hmotnost",0:"At birth",5:"Bij geboorte",6:
 "S\xFCndides",7:"Syntym\xE4ss\xE4",8:"\xE0 la naissance",9:"Bei Geburt",10:"\u039B\u03AF\u03C3\u03C4\u03B1 \u03B2\u03B1\u03C1\u03CE\u03BD \u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7\u03C2"
 ,13:"Ved f\xF8dsel",15:"\u041F\u0440\u0438 \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u0438"
@@ -474,7 +474,7 @@ ActionSettings={1:"Pode\u0161avanje aktivnosti",2:"\u041D\u0430\u0441\u0442\u044
 "Syntym\xE4~painot",8:"Poids de naissance",9:"Geburts~gewichte",10:"\u0392\u03AC\u03C1\u03B7 \u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7\u03C2"
 ,13:"F\xF8dselsvekter",15:"\u0412\u0435\u0441 \u043F\u0440\u0438 \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u0438"
 ,16:"Peso al nacer",18:"\u0412\u0430\u0433\u0430 \u043F\u0440\u0438 \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u0456"
-};C.AAt={0:"Births",9:"Geburten",16:"Nacimientos"};C.Ben={0:"Bovine/cattle",6:"Veised"
+};C.AAt={0:"Births",9:"Geburten",16:"Nacimientos"};C.Ber={0:"Bovine/cattle",6:"Veised"
 ,8:"Bovine",9:"Rind",10:"\u0392\u03BF\u03BF\u03B5\u03B9\u03B4\u03AD\u03C2",13:"Bovine/storfe"
 ,15:"\u041A\u0420\u0421",16:"Bovino"};C.Breed={2:"\u041F\u043E\u0440\u043E\u0434\u0430"
 ,0:"Breed",6:"T\xF5ug",7:"Rotu",8:"Race",9:"Rasse",10:"\u03A1\u03AC\u03C4\u03C3\u03B1"
@@ -485,7 +485,7 @@ ActionSettings={1:"Pode\u0161avanje aktivnosti",2:"\u041D\u0430\u0441\u0442\u044
 ,13:"Lysstyrke",15:"\u042F\u0440\u043A\u043E\u0441\u0442\u044C",16:"Brillo de la pantalla"
 ,17:"Parlakl\u0131k",18:"\u042F\u0441\u043A\u0440\u0430\u0432\u0456\u0441\u0442\u044C"
 };C.AAy={0:"Bulk recording",9:"Massenzugang"};C.A2_={0:"CSV export",9:"CSV-Export"
-};C.Bep={1:"tele",2:"\u0422\u0435\u043B\u0435",3:"\u5C0F\u725B",0:"Calf",5:"Kalf"
+};C.Bet={1:"tele",2:"\u0422\u0435\u043B\u0435",3:"\u5C0F\u725B",0:"Calf",5:"Kalf"
 ,6:"Vasikas",7:"Lehm\xE4vasikka",8:"Veau",9:"Kalb",10:"\u039C\u03BF\u03C3\u03C7\u03AC\u03C1\u03B9"
 ,13:"Kalv",15:"\u0422\u0435\u043B\u0451\u043D\u043E\u043A",16:"Ternero",17:"Buza\u011F\u0131"
 ,18:"\u0422\u0435\u043B\u044F"};C.ALh={1:"gubitak teladi",2:"\u0423\u043C\u0440\u0435\u043B\u0438"
@@ -518,13 +518,13 @@ ActionSettings={1:"Pode\u0161avanje aktivnosti",2:"\u041D\u0430\u0441\u0442\u044
 ,0:"Cancel",5:"Afbreken",6:"T\xFChista",7:"Poista",8:"Annuler",9:"Abbrechen",10:
 "\u0391\u03BA\u03CD\u03C1\u03C9\u03C3\u03B7",13:"Avbryt",15:"\u0417\u0430\u043A\u0440\u044B\u0442\u044C"
 ,16:"Cancelar",17:"\u0130ptal",18:"\u0417\u0430\u043A\u0440\u0438\u0442\u0438"};
-C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Latauss\xE4\xE4din"
+C.Bew={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Latauss\xE4\xE4din"
 ,8:"Contr\xF4le de chargeur",9:"Laderegler",10:"\u0395\u03BB\u03B5\u03B3\u03BA\u03C4\u03AE\u03C2 \u03C6\u03CC\u03C1\u03C4\u03B7\u03C3\u03B7\u03C2"
 ,13:"Ladekontroller",15:"\u0421\u0442\u0430\u0431\u0438\u043B\u0438\u0437\u0430\u0442\u043E\u0440 "+
 "\u0437\u0430\u0440\u044F\u0434\u043D\u043E\u0433\u043E \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430"
 ,16:"Laderegler",18:"\u0421\u0442\u0430\u0431\u0456\u043B\u0456\u0437\u0430\u0442\u043E\u0440 "+
 "\u0437\u0430\u0440\u044F\u0434\u043D\u043E\u0433\u043E \u043F\u0440\u0438\u0441\u0442\u0440\u043E\u044E"
-};C.Oi={1:"punjenje u toku",2:"\u0412 \u043F\u0440\u043E\u0446\u0435\u0441 \u043D\u0430 \u0437\u0430\u0440\u0435\u0436\u0434\u0430\u043D\u0435"
+};C.Oj={1:"punjenje u toku",2:"\u0412 \u043F\u0440\u043E\u0446\u0435\u0441 \u043D\u0430 \u0437\u0430\u0440\u0435\u0436\u0434\u0430\u043D\u0435"
 ,3:"\u6B63\u5728\u5145\u96FB",4:"Nab\xEDjen\xED prob\xEDh\xE1",0:"Charging in progress"
 ,5:"Batterij word geladen",6:"Laeb",7:"Lataus k\xE4ynniss\xE4",8:"La batterie est en charge."
 ,9:"Akku wird geladen",10:"\u0394\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03C6\u03CC\u03C1\u03C4\u03B7\u03C3\u03B7"
@@ -541,7 +541,7 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 ,7:"Valitse toiminto",8:"S\xE9lectionnez action",9:"Aktion ausw\xE4hlen",10:"\u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u03B5\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03B1"
 ,13:"Velg handling",15:"\u0412\u044B\u0431\u0440\u0430\u0442\u044C \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435"
 ,16:"Seleccionar accion",18:"\u0412\u0438\u0431\u0440\u0430\u0442\u0438 \u0434\u0456\u044E"
-};C.Beu={1:"odaberite sl aktivnost",2:"\u0418\u0437\u0431\u0435\u0440\u0438 \u0441\u043B\u0435\u0434\u0432\u0430\u0449\u043E "+
+};C.Bey={1:"odaberite sl aktivnost",2:"\u0418\u0437\u0431\u0435\u0440\u0438 \u0441\u043B\u0435\u0434\u0432\u0430\u0449\u043E "+
 "\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435",0:"Choose next action",6:"Vali j\xE4rgmine tegevus"
 ,7:"Valitse seuraava toiminto",8:"Action suivante",9:"N\xE4chste Aktion",10:"\u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u03C4\u03B7\u03BD \u03B5\u03C0\u03CC\u03BC\u03B5\u03BD\u03B7 "+
 "\u03B5\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03B1",13:"Velg neste handling",15:"\u0421\u043B\u0435\u0434\u0443\u044E\u0449\u0435\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435"
@@ -597,19 +597,19 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 ,9:"Kolostrumaufnahme",10:"\u0395\u03AF\u03C3\u03BF\u03B4\u03BF\u03C2 \u03C0\u03C1\u03C9\u03C4\u03BF\u03B3\u03AC\u03BB\u03B1\u03BA\u03C4\u03BF\u03C2"
 ,13:"R\xE5melk inntak",15:"\u041F\u043E\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435 \u043A\u043E\u043B\u043E\u0441\u0442\u0440\u0443\u043C\u0430(\u043C\u043E\u043B\u043E\u0437\u0438\u0432\u0430)"
 ,16:"Consumo de calostro",18:"\u0421\u043F\u043E\u0436\u0438\u0432\u0430\u043D\u043D\u044F \u043A\u043E\u043B\u043E\u0441\u0442\u0440\u0443\u043C\u0430 "+
-"(\u043C\u043E\u043B\u043E\u0437\u0438\u0432\u0430)"};C.Bew={1:"Naslov kolone",2:
+"(\u043C\u043E\u043B\u043E\u0437\u0438\u0432\u0430)"};C.BeA={1:"Naslov kolone",2:
 "\u0417\u0430\u0433\u043B\u0430\u0432\u0438\u044F \u043D\u0430 \u043A\u043E\u043B\u043E\u043D\u0438"
 ,3:"Spaltentitel",4:"Z\xE1hlav\xED sloupc\u016F",0:"Column headers",5:"Column titel"
 ,6:"Veeru pealkiri",7:"Sarakeotsikot",8:"En-t\xEAtes de colonne",9:"Spaltentitel"
 ,10:"\u0395\u03C0\u03B9\u03BA\u03B5\u03C6\u03B1\u03BB\u03AF\u03B4\u03B5\u03C2",13:
 "Kolonneoverskrifter",15:"\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u0441\u0442\u043E\u043B\u0431\u0446\u0430"
 ,16:"T\xEDtulos de columna",18:"\u041D\u0430\u0437\u0432\u0430 \u0441\u0442\u043E\u0432\u0431\u0447\u0438\u043A\u0443"
-};C.Bey={1:"Stanje",2:"\u041A\u043E\u043D\u0434\u0438\u0446\u0438\u044F",3:"\u72C0\u614B"
+};C.BeC={1:"Stanje",2:"\u041A\u043E\u043D\u0434\u0438\u0446\u0438\u044F",3:"\u72C0\u614B"
 ,4:"Kondice",0:"Condition",5:"Conditie",6:"Seisund",7:"Kunto",8:"\xC9tat",9:"Zustand"
 ,10:"\u039A\u03B1\u03C4\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7",13:"Tilstand",15:"\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 ,16:"Condici\xF3n",18:"\u0421\u0442\u0430\u043D"};C.ALy={2:"\u041A",3:"\u72C0\u614B"
 ,4:"Kondice po\u010D\xE1te\u010Dn\xED",0:"C",6:"S",7:"K",8:"E",9:"Z",10:"\u039A"
-,15:"Z"};C.Bez={1:"Korisnik potvrdio",2:"\u041F\u043E\u0442\u0432\u044A\u0440\u0434\u0435\u043D\u043E \u043E\u0442 "+
+,15:"Z"};C.BeD={1:"Korisnik potvrdio",2:"\u041F\u043E\u0442\u0432\u044A\u0440\u0434\u0435\u043D\u043E \u043E\u0442 "+
 "\u043F\u043E\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043B",3:"\u7528\u6236\u78BA\u8A8D"
 ,4:"Potvrzeno u\u017Eivatelem",0:"User confirmed",5:"Gebruiker bevestigt",6:"Kasutaja kinnitatud"
 ,7:"K\xE4ytt\xE4j\xE4 vahvistettu",8:"Utilisateur confirm\xE9",9:"Nutzer best\xE4tigt"
@@ -647,18 +647,18 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 "\u041A\u0456\u043B\u044C\u043A\u0456\u0441\u0442\u044C"};C.C2={1:"zemlja",2:"\u0421\u0442\u0440\u0430\u043D\u0430"
 ,3:"\u570B\u5BB6",4:"Zem\u011B",0:"Country",5:"Land",6:"Riik",7:"Maa",8:"Pays",9:
 "Land",10:"\u03A7\u03CE\u03C1\u03B1",13:"Land",15:"\u0421\u0442\u0440\u0430\u043D\u0430"
-,16:"Pa\xEDs",17:"\xDClke",18:"\u041A\u0440\u0430\u0457\u043D\u0430"};C.BeC={1:"krava"
+,16:"Pa\xEDs",17:"\xDClke",18:"\u041A\u0440\u0430\u0457\u043D\u0430"};C.BeG={1:"krava"
 ,2:"\u041A\u0440\u0430\u0432\u0430",3:"\u725B",4:"Kr\xE1va",0:"Cow",5:"Koe",6:"Lehm"
 ,7:"Lehm\xE4",8:"Vache",9:"Kuh",10:"\u0391\u03B3\u03B5\u03BB\u03AC\u03B4\u03B1",
 13:"Ku",15:"\u041A\u043E\u0440\u043E\u0432\u0430",16:"Vaca",17:"Inek",18:"\u041A\u043E\u0440\u043E\u0432\u0430"
-};C.BeD={1:"krava",2:"\u043A\u0440\u0430\u0432\u0430",3:"\u725B",0:"cow",5:"koe"
+};C.BeH={1:"krava",2:"\u043A\u0440\u0430\u0432\u0430",3:"\u725B",0:"cow",5:"koe"
 ,6:"lehm",7:"Lehm\xE4",8:"vache",9:"Kuh",10:"\u0391\u03B3\u03B5\u03BB\u03AC\u03B4\u03B1"
 ,13:"ku",15:"\u041A\u043E\u0440\u043E\u0432\u0430",16:"vaca",17:"Inek",18:"\u043A\u043E\u0440\u043E\u0432\u0430"
-};C.BeE={1:"krave",2:"\u043A\u0440\u0430\u0432\u0438",3:"\u5976\u725B",0:"cows",
+};C.BeI={1:"krave",2:"\u043A\u0440\u0430\u0432\u0438",3:"\u5976\u725B",0:"cows",
 5:"koeien",6:"lehmad",7:"lehm\xE4t",8:"vaches",9:"K\xFChe",10:"\u0391\u03B3\u03B5\u03BB\u03AC\u03B4\u03B5\u03C2"
 ,13:"Kyr",15:"\u041A\u043E\u0440\u043E\u0432\u044B",16:"vacas",17:"\u0130nekler"
 ,18:"\u043A\u043E\u0440\u043E\u0432\u0438"};C.AAQ={0:"Create backup",8:"Sauvegarder les donn\xE9s"
-,9:"Datensicherung erstellen",16:" Crear copia de seguridad"};C.BeF={1:"Kreiranje {1} novih \u017Eivotinja\n\n{2}%% obavljeno\n\nregistracija \u017Eivotinje "+
+,9:"Datensicherung erstellen",16:" Crear copia de seguridad"};C.BeJ={1:"Kreiranje {1} novih \u017Eivotinja\n\n{2}%% obavljeno\n\nregistracija \u017Eivotinje "+
 "{3}",2:"\u0421\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435 \u043D\u0430 {1} "+
 "\u043D\u043E\u0432\u0438 \u0436\u0438\u0432\u043E\u0442\u043D\u0438\n\n{2} "+"%% \u0433\u043E\u0442\u043E\u0432\u043E\n\n\u0421\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E {3}",3:"\u5EFA\u7ACB{1}\u96BB\u65B0\u5C0F\u725B\n\n{2} %%\u5DF2\u5B8C\u6210\n\n{3}\u96BB\u5C0F\u725B\u5EFA\u7ACB\u4E2D"
@@ -682,11 +682,11 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 ,5:"Huidig gewicht",6:"Paegune kaal",7:"Nykyinen paino",8:"Poids actuel",9:"Aktuelles Gewicht"
 ,10:"\u03A4\u03C1\u03AD\u03C7\u03C9\u03BD \u03B2\u03AC\u03C1\u03BF\u03C2",13:"N\xE5v\xE6rende vekt"
 ,15:"\u0422\u0435\u043A\u0443\u0449\u0438\u0439 \u0432\u0435\u0441",16:"Peso actual"
-,18:"\u041D\u0438\u043D\u0456\u0448\u043D\u044F \u0432\u0430\u0433\u0430"};C.BeH={
+,18:"\u041D\u0438\u043D\u0456\u0448\u043D\u044F \u0432\u0430\u0433\u0430"};C.BeL={
 1:"trenutno",2:"\u0422\u0435\u043A\u0443\u0449",3:"\u76EE\u524D\u7684",4:"Aktu\xE1ln\xED hmotnost zkr\xE1cen\xE1"
 ,0:"Current",5:"Huidig",6:"Praegune",7:"Nykyinen",8:"Actuel",9:"Aktuelles",10:"\u03A4\u03C1\u03AD\u03C7\u03C9\u03BD"
 ,13:"N\xE5v\xE6rende",15:"\u0422\u0435\u043A\u0443\u0449\u0438\u0439",16:"Actual"
-,18:"\u041D\u0438\u043D\u0456\u0448\u043D\u0456\u0439"};C.BeK="DSP Herde";C.AAT={
+,18:"\u041D\u0438\u043D\u0456\u0448\u043D\u0456\u0439"};C.BeO="DSP Herde";C.AAT={
 1:"Dnevni prirast",2:"\u0414\u043D\u0435\u0432\u0435\u043D \u043F\u0440\u0438\u0440\u0430\u0441\u0442"
 ,3:"\u65E5\u589E\u91CD",4:"Denn\xED p\u0159\xEDr\u016Fstek na v\xE1ze",0:"Daily weight gain"
 ,5:"Dagelijkse toenames",6:"P\xE4evane juurdekasv",7:"P\xE4iv\xE4kasvu",8:"Croissance journali\xE8re"
@@ -721,7 +721,7 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 "\u0434\u0430\u043D\u043D\u044B\u0445 \u0441 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C"
 ,16:"Sincronizaci\xF3n de datos",17:"Bilgi senkronizasyonu",18:"\u0421\u0438\u043D\u0445\u0440\u043E\u043D\u0456\u0437\u0430\u0446\u0456\u044F "+
 "\u0434\u0430\u043D\u0438\u0445 \u0456\u0437 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C"
-};C.BeL={1:"sinhronizacija podataka u toku {1}%% / obavljena",2:"\u0418\u0437\u0432\u044A\u0440\u0448\u0432\u0430 \u0441\u0435 \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0438\u0440\u0430\u043D\u0435 "+
+};C.BeP={1:"sinhronizacija podataka u toku {1}%% / obavljena",2:"\u0418\u0437\u0432\u044A\u0440\u0448\u0432\u0430 \u0441\u0435 \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0438\u0440\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0434\u0430\u043D\u043D\u0438\n\n{1} %% \u0437\u0430\u0432\u044A\u0440\u0448\u0435\u043D\u043E"
 ,3:"\u8CC7\u6599\u540C\u6B65\u4E2D\n\n{1} %% \u5B8C\u6210",4:"Synch. dat prob\xEDh\xE1\n{1} %% hotovo"
 ,0:"Data synchronization in progress\n\n{1} %% done",5:"Data word gesynchroniseerd\n\n{1} gedaan %%"
@@ -756,7 +756,7 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 ,18:"\u0414\u0435\u043D\u044C"};C.J3={1:"dani",2:"\u0434\u043D\u0438",3:"\u5929\u6578"
 ,4:"Dny",0:"days",5:"Dagen",6:"p\xE4evad",7:"P\xE4iv\xE4t",8:"jours",9:"Tage",10:
 "\u0397\u03BC\u03AD\u03C1\u03B5\u03C2",13:"Dager",15:"\u0414\u043D\u0438",16:"d\xEDas"
-,17:"g\xFCnler",18:"\u0414\u043D\u0456\u0432"};C.BeM={1:"dani",2:"\u0434\u043D\u0438"
+,17:"g\xFCnler",18:"\u0414\u043D\u0456\u0432"};C.BeQ={1:"dani",2:"\u0434\u043D\u0438"
 ,3:"\u5929\u6578",4:"Dny",0:"days",5:"Dagen",6:"p\xE4evad",7:"P\xE4iv\xE4t",8:"jours"
 ,9:"Tagen",10:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2",13:"Dager",15:"\u0414\u043D\u0435\u0439"
 ,16:"d\xEDas",18:"\u0414\u043D\u0456\u0432"};C.A3x={1:"dani / alarm",2:"\u0414\u043D\u0438 \u0441 \u0430\u043B\u0430\u0440\u043C\u0430"
@@ -765,7 +765,7 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 ,9:"Tage in Alarm",10:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2 \u03C3\u03B5 \u03C3\u03C5\u03BD\u03B1\u03B3\u03B5\u03C1\u03BC\u03CC"
 ,13:"Dager i alarm",15:"\u0414\u043D\u0438 \u043D\u0430 \u0442\u0440\u0435\u0432\u043E\u0433\u0435"
 ,16:"D\xEDas en estado de alarma",18:"\u0414\u043D\u0456\u0432 \u0443 \u0442\u0440\u0438\u0432\u043E\u0437\u0456"
-};C.BeN={1:"dani / temperatura",2:"\u0414\u043D\u0438 \u0441 \u0442\u0440\u0435\u0441\u043A\u0430"
+};C.BeR={1:"dani / temperatura",2:"\u0414\u043D\u0438 \u0441 \u0442\u0440\u0435\u0441\u043A\u0430"
 ,3:"\u767C\u71D2\u5929\u6578",4:"Dny v hore\u010Dce",0:"Days in fever",5:"Koorts dagen"
 ,6:"P\xE4evi palavikus",7:"Kuumep\xE4iv\xE4t",8:"Des jours de fi\xE8vre",9:"Fiebertage"
 ,10:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2 \u03C3\u03B5 \u03C0\u03C5\u03C1\u03B5\u03C4\u03CC"
@@ -802,7 +802,7 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 ,9:"Ableitung von Transpondernummer",15:"\u0412\u044B\u0432\u043E\u0434 \u0438\u0437 \u043D\u043E\u043C\u0435\u0440\u0430 "+
 "\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430",16:"Derivaci\xF3n del n\xFAmero de transpondedor"
 ,18:"\u0412\u0438\u0441\u043D\u043E\u0432\u043E\u043A \u0456\u0437 \u043D\u043E\u043C\u0435\u0440\u0443 "+
-"\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"};C.BeQ={
+"\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"};C.BeU={
 1:"Opis kolone",2:"\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u043D\u0430 \u0437\u0430\u0433\u043B\u0430\u0432\u0438\u044F "+
 "\u043D\u0430 \u043A\u043E\u043B\u043E\u043D\u0438",3:"\u6A19\u984C\u8AAA\u660E"
 ,4:"Popis z\xE1hlav\xED sloupc\u016F",0:"Descript. column headers",5:"Toelichting titel"
@@ -819,7 +819,7 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 ,8:"Actions de dispositif",9:"Ger\xE4teaktionen",10:"\u0395\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03B5\u03C2 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2"
 ,13:"Enhets handlinger",15:"\u0414\u0435\u0439\u0441\u0442\u0432\u0438\u044F \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430"
 ,16:"Acciones del dispositivo",18:"\u0414\u0456\u0457 \u043F\u0440\u0438\u0441\u0442\u0440\u043E\u044E"
-};C.BeR={1:"upravlja\u010Dki program ure\u0111aja USB C",0:"Device driver USB C"
+};C.BeV={1:"upravlja\u010Dki program ure\u0111aja USB C",0:"Device driver USB C"
 ,6:"Seadme draiver USB C",7:"Laiteohjain USB C",8:"Pilote du dispoitif USB C",9:
 "Ger\xE4tetreiber USB C",10:"\u039F\u03B4\u03B7\u03B3\u03CC\u03C2 USB C \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2"
 ,13:"Enhets driver USBC",15:"\u0414\u0440\u0430\u0439\u0432\u0435\u0440\u044B \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430 "+
@@ -858,11 +858,11 @@ C.Bes={1:"punja\u010D",0:"Charge controller",6:"Laadige kontrollseadist",7:"Lata
 0:"Dried-off",7:"Umpeutettu",8:"Tarie",9:"Trocken~stehend",10:"\u03A3\u03C4\u03B5\u03B9\u03C1\u03CE\u03B8\u03B7\u03BA\u03B5"
 ,13:"T\xF8rket-av",15:"\u0421\u0443\u0445~\u043E\u0441\u0442\u043E\u0439\u043D\u044B\u0435"
 ,16:"Secada",18:"\u0421\u0443\u0445\u043E\u0441\u0442\u0456\u0439\u043A\u0456"};
-C.Be7={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiver"
+C.Be$={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiver"
 ,7:"N\xE4yt\xF6nohjain",8:"Pilote d\'\xE9cran",9:"Bildschirmtreiber",10:"\u0395\u03BC\u03C6\u03AC\u03BD\u03B9\u03C3\u03B7 \u03BF\u03B4\u03B7\u03B3\u03BF\u03CD"
 ,13:"Skjermdriver",15:"\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u044D\u043A\u0440\u0430\u043D\u0430"
 ,16:"Controlador de pantalla",18:"\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u0435\u043A\u0440\u0430\u043D\u0443"
-};C.Be8={1:"suho",0:"Dry",6:"Kinni",7:"Ummessa",8:"Tarie",9:"T",10:"\u03A3\u03C4\u03B5\u03AF\u03C1\u03B1"
+};C.Bfa={1:"suho",0:"Dry",6:"Kinni",7:"Ummessa",8:"Tarie",9:"T",10:"\u03A3\u03C4\u03B5\u03AF\u03C1\u03B1"
 ,13:"T\xF8rke",15:"\u0421\u0443\u0445\u043E\u0439",16:"Seca",18:"\u0421\u0443\u0445\u0438\u0439"
 };C.A3V={1:"zasu\u0161ene krave",0:"Dry cows",6:"Kinnislehmad",7:"Umpeutetut",8:
 "Vaches taries",9:"Trockensteher",10:"\u03A3\u03C4\u03B5\u03AF\u03C1\u03B5\u03C2 \u03B1\u03B3\u03B5\u03BB\u03AC\u03B8\u03B5\u03C2"
@@ -870,14 +870,14 @@ C.Be7={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiv
 ,16:"Vacas secas",18:"\u0421\u0443\u0445\u043E\u0441\u0442\u0456\u0439\u043A\u0456"
 };C.DryOff={1:"zasu\u0161iti",0:"Dry off",7:"Umpeutus",8:"Tarissement",9:"Trocken~stellen"
 ,10:"\u03A3\u03C4\u03B5\u03AF\u03C1\u03C9\u03C3\u03B5",13:"T\xF8rk-av",15:"\u0417\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C"
-,16:"Secar",18:"\u0417\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u0438"};C.Be9={
+,16:"Secar",18:"\u0417\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u0438"};C.Bfb={
 1:"EEPROM mati\u010Dna plo\u010Da",0:"EEPROM Mainboard",6:"EEPROM emaplaat",7:"EEPROM -emolevy"
 ,8:"EEPROM carte -m\xE8re",10:"\u039A\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE \u03C0\u03BB\u03B1\u03BA\u03AD\u03C4\u03B1 "+
 "EEPROM",13:"EEPROM hovedkort",15:"\u041C\u0430\u0442\u0435\u0440\u0438\u043D\u0441\u043A\u0430\u044F \u043F\u043B\u0430\u0442\u0430 "+
 "EEPROM",16:"EEPROM Placa principal",18:"\u041C\u0430\u0442\u0435\u0440\u0438\u043D\u0441\u044C\u043A\u0430 \u043F\u043B\u0430\u0442\u0430 "+
-"EEPROM"};C.Be_={1:"EEPROMplo\u010Da",0:"EEPROM Torchboard",8:"EEPROM carte (lumi\xE8re)"
+"EEPROM"};C.Bfc={1:"EEPROMplo\u010Da",0:"EEPROM Torchboard",8:"EEPROM carte (lumi\xE8re)"
 ,10:"\u03A0\u03BB\u03B1\u03BA\u03AD\u03C4\u03B1 \u03C6\u03B1\u03BA\u03BF\u03CD "+
-"EEPROM",13:"EEPROM Datakort",16:"EEPROM Placa de antorcha"};C.Be$="ESC";C.AA8={
+"EEPROM",13:"EEPROM Datakort",16:"EEPROM Placa de antorcha"};C.Bfd="ESC";C.AA8={
 1:"broj u\u0161ne markice",2:"\u0423\u0448\u043D\u0430 \u043C\u0430\u0440\u043A\u0430"
 ,0:"Ear tag number",6:"K\xF5rvam\xE4rgi number",7:"Korvamerkki numero",8:"Nr de la marque auriculaire"
 ,9:"Ohrmarkennr.",10:"\u0391\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 \u03B5\u03BD\u03C9\u03C4\u03AF\u03BF\u03C5"
@@ -956,11 +956,11 @@ C.Be7={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiv
 "\u03C3\u03B5\u03B9\u03C1\u03AC\u03C2",13:"Aktiver alle + tilbakestill rekkef\xF8lge"
 ,15:"\u0421\u0431\u0440\u043E\u0441\u0438\u0442\u044C \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
 ,16:"Restablecer orden",18:"\u0421\u043A\u0438\u043D\u0443\u0442\u0438 \u043F\u043E\u0441\u043B\u0456\u0434\u043E\u0432\u043D\u0456\u0441\u0442\u044C"
-};C.Bfb={0:"Enter animal ID manually",8:"Saisir manuellement le n\xB0 de l\'animal"
+};C.Bff={0:"Enter animal ID manually",8:"Saisir manuellement le n\xB0 de l\'animal"
 ,9:"Tiernr. manuell eingeben",15:"\u0412\u0432\u0435\u0441\u0442\u0438 ID \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E "+
 "\u0432\u0440\u0443\u0447\u043D\u0443\u044E",16:"Ingresar ID del animal manualmente"
 ,18:"\u0423\u0432\u0435\u0441\u0442\u0438 ID \u0442\u0432\u0430\u0440\u0438\u043D\u0438 "+
-"\u0432\u0440\u0443\u0447\u043D\u0443"};C.Bfc={1:"Aparat \u0107e pre\u0107i u modus mirovanja za {#} minute. Za ponovno pokretanje "+
+"\u0432\u0440\u0443\u0447\u043D\u0443"};C.Bfg={1:"Aparat \u0107e pre\u0107i u modus mirovanja za {#} minute. Za ponovno pokretanje "+
 "pritisnite bilo koje dugme.",2:"\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
 "\u0449\u0435 \u0432\u043B\u0435\u0437\u0435 \u0432 \u0440\u0435\u0436\u0438\u043C "+
 "\u043D\u0430 \u0437\u0430\u0441\u043F\u0438\u0432\u0430\u043D\u0435 \u0441\u043B\u0435\u0434 "+
@@ -987,11 +987,11 @@ C.Be7={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiv
 "\u0431\u0443\u0434\u0435 \u0430\u043A\u0442\u0438\u0432\u043E\u0432\u0430\u043D\u043E "+
 "\u0447\u0435\u0440\u0435\u0437 {#} \u043C\u0438\u043D\u0443\u0442\u044B. "+"\u0414\u043B\u044F \u043F\u0440\u043E\u0434\u043E\u0432\u0436\u0435\u043D\u043D\u044F "+
 "\u043D\u0430\u0436\u043C\u0456\u0442\u044C \u0431\u0443\u0434\u044C \u044F\u043A\u0443 "+
-"\u043A\u043B\u0430\u0432\u0456\u0448\u0443."};C.Bfd={1:"Kopitar / konj",0:"Equine/horse"
+"\u043A\u043B\u0430\u0432\u0456\u0448\u0443."};C.Bfh={1:"Kopitar / konj",0:"Equine/horse"
 ,6:"Hobune",8:"\xC9quid\xE9/cheval",9:"Einhufer/Pferd",10:"\u0386\u03BB\u03BF\u03B3\u03BF"
 ,13:"Hest",15:"\u041D\u0435\u043F\u0430\u0440\u043D\u043E\u043A\u043E\u043F\u044B\u0442\u043D\u044B\u0435 "+
 "/ \u043B\u043E\u0448\u0430\u0434\u044C",16:"Equino/ Caballo",18:"\u041D\u0435\u043F\u0430\u0440\u043D\u043E\u043A\u043E\u043F\u0438\u0442\u043D\u0456 "+
-"/ \u043A\u0456\u043D\u044C"};C.Bfe={0:"Error(s) when checking device drivers!\n\nWould you like to see detail "+
+"/ \u043A\u0456\u043D\u044C"};C.Bfi={0:"Error(s) when checking device drivers!\n\nWould you like to see detail "+
 "information on the error(s)?",6:"Viga seadme draiverite kontrollimisel!\n\nKas soovite n\xE4ha vea (vigade) "+
 "t\xE4psemat teavet?",7:"Virheit\xE4 laiteajureita tarkastettaessa!\n\nHaluatko n\xE4hd\xE4 tarkat "+
 "tiedot virheist\xE4?",8:"Erreur lors de la v\xE9rification des pilotes de dispositif\xA0!"
@@ -1101,12 +1101,12 @@ C.Be7={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiv
 "\u03C1\u03C5\u03B8\u03BC\u03AF\u03C3\u03B5\u03B9\u03C2",13:"Fabrikkinnstilt",15:
 "\u0421\u0431\u0440\u043E\u0441 \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043A"
 ,16:"Restablecer ajustes f\xE1brica",17:"Fabrika ayarlar\u0131",18:"\u0421\u043A\u0438\u0434\u0430\u043D\u043D\u044F \u043D\u0430\u043B\u0430\u0448\u0442\u0443\u0432\u0430\u043D\u044C"
-};C.Bfg={0:"Error while creating backup on USB flash drive!",8:"\xC9chec de sauvegarde de donn\xE9es"
+};C.Bfk={0:"Error while creating backup on USB flash drive!",8:"\xC9chec de sauvegarde de donn\xE9es"
 ,9:"Bei der Erstellung der Daten~siche~rung auf dem USB-^Stick ist ein Fehler "+
 "auf~ge~treten!",16:"Error al crear una copia de seguridad en una unidad flash USB."
-};C.Bfh={0:"Error while restoring backup from USB flash drive!",8:"\xC9chec de la restauration des donn\xE9es sauvegard\xE9es"
+};C.Bfl={0:"Error while restoring backup from USB flash drive!",8:"\xC9chec de la restauration des donn\xE9es sauvegard\xE9es"
 ,9:"Bei der Wieder~her~stellung der Daten~siche~rung vom USB-^Stick ist ein "+"Fehler auf~ge~treten!"
-,16:"Error al restaurar una copia de seguridad desde una unidad flash USB."};C.Bfi={
+,16:"Error al restaurar una copia de seguridad desde una unidad flash USB."};C.Bfm={
 0:"Error when writing CSV file with birth notices to USB flash drive!",8:"Erreur lors de l\'\xE9criture du fichier CSV avec les d\xE9clarations de "+
 "naissance sur la cl\xE9 USB",9:"Beim Schreiben der CSV-Datei mit Geburts~mel~dun~gen auf den USB-^Stick "+
 "ist ein Fehler aufgetreten!",15:"\u041E\u0448\u0438\u0431\u043A\u0430 \u043F\u0440\u0438 \u043F\u043E\u043F\u044B\u0442\u043A\u0435 "+
@@ -1118,9 +1118,9 @@ C.Be7={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiv
 "\u0456\u0437 \u043F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F\u043C\u0438 "+
 "\u043F\u0440\u043E \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
 "\u043D\u0430 USB \u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447!"
-};C.Bfj={0:"Error when writing CSV file with animal data to USB flash drive!",9:
+};C.Bfn={0:"Error when writing CSV file with animal data to USB flash drive!",9:
 "Fehler beim Export der Tierdaten auf den USB-Stick!",16:"Error al escribir un archivo CSV con datos de animales en una unidad flash "+
-"USB."};C.Bfk={0:"Error when writing CSV file with purchase notices to USB flash drive!"
+"USB."};C.Bfo={0:"Error when writing CSV file with purchase notices to USB flash drive!"
 ,9:"Beim Schreiben der CSV-Datei mit Zugangs~mel~dun~gen auf den USB-^Stick "+"ist ein Fehler aufgetreten!"
 };C.ABc={0:"Farm",7:"Maatila",8:"Exploitation",9:"Betrieb",10:"\u03A6\u03AC\u03C1\u03BC\u03B1"
 ,13:"G\xE5rd",15:"\u0424\u0435\u0440\u043C\u0430",16:" Granja",18:"\u0424\u0435\u0440\u043C\u0430"
@@ -1151,7 +1151,7 @@ C.Be7={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiv
 };C.Feed={1:"Hrana",2:"\u0425\u0440\u0430\u043D\u0430",3:"\u7D66\u98FC",4:"Krmen\xED"
 ,0:"Feed",5:"Voer",6:"S\xF6\xF6t",7:"Rehu",8:"Nourriture",9:"Futter",10:"\u03A4\u03C1\u03BF\u03C6\u03AE"
 ,13:"F\xF4r",15:"\u041A\u043E\u0440\u043C",16:"Alimento",17:"Besleme",18:"\u041A\u043E\u0440\u043C"
-};C.Bfm={1:"Konzumacija hrane",2:"\u0418\u0437\u044F\u0434\u0435\u043D\u0430 \u0445\u0440\u0430\u043D\u0430"
+};C.Bfq={1:"Konzumacija hrane",2:"\u0418\u0437\u044F\u0434\u0435\u043D\u0430 \u0445\u0440\u0430\u043D\u0430"
 ,3:"\u63A1\u98DF",4:"Hodnocen\xED p\u0159\xEDjmu krmen\xED",0:"Feed intake",5:"Voeropname"
 ,6:"S\xF6\xF6mus",7:"Rehunsy\xF6nti",8:"Consommation",9:"Futterverzehr",10:"\u03A0\u03C1\u03CC\u03C3\u03BB\u03B7\u03C8\u03B7 \u03C4\u03C1\u03BF\u03C6\u03AE\u03C2"
 ,13:"F\xF4ropptak",15:"\u041F\u043E\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435 \u043A\u043E\u0440\u043C\u0430"
@@ -1181,9 +1181,9 @@ C.Be7={1:"upravlja\u010Dki program monitora",0:"Display driver",6:"Ekraani draiv
 };C.Af$={1:"%d. %m. %Y",2:"%d.%m.%Y",4:"%d. %m. %Y",0:"%Y-%m-%d",5:"%d-%m-%Y",6:
 "%d.%m.%Y",7:"%d.%m.%Y",8:"%d/%m/%Y",9:"%d.%m.%Y",10:"%#d/%#m/%Y",11:"%d/%m/%Y",
 12:"%Y\u5E74%m\u6708%d\u65E5",13:"%d.%m.%Y",15:"%d-%m-%Y",16:"%d/%m/%Y",17:"%d.%m.%Y"
-,18:"%d.%m.%Y"};C.Bfu={1:"%d. %m.",2:"%d.%m",4:"%d. %m.",0:"%m-%d",5:"%d-%m",6:"%d.%m"
+,18:"%d.%m.%Y"};C.Bfy={1:"%d. %m.",2:"%d.%m",4:"%d. %m.",0:"%m-%d",5:"%d-%m",6:"%d.%m"
 ,7:"%d.%m",8:"%d/%m",9:"%d.%m",10:"%#d/%#m",11:"%d/%m",12:"%m\u6708%d\u65E5",13:
-"%d.%m",15:"%d-%m",16:"%d/%m",17:"%d.%m",18:"%d.%m"};C.Bfv={1:"%H:%M %d. %m. %Y"
+"%d.%m",15:"%d-%m",16:"%d/%m",17:"%d.%m",18:"%d.%m"};C.Bfz={1:"%H:%M %d. %m. %Y"
 ,2:"%H:%M %d.%m.%Y",4:"%H:%M %d. %m. %Y",0:"%H:%M %Y-%m-%d",5:"%H:%M %d-%m-%Y",6:
 "%H:%M %d.%m.%Y",7:"%H:%M %d.%m.%Y",8:"%H:%M %d/%m/%Y",9:"%H:%M %d.%m.%Y",10:"%H:%M %#d/%#m/%Y"
 ,11:"%H:%M %d/%m/%Y",12:"%H:%M %Y\u5E74%m\u6708%d\u65E5",13:"%H:%M %d.%m.%Y",15:
@@ -1197,9 +1197,9 @@ AMI={1:"Grla koja se muzu",2:"\u0421\u043A\u043E\u0440\u043E \u043E\u0442\u0435\
 ,8:"Indicateur de charge",9:"Ladeanzeige",10:"\u039C\u03B5\u03C4\u03C1\u03B7\u03C4\u03AE\u03C2 \u03BA\u03B1\u03C5\u03C3\u03AF\u03BC\u03C9\u03BD"
 ,13:"Drivstoffm\xE5ler",15:"\u0418\u043D\u0434\u0438\u043A\u0430\u0442\u043E\u0440 \u0437\u0430\u0440\u044F\u0434\u0430"
 ,16:"Indicador de carga",18:"\u0406\u043D\u0434\u0438\u043A\u0430\u0442\u043E\u0440 \u0437\u0430\u0440\u044F\u0434\u0443"
-};C.Bfz={0:"This function is not available in the demo version!",8:"Cette fonction n\'est plus disponible dans la version d\xE9mo\xA0!"
+};C.BfD={0:"This function is not available in the demo version!",8:"Cette fonction n\'est plus disponible dans la version d\xE9mo\xA0!"
 ,9:"Diese Funktion ist in der Demo~version nicht ver~f\xFCgbar!",16:"Esta funci\xF3n no est\xE1 disponible en la versi\xF3n de demostraci\xF3n."
-};C.Bf0={1:"gr/dan",2:"\u0433/\u0434\u0435\u043D",3:"\u516C\u514B/\u65E5",4:"gram\u016F za den"
+};C.Bf4={1:"gr/dan",2:"\u0433/\u0434\u0435\u043D",3:"\u516C\u514B/\u65E5",4:"gram\u016F za den"
 ,0:"g/day",5:"g/dag",6:"g/p\xE4evas",7:"g/pv",8:"g/jour",9:"g/Tag",10:"\u03B3\u03C1./\u03BC\u03AD\u03C1\u03B1"
 ,13:"gr./pr dag",15:"\u0433/\u0434\u0435\u043D\u044C",16:"g/d\xEDa",17:"G\xFCnl\xFCk gram"
 ,18:"\u0433/\u0434\u0435\u043D\u044C"};C.EH={1:"grafi\u010Dki prikaz",2:"\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u043D \u0438\u0437\u0433\u043B\u0435\u0434"
@@ -1210,7 +1210,7 @@ AMI={1:"Grla koja se muzu",2:"\u0421\u043A\u043E\u0440\u043E \u043E\u0442\u0435\
 };C.O={1:"grupa",2:"\u0413\u0440\u0443\u043F\u0430",3:"\u7FA4",4:"Skupina",0:"Group"
 ,5:"Groep",6:"Grupp",7:"Ryhm\xE4",8:"Groupe",9:"Gruppe",10:"\u039F\u03BC\u03AC\u03B4\u03B1"
 ,13:"Gruppe",15:"\u0413\u0440\u0443\u043F\u043F\u0430",16:"Grupo",17:"Grup",18:"\u0413\u0440\u0443\u043F\u0430"
-};C.Bf2="HI-Tier";C.A4y={0:"Hardware",16:"Gelbvieh"};C.ANL={1:"krdo",2:"\u0421\u0442\u0430\u0434\u043E"
+};C.Bf6="HI-Tier";C.A4y={0:"Hardware",16:"Gelbvieh"};C.ANL={1:"krdo",2:"\u0421\u0442\u0430\u0434\u043E"
 ,3:"\u725B\u7FA4",4:"St\xE1do",0:"Herd",5:"Groep",6:"Kari",7:"Karja",8:"Troupeau"
 ,9:"Herde",10:"\u039A\u03BF\u03C0\u03AC\u03B4\u03B9",13:"Flokk",15:"\u0421\u0442\u0430\u0434\u043E"
 ,16:"Reba\xF1o",18:"\u0421\u0442\u0430\u0434\u043E"};C.A4C={1:"nakon zavr\u0161etka sakrij opciju"
@@ -1220,7 +1220,7 @@ AMI={1:"Grla koja se muzu",2:"\u0421\u043A\u043E\u0440\u043E \u043E\u0442\u0435\
 "\u03B1\u03C0\u03CC \u03B4\u03C1\u03AC\u03C3\u03B7",13:"Skjul etter handling",15:
 "\u0421\u043A\u0440\u044B\u0442\u044C \u043F\u043E\u0441\u043B\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F"
 ,16:"Ocultar despu\xE9s de la acci\xF3n",18:"\u041F\u0440\u0438\u0445\u043E\u0432\u0430\u0442\u0438 \u043F\u0456\u0441\u043B\u044F "+
-"\u0434\u0456\u0457"};C.Bf4={1:"Ne prikazu izmjerena grla",2:"\u0421\u043A\u0440\u0438\u0439 \u0438\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0442\u0435 "+
+"\u0434\u0456\u0457"};C.Bf8={1:"Ne prikazu izmjerena grla",2:"\u0421\u043A\u0440\u0438\u0439 \u0438\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0442\u0435 "+
 "\u043A\u0440\u0430\u0432\u0438",0:"Hide measured cows",6:"Peida m\xF5\xF5detud lehmad"
 ,7:"Piilota mitatut lehm\xE4t",8:"Masquer anim. mesur\xE9s",9:"Gemessene ausblenden"
 ,10:"\u0391\u03C0\u03CC\u03BA\u03C1\u03C5\u03C8\u03B7 \u03C4\u03C9\u03BD \u03BC\u03B5\u03C4\u03C1\u03B7\u03BC\u03AD\u03BD\u03C9\u03BD "+
@@ -1250,20 +1250,20 @@ AMI={1:"Grla koja se muzu",2:"\u0421\u043A\u043E\u0440\u043E \u043E\u0442\u0435\
 ,13:"ID for siste dyr",15:"ID-\u043D\u043E\u043C\u0435\u0440 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0433\u043E "+
 "\u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E",16:"ID del \xFAltimo animal"
 ,18:"ID-\u043D\u043E\u043C\u0435\u0440 \u043E\u0441\u0442\u0430\u043D\u043D\u044C\u043E\u0457 "+
-"\u0442\u0432\u0430\u0440\u0438\u043D\u0438"};C.Bf7={0:"in one day",6:"\xDChe p\xE4eva jooksul"
+"\u0442\u0432\u0430\u0440\u0438\u043D\u0438"};C.Bf$={0:"in one day",6:"\xDChe p\xE4eva jooksul"
 ,8:"En une journ\xE9e",9:"in einem Tag",10:"\u039C\u03AD\u03C3\u03B1 \u03C3\u03B5 \u03BC\u03B9\u03B1 \u03BC\u03AD\u03C1\u03B1"
 ,13:"P\xE5 en dag",15:"\u0437\u0430 \u043E\u0434\u0438\u043D \u0434\u0435\u043D\u044C"
 ,16:"en un d\xEDa",18:"\u0437\u0430 \u043E\u0434\u0438\u043D \u0434\u0435\u043D\u044C"
-};C.Bf8={0:"in {DAYS} days",6:"{DAYS} p\xE4eva jooksul",8:"en {DAYS} jours",9:"in {DAYS} Tagen"
+};C.Bga={0:"in {DAYS} days",6:"{DAYS} p\xE4eva jooksul",8:"en {DAYS} jours",9:"in {DAYS} Tagen"
 ,10:"\u039C\u03AD\u03C3\u03B1 \u03C3\u03B5 {DAYS} \u03BC\u03AD\u03C1\u03B5\u03C2"
 ,13:"om {DAYS} dager",15:"\u0447\u0435\u0440\u0435\u0437 {DAYS} \u0434\u043D\u0435\u0439"
 ,16:"en {DAYS} d\xEDas",18:"\u0447\u0435\u0440\u0435\u0437 {DAYS} \u0434\u043D\u0456\u0432"
-};C.Bf9={1:"u pozadini",2:"\u0412\u044A\u0432 \u0444\u043E\u043D\u043E\u0432 \u0440\u0435\u0436\u0438\u043C"
+};C.Bgb={1:"u pozadini",2:"\u0412\u044A\u0432 \u0444\u043E\u043D\u043E\u0432 \u0440\u0435\u0436\u0438\u043C"
 ,3:"\u81EA\u52D5\u767B\u9304",4:"Na pozad\xED",0:"In background",5:"In de achtergrond"
 ,6:"Taustal",7:"Taustalla",8:"En arri\xE8re-plan",9:"Im Hintergrund",10:"\u03A3\u03C4\u03BF \u03C0\u03B1\u03C1\u03B1\u03C3\u03BA\u03AE\u03BD\u03B9\u03BF"
 ,13:"I bakgrunnen",15:"\u0412 \u0444\u043E\u043D\u043E\u0432\u043E\u043C \u0440\u0435\u0436\u0438\u043C\u0435"
 ,16:"En el fondo",18:"\u0423 \u0444\u043E\u043D\u043E\u0432\u043E\u043C\u0443 \u0440\u0435\u0436\u0438\u043C\u0456"
-};C.Bf_={1:"povi\u0161eno",2:"\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D",
+};C.Bgc={1:"povi\u0161eno",2:"\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D",
 3:"\u589E\u52A0",4:"Zv\xFD\u0161eno",0:"Increased",5:"Verhoogt",6:"T\xF5usnud",7:
 "Lis\xE4\xE4ntynyt",8:"Augment\xE9",9:"Erh\xF6ht",10:"\u0391\u03C5\u03BE\u03B7\u03BC\u03AD\u03BD\u03BF"
 ,13:"\xD8kt",15:"\u043F\u043E\u0432\u044B\u0448\u0435\u043D\u043E",16:"Elevado",
@@ -1272,7 +1272,7 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 ,0:"Infertility",6:"Viljatus",7:"Hedelm\xE4tt\xF6myys",8:"Infertilit\xE9",9:"Unfruchtbarkeit"
 ,10:"\u0391\u03B3\u03BF\u03BD\u03AF\u03B1",13:"Infertilitet",15:"\u0411\u0435\u0441\u043F\u043B\u043E\u0434\u0438\u0435"
 ,16:"Infertilidad",18:"\u0411\u0435\u0437\u043F\u043B\u0456\u0434\u043D\u0456\u0441\u0442\u044C"
-};C.Info="Info";C.Bf$={0:"Info columns",8:"Colonnes d\'informations",9:"Infospalten"
+};C.Info="Info";C.Bgd={0:"Info columns",8:"Colonnes d\'informations",9:"Infospalten"
 ,16:"Columnas de info"};C.ACf={1:"Uvedite vrh mjernog instrumenta",2:"\u0412\u043A\u0430\u0440\u0430\u0439\u0442\u0435 \u0432\u044A\u0440\u0445\u0430 "+
 "\u043D\u0430 \u0438\u0437\u043C\u0435\u0440\u0432\u0430\u0442\u0435\u043B\u044F"
 ,3:"\u63D2\u5165\u6EAB\u5EA6\u8A08",4:"Vlo\u017Eit m\u011B\u0159en\xED",0:"Insert measuring tip"
@@ -1281,13 +1281,13 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 "\u03BC\u03AD\u03C4\u03C1\u03B7\u03C3\u03B7\u03C2",13:"Sett inn m\xE5lespiss",15:
 "\u0412\u0432\u0435\u0441\u0442\u0438 \u0442\u0435\u0440\u043C\u043E\u043C\u0435\u0442\u0440"
 ,16:"Insertar la punta\nde medici\xF3n",18:"\u0412\u0432\u0435\u0441\u0442\u0438 \u0442\u0435\u0440\u043C\u043E\u043C\u0435\u0442\u0440"
-};C.Bgv={1:"kilogram",2:"\u041A\u0438\u043B\u043E\u0433\u0440\u0430\u043C",3:"\u516C\u65A4"
+};C.Bgz={1:"kilogram",2:"\u041A\u0438\u043B\u043E\u0433\u0440\u0430\u043C",3:"\u516C\u65A4"
 ,0:"Kilogram",6:"Kilogramm",7:"Kiloa",8:"Kilogramme",9:"Kilogramm",10:"\u039A\u03B9\u03BB\u03CC"
 ,15:"\u043A\u0438\u043B\u043E\u0433\u0440\u0430\u043C\u043C",16:"Kilogramos",18:
 "\u043A\u0456\u043B\u043E\u0433\u0440\u0430\u043C"};C.APl={1:"laktacija",2:"\u041B\u0430\u043A\u0442\u0430\u0446\u0438\u044F"
 ,0:"Lactation",6:"Laktatsioon",7:"Lypsy",9:"Laktation",10:"\u0393\u03B1\u03BB\u03BF\u03C5\u03C7\u03AF\u03B1"
 ,13:"Laktasjon",15:"\u041B\u0430\u043A\u0442\u0430\u0446\u0438\u044F",16:" Lactancia"
-,18:"\u041B\u0430\u043A\u0442\u0430\u0446\u0456\u044F"};C.Bgw={1:"dan laktacije"
+,18:"\u041B\u0430\u043A\u0442\u0430\u0446\u0456\u044F"};C.BgA={1:"dan laktacije"
 ,0:"Day of lactation",6:"Laktatsiooni p\xE4ev",7:"Lypsyp\xE4iv\xE4",8:"Jour de lactation"
 ,9:"Laktations~tag",10:"\u0397\u03BC\u03AD\u03C1\u03B1 \u03B3\u03B1\u03BB\u03BF\u03C5\u03C7\u03AF\u03B1\u03C2"
 ,13:"Dager i laktasjonen",15:"\u0414\u0435\u043D\u044C \u043B\u0430\u043A\u0442\u0430\u0446\u0438\u0438"
@@ -1295,13 +1295,13 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 };C.ACq={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",0:
 "Lacta~tion",6:"Laktat~sioon",9:"Lakta~tion",10:"\u0393\u03B1\u03BB\u03BF\u03C5~\u03C7\u03AF\u03B1"
 ,13:"Lakta-\nsjon",15:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",16:"Lac~tancia"
-,18:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0456\u044F"};C.Bgx={1:"janje",2:"\u0410\u0433\u043D\u0435"
+,18:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0456\u044F"};C.BgB={1:"janje",2:"\u0410\u0433\u043D\u0435"
 ,3:"\u5C0F\u7F8A",4:"Jehn\u011B",0:"Lamb",5:"Lam",6:"Tall",7:"Lammas",8:"Agneau"
 ,9:"Lamm",10:"\u0391\u03C1\u03BD\u03AF",13:"Lam",15:"\u042F\u0433\u043D\u044F\u0442"
-,16:"Cordero",17:"Kuzu",18:"\u042F\u0433\u043D\u044F\u0442"};C.Bgy={1:"janje",2:
+,16:"Cordero",17:"Kuzu",18:"\u042F\u0433\u043D\u044F\u0442"};C.BgC={1:"janje",2:
 "\u0430\u0433\u043D\u0435",3:"\u5C0F\u7F8A",0:"lamb",5:"lam",6:"Tall",7:"lammas"
 ,8:"agneau",9:"Lamm",10:"\u03B1\u03C1\u03BD\u03AF",13:"Lam",15:"\u042F\u0433\u043D\u044F\u0442"
-,16:"cordero",17:"Kuzu",18:"\u042F\u0433\u043D\u044F\u0442"};C.Bgz={1:"janjad",2:
+,16:"cordero",17:"Kuzu",18:"\u042F\u0433\u043D\u044F\u0442"};C.BgD={1:"janjad",2:
 "\u0430\u0433\u043D\u0435\u0442\u0430",3:"\u5C0F\u7F8A",0:"lambs",5:"lammeren",6:
 "talled",7:"lampaat",8:"agneaux",9:"L\xE4mmer",10:"\u0391\u03C1\u03BD\u03B9\u03AC"
 ,13:"Lam",15:"\u042F\u0433\u043D\u0451\u043D\u043E\u043A",16:"corderos",17:"kuzular"
@@ -1317,7 +1317,7 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 ,9:"Letzte 3 Tage",10:"\u03A4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03B5\u03C2 3 \u03BC\u03AD\u03C1\u03B5\u03C2"
 ,13:"Siste 3 dager",15:"\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 3 \u0434\u043D\u044F"
 ,16:"\xDAltimos 3 d\xEDas",18:"\u041E\u0441\u0442\u0430\u043D\u043D\u0456 3 \u0434\u043D\u0456"
-};C.BgA={0:"Eartag: last 5 digits",8:"Marque auriculaire : 5 derniers chiffres",
+};C.BgE={0:"Eartag: last 5 digits",8:"Marque auriculaire : 5 derniers chiffres",
 9:"Ohrmarke: letzte 5 Ziffern",16:"N\xFAmero de etiqueta de oreja: \xFAltimos 5 d\xEDgitos"
 };C.A44={1:"zadnji mjesec",2:"\u041F\u043E\u0441\u043B\u0435\u0434\u0435\u043D \u043C\u0435\u0441\u0435\u0446"
 ,3:"\u4E0A\u500B\u6708",4:"Posledn\xED m\u011Bs\xEDc",0:"Last month",6:"Eelmine kuu"
@@ -1338,7 +1338,7 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 "Kg",10:"\u039B\u03AF\u03B2\u03C1\u03B5\u03C2",17:"Lbs"};C.A48={1:"svjetlo",2:"\u0421\u0432\u0435\u0442\u043B\u0438\u043D\u0430"
 ,3:"\u8F15\u7684",4:"Sv\u011Btlo\n",0:"Light",5:"Licht",6:"Valgus",7:"Valo",8:"Lumi\xE8re\n"
 ,9:"Licht",10:"\u0395\u03BB\u03B1\u03C6\u03C1\u03CD",13:"Lys",15:"\u0421\u0432\u0435\u0442"
-,16:"Linterna\n",18:"\u0421\u0432\u0456\u0442\u043B\u043E"};C.BgD={1:"povezati ID broj \u017Eivotinja"
+,16:"Linterna\n",18:"\u0421\u0432\u0456\u0442\u043B\u043E"};C.BgH={1:"povezati ID broj \u017Eivotinja"
 ,2:"\u0412\u0440\u044A\u0437\u043A\u0430 \u2116 \u0436\u0438\u0432\u043E\u0442\u043D\u043E"
 ,0:"Link animal ID",6:"Seo looma ID",7:"Linkit\xE4 el\xE4imen ID",8:"Lier ID de l\u2019animal"
 ,9:"Ohrmarkennummer zuordnen",10:"\u03A3\u03CD\u03BD\u03B4\u03B5\u03C3\u03B7 \u03BC\u03B5 \u03B1\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC "+
@@ -1363,13 +1363,13 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 ,18:"\u0421\u043F\u0438\u0441\u043E\u043A"};C.A4$={1:"Liste",2:"\u0421\u043F\u0438\u0441\u044A\u0446\u0438"
 ,3:"\u6E05\u55AE",4:"Seznamy",0:"Lists",5:"Lijsten",6:"Nimekiri",7:"Listat",8:"Listes"
 ,9:"Listen",10:"\u039B\u03AF\u03C3\u03C4\u03B5\u03C2",13:"Lister",15:"\u0421\u043F\u0438\u0441\u043A\u0438"
-,16:"Listas",17:"Listeler",18:"\u0421\u043F\u0438\u0441\u043A\u0438"};C.BgG={1:"Lokacija"
+,16:"Listas",17:"Listeler",18:"\u0421\u043F\u0438\u0441\u043A\u0438"};C.BgK={1:"Lokacija"
 ,2:"\u041C\u0435\u0441\u0442\u043E\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435"
 ,3:"\u4F4D\u7F6E",4:"Um\xEDst\u011Bn\xED",0:"Location",5:"Locatie",6:"Asukoht",7:
 "Sijainti",8:"Le site",9:"Standort",10:"\u03A4\u03BF\u03C0\u03BF\u03B8\u03B5\u03C3\u03AF\u03B1"
 ,13:"Plassering",15:"\u041C\u0435\u0441\u0442\u043E\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435"
 ,16:"Ubicaci\xF3n",17:"Lokasyon",18:"\u041C\u0456\u0441\u0446\u0435\u0437\u043D\u0430\u0445\u043E\u0434\u0436\u0435\u043D\u043D\u044F"
-};C.BgH={1:"nisko",2:"\u041D\u0438\u0441\u044A\u043A",3:"\u4F4E",4:"N\xEDzk\xFD"
+};C.BgL={1:"nisko",2:"\u041D\u0438\u0441\u044A\u043A",3:"\u4F4E",4:"N\xEDzk\xFD"
 ,0:"Low",5:"Laag",6:"Madal",7:"Matala",8:"Bas",9:"Niedrig",10:"\u03A7\u03B1\u03BC\u03B7\u03BB\u03AC"
 ,13:"Lav",15:"\u041D\u0438\u0437\u043A\u0438\u0439",16:"Bajo",17:"D\xFC\u015F\xFCk"
 ,18:"\u041D\u0438\u0437\u044C\u043A\u0438\u0439"};C.ACv={1:"donja granica",0:"Lower limit"
@@ -1384,7 +1384,7 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 ,6:"K\xE4sitsi",7:"K\xE4sin",8:"Manuel",9:"Manuell",10:"\u0395\u03B3\u03C7\u03B5\u03B9\u03C1\u03AF\u03B4\u03B9\u03BF"
 ,15:"\u0420\u0443\u0447\u043D\u043E\u0439",17:"Elle",18:"\u0420\u0443\u0447\u043D\u0438\u0439"
 };C.A5f={0:"Purchased calves:\nmaximum age",9:"Maximalalter\nzugekaufter Fresser"
-,16:"Comprados terneros:\nedad m\xE1xima"};C.BgM={1:"Mogu\u0107e pohraniti samo {1} \u017Eivotinja!"
+,16:"Comprados terneros:\nedad m\xE1xima"};C.BgQ={1:"Mogu\u0107e pohraniti samo {1} \u017Eivotinja!"
 ,0:"Only up to {1} animals can be stored!",6:"Salvestada saab vaid kuni {1} looma!"
 ,7:"Vain {1} el\xE4int\xE4 voidaan tallentaa!",8:"Un maximum de {1} animaux peut \xEAtre g\xE9r\xE9\xA0!"
 ,9:"Es k\xF6nnen maximal {1} Tiere verwaltet werden!",10:"\u039C\u03CC\u03BD\u03BF \u03BC\u03AD\u03C7\u03C1\u03B9 {1} \u03B6\u03CE\u03B1 "+
@@ -1393,7 +1393,7 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 "\u043D\u0435 \u0431\u043E\u043B\u0435\u0435 \u0447\u0435\u043C {1} \u0436\u0438\u0432\u043E\u0442\u043D\u044B\u043C/\u0438!"
 ,16:"\xA1Solo se pueden almacenar hasta {1} animales!",18:"\u041C\u043E\u0436\u043D\u0430 \u043A\u0435\u0440\u0443\u0432\u0430\u0442\u0438 "+
 "\u043D\u0435 \u0431\u0456\u043B\u044C\u0448 \u043D\u0456\u0436 {1} \u0442\u0432\u0430\u0440\u0438\u043D\u043E\u044E/\u0430\u043C\u0438!"
-};C.BgN={1:"Mogu\u0107e pohraniti samo {1} neregistrovanih \u017Eivotinja!",0:"Only up to {1} animal unregistrations can be stored!"
+};C.BgR={1:"Mogu\u0107e pohraniti samo {1} neregistrovanih \u017Eivotinja!",0:"Only up to {1} animal unregistrations can be stored!"
 ,6:"Salvestada saab vaid kuni {1} looma registreeringu t\xFChistamist!",7:"Vain {1} el\xE4inten rekister\xF6inti\xE4 voidaan tallentaa!"
 ,8:"Un maximum de {1} d\xE9sincriptions peut \xEAtre g\xE9r\xE9\xA0!",9:"Es k\xF6nnen max. {1} Abmeldungen verwaltet werden!"
 ,10:"\u039C\u03CC\u03BD\u03BF \u03BC\u03AD\u03C7\u03C1\u03B9 {1} \u03B4\u03B9\u03B1\u03B3\u03C1\u03B1\u03C6\u03AD\u03C2 "+
@@ -1404,7 +1404,7 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 "\u0441 \u0443\u0447\u0451\u0442\u0430!",16:"\xA1Solo se pueden almacenar hasta {1} anulaciones de animales!"
 ,18:"\u041C\u043E\u0436\u043D\u0430 \u043A\u0435\u0440\u0443\u0432\u0430\u0442\u0438 "+
 "\u043D\u0435 \u0431\u0456\u043B\u044C\u0448 \u043D\u0456\u0436 {1} \u0437\u043D\u044F\u0442\u0442\u044F\u043C "+
-"\u0437 \u043E\u0431\u043B\u0456\u043A\u0443!"};C.BgO={1:"Mogu\u0107e pohraniti samo {1} podataka po \u017Eivotinji!"
+"\u0437 \u043E\u0431\u043B\u0456\u043A\u0443!"};C.BgS={1:"Mogu\u0107e pohraniti samo {1} podataka po \u017Eivotinji!"
 ,0:"Only up to {1} data entities can be stored per animal!",6:"\xDChe looma kohta saab salvestada vaid kuni {1} andme\xFCksust!"
 ,7:"Vain {1} tietoyksikk\xF6\xE4 voidaan tallentaa el\xE4int\xE4 kohden!",8:"Max. {1} donn\xE9es individuelles peuvent \xEAtre g\xE9r\xE9es par animal\xA0!"
 ,9:"Pro Tier k\xF6nnen max. {1} Einzeldaten verwaltet werden!",10:"\u039C\u03CC\u03BD\u03BF \u03AD\u03C9\u03C2 {1} \u03BA\u03B1\u03C4\u03B1\u03C7\u03C9\u03C1\u03AE\u03C3\u03B5\u03B9\u03C2 "+
@@ -1434,13 +1434,13 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 ,9:"Messeinsatz bei",10:"\u039C\u03B5\u03C4\u03C1\u03B7\u03BC\u03AD\u03BD\u03B1 \u03B5\u03AF\u03B4\u03B7"
 ,13:"M\xE5l type dyr",15:"\u0418\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0435 \u043F\u0440\u0438"
 ,16:"Medici\xF3n de",17:"Hayvan\u0131n t\xFCr\xFC \xF6l\xE7\xFCm\xFC",18:"\u0412\u0438\u043C\u0456\u0440\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u0438"
-};C.BgQ={1:"mjerenje nije uspjelo",2:"\u041D\u0435\u0443\u0441\u043F. \u0438\u0437\u043C\u0435\u0440\u0432\u0430\u043D\u0435"
+};C.BgU={1:"mjerenje nije uspjelo",2:"\u041D\u0435\u0443\u0441\u043F. \u0438\u0437\u043C\u0435\u0440\u0432\u0430\u043D\u0435"
 ,3:"\u6E2C\u91CF\u5931\u6557",4:"M\u011B\u0159en\xED chyba",0:"Measure failed",5:
 "Meting mislukt",6:"M\xF5\xF5tmine ei",7:"Mittausvirhe",8:"\xC9chec de la mesure"
 ,9:"Messung fehlgeschlagen",10:"\u0391\u03C0\u03BF\u03C4\u03C5\u03C7\u03B7\u03BC\u03AD\u03BD\u03B7 \u03BC\u03AD\u03C4\u03C1\u03B7\u03C3\u03B7"
 ,13:"Mislykket m\xE5ling",15:"\u0418\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0435 \u043D\u0435 \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u043E"
 ,16:"Fallo medici\xF3n",17:"\xD6l\xE7\xFCm ba\u015Far\u0131s\u0131z",18:"\u0412\u0438\u043C\u0456\u0440\u044E\u0432\u0430\u043D\u043D\u044F \u043D\u0435 "+
-"\u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043E"};C.BgR={1:"mjerenje uspjelo",
+"\u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043E"};C.BgV={1:"mjerenje uspjelo",
 0:"Measure succeeded",6:"M\xF5\xF5tmine \xF5nnestus",7:"Mittaus onnistui",8:"Mesure r\xE9ussie"
 ,9:"Messung erfolgreich",10:"\u039C\u03AD\u03C4\u03C1\u03B7\u03C3\u03B7 \u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03AF\u03B1\u03C2"
 ,13:"M\xE5lingen suksessfull",15:"\u0418\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0435 \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u043E "+
@@ -1471,7 +1471,7 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 ,10:"\u0394\u03C5\u03BD\u03B1\u03C4\u03CC\u03C4\u03B7\u03C4\u03B1 \u03B1\u03C1\u03BC\u03B5\u03B3\u03AE\u03C2"
 ,13:"Melkbarhet",15:"\u0412\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0434\u043E\u0439\u043A\u0438"
 ,16:"Capacidad lechera",18:"\u041C\u043E\u0436\u043B\u0438\u0432\u0456\u0441\u0442\u044C \u0434\u043E\u0457\u043D\u043D\u044F"
-};C.BgT={1:"Nedostaje ID \u017Eivotinje! Molimo odredite ID \u017Eivotinje koji je "+
+};C.BgX={1:"Nedostaje ID \u017Eivotinje! Molimo odredite ID \u017Eivotinje koji je "+
 "potrebno kreirati!",2:"\u2116 \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u043B\u0438\u043F\u0441\u0432\u0430!\n\u041C\u043E\u043B\u044F, "+
 "\u043F\u043E\u0441\u043E\u0447\u0435\u0442\u0435 \u2116 \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0442\u043E, "+
 "\u043A\u043E\u0435\u0442\u043E \u0449\u0435 \u0431\u044A\u0434\u0435 \u0441\u044A\u0437\u0434\u0430\u0434\u0435\u043D\u043E!"
@@ -1493,7 +1493,7 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 18:"\u0412\u0456\u0434\u0441\u0443\u0442\u043D\u0456\u0439 ID-\u043D\u043E\u043C\u0435\u0440 "+
 "\u0442\u0432\u0430\u0440\u0438\u043D\u0438!\n\u0411\u0443\u0434\u044C "+"\u043B\u0430\u0441\u043A\u0430, \u0432\u0432\u0435\u0434\u0456\u0442\u044C "+
 "ID-\u043D\u043E\u043C\u0435\u0440 \u043D\u043E\u0432\u043E\u0457 \u0442\u0432\u0430\u0440\u0438\u043D\u0438!"
-};C.BgU={1:"Nedostaje u\u0161na markica! Molimo odredite broj u\u0161ne markice za "+
+};C.BgY={1:"Nedostaje u\u0161na markica! Molimo odredite broj u\u0161ne markice za "+
 "\u017Eivotinju koju je potrebno kreirati!",2:"\u041B\u0438\u043F\u0441\u0432\u0430 \u043D\u043E\u043C\u0435\u0440 \u043D\u0430 "+
 "\u0443\u0448\u043D\u0430 \u043C\u0430\u0440\u043A\u0430!\n\u041C\u043E\u043B\u044F, "+
 "\u043F\u043E\u0441\u043E\u0447\u0435\u0442\u0435 \u043D\u043E\u043C\u0435\u0440\u0430 "+
@@ -1521,8 +1521,8 @@ C.A4Q={1:"neplodno grlo",2:"\u0411\u0435\u0437\u043F\u043B\u043E\u0434\u0438\u04
 Moderate={1:"Sredstvo",2:"\u0423\u043C\u0435\u0440\u0435\u043D",0:"Moderate",6:"M\xF5\xF5dukas"
 ,7:"Kohtalainen",8:"Mod\xE9r\xE9",9:"Mittel",10:"\u039C\u03AD\u03C4\u03C1\u03B9\u03BF"
 ,13:"Moderat",15:"\u0421\u0440\u0435\u0434\u043D\u0438\u0439",16:"Moderado",18:"\u0421\u0435\u0440\u0435\u0434\u043D\u0456\u0439"
-};C.G6={2:"M\u0435\u0441\u0435\u0446",0:"Month",5:"Maand",7:"Kuukausi ",8:"Mois"
-,9:"Monat",11:"Mese",15:"\u041C\u0435\u0441\u044F\u0446",16:"Mes",17:"Ay",18:"\u041C\u0456\u0441\u044F\u0446\u044C"
+};C.G7={2:"M\u0435\u0441\u0435\u0446",0:"Month",5:"Maand",7:"Kuukausi",8:"Mois",
+9:"Monat",11:"Mese",15:"\u041C\u0435\u0441\u044F\u0446",16:"Mes",17:"Ay",18:"\u041C\u0456\u0441\u044F\u0446\u044C"
 };C.A5n={1:"Stopa uginu\u0107a",0:"Mortality",6:"Suremus",7:"Kuolleisuus",8:"Taux de perte"
 ,9:"Verlustrate",10:"\u0398\u03BD\u03B7\u03C3\u03B9\u03BC\u03CC\u03C4\u03B7\u03C4\u03B1"
 ,13:"D\xF8delighet",15:"\u041A\u043E\u044D\u0444\u0444\u0438\u0446\u0438\u0435\u043D\u0442 \u043F\u043E\u0442\u0435\u0440\u044C"
@@ -1535,7 +1535,7 @@ Moderate={1:"Sredstvo",2:"\u0423\u043C\u0435\u0440\u0435\u043D",0:"Moderate",6:"
 ,4:"N\xE1sobky",0:"Multiples",5:"Eenling/Meerling",6:"Paljunda",7:"Toistot",8:"Multiple"
 ,9:"Einling/Mehrling",10:"\u03A0\u03BF\u03BB\u03BB\u03B1\u03C0\u03BB\u03AC\u03C3\u03B9\u03B1"
 ,13:"Multipliser",15:"\u0411\u043B\u0438\u0437\u043D\u0435\u0446\u044B",16:"Ternero simple/m\xFAltiple"
-,17:"\xC7oklu",18:"\u0411\u043B\u0438\u0437\u043D\u044E\u043A\u0438"};C.BgY={1:"prije {1} dana"
+,17:"\xC7oklu",18:"\u0411\u043B\u0438\u0437\u043D\u044E\u043A\u0438"};C.Bg2={1:"prije {1} dana"
 ,2:"\u041F\u0440\u0435\u0434\u0438 {1} \u0434\u043D\u0438",3:"{1}\u5929\u524D",4:
 "Dny p\u0159ed",0:"{1} days ago",6:"{1} p\xE4eva tagasi",7:"{1} p\xE4iv\xE4\xE4 sitten"
 ,8:"il y a {1} jour",9:"vor {1} Tagen",10:"\u03A0\u03C1\u03AF\u03BD \u03B1\u03C0\u03AF {1} \u03BC\u03AD\u03C1\u03B1"
@@ -1543,7 +1543,7 @@ Moderate={1:"Sredstvo",2:"\u0423\u043C\u0435\u0440\u0435\u043D",0:"Moderate",6:"
 ,16:"hace {1} d\xEDas",18:"{1} \u0434\u043D\u0456\u0432 \u0442\u043E\u043C\u0443"
 };C.APJ={1:"{1} od 4",2:"{1} \u043E\u0442 4",0:"{1} of 4",6:"{1} neljast",7:"{1} / 4"
 ,8:"{1} de 4",9:"{1} von 4",10:"{1} \u03B1\u03C0\u03CC 4",13:"{1} av 4",15:"{1} \u0438\u0437 4"
-,16:"{1} de 4",18:"{1} \u0456\u0437 4"};C.Bg1={0:"An animal ID is already linked to this animal!\nID reassignment is not "+
+,16:"{1} de 4",18:"{1} \u0456\u0437 4"};C.Bg5={0:"An animal ID is already linked to this animal!\nID reassignment is not "+
 "possible!",8:"Un n\xB0 d\'identit\xE9 a \xE9t\xE9 d\xE9j\xE0 attribu\xE9 \xE0 cet animal\xA0! "+
 "Une autre attribution n\'est plus possible\xA0!",9:"Diesem Tier wurde bereits eine Ohrmarken~nummer zuge~ordnet! Die Zu~weisung "+
 "einer anderen Nummer ist nicht m\xF6glich!",15:"\u041A \u044D\u0442\u043E\u043C\u0443 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u043C\u0443 "+
@@ -1551,7 +1551,7 @@ Moderate={1:"Sredstvo",2:"\u0423\u043C\u0435\u0440\u0435\u043D",0:"Moderate",6:"
 "ID \u043D\u0435\u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E!",16:"\xA1Un ID de animal ya est\xE1 vinculado a este animal!\n\xA1No es posible "+
 "la reasignaci\xF3n del ID!",18:"\u0414\u043E \u0446\u0456\u0454\u0457 \u0442\u0432\u0430\u0440\u0438\u043D\u0438 "+
 "\u0443\u0436\u0435 \u043F\u0440\u0438\u0432\'\u044F\u0437\u0430\u043D\u043E "+"ID!\n\u041F\u0435\u0440\u0435\u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F "+
-"ID \u043D\u0435 \u0454 \u043C\u043E\u0436\u043B\u0438\u0432\u0438\u043C!"};C.YG={
+"ID \u043D\u0435 \u0454 \u043C\u043E\u0436\u043B\u0438\u0432\u0438\u043C!"};C.YH={
 1:"Oznaka u\u0161ne markice",0:"National animal ID",6:"Riiklik looma ID",7:"Kansallinen el\xE4in ID"
 ,8:"Num\xE9ro de la marque auriculaire",9:"Ohrmarken~nummer",10:"\u0395\u03B8\u03BD\u03B9\u03BA\u03CC \u03B1\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC "+
 "\u03B6\u03CE\u03BF\u03C5",13:"Nasjonalt dyre-ID",15:"\u041D\u043E\u043C\u0435\u0440 \u0443\u0448\u043D\u043E\u0439 \u0431\u0438\u0440\u043A\u0438"
@@ -1681,7 +1681,7 @@ APY={1:"briga o novoro\u0111enim grlima",2:"\u0413\u0440\u0438\u0436\u0430 \u043
 "\u0435\u0449\u0451 \u043D\u0435 \u0441\u043D\u044F\u0442 \u0441 \u0443\u0447\u0451\u0442\u0430!"
 ,16:"A\xFAn no se han registrado terneros",18:"\u0429\u0435 \u0436\u043E\u0434\u043D\u0435 \u0442\u0435\u043B\u044F \u043D\u0435 "+
 "\u0437\u043D\u044F\u0442\u043E \u0437 \u043E\u0431\u043B\u0456\u043A\u0443!"};C.
-A5E={0:"No change",9:"Keine \xC4nderung",16:"Sin cambios"};C.Bg3={0:"No cow(s) on list!"
+A5E={0:"No change",9:"Keine \xC4nderung",16:"Sin cambios"};C.Bg7={0:"No cow(s) on list!"
 ,8:"Aucune vache sur la liste\xA0!",9:"Kein(e) K\xFCh(e) auf der Liste!",15:"\u041D\u0435\u0442 \u043A\u043E\u0440\u043E\u0432 \u0432 \u0441\u043F\u0438\u0441\u043A\u0435!"
 ,16:"\xA1Ninguna vaca en la lista!",18:"\u041D\u0435\u043C\u0430\u0454 \u043A\u043E\u0440\u0456\u0432 \u0443 \u0441\u043F\u0438\u0441\u043A\u0443!"
 };C.APZ={1:"Na spisku nema zasu\u0161enih krava!",0:"No dry cow(s) on list!",6:"Kinnislehmade nimekiri puudub!"
@@ -1700,7 +1700,7 @@ A5E={0:"No change",9:"Keine \xC4nderung",16:"Sin cambios"};C.Bg3={0:"No cow(s) o
 ,13:"Ingen friske kyr p\xE5 listen",15:"\u0412 \u0441\u043F\u0438\u0441\u043A\u0435 \u043D\u0435\u0442 \u043D\u043E\u0432\u043E\u0442\u0435\u043B\u044C\u043D\u044B\u0445 "+
 "\u043A\u043E\u0440\u043E\u0432!",16:"\xA1Ninguna vaca fresca en la lista!",18:"\u0423 \u0441\u043F\u0438\u0441\u043A\u0443 \u043D\u0435\u043C\u0430\u0454 "+
 "\u043D\u043E\u0432\u043E\u0442\u0456\u043B\u044C\u043D\u0438\u0445 \u043A\u043E\u0440\u0456\u0432!"
-};C.Bg5={0:"No ratings recorded in the displayed date period!",8:"Aucune \xE9valuation n\'a \xE9t\xE9 enregistr\xE9 pendant la p\xE9riode "+
+};C.Bg9={0:"No ratings recorded in the displayed date period!",8:"Aucune \xE9valuation n\'a \xE9t\xE9 enregistr\xE9 pendant la p\xE9riode "+
 "affich\xE9e sur l\'\xE9cran\xA0!",9:"Im dargestellten Zeitraum wurden keine Bewertungen erfasst!"
 ,15:"\u0412 \u043E\u0442\u043E\u0431\u0440\u0430\u0436\u0430\u0435\u043C\u044B\u0439 "+
 "\u043F\u0435\u0440\u0438\u043E\u0434 \u043D\u0435 \u0431\u044B\u043B\u043E "+"\u0437\u0430\u043F\u0438\u0441\u0430\u043D\u043E \u043D\u0438\u043A\u0430\u043A\u0438\u0445 "+
@@ -1747,7 +1747,7 @@ A5E={0:"No change",9:"Keine \xC4nderung",16:"Sin cambios"};C.Bg3={0:"No cow(s) o
 "para el(los) d\xEDgito(s) proporcionado(s) arriba",18:"\u0420\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0456\u0432 \u043F\u043E\u0448\u0443\u043A\u0443 "+
 "\u043D\u0435\u043C\u0430\u0454:\n\u0442\u0432\u0430\u0440\u0438\u043D, "+"\u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u043D\u043E\u0457 \u043F\u043E\u0441\u043B\u0456\u0434\u043E\u0432\u043D\u043E\u0441\u0442\u0456 "+
 "\u0446\u0438\u0444\u0440, \u043D\u0435 \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u043E!"
-};C.Bg6={0:"No temperatures and no ratings recorded in the period shown in the graphic!"
+};C.Bg_={0:"No temperatures and no ratings recorded in the period shown in the graphic!"
 ,8:"Aucune temp\xE9rature et aucune \xE9valuation n\'ont \xE9t\xE9 enregistr\xE9es "+
 "pendant la p\xE9riode pr\xE9sent\xE9e dans le graphique\xA0!",9:"Im Darstellungszeitraum der Grafik wurden keine Temperaturen und keine "+
 "Bewertungen erfasst!",15:"\u0412 \u043E\u0442\u043E\u0431\u0440\u0430\u0436\u0430\u0435\u043C\u044B\u0439 "+
@@ -1755,7 +1755,7 @@ A5E={0:"No change",9:"Keine \xC4nderung",16:"Sin cambios"};C.Bg3={0:"No cow(s) o
 "\u0438 \u043E\u0446\u0435\u043D\u043E\u043A!",16:"A\xFAn no asignado",18:"\u0412 \u0432\u0456\u0434\u043E\u0431\u0440\u0430\u0436\u0443\u0432\u0430\u043D\u0438\u0439 "+
 "\u043F\u0435\u0440\u0456\u043E\u0434 \u043D\u0435 \u0431\u0443\u043B\u043E "+"\u0437\u0430\u043F\u0438\u0441\u0430\u043D\u043E \u043D\u0456\u044F\u043A\u0438\u0445 "+
 "\u043E\u0446\u0456\u043D\u043E\u043A \u0442\u0430 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440!"
-};C.Bg7={1:"Nema sa\u010Duvanih vrijednosti temperature!",2:"\u0412\u0441\u0435 \u043E\u0449\u0435 \u043D\u044F\u043C\u0430 \u0437\u0430\u043F\u0438\u0441\u0438 "+
+};C.Bg$={1:"Nema sa\u010Duvanih vrijednosti temperature!",2:"\u0412\u0441\u0435 \u043E\u0449\u0435 \u043D\u044F\u043C\u0430 \u0437\u0430\u043F\u0438\u0441\u0438 "+
 "\u0437\u0430 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0430 "+
 "\u0438 \u043E\u0446\u0435\u043D\u043A\u0430!",3:"\u5C1A\u672A\u6709\u6EAB\u5EA6\u548C\u8A55\u5206\u8A18\u9304\uFF01"
 ,4:"Dosud nebyly zaznamen\xE1ny \u017E\xE1dn\xE9 teploty a \u017E\xE1dn\xE1 "+"hodnocen\xED"
@@ -1820,7 +1820,7 @@ A5E={0:"No change",9:"Keine \xC4nderung",16:"Sin cambios"};C.Bg3={0:"No cow(s) o
 };C.AP_={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xFD"
 ,0:"none",5:"geen",6:"pole",7:"ei yht\xE4\xE4n",8:"aucun",9:"keine",10:"\u03BA\u03B1\u03BD\u03AD\u03BD\u03B1"
 ,13:"ingen",15:"\u041D\u0435\u0442",16:"-",18:"\u043D\u0435\u043C\u0430\u0454"};
-C.Bg8={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xFD"
+C.Bha={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xFD"
 ,0:"None",5:"geen",6:"pole",7:"Ei yht\xE4\xE4n",8:"aucun",9:"Keine",10:"\u039A\u03B1\u03BD\u03AD\u03BD\u03B1"
 ,13:"ingen",15:"\u041D\u0435\u0442",16:"Ninguno(s)",18:"\u041D\u0435\u043C\u0430\u0454"
 };C.Normal={1:"normalno",2:"\u041D\u043E\u0440\u043C\u0430\u043B\u043D\u043E",3:
@@ -1857,7 +1857,7 @@ C.Bg8={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xF
 ,3:"\u958B\u555F",4:"Zapnuto",0:"On",5:"Aan",6:"Sees",7:"P\xE4\xE4ll\xE4",8:"Allum\xE9"
 ,9:"An",10:"\u0391\u03BD\u03BF\u03B9\u03BA\u03C4\u03CC",13:"P\xE5",15:"\u0412\u043A\u043B."
 ,16:"encendida",17:"A\xE7\u0131k",18:"\u0423\u0432\u0456\u043C\u043A."};C.Ara={0:
-"On watch",9:"Beobachtung",16:"En seguimiento"};C.BkC={1:"Jedan interval za brojeve za \u2642 i \u2640"
+"On watch",9:"Beobachtung",16:"En seguimiento"};C.BkG={1:"Jedan interval za brojeve za \u2642 i \u2640"
 ,2:"\u0415\u0434\u0438\u043D \u0434\u0438\u0430\u043F\u0430\u0437\u043E\u043D "+
 "\u0437\u0430 \u2642 \u0438 \u2640",0:"One single range for both \u2642 and \u2640"
 ,6:"\xDCks vahemik nii \u2642 kui \u2640 jaoks",7:"Yksi alue sek\xE4 \u2642 ett\xE4 \u2640"
@@ -1868,7 +1868,7 @@ C.Bg8={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xF
 "\u043D\u043E\u043C\u0435\u0440\u043E\u0432 \u0434\u043B\u044F \u2642 \u0438 "+"\u2640"
 ,16:"Un solo rango para ambos \u2642 y \u2640",18:"\u041E\u0434\u0438\u043D \u0434\u0456\u0430\u043F\u0430\u0437\u043E\u043D "+
 "\u043D\u043E\u043C\u0435\u0440\u0456\u0432 \u0434\u043B\u044F \u2642 \u0442\u0430 "+
-"\u2640"};C.BkD={1:"druga oboljenja",2:"\u0414\u0440\u0443\u0433\u0438 \u0437\u0430\u0431\u043E\u043B\u044F\u0432\u0430\u043D\u0438\u044F"
+"\u2640"};C.BkH={1:"druga oboljenja",2:"\u0414\u0440\u0443\u0433\u0438 \u0437\u0430\u0431\u043E\u043B\u044F\u0432\u0430\u043D\u0438\u044F"
 ,0:"Other illnesses",6:"Teised haigused",7:"Muut sairaudet",8:"Autres maladies",
 9:"Sonstige Krankheiten",10:"\u0386\u03BB\u03BB\u03B5\u03C2 \u03B1\u03C3\u03B8\u03AD\u03BD\u03B5\u03B9\u03B5\u03C2"
 ,13:"Andre sykdommer",15:"\u041F\u0440\u043E\u0447\u0438\u0435 \u0437\u0430\u0431\u043E\u043B\u0435\u0432\u0430\u043D\u0438\u044F"
@@ -1889,7 +1889,7 @@ C.Bg8={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xF
 };C.Pound={1:"funta",2:"\u041B\u0438\u0431\u0440\u0438",3:"\u78C5",4:"Libra",0:"Pound"
 ,5:"Pond",6:"Nael",7:"pauna",8:"Livre",9:"Pfund",10:"\u039B\u03AF\u03B2\u03C1\u03B1"
 ,13:"Pund",15:"\u0424\u0443\u043D\u0442",16:"Libras",17:"Paund",18:"\u0424\u0443\u043D\u0442"
-};C.BkL={2:"\u041B\u0438\u0431\u0440\u0438/\u0434\u0435\u043D",3:"\u78C5/\u65E5"
+};C.BkP={2:"\u041B\u0438\u0431\u0440\u0438/\u0434\u0435\u043D",3:"\u78C5/\u65E5"
 ,4:"Libra/den",0:"lbs/d",6:"Kg p\xE4evas",7:"lbs/pv",8:"lbs/jour",10:"\u039B\u03AF\u03B2\u03C1\u03B5\u03C2/\u03BC\u03AD\u03C1\u03B1"
 ,13:"Pund/dag",15:"lbs/\u0434\u0435\u043D\u044C",16:"lbs/d (libras por d\xEDa)",
 17:"G\xFCnl\xFCk paund",18:"lbs/\u0434\u0435\u043D\u044C"};C.PB={1:"o\u010Dekivano"
@@ -1901,7 +1901,7 @@ C.Bg8={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xF
 };C.AEx={0:"Premises-ID number",6:"Eelduste ID-number",7:"Maatilan numero",8:"N\xB0 d\'exploitation"
 ,9:"Betriebsnummer",10:"\u03A0\u03C1\u03BF\u03CB\u03C0\u03CC\u03B8\u03B5\u03C3\u03B5\u03B9\u03C2-\u03B1\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 "+
 "\u03B1\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03BF\u03CD"
-,13:"Lokale-ID-nummer",16:"ID de predios"};C.BkM={1:"Problemati\u010Dna prilikom mu\u017Enje"
+,13:"Lokale-ID-nummer",16:"ID de predios"};C.BkQ={1:"Problemati\u010Dna prilikom mu\u017Enje"
 ,2:"\u041F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u043F\u0440\u0438 "+
 "\u0434\u043E\u0435\u043D\u0435",0:"Problematic milking behavior",6:"Probleemne l\xFCpsik\xE4itumine"
 ,7:"Ongelmallinen lypsyk\xE4ytt\xE4ytyminen",8:"Comportement probl\xE9matique lors de la traite"
@@ -1910,7 +1910,7 @@ C.Bg8={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xF
 "\u03AC\u03C1\u03BC\u03B5\u03B3\u03BC\u03B1",13:"Problematisk melkeadferd",15:"\u041F\u0440\u043E\u0431\u043B\u0435\u043C\u043D\u043E\u0435 \u043F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 "+
 "\u043F\u0440\u0438 \u0434\u043E\u0435\u043D\u0438\u0438",16:"Comportamiento problem\xE1tico durante el orde\xF1o"
 ,18:"\u041F\u0440\u043E\u0431\u043B\u0435\u043C\u043D\u0430 \u043F\u043E\u0432\u0435\u0434\u0456\u043D\u043A\u0430 "+
-"\u043F\u0440\u0438 \u0434\u043E\u0457\u043D\u043D\u0456"};C.BkN={1:"Problemati\u010Dno pona\u0161enje u stadu"
+"\u043F\u0440\u0438 \u0434\u043E\u0457\u043D\u043D\u0456"};C.BkR={1:"Problemati\u010Dno pona\u0161enje u stadu"
 ,2:"\u041F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435",0:"Problematic social behavior"
 ,6:"Probleemne sotsiaalne k\xE4itumine",7:"Ongelmainen sosiaalinen k\xE4ytt\xE4ytyminen"
 ,8:"Comportement social probl\xE9matique",9:"Problematisches Sozialverhalten",10:
@@ -1918,11 +1918,11 @@ C.Bg8={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xF
 ,13:"Problematisk sosial adferd",15:"\u041F\u0440\u043E\u0431\u043B\u0435\u043C\u043D\u043E\u0435 \u0441\u043E\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0435 "+
 "\u043F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435",16:"Comportamiento social problem\xE1tico"
 ,18:"\u041F\u0440\u043E\u0431\u043B\u0435\u043C\u043D\u0430 \u0441\u043E\u0446\u0456\u0430\u043B\u044C\u043D\u0430 "+
-"\u043F\u043E\u0432\u0435\u0434\u0456\u043D\u043A\u0430"};C.BkO={0:"Produced",8:
+"\u043F\u043E\u0432\u0435\u0434\u0456\u043D\u043A\u0430"};C.BkS={0:"Produced",8:
 "Produit",9:"Produziert",16:"Producido"};C.A8f={1:"Proizvo\u0111a\u010D",2:"\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B"
 ,0:"Producer",6:"Tootja",7:"Tuottaja",8:"Producteur",9:"Hersteller",10:"\u03A0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03CC\u03C2"
 ,13:"Produsent",15:"\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C"
-,16:"Fabricante",18:"\u0412\u0438\u0440\u043E\u0431\u043D\u0438\u043A"};C.BkP={1:
+,16:"Fabricante",18:"\u0412\u0438\u0440\u043E\u0431\u043D\u0438\u043A"};C.BkT={1:
 "Ubacite USB sa va\u017Ee\u0107im programom - a\u017Euriranje",2:"\u041C\u043E\u043B\u044F, \u043F\u043E\u0441\u0442\u0430\u0432\u0435\u0442\u0435 "+
 "USB \u0444\u043B\u0430\u0448 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E "+
 "\u0441 \u0432\u0430\u043B\u0438\u0434\u0435\u043D \u0444\u0430\u0439\u043B "+"\u043D\u0430 \u0444\u044A\u0440\u043C\u0443\u0435\u0440\u0430 \u2019firmware.vcu\u2019!"
@@ -1945,7 +1945,7 @@ C.Bg8={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",4:"\u017D\xE1dn\xF
 ,4:"Protokol",0:"Protocol",6:"Protokoll",7:"Kokoonpano",8:"Protocole",9:"Protokoll"
 ,10:"\u03A0\u03C1\u03BF\u03C4\u03CC\u03BA\u03C9\u03BB\u03BF",13:"Protikoll",15:"\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B"
 ,16:"Protocolo",17:"Protokol",18:"\u041F\u0440\u043E\u0442\u043E\u043A\u043E\u043B"
-};C.BkQ={0:"Purchase notices were deleted after export!",9:"Zugangsmeldungen wurden nach Export gel\xF6scht!"
+};C.BkU={0:"Purchase notices were deleted after export!",9:"Zugangsmeldungen wurden nach Export gel\xF6scht!"
 };C.AEz={0:"Purchased animals",9:"Zuk\xE4ufe"};C.Quadruplets={1:"\u010Cetvorke",
 0:"Quadruplets",6:"Nelikud",7:"Neloset",8:"Quadrupl\xE9",9:"Vierlinge",10:"\u03A4\u03B5\u03C4\u03C1\u03AC\u03B4\u03C5\u03BC\u03B1"
 ,13:"Firlinger",15:"\u0427\u0435\u0442\u0432\u0435\u0440\u043E \u0431\u043B\u0438\u0437\u043D\u0435\u0446\u043E\u0432"
@@ -1988,7 +1988,7 @@ Aeo={3:"\u554F\u865F",0:"?",8:"\xA0?",16:"N\xFAmero de identificaci\xF3n de las 
 ,8:"Lecteur RFID",9:"RFID-Leseger\xE4t",10:"\u0391\u03BD\u03B1\u03B3\u03BD\u03CE\u03C3\u03C4\u03B7\u03C2 RFID"
 ,13:"RFID-leser",15:"\u0421\u0447\u0438\u0442\u044B\u0432\u0430\u0442\u0435\u043B\u044C RFID"
 ,16:"Lector RFID",18:"\u0417\u0447\u0438\u0442\u0443\u0432\u0430\u0447 RFID"};C.
-BkS={0:"RGB LED",6:"RGB punane",16:"LED RGB"};C.A8k={1:"real time sat",0:"Real time clock"
+BkW={0:"RGB LED",6:"RGB punane",16:"LED RGB"};C.A8k={1:"real time sat",0:"Real time clock"
 ,6:"Reaalaja kell",7:"Reaaliaikainen kello",8:"Module d\'horloge",9:"Uhrenbaustein"
 ,10:"\u03A1\u03BF\u03BB\u03CC\u03B9 \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03BF\u03CD "+
 "\u03C7\u03C1\u03CC\u03BD\u03BF\u03C5",13:"Sanntids klokke",15:"\u041C\u043E\u0434\u0443\u043B\u044C \u0447\u0430\u0441\u043E\u0432"
@@ -2021,7 +2021,7 @@ BkS={0:"RGB LED",6:"RGB punane",16:"LED RGB"};C.A8k={1:"real time sat",0:"Real t
 ,10:"\u0392\u03B1\u03B8\u03BC\u03BF\u03BB\u03BF\u03B3\u03AF\u03B5\u03C2 \u03C4\u03C9\u03BD "+
 "\u03B6\u03CE\u03C9\u03BD",13:"Vurdering av dyr",15:"\u041E\u0446\u0435\u043D\u043A\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E"
 ,16:"Evaluaci\xF3n de animales",18:"\u041E\u0446\u0456\u043D\u043A\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0438"
-};C.BkU={1:"Ukupno stanje \u017Eivotinja",2:"\u041E\u0431\u0449\u043E \u0441\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
+};C.BkY={1:"Ukupno stanje \u017Eivotinja",2:"\u041E\u0431\u0449\u043E \u0441\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 ,3:"\u5916\u89C0\u8A55\u5206",4:"Hodnocen\xED vzhledu celkov\xE9",0:"General condition"
 ,5:"Algemeen optreden",6:"Keskmine seisund",7:"Yleiskunto",8:"\xC9tat g\xE9n\xE9ral"
 ,9:"Allgemein~zustand",10:"\u0393\u03B5\u03BD\u03B9\u03BA\u03CC\u03C4\u03B5\u03C1\u03B7 \u03BA\u03B1\u03C4\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7"
@@ -2031,7 +2031,7 @@ BkS={0:"RGB LED",6:"RGB punane",16:"LED RGB"};C.A8k={1:"real time sat",0:"Real t
 ,4:"Hodnocen\xED vzhledu zkr\xE1cen\xE9",0:"Condition",5:"Uiterlijk",6:"Seisund"
 ,7:"Ulkon\xE4k\xF6",8:"\xC9tat",9:"Zustand",10:"\u0395\u03BC\u03C6\u03AC\u03BD\u03B9\u03C3\u03B7"
 ,13:"Tilstand",15:"\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435",16:"Aspecto"
-,17:"G\xF6r\xFCn\xFCm",18:"\u0421\u0442\u0430\u043D"};C.BkV={1:"Konzistencija izmeta"
+,17:"G\xF6r\xFCn\xFCm",18:"\u0421\u0442\u0430\u043D"};C.BkZ={1:"Konzistencija izmeta"
 ,2:"\u041A\u043E\u043D\u0441\u0438\u0441\u0442\u0435\u043D\u0446\u0438\u044F "+"\u043D\u0430 \u0438\u0437\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\u0442\u0430"
 ,3:"\u7CDE\u4FBF\u5206\u7D1A",4:"Hodnocen\xED konzistence v\xFDkal\u016F",0:"Consistency of faeces"
 ,5:"Mestconsistentie",6:"Roe konsistents",7:"Ulosteiden yhdenmukaisuus",8:"Consistance f\xE9cale"
@@ -2043,19 +2043,19 @@ BkS={0:"RGB LED",6:"RGB punane",16:"LED RGB"};C.A8k={1:"real time sat",0:"Real t
 ,3:"\u7CDE\u4FBF",4:"Hodnocen\xED konzistence v\xFDkal\u016F zkr\xE1cen\xE9",0:"Faeces"
 ,5:"Mest",6:"Roe",7:"Ulosteet",8:"F\xE9cal",9:"Kot",10:"\u03A0\u03B5\u03C1\u03B9\u03C4\u03C4\u03CE\u03BC\u03B1\u03C4\u03B1"
 ,13:"Avf\xF8ring",15:"\u0424\u0435\u043A\u0430\u043B\u0438\u0438",16:"Heces",18:
-"\u0424\u0435\u043A\u0430\u043B\u0456\u0457"};C.BkW={1:"Konzumacija hrane",2:"\u0418\u0437\u044F\u0434\u0435\u043D\u0430 \u0445\u0440\u0430\u043D\u0430"
+"\u0424\u0435\u043A\u0430\u043B\u0456\u0457"};C.Bk0={1:"Konzumacija hrane",2:"\u0418\u0437\u044F\u0434\u0435\u043D\u0430 \u0445\u0440\u0430\u043D\u0430"
 ,3:"\u63A1\u98DF",4:"Hodnocen\xED p\u0159\xEDjmu krmen\xED",0:"Feed intake",5:"Voeropname"
 ,6:"S\xF6\xF6mus",7:"Rehunsy\xF6nti",8:"Consommation",9:"Futteraufnahme",10:"\u03A0\u03C1\u03CC\u03C3\u03BB\u03B7\u03C8\u03B7 \u03C4\u03C1\u03BF\u03C6\u03AE\u03C2"
 ,13:"F\xF4ropptak",15:"\u041F\u043E\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435 \u043A\u043E\u0440\u043C\u0430"
 ,16:"Ingesta de alimento",17:"Besin derecelendirmesi",18:"\u0421\u043F\u043E\u0436\u0438\u0432\u0430\u043D\u043D\u044F \u043A\u043E\u0440\u043C\u0443"
-};C.BkX={1:"Oboljenja disajnih puteva",2:"\u0420\u0435\u0441\u043F\u0438\u0440\u0430\u0442\u043E\u0440\u043D\u0430 "+
+};C.Bk1={1:"Oboljenja disajnih puteva",2:"\u0420\u0435\u0441\u043F\u0438\u0440\u0430\u0442\u043E\u0440\u043D\u0430 "+
 "\u0431\u043E\u043B\u0435\u0441\u0442",3:"\u547C\u5438\u75BE\u75C5",4:"Hodnocen\xED respira\u010Dn\xEDch nemoc\xED"
 ,0:"Respiratory disease",5:"Ademwegsziekte",6:"Hingamisteede haigused",7:"Hengityssairaus"
 ,8:"Maladie respiratoire",9:"Atemwegserkrankung",10:"\u0391\u03C3\u03B8\u03AD\u03BD\u03B5\u03B9\u03B1 \u03C4\u03BF\u03C5 \u03B1\u03BD\u03B1\u03C0\u03BD\u03B5\u03C5\u03C3\u03C4\u03B9\u03BA\u03BF\u03CD"
 ,13:"Luftveissykdom",15:"\u0417\u0430\u0431\u043E\u043B\u0435\u0432\u0430\u043D\u0438\u044F \u0434\u044B\u0445\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0445 "+
 "\u043F\u0443\u0442\u0435\u0439",16:"Enfermedad respiratoria",17:"Solunum derecelendirmesi"
 ,18:"\u0425\u0432\u043E\u0440\u043E\u0431\u0438 \u0434\u0438\u0445\u0430\u043B\u044C\u043D\u0438\u0445 "+
-"\u0448\u043B\u044F\u0445\u0456\u0432"};C.BkY={1:"Oboljenja disajnih puteva",2:"\u0420\u0435\u0441\u043F\u0438\u0440\u0430\u0442\u043E\u0440\u043D\u0430 "+
+"\u0448\u043B\u044F\u0445\u0456\u0432"};C.Bk2={1:"Oboljenja disajnih puteva",2:"\u0420\u0435\u0441\u043F\u0438\u0440\u0430\u0442\u043E\u0440\u043D\u0430 "+
 "\u0431\u043E\u043B\u0435\u0441\u0442",3:"\u547C\u5438\u9053\u75BE\u75C5",4:"Hodnocen\xED respira\u010Dn\xEDch nemoc\xED pomoc"
 ,0:"Respiratory disease",5:"Ademwegsziekte",6:"Hingamisteede haigused",7:"Hengitys~sairaus"
 ,8:"Maladie respiratoire",9:"Atemwege",10:"\u0391\u03C3\u03B8\u03AD\u03BD\u03B5\u03B9\u03B1 \u03B1\u03BD\u03B1\u03C0\u03BD\u03B5\u03C5\u03C3\u03C4\u03B9\u03BA\u03BF\u03CD"
@@ -2069,7 +2069,7 @@ BkS={0:"RGB LED",6:"RGB punane",16:"LED RGB"};C.A8k={1:"real time sat",0:"Real t
 9:"Atemwege",10:"\u0391\u03BD\u03B1\u03C0\u03BD\u03B5\u03C5\u03C3\u03C4\u03B9\u03BA\u03CC"
 ,13:"Luftveiene",15:"\u041E\u0440\u0433\u0430\u043D\u044B \u0434\u044B\u0445\u0430\u043D\u0438\u044F"
 ,16:"V\xEDas respi~ratorias",18:"\u041E\u0440\u0433\u0430\u043D\u0438 \u0434\u0438\u0445\u0430\u043D\u043D\u044F"
-};C.BkZ={2:"\u0414\u0438\u0430\u0440\u0438\u044F",4:"Pr\u016Fjem",0:"Scours",5:"Diarree"
+};C.Bk3={2:"\u0414\u0438\u0430\u0440\u0438\u044F",4:"Pr\u016Fjem",0:"Scours",5:"Diarree"
 ,6:"K\xF5hulahtisus",7:"Ulosteet",8:"Diarrh\xE9e",9:"Kotkonsistenz",10:"\u0394\u03B9\u03AC\u03C1\u03C1\u03BF\u03B9\u03B1"
 ,13:"Diare vurdering",15:"\u041A\u043E\u043D\u0441\u0438\u0441\u0442\u0435\u043D\u0446\u0438\u044F "+
 "\u0444\u0435\u043A\u0430\u043B\u0438\u0439",16:"Diarrea",18:"\u041A\u043E\u043D\u0441\u0438\u0441\u0442\u0435\u043D\u0446\u0456\u044F "+
@@ -2091,16 +2091,16 @@ BkS={0:"RGB LED",6:"RGB punane",16:"LED RGB"};C.A8k={1:"real time sat",0:"Real t
 ,9:"Bitte Ger\xE4t aufladen!",10:"\u03A6\u03BF\u03C1\u03C4\u03AE\u03C3\u03C4\u03B5 \u03C4\u03B7 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE!"
 ,13:"Lad opp enheten",15:"\u0417\u0430\u0440\u044F\u0434\u0438\u0442\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E!"
 ,16:"\xA1Recargar dispositivo!",18:"\u0417\u0430\u0440\u044F\u0434\u0456\u0442\u044C \u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439!"
-};C.Bk0={0:"Record {1} of {2}",6:"Salvesta{1} {2}st",7:"Enn\xE4tys {1} / {2}",8:
+};C.Bk4={0:"Record {1} of {2}",6:"Salvesta{1} {2}st",7:"Enn\xE4tys {1} / {2}",8:
 "Enregistrement {1} de {2}",9:"Datensatz {1} von {2}",10:"\u0395\u03B3\u03B3\u03C1\u03B1\u03C6\u03AE {1} \u03B1\u03C0\u03CC {2}"
 ,13:"Registrering {1} av {2}",15:"\u0417\u0430\u043F\u0438\u0441\u044C {1} \u0438\u0437 {2}"
 ,16:"Registro {1} de {2}",18:"\u0417\u0430\u043F\u0438\u0441 {1} \u0437 {2}"};C.
-AEF={0:"Recorded values",9:"Erfasste Werte"};C.Bk2={1:"registrivati",2:"\u0420\u0435\u0433\u0438\u0441\u0442\u044A\u0440"
+AEF={0:"Recorded values",9:"Erfasste Werte"};C.Bk6={1:"registrivati",2:"\u0420\u0435\u0433\u0438\u0441\u0442\u044A\u0440"
 ,3:"\u767B\u9304",4:"Registrovat",0:"Register",5:"Aanleggen",6:"Registreeri",7:"Rekister\xF6idy"
 ,8:"Enregistrer",9:"Anlegen",10:"\u039A\u03B1\u03C4\u03B1\u03C7\u03C9\u03C1\u03AE\u03C3\u03C4\u03B5"
 ,13:"Registrere",15:"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u0442\u044C"
 ,16:"Registrar",18:"\u0417\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438"
-};C.Bk3={1:"registrovana",2:"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430\u043D\u0438"
+};C.Bk7={1:"registrovana",2:"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430\u043D\u0438"
 ,3:"\u767B\u9304",4:"Registrovan\xFD",0:"Registered",5:"Registreerd",6:"Registreeritud"
 ,7:"Rekister\xF6ity",8:"Enregistr\xE9",9:"Registriert",10:"\u0395\u03B3\u03B3\u03B5\u03B3\u03C1\u03B1\u03BC\u03AD\u03BD\u03BF"
 ,13:"Registrert",15:"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u043D"
@@ -2131,19 +2131,19 @@ AEF={0:"Recorded values",9:"Erfasste Werte"};C.Bk2={1:"registrivati",2:"\u0420\u
 ,13:"Omstart",15:"\u041F\u0435\u0440\u0435\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430"
 ,16:"Reinicio",17:"Yeniden ba\u015Flat",18:"\u041F\u0435\u0440\u0435\u0437\u0430\u0432\u0430\u043D\u0442\u0430\u0436\u0435\u043D\u043D\u044F"
 };C.AEK={0:"Restore backup",8:"R\xE9tablir la sauvegarde des donn\xE9es",9:"Datensicherung einspielen"
-,16:"Restaurar copia de seguridad"};C.Bk8={0:"Restore in progress!\n\nThis process may take a minute or longer, please "+
+,16:"Restaurar copia de seguridad"};C.Bla={0:"Restore in progress!\n\nThis process may take a minute or longer, please "+
 "be patient!",9:"Daten werden wiederher~gestellt!\n\nDieser Vorgang kann eine Minute oder "+
 "l\xE4nger dauern, etwas Geduld bitte!",16:"Restauraci\xF3n en progreso.\n\n\xA1Este proceso puede llevar un minuto "+
 "o m\xE1s, por favor, ten paciencia!"};C.A8u={1:"SD kartica",0:"SD Card",6:"SD-kaart"
 ,7:"SD Kortti",8:"Carte SD",9:"SD-Speicherkarte",10:"\u039A\u03AC\u03C1\u03C4\u03B1 SD"
 ,13:"SD kort",15:"\u041A\u0430\u0440\u0442\u0430 \u043F\u0430\u043C\u044F\u0442\u0438 SD"
 ,16:" Tarjeta SD",18:"\u041A\u0430\u0440\u0442\u0430 \u043F\u0430\u043C\'\u044F\u0442\u0456 "+
-"SD"};C.Ble={1:"skenirati",2:"\u0421\u043A\u0430\u043D\u0438~\u0440\u0430\u043D\u0435"
+"SD"};C.Bli={1:"skenirati",2:"\u0421\u043A\u0430\u043D\u0438~\u0440\u0430\u043D\u0435"
 ,3:"\u6383\u63CF",4:"Ske~no~vat",0:"Scan",6:"Skan~neeri",7:"Skan~naa",8:"Scan~ner"
 ,10:"\u0391\u03BD\u03B9\u03C7~\u03BD\u03B5\u03CD\u03C3\u03C4\u03B5",13:"Skanning"
 ,15:"\u0421\u043A\u0430\u043D\u0438~\u0440\u043E~\u0432\u0430\u043D\u0438\u0435"
 ,16:"Esca~neo",17:"Tara",18:"\u0421\u043A\u0430\u043D\u0443\u0432\u0430\u043D\u043D\u044F"
-};C.Blf={0:"Scan ID of animal",8:"Scanner le n\xB0 d\'identification",9:"Ohrmarkennr. einscannen"
+};C.Blj={0:"Scan ID of animal",8:"Scanner le n\xB0 d\'identification",9:"Ohrmarkennr. einscannen"
 ,15:"\u0421\u043A\u0430\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C ID "+"\u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E"
 ,16:"Escanear el ID del animal",18:"\u0421\u043A\u0430\u043D\u0443\u0432\u0430\u0442\u0438 ID \u0442\u0432\u0430\u0440\u0438\u043D\u0438"
 };C.A8v={1:"Skeniranje u\u0161ne markice",2:"\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u0439 \u0435\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043D\u0430 "+
@@ -2177,7 +2177,7 @@ AEF={0:"Recorded values",9:"Erfasste Werte"};C.Bk2={1:"registrivati",2:"\u0420\u
 ,10:"\u0391\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 \u03C3\u03AC\u03C1\u03C9\u03C3\u03B7\u03C2"
 ,13:"Skann nummer",15:"\u0421\u043A\u0430\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u043D\u043E\u043C\u0435\u0440"
 ,16:"Escanear n\xFAmero",18:"\u0421\u043A\u0430\u043D\u0443\u0432\u0430\u0442\u0438 \u043D\u043E\u043C\u0435\u0440"
-};C.Oy={1:"skeniranje transpondera",2:"\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u043D\u0435 \u043D\u0430 \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440"
+};C.Oz={1:"skeniranje transpondera",2:"\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u043D\u0435 \u043D\u0430 \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440"
 ,3:"\u6383\u63CF\u65B0\u7684\u611F\u61C9\u5668",4:"Skenov\xE1n\xED transpond\xE9ru"
 ,0:"Scan in transponder",5:"Diertransponder\ninscannen",6:"Skaneeri uus",7:"Skannaa transponderi"
 ,8:"Scanner transpondeur",9:"Transponder einscannen",10:"\u03A3\u03B1\u03C1\u03CE\u03C3\u03C4\u03B5 \u03C4\u03BF\u03BD \u03B1\u03BD\u03B1\u03BC\u03B5\u03C4\u03B1\u03B4\u03CC\u03C4\u03B7"
@@ -2230,8 +2230,8 @@ AEF={0:"Recorded values",9:"Erfasste Werte"};C.Bk2={1:"registrivati",2:"\u0420\u
 };C.A8G={2:"\u041F\u043E\u043B",3:"\u6027\u5225",4:"Rod",0:"Sex",5:"Ge~slacht",6:
 "Sugu",7:"Suku~puoli",8:"Sexe",9:"Ge~schl.",10:"\u03A6\u03CD\u03BB\u03BF",13:"Kj\xF8nn"
 ,15:"\u041F\u043E\u043B",16:"Sexo",17:"Cins~iyet",18:"\u0421\u0442\u0430\u0442\u044C"
-};C.Blv={0:"Sex + Type",8:"Sexe + type",9:"Geschlecht + Typ",16:"Sexo + Tipo"};C.
-Blw={1:"Ovca/koza",0:"Sheep/goat",6:"Lammas/kits",7:"Lammas/vuohi",8:"Mouton/Ch\xE8vre"
+};C.Blz={0:"Sex + Type",8:"Sexe + type",9:"Geschlecht + Typ",16:"Sexo + Tipo"};C.
+BlA={1:"Ovca/koza",0:"Sheep/goat",6:"Lammas/kits",7:"Lammas/vuohi",8:"Mouton/Ch\xE8vre"
 ,9:"Schaf/Ziege",10:"\u03A0\u03C1\u03CC\u03B2\u03B1\u03C4\u03BF/\u03BA\u03B1\u03C4\u03C3\u03AF\u03BA\u03B9"
 ,13:"Sau/geit",15:"\u041E\u0432\u0446\u0430/\u043A\u043E\u0437\u0430",16:"Oveja/cabra"
 ,18:"\u0412\u0456\u0432\u0446\u044F/\u043A\u043E\u0437\u0430"};C.A8K={1:"Isklju\u010Diti"
@@ -2241,7 +2241,7 @@ Blw={1:"Ovca/koza",0:"Sheep/goat",6:"Lammas/kits",7:"Lammas/vuohi",8:"Mouton/Ch\
 ,13:"Skru av",15:"\u0412\u044B\u043A\u043B\u044E\u0447\u0438\u0442\u044C",16:"Apagar"
 ,17:"Kapat",18:"\u0412\u0438\u043C\u043A\u043D\u0443\u0442\u0438"};C.A8L={0:"Shutdown device after"
 ,8:"\xC9teindre l\'appareil apr\xE8s",9:"Ger\xE4t abschalten nach",16:"Apagar el dispositivo despu\xE9s de"
-};C.BlD={0:"Single animal view",9:"Einzeltieransicht"};C.BlE={1:"jedno grlo u leglu"
+};C.BlH={0:"Single animal view",9:"Einzeltieransicht"};C.BlI={1:"jedno grlo u leglu"
 ,0:"Single birth",5:"Eenling",6:"\xDCksik tall",7:"Yhden syntym\xE4",8:"Unique",
 9:"Einling",10:"\u039C\u03BF\u03BD\u03AE \u03B3\u03AD\u03BD\u03BD\u03B1",13:"Enkel f\xF8dsel"
 ,15:"\u041E\u0434\u0438\u043D\u043E\u0447\u043D\u043E\u0435 \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u0435"
@@ -2276,7 +2276,7 @@ Blw={1:"Ovca/koza",0:"Sheep/goat",6:"Lammas/kits",7:"Lammas/vuohi",8:"Mouton/Ch\
 };C.AE9={1:"status",2:"\u0421\u0442\u0430\u0442\u0443\u0441",3:"\u72C0\u614B",4:
 "Stav",0:"Status",6:"Seisund",7:"Tila",8:"Statut",10:"\u0398\u03AD\u03C3\u03B7",
 15:"\u0421\u0442\u0430\u0442\u0443\u0441",16:"Estado",18:"\u0421\u0442\u0430\u0442\u0443\u0441"
-};C.BlO={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no dodana na spisak \u017Eivotinja!"
+};C.BlS={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no dodana na spisak \u017Eivotinja!"
 ,2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u0441 \u2116 {1} \u0443\u0441\u043F\u0435\u0448\u043D\u043E "+
 "\u0435 \u0434\u043E\u0431\u0430\u0432\u0435\u043D\u043E \u043A\u044A\u043C "+"\u0441\u043F\u0438\u0441\u044A\u043A\u0430 \u0441 \u0430\u043B\u0430\u0440\u043C\u0438!"
 ,3:"ID\u70BA{1}\u725B\u96BB\u5DF2\u6210\u529F\u7684\u52A0\u5230\u8B66\u544A\u540D\u55AE\u4E2D\uFF01"
@@ -2292,9 +2292,9 @@ Blw={1:"Ovca/koza",0:"Sheep/goat",6:"Lammas/kits",7:"Lammas/vuohi",8:"Mouton/Ch\
 "\u0442\u0440\u0435\u0432\u043E\u0433!",16:"Se ha agregado el animal con ID {1} a la lista de alarmas con \xE9xito."
 ,17:"Alarm listesine ekleme ba\u015Far\u0131l\u0131",18:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u2116 {1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0434\u043E\u0434\u0430\u043D\u0430 \u0443 \u0441\u043F\u0438\u0441\u043E\u043A "+
-"\u0442\u0440\u0438\u0432\u043E\u0433!"};C.BlP={0:"Animal with ID {1} success~fully added to watch list!"
+"\u0442\u0440\u0438\u0432\u043E\u0433!"};C.BlT={0:"Animal with ID {1} success~fully added to watch list!"
 ,9:"Tier mit der ID {1} wurde erfolgreich zur Beobachtungs~liste hinzugef\xFCgt!"
-,16:"Animal con ID {1} a\xF1adido exitosamente a la lista de seguimiento."};C.BlQ={
+,16:"Animal con ID {1} a\xF1adido exitosamente a la lista de seguimiento."};C.BlU={
 0:"Bootloader was updated successfully.\nUSB flash drive can be safely removed."
 ,8:"Le bootloader a \xE9t\xE9 mis \xE0 jour avec succ\xE8s\xA0! La cl\xE9 USB "+
 "peut \xEAtre retir\xE9e\xA0!",9:"Bootloader wurde erfolgreich aktualisiert! USB-Stick kann abgezogen werden!"
@@ -2306,7 +2306,7 @@ Blw={1:"Ovca/koza",0:"Sheep/goat",6:"Lammas/kits",7:"Lammas/vuohi",8:"Mouton/Ch\
 "\u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u043E\u043D\u043E\u0432\u043B\u0435\u043D\u043E.\nUSB "+
 "\u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447 \u043C\u043E\u0436\u043D\u0430 "+
 "\u0431\u0435\u0437\u043F\u0435\u0447\u043D\u043E \u0432\u0438\u0442\u044F\u0433\u043D\u0443\u0442\u0438."
-};C.BlR={0:"{1} notices of birth were cleared successfully!",6:"{1} s\xFCnniteavitust t\xFChistatud!"
+};C.BlV={0:"{1} notices of birth were cleared successfully!",6:"{1} s\xFCnniteavitust t\xFChistatud!"
 ,7:"{1} Syntym\xE4ilmoitusten poistaminen onnistui!",8:"{1} D\xE9clarations de naissance ont \xE9t\xE9 supprim\xE9es avec succ\xE8s\xA0!"
 ,9:"{1} Geburts~meldungen wurden erfolg~reich gel\xF6scht!",10:"{1} \u039F\u03B9 \u03B5\u03B9\u03B4\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03B9\u03C2 "+
 "\u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7\u03C2 \u03B4\u03B9\u03B1\u03B3\u03C1\u03AC\u03C6\u03B7\u03BA\u03B1\u03BD "+
@@ -2315,7 +2315,7 @@ Blw={1:"Ovca/koza",0:"Sheep/goat",6:"Lammas/kits",7:"Lammas/vuohi",8:"Mouton/Ch\
 "\u0443\u0434\u0430\u043B\u0435\u043D\u043E!",16:"{1} Notificaciones de nacimiento se eliminaron con \xE9xito."
 ,18:"{1} \u041F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u044C "+"\u043F\u0440\u043E \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
 "\u0431\u0443\u043B\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"};C.
-BlS={0:"{1} notices of purchase were cleared successfully!",9:"{1} Zugangs~meldungen wurden erfolg~reich gel\xF6scht!"
+BlW={0:"{1} notices of purchase were cleared successfully!",9:"{1} Zugangs~meldungen wurden erfolg~reich gel\xF6scht!"
 };C.SuccessClearAnimalLoss={0:"Notice of animal loss was cleared successfully!",
 6:"Surnult s\xFCnni teavitus t\xFChistatud!",8:"La d\xE9claration de perte d\'animal a \xE9t\xE9 supprim\xE9e avec succ\xE8s\xA0!"
 ,9:"Meldung des Tierverlusts wurde erfolgreich gel\xF6scht!",15:"\u0423\u0432\u0435\u0434\u043E\u043C\u043B\u0435\u043D\u0438\u044F \u043E "+
@@ -2324,7 +2324,7 @@ BlS={0:"{1} notices of purchase were cleared successfully!",9:"{1} Zugangs~meldu
 ,16:"La notificaci\xF3n de p\xE9rdida de animal se elimin\xF3 con \xE9xito.",18:
 "\u041F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+"\u043F\u0440\u043E \u0432\u0442\u0440\u0430\u0442\u0438 \u0442\u0432\u0430\u0440\u0438\u043D "+
 "\u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"
-};C.BlT={0:"Notice of birth for animal {1} was cleared successfully!",6:"Looma {1} s\xFCnniteavitus t\xFChistatud!"
+};C.BlX={0:"Notice of birth for animal {1} was cleared successfully!",6:"Looma {1} s\xFCnniteavitus t\xFChistatud!"
 ,7:"El\xE4imen {1} syntym\xE4ilmoitus poistettiin onnistuneesti!",8:"La d\xE9claration de naissance de l\'animal {1} a \xE9t\xE9 supprim\xE9e "+
 "avec succ\xE8s\xA0!",9:"Geburtsmeldung f\xFCr Tier {1} wurde erfolgreich gel\xF6scht!"
 ,10:"{1} \u039F\u03B9 \u03B5\u03B9\u03B4\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03B9\u03C2 "+
@@ -2338,8 +2338,8 @@ BlS={0:"{1} notices of purchase were cleared successfully!",9:"{1} Zugangs~meldu
 ,18:"\u041F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+
 "\u043F\u0440\u043E \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
 "\u0442\u0432\u0430\u0440\u0438\u043D {1} \u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
-"\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"};C.BlU={0:"Notice of purchase for animal {1} was cleared successfully!"
-,9:"Zugangsmeldung f\xFCr Tier {1} wurde erfolgreich gel\xF6scht!"};C.BlV={0:"Backup file \u2019backup.vcb\u2019 with device data and {1}\xA0animal data "+
+"\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"};C.BlY={0:"Notice of purchase for animal {1} was cleared successfully!"
+,9:"Zugangsmeldung f\xFCr Tier {1} wurde erfolgreich gel\xF6scht!"};C.BlZ={0:"Backup file \u2019backup.vcb\u2019 with device data and {1}\xA0animal data "+
 "set(s) was successfully written to USB flash drive!",8:"Le fichier de sauvegarde \'backup.vcb\' contenant les donn\xE9es de l\'appareil "+
 "et {1}\xA0les donn\xE9es des animaux~ a \xE9t\xE9 \xE9crit avec succ\xE8s "+"sur la cl\xE9 USB\xA0!"
 ,9:"Sicherungsdatei \u2019backup.vcb\u2019 mit Ger\xE4tedaten und {1}\xA0Tierdaten~s\xE4tzen "+
@@ -2380,7 +2380,7 @@ BlS={0:"{1} notices of purchase were cleared successfully!",9:"{1} Zugangs~meldu
 "\u0441 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C",16:"Se han sincronizado los datos con \xE9xito con el alimentador."
 ,17:"Besleyiciyle bilgi senkronizasyonu ba\u015Far\u0131yla yap\u0131ld\u0131!",
 18:"\u0414\u0430\u043D\u0456 \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u043E\u0432\u0430\u043D\u043E "+
-"\u0437 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C"};C.BlW={1:"\u017Divotinja sa ID brojm {1} uspje\u0161no zasu\u0161ena!"
+"\u0437 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C"};C.Bl0={1:"\u017Divotinja sa ID brojm {1} uspje\u0161no zasu\u0161ena!"
 ,0:"Animal with ID {1} success~fully marked as dry!",6:"Loom ID-ga {1} m\xE4rgitud kinnisloomaks!"
 ,7:"El\xE4in ID {1} onnistunut merkitty umpeutetuksi!",8:"L\'animal avec l\'ID {1} a \xE9t\xE9 marqu\xE9 avec succ\xE8s comme vache "+
 "tarie",9:"Tier mit ID {1} wurde erfolgreich als trocken~stehend markiert!",10:"\u03A4\u03BF \u03B6\u03CE\u03BF \u03BC\u03B5 \u03B1\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC "+
@@ -2391,7 +2391,7 @@ BlS={0:"{1} notices of purchase were cleared successfully!",9:"{1} Zugangs~meldu
 "\u043A\u0430\u043A \u0441\u0443\u0445\u043E\u0441\u0442\u043E\u0439\u043D\u043E\u0435!"
 ,16:"Animal con ID {1} marcado con \xE9xito como seco.",18:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u2116 {1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0432\u0456\u0434\u043C\u0456\u0447\u0435\u043D\u0430 \u044F\u043A \u0441\u0443\u0445\u043E\u0441\u0442\u0456\u0439\u043A\u0430!"
-};C.BlX={1:"Sistem je uspje\u0161no a\u017Euriran, mo\u017Eete izvaditi USB.",2:
+};C.Bl1={1:"Sistem je uspje\u0161no a\u017Euriran, mo\u017Eete izvaditi USB.",2:
 "\u0424\u044A\u0440\u043C\u0443\u0435\u0440\u044A\u0442 \u0435 \u0430\u043A\u0442\u0443\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E.\nUSB \u0444\u043B\u0430\u0448 "+"\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
 "\u043C\u043E\u0436\u0435 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E "+
@@ -2411,7 +2411,7 @@ BlS={0:"{1} notices of purchase were cleared successfully!",9:"{1} Zugangs~meldu
 ,18:"\u0412\u0435\u0440\u0441\u0456\u044F \u041F\u041E \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u043E\u043D\u043E\u0432\u043B\u0435\u043D\u0430! USB-\u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447 "+
 "\u043C\u043E\u0436\u043D\u0430 \u0432\u0438\u0442\u044F\u0433\u0442\u0438!"};C.
-BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\'identification a \xE9t\xE9 ajout\xE9 avec succ\xE8s \xE0 l\'animal "+
+Bl2={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\'identification a \xE9t\xE9 ajout\xE9 avec succ\xE8s \xE0 l\'animal "+
 "portant l\'ID {1}.",9:"Dem Tier mit der ID {1} wurde erfolgreich eine Ohrmarken~nummer hinzugef\xFCgt."
 ,15:"ID \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E \u0431\u044B\u043B\u043E "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E \u043F\u0440\u0438\u0432\u044F\u0437\u0430\u043D\u043E "+
@@ -2426,7 +2426,7 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 "\u0436\u0438\u0432\u043E\u0442\u043D\u043E\u043C\u0443 \u0441 ID {1}!",16:"El transpondedor se asign\xF3 con \xE9xito al animal con ID {1}."
 ,18:"\u0422\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440 \u0431\u0443\u0432 "+
 "\u0443\u0441\u043F\u0456\u0448\u043D\u043E \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0439 "+
-"\u0442\u0432\u0430\u0440\u0438\u043D\u0456 \u0437 ID {1}!"};C.BlZ={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no ozna\u010Dena - u fazi laktacije!"
+"\u0442\u0432\u0430\u0440\u0438\u043D\u0456 \u0437 ID {1}!"};C.Bl3={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no ozna\u010Dena - u fazi laktacije!"
 ,0:"Animal with ID {1} success~fully marked as lactating!",6:"Loom ID-ga {1} m\xE4rgitud lakteerivaks!"
 ,7:"El\xE4in ID {1} onnistunut merkitty lypsyyn!",8:"L\'animal avec l\'ID {1} a \xE9t\xE9 marqu\xE9 avec succ\xE8s comme allaitant "+
 "!",9:"Tier mit ID {1} wurde erfolgreich als laktierend markiert!",10:"\u03A4\u03BF \u03B6\u03CE\u03BF \u03BC\u03B5 \u03B1\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC "+
@@ -2437,7 +2437,7 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 "\u043A\u0430\u043A \u043B\u0430\u043A\u0442\u0438\u0440\u0443\u044E\u0449\u0435\u0435!"
 ,16:"Animal con ID {1} marcado con \xE9xito como en lactancia.",18:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u2116 {1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0432\u0456\u0434\u043C\u0456\u0447\u0435\u043D\u0430 \u044F\u043A \u043B\u0430\u043A\u0442\u0443\u044E\u0447\u0430!"
-};C.Bl0={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no izbrisana sa liste!",2:
+};C.Bl4={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no izbrisana sa liste!",2:
 "\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u0441 \u2116 {1} \u0443\u0441\u043F\u0435\u0448\u043D\u043E "+
 "\u0435 \u043F\u0440\u0435\u043C\u0430\u0445\u043D\u0430\u0442\u043E \u043A\u044A\u043C "+
 "\u0441\u043F\u0438\u0441\u044A\u043A\u0430 \u0441 \u0430\u043B\u0430\u0440\u043C\u0438!"
@@ -2454,7 +2454,7 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 "\u0442\u0440\u0435\u0432\u043E\u0433!",16:"Se ha eliminado con \xE9xito el animal con ID {1} de la lista de alarmas."
 ,17:"Alarm listesini kald\u0131rmak ba\u015Far\u0131l\u0131",18:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u2116 {1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u0430 \u0437\u0456 \u0441\u043F\u0438\u0441\u043A\u0443 "+
-"\u0442\u0440\u0438\u0432\u043E\u0433!"};C.Bl1={0:"Animal with ID {1} success~fully removed from watch list!"
+"\u0442\u0440\u0438\u0432\u043E\u0433!"};C.Bl5={0:"Animal with ID {1} success~fully removed from watch list!"
 ,9:"Tier mit der ID {1} wurde erfolgreich von der Beobach~tungsliste entfernt!",
 16:"Animal con ID {1} retirado con \xE9xito de la lista de seguimiento."};C.SuccessResetAnimalData={
 1:"Podaci o \u017Eivotinja uspje\u0161no izbrirsani!",2:"\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\u0442\u0430 "+
@@ -2506,7 +2506,7 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 ,15:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E\u0435 \u0443\u0441\u043F\u0435\u0448\u043D\u043E "+
 "\u0443\u0434\u0430\u043B\u0435\u043D\u043E!",16:"Se ha anulado con \xE9xito el registro del animal con ID {1}."
 ,17:"Kay\u0131t silme ba\u015Far\u0131l\u0131",18:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
-"\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u0430!"};C.Bl2={0:"Animal {1} and corresponding birth notice were deleted successfully!"
+"\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u0430!"};C.Bl6={0:"Animal {1} and corresponding birth notice were deleted successfully!"
 ,6:"Loom {1} ning vastav s\xFCnniteavitus kustutatud!",7:"El\xE4in {1} ja sit\xE4 vastaava syntym\xE4ilmoitus poistettiin!"
 ,8:"L\'animal {1} et sa d\xE9claration de naissance ont \xE9t\xE9 supprim\xE9s "+
 "avec succ\xE8s\xA0!",9:"Tier {1} samt Geburtsmeldung wurde erfolgreich gel\xF6scht!"
@@ -2521,7 +2521,7 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 "con \xE9xito.",18:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 {1} \u0438 \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u043D\u0435 "+
 "\u043F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+"\u043F\u0440\u043E \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
 "\u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"
-};C.Bl3={0:"Animal {1} and corresponding purchase notice were deleted successfully!"
+};C.Bl7={0:"Animal {1} and corresponding purchase notice were deleted successfully!"
 ,9:"Tier {1} samt Zugangsmeldung wurde erfolgreich gel\xF6scht!"};C.SuccessUnregisterPerished={
 1:"Uginuta \u017Eivotinja sa ID brojem {1} uspje\u0161no odjavljena!",2:"\u0423\u043C\u0440\u044F\u043B\u043E\u0442\u043E \u0436\u0438\u0432\u043E\u0442\u043D\u043E "+
 "\u0441 \u2116 {1} \u0435 \u0443\u0441\u043F\u0435\u0448\u043D\u043E \u043E\u0442\u043F\u0438\u0441\u0430\u043D\u043E!"
@@ -2536,13 +2536,13 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 "\u0443\u0434\u0430\u043B\u0435\u043D\u043E!",16:"El animal fallecido con ID {1} se dio de baja con \xE9xito."
 ,18:"\u041C\u0435\u0440\u0442\u0432\u0443 \u0442\u0432\u0430\u0440\u0438\u043D\u0443 "+
 "{1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"
-};C.Bl4={0:"Animal data were successfully written to directory \u2019export-csv\u2019 "+
+};C.Bl8={0:"Animal data were successfully written to directory \u2019export-csv\u2019 "+
 "on USB flash drive.",9:"Tierdaten wurden erfolgreich auf den USB-Stick exportiert (Verzeichnis "+
 "\u2019export-csv\u2019).",16:"Los datos del animal se escribieron con \xE9xito en el directorio \'export-csv\' "+
-"en la unidad flash USB."};C.Bl5={0:"Animal data were successfully written to USB flash drive! Download data "+
+"en la unidad flash USB."};C.Bl9={0:"Animal data were successfully written to USB flash drive! Download data "+
 "file \u2019animals.csv\u2019  now?",9:"Tierdaten wurden erfolgreich auf den USB-Stick exportiert. Soll die CSV-Tierdaten~datei "+
 "jetzt heruntergeladen werden?",16:"Los datos del animal se escribieron con \xE9xito en la unidad flash USB. "+
-"\xBFDeseas descargar el archivo de datos \'animals.csv\' ahora?"};C.Bl6={0:"CSV file {1}, containing {2} birth notice(s) was successfully written to "+
+"\xBFDeseas descargar el archivo de datos \'animals.csv\' ahora?"};C.Bl_={0:"CSV file {1}, containing {2} birth notice(s) was successfully written to "+
 "USB flash drive.",8:"Fichier CSV {1} avec {2} date(s) de naissance ont \xE9t\xE9 enregistr\xE9e(s) "+
 "avec succ\xE8s sur la cl\xE9 USB.",9:"CSV-Datei mit {1} Geburts~mel~dun~g(en) erfolgreich im Verzeichnis \'{2}\' "+
 "auf dem USB-Stick gespeichert.",15:"CSV \u0444\u0430\u0439\u043B {1}, \u0441\u043E\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0439 "+
@@ -2552,7 +2552,7 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 "{2} \u043F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+
 "\u0431\u0443\u0432 \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u043F\u0435\u0440\u0435\u043F\u0438\u0441\u0430\u043D\u0438\u0439 "+
 "\u043D\u0430 USB \u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447."
-};C.Bl7={0:"CSV file with birth notices successfully written to USB flash drive! Download "+
+};C.Bl$={0:"CSV file with birth notices successfully written to USB flash drive! Download "+
 "generated CSV file now?",8:"Fichier CSV avec d\xE9claration de naissance ont \xE9t\xE9 enregistr\xE9 "+
 "avec succ\xE8s sur une cl\xE9 USB\xA0! Souhaitez-vous t\xE9l\xE9charger "+"le fichier CSV\xA0?"
 ,9:"CSV-Datei mit Geburts~mel~dun~g(en) erfolgreich auf USB-Stick gespeichert! "+
@@ -2565,43 +2565,43 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 "\u0443\u0441\u043F\u0456\u0448\u043D\u043E \u043F\u0435\u0440\u0435\u043F\u0438\u0441\u0430\u043D\u0438\u0439 "+
 "\u043D\u0430 USB \u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447! "+
 "\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u0438 \u0441\u0433\u0435\u043D\u0435\u0440\u043E\u0432\u0430\u043D\u0438\u0439 "+
-"CSV \u0444\u0430\u0439\u043B?"};C.Bl8={0:"CSV file {1}, containing {2} purchase notice(s) was successfully written "+
+"CSV \u0444\u0430\u0439\u043B?"};C.Bma={0:"CSV file {1}, containing {2} purchase notice(s) was successfully written "+
 "to USB flash drive.",9:"CSV-Datei {1} mit {2} Zugangs~mel~dun~g(en) erfolgreich auf USB-Stick gespeichert."
-};C.Bl9={0:"CSV file with purchase notices successfully written to USB flash drive! "+
+};C.Bmb={0:"CSV file with purchase notices successfully written to USB flash drive! "+
 "Download generated CSV file now?",9:"CSV-Datei mit Zugangs~mel~dun~g(en) erfolgreich auf USB-Stick gespeichert! "+
 "M\xF6chten Sie die erzeugte CSV-^Datei herunter~laden?"};C.Surgery={1:"Operacija"
 ,2:"\u0425\u0438\u0440\u0443\u0440\u0433\u0438\u0447\u043D\u043E",0:"Surgery",6:
 "L\xF5ikus",7:"Leikkaus",8:"Chirugie",9:"Operation",10:"\u0395\u03B3\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7"
 ,13:"Kirurgi",15:"\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u044F",16:"Cirug\xEDa"
-,18:"\u041E\u043F\u0435\u0440\u0430\u0446\u0456\u044F"};C.Bmc={0:"Sending data",
+,18:"\u041E\u043F\u0435\u0440\u0430\u0446\u0456\u044F"};C.Bmg={0:"Sending data",
 6:"Andmete edastamine",7:"L\xE4hetet\xE4\xE4n tietoja",8:"Envoi de donn\xE9es",9:
 "Sende Daten",10:"\u0391\u03C0\u03BF\u03C3\u03C4\u03BF\u03BB\u03AE \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD"
 ,13:"Sender data",15:"\u041E\u0442\u043F\u0440\u0430\u0432\u043A\u0430 \u0434\u0430\u043D\u043D\u044B\u0445"
 ,16:"Enviando datos",18:"\u0412\u0456\u0434\u043F\u0440\u0430\u0432\u043A\u0430 \u0434\u0430\u043D\u0438\u0445"
-};C.Bmd={0:"Synchronization failed",6:"S\xFCnkroniseerimine nurjus",7:"L\xE4hetysSynkronointi ep\xE4onnistui"
+};C.Bmh={0:"Synchronization failed",6:"S\xFCnkroniseerimine nurjus",7:"L\xE4hetysSynkronointi ep\xE4onnistui"
 ,8:"\xC9chec du transfert de donn\xE9es",9:"Datentransfer fehlgeschlagen",10:"\u039F \u03C3\u03C5\u03B3\u03C7\u03C1\u03BF\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 "+
 "\u03B1\u03C0\u03AD\u03C4\u03C5\u03C7\u03B5",13:"Synkronisering mislyktes",15:"\u0421\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0438\u044F "+
 "\u043D\u0435 \u0443\u0434\u0430\u043B\u0430\u0441\u044C",16:"Fallo en la sincronizaci\xF3n"
 ,18:"\u0421\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0456\u044F "+
-"\u043D\u0435 \u0432\u0434\u0430\u043B\u0430\u0441\u044C"};C.Bme={0:"Receiving data"
+"\u043D\u0435 \u0432\u0434\u0430\u043B\u0430\u0441\u044C"};C.Bmi={0:"Receiving data"
 ,6:"Andmete vastuv\xF5tmine",7:"Vastaanottaa tietoja",8:"R\xE9ception de donn\xE9es"
 ,9:"Empfange Daten",10:"\u03A0\u03B1\u03C1\u03B1\u03BB\u03B1\u03B2\u03AE \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD"
 ,13:"Mottar data",15:"\u041F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0445"
 ,16:"Recibiendo datos",18:"\u041E\u0442\u0440\u0438\u043C\u0430\u043D\u043D\u044F \u0434\u0430\u043D\u0438\u0445"
-};C.Bmf={0:"Initialising\u2026",6:"Alustamine...",7:"Alustetaan\u2026",8:"Initialiser..."
+};C.Bmj={0:"Initialising\u2026",6:"Alustamine...",7:"Alustetaan\u2026",8:"Initialiser..."
 ,9:"Initialisiere\u2026",10:"\u0391\u03C1\u03C7\u03B9\u03BA\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7..."
 ,13:"Initialiserer \u2026",15:"\u0418\u043D\u0438\u0446\u0438\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F..."
 ,16:"Inicializando...",18:"\u0406\u043D\u0456\u0446\u0456\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F..."
-};C.Bmg={0:"Initialising import",6:"Impordi alustamine",7:"Alustetaan tuontia",8:
+};C.Bmk={0:"Initialising import",6:"Impordi alustamine",7:"Alustetaan tuontia",8:
 "Initialisation de l\'importation...",9:"Initialisiere Import\u2026",10:"\u0391\u03C1\u03C7\u03B9\u03BA\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7 "+
 "\u03B5\u03B9\u03C3\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2",13:"Initialiserer import"
 ,15:"\u0418\u043D\u0438\u0446\u0438\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F "+
 "\u0438\u043C\u043F\u043E\u0440\u0442\u0430",16:"Inicializando importaci\xF3n",18:
 "\u0406\u043D\u0456\u0446\u0456\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F "+
-"\u0456\u043C\u043F\u043E\u0440\u0442\u0443"};C.Bmh={0:"Cleaning up\u2026",6:"Impordij\xE4rgne s\xFCnkroniseerimine \u2026"
+"\u0456\u043C\u043F\u043E\u0440\u0442\u0443"};C.Bml={0:"Cleaning up\u2026",6:"Impordij\xE4rgne s\xFCnkroniseerimine \u2026"
 ,7:"Puhdistaa \u2026",8:"Nettoyage",9:"R\xE4ume auf \u2026",10:"\u039A\u03B1\u03B8\u03B1\u03C1\u03B9\u03C3\u03BC\u03CC\u03C2 \u2026"
 ,13:"Rydder opp\u2026",15:"\u041E\u0447\u0438\u0441\u0442\u043A\u0430...",16:"Limpiando..."
-,18:"\u041E\u0447\u0438\u0441\u0442\u043A\u0430..."};C.Bmi={0:"Data transfer successfully finished"
+,18:"\u041E\u0447\u0438\u0441\u0442\u043A\u0430..."};C.Bmm={0:"Data transfer successfully finished"
 ,6:"Andmeedastus edukalt l\xF5petatud",7:"Tiedonsiirto onnistui",8:"Transfert de donn\xE9es termin\xE9 avec succ\xE8s"
 ,9:"Datentransfer erfolgreich abgeschlossen",10:"\u0397 \u03BC\u03B5\u03C4\u03B1\u03C6\u03BF\u03C1\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD "+
 "\u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03B8\u03B7\u03BA\u03B5 "+"\u03BC\u03B5 \u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03AF\u03B1"
@@ -2615,7 +2615,7 @@ BlY={0:"Animal ID was successfully linked to animal with ID {1}!",8:"Un n\xB0 d\
 "\u03C3\u03B5 \u03B5\u03BE\u03AD\u03BB\u03B9\u03BE\u03B7",13:"Synkroniserer",15:
 "\u041F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u0434\u0430\u043D\u043D\u044B\u0445"
 ,16:"Sincronizando",17:"Senkronize ediliyor",18:"\u041F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u0434\u0430\u043D\u0438\u0445"
-};C.AFb={4:"Teplota \xB0C",0:"\xB0C",7:"\xB0 C",17:"Santigrat"};C.Bmj={4:"Teplota \xB0F"
+};C.AFb={4:"Teplota \xB0C",0:"\xB0C",7:"\xB0 C",17:"Santigrat"};C.Bmn={4:"Teplota \xB0F"
 ,0:"\xB0F",13:"\xB0C",17:"Fahrenayt"};C.TempMeasurement={1:"mjerenje temperature"
 ,0:"Temp. measurement",6:"Tempertuuri m\xF5\xF5t",7:"L\xE4mp\xF6tila mittaus",8:
 "Mesure de la temp.",9:"Temperaturmessung",10:"\u039C\u03B5\u03C4\u03C1\u03AE\u03C3\u03B7 \u03B8\u03B5\u03C1\u03BC\u03BF\u03BA\u03C1\u03B1\u03C3\u03AF\u03B1\u03C2"
@@ -2658,7 +2658,7 @@ Temperature={1:"temperatura",2:"\u0422\u0435\u043C\u043F\u0435\u0440\u0430\u0442
 ,15:"\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C \u0441\u0442\u0430\u0442\u0443\u0441 "+
 "\u0442\u0440\u0435\u0432\u043E\u0433\u0438",16:"Cambiar estado alarma",18:"\u0417\u043C\u0456\u043D\u0438\u0442\u0438 \u0441\u0442\u0430\u0442\u0443\u0441 "+
 "\u0442\u0440\u0438\u0432\u043E\u0433\u0438"};C.ASY={0:"Toggle watch status",9:"Status \u2019Beobachtung\u2019 umkehren"
-,16:"Cambiar estado de seguimiento"};C.Bms={1:"ukupno",0:"Total",6:"Kokku",7:"Yh~teen~s\xE4"
+,16:"Cambiar estado de seguimiento"};C.Bmw={1:"ukupno",0:"Total",6:"Kokku",7:"Yh~teen~s\xE4"
 ,10:"\u03A3\u03CD\u03BD\u03BF\u03BB\u03BF",15:"\u0412\u0441\u0435\u0433\u043E",18:
 "\u0423\u0441\u044C\u043E\u0433\u043E"};C.Transponder={1:"transponder",2:"\u0420\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440"
 ,0:"Transponder",6:"Vastuv\xF5tja",8:"Transpondeur",10:"\u0391\u03BD\u03B1\u03BC\u03B5\u03C4\u03B1\u03B4\u03CC\u03C4\u03B7\u03C2"
@@ -2692,7 +2692,7 @@ Temperature={1:"temperatura",2:"\u0422\u0435\u043C\u043F\u0435\u0440\u0430\u0442
 "\u0443\u0436\u0435 \u0432\u0438\u043A\u043E\u0440\u0438~\u0441\u0442\u043E\u0432\u0443\u0454\u0442\u044C\u0441\u044F!\n\u0411\u0443\u0434\u044C "+
 "\u043B\u0430\u0441\u043A\u0430, \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u0439\u0442\u0435 "+
 "\u0456\u043D\u0448\u0438\u0439 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440!"
-};C.Bmw={1:"Nepoznat transponder! Skenirani transponder ID broj nije prona\u0111en "+
+};C.BmA={1:"Nepoznat transponder! Skenirani transponder ID broj nije prona\u0111en "+
 "u sistemu!",2:"\u041D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440! "+
 "\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u043D\u0438\u044F \u2116 \u043D\u0430 "+
 "\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440 \u043D\u0435 \u0435 "+"\u043D\u0430\u043C\u0435\u0440\u0435\u043D\n\u0432 \u0441\u0438\u0441\u0442\u0435\u043C\u0430\u0442\u0430!"
@@ -2718,7 +2718,7 @@ Temperature={1:"temperatura",2:"\u0422\u0435\u043C\u043F\u0435\u0440\u0430\u0442
 ,9:"Transpondernummer",10:"\u0391\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 \u03B1\u03BD\u03B1\u03BC\u03B5\u03C4\u03B1\u03B4\u03CC\u03C4\u03B7"
 ,13:"Transponder nummer",15:"\u041D\u043E\u043C\u0435\u0440 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"
 ,16:"N\xFAmero del transpondedor",18:"\u041D\u043E\u043C\u0435\u0440 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"
-};C.Bmx={1:"Ovoj \u017Eivotinji je ve\u0107 dodijeljen transponder! Novi transponder "+
+};C.BmB={1:"Ovoj \u017Eivotinji je ve\u0107 dodijeljen transponder! Novi transponder "+
 "se mo\u017Ee samo dodijeliti ako se \u017Eivotinja odjavi, ne mo\u017Ee "+"e prijaviti ponovnim skeniranjem."
 ,2:"\u0420\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u044A\u0442 \u0432\u0435\u0447\u0435 "+
 "\u0435 \u043F\u0440\u0438\u0431\u0430\u0432\u0435\u043D \u043A\u044A\u043C "+"\u0442\u043E\u0432\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E!\n\u041F\u0440\u0435\u043D\u0430\u0437\u043D\u0430\u0447\u0430\u0432\u0430\u043D\u0435\u0442\u043E "+
@@ -2765,11 +2765,11 @@ Temperature={1:"temperatura",2:"\u0422\u0435\u043C\u043F\u0435\u0440\u0430\u0442
 ,17:"Transponder\u0131 tara",18:"\u0421\u043A\u0430\u043D\u0443\u0432\u0430\u043D\u043D\u044F \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"
 };C.Triplets={1:"trojke",0:"Triplets",6:"Kolmikud",7:"Kolmoset",8:"Tripl\xE9s",9:
 "Drillinge",10:"\u03A4\u03C1\u03AF\u03B4\u03C5\u03BC\u03B1",13:"Trillinger",15:"\u0422\u0440\u043E\u0439\u043D\u044F"
-,16:"Trillizos",18:"\u0422\u0440\u0456\u0439\u043D\u044F"};C.BmB={1:"dvojke",2:"\u0411\u043B\u0438\u0437\u043D\u0430\u0446\u0438"
+,16:"Trillizos",18:"\u0422\u0440\u0456\u0439\u043D\u044F"};C.BmF={1:"dvojke",2:"\u0411\u043B\u0438\u0437\u043D\u0430\u0446\u0438"
 ,3:"\u96D9\u80DE\u80CE",4:"Dvoj\u010Data",0:"Twin birth",5:"Tweeling",6:"Kaksikud"
 ,7:"Kaksoset",8:"Multiple",9:"Zwillingskalb",10:"\u0394\u03AF\u03B4\u03C5\u03BC\u03B7 \u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7"
 ,13:"Tvillingf\xF8dsel",15:"\u0411\u043B\u0438\u0437\u043D\u0435\u0446",16:"Ternero m\xFAltiple"
-,17:"\u0130kiz do\u011Fum",18:"\u0411\u043B\u0438\u0437\u043D\u044E\u043A"};C.BmC={
+,17:"\u0130kiz do\u011Fum",18:"\u0411\u043B\u0438\u0437\u043D\u044E\u043A"};C.BmG={
 1:"Dva intervala za \u2642 i \u2640",2:"\u0414\u0432\u0430 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u0438 \u0434\u0438\u0430\u043F\u0430\u0437\u043E\u043D\u0430 "+
 "\u0437\u0430 \u2642 \u0438 \u2640",0:"Two distinct ranges for \u2642 and \u2640"
 ,6:"Kaks erinevat \u2642 ja \u2640 vahemikku",7:"Kaksi eri aluetta \u2642 ja \u2640"
@@ -2808,9 +2808,9 @@ Temperature={1:"temperatura",2:"\u0422\u0435\u043C\u043F\u0435\u0440\u0430\u0442
 ,7:"Painoyksikk\xF6",8:"Unit\xE9 de mesure",9:"Masseneinheit",10:"\u039C\u03BF\u03BD\u03AC\u03B4\u03B1 \u03BC\u03AC\u03B6\u03B1\u03C2"
 ,13:"Masseenhet",15:"\u0415\u0434\u0438\u043D\u0438\u0446\u0430 \u0438\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u044F"
 ,16:"Unidad de masa",17:"K\xFCtle birimi",18:"\u041E\u0434\u0438\u043D\u0438\u0446\u044F \u0432\u0438\u043C\u0456\u0440\u044E\u0432\u0430\u043D\u043D\u044F"
-};C.BmF={1:"celzijus",2:"\u0426\u0435\u043B\u0437\u0438\u0439",3:"\u651D\u6C0F",
+};C.BmJ={1:"celzijus",2:"\u0426\u0435\u043B\u0437\u0438\u0439",3:"\u651D\u6C0F",
 4:"Celsia",0:"Celsius",10:"\u039A\u03B5\u03BB\u03C3\u03AF\u03BF\u03C5",15:"\u0426\u0435\u043B\u044C\u0441\u0438\u0439"
-,17:"Santigrat",18:"\u0426\u0435\u043B\u044C\u0441\u0456\u0439"};C.BmG={1:"farenhajt"
+,17:"Santigrat",18:"\u0426\u0435\u043B\u044C\u0441\u0456\u0439"};C.BmK={1:"farenhajt"
 ,2:"\u0424\u0430\u0440\u0435\u043D\u0445\u0430\u0439\u0442",3:"\u83EF\u6C0F",4:"Fahrenheita"
 ,0:"Fahrenheit",10:"\u03A6\u03B1\u03C1\u03B5\u03BD\u03B1\u0390\u03C4",15:"\u0424\u0430\u0440\u0435\u043D\u0433\u0435\u0439\u0442"
 ,17:"Fahrenayt",18:"\u0424\u0430\u0440\u0435\u043D\u0433\u0435\u0439\u0442"};C.A87={
@@ -2860,16 +2860,16 @@ AFt={0:"Delete animal + notice",6:"Kustuta loom+teavitus",7:"Poista el\xE4in+ilm
 ,9:"Obergrenze",10:"\u0391\u03BD\u03CE\u03C4\u03B1\u03C4\u03BF \u03CC\u03C1\u03B9\u03BF"
 ,13:"\xD8vre grense",15:"\u0412\u0435\u0440\u0445\u043D\u0438\u0439 \u043F\u0440\u0435\u0434\u0435\u043B"
 ,16:"L\xEDmite superior",18:"\u0412\u0435\u0440\u0445\u043D\u044F \u043C\u0435\u0436\u0430"
-};C.BmK={3:"Urban \u5065\u5EB7\u76E3\u63A7\u7CFB\u7D71\n\xA9 Urban GmbH & Co.KG, 2023"
+};C.BmO={3:"Urban \u5065\u5EB7\u76E3\u63A7\u7CFB\u7D71\n\xA9 Urban GmbH & Co.KG, 2023"
 ,0:"Urban VitalControl\n\xA9 Urban GmbH & Co.KG, 2023",16:"Urban VitalControl\n\xA9 Urban GmbH & Co.KG, 2022"
-};C.BmL={1:"Tov (spostveni)",2:"\u0413\u043E\u0432\u0435\u0434\u043E (\u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u0430 "+
+};C.BmP={1:"Tov (spostveni)",2:"\u0413\u043E\u0432\u0435\u0434\u043E (\u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u0430 "+
 "\u0444\u0435\u0440\u043C\u0430)",0:"Beef (own farm)",6:"Veiseliha (oma farm)",7:
 "Liharotu (oma tila)",8:"L\u2019engraissement (propre ferme)",9:"Mast (eigener Betrieb)"
 ,10:"\u039A\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2 "+
 "(\u03C6\u03AC\u03C1\u03BC\u03B1\u03C2)",13:"Kj\xF8tt (egen g\xE5rd)",15:"\u041D\u0430 \u043C\u044F\u0441\u043E (\u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435 "+
 "\u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435)",16:"Carne (granja propia)"
 ,18:"\u041D\u0430 \u043C\'\u044F\u0441\u043E (\u0432\u043B\u0430\u0441\u043D\u0435 "+
-"\u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0441\u0442\u0432\u043E)"};C.BmM={
+"\u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0441\u0442\u0432\u043E)"};C.BmQ={
 1:"Uzgoj (spostveni)",2:"\u0420\u0430\u0437\u0432\u044A\u0436\u0434\u0430\u043D\u0435 (\u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u0430 "+
 "\u0444\u0435\u0440\u043C\u0430)",0:"Breeding (own farm)",6:"Aretus (oma farm)",
 7:"Jalostus (oma tila)",8:"L\u2019\xE9levage (dans sa propre ferme)",9:"Zucht (eigener Betrieb)"
@@ -2877,31 +2877,31 @@ AFt={0:"Delete animal + notice",6:"Kustuta loom+teavitus",7:"Poista el\xE4in+ilm
 "(\u03C6\u03AC\u03C1\u03BC\u03B1\u03C2)",13:"Oppdrett (egen g\xE5rd)",15:"\u0414\u043B\u044F \u0441\u0435\u043B\u0435\u043A\u0446\u0438\u0438 (\u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435 "+
 "\u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435)",16:"Cr\xEDa (granja propia)"
 ,18:"\u0414\u043B\u044F \u0441\u0435\u043B\u0435\u043A\u0446\u0456\u0457 (\u0432\u043B\u0430\u0441\u043D\u0435 "+
-"\u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0441\u0442\u0432\u043E)"};C.BmN={
+"\u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0441\u0442\u0432\u043E)"};C.BmR={
 1:"deformitet prilikom ro\u0111enja",2:"\u0412\u0440\u043E\u0434\u0435\u043D\u043E \u0443\u0432\u0440\u0435\u0436\u0434\u0430\u043D\u0435"
 ,0:"Birth defect",6:"S\xFCnnidefekt",7:"Synnynn\xE4inen vika",8:"Anomalie de naissance"
 ,9:"Missgeburt",10:"\u0393\u03B5\u03BD\u03B5\u03C4\u03B9\u03BA\u03AE \u03B1\u03BD\u03C9\u03BC\u03B1\u03BB\u03AF\u03B1"
 ,13:"F\xF8dselsskade",15:"\u0412\u0440\u043E\u0436\u0434\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u0444\u0435\u043A\u0442"
 ,16:"Defecto de nacimiento",18:"\u0423\u0440\u043E\u0434\u0436\u0435\u043D\u0438\u0439 \u0434\u0435\u0444\u0435\u043A\u0442"
-};C.BmO={1:"mrtvoro\u0111eno",2:"\u041C\u044A\u0440\u0442\u0432\u043E \u0440\u043E\u0434\u0435\u043D\u043E"
+};C.BmS={1:"mrtvoro\u0111eno",2:"\u041C\u044A\u0440\u0442\u0432\u043E \u0440\u043E\u0434\u0435\u043D\u043E"
 ,0:"Dead born",6:"Surnults\xFCnd",7:"Syntynyt kuolleena",8:"Mort-n\xE9",9:"Tot geboren"
 ,10:"\u039D\u03B5\u03BA\u03C1\u03BF\u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7",13:
 "D\xF8d f\xF8dt",15:"\u041C\u0451\u0440\u0442\u0432\u043E\u0440\u043E\u0436\u0434\u0451\u043D\u043D\u044B\u0439"
 ,16:"Nacido muerto",18:"\u041C\u0435\u0440\u0442\u0432\u043E\u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u0438\u0439"
-};C.BmP={1:"Uginulo: nakon 3. dana",2:"\u0423\u043C\u0438\u0440\u044F\u043B\u043E: \u0441\u043B\u0435\u0434 3 "+
+};C.BmT={1:"Uginulo: nakon 3. dana",2:"\u0423\u043C\u0438\u0440\u044F\u043B\u043E: \u0441\u043B\u0435\u0434 3 "+
 "\u0434\u0435\u043D",0:"Died: from day 3 onwards",6:"Suri: alates 3. p\xE4evast"
 ,7:"Kuollut: p\xE4iv\xE4st\xE4 3 l\xE4htien",8:"D\xE9c\xE8s\xA0: \xE0 partir du troisi\xE8me jour"
 ,9:"Verendet: ab 3. Tag",10:"\u03A0\u03AD\u03B8\u03B1\u03BD\u03B5: \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD "+
 "3\u03B7 \u03B7\u03BC\u03AD\u03C1\u03B1 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC"
 ,13:"D\xF8de: fra dag 3 og utover",15:"\u0423\u043C\u0435\u0440: \u0441 3-\u0433\u043E \u0434\u043D\u044F"
 ,16:"Muerto: a partir del tercer d\xEDa",18:"\u041F\u043E\u043C\u0435\u0440: \u0437 3-\u0433\u043E \u0434\u043D\u044F"
-};C.BmQ={1:"Uginulo: nakon 48 h",2:"\u0423\u043C\u0438\u0440\u044F\u043B\u043E: \u0432 \u0440\u0430\u043C\u043A\u0438\u0442\u0435 "+
+};C.BmU={1:"Uginulo: nakon 48 h",2:"\u0423\u043C\u0438\u0440\u044F\u043B\u043E: \u0432 \u0440\u0430\u043C\u043A\u0438\u0442\u0435 "+
 "\u043D\u0430 48 \u0447\u0430\u0441\u0430",0:"Died: within 48 h",6:"Suri: 48 tunni jooksul"
 ,7:"Kuollut: 48 tunnin kuluessa",8:"D\xE9c\xE8s\xA0: dans le 48h",9:"Verendet: erste 48 h"
 ,10:"\u03A0\u03AD\u03B8\u03B1\u03BD\u03B5: \u03BC\u03AD\u03C3\u03B1 \u03C3\u03B5 "+
 "48 \u03CE\u03C1\u03B5\u03C2",13:"D\xF8de: innen 48 timer",15:"\u0423\u043C\u0435\u0440: \u043F\u0435\u0440\u0432\u044B\u0435 48 \u0447\u0430\u0441\u043E\u0432"
 ,16:"Muerto: en las primeras 48 horas",18:"\u041F\u043E\u043C\u0435\u0440: \u043F\u0435\u0440\u0448\u0456 48 \u0433\u043E\u0434\u0438\u043D"
-};C.BmR={1:"Ostaje kod prodava\u010Da",2:"\u041E\u0441\u0442\u0430\u0432\u0430 \u0432\u044A\u0432 \u0444\u0435\u0440\u043C\u0430\u0442\u0430 "+
+};C.BmV={1:"Ostaje kod prodava\u010Da",2:"\u041E\u0441\u0442\u0430\u0432\u0430 \u0432\u044A\u0432 \u0444\u0435\u0440\u043C\u0430\u0442\u0430 "+
 "\u043D\u0430 \u043F\u0440\u043E\u0434\u0430\u0432\u0430\u0447\u0430",0:"Remains at seller\u2019s farm"
 ,6:"J\xE4\xE4b m\xFC\xFCja farmi",7:"Pysyy myyj\xE4n tilalla",8:"Demeure \xE0 la ferme du vendeur"
 ,9:"Verbleib beim Verk\xE4ufer",10:"\u03A0\u03B1\u03C1\u03B1\u03BC\u03AD\u03BD\u03B5\u03B9 \u03C3\u03C4\u03B7 "+
@@ -2910,20 +2910,20 @@ AFt={0:"Delete animal + notice",6:"Kustuta loom+teavitus",7:"Poista el\xE4in+ilm
 "\u043F\u0440\u043E\u0434\u0430\u0432\u0446\u0430",16:"Permanece en la granja del vendedor"
 ,18:"\u0417\u0430\u043B\u0438\u0448\u0430\u0454\u0442\u044C\u0441\u044F \u043D\u0430 "+
 "\u0444\u0435\u0440\u043C\u0456 \u043F\u0440\u043E\u0434\u0430\u0432\u0446\u044F"
-};C.BmS={1:"Abortirano",2:"\u0410\u0431\u043E\u0440\u0442",0:"Abort",6:"Katkesta"
+};C.BmW={1:"Abortirano",2:"\u0410\u0431\u043E\u0440\u0442",0:"Abort",6:"Katkesta"
 ,7:"Keskeytt\xE4\xE4",8:"Fausse couche",9:"Ver~kalbung",10:"\u03A0\u03C1\u03BF\u03C7\u03C9\u03C1\u03AE\u03C3\u03C4\u03B5 \u03C3\u03B5 "+
 "\u03B1\u03C0\u03BF\u03B2\u03BF\u03BB\u03AE",13:"Avbryte",15:"\u0410\u0431\u043E\u0440\u0442"
-,16:"Aborto",18:"\u0410\u0431\u043E\u0440\u0442"};C.BmT={1:"Tov (prodato)",2:"\u0413\u043E\u0432\u0435\u0434\u043E (\u043F\u0440\u043E\u0434\u0430\u0434\u0435\u043D\u043E)"
+,16:"Aborto",18:"\u0410\u0431\u043E\u0440\u0442"};C.BmX={1:"Tov (prodato)",2:"\u0413\u043E\u0432\u0435\u0434\u043E (\u043F\u0440\u043E\u0434\u0430\u0434\u0435\u043D\u043E)"
 ,0:"Beef (sold)",6:"Veiseliha (m\xFC\xFCdud)",7:"Liharotu (myyty)",8:"Engraissement (vente)"
 ,9:"Mast (Verkauf)",10:"\u039A\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2 "+
 "(\u03C0\u03C9\u03BB\u03AE\u03B8\u03B7\u03BA\u03B5)",13:"Kj\xF8tt (solgt)",15:"\u041D\u0430 \u043C\u044F\u0441\u043E (\u043F\u0440\u043E\u0434\u0430\u0436\u0430)"
 ,16:"Carne (vendido)",18:"\u041D\u0430 \u043C\'\u044F\u0441\u043E (\u043F\u0440\u043E\u0434\u0430\u0436)"
-};C.BmU={1:"Uzgoj (prodato)",2:"\u0420\u0430\u0437\u0432\u044A\u0436\u0434\u0430\u043D\u0435 (\u043F\u0440\u043E\u0434\u0430\u0434\u0435\u043D\u043E)"
+};C.BmY={1:"Uzgoj (prodato)",2:"\u0420\u0430\u0437\u0432\u044A\u0436\u0434\u0430\u043D\u0435 (\u043F\u0440\u043E\u0434\u0430\u0434\u0435\u043D\u043E)"
 ,0:"Breeding (sold)",6:"Aretus (m\xFC\xFCdud)",7:"Jalostus (myyty)",8:"\xC9levage (vente)"
 ,9:"Zucht (Verkauf)",10:"\u0391\u03BD\u03B1\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2 "+
 "(\u03C0\u03C9\u03BB\u03AE\u03B8\u03B7\u03BA\u03B5)",13:"Avl (solgt)",15:"\u0414\u043B\u044F \u0441\u0435\u043B\u0435\u043A\u0446\u0438\u0438 (\u043F\u0440\u043E\u0434\u0430\u0436\u0430)"
 ,16:"Cr\xEDa (vendido)",18:"\u0414\u043B\u044F \u0441\u0435\u043B\u0435\u043A\u0446\u0456\u0457 (\u043F\u0440\u043E\u0434\u0430\u0436\u0443)"
-};C.BmV={1:"vibrator",0:"Vibration motor",6:"Vibratsioonimootor",8:"Moteur \xE0 vibration"
+};C.BmZ={1:"vibrator",0:"Vibration motor",6:"Vibratsioonimootor",8:"Moteur \xE0 vibration"
 ,9:"Vibrationsmotor",10:"\u039C\u03BF\u03C4\u03AD\u03C1 \u03B4\u03CC\u03BD\u03B7\u03C3\u03B7\u03C2"
 ,13:"Vibrasjonsmotor",15:"\u0412\u0438\u0431\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0439 "+
 "\u043C\u043E\u0442\u043E\u0440",16:"Motor de vibraci\xF3n",18:"\u0412\u0456\u0431\u0440\u0430\u0446\u0456\u0439\u043D\u0438\u0439 \u043C\u043E\u0442\u043E\u0440"
@@ -2937,12 +2937,12 @@ AFt={0:"Delete animal + notice",6:"Kustuta loom+teavitus",7:"Poista el\xE4in+ilm
 "\u043A\u043D\u043E\u043F\u043A\u0438",16:"Vibraci\xF3n al pulsar un bot\xF3n",17:
 "Tu\u015Fa bas\u0131ld\u0131\u011F\u0131nda titre\u015Fimi aktif hale getir",18:
 "\u0412\u0456\u0431\u0440\u0430\u0446\u0456\u044F \u043D\u0430\u0442\u0438\u0441\u043D\u0435\u043D\u043D\u044F "+
-"\u043A\u043D\u043E\u043F\u043A\u0438"};C.BmY={1:"Demo CitalControl",0:"Demo VitalControl"
+"\u043A\u043D\u043E\u043F\u043A\u0438"};C.Bm2={1:"Demo CitalControl",0:"Demo VitalControl"
 ,6:"VitalControl demo",10:"\u0395\u03C0\u03AF\u03B4\u03B5\u03B9\u03BE\u03B7 VitalControl"
 ,15:"\u0414\u0435\u043C\u043E VitalControl",16:"Demostraci\xF3n de VitalControl"
-,18:"\u0414\u0435\u043C\u043E VitalControl"};C.BmZ={1:"WLAN \u010Dip",0:"WLAN Chip"
+,18:"\u0414\u0435\u043C\u043E VitalControl"};C.Bm3={1:"WLAN \u010Dip",0:"WLAN Chip"
 ,6:"WLAN kiip",7:"WLAN -siru",8:"Puce WIFI",10:"WLAN \u03C4\u03C3\u03AF\u03C0",15:
-"\u0427\u0438\u043F WiFI",16:"LED blanco",18:"\u0427\u0456\u043F WiFi"};C.Bm0={1:
+"\u0427\u0438\u043F WiFI",16:"LED blanco",18:"\u0427\u0456\u043F WiFi"};C.Bm4={1:
 "\u010Cekanje da se vrijednost o\u010Dita",2:"\u0418\u0437\u0447\u0430\u043A\u0432\u0430 \u0441\u0435 \u0441\u0442\u0430\u0431\u0438\u043B\u043D\u0430 "+
 "\u0441\u0442\u043E\u0439\u043D\u043E\u0441\u0442",3:"\u7B49\u5F85\u7A69\u5B9A\u7684\u503C"
 ,4:"\u010Cek\xE1n\xED na stabiln\xED hodnotu",0:"Waiting for stable value",5:"Wachten op stabiele waarde"
@@ -2968,7 +2968,7 @@ AFt={0:"Delete animal + notice",6:"Kustuta loom+teavitus",7:"Poista el\xE4in+ilm
 "- \"La acci\xF3n \'{1}\' no es aplicable para el animal seleccionado de "+"tipo \'{2}\'."
 ,18:"\u0414\u0456\u044F \u2019{1}\u2019 \u043D\u0435 \u043C\u043E\u0436\u0435 "+
 "\u0431\u0443\u0442\u0438 \u0432\u0438\u043A\u043E\u043D\u0430\u043D\u0430 "+"\u0434\u043B\u044F \u0432\u0438\u0431\u0440\u0430\u043D\u043E\u0457 \u0442\u0432\u0430\u0440\u0438\u043D\u0438 "+
-"\u0442\u0438\u043F\u0443 \u2019{2}\u2019!"};C.Bm1={0:"Attention!\n\nWhen restoring a backup, your current animal and device data "+
+"\u0442\u0438\u043F\u0443 \u2019{2}\u2019!"};C.Bm5={0:"Attention!\n\nWhen restoring a backup, your current animal and device data "+
 "wil be overwritten!\nReally proceed with data restore?",9:"Achtung!\n\nBeim Wiederher~stellen der Daten~sicherung werden ihre aktuellen "+
 "Tier- und Ger\xE4tedaten \xFCberschrieben!\nR\xFCcksicherung wirklich starten?"
 ,16:"Attention!\n\nWhen restoring a backup, your current animal and device "+"data wil be overwritten!\nReally proceed with data restore?\" - \"\xA1Atenci\xF3n!\n\nAl "+
@@ -3001,7 +3001,7 @@ AFt={0:"Delete animal + notice",6:"Kustuta loom+teavitus",7:"Poista el\xE4in+ilm
 "\u0434\u0430\u043D\u0456 \u0437 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C? "+
 "\u041F\u0456\u0441\u043B\u044F \u0446\u044C\u043E\u0433\u043E \u0434\u0430\u043D\u0456 "+
 "\u0431\u0443\u0434\u0435 \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!\n\u0412\u0438 "+
-"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bm2={1:"Oprez: \nstandardna markice imaju ID od 13, 14 ili 15 brojeva. Na skeniranoj "+
+"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bm6={1:"Oprez: \nstandardna markice imaju ID od 13, 14 ili 15 brojeva. Na skeniranoj "+
 "markici se o\u010Ditavaj samo {1} brojeva!",2:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435:\n\u0421\u044A\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0430\u0449\u0438\u044F\u0442 "+
 "\u2116 \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u0442\u0440\u044F\u0431\u0432\u0430 "+
 "\u0434\u0430 \u0431\u044A\u0434\u0435 \u0434\u044A\u043B\u044A\u0433 13, "+"14 \u0438\u043B\u0438 15 \u0446\u0438\u0444\u0440\u0438.\n\u0412\u044A\u043F\u0440\u0435\u043A\u0438 "+
@@ -3062,7 +3062,7 @@ AFt={0:"Delete animal + notice",6:"Kustuta loom+teavitus",7:"Poista el\xE4in+ilm
 "\u0456 \u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439 \u0431\u0443\u0434\u0435 "+
 "\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E, \u0430 \u0434\u0435\u043C\u043E\u043D\u0441\u0442\u0440\u0430\u0446\u0456\u0439\u043D\u0456 "+
 "\u0434\u0430\u043D\u0456 \u0431\u0443\u0434\u0443\u0442\u044C \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u0456!\n\u0412\u0438 "+
-"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bm3={0:"The animal selected as dam does not have a 15-digit animal ID assigned.\nDo "+
+"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bm7={0:"The animal selected as dam does not have a 15-digit animal ID assigned.\nDo "+
 "you want to create an animal without dam assigned?",8:"Aucun n\xB0 d\'identification \xE0 15 chiffres n\'a \xE9t\xE9 attribu\xE9 "+
 "\xE0 l\'animal s\xE9lectionn\xE9e. Souhaitez-vous cr\xE9er un animal auquel "+"aucune m\xE8re n\'est attribu\xE9e\xA0?"
 ,9:"Dem ausge~w\xE4hl~ten Muttertier ist keine 15-stellige Ohrmarkennum~mer "+"zuge~wiesen. M\xF6chten sie ein Tier anlegen, dem kein Mutter~tier zugewiesen "+
@@ -3084,7 +3084,7 @@ AFt={0:"Delete animal + notice",6:"Kustuta loom+teavitus",7:"Poista el\xE4in+ilm
 "\u044F\u043A \u043C\u0430\u0442\u0438 \u043D\u0435 \u043C\u0430\u0454 "+"15-\u0442\u0438\u0437\u043D\u0430\u0447\u043D\u043E\u0433\u043E ID.\n\u0427\u0438 "+
 "\u0445\u043E\u0447\u0435\u0442\u0435 \u0432\u0438 \u0441\u0442\u0432\u043E\u0440\u0438\u0442\u0438 "+
 "\u0442\u0432\u0430\u0440\u0438\u043D\u0443 \u0431\u0435\u0437 \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F "+
-"\u043C\u0430\u0442\u0435\u0440\u0456?"};C.Bm4={0:"No transponder is linked to selected animal, therefore unlinking of trans~ponder "+
+"\u043C\u0430\u0442\u0435\u0440\u0456?"};C.Bm8={0:"No transponder is linked to selected animal, therefore unlinking of trans~ponder "+
 "is not possible!",8:"Aucun transpondeur n\'est attribu\xE9 \xE0 l\'animal s\xE9lectionn\xE9, "+
 "l\'action \'Retirer le transpondeur\' ne peut donc pas \xEAtre effectu\xE9\xA0!"
 ,9:"Dem ausgew\xE4hl~ten Tier ist kein Transponder zu~gewiesen, da~her kann "+"die Aktion \u2019Transponder ab~nehmen\u2019 nicht ausgef\xFChrt werden!"
@@ -3269,7 +3269,7 @@ C.WarningParsingNaisIdFailed={0:"Attention!\n\nThe barcode read could not be tra
 "\u0443\u0432\u0435\u0440\u0435\u043D\u044B?",16:"\xA1Se borrar\xE1n todos los datos de los animales!\n\xBFEst\xE1 seguro?"
 ,18:"\u0423\u0441\u0456 \u0434\u0430\u043D\u0456 \u043F\u0440\u043E \u0442\u0432\u0430\u0440\u0438\u043D "+
 "\u0431\u0443\u0434\u0435 \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!\n\u0412\u0438 "+
-"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bm5={1:"Svi podaci o aparatima i \u017Eivotinjama bi\u0107e izbrisani! Jeste li "+
+"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bm9={1:"Svi podaci o aparatima i \u017Eivotinjama bi\u0107e izbrisani! Jeste li "+
 "sigurni\"",2:"\u0412\u0441\u0438\u0447\u043A\u0438 \u0434\u0430\u043D\u043D\u0438 \u0437\u0430 "+
 "\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430 \u0438 \u0436\u0438\u0432\u043E\u0442\u043D\u0438 "+
 "\u0449\u0435 \u0431\u044A\u0434\u0430\u0442 \u0438\u0437\u0442\u0440\u0438\u0442\u0438!\n\u0421\u0438\u0433\u0443\u0440\u043D\u0438 "+
@@ -3310,7 +3310,7 @@ C.WarningParsingNaisIdFailed={0:"Attention!\n\nThe barcode read could not be tra
 "\u043F\u043E\u0440\u043E\u0433\u0438 \u0434\u043B\u044F \u0443\u0441\u0456\u0445 "+
 "\u0432\u0438\u0434\u0456\u0432 \u0442\u0432\u0430\u0440\u0438\u043D \u0431\u0443\u0434\u0435 "+
 "\u0441\u043A\u0438\u043D\u0443\u0442\u043E!\n\u0412\u0438 \u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"
-};C.Bm6={1:"Da li stvarno \u017Eelite vratiti na fabri\u010Dke postavke ({1} {2})?"
+};C.Bm_={1:"Da li stvarno \u017Eelite vratiti na fabri\u010Dke postavke ({1} {2})?"
 ,2:"\u041D\u0430\u0438\u0441\u0442\u0438\u043D\u0430 \u043B\u0438 \u0438\u0441\u043A\u0430\u0442\u0435 "+
 "\u0434\u0430 \u0432\u044A\u0437\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u0435 "+
 "\u0442\u0430\u0437\u0438 \u0441\u0442\u043E\u0439\u043D\u043E\u0441\u0442 "+"\u0434\u043E \u0444\u0430\u0431\u0440\u0438\u0447\u043D\u0438\u0442\u0435 "+
@@ -3354,7 +3354,7 @@ C.WarningParsingNaisIdFailed={0:"Attention!\n\nThe barcode read could not be tra
 0:"An ID different from the scanned ID is assigned to the animal already! "+"Do you want to overwrite the currently assigned ID?"
 ,9:"Dem Tier ist bereits eine andere ID zugewiesen! Wollen Sie diese ID mit "+"der eingelesenen ID ersetzen?"
 ,16:" \xA1Ya se asign\xF3 un ID diferente al ID escaneado al animal! \xBFDesea "+
-"sobrescribir el ID actualmente asignado?"};C.Bm7={1:"Ne postoji broj transpondera za tu \u017Eivotinju? Da li \u017Eelite da "+
+"sobrescribir el ID actualmente asignado?"};C.Bm$={1:"Ne postoji broj transpondera za tu \u017Eivotinju? Da li \u017Eelite da "+
 "registrujete transponder?",2:"\u041D\u0435 \u0435 \u0434\u0430\u0434\u0435\u043D \u043D\u043E\u043C\u0435\u0440 "+
 "\u043D\u0430 \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440, \u0437\u0430 "+
 "\u0434\u0430 \u0431\u044A\u0434\u0435 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430\u043D\u043E "+
@@ -3381,7 +3381,7 @@ C.WarningParsingNaisIdFailed={0:"Attention!\n\nThe barcode read could not be tra
 "\u043D\u043E\u043C\u0435\u0440 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430. "+
 "\u0427\u0438 \u0445\u043E\u0447\u0435\u0442\u0435 \u0432\u0438 \u0437\u0430\u0440\u0430\u0437 "+
 "\u0432\u0456\u0434\u0441\u043A\u0430\u043D\u0443\u0432\u0430\u0442\u0438 "+"\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440?"
-};C.Bm8={1:"Da li stvarno \u017Eelite isklju\u010Diti aparat?",2:"\u041D\u0430\u0438\u0441\u0442\u0438\u043D\u0430 \u043B\u0438 \u0436\u0435\u043B\u0430\u0435\u0442\u0435 "+
+};C.Bna={1:"Da li stvarno \u017Eelite isklju\u010Diti aparat?",2:"\u041D\u0430\u0438\u0441\u0442\u0438\u043D\u0430 \u043B\u0438 \u0436\u0435\u043B\u0430\u0435\u0442\u0435 "+
 "\u0434\u0430 \u0438\u0437\u043A\u043B\u044E\u0447\u0438\u0442\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E?"
 ,3:"\u4F60\u771F\u7684\u60F3\u95DC\u6A5F\u55CE\uFF1F",4:"Varov\xE1n\xED Vypnut\xED"
 ,0:"Do you really want to shutdown the device?",5:"Weet u zeker dat u het apparaat wilt uit ztten?"
@@ -3394,7 +3394,7 @@ C.WarningParsingNaisIdFailed={0:"Attention!\n\nThe barcode read could not be tra
 "\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E?",16:"\xBFRealmente quiere apagar el dispositivo?"
 ,17:"Kapatma uyar\u0131s\u0131",18:"\u0412\u0438 \u0441\u043F\u0440\u0430\u0432\u0434\u0456 \u0445\u043E\u0447\u0435\u0442\u0435 "+
 "\u0432\u0438\u043C\u043A\u043D\u0443\u0442\u0438 \u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439?"
-};C.Bm9={1:"Aparat \u0107e se isklju\u010Diti za {1} sekundi!",2:"\u0418\u0437\u043A\u043B\u044E\u0447\u0432\u0430\u043D\u0435 \u043D\u0430 "+
+};C.Bnb={1:"Aparat \u0107e se isklju\u010Diti za {1} sekundi!",2:"\u0418\u0437\u043A\u043B\u044E\u0447\u0432\u0430\u043D\u0435 \u043D\u0430 "+
 "\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+"\u0441\u043B\u0435\u0434 {1} \u0441\u0435\u043A\u0443\u043D\u0434\u0438!"
 ,3:"\u5728{1}\u79D2\u5167\u95DC\u9589\u8A2D\u5099\uFF01",4:"Vyp\xEDn\xE1n\xED za\u0159\xEDzen\xED za {1} sekund!"
 ,0:"Shutting down device in {1} seconds!",5:"Apparaat word in {1} seconden uitgeschakelt!"
@@ -3465,13 +3465,13 @@ C.WarningParsingNaisIdFailed={0:"Attention!\n\nThe barcode read could not be tra
 "\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F \u0432\u0437\u0432\u0430\u0436\u0443\u0432\u0430\u043D\u043D\u044F "+
 "\u043A\u043E\u0440\u043E\u0432\u0438 (\u2116 {1}) \u0442\u0430\u043A\u043E\u0436 "+
 "\u0431\u0443\u043B\u043E \u043E\u043F\u0440\u0430\u0446\u044C\u043E\u0432\u0430\u043D\u043E!"
-};C.Bm_={0:"Attention!\n\nWrong date and time settings, please re-enter date and time!"
+};C.Bnc={0:"Attention!\n\nWrong date and time settings, please re-enter date and time!"
 ,8:"Attention\xA0!\nLes r\xE9glages de la date et de l\'heure sont incorrects\xA0! "+
 "Veuillez saisir \xE0 nouveau la date et l\'heure\xA0!",9:"Achtung!\nFalsche Einstel~lungen f\xFCr Datum und Uhrzeit! Bitte Datum "+
 "und Uhr~zeit neu eingeben!",16:"Atenci\xF3n:\nConfiguraci\xF3n incorrecta de fecha y hora, por favor, "+
 "vuelva a ingresar la fecha y la hora."};C.ATl={2:"\u0421\u0435\u0434\u043C\u0438\u0446\u0430"
 ,0:"Week",7:"Viikko",8:"Semaine",9:"Woche",11:"Settimana",15:"\u041D\u0435\u0434\u0435\u0301\u043B\u044F"
-,16:"Semana",18:"\u0422\u0438\u0436\u0434\u0435\u043D\u044C"};C.Bnb={1:"vaganje \u017Eivotinje"
+,16:"Semana",18:"\u0422\u0438\u0436\u0434\u0435\u043D\u044C"};C.Bnf={1:"vaganje \u017Eivotinje"
 ,2:"\u041F\u0440\u0435\u0442\u0435\u0433\u043B\u0438 \u0436\u0438\u0432\u043E\u0442\u043D\u043E"
 ,0:"Weigh animal",6:"Looma kaal",7:"Punnitse el\xE4in",8:"Peser un animal",9:"Tier wiegen"
 ,10:"\u0396\u03C5\u03B3\u03AF\u03C3\u03C4\u03B5 \u03C4\u03BF \u03B6\u03CE\u03BF"
@@ -3500,7 +3500,7 @@ C.WarningParsingNaisIdFailed={0:"Attention!\n\nThe barcode read could not be tra
 ,6:"Looma kaal",7:"El\xE4inten paino",8:"Poids d\u2019animal",9:"Tiergewicht",10:
 "\u0392\u03AC\u03C1\u03BF\u03C2 \u03B6\u03CE\u03BF\u03C5",13:"Dyrevekt",15:"\u0412\u0435\u0441 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E"
 ,16:"Peso del animal",17:"Hayvan\u0131n a\u011F\u0131rl\u0131\u011F\u0131",18:"\u0412\u0430\u0433\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0438"
-};C.Bnc={1:"Te\u017Eina trupa",2:"\u0422\u0440\u0443\u043F\u043D\u043E \u0442\u0435\u0433\u043B\u043E"
+};C.Bng={1:"Te\u017Eina trupa",2:"\u0422\u0440\u0443\u043F\u043D\u043E \u0442\u0435\u0433\u043B\u043E"
 ,3:"\u9AD4\u91CD\u91CF",4:"Hmotnost uhynul\xE9ho zv\xED\u0159ete",0:"Carcass weight"
 ,5:"Kadavergewicht",6:"R\xFCmba kaal",7:"Ruhon paino",8:"Poids de la carcasse",9:
 "Kadavergewicht",10:"\u0392\u03AC\u03C1\u03BF\u03C2 \u03BA\u03BF\u03C5\u03C6\u03B1\u03C1\u03B9\u03BF\u03CD"
@@ -3560,6 +3560,6 @@ C.WarningParsingNaisIdFailed={0:"Attention!\n\nThe barcode read could not be tra
 2:"\u043A\u0433",3:"\u516C\u65A4",0:"kg",10:"\u039A\u03B9\u03BB\u03AC",15:"\u043A\u0433"
 ,18:"\u043A\u0433"};C.Afk={2:"\u041B\u0438\u0442\u044A\u0440",3:"\u516C\u5347",4:
 "Litr",0:"l",5:"I",6:"L",10:"\u0399",15:"\u043B",18:"\u043B"};
-C._Init=function(){};C._ReInit=function(){};C.Dz=function(D){};return C;})();
+C._Init=function(){};C._ReInit=function(){};C.DB=function(D){};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

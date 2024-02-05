@@ -50,6 +50,6 @@ ACL={0:"November",8:"Novembre",15:"\u041D\u043E\u044F\u0431\u0440\u044C",16:"Nov
 };C.ACN={0:"October",8:"Octobre",9:"Oktober",15:"\u041E\u043A\u0442\u044F\u0431\u0440\u044C"
 ,16:"Octubre"};C.AES={0:"September",8:"Septembre",15:"\u0421\u0435\u043D\u0442\u044F\u0431\u0440\u044C"
 ,16:"Septiembre"};
-C._Init=function(){};C._ReInit=function(){};C.Dz=function(D){};return C;})();
+C._Init=function(){};C._ReInit=function(){};C.DB=function(D){};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

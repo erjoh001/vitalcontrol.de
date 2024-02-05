@@ -211,7 +211,7 @@ null}};C.AOk={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIc
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:2,FrameSize:[96,80],FrameDelay:0,_this:
 null}};C.ANh={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResHeaderIconFreshCowsList.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[28,40],FrameDelay:0,_this:
-null}};C.Vs={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconSaveAndExitF1.png"
+null}};C.Vt={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconSaveAndExitF1.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[85,40],FrameDelay:0,_this:
 null}};C.Aqc={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconUp.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[23,40],FrameDelay:0,_this:
@@ -404,7 +404,7 @@ null}};C.AN2={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIc
 null}};C.AN1={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconBarcodeScan.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[36,40],FrameDelay:0,_this:
 null}};
-C._Init=function(){};C._ReInit=function(){};C.Dz=function(D){var B;if((B=C.AKX[0].
+C._Init=function(){};C._ReInit=function(){};C.DB=function(D){var B;if((B=C.AKX[0].
 _this)&&(B._cycle!=D))B._Done(C.AKX[0]._this=null);if((B=C.AOu[0]._this)&&(B._cycle
 !=D))B._Done(C.AOu[0]._this=null);if((B=C.AOM[0]._this)&&(B._cycle!=D))B._Done(C.
 AOM[0]._this=null);if((B=C.Aqa[0]._this)&&(B._cycle!=D))B._Done(C.Aqa[0]._this=null
@@ -475,7 +475,7 @@ ABE[0]._this=null);if((B=C.ABD[0]._this)&&(B._cycle!=D))B._Done(C.ABD[0]._this=n
 );if((B=C.ABF[0]._this)&&(B._cycle!=D))B._Done(C.ABF[0]._this=null);if((B=C.ANg[
 0]._this)&&(B._cycle!=D))B._Done(C.ANg[0]._this=null);if((B=C.AOk[0]._this)&&(B.
 _cycle!=D))B._Done(C.AOk[0]._this=null);if((B=C.ANh[0]._this)&&(B._cycle!=D))B._Done(
-C.ANh[0]._this=null);if((B=C.Vs[0]._this)&&(B._cycle!=D))B._Done(C.Vs[0]._this=null
+C.ANh[0]._this=null);if((B=C.Vt[0]._this)&&(B._cycle!=D))B._Done(C.Vt[0]._this=null
 );if((B=C.Aqc[0]._this)&&(B._cycle!=D))B._Done(C.Aqc[0]._this=null);if((B=C.Ap7[
 0]._this)&&(B._cycle!=D))B._Done(C.Ap7[0]._this=null);if((B=C.AJM[0]._this)&&(B.
 _cycle!=D))B._Done(C.AJM[0]._this=null);if((B=C.Aml[0]._this)&&(B._cycle!=D))B._Done(

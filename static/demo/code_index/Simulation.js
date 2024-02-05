@@ -41,20 +41,20 @@ C.AbF={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/SimulationRe
 ,Format:A._PIXEL_FORMAT_NATIVE,NoOfFrames:1,FrameSize:[354,730],FrameDelay:0,_this:
 null}};C.APn={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/SimulationLightCone.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[120,120],FrameDelay:0,_this:
-null}};C.AtO={_Init:function(){A.acq.ASX._Init.call(this,0);this.BjP(0xFF706E6C);
-this.BjS(0xFF706E6C);this.BjR(0xFFABABA8);this.BjQ(0xFF706E6C);this.BjL(0xFF706E6C
-);this.BjO(0xFF706E6C);this.BjN(0xFFABABA8);this.BjM(0xFF706E6C);this.BjK(34);this.
+null}};C.AtO={_Init:function(){A.acq.ASX._Init.call(this,0);this.BjT(0xFF706E6C);
+this.BjW(0xFF706E6C);this.BjV(0xFFABABA8);this.BjU(0xFF706E6C);this.BjP(0xFF706E6C
+);this.BjS(0xFF706E6C);this.BjR(0xFFABABA8);this.BjQ(0xFF706E6C);this.BjO(34);this.
+BjE(0xFF706E6C);this.BjH(0xFF706E6C);this.BjG(0xAAABABA8);this.BjF(0xFF706E6C);this.
 BjA(0xFF706E6C);this.BjD(0xFF706E6C);this.BjC(0xAAABABA8);this.BjB(0xFF706E6C);this.
-Bjw(0xFF706E6C);this.Bjz(0xFF706E6C);this.Bjy(0xAAABABA8);this.Bjx(0xFF706E6C);this.
-Bjv(34);this.BjI(0x11);this.A7v(A.aaL(A.fl.Ak));this.A7u(A.aaL(A.fl.Ak));this.Bjt(
-0x11);this.Bi5(0x4);this.Bjg(7);this.Bjj(5);this.Bji(1);this.Bjh(3);this.Bjc(A.aaL(
-A.acq.Adr));this.Bjf(A.aaL(A.acq.Adr));this.Bje(A.aaL(A.acq.Adr));this.Bjd(A.aaL(
-A.acq.Adr));this.Bi_(6);this.Bjb(4);this.Bja(0);this.Bi$(2);this.Bi6(A.aaL(A.acq.
-Adr));this.Bi9(A.aaL(A.acq.Adr));this.Bi8(A.aaL(A.acq.Adr));this.Bi7(A.aaL(A.acq.
+Bjz(34);this.BjM(0x11);this.A7v(A.aaL(A.fl.Ak));this.A7u(A.aaL(A.fl.Ak));this.Bjx(
+0x11);this.Bi9(0x4);this.Bjk(7);this.Bjn(5);this.Bjm(1);this.Bjl(3);this.Bjg(A.aaL(
+A.acq.Adr));this.Bjj(A.aaL(A.acq.Adr));this.Bji(A.aaL(A.acq.Adr));this.Bjh(A.aaL(
+A.acq.Adr));this.Bjc(6);this.Bjf(4);this.Bje(0);this.Bjd(2);this.Bi_(A.aaL(A.acq.
+Adr));this.Bjb(A.aaL(A.acq.Adr));this.Bja(A.aaL(A.acq.Adr));this.Bi$(A.aaL(A.acq.
 Adr));this.AEm(B9);},_ReInit:function(){this.A7v(A.aaL(A.fl.Ak));this.A7u(A.aaL(
 A.fl.Ak));},_variants:function(){return this;},_this:null};
 C._Init=function(){};C._ReInit=function(){var B;if((B=C.AtO._this))B._ReInit(),C.
-AtO._ReInit.call(B);};C.Dz=function(D){var B;if((B=C.AbF[0]._this)&&(B._cycle!=D
+AtO._ReInit.call(B);};C.DB=function(D){var B;if((B=C.AbF[0]._this)&&(B._cycle!=D
 ))B._Done(C.AbF[0]._this=null);if((B=C.APn[0]._this)&&(B._cycle!=D))B._Done(C.APn[
 0]._this=null);if((B=C.AtO._this)&&(B._cycle!=D))B._Done(C.AtO._this=null);};return C;
 })();
