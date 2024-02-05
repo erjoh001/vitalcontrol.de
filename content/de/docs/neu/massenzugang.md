@@ -19,7 +19,7 @@ Mithilfe des Massenzuganges können Sie eine Vielzahl von Tieren in kurzer Zeit 
 
 2. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Neu` und drücken Sie die Taste `OK`.
 
-3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/bulkrecord.svg" width="35" align="bottom" alt="Massenzugang" /> `Massenzugang` und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" /> `Massenzugang` und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich der Erfassungsbildschirm, in dem je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt werden. Scannen Sie zuerst den Barcode für die Ohrmarkennummer. Die Umrandung des Feldes wechselt von rot zu grün. Scannen Sie anschließend das Geburtsdatum. Die Umrandung wird kurzzeitig grün, bevor beide Umrandungen wieder rot erscheinen. Die Zahl am Scannersymbol im oberen Bildschirmrand ändert sich von 0 auf 1. Das erste Tier wurde gespeichert. Fahren Sie fort und scannen Sie die weiteren Rinderpässe ein. Nach jedem gescannten Pass erhöht sich die Zahl am Scannersymbol um eins.
 
@@ -39,7 +39,7 @@ Mit dieser Einstellungsoption bestimmten Sie, ob das Geburtsdatum beim Anlegen d
 
 3. Der gelbe Kreis symbolisiert, dass die Funktion aktiviert ist. Ein grauer Kreis symbolisiert, dass die Funktion deaktiviert ist.
 
-4. Speichern Sie die Einstellungen und gelangen Sie mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen Sie mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück zum Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" />&nbsp; `Massenzugang`.
 
    ![VitalControl: Menüfolge Neu Massenzugang](../bilder/geburtsdatum.png "Geburtsdatum muss angegeben werden aktivieren bzw. deaktivieren")
 
@@ -53,7 +53,7 @@ Innerhalb des Einstellungsmenüs `Standardwerte` legen Sie Standards fest die f�
 
 3. Es öffnet sich ein Untermenü mit den unterschiedlichen Einstellungsmöglichkeiten. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
-4. Speichern Sie die Einstellungen und gelangen sie mit der  `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp; zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen sie mit der  `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp; zurück zum Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" />&nbsp; `Massenzugang`.
 
    ![VitalControl: Menüfolge Neu Standardwerte](../bilder/standardwerte.png "Standardwerte einstellen")
 
@@ -67,7 +67,7 @@ Innerhalb des Einstellungsmenüs `Erfasste Werte` legen Sie fest, welche Werte z
 
 3. Wählen Sie den gewünschten zu erfassenden Wert mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Es erscheint ein gelber Kreis. Möchten Sie den zu erfassenden Wert wieder deaktivieren bestätigen Sie erneut mit `OK`. Der gelbe Kreis verschwindet.
 
-4. Speichern Sie die Einstellungen und gelangen Sie mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück zum Menüpunkt `Massenzugang`.
+4. Speichern Sie die Einstellungen und gelangen Sie mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück zum Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" />&nbsp; `Massenzugang`.
 
 5. Möchten Sie alle zu erfassenden Werte wieder deaktivieren wählen Sie im Menüpunkt `Erfasste Werte` unten die Einstellungsoption Reihenfolge zurücksetzen und bestätigen Sie mit `OK`.
 

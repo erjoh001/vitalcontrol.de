@@ -19,11 +19,11 @@ With the help of mass access, you can capture a large number of animals in a sho
 
 2. On the main screen of your VitalControl device, select the menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
 
-3. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/bulkrecord.svg" width="35" align="bottom" alt="Bulk-recording" /> `Bulk-recording` and confirm with `OK`.
+3. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" /> `Bulk recording` and confirm with `OK`.
 
 4. Another submenu opens, which contains a field for the ear tag number and a field for the date of birth. First scan the barcode for the ear tag number. The border of the field changes from red to green. Then scan the date of birth. The border briefly turns green before both borders appear red again. The number on the scanner icon at the top of the screen changes from 0 to 1. The first animal has been saved. Continue and scan the other cattle passes. After each passport is scanned, the number on the scanner symbol increases by one.
 
-   ![VitalControl: Menu New Bulk-recording](../images/bulk-recording.png "Bulk-recording")
+   ![VitalControl: Menu New Bulk recording](../images/bulk-recording.png "Bulk recording")
 
 {{% alert title="Hint" %}}
 You have further setting options within the mass access menu item. These are explained below. As preparatory steps, always first access the menu item `Bulk-recording` and then proceed as in the instructions.
@@ -39,7 +39,7 @@ With this setting option you can determine whether the date of birth must be spe
 
 3. The yellow circle symbolizes that the function is activated. A gray circle symbolizes that the function is deactivated.
 
-4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item `Bulk-recording`.
+4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `Bulk-recording`.
 
    ![VitalControl: Menu New Birth date mandatory](../images/birthdate.png "Birth date mandatory")
 
@@ -53,7 +53,7 @@ Within the `Default values` settings menu you set standards that apply to each a
 
 3. A submenu opens with the different setting options. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
 
-4. Save the settings and use the `F1` key&nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the `bulk-recording` menu item.
+4. Save the settings and use the `F1` key&nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `Bulk recording` .
 
    ![VitalControl: Menu New Default values](../images/defaultvalues.png "Default values")
 
@@ -67,7 +67,7 @@ Within the `Recorded values` settings menu, you can specify which values ​​s
 
 3. Select the desired value to be recorded with the arrow keys △ ▽ and confirm with `OK`. A yellow circle appears. If you want to deactivate the value to be recorded, confirm again with `OK`. The yellow circle disappears.
 
-4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the `bulk-recording` menu item.
+4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `Bulk recording`.
 
 5. If you would like to deactivate all the values ​​to be recorded again, select the `Enable all + reset order` setting option in the menu item `Recorded values` and confirm with `OK`.
 
