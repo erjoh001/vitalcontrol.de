@@ -19,9 +19,9 @@ In this list you will find all the animals that you have created via bulk record
 To export data you need the included UBS stick. Connect the USB stick with the USB-C adapter to your VitalControl device before following the instructions.
 {{% /alert %}}
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/zugaenge.svg" width="40" align="bottom" alt="new on farm" /> `new on farm` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="New on farm" /> `New on farm` and press the `OK` button.
 
-2.  A submenu opens in which you can choose between <img src="/icons/keintransponder.svg" width="40" align="bottom" alt="New on farm, no transponder" /> `New on farm, no transponder`, <img src="/icons/zukeaufe.svg" width="40" align="bottom" alt="Purchased animals" /> `Purchased animals`, <img src="/icons/keineOhrmarke.svg" width="40" align="bottom" alt="No national animal ID" /> `No national animal ID assigned`, <img src="/icons/geburten.svg" width="40" align="bottom" alt="Births" /> `Births` and <img src="/icons/keinTransponder.svg" width="40" align="bottom" alt="No transponder assigned" /> `No transponder assigned`. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/zukeaufe.svg" width="40" align="bottom" alt="Purchased animals" /> `purchased animals` and confirm with `OK`.
+2.  A submenu opens in which you can choose between <img src="/icons/keintransponder.svg" width="40" align="bottom" alt="New on farm, no transponder" /> `New on farm, no transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `Purchased animals`, <img src="/icons/keineOhrmarke.svg" width="40" align="bottom" alt="No national animal ID" /> `No national animal ID assigned`, <img src="/icons/geburten.svg" width="40" align="bottom" alt="Births" /> `Births` and <img src="/icons/keinTransponder.svg" width="40" align="bottom" alt="No transponder assigned" /> `No transponder assigned`. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `purchased animals` and confirm with `OK`.
 
 3. A list opens with your purchases that you have registered via the bulk recording menu item.
 
@@ -31,7 +31,7 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
 6. Use the arrow keys △ ▽ to select `Export csv list of purchases` and confirm with `OK`.
 
-7. The CSV message list is now saved on your USB stick. All animals in the `purchased animals` list are automatically deleted.
+7. The CSV message list is now saved on your USB stick. All animals in the `Purchased animals` list are automatically deleted.
 
     ![VitalControl: List of purchased animals, csv export](../images/purchasedanimals.png "Purchased animals, csv export ")
 
@@ -52,9 +52,9 @@ Always open the `purchased animals` list first as described in the instructions 
 
 With this function you can delete all animals from the `Purchased animals` list without having to create an export file first.
 
-1. Use the <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3` key. A submenu opens.
+1. Use the `F3` key `CVS export`. A submenu opens.
 
-2. Use the arrow keys △ ▽ to select the menu item `clear all purchase notices` and confirm with `OK`.
+2. Use the arrow keys △ ▽ to select the menu item `Clear all purchase notices` and confirm with `OK`.
 
 3. The purchase notices have been successfully deleted.
 
@@ -66,7 +66,7 @@ To delete an animal and its corresponding purchase notice, proceed as follows:
 
 1. Use the arrow keys △ ▽ to select the animal you want to delete.
 
-2. Use the <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3` key. A submenu opens.
+2. Use the `F3` key `CVS export`. A submenu opens.
 
 3. Use the arrow keys △ ▽ to select the menu item `Delete animal +  notice` and confirm with `OK`.
 
@@ -78,13 +78,13 @@ To delete an animal and its corresponding purchase notice, proceed as follows:
 
 To delete an animal's notice of purchase from the list, proceed as follows:
 
-1. Use the arrow keys △ ▽ to select the animal you want to delete.
+1. Use the arrow keys △ ▽ to select the animal whose purchase notice you want to delete.
 
-2. Use the <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3` key. A submenu opens.
+2. Use the `F3` key `CVS export`. A submenu opens.
 
 3. Use the arrow keys △ ▽ to select the menu item `Clear notice of purchase` and confirm with `OK`.
 
-4. The notice of purchase has been successfully deleted.
+4. The notice of purchase of the selected animal has been successfully deleted.
 
     ![VitalControl: List of purchased animals, clear notice of purchase](../images/clearnotice.png "Clear notice of purchase")
 
