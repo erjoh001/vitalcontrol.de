@@ -25,7 +25,7 @@ Eine gelbe oder rote Bewertung führt dazu, dass VitalControl das Tier als auff�
 
 4. Es öffnet sich das Bewertungsmenü. Sollten Sie den Bewertungsmodus umschalten wollen verwenden Sie den &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; `An/Aus` Button und die  Pfeiltasten ◁ ▷. Mit der Taste `F1` gelangen Sie zurück in das Bewertungsmenü.
 
-5. Verwenden Sie die Pfeiltasten ◁ ▷ um einen Zustand auszuwählen und speichern Sie diesen mit der `F3` <img src="/icons/save.svg" width="25" align="bottom" alt="Speichern" /> Taste oder der Taste `OK`.
+5. Verwenden Sie die Pfeiltasten ◁ ▷ um einen Zustand auszuwählen und speichern Sie diesen mit der `F3` Taste <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> oder der Taste `OK`.
 
 6. Nutzen Sie im erweiterten Modus die `F1` und `F3` Tasten um zwischen den Bewertungsparametern zu wechseln.
 

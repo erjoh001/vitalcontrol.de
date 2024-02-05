@@ -42,7 +42,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" />  `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier wiegen` aus und bestätigen Sie mit Taste <img src="/icons/save.svg" width="25" align="bottom" alt="Speichern" /> `F3` oder mit `OK`.
+2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" />  `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier wiegen` aus und bestätigen Sie mit Taste <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> `F3` oder mit `OK`.
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 

@@ -24,7 +24,7 @@ If the average weight deviates very strongly in one direction (too high/too low)
 
 3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action <img src="/icons/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weighing` and confirm with `OK`.
 
-4. A menu opens with a weight specification. Increase or decrease this with the arrow keys △ ▽ and save the result with the `F3` <img src="/icons/save.svg" width="25" align="bottom" alt="Save" /> key or with the `OK` key.
+4. A menu opens with a weight specification. Increase or decrease this with the arrow keys △ ▽ and save the result with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or with the `OK` key.
 
 {{< tabpane >}}
 {{< tab header="Record weight:" text=true disabled=true />}}

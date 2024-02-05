@@ -49,7 +49,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` <img src="/icons/save.svg" width="25" align="bottom" alt="Save" /> key or confirm with `OK` to save the result.
+2. Use the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or confirm with `OK` to save the result.
 
     ![VitalControl: Menu Actions Save results](../images/saveresults.png "Save results")
 

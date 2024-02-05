@@ -27,7 +27,7 @@ A yellow or red evaluation means that VitalControl classifies the animal as cons
 
 4. The rating menu opens. If you want to switch the rating mode, use the `On/Off` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chain-of-actions" />&nbsp; button and the arrow keys ◁ ▷. With the `F1` key you get back to the evaluation menu.
 
-5. Use the arrow keys ◁ ▷ △ ▽ to select a state and save it with the `F3` <img src="/icons/save.svg" width="25" align="bottom" alt="Save" />  key or the `OK` key.
+5. Use the arrow keys ◁ ▷ △ ▽ to select a state and save it with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or the `OK` key.
 
 6. In advanced mode, use the `F1` and `F3` keys to switch between the rating parameters.
 

@@ -42,7 +42,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `weigh animals` and confirm with the <img src="/icons/save.svg" width="25" align="bottom" alt="Save" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `weigh animals` and confirm with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or with `OK`.
 
 3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
