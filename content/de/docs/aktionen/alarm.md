@@ -18,7 +18,7 @@ Mit der Aktion `Alarm` setzen Sie Tiere auf die Alarmliste oder entfernen Sie vo
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion &nbsp;<img src="/icons/alertplus.svg" width="40" align="bottom" alt="Alarm" /> `Alarm` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion &nbsp;<img src="/icons/actions/alarm.svg" width="30" align="bottom" alt="Alarm" /> `Alarm` aus und bestätigen Sie mit `OK`.
 
 4. Es erscheint eine Meldung, dass das Tier erfolgreich auf die Alarmliste gesetzt wurde und die Anzeige für das Tier in der Kopfzeile ändert sich. Das Symbol &nbsp;<img src="/icons/redhead.svg" width="40" align="bottom" alt="Alarm" /> signalisiert, dass dieses Tier auf der Alarmliste steht.
 

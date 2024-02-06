@@ -18,11 +18,11 @@ Mit der Aktion `Beobachtung` setzen Sie Tiere auf die Beobachtungsliste oder ent
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽  die Aktion &nbsp;<img src="/icons/on-watchplus.svg" width="40" align="bottom" alt="Beobachtung" /> `Beobachtung` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽  die Aktion &nbsp;<img src="/icons/actions/on-watch.svg" width="30" align="bottom" alt="Beobachtung" /> `Beobachtung` aus und bestätigen Sie mit `OK`.
 
 4. Es erscheint eine Meldung, dass das Tier erfolgreich auf die Beobachtungsliste gesetzt wurde.
 
-5. Durch erneutes Anwenden der Aktion &nbsp;<img src="/icons/on-watchminus.svg" width="40" align="bottom" alt="Beobachtung" /> `Beobachtung` entfernen Sie das Tier wieder von der Beobachtungsliste. Ob Sie das Tier durch Verwenden der Aktion `Beobachtung` zu der Beobachtungsliste hinzufügen oder es entfernen wird Ihnen mit einem kleinen + oder - Zeichen angezeigt.
+5. Durch erneutes Anwenden der Aktion &nbsp;<img src="/icons/on-watchminus.svg" width="40" align="bottom" alt="Beobachtung" /> `Beobachtung` entfernen Sie das Tier wieder von der Beobachtungsliste. Ob Sie das Tier durch Verwenden der Aktion `Beobachtung` zu der Beobachtungsliste hinzufügen oder es entfernen wird Ihnen mit einem kleinen ⊕ oder ⊖ Zeichen angezeigt.
 
 {{< tabpane >}}
 {{< tab header="Beobachtung:" text=true disabled=true />}}

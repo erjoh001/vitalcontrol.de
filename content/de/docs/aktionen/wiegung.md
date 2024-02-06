@@ -16,7 +16,7 @@ Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tie
 
 ## Gewicht erfassen
 
-Die Aktion <img src="/icons/weight.svg" width="20" align="bottom" alt="Wiegung" /> `Wiegung` nutzen Sie um das Gewicht Ihres Tieres individuell abzuspeichern. Hierzu wiegen Sie ihre Tiere oder führen eine Schätzung des Gewichtes durch und tragen diesen Wert in das VitalControl-Gerät ein. Somit können Sie die Gewichtsentwicklung ihrer Tiere überprüfen und tierindividuell auswerten.
+Die Aktion <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Wiegung" /> `Wiegung` nutzen Sie um das Gewicht Ihres Tieres individuell abzuspeichern. Hierzu wiegen Sie ihre Tiere oder führen eine Schätzung des Gewichtes durch und tragen diesen Wert in das VitalControl-Gerät ein. Somit können Sie die Gewichtsentwicklung ihrer Tiere überprüfen und tierindividuell auswerten.
 
 {{% alert title="Hinweis" %}}
 Weicht das Gewicht im Durchschnitt sehr stark in eine Richtung ab (zu hoch/zu tief), so sollte der Wert für die tägliche Zunahme angepasst werden.
@@ -26,7 +26,7 @@ Weicht das Gewicht im Durchschnitt sehr stark in eine Richtung ab (zu hoch/zu ti
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion <img src="/icons/weight.svg" width="20" align="bottom" alt="Wiegung" /> `Wiegung` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Wiegung" /> `Wiegung` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein Menü mit einer Gewichtsangabe. Erhöhen oder vermindern Sie diese mit den Pfeiltasten △ ▽ und speichern Sie das Ergebnis mit der Taste `F3` &nbsp;<img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> `Speichern` oder mit der `OK` Taste.
 

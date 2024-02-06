@@ -40,5 +40,5 @@ The action `unregister` allows you to deregister an animal as soon as it is move
 
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}

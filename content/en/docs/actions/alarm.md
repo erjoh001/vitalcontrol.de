@@ -19,11 +19,11 @@ With the action `Alarm` you put animals on the alarm list or remove them from it
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the &nbsp;<img src="/icons/alertplus.svg" width="40" align="bottom" alt="Alarm" /> `Alarm` action and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the &nbsp;<img src="/icons/actions/alarm.svg" width="40" align="bottom" alt="Alarm" /> `Alarm` action and confirm with `OK`.
 
-4. A notification appears that the animal was successfully added to the alarm list and the display for the animal in the header changes. The symbol &nbsp;<img src="/icons/redhead.svg" width="40" align="bottom" alt="Alarm" /> indicates that this animal is on the alarm list.
+4. A notification appears that the animal was successfully added to the alarm list and the display for the animal in the header changes. The symbol &nbsp;<img src="/icons/redhead.svg" width="30" align="bottom" alt="Alarm" /> indicates that this animal is on the alarm list.
 
-5. You can remove the animal from the alarm list again by applying the &nbsp;<img src="/icons/alertminus.svg" width="40" align="bottom" alt="Alarm" /> `Alarm` action again. Whether you add or remove the animal from the alarm list by using the `Alert` action is indicated with a small + or - sign.
+5. You can remove the animal from the alarm list again by applying the &nbsp;<img src="/icons/alertminus.svg" width="40" align="bottom" alt="Alarm" /> `Alarm` action again. Whether you add or remove the animal from the alarm list by using the `Alarm` action is indicated with a small + or - sign.
 
 {{< tabpane >}}
 {{< tab header="Alert:" text=true disabled=true />}}
@@ -36,5 +36,5 @@ With the action `Alarm` you put animals on the alarm list or remove them from it
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [actions settings menu](../settings/). Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}
