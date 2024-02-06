@@ -22,7 +22,7 @@ With this action you can assign a transponder to an animal that has not yet been
 
 2. Select the desired animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/link-transponder.svg" width="40" align="bottom" alt="Link transponder" /> `link transponder` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> `Link transponder` and confirm with `OK`.
 
 4. Now scan the transponder that you want to assign to the animal.
 

@@ -22,9 +22,9 @@ To assign a national animal ID to an animal that does not have a national animal
 
 2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/national-animal-ID.svg" width="40" align="bottom" alt="Link animal ID" /> `link animal ID` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Link animal ID" /> `Link animal ID` and confirm with `OK`.
 
-4. Another submenu opens with all the setting options for the animal data. The setting option `national animal ID` is automatically selected. Confirm with `OK`.
+4. Another submenu opens with all the setting options for the animal data. The setting option `National animal ID` is automatically selected. Confirm with `OK`.
 
 5. Use the arrow keys ◁ ▷ △ ▽ to set the national animal ID. Confirm again with `OK`.
 
@@ -48,7 +48,7 @@ To assign a national animal ID to an animal that has an electronic ear tag, proc
 
 2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/national-animal-ID-scan.svg" width="40" align="bottom" alt="Link animal ID" />  `link animal ID` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `Link animal ID` and confirm with `OK`.
 
 4. Now scan the electronic ear tag.
 

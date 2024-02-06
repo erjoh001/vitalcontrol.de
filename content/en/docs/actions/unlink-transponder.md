@@ -22,7 +22,7 @@ With this action you can detach a transponder that has already been assigned to 
 
 2. Either scan the animal with the desired transponder or select the animal with the transponder from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/unlink-transponder.svg" width="40" align="bottom" alt="Unlink transponder" /> `unlink transponder` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Unlink transponder" /> `Unlink transponder` and confirm with `OK`.
 
 4. The transponder was successfully detached from the animal.
 

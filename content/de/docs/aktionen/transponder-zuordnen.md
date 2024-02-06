@@ -22,7 +22,7 @@ Mit dieser Aktion können Sie einem Tier, welches noch keinen Transponder zugewi
 
 2. Wählen Sie das gewünschte Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/link-transponder.svg" width="40" align="bottom" alt="Transponder zuordnen" /> `Transponder zuordnen` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Transponder zuordnen" /> `Transponder zuordnen` aus und bestätigen Sie mit `OK`.
 
 4. Scannen Sie nun den Transponder ein, den Sie dem Tier zuordnen möchten.
 

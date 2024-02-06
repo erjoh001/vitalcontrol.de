@@ -13,7 +13,7 @@ translationKey: actions/edit
 
 ## Edit animal data
 
-The action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `edit` allows you to change the animal data of the selected animal directly. This function makes it easier to correct the animal data if, for example, it becomes apparent during the animal inspection that the gender has been saved incorrectly. You can change the following data:
+The action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Edit` allows you to change the animal data of the selected animal directly. This function makes it easier to correct the animal data if, for example, it becomes apparent during the animal inspection that the gender has been saved incorrectly. You can change the following data:
 
 - Type of animal
 - Sex
@@ -32,7 +32,7 @@ To change the animal data, proceed as follows:
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `edit` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Edit` and confirm with `OK`.
 
 4. A list with the animal data opens. Use the arrow keys △ ▽ to select the desired change option.
 

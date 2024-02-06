@@ -20,11 +20,11 @@ Die Aktion `Abmelden` ermöglicht es Ihnen ein Tier abzumelden sobald es ausgest
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/unregister.svg" width="40" align="bottom" alt="Abmelden" /> `Abmelden` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Abmelden" /> `Abmelden` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein weiteres Untermenü in dem Sie verschiedene Einstellungen speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
-5. Verwenden Sie die Taste &nbsp;<img src="/icons/unregisterword.svg" width="40" align="bottom" alt="Abmelden" /> `F3` um das Tier mit den festgelegten Einstellungen abzumelden.
+5. Verwenden Sie die `F3` Taste `Abmelden` um das Tier mit den festgelegten Einstellungen abzumelden.
 
 {{< tabpane >}}
 {{< tab header="Ein Tier abmelden:" text=true disabled=true />}}
@@ -37,5 +37,5 @@ Die Aktion `Abmelden` ermöglicht es Ihnen ein Tier abzumelden sobald es ausgest
 {{< /tabpane >}}
 
 {{% alert title="Hinweis" %}}
-Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü](/docs/aktionen/einstellungen/) zu den Aktionen. Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
 {{% /alert %}}

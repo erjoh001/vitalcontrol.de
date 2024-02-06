@@ -22,7 +22,7 @@ Um einem Tier manuell eine Ohrmarkennummer zuzuweisen gehen Sie wie folgt vor:
 
 2. Scannen Sie entweder das Tier ohne Ohrmarkennummer mit dem Transponder ein oder wählen Sie das Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/national-animal-ID.svg" width="40" align="bottom" alt="Ohrmarkennummer zuordnen" /> `Ohrmarkennummer zuordnen` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Ohrmarkennummer zuordnen" /> `Ohrmarkennummer zuordnen` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein weiteres Untermenü mit allen Einstellungsmöglichkeiten für die Tierdaten. Die Einstellungsmöglichkeit `Ohrmarkennummer` ist automatisch ausgewählt. Bestätigen Sie mit `OK`.
 
@@ -48,7 +48,7 @@ Um einem Tier, das über eine elektronische Ohrmarke verfügt, eine Ohrmarkennum
 
 2. Scannen Sie entweder das Tier ohne Ohrmarkennummer mit dem Transponder ein oder wählen Sie das Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ die Tier-ID aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion  &nbsp;<img src="/icons/national-animal-ID-scan.svg" width="40" align="bottom" alt="Ohrmarkennummer zuordnen" /> `Ohrmarkennummer zuordnen` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion  &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Ohrmarkennummer zuordnen" /> `Ohrmarkennummer zuordnen` aus und bestätigen Sie mit `OK`.
 
 4. Scannen Sie nun die elektronische Ohrmarke ein.
 

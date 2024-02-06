@@ -20,7 +20,7 @@ Um die Tierhistorie einzusehen gehen Sie wie folgt vor:
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/history.svg" width="35" align="bottom" alt="Tierhistorie" /> `Tierhistorie` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion &nbsp;<img src="/icons/actions/history.svg" width="23" align="bottom" alt="Tierhistorie" />&nbsp; `Tierhistorie` aus und bestätigen Sie mit `OK`.
 
 4. Nun wird Ihnen die zuletzt eingestellte Information dargestellt. Verwenden Sie die Taste &nbsp;<img src="/icons/animalhistoriesettings.svg" width="40" align="bottom" alt="Darstellung" />  `F3` um das Einstellungsmenü für die Informationen zu öffnen.
 
@@ -41,5 +41,5 @@ Um die Tierhistorie einzusehen gehen Sie wie folgt vor:
 {{< /tabpane >}}
 
 {{% alert title="Hinweis" %}}
-Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü](/docs/aktionen/einstellungen/) zu den Aktionen. Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
 {{% /alert %}}
