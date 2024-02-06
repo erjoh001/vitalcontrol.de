@@ -18,7 +18,7 @@ Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion `Tierverlust` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Tierverlust" /> `Tierverlust` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein weiteres Untermenü in dem Sie verschiedene Einstellungen speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen. Verwenden sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 

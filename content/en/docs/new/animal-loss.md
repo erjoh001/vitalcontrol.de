@@ -21,7 +21,7 @@ To record the loss of an animal, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
 
-2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/animalloss.svg" width="35" align="bottom" alt="Animal loss" /> `Animal loss` and confirm with `OK`.
+2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/actions/still-birth.svg" width="35" align="bottom" alt="Animal loss" /> `Animal loss` and confirm with `OK`.
 
 3. Either scan the mother animal's transponder or use the `OK` button. Enter the ID of the mother animal using the arrow keys ◁ ▷ △ ▽ and confirm with `OK`.
 
@@ -31,7 +31,7 @@ To record the loss of an animal, proceed as follows:
 
 6. For the setting `Date of birth` use the arrow keys △ ▽ to select the desired setting option and confirm with `OK`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `OK`.
 
-7. Save the settings and create the new animal with the <img src="/icons/speichern-weiter.svg" width="35" align="bottom" alt="Save" /> `F3` key.
+7. Save the settings and create the new animal with the `F3` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save" />&nbsp;.
 
 {{% alert title="Hint" %}}
 Further information and setting options for creating new animals can be found [here](../../settings/animal-registration/).

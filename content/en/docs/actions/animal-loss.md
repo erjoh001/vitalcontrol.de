@@ -19,7 +19,7 @@ The action `animal loss` allows you to register an animal loss. To register an a
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action `animal loss` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Tierverlust" /> `animal loss` and confirm with `OK`.
 
 4. Another submenu opens in which you can save various settings. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
 
