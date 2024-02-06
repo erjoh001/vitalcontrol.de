@@ -88,7 +88,7 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" />  `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Tier suchen` aus und bestätigen Sie mit `OK`. Alternativ können Sie direkt nach Schritt eins die <img src="/icons/lupe.svg" width="25" align="bottom" alt="Suchen" /> `An/Aus` Taste verwenden.
+2. Verwenden Sie die <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Untermenü" />  `F3` Taste. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungsoptionen haben. Wählen Sie mit den Pfeiltasten △ ▽ `Tier suchen` aus und bestätigen Sie mit `OK`. Alternativ können Sie direkt nach Schritt eins die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Suchen" /> verwenden.
 
 3. Verwenden Sie die Pfeiltasten △ ▽ ◁ ▷ um die gewünschte Tiernummer einzugeben und bestätigen Sie mit `OK`.
 

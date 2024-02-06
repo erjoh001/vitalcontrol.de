@@ -21,7 +21,7 @@ In this list you will find all animals that have not yet been assigned an animal
 
 3. A list opens with your animals that have not yet been assigned an national animal ID.
 
-4. Use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the <img src="/icons/lupe.svg" width="40" align="bottom" alt="Search" /> `On/Off` button and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+4. Use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
 5. A submenu opens in which you can edit all data for the animal. The menu item `national animal ID` is automatically selected.
 

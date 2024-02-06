@@ -88,7 +88,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" /> `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Search animal` and confirm with `OK`. Alternatively, you can use the <img src="/icons/lupe.svg" width="25" align="bottom" alt="Search" /> `On/Off` button immediately after step one.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Submenu" /> `F3` key. A submenu opens in which you have various setting options. Use the arrow keys △ ▽ to select `Search animal` and confirm with `OK`. Alternatively, you can use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> immediately after step one.
 
 3. Use the arrow keys △ ▽ ◁ ▷ to enter the desired animal number and confirm with `OK`.
 
