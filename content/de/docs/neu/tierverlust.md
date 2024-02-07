@@ -21,13 +21,13 @@ Um den Verlust eines Tieres zu erfassen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Neu` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü. Navigieren Sie mit den Pfeiltasten ◁ ▷ △ ▽ zum Menüpunkt <img src="/icons/actions/still-birth.svg" width="35" align="bottom" alt="Tierverlust" /> `Tierverlust` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü. Navigieren Sie mit den Pfeiltasten ◁ ▷ △ ▽ zum Menüpunkt <img src="/icons/main/stillbirth.svg" width="40" align="bottom" alt="Tierverlust" /> `Tierverlust` und bestätigen Sie mit `OK`.
 
 3. Scannen sie entweder den Transponder des Muttertieres ein oder verwenden sie die Taste `OK`. Geben Sie mit den Pfeiltasten ◁ ▷ △ ▽ die ID des Muttertieres ein und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich ein weiteres Untermenü in dem Sie die Informationen über das tote Tier abspeichern können. Verwenden Sie die Pfeiltasten △ ▽ um den gewünschten Einstellungspunkt auszuwählen.
 
-5. Für die Einstellungen `Art des Nutztieres`, `Geschlecht`, `Geburtsgewicht`, `Rasse`, `Verbleib`, `Einling/Mehrling` und `Geburtsverlauf` verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
+5. Für die Einstellungen `Art des Nutztiers`, `Geschlecht`, `Geburtsgewicht`, `Rasse`, `Verbleib`, `Einling/Mehrling` und `Geburtsverlauf` verwenden Sie die Pfeiltasten ◁ ▷ um die gewünschte Einstellung auszuwählen.
 
 6. Für die Einstellung `Geburtsdatum` verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellungsoption auszuwählen und bestätigen Sie mit `OK`. Verwenden Sie die Pfeiltasten  △ ▽◁ ▷ um die gewünschten Zahlen auszuwählen. Bestätigen Sie abschließend mit `OK`.
 

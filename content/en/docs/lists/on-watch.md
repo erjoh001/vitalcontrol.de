@@ -54,7 +54,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `remove from watch list` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `Remove from watch list` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -66,7 +66,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `toggle alarm status` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the option `Toggle alarm status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 

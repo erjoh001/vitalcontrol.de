@@ -42,13 +42,13 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `calving` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `calving` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
 4. You will now be asked to scan the mother animal's transponder. Alternatively, you can also confirm with `OK` and enter the animal ID with the arrow keys △ ▽ ◁ ▷.
 
-5. Now scan the calf's transponder or skip this step with the <img src="/icons/break.svg" width="25" align="bottom" alt="Break" /> `F3` key if the calf does not yet have a transponder. You can later assign this to the animal using the `transponder number` function.
+5. Now scan the calf's transponder or skip this step with the `F3` key `ESC` if the calf does not yet have a transponder. You can later assign this to the animal using the action &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> [`Link transponder`](../../actions/link-transponder).
 
 6. Another settings menu opens in which you can save various details about the new calf. Use the arrow keys △ ▽ to select the appropriate setting option. For the setting options `Type of animal`, `Sex`, `Birth weight`, `Breed`, `Whereabouts`, `Multiples` and `Calving ease` use the arrow keys △ ▽ to select the desired setting. For the setting options `National animal ID`, `ID` and `Date of birth` select the corresponding setting option and confirm with `OK`. Now use the arrow keys △ ▽ ◁ ▷ to select the desired numbers.
 

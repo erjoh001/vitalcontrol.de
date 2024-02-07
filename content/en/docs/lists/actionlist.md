@@ -42,7 +42,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `weigh animals` and confirm with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `Weigh animals` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -54,7 +54,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `chain of action` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `Chain of action` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -68,7 +68,7 @@ This function is used for animals that have not yet been assigned a transponder 
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `link transponder` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `Link transponder` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -82,8 +82,8 @@ If this function is activated, the animals for which an overdue action has been 
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `hide after action` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the option `Hide after action` and toggle this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. The `hide after action` function is now enabled. Activation is indicated by ticking the box.
+3. The `Hide after action` function is now enabled. Activation is indicated via a check mark inside the box.
 
    ![VitalControl Lists Actionlist](../images/hideafteraction.png "Hide after action")

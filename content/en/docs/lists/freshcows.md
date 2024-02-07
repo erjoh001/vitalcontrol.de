@@ -42,7 +42,7 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `toggle alarm status` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Toggle alarm status` and confirm by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -54,7 +54,7 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `toggle watch status` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Toggle watch status` and confirm by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -68,7 +68,7 @@ If this function is activated, the animals for which a temperature measurement h
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `hide measured cows` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Hide measured cows` and confirm by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
