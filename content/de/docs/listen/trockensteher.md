@@ -6,14 +6,14 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: trockensteher
 description: >
-  Sehen Sie ihre Trockensteherliste ein.
+  Sehen Sie ihre trockenstehenden Kühe ein.
 Kategorien: [Listen]
 Tags: [Listen, Trockensteher]
 translationKey: lists/dry-cows
 ---
 ## Trockensteherliste
 
-Auf der Trockensteherliste finden Sie alle Tiere die Sie als trockenstehend eingespeichert haben. Diese Liste hilft Ihnen, die Übersicht über Ihre Trockensteher zu behalten und notwendige Aktionen an den Tieren durchzuführen. Folgende Aktionen können Sie ausführen:
+Auf der Trockensteherliste finden Sie alle Tiere die Sie als trockenstehend gekennzeichnet sind. Diese Liste hilft Ihnen, die Übersicht über Ihre Trockensteher zu behalten und notwendige Aktionen an den Tieren durchzuführen. Folgende Aktionen können Sie ausführen:
 
 - [Aktionsmenü](../alarm/#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) mit einem Tier öffnen
 - [Tierdaten](../alarm/#tierdaten-einsehen) einsehen
@@ -44,7 +44,7 @@ Innerhalb der Trockensteherliste können Sie direkt für ein individuelles Tier 
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Abkalbung` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Abkalbung` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 

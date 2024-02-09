@@ -50,11 +50,11 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Aktionsmenü` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Aktionsmenü` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
-4. Das Menü `Aktionen` öffnet sich automatisch. Die Handhabung der Aktionen finden Sie [hier](/docs/aktionen/).
+4. Das Menü &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` öffnet sich automatisch. Die Handhabung der Aktionen finden Sie [hier](/docs/aktionen/).
 
    ![VitalControl Listen Alarmliste](../bilder/aktionsmenue.png "Aktionsmenü aufrufen")
 
@@ -62,7 +62,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tierdaten` aus und bestätigen Sie mit der Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tierdaten` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -74,7 +74,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Temperatur messen` aus und bestätigen Sie mit der Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Temperatur messen` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -86,7 +86,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier bewerten` aus und bestätigen Sie mit der Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier bewerten` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -98,7 +98,8 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Alarm zurücksetzen` aus und bestätigen Sie mit der Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Alarm zurücksetzen` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -106,11 +107,11 @@ Die Alarmliste ist wie folgt aufgebaut:
 
    ![VitalControl Listen Alarm](../bilder/alarmzurücksetzen.png "Alarm zurücksetzen")
 
-### Status beobachten umkehren
+### Status Beobachtung umkehren
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Status beobachten umkehren` aus und bestätigen Sie mit der Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Status 'Beobachtung' umkehren` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Alarmliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -122,7 +123,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier suchen` aus und bestätigen Sie mit der Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier suchen` hervorzuheben und wählen sie die Suchfunktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Verwenden Sie die Pfeiltasten △ ▽ ◁ ▷ um die gewünschte Tier-ID auszuwählen.
 
@@ -132,8 +133,8 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Filter setzen` aus und bestätigen Sie mit der Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Filter setzen` hervorzuheben und wählen sie die Filterfunktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
-3. Stellen Sie den gewünschten Filter ein. Die Handhabung des Filters finden Sie [hier](/docs/filter/#tierfilter-anwenden).
+3. Stellen Sie den gewünschten Filter ein. Die Handhabung des Filters wird auf der Seite [Filter anwenden](/docs/filter/#tierfilter-anwenden) näher erläutert.
 
    ![VitalControl Listen Alarm](../bilder/filter.png "Filter setzen")

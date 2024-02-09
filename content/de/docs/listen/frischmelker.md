@@ -42,7 +42,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Alarmstatus ändern` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Alarmstatus ändern` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Frischmelkerliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
@@ -54,11 +54,11 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Status Beobachtung umkehren` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Status 'Beobachtung' umkehren` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
 3. Wählen Sie innerhalb der Frischmelkerliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
-4. Das Tier ist nun, abhängig von seinem Ausgangsstatus, zu der Beobachtungsliste hinzugefügt oder von dieser entfernt.
+4. Das Tier wird dann, abhängig von seinem Ausgangsstatus, zu der Beobachtungsliste hinzugefügt oder von dieser entfernt.
 
    ![VitalControl Listen Frischmelkerliste](../bilder/statusumkehren.png "Status Beobachtung umkehren")
 
@@ -68,8 +68,8 @@ Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine Messung der T
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `gemessene ausblenden` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Gemessene ausblenden` hervorzuheben und aktivieren / deaktivieren Sie diese Option durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK`.
 
-3. Die Funktion `gemessene ausblenden` ist nun aktiviert. Die Aktivierung wird durch ein Häkchen in dem Kasten verdeutlicht.
+3. Die Funktion `Gemessene ausblenden` ist nun aktiviert. Die Aktivierung wird durch ein Häkchen in dem Kasten verdeutlicht.
 
     ![VitalControl Listen Frischmelkerliste](../bilder/gemesseneausblenden.png "Gemessene ausblenden")

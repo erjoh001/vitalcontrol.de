@@ -42,11 +42,11 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" />  `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Tier wiegen` aus und bestätigen Sie mit Taste <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier wiegen` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
+3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
-4. Die Funktion [Tier wiegen](/docs/aktionen/wiegung/#gewicht-erfassen) wird nun automatisch gestartet.
+4. Die Aktion [Tier wiegen](/docs/aktionen/wiegung/#gewicht-erfassen) wird nun automatisch gestartet.
 
    ![VitalControl Listen Aktionsliste](../bilder/tierwiegen.png "Tier wiegen")
 
@@ -54,9 +54,9 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Aktionskette` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Aktionskette` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
+3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Die Funktion [Aktionskette](/docs/aktionskette/#aktionskette) wird nun automatisch gestartet.
 
@@ -68,9 +68,9 @@ Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem A
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `Transponder zuordnen` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" />  `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Transponder zuordnen` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
+3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
 4. Scannen Sie nun den Transponder des entsprechenden Tieres ein.
 
@@ -82,8 +82,8 @@ Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine überfällige
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
-2. Verwenden Sie die Taste <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` um die möglichen Aktionen zu öffnen. Wählen Sie mit den Pfeiltasten △ ▽ die Aktion `nach Aktion ausblenden` aus und bestätigen Sie mit Taste <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" />  `F3` oder mit `OK`.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Nach Aktion ausblenden` hervorzuheben und aktivieren / deaktivieren Sie diese Option durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK`.
 
-3. Die Funktion `nach Aktion ausblenden` ist nun aktiviert. Die Aktivierung wird durch ein Häkchen in dem Kasten verdeutlicht.
+3. Die Option `Nach Aktion ausblenden` ist nun aktiviert. Die Aktivierung wird durch ein Häkchen in dem rechteckigen Kästchen verdeutlicht.
 
    ![VitalControl Listen Aktionsliste](../bilder/nachaktionausblenden.png "Nach Aktion ausblenden aktivieren")
