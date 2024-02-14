@@ -15,9 +15,9 @@ translationKey: animal/animal
 
 Die Funktion Einzeltier ermöglicht es Ihnen wichtige Informationen über Gewicht, Temperatur und Bewertung für jedes individuelle Tier einzusehen. Dabei haben Sie jederzeit die Möglichkeit sich die Informationen als Grafik oder als Liste anzeigen zu lassen. Um die Einzeltierfunktion anzuwenden gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/einzeltier.svg" width="25" align="bottom" alt="Einzeltier" /> `Einzeltier` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/animal.svg" width="35" align="bottom" alt="Einzeltier" /> `Einzeltier` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Überblick über die wichtigsten Tierinformationen. Im oberen Bildschirmrand wird Ihnen angezeigt welches Tier Sie aktuell einsehen. Verwenden Sie die Taste `F3` um zwischen Tierinformation <img src="/icons/information.svg" width="25" align="bottom" alt="Infos" />, Temperatur <img src="/icons/temperatur.svg" width="25" align="bottom" alt="Temperatur" /> , Gewicht <img src="/icons/kg.svg" width="25" align="bottom" alt="Gewicht" /> und Bewertung <img src="/icons/auge.svg" width="25" align="bottom" alt="Bewertung" /> zu wählen.
+2. Es öffnet sich ein Überblick über die wichtigsten Tierinformationen. Im oberen Bildschirmrand wird Ihnen angezeigt welches Tier Sie aktuell einsehen. Verwenden Sie die Taste `F3` um zwischen Tierinformation <img src="/icons/footer/info.svg" width="20" align="bottom" alt="Infos" />, Temperatur <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatur" /> , Gewicht <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Gewicht" /> und Bewertung <img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Bewertung" /> zu wählen.
 
  ![VitalControl: Menüfolge Einzeltier](bilder/einzeltier.png "Einzeltier als Liste")
 

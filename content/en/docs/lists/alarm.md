@@ -50,7 +50,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Full action menu` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Full action menu` and select the action by pressing the central `OK` key or the `F3` key `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -62,7 +62,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Animal data` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Animal data` and select the action by pressing the central `OK` key or the `F3` key `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -74,7 +74,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Take Temperature` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Take Temperature` and select the action by pressing the central `OK` key or the `F3` key `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -86,7 +86,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Rate animal` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Rate animal` and select the action by pressing the central `OK` key or the `F3` key `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -98,7 +98,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Clear alarm` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Clear alarm` and select the action by pressing the central `OK` key or the `F3` key `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -110,7 +110,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `toggle watch status` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" /> `F3` key or with `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle watch status` and select the action by pressing the central `OK` key or the `F3` key `OK`.
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
@@ -122,7 +122,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Search animal` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" />  `F3` key or with `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `Search animal` and invoke the search function by pressing the central `OK` key or the `F3` key `OK`.
 
 3. Use the arrow keys △ ▽ ◁ ▷ to select the desired animal ID.
 
@@ -132,7 +132,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Aktionen" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to select the action `Set filter` and confirm with the <img src="/icons/ok.svg" width="25" align="bottom" alt="OK" />  `F3` key or with `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `Set filter` and invoke the filter function by pressing the central `OK` key or the `F3` key `OK`.
 
 3. Set the desired filter. You can find how to use the filter [here](../../filter/#applying-filters).
 

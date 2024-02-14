@@ -15,9 +15,9 @@ translationKey: animal/animal
 
 The individual animal function allows you to view important information about weight, temperature and rating for each individual animal. You always have the option of displaying the information as a graphic or as a list. To use the single animal function, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/einzeltier.svg" width="25" align="bottom" alt="Animal" /> `Animal` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/animal.svg" width="35" align="bottom" alt="Animal" /> `Animal` and press the `OK` button.
 
-2. An overview of the most important animal information opens. The upper edge of the screen shows you which animal you are currently viewing. Use the `F3` key to choose between animal information <img src="/icons/information.svg" width="25" align="bottom" alt="Infos" />, temperature <img src="/icons/temperatur.svg" width="25" align="bottom" alt="Temperature" />, weight  <img src="/icons/kg.svg" width="25" align="bottom" alt="Weight" /> and rating <img src="/icons/auge.svg" width="25" align="bottom" alt="Rating" />.
+2. An overview of the most important animal information opens. The upper edge of the screen shows you which animal you are currently viewing. Use the `F3` key to choose between animal information <img src="/icons/footer/info.svg" width="20" align="bottom" alt="Info" />, temperature <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" />, weight  <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weight" /> and rating <img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Rating" />.
 
  ![VitalControl: Menu Animal](images/list.png "Display as a list")
 

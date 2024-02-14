@@ -23,13 +23,13 @@ To view the animal history, proceed as follows:
 
 3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Animal history" /> `Animal history` and confirm with `OK`.
 
-4. The information that was set last is now displayed. Use the &nbsp;<img src="/icons/animalhistoriesettings.svg" width="40" align="bottom" alt="Depiction" /> `F3` key to open the information settings menu.
+4. The information that was set last is now displayed. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" /> to open the selection menu for the information pages.
 
-5. Use the arrow keys △ ▽ to select the desired information. Confirm with the `F3` key or with the `OK` key.
+5. Use the arrow keys △ ▽ to select the desired information page. Confirm with the `F3` key or with the `OK` key.
 
-6. The selected information will be presented to you.
+6. The selected information page will be presented to you.
 
-7. Use the &nbsp;<img src="/icons/graphik.svg" width="40" align="bottom" alt="Depiction" /> `On/Off` button to switch between the table &nbsp;<img src="/icons/tabelle.svg" width="40" align="bottom" alt="Depiction" /> and graph &nbsp;<img src="/icons/graphik.svg" width="40" align="bottom" alt="Depiction" /> display.
+7. Use the &nbsp;<img src="/icons/graphik.svg" width="40" align="bottom" alt="Depiction" /> `On/Off` button to switch between the table &nbsp;<img src="/icons/tabelle.svg" width="40" align="bottom" alt="Table display" /> and graph display &nbsp;<img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Chart display" />&nbsp;.
 
 {{< tabpane >}}
 {{< tab header="Animal history:" text=true disabled=true />}}

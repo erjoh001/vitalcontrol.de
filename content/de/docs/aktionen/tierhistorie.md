@@ -28,7 +28,7 @@ Um die Tierhistorie einzusehen gehen Sie wie folgt vor:
 
 6. Die ausgewählte Informationsseite wird jetzt aufgerufen.
 
-7. Verwenden Sie die   `An/Aus` Taste &nbsp;<img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Darstellung" />&nbsp; um zwischen der Darstellungsform Tabelle &nbsp;<img src="/icons/tabelle.svg" width="40" align="bottom" alt="Darstellung" /> oder Diagramm &nbsp;<img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Darstellung" />&nbsp; zu wechseln.
+7. Verwenden Sie die   `An/Aus` Taste &nbsp;<img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Darstellung" />&nbsp; um zwischen der Darstellungsform Tabelle &nbsp;<img src="/icons/tabelle.svg" width="40" align="bottom" alt="Darstellung in Tabellenform" /> oder Diagramm &nbsp;<img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Darstellung als Diagramm" />&nbsp; zu wechseln.
 
 {{< tabpane >}}
 {{< tab header="Beobachtung:" text=true disabled=true />}}
