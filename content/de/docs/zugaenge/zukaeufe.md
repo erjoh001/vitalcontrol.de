@@ -4,7 +4,7 @@ linkTitle: Zukäufe
 weight: 20
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: zukäufe
+slug: zukaeufe
 description: >
   Hier können Sie ihre aktuellen Zukäufe einsehen und die Daten exportieren.
 Kategorien: [Zukäufe, Datenmanagement]

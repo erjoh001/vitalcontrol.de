@@ -28,17 +28,17 @@ Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzeln
 
 ### Grafische Ansicht einstellen
 
-1. Verwenden Sie die <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Grafische Ansicht" /> `An/Aus` Taste. Es öffnet sich ein Untermenü. Sie können zwischen zwischen `Filter setzen`, `Tier suchen`, `Grafische Ansicht` wählen.
+1. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Popup Menu öffnen" /> um ein Popup-Menü zu öffnen. Dort können Sie zwischen den Funktionen `Filter setzen`, `Tier suchen` oder `Grafische Ansicht` wählen.
 
-2. Wählen Sie `Grafische Ansicht` mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`.
+2. Wählen Sie die Zeile `Grafische Ansicht` mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`.
 
  ![VitalControl: Menüfolge Einzeltier](bilder/grafisch.png "Grafische Ansicht")
 
  ### Tier suchen
 
- 1. Verwenden Sie die <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Grafische Ansicht" /> `An/Aus` Taste. Es öffnet sich ein Untermenü. Sie können zwischen zwischen `Filter setzen`, `Tier suchen`, `Grafische Ansicht` wählen.
+ 1. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Popup Menu öffnen" /> um ein Popup-Menü zu öffnen. Dort können Sie zwischen den Funktionen `Filter setzen`, `Tier suchen` oder `Grafische Ansicht` wählen.
 
-2. Wählen Sie `Tier suchen` mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`.
+2. Heben Sie die Zeile `Tier suchen` mit den Pfeiltasten △ ▽ hervor und bestätigen Sie mit `OK`.
 
 3. Verwenden Sie die Pfeiltasten △ ▽ ◁ ▷ um die gewünschte Tiernummer auszuwählen und bestätigen Sie mit `OK`.
 
@@ -46,8 +46,8 @@ Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzeln
 
 ### Filter setzen
 
-1. Verwenden Sie die <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Grafische Ansicht" /> `An/Aus` Taste. Es öffnet sich ein Overlay-Menü. Sie können dort zwischen zwischen `Filter setzen`, `Tier suchen`, `Grafische Ansicht` wählen.
+11. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Popup Menu öffnen" /> um ein Popup-Menü zu öffnen. Dort können Sie zwischen den Funktionen `Filter setzen`, `Tier suchen` oder `Grafische Ansicht` wählen.
 
-2. Wählen Sie `Filter setzen` mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Wie Sie den Filter anwenden finden Sie [hier](../filter).
+2. Wählen Sie die Zeile `Filter setzen` mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Wie Sie den Filter anwenden finden Sie [hier](../filter).
 
  ![VitalControl: Menüfolge Einzeltier](bilder/filter.png "Filter setzen")

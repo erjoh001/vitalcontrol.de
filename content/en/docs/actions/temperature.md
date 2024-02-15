@@ -57,9 +57,9 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `On/Off` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Settings" /> button.
+2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A submenu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` and `Flashlight`. Use the arrow keys △ ▽ to select `Add to Watch List` and press `F3` or confirm with `OK`.
+3. A popup menu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` or `Flashlight`. Use the arrow keys △ ▽ to select `Add to watch list` and press the central `OK` key or the `F3` key `OK`.
 
     ![VitalControl: Menu Actions Put on watch list](../images/watchlist.png "Put on watch list")
 
@@ -67,9 +67,9 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `On/Off` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Settings" /> button.
+2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A submenu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` and `Flashlight`. Use the arrow keys △ ▽ to select `Flashlight` and press the `F3` key or confirm with `OK`.#
+3. A popup menu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` or `Flashlight`. Use the arrow keys △ ▽ to select `Flashlight` and press the central `OK` key or the `F3` key `OK`.
 
     ![VitalControl: Menu Actions Flashlight on off](../images/light.png "Flashlight on off")
 
@@ -77,9 +77,9 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `On/Off` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Settings" /> button.
+2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A submenu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` and `Flashlight`. Use the arrow keys △ ▽ to select `Repeat measurement` and press the `F3` key or confirm with `OK`.
+3. A popup menu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` or `Flashlight`. Use the arrow keys △ ▽ to select `Repeat measurement` and press the central `OK` key or the `F3` key `OK`.
 
     ![VitalControl: Menu Actions Light on off](../images/repeat.png "Light on off")
 

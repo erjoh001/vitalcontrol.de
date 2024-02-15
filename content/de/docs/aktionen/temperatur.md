@@ -48,7 +48,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> Taste oder bestätigen Sie mit `OK` um das Ergebnis abzuspeichern.
+2. Nutzen Sie die `F3` Taste <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> oder bestätigen Sie mit mit der zentralen Taste `OK` um das Ergebnis abzuspeichern.
 
     ![VitalControl: Menüfolge Aktionen Datum](../bilder/ergebnisspeichern.png "Datum einstellen")
 
@@ -56,9 +56,9 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `An/Aus` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Einstellungen" /> Taste.
+2. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Popup öffnen" />.
 
-3. Es öffnet sich ein Untermenü in dem Sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Zur Beobachtungsliste hinzufügen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Popup-Menü in dem Sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Zur Beobachtungsliste hinzufügen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
     ![VitalControl: Menüfolge Aktionen Datum](../bilder/beobachtungsliste.png "Datum einstellen")
 
@@ -66,9 +66,9 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `An/Aus` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Einstellungen" /> Taste.
+2. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Popup öffnen" />.
 
-3. Es öffnet sich ein Untermenü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Licht` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Popup-Menü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Licht` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
     ![VitalControl: Menüfolge Aktionen Datum](../bilder/beleuchtung.png "Datum einstellen")
 
@@ -76,9 +76,9 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Nutzen Sie die `An/Aus` <img src="/icons/repeat.svg" width="25" align="bottom" alt="Einstellungen" /> Taste.
+2. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Popup öffnen" />.
 
-3. Es öffnet sich ein Untermenü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Messung wiederholen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Popup-Menü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Messung wiederholen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
     ![VitalControl: Menüfolge Aktionen Datum](../bilder/wiederholen.png "Datum einstellen")
 

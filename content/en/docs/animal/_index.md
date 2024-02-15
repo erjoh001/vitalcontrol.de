@@ -28,7 +28,7 @@ You can also switch between the individual animals at any time using the arrow k
 
 ### Set graphical view
 
-1. Use the <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Graphical view" /> `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
+1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Set filter`, `Search animal`, or `Graphical view`.
 
 2. Select `Graphical view` with the arrow keys △ ▽ and confirm with `OK`.
 
@@ -36,7 +36,7 @@ You can also switch between the individual animals at any time using the arrow k
 
 ### Search animal
 
-1. Use the <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Graphical view" /> `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
+1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Set filter`, `Search animal`, or `Graphical view`.
 
 2. Select `Search animal` with the arrow keys △ ▽ and confirm with `OK`.
 
@@ -46,9 +46,9 @@ You can also switch between the individual animals at any time using the arrow k
 
 ### Set filter
 
-1. Use the <img src="/icons/grafischeAnsicht.svg" width="25" align="bottom" alt="Graphical view" /> `On/Off` button. A submenu opens. you can choose between `Set filter`, `Search animal`, `Graphical view`.
+1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Set filter`, `Search animal`, or `Graphical view`.
 
 2. Select `Set filter` with the arrow keys △ ▽ and confirm with `OK`.
-You can find out how to use the filter [here](../filter).
+You can get instructions on how to use the filter [here]({{< relref "../filter" >}}).
 
  ![VitalControl: Menu Animal](images/filter.png "Set filter")
