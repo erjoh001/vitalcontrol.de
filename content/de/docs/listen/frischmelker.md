@@ -32,7 +32,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/listen.svg" width="25" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste <img src="/icons/freshcows.svg" width="25" align="bottom" alt="Frischmelker" /> `Frischmelker` aus. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Frischmelker" /> `Frischmelker` aus. Bestätigen Sie mit `OK`.
 
 3. Die Frischmelkerliste ist nun geöffnet.
 

@@ -20,7 +20,7 @@ Auf der Alarmliste finden Sie alle Tiere die Sie entweder manuell auf die Liste 
 - [Temperatur](#temperatur-messen) messen
 - [Tier bewerten](#tier-bewerten)
 - [Alarm zurücksetzen](#alarm-zur%C3%BCcksetzen)
-- Status [Beobachtung umkehren](#status-beobachten-umkehren)
+- [Status Beobachtung](#status-beobachtung-umkehren) umkehren
 - [Tier suchen](../alarm/#tier-suchen)
 - [Filter setzen](../../filter/)
 

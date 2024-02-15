@@ -39,15 +39,14 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
 Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
-- [Alle Meldungen](../zuk%C3%A4ufe/#alle-meldungen-l%C3%B6schen) löschen
-- [Tier + Meldung ](../zuk%C3%A4ufe/#tier--meldung-l%C3%B6schen) löschen
-- [Zugangsmeldung](../zuk%C3%A4ufe/#zugangsmeldung-l%C3%B6schen) löschen
-- Eine [Meldung](../zuk%C3%A4ufe/#daten-eines-zu-meldenden-tieres-bearbeiten) bearbeiten
+- [Alle Meldungen](#alle-meldungen-l%C3%B6schen) löschen
+- [Tier + Meldung ](#tier--meldung-l%C3%B6schen) löschen
+- [Zugangsmeldung](#zugangsmeldung-l%C3%B6schen) löschen
+- Eine [Meldung](#daten-eines-zu-meldenden-tieres-bearbeiten) bearbeiten
 
 {{% alert title="Hinweis" %}}
 Öffnen Sie immer zuerst die Liste `Zukäufe` wie in der Anleitung oben beschrieben.
 {{% /alert %}}
-
 
 ### Alle Meldungen löschen
 
@@ -95,6 +94,6 @@ Um die Daten eines Tieres in der Zugangsliste vorhanden ist, gehen Sie wie folgt
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, welches Sie bearbeiten möchten.
 
-2. Verwenden Sie die Taste `OK`. Es öffnet sich ein Untermenü mit den Tierdaten des ausgewählten Tieres. Wie diese zu bearbeiten sind finden Sie [hier](/docs/aktionen/%C3%A4ndern/#tierdaten-%C3%A4ndern).
+2. Verwenden Sie die Taste `OK`. Es öffnet sich ein Untermenü mit den Tierdaten des ausgewählten Tieres. Wie diese zu bearbeiten sind finden Sie [hier](/docs/aktionen/aendern/#tierdaten-%C3%A4ndern).
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/eine-meldung-bearbeiten.png "Eine Meldung bearbeiten")

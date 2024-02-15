@@ -20,7 +20,7 @@ Auf der Trockensteherliste finden Sie alle Tiere die Sie als trockenstehend geke
 - [Temperatur](../alarm/#temperatur-messen) messen
 - [Abkalbung](../trockensteher/#abkalbung-erfassen) erfassen
 - [Alarmstatus ändern](../beobachtung/#alarmstatus-%C3%A4ndern)
-- Status [Beobachtung umkehren](../alarm/#status-beobachten-umkehren)
+- [Status Beobachtung](../alarm/#status-beobachtung-umkehren) umkehren
 - [Tier suchen](../alarm/#tier-suchen)
 - [Filter setzen](../alarm/#filter-setzen)
 

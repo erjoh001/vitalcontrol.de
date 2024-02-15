@@ -33,16 +33,15 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
     ![VitalControl: Menüfolge Zugänge Geburten](../bilder/geburten.png "HIT-Meldeliste exportieren")
 
-
 ## Einstellungsmöglichkeiten
 
 Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
-- [Wechsel](../geburten/#wechsel-zwischen-listen--und-einzelansicht) zwischen Listen- und Einzelansicht
-- Bearbeiten der [Tierdaten](../geburten/#bearbeiten-der-tierdaten)
-- [Alle Meldungen](../zuk%C3%A4ufe/#alle-meldungen-l%C3%B6schen) löschen
-- [Tier + Meldung ](../zuk%C3%A4ufe/#tier--meldung-l%C3%B6schen) löschen
-- [Geburtsmeldung](../zuk%C3%A4ufe/#zugangsmeldung-l%C3%B6schen) löschen
+- Zwischen [Listen- und Einzelansicht](../geburten/#wechsel-zwischen-listen--und-einzelansicht) wechseln
+- [Tierdaten](../geburten/#bearbeiten-der-tierdaten) bearbeiten
+- [Alle Meldungen](../zukaeufe/#alle-meldungen-l%C3%B6schen) löschen
+- [Tier + Meldung ](../zukaeufe/#tier--meldung-l%C3%B6schen) löschen
+- [Geburtsmeldung](../zukaeufe/#zugangsmeldung-l%C3%B6schen) löschen
 
 {{% alert title="Hinweis" %}}
 Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen Sie den Verlinkungen zu den Schritt für Schritt Anleitungen. Öffnen Sie immer zuerst die Liste `Geburten` wie in der Anleitung oben beschrieben.

@@ -32,11 +32,11 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 1. Select the <img src="/icons/listen.svg" width="25" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
-2. A submenu opens in which various lists are displayed. Select the <img src="/icons/freshcows.svg" width="25" align="bottom" alt="Fresh-cows" /> `fresh cows` list. Confirm with `OK`.
+2. A submenu opens in which various lists are displayed. Select the `Fresh cows` list <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Confirm with `OK`.
 
 3. The fresh cows list is now open.
 
-   ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Preliminary Steps")
+   ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Fresh cow list")
 
 ### Toggle alarm status
 
