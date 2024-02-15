@@ -78,7 +78,7 @@ Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem A
 
 ### Nach Aktion ausblenden
 
-Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine überfällige Aktion durchgeführt wurde, auf der Aktionsliste ausgeblendet. Ist diese Funktion nicht aktiviert bleiben die Tiere auf der Liste sichtbar.
+Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine Aktion durchgeführt wurde, auf der Aktionsliste ausgeblendet. Ist diese Funktion nicht aktiviert bleiben die Tiere auf der Liste sichtbar.
 
 1. Führen Sie die vorbereitenden Schritte aus.
 

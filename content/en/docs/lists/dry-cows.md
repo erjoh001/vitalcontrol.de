@@ -42,9 +42,9 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `calving` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Calving` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
 4. You will now be asked to scan the mother animal's transponder. Alternatively, you can also confirm with `OK` and enter the animal ID with the arrow keys △ ▽ ◁ ▷.
 

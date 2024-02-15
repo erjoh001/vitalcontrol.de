@@ -137,4 +137,3 @@ The alarm list is structured as follows:
 3. Set the desired filter. You can find how to use the filter [here](../../filter/#applying-filters).
 
    ![VitalControl Lists Alarmlist](../images/setfilter.png "Set filter")
-

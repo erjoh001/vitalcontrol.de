@@ -11,9 +11,9 @@ Kategorien: [Lists]
 Tags: [Lists, Action]
 translationKey: lists/action
 ---
-## Actionlist
+## Action list
 
-Within the action list you can see the animals for which no action has been taken for INSERT PERIOD hours. The following setting options are also available:
+Within the action list you can see the animals for which no action has been taken for six hours. The following setting options are also available:
 
 - [Take temperature](../alarm/#take-temperature)
 - [Rate animals](../alarm/#rate-animal)
@@ -36,54 +36,54 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 3. The action list is now open.
 
-   ![VitalControl Lists Actionlist](../images/firststeps3.png "Preliminary Steps")
+   ![VitalControl Lists Action list](../images/firststeps3.png "Preliminary Steps")
 
 ### Weigh animals
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" /> `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `Weigh animals` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Weigh animals` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
 4. The [weigh animals](..) menu will open automatically.
 
-   ![VitalControl Lists Actionlist](../images/weightanimals.png "Weigh animals")
+   ![VitalControl Lists Action list](../images/weightanimals.png "Weigh animals")
 
 ### Chain of action
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `Chain of action` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Chain of action` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
-4. The [actionchain](..) function will open automatically.
+4. The [action chain](../../chain-of-actions) function will open automatically.
 
-   ![VitalControl Lists Actionlist](../images/chainofaction.png "Chain of action")
+   ![VitalControl Lists Action list](../images/chainofaction.png "Chain of action")
 
 ### Link transponder
 
-This function is used for animals that have not yet been assigned a transponder when the animal is created.
+This function is used to add a transponder to the data record of animals that have not been assigned a transponder yet.
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the action `Link transponder` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Link transponder` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the actionlist, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
 4. Now scan in the transponder of the corresponding animal.
 
-   ![VitalControl Lists Actionlist](../images/linktransponder.png "Link transponder")
+   ![VitalControl Lists Action list](../images/linktransponder.png "Link transponder")
 
 ### Hide after action
 
-If this function is activated, the animals for which an overdue action has been performed will be deleted from the action list. If this function is not activated, the animals remain on the list.
+If this function is activated, the animals for which an action has been performed will be hidden from the action list. If this function is deactivated, animals worked off will remain visible in the list.
 
 1. Complete the preliminary steps.
 
-2. Use the <img src="/icons/animalhistorysettings.svg" width="25" align="bottom" alt="Actions" />  `F3` key to open the possible actions. Use the arrow keys △ ▽ to highlight the option `Hide after action` and toggle this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the option `Hide after action` and toggle this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. The `Hide after action` function is now enabled. Activation is indicated via a check mark inside the box.
+3. The `Hide after action` function is now enabled/disabled. Activation is indicated via a check mark inside the box.
 
-   ![VitalControl Lists Actionlist](../images/hideafteraction.png "Hide after action")
+   ![VitalControl Lists Action list](../images/hideafteraction.png "Hide after action")
