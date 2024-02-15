@@ -3,4 +3,11 @@
 .td-footer__all_rights_reserved {
     display: inline !important;
 }
-  
+
+// allow customization of heading self links
+
+.td-heading-self-link {
+    &:before {
+      content: '#' !important;
+    }
+}
