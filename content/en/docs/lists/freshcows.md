@@ -30,7 +30,7 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 ### Preliminary Steps
 
-1. Select the <img src="/icons/listen.svg" width="25" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Select the <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
 2. A submenu opens in which various lists are displayed. Select the `Fresh cows` list <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Confirm with `OK`.
 

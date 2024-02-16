@@ -26,7 +26,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
 ### Preparatory steps
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/herde.svg" width="25" align="bottom" alt="Herd" /> `Herd` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herd" /> `Herd` and press the `OK` button.
 
 2. Your herd overview opens.
 

@@ -25,7 +25,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen sie das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp;  `Auswerten` aus. Bestätigen Sie mit `OK`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/weightevaluate.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="top" alt="Gewicht" />&nbsp; `Gewicht` aus und bestätigen Sie mit `OK`.
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/todayweight.svg" width="40" align="bottom" alt="Heutige Wiegung" />&nbsp; `Heutige Wiegung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
@@ -42,7 +42,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 1. Öffnen Sie den Hauptbildschirm Ihres VitalControl-Geräts und wählen Sie das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp; `Auswerten` aus. Bestätigen Sie mit `OK`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten  &nbsp;<img src="/icons/weightevaluate.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/birthweight.svg" width="40" align="bottom" alt="Geburtsgewicht" />&nbsp; `Geburtsgewichte` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 
@@ -62,7 +62,7 @@ Um die Auswertung vorzunehmen verfahren Sie wie folgt:
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" />&nbsp; `Auswerten`.
 
-2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/weightevaluate.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein weiteres Untermenü in dem Sie mit den Pfeiltasten △ ▽ ◁ ▷ zwischen den Menüpunkten `Gewicht`, `Temperatur`, `Bewertung` und `Verlustrate` wählen können. Wählen Sie den Menüpunkt &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` und bestätigen Sie mit `OK`.
 
 3. Nun erscheinen die Auswertungsmöglichkeiten für die Rubrik Gewicht. Wählen Sie die Auswertungsmöglichkeit &nbsp;<img src="/icons/weightdevelopment.svg" width="40" align="bottom" alt="Gewichtsentwicklung" />&nbsp; `Gewichtsentwicklung` aus und bestätigen Sie mit `OK`. Das Gerät beginnt nun die Erfolgsgrößen zu berechnen.
 

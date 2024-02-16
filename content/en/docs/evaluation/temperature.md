@@ -24,7 +24,7 @@ To perform the evaluation, proceed as follows:
 
 1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/temperatureevaluate.svg" width="40" align="bottom" alt="Evaluate temperature" />&nbsp; `Temperature` and confirm with `OK`.
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Evaluate temperature" />&nbsp; `Temperature` and confirm with `OK`.
 
 3. The device now starts to calculate the success variables.
 

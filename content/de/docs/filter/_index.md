@@ -18,7 +18,7 @@ Der Filter hilft Ihnen innerhalb der Menüpunkte `Herde`, `Listen` und `Auswertu
 
 Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 
-1. Im obersten Menüpunkt <img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" /> `Auswerten` drücken Sie die `F3` Taste <img src="/icons/footer/filter.svg" width="25" align="bottom" alt="Filter" /> einmal. In den obersten Menüpunkten <img src="/icons/listen.svg" width="25" align="bottom" alt="Listen" /> `Listen` und <img src="/icons/herde.svg" width="25" align="bottom" alt="Herde" /> `Herde` drücken Sie die Taste zweimal.
+1. Im Untermenü zum Hauptmenüpunkt <img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Auswerten" /> `Auswerten` drücken Sie die `F3` Taste <img src="/icons/footer/filter.svg" width="25" align="bottom" alt="Filter" /> einmal. Im Untermenü zu den Hauptmenüpunkten <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herde" /> `Herde` drücken Sie die Taste zweimal.
 
 2. Es öffnet sich ein Untermenü in dem Sie alle Filtermöglichkeiten einstellen können. Sie können nach `Tiernummer`, `Alter`, `Geschlecht`, `Transponder`, `Ohrmarkennummer`, `Fieber`, `Beobachtung`, `Art des Nutztiers` und `Alarm` filtern.
 

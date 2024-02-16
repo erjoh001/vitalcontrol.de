@@ -26,7 +26,7 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 
 ### Vorbereitende Schritte
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/herde.svg" width="25" align="bottom" alt="Herde" /> `Herde` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herde" /> `Herde` und drücken Sie die Taste `OK`.
 
 2. Es öffnet sich die Herdenübersicht.
 
