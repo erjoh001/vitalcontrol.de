@@ -25,14 +25,14 @@ On the list of dry animals you will find all animals that you have saved as dry 
 - [Set filter](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
-Some actions are to be carried out in the same way as in the [Alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
+Some actions are to be carried out in the same way as in the [alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
 {{% /alert %}}
 
 ### Preliminary Steps
 
 1. Select the <img src="/icons/listen.svg" width="25" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
-2. A submenu opens in which various lists are displayed. Select the <img src="/icons/drycows.svg" width="25" align="bottom" alt="Dry-Cows" /> `dry cows` list. Confirm with `OK`.
+2. A submenu opens in which various lists are displayed. Highlight the icon <img src="/icons/lists/drycows.svg" width="40" align="bottom" alt="Dry cows" /> `Dry cows`. Confirm with `OK`.
 
 3. The dry cows list is now open.
 

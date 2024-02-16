@@ -22,7 +22,7 @@ In this evaluation you can see the following information as a pie chart:
 
 To perform the evaluation, proceed as follows:
 
-1. Open the main screen of your VitalControl device and select the &nbsp;<img src="/icons/evaluate.svg" width="40" align="bottom" alt="Evaluate" />&nbsp; `Evaluate` menu. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
 
 2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/ratingevaluate.svg" width="40" align="bottom" alt="Rating" />&nbsp; `Rating` and confirm with `OK`.
 

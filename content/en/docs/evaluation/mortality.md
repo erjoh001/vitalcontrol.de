@@ -14,10 +14,10 @@ translationKey: evaluation/mortality
 You cannot use animal filters within the loss rate analysis. Calf losses are automatically displayed to you.
 {{% /alert %}}
 
-In this evaluation you can view your loss rates as a history. The loss rate is given to you as a percentage and divided into the categories green, yellow and red. The stored percentages are factory set, the green area is between INSERT NUMBER, the yellow area is between INSERT NUMBER, the red area is between INSERT NUMBER.
+In this evaluation you can view your loss rates as a history. The loss rate is given to you as a percentage and divided into the categories green, yellow and red. The stored percentages are factory set, the green area is between 0 and 4 %, the yellow area is between 4 and 8 %, the red area represents a mortality rate above 8 %.
 To perform the evaluation, proceed as follows:
 
-1. Open the main screen of your VitalControl device and select the &nbsp;<img src="/icons/evaluate.svg" width="40" align="bottom" alt="Evaluate" />&nbsp; `Evaluate` menu. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
 
 2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/mortality.svg" width="40" align="bottom" alt="Mortality" />&nbsp; `Mortality` and confirm with `OK`.
 

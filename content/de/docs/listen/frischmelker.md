@@ -48,7 +48,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 4. Das Tier ist nun, abhängig von seinem Ausgangsstatus, zu der Alarmliste hinzugefügt oder von dieser entfernt.
 
-   ![VitalControl Listen Frischmelkerliste](../bilder/alarmstatusändern.png "Alarmstatus ändern")
+   ![VitalControl Listen Frischmelkerliste](../bilder/alarmstatusaendern2.png "Alarmstatus ändern")
 
 ### Status Beobachtung umkehren
 

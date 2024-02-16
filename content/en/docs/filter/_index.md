@@ -17,7 +17,7 @@ The filter helps you to carry out a selection using filter criteria within the m
 
 To create a filter in the evaluations, proceed as follows:
 
-1. Press the `F3` key <img src="/icons/footer/filter.svg" width="25" align="bottom" alt="Filter" /> once in the menu item <img src="/icons/evaluate.svg" width="25" align="bottom" alt="Evaluation" /> `Evaluation` and twice in the menu items <img src="/icons/listen.svg" width="25" align="bottom" alt="Lists" /> `Lists` and <img src="/icons/herde.svg" width="25" align="bottom" alt="Herd" /> `Herd`.
+1. Inside the top menu item <img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluation" /> `Evaluation` press the `F3` key <img src="/icons/footer/filter.svg" width="25" align="bottom" alt="Filter" /> once. Inside the top menu items <img src="/icons/listen.svg" width="25" align="bottom" alt="Lists" /> `Lists` and <img src="/icons/herde.svg" width="25" align="bottom" alt="Herd" /> `Herd`, you have to press the key twice.
 
 2. A submenu opens in which you can set all filter options. You can filter by `Animal ID`, `Age`, `Sex`, `Transponder`, `National animal ID`, `Fever`, `On watch`, `Type of animal` and `Alarm`.
 

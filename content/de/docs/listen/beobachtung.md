@@ -72,4 +72,4 @@ Die Beobachtungsliste ist wie folgt aufgebaut:
 
 4. Das Tier ist nun, abhängig von seinem Ausgangsstatus, zu der Alarmliste hinzugefügt oder von dieser entfernt.
 
-   ![VitalControl Listen Beobachtungsliste](../bilder/alarmstatusändern.png "Alarmstatus ändern")
+   ![VitalControl Listen Beobachtungsliste](../bilder/alarmstatusaendern.png "Alarmstatus ändern")

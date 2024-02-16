@@ -105,7 +105,7 @@ Die Alarmliste ist wie folgt aufgebaut:
 
 4. Das Tier ist nun von der Alarmliste entfernt.
 
-   ![VitalControl Listen Alarm](../bilder/alarmzurücksetzen.png "Alarm zurücksetzen")
+   ![VitalControl Listen Alarm](../bilder/alarmzuruecksetzen.png "Alarm zurücksetzen")
 
 ### Status Beobachtung umkehren
 

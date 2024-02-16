@@ -23,7 +23,7 @@ In this evaluation you can see the following information related to the weighing
 
 To perform the evaluation, proceed as follows:
 
-1. Open the main screen of your VitalControl device and select the  &nbsp;<img src="/icons/evaluate.svg" width="40" align="bottom" alt="Evaluate today`s weighing" />&nbsp;`Evaluate` menu. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
 
 2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items  &nbsp;<img src="/icons/weightevaluate.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight`, `Temperature`, `Rating` and `Mortality`. Select `Weight` and confirm with `OK`.
 
@@ -40,7 +40,7 @@ In this evaluation you can view the following information:
 
 To perform the evaluation, proceed as follows:
 
-1. Open the main screen of your VitalControl device and select the &nbsp;<img src="/icons/evaluate.svg" width="40" align="bottom" alt="Evaluate birth weights" />&nbsp; `Evaluate` menu. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
 
 2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/weightevaluate.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
 
@@ -60,7 +60,7 @@ In this evaluation you can see the following information related to all weighing
 
 To perform the evaluation, proceed as follows:
 
-1. Open the main screen of your VitalControl device and select the &nbsp;<img src="/icons/evaluate.svg" width="40" align="bottom" alt="Evaluate birth weights" />&nbsp; `Evaluate` menu. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
 
 2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/weightevaluate.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
 
