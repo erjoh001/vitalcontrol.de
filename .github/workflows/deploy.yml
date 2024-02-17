@@ -49,8 +49,7 @@ jobs:
       - name: Install npm dependencies
         run: npm ci
 
-      - name: Build site
-        
+      - name: Build site for deployment
         run: hugo --minify
 
       - name: Deploy
@@ -58,3 +57,14 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+      - name: Remove output 'print' (prevents broken links)
+        run: sed -i '56d' config/_default/hugo.yml
+
+      - name: Rebuild site for link checking
+        run: hugo --minify --cleanDestinationDir
+
+      - name: Hyperlink link checker
+        uses: untitaker/hyperlink@bf165852f43428eb3476d8ed59b5406aafbdd31c # v0.1.32
+        with:
+          args: --sources content --check-anchors public
