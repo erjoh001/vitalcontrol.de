@@ -1,5 +1,6 @@
 de:
   languageName: Deutsch
+  contentDir: content/de
   languageCode: de-DE
   # Weight used for sorting.
   weight: 10

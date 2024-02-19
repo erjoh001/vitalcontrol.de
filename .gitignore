@@ -5,6 +5,8 @@ node_modules/
 
 .vscode/settings.json
 
+.hvm
+
 # Content
 content/de/docs/aktionen/.$aktionen.svg.*
 content/en/docs/aktionen/.$actions.svg.*
