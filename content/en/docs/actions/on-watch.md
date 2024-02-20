@@ -19,11 +19,11 @@ With the action `on watch` you put animals on the on-watch list or remove them f
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the &nbsp;<img src="/icons/actions/on-watch.svg" width="30" align="bottom" alt="On watch" /> `On watch` action and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the &nbsp;<img src="/icons/actions/on-watch.svg" width="35" align="bottom" alt="On watch" /> `On watch` action and confirm with `OK`.
 
 4. A notification appears that the animal was successfully added to the on-watch list.
 
-5. You can remove the animal from the on-watch list again by applying the &nbsp;<img src="/icons/actions/on-watch-minus.svg" width="30" align="bottom" alt="Not on watch" />  `On watch` action again. Whether you add or remove the animal from the on-watch list by using the `On watch` action is indicated with a small ⊕ or ⊖ sign.
+5. You can remove the animal from the on-watch list again by applying the &nbsp;<img src="/icons/actions/on-watch-minus.svg" width="35" align="bottom" alt="Not on watch" />  `On watch` action again. Whether you add or remove the animal from the on-watch list by using the `On watch` action is indicated with a small ⊕ or ⊖ sign.
 
 {{< tabpane >}}
 {{< tab header="On watch:" text=true disabled=true />}}

@@ -18,11 +18,11 @@ Mit der Aktion `Alarm` setzen Sie Tiere auf die Alarmliste oder entfernen Sie vo
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion &nbsp;<img src="/icons/actions/alarm.svg" width="30" align="bottom" alt="Alarm" /> `Alarm` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ die Aktion &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Alarm" /> `Alarm` aus und bestätigen Sie mit `OK`.
 
-4. Es erscheint eine Meldung, dass das Tier erfolgreich auf die Alarmliste gesetzt wurde und die Anzeige für das Tier in der Kopfzeile ändert sich. Das Symbol &nbsp;<img src="/icons/redhead.svg" width="40" align="bottom" alt="Alarm" /> signalisiert, dass dieses Tier auf der Alarmliste steht.
+4. Es erscheint eine Meldung, dass das Tier erfolgreich auf die Alarmliste gesetzt wurde und die Anzeige für das Tier in der Kopfzeile ändert sich. Das Symbol &nbsp;<img src="/icons/header/animal-in-alarm.svg" width="32" align="bottom" alt="Alarm" /> signalisiert, dass dieses Tier auf der Alarmliste steht.
 
-5. Durch erneutes Anwenden der Aktion &nbsp;<img src="/icons/alertminus.svg" width="40" align="bottom" alt="Alarm" /> `Alarm` entfernen Sie das Tier wieder von der Alarmliste. Ob Sie das Tier durch Verwenden der Aktion `Alarm` zu der Alarmliste hinzufügen oder es entfernen wird Ihnen mit einem kleinen + oder - Zeichen angezeigt.
+5. Durch erneutes Anwenden der Aktion &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Alarm" /> `Alarm` entfernen Sie das Tier wieder von der Alarmliste. Ob Sie das Tier durch Verwenden der Aktion `Alarm` zu der Alarmliste hinzufügen oder es entfernen wird Ihnen mit einem kleinen + oder - Zeichen angezeigt.
 
 {{< tabpane >}}
 {{< tab header="Alarm:" text=true disabled=true />}}

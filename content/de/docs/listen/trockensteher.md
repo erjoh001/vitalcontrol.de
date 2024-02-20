@@ -48,9 +48,9 @@ Innerhalb der Trockensteherliste können Sie direkt für ein individuelles Tier 
 
 3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
 
-4. Sie werden nun aufgefordert den Transponder des Muttertieres zu scannen. Alternativ können Sie auch mit `OK` bestätigen und mit den Pfeiltasten △ ▽ ◁ ▷ die TierID eingeben.
+4. Sie werden nun aufgefordert den Transponder des Muttertieres zu scannen. Alternativ können Sie auch mit `OK` bestätigen und mit den Pfeiltasten △ ▽ ◁ ▷ die ID des Tiers eingeben.
 
-5. Scannen Sie nun den Transponder des Kalbes oder überspringen Sie diesen Schritt mit der Taste <img src="/icons/break.svg" width="25" align="bottom" alt="Abbrechen" /> `F3` sollte das Kalb noch keinen Transponder besitzen. Sie können diesen später über die Funktion `Transponder zuordnen` dem Tier zuordnen.
+5. Scannen Sie nun den Transponder des Kalbes oder überspringen Sie diesen Schritt mit der `F3` Taste `ESC` sollte das Kalb noch keinen Transponder besitzen. Sie können diesen später über die Funktion `Transponder zuordnen` dem Tier zuordnen.
 
 6. Es öffnet sich ein weiteres Einstellungsmenü in dem Sie verschiedene Angaben zu dem neuen Kalb speichern können. Verwenden Sie die Pfeiltasten △ ▽ um die entsprechende Einstellungsoption auszuwählen. Für die Einstellungsoptionen `Art des Nutztieres`, `Geschlecht`, `Geburtsgewicht`, `Rasse`, `Verbleib`, `Einling/Mehrling` und `Geburtsverlauf` verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Einstellung zu wählen. Für die Einstellungsoptionen `Ohrmarkennummer`, `ID` und `Geburtsdatum` wählen Sie die entsprechende Einstellungsoption aus und bestätigen Sie mit `OK`. Verwenden Sie nun die Pfeiltasten △ ▽ ◁ ▷ um die gewünschten Zahlen auszuwählen.
 

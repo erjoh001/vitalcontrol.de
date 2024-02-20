@@ -50,7 +50,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 2. Nutzen Sie die `F3` Taste <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> oder bestätigen Sie mit mit der zentralen Taste `OK` um das Ergebnis abzuspeichern.
 
-    ![VitalControl: Menüfolge Aktionen Datum](../bilder/ergebnisspeichern.png "Datum einstellen")
+    ![VitalControl: Messwert Temperatur abspeichern](../bilder/ergebnisspeichern.png "Temperatur abspeichern")
 
 ### Auf die Beobachtungsliste setzen
 
@@ -60,7 +60,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 3. Es öffnet sich ein Popup-Menü in dem Sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Zur Beobachtungsliste hinzufügen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
-    ![VitalControl: Menüfolge Aktionen Datum](../bilder/beobachtungsliste.png "Datum einstellen")
+    ![Menüfolge 'Auf Beobachtungsliste setzen'](../bilder/beobachtungsliste.png "Auf Beobachtungsliste setzen")
 
 ### Beleuchtung des Messortes an und ausschalten
 
@@ -70,7 +70,7 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 3. Es öffnet sich ein Popup-Menü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Licht` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
-    ![VitalControl: Menüfolge Aktionen Datum](../bilder/beleuchtung.png "Datum einstellen")
+    ![Menüfolge Beleuchtung Messort An/Aus](../bilder/beleuchtung.png "Beleuchtung Messort")
 
 ### Die Messung wiederholen
 
@@ -80,15 +80,15 @@ Wenn die Temperatur im gelben Bereich („erhöht“) oder roten Bereich („Fie
 
 3. Es öffnet sich ein Popup-Menü in dem sie aus den Menüpunkten `Messung wiederholen`, `Zur Beobachtungsliste hinzufügen` und `Licht` auswählen können. Nutzen Sie die Pfeiltasten △ ▽ um `Messung wiederholen` auszuwählen und drücken Sie die Taste `F3` oder bestätigen Sie mit `OK`.
 
-    ![VitalControl: Menüfolge Aktionen Datum](../bilder/wiederholen.png "Datum einstellen")
+    ![Menüfolge Temperaturmessung wiederholen](../bilder/wiederholen.png "Wiederholen")
 
 ### Die Aktion abbrechen
 
 1. Führen Sie die vorbereitenden Schritte durch.
 
-2. Drücken Sie die `F1` <img src="/icons/break.svg" width="25" align="bottom" alt="Abbrechen" /> Taste um die Aktion abzubrechen.
+2. Drücken Sie die `F1` Taste <img src="/icons/footer/cancel.svg" width="30" align="bottom" alt="Abbrechen" /> um die Aktion abzubrechen.
 
-    ![VitalControl: Menüfolge Aktionen Datum](../bilder/ergebnisspeichern.png "Datum einstellen")
+    ![Menüfolge Temperaturmessung abbrechen](../bilder/ergebnisspeichern.png "Abbrechen")
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
