@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Turn the light on your VitalControl device on or off
 date: 2023-07-26
-Kategorien: [Device]
-Tags: [Device]
+categories: [Device]
+tags: [Device]
 translationKey: device/flashlight
 ---
 ## Activate and deactivate light

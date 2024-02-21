@@ -6,8 +6,8 @@ weight: 20
 description: >
  Evaluate your stored data in the Temperature section.
 date: 2023-07-26
-Kategorien: [Evaluation]
-Tags: [Evaluation, Temperature]
+categories: [Evaluation]
+tags: [Evaluation, Temperature]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Hint" %}}

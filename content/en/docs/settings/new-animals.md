@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Here you can adjust several factory-set standards concerning the registration of new animals to the requirements of your farm.
-Kategorien: [settings]
-Tags: [settings, Default values]
+categories: [settings]
+tags: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Set default values

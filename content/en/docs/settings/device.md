@@ -7,8 +7,8 @@ slug: device
 description: >
  Here you can adjust various device settings.
 date: 2023-07-26
-Kategorien: [settings]
-Tags: [settings, device]
+categories: [settings]
+tags: [settings, device]
 translationKey: settings/device
 ---
 ## Shutdown device after

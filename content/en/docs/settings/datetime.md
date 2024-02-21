@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Here, you set the date and time.
-Kategorien: [Settings]
-Tags: [Settings, Date & Time]
+categories: [Settings]
+tags: [Settings, Date & Time]
 translationKey: settings/datetime
 ---
 ## To set the date

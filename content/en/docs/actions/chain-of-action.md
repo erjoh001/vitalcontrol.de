@@ -6,8 +6,8 @@ weight: 50
 description: >
  Applying and setting the chain of action.
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, chain of action]
+categories: [Actions]
+tags: [Actions, chain of action]
 translationKey: actions/chain-of-action
 manualLink: /en/docs/chain-of-actions/
 ---

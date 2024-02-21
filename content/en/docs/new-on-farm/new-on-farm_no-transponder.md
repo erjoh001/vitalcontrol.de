@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Here you assign a transponder to new animals without a transponder.
-Kategorien: [New on farm, transponder]
-Tags: [New on farm, transponder]
+categories: [New on farm, transponder]
+tags: [New on farm, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### New on farm, no transponder

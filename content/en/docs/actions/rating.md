@@ -6,8 +6,8 @@ weight: 30
 description: >
  Rate your animals.
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, Rating]
+categories: [Actions]
+tags: [Actions, Rating]
 translationKey: actions/animal-rating
 ---
 

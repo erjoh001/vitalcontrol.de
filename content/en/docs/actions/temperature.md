@@ -7,7 +7,7 @@ description: >
   Measure fever in your animals.
 date: 2023-07-26
 Categories: [Actions]
-Tags: [Actions, fever, temperature]
+tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 

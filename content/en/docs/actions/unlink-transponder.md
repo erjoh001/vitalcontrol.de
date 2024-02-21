@@ -6,8 +6,8 @@ weight: 110
 description: >
  Remove the transponder link to an animal
 date: 2023-07-26
-Kategorien: [Transponder]
-Tags: [Transponder]
+categories: [Transponder]
+tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Warning" color="warning" %}}

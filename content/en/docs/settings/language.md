@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Set and permanently store the language of the user interface on your VitalControl device.
-Kategorien: [Settings]
-Tags: [Settings, Language]
+categories: [Settings]
+tags: [Settings, Language]
 translationKey: settings/language
 ---
 ## Setting your language

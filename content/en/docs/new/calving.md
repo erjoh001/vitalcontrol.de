@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   How to register a new calving using VitalControl device.
-Kategorien: [Calving]
-Tags: [Calving]
+categories: [Calving]
+tags: [Calving]
 translationKey: new/calving
 ---
 ## Register a calving

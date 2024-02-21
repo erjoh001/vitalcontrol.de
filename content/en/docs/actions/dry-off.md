@@ -6,8 +6,8 @@ weight: 115
 description: >
  Dry off a cow or add her to the fresh cows list
 date: 2023-07-26
-Kategorien: [Dry off]
-Tags: [Dry off]
+categories: [Dry off]
+tags: [Dry off]
 translationKey: actions/dry-cows
 ---
 

@@ -6,8 +6,8 @@ weight: 115
 description: >
  Assign a national animal ID to an animal that does not have a national animal ID
 date: 2023-07-26
-Kategorien: [National animal ID]
-Tags: [National animal ID]
+categories: [National animal ID]
+tags: [National animal ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Warning" color="warning" %}}

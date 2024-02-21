@@ -6,8 +6,8 @@ weight: 110
 description: >
  Register an animal loss.
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, animal-loss]
+categories: [Actions]
+tags: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
 

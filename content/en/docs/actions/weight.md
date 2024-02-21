@@ -6,8 +6,8 @@ weight: 20
 description: >
   Record the weight of your animals.
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, weight]
+categories: [Actions]
+tags: [Actions, weight]
 translationKey: actions/weight
 ---
 

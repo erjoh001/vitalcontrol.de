@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   How to register a new animal using the VitalControl device.
-Kategorien: [New animal]
-Tags: [Register animals]
+categories: [New animal]
+tags: [Register animals]
 translationKey: new/animal
 ---
 ## Create a new animal

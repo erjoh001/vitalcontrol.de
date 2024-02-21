@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Use the barcode scanner to record a variety of animals.
-Kategorien: [Bulk-recording]
-Tags: [Bulk-recording]
+categories: [Bulk-recording]
+tags: [Bulk-recording]
 translationKey: new/bulk-recording
 ---
 ## Bulk-recording

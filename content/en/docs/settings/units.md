@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Here you select units for temperature and mass.
-Kategorien: [settings]
-Tags: [settings, units]
+categories: [settings]
+tags: [settings, units]
 translationKey: settings/units
 ---
 ## Set temperature unit

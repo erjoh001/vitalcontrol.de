@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Set the assignment of the transponder on your VitalControl device.
 date: 2023-07-26
-Kategorien: [settings]
-Tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
+categories: [settings]
+tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
 translationKey: settings/link-transponder
 ---
 ## Set maximum age of purchased calves

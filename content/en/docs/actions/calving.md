@@ -6,8 +6,8 @@ weight: 115
 description: >
  Register a calving
 date: 2023-07-26
-Kategorien: [Calving]
-Tags: [Calving]
+categories: [Calving]
+tags: [Calving]
 translationKey: actions/calving
 ---
 {{% alert title="Hint" %}}

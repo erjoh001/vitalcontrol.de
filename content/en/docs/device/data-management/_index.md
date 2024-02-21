@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Run data backups, export your data and reset the device
 date: 2023-07-26
-Kategorien: [Device, Data export]
-Tags: [Device, Data export]
+categories: [Device, Data export]
+tags: [Device, Data export]
 translationKey: device/data-management
 no_list: true
 maphilight: true

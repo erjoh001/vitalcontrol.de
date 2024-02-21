@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Check out your dry cows list.
-Kategorien: [Lists]
-Tags: [Lists, dry cow]
+categories: [Lists]
+tags: [Lists, dry cow]
 translationKey: lists/dry-cows
 ---
 ## Dry cows list

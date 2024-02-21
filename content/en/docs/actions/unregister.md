@@ -6,8 +6,8 @@ weight: 100
 description: >
  Unregister an animal
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, Unregister]
+categories: [Actions]
+tags: [Actions, Unregister]
 translationKey: actions/unregister
 ---
 {{% alert title="Warning" color="warning" %}}

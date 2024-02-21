@@ -6,8 +6,8 @@ weight: 10
 description: >
  Evaluate your stored data in the Weight section.
 date: 2023-07-26
-Kategorien: [Evaluation]
-Tags: [Evaluation, weight]
+categories: [Evaluation]
+tags: [Evaluation, weight]
 translationKey: evaluation/weight
 ---
 {{% alert title="Hint" %}}

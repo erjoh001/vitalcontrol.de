@@ -7,8 +7,8 @@ weight: 120
 description: >
  Record important aspects of newborn care.
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, newborn care]
+categories: [Actions]
+tags: [Actions, newborn care]
 translationKey: actions/newborn-care
 ---
 

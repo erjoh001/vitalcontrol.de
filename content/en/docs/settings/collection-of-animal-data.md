@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Here you store relevant information for the animal data collection
-Kategorien: [settings]
-Tags: [settings, data acquisition]
+categories: [settings]
+tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
 ---
 ## Set weight recording

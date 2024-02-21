@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Here you can view all animals that have not yet been assigned an national animal ID and assign an national animal ID.
-Kategorien: [New on farm]
-Tags: [New on farm]
+categories: [New on farm]
+tags: [New on farm]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## No national animal ID assigned

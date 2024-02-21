@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  View important information about your herd.
-Kategorien: [Herd]
-Tags: [Herd, Temperature, Weight, Rating, Animal data]
+categories: [Herd]
+tags: [Herd, Temperature, Weight, Rating, Animal data]
 translationKey: herd
 ---
 ## Herd

@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Check out your on watch list.
-Kategorien: [Lists]
-Tags: [Lists, on watch]
+categories: [Lists]
+tags: [Lists, on watch]
 translationKey: lists/on-watch
 ---
 ## On watch list

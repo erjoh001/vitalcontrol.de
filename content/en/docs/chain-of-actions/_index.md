@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Perform multiple animal actions subsequently
-Kategorien: [Chain of actions]
-Tags: [Chain of actions, Actions]
+categories: [Chain of actions]
+tags: [Chain of actions, Actions]
 translationKey: action-chain
 ---
 ## Chain of actions

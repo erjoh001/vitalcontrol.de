@@ -6,8 +6,8 @@ weight: 70
 description: >
  Put animals on the on-watch list or remove them.
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, on watch]
+categories: [Actions]
+tags: [Actions, on watch]
 translationKey: actions/on-watch
 ---
 

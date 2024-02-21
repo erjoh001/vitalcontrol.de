@@ -6,8 +6,8 @@ weight: 90
 description: >
  Edit data of the selected animal.
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, animal data, edit]
+categories: [Actions]
+tags: [Actions, animal data, edit]
 translationKey: actions/edit
 ---
 

@@ -6,8 +6,8 @@ weight: 80
 description: >
  View an animal's history.
 date: 2023-07-26
-Kategorien: [Actions]
-Tags: [Actions, Animal history]
+categories: [Actions]
+tags: [Actions, Animal history]
 translationKey: actions/animalshistory
 ---
 

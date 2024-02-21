@@ -6,8 +6,8 @@ weight: 30
 description: >
  Evaluate your stored data in the rating section.
 date: 2023-07-26
-Kategorien: [Evaluation]
-Tags: [Evaluation, Rating]
+categories: [Evaluation]
+tags: [Evaluation, Rating]
 translationKey: evaluation/rating
 ---
 {{% alert title="Hint" %}}

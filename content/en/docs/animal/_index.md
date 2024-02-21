@@ -8,7 +8,7 @@ slug: animal
 description: >
  View important information related to individual animals.
 Categories: [Animal]
-Tags: [Animal, Temperature, Height, Animal data]
+tags: [Animal, Temperature, Height, Animal data]
 translationKey: animal/animal
 ---
 ## Animal

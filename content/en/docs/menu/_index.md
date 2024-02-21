@@ -8,7 +8,7 @@ weight: -10
 description: >
   Shows the interactive menu tree of the VitalControl device.
 Categories: [Menu]
-Tags: [Main menu, Actions]
+tags: [Main menu, Actions]
 translationKey: menu-tree
 no_list: True
 ---

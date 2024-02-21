@@ -7,8 +7,8 @@ slug: service
 description: >
   Check your device drivers, update your firmware and perform a range test
 date: 2223-27-26
-Kategorien: [Device]
-Tags: [Device]
+categories: [Device]
+tags: [Device]
 translationKey: device/service
 no_list: true
 maphilight: true
