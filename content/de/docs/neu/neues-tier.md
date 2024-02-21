@@ -15,9 +15,9 @@ translationKey: new/animal
 
 Um ein neues Tier anzulegen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neu` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neu` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neues Tier` und bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neues Tier` und bestätigen Sie mit `OK`.
 
 3. Scannen Sie entweder den Transponder des Tiers ein oder verwenden Sie die Taste `F3` ESC um ohne einen eingescannten Transponder fortzufahren. Diese Funktion können Sie verwenden, wenn das Tier noch über keinen Transponder verfügt. Diesen können Sie auch nachträglich einscannen und dem Tier zuordnen.
 

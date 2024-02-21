@@ -40,7 +40,7 @@ The alarm list is structured as follows:
 
 1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
-2. A submenu opens in which various lists are displayed. Select the <img src="/icons/alarmlist.svg" width="25" align="bottom" alt="Alarm" /> `Alarm` list. Confirm with `OK`.
+2. A submenu opens in which various list icons are displayed. Highlight the icon <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Alarm` and confirm with `OK`.
 
 3. The alarm list is now open.
 

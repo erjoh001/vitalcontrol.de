@@ -8,7 +8,7 @@ no_list: true
 maphilight: true
 ---
 
-Über den Hauptmenüpunkt <img src="/icons/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neu` gelangen Sie zu einem Untermenü, dort werden ihnen 5 Unterpunkte zur Auswahl angeboten:
+Über den Hauptmenüpunkt <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Neues Tier" /> `Neu` gelangen Sie zu einem Untermenü, dort werden ihnen 5 Unterpunkte zur Auswahl angeboten:
 
 <img src="bilder/neu2.png" alt="VitalControl Neu" title="Neu" usemap="#workmap" class="maphilight" />
 

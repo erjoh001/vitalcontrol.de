@@ -21,9 +21,9 @@ You can use this function if you want to register animals with a consecutive tra
 
 To create several new animals, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
 
-2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/neueTiere.svg" width="35" align="bottom" alt="New animals" /> `New animals` and confirm with `OK`.
+2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="New animals" /> `New animals` and confirm with `OK`.
 
 3. Either scan the animal's transponder or use the `F3` ESC key to continue without a scanned transponder. You can use this function if the animal does not yet have a transponder. You can scan this later and assign it to the animal.
 

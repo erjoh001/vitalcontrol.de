@@ -15,7 +15,7 @@ translationKey: new/calving
 
 To register a calving, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
 
 2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving" /> `Calving` and confirm with `OK`.
 

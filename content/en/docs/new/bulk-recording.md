@@ -17,7 +17,7 @@ With the help of mass access, you can capture a large number of animals in a sho
 
 1. Connect the barcode scanner to the VitalControl using the cable.
 
-2. On the main screen of your VitalControl device, select the menu item <img src="/icons/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
+2. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
 
 3. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" /> `Bulk recording` and confirm with `OK`.
 
