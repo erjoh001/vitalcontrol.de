@@ -32,7 +32,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste <img src="/icons/actionlist.svg" width="25" align="bottom" alt="Aktion" />  `Aktion` aus. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Listensymbole angezeigt werden. Wählen Sie das Symbol <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Aktionsliste" />  `Aktionsliste` aus. Bestätigen Sie mit `OK`.
 
 3. Die Aktionsliste ist nun geöffnet.
 

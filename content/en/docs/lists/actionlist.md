@@ -17,10 +17,10 @@ Within the action list you can see the animals for which no action has been take
 
 - [Take temperature](../alarm/#take-temperature)
 - [Rate animals](../alarm/#rate-animal)
-- [Weigh animals](../actions/#weigh-animals)
-- [Chain of actions](../actions/#chain-of-action)
-- [Link transponder](../actions/#link-transponder)
-- [Hide after action](../actions/#hide-after-action)
+- [Weigh animals](#weigh-animals)
+- [Chain of actions](#chain-of-action)
+- [Link transponder](#link-transponder)
+- [Hide after action](#hide-after-action)
 - [Search animal](../alarm/#search-animal)
 - [Set filter](../alarm/#set-filter)
 
@@ -32,7 +32,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" />  `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
-2. A submenu opens in which various lists are displayed. Select the  <img src="/icons/actionlist.svg" width="25" align="bottom" alt="Action" /> `action` list. Confirm with `OK`.
+2. A submenu opens in which various list icons are displayed. Highlight the icon <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Action list" /> `Action list` and confirm with `OK`.
 
 3. The action list is now open.
 
