@@ -29,7 +29,7 @@ To view the animal history, proceed as follows:
 
 6. The selected information page will be presented to you.
 
-7. Use the &nbsp;<img src="/icons/graphik.svg" width="40" align="bottom" alt="Depiction" /> `On/Off` button to switch between the table &nbsp;<img src="/icons/tabelle.svg" width="40" align="bottom" alt="Table display" /> and graph display &nbsp;<img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Chart display" />&nbsp;.
+7. Use the middle `On/Off` button <img src="/icons/footer/on-off.svg" width="18" align="bottom" alt="On/Off button" />&nbsp; to switch between the list <img src="/icons/footer/list.svg" width="20" align="bottom" alt="Liste display" /> and graph <img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Chart display" />&nbsp; display .
 
 {{< tabpane >}}
 {{< tab header="Animal history:" text=true disabled=true />}}

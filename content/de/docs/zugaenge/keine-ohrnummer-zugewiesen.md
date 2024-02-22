@@ -21,7 +21,7 @@ Innerhalb dieser Liste finden Sie alle Tiere denen noch keine Ohrmarkennummer zu
 
 3. Es öffnet sich eine Liste mit Ihren Tieren, denen noch keine Ohrmarkennummer zugewiesen wurde.
 
-4. Wählen Sie mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie Tier ein suchen. Verwenden Sie die <img src="/icons/ohrmarke.svg" width="40" align="bottom" alt="Ohrmarke" /> `An/Aus` Taste und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
+4. Wählen Sie mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie Tier ein suchen. Drücken Sie dazu die mittlere `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Ohrmarke" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern der Ohrmarkennummer auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
 5. Es öffnet sich ein Untermenü in denen Sie alle Daten für das Tier bearbeiten können. Der Menüpunkt `Ohrmarkennummer` ist automatisch ausgewählt.
 
