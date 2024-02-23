@@ -38,6 +38,6 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 acz=(function(){var A=index;var C={};
 
 
-C._Init=function(){};C._ReInit=function(){};C.DB=function(D){};return C;})();
+C._Init=function(){};C._ReInit=function(){};C.Dz=function(D){};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
