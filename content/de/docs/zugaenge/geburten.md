@@ -23,11 +23,11 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
 2. Es öffnet sich ein Untermenü in dem Sie zwischen <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Zukäufe, kein Transponder" /> `Zukäufe, kein Transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zukäufe" /> `Zukäufe`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Keine Ohrmarkennummer zugewiesen" /> `Keine Ohrmarkennummer zugewiesen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Geburten" /> `Geburten` und <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Kein Transponder zugewiesen" /> `Kein Transponder zugewiesen` auswählen können. Verwenden Sie die Pfeiltasten ◁ ▷ △ ▽ um den Menüpunkt <img src="/icons/main/births.svg" width="40" align="bottom" alt="Geburten" />  `Geburten` auszuwählen und bestätigen Sie mit `OK`.
 
-3. Es öffnet sich eine Liste mit all Ihren Geburten.
+3. Es öffnet sich eine Liste mit allen Geburten in ihrer Herde.
 
-4. Verwenden Sie die <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3` Taste. Es öffnet sich ein Untermenü.
+4. Drücken Sie die `F3` Taste `CSV-Export HI-Tier`. Es öffnet sich ein Untermenü, dort ist der Menüpunkt `HIT-Meldeliste exportieren` bereits ausgewählt.
 
-5. Wählen Sie mit den Pfeiltasten  △ ▽ den Menüpunkt `HIT-Meldeliste exportieren` und bestätigen Sie mit `OK`.
+5. Drücken Sie die Taste `OK`, um den Export der CSV-Datei zu starten.
 
 6. Die Meldeliste ist nun als CSV-Datei auf ihrem USB-Stick gespeichert. Alle Tiere aus der Liste `Geburten` sind gelöscht.
 

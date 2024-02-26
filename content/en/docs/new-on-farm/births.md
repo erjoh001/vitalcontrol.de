@@ -25,7 +25,7 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
 3. A list with all your births opens.
 
-4. Use the <img src="/icons/exportGeburten.svg" width="40" align="bottom" alt="F3" /> `F3` key. A submenu opens.
+4. Use the `F3` key `Export birth list`. A submenu opens.
 
 5. Use the arrow keys △ ▽ to select the menu item `Export csv list of births` and confirm with `OK`.
 

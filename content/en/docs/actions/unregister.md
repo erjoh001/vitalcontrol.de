@@ -16,7 +16,7 @@ As soon as you delete the animal data record, it is no longer available for eval
 
 ## Unregister
 
-The action `unregister` allows you to deregister an animal as soon as it is moved out. To deregister an animal, proceed as follows:
+The action `Unregister` allows you to deregister an animal as soon as it is moved out. To deregister an animal, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
 
@@ -26,7 +26,7 @@ The action `unregister` allows you to deregister an animal as soon as it is move
 
 4. Another submenu opens in which you can save various settings. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
 
-5. Use the &nbsp;<img src="/icons/unregisterword.svg" width="40" align="bottom" alt="Unregister" /> `F3` key to deregister the animal with the specified settings.
+5. Use the key `F3` `Unregister` to deregister the animal with the specified settings.
 
 {{< tabpane >}}
 {{< tab header="Unregister:" text=true disabled=true />}}

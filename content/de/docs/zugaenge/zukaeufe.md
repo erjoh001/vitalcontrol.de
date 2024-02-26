@@ -25,7 +25,7 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
 3. Es öffnet sich eine Liste mit Ihren Zukäufen, die Sie über den Menüpunkt Massenzugang registriert haben.
 
-4. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> `An/Aus` Taste und die Pfeiltasten ◁ ▷ um zwischen der Exportdatei für DSP-Herde und HI-Tier auszuwählen. Speichern Sie ihre Einstellungen mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp;.
+4. Drücken Sie die mittlere `An/Aus` Taste <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> um ein Popup-Menü zu öffnen. Wählen Sie mittels der Pfeiltasten ◁ ▷ aus, ob die Exportdatei für die Registrierung bei HI-Tier oder für den Import beim Programm `DSP-Herde` bestimmt ist. Speichern Sie ihre Einstellung mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp;.
 
 5. Drücken Sie `F3` Taste `CSV-Export`. Es öffnet sich ein Untermenü.
 
