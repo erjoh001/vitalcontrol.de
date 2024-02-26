@@ -44,7 +44,7 @@ Die Beobachtungsliste ist wie folgt aufgebaut:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
-2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste <img src="/icons/onwatch.svg" width="25" align="bottom" alt="Beobachtung" /> `Beobachtung` aus. Bestätigen Sie mit `OK`.
+2. Es öffnet sich ein Untermenü in dem verschiedene Listen angezeigt werden. Wählen Sie die Liste &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="Beobachtungsliste" /> `Beobachtung` aus. Bestätigen Sie mit `OK`.
 
 3. Die Beobachtungsliste ist nun geöffnet.
 

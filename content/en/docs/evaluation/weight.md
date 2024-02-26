@@ -27,7 +27,7 @@ To perform the evaluation, proceed as follows:
 
 2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
 
-3. The evaluation options for the Weight section now appear. Select the evaluation option &nbsp;<img src="/icons/todayweight.svg" width="40" align="bottom" alt="Today's weighing" />&nbsp; `Today´s weighing` and confirm with `OK`. The device now begins to calculate the success variables.
+3. The evaluation options for the Weight section now appear. Select the evaluation option &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Today's weighing` and confirm with `OK`. The device now begins to calculate the success variables.
 
 4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
 
@@ -64,7 +64,7 @@ To perform the evaluation, proceed as follows:
 
 2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
 
-3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/weightdevelopment.svg" width="40" align="bottom" alt="Weight development" />&nbsp; `Weight development` and confirm with `OK`. The device now starts to calculate the success variables.
+3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Weight development" />&nbsp; `Weight development` and confirm with `OK`. The device now starts to calculate the success variables.
 
 4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
 
