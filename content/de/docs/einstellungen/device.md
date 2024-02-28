@@ -23,7 +23,7 @@ Um die Zeitspanne der nicht Aktivität bis zum Abschalten des Gerätes einzustel
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Dauer in Minuten einzustellen.
 
-    ![VitalControl: Menüfolge Einstellung Gerät Gerät abschalten nach](../bilder/gerätabschaltennach.png "Gerät abschalten nach einstellen")
+    ![VitalControl: Menüfolge Einstellung Gerät Gerät abschalten nach](../bilder/geraetabschaltennach.png "Gerät abschalten nach einstellen")
 
 ## Startbildschirm einstellen
 
@@ -52,7 +52,7 @@ wenn keine Tiere für eine Messung zur Verfügung stehen. Um den Präsentationsm
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um den Präsentationsmodus zu de- bzw. aktivieren.
 
-    ![VitalControl: Menüfolge Einstellung Gerät Präsentationsmodus](../bilder/präsentationsmodus.png "Präsentationsmodus einstellen")
+    ![VitalControl: Menüfolge Einstellung Gerät Präsentationsmodus](../bilder/praesentationsmodus.png "Präsentationsmodus einstellen")
 
 ## Helligkeit des Displays einstellen
 
@@ -96,7 +96,5 @@ Um den Ressourcenmonitor des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt
 
     ![VitalControl: Menüfolge Einstellung Ressourcenmonitor](../bilder/ressourcenmonitor.png "Ressourcenmonitor einstellen")
 
-## Speichern und zurück zum Obermenü Einstellungen
-
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
-
+<br>
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.

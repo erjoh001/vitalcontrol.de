@@ -182,13 +182,13 @@ Hier definieren Sie, welche Länge eine von der Transpondernummer abgeleitete St
 
 5. Nutzen Sie die Pfeiltasten ◁ ▷ um die Länge der neuen ID des Nutztieres beim Anlegen einzustellen.
 
-    ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Neue ID: Länge](../bilder/neueidlänge.png "Neue ID: Länge einstellen")
+    ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Neue ID: Länge](../bilder/neueidlaenge.png "Neue ID: Länge einstellen")
 
 ### Offset rechts einstellen
 Hier legen Sie fest, ob bei der Ableitung einer Stallnummer aus der Transpondernummer auch ein Offset berücksichtigt wird. Ohne Offset werden die letzten 2-6 Ziffern der Transpondernummer als stabile Nummer verwendet, bei einem Offset von 1 wird die Ziffer ganz rechts verworfen, bei einem Offset von 2 die beiden Ziffern ganz rechts usw.
 
 {{% alert title = "Tipp" %}}
-Zur grafischen Veranschaulichung der Wirkung der eingestellten Parameter ist unterhalb der Zeile für die Einstellung des Offsets eine fünfzehnstellige Transpodernummer angezeigt. Über eine grüne Umrahmung ist die Stallnummer gekennzeichnet, die mit den aktuellen Einstellungen aus der Transpondernummer abgeleitet würde. Einer Änderung der Einstellungswerte „Länge“ und „Offset“
+Zur grafischen Veranschaulichung der Wirkung der eingestellten Parameter ist unterhalb der Zeile für die Einstellung des Offsets eine fünfzehnstellige Transpondernummer angezeigt. Über eine grüne Umrahmung ist die Stallnummer gekennzeichnet, die mit den aktuellen Einstellungen aus der Transpondernummer abgeleitet würde. Einer Änderung der Einstellungswerte „Länge“ und „Offset“
 führt unmittelbar zu einer Aktualisierung der abgeleiteten Stallnummer.
 {{% /alert %}}
 
