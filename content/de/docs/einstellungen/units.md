@@ -23,7 +23,7 @@ Um die Temperatureinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Temperatureinheit auszuwählen.
 
-    ![VitalControl: Menüfolge Einstellung Datum](../bilder/temperature.png "Datum einstellen")
+    ![VitalControl: Menüfolge Einstellung Temperatureinheit](../bilder/temperature.png "Temperatureinheit einstellen")
 
 ## Masseneinheit festlegen
 
@@ -37,7 +37,7 @@ Um die Masseneinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Masseneinheit auszuwählen.
 
-    ![VitalControl: Menüfolge Einstellung Datum](../bilder/degree.png "Datum einstellen")
+    ![VitalControl: Menüfolge Einstellung Masseneinheit](../bilder/degree.png "Masseneinheit einstellen")
 
 ## Speichern und zurück zum Obermenü Einstellungen
 

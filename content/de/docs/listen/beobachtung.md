@@ -34,11 +34,11 @@ Die Beobachtungsliste ist wie folgt aufgebaut:
 
 |Symbol   | Beschreibung
 |-------  |----
-   ![VitalControl Listen Alarmliste](../bilder/kopf.png "Kopf") | Zeigt wie viele Tiere auf der Liste stehen
+| ![VitalControl Listen Alarmliste](../bilder/kopf.png "Zähler Herdengröße") | Zeigt wie viele Tiere auf der Liste stehen
 | ![VitalControl Listen Alarmliste](../bilder/kopf2.png "ID") | Zeigt ob das ausgewählte Tier ein Kalb oder eine Kuh ist
 | ![VitalControl Listen Alarmliste](../bilder/auge.png "Bewertung") | Unterhalb des Symbols wird die letzte erfasste Bewertung mit den Farben des Ampelsystems dargestellt
-|![VitalControl Listen Alarmliste](../bilder/thermometer.png "Thermometer") | Unterhalb des Symbols wird die letzte erfasste Fiebermessung mit den Farben des Ampelsystems dargestellt
-|![VitalControl Listen Alarmliste](../bilder/alarm2.png "Bewertung") | Die Kreismarkierung unterhalb des Symbols zeigt, dass das Tier auf der Alarmliste steht
+| &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Körpertemperatur" title="Körpertemperatur" /> | Unterhalb des Symbols wird die letzte erfasste Fiebermessung mit den Farben des Ampelsystems dargestellt
+| &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Anzeige Tieralarm" title="Tieralarm" /> | Eine Kreismarkierung unterhalb des Symbols zeigt an, dass das Tier auf der Alarmliste steht
 
 ### Vorbereitende Schritte
 

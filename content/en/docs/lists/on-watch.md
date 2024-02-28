@@ -33,12 +33,12 @@ The alarm list is structured as follows:
    ![VitalControl Lists On wacht list](../images/onwatchstructure.png "Structure of the on watch list")
 
 |Symbol   | Description
-|-------  |----
-   ![VitalControl Lists On-watch list](../images/kopf.png "Head") | Shows how many animals are on the list
-| ![VitalControl Lists On-watch list](../images/kopf2.png "ID") | Shows whether the selected animal is a calf or a cow
+|---------|-----
+| ![VitalControl Lists On-watch list](../images/kopf.png "Counter herd size") | Shows how many animals are on the list
+| ![Icon for cow](../images/kopf2.png "Cow head") | Shows whether the selected animal is a calf or a cow
 | ![VitalControl Lists On-watch list](../images/auge.png "Rating") | The last recorded rating is shown below the symbol with the colors of the traffic light system
-|![VitalControl Lists On-watch list](../images/thermometer.png "Thermometer") | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
-|![VitalControl Lists On-watch list](../images/alarm2.png "Alarm") | The circle mark below the symbol shows that the animal is on the alarm list
+| &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Body temperature" title="Body temperature" /> | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
+| &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Display animal on alarm" title="Animal on alarm" /> | A circle mark below the symbol indicates that the animal is on the alarm list
 
 ### Preliminary Steps
 

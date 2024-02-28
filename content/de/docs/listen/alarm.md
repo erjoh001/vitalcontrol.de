@@ -29,12 +29,12 @@ Die Alarmliste ist wie folgt aufgebaut:
    ![VitalControl Listen Alarmliste](../bilder/alarmbeschreibung.png "VitalControl: Alarmliste")
 
 |Symbol   | Beschreibung
-|-------  |----
-   ![VitalControl Listen Alarmliste](../bilder/kopf.png "Kopf") | Zeigt wie viele Tiere auf der Liste stehen
+|---------|----
+| ![VitalControl Listen Alarmliste](../bilder/kopf.png "Kopf") | Zeigt wie viele Tiere auf der Liste stehen
 | ![VitalControl Listen Alarmliste](../bilder/ID.png "ID") | Zeigt ob das ausgewählte Tier ein Kalb oder eine Kuh ist. Das Fieberthermometer stellt dar, ob sich das Tier bei der letzten Messung im gelben oder roten Bereich befunden hat. Unterhalb des Symbols wird die Tier-ID angezeigt.
 | ![VitalControl Listen Alarmliste](../bilder/auge.png "Bewertung") | Unterhalb des Symbols wird die letzte erfasste Bewertung mit den Farben des Ampelsystems dargestellt
-|![VitalControl Listen Alarmliste](../bilder/thermometer.png "Thermometer") | Unterhalb des Symbols wird die letzte erfasste Fiebermessung mit den Farben des Ampelsystems dargestellt
-|![VitalControl Listen Alarmliste](../bilder/auge2.png "Bewertung") | Die Kreismarkierung unterhalb des Symbols zeigt, dass das Tier auf der Beobachtungsliste steht
+| &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Körpertemperatur" title="Körpertemperatur" /> | Unterhalb des Symbols wird die letzte erfasste Fiebermessung mit den Farben des Ampelsystems dargestellt
+|&nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Bewertung des Tieres" title="Tierbewertung" /> | Die Kreismarkierung unterhalb des Symbols zeigt, dass das Tier auf der Beobachtungsliste steht
 
 ### Vorbereitende Schritte
 

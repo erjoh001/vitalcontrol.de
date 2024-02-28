@@ -68,7 +68,7 @@ To do so, clone the latest version of the docsy theme into the parent folder of 
 
 ```shell
 cd /path/to/your/projects/
-git clone --branch v0.7.1 https://github.com/google/docsy.git ../docsy
+git clone --branch v0.9.1 https://github.com/google/docsy.git ../docsy
 ```
 
 Now open the file `hugo.work`, located in the root of your site repo.
@@ -77,6 +77,7 @@ Uncomment the last line of this file, the content should look like this:
 ```
 // running docsy theme locally (troubleshooting)
 // uncomment line below for troubleshooting purposes
+use .
 use ../docsy/
 ```
 
