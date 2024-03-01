@@ -10,8 +10,21 @@ description: >
 categories: [settings]
 tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
+maphilight: true
 ---
-## Set weight recording
+## Overview
+
+Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Tierdatenerfassung auf:
+
+<img src="../images/animaldataacquisition.png" alt="Acquisition of animal data" title="Acquisition of animal data" usemap="#workmap-overview" class="maphilight" />
+
+<map name="workmap-overview">
+  <area shape="rect" coords="3,40,237,80" alt="Weight recording" title="Untermenü: Einstellungen zur Gewichtserfassung&#10;Mouse click: open documentation" href="#settings-weight-recording">
+  <area shape="rect" coords="3,80,237,160" alt="Modus Tierbewertung" title="Stellen Sie den Modus der Tierbewertung ein&#10;Mouse click: open documentation" href="#mode-of-animal-rating">
+  <area shape="rect" coords="3,160,237,240" alt="Length control period fresh cows" title="Legen Sie die Länge der Kontrollperiode für Frischmelker fest&#10;Mouse click: open documentation" href="#set-control-period-fresh-cows">
+</map>
+
+## Settings *Weight recording*
 ### Set daily weight gain
 
 {{% alert title="Hint" %}}
@@ -70,11 +83,37 @@ To set the `average daily weight gain` on your device proceed as follows.
 
     ![VitalControl: menu settings average daily weight gain](../images/averagedailyweightgain.png "Average daily weight gain")
 
-### Save and return to the top menu Data acquisition
+### Precision of weight recording
 
-- Save the settings and return to the top menu `Data acquisition` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+{{% alert title="Explanation" %}}
+Depending on the use case and animal species (*lamb*, *calf*, *cow*), there are different requirements regarding the resolution of the weight value to be recorded (accuracy of *10 g*, *100 g* or *1 kg*). To meet these requirements one is required to make use of the *Maximum accuracy* setting.
+{{% /alert %}}
 
-## Set Rating of animals
+The table below shows the precision of weight recording depending on the weight range and the setting stipulated for 'Maximum accuracy':
+
+| Setting *Maximum precision*:         |  10 g | 100 g | 1 kg |
+|---------------------------------------------|-------|-------|------| 
+| Precision in the range of *0 to 9,9 kg*:   | 10 g  | 100 g | 1 kg | 
+| Precision in the range of *10 to 49,9 kg*:  | 100 g | 100 g | 1 kg |
+| Precision in the range of *50 to 99,9 kg*:  | 500 g | 500 g | 1 kg |
+| Precision for values *≥ 100 kg*:        | 1 kg  | 1 kg  | 1 kg |
+
+Um die maximale Genauigkeit der Gewichtserfassung auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button..
+
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
+
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
+
+4. Use the arrow keys △ ▽ to select the setting field `Maximum precision`. Use the arrow keys ◁ ▷ to set the desired maximum precision. Precision of weight recording on the device now follows the stipulated setting.
+
+    ![VitalControl: menu path settings maximum precision weight recording](../images/precisionweightrecording.png "Stipulate maximum precision of weight recording.")
+
+<br>
+Save the settings and return to the top menu `Data acquisition` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+
+## Mode of animal rating
 
 {{% alert title="Hint" %}}
 In the simple mode, only the general condition is queried during the animal evaluation (green/yellow/red). In the extended evaluation, 4 evaluation categories are queried: general condition, feed consumption, diarrhea and respiratory disease.
@@ -109,6 +148,5 @@ To set the `Control period fresh cows` on your device proceed as follows.
 
     ![VitalControl: menu settings control period fresh cows](../images/controlperiodfreshcows.png "Control period fresh cows")
 
-## Save and return to the top menu Settings
-
-- Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+<br>
+Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

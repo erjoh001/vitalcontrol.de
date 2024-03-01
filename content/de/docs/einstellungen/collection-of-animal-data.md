@@ -111,7 +111,7 @@ Um die für den Gewichtsvorschlag genutzte `mittlere tägliche Zunahme` auf ihre
 ### Genauigkeit der Gewichtserfassung
 
 {{% alert title="Erläuterung" %}}
-Ja nach Anwender und Tierart (Lamm, Kalb, Kuh)  treten unterschiedliche Anforderungen auf, mit welcher Auflösung  der Gewichtswert erfasst werden soll (auf 10, auf 100 g oder auf 1 kg genau). Die entsprechende Einstellung kann im Einstellungsmenü 'Maximale Genauigkeit' vorgenommen werden.
+Je nach Anwendungsfall und Tierart (Lamm, Kalb, Kuh)  treten unterschiedliche Anforderungen auf, mit welcher Auflösung  der Gewichtswert erfasst werden soll (auf 10, auf 100 g oder auf 1 kg genau). Die entsprechende Einstellung kann im Einstellungsmenü 'Maximale Genauigkeit' vorgenommen werden.
 {{% /alert %}}
 
 Die untenstehende Tabelle zeigt die Präzision der Gewichtserfassung im Abhängigkeit vom Gewichtsbereich und der getätigten Einstellung für die `Maximale Genauigkeit`:
@@ -121,7 +121,7 @@ Die untenstehende Tabelle zeigt die Präzision der Gewichtserfassung im Abhängi
 | Präzision im Bereich von *0 bis 9,9 kg*:    | 10 g  | 100 g | 1 kg | 
 | Präzision im Bereich von *10 bis 49,9 kg*:  | 100 g | 100 g | 1 kg |
 | Präzision im Bereich von *50 bis 99,9 kg*:  | 500 g | 500 g | 1 kg |
-| Präzision im Bereich *über 100 kg*:         | 1 kg  | 1 kg  | 1 kg |
+| Präzision für Werte *über 100 kg*:         | 1 kg  | 1 kg  | 1 kg |
 
 Um die maximale Genauigkeit der Gewichtserfassung auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -172,7 +172,7 @@ Um die Länge der Kontrollperiode für die Frischmelker auf ihrem Gerät festzul
 
 4. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte Kontrolldauer in Tagen post partum einzustellen.
 
-    ![VitalControl: Menüfolge Einstellung Kontrolle Frischmelker](../bilder/kontrollefrischmelker.png "Kontrollefrischmelker einstellen")
+    ![VitalControl: Menüfolge Einstellung Kontrolle Frischmelker](../bilder/kontrollefrischmelker.png "Kontrollperiode Frischmelker einstellen")
 
 <br>
 Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und Zurück" /> zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
