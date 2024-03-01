@@ -12,9 +12,9 @@ Tags: [Einstellungen, Tiere neu anlegen]
 translationKey: settings/new-animals
 ---
 ## Standardwerte festlegen
-### Erfasste Gewichte(e) einstellen
+### Erfasste Gewicht(e) einstellen
 
-Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb erfasst und abgespeichert wird. Um das Erfasste Gewicht auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb erfasst und abgespeichert wird. Um die zu erfassenden Gewichte auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt  <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 

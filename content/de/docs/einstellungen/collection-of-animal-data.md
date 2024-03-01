@@ -12,13 +12,13 @@ Tags: [Einstellungen, Einheiten]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Verfügbare Einstellungen
+## Übersicht
 
-Die nachfolgende Grafik listet die verfügbaren Einstellungen auf:
+Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Tierdatenerfassung auf:
 
-<img src="../bilder/tierdatenerfassung.png" alt="Tierdatenerfassung" title="Tierdatenerfassung" usemap="#workmap" class="maphilight" />
+<img src="../bilder/tierdatenerfassung.png" alt="Tierdatenerfassung" title="Tierdatenerfassung" usemap="#workmap-uebersicht" class="maphilight" />
 
-<map name="workmap">
+<map name="workmap-uebersicht">
   <area shape="rect" coords="3,40,237,80" alt="Gewichtserfassung" title="Untermenü: Einstellungen zur Gewichtserfassung&#10;Mausklick: zur Dokumentation" href="#einstellungen-zur-gewichtserfassung">
   <area shape="rect" coords="3,80,237,160" alt="Modus Tierbewertung" title="Stellen Sie den Modus der Tierbewertung ein&#10;Mausklick: zur Dokumentation" href="#modus-der-tierbewertung">
   <area shape="rect" coords="3,160,237,240" alt="Länge Kontrollperiode Frischmelker" title="Legen Sie die Länge der Kontrollperiode für Frischmelker fest&#10;Mausklick: zur Dokumentation" href="#kontrollperiode-frischmelker">
@@ -30,9 +30,20 @@ Bewegen Sie den Mauszeiger über eine Zeile in der obigen Grafik und lassen ihn 
 
 ## Einstellungen zur Gewichtserfassung
 
+Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Tierdatenerfassung auf:
+
+<img src="../bilder/gewichtserfassung.png" alt="Menüpunkte Einstellungen Gewichtserfassung" title="Einstellungen Gewichtserfassung" usemap="#workmap-gewicht" class="maphilight" />
+
+<map name="workmap-gewicht">
+  <area shape="rect" coords="3,40,237,200" alt="Schwellenwerte Zunahmen" title="Legen Sie die bei der Bewertung der Zunahmen genutzten Schwellenwerte fest&#10;Mausklick: zur Dokumentation" href="#bewertung-der-täglichen-zunahmen-schwellenwerte">
+  <area shape="rect" coords="3,200,237,280" alt="Geburtsgewicht" title="Legen Sie das beim Anlegen neuer Tiere genutzte Geburtsgewicht fest&#10;Mausklick: zur Dokumentation" href="#geburtsgewicht">
+  <area shape="rect" coords="3,280,237,360" alt="Mittlere tägliche Zunahme" title="Legen Sie zur Gewichtsschätzung genutzten mittleren täglichen Zunahmen fest&#10;Mausklick: zur Dokumentation" href="#mittlere-tägliche-zunahme">
+  <area shape="rect" coords="3,360,237,440" alt="Genauigkeit Gewichtserfassung" title="Legen Sie die Genauigkeit der Gewichtserfassung fest&#10;Mausklick: zur Dokumentation" href="#genauigkeit-der-gewichtserfassung">
+</map>
+
 ### Bewertung der täglichen Zunahmen: Schwellenwerte
 
-{{% alert title="Hinweis" %}}
+{{% alert title="Erläuterung" %}}
 Das rote Feld zeigt den Bereich "kritische zu niedrige Gewichtszunahme". Das gelbe Feld zeigt den Bereich "suboptimale Gewichtszunahme".
 {{% /alert %}}
 
@@ -53,12 +64,8 @@ Um die Schwellenwerte für die Bewertung der täglichen Zunahme anzupassen gehen
     ![VitalControl: Menüfolge Einstellung Schwellenwerte tägliche Zunahme](../bilder/schwellenwertebewertungzunahmen.png "Schwellenwerte tägliche Zunahmen")
 
 ### Geburtsgewicht
-{{% alert title="Warnung" color="warning" %}}
-Beim Standard-Geburtsgewicht handelt es sich nur um einen Näherungswert, welcher beim Neu-Anlegen eines Tieres individuell angepasst werden muss.
-Wenn Sie diese Anpassung nicht vornehmen wollen oder wenn Sie Tiere automatisch im Hintergrund anlegen, sollte beim Neuanlegen eines Tieres kein Geburtsgewicht abgefragt bzw. abgespeichert werden. Dies kann in den Einstellungen zum „Tiere neu anlegen“ vereinbart werden.
-{{% /alert %}}
 
-Um das `Geburtsgewicht` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Das Gerät verwendet das hier in den Einstellungen hinterlegte Geburtsgewicht als Vorgabewert beim Anlegen neuer Tiere. Um ggf. das individuelle Geburtsgewicht eines neu geborenen Tieres schneller auswählen zu können, besteht die Möglichkeit, diesen Vorgabewert betriebsindividuell anzupassen. Für diese Anpassung des Wert für das `Geburtsgewicht` gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
@@ -66,17 +73,30 @@ Um das `Geburtsgewicht` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
 
-4. Nutzen Sie die Pfeiltasten △ ▽ um das Einstellungsfeld `Geburtsgewicht` auszuwählen und nutzen Sie die Pfeiltasten ◁ ▷ um das gewünschte Geburtsgewicht einzustellen. Das Gerät verwendet das hier definierte Geburtsgewicht nun als Standard beim Anlegen neuer Tiere. Das individuelle Geburtsgewicht eines neu geborenen Tieres lässt sich dann schneller auswählen.
+4. Nutzen Sie die Pfeiltasten △ ▽ um das Einstellungsfeld `Geburtsgewicht` auszuwählen und nutzen Sie die Pfeiltasten ◁ ▷ um das gewünschte Geburtsgewicht einzustellen. Das Gerät verwendet das hier definierte Geburtsgewicht nun als Standard beim Anlegen neuer Tiere. 
 
     ![VitalControl: Menüfolge Einstellung Tierdaten Geburtsgewicht](../bilder/geburtsgewicht.png "Geburtsgewicht einstellen")
 
-### Mittlere tägliche Zunahme
-
-{{% alert title="Hinweis" %}}
-Die definierte tägliche Zunahme wird bei der Tierwiegung für die Berechnung des vorgeschlagenen Gewichtswert verwendet. Sollte der vorgeschlagene Gewichtswert bei der Mehrzahl der zu wiegenden Tiere zu niedrig oder zu hoch sein, sollten Sie den definierten Wert nach unten bzw. nach oben anpassen, um die manuelle Einstellung des Gewichtswerts mit den Pfeiltasten abzukürzen.
+{{% alert title="Warnung" color="warning" %}}
+Beim Vorgabewert für das Geburtsgewicht handelt es sich nur um einen Näherungswert, welcher beim Anlegen eines neuen Tieres individuell angepasst werden muss.
+Wenn Sie diese Anpassung nicht vornehmen wollen oder wenn Sie Tiere automatisch [im Hintergrund](../tiere-neu-anlegen/#tiere-automatisch-anlegen) anlegen, sollte beim Neuanlegen eines Tieres kein Geburtsgewicht abgefragt bzw. abgespeichert werden. Dies kann in den Einstellungen zum [Tiere neu anlegen](../tiere-neu-anlegen/#erfasste-gewichte-einstellen) vereinbart werden.
 {{% /alert %}}
 
-Um die `Mittlere tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+{{% alert title="Standardwerte Geburtsgewicht:" %}}
+
+| Tierart                        |  Lamm          | Kalb          |
+|--------------------------------|----------------|---------------| 
+| Standardwert *Geburtsgewicht*: | 4 kg           | 40 kg         |
+| Wertebereich:                  | 1,0 bis 99 kg  | 1,0 bis 99 kg |
+{{% /alert %}}
+
+### Mittlere tägliche Zunahme
+
+{{% alert title="Erläuterung" %}}
+Bei der Aktion [Wiegung](../../aktionen/wiegung/) wird anhand des Tieralters und der hier in den Einstallungen definierten täglichen Zunahme ein ungefähres Tiergewicht für das zu wiegende Tier vorgeschlagen. Sollte der vorgeschlagene Gewichtswert bei der Mehrzahl der zu wiegenden Tiere zu niedrig oder zu hoch sein, sollten Sie den definierten Wert nach unten bzw. nach oben anpassen, um die manuelle Einstellung des Gewichtswerts mit den Pfeiltasten abzukürzen.
+{{% /alert %}}
+
+Um die für den Gewichtsvorschlag genutzte `mittlere tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 
@@ -90,13 +110,38 @@ Um die `Mittlere tägliche Zunahme` auf ihrem Gerät festzulegen gehen Sie wie f
 
 ### Genauigkeit der Gewichtserfassung
 
+{{% alert title="Erläuterung" %}}
+Ja nach Anwender und Tierart (Lamm, Kalb, Kuh)  treten unterschiedliche Anforderungen auf, mit welcher Auflösung  der Gewichtswert erfasst werden soll (auf 10, auf 100 g oder auf 1 kg genau). Die entsprechende Einstellung kann im Einstellungsmenü 'Maximale Genauigkeit' vorgenommen werden.
+{{% /alert %}}
+
+Die untenstehende Tabelle zeigt die Präzision der Gewichtserfassung im Abhängigkeit vom Gewichtsbereich und der getätigten Einstellung für die `Maximale Genauigkeit`:
+
+| Einstellung *Maximale Genauigkeit*:         |  10 g | 100 g | 1 kg |
+|---------------------------------------------|-------|-------|------| 
+| Präzision im Bereich von *0 bis 9,9 kg*:    | 10 g  | 100 g | 1 kg | 
+| Präzision im Bereich von *10 bis 49,9 kg*:  | 100 g | 100 g | 1 kg |
+| Präzision im Bereich von *50 bis 99,9 kg*:  | 500 g | 500 g | 1 kg |
+| Präzision im Bereich *über 100 kg*:         | 1 kg  | 1 kg  | 1 kg |
+
+Um die maximale Genauigkeit der Gewichtserfassung auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
+
+2. Es öffnet sich ein Untermenü in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽  um `Tierdatenerfassung` auszuwählen. Bestätigen Sie mit `OK`.
+
+3. Es öffnet sich ein weiteres Untermenü in dem in dem verschiedene Einstellungen angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um zwischen den Einstellungsfeldern `Gewichtserfassung`, `Tierbewertung`, und `Kontrolle Frischmelker für` auswählen können. Wählen Sie `Gewichtserfassung` und bestätigen Sie mit `OK`.
+
+4. Nutzen Sie die Pfeiltasten △ ▽ um das Einstellungsfeld `Maximale Genauigkeit` auszuwählen. Nutzen Sie die Pfeiltasten ◁ ▷ um die gewünschte maximale Genauigkeit einzustellen. Die Präzision der Gewichtseingabe auf jedem Gerät erfolgt jetzt anhand der getätigten Einstellung.
+
+    ![VitalControl: Menüfolge Einstellung Genauigkeit der Gewichtserfassung](../bilder/genauigkeitgewichtserfassung.png "Genauigkeit der Gewichtserfassung einstellen")
+
 <br>
 Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tierdatenerfassung`.
 
 ## Modus der Tierbewertung
 
-{{% alert title="Hinweis" %}}
-Bei der Tierbewertung können Sie zwischen zwei verschiedenen Modi wählen: Im **einfachen Modus** wird bei der Tierbewertung lediglich der Allgemeinzustand abgefragt (grün/gelb/rot). Bei der **erweiterten Bewertung** werden vier Bewertungskategorien abgefragt: Allgemeinzustand, Futterverzehr, Durchfall und Atemwegserkrankung.
+{{% alert title="Erläuterung" %}}
+Bei der Aktion [Tierbewertung](../../aktionen/tierbewertung/) können Sie zwischen zwei verschiedenen Modi wählen: Im **einfachen Modus** wird bei der Tierbewertung lediglich der Allgemeinzustand abgefragt (grün/gelb/rot). Bei der **erweiterten Bewertung** werden vier Bewertungskategorien abgefragt: Allgemeinzustand, Futterverzehr, Durchfall und Atemwegserkrankung.
 {{% /alert %}}
 
 Um den Modus der Tierbewertung auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
@@ -113,11 +158,11 @@ Um den Modus der Tierbewertung auf ihrem Gerät festzulegen gehen Sie wie folgt 
 
 ## Kontrollperiode Frischmelker
 
-{{% alert title="Hinweis" %}}
-Der eingestellte Wert für den Zeitraum der Frischmelkerkontolle wird in der Frischmelkerliste (Listen > Frischmelker) bei der grafischen Darstellung der Temperaturwerte verwendet. Jeder Tag innerhalb des Zeitraums wird dort durch ein Rechteck repräsentiert. Je nach Farbe des Rechtecks (grün, gelb oder rot) ist ersichtlich, ob für das jeweilige Tier an diesem Tag eine normale, eine erhöhte oder kritisch erhöhte Temperatur gemessen wurde.
+{{% alert title="Erläuterung" %}}
+Im Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle incl. Temperaturmessung durchzuführen. Die Dauer dieser Kontrollperiode variiert betriebsindividuell erheblich. Deswegen kann in den Einstellungen des VitalContols die Länge der Kontrollperiode auf einen Wert zwischen 3 und 14 Tagen festgelegt werden. Der hier eingestellte Wert für den Zeitraum der Frischmelkerkontolle bestimmt den Darstellungszeitraum in der [Frischmelkerliste](../listen/frischmelker/).
 {{% /alert %}}
 
-Um die Länge der Kontrollperiode der Frischmelker auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+Um die Länge der Kontrollperiode für die Frischmelker auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen` und drücken Sie die Taste `OK`.
 

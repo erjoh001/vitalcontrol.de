@@ -13,7 +13,11 @@ translationKey: lists/fresh-cows
 ---
 ## Frischmelkerliste
 
-In der Frischmelkerliste finden Sie ihre Frischmelker. Tiere bei denen eine Abkalbung eingespeichert wurde, werden automatisch auf die Liste gesetzt und sind für die von Ihnen festgelegte Zeit darin gespeichert. Folgende Aktionen stehen Ihnen für diese Liste zur Verfügung:
+{{% alert title="Erläuterung" %}}
+Im Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle durchzuführen. Die Frischmelkerliste es VitalControls unterstützt sie bei dieser Tierkontrolle, insbesondere bei der Temperaturerfassung. Jeden Tag der Kontrollperiode wird in der Liste durch ein Rechteck repräsentiert. Je nach Farbe des Rechtecks (grün, gelb oder rot) ist ersichtlich, ob für das jeweilige Tier an diesem Tag eine normale, eine erhöhte oder kritisch erhöhte Temperatur gemessen wurde.
+{{% /alert %}}
+
+In der Frischmelkerliste finden Sie ihre Frischmelker aufgelistet. Tiere bei denen eine Abkalbung eingespeichert wurde, werden automatisch auf die Liste gesetzt und sind für die von Ihnen [festgelegte Zeitdauer](../../einstellungen/erfassung-tierdaten/#kontrollperiode-frischmelker) darin angezeigt. Folgende Aktionen stehen Ihnen für diese Liste zur Verfügung:
 
 - [Aktionsmenü](../alarm/#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) aufrufen
 - [Tierdaten](../alarm/#tierdaten-einsehen) einsehen
