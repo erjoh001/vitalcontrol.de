@@ -30,15 +30,15 @@ Bewegen Sie den Mauszeiger über eine Zeile in der obigen Grafik und lassen ihn 
 
 ## Einstellungen zur Gewichtserfassung
 
-Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Tierdatenerfassung auf:
+Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Gewichtserfassung auf:
 
 <img src="../bilder/gewichtserfassung.png" alt="Menüpunkte Einstellungen Gewichtserfassung" title="Einstellungen Gewichtserfassung" usemap="#workmap-gewicht" class="maphilight" />
 
 <map name="workmap-gewicht">
-  <area shape="rect" coords="3,40,237,200" alt="Schwellenwerte Zunahmen" title="Legen Sie die bei der Bewertung der Zunahmen genutzten Schwellenwerte fest&#10;Mausklick: zur Dokumentation" href="#bewertung-der-täglichen-zunahmen-schwellenwerte">
-  <area shape="rect" coords="3,200,237,280" alt="Geburtsgewicht" title="Legen Sie das beim Anlegen neuer Tiere genutzte Geburtsgewicht fest&#10;Mausklick: zur Dokumentation" href="#geburtsgewicht">
-  <area shape="rect" coords="3,280,237,360" alt="Mittlere tägliche Zunahme" title="Legen Sie zur Gewichtsschätzung genutzten mittleren täglichen Zunahmen fest&#10;Mausklick: zur Dokumentation" href="#mittlere-tägliche-zunahme">
-  <area shape="rect" coords="3,360,237,440" alt="Genauigkeit Gewichtserfassung" title="Legen Sie die Genauigkeit der Gewichtserfassung fest&#10;Mausklick: zur Dokumentation" href="#genauigkeit-der-gewichtserfassung">
+  <area shape="rect" coords="1,40,230,200" alt="Schwellenwerte Zunahmen" title="Legen Sie die bei der Bewertung der Zunahmen genutzten Schwellenwerte fest&#10;Mausklick: zur Dokumentation" href="#bewertung-der-täglichen-zunahmen-schwellenwerte">
+  <area shape="rect" coords="1,200,230,280" alt="Geburtsgewicht" title="Legen Sie das beim Anlegen neuer Tiere genutzte Geburtsgewicht fest&#10;Mausklick: zur Dokumentation" href="#geburtsgewicht">
+  <area shape="rect" coords="1,280,230,360" alt="Mittlere tägliche Zunahme" title="Legen Sie zur Gewichtsschätzung genutzten mittleren täglichen Zunahmen fest&#10;Mausklick: zur Dokumentation" href="#mittlere-tägliche-zunahme">
+  <area shape="rect" coords="1,360,230,440" alt="Genauigkeit Gewichtserfassung" title="Legen Sie die Genauigkeit der Gewichtserfassung fest&#10;Mausklick: zur Dokumentation" href="#genauigkeit-der-gewichtserfassung">
 </map>
 
 ### Bewertung der täglichen Zunahmen: Schwellenwerte
@@ -159,7 +159,7 @@ Um den Modus der Tierbewertung auf ihrem Gerät festzulegen gehen Sie wie folgt 
 ## Kontrollperiode Frischmelker
 
 {{% alert title="Erläuterung" %}}
-Im Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle incl. Temperaturmessung durchzuführen. Die Dauer dieser Kontrollperiode variiert betriebsindividuell erheblich. Deswegen kann in den Einstellungen des VitalContols die Länge der Kontrollperiode auf einen Wert zwischen 3 und 14 Tagen festgelegt werden. Der hier eingestellte Wert für den Zeitraum der Frischmelkerkontolle bestimmt den Darstellungszeitraum in der [Frischmelkerliste](../listen/frischmelker/).
+Beim Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle incl. Temperaturmessung durchzuführen. Die Dauer dieser Kontrollperiode variiert betriebsindividuell erheblich. Deswegen kann in den Einstellungen des VitalControls die Länge der Kontrollperiode auf einen Wert zwischen 3 und 14 Tagen festgelegt werden. Der hier eingestellte Wert für den Zeitraum der Frischmelkerkontolle bestimmt die Anzahl der Säulen des Säulendiagramms, welches in der [Frischmelkerliste](../listen/frischmelker/) individuell für jedes Tier angezeigt wird.
 {{% /alert %}}
 
 Um die Länge der Kontrollperiode für die Frischmelker auf ihrem Gerät festzulegen gehen Sie wie folgt vor:

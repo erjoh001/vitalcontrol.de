@@ -6,7 +6,7 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: frischmelker
 description: >
-  Sehen Sie ihre Frischmelkerliste ein.
+  Erleichtern Sie sich die Kontrolle ihre Frischmelker.
 Kategorien: [Listen]
 Tags: [Listen, Frischmelker]
 translationKey: lists/fresh-cows
@@ -14,10 +14,10 @@ translationKey: lists/fresh-cows
 ## Frischmelkerliste
 
 {{% alert title="Erläuterung" %}}
-Im Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle durchzuführen. Die Frischmelkerliste es VitalControls unterstützt sie bei dieser Tierkontrolle, insbesondere bei der Temperaturerfassung. Jeden Tag der Kontrollperiode wird in der Liste durch ein Rechteck repräsentiert. Je nach Farbe des Rechtecks (grün, gelb oder rot) ist ersichtlich, ob für das jeweilige Tier an diesem Tag eine normale, eine erhöhte oder kritisch erhöhte Temperatur gemessen wurde.
+Beim Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle durchzuführen. Die Frischmelkerliste es VitalControls unterstützt sie bei dieser Tierkontrolle, insbesondere bei der Temperaturerfassung. Für jedes Tier wird mittels eines Säulendiagramms ein Überblick über alle Tage der Kontrollperiode gegeben, jeder Tag der Periode durch eine Säule repräsentiert. Je nach Farbe der Säule (grün, gelb oder rot) ist ersichtlich, ob für das jeweilige Tier an diesem Tag eine normale, eine erhöhte oder kritisch erhöhte Temperatur gemessen wurde.
 {{% /alert %}}
 
-In der Frischmelkerliste finden Sie ihre Frischmelker aufgelistet. Tiere bei denen eine Abkalbung eingespeichert wurde, werden automatisch auf die Liste gesetzt und sind für die von Ihnen [festgelegte Zeitdauer](../../einstellungen/erfassung-tierdaten/#kontrollperiode-frischmelker) darin angezeigt. Folgende Aktionen stehen Ihnen für diese Liste zur Verfügung:
+In der Frischmelkerliste finden Sie ihre Frischmelker aufgelistet. Tiere, für die eine Abkalbung registriert wurde, erscheinen automatisch auf dieser Liste und werden dort für die von Ihnen [festgelegte Zeitdauer](../../einstellungen/erfassung-tierdaten/#kontrollperiode-frischmelker) angezeigt. Folgende Aktionen stehen Ihnen für diese Liste zur Verfügung:
 
 - [Aktionsmenü](../alarm/#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) aufrufen
 - [Tierdaten](../alarm/#tierdaten-einsehen) einsehen

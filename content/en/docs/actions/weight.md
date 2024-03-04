@@ -12,7 +12,7 @@ translationKey: actions/weight
 ---
 
 ## Record weight
-Use the <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weihgin" /> `Weighing` action to save the weight of your animal individually. To do this, weigh your animals or estimate their weight and enter this value in the VitalControl device. This allows you to check the weight development of your animals and evaluate them individually.
+Use the &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weighing` action to save the weight of your animal individually. To do this, weigh your animals or estimate their weight and enter this value in the VitalControl device. This allows you to check the weight development of your animals and evaluate them individually.
 
 {{% alert title="Hint" %}}
 If the average weight deviates very strongly in one direction (too high/too low), the value for the daily increase should be adjusted.

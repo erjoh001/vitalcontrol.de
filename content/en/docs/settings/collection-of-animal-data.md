@@ -6,7 +6,7 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: data-acquisition
 description: >
- Here you store relevant information for the animal data collection
+ Storing relevant settings for animal data collection
 categories: [settings]
 tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
@@ -14,24 +14,40 @@ maphilight: true
 ---
 ## Overview
 
-Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Tierdatenerfassung auf:
+The following graphic lists the available settings concerning the recording of animal data:
 
 <img src="../images/animaldataacquisition.png" alt="Acquisition of animal data" title="Acquisition of animal data" usemap="#workmap-overview" class="maphilight" />
 
 <map name="workmap-overview">
-  <area shape="rect" coords="3,40,237,80" alt="Weight recording" title="Untermenü: Einstellungen zur Gewichtserfassung&#10;Mouse click: open documentation" href="#settings-weight-recording">
-  <area shape="rect" coords="3,80,237,160" alt="Modus Tierbewertung" title="Stellen Sie den Modus der Tierbewertung ein&#10;Mouse click: open documentation" href="#mode-of-animal-rating">
-  <area shape="rect" coords="3,160,237,240" alt="Length control period fresh cows" title="Legen Sie die Länge der Kontrollperiode für Frischmelker fest&#10;Mouse click: open documentation" href="#set-control-period-fresh-cows">
+  <area shape="rect" coords="3,40,237,80" alt="Weight recording" title="Submenu: Settings for weight recording&#10;Mouse click: open documentation" href="#settings-weight-recording">
+  <area shape="rect" coords="3,80,237,160" alt="Mode of animal rating" title="Set the mode of animal rating&#10;Mouse click: open documentation" href="#mode-of-animal-rating">
+  <area shape="rect" coords="3,160,237,240" alt="Length control period fresh cows" title="Set the length of the control period for fresh cows&#10;Mouse click: open documentation" href="#control-period-of-fresh-cows">
 </map>
 
+{{% alert title="Hint" %}}
+Move the mouse pointer over a symbol in the graphic below and let it rest for a moment. A tooltip appears, presenting information about the respective setting. If you click on one of the lines, you will be forwarded to a description of the respective setting.
+{{% /alert %}}
+
 ## Settings *Weight recording*
-### Set daily weight gain
+
+The following graphic lists the available settings concerning the weight recording of animals:
+
+<img src="../images/weightrecording.png" alt="Submenu items settings for weight recording" title="Settings weight recording" usemap="#workmap-weight" class="maphilight" />
+
+<map name="workmap-weight">
+  <area shape="rect" coords="1,40,230,199" alt="Threshold values assessment daily weight gain" title="Set the threshold values for the assessment of the daily weight gain&#10;Mouse click: open documentation" href="#assessment-of-daily-weight-gain-threshold-values">
+  <area shape="rect" coords="1,200,230,280" alt="Birth weight" title="Set the set birth weight proposed when registering a new animal&#10;Mouse click: open documentation" href="#birth-weight">
+  <area shape="rect" coords="1,280,230,360" alt="Average daily weight gain" title="Set the average daily weight gain used when estimating the weight of animals&#10;Mouse click: open documentation" href="#average-daily-weight-gain">
+  <area shape="rect" coords="1,360,230,440" alt="Precision weight recording" title="Set the precision of weight recording&#10;Mouse click: open documentation" href="#precision-of-weight-recording">
+</map>
+
+### Assessment of daily weight gain: Threshold values
 
 {{% alert title="Hint" %}}
 The red field shows the "critical too low weight gain" area. The yellow field shows the "suboptimal weight gain" area.
 {{% /alert %}}
 
-To set the `Daily weight gain` on your device proceed as follows.
+In order to adjust the threshold values for the assessment of the daily weight gain, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
@@ -47,14 +63,9 @@ To set the `Daily weight gain` on your device proceed as follows.
 
     ![VitalControl: menu settings daily weight gain](../images/dailyweightgain.png "Daily weight gain")
 
-### Set birth weight
+### Birth weight
 
-{{% alert title="Warning" color="warning" %}}
-The standard birth weight is only an approximate value, which must be individually adjusted when creating a new animal.
-If you do not want to make this adjustment or if you create animals automatically in the background, no birth weight should be requested or saved when creating a new animal. birth weight should not be queried or saved when creating a new animal. This can be arranged in the settings for "Registration of animals".
-{{% /alert %}}
-
-To set the `birth weight` on your device proceed as follows.
+The device uses the birth weight stored here in the settings as the default value when creating new animals. In order to be able to select the individual birth weight of a newly born animal more quickly, you may need to adjust this default value for your farm. To adjust the value for the `birth weight`, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
@@ -66,12 +77,26 @@ To set the `birth weight` on your device proceed as follows.
 
     ![VitalControl: menu settings birth weight](../images/birthweight.png "Birth weight")
 
-### Set average daily weight gain
-{{% alert title="Hint" %}}
-The defined daily increase is used for the calculation of the suggested weight value during animal weighing. If the suggested weight value is too low or too high for the majority of the animals to be weighed, you should adjust the defined value downwards or upwards, respectively, to shorten the manual setting of the weight value with the arrow keys.
+{{% alert title="Warning" color="warning" %}}
+The standard birth weight is only an approximate value, which must be individually adjusted when creating a new animal.
+If you do not want to make this adjustment or if you create animals automatically [in the background](../animal-registration/#auto-registration), no birth weight should be queried or saved when creating a new animal. birth weight should not be queried or saved when creating a new animal. This can be defined in the settings for [registration of animals](../animal-registration/#set-recorded-weights).
 {{% /alert %}}
 
-To set the `average daily weight gain` on your device proceed as follows.
+{{% alert title="Default values birth weights:" %}}
+
+| Kind of new animal            |  Lamb          | Calf          |
+|-------------------------------|----------------|---------------| 
+| Default value *birth weight*: | 4 kg           | 40 kg         |
+| Value range :                 | 1,0 bis 99 kg  | 1,0 bis 99 kg |
+{{% /alert %}}
+
+### Average daily weight gain
+
+{{% alert title="Explanation" %}}
+When [weighing](../../actions/record-weight/) an animal, the defined daily increase is used for the calculation of the suggested weight value during animal weighing. If the suggested weight value is too low or too high for the majority of the animals to be weighed, you should adjust the defined value downwards or upwards, respectively, to shorten the time needed for adjusting the weight value with the arrow keys.
+{{% /alert %}}
+
+To set the `average daily weight gain` used in the calculation of the approximate weight of an animal proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
@@ -89,16 +114,16 @@ To set the `average daily weight gain` on your device proceed as follows.
 Depending on the use case and animal species (*lamb*, *calf*, *cow*), there are different requirements regarding the resolution of the weight value to be recorded (accuracy of *10 g*, *100 g* or *1 kg*). To meet these requirements one is required to make use of the *Maximum accuracy* setting.
 {{% /alert %}}
 
-The table below shows the precision of weight recording depending on the weight range and the setting stipulated for 'Maximum accuracy':
+The table below shows the precision of weight recording depending on the weight range and the setting stipulated for *Maximum accuracy*:
 
-| Setting *Maximum precision*:         |  10 g | 100 g | 1 kg |
-|---------------------------------------------|-------|-------|------| 
+| Setting *Maximum precision*:               |  10 g | 100 g | 1 kg |
+|--------------------------------------------|-------|-------|------| 
 | Precision in the range of *0 to 9,9 kg*:   | 10 g  | 100 g | 1 kg | 
-| Precision in the range of *10 to 49,9 kg*:  | 100 g | 100 g | 1 kg |
-| Precision in the range of *50 to 99,9 kg*:  | 500 g | 500 g | 1 kg |
-| Precision for values *≥ 100 kg*:        | 1 kg  | 1 kg  | 1 kg |
+| Precision in the range of *10 to 49,9 kg*: | 100 g | 100 g | 1 kg |
+| Precision in the range of *50 to 99,9 kg*: | 500 g | 500 g | 1 kg |
+| Precision for values *≥ 100 kg*:           | 1 kg  | 1 kg  | 1 kg |
 
-Um die maximale Genauigkeit der Gewichtserfassung auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
+To set the maximum accuracy when recording animal weights with your device, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button..
 
@@ -115,7 +140,7 @@ Save the settings and return to the top menu `Data acquisition` by pressing the 
 
 ## Mode of animal rating
 
-{{% alert title="Hint" %}}
+{{% alert title="Explanation" %}}
 In the simple mode, only the general condition is queried during the animal evaluation (green/yellow/red). In the extended evaluation, 4 evaluation categories are queried: general condition, feed consumption, diarrhea and respiratory disease.
 {{% /alert %}}
 
@@ -131,12 +156,13 @@ To set the `Rating of animals` on your device proceed as follows.
 
     ![VitalControl: menu settings average rating of animals](../images/raitingofanimals.png "Rating of animals")
 
-## Set Control period fresh cows
-{{% alert title="Hint" %}}
-The set value for the period of the fresh milker account is used in the fresh milker list (Lists > Fresh milker) for the graphical representation of the temperature values. Each day within the period is represented there by a rectangle. Depending on the color of the rectangle (green, yellow or red), it can be seen whether a normal, increased or critically increased temperature was measured for the respective animal on this day.
+## Control period of fresh cows
+
+{{% alert title="Explanation" %}}
+When managing fresh cows, checking the animals daily for several days after birth, including taking their temperature is considered a best practices routine. The duration of this control period varies considerably from farm to farm. For this reason, the length of the control period can be set to a value between 3 and 14 days in the VitalControl settings. The set value for the control period of fresh cows determines the number of columns of the column chart displayed for each animal in the [fresh cow list](../../lists/fresh-cows/).
 {{% /alert %}}
 
-To set the `Control period fresh cows` on your device proceed as follows.
+To set the length of the Control period for your fresh cows proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
 
@@ -144,7 +170,7 @@ To set the `Control period fresh cows` on your device proceed as follows.
 
 3.  Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Control period fresh cows`and confirm with `OK`.
 
-4. Use the ◁ ▷ arrow keys to set the desired control duration in days post partum.
+4. Use the ◁ ▷ arrow keys to set the desired duration of the control period in days post partum.
 
     ![VitalControl: menu settings control period fresh cows](../images/controlperiodfreshcows.png "Control period fresh cows")
 

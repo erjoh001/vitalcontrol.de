@@ -23,4 +23,4 @@ To set the company number on your device, proceed as follows:
 
    ![VitalControl: Menu path for setting your farm number](../images/farm-number.png "Setting your farm number")
 
-3. Confirm with 'OK' as soon as you have entered the 12-digit number sequence correctly. Your farm number is now permanently stored on the device.
+3. Confirm with `OK` as soon as you have entered the 12-digit number sequence correctly. Your farm number is now permanently stored on the device.

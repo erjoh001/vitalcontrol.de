@@ -6,14 +6,19 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: fresh-cows
 description: >
-  Check out your fresh cows list.
+  Facilitate the control of your fresh cows.
 categories: [Lists]
 tags: [Lists, fresh cow]
 translationKey: lists/fresh-cows
 ---
 ### Fresh cows list
 
-You can find your fresh milkers in the fresh milker list. Animals for which a calving has been saved are automatically added to the list and are saved for the time you have specified. The following actions are available for this list:
+{{% alert title="Explanation" %}}
+When managing fresh cows, checking the animals daily for several days after birth is considered a best practices routine. The fresh cows list supports facilitates ths fresh cow control, especially in terms of temperature recording. For each animal, a column chart over all days of the control period is shown, each day of the control period is represented by a vertical bar. Depending on the colour of the bar (green, yellow or red), you can see whether a normal, elevated or critically elevated temperature was measured on that day for the respective animal.
+{{% /alert %}}
+
+Cows are put on the fresh cows list immediately after their calving has been registered. They remain on that list for a certain period of time, the length of this period (in days) can be adjusted in the [settings](../../settings/recording-animal-data/#control-period-fresh-milkers).
+ The following actions are available for this list:
 
 - [Full action menu](../alarm/#full-action-menu)
 - [Animal data](../alarm/#animal-data)
@@ -25,7 +30,7 @@ You can find your fresh milkers in the fresh milker list. Animals for which a ca
 - [Set filter](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
-Some actions are to be carried out in the same way as in the [Alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
+Some actions are to be carried out in the same way as in the [alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
 {{% /alert %}}
 
 ### Preliminary Steps
