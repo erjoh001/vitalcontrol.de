@@ -117,8 +117,8 @@ Depending on the use case and animal species (*lamb*, *calf*, *cow*), there are 
 The table below shows the precision of weight recording depending on the weight range and the setting stipulated for *Maximum accuracy*:
 
 | Setting *Maximum precision*:               |  10 g | 100 g | 1 kg |
-|--------------------------------------------|-------|-------|------| 
-| Precision in the range of *0 to 9,9 kg*:   | 10 g  | 100 g | 1 kg | 
+|--------------------------------------------|-------|-------|------|
+| Precision in the range of *0 to 9,9 kg*:   | 10 g  | 100 g | 1 kg |
 | Precision in the range of *10 to 49,9 kg*: | 100 g | 100 g | 1 kg |
 | Precision in the range of *50 to 99,9 kg*: | 500 g | 500 g | 1 kg |
 | Precision for values *≥ 100 kg*:           | 1 kg  | 1 kg  | 1 kg |

@@ -14,11 +14,11 @@ Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version
 
 1. Erstellen Sie mithilfe eines Computers im Wurzelverzeichnis des mitgelieferten Dual USB-Sticks ein neues Verzeichnis mit dem Namen `update`.
 
-    ![Windows Explorer: USB-Stick mit Verzeichnis 'update'](../images/create-folder-update.png)
+    ![Windows Explorer: USB-Stick mit Verzeichnis 'update'](../images/create-folder-update.png "USB-Stick: Verzeichnis 'update'")
 
 1. Laden Sie die [Firmware-Datei](/download/firmware.vcu) (Dateiname: `firmware.vcu`) herunter und speichern Sie die Datei auf dem USB-Stick im Verzeichnis `update`. Die Update-Datei benötigt ca. 2 MB Speicherplatz auf dem Stick.
 
-    ![Windows Explorer: USB-Stick mit Firmware-Datei 'firmware.vcu'](../images/save-firmware-file.png)
+    ![Windows Explorer: USB-Stick mit Firmware-Datei 'firmware.vcu'](../images/save-firmware-file.png "USB-Stick: Firmwaredatei")
 
 1. Erstellen Sie ein [Datensicherung][] für ihr Gerät.
 
@@ -34,14 +34,14 @@ Bei der Datensicherung handelt es sich um eine empfohlene Vorsichtsmaßnahme. Al
 
 1. Wechseln Sie ins Untermenü `Service`, wählen Sie dort den Eintrag `Aktualisierung Firmware` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, den USB-Stick einzustecken.
 
-   ![VitalControl: Menüfolge Aktualisierung Firmware](../images/firmware-update.png)
+   ![VitalControl: Menüfolge Aktualisierung Firmware](../images/firmware-update.png "Aktualisierung Firmware")
 
 1. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts und bestätigen Sie mit `OK`.
 
-   ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg)
+   ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-Stick einstecken")
 
    Das Gerät führt das Update automatisch durch. Während des Updates informiert das Display über den Fortschritt der Aktualisierung. Nach Abschluss des Updates startet das Gerät automatisch neu und zeigt nach dem Neustart eine Erfolgsmeldung an:
 
-   ![VitalControl: Erfolgsmeldung Aktualisierung Firmware](../images/update-success.png)
+   ![VitalControl: Erfolgsmeldung Aktualisierung Firmware](../images/update-success.png "Erfolgsmeldung Aktualisierung Firmware")
 
    Damit ist die neue Firmware eingespielt.

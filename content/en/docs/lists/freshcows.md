@@ -17,7 +17,7 @@ translationKey: lists/fresh-cows
 When managing fresh cows, checking the animals daily for several days after birth is considered a best practices routine. The fresh cows list supports facilitates ths fresh cow control, especially in terms of temperature recording. For each animal, a column chart over all days of the control period is shown, each day of the control period is represented by a vertical bar. Depending on the colour of the bar (green, yellow or red), you can see whether a normal, elevated or critically elevated temperature was measured on that day for the respective animal.
 {{% /alert %}}
 
-Cows are put on the fresh cows list immediately after their calving has been registered. They remain on that list for a certain period of time, the length of this period (in days) can be adjusted in the [settings](../../settings/recording-animal-data/#control-period-fresh-milkers).
+Cows are put on the fresh cows list immediately after their calving has been registered. They remain on that list for a certain period of time, the length of this period (in days) can be adjusted in the [settings](../../settings/data-acquisition/#control-period-fresh-cows).
  The following actions are available for this list:
 
 - [Full action menu](../alarm/#full-action-menu)

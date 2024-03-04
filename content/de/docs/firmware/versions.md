@@ -15,7 +15,7 @@ description: >
 
 2. Wechseln Sie ins Untermenü `Info`, wählen Sie dort den Eintrag `Software` und bestätigen Sie mit `OK`. Es öffnet sich ein Popup-Fenster, in dem die aktuell auf ihrem Gerät aufgespielten Software-Versionen angezeigt werden:
 
-![VitalControl: Firmware-Versionen](../images/firmware-versions.png)
+![VitalControl: Firmware-Versionen](../images/firmware-versions.png "Anzeige Firmwareversionen")
 
 ## Aktuelle Firmware-Versionen:
 

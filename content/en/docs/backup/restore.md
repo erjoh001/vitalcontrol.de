@@ -22,7 +22,7 @@ Inside the directory `backup` of your USB flash drive, you may find several back
 
 2. Invoke the submenu `Data management`, select the menu item `Restore backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
 
-   ![VitalControl: menu path data restore](../images/restore.png)
+   ![VitalControl: menu path data restore](../images/restore.png "Restoring a backup file")
 
 3. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
 
