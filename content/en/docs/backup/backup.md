@@ -14,7 +14,7 @@ tags: [backup file, USB flash drive]
 
 1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 
-2. Invoke the submenu `Data management`, select the menu item `Create backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
+2. Invoke the submenu `Data management` and select the submenu item `Data backup` afterwards. Now select the menu item `Create backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
 
    ![VitalControl: menu path data backup](../images/backup.png "Invoke data backup")
 
@@ -30,7 +30,7 @@ tags: [backup file, USB flash drive]
 
    ![USB flash drive with backup file VitalControl](../images/backup-file.png "USB flash drive with backup file")
 
-   {{% alert title="Hinweis" %}}
+   {{% alert title="Hint" %}}
   If a file `backup.vcu` already exists in the `backup` directory of your USB flash drive, this file will be renamed. The new name of the file is composed of the leading string `backup` and the date and time when the backup file was created (e.g. `backup_2023-07-17_12-50-37.vcb`). The newly written backup file is always named `backup.vcu`.
     {{% /alert %}}
 

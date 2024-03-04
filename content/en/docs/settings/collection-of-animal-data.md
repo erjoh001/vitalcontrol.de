@@ -175,4 +175,5 @@ To set the length of the Control period for your fresh cows proceed as follows:
     ![VitalControl: menu settings control period fresh cows](../images/controlperiodfreshcows.png "Control period fresh cows")
 
 <br>
+
 Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

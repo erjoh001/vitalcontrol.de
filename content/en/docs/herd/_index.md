@@ -44,7 +44,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
     ![VitalControl: Menu Herd](images/animaldata.png "View animal data")
 
-{{% alert title = "Hinweis" %}}
+{{% alert title = "Hint" %}}
 By default, the animal data is displayed first. Only when you have the weight displayed, for example, do you have to set the display of the animal data again.
 {{% /alert %}}
 
