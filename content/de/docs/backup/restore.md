@@ -21,7 +21,7 @@ Im Verzeichnis `backup` ihres USB-Sticks können sich mehrere Sicherungsdateien 
 
 1. Öffnen Sie im Hauptbildschirm desjenigen VitalControl-Geräts, auf das sie die Daten zurückspielen wollen, das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
 
-2. Wechseln Sie ins Untermenü `Datenmanagement`, wählen Sie dort den Eintrag `Datensicherung einspielen` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, einen USB-Stick einzustecken.
+2. Wechseln Sie ins Untermenü `Datenmanagement` und wählen Sie dort den ersten Eintrag `Datensicherung` aus. Wählen Sie nun die Zeile `Datensicherung einspielen` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, einen USB-Stick einzustecken.
 
    ![VitalControl: Menüfolge Datenrücksicherung](../images/restore.png "Rücksichern einer Datensicherung")
 
