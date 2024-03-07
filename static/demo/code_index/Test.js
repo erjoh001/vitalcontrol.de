@@ -27,7 +27,7 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 13.00
+* Version  : 13.02
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *
@@ -38,6 +38,6 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 acA=(function(){var A=index;var C={};
 
 
-C._Init=function(){};C._ReInit=function(){};C.DB=function(D){};return C;})();
+C._Init=function(){};C._ReInit=function(){};C.DE=function(D){};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */

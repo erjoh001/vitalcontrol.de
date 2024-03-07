@@ -27,7 +27,7 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 13.00
+* Version  : 13.02
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *
@@ -37,26 +37,26 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 );if(index.fl)throw new Error("The unit file 'Fonts.js' included twice!");index.
 fl=(function(){var A=index;var C={};
 
-C.Ak={_class:function(){return A.aci.B5;},0:{Data:function(){return A.acG;},Cache:[
-],_this:null}};C.Ah={_class:function(){return A.aci.B5;},0:{Data:function(){return A.
-acF;},Cache:[],_this:null}};C.EB={_class:function(){return A.aci.B5;},0:{Data:function(
-){return A.acE;},Cache:[],_this:null}};C.Ad6={_class:function(){return A.aci.B5;
-},0:{Data:function(){return A.acK;},Cache:[],_this:null}};C.Hk={_class:function(
-){return A.aci.B5;},0:{Data:function(){return A.acH;},Cache:[],_this:null}};C.By={
-_class:function(){return A.aci.B5;},0:{Data:function(){return A.acL;},Cache:[],_this:
-null}};C.ANW={_class:function(){return A.aci.B5;},0:{Data:function(){return A.acI;
-},Cache:[],_this:null}};C.Ie={_class:function(){return A.aci.B5;},0:{Data:function(
-){return A.acD;},Cache:[],_this:null}};C.J$={_class:function(){return A.aci.B5;}
-,0:{Data:function(){return A.acC;},Cache:[],_this:null}};C.ANX={_class:function(
-){return A.aci.B5;},0:{Data:function(){return A.acJ;},Cache:[],_this:null}};
-C._Init=function(){};C._ReInit=function(){};C.DB=function(D){var B;if((B=C.Ak[0].
-_this)&&(B._cycle!=D))B._Done(C.Ak[0]._this=null);if((B=C.Ah[0]._this)&&(B._cycle
-!=D))B._Done(C.Ah[0]._this=null);if((B=C.EB[0]._this)&&(B._cycle!=D))B._Done(C.EB[
-0]._this=null);if((B=C.Ad6[0]._this)&&(B._cycle!=D))B._Done(C.Ad6[0]._this=null);
-if((B=C.Hk[0]._this)&&(B._cycle!=D))B._Done(C.Hk[0]._this=null);if((B=C.By[0]._this
-)&&(B._cycle!=D))B._Done(C.By[0]._this=null);if((B=C.ANW[0]._this)&&(B._cycle!=D
-))B._Done(C.ANW[0]._this=null);if((B=C.Ie[0]._this)&&(B._cycle!=D))B._Done(C.Ie[
-0]._this=null);if((B=C.J$[0]._this)&&(B._cycle!=D))B._Done(C.J$[0]._this=null);if((
-B=C.ANX[0]._this)&&(B._cycle!=D))B._Done(C.ANX[0]._this=null);};return C;})();
+C.Ak={_class:function(){return A.aci.B7;},0:{Data:function(){return A.acG;},Cache:[
+],_this:null}};C.Af={_class:function(){return A.aci.B7;},0:{Data:function(){return A.
+acF;},Cache:[],_this:null}};C.EF={_class:function(){return A.aci.B7;},0:{Data:function(
+){return A.acE;},Cache:[],_this:null}};C.Ad9={_class:function(){return A.aci.B7;
+},0:{Data:function(){return A.acK;},Cache:[],_this:null}};C.Hm={_class:function(
+){return A.aci.B7;},0:{Data:function(){return A.acH;},Cache:[],_this:null}};C.Bk={
+_class:function(){return A.aci.B7;},0:{Data:function(){return A.acL;},Cache:[],_this:
+null}};C.AN6={_class:function(){return A.aci.B7;},0:{Data:function(){return A.acI;
+},Cache:[],_this:null}};C.Ic={_class:function(){return A.aci.B7;},0:{Data:function(
+){return A.acD;},Cache:[],_this:null}};C.Kb={_class:function(){return A.aci.B7;}
+,0:{Data:function(){return A.acC;},Cache:[],_this:null}};C.AN7={_class:function(
+){return A.aci.B7;},0:{Data:function(){return A.acJ;},Cache:[],_this:null}};
+C._Init=function(){};C._ReInit=function(){};C.DE=function(D){var B;if((B=C.Ak[0].
+_this)&&(B._cycle!=D))B._Done(C.Ak[0]._this=null);if((B=C.Af[0]._this)&&(B._cycle
+!=D))B._Done(C.Af[0]._this=null);if((B=C.EF[0]._this)&&(B._cycle!=D))B._Done(C.EF[
+0]._this=null);if((B=C.Ad9[0]._this)&&(B._cycle!=D))B._Done(C.Ad9[0]._this=null);
+if((B=C.Hm[0]._this)&&(B._cycle!=D))B._Done(C.Hm[0]._this=null);if((B=C.Bk[0]._this
+)&&(B._cycle!=D))B._Done(C.Bk[0]._this=null);if((B=C.AN6[0]._this)&&(B._cycle!=D
+))B._Done(C.AN6[0]._this=null);if((B=C.Ic[0]._this)&&(B._cycle!=D))B._Done(C.Ic[
+0]._this=null);if((B=C.Kb[0]._this)&&(B._cycle!=D))B._Done(C.Kb[0]._this=null);if((
+B=C.AN7[0]._this)&&(B._cycle!=D))B._Done(C.AN7[0]._this=null);};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
