@@ -19,7 +19,7 @@ Kategorien: [Datenaustausch, Alma Pro]
 
 ## USB-Anschluss verschließen
 
-![VitalControl mit Alma Pro verbinden](/images/synchronisation/close-usb-slot.svg "USB-Anschluss verschließen")
+![USB-Anschluss verschließen](/images/synchronisation/close-usb-slot.svg "USB-Anschluss verschließen")
 
 {{% alert title="Hinweis" %}}
 Achten Sie darauf, nach jeder Synchronisation die Klappe des USB-Anschlusses wieder zu verschließen, um das Eindringen von Feuchtigkeit in den Anschluss zu verhindern und diesen vor der aggressiven Stallluft zu schützen!
