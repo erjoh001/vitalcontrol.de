@@ -1,5 +1,5 @@
 ---
 title: Über den Demonstrator
 weight: 20
-url: demo/über
+url: demo/ueber
 ---
