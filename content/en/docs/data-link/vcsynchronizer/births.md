@@ -7,5 +7,5 @@ toc_hide: true
 hide_summary: true
 translationKey: export-birth-db-nais
 description: >
- En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+  Export births recorded with VitalControl to a CSV file, which can be used for mass reporting of recorded births to national animal identification service.
 ---

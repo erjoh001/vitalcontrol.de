@@ -30,7 +30,7 @@ Some actions are to be carried out in the same way as in the [Alarm list](../ala
 
 The alarm list is structured as follows:
 
-   ![VitalControl Lists On wacht list](../images/onwatchstructure.png "Structure of the on watch list")
+   ![VitalControl Lists On watch list](../images/onwatchstructure.png "Structure of the On watch list")
 
 |Symbol   | Description
 |---------|-----
@@ -70,6 +70,6 @@ The alarm list is structured as follows:
 
 3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
-4. The animal is now added or removed from the alarmlist depending on its initial status.
+4. The animal is now added or removed from the alarm list depending on its initial status.
 
    ![VitalControl Lists Toggle alarm status](../images/alarmstatus.png "Toggle alarm status")

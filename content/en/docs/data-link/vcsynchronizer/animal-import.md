@@ -1,4 +1,3 @@
-
 ---
 title: "Importing animals from the official national animal database"
 linkTitle: "Animal import"

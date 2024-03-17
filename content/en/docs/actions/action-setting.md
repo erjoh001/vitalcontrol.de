@@ -20,7 +20,7 @@ In this settings menu you determine which actions are displayed to you within th
 
 3. A submenu opens. Use the arrow keys △ ▽ to select the menu item `menu items` and confirm with `OK`.
 
-4. Another submenu opens with all the actions you can display. Select the desired action using the arrow keys △ ▽ and confirm with `OK`. The action will now be displayed or no longer displayed to you, depending on its initial status. A yellow circle marks actions that are shown, a gray circle marks actions that are not shown.
+4. Another submenu opens with all the actions you can display. Select the desired action using the arrow keys △ ▽ and confirm with `OK`. The action will now be displayed or no longer displayed to you, depending on its initial status. A yellow circle marks actions that are shown, a gray circle marks actions that aren't shown.
 
 5. If you would like to `enable all + reset order`, select the corresponding menu item using the arrow keys and confirm with `OK`.
 

@@ -26,13 +26,13 @@ On the alarm list you will find all animals that you have either manually added 
 
 The alarm list is structured as follows:
 
-   ![VitalControl Lists Alarmlist](../images/alarmstructure.png "Structure of the alarm list")
+   ![VitalControl Lists Alarm list](../images/alarmstructure.png "Structure of the alarm list")
 
 |Symbol   | Description
 |-------  |----
-| ![VitalControl Lists Alarmlist](../images/kopf.png "Head") | Shows how many animals are on the list
-| ![VitalControl Lists Alarmlist](../images/ID.png "ID") | Shows whether the selected animal is a calf or a cow. The clinical thermometer shows whether the animal was in the yellow or red zone at the last measurement. The animal ID is displayed below the symbol.
-| ![VitalControl Lists Alarmlist](../images/auge.png "Rating") | The last recorded rating is shown below the symbol with the colors of the traffic light system
+| ![VitalControl Icon Animal head](../images/kopf.png "Animal head") | Shows how many animals are on the list
+| ![VitalControl Icon ID](../images/ID.png "ID") | Shows whether the selected animal is a calf or a cow. The clinical thermometer shows whether the animal was in the yellow or red zone at the last measurement. The animal ID is displayed below the symbol.
+| ![VitalControl Icon Rating](../images/auge.png "Icon Rating") | The last recorded rating is shown below the symbol with the colors of the traffic light system
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Body temperature" title="Body temperature" /> | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Rating of animal" title="Rating" /> |The circle mark below the symbol shows that the animal is on the watch list
 
@@ -114,7 +114,7 @@ The alarm list is structured as follows:
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
 
-4. The animal is now added or removed from the watchlist depending on its initial status.
+4. The animal is now added or removed from the watch list depending on its initial status.
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Toggle watch status")
 

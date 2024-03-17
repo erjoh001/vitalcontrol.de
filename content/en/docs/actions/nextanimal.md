@@ -19,9 +19,9 @@ Within the `actions` menu you have the option of selecting the next animal at an
 
 2. Either scan an animal using the transponder or select an animal from the list. To do this, confirm with `OK` and select an animal using the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. In the lower control bar you will find the menu item `next animal`. Use the `F3` key to execute this.
+3. A submenu with the animal actions opens. In the lower control bar you can find the menu item `next animal`. Use the `F3` key to execute this.
 
-4. The window from step two will automatically open again and you can select the next animal.
+4. The window from step two automatically opens again and you can select the next animal.
 
     ![VitalControl: Menu Actions Next animal](../images/nextanimal.png "Choose next animal")
     

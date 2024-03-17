@@ -20,7 +20,7 @@ Follow the steps below to synchronize data between the software `Herde` and Vita
 
 ### Perform data exchange
 
-1. Within the software `Herde`, perform a full data exchange. Depending on the configuration of your user interface, you can invoke this exchange via the menu item `Full data exchange` in the main menu (top level item _Technology_), in the sidebar menu or in your customized toolbox (horizontal oder vertical).
+1. Within the software `Herde`, perform a full data exchange. Depending on the configuration of your user interface, you can invoke this exchange via the menu item `Full data exchange` in the main menu (top level item _Technology_), in the sidebar menu or in your customized toolbox (horizontal or vertical).
 
    ![Software Herde: Triggering a full data exchange](../screenshots/data-exchange.png "Herde: Triggering data exchange")
 

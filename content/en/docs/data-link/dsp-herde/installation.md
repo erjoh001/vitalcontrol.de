@@ -11,14 +11,14 @@ categories: [DSP Herde]
 Prior to the first [data exchange](../data-exchange/), the technology coupling to the VitalControl device must be created and set up once.
 
 {{% alert title="Attention" %}}
-Before setting up the technology coupling, check whether the 'VCSynchronizer' software is installed on your PC; this software is mandatory for data exchange.  To do so, open the the Windows Start menu and search the in list of your applications in for an entry named 'Urban VitalControl' there. If you can't find such an entry, [install](../../vcsynchronizer/installation/) the `VCSynchronizer` software on your PC.
+Before setting up the technology coupling, check whether the 'VCSynchronizer' software is installed on your PC; this software is mandatory for data exchange.  To do so, open the Windows Start menu and search the in list of your applications in for an entry named 'Urban VitalControl' there. If you can't find such an entry, [install](../../vcsynchronizer/installation/) the `VCSynchronizer` software on your PC.
 {{% /alert %}}
 
 To set up the technology, proceed as follows:
 
 ## Create new parameter set for data exchange with VitalControl device
 
-1. Within the software `Herde`, open the `Settings` window. Depending on the configuration of your user interface, you can open this window via the menu item `Organization` in the main menu (top level item _Settings_), in the sidebar menu or in your customized toolbox (horizontal oder vertical).
+1. Within the software `Herde`, open the `Settings` window. Depending on the configuration of your user interface, you can open this window via the menu item `Organization` in the main menu (top level item _Settings_), in the sidebar menu or in your customized toolbox (horizontal or vertical).
 
    ![Software Herde: invocation of settings menu](../screenshots/settings.png "Herde: invoke Settings")
 

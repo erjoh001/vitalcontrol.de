@@ -14,7 +14,7 @@ description: >
 
 2. Start the installation of the program by double-clicking the downloaded file `SetupVitalControlSynchronizer.exe`.
 
-3. *New installation only:* a language selection window will open, leave the selection `English` as is and click `OK` to start the installation.
+3. *New installation only:* a language selection window opens, leave the selection `English` as is and click `OK` to start the installation.
 
    ![Installation VC-Synchronizer: Selection of language](../images/installation/lang-select.png "Language selection")
 
