@@ -21,13 +21,22 @@ Mithilfe des Massenzuganges können Sie eine Vielzahl von Tieren in kurzer Zeit 
 
 3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" /> `Massenzugang` und bestätigen Sie mit `OK`.
 
-4. Es öffnet sich der Erfassungsbildschirm, in dem je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt werden. Scannen Sie zuerst den Barcode für die Ohrmarkennummer. Die Umrandung des Feldes wechselt von rot zu grün. Scannen Sie anschließend das Geburtsdatum. Die Umrandung wird kurzzeitig grün, bevor beide Umrandungen wieder rot erscheinen. Die Zahl am Scannersymbol im oberen Bildschirmrand ändert sich von 0 auf 1. Das erste Tier wurde gespeichert. Fahren Sie fort und scannen Sie die weiteren Rinderpässe ein. Nach jedem gescannten Pass erhöht sich die Zahl am Scannersymbol um eins.
+4. Es öffnet sich der Erfassungsbildschirm, in dem je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt werden. Scannen Sie zuerst den Barcode für die Ohrmarkennummer. Die Umrandung des Feldes wechselt von rot zu grün. Scannen Sie anschließend das Geburtsdatum. Die Umrandung wird kurzzeitig grün, bevor beide Umrandungen wieder rot erscheinen. Die Zahl am Passsymbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> im oberen Bildschirmrand ändert sich von 0 auf 1. Das erste Tier wurde gespeichert. Fahren Sie fort und scannen Sie die weiteren Rinderpässe ein. Nach jedem gescannten Pass erhöht sich die Zahl am Passsymbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> um eins. Die Zahl am Herdensymbol <img src="/icons/main/herdsymbol.svg" width="35" align="bottom" alt="New animal" /> erhöht sich ebenfalls um eins. 
+
+{{% alert title="Hinweis" %}}
+Die Zahl am Passsymbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> verdeutlicht wie viele Pässe Sie in einem Zug, ohne den Menüpunkt `Massenzugang` zu verlassen, eingescannt haben. Die Zahl am Herdensymbol <img src="/icons/main/herdsymbol.svg" width="35" align="bottom" alt="New animal" /> verdeutlicht wie viele Pässe Sie insgesamt eingescannt haben. Dieser setzt sich nicht auf Null zurück, sollten Sie den Menüpunkt `Massenzugang` verlassen. Die Zahl ist äquivalent zu Ihrem Einträgen in dem Menüpunkt `Zukäufe`.
+{{% /alert %}}
 
    ![VitalControl: Menüfolge Neu Massenzugang](../bilder/massenzugang.png "Massenzugang nutzen")
 
 {{% alert title="Hinweis" %}}
 Innerhalb des Menüpunktes Massenzuganges haben Sie noch weitere Einstellungsmöglichkeiten. Diese sind im Folgenden erläutert. Rufen Sie als vorbereitende Schritte immer zuerst den Menüpunkt Massenzugang auf und verfahren Sie dann wie in der Anleitung.
 {{% /alert %}}
+
+{{% alert title="Hinweis" %}}
+Während des Scanvorganges kann es zu Fehlermeldungen kommen. Der Barcode-Scanner gibt in diesem Falle einen Ton aus und ein weiteres Scannen ist nicht möglich. Quitieren Sie die entsprechende Fehlermeldung im Display des VitalControls und fahren Sie mit dem Scannen fort. 
+{{% /alert %}}
+
 
 ### Geburtsdatum muss angegeben werden
 

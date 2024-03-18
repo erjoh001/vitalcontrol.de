@@ -114,10 +114,7 @@ Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zug
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Verbleib](../bilder/verbleib.png "Verbleib einstellen")
 
-
-### Speichern und zurück zum Obermenü Tiere neu anlegen
-
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
 
 ## Tiere automatisch anlegen
 Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl-Gerät noch unbekannter Transponder eingescannt wird. Für diesem Fall könnten drei verschiedene Verhaltensweisen definiert werden.
@@ -206,9 +203,7 @@ Um das Offset rechts des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie f
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Offset rechts](../bilder/offsetrechts.png "Offset rechts einstellen")
 
-### Speichern und zurück zum Obermenü Tiere neu anlegen
-
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
 
 ## Zuordnung Ohrmarkennummern einstellen
 
@@ -224,10 +219,6 @@ Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuel
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Zuordnung Ohrmarkennummer](../bilder/ohrmarkenzuordnung.png "Zuordnung Ohrmarkennummer einstellen")
 
-## Speichern und zurück zum Obermenü Tiere neu anlegen
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
 
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
-
-## Speichern und zurück zum Obermenü Einstellungen
-
-- Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> `F1` Taste zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.

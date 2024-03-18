@@ -20,4 +20,5 @@ If you click on a menu item, you will be redirected to a description of the resp
 
   <area shape="rect" coords="116,40,230,160" alt="Purchased animals" title="Here you can view your current purchases and export the data&#10;Mouse click: open documentation" href="/en/docs/new-on-farm/purchased-animals/">
   <area shape="rect" coords="116,160,230,280" alt="Births" title="Here you can see your births and create an export file&#10;Mouse click: open documentation" href="/en/docs/new-on-farm/births/">
+  <area shape="rect" coords="1,401,100,439" alt="Back" title="Jump back one level&#10;Mouse click: to the documentation" href="/en/docs/menu/mainmenu/">
 </map>

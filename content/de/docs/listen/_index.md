@@ -20,4 +20,6 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
 
   <area shape="rect" coords="116,40,230,160" alt="Beobachtungsliste" title="Sehen Sie ihre Beobachtungsliste ein&#10;Mausklick: zur Dokumentation" href="/docs/listen/beobachtung/">
   <area shape="rect" coords="116,160,230,280" alt="Frischmelkerliste" title="Sehen Sie ihre Frischmelkerliste ein&#10;Mausklick: zur Dokumentation" href="/docs/listen/frischmelker/">
+
+  <area shape="rect" coords="2,401,115,438" alt="Zurück" title="Springen Sie eine Ebene zurück" href="/docs/menu/hauptmenu/">
 </map>

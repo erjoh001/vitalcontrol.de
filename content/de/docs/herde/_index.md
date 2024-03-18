@@ -36,9 +36,9 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" title="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tierdaten` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tierdaten: Geschlecht + Typ` oder `Tierdaten: N0 Ohrmarke` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus. Die beiden Auswahlmöglichkeiten unterscheiden sich in der Darstellung der Informationsleiste. 
 
-3. In der Herdenliste werden Ihnen nun die allgemeinen Tierdaten angezeigt.
+3. In der Herdenliste werden Ihnen nun die allgemeinen Tierdaten und die gewählte Information angezeigt.
 
 4. Alternativ können Sie mit den Pfeiltasten ◁ ▷ zwischen den unterschiedlichen Anzeigemöglichkeiten wechseln.
 
@@ -103,20 +103,6 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 3. Wie Sie den Filter anwenden finden Sie [hier](../filter).
 
     ![VitalControl: Menüfolge Herde](bilder/filter.png "Set filter")
-
-### Spalteninformationen einstellen
-
-{{% alert title = "Hinweis" %}}
-Diese Einstellungsmöglichkeit können Sie nur verwenden, wenn Sie sich die `Tierdaten` anzeigen lassen!
-{{% /alert %}}
-
-1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
-
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die beiden möglichen Typen der Spalteninformationen auflistet. Wählen Sie mit den Pfeiltasten △ ▽ zwischen `Geschlecht & Typ` oder `Ohrmarke: letzte 5 Ziffern` aus und wählen sie diese Spalteninformationen durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
-
-3. Es wird Ihnen nun die gewählte Spalteninformation angezeigt.
-
-    ![VitalControl: Menüfolge Herde](bilder/infospalten.png "Spalteninformationen einsehen")
 
 ### Aktionsmenü aufrufen
 

@@ -38,13 +38,25 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Aktionsliste](../bilder/vorbereitendeschritte3.png "Vorbereitende Schritte")
 
+### Temperatur messen
+
+1. Führen Sie die vorbereitenden Schritte aus.
+
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Temp. messen` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
+
+3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
+
+4. Die Aktion [Temperatur messen](/docs/aktionen/temperatur/#fieber-messen) wird nun automatisch gestartet.
+
+   ![VitalControl Listen Aktionsliste](../bilder/messen.png "Temperatur messen")
+
 ### Tier wiegen
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier wiegen` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
-3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
+3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
 4. Die Aktion [Tier wiegen](/docs/aktionen/wiegung/#gewicht-erfassen) wird nun automatisch gestartet.
 
@@ -56,7 +68,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Aktionskette` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
-3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
+3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
 4. Die Funktion [Aktionskette](/docs/aktionskette/#aktionskette) wird nun automatisch gestartet.
 
@@ -70,7 +82,7 @@ Diese Funktion findet Anwendung bei Tieren denen noch kein Transponder bei dem A
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Transponder zuordnen` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
-3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
+3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
 4. Scannen Sie nun den Transponder des entsprechenden Tieres ein.
 

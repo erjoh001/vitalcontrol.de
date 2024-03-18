@@ -22,6 +22,8 @@ Die nachfolgende Grafik listet die verfügbaren Einstellungen zur Tierdatenerfas
   <area shape="rect" coords="3,40,237,80" alt="Gewichtserfassung" title="Untermenü: Einstellungen zur Gewichtserfassung&#10;Mausklick: zur Dokumentation" href="#einstellungen-zur-gewichtserfassung">
   <area shape="rect" coords="3,80,237,160" alt="Modus Tierbewertung" title="Stellen Sie den Modus der Tierbewertung ein&#10;Mausklick: zur Dokumentation" href="#modus-der-tierbewertung">
   <area shape="rect" coords="3,160,237,240" alt="Länge Kontrollperiode Frischmelker" title="Legen Sie die Länge der Kontrollperiode für Frischmelker fest&#10;Mausklick: zur Dokumentation" href="#kontrollperiode-frischmelker">
+
+  <area shape="rect" coords="2,282,125,318" alt="Zurück" title="Springen Sie eine Ebene zurück" href="/docs/einstellungen/">
 </map>
 
 {{% alert title="Hinweis" %}}

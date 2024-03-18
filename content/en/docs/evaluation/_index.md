@@ -18,4 +18,7 @@ If you click on a menu item, you will be redirected to a description of the resp
 
   <area shape="rect" coords="116,40,238,160" alt="Temperature" title="Evaluate your stored data in the Temperature section&#10;Mouse click: open documentation" href="/en/docs/evaluation/temperature/">
   <area shape="rect" coords="116,160,238,279" alt="Mortality" title="Evaluate your stored data in the mortality section&#10;Mouse click: open documentation" href="/en/docs/evaluation/mortality/">
+
+  <area shape="rect" coords="150,282,238,319" alt="Filter" title="Set a filter&#10;Mouse click: to the documentation" href="/en/docs/filter">
+  <area shape="rect" coords="2,282,95,319" alt="Back" title="Jump back one level&#10;Mouse click: to the documentation" href="/en/docs/menu/mainmenu/">
 </map>

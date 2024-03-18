@@ -22,5 +22,8 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
    <area shape="rect" coords="2,282,230,322" alt="Gerät" title="Hier nehmen Sie verschiedene Geräteeinstellungen vor&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/geraet/">
    <area shape="rect" coords="2,322,230,362" alt="Tiere neu anlegen" title="Hier passen Sie mehrere werksseitig eingestellte Standards bezüglich des Anlegens von neuen Tieren an die Erfordernisse Ihres Betriebs an&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/tiere-neu-anlegen/">
    <area shape="rect" coords="2,362,230,400" alt="Transponder zuordnen" title="Legen Sie die Zuordnung des Transponders auf ihrem VitalControl-Gerät fest&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/zuordnung-transponder/">
-   <area shape="rect" coords="2,400,230,439" alt="Betrieb" title="Legen Sie ihre zehnstellige Betriebsnummer gemäß VVO fest&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/betriebsnummer/">
+   <area shape="rect" coords="2,400,230,433" alt="Transponder abnehmen" title="Legen Sie fest wie die TierID nach dem Lösen des Transponders vergeben werden soll&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/transponder-abnehmen/">
+   <area shape="rect" coords="2,435,230,476" alt="Betrieb" title="Legen Sie ihre zehnstellige Betriebsnummer gemäß VVO fest&#10;Mausklick: zur Dokumentation" href="/docs/einstellungen/betriebsnummer/">
+
+   <area shape="rect" coords="2,479,117,515" alt="Zurück" title="Springen Sie eine Ebene zurück" href="/docs/menu/hauptmenu/">
 </map>

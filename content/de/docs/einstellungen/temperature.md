@@ -66,6 +66,4 @@ Um die Beleuchtungsautomatik während der Aktion `Temperatur` zu de- bzw. zu akt
 
     ![VitalControl: Menüfolge Einstellung Beleuchtung Messort](../bilder/beleuchtung.png "Beleuchtung Messort einstellen")
 
-## Einstellungen speichern und zurück zum Obermenü Einstellungen
-
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.

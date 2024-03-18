@@ -18,6 +18,8 @@ Via the main menu item <img src="/icons/main/new-animal.svg" width="35" align="b
 
   <area shape="rect" coords="116,40,230,160" alt="New animals" title="How to create multiple new animals on the VitalControl device using one single action&#10;Mouse click: open documentation" href="/en/docs/new/animals/">
   <area shape="rect" coords="116,160,230,280" alt="Bulk recording" title="Use the barcode scanner to record a variety of animals&#10;Mouse click: open documentation" href="/en/docs/new/bulk-recording/">
+
+  <area shape="rect" coords="1,401,100,439" alt="Back" title="Jump back one level&#10;Mouse click: to the documentation" href="/en/docs/menu/mainmenu/">
 </map>
 
 {{% alert title="Hint" %}}

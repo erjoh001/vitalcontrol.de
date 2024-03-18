@@ -37,5 +37,3 @@ Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren.
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
 {{% /alert %}}
-
- ![VitalControl: Menüfolge Aktionen Abmelden](../bilder/abmelden.png "Abmelden")

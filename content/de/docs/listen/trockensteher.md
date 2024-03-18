@@ -46,7 +46,7 @@ Innerhalb der Trockensteherliste können Sie direkt für ein individuelles Tier 
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, welches die möglichen Aktionen nach dem Drücken der `OK` Taste anzeigt. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Abkalbung` hervorzuheben und wählen sie diese Aktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
-3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`.
+3. Wählen Sie innerhalb der Beobachtungsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
 4. Sie werden nun aufgefordert den Transponder des Muttertieres zu scannen. Alternativ können Sie auch mit `OK` bestätigen und mit den Pfeiltasten △ ▽ ◁ ▷ die ID des Tiers eingeben.
 

@@ -39,6 +39,4 @@ To set the mass unit on your device, proceed as follows.
 
     ![VitalControl: menu settings mass unit](../images/mass.png "Mass unit")
 
-## Save and return to Settings top menu
-
-- Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings`.
+Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings`.

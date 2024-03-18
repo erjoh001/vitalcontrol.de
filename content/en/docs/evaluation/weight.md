@@ -9,10 +9,26 @@ date: 2023-07-26
 categories: [Evaluation]
 tags: [Evaluation, weight]
 translationKey: evaluation/weight
+maphilight: true
 ---
 {{% alert title="Hint" %}}
 In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
 {{% /alert %}}
+
+{{% alert title="Hint" %}}
+If you click on a menu item, you will be redirected to a description of the respective function.
+{{% /alert %}}
+
+<img src="../images/imagemap.png" alt="VitalControl Evaluation" title="Weight" usemap="#workmap" class="maphilight" />
+
+<map name="workmap">
+   <area shape="rect" coords="3,40,116,160" alt="Today's weighing" title="Evaluate the weight values of your animals recorded with the VitalControl on the current day&#10;Mouse click: to the documentation" href="/en/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Birth weights" title="Evaluate your stored birth weights&#10;Mouse click: to the documentation" href="/en/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Weight development" title="Evaluate the weight development of your animals&#10;Mouse click: to the documentation" href="/en/docs/evaluation/weight/#weight-development">
+
+   <area shape="rect" coords="150,282,238,319" alt="Filter" title="Set a filter&#10;Mouse click: to the documentation" href="/en/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Back" title="Jump back one level&#10;Mouse click: to the documentation" href="/en/docs/evaluation/">
+</map>
 
 ## Today's weighings
 In this evaluation you can see the following information related to the weighings of the last 6 hours:

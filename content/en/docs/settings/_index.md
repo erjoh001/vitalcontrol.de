@@ -24,5 +24,7 @@ If you click on a menu item, you will be redirected to a description of the resp
    <area shape="rect" coords="2,280,230,320" alt="Device" title="Here you can adjust various device settings&#10;Mausklick: zur Dokumentation" href="/en/docs/settings/device/">
    <area shape="rect" coords="2,320,230,360" alt="Registration of animals" title="Here you can adjust several factory-set standards concerning the registration of new animals to the requirements of your farm.&#10;Mouse click: open documentation" href="/en/docs/settings/animal-registration/">
    <area shape="rect" coords="2,360,230,400" alt="Link transponder" title="Set the assignment of the transponder on your VitalControl device&#10;Mouse click: open documentation" href="/en/docs/settings/transponder-linkage/">
-   <area shape="rect" coords="2,400,230,439" alt="Farm" title="Permanently save your official twelve digit national farm ID on VitalControl device&#10;Mouse click: open documentation" href="/en/docs/settings/farm-number/">
+   <area shape="rect" coords="2,400,230,439" alt="Unlink transponder" title="Specify how the TierID is to be assigned after the transponder is detached&#10;Mouse click: open documentation" href="/en/docs/settings/transponder-linkage/">
+   <area shape="rect" coords="2,440,230,480" alt="Farm" title="Permanently save your official twelve digit national farm ID on VitalControl device&#10;Mouse click: open documentation" href="/en/docs/settings/farm-number/">
+   <area shape="rect" coords="2,482,123,519" alt="Back" title="Jump back one level" href="/en/docs/menu/mainmenu/">
 </map>

@@ -21,12 +21,20 @@ With the help of mass access, you can capture a large number of animals in a sho
 
 3. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" /> `Bulk recording` and confirm with `OK`.
 
-4. Another submenu opens, which contains a field for the ear tag number and a field for the date of birth. First scan the barcode for the ear tag number. The border of the field changes from red to green. Then scan the date of birth. The border briefly turns green before both borders appear red again. The number on the scanner icon at the top of the screen changes from 0 to 1. The first animal has been saved. Continue and scan the other cattle passes. After each passport is scanned, the number on the scanner symbol increases by one.
+4. Another submenu opens, which contains a field for the ear tag number and a field for the date of birth. First scan the barcode for the ear tag number. The border of the field changes from red to green. Then scan the date of birth. The border briefly turns green before both borders appear red again. The number on the passport symbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> at the top of the screen changes from 0 to 1. The first animal has been saved. Continue and scan the other cattle passports. After each passport scanned, the number on the passport symbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> increases by one. The number on the herd symbol <img src="/icons/main/herdsymbol.svg" width="35" align="bottom" alt="New animal" /> also increases by one. 
+
+{{% alert title="Hint" %}}
+The number on the pass symbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> shows how many passes you have scanned in one go without leaving the menu item 'Mass access'. The number on the herd symbol <img src="/icons/main/herdsymbol.svg" width="35" align="bottom" alt="New animal" /> shows how many passes you have scanned in total. This does not reset to zero if you leave the menu item 'Mass access'. The number is equivalent to your entries in the menu item 'Purchases'.
+{{% /alert %}}
 
    ![VitalControl: Menu New Bulk recording](../images/bulk-recording.png "Bulk recording")
 
 {{% alert title="Hint" %}}
 You have further setting options within the mass access menu item. These are explained below. As preparatory steps, always first access the menu item `Bulk-recording` and then proceed as in the instructions.
+{{% /alert %}}
+
+{{% alert title="Hint" %}}
+Error messages may appear during the scanning process. In this case, the barcode scanner emits a sound and further scanning is not possible. Acknowledge the corresponding error message on the VitalControl display and continue scanning.
 {{% /alert %}}
 
 ### Birth date mandatory
