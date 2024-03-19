@@ -39,6 +39,4 @@ Um die Masseneinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
     ![VitalControl: Menüfolge Einstellung Masseneinheit](../bilder/degree.png "Masseneinheit einstellen")
 
-## Speichern und zurück zum Obermenü Einstellungen
-
-- Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und Zurück" /> zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.
+Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste <img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und Zurück" /> zurück in das Obermenü <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen" /> `Einstellungen`.

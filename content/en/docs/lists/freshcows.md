@@ -49,7 +49,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle alarm status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
 4. The animal is now added or removed from the alert list depending on its initial status.
 
@@ -61,7 +61,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle watch status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
 4. The animal is now added or removed from the on watch list depending on its initial status.
 
@@ -75,7 +75,7 @@ If this function is activated, the animals for which a temperature measurement h
 
 2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the option `Hide  measured cows` and toggle this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
 4. The function `hide measured` is now activated. Activation is indicated by ticking the box.
 

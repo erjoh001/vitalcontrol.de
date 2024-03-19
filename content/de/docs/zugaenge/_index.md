@@ -20,4 +20,6 @@ Klicken Sie auf einen Menüpunkt, so werden Sie zu einer Beschreibung der jeweil
 
   <area shape="rect" coords="116,40,230,160" alt="Zukäufe" title="Hier können Sie ihre aktuellen Zukäufe einsehen und die Daten exportieren&#10;Mausklick: zur Dokumentation" href="/docs/zugaenge/zukaeufe/">
   <area shape="rect" coords="116,160,230,280" alt="Geburten" title="Hier sehen Sie ihre Geburten ein und können ein Datei für die Massenmeldung der Geburten bei HI-Tier erstellen&#10;Mausklick: zur Dokumentation" href="/docs/zugaenge/geburten/">
+
+  <area shape="rect" coords="1,401,100,439" alt="Zurück" title="Springen Sie eine Ebene zurück&#10;Mausklick: zur Dokumentation" href="/docs/menu/hauptmenu/">
 </map>

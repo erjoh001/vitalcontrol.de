@@ -46,7 +46,7 @@ Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzeln
 
 ### Filter setzen
 
-11. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Popup Menu öffnen" /> um ein Popup-Menü zu öffnen. Dort können Sie zwischen den Funktionen `Filter setzen`, `Tier suchen` oder `Grafische Ansicht` wählen.
+1. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Popup Menu öffnen" /> um ein Popup-Menü zu öffnen. Dort können Sie zwischen den Funktionen `Filter setzen`, `Tier suchen` oder `Grafische Ansicht` wählen.
 
 2. Wählen Sie die Zeile `Filter setzen` mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Wie Sie den Filter anwenden finden Sie [hier](../filter).
 

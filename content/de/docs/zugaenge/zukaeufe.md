@@ -35,10 +35,11 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/zukaeufe.png "Zukäufe")
 
-## Weitere Einstellungsmöglichkeiten
+## Direktfunktionen
 
 Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
+- [Transponder abnehmen](#transponder-abnehmen)
 - [Alle Meldungen](#alle-meldungen-l%C3%B6schen) löschen
 - [Tier + Meldung ](#tier--meldung-l%C3%B6schen) löschen
 - [Zugangsmeldung](#zugangsmeldung-l%C3%B6schen) löschen
@@ -47,6 +48,18 @@ Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 {{% alert title="Hinweis" %}}
 Öffnen Sie immer zuerst die Liste `Zukäufe` wie in der Anleitung oben beschrieben.
 {{% /alert %}}
+
+### Transponder abnehmen
+
+Mit dieser Funktion können Sie den Transponder von einem Tier lösen.
+
+1. Drücken Sie `F3` Taste `CSV-Export`. Es öffnet sich ein Untermenü.
+
+2. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Transponder abnehmen` aus und bestätigen Sie mit `OK`.
+
+3. Der Transponder wurde erfolgreich gelöst.
+
+    ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/transponder-abnehmen.png "Transponder abnehmen")
 
 ### Alle Meldungen löschen
 

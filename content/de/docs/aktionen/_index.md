@@ -13,10 +13,6 @@ Je nach Tierart können Sie bis zu 16 verschiedene Aktionen für ein Tier ausfü
 
 <img src="bilder/menu.png" alt="VitalControl Aktionen" title="Aktionen" usemap="#workmap" class="maphilight" />
 
-{{% alert title="Hinweis" %}}
-Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger über ein Symbol in der obigen Grafik und lassen ihn kurz ruhen. Im einem Tooltip werden ihnen jetzt Infos zur jeweiligen Aktion präsentiert. Klicken Sie auf eines der Symbole, so werden Sie zu einer Beschreibung der jeweiligen Aktion weitergeleitet.
-{{% /alert %}}
-
 <map name="workmap">
   <area shape="rect" coords="3,100,60,165" alt="Temperatur" title="Messen Sie Fieber bei Ihren Tieren&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/temperatur/">
   <area shape="rect" coords="60,100,118,165" alt="Wiegung" title="Erfassen Sie das Gewicht Ihrer Tiere mittels einer Wiegung&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/wiegung/">
@@ -34,7 +30,14 @@ Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger übe
    <area shape="rect" coords="55,280,120,336" alt="Transponder abnehmen" title="Lösen Sie für ein Tier die bestehende Verknüpfung zu einem Transponder&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/transponder-abnehmen/">
    <area shape="rect" coords="120,280,175,336" alt="Ohrmarkennummer manuell zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#manuelle-zuordnung">
    <area shape="rect" coords="175,280,230,336" alt="Ohrmarkennummer mit Scan zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#zuordnung-mittels-scan-einer-elektronischen-ohrmarke">
+   <area shape="rect" coords="2,338,100,374" alt="Zurück" title="Springen Sie eine Ebene zurück" href="/docs/menu/hauptmenu/">
+   <area shape="rect" coords="100,338,140,374" alt="Einstellungen" title="Rufen Sie die Einstellungen auf&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/einstellungen/#menüeinträge-sichtbarkeit-und-reihenfolge">
+   <area shape="rect" coords="140,338,238,374" alt="Nächstes Tier" title="Wählen Sie das nächste Tier aus&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/#allgemeiner-ablauf">
 </map>
+
+{{% alert title="Hinweis" %}}
+Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger über ein Symbol in der obigen Grafik und lassen ihn kurz ruhen. Im einem Tooltip werden ihnen jetzt Infos zur jeweiligen Aktion präsentiert. Klicken Sie auf eines der Symbole, so werden Sie zu einer Beschreibung der jeweiligen Aktion weitergeleitet.
+{{% /alert %}}
 
 ## Allgemeiner Ablauf
 
@@ -48,10 +51,12 @@ Innerhalb des Menüs &nbsp;<img src="/icons/actions.svg" width="40" align="botto
 
 4. Es öffnet sich automatisch wieder das Fenster aus Schritt zwei und Sie können das nächste Tier auswählen.
 
-    ![VitalControl: Menüfolge Aktionen Nächstes Tier](bilder/naechstestier.png "Nächstes Tier auswählen")
-
-## Tierauswahl
-
-### Via Transponderscan
-
-### Manuell aus Liste
+{{< tabpane >}}
+{{< tab header="Allgemeiner Ablauf:" text=true disabled=true />}}
+{{% tab header="Transponderscan" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Allgemeiner Ablauf](bilder/naechstestier2.png "Allgemeiner Ablauf")
+{{% /tab %}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+ ![VitalControl: Menüfolge Aktionen Allgemeiner Ablauf](bilder/naechstestier.png "Allgemeiner Ablauf")
+{{% /tab %}}
+{{< /tabpane >}}

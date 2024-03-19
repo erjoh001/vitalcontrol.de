@@ -35,10 +35,11 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
     ![VitalControl: List of purchased animals, csv export](../images/purchasedanimals.png "Purchased animals, csv export ")
 
-## Additional setting options
+## Direct function calls
 
 In addition to creating the export file, you have the following options:
 
+- [Unlink transponder](#unlink-transponder)
 - [Clear all purchased notices](#clear-all-purchase-notices)
 - [Delete animal + notice](#delete-animal--purchase-notice)
 - [Clear notice of purchase](#clear-notice-of-purchase)
@@ -47,6 +48,18 @@ In addition to creating the export file, you have the following options:
 {{% alert title="Hint" %}}
 Always open the `purchased animals` list first as described in the instructions above.
 {{% /alert %}}
+
+### Unlink transponder
+
+You can use this function to remove the transponder from an animal.
+
+1. Use the `F3` key `CVS export`. A submenu opens.
+
+2. Use the arrow keys △ ▽ to select the menu item `unlink transponder` and confirm with `OK`.
+
+3. The transponder has been successfully unlinked.
+
+    ![VitalControl: List of purchased animals, csv export](../images/unlink-transponder.png "Purchased animals, unlink transponder")
 
 ### Clear all purchase notices
 

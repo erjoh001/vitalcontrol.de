@@ -114,9 +114,7 @@ Here you define which whereabouts are assigned to the animals when creating new 
 
     ![VitalControl: menu settings whereabouts](../images/whereabout.png "whereabouts")
 
-### Save and return to the top menu Settings
-
-- Save the settings and return to the top menu `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Save the settings and return to the top menu `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
 ## Auto-registration
 
@@ -207,9 +205,7 @@ To set the offset to the right of the animal on your device, proceed as follows:
 
     ![VitalControl: menu settings right offset](../images/rightoffset.png "right offset")
 
-### Save and return to the top menu `Settings`
-
-- Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
 ## Assignment ear tag number
 
@@ -225,12 +221,6 @@ Here you define whether one or two number ranges are used when assigning the ear
 
     ![VitalControl: menu settings Assignment ear tag number](../images/assignmenteartagnumber.png "Assignment ear tag number")
 
-## Save and return to the top menu `Registration of animals`
+Save the settings and return to the top menu `Registration of animals` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
-- Save the settings and return to the top menu `Registration of animals` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
-
-## Save and return to the top menu `Settings`
-
-- Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
-
-
+Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

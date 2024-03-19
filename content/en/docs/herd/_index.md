@@ -36,7 +36,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `Animal data` and select this category by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `Animal data: sex + type` or `Animal data: N0 eartag` and select this category by pressing the central `OK` button or the `F3` key `OK`. The two selection options differ in the display of the information bar.
 
 3. Animal data will now be displayed as content of the herd list.
 
@@ -103,20 +103,6 @@ By default, the animal data is displayed first. Only when you have the weight di
 3. How to apply the filter can be found [here]({{< relref "../filter/" >}}).
 
     ![VitalControl: Menu Herd](images/setfilter.png "Search animal")
-
-### Set column information
-
-{{% alert title = "Hint" %}}
-The setting option `Info colums` is only available once `Animal data` info category is selected for display!
-{{% /alert %}}
-
-1. Complete the preparatory steps.
-
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that allows you to select the displayed info columns. Use the arrow keys △ ▽ to highlight the line `Sex + type` or `Eartag` and confirm your choice by pressing the central `OK` key or the `F3` key `OK`.
-
-3. The selected column information is displayed.
-
-    ![VitalControl: Menu Herd](images/column.png "Set column information")
 
 ### Call action menu
 

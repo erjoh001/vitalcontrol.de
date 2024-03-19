@@ -44,7 +44,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Weigh animals` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
 4. The [weigh animals](..) menu will open automatically.
 
@@ -56,7 +56,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Chain of action` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
 4. The [action chain](../../chain-of-actions) function will open automatically.
 
@@ -70,7 +70,7 @@ This function is used to add a transponder to the data record of animals that ha
 
 2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Link transponder` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
-3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
 4. Now scan in the transponder of the corresponding animal.
 

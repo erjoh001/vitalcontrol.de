@@ -19,9 +19,11 @@ The following graphic lists the available settings concerning the recording of a
 <img src="../images/animaldataacquisition.png" alt="Acquisition of animal data" title="Acquisition of animal data" usemap="#workmap-overview" class="maphilight" />
 
 <map name="workmap-overview">
-  <area shape="rect" coords="3,40,237,80" alt="Weight recording" title="Submenu: Settings for weight recording&#10;Mouse click: open documentation" href="#settings-weight-recording">
-  <area shape="rect" coords="3,80,237,160" alt="Mode of animal rating" title="Set the mode of animal rating&#10;Mouse click: open documentation" href="#mode-of-animal-rating">
-  <area shape="rect" coords="3,160,237,240" alt="Length control period fresh cows" title="Set the length of the control period for fresh cows&#10;Mouse click: open documentation" href="#control-period-of-fresh-cows">
+  <area shape="rect" coords="3,40,239,80" alt="Weight recording" title="Submenu: Settings for weight recording&#10;Mouse click: open documentation" href="#settings-weight-recording">
+  <area shape="rect" coords="3,80,239,160" alt="Mode of animal rating" title="Set the mode of animal rating&#10;Mouse click: open documentation" href="#mode-of-animal-rating">
+  <area shape="rect" coords="3,160,239,240" alt="Length control period fresh cows" title="Set the length of the control period for fresh cows&#10;Mouse click: open documentation" href="#control-period-of-fresh-cows">
+
+  <area shape="rect" coords="2,282,125,318" alt="Back" title="Jump back one level" href="/en/docs/settings/">
 </map>
 
 {{% alert title="Hint" %}}
