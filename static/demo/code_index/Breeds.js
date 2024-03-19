@@ -76,9 +76,9 @@ C.AT={0:"Ansbach-Triesdorfer",15:"\u0410\u043D\u0441\u0431\u0430\u0445-\u0422\u0
 ,0:"Dexter",15:"\u0414\u0435\u043A\u0441\u0442\u0435\u0440"};C.DSN={1:"Njema\u010Dka crna krava"
 ,0:"German Black Pied",8:"Pied noir allemand",9:"Schwarzbuntes Niederungsrind",15:
 "\u041D\u0435\u043C\u0435\u0446\u043A\u0430\u044F \u0447\u0451\u0440\u043D\u043E-\u043F\u0451\u0441\u0442\u0440\u0430\u044F"
-,16:"Pardo Suizo Alem\xE1n"};C.EBS={0:"Ennstaler Bergscheck",9:"Ennstaler Bergschecken"
-};C.ERI={0:"Herens",8:"Vache d\'H\xE9rens",9:"Eringer"};C.EVO={0:"\xC9vol\xE8ne"
-,9:"Evol\xE8ner",16:" \xC9vol\xE8ne"};C.FL={1:"simental",0:"Fleckvieh",6:"Fleckiev"
+,16:"Pardo Suizo Alem\xE1n"};C.EBS={0:"Ennstaler Bergscheck",7:"Ennstaler Bergschecken"
+,9:"Ennstaler Bergschecken"};C.ERI={0:"Herens",8:"Vache d\'H\xE9rens",9:"Eringer"
+};C.EVO={0:"\xC9vol\xE8ne",9:"Evol\xE8ner"};C.FL={1:"simental",0:"Fleckvieh",6:"Fleckiev"
 ,15:"\u0424\u043B\u0435\u043A\u0444\u0438"};C.FLF={1:"simentalsko govedo",0:"Fleckvieh, beef"
 ,8:"Fleckvieh-\nSimmental",9:"Fleckvieh-\nSimmental",10:"Fleckvieh, \u03BA\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2"
 ,13:"Fleckvieh, kj\xF8tt",15:"\u0424\u043B\u0435\u043A\u0444\u0438-\n\u0421\u0438\u043C\u043C\u0435\u043D\u0442\u0430\u043B\u044C"
@@ -131,14 +131,14 @@ C.AT={0:"Ansbach-Triesdorfer",15:"\u0410\u043D\u0441\u0431\u0430\u0445-\u0422\u0
 };C.MUR="Murbodner";C.MW={0:"Murnau-Werdenfels Cattle",6:"MW",8:"Murnau-Werdenfels"
 ,9:"Murnau-\nWerdenfelser",13:"Murnau-Werdenfels Storfe",15:"\u041C\u0443\u0440\u043D\u0430\u0443-\u0412\u0435\u0440\u0434\u0435\u043D\u0444\u0435\u043B\u044C\u0441"
 ,16:"Ganado Murnau-Werdenfels"};C.MWF={1:"Murnau-Werdenfels Cattle, govedo",0:"Murnau-Werdenfels Cattle, beef"
-,6:"MWB",8:" Murnau-Werdenfels pour l\u2019engraissement",9:"Murnau-Werdenfel~ser, Fleischnutzung"
+,6:"MWB",8:"Murnau-Werdenfels pour l\u2019engraissement",9:"Murnau-Werdenfel~ser, Fleischnutzung"
 ,10:"Murnau-Werdenfels Cattle, \u03BA\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2"
 ,13:"Murnau-Werdenfels Storfe, kj\xF8tt",15:"\u041C\u0443\u0440\u043D\u0430\u0443-\u0412\u0435\u0440\u0434\u0435\u043D\u0444\u0435\u043B\u044C\u0441, "+
 "\u043C\u044F\u0441\u043D\u0430\u044F",16:"Ganado Murnau-Werdenfels, carne",18:"\u041C\u0443\u0440\u043D\u0430\u0443-\u0412\u0435\u0440\u0434\u0435\u043D\u0444\u0435\u043B\u044C\u0441, "+
 "\u043C\'\u044F\u0441\u043D\u0430"};C.NOR={0:"Normande Cattle",8:"Normande",9:"Normanne"
 ,13:"Normande storfe",15:"\u041D\u043E\u0440\u043C\u0430\u043D\u0434\u0441\u043A\u0430\u044F"
-,16:"Ganado Normando"};C.PAR="Parthenaise";C.PIE={0:"Piedmontese",6:"PIE",8:"Pi\xE9montais"
-,9:"Piemonteser",15:"\u041F\u044C\u0435\u043C\u043E\u043D\u0442\u0441\u043A\u0430\u044F"
+,16:"Ganado Normando"};C.PAR={0:"Parthenaise",7:"Havainto"};C.PIE={0:"Piedmontese"
+,6:"PIE",8:"Pi\xE9montais",9:"Piemonteser",15:"\u041F\u044C\u0435\u043C\u043E\u043D\u0442\u0441\u043A\u0430\u044F"
 };C.PIF={1:"Pinzgauer, govedo",0:"Pinzgauer, beef",6:"PIF",8:"Pinzgauer,\nrace \xE0 viande"
 ,9:"Pinzgauer, Fleischnutzung",10:"Pinzgauer, \u03BA\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2"
 ,13:"Pinzgauer, kj\xF8tt",15:"\u041F\u0438\u043D\u0446\u0433\u0430\u0443, \u043C\u044F\u0441\u043D\u0430\u044F"
@@ -242,11 +242,13 @@ C.AT={0:"Ansbach-Triesdorfer",15:"\u0410\u043D\u0441\u0431\u0430\u0445-\u0422\u0
 "\u0441\u043A\u043E\u0442",18:"\u0421\u0445\u0440\u0435\u0449\u0443\u0432\u0430\u043D\u043D\u044F \u043C\u043E\u043B\u043E\u0447\u043D\u0430 "+
 "\u0445\u0443\u0434\u043E\u0431\u0430 \xD7 \u043C\u043E\u043B\u043E\u0447\u043D\u0430 "+
 "\u0445\u0443\u0434\u043E\u0431\u0430"};C.XZF={0:"Crossbreed dual-use \xD7 beef"
-,9:"Kreuzung Zweinut~zungsrind \xD7 Fleischr."};C.XZM={0:"Crossbreed dual-use \xD7 milk"
+,7:"Risteytys kaksik\xE4ytt\xF6inen \xD7 naudanliha",9:"Kreuzung Zweinut~zungsrind \xD7 Fleischr."
+};C.XZM={0:"Crossbreed dual-use \xD7 milk",7:"Kaksik\xE4ytt\xF6isen karjan risteytt\xE4minen \xD7 maito."
 ,9:"Kreuzung Zweinut~zungsrind \xD7 Milchr."};C.XZZ={0:"Crossbreed dual-use \xD7 dual-use"
-,9:"Kreuzung Zweinut~zung \xD7 Zweinutzung"};C.YAK={0:"Yakutian",8:"Yack",9:"Yak"
-,15:"\u042F\u043A",18:"\u042F\u043A"};C.ZEB={1:"minijaturna zebu",0:"Miniature Zebu"
-,6:"ZEB",8:"Zebu miniature",9:"Zwerg-Zebu",15:"\u041A\u0430\u0440\u043B\u0438\u043A\u043E\u0432\u044B\u0439 \u0417\u0435\u0431\u0443"
+,7:"Risteytys kaksik\xE4ytt\xF6inen \xD7 kaksik\xE4ytt\xF6inen",9:"Kreuzung Zweinut~zung \xD7 Zweinutzung"
+};C.YAK={0:"Yakutian",8:"Yack",9:"Yak",15:"\u042F\u043A",18:"\u042F\u043A"};C.ZEB={
+1:"minijaturna zebu",0:"Miniature Zebu",6:"ZEB",8:"Zebu miniature",9:"Zwerg-Zebu"
+,15:"\u041A\u0430\u0440\u043B\u0438\u043A\u043E\u0432\u044B\u0439 \u0417\u0435\u0431\u0443"
 };
 C._Init=function(){};C._ReInit=function(){};C.DH=function(D){};return C;})();
 

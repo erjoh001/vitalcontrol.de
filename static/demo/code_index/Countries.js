@@ -54,10 +54,10 @@ C.BgU={1:"Austrija",3:"\u5967\u5730\u5229",4:"Rakousko",0:"Austria",5:"Oostenrij
 "Kina",3:"\u4E2D\u570B",4:"\u010C\xEDna",0:"China",7:"Kiina",8:"Chine",9:"VR China"
 ,10:"\u039A\u03AF\u03BD\u03B1",13:"Kina",14:"Chiny",15:"\u041A\u0438\u0442\u0430\u0439"
 ,16:"RP China",17:"\xC7in",18:"\u041A\u0438\u0442\u0430\u0439"};C.Bhq={0:"Croatia"
-,5:"Kroatie",9:"Kroatien",16:"Croacia"};C.Bhs={0:"Cyprus",9:"Zypern",16:"Chipre"
-};C.Bht={1:"Republika \u010Ce\u0161ka",3:"\u6377\u514B",4:"\u010Cesk\xE1 republika"
-,0:"Czech Republic",5:"Tsjechi\xE9",6:"Czech Republik",7:"T\u0161ekin tasavalta"
-,8:"Tch\xE9quie",9:"Tschechien",10:"\u0394\u03B7\u03BC\u03BF\u03BA\u03C1\u03B1\u03C4\u03AF\u03B1 \u03C4\u03B7\u03C2 "+
+,5:"Kroatie",7:"Kroatia",9:"Kroatien",16:"Croacia"};C.Bhs={0:"Cyprus",7:"Kypros"
+,9:"Zypern",16:"Chipre"};C.Bht={1:"Republika \u010Ce\u0161ka",3:"\u6377\u514B",4:
+"\u010Cesk\xE1 republika",0:"Czech Republic",5:"Tsjechi\xE9",6:"Czech Republik",
+7:"T\u0161ekin tasavalta",8:"Tch\xE9quie",9:"Tschechien",10:"\u0394\u03B7\u03BC\u03BF\u03BA\u03C1\u03B1\u03C4\u03AF\u03B1 \u03C4\u03B7\u03C2 "+
 "\u03A4\u03C3\u03B5\u03C7\u03AF\u03B1\u03C2",13:"Tsjekkisk Republikk",14:"Czechy"
 ,15:"\u0427\u0435\u0445\u0438\u044F",16:"Chequia",17:"\xC7ek Cumhuriyeti",18:"\u0427\u0435\u0441\u044C\u043A\u0430 \u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0456\u043A\u0430"
 };C.Bhz={1:"Danska",3:"\u4E39\u9EA5",4:"D\xE1nsko",0:"Denmark",5:"Denemarken",7:
@@ -97,13 +97,14 @@ C.BgU={1:"Austrija",3:"\u5967\u5730\u5229",4:"Rakousko",0:"Austria",5:"Oostenrij
 ,16:"Letonia"};C.Bjs={1:"Litvanija",3:"\u7ACB\u9676\u5B9B",4:"Litva",0:"Lithuania"
 ,5:"Litauen",8:"Lituanie",9:"Litauen",10:"\u039B\u03B9\u03B8\u03BF\u03C5\u03B1\u03BD\u03AF\u03B1"
 ,13:"Litauen",14:"Litwa",15:"\u041B\u0438\u0442\u0432\u0430",16:"Lituania",17:"Litvanya"
-,18:"\u041B\u0438\u0442\u0432\u0430"};C.Bjv={0:"Luxembourg",5:"Luxemburg",9:"Luxemburg"
-,16:"Luxemburgo"};C.Bjx="Malta";C.BjN={1:"Nizozemska",3:"\u8377\u862D",4:"Holandsko"
-,0:"Netherlands",5:"Nederland",7:"Alankomaat",8:"Les Pays-Bas",9:"Niederlande",10:
-"\u039F\u03BB\u03B1\u03BD\u03B4\u03AF\u03B1",13:"Nederland",14:"Holandia",15:"\u0413\u043E\u043B\u043B\u0430\u043D\u0434\u0438\u044F"
-,16:"Pa\xEDses Bajos",17:"Hollanda",18:"\u0413\u043E\u043B\u043B\u0430\u043D\u0434\u0456\u044F"
-};C.BjU={1:"Norve\u0161ka",3:"\u632A\u5A01",4:"Norsko",0:"Norway",5:"Noorwegen",
-7:"Norja",8:"La Norv\xE8ge",9:"Norwegen",10:"\u039D\u03BF\u03C1\u03B2\u03B7\u03B3\u03AF\u03B1"
+,18:"\u041B\u0438\u0442\u0432\u0430"};C.Bjv={0:"Luxembourg",5:"Luxemburg",7:"Luxemburg"
+,9:"Luxemburg",16:"Luxemburgo"};C.Bjx="Malta";C.BjN={1:"Nizozemska",3:"\u8377\u862D"
+,4:"Holandsko",0:"Netherlands",5:"Nederland",7:"Alankomaat",8:"Les Pays-Bas",9:"Niederlande"
+,10:"\u039F\u03BB\u03B1\u03BD\u03B4\u03AF\u03B1",13:"Nederland",14:"Holandia",15:
+"\u0413\u043E\u043B\u043B\u0430\u043D\u0434\u0438\u044F",16:"Pa\xEDses Bajos",17:
+"Hollanda",18:"\u0413\u043E\u043B\u043B\u0430\u043D\u0434\u0456\u044F"};C.BjU={1:
+"Norve\u0161ka",3:"\u632A\u5A01",4:"Norsko",0:"Norway",5:"Noorwegen",7:"Norja",8:
+"La Norv\xE8ge",9:"Norwegen",10:"\u039D\u03BF\u03C1\u03B2\u03B7\u03B3\u03AF\u03B1"
 ,13:"Norge",14:"Norwegia",15:"\u041D\u043E\u0440\u0432\u0435\u0433\u0438\u044F",
 16:"Noruega",17:"Nove\xE7",18:"\u041D\u043E\u0440\u0432\u0435\u0433\u0456\u044F"
 };C.Bnz={1:"Poljska",3:"\u6CE2\u862D",4:"Polsko",0:"Poland",5:"Polen",7:"Puola",

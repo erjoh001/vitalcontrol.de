@@ -2094,27 +2094,27 @@ aaR(A.ack.SON);break;case 80:BJ=A.aaR(A.ack.TAU);break;case 81:BJ=A.aaR(A.ack.IN
 A.ack.XMM);break;case 87:BJ=A.aaR(A.ack.EVO);break;case 88:BJ=A.ack.BLH;break;case
 89:BJ=A.ack.TLH;break;case 90:BJ=A.ack.MGR;break;case 91:BJ=A.ack.WSH;break;case
 92:BJ=A.ack.MUR;break;case 93:BJ=A.aaR(A.ack.EBS);break;case 94:BJ=A.aaR(A.ack.ERI
-);break;case 95:BJ=A.ack.PAR;break;case 96:BJ=A.aaR(A.ack.XZF);break;case 97:BJ=
-A.aaR(A.ack.XZM);break;case 98:BJ=A.aaR(A.ack.XZZ);break;default:throw new Error(
-AY6+Bv.toFixed());}return BJ;},_Init:function(aArg){C.EnumToString._Init.call(this
-,aArg);this.__proto__=C.BreedToString;},_className:"Device::BreedToString"};C.TE={
-timer:null,Q:null,Ec:0,Dw:0,JM:0,Po:1000,Px:1000,Bw:false,Cw:false,B2:true,Mc:function(
-G){var F;if(!this.timer)return;if(this.Ec<0){this.Dw=this.timer.Bs;this.Ec=0;}var
-Au=(this.timer.Bs-this.Dw)|0;var Oo=this.Po;var Ha=this.Px+this.Po;var LD=0;var Jh=
-this.Ec;if(!Jh&&(Au>=Oo)){Jh=1;Au=Au-Oo;}if((Jh>0)&&(Au>=Ha)){var Ib=(Au/Ha)|0;Au=
-Au-(Ib*Ha);Jh=Jh+Ib;}if((Jh>2)&&!this.JM)Jh=1;if(Jh!==this.Ec){this.Dw=this.timer.
-Bs-(((B=Au)<0)?B+0x100000000:B);this.Ec=Jh;}if(Jh>0)LD=this.Px;var KB=(Jh>=this.
-JM)&&(this.JM>0);if(!!this.Q){if((!KB&&(Au>=LD))&&((F=this.Q,F[1].call(F[0]))!==
-this.Cw))(F=this.Q,F[2].call(F[0],this.Cw));if((KB||((Au<LD)&&(Jh>0)))&&((F=this.
-Q,F[1].call(F[0]))!==this.B2))(F=this.Q,F[2].call(F[0],this.B2));}if(KB)this.Ar(
-false);},HM:function(E){if(E<0)E=0;this.JM=E;},Fm:function(E){if(E<100)E=100;this.
-Po=E;},Uk:function(E){if(E<0)E=0;this.Px=E;},Ar:function(E){if(this.Bw===E)return;
-this.Bw=E;if(!E&&!!this.timer){A.z9([this,this.Mc],this.timer,0);this.timer=null;
-}if(E){this.timer=A._GetAutoObject(A.acl.Aee);A.zV([this,this.Mc],this.timer,0);
-this.Ec=-1;}},_Init:function(aArg){this.__proto__=C.TE;A.h7++;},_Done:function(){
-this.__proto__=null;A.h7--;},_ReInit:function(){},_Mark:function(D){var B;if((B=
-this.timer)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.Q)&&((B=B[0])._cycle!=
-D))B._Mark(B._cycle=D);if((B=this.I)&&(B._cycle!=D))B._Mark(B._cycle=D);},I:null
+);break;case 95:BJ=A.aaR(A.ack.PAR);break;case 96:BJ=A.aaR(A.ack.XZF);break;case
+97:BJ=A.aaR(A.ack.XZM);break;case 98:BJ=A.aaR(A.ack.XZZ);break;default:throw new
+Error(AY6+Bv.toFixed());}return BJ;},_Init:function(aArg){C.EnumToString._Init.call(
+this,aArg);this.__proto__=C.BreedToString;},_className:"Device::BreedToString"};
+C.TE={timer:null,Q:null,Ec:0,Dw:0,JM:0,Po:1000,Px:1000,Bw:false,Cw:false,B2:true
+,Mc:function(G){var F;if(!this.timer)return;if(this.Ec<0){this.Dw=this.timer.Bs;
+this.Ec=0;}var Au=(this.timer.Bs-this.Dw)|0;var Oo=this.Po;var Ha=this.Px+this.Po;
+var LD=0;var Jh=this.Ec;if(!Jh&&(Au>=Oo)){Jh=1;Au=Au-Oo;}if((Jh>0)&&(Au>=Ha)){var
+Ib=(Au/Ha)|0;Au=Au-(Ib*Ha);Jh=Jh+Ib;}if((Jh>2)&&!this.JM)Jh=1;if(Jh!==this.Ec){this.
+Dw=this.timer.Bs-(((B=Au)<0)?B+0x100000000:B);this.Ec=Jh;}if(Jh>0)LD=this.Px;var
+KB=(Jh>=this.JM)&&(this.JM>0);if(!!this.Q){if((!KB&&(Au>=LD))&&((F=this.Q,F[1].call(
+F[0]))!==this.Cw))(F=this.Q,F[2].call(F[0],this.Cw));if((KB||((Au<LD)&&(Jh>0)))&&((
+F=this.Q,F[1].call(F[0]))!==this.B2))(F=this.Q,F[2].call(F[0],this.B2));}if(KB)this.
+Ar(false);},HM:function(E){if(E<0)E=0;this.JM=E;},Fm:function(E){if(E<100)E=100;
+this.Po=E;},Uk:function(E){if(E<0)E=0;this.Px=E;},Ar:function(E){if(this.Bw===E)
+return;this.Bw=E;if(!E&&!!this.timer){A.z9([this,this.Mc],this.timer,0);this.timer=
+null;}if(E){this.timer=A._GetAutoObject(A.acl.Aee);A.zV([this,this.Mc],this.timer
+,0);this.Ec=-1;}},_Init:function(aArg){this.__proto__=C.TE;A.h7++;},_Done:function(
+){this.__proto__=null;A.h7--;},_ReInit:function(){},_Mark:function(D){var B;if((
+B=this.timer)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.Q)&&((B=B[0])._cycle
+!=D))B._Mark(B._cycle=D);if((B=this.I)&&(B._cycle!=D))B._Mark(B._cycle=D);},I:null
 ,_cycle:0,_observers:null,_className:"Device::BoolEffect"};C.Ig={AnimalId:0,TransponderId:
 1,BD9:2,BD8:3,BEa:4,BD$:5};C.AuX={BCA:0,BC8:1};C.AnimalIdGenerationMethodToString={
 BH:function(A5){var Alq=A5;var Ao0=A.jV;switch(Alq){case 0:Ao0=A.aaR(A.acf.Ud);break;
