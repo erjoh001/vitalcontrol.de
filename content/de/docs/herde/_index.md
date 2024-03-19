@@ -36,7 +36,7 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 
 1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
 
-2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tierdaten: Geschlecht + Typ` oder `Tierdaten: N0 Ohrmarke` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus. Die beiden Auswahlmöglichkeiten unterscheiden sich in der Darstellung der Informationsleiste. 
+2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tierdaten: Geschlecht + Typ` oder `Tierdaten: № Ohrmarke` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus. Die beiden Auswahlmöglichkeiten unterscheiden sich in der Darstellung der Informationsleiste. 
 
 3. In der Herdenliste werden Ihnen nun die allgemeinen Tierdaten und die gewählte Information angezeigt.
 

@@ -22,7 +22,7 @@ Deregister animals from your VitalControl that have either exceeded an age limit
 
 4. Another submenu opens. Use the arrow buttons △ ▽ to navigate to the item `unregister animals: `.
 
-5. Use the arrow buttons ◁ ▷ to select whether you want to deregister the animals `older than 100 days` or `no transponder assigned`. The "count" item shows you how many animals will be deregistered. Confirm your selection with `OK`.
+5. Use the arrow buttons ◁ ▷ to select whether you want to deregister the animals `older than 100 days` or `no transponder assigned`. The "Count" item shows you how many animals will be deregistered. Confirm your selection with `OK`.
 
 6. Confirm the security pop-up with the `F3` button. 
 
