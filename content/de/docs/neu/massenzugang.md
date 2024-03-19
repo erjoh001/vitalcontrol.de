@@ -21,10 +21,10 @@ Mithilfe des Massenzuganges können Sie eine Vielzahl von Tieren in kurzer Zeit 
 
 3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ den Menüpunkt <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Massenzugang" /> `Massenzugang` und bestätigen Sie mit `OK`.
 
-4. Es öffnet sich der Erfassungsbildschirm, in dem je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt werden. Scannen Sie zuerst den Barcode für die Ohrmarkennummer. Die Umrandung des Feldes wechselt von rot zu grün. Scannen Sie anschließend das Geburtsdatum. Die Umrandung wird kurzzeitig grün, bevor beide Umrandungen wieder rot erscheinen. Die Zahl am Passsymbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> im oberen Bildschirmrand ändert sich von 0 auf 1. Das erste Tier wurde gespeichert. Fahren Sie fort und scannen Sie die weiteren Rinderpässe ein. Nach jedem gescannten Pass erhöht sich die Zahl am Passsymbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> um eins. Die Zahl am Herdensymbol <img src="/icons/main/herdsymbol.svg" width="35" align="bottom" alt="New animal" /> erhöht sich ebenfalls um eins. 
+4. Es öffnet sich der Erfassungsbildschirm, in dem je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt werden. Scannen Sie zuerst den Barcode für die Ohrmarkennummer. Die Umrandung des Feldes wechselt von rot zu grün. Scannen Sie anschließend das Geburtsdatum. Die Umrandung wird kurzzeitig grün, bevor beide Umrandungen wieder rot erscheinen. Der Zähler rechts neben den Symbol &nbsp;<img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe" title="Tierpässe" /> `Tierpässe` in der Kopfzeile wird von 0 auf 1 erhöht. Das erste Tier wurde gespeichert. Fahren Sie fort und scannen Sie die weiteren Rinderpässe ein. Nach jedem gescannten Pass erhöht sich der Zähler am Passsymbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe"  title="Tierpässe" /> um eins. Der Zähler am Herdensymbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Tiergruppe" title="Tiergruppe" /> erhöht sich ebenfalls um eins. 
 
 {{% alert title="Hinweis" %}}
-Die Zahl am Passsymbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> verdeutlicht wie viele Pässe Sie in einem Zug, ohne den Menüpunkt `Massenzugang` zu verlassen, eingescannt haben. Die Zahl am Herdensymbol <img src="/icons/main/herdsymbol.svg" width="35" align="bottom" alt="New animal" /> verdeutlicht wie viele Pässe Sie insgesamt eingescannt haben. Dieser setzt sich nicht auf Null zurück, sollten Sie den Menüpunkt `Massenzugang` verlassen. Die Zahl ist äquivalent zu Ihrem Einträgen in dem Menüpunkt `Zukäufe`.
+Der Zähler am Passsymbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Tierpässe"  title="Tierpässe" /> verdeutlicht wie viele Pässe Sie in einem Zug, ohne den Bildschirm `Massenzugang` zu verlassen, eingescannt haben. Der Zähler am Herdensymbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Tiergruppe"  title="Tiergruppe" /> verdeutlicht wie viele Pässe Sie insgesamt eingescannt haben. Dieser setzt sich nicht auf Null zurück, sollten Sie den Bildschirm `Massenzugang` verlassen. Der Zähler ist äquivalent zu Ihrem Einträgen in dem Menüpunkt [`Zukäufe`](../zugaenge/zukaeufe/).
 {{% /alert %}}
 
    ![VitalControl: Menüfolge Neu Massenzugang](../bilder/massenzugang.png "Massenzugang nutzen")
@@ -34,13 +34,13 @@ Innerhalb des Menüpunktes Massenzuganges haben Sie noch weitere Einstellungsmö
 {{% /alert %}}
 
 {{% alert title="Hinweis" %}}
-Während des Scanvorganges kann es zu Fehlermeldungen kommen. Der Barcode-Scanner gibt in diesem Falle einen Ton aus und ein weiteres Scannen ist nicht möglich. Quitieren Sie die entsprechende Fehlermeldung im Display des VitalControls und fahren Sie mit dem Scannen fort. 
+Während des Scanvorgangs kann es zu Fehlermeldungen kommen. Der Barcodescanner gibt in diesem Falle einen Ton aus und ein weiteres Scannen ist nicht möglich. Quittieren Sie die entsprechende Fehlermeldung im Display des VitalControls und fahren Sie mit dem Scannen fort. 
 {{% /alert %}}
 
 
 ### Geburtsdatum muss angegeben werden
 
-Mit dieser Einstellungsoption bestimmten Sie, ob das Geburtsdatum beim Anlegen der Tiere mit angegeben werden muss. Deaktivieren Sie diese Option müssen Sie nur noch den Barcode scannen um ein Tier einzuspeichern. Bei diesen Tieren wird dann jedoch das aktuelle Datum als Geburtsdatum hinterlegt! Diese Funktion ist standardmäßig aktiviert. Um Sie zu deaktivieren gehen Sie wie folgt vor:
+Mit dieser Einstellungsoption bestimmten Sie, ob das Geburtsdatum beim Anlegen der Tiere zwingend mit angegeben werden muss. Deaktivieren Sie diese Option, müssen Sie nur noch eine Ohrmarkennummer scannen um ein Tier anzulegen. Bei diesen Tieren wird dann jedoch das aktuelle Datum als Geburtsdatum hinterlegt! Diese Funktion ist standardmäßig aktiviert. Um Sie zu deaktivieren gehen Sie wie folgt vor:
 
 1. Verwenden Sie die `An/Aus` Taste &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungen Massenzugang" /> um das Einstellungsmenü für den Massenzugang zu öffnen.
 
@@ -54,7 +54,7 @@ Mit dieser Einstellungsoption bestimmten Sie, ob das Geburtsdatum beim Anlegen d
 
 ### Standardwerte einstellen
 
-Innerhalb des Einstellungsmenüs `Standardwerte` legen Sie Standards fest die für jedes Tier gelten, das Sie Anlegen. Der Ablauf des Anlegens mit dem Barcode-Scanner bleibt dabei unverändert wie oben beschrieben. Sie haben die Möglichkeit die Art des Nutztieres, das Geschlecht, die Rasse und den Verbleib einzustellen. Um die `Standardwerte` einzustellen gehen Sie wie folgt vor:
+Innerhalb des Einstellungsmenüs `Standardwerte` legen Sie Standards fest die für jedes Tier gelten, das Sie anlegen. Der Ablauf des Anlegens mit dem Barcode-Scanner bleibt dabei unverändert wie oben beschrieben. Sie haben die Möglichkeit die Art des Nutztieres, das Geschlecht, die Rasse und den Verbleib einzustellen. Um die `Standardwerte` einzustellen gehen Sie wie folgt vor:
 
 1. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="Einstellungsmenü" /> `An/Aus` Taste um das Einstellungsmenü zu öffnen.
 

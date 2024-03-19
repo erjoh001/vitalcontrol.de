@@ -13,7 +13,7 @@ translationKey: new/bulk-recording
 ---
 ## Bulk-recording
 
-With the help of mass access, you can capture a large number of animals in a short time and save them to your device. Use the barcode scanner to scan the barcodes for the ear tag number and date of birth on the cattle passports. The animal is saved automatically and you can scan the next passport straight away. To use mass access, proceed as follows:
+With the help of mass registration, you can capture a large number of animals in a short time and save them to your device. Use the barcode scanner to scan the barcodes for the ear tag number and date of birth on the cattle passports. The animal is saved automatically and you can scan the next passport straight away. To perform mass registration of animals, proceed as follows:
 
 1. Connect the barcode scanner to the VitalControl using the cable.
 
@@ -21,16 +21,16 @@ With the help of mass access, you can capture a large number of animals in a sho
 
 3. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" /> `Bulk recording` and confirm with `OK`.
 
-4. Another submenu opens, which contains a field for the ear tag number and a field for the date of birth. First scan the barcode for the ear tag number. The border of the field changes from red to green. Then scan the date of birth. The border briefly turns green before both borders appear red again. The number on the passport symbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> at the top of the screen changes from 0 to 1. The first animal has been saved. Continue and scan the other cattle passports. After each passport scanned, the number on the passport symbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> increases by one. The number on the herd symbol <img src="/icons/main/herdsymbol.svg" width="35" align="bottom" alt="New animal" /> also increases by one. 
+4. Another submenu opens, which contains one field for the animal' s ear tag number and another field for the animal's date of birth. First scan the barcode for the ear tag number. The border of the field changes from red to green. Then scan the date of birth. The border briefly turns green before both borders appear red again. The counter beneath the passport symbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> at the top of the screen is increased from 0 to 1. The first animal has been saved. Continue and scan the other cattle passports. After each passport scanned, the counter beneath on the passport symbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> increases by one. The counter beneath the herd symbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Animal group"  title="Animal group" /> also increases by one. 
 
 {{% alert title="Hint" %}}
-The number on the pass symbol <img src="/icons/main/pass.svg" width="35" align="bottom" alt="New animal" /> shows how many passes you have scanned in one go without leaving the menu item 'Mass access'. The number on the herd symbol <img src="/icons/main/herdsymbol.svg" width="35" align="bottom" alt="New animal" /> shows how many passes you have scanned in total. This does not reset to zero if you leave the menu item 'Mass access'. The number is equivalent to your entries in the menu item 'Purchases'.
+The counter beneath the passport symbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> shows how many passes you have scanned in one go without leaving the `Bulk recording` screen. The counter beneath the herd symbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="New animal" /> shows how many passports you have scanned in total. This counter does not reset to zero if you leave the `Bulk recording` screen. The number is equivalent to your entries in the menu item ['Purchases'](../new-on-farm/purchased-animals/).
 {{% /alert %}}
 
-   ![VitalControl: Menu New Bulk recording](../images/bulk-recording.png "Bulk recording")
+   ![VitalControl: Menu 'New - Bulk recording'](../images/bulk-recording.png "Bulk recording")
 
 {{% alert title="Hint" %}}
-You have further setting options within the mass access menu item. These are explained below. As preparatory steps, always first access the menu item `Bulk-recording` and then proceed as in the instructions.
+You have further setting options within the `Bulk recording` menu item. These are explained below. As preparatory steps, always first access the menu item `Bulk-recording` and then proceed as in the instructions.
 {{% /alert %}}
 
 {{% alert title="Hint" %}}

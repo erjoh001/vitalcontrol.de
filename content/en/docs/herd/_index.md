@@ -21,7 +21,6 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 - View [weight data](#view-rating)
 - [Search animal](#search-animal)
 - Set [filter](#set-filter)
-- Set [columns info](#set-column-information)
 - [Actions](#call-action-menu)
 
 ### Preparatory steps

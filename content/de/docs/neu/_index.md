@@ -19,7 +19,7 @@ maphilight: true
 
   <area shape="rect" coords="116,40,230,160" alt="Neue Tiere" title="Wie Sie mittels einer einzigen Aktion mehrere neue Tiere auf dem VitalControl-Gerät anlegen&#10;Mausklick: zur Dokumentation" href="/docs/neu/neue-tiere/">
   <area shape="rect" coords="116,160,230,280" alt="Massenzugang" title="Nutzen Sie den Barcodescanner um mittels der Tierpässe eine Vielzahl von zugekauften Tieren zu erfassen&#10;Mausklick: zur Dokumentation" href="/docs/neu/massenzugang/">
-  <area shape="rect" coords="1,401,100,439" alt="Zurück" title="Springen Sie eine Ebene zurück&#10;Mausklick: zur Dokumentation" href="/docs/menu/hauptmenu/">
+  <area shape="rect" coords="1,401,100,439" alt="Zurück" title="Springen Sie eine Ebene zurück&#10;Mausklick: zur Dokumentation" href="/docs/menu/hauptmenue/">
 </map>
 
 {{% alert title="Hinweis" %}}
