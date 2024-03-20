@@ -3,7 +3,7 @@ title: Menu structure of graphical user interface
 linkTitle: Menu tree
 date: 2023-09-15T12:45:53+02:00
 draft: false
-url: /es/docs/menu-tree
+url: /fi/docs/menu-tree
 weight: -10
 description: >
   Shows the interactive menu tree of the VitalControl device.
