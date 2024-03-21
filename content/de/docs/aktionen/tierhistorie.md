@@ -33,10 +33,10 @@ Um die Tierhistorie einzusehen gehen Sie wie folgt vor:
 {{< tabpane >}}
 {{< tab header="Beobachtung:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Aktionen Tierhistorie](../bilder/tierhistorie-transponderscan.png "Tierhistorie")
+![VitalControl: Menüfolge Aktionen Tierhistorie](../bilder/tierhistorie-transponderscan.png "Tierhistorie")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Aktionen Tierhistorie](../bilder/tierhistorie.png "Tierhistorie")
+![VitalControl: Menüfolge Aktionen Tierhistorie](../bilder/tierhistorie.png "Tierhistorie")
 {{% /tab %}}
 {{< /tabpane >}}
 

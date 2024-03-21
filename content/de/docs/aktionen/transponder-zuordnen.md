@@ -31,9 +31,9 @@ Mit dieser Aktion können Sie einem Tier, welches noch keinen Transponder zugewi
 {{< tabpane >}}
 {{< tab header="Transponder zuordnen:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen-scan.png "Transponder zuordnen")
+![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen-scan.png "Transponder zuordnen")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen.png "Transponder zuordnen")
+![VitalControl: Menüfolge Aktionen Transponder zuordnen](../bilder/transponderzuordnen.png "Transponder zuordnen")
 {{% /tab %}}
 {{< /tabpane >}}

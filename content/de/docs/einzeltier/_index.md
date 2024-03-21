@@ -19,7 +19,7 @@ Die Funktion Einzeltier ermöglicht es Ihnen wichtige Informationen über Gewich
 
 2. Es öffnet sich ein Überblick über die wichtigsten Tierinformationen. Im oberen Bildschirmrand wird Ihnen angezeigt welches Tier Sie aktuell einsehen. Verwenden Sie die Taste `F3` um zwischen Tierinformation <img src="/icons/footer/info.svg" width="20" align="bottom" alt="Infos" />, Temperatur <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatur" /> , Gewicht <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Gewicht" /> und Bewertung <img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Bewertung" /> zu wählen.
 
- ![VitalControl: Menüfolge Einzeltier](bilder/einzeltier.png "Einzeltier als Liste")
+![VitalControl: Menüfolge Einzeltier](bilder/einzeltier.png "Einzeltier als Liste")
 
 {{% alert title="Hinweis"  %}}
 Innerhalb jeder Informationsanzeige haben Sie die Möglichkeit ein [Tier zu suchen](#tier-suchen), einen [Filter](#filter-setzen) zu setzen und auf eine [grafische Ansicht](#grafische-ansicht-einstellen) umzuschalten.
@@ -32,7 +32,7 @@ Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzeln
 
 2. Wählen Sie die Zeile `Grafische Ansicht` mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`.
 
- ![VitalControl: Menüfolge Einzeltier](bilder/grafisch.png "Grafische Ansicht")
+![VitalControl: Menüfolge Einzeltier](bilder/grafisch.png "Grafische Ansicht")
 
  ### Tier suchen
 
@@ -42,7 +42,7 @@ Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzeln
 
 3. Verwenden Sie die Pfeiltasten △ ▽ ◁ ▷ um die gewünschte Tiernummer auszuwählen und bestätigen Sie mit `OK`.
 
- ![VitalControl: Menüfolge Einzeltier](bilder/suchen.png "Tier suchen")
+![VitalControl: Menüfolge Einzeltier](bilder/suchen.png "Tier suchen")
 
 ### Filter setzen
 
@@ -50,4 +50,4 @@ Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzeln
 
 2. Wählen Sie die Zeile `Filter setzen` mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`. Wie Sie den Filter anwenden finden Sie [hier](../filter).
 
- ![VitalControl: Menüfolge Einzeltier](bilder/filter.png "Filter setzen")
+![VitalControl: Menüfolge Einzeltier](bilder/filter.png "Filter setzen")

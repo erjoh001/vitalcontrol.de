@@ -36,10 +36,10 @@ Unter [Abschlussaktion bei OK](/docs/zugaenge/keine-ohrmarkennummer-zugewiesen/#
 {{< tabpane >}}
 {{< tab header="Ohrmarke zuweisen:" text=true disabled=true />}}
 {{% tab header="Ohrmarkennummer zuordnen (manuell)" text=true %}}
- ![VitalControl: Menüfolge Zugänge Keine Ohrmarkennummer zugewiesen](../bilder/keine-ohrnummer-zugewiesen.png "Ohrmarke zuweisen (manuell)")
+![VitalControl: Menüfolge Zugänge Keine Ohrmarkennummer zugewiesen](../bilder/keine-ohrnummer-zugewiesen.png "Ohrmarke zuweisen (manuell)")
 {{% /tab %}}
 {{% tab header="Ohrmarkennummer zuordnen (Scan)" text=true %}}
- ![VitalControl: Menüfolge Zugänge Keine Ohrmarkennummer zugewiesen](../bilder/keine-ohrnummer-zugewiesen-scan.png "Ohrmarke zuweisen (Scan)")
+![VitalControl: Menüfolge Zugänge Keine Ohrmarkennummer zugewiesen](../bilder/keine-ohrnummer-zugewiesen-scan.png "Ohrmarke zuweisen (Scan)")
 {{% /tab %}}
 {{< /tabpane >}}    
 

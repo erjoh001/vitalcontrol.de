@@ -34,10 +34,10 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 {{< tabpane >}}
 {{< tab header="Eine Kuh trockenstellen:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Aktionen Trockenstellen](../bilder/trockenstellen-scan.png "Trockenstellen")
+![VitalControl: Menüfolge Aktionen Trockenstellen](../bilder/trockenstellen-scan.png "Trockenstellen")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Aktionen Trockenstellen](../bilder/trockenstellen.png "Trockenstellen")
+![VitalControl: Menüfolge Aktionen Trockenstellen](../bilder/trockenstellen.png "Trockenstellen")
 {{% /tab %}}
 {{< /tabpane >}}
 
@@ -54,10 +54,10 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 {{< tabpane >}}
 {{< tab header="Eine Kuh als laktierend markieren:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Aktionen Als laktierend markieren](../bilder/laktierend-scan.png "Eine Kuh als laktierend markieren")
+![VitalControl: Menüfolge Aktionen Als laktierend markieren](../bilder/laktierend-scan.png "Eine Kuh als laktierend markieren")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Aktionen Als laktierend markieren](../bilder/laktierend.png "Eine Kuh als laktierend markieren")
+![VitalControl: Menüfolge Aktionen Als laktierend markieren](../bilder/laktierend.png "Eine Kuh als laktierend markieren")
 {{% /tab %}}
 {{< /tabpane >}}
 

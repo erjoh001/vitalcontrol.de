@@ -12,7 +12,7 @@ translationKey: actions/edit
 ---
 ## Tierdaten ändern
 
-Die Aktion <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" /> `Ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
+Die Aktion <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" title="Bearbeiten" /> `Ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
 
 - Art des Nutztieres
 - Geschlecht
@@ -27,11 +27,11 @@ Die Aktion <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bea
 
 Um die Tierdaten zu ändern gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" /> `Ändern` aus und bestätigen Sie mit `OK`.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. Wählen Sie mit den Pfeiltasten ◁ ▷ △ ▽ die Aktion <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" title="Bearbeiten" /> `Ändern` aus und bestätigen Sie mit `OK`.
 
 4. Es öffnet sich eine Liste mit den Tierdaten. Verwenden Sie die Pfeiltasten △ ▽ um die gewünschte Änderungsoption auszuwählen.
 
@@ -44,13 +44,12 @@ Um die Tierdaten zu ändern gehen Sie wie folgt vor:
 {{< tabpane >}}
 {{< tab header="Tierdaten ändern:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern-transponderscan.png "Ändern")
+![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern-transponderscan.png "Ändern")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern.png "Ändern")
+![VitalControl: Menüfolge Aktionen Ändern](../bilder/aendern.png "Ändern")
 {{% /tab %}}
 {{< /tabpane >}}
-
 
 {{% alert title="Hinweis" %}}
 Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/). Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.

@@ -41,9 +41,9 @@ Jede Aktion ist über ein Symbol gekennzeichnet. Bewegen Sie den Mauszeiger übe
 
 ## Allgemeiner Ablauf
 
-Innerhalb des Menüs &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` haben Sie jederzeit die Möglichkeit das nächste Tier auszuwählen, ohne dass Sie den Menüpunkt Aktionen verlassen müssen. Um das nächste Tier auszuwählen gehen Sie wie folgt vor:
+Innerhalb des Menüs &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" title="Aktionen" /> `Aktionen` haben Sie jederzeit die Möglichkeit das nächste Tier auszuwählen, ohne dass Sie den Menüpunkt Aktionen verlassen müssen. Um das nächste Tier auszuwählen gehen Sie wie folgt vor:
 
-1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
+1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" title="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
@@ -54,9 +54,9 @@ Innerhalb des Menüs &nbsp;<img src="/icons/actions.svg" width="40" align="botto
 {{< tabpane >}}
 {{< tab header="Allgemeiner Ablauf:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Aktionen Allgemeiner Ablauf](bilder/naechstestier2.png "Allgemeiner Ablauf")
+![VitalControl: Menüfolge Aktionen Allgemeiner Ablauf](bilder/naechstestier2.png "Allgemeiner Ablauf")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Aktionen Allgemeiner Ablauf](bilder/naechstestier.png "Allgemeiner Ablauf")
+![VitalControl: Menüfolge Aktionen Allgemeiner Ablauf](bilder/naechstestier.png "Allgemeiner Ablauf")
 {{% /tab %}}
 {{< /tabpane >}}

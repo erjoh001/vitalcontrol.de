@@ -28,4 +28,4 @@ Deregister animals from your VitalControl that have either exceeded an age limit
 
 7. The animals were successfully deregistered.
 
- ![VitalControl: Menu Device Data-management Animal-data](../images/unregister.png "Unregister")
+![VitalControl: Menu Device Data-management Animal-data](../images/unregister.png "Unregister")

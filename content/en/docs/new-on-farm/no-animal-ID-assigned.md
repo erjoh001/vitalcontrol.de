@@ -36,10 +36,10 @@ Under [last actions on OK](/en/docs/new-on-farm/no-national-animal-id-assigned/#
 {{< tabpane >}}
 {{< tab header="Assign national animal ID:" text=true disabled=true />}}
 {{% tab header="Link ID (manual)" text=true %}}
- ![VitalControl: Menu New No national animal ID assigned](../images/noanimalID.png "Link ID (manual)")
+![VitalControl: Menu New No national animal ID assigned](../images/noanimalID.png "Link ID (manual)")
 {{% /tab %}}
 {{% tab header="Link ID (RFID scan)" text=true %}}
- ![VitalControl: Menu New No national animal ID assigned](../images/noanimalID-scan.png "Link ID (RFID scan)")
+![VitalControl: Menu New No national animal ID assigned](../images/noanimalID-scan.png "Link ID (RFID scan)")
 {{% /tab %}}
 {{< /tabpane >}}        
 

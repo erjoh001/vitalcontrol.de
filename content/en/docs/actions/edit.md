@@ -45,10 +45,10 @@ To change the animal data, proceed as follows:
 {{< tabpane >}}
 {{< tab header="Edit animal data:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Edit animal data](../images/edit-scan.png "Edit animal data")
+![VitalControl: Menu Action Edit animal data](../images/edit-scan.png "Edit animal data")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Edit animal data](../images/edit.png "Edit animal data")
+![VitalControl: Menu Action Edit animal data](../images/edit.png "Edit animal data")
 {{% /tab %}}
 {{< /tabpane >}}
 

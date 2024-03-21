@@ -36,9 +36,9 @@ Um den Verlust eines Tieres zu erfassen gehen Sie wie folgt vor:
 {{< tabpane >}}
 {{< tab header="Verlust eines Tieres erfassen:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Neu Tierverlust](../bilder/tierverlust-scan.png "Verlust eines Tieres erfassen")
+![VitalControl: Menüfolge Neu Tierverlust](../bilder/tierverlust-scan.png "Verlust eines Tieres erfassen")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Neu Tierverlust](../bilder/tierverlust.png "Verlust eines Tieres erfassen")
+![VitalControl: Menüfolge Neu Tierverlust](../bilder/tierverlust.png "Verlust eines Tieres erfassen")
 {{% /tab %}}
 {{< /tabpane >}}

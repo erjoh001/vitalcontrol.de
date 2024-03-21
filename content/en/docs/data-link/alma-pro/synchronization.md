@@ -10,19 +10,19 @@ categories: [Data exchange, Alma Pro]
 ---
 ## Open USB port
 
-![Open USB port](/images/synchronisation/open-usb-slot.svg "Open USB port")
+<img src="/images/synchronisation/open-usb-slot.svg" width="600" align="bottom" alt="Open USB port" title="Open USB port" />
 
 ## Connect VitalControl
 
-![Connect VitalControl to Alma Pro](/images/synchronisation/connect-vitalcontrol-alma_pro.svg "Connection VitalControl Alma Pro")
+<img src="/images/synchronisation/connect-vitalcontrol-alma_pro.svg" width="840" align="bottom" alt="Connect VitalControl to Alma Pro" title="Connection VitalControl Alma Pro" />
 
 ## Close USB port
 
-![Close USB port](/images/synchronisation/close-usb-slot.svg "Close USB port")
+<img src="/images/synchronisation/close-usb-slot.svg" width="600" align="bottom" alt="Close USB port" title="Close USB port" />
 
 {{% alert title="Note" %}}
 Make sure to close the flap of the USB port after each synchronization to prevent moisture from entering the port and to protect the port from the corrosive air present in your barn!
 
-![Mandatory closing of USB port](/images/synchronisation/info-close-usb-mandatory.svg "Closing of USB port")
+<img src="/images/synchronisation/info-close-usb-mandatory.svg" width="840" align="bottom" alt="Mandatory closing of USB port" title="Closing of USB port" />
 
 {{% /alert %}}

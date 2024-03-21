@@ -28,4 +28,4 @@ Melden Sie Tiere von Ihrem VitalControl ab die entweder eine Altersgrenze übers
 
 7. Die Tiere wurden erfolgreich abgemeldet. 
 
- ![VitalControl: Menüfolge Gerät Datenmanagement Tierdaten](../bilder/abmelden.png "Abmelden")
+![VitalControl: Menüfolge Gerät Datenmanagement Tierdaten](../bilder/abmelden.png "Abmelden")

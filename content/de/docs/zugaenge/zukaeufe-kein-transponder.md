@@ -28,10 +28,10 @@ Innerhalb dieser Liste finden Sie alle neu angelegten Tiere, denen noch kein Tra
 {{< tabpane >}}
 {{< tab header="Zukäufe, kein Transponder:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Zugänge Zukäufe, kein Transponder](../bilder/kein-transponder-scan.png "Zukäufe, kein Transponder")
+![VitalControl: Menüfolge Zugänge Zukäufe, kein Transponder](../bilder/kein-transponder-scan.png "Zukäufe, kein Transponder")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Zugänge Zukäufe, kein Transponder](../bilder/kein-transponder.png "Zukäufe, kein Transponder")
+![VitalControl: Menüfolge Zugänge Zukäufe, kein Transponder](../bilder/kein-transponder.png "Zukäufe, kein Transponder")
 {{% /tab %}}
 {{< /tabpane >}}
 

@@ -27,10 +27,10 @@ Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren.
 {{< tabpane >}}
 {{< tab header="Einen Tierverlust registrieren:" text=true disabled=true />}}
 {{% tab header="Transponderscan" text=true %}}
- ![VitalControl: Menüfolge Aktionen Abmelden](../bilder/tierverlust-scan.png "Abmelden")
+![VitalControl: Menüfolge Aktionen Abmelden](../bilder/tierverlust-scan.png "Abmelden")
 {{% /tab %}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
- ![VitalControl: Menüfolge Aktionen Tierverlust](../bilder/tierverlust.png "Tierverlust")
+![VitalControl: Menüfolge Aktionen Tierverlust](../bilder/tierverlust.png "Tierverlust")
 {{% /tab %}}
 {{< /tabpane >}}
 

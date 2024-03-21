@@ -33,10 +33,10 @@ To assign a national animal ID to an animal that does not have a national animal
 {{< tabpane >}}
 {{< tab header="Link animal ID:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Link animal ID](../images/linkanimalid-scan.png "Link animal ID")
+![VitalControl: Menu Action Link animal ID](../images/linkanimalid-scan.png "Link animal ID")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Link animal ID](../images/linkanimalid.png "Link animal ID")
+![VitalControl: Menu Action Link animal ID](../images/linkanimalid.png "Link animal ID")
 {{% /tab %}}
 {{< /tabpane >}}
 
@@ -57,9 +57,9 @@ To assign a national animal ID to an animal that has an electronic ear tag, proc
 {{< tabpane >}}
 {{< tab header="Link animal ID with electronic ear tag scan:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan-scan.png "Link animal ID")
+![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan-scan.png "Link animal ID")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan.png "Link animal ID")
+![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan.png "Link animal ID")
 {{% /tab %}}
 {{< /tabpane >}}

@@ -28,10 +28,10 @@ In this list you will find all newly created animals with a maximum age of X day
 {{< tabpane >}}
 {{< tab header="New on farm, no transponder:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu New on farm, no transponder](../images/notransponder-scan.png "New on farm, no transponder")
+![VitalControl: Menu New on farm, no transponder](../images/notransponder-scan.png "New on farm, no transponder")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu New on farm, no transponder](../images/notransponder.png "New on farm, no transponder")
+![VitalControl: Menu New on farm, no transponder](../images/notransponder.png "New on farm, no transponder")
 {{% /tab %}}
 {{< /tabpane >}}
 
@@ -51,7 +51,7 @@ You can use the previous additional actions to set which actions you want to per
 The menu item `last action on OK:` informs you that assigning a transponder will always be the last action to be carried out as soon as you confirm an animal selection with `OK` in the menu item `new on farm, no transponder`.
 {{% /alert %}}
 
- ![VitalControl: Menu New on farm, no transponder](../images/actions.png "Additional actions")
+![VitalControl: Menu New on farm, no transponder](../images/actions.png "Additional actions")
 
  ## Further menu items
 

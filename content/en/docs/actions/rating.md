@@ -40,10 +40,10 @@ If you do not make a selection using the arrow keys ◁ ▷ but save directly us
 {{< tabpane >}}
 {{< tab header="Basic rating:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Rating](../images/basicrating-scan.png "Basic rating")
+![VitalControl: Menu Actions Rating](../images/basicrating-scan.png "Basic rating")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Rating](../images/basicrating.png "Basic rating")
+![VitalControl: Menu Actions Rating](../images/basicrating.png "Basic rating")
 {{% /tab %}}
 {{< /tabpane >}}
 
@@ -52,10 +52,10 @@ If you do not make a selection using the arrow keys ◁ ▷ but save directly us
 {{< tabpane >}}
 {{< tab header="Basic rating:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Rating](../images/extendedrating-scan.png "Extended rating")
+![VitalControl: Menu Actions Rating](../images/extendedrating-scan.png "Extended rating")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Rating](../images/extendedrating.png "Extended rating")
+![VitalControl: Menu Actions Rating](../images/extendedrating.png "Extended rating")
 {{% /tab %}}
 {{< /tabpane >}}
 

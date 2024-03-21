@@ -31,9 +31,9 @@ With this action you can assign a transponder to an animal that hasn't yet been 
 {{< tabpane >}}
 {{< tab header="Link transponder:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Link transponder](../images/linktransponder-scan.png "Link transponder")
+![VitalControl: Menu Action Link transponder](../images/linktransponder-scan.png "Link transponder")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Link transponder](../images/linktransponder.png "Link transponder")
+![VitalControl: Menu Action Link transponder](../images/linktransponder.png "Link transponder")
 {{% /tab %}}
 {{< /tabpane >}}

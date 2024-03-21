@@ -30,10 +30,10 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 {{< tabpane >}}
 {{< tab header="Dry off a cow:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Dry off](../images/dryoff-scan.png "Dry off a cow")
+![VitalControl: Menu Actions Dry off](../images/dryoff-scan.png "Dry off a cow")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Dry off](../images/dryoff.png "Dry off a cow")
+![VitalControl: Menu Actions Dry off](../images/dryoff.png "Dry off a cow")
 {{% /tab %}}
 {{< /tabpane >}}
 
@@ -50,10 +50,10 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 {{< tabpane >}}
 {{< tab header="Mark as lactated:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Mark as lactated](../images/lactated-scan.png "Mark as lactated")
+![VitalControl: Menu Actions Mark as lactated](../images/lactated-scan.png "Mark as lactated")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Mark as lactated](../images/lactated.png "Mark as lactated")
+![VitalControl: Menu Actions Mark as lactated](../images/lactated.png "Mark as lactated")
 {{% /tab %}}
 {{< /tabpane >}}
 

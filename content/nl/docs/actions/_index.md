@@ -56,9 +56,9 @@ Within the menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Ac
 {{< tabpane >}}
 {{< tab header="General procedure:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions General procedure](images/naechstestier2.png "General procedure")
+![VitalControl: Menu Actions General procedure](images/naechstestier2.png "General procedure")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions General procedure](images/naechstestier.png "General procedure")
+![VitalControl: Menu Actions General procedure](images/naechstestier.png "General procedure")
 {{% /tab %}}
 {{< /tabpane >}}

@@ -28,10 +28,10 @@ With the action `on watch` you put animals on the on-watch list or remove them f
 {{< tabpane >}}
 {{< tab header="On watch:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions On watch](../images/onwatch-scan.png "On watch")
+![VitalControl: Menu Actions On watch](../images/onwatch-scan.png "On watch")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions On watch](../images/onwatch.png "On watch")
+![VitalControl: Menu Actions On watch](../images/onwatch.png "On watch")
 {{% /tab %}}
 {{< /tabpane >}}
 

@@ -28,10 +28,10 @@ The action `animal loss` allows you to register an animal loss. To register an a
 {{< tabpane >}}
 {{< tab header="Animal loss:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Animal loss](../images/animalloss-scan.png "Register an animal loss")
+![VitalControl: Menu Action Animal loss](../images/animalloss-scan.png "Register an animal loss")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Animal loss](../images/animalloss.png "Register an animal loss")
+![VitalControl: Menu Action Animal loss](../images/animalloss.png "Register an animal loss")
 {{% /tab %}}
 {{< /tabpane >}}
 

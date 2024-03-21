@@ -34,10 +34,10 @@ To view the animal history, proceed as follows:
 {{< tabpane >}}
 {{< tab header="Animal history:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Animal history](../images/animalhistory-scan.png "Animal history")
+![VitalControl: Menu Action Animal history](../images/animalhistory-scan.png "Animal history")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Animal history](../images/animalhistory.png "Animal history")
+![VitalControl: Menu Action Animal history](../images/animalhistory.png "Animal history")
 {{% /tab %}}
 {{< /tabpane >}}
 
