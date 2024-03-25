@@ -1,13 +1,13 @@
 ---
 title: Record weight
 linkTitle: Weging
-slug: weging
+slug: record-weight
 weight: 20
 description: >
   Record the weight of your animals.
 date: 2023-07-26
-categories: [Acties]
-tags: [Acties, weight]
+categories: [Actions]
+tags: [Actions, weight]
 translationKey: actions/weight
 ---
 
@@ -18,11 +18,11 @@ Use the &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt
 If the average weight deviates very strongly in one direction (too high/too low), the value for the daily increase should be adjusted.
 {{% /alert %}}
 
-1. In the main screen of your VitalControl device, select the menu item  &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item  &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weighing` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weging` and confirm with `OK`.
 
 4. A menu opens with a weight specification. Increase or decrease this with the arrow keys △ ▽ and save the result with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or with the `OK` key.
 
@@ -37,5 +37,5 @@ If the average weight deviates very strongly in one direction (too high/too low)
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](/nl/docs/actions/settings/#menuonderdelen) menu. Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}
