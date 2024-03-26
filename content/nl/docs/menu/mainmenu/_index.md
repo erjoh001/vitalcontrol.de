@@ -14,7 +14,7 @@ If you click on a menu item, you will be redirected to a description of the resp
 
 <map name="workmap">
   <area shape="rect" coords="3,40,116,160" alt="New" title="Create new animals&#10;Mouse click: open documentation" href="/nl/docs/new/">
-  <area shape="rect" coords="3,160,116,280" alt="Actions" title="Actions on animals&#10;Mouse click: open documentation" href="/nl/docs/actions/">
+  <area shape="rect" coords="3,160,116,280" alt="Actions" title="Actions on animals&#10;Mouse click: open documentation" href="/nl/docs/acties/">
   <area shape="rect" coords="3,280,116,400" alt="Herd" title="Herd menu&#10;Mouse click: open documentation" href="/nl/docs/herd/">
   <area shape="rect" coords="3,400,116,520" alt="Lists" title="Animal lists&#10;Mouse click: open documentation" href="/nl/docs/lists/">
   <area shape="rect" coords="3,520,116,634" alt="Device" title="Device&#10;Mouse click: open documentation" href="/nl/docs/device/">
