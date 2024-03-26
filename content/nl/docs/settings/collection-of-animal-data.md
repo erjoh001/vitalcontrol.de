@@ -81,7 +81,7 @@ The device uses the birth weight stored here in the settings as the default valu
 
 {{% alert title="Warning" color="warning" %}}
 The standard birth weight is only an approximate value, which must be individually adjusted when creating a new animal.
-If you do not want to make this adjustment or if you create animals automatically [in the background](../animal-registration/#auto-registration), no birth weight should be queried or saved when creating a new animal. birth weight should not be queried or saved when creating a new animal. This can be defined in the settings for [registration of animals](../animal-registration/#set-recorded-weights).
+If you do not want to make this adjustment or if you create animals automatically [in the background](../animal-registration/#dieren-automatisch-registreren), no birth weight should be queried or saved when creating a new animal. birth weight should not be queried or saved when creating a new animal. This can be defined in the settings for [registration of animals](../animal-registration/#opgenomen-gewicht).
 {{% /alert %}}
 
 {{% alert title="Default values birth weights:" %}}
@@ -95,7 +95,7 @@ If you do not want to make this adjustment or if you create animals automaticall
 ### Gem. dagl. gewichtstoename
 
 {{% alert title="Explanation" %}}
-When [weighing](../../actions/record-weight/) an animal, the defined daily increase is used for the calculation of the suggested weight value during animal weighing. If the suggested weight value is too low or too high for the majority of the animals to be weighed, you should adjust the defined value downwards or upwards, respectively, to shorten the time needed for adjusting the weight value with the arrow keys.
+When [weighing](../../acties/record-weight/) an animal, the defined daily increase is used for the calculation of the suggested weight value during animal weighing. If the suggested weight value is too low or too high for the majority of the animals to be weighed, you should adjust the defined value downwards or upwards, respectively, to shorten the time needed for adjusting the weight value with the arrow keys.
 {{% /alert %}}
 
 To set the `Gem. dagl. gewichtstoename` used in the calculation of the approximate weight of an animal proceed as follows.
@@ -161,7 +161,7 @@ To set the `Dierevaluatie` on your device proceed as follows.
 ## Controle periode verse koeien
 
 {{% alert title="Explanation" %}}
-When managing fresh cows, checking the animals daily for several days after birth, including taking their temperature is considered a best practices routine. The duration of this control period varies considerably from farm to farm. For this reason, the length of the control period can be set to a value between 3 and 14 days in the VitalControl settings. The set value for the control period of fresh cows determines the number of columns of the column chart displayed for each animal in the [fresh cow list](../../lists/fresh-cows/).
+When managing fresh cows, checking the animals daily for several days after birth, including taking their temperature is considered a best practices routine. The duration of this control period varies considerably from farm to farm. For this reason, the length of the control period can be set to a value between 3 and 14 days in the VitalControl settings. The set value for the control period of fresh cows determines the number of columns of the column chart displayed for each animal in the [fresh cow list](../../lists/verse-koeien/).
 {{% /alert %}}
 
 To set the length of the Control period for your fresh cows proceed as follows:

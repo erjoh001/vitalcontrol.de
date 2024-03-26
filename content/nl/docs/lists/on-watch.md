@@ -19,7 +19,7 @@ On the watch list you will find all animals that you have manually added to the 
 - [Dier data](/nl/docs/lists/alarm/#dier-data)
 - [Temperatuur meten](/nl/docs/lists/alarm/#temperatuur-meten)
 - [Dier beoordelen](/nl/docs/lists/alarm/#dier-beoordelen)
-- [Verwijder van Watchlist](#verwijder-van-Watchlist)
+- [Verwijder van Watchlist](#verwijder-van-watchlist)
 - [Toggle alarm status](#toggle-alarm-status)
 - [Dier zoeken](/nl/docs/lists/alarm/#dier-zoeken)
 - [Filter zetten](/nl/docs/lists/alarm/#filter-zetten)

@@ -41,7 +41,7 @@ In addition to creating the export file, you have the following options:
 
 - [Transponder afnemen](#transponder-afnemen)
 - [Verwijder alle meldingen](#verwijder-alle-meldingen)
-- [Verwijder dier + melding](#verwijder-dier-+-melding)
+- [Verwijder dier + melding](#verwijder-dier--melding)
 - [Verwijder aankoopmelding](#verwijder-aankoopmelding)
 - [Edit a mark](#edit-data-of-purchased-animal)
 
@@ -107,6 +107,6 @@ To edit the data of an animal in the list of purchases, proceed as follows:
 
 1. Use the arrow keys △ ▽ to select the animal you want to edit.
 
-2. Use the `OK` button. A submenu with the animal data opens. You can find out how to edit these [here](/nl/docs/actions/edit/#edit-animal-data).
+2. Use the `OK` button. A submenu with the animal data opens. You can find out how to edit these [here](/nl/docs/acties/edit/#veranderen).
 
     ![VitalControl: List of purchased animals, Edit animal data](../images/edit.png "Edit data of purchased animal")

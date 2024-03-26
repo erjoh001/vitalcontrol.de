@@ -38,6 +38,6 @@ In this settings menu you set the &nbsp;<img src="/icons/actions/action-chain.sv
 
 3. A submenu opens. Use the arrow keys △ ▽ to select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Vervolgacties` and confirm with `OK`.
 
-4. Further instructions can be found [here](/nl/docs/vervolgacties/#vervolgacties).
+4. Further instructions can be found [here](/nl/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Menu Acties Vervolgacties](../images/chainofactions.png "Vervolgacties")

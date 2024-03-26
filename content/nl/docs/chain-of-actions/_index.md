@@ -46,7 +46,7 @@ The action chain allows you to automatically carry out several actions for an an
     ![VitalControl: Menu chain of actions](images/setchainofactions.png "Set chain of actions")
 
 {{% alert title="Hint" %}}
-Within the individual actions you have the same setting options as described in the chapter [Actions](../actions) for each individual action.
+Within the individual actions you have the same setting options as described in the chapter [Actions](../acties) for each individual action.
 {{% /alert %}}
 
 {{% alert title="Hint" %}}

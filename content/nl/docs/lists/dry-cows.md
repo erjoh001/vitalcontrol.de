@@ -48,7 +48,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 4. You will now be asked to scan the mother animal's transponder. Alternatively, you can also confirm with `OK` and enter the animal ID with the arrow keys △ ▽ ◁ ▷.
 
-5. Now scan the calf's transponder or skip this step with the `F3` key `ESC` if the calf does not yet have a transponder. You can later assign this to the animal using the action &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> [`Link transponder`](../../actions/link-transponder).
+5. Now scan the calf's transponder or skip this step with the `F3` key `ESC` if the calf does not yet have a transponder. You can later assign this to the animal using the action &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> [`Link transponder`](../../acties/link-transponder).
 
 6. Another settings menu opens in which you can save various details about the new calf. Use the arrow keys △ ▽ to select the appropriate setting option. For the setting options `Type van nutdier`, `Geslacht`, `Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` and `Afkalfverloop` use the arrow keys △ ▽ to select the desired setting. For the setting options `Oormerknummer`, `ID` and `Geboortedatum` select the corresponding setting option and confirm with `OK`. Now use the arrow keys △ ▽ ◁ ▷ to select the desired numbers.
 

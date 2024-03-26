@@ -34,7 +34,7 @@ To set the `Assignment animal ID` on your device, proceed as follows.
 
 4. Use the arrow keys ◁ ▷ to set the assignment of the animal numbers. If you select the setting `Derivation from transponder number`, you will get the options to set the `Digits of new ID` and `Right offset`. Use the arrow keys △ ▽ to select the appropriate range and the arrow keys ◁ ▷ to select the desired setting.
 
-5. Select the option `Consecutive` or `Derivation from transponder number` please proceed as in [Assignment animal ID](../animal-registration/#assignment-animal-id)
+5. Select the option `Consecutive` or `Derivation from transponder number` and proceed as described in page [Assignment animal ID](../animal-registration/#assignment-animal-id).
 
 
     ![VitalControl: menu settings link transponder](../images/assignmentanimalid.png "Assignment animal ID")

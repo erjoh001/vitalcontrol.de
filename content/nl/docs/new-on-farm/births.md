@@ -37,10 +37,10 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
 In addition to creating the export file, you have the following options:
 
-- [Change](#change-between-list-view-and-single-animal-view) between list view and single animal view
-- [Verwijder alle geboortemeldingen](../purchased-animals//#verwijder-alle-meldingen)
-- [Verwijder dier + melding](../purchased-animals//#verwijder-dier-+-melding)
-- [Verwijder geboortemelding](../purchased-animals/(#verwijder-aankoopmelding))
+- [Change](#change-between-lijst-and-individueel-dier-zicht) between lijst zicht and individueel dier zicht
+- [Verwijder alle geboortemeldingen](../purchased-animals/#verwijder-alle-meldingen)
+- [Verwijder dier + melding](../purchased-animals/#verwijder-dier--melding)
+- [Verwijder geboortemelding](../purchased-animals/#verwijder-aankoopmelding)
 - [Edit](#edit-data-of-birth-notice) a notice
 
 {{% alert title="Hint" %}}

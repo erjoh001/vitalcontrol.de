@@ -1,6 +1,6 @@
 ---
-title: Nieuw op bedijf
-linkTitle: Nieuw op bedijf
+title: Nieuw op bedrijf
+linkTitle: Nieuw op bedrijf
 description: Manage your new animals.
 translationKey: new-on-farm
 weight: 52

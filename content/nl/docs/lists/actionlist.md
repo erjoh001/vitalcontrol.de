@@ -16,7 +16,7 @@ translationKey: lists/action
 Within the action list you can see the animals for which no action has been taken for six hours. The following setting options are also available:
 
 - [Temperatuur meten](../alarm/#temperatuur-meten)
-- [Dier beoordelen](../alarm/##dier-beoordelen)
+- [Dier beoordelen](../alarm/#dier-beoordelen)
 - [Dier wegen](#dier-wegen)
 - [Vervolgacties](#vervolgacties)
 - [Link transponder](#link-transponder)

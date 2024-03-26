@@ -18,7 +18,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 - View [animal data](#view-animal-data)
 - View [temperatuur data](#display-temperatuur)
 - View [beoordeling data](#view-beoordeling)
-- View [gewicht data](#view-gewicht)
+- View [gewicht data](#display-gewicht)
 - [Dier zoeken](#dier-zoeken)
 - [Filter zetten](#filter-zetten)
 - [Acties](#call-acties-menu)

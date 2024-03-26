@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Nieuw op bedrijf, geen transponder
 
-In this list you will find all newly created animals with a maximum age of X days that have not yet been assigned a transponder. You can set the maximum age [here](/en/docs/settings/animal-registration/#set-default-values). Once you have collected a transponder from these animals, you can search for the corresponding animal ID within the list and scan the associated transponder. The transponder is then automatically assigned to the animal and the animal is deleted from the list. To assign a transponder, proceed as follows:
+In this list you will find all newly created animals with a maximum age of X days that have not yet been assigned a transponder. You can set the maximum age [here](/nl/docs/settings/animal-registration/#standaard-waardes). Once you have collected a transponder from these animals, you can search for the corresponding animal ID within the list and scan the associated transponder. The transponder is then automatically assigned to the animal and the animal is deleted from the list. To assign a transponder, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="New on farm" /> `Nieuw op bedrijf` and press the `OK` button.
 
@@ -55,4 +55,4 @@ The menu item `Vorige toegevoegde acties:` informs you that assigning a transpon
 
  ## Further menu items
 
-You also have the option of selecting between `Instellingen`, `Dier zoeken` and `Filter zetten` in the pop-up. Use the arrow buttons △ ▽ to navigate to the respective menu item and confirm with `OK`. The information for the menu item `Instellingen` can be found [here](/nl/docs/settings/animal-registration/#set-default-values), for `Filter zetten` [here](/nl/docs/filter/) and for `Dier zoeken` proceed as in `Nieuw op bedrijf, geen transponder` step 3.
+You also have the option of selecting between `Instellingen`, `Dier zoeken` and `Filter zetten` in the pop-up. Use the arrow buttons △ ▽ to navigate to the respective menu item and confirm with `OK`. The information for the menu item `Instellingen` can be found [here](/nl/docs/settings/animal-registration/#standaard-waardes), for `Filter zetten` [here](/nl/docs/filter/) and for `Dier zoeken` proceed as in `Nieuw op bedrijf, geen transponder` step 3.

@@ -54,7 +54,7 @@ The alarm list is structured as follows:
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
-4. The `Actions` menu will open automatically. The handling of the actions can be found [here](/nl/docs/actions/).
+4. The `Actions` menu will open automatically. The handling of the actions can be found [here](/nl/docs/acties/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
@@ -78,7 +78,7 @@ The alarm list is structured as follows:
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
-4. The [Temperatuur meten](/nl/docs/actions/measure-temperature/#measure-fever) function is now started automatically.
+4. The [Temperatuur meten](/nl/docs/acties/measure-temperature/#measure-fever) function is now started automatically.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Temperatuur meten")
 
@@ -90,7 +90,7 @@ The alarm list is structured as follows:
 
 3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
-4. The [Dier beoordelen](/nl/docs/actions/rating/#rate-your-animals) function is now started automatically.
+4. The [Dier beoordelen](/nl/docs/acties/rating/#rate-your-animals) function is now started automatically.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Dier beoordelen")
 

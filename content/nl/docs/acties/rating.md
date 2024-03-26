@@ -13,7 +13,7 @@ translationKey: actions/animal-rating
 
 ## Rate your animals
 
-When rating the animal, you document the condition of the individual animal. The condition is determined visually and recorded with the help of the traffic light system. In the basic assessment, only the general condition is recorded. In the extended evaluation you record the general condition, feed intake, consistency of faeces  and respiratory diseases. You can either change the rating mode directly in the <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Rating` action or you can define it in the [settings](../../settings/data-acquisition/#mode-of-animal-rating).
+When rating the animal, you document the condition of the individual animal. The condition is determined visually and recorded with the help of the traffic light system. In the basic assessment, only the general condition is recorded. In the extended evaluation you record the general condition, feed intake, consistency of faeces  and respiratory diseases. You can either change the rating mode directly in the <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Rating` action or you can define it in the [settings](../../settings/data-acquisition/#dierevaluatie).
 
 {{% alert title="Hint" %}}
 A yellow or red evaluation means that VitalControl classifies the animal as conspicuous and puts it on the alarm list.
@@ -60,5 +60,5 @@ If you do not make a selection using the arrow keys ◁ ▷ but save directly us
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](/nl/docs/actions/settings/#menuonderdelen) menu. Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](/nl/docs/acties/settings/#menuonderdelen) menu. Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}
