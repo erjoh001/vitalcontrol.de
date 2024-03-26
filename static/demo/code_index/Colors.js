@@ -38,7 +38,7 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 jb=(function(){var A=index;var C={};
 
 C.CS=0xFFFFFFFF;C.CJ=0xFFE6DED8;C.Re=0x00000000;C.Text=0xFF333333;C.AV=0xFFB6771A;
-C.H8=0xFF00DCFF;C.E2=0xFF3DD87D;C.Gi=0xFF001EFF;C.Bm=0xFFFFFFFF;C.Bc=0xFF7B7975;
+C.H8=0xFF00DCFF;C.E1=0xFF3DD87D;C.Gi=0xFF001EFF;C.Bm=0xFFFFFFFF;C.Bc=0xFF7B7975;
 C.Afp=0xFFFFB03B;C.BiS=0xFFD9D2CC;C.AQN=0xFFF5ECE5;C.AmW=0xFF6E6E6E;C.Ad7=0xFF5F5350;
 C.Bn3=0xAA5F5350;C.Bjh=0xE6FFFFFF;
 C._Init=function(){};C._ReInit=function(){};C.DH=function(D){};return C;})();

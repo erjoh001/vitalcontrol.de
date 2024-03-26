@@ -4,8 +4,8 @@ linkTitle: Lists
 description: Check the lists of your animals
 translationKey: lists
 weight: 70
-manualLink: /en/docs/lists/
+manualLink: /nl/docs/lists/
 ---
 <script>
-  window.location.href = "/en/docs/lists/";
+  window.location.href = "/nl/docs/lists/";
 </script>

@@ -4,8 +4,8 @@ linkTitle: Evaluation
 description: Evaluate your stored data
 translationKey: evaluation
 weight: 80
-manualLink: /en/docs/evaluation/
+manualLink: /nl/docs/evaluation/
 ---
 <script>
-  window.location.href = "/en/docs/evaluation/";
+  window.location.href = "/nl/docs/evaluation/";
 </script>

@@ -1,5 +1,5 @@
 main:
-  - name: Menu structure
+  - name: Menustructuur
     url: /docs/menu-tree/
     weight: 40
   - name: Demo app

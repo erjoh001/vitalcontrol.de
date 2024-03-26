@@ -23,7 +23,7 @@ The following graphic lists the available settings concerning the recording of a
   <area shape="rect" coords="3,80,239,160" alt="Dierevaluatie" title="Set the mode of animal rating&#10;Mouse click: open documentation" href="#dierevaluatie">
   <area shape="rect" coords="3,160,239,240" alt="Controle periode verse koeien" title="Set the length of the control period for fresh cows&#10;Mouse click: open documentation" href="#controle-periode-verse-koeien">
 
-  <area shape="rect" coords="2,282,125,318" alt="Back" title="Jump back one level" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="Back" title="Jump back one level" href="/nl/docs/settings/">
 </map>
 
 {{% alert title="Hint" %}}

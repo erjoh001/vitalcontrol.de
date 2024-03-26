@@ -4,8 +4,8 @@ linkTitle: New
 description: How to register new animals on VitalControl device
 translationKey: new
 weight: 10
-manualLink: /en/docs/new/
+manualLink: /nl/docs/new/
 ---
 <script>
-  window.location.href = "/en/docs/new/";
+  window.location.href = "/nl/docs/new/";
 </script>
