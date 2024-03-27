@@ -59,7 +59,7 @@ C.AT={0:"Ansbach-Triesdorfer",15:"\u0410\u043D\u0441\u0431\u0430\u0445-\u0422\u0
 };C.BLA={0:"Blaarkop",15:"\u0413\u043E\u043B\u043B\u0430\u043D\u0434\u0441\u043A\u0430\u044F (Blaarkop)"
 };C.BLH="British Longhorn";C.BRA={0:"Brangus",15:"\u0411\u0440\u0430\u043D\u0433\u0443\u0441"
 };C.BRN={0:"Brahman",15:"\u0411\u0440\u0430\u0445\u043C\u0430\u043D",18:"\u0411\u0440\u0430\u0445\u043C\u0430\u043D"
-};C.BV={0:"Braunvieh",8:"Brune des Alpes",15:"\u0411\u0443\u0440\u0430\u044F \u0448\u0432\u0438\u0446\u043A\u0430\u044F"
+};C.BV={0:"Braunvieh",5:"Bruinvee",8:"Brune des Alpes",15:"\u0411\u0443\u0440\u0430\u044F \u0448\u0432\u0438\u0446\u043A\u0430\u044F"
 ,16:"Pardo Suizo"};C.BVF={0:"Braunvieh, beef",6:"Braunvieh beef",8:"Brune des Alpes, engraissement"
 ,9:"Braunvieh, Fleischnutzung",10:"Braunvieh, \u03BA\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2"
 ,13:"Braunvieh, kj\xF8tt",15:"\u0411\u0443\u0440\u0430\u044F \u0448\u0432\u0438\u0446\u043A\u0430\u044F, "+
