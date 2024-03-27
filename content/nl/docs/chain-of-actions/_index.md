@@ -1,6 +1,6 @@
 ---
 title: "Chain of actions: setup and usage"
-linkTitle: "Vervolgacties"
+linkTitle: "Opeenvolgende acties"
 weight: 15
 date: 2023-07-28T13:25:28+02:00
 draft: false
@@ -17,7 +17,7 @@ The action chain allows you to automatically carry out several actions for an an
 
 ### Use chain of actions
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Vervolgacties` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Opeenvolgende acties` and press the `OK` button.
 
 2. Either scan an animal using the transponder or confirm with `OK` and use the arrow keys △ ▽ ◁ ▷ to enter the desired animal ID.
 
@@ -35,7 +35,7 @@ The action chain allows you to automatically carry out several actions for an an
 
 ### Set chain of actions
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Vervolgacties` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Opeenvolgende acties` and press the `OK` button.
 
 2. Use the button `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`Instellingen`).
 

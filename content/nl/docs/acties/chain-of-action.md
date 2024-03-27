@@ -1,7 +1,7 @@
 ---
 title: Apply the chain of action
-linkTitle: Vervolgacties
-slug: chain-of-action
+linkTitle: Opeenvolgende acties
+slug: opeenvolgende-acties
 weight: 50
 description: >
  Applying and setting the chain of action.

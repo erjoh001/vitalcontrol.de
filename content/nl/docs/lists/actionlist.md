@@ -18,7 +18,7 @@ Within the action list you can see the animals for which no action has been take
 - [Temperatuur meten](../alarm/#temperatuur-meten)
 - [Dier beoordelen](../alarm/#dier-beoordelen)
 - [Dier wegen](#dier-wegen)
-- [Vervolgacties](#vervolgacties)
+- [Opeenvolgende acties](#opeenvolgende-acties)
 - [Link transponder](#link-transponder)
 - [Verberg na actie](#verberg-na-actie)
 - [Dier zoeken](../alarm/#dier-zoeken)
@@ -50,17 +50,17 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Dier wegen")
 
-### Vervolgacties
+### Opeenvolgende acties
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Vervolgacties` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Opeenvolgende acties` and select this option by pressing the central `OK` button or the `F3` key `OK`.
 
 3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
-4. The [Vervolgacties](../../chain-of-actions) function will open automatically.
+4. The [Opeenvolgende acties](../../chain-of-actions) function will open automatically.
 
-   ![VitalControl Lists Action list](../images/chainofaction.png "Vervolgacties")
+   ![VitalControl Lists Action list](../images/chainofaction.png "Opeenvolgende acties")
 
 ### Link transponder
 

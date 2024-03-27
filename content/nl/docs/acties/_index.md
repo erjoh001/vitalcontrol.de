@@ -19,7 +19,7 @@ Depending on the animal type, you can perform up to 16 different actions for an 
   <area shape="rect" coords="3,100,60,165" alt="Temperatuur" title="Measure fever in your animals&#10;Mouse click: open documentation" href="/nl/docs/acties/measure-temperature/">
   <area shape="rect" coords="60,100,118,165" alt="Weging" title="Record the weight of your animals&#10;Mouse click: open documentation" href="/nl/docs/acties/record-weight/">
   <area shape="rect" coords="118,100,174,165" alt="Beoordeling" title="Rate your animals&#10;Mouse click: open documentation" href="/nl/docs/acties/rating/">
-  <area shape="rect" coords="174,100,230,165" alt="Vervolgacties" title="Applying and setting the chain of action&#10;Mouse click: open documentation" href="/nl/docs/chain-of-actions/">
+  <area shape="rect" coords="174,100,230,165" alt="Opeenvolgende acties" title="Applying and setting the chain of action&#10;Mouse click: open documentation" href="/nl/docs/chain-of-actions/">
    <area shape="rect" coords="3,165,60,225" alt="Kalving" title="Register a calving&#10;Mouse click: open documentation" href="/nl/docs/acties/calving/">
    <area shape="rect" coords="60,165,120,225" alt="Droog zetten" title=" Dry off a cow or add her to the fresh cows list&#10;Mouse click: open documentation" href="/nl/docs/acties/dry-off/">
    <area shape="rect" coords="120,165,175,225" alt="Alarm" title="Add and remove animals from the alarm list&#10;Mouse click: open documentation" href="/nl/docs/acties/alarm/">
