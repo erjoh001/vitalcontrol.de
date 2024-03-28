@@ -2,7 +2,6 @@
 title: Lists
 linkTitle: Lists
 description: Check the lists of your animals
-translationKey: lists
 weight: 70
 manualLink: /nl/docs/lists/
 ---

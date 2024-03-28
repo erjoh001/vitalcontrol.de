@@ -2,7 +2,6 @@
 title: New on farm
 linkTitle: New on farm
 description: Manage your new animals
-translationKey: zugaenge
 weight: 20
 manualLink: /en/docs/new-on-farm/
 ---

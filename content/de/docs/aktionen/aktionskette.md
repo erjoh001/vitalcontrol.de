@@ -8,7 +8,6 @@ description: >
 date: 2023-07-26
 Kategorien: [Aktionen]
 Tags: [Aktionen, Aktionskette]
-translationKey: actions/chain-of-action
 manualLink: /docs/aktionskette/
 ---
 <script>

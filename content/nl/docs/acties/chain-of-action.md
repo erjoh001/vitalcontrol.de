@@ -8,7 +8,6 @@ description: >
 date: 2023-07-26
 categories: [Actions]
 tags: [Actions, chain of action]
-translationKey: actions/chain-of-action
 manualLink: /nl/docs/chain-of-actions/
 ---
 <script>
