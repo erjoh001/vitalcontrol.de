@@ -36,7 +36,7 @@
 var index;if(!index)throw new Error("The application file '_project.js' isn't yet loaded!"
 );if(index.aci)throw new Error("The unit file 'Resources.js' included twice!");index.
 aci=(function(){var A=index;var C={};
-var Cc=[0,0];var BD="The property \'FrameSize\' is READ ONLY.";var E6=[0,0,0,0];
+var Cc=[0,0];var BD="The property \'FrameSize\' is READ ONLY.";var E7=[0,0,0,0];
 C.Al={bitmap:null,FrameDelay:0,NoOfFrames:1,FrameSize:A.wf,OL:false,Vz:false,Lb:function(
 ){if(!this.bitmap)return;var handle=this.bitmap;A._FreeBitmap(handle);this.bitmap=
 null;this.FrameSize=Cc;this.FrameDelay=0;this.NoOfFrames=1;this.Vz=false;},Init:
@@ -44,59 +44,59 @@ function(aArg){if(!aArg)return;var handle=null;var noOfFrames=1;var frameSize=Cc
 var frameDelay=0;{var bmp=A.aa3(aArg,this);if(bmp){noOfFrames=bmp.NoOfFrames;frameSize=
 bmp.FrameSize;frameDelay=bmp.FrameDelay;}handle=bmp;}this.bitmap=handle;this.NoOfFrames=
 noOfFrames;this.FrameSize=frameSize;this.FrameDelay=frameDelay;this.OL=true;this.
-Vz=(!!this.bitmap&&(this.FrameDelay>0))&&(this.NoOfFrames>1);},ArL:function(E){throw new
-Error(BD);},Update:function(){},_Init:function(aArg){A.Core.Ahy._Init.call(this,
+Vz=(!!this.bitmap&&(this.FrameDelay>0))&&(this.NoOfFrames>1);},ArO:function(E){throw new
+Error(BD);},Update:function(){},_Init:function(aArg){A.Core.Ahz._Init.call(this,
 aArg);this.__proto__=C.Al;this.Init(aArg);},_Done:function(){this.Lb();this.__proto__=
-A.Core.Ahy;A.Core.Ahy._Done.call(this);},_className:"Resources::Bitmap"};C.TL={_class:
+A.Core.Ahz;A.Core.Ahz._Done.call(this);},_className:"Resources::Bitmap"};C.TK={_class:
 function(){return C.Al;},0:{FileName:"./res_index/ResourcesDefaultBitmap.png",Format:
 A._PIXEL_FORMAT_NATIVE,NoOfFrames:1,FrameSize:[48,48],FrameDelay:0,_this:null}};
-C.ACr={_class:function(){return C.B6;},0:{Data:function(){return A.acM;},Cache:[
-],_this:null}};C.B6={font:null,Leading:0,Descent:0,Ascent:0,Lb:function(){this.By6(
-);},Init:function(aArg){this.BzL(aArg);},By6:function(){if(!this.font)return;var
+C.ACw={_class:function(){return C.B6;},0:{Data:function(){return A.acM;},Cache:[
+],_this:null}};C.B6={font:null,Leading:0,Descent:0,Ascent:0,Lb:function(){this.Bzn(
+);},Init:function(aArg){this.Bz4(aArg);},Bzn:function(){if(!this.font)return;var
 handle=this.font;A.aal(handle);this.font=null;this.Ascent=0;this.Descent=0;this.
-Leading=0;},BzL:function(aFontResource){if(!aFontResource)return;var handle=null;
+Leading=0;},Bz4:function(aFontResource){if(!aFontResource)return;var handle=null;
 var ascent=0;var descent=0;var leading=0;{var font=A.aa5(aFontResource);if(font){
 ascent=font.Ascent;descent=font.Descent;leading=font.Leading;}handle=font;}this.
-font=handle;this.Ascent=ascent;this.Descent=descent;this.Leading=leading;},BiO:function(
+font=handle;this.Ascent=ascent;this.Descent=descent;this.Leading=leading;},Bi3:function(
 aString,aOffset,aCount,aColumn,aMinWidth){if(aOffset<0)aOffset=0;if(!this.font)return 0;
 if((aOffset>0)&&(aOffset>aString.length))aOffset=aString.length;var handle=this.
 font;var pos=0;pos=A.aaF(handle,aString,aOffset,aCount,aColumn,aMinWidth);return pos;
-},BiS:function(aString,aOffset,aCount,aX,aMinWidth){if(aOffset<0)aOffset=0;if(!this.
+},Bi7:function(aString,aOffset,aCount,aX,aMinWidth){if(aOffset<0)aOffset=0;if(!this.
 font)return 0;if((aOffset>0)&&(aOffset>aString.length))aOffset=aString.length;var
 handle=this.font;var col=0;col=A.aaP(handle,aString,aOffset,aCount,aX,aMinWidth);
-return col;},A6w:function(aFlowString){if(!this.font)return 0;var handle=this.font;
-var advance=0;advance=A.aav(handle,aFlowString);return advance;},BnJ:function(aString
+return col;},A6D:function(aFlowString){if(!this.font)return 0;var handle=this.font;
+var advance=0;advance=A.aav(handle,aFlowString);return advance;},BnY:function(aString
 ,aOffset,aWidth,aMaxNoOfRows,aBidi){if(aOffset<0)aOffset=0;if(!this.font||((aOffset>
 0)&&(aOffset>=aString.length)))return A.jV;var handle=this.font;var result=A.jV;
 result=A.abv(handle,aString,aOffset,aWidth,aMaxNoOfRows,aBidi);return result;},Yn:
 function(aString,aOffset,aCount){if(aOffset<0)aOffset=0;if(!this.font||((aOffset>
 0)&&(aOffset>=aString.length)))return 0;var handle=this.font;var advance=0;advance=
-A.m9(handle,aString,aOffset,aCount);return advance;},A6H:function(aString,aOffset
+A.m9(handle,aString,aOffset,aCount);return advance;},A6O:function(aString,aOffset
 ,aCount){if(aOffset<0)aOffset=0;if(!this.font||((aOffset>0)&&(aOffset>=aString.length
-)))return E6;var handle=this.font;var extent=E6;extent=A.aaQ(handle,aString,aOffset
-,aCount);return extent;},_Init:function(aArg){A.Core.Ahy._Init.call(this,aArg);this.
+)))return E7;var handle=this.font;var extent=E7;extent=A.aaQ(handle,aString,aOffset
+,aCount);return extent;},_Init:function(aArg){A.Core.Ahz._Init.call(this,aArg);this.
 __proto__=C.B6;this.Init(aArg);},_Done:function(){this.Lb();this.__proto__=A.Core.
-Ahy;A.Core.Ahy._Done.call(this);},_className:"Resources::Font"};C.ACK={_class:function(
-){return C.B6;},0:{Data:function(){return A.acN;},Cache:[],_this:null}};C.AsS={_class:
+Ahz;A.Core.Ahz._Done.call(this);},_className:"Resources::Font"};C.ACP={_class:function(
+){return C.B6;},0:{Data:function(){return A.acN;},Cache:[],_this:null}};C.AsU={_class:
 function(){return C.Al;},0:{FileName:"./res_index/ResourcesWhiteBitmapStripe.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[256,4],FrameDelay:0,_this:
-null}};C.ARL={_class:function(){return C.Al;},0:{FileName:"./res_index/ResourcesNavigationIconsSmall.png"
+null}};C.ARV={_class:function(){return C.Al;},0:{FileName:"./res_index/ResourcesNavigationIconsSmall.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:20,FrameSize:[24,24],FrameDelay:0,_this:
-null}};C.ATH={_class:function(){return C.Al;},0:{FileName:"./res_index/ResourcesPlayerIconsMedium.png"
+null}};C.ATR={_class:function(){return C.Al;},0:{FileName:"./res_index/ResourcesPlayerIconsMedium.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:20,FrameSize:[36,36],FrameDelay:0,_this:
-null}};C.BjQ="Monday";C.BpM="Tuesday";C.Bqs="Wednesday";C.Bpx="Thursday";C.Bit="Friday";
-C.Boi="Saturday";C.Bpk="Sunday";C.BgJ="AM";C.BnH="PM";C.ADU="January";C.ACE="February";
-C.AD6="March";C.ABG="April";C.AD8="May";C.ADW="June";C.ADV="July";C.ABN="August";
-C.AGs="September";C.AEj="October";C.AEh="November";C.ACp="December";C.BjR="Mon";
-C.BpN="Tue";C.Bqt="Wed";C.Bpy="Thu";C.Biu="Fri";C.Boj="Sat";C.Bpl="Sun";C.Bjq="Jan";
-C.Bih="Feb";C.BjI="Mar";C.Bg0="Apr";C.BjM="May";C.Bjt="Jun";C.Bjs="Jul";C.Bg2="Aug";
-C.Bos="Sep";C.Bj6="Oct";C.Bj5="Nov";C.BhH="Dec";
-C._Init=function(){C.Al.__proto__=A.Core.Ahy;C.B6.__proto__=A.Core.Ahy;};C._ReInit=
-function(){};C.DH=function(D){var B;if((B=C.TL[0]._this)&&(B._cycle!=D))B._Done(
-C.TL[0]._this=null);if((B=C.ACr[0]._this)&&(B._cycle!=D))B._Done(C.ACr[0]._this=
-null);if((B=C.ACK[0]._this)&&(B._cycle!=D))B._Done(C.ACK[0]._this=null);if((B=C.
-AsS[0]._this)&&(B._cycle!=D))B._Done(C.AsS[0]._this=null);if((B=C.ARL[0]._this)&&(
-B._cycle!=D))B._Done(C.ARL[0]._this=null);if((B=C.ATH[0]._this)&&(B._cycle!=D))B.
-_Done(C.ATH[0]._this=null);};return C;})();
+null}};C.Bj5="Monday";C.Bp3="Tuesday";C.BqJ="Wednesday";C.BpO="Thursday";C.BiI="Friday";
+C.Boy="Saturday";C.BpB="Sunday";C.BgV="AM";C.BnW="PM";C.ADX="January";C.ACJ="February";
+C.AD9="March";C.ABL="April";C.AD$="May";C.ADZ="June";C.ADY="July";C.ABS="August";
+C.AGw="September";C.AEm="October";C.AEk="November";C.ACu="December";C.Bj6="Mon";
+C.Bp4="Tue";C.BqK="Wed";C.BpP="Thu";C.BiJ="Fri";C.Boz="Sat";C.BpC="Sun";C.BjF="Jan";
+C.Biw="Feb";C.BjX="Mar";C.Bg$="Apr";C.Bj1="May";C.BjI="Jun";C.BjH="Jul";C.Bhb="Aug";
+C.BoI="Sep";C.Bkj="Oct";C.Bki="Nov";C.BhS="Dec";
+C._Init=function(){C.Al.__proto__=A.Core.Ahz;C.B6.__proto__=A.Core.Ahz;};C._ReInit=
+function(){};C.DH=function(D){var B;if((B=C.TK[0]._this)&&(B._cycle!=D))B._Done(
+C.TK[0]._this=null);if((B=C.ACw[0]._this)&&(B._cycle!=D))B._Done(C.ACw[0]._this=
+null);if((B=C.ACP[0]._this)&&(B._cycle!=D))B._Done(C.ACP[0]._this=null);if((B=C.
+AsU[0]._this)&&(B._cycle!=D))B._Done(C.AsU[0]._this=null);if((B=C.ARV[0]._this)&&(
+B._cycle!=D))B._Done(C.ARV[0]._this=null);if((B=C.ATR[0]._this)&&(B._cycle!=D))B.
+_Done(C.ATR[0]._this=null);};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
