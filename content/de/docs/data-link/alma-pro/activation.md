@@ -10,3 +10,6 @@ weight: 10
 Kategorien: [Alma Pro]
 ---
 
+![Einstellungen VitalControl: Aufruf](../images/open-settings-vitalcontrol.png "Aufruf Einstellungsmenü VitalControl")
+
+![Einstellungen VitalControl: Seit 1](../images/settings-vitalcontrol-1.png "Einstellungen VitalControl (1)")
