@@ -1,6 +1,6 @@
 ---
 title: Menu structure of graphical user interface
-linkTitle: Menu tree
+linkTitle: Arborescence des menus
 date: 2023-09-15T12:45:53+02:00
 draft: false
 url: /fr/docs/menu-tree
