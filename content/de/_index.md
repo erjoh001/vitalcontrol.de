@@ -169,7 +169,7 @@ to create your own real websites with [Docsy](https://docsy.dev))
 
 {{% blocks/feature3 icon="fa-table-list" title="5 Listen" %}}
 <br>
-<div id="carouselListsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; background-color: #403f4c ;margin-left: auto; margin-right: auto;">
+<div id="carouselListsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; background-color: #403f4c; margin-left: auto; margin-right: auto;">
     <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Alarmliste"></button>
     <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Beobachtungsliste"></button>
@@ -179,19 +179,33 @@ to create your own real websites with [Docsy](https://docsy.dev))
   </div>
 <div class="carousel-inner">
     <div class="carousel-item active">
+      <div class="position-relative text-center">
+        <h3>Alarmliste</h3>
+      </div>
       <img src="bilder/listen/alarm.png" alt="Alarmliste">
     </div>
     <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Beobachtungsliste</h3>
+      </div>
       <img src="bilder/listen/beobachtung.png" alt="Beobachtungsliste">
     </div>
     <div class="carousel-item">
-      <img src="bilder/listen/aktionsliste.png" alt="Aktionsliste">
+      <div class="position-relative text-center">
+        <h3>Aktionsliste</h3>
+      </div>      <img src="bilder/listen/aktionsliste.png" alt="Aktionsliste">
     </div>
     <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Frischmelkerliste</h3>
+      </div>
       <img src="bilder/listen/frischmelker.png" alt="Frischmelkerliste">
     </div>
     <div class="carousel-item">
-      <img src="bilder/listen/trockensteher.png" alt="Trockensteherliste">
+      <div class="position-relative text-center">
+        <h3>Trockensteherliste</h3>
+      </div>
+    <img src="bilder/listen/trockensteher.png" alt="Trockensteherliste">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselListsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 0px; height: 320px;">
@@ -208,7 +222,7 @@ to create your own real websites with [Docsy](https://docsy.dev))
 
 {{% blocks/feature3 icon="fa-chart-line" title="4 Auswertungen" %}}
 <br>
-<div id="carouselEvaluationAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; background-color: #403f4c ;margin-left: auto; margin-right: auto;">
+<div id="carouselEvaluationAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; background-color: #403f4c; margin-left: auto; margin-right: auto;">
     <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Auswertung Gewicht"></button>
     <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Auswertung Temperatur"></button>
