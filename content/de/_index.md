@@ -171,27 +171,27 @@ to create your own real websites with [Docsy](https://docsy.dev))
 <br>
 <div id="carouselListsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; background-color: #403f4c ;margin-left: auto; margin-right: auto;">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="English"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="4" aria-label="English"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Alarmliste"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Beobachtungsliste"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Aktionsliste"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="Frischmelkerliste"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="4" aria-label="Trockensteherliste"></button>
   </div>
 <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/homescreen/german_lists.png" alt="...">
+      <img src="bilder/listen/alarm.png" alt="Alarmliste">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/german_listsBE.png" alt="...">
+      <img src="bilder/listen/beobachtung.png" alt="Beobachtungsliste">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/german_listsAK.png" alt="...">
+      <img src="bilder/listen/aktionsliste.png" alt="Aktionsliste">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/german_listsFM.png" alt="...">
+      <img src="bilder/listen/frischmelker.png" alt="Frischmelkerliste">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/german_listsTK.png" alt="...">
+      <img src="bilder/listen/trockensteher.png" alt="Trockensteherliste">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselListsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 0px; height: 320px;">
@@ -210,14 +210,14 @@ to create your own real websites with [Docsy](https://docsy.dev))
 <br>
 <div id="carouselEvaluationAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; background-color: #403f4c ;margin-left: auto; margin-right: auto;">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Gewicht"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Temperatur"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Bewertung"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="Verlustrate"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Auswertung Gewicht"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Auswertung Temperatur"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Auswertung Bewertung"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="Auswertung Verlustrate"></button>
   </div>
 <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/homescreen/german_evaluation.png" alt="...">
+      <img src="bilder/auswertung/gewicht.png" alt="Auswertung Gewicht">
     </div>
     <div class="carousel-item">
       <img src="/images/homescreen/german_evaluationT.png" alt="...">
