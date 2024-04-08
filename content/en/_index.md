@@ -25,15 +25,15 @@ to create your own real websites with [Docsy](https://docsy.dev))
 {{< blocks/section color="dark" type="row" >}}
 {{% blocks/feature icon="fa-flag" title="16 Languages" %}}
 <br>
-<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; margin-left: auto; margin-right: auto; background-color: #403f4c">
+<div id="carouselLanguagesAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; margin-left: auto; margin-right: auto; background-color: #403f4c">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="English"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Dutch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="1" aria-label="English"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="2" aria-label="Dutch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="3" aria-label="Dutch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="4" aria-label="Dutch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="5" aria-label="Dutch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="6" aria-label="Dutch"></button>
     </div> 
 <div class="carousel-inner">
     <div class="carousel-item active">
@@ -79,11 +79,11 @@ to create your own real websites with [Docsy](https://docsy.dev))
       </div>  
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev" style="left: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="prev" style="left: 0px; top: 0px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next" style="right: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="next" style="right: 0px; top: 0px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
