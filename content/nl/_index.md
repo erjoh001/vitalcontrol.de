@@ -21,224 +21,355 @@ been eating **your** porridge.
 to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/lead %}}
 
-
 {{< blocks/section color="dark" type="row" >}}
-{{% blocks/feature icon="fa-flag" title="16 Talen" %}}
+{{% blocks/feature3 icon="fa-flag" title="16 Talen" %}}
 <br>
-<div id="carouselLanguagesAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; margin-left: auto; margin-right: auto; background-color: #403f4c">
+<div id="carouselLanguagesAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; margin-left: auto; margin-right: auto; background-color: #403f4c">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Duits"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="1" aria-label="Nederlands"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="2" aria-label="Engels"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="3" aria-label="Fins"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="4" aria-label="Frans"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="5" aria-label="Russisch"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="6" aria-label="Spaans"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="7" aria-label="Bosnisch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="8" aria-label="Bulgaars"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="9" aria-label="Chinees"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="10" aria-label="Tsjechisch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="11" aria-label="Noors"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="12" aria-label="Grieks"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="13" aria-label="Turks"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="14" aria-label="Oekraïens"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="15" aria-label="Ests"></button>
     </div> 
 <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/homescreen/german_main.png" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 style="font-size: 28px; color: white;">German</h5>
+      <div class="position-relative text-center">
+        <h3>Duits</h3>
       </div>
+      <img src="/images/homescreen/german.png" alt="Duits">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_main2.png" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 style="font-size: 28px; color: white;">Nederlands</h5>
+      <div class="position-relative text-center">
+        <h3>Nederlands</h3>
       </div>
+      <img src="/images/homescreen/dutch.png" alt="Nederlands">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/english_main.png" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 style="font-size: 28px; color: white;">Engels</h5>
+      <div class="position-relative text-center">
+        <h3>Engels</h3>
       </div>
+      <img src="/images/homescreen/english.png" alt="Engels">
     </div>
     <div class="carousel-item">
-    <img src="/images/homescreen/finnisch-main2.png" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 style="font-size: 28px; color: white;">Fins</h5>
+      <div class="position-relative text-center">
+        <h3>Fins</h3>
       </div>
+      <img src="/images/homescreen/finnish.png" alt="Fins">
     </div>
     <div class="carousel-item">
-    <img src="/images/homescreen/francias_main2.png" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 style="font-size: 28px; color: white;">Frans</h5>
+      <div class="position-relative text-center">
+        <h3>Frans</h3>
       </div>
+      <img src="/images/homescreen/french.png" alt="Frans">
     </div>
     <div class="carousel-item">
-    <img src="/images/homescreen/russisch_main.png" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 style="font-size: 28px; color: white;">Russisch</h5>
+      <div class="position-relative text-center">
+        <h3>Russisch</h3>
       </div>
+    <img src="/images/homescreen/russian.png" alt="Russisch">
     </div>  
     <div class="carousel-item">
-    <img src="/images/homescreen/spanisch_main.png" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 style="font-size: 28px; color: white;">Spaans</h5>
-      </div>  
+      <div class="position-relative text-center">
+        <h3>Spaans</h3>
+      </div>
+    <img src="/images/homescreen/spanish.png" alt="Spaans">
     </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Bulgaars</h3>
+        </div>
+      <img src="/images/homescreen/bosnian.png" alt="Bulgaars">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Bulgarian</h3>
+        </div>
+      <img src="/images/homescreen/bulgarian.png" alt="Bulgarian">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Chinees</h3>
+        </div>
+      <img src="/images/homescreen/chinese.png" alt="Chinees">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Tsjechisch</h3>
+        </div>
+      <img src="/images/homescreen/czech.png" alt="Tsjechisch">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Noors</h3>
+        </div>
+      <img src="/images/homescreen/norwegian.png" alt="Noors">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Grieks</h3>
+        </div>
+      <img src="/images/homescreen/greek.png" alt="Grieks">
+      </div>      
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Turks</h3>
+        </div>
+      <img src="/images/homescreen/turkish.png" alt="Turks">
+      </div> 
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Oekraïens</h3>
+        </div>
+      <img src="/images/homescreen/ukrainian.png" alt="Oekraïens">
+      </div> 
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Ests</h3>
+        </div>
+      <img src="/images/homescreen/estonian.png" alt="Ests">
+      </div> 
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="prev" style="left: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="next" style="right: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
 
-{{% /blocks/feature %}}
+{{% /blocks/feature3 %}}
 
-{{% blocks/feature icon="fa-temperature-quarter" title="14 Acties" %}}
+{{% blocks/feature3 icon="fa-temperature-quarter" title="14 Acties" %}}
 <br>
-<div id="carouselActionsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; margin-left: auto; margin-right: auto; background-color: #403f4c">
+<div id="carouselActionsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; margin-left: auto; margin-right: auto; background-color: #403f4c">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="1" aria-label="English"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="2" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="3" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="4" aria-label="English"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="5" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="6" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="7" aria-label="English"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="8" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="9" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="10" aria-label="English"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="11" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="12" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="13" aria-label="English"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Temperature"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="1" aria-label="Weighing"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="2" aria-label="Rating"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="3" aria-label="Chain of actions"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="4" aria-label="Alarm"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="5" aria-label="On watch"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="6" aria-label="Animal´s history"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="7" aria-label="Edit"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="8" aria-label="Unregister"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="9" aria-label="Animal loss"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="10" aria-label="Link transponder"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="11" aria-label="Unlink transponder"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="12" aria-label="Link animal ID"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="13" aria-label="Link electronic animal ID"></button>
   </div>
 <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/homescreen/dutch_actions.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Temperatuur</h3>
+      </div>
+      <img src="images/actions/temperature.png" alt="Temperature">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsW.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Weging</h3>
+      </div>
+      <img src="images/actions/weighing.png" alt="Weighing">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsB.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Beoordeling</h3>
+      </div>
+      <img src="images/actions/rating.png" alt="Rating">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsA.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Opeenvolgende acties</h3>
+      </div>
+      <img src="images/actions/chain_of_actions.png" alt="Chain of actions">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsAL.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Alarm</h3>
+      </div>
+      <img src="images/actions/alarm.png" alt="Alarm">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsBE.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>bekijken</h3>
+      </div>
+      <img src="images/actions/on_watch.png" alt="On watch">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsT.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Dierhistorie</h3>
+      </div>
+      <img src="images/actions/animal_history.png" alt="Animal´s history">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsAE.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Veranderen</h3>
+      </div>
+      <img src="images/actions/edit.png" alt="Edit">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsAB.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Afmelden</h3>
+      <img src="images/actions/unregister.png" alt="Unregister">
+      </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsTV.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Dier verloren</h3>
+      </div>
+      <img src="images/actions/animal_loss.png" alt="Animal loss">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsTZ.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Link transponder</h3>
+      </div>
+      <img src="images/actions/link_transponder.png" alt="Link transponder">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsTA.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Transponder afnemen</h3>
+      </div>
+      <img src="images/actions/unlink_transponder.png" alt="Unlink transponder">
     </div>      
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsOZ.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Link dier ID</h3>
+      </div>
+      <img src="images/actions/link_animal_ID.png" alt="Link animal ID">
     </div>   
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_actionsOZE.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Link dier ID</h3>
+      </div>
+      <img src="images/actions/link_animal_ID2.png" alt="Link animal ID">
     </div>             
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselActionsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselActionsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselActionsAutoplaying" data-bs-slide="next" style="right: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselActionsAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
 
-{{% /blocks/feature %}}
+{{% /blocks/feature3 %}}
 
-{{% blocks/feature icon="fa-table-list" title="5 Lijsten" %}}
+{{% blocks/feature3 icon="fa-table-list" title="5 Lijsten" %}}
 <br>
-<div id="carouselListsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; background-color: #403f4c ;margin-left: auto; margin-right: auto;">
+<div id="carouselListsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; background-color: #403f4c; margin-left: auto; margin-right: auto;">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="English"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="4" aria-label="English"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Alarm"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Bekijken"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Actielijst"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="Verse koeien"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="4" aria-label="Droge koeien"></button>
   </div>
 <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/homescreen/dutch_lists.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Alarm</h3>
+      </div>
+      <img src="images/lists/alarm.png" alt="Alarm">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_listsBE.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Bekijken</h3>
+      </div>
+      <img src="images/lists/on_watch.png" alt="Bekijken">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_listsAK.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Actielijst</h3>
+      </div>      
+      <img src="images/lists/action_list.png" alt="Actielijst">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_listsFM.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Verse koeien</h3>
+      </div>
+      <img src="images/lists/fresh_cows.png" alt="Verse koeien">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_listsTK.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Droge koeien</h3>
+      </div>
+    <img src="images/lists/dry_cows.png" alt="Droge koeien">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselListsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselListsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselListsAutoplaying" data-bs-slide="next" style="right: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselListsAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
 
-{{% /blocks/feature %}}
+{{% /blocks/feature3 %}}
 
-{{% blocks/feature icon="fa-chart-line" title="4 Analyses" %}}
+{{% blocks/feature3 icon="fa-chart-line" title="4 Analyses" %}}
 <br>
-<div id="carouselEvaluationAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 370px; background-color: #403f4c ;margin-left: auto; margin-right: auto;">
+<div id="carouselEvaluationAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; background-color: #403f4c; margin-left: auto; margin-right: auto;">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="English"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="Dutch"></button>
-    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="4" class="active" aria-current="true" aria-label="German"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Gewicht"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Temperatuur"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Beoordeling"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="Sterfte"></button>
   </div>
 <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/homescreen/dutch_evaluation.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Gewicht</h3>
+      </div> 
+      <img src="images/evaluation/weight.png" alt="Gewicht">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_evaluationT.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Temperatuur</h3>
+      </div> 
+      <img src="images/evaluation/temperature.png" alt="Temperatuur">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_evaluationB.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Beoordeling</h3>
+      </div> 
+      <img src="images/evaluation/rating.png" alt="Beoordeling">
     </div>
     <div class="carousel-item">
-      <img src="/images/homescreen/dutch_evaluationV.png" alt="...">
+      <div class="position-relative text-center">
+        <h3>Sterfte</h3>
+      </div> 
+      <img src="images/evaluation/mortality.png" alt="Sterfte">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselEvaluationAutoplaying" data-bs-slide="prev" style="left: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselEvaluationAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselEvaluationAutoplaying" data-bs-slide="next" style="right: 0px; top: 0px; height: 320px;">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselEvaluationAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
 </div>
 
-{{% /blocks/feature %}}
+{{% /blocks/feature3 %}}
 {{< /blocks/section >}}
 
 
