@@ -40,23 +40,23 @@ fl=(function(){var A=index;var C={};
 C.Ak={_class:function(){return A.aci.B6;},0:{Data:function(){return A.acG;},Cache:[
 ],_this:null}};C.Af={_class:function(){return A.aci.B6;},0:{Data:function(){return A.
 acF;},Cache:[],_this:null}};C.EK={_class:function(){return A.aci.B6;},0:{Data:function(
-){return A.acE;},Cache:[],_this:null}};C.Aeq={_class:function(){return A.aci.B6;
+){return A.acE;},Cache:[],_this:null}};C.Aet={_class:function(){return A.aci.B6;
 },0:{Data:function(){return A.acK;},Cache:[],_this:null}};C.H1={_class:function(
 ){return A.aci.B6;},0:{Data:function(){return A.acH;},Cache:[],_this:null}};C.Bh={
 _class:function(){return A.aci.B6;},0:{Data:function(){return A.acL;},Cache:[],_this:
-null}};C.AOx={_class:function(){return A.aci.B6;},0:{Data:function(){return A.acI;
+null}};C.AOD={_class:function(){return A.aci.B6;},0:{Data:function(){return A.acI;
 },Cache:[],_this:null}};C.Il={_class:function(){return A.aci.B6;},0:{Data:function(
-){return A.acD;},Cache:[],_this:null}};C.Ko={_class:function(){return A.aci.B6;}
-,0:{Data:function(){return A.acC;},Cache:[],_this:null}};C.AOy={_class:function(
+){return A.acD;},Cache:[],_this:null}};C.Kp={_class:function(){return A.aci.B6;}
+,0:{Data:function(){return A.acC;},Cache:[],_this:null}};C.AOE={_class:function(
 ){return A.aci.B6;},0:{Data:function(){return A.acJ;},Cache:[],_this:null}};
 C._Init=function(){};C._ReInit=function(){};C.DH=function(D){var B;if((B=C.Ak[0].
 _this)&&(B._cycle!=D))B._Done(C.Ak[0]._this=null);if((B=C.Af[0]._this)&&(B._cycle
 !=D))B._Done(C.Af[0]._this=null);if((B=C.EK[0]._this)&&(B._cycle!=D))B._Done(C.EK[
-0]._this=null);if((B=C.Aeq[0]._this)&&(B._cycle!=D))B._Done(C.Aeq[0]._this=null);
+0]._this=null);if((B=C.Aet[0]._this)&&(B._cycle!=D))B._Done(C.Aet[0]._this=null);
 if((B=C.H1[0]._this)&&(B._cycle!=D))B._Done(C.H1[0]._this=null);if((B=C.Bh[0]._this
-)&&(B._cycle!=D))B._Done(C.Bh[0]._this=null);if((B=C.AOx[0]._this)&&(B._cycle!=D
-))B._Done(C.AOx[0]._this=null);if((B=C.Il[0]._this)&&(B._cycle!=D))B._Done(C.Il[
-0]._this=null);if((B=C.Ko[0]._this)&&(B._cycle!=D))B._Done(C.Ko[0]._this=null);if((
-B=C.AOy[0]._this)&&(B._cycle!=D))B._Done(C.AOy[0]._this=null);};return C;})();
+)&&(B._cycle!=D))B._Done(C.Bh[0]._this=null);if((B=C.AOD[0]._this)&&(B._cycle!=D
+))B._Done(C.AOD[0]._this=null);if((B=C.Il[0]._this)&&(B._cycle!=D))B._Done(C.Il[
+0]._this=null);if((B=C.Kp[0]._this)&&(B._cycle!=D))B._Done(C.Kp[0]._this=null);if((
+B=C.AOE[0]._this)&&(B._cycle!=D))B._Done(C.AOE[0]._this=null);};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
