@@ -3,13 +3,14 @@ title: Urban VitalControl
 ---
 
 {{< blocks/cover title="Urban VitalControl" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="#">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
   Learn more <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/">
   Documentatie<i class="fa-solid fa-book ms-2 "></i>
 </a>
 <p class="lead mt-5">Health management at the highest level!</p>
+{{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
@@ -157,33 +158,33 @@ to create your own real websites with [Docsy](https://docsy.dev))
 <br>
 <div id="carouselActionsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; margin-left: auto; margin-right: auto; background-color: #403f4c">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Temperature"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="1" aria-label="Weighing"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="2" aria-label="Rating"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="3" aria-label="Chain of actions"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Temperatuur"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="1" aria-label="Weging"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="2" aria-label="Beoordeling"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="3" aria-label="Opeenvolgende acties"></button>
     <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="4" aria-label="Alarm"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="5" aria-label="On watch"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="6" aria-label="Animal´s history"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="7" aria-label="Edit"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="8" aria-label="Unregister"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="9" aria-label="Animal loss"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="5" aria-label="Bekijken"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="6" aria-label="Dierhistorie"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="7" aria-label="Veranderen"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="8" aria-label="Afmelden"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="9" aria-label="Dier verloren"></button>
     <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="10" aria-label="Link transponder"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="11" aria-label="Unlink transponder"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="12" aria-label="Link animal ID"></button>
-    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="13" aria-label="Link electronic animal ID"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="11" aria-label="Transponder afnemen"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="12" aria-label="Link dier ID"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="13" aria-label="Link dier ID"></button>
   </div>
 <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="position-relative text-center">
         <h3>Temperatuur</h3>
       </div>
-      <img src="images/actions/temperature.png" alt="Temperature">
+      <img src="images/actions/temperature.png" alt="Temperatuur">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
         <h3>Weging</h3>
       </div>
-      <img src="images/actions/weighing.png" alt="Weighing">
+      <img src="images/actions/weighing.png" alt="Weging">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
@@ -193,9 +194,9 @@ to create your own real websites with [Docsy](https://docsy.dev))
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Opeenvolgende acties</h3>
+        <h3>Opeenvolgen. acties</h3>
       </div>
-      <img src="images/actions/chain_of_actions.png" alt="Chain of actions">
+      <img src="images/actions/chain_of_actions.png" alt="Opeenvolgende acties">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
@@ -205,21 +206,21 @@ to create your own real websites with [Docsy](https://docsy.dev))
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>bekijken</h3>
+        <h3>Bekijken</h3>
       </div>
-      <img src="images/actions/on_watch.png" alt="On watch">
+      <img src="images/actions/on_watch.png" alt="Bekijken">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
         <h3>Dierhistorie</h3>
       </div>
-      <img src="images/actions/animal_history.png" alt="Animal´s history">
+      <img src="images/actions/animal_history.png" alt="Dierhistorie">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
         <h3>Veranderen</h3>
       </div>
-      <img src="images/actions/edit.png" alt="Edit">
+      <img src="images/actions/edit.png" alt="Veranderen">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
@@ -243,19 +244,19 @@ to create your own real websites with [Docsy](https://docsy.dev))
       <div class="position-relative text-center">
         <h3>Transponder afnemen</h3>
       </div>
-      <img src="images/actions/unlink_transponder.png" alt="Unlink transponder">
+      <img src="images/actions/unlink_transponder.png" alt="Transponder afnemen">
     </div>      
     <div class="carousel-item">
       <div class="position-relative text-center">
         <h3>Link dier ID</h3>
       </div>
-      <img src="images/actions/link_animal_ID.png" alt="Link animal ID">
+      <img src="images/actions/link_animal_ID.png" alt="Link dier ID">
     </div>   
     <div class="carousel-item">
       <div class="position-relative text-center">
         <h3>Link dier ID</h3>
       </div>
-      <img src="images/actions/link_animal_ID2.png" alt="Link animal ID">
+      <img src="images/actions/link_animal_ID2.png" alt="Link dier ID">
     </div>             
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselActionsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">

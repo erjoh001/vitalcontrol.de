@@ -249,13 +249,13 @@ Mit nur **einem Gerät** <br/>
     </div>      
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3 style="font-size: 20px; color: white;">Ohrmarkennummer zuordnen</h3>
+        <h4 style="font-size: 20px; color: white;">Ohrmarkennr. zuordnen</h4>
       </div>
       <img src="bilder/aktionen/ohrmarkennummer_zuordnen.png" alt="Ohrmarkennummer zuordnen">
     </div>   
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3 style="font-size: 20px; color: white;" >Elektronische Ohrmarkennummer zuordnen</h3>
+        <h5 style="font-size: 20px; color: white;" >Zuordn. elektr. Ohrmarke</h5>
       </div>
       <img src="bilder/aktionen/ohrmarkennummer_zuordnen_elektronisch.png" alt="Elektronische Ohrmarkennummer zuordnen">
     </div>             
