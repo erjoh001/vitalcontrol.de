@@ -14,12 +14,15 @@ title: Urban VitalControl
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+**Verminder** het **papierwerk**<br/> 
+
+**Verhoog** uw **diergezondheid**
+
+**Alles** in **zicht** hebben <br/> 
+
+Met slechts **één apparaat** <br/>   
+
 {{% /blocks/lead %}}
 
 {{< blocks/section color="dark" type="row" >}}
@@ -373,43 +376,181 @@ to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/feature3 %}}
 {{< /blocks/section >}}
 
+{{% blocks/lead color="primary" %}}
 
-{{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+Geschikt voor **drie** dieren  
+
+{{% /blocks/lead %}}
+
+
+{{< blocks/section color="dark" type="row" >}}
+{{% blocks/feature icon="empty" title="Kalveren" %}}
+<br>
+<img src="/icons/main/animal.svg" width="250" align="bottom" alt="Kalveren" />
+<br>
 {{% /blocks/feature %}}
 
+{{% blocks/feature icon="empty" title="Koeien" %}}
+<br>
+<img src="/icons/main/animal.svg" width="300" align="bottom" alt="Koeien" />
+<br>
+{{% /blocks/feature %}}
 
-{{% /blocks/section %}}
+{{% blocks/feature icon="empty" title="Lammeren" %}}
+<br>
+<img src="/icons/main/animal.svg" width="250" align="bottom" alt="Lammeren" />
+<br>
+{{% /blocks/feature %}}
+
+{{< /blocks/section >}}
 
 
-{{% blocks/section %}}
-This is the second section
+
+{{% blocks/lead color="primary" %}}
+
+Onze **highlights** voor jou
+
+{{% /blocks/lead %}}
+
+{{< blocks/section color="dark" type="row" >}}
+{{% blocks/feature3 icon="empty" title="Registreer <br> je geboorten" %}}
+<br>
+<img src="images/calving.png" alt="Kalving" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Bewaak uw <br> verse koeien" %}}
+<br>
+<img src="images/fresh_cows.png" alt="Verse koeien" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Scan de <br> dierpaspoorten" %}}
+<br>
+<img src="images/scan.png" alt="Dierpaspoorten" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Uw aankopen <br> melden is kinderspel" %}}
+<br>
+<img src="images/new.png" alt="Melden" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{< /blocks/section >}}
+
+{{% blocks/lead color="primary" %}}
+
+**FAQ´s**
+
+{{% /blocks/lead %}}
+
+{{< blocks/section color="dark" type="row" >}}
+
+<style>
+/* Stil für die FAQ */
+.accordion {
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  transition: 0.4s;
+  font-size: 25px;
+}
+
+.panel {
+  padding: 30px 18px;
+  display: none;
+  overflow: hidden;
+  font-size: 20px;
+  background-color: white;
+  color: black;
+}
+
+.accordion {
+  color: white;
+  background-color: #403f4c;
+}
+</style>
+</head>
+<body>
+
+
+<!-- FAQ Abschnitte -->
+<button class="accordion">Hoeveel kost het apparaat?</button>
+<div class="panel">
+  <p>Tijdens de introductieactie kun je het apparaat krijgen voor €1.099</p>
+</div>
+
+<button class="accordion">Voor welke bedrijven is het apparaat geschikt?</button>
+<div class="panel">
+  <p>Het apparaat biedt oplossingen op maat voor zowel ruwvoederboeren als melkveebedrijven. Alle toepassingen zijn ook geschikt voor lammeren en schapen.</p>
+</div>
+
+<button class="accordion">Waarom zou ik de VitalControl kopen?</button>
+<div class="panel">
+  <p>VitalControl maakt je dagelijkse werk eenvoudiger. Het bespaart je het ellendige papierwerk en het lange zoeken naar notities. Alle gegevens worden voor elk dier afzonderlijk opgeslagen
+  en kunnen met een paar klikken worden opgeroepen. Dit maakt het veel eenvoudiger om uw dieren te volgen en hun gezondheid in de gaten te houden. Tegelijkertijd krijgt u verschillende
+  analysemogelijkheden om de ontwikkeling van belangrijke kengetallen in de gaten te houden.</p>
+</div>
+
+<button class="accordion">Voor welke werkprocessen is het apparaat geschikt?</button>
+<div class="panel">
+  <p>
+  <li> Aankoop van dieren </li>
+  <br>
+  U scant de dierpaspoorten met de VitalControl en alle nieuw binnengekomen dieren worden direct in het apparaat opgeslagen met het oormerknummer en de geboortedatum. U kunt nu een transponder aan de dieren toewijzen om de dierspecifieke opslag van de diergegevens mogelijk te maken. Tot slot kun je een CSV-bestand exporteren waarmee je eenvoudig de aankopen kunt rapporteren aan HI-Tier of Herde-Mast.
+  <br>
+  <br>
+  <br>
+  <li>Dagelijkse dierencontrole</li>
+  <br> 
+  VitalControl biedt je 14 acties die je kunt gebruiken voor dagelijkse diercontroles. Kies gewoon het menu-item "Acties", scan de transponder van het betreffende dier en ga aan de slag. Neem een temperatuur op, beoordeel het dier of registreer het gewicht tijdens een weging. 
+  </p>
+</div>
+
+<!-- JavaScript für das Akkordeon -->
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
+
+{{< /blocks/section >}}
+
+{{% blocks/section color = "white" type = "row"%}}
+
+{{% blocks/section color = "white" %}}
+Urban in de sociale netwerken
 {.h1 .text-center}
 {{% /blocks/section %}}
 
+{{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" url_text="Gevolgen"%}}
+{{% /blocks/feature3 %}}
 
-{{% blocks/section type="row" %}}
+{{% blocks/feature3 icon="fa-brands fa-youtube" title="YouTube" url="https://www.youtube.com/user/calffeeding" url_text="Neem een kijkje"%}}
+{{% /blocks/feature3 %}}
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
-{{% /blocks/feature %}}
+{{% blocks/feature3 icon="fa-brands fa-facebook" title="Facebook" url="https://www.facebook.com/urbanonline" url_text="Gevolgen"%}}
+{{% /blocks/feature3 %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
+{{% blocks/feature3 icon="fa-light fa-image" title="Fotos" url="https://www.flickr.com/photos/urbanonline/" url_text="Indrukken verzamelen"%}}
 
-{{% blocks/feature icon="fab fa-twitter" title="5 Listen"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/feature3 %}}
+{{< /blocks/section >}}
