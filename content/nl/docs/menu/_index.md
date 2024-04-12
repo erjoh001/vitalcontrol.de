@@ -1,22 +1,22 @@
 ---
-title: Menu structure of graphical user interface
+title: Menustructuur van grafische gebruikersinterface
 linkTitle: Menustructuur
 date: 2023-09-15T12:45:53+02:00
 draft: false
 url: /nl/docs/menustructuur
 weight: -10
 description: >
-  Shows the interactive menu tree of the VitalControl device.
+  Toont de interactieve menuboom van het VitalControl-apparaat.
 Categories: [Menu]
-tags: [Main menu, Actions]
+tags: [Hoofdmenu, Acties]
 translationKey: menu-tree
 no_list: true
 ---
 
-The interactive graphic below shows the menu tree of the VitalControl device:
+De interactieve grafiek hieronder toont de menuboom van het VitalControl-apparaat:
 
-{{% alert title="Note" %}}
-When clicking on a menu item, you will be forwarded to the page documenting the respective function.
+{{% alert title="Opmerking" %}}
+Wanneer u op een menu-item klikt, wordt u doorgestuurd naar de pagina die de betreffende functie documenteert.
 {{% /alert %}}
 
 <object data="menu-tree.svg" type="image/svg+xml" width="1100" >

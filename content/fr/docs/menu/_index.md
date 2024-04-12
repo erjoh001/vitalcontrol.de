@@ -1,22 +1,22 @@
 ---
-title: Menu structure of graphical user interface
+title: Structure du menu de l'interface graphique
 linkTitle: Arborescence des menus
 date: 2023-09-15T12:45:53+02:00
 draft: false
 url: /fr/docs/menu-tree
 weight: -10
 description: >
-  Shows the interactive menu tree of the VitalControl device.
+  Montre l'arborescence interactive des menus de l'appareil VitalControl.
 Categories: [Menu]
-tags: [Main menu, Actions]
+tags: [Menu principal, Actions]
 translationKey: menu-tree
 no_list: true
 ---
 
-The interactive graphic below shows the menu tree of the VitalControl device:
+Le graphique interactif ci-dessous montre l'arborescence des menus de l'appareil VitalControl :
 
 {{% alert title="Note" %}}
-When clicking on a menu item, you will be forwarded to the page documenting the respective function.
+Lorsque vous cliquez sur un élément de menu, vous serez redirigé vers la page documentant la fonction respective.
 {{% /alert %}}
 
 <object data="menu-tree.svg" type="image/svg+xml" width="1100" >
