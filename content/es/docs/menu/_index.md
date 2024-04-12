@@ -1,22 +1,22 @@
 ---
-title: Menu structure of graphical user interface
-linkTitle: Menu tree
+title: Estructura del menú de la interfaz gráfica de usuario
+linkTitle: Árbol de menú
 date: 2023-09-15T12:45:53+02:00
 draft: false
 url: /es/docs/menu-tree
 weight: -10
 description: >
-  Shows the interactive menu tree of the VitalControl device.
-Categories: [Menu]
-tags: [Main menu, Actions]
+  Muestra el árbol de menú interactivo del dispositivo VitalControl.
+Categories: [Menú]
+tags: [Menú principal, Acciones]
 translationKey: menu-tree
 no_list: true
 ---
 
-The interactive graphic below shows the menu tree of the VitalControl device:
+La gráfica interactiva a continuación muestra el árbol de menú del dispositivo VitalControl:
 
-{{% alert title="Note" %}}
-When clicking on a menu item, you will be forwarded to the page documenting the respective function.
+{{% alert title="Nota" %}}
+Al hacer clic en un elemento del menú, serás redirigido a la página que documenta la función respectiva.
 {{% /alert %}}
 
 <object data="menu-tree.svg" type="image/svg+xml" width="1100" >
