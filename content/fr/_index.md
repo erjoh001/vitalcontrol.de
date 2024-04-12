@@ -1,11 +1,9 @@
 ---
-_build:
-  render: never
-  list: never
-  publishResources: false
-  cascade:
-  _build:
-    list: false
-    render: true
-title: Demo VitalControl
+title: "Documentation"
+linkTitle: "Documentation"
+description: Découvrez tout sur la manipulation et l'entretien de votre appareil VitalControl.
+weight: 20
+menu:
+  main:
+    weight: 20
 ---

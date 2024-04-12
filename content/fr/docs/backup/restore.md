@@ -1,35 +1,35 @@
 ---
-title: "Restoring a data backup"
+title: "Restauration d'une sauvegarde de données"
 linkTitle: "Restaurer"
 date: 2023-07-20
 weight: 20
 description: >
- Via a data restore, the entire data of a VitalControl device can be restored on a different device using a backup file.
+ Grâce à une restauration de données, l'ensemble des données d'un appareil VitalControl peut être restauré sur un autre appareil à l'aide d'un fichier de sauvegarde.
 ---
-{{% usb-drive/en "In order to restore a data backup to you VitalControl device," %}}
+{{% usb-drive/fr "Pour restaurer une sauvegarde de données sur votre appareil VitalControl," %}}
 
-On this USB flash drive, a directory `backup` must exist, which must held a valid **data backup file `backup.vcu`**.
+Sur cette clé USB, un répertoire `backup` doit exister, qui doit contenir un **fichier de sauvegarde de données valide `backup.vcu`**.
 
-![USB-flash drive with backup file VitalControl](../images/backup-file.png "USB-flash drive with backup file")
+![Clé USB avec fichier de sauvegarde VitalControl](../images/backup-file.png "Clé USB avec fichier de sauvegarde")
 
 {{% alert title="Note" %}}
-Inside the directory `backup` of your USB flash drive, you may find several backup files with extension `.vcu`. The VitalControl device always restores the backup data form the file named `backup.vcu`, which is always the newest file. If you want to restore data from an older backup file (which contains the backup date in the file name), you have to rename this older backup file to `backup.vcu` before performing data restore!
+À l'intérieur du répertoire `backup` de votre clé USB, vous pouvez trouver plusieurs fichiers de sauvegarde avec l'extension `.vcu`. L'appareil VitalControl restaure toujours les données de sauvegarde à partir du fichier nommé `backup.vcu`, qui est toujours le fichier le plus récent. Si vous souhaitez restaurer des données à partir d'un fichier de sauvegarde plus ancien (qui contient la date de sauvegarde dans le nom du fichier), vous devez renommer ce fichier de sauvegarde plus ancien en `backup.vcu` avant d'effectuer la restauration des données !
 {{% /alert %}}
 
-## Data restoration to VitalControl device
+## Restauration des données sur l'appareil VitalControl
 
-1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of the VitalControl device to which you want to restore the data.
+1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` à l'écran principal de l'appareil VitalControl sur lequel vous souhaitez restaurer les données.
 
-2. Invoke the submenu `Data management` and select the submenu item `Data backup` afterwards. Now select the menu item `Restore backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
+2. Appelez le sous-menu `Gestion des données` et sélectionnez ensuite l'élément de sous-menu `Sauvegarde de données`. Sélectionnez maintenant l'élément de menu `Restaurer la sauvegarde` et confirmez avec `OK`. Vous êtes maintenant invité à insérer une clé USB :
 
-   ![VitalControl: menu path data restore](../images/restore.png "Restoring from backup file")
+   ![VitalControl : chemin du menu de restauration des données](../images/restore.png "Restauration à partir du fichier de sauvegarde")
 
-3. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
+3. Insérez la clé USB (connecteur C) dans le connecteur situé en bas de l'appareil.
 
-   ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Plug in USB flash drive")
+   ![VitalControl : insérer la clé USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insérer la clé USB")
 
-4. Once the device detected insertion of the USB stick, a confirmation window appears. Acknowledge this popup with `Yes` to start the data restore. Decompressing and restoring the backup may take a minute or longer. When the data restore is complete, a success message is displayed:
+4. Une fois que l'appareil a détecté l'insertion de la clé USB, une fenêtre de confirmation apparaît. Accordez cette fenêtre contextuelle avec `Oui` pour démarrer la restauration des données. La décompression et la restauration de la sauvegarde peuvent prendre une minute ou plus. Lorsque la restauration des données est terminée, un message de réussite est affiché :
 
-   ![VitalControl: success message data restore](../images/restore-done.png "Success message data restore")
+   ![VitalControl: message de réussite de la restauration des données](../images/restore-done.png "Message de réussite de la restauration des données")
 
-5. Backup data were successfully restored to VitalControl device.
+5. Les données de sauvegarde ont été restaurées avec succès sur l'appareil VitalControl.

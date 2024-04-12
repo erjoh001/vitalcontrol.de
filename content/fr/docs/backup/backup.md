@@ -1,37 +1,37 @@
 ---
-title: "Creating a data backup"
+title: "Création d'une sauvegarde de données"
 linkTitle: "Sauvegarde"
 date: 2023-07-20
 weight: 20
 description: >
-  By means of a data backup, a backup file is created which contains the entire data stored on the VitalControl device.
-categories: [Data backup]
-tags: [backup file, USB flash drive]
+  Au moyen d'une sauvegarde de données, un fichier de sauvegarde est créé contenant l'ensemble des données stockées sur l'appareil VitalControl.
+categories: [Sauvegarde de données]
+tags: [fichier de sauvegarde, clé USB]
 ---
-{{% usb-drive/en "In order to perform a data backup for your device," %}}
+{{% usb-drive/fr "Afin de réaliser une sauvegarde de données pour votre appareil," %}}
 
-## Perform data backup
+## Réaliser une sauvegarde de données
 
-1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
+1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` sur l'écran principal de votre appareil VitalControl.
 
-2. Invoke the submenu `Data management` and select the submenu item `Data backup` afterwards. Now select the menu item `Create backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
+2. Appelez le sous-menu `Gestion des données` et sélectionnez ensuite l'élément de sous-menu `Sauvegarde de données`. Sélectionnez maintenant l'élément de menu `Créer une sauvegarde` et confirmez avec `OK`. Vous êtes maintenant invité à insérer une clé USB :
 
-   ![VitalControl: menu path data backup](../images/backup.png "Invoke data backup")
+   ![VitalControl : chemin du menu sauvegarde de données](../images/backup.png "Appeler la sauvegarde de données")
 
-3. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
+3. Insérez la clé USB (connecteur C) dans le connecteur situé en bas de l'appareil.
 
-   ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+   ![VitalControl : insérer une clé USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insérer une clé USB")
 
-4. Once the device detected insertion of the USB stick, the data backup is automatically started. Collecting, compressing and writing the backup data may take a minute or longer. When the backup is done, a success message is displayed:
+4. Une fois que l'appareil a détecté l'insertion de la clé USB, la sauvegarde de données démarre automatiquement. La collecte, la compression et l'écriture des données de sauvegarde peuvent prendre une minute ou plus. Lorsque la sauvegarde est terminée, un message de succès s'affiche :
 
-   ![VitalControl: success message backup](../images/backup-done.png "Success data backup")
+   ![VitalControl : message de succès de la sauvegarde](../images/backup-done.png "Succès de la sauvegarde de données")
 
-5. The data backup is now created. You will find the created file `backup.vcu` in the directory `backup` on your USB flash drive. The backup file requires approx. 1 MB of storage space on the flash drive.
+5. La sauvegarde de données est maintenant créée. Vous trouverez le fichier créé `backup.vcu` dans le répertoire `backup` de votre clé USB. Le fichier de sauvegarde nécessite environ 1 Mo d'espace de stockage sur la clé USB.
 
-   ![USB flash drive with backup file VitalControl](../images/backup-file.png "USB flash drive with backup file")
+   ![Clé USB avec fichier de sauvegarde VitalControl](../images/backup-file.png "Clé USB avec fichier de sauvegarde")
 
-   {{% alert title="Hint" %}}
-  If a file `backup.vcu` already exists in the `backup` directory of your USB flash drive, this file will be renamed. The new name of the file is composed of the leading string `backup` and the date and time when the backup file was created (e.g. `backup_2023-07-17_12-50-37.vcb`). The newly written backup file is always named `backup.vcu`.
+   {{% alert title="Astuce" %}}
+  Si un fichier `backup.vcu` existe déjà dans le répertoire `backup` de votre clé USB, ce fichier sera renommé. Le nouveau nom du fichier est composé de la chaîne initiale `backup` et de la date et de l'heure de création du fichier de sauvegarde (par exemple `backup_2023-07-17_12-50-37.vcb`). Le fichier de sauvegarde nouvellement écrit est toujours nommé `backup.vcu`.
     {{% /alert %}}
 
-6. The created backup file can be used to [restore](../restore) the stored data to any VitalControl device if needed.
+6. Le fichier de sauvegarde créé peut être utilisé pour [restaurer](../restore) les données stockées sur n'importe quel appareil VitalControl si nécessaire.

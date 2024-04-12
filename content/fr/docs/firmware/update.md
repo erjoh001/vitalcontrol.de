@@ -1,50 +1,52 @@
 ---
-title: "Firmware update of your device"
-linkTitle: Update
+title: "Mise à jour du micrologiciel de votre appareil"
+linkTitle: Mise à jour
 weight: 4
 description: >
-  By performing a firmware update, the firmware of your VitalControl device can be updated to the latest available versions.
+  En effectuant une mise à jour du micrologiciel, le micrologiciel de votre appareil VitalControl peut être mis à jour vers les versions les plus récentes disponibles.
 ---
-First, make sure that a [newer firmware version](../versions/) is available for your device and, if needed, update the firmware of your device according to the following instructions.
 
-## Required accessory
+Tout d'abord, assurez-vous qu'une [version plus récente du micrologiciel](../versions/) est disponible pour votre appareil et, si nécessaire, mettez à jour le micrologiciel de votre appareil en suivant les instructions suivantes.
 
-To install the update on your device, you need a dual USB flash drive (2-in-1 USB stick) Type-C/USB 3.0 with a USB C connector and a USB A connector. Such a dual USB flash drive is delivered together with your device. You may also purchase such an USB flash drive from different vendors.
+## Accessoire requis
 
-![Dual USB flash drive (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Dual USB flash drive")
+Pour installer la mise à jour sur votre appareil, vous avez besoin d'une clé USB double (clé USB 2-en-1) Type-C/USB 3.0 avec un connecteur USB C et un connecteur USB A. Une telle clé USB double est livrée avec votre appareil. Vous pouvez également acheter une telle clé USB auprès de différents fournisseurs.
 
-## Preparation: download latest firmware
+![Clé USB double (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Clé USB double")
 
-1. Insert your USB flash drive into the USB connector of your computer. Then create a new directory named 'update' in the root directory of your flash drive.
+## Préparation : téléchargement du micrologiciel le plus récent
 
-    ![Windows Explorer: USB flash drive with directory 'update'](../images/create-folder-update.png "USB flash drive: directory 'update'")
+1. Insérez votre clé USB dans le connecteur USB de votre ordinateur. Ensuite, créez un nouveau répertoire nommé 'update' dans le répertoire racine de votre clé USB.
 
-1. Download the [firmware file](/download/firmware.vcu) (file name: `firmware.vcu`) and store it in the previously created directory `update` of your USB flash drive. The update file requires approx. 2.5 MB of storage space on the flash drive.
+    ![Explorateur Windows : clé USB avec le répertoire 'update'](../images/create-folder-update.png "Clé USB : répertoire 'update'")
 
-    ![Windows Explorer: flash drive with firmware file 'firmware.vcu'](../images/save-firmware-file.png "Flash drive with firmware file")
+1. Téléchargez le [fichier de micrologiciel](/download/firmware.vcu) (nom de fichier : `firmware.vcu`) et enregistrez-le dans le répertoire `update` précédemment créé de votre clé USB. Le fichier de mise à jour nécessite environ 2,5 Mo d'espace de stockage sur la clé USB.
 
-1. Create a [data backup][] on your device.
+    ![Explorateur Windows : clé USB avec le fichier de micrologiciel 'firmware.vcu'](../images/save-firmware-file.png "Clé USB avec le fichier de micrologiciel")
+
+1. Effectuez une [sauvegarde des données][] sur votre appareil.
 
     {{% alert title="Info" %}}
-The data backup is a recommended precautionary measure. All existing animal and device data will be preserved when updating the firmware of the VitalControl device.
+La sauvegarde des données est une mesure de précaution recommandée. Toutes les données animales et de l'appareil existantes seront préservées lors de la mise à jour du micrologiciel de l'appareil VitalControl.
     {{% /alert %}}
 
-[data backup]: {{< relref "../backup/backup/" >}}
+[Sauvegarde des données]: {{< relref "../backup/backup/" >}}
 
-## Perform firmware update
+## Effectuer la mise à jour du micrologiciel
 
-1. Open the menu item `Device` in the main screen of your VitalControl device.
+1. Ouvrez l'élément de menu `Appareil` sur l'écran principal de votre appareil VitalControl.
 
-1. Invoke the submenu `Service`, select the menu item `Firmware update` and confirm with `OK`. You are now asked to insert the USB flash drive you prepared already:
+1. Appelez le sous-menu `Service`, sélectionnez l'élément de menu `Mise à jour du micrologiciel` et confirmez avec `OK`. Vous êtes maintenant invité à insérer la clé USB que vous avez déjà préparée :
 
-    ![VitalControl: menu path firmware update](../images/firmware-update.png "Firmware update")
+    ![VitalControl: chemin du menu mise à jour du micrologiciel](../images/firmware-update.png "Mise à jour du micrologiciel")
 
-1. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `OK`.
+1. Insérez la clé USB (connecteur C) dans le connecteur situé en bas de l'appareil et confirmez avec `OK`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    ![VitalControl: Insérer la clé USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insérer la clé USB")
 
-   The device performs the update automatically. During the update, the display informs you about the progress of the update. After the update is completed, the device restarts automatically and displays a success message after the restart:
+    L'appareil effectue la mise à jour automatiquement. Pendant la mise à jour, l'écran vous informe de la progression de la mise à jour. Après la mise à jour, l'appareil redémarre automatiquement et affiche un message de succès après le redémarrage :
 
-   ![VitalControl: Success message firmware update](../images/update-success.png "Success firmware update")
+   ![VitalControl: Message de succès de la mise à jour du micrologiciel](../images/update-success.png "Succès de la mise à jour du micrologiciel")
 
-   The new firmware is now installed on your device.
+   Le nouveau micrologiciel est maintenant installé sur votre appareil.
+

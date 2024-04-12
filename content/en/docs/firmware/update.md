@@ -43,7 +43,7 @@ The data backup is a recommended precautionary measure. All existing animal and 
 
     ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
 
-   The device performs the update automatically. During the update, the display informs you about the progress of the update. After the update is completed, the device restarts automatically and displays a success message after the restart:
+    The device performs the update automatically. During the update, the display informs you about the progress of the update. After the update is completed, the device restarts automatically and displays a success message after the restart:
 
    ![VitalControl: Success message firmware update](../images/update-success.png "Success firmware update")
 

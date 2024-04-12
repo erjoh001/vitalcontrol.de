@@ -1,8 +1,8 @@
 ---
-title: "Data backup and restore"
-linkTitle: "Data backup"
+title: "Gegevensback-up en herstel"
+linkTitle: "Gegevensback-up"
 date: 2023-07-20
 weight: 10
 description: >
-  Back up the entire dataset of the VitalControl device and restore it on another device.
+  Maak een back-up van de volledige dataset van het VitalControl-apparaat en herstel deze op een ander apparaat.
 ---

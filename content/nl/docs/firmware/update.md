@@ -1,50 +1,51 @@
 ---
-title: "Firmware update of your device"
+title: "Firmware-update van uw apparaat"
 linkTitle: Update
 weight: 4
 description: >
-  By performing a firmware update, the firmware of your VitalControl device can be updated to the latest available versions.
+  Door een firmware-update uit te voeren, kan de firmware van uw VitalControl-apparaat worden bijgewerkt naar de nieuwste beschikbare versies.
 ---
-First, make sure that a [newer firmware version](../versions/) is available for your device and, if needed, update the firmware of your device according to the following instructions.
+Zorg er eerst voor dat er een [nieuwere firmwareversie](../versions/) beschikbaar is voor uw apparaat en update indien nodig de firmware van uw apparaat volgens de volgende instructies.
 
-## Required accessory
+## Benodigde accessoire
 
-To install the update on your device, you need a dual USB flash drive (2-in-1 USB stick) Type-C/USB 3.0 with a USB C connector and a USB A connector. Such a dual USB flash drive is delivered together with your device. You may also purchase such an USB flash drive from different vendors.
+Om de update op uw apparaat te installeren, heeft u een dubbele USB-flashdrive (2-in-1 USB-stick) Type-C/USB 3.0 met een USB C-connector en een USB A-connector nodig. Zo'n dubbele USB-flashdrive wordt samen met uw apparaat geleverd. U kunt ook zo'n USB-flashdrive aanschaffen bij verschillende leveranciers.
 
-![Dual USB flash drive (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Dual USB flash drive")
+![Dubbele USB-flashdrive (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Dubbele USB-flashdrive")
 
-## Preparation: download latest firmware
+## Voorbereiding: download de nieuwste firmware
 
-1. Insert your USB flash drive into the USB connector of your computer. Then create a new directory named 'update' in the root directory of your flash drive.
+1. Steek uw USB-flashdrive in de USB-connector van uw computer. Maak vervolgens een nieuwe map met de naam 'update' aan in de hoofdmap van uw flashdrive.
 
-    ![Windows Explorer: USB flash drive with directory 'update'](../images/create-folder-update.png "USB flash drive: directory 'update'")
+    ![Windows Verkenner: USB-flashdrive met map 'update'](../images/create-folder-update.png "USB-flashdrive: map 'update'")
 
-1. Download the [firmware file](/download/firmware.vcu) (file name: `firmware.vcu`) and store it in the previously created directory `update` of your USB flash drive. The update file requires approx. 2.5 MB of storage space on the flash drive.
+1. Download het [firmwarebestand](/download/firmware.vcu) (bestandsnaam: `firmware.vcu`) en sla het op in de eerder aangemaakte map `update` van uw USB-flashdrive. Het updatebestand vereist ongeveer 2,5 MB opslagruimte op de flashdrive.
 
-    ![Windows Explorer: flash drive with firmware file 'firmware.vcu'](../images/save-firmware-file.png "Flash drive with firmware file")
+    ![Windows Verkenner: flashdrive met firmwarebestand 'firmware.vcu'](../images/save-firmware-file.png "Flashdrive met firmwarebestand")
 
-1. Create a [data backup][] on your device.
+1. Maak een [gegevensback-up][] op uw apparaat.
 
     {{% alert title="Info" %}}
-The data backup is a recommended precautionary measure. All existing animal and device data will be preserved when updating the firmware of the VitalControl device.
+De gegevensback-up is een aanbevolen voorzorgsmaatregel. Alle bestaande dier- en apparaatgegevens blijven behouden bij het bijwerken van de firmware van het VitalControl-apparaat.
     {{% /alert %}}
 
-[data backup]: {{< relref "../backup/backup/" >}}
+[gegevensback-up]: {{< relref "../backup/backup/" >}}
 
-## Perform firmware update
+## Voer firmware-update uit
 
-1. Open the menu item `Apparaat` in the main screen of your VitalControl device.
+1. Open het menu-item `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
-1. Invoke the submenu `Service`, select the menu item `Firmware update` and confirm with `OK`. You are now asked to insert the USB flash drive you prepared already:
+1. Roep het submenu `Service` op, selecteer het menu-item `Firmware-update` en bevestig met `OK`. U wordt nu gevraagd om de USB-flashdrive die u al heeft voorbereid in te voegen:
 
-    ![VitalControl: menu path firmware update](../images/firmware-update.png "Firmware update")
+    ![VitalControl: menupad firmware-update](../images/firmware-update.png "Firmware-update")
 
-1. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `OK`.
+1. Steek de USB-flashdrive (C-stekker) in de connector onderaan het apparaat en bevestig met `OK`.
 
-    ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+    ![VitalControl: USB-flashdrive invoegen](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-flashdrive invoegen")
 
-   The device performs the update automatically. During the update, the display informs you about the progress of the update. After the update is completed, the device restarts automatically and displays a success message after the restart:
+   Het apparaat voert de update automatisch uit. Tijdens de update informeert het display u over de voortgang van de update. Na voltooiing van de update start het apparaat automatisch opnieuw op en toont een succesbericht na de herstart:
 
-   ![VitalControl: Success message firmware update](../images/update-success.png "Success firmware update")
+   ![VitalControl: Succesbericht firmware-update](../images/update-success.png "Succes firmware-update")
 
-   The new firmware is now installed on your device.
+   De nieuwe firmware is nu geïnstalleerd op uw apparaat.
+

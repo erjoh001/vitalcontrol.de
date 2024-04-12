@@ -1,24 +1,24 @@
 ---
-title: "Latest firmware versions"
-linkTitle: "Latest versions"
+title: "Dernières versions du firmware"
+linkTitle: "Dernières versions"
 date: 2023-07-18T12:47:29+02:00
 draft: false
 weight: 10
 description: >
- List of the current firmware versions for the VitalControl device.
+ Liste des versions actuelles du firmware pour le dispositif VitalControl.
 ---
 
-## Determine firmware versions installed on your device
+## Déterminer les versions du firmware installées sur votre dispositif
 
-1. Open the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
+1. Ouvrez l'élément de menu <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositif" /> `Dispositif` sur l'écran principal de votre dispositif VitalControl.
 
-2. Invoke the submenu `Info`, select the menu item `Software` and confirm with `OK`. A pop-up window opens which lists the software versions currently installed on your device:
+2. Appelez le sous-menu `Info`, sélectionnez l'élément de menu `Logiciel` et confirmez avec `OK`. Une fenêtre contextuelle s'ouvre qui liste les versions logicielles actuellement installées sur votre dispositif :
 
-![VitalControl: determine firmware versions](../images/firmware-versions.png "Display firmware versions")
+![VitalControl : déterminer les versions du firmware](../images/firmware-versions.png "Afficher les versions du firmware")
 
-## Latest firmware versions:
+## Dernières versions du firmware :
 
-The following table lists the current firmware versions:
+Le tableau suivant liste les versions actuelles du firmware :
 
 |                 | GUI-Firmware | Middleware  | Bootloader |
 |-----------------|:------------:|:-----------:|:----------:|
@@ -27,6 +27,7 @@ The following table lists the current firmware versions:
 | **Commit hash** | 1ad71d79     | 4d7f851     | 344bc50    |
 | **Commit №**    | 2076         | n/a         | n/a        |
 
-{{% alert title="Tip" %}}
-If you miss newer features on your device or face stability problems, you are encouraged to [update](../update/) the firmware on your device to latest released version.
+{{% alert title="Conseil" %}}
+Si vous manquez de nouvelles fonctionnalités sur votre dispositif ou rencontrez des problèmes de stabilité, nous vous encourageons à [mettre à jour](../update/) le firmware sur votre dispositif vers la dernière version disponible.
 {{% /alert %}}
+

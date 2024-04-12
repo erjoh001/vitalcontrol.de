@@ -1,37 +1,37 @@
 ---
-title: "Creating a data backup"
-linkTitle: "Create backup"
+title: "Het maken van een gegevensback-up"
+linkTitle: "Back-up maken"
 date: 2023-07-20
 weight: 20
 description: >
-  By means of a data backup, a backup file is created which contains the entire data stored on the VitalControl device.
-categories: [Data backup]
-tags: [backup file, USB flash drive]
+  Door middel van een gegevensback-up wordt een back-upbestand gemaakt dat alle gegevens bevat die zijn opgeslagen op het VitalControl-apparaat.
+categories: [Gegevensback-up]
+tags: [back-upbestand, USB-flashstation]
 ---
-{{% usb-drive/en "In order to perform a data backup for your device," %}}
+{{% usb-drive/nl "Om een gegevensback-up voor uw apparaat uit te voeren," %}}
 
-## Perform data backup
+## Gegevensback-up uitvoeren
 
-1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Apparaat` in the main screen of your VitalControl device.
+1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
-2. Invoke the submenu `Data management` and select the submenu item `Data backup` afterwards. Now select the menu item `Create backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
+2. Roep het submenu `Gegevensbeheer` op en selecteer vervolgens het submenu-item `Gegevensback-up`. Selecteer nu het menu-item `Back-up maken` en bevestig met `OK`. U wordt nu gevraagd om een USB-flashstation in te voegen:
 
-   ![VitalControl: menu path data backup](../images/backup.png "Invoke data backup")
+   ![VitalControl: menupad gegevensback-up](../images/backup.png "Roep gegevensback-up op")
 
-3. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
+3. Steek de USB-flashdrive (C-stekker) in de connector onderaan het apparaat.
 
-   ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+   ![VitalControl: USB-flashstation invoegen](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-flashstation invoegen")
 
-4. Once the device detected insertion of the USB stick, the data backup is automatically started. Collecting, compressing and writing the backup data may take a minute or longer. When the backup is done, a success message is displayed:
+4. Zodra het apparaat de invoeging van de USB-stick detecteert, wordt de gegevensback-up automatisch gestart. Het verzamelen, comprimeren en schrijven van de back-upgegevens kan een minuut of langer duren. Wanneer de back-up is voltooid, wordt een succesbericht weergegeven:
 
-   ![VitalControl: success message backup](../images/backup-done.png "Success data backup")
+   ![VitalControl: succesbericht back-up](../images/backup-done.png "Succes gegevensback-up")
 
-5. The data backup is now created. You will find the created file `backup.vcu` in the directory `backup` on your USB flash drive. The backup file requires approx. 1 MB of storage space on the flash drive.
+5. De gegevensback-up is nu gemaakt. U vindt het aangemaakte bestand `backup.vcu` in de map `backup` op uw USB-flashstation. Het back-upbestand vereist ongeveer 1 MB aan opslagruimte op het flashstation.
 
-   ![USB flash drive with backup file VitalControl](../images/backup-file.png "USB flash drive with backup file")
+   ![USB-flashstation met back-upbestand VitalControl](../images/backup-file.png "USB-flashstation met back-upbestand")
 
-   {{% alert title="Hint" %}}
-  If a file `backup.vcu` already exists in the `backup` directory of your USB flash drive, this file will be renamed. The new name of the file is composed of the leading string `backup` and the date and time when the backup file was created (e.g. `backup_2023-07-17_12-50-37.vcb`). The newly written backup file is always named `backup.vcu`.
+   {{% alert title="Tip" %}}
+  Als er al een bestand `backup.vcu` bestaat in de map `backup` van uw USB-flashstation, wordt dit bestand hernoemd. De nieuwe naam van het bestand bestaat uit de leidende tekenreeks `backup` en de datum en tijd waarop het back-upbestand is gemaakt (bijv. `backup_2023-07-17_12-50-37.vcb`). Het nieuw geschreven back-upbestand heeft altijd de naam `backup.vcu`.
     {{% /alert %}}
 
-6. The created backup file can be used to [restore](../restore) the stored data to any VitalControl device if needed.
+6. Het aangemaakte back-upbestand kan worden gebruikt om de opgeslagen gegevens te [herstellen](../restore) naar een willekeurig VitalControl-apparaat indien nodig.
