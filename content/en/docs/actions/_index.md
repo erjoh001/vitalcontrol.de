@@ -47,16 +47,21 @@ Within the menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Ac
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm by pressing `OK` and select an animal using the arrow buttons △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. In the lower operating bar, you will find the `back-button`. Use the `F1` button to execute this.
+3. A submenu opens in which you will find icons for numerous animal actions. Use the arrow buttons to select the desired action and start the action by pressing the `OK` button. Depending on the action selected, one or more screens or a pop-up window will appear.
 
-4. The window from step two opens again automatically and you can select the next animal.
+4. If desired, you can now select and execute another action for the current animal.
+
+5. After you have carried out the desired action(s) for the animal, return to step 2 'Animal selection'. To do this, press the left-hand button `F1` below the `Back` symbol in the bottom left-hand corner of the footer.
+
+6. The window from step two will open again automatically and you can select the next animal or return to the main menu by pressing the `F1` button below the `Back` symbol.
 
 {{< tabpane >}}
 {{< tab header="General procedure:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
-![VitalControl: Menu Actions General procedure](images/naechstestier2.png "General procedure")
+![VitalControl: Menu Actions General procedure](images/next-animal-scan.png "Performing animal actions, selection via scan")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
-![VitalControl: Menu Actions General procedure](images/naechstestier.png "General procedure")
+![VitalControl: Menu Actions General procedure](images/next-animal-manual-select.png "Performing animal actions, manual selection")
 {{% /tab %}}
 {{< /tabpane >}}
+
