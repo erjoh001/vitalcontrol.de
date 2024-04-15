@@ -14,12 +14,14 @@ title: Urban VitalControl
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+**Reduce** the **paperwork**<br/> 
+
+**Increase** your **animal health**
+
+Have **everything** at **glance** <br/> 
+
+With just **one device** <br/>   
 {{% /blocks/lead %}}
 
 
@@ -374,43 +376,85 @@ to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/feature3 %}}
 {{< /blocks/section >}}
 
+{{% blocks/lead color="primary" %}}
 
-{{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+Suitable for several **types of animals** at different **ages**
+
+{{% /blocks/lead %}}
+
+
+{{< blocks/section color="white" type="row" >}}
+{{% blocks/feature icon="empty" title="Calves" %}}
+<br>
+<img src="/icons/animals/calf.svg" width="180" align="bottom" alt="Calves" />
+<br>
 {{% /blocks/feature %}}
 
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
-{{% /blocks/section %}}
-
-
-{{% blocks/section type="row" %}}
-
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
+{{% blocks/feature icon="empty" title="Cows" %}}
+<br>
+<img src="/icons/animals/cow.svg" width="180" align="bottom" alt="Cows" />
+<br>
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="empty" title="Lambs" %}}
+<br>
+<img src="/icons/animals/lamb.svg" width="180" align="bottom" alt="Lambs" />
+<br>
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="5 Listen"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
+{{< /blocks/section >}}
 
 
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}}
+{{% blocks/lead color="primary" %}}
+
+Our **highlights** for you
+
+{{% /blocks/lead %}}
+
+{{< blocks/section color="dark" type="row" >}}
+{{% blocks/feature3 icon="empty" title="Record <br> your births" %}}
+<br>
+<img src="images/calving.png" alt="births" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Monitor <br> your fresh cows" %}}
+<br>
+<img src="images/fresh_cows.png" alt="Fresh-cows" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Scan animal<br>passports" %}}
+<br>
+<img src="images/scan.png" alt="Bulk-recording" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Report your <br> purchases easily" %}}
+<br>
+<img src="images/pruchased.png" alt="Purchased" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{< /blocks/section >}}
+
+{{% blocks/lead color = "secondary" %}}
+Urban in social networks
+
+{{% /blocks/lead %}}
+
+{{% blocks/section color = "white" type = "row"%}}
+
+{{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" url_text="Follow"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-brands fa-youtube" title="YouTube" url="https://www.youtube.com/user/calffeeding" url_text="Have a look"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-brands fa-facebook" title="Facebook" url="https://www.facebook.com/urbanonline" url_text="Follow"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-light fa-image" title="Fotos" url="https://www.flickr.com/photos/urbanonline/" url_text="Gather impressions"%}}
+{{% /blocks/feature3 %}}
+
+{{< /blocks/section >}}

@@ -15,9 +15,12 @@ title: Urban GmbH
 
 {{% blocks/lead color="primary" %}}
 
-**Reduzieren** Sie die **Zettelwirtschaft** <br/> 
-**Erhöhen** Sie Ihre **Tiergesundheit** <br/> 
+**Reduzieren** Sie die **Zettelwirtschaft**<br/> 
+
+**Erhöhen** Sie Ihre **Tiergesundheit**
+
 Haben Sie **alles** im **Blick** <br/> 
+
 Mit nur **einem Gerät** <br/>   
 
 {{% /blocks/lead %}}
@@ -373,24 +376,86 @@ Mit nur **einem Gerät** <br/>
 {{% /blocks/feature3 %}}
 {{< /blocks/section >}}
 
+{{% blocks/lead color="primary" %}}
+
+Geeignet für mehrere **Arten von Tieren** in verschiedenen **Altersstufen**
+
+{{% /blocks/lead %}}
+
+
+{{< blocks/section color="white" type="row" >}}
+{{% blocks/feature icon="empty" title="Kälber" %}}
+<br>
+<img src="/icons/animals/calf.svg" width="180" align="bottom" alt="Kalb" />
+<br>
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="empty" title="Kühe" %}}
+<br>
+<img src="/icons/animals/cow.svg" width="180" align="bottom" alt="Kuh" />
+<br>
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="empty" title="Lämmer" %}}
+<br>
+<img src="/icons/animals/lamb.svg" width="180" align="bottom" alt="Lamm" />
+<br>
+{{% /blocks/feature %}}
+
+{{< /blocks/section >}}
+
+
+{{% blocks/lead color="primary" %}}
+
+Unsere **Highlights** für Sie
+
+{{% /blocks/lead %}}
+
+{{< blocks/section color="dark" type="row" >}}
+{{% blocks/feature3 icon="empty" title="Erfassen <br> Sie Geburten" %}}
+<br>
+<img src="bilder/abkalbung.png" alt="Abkalbung" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Überwachen Sie <br> Ihre Frischmelker" %}}
+<br>
+<img src="bilder/frischmelker.png" alt="Frischmelker" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Scannen Sie<br>Tierpässe" %}}
+<br>
+<img src="bilder/scannen.png" alt="Tierpaesee" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Melden Sie Ihre <br> Zukäufe kinderleicht" %}}
+<br>
+<img src="bilder/zukaeufe.png" alt="Meldung" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{< /blocks/section >}}
+
+{{% blocks/lead color="secondary" %}}
+
+Urban in den sozialen Netzwerken
+
+{{% /blocks/lead %}}
 
 {{% blocks/section color = "white" type = "row"%}}
 
-{{% blocks/section color = "white" %}}
-Urban in den sozialen Netzwerken
-{.h1 .text-center}
-{{% /blocks/section %}}
-
-{{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" %}}
+{{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" url_text="Folgen"%}}
 {{% /blocks/feature3 %}}
 
-{{% blocks/feature3 icon="fa-brands fa-youtube" title="YouTube" url="https://www.youtube.com/user/calffeeding" %}}
+{{% blocks/feature3 icon="fa-brands fa-youtube" title="YouTube" url="https://www.youtube.com/user/calffeeding" url_text="Reinschauen"%}}
 {{% /blocks/feature3 %}}
 
-{{% blocks/feature3 icon="fa-brands fa-facebook" title="Facebook" url="https://www.facebook.com/urbanonline" %}}
+{{% blocks/feature3 icon="fa-brands fa-facebook" title="Facebook" url="https://www.facebook.com/urbanonline" url_text="Folgen"%}}
 {{% /blocks/feature3 %}}
 
-{{% blocks/feature3 icon="fa-light fa-image" title="Fotos" url="https://www.flickr.com/photos/urbanonline/" %}}
+{{% blocks/feature3 icon="fa-light fa-image" title="Fotos" url="https://www.flickr.com/photos/urbanonline/" url_text="Eindrücke sammeln"%}}
 
 {{% /blocks/feature3 %}}
 {{< /blocks/section >}}

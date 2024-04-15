@@ -14,12 +14,15 @@ title: Urban VitalControl
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+**Verminder** het **papierwerk**<br/> 
+
+**Verhoog** uw **diergezondheid**
+
+**Alles** in **zicht** hebben <br/> 
+
+Met slechts **één apparaat** <br/>   
+
 {{% /blocks/lead %}}
 
 {{< blocks/section color="dark" type="row" >}}
@@ -373,43 +376,87 @@ to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/feature3 %}}
 {{< /blocks/section >}}
 
+{{% blocks/lead color="primary" %}}
 
-{{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+Geschikt voor meerdere **soorten dieren** op verschillende **leeftijden**
+
+{{% /blocks/lead %}}
+
+
+{{< blocks/section color="white" type="row" >}}
+{{% blocks/feature icon="empty" title="Kalveren" %}}
+<br>
+<img src="/icons/animals/calf.svg" width="180" align="bottom" alt="Kalveren" />
+<br>
 {{% /blocks/feature %}}
 
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
-{{% /blocks/section %}}
-
-
-{{% blocks/section type="row" %}}
-
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
+{{% blocks/feature icon="empty" title="Koeien" %}}
+<br>
+<img src="/icons/animals/cow.svg" width="180" align="bottom" alt="Koeien" />
+<br>
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="empty" title="Lammeren" %}}
+<br>
+<img src="/icons/animals/lamb.svg" width="180" align="bottom" alt="Lammeren" />
+<br>
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="5 Listen"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
+{{< /blocks/section >}}
 
 
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}}
+{{% blocks/lead color="primary" %}}
+
+Onze **highlights** voor jou
+
+{{% /blocks/lead %}}
+
+{{< blocks/section color="dark" type="row" >}}
+{{% blocks/feature3 icon="empty" title="Registreer <br> je geboorten" %}}
+<br>
+<img src="images/calving.png" alt="Kalving" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Bewaak uw <br> verse koeien" %}}
+<br>
+<img src="images/fresh_cows.png" alt="Verse koeien" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Scan de <br> dierpaspoorten" %}}
+<br>
+<img src="images/scan.png" alt="Dierpaspoorten" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Uw aankopen <br> melden is kinderspel" %}}
+<br>
+<img src="images/new.png" alt="Melden" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{< /blocks/section >}}
+
+
+{{% blocks/lead color = "secondary" %}}
+
+Urban in de sociale netwerken
+
+{{% /blocks/lead %}}
+
+{{% blocks/section color = "white" type = "row"%}}
+
+{{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" url_text="Gevolgen"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-brands fa-youtube" title="YouTube" url="https://www.youtube.com/user/calffeeding" url_text="Neem een kijkje"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-brands fa-facebook" title="Facebook" url="https://www.facebook.com/urbanonline" url_text="Gevolgen"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-light fa-image" title="Fotos" url="https://www.flickr.com/photos/urbanonline/" url_text="Indrukken verzamelen"%}}
+{{% /blocks/feature3 %}}
+
+{{< /blocks/section >}}
