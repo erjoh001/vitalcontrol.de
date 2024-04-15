@@ -32,9 +32,7 @@ Depending on the animal type, you can perform up to 16 different actions for an 
    <area shape="rect" coords="120,280,175,337" alt="Link animal ID manually" title="Assign a national animal ID to an animal that does not have a national animal ID&#10;Mouse click: open documentation" href="/en/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Link animal ID with scan" title="Assign a national animal ID to an animal that does not have a national animal ID&#10;Mouse click: open documentation" href="/en/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-   <area shape="rect" coords="2,340,100,375" alt="Back" title="Jump back one level" href="/en/docs/menu/mainmenu/">
    <area shape="rect" coords="100,340,140,375" alt="Settings" title="Call up the settings&#10;Mouse click: to the documentation" href="/en/docs/actions/settings/">
-   <area shape="rect" coords="140,340,238,375" alt="Next animal" title="Select the next animal&#10;Mouse click: to the documentation" href="/en/docs/actions/#general-procedure">
 </map>
 
 {{% alert title="Hint" %}}
@@ -49,7 +47,7 @@ Within the menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Ac
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm by pressing `OK` and select an animal using the arrow buttons △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. In the lower operating bar, you will find the menu item `Next animal`. Use the `F3` button to execute this.
+3. A submenu with the animal actions opens. In the lower operating bar, you will find the `back-button`. Use the `F1` button to execute this.
 
 4. The window from step two opens again automatically and you can select the next animal.
 

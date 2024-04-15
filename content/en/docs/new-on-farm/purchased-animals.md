@@ -25,15 +25,23 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
 3. A list opens with your purchases that you have registered via the bulk recording menu item.
 
-4. Press the <img src="/icons/gear.svg" width="25" align="bottom" alt="On/Off" /> `On/Off` button to open a popup menu. Use the arrow keys ◁ ▷ to select whether your exported csv file is meant for use with software `DSP Herde` or for registration of your animals at German animal database `HI Tier`. Save your settings with the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+4. Use the `F2` key `CSV export`.
 
-5. Use the `F3` key `CSV export`. A submenu opens.
-
-6. Use the arrow keys △ ▽ to select `Export csv list of purchases` and confirm with `OK`.
-
-7. The CSV message list is now saved on your USB stick. All animals in the `Purchased animals` list are automatically deleted.
+5. The CSV message list is now saved on your USB stick.
 
     ![VitalControl: List of purchased animals, csv export](../images/purchasedanimals.png "Purchased animals, csv export ")
+
+## Options: Delete all notices after export
+
+With this option, you can set whether all messages within the `Purchased animals` list should be deleted after the CSV file has been exported. Only use this option if you are sure that you no longer need the messages!
+
+1. Use the `F3` key. A submenu opens.
+
+2. Use the arrow keys △ ▽ to select the menu item `Delete all notices after export` and confirm with `OK`.
+
+3. The box is now marked with a tick. The option is activated. Confirm again with 'OK' to deactivate the option. 
+
+    ![VitalControl: List of purchased animals, csv export](../images/delete-all.png "Delete all notices after export")    
 
 ## Direct function calls
 
@@ -53,7 +61,7 @@ Always open the `purchased animals` list first as described in the instructions 
 
 You can use this function to remove the transponder from an animal.
 
-1. Use the `F3` key `CVS export`. A submenu opens.
+1. Use the `F3` key. A submenu opens.
 
 2. Use the arrow keys △ ▽ to select the menu item `unlink transponder` and confirm with `OK`.
 
@@ -65,7 +73,7 @@ You can use this function to remove the transponder from an animal.
 
 With this function you can delete all animals from the `Purchased animals` list without having to create an export file first.
 
-1. Use the `F3` key `CVS export`. A submenu opens.
+1. Use the `F3` key. A submenu opens.
 
 2. Use the arrow keys △ ▽ to select the menu item `Clear all purchase notices` and confirm with `OK`.
 
@@ -79,7 +87,7 @@ To delete an animal and its corresponding purchase notice, proceed as follows:
 
 1. Use the arrow keys △ ▽ to select the animal you want to delete.
 
-2. Use the `F3` key `CVS export`. A submenu opens.
+2. Use the `F3` key. A submenu opens.
 
 3. Use the arrow keys △ ▽ to select the menu item `Delete animal +  notice` and confirm with `OK`.
 
@@ -93,7 +101,7 @@ To delete an animal's notice of purchase from the list, proceed as follows:
 
 1. Use the arrow keys △ ▽ to select the animal whose purchase notice you want to delete.
 
-2. Use the `F3` key `CVS export`. A submenu opens.
+2. Use the `F3` key. A submenu opens.
 
 3. Use the arrow keys △ ▽ to select the menu item `Clear notice of purchase` and confirm with `OK`.
 

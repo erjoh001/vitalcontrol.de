@@ -30,9 +30,7 @@ Je nach Tierart können Sie bis zu 16 verschiedene Aktionen für ein Tier ausfü
    <area shape="rect" coords="55,280,120,336" alt="Transponder abnehmen" title="Lösen Sie für ein Tier die bestehende Verknüpfung zu einem Transponder&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/transponder-abnehmen/">
    <area shape="rect" coords="120,280,175,336" alt="Ohrmarkennummer manuell zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#manuelle-zuordnung">
    <area shape="rect" coords="175,280,230,336" alt="Ohrmarkennummer mit Scan zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#zuordnung-mittels-scan-einer-elektronischen-ohrmarke">
-   <area shape="rect" coords="2,338,100,374" alt="Zurück" title="Springen Sie eine Ebene zurück" href="/docs/menu/hauptmenue/">
    <area shape="rect" coords="100,338,140,374" alt="Einstellungen" title="Rufen Sie die Einstellungen auf&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/einstellungen/#menüeinträge-sichtbarkeit-und-reihenfolge">
-   <area shape="rect" coords="140,338,238,374" alt="Nächstes Tier" title="Wählen Sie das nächste Tier aus&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/#allgemeiner-ablauf">
 </map>
 
 {{% alert title="Hinweis" %}}
@@ -47,7 +45,7 @@ Innerhalb des Menüs &nbsp;<img src="/icons/actions.svg" width="40" align="botto
 
 2. Scannen Sie entweder ein Tier mittels des Transponders ein oder wählen Sie ein Tier aus der Liste aus. Bestätigen Sie hierfür mit `OK` und wählen Sie mit den Pfeiltasten △ ▽ ein Tier aus. Bestätigen Sie mit `OK`.
 
-3. Es öffnet sich ein Untermenü mit den Tieraktionen. In der unteren Bedienleiste finden Sie den Menüpunkt `Nächstes Tier`. Verwenden Sie die `F3` Taste um diesen auszuführen.
+3. Es öffnet sich ein Untermenü mit den Tieraktionen. In der unteren Bedienleiste finden Sie die `Zurück-Taste`. Verwenden Sie die `F1` Taste um diese auszuführen.
 
 4. Es öffnet sich automatisch wieder das Fenster aus Schritt zwei und Sie können das nächste Tier auswählen.
 
