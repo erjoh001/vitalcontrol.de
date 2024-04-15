@@ -378,32 +378,31 @@ Mit nur **einem Gerät** <br/>
 
 {{% blocks/lead color="primary" %}}
 
-Geeignet für **drei** Tiere  
+Geeignet für mehrere **Arten von Tieren** in verschiedenen **Altersstufen**
 
 {{% /blocks/lead %}}
 
 
-{{< blocks/section color="dark" type="row" >}}
+{{< blocks/section color="white" type="row" >}}
 {{% blocks/feature icon="empty" title="Kälber" %}}
 <br>
-<img src="/icons/main/animal.svg" width="250" align="bottom" alt="Kalb" />
+<img src="/icons/animals/calf.svg" width="180" align="bottom" alt="Kalb" />
 <br>
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="empty" title="Kühe" %}}
 <br>
-<img src="/icons/main/animal.svg" width="300" align="bottom" alt="Kuh" />
+<img src="/icons/animals/cow.svg" width="180" align="bottom" alt="Kuh" />
 <br>
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="empty" title="Lämmer" %}}
 <br>
-<img src="/icons/main/animal.svg" width="250" align="bottom" alt="Lamm" />
+<img src="/icons/animals/lamb.svg" width="180" align="bottom" alt="Lamm" />
 <br>
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
-
 
 
 {{% blocks/lead color="primary" %}}
@@ -419,13 +418,13 @@ Unsere **Highlights** für Sie
 <br>
 {{% /blocks/feature3 %}}
 
-{{% blocks/feature3 icon="empty" title="Überwachen Sie <br> ihre Frischmelker" %}}
+{{% blocks/feature3 icon="empty" title="Überwachen Sie <br> Ihre Frischmelker" %}}
 <br>
 <img src="bilder/frischmelker.png" alt="Frischmelker" />
 <br>
 {{% /blocks/feature3 %}}
 
-{{% blocks/feature3 icon="empty" title="Scannen Sie <br> die Tierpässe" %}}
+{{% blocks/feature3 icon="empty" title="Scannen Sie<br>Tierpässe" %}}
 <br>
 <img src="bilder/scannen.png" alt="Tierpaesee" />
 <br>
@@ -439,108 +438,13 @@ Unsere **Highlights** für Sie
 
 {{< /blocks/section >}}
 
-{{% blocks/lead color="primary" %}}
+{{% blocks/lead color="secondary" %}}
 
-**FAQ´s**
+Urban in den sozialen Netzwerken
 
 {{% /blocks/lead %}}
 
-{{< blocks/section color="dark" type="row" >}}
-
-<style>
-/* Stil für die FAQ */
-.accordion {
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  transition: 0.4s;
-  font-size: 25px;
-}
-
-.panel {
-  padding: 30px 18px;
-  display: none;
-  overflow: hidden;
-  font-size: 20px;
-  background-color: white;
-  color: black;
-}
-
-.accordion {
-  color: white;
-  background-color: #403f4c;
-}
-</style>
-</head>
-<body>
-
-
-<!-- FAQ Abschnitte -->
-<button class="accordion">Wie viel kostet das Gerät?</button>
-<div class="panel">
-  <p>Während der Einführungsaktion erhalten Sie das Gerät für 1.099€</p>
-</div>
-
-<button class="accordion">Für welche Betriebe ist das Gerät geeignet?</button>
-<div class="panel">
-  <p>Das Gerät bietet sowohl für den Fresseraufzüchter als auch für den Milchviehbetrieb passgenaue Lösungen. Alle Anwendungen lassen sich ebenfalls auf Lämmer und Schafe übertragen.</p>
-</div>
-
-<button class="accordion">Warum sollte ich mir das VitalControl anschaffen?</button>
-<div class="panel">
-  <p>Das VitalControl erleichtert Ihren Arbeitsalltag. Es erspart Ihnen die elendige Zettelwirtschaft und das lange suchen nach Notizen. Alle Daten werden Tierindividuell abgespeichert
-  und sind für Sie mit wenigen Klicks abrufbar. Der Überblick über Ihre Tiere und die Kontrolle der Tiergesundheit werden massiv erleichtert. Gleichzeit erhalten Sie diverse
-  Auswertungsmöglichkeiten um die Entwicklung wichtiger Kennzahlen optimal im Blick zu haben.</p>
-</div>
-
-<button class="accordion">Für welche Arbeitsabläufe ist das Gerät geeignet?</button>
-<div class="panel">
-  <p>
-  <li> Zukäufe von Tieren </li>
-  <br>
-  Sie scannen die Tierpässe mit dem VitalControl ein und haben so alle Neuankünfte direkt mit der Ohrmarkennummer und dem Geburtsdatum im Gerät hinterlegt. Nun können Sie den Tieren noch einen Transponder zuweisen um das Tierindividuelle Abspeichern der Tierdaten zu ermöglichen. Abschließend exportieren Sie eine CSV-Datei mit der sie die Zukäufe spielend leicht bei HI-Tier oder Herde-Mast melden können.
-  <br>
-  <br>
-  <br>
-  <li>Tägliche Tierkontrolle</li>
-  <br> 
-  Das VitalControl bietet Ihnen 14 Aktionen die Sie bei der täglichen Tierkontrolle einsetzen können. Wählen Sie einfach den Menüpunkt "Aktionen" aus, scannen Sie den Transponder des betreffenden Tieres ein und legen Sie los. Messen Sie Fieber, bewerten Sie das Tier oder erfassen Sie das Gewicht während einer Wiegung. 
-
-  </p>
-</div>
-
-<!-- JavaScript für das Akkordeon -->
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
-
-</body>
-</html>
-
-{{< /blocks/section >}}
-
 {{% blocks/section color = "white" type = "row"%}}
-
-{{% blocks/section color = "white" %}}
-Urban in den sozialen Netzwerken
-{.h1 .text-center}
-{{% /blocks/section %}}
 
 {{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" url_text="Folgen"%}}
 {{% /blocks/feature3 %}}

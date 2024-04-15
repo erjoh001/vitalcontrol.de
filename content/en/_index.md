@@ -378,32 +378,31 @@ With just **one device** <br/>
 
 {{% blocks/lead color="primary" %}}
 
-Suitable for **three** animals  
+Suitable for several **types of animals** at different **ages**
 
 {{% /blocks/lead %}}
 
 
-{{< blocks/section color="dark" type="row" >}}
+{{< blocks/section color="white" type="row" >}}
 {{% blocks/feature icon="empty" title="Calves" %}}
 <br>
-<img src="/icons/main/animal.svg" width="250" align="bottom" alt="Calves" />
+<img src="/icons/animals/calf.svg" width="180" align="bottom" alt="Calves" />
 <br>
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="empty" title="Cows" %}}
 <br>
-<img src="/icons/main/animal.svg" width="300" align="bottom" alt="Cows" />
+<img src="/icons/animals/cow.svg" width="180" align="bottom" alt="Cows" />
 <br>
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="empty" title="Lambs" %}}
 <br>
-<img src="/icons/main/animal.svg" width="250" align="bottom" alt="Lambs" />
+<img src="/icons/animals/lamb.svg" width="180" align="bottom" alt="Lambs" />
 <br>
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
-
 
 
 {{% blocks/lead color="primary" %}}
@@ -425,7 +424,7 @@ Our **highlights** for you
 <br>
 {{% /blocks/feature3 %}}
 
-{{% blocks/feature3 icon="empty" title="Scan the <br> animal passports" %}}
+{{% blocks/feature3 icon="empty" title="Scan animal<br>passports" %}}
 <br>
 <img src="images/scan.png" alt="Bulk-recording" />
 <br>
@@ -439,107 +438,12 @@ Our **highlights** for you
 
 {{< /blocks/section >}}
 
-{{% blocks/lead color="primary" %}}
-
-**FAQ´s**
+{{% blocks/lead color = "secondary" %}}
+Urban in social networks
 
 {{% /blocks/lead %}}
 
-{{< blocks/section color="dark" type="row" >}}
-
-<style>
-/* Stil für die FAQ */
-.accordion {
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  transition: 0.4s;
-  font-size: 25px;
-}
-
-.panel {
-  padding: 30px 18px;
-  display: none;
-  overflow: hidden;
-  font-size: 20px;
-  background-color: white;
-  color: black;
-}
-
-.accordion {
-  color: white;
-  background-color: #403f4c;
-}
-</style>
-</head>
-<body>
-
-
-<!-- FAQ Abschnitte -->
-<button class="accordion">How much does the device cost?</button>
-<div class="panel">
-  <p>During the introductory campaign you can get the device for €1.099</p>
-</div>
-
-<button class="accordion">For which farms is the device suitable?</button>
-<div class="panel">
-  <p>The device offers tailor-made solutions for both forage breeders and dairy farms. All applications can also be transferred to lambs and sheep.</p>
-</div>
-
-<button class="accordion">Why should I buy the VitalControl?</button>
-<div class="panel">
-  <p>VitalControl makes your day-to-day work easier. It saves you the tedious paperwork and the long search for notes. All data is stored individually for each animal
-  and can be called up with just a few clicks. This makes it much easier to keep track of your animals and monitor their health. At the same time, you receive various
-  evaluation options to keep an eye on the development of important key figures.</p>
-</div>
-
-<button class="accordion">For which work processes is the device suitable?</button>
-<div class="panel">
-  <p>
-  <li> Purchases of animals </li>
-  <br>
-  You scan the animal passports with the VitalControl and all new arrivals are stored directly in the device with the ear tag number and date of birth. Now you can assign a transponder to the animals to enable the animal-specific storage of the animal data. Finally, you export a CSV file with which you can easily report the purchases to HI-Tier or Herde-Mast.
-  <br>
-  <br>
-  <br>
-  <li>Daily animal control</li>
-  <br> 
-  VitalControl offers you 14 actions that you can use for daily animal checks. Simply select the menu item "Actions", scan the transponder of the animal in question and get started. Take a temperature, assess the animal or record the weight during weighing. 
-  </p>
-</div>
-
-<!-- JavaScript für das Akkordeon -->
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
-
-</body>
-</html>
-
-{{< /blocks/section >}}
-
 {{% blocks/section color = "white" type = "row"%}}
-
-{{% blocks/section color = "white" %}}
-Urban in social networks
-{.h1 .text-center}
-{{% /blocks/section %}}
 
 {{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" url_text="Follow"%}}
 {{% /blocks/feature3 %}}
@@ -551,7 +455,6 @@ Urban in social networks
 {{% /blocks/feature3 %}}
 
 {{% blocks/feature3 icon="fa-light fa-image" title="Fotos" url="https://www.flickr.com/photos/urbanonline/" url_text="Gather impressions"%}}
-
 {{% /blocks/feature3 %}}
-{{< /blocks/section >}}
 
+{{< /blocks/section >}}

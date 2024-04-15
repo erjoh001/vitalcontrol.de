@@ -378,32 +378,31 @@ Met slechts **één apparaat** <br/>
 
 {{% blocks/lead color="primary" %}}
 
-Geschikt voor **drie** dieren  
+Geschikt voor meerdere **soorten dieren** op verschillende **leeftijden**
 
 {{% /blocks/lead %}}
 
 
-{{< blocks/section color="dark" type="row" >}}
+{{< blocks/section color="white" type="row" >}}
 {{% blocks/feature icon="empty" title="Kalveren" %}}
 <br>
-<img src="/icons/main/animal.svg" width="250" align="bottom" alt="Kalveren" />
+<img src="/icons/animals/calf.svg" width="180" align="bottom" alt="Kalveren" />
 <br>
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="empty" title="Koeien" %}}
 <br>
-<img src="/icons/main/animal.svg" width="300" align="bottom" alt="Koeien" />
+<img src="/icons/animals/cow.svg" width="180" align="bottom" alt="Koeien" />
 <br>
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="empty" title="Lammeren" %}}
 <br>
-<img src="/icons/main/animal.svg" width="250" align="bottom" alt="Lammeren" />
+<img src="/icons/animals/lamb.svg" width="180" align="bottom" alt="Lammeren" />
 <br>
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
-
 
 
 {{% blocks/lead color="primary" %}}
@@ -439,107 +438,14 @@ Onze **highlights** voor jou
 
 {{< /blocks/section >}}
 
-{{% blocks/lead color="primary" %}}
 
-**FAQ´s**
+{{% blocks/lead color = "secondary" %}}
+
+Urban in de sociale netwerken
 
 {{% /blocks/lead %}}
 
-{{< blocks/section color="dark" type="row" >}}
-
-<style>
-/* Stil für die FAQ */
-.accordion {
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  transition: 0.4s;
-  font-size: 25px;
-}
-
-.panel {
-  padding: 30px 18px;
-  display: none;
-  overflow: hidden;
-  font-size: 20px;
-  background-color: white;
-  color: black;
-}
-
-.accordion {
-  color: white;
-  background-color: #403f4c;
-}
-</style>
-</head>
-<body>
-
-
-<!-- FAQ Abschnitte -->
-<button class="accordion">Hoeveel kost het apparaat?</button>
-<div class="panel">
-  <p>Tijdens de introductieactie kun je het apparaat krijgen voor €1.099</p>
-</div>
-
-<button class="accordion">Voor welke bedrijven is het apparaat geschikt?</button>
-<div class="panel">
-  <p>Het apparaat biedt oplossingen op maat voor zowel ruwvoederboeren als melkveebedrijven. Alle toepassingen zijn ook geschikt voor lammeren en schapen.</p>
-</div>
-
-<button class="accordion">Waarom zou ik de VitalControl kopen?</button>
-<div class="panel">
-  <p>VitalControl maakt je dagelijkse werk eenvoudiger. Het bespaart je het ellendige papierwerk en het lange zoeken naar notities. Alle gegevens worden voor elk dier afzonderlijk opgeslagen
-  en kunnen met een paar klikken worden opgeroepen. Dit maakt het veel eenvoudiger om uw dieren te volgen en hun gezondheid in de gaten te houden. Tegelijkertijd krijgt u verschillende
-  analysemogelijkheden om de ontwikkeling van belangrijke kengetallen in de gaten te houden.</p>
-</div>
-
-<button class="accordion">Voor welke werkprocessen is het apparaat geschikt?</button>
-<div class="panel">
-  <p>
-  <li> Aankoop van dieren </li>
-  <br>
-  U scant de dierpaspoorten met de VitalControl en alle nieuw binnengekomen dieren worden direct in het apparaat opgeslagen met het oormerknummer en de geboortedatum. U kunt nu een transponder aan de dieren toewijzen om de dierspecifieke opslag van de diergegevens mogelijk te maken. Tot slot kun je een CSV-bestand exporteren waarmee je eenvoudig de aankopen kunt rapporteren aan HI-Tier of Herde-Mast.
-  <br>
-  <br>
-  <br>
-  <li>Dagelijkse dierencontrole</li>
-  <br> 
-  VitalControl biedt je 14 acties die je kunt gebruiken voor dagelijkse diercontroles. Kies gewoon het menu-item "Acties", scan de transponder van het betreffende dier en ga aan de slag. Neem een temperatuur op, beoordeel het dier of registreer het gewicht tijdens een weging. 
-  </p>
-</div>
-
-<!-- JavaScript für das Akkordeon -->
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
-
-</body>
-</html>
-
-{{< /blocks/section >}}
-
 {{% blocks/section color = "white" type = "row"%}}
-
-{{% blocks/section color = "white" %}}
-Urban in de sociale netwerken
-{.h1 .text-center}
-{{% /blocks/section %}}
 
 {{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" url_text="Gevolgen"%}}
 {{% /blocks/feature3 %}}
@@ -551,6 +457,6 @@ Urban in de sociale netwerken
 {{% /blocks/feature3 %}}
 
 {{% blocks/feature3 icon="fa-light fa-image" title="Fotos" url="https://www.flickr.com/photos/urbanonline/" url_text="Indrukken verzamelen"%}}
-
 {{% /blocks/feature3 %}}
+
 {{< /blocks/section >}}
