@@ -63,6 +63,6 @@ Within the menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Ac
 ![VitalControl: Menu Actions General procedure](images/next-animal-scan.png "Performing animal actions, selection via scan")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
-![VitalControl: Menu Actions General procedure](images/images/next-animal-manual-select.png "Performing animal actions, manual selection")
+![VitalControl: Menu Actions General procedure](images/next-animal-manual-select.png "Performing animal actions, manual selection")
 {{% /tab %}}
 {{< /tabpane >}}
