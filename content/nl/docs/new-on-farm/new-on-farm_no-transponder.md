@@ -35,6 +35,12 @@ In this list you will find all newly created animals with a maximum age of X day
 {{% /tab %}}
 {{< /tabpane >}}
 
+{{% alert title="Hint" %}}
+As soon as you have assigned all animals, you have the option of being redirected to the menu item `Purchased animals` via the `F3` button. There you can create a CSV file for the access report in HI-Tier or HERDE-Mast. <br/>
+<br/>
+![VitalControl: Menu New on farm, no transponder](../images/redirect.png "Redirect")
+{{% /alert %}}
+
 ## Vorige toegevoegde acties
 
 You can use the previous additional actions to set which actions you want to perform before assigning the transponder. You can choose between measuring the temperature, assessing the animal and weighing the animal. The respective action is saved directly for the animal that you subsequently assign. Proceed as follows:

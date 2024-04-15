@@ -25,15 +25,23 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
 3. Es öffnet sich eine Liste mit Ihren Zukäufen, die Sie über den Menüpunkt Massenzugang registriert haben.
 
-4. Drücken Sie die mittlere `An/Aus` Taste <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> um ein Popup-Menü zu öffnen. Wählen Sie mittels der Pfeiltasten ◁ ▷ aus, ob die Exportdatei für die Registrierung bei HI-Tier oder für den Import beim Programm `DSP-Herde` bestimmt ist. Speichern Sie ihre Einstellung mit der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" />&nbsp;.
+4. Drücken Sie `F2` Taste `CSV-Export`.
 
-5. Drücken Sie `F3` Taste `CSV-Export`. Es öffnet sich ein Untermenü.
-
-6. Verwenden Sie die Pfeiltasten △ ▽ um `Export CSV-Meldeliste` auszuwählen und bestätigen Sie mit `OK`.
-
-7. Die CSV-Meldeliste ist nun auf Ihrem USB-Stick gespeichert. Alle Tiere in der Liste `Zukäufe` sind automatisch gelöscht.
+5. Die CSV-Meldeliste ist nun auf Ihrem USB-Stick gespeichert.
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/zukaeufe.png "Zukäufe")
+
+## Optionen: Alle Nachrichten nach Export löschen 
+
+Mit dieser Option können Sie einstellen ob alle Meldungen innerhalb der Liste `Zukäufe` gelöscht werden sollen nachdem der Export der CSV-Datei erfolgt ist. Verwenden Sie diese Option nur, wenn Sie sich sicher sind, dass Sie die Meldungen nicht weiter benötigen!
+
+1. Drücken Sie die `F3` Taste. Es öffnet sich ein Untermenü.
+
+2. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Alle Nachrichten nach Export löschen` aus und bestätigen Sie mit `OK`.
+
+3. Der Kasten ist nun mit einem Häkchen gekennzeichnet. Die Option ist aktiviert. Bestätigen Sie erneut mit `OK` um die Option zu deaktivieren. 
+
+    ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/nachrichten-loeschen.png "Alle Nachrichten nach Export löschen")
 
 ## Direktfunktionen
 
@@ -53,7 +61,7 @@ Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
 Mit dieser Funktion können Sie den Transponder von einem Tier lösen.
 
-1. Drücken Sie `F3` Taste `CSV-Export`. Es öffnet sich ein Untermenü.
+1. Drücken Sie die `F3` Taste. Es öffnet sich ein Untermenü.
 
 2. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Transponder abnehmen` aus und bestätigen Sie mit `OK`.
 
@@ -65,7 +73,7 @@ Mit dieser Funktion können Sie den Transponder von einem Tier lösen.
 
 Mit dieser Funktion können Sie alle Tiere aus der Liste `Zukäufe` löschen ohne zuvor eine Export-Datei erstellen zu müssen.
 
-1. Drücken Sie `F3` Taste `CSV-Export`. Es öffnet sich ein Untermenü.
+1. Drücken Sie die `F3` Taste. Es öffnet sich ein Untermenü.
 
 2. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Alle Meldungen löschen` aus und bestätigen Sie mit `OK`.
 
@@ -79,7 +87,7 @@ Um ein Tier und die Zugangsmeldung zu löschen gehen Sie wie folgt vor:
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, welches Sie löschen möchten.
 
-2. Drücken Sie `F3` Taste `CSV-Export`. Es öffnet sich ein Untermenü. Es öffnet sich ein Untermenü.
+2. Drücken Sie die `F3` Taste. Es öffnet sich ein Untermenü.
 
 3. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Tier + Meldung löschen` aus und bestätigen Sie mit `OK`.
 
@@ -93,7 +101,7 @@ Um die Zugangsmeldung eines Tieres aus der Liste zu löschen gehen Sie wie folgt
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, welches Sie löschen möchten.
 
-2. Drücken Sie `F3` Taste `CSV-Export`. Es öffnet sich ein Untermenü. Es öffnet sich ein Untermenü.
+2. Drücken Sie die `F3` Taste. Es öffnet sich ein Untermenü.
 
 3. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt `Zugangsmeldung löschen` aus und bestätigen Sie mit `OK`.
 

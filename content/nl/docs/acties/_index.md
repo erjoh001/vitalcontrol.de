@@ -33,7 +33,6 @@ Depending on the animal type, you can perform up to 16 different actions for an 
    <area shape="rect" coords="120,280,175,337" alt="Link dier ID manueel" title="Assign a national animal ID to an animal that does not have a national animal ID&#10;Mouse click: open documentation" href="/nl/docs/acties/link-animal-id/#link-dier-id">
    <area shape="rect" coords="175,280,230,337" alt="Link dier ID with scan" title="Assign a national animal ID to an animal that does not have a national animal ID&#10;Mouse click: open documentation" href="/nl/docs/acties/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-   <area shape="rect" coords="2,340,100,375" alt="Back" title="Jump back one level" href="/nl/docs/menu/mainmenu/">
    <area shape="rect" coords="100,340,140,375" alt="Instellingen" title="Call up the settings&#10;Mouse click: to the documentation" href="/nl/docs/acties/settings/#menuonderdelen">
 
 </map>
@@ -50,16 +49,20 @@ Within the menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Ac
 
 2. Either scan an animal using the transponder or select an animal from the list. Confirm by pressing `OK` and select an animal using the arrow buttons △ ▽. Confirm with `OK`.
 
-3. A submenu with the animal actions opens. In the lower operating bar, you will find the menu item `Next animal`. Use the `F3` button to execute this.
+3. A submenu opens in which you will find icons for numerous animal actions. Use the arrow buttons to select the desired action and start the action by pressing the `OK` button. Depending on the action selected, one or more screens or a pop-up window will appear.
 
-4. The window from step two opens again automatically and you can select the next animal.
+4. If desired, you can now select and execute another action for the current animal.
+
+5. After you have carried out the desired action(s) for the animal, return to step 2 'Animal selection'. To do this, press the left-hand button `F1` below the `Back` symbol in the bottom left-hand corner of the footer.
+
+6. The window from step two will open again automatically and you can select the next animal or return to the main menu by pressing the `F1` button below the `Back` symbol.
 
 {{< tabpane >}}
 {{< tab header="General procedure:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
-![VitalControl: Menu Actions General procedure](images/naechstestier2.png "General procedure")
+![VitalControl: Menu Actions General procedure](images/next-animal-scan.png "Performing animal actions, selection via scan")
 {{% /tab %}}
 {{% tab header="Manual selection from list" text=true %}}
-![VitalControl: Menu Actions General procedure](images/naechstestier.png "General procedure")
+![VitalControl: Menu Actions General procedure](images/images/next-animal-manual-select.png "Performing animal actions, manual selection")
 {{% /tab %}}
 {{< /tabpane >}}
