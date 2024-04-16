@@ -1,22 +1,22 @@
 ---
-title: Hardware information
-linkTitle: Hardware information
+title: Hardware-informatie
+linkTitle: Hardware-informatie
 date: 2023-09-14T10:01:35+02:00
 weight: 30
 draft: false
 description: >
- To access the hardware information of your device click here
+ Om toegang te krijgen tot de hardware-informatie van uw apparaat, klik hier
 ---
-## Get hardware information
+## Hardware-informatie ophalen
 
-To retrieve the hardware information of your device, proceed as follows:
+Om de hardware-informatie van uw apparaat op te halen, ga als volgt te werk:
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `Apparaat` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" />  `Apparaat` en druk op de `OK` knop.
 
-2. A submenu opens with several menu items. Select `Info` and confirm with `OK`.
+2. Er opent een submenu met verschillende menu-items. Selecteer `Info` en bevestig met `OK`.
 
-3. Another submenu opens. Select `Hardware` and confirm with `OK`.
+3. Er opent een ander submenu. Selecteer `Hardware` en bevestig met `OK`.
 
-4. The hardware information will now be displayed.
+4. De hardware-informatie wordt nu weergegeven.
 
-   ![VitalControl: Menu Device Info](../images/hardware.png "Get hardware information")
+   ![VitalControl: Menu Apparaat Info](../images/hardware.png "Hardware-informatie ophalen")

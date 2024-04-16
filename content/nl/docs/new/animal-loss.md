@@ -1,48 +1,49 @@
 ---
-title: Registration of an animal loss
+title: Registratie van een dierverlies
 linkTitle: Dier verloren
 date: 2023-07-28T13:25:28+02:00
 weight: 10
 draft: false
 slug: animal-loss
 description: >
-  How to register the loss of an animal using the VitalControl device.
+  Hoe u het verlies van een dier registreert met het VitalControl-apparaat.
 categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Record the loss of an animal
+## Het verlies van een dier registreren
 
 {{% alert title="Hint" %}}
-The animal loss function in this menu item is primarily used to record dead calves/lambs. The setting options are adapted accordingly and are not identical to the setting items in the menu `Acties` -> `Afmelden` or `Dier verloren`.
+De functie voor dierverlies in dit menu-item wordt voornamelijk gebruikt om dode kalveren/lammeren te registreren. De instellingsopties zijn dienovereenkomstig aangepast en zijn niet identiek aan de instellingen in het menu `Acties` -> `Afmelden` of `Dier verloren`.
 {{% /alert %}}
 
-To record the loss of an animal, proceed as follows:
+Om het verlies van een dier te registreren, ga als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Nieuw` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nieuw dier" /> `Nieuw` en druk op de `OK` knop.
 
-2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/stillbirth.svg" width="40" align="bottom" alt="Animal loss" /> `Dier verloren` and confirm with `OK`.
+2. Er opent een submenu. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het menu-item <img src="/icons/main/stillbirth.svg" width="40" align="bottom" alt="Dier verloren" /> `Dier verloren` te selecteren en bevestig met `OK`.
 
-3. Either scan the mother animal's transponder or use the `OK` button. Enter the ID of the mother animal using the arrow keys ◁ ▷ △ ▽ and confirm with `OK`.
+3. Scan de transponder van het moederdier of gebruik de `OK` knop. Voer de ID van het moederdier in met de pijltoetsen ◁ ▷ △ ▽ en bevestig met `OK`.
 
-4. Another submenu opens in which you can save the information about the animal. Use the arrow keys △ ▽ to select the desired setting item.
+4. Er opent een ander submenu waarin u de informatie over het dier kunt opslaan. Gebruik de pijltoetsen △ ▽ om het gewenste instelling-item te selecteren.
 
-5. For the settings `Type van nutdier`,`Geslacht` ,`Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` and `Afkalfverloop`, use the arrow keys ◁ ▷ to select the desired setting.
+5. Voor de instellingen `Type van nutdier`,`Geslacht` ,`Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` en `Afkalfverloop`, gebruik de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren.
 
-6. For the setting `Geboortedatum` use the arrow keys △ ▽ to select the desired setting option and confirm with `OK`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `OK`.
+6. Voor de instelling `Geboortedatum` gebruik de pijltoetsen △ ▽ om de gewenste instellingsoptie te selecteren en bevestig met `OK`. Gebruik de pijltoetsen △ ▽◁ ▷ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-7. Save the settings and create the new animal with the `F3` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save" />&nbsp;.
+7. Sla de instellingen op en creëer het nieuwe dier met de `F3` toets &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan" />&nbsp;.
 
 {{% alert title="Hint" %}}
-Further information and setting options for creating new animals can be found [here](../../settings/animal-registration/).
+Verdere informatie en instellingsopties voor het aanmaken van nieuwe dieren vindt u [hier](../../settings/animal-registration/).
 {{% /alert %}}
+
 
 {{< tabpane >}}
-{{< tab header="Animal loss:" text=true disabled=true />}}
+{{< tab header="Dierenverlies:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu path New animal loss](../images/animalloss-scan.png "Record the loss of an animal")
+ ![VitalControl: Menu pad Nieuw dierenverlies](../images/animalloss-scan.png "Registreer het verlies van een dier")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu path New animal loss](../images/animalloss.png "Record the loss of an animal")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu pad Nieuw dierenverlies](../images/animalloss.png "Registreer het verlies van een dier")
 {{% /tab %}}
 {{< /tabpane >}}

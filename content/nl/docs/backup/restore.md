@@ -20,7 +20,7 @@ In de map `backup` van uw USB-flashstation kunt u meerdere back-upbestanden met 
 
 1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van het VitalControl-apparaat waarop u de gegevens wilt herstellen.
 
-2. Roep het submenu `Gegevensbeheer` op en selecteer vervolgens het submenu-item `Gegevensback-up`. Selecteer nu het menu-item `Bewaar Back Up` en bevestig met `OK`. U wordt nu gevraagd om een USB-flashstation in te voeren:
+2. Roep het submenu `Data management` op en selecteer vervolgens het submenu-item `Data backup`. Selecteer nu het menu-item `Bewaar Back Up` en bevestig met `OK`. U wordt nu gevraagd om een USB-flashstation in te voeren:
 
    ![VitalControl: menupad gegevensherstel](../images/restore.png "Herstellen vanuit back-upbestand")
 

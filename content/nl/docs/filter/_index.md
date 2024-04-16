@@ -1,36 +1,36 @@
 ---
-title: Applying a filter on an animal list
+title: Een filter toepassen op een dierenlijst
 linkTitle: Filter
 weight: 50
 description: >
- How to apply a filter on an animal list in order to display only a subset of the animals present on the device.
+ Hoe een filter toe te passen op een dierenlijst om alleen een subset van de dieren die aanwezig zijn op het apparaat weer te geven.
 date: 2023-07-26
 categories: [Filter]
 tags: [Filter]
 translationKey: filter
 ---
-## Applying filters
+## Filters toepassen
 
-{{% alert title="NOTE" %}}
-The filter helps you to carry out a selection using filter criteria within the menu items `Groep`, `Lijsten` and `Evaluatie` of the VitalControl device. As soon as you apply a filter, symbols for the various filter criteria appear at the top of the screen. These symbols are used to help you find out whether and which filter criteria are activated. For example, if you set the `Geslacht` filter to male, the device will only use male animals. For example, if you also activate the `bekijken` filter, the device only uses male animals that are on the observation list.
+{{% alert title="Opmerking" %}}
+Het filter helpt je om een selectie uit te voeren met filtercriteria binnen de menu-items `Groep`, `Lijsten` en `Evaluatie` van het VitalControl-apparaat. Zodra je een filter toepast, verschijnen er symbolen voor de verschillende filtercriteria bovenaan het scherm. Deze symbolen worden gebruikt om je te helpen ontdekken of en welke filtercriteria zijn geactiveerd. Als je bijvoorbeeld het `Geslacht` filter instelt op mannelijk, zal het apparaat alleen mannelijke dieren gebruiken. Als je bijvoorbeeld ook het `bekijken` filter activeert, gebruikt het apparaat alleen mannelijke dieren die op de observatielijst staan.
 {{% /alert %}}
 
-To create a filter in the evaluations, proceed as follows:
+Om een filter te creëren in de evaluaties, ga je als volgt te werk:
 
-1. In the submenu belonging to the top menu item <img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluation" /> `Evaluatie` press the `F3` key <img src="/icons/footer/filter.svg" width="25" align="bottom" alt="Filter" /> once. Inside the submenu belonging to the top menu items <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lijsten` and <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herd" /> `Groep`, you have to press the key twice.
+1. In het submenu dat hoort bij het bovenste menu-item <img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluatie" /> `Evaluatie` druk je eenmaal op de `F3` toets <img src="/icons/footer/filter.svg" width="25" align="bottom" alt="Filter" />. In het submenu dat hoort bij de bovenste menu-items <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lijsten" /> `Lijsten` en <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herd" /> `Groep`, moet je de toets twee keer indrukken.
 
-2. A submenu opens in which you can set all filter options. You can filter by `Diernummer`, `Leeftijd`, `Geslacht`, `Transponder`, `Oormerknummer`, `Koorts`, `bekijken`, `Type van nutdier` and `Alarm`.
+2. Er opent een submenu waarin je alle filteropties kunt instellen. Je kunt filteren op `Diernummer`, `Leeftijd`, `Geslacht`, `Transponder`, `Oormerknummer`, `Koorts`, `bekijken`, `Type van nutdier` en `Alarm`.
 
-3. For the filters `Type van nutdier`, `Geslacht`, `Transponder` and `Oormerknummer` navigate to the corresponding area and confirm with `OK`. Use the arrow keys ◁ ▷ to specify the desired setting. Use `F3` key `Toepassen` to put the selected setting in place. To discard your filter changes, press `F1` key &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Back" />&nbsp;.
+3. Voor de filters `Type van nutdier`, `Geslacht`, `Transponder` en `Oormerknummer` navigeer je naar het overeenkomstige gebied en bevestig je met `OK`. Gebruik de pijltoetsen ◁ ▷ om de gewenste instelling te specificeren. Gebruik de `F3` toets `Toepassen` om de geselecteerde instelling in te stellen. Om je filterwijzigingen te verwerpen, druk je op de `F1` toets &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Back" />&nbsp;.
 
-   ![VitalControl: menu Evaluation Create filter](images/filter.png "Create filter")
+![VitalControl: menu Evaluatie Filter aanmaken](images/filter.png "Filter aanmaken")
 
-4. For the filters `Diernummer` and `Leeftijd` select the corresponding criterion and confirm with `OK`. You will now be shown a lower and upper limit. Navigate to the desired limit using the arrow keys △ ▽ and confirm by pressing `OK` twice. Now you can set the desired number using the arrow keys ◁ ▷ and arrow keys △ ▽. Once all settings are correct press `OK` again to leave the setting mode and apply the selected filter(s) with `F3` key `Toepassen`. Using the `F1` key &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Back" />&nbsp;, you can discard your changes if desired.
+4. Voor de filters `Diernummer` en `Leeftijd` selecteer het overeenkomstige criterium en bevestig met `OK`. Er worden nu een onder- en bovengrens getoond. Navigeer naar de gewenste grens met de pijltoetsen △ ▽ en bevestig door twee keer op `OK` te drukken. Nu kunt u het gewenste aantal instellen met de pijltoetsen ◁ ▷ en pijltoetsen △ ▽. Als alle instellingen correct zijn, druk opnieuw op `OK` om de instelmodus te verlaten en de geselecteerde filter(s) toe te passen met de `F3` toets `Toepassen`. Met de `F1` toets &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Terug" />&nbsp;, kunt u uw wijzigingen desgewenst negeren.
 
-   ![VitalControl: menu Evaluation Create filter](images/filter2.png "Create filter")
+![VitalControl: menu Evaluatie Filter aanmaken](images/filter2.png "Filter aanmaken")
 
-5. For the filters `Koorts`, `bekijken` and `Alarm` there is a possibility to disable or enable their application. To do this, select the corresponding filter and confirm with `OK`. The filter is now active. Confirm again with `OK` to deactivate the filter.
+5. Voor de filters `Koorts`, `bekijken` en `Alarm` is er de mogelijkheid om hun toepassing uit te schakelen of in te schakelen. Om dit te doen, selecteer het overeenkomstige filter en bevestig met `OK`. Het filter is nu actief. Bevestig opnieuw met `OK` om het filter te deactiveren.
 
-   ![VitalControl: menu Evaluation Create filter](images/filter3.png "Create filter")
+![VitalControl: menu Evaluatie Filter aanmaken](images/filter3.png "Filter aanmaken")
 
-6. Once you have set all the filters, use the `F3` key `Toepassen` to put the defined filters in place or press `F1` key <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Back" /> to discard your changes to the filter(s).
+6. Nadat u alle filters heeft ingesteld, gebruik de `F3` toets `Toepassen` om de gedefinieerde filters in werking te stellen of druk op de `F1` toets <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Terug" /> om uw wijzigingen aan de filter(s) te negeren.

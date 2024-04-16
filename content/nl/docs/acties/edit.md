@@ -4,16 +4,16 @@ linkTitle: Veranderen
 slug: edit
 weight: 90
 description: >
- Edit data of the selected animal.
+ Gegevens van het geselecteerde dier bewerken.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, animal data, edit]
+categories: [Acties]
+tags: [Acties, diergegevens, bewerken]
 translationKey: actions/edit
 ---
 
 ## Veranderen
 
-The action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Veranderen` allows you to change the animal data of the selected animal directly. This function makes it easier to correct the animal data if, for example, it becomes apparent during the animal inspection that the gender has been saved incorrectly. You can change the following data:
+De actie <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Veranderen` stelt u in staat om de diergegevens van het geselecteerde dier direct te wijzigen. Deze functie maakt het gemakkelijker om de diergegevens te corrigeren als bijvoorbeeld tijdens de dierinspectie blijkt dat het geslacht verkeerd is opgeslagen. U kunt de volgende gegevens wijzigen:
 
 - Type van nutdier
 - Geslacht
@@ -26,32 +26,32 @@ The action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edi
 - Geboortedatum
 - Afkalfverloop
 
-To change the animal data, proceed as follows:
+Om de diergegevens te wijzigen, gaat u als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item  &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Veranderen` and confirm with `OK`.
+3. Er opent een submenu met de dieracties. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Veranderen` te selecteren en bevestig met `OK`.
 
-4. A list with the animal data opens. Use the arrow keys △ ▽ to select the desired change option.
+4. Er opent een lijst met de diergegevens. Gebruik de pijltoetsen △ ▽ om de gewenste wijzigingsoptie te selecteren.
 
-5. For the data `Type van nutdier`, `Geslacht`, `Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` and `Afkalfverloop` use the arrow keys ◁ ▷ to make the desired change.
+5. Voor de gegevens `Type van nutdier`, `Geslacht`, `Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` en `Afkalfverloop` gebruikt u de pijltoetsen ◁ ▷ om de gewenste wijziging te maken.
 
-6. For the data `ID` and `Geboortedatum` select them with the arrow keys △ ▽ and confirm with `OK`. Use the arrow keys △ ▽ to select the corresponding number and the arrow keys ◁ ▷ to navigate within the number fields.
+6. Voor de gegevens `ID` en `Geboortedatum` selecteert u deze met de pijltoetsen △ ▽ en bevestigt u met `OK`. Gebruik de pijltoetsen △ ▽ om het corresponderende nummer te selecteren en de pijltoetsen ◁ ▷ om binnen de nummervelden te navigeren.
 
-7. Save the change with the `F3` key.
+7. Sla de wijziging op met de `F3` toets.
 
 {{< tabpane >}}
-{{< tab header="Edit animal data:" text=true disabled=true />}}
+{{< tab header="Diergegevens bewerken:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Edit animal data](../images/edit-scan.png "Edit animal data")
+ ![VitalControl: Menu Action Edit animal data](../images/edit-scan.png "Diergegevens bewerken")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Edit animal data](../images/edit.png "Edit animal data")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Action Edit animal data](../images/edit.png "Diergegevens bewerken")
 {{% /tab %}}
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}

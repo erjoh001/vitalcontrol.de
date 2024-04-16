@@ -1,40 +1,40 @@
 ---
-title: Animal loss
+title: Dier verlies
 linkTitle: Dier verloren
 slug: animal-loss
 weight: 110
 description: >
- Register an animal loss.
+  Registreer een dierverlies.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, animal-loss]
+categories: [Acties]
+tags: [Acties, dier-verlies]
 translationKey: actions/animal-loss
 ---
 
 ## Dier verloren
 
-The action `Dier verloren` allows you to register an animal loss. To register an animal loss, proceed as follows:
+De actie `Dier verloren` stelt u in staat om een dierverlies te registreren. Om een dierverlies te registreren, volg de volgende stappen:
 
-1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Tierverlust" /> `Dier verloren` and confirm with `OK`.
+3. Een submenu met de dieracties opent. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Dier verloren" /> `Dier verloren` te selecteren en bevestig met `OK`.
 
-4. Another submenu opens in which you can save various settings. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
+4. Een ander submenu opent waarin u verschillende instellingen kunt opslaan. Gebruik de pijltoetsen △ ▽ om de gewenste instellingsoptie te selecteren. Gebruik de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren.
 
-5. Use the `F3` key to deregister the animal with the specified settings.
+5. Gebruik de `F3` toets om het dier af te melden met de opgegeven instellingen.
 
 {{< tabpane >}}
-{{< tab header="Animal loss:" text=true disabled=true />}}
+{{< tab header="Dier verlies:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Animal loss](../images/animalloss-scan.png "Register an animal loss")
+ ![VitalControl: Menu Actie Dier verlies](../images/animalloss-scan.png "Registreer een dier verlies")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Animal loss](../images/animalloss.png "Register an animal loss")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Actie Dier verlies](../images/animalloss.png "Registreer een dier verlies")
 {{% /tab %}}
 {{< /tabpane >}}
 
-{{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+{{% alert title="Tip" %}}
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}

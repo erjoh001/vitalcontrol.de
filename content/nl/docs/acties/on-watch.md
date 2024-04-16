@@ -1,40 +1,42 @@
 ---
-title: bekijken
-linkTitle: bekijken
+title: Bekijken
+linkTitle: Bekijken
 slug: on-watch
 weight: 70
 description: >
- Put animals on the on-watch list or remove them.
+ Dieren op de lijst 'in de gaten houden' plaatsen of verwijderen.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, on watch]
+categories: [Acties]
+tags: [Acties, in de gaten houden]
 translationKey: actions/on-watch
 ---
 
-## On watch
+## In de gaten houden
 
-With the action `bekijken` you put animals on the on-watch list or remove them from it. The on-watch list helps you to find conspicuous animals more quickly and easily, making your daily routine checks easier. To apply the `bekijken` action, proceed as follows:
+Met de actie `bekijken` plaats je dieren op de lijst 'in de gaten houden' of verwijder je ze daarvan. De lijst 'in de gaten houden' helpt je om opvallende dieren sneller en gemakkelijker te vinden, wat je dagelijkse routinecontroles vergemakkelijkt. Om de actie `bekijken` toe te passen, ga je als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Selecteer in het hoofdscherm van je VitalControl-apparaat het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the &nbsp;<img src="/icons/actions/on-watch.svg" width="35" align="bottom" alt="On watch" /> `bekijken` action and confirm with `OK`.
+3. Er opent een submenu met de dieracties. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de &nbsp;<img src="/icons/actions/on-watch.svg" width="35" align="bottom" alt="In de gaten houden" /> `bekijken` actie te selecteren en bevestig met `OK`.
 
-4. A notification appears that the animal was successfully added to the on-watch list.
+4. Er verschijnt een melding dat het dier succesvol aan de lijst 'in de gaten houden' is toegevoegd.
 
-5. You can remove the animal from the on-watch list again by applying the &nbsp;<img src="/icons/actions/on-watch-minus.svg" width="35" align="bottom" alt="Not on watch" />  `bekijken` action again. Whether you add or remove the animal from the on-watch list by using the `bekijken` action is indicated with a small ⊕ or ⊖ sign.
+5. Je kunt het dier weer van de lijst 'in de gaten houden' verwijderen door de &nbsp;<img src="/icons/actions/on-watch-minus.svg" width="35" align="bottom" alt="Niet in de gaten houden" />  `bekijken` actie opnieuw toe te passen. Of je het dier toevoegt of verwijdert van de lijst 'in de gaten houden' door de `bekijken` actie wordt aangegeven met een klein ⊕ of ⊖ teken.
 
 {{< tabpane >}}
-{{< tab header="On watch:" text=true disabled=true />}}
+{{< tab header="In de gaten houden:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions On watch](../images/onwatch-scan.png "bekijken")
+ ![VitalControl: Menu Acties In de gaten houden](../images/onwatch-scan.png "bekijken")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions On watch](../images/onwatch.png "bekijken")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Acties In de gaten houden](../images/onwatch.png "bekijken")
 {{% /tab %}}
 {{< /tabpane >}}
 
-{{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+{{% alert title="Tip" %}}
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}
+
+Please paste the Markdown content you want to translate into Dutch.

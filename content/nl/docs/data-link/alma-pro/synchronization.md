@@ -1,28 +1,28 @@
 ---
-title: Data synchronisation between VitalControl and Alma Pro
-linkTitle: Synchronisation
+title: Gegevenssynchronisatie tussen VitalControl en Alma Pro
+linkTitle: Synchronisatie
 date: 2023-08-04T12:32:41+02:00
 draft: false
 description: >
-  Synchronise the animals stored on VitalControl device with animals registered on the automatic feeder and transfer measured values recorded with VitalControl device to the feeder for evaluation purposes and better visualisation.
+  Synchroniseer de op het VitalControl-apparaat opgeslagen dieren met de dieren geregistreerd op de automatische voeder en draag gemeten waarden over die zijn opgenomen met het VitalControl-apparaat naar de voeder voor evaluatiedoeleinden en betere visualisatie.
 weight: 20
-categories: [Data exchange, Alma Pro]
+categories: [Gegevensuitwisseling, Alma Pro]
 ---
-## Open USB port
+## Open USB-poort
 
-![Open USB port](/images/synchronisation/open-usb-slot.svg "Open USB port")
+![Open USB-poort](/images/synchronisation/open-usb-slot.svg "Open USB-poort")
 
-## Connect VitalControl
+## Verbind VitalControl
 
-![Connect VitalControl to Alma Pro](/images/synchronisation/connect-vitalcontrol-alma_pro.svg "Connection VitalControl Alma Pro")
+![Verbind VitalControl met Alma Pro](/images/synchronisation/connect-vitalcontrol-alma_pro.svg "Verbinding VitalControl Alma Pro")
 
-## Close USB port
+## Sluit USB-poort
 
-![Close USB port](/images/synchronisation/close-usb-slot.svg "Close USB port")
+![Sluit USB-poort](/images/synchronisation/close-usb-slot.svg "Sluit USB-poort")
 
-{{% alert title="Note" %}}
-Make sure to close the flap of the USB port after each synchronization to prevent moisture from entering the port and to protect the port from the corrosive air present in your barn!
+{{% alert title="Opmerking" %}}
+Zorg ervoor dat u het klepje van de USB-poort na elke synchronisatie sluit om te voorkomen dat vocht de poort binnendringt en om de poort te beschermen tegen de corrosieve lucht die in uw stal aanwezig is!
 
-![Mandatory closing of USB port](/images/synchronisation/info-close-usb-mandatory.svg "Closing of USB port")
+![Verplicht sluiten van USB-poort](/images/synchronisation/info-close-usb-mandatory.svg "Sluiten van USB-poort")
 
 {{% /alert %}}

@@ -6,37 +6,37 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: units
 description: >
- Here you select units for temperature and mass.
-categories: [settings]
-tags: [settings, units]
-translationKey: settings/units
+ Hier selecteert u eenheden voor temperatuur en massa.
+categories: [instellingen]
+tags: [instellingen, eenheden]
+translationKey: instellingen/eenheden
 ---
-## Set temperature unit
+## Temperatuureenheid instellen
 
-To set the temperature unit on your device, proceed as follows.
+Om de temperatuureenheid op uw apparaat in te stellen, gaat u als volgt te werk.
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` key.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK`-toets.
 
-2. A submenu opens in which various settings are displayed. Select the section `Eenheden` . Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Selecteer de sectie `Eenheden`. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Temperatuureenheid` and `Massaeenheid`. Select the `Temperatuureenheid` setting field.
+3. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ kunt schakelen tussen de twee instelvelden voor `Temperatuureenheid` en `Massaeenheid`. Selecteer het instelveld `Temperatuureenheid`.
 
-4. Use the arrow keys ◁ ▷ to select the desired temperature unit.
+4. Gebruik de pijltoetsen ◁ ▷ om de gewenste temperatuureenheid te selecteren.
 
-    ![VitalControl: menu settings temperature unit](../images/temperature.png "Temperature unit")
+    ![VitalControl: menu-instellingen temperatuureenheid](../images/temperature.png "Temperatuureenheid")
 
-## Set mass unit
+## Massaeenheid instellen
 
-To set the mass unit on your device, proceed as follows.
+Om de massaeenheid op uw apparaat in te stellen, gaat u als volgt te werk.
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` key.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK`-toets.
 
-2. A submenu opens in which various settings are displayed. Select the section `Units` . Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Selecteer de sectie `Eenheden`. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Temperatuureenheid` and `Massaeenheid`. Select the `Massaeenheid` setting field.
+3. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ kunt schakelen tussen de twee instelvelden voor `Temperatuureenheid` en `Massaeenheid`. Selecteer het instelveld `Massaeenheid`.
 
-4. Use the arrow keys ◁ ▷ to select the desired mass unit.
+4. Gebruik de pijltoetsen ◁ ▷ om de gewenste massaeenheid te selecteren.
 
-    ![VitalControl: menu settings mass unit](../images/mass.png "Mass unit")
+    ![VitalControl: menu-instellingen massaeenheid](../images/mass.png "Massaeenheid")
 
-Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen`.
+Sla de instellingen op en gebruik de `F1`-toets &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" /> om terug te keren naar het hoofdmenu <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen`.

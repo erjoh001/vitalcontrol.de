@@ -1,93 +1,95 @@
 ---
-title: Taal instellingen
+title: Taalinstellingen
 linkTitle: Taal
 date: 2023-07-28T13:25:28+02:00
 draft: false
 weight: 10
 description: >
-  Set and permanently store the language of the user interface on your VitalControl device.
-categories: [Settings]
-tags: [Settings, Language]
+  Stel de taal van de gebruikersinterface op uw VitalControl-apparaat in en sla deze permanent op.
+categories: [Instellingen]
+tags: [Instellingen, Taal]
 translationKey: settings/language
 ---
-## Setting your language
+## Uw taal instellen
 
-To set the language of your VitalControl device, proceed as follows:
+Om de taal van uw VitalControl-apparaat in te stellen, gaat u als volgt te werk:
 
-1. `Select` the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` in the main screen of your VitalControl device and press `OK`.
+1. `Selecteer` het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` op het hoofdscherm van uw VitalControl-apparaat en druk op `OK`.
 
-1. A submenu opens up, presenting the current language at the top. Use the arrow keys ◁ ▷ to select the desired language. The language of the user guidance changes on the fly as you select another language.
+1. Er opent een submenu waarin de huidige taal bovenaan staat. Gebruik de pijltoetsen ◁ ▷ om de gewenste taal te selecteren. De taal van de gebruikersbegeleiding verandert onmiddellijk wanneer u een andere taal selecteert.
 
-   ![VitalControl: Menu path Language settings](../images/select-lang.png "Setting your language")
+   ![VitalControl: Menupad Taalinstellingen](../images/select-lang.png "Uw taal instellen")
 
-1. Press the upper left `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> twice to return to the main menu.
+1. Druk tweemaal op de `F1`-toets linksboven &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" /> om terug te keren naar het hoofdmenu.
 
-The language on your VitalControl device is now set and permanently stored.
+De taal op uw VitalControl-apparaat is nu ingesteld en permanent opgeslagen.
 
-## Available languages
+## Beschikbare talen
 
-VitalControl firmware holds translations for the following languages:
+De firmware van VitalControl bevat vertalingen voor de volgende talen:
 
-- English (EN)
-- German (DE)
-- French (FR)
-- Spanish (ES)
-- Russian (RU)
-- Bulgarian (BG)
-- Bosnian (BS)
-- Chinese (Taiwan)  (ZH-TW)
-- Estonian (ET)
-- Finnish (FI)
-- Greek (EL)
-- Dutch (NL)
-- Norwegian (NO)
-- Czech (CS)
-- Turkish (TR)
-- Ukrainian (UK)
+- Engels (EN)
+- Duits (DE)
+- Frans (FR)
+- Spaans (ES)
+- Russisch (RU)
+- Bulgaars (BG)
+- Bosnisch (BS)
+- Chinees (Taiwan)  (ZH-TW)
+- Ests (ET)
+- Fins (FI)
+- Grieks (EL)
+- Nederlands (NL)
+- Noors (NO)
+- Tsjechisch (CS)
+- Turks (TR)
+- Oekraïens (UK)
 
-## Main menu in all available languages
+## Hoofdmenu in alle beschikbare talen
 
 {{< tabpane text=true right=false >}}
-  {{% tab header="English" lang="en" %}}
-[![VitalControl: Main menu with English language selected](/images/homescreen/english.png "Main menu English")](/en/demo/ "Demo app VitalControl (EN)")
+  {{% tab header="Engels" lang="en" %}}
+[![VitalControl: Hoofdmenu met Engels geselecteerd](/images/homescreen/english.png "Hoofdmenu Engels")](/en/demo/ "Demo-app VitalControl (EN)")
   {{% /tab %}}
-  {{% tab header="German" lang="de" %}}
-[![VitalControl: Main menu with German language selected](/images/homescreen/german.png "Main menu German")](/demo/ "Demo app VitalControl (DE)")
+  {{% tab header="Duits" lang="de" %}}
+[![VitalControl: Hoofdmenu met Duits geselecteerd](/images/homescreen/german.png "Hoofdmenu Duits")](/demo/ "Demo-app VitalControl (DE)")
   {{% /tab %}}
-  {{% tab header="French" lang="fr" %}}
-[![VitalControl: Main menu with French language selected](/images/homescreen/french.png "Main menu French")](/fr/demo/ "Demo app VitalControl (FR)")
+  {{% tab header="Frans" lang="fr" %}}
+[![VitalControl: Hoofdmenu met Frans geselecteerd](/images/homescreen/french.png "Hoofdmenu Frans")](/fr/demo/ "Demo-app VitalControl (FR)")
   {{% /tab %}}
-  {{% tab header="Spanish" lang="es" %}}
-[![VitalControl: Main menu with Spanish language selected](/images/homescreen/spanish.png "Main menu Spanish")](/es/demo/ "Demo app VitalControl (ES)")
+  {{% tab header="Spaans" lang="es" %}}
+[![VitalControl: Hoofdmenu met Spaans geselecteerd](/images/homescreen/spanish.png "Hoofdmenu Spaans")](/es/demo/ "Demo-app VitalControl (ES)")
   {{% /tab %}}
-  {{% tab header="Russian" lang="ru" %}}
-[![VitalControl: Main menu with Russian language selected](/images/homescreen/russian.png "Main menu Russian")](/ru/demo/ "Demo app VitalControl (RU)")
+  {{% tab header="Russisch" lang="ru" %}}
+[![VitalControl: Hoofdmenu met Russisch geselecteerd](/images/homescreen/russian.png "Hoofdmenu Russisch")](/ru/demo/ "Demo-app VitalControl (RU)")
   {{% /tab %}}
-  {{% tab header="Bulgarian" lang="bg" %}}
-[![VitalControl: Main menu with Bulgarian language selected](/images/homescreen/bulgarian.png "Main menu Bulgarian")](/bg/demo/ "Demo app VitalControl (BG)")
+  {{% tab header="Bulgaars" lang="bg" %}}
+[![VitalControl: Hoofdmenu met Bulgaars geselecteerd](/images/homescreen/bulgarian.png "Hoofdmenu Bulgaars")](/bg/demo/ "Demo-app VitalControl (BG)")
   {{% /tab %}}
-  {{% tab header="Bosnian" lang="bs" %}}
-[![VitalControl: Main menu with Bosnian language selected](/images/homescreen/bosnian.png "Main menu Bosnian")](/bs/demo/ "Demo app VitalControl (BS)")
+  {{% tab header="Bosnisch" lang="bs" %}}
+[![VitalControl: Hoofdmenu met Bosnisch geselecteerd](/images/homescreen/bosnian.png "Hoofdmenu Bosnisch")](/bs/demo/ "Demo-app VitalControl (BS)")
   {{% /tab %}}
-  {{% tab header="Estonian" lang="et" %}}
-[![VitalControl: Main menu with Estonian language selected](/images/homescreen/estonian.png "Main menu Estonian")](/et/demo/ "Demo app VitalControl (ET)")
+  {{% tab header="Ests" lang="et" %}}
+[![VitalControl: Hoofdmenu met Ests geselecteerd](/images/homescreen/estonian.png "Hoofdmenu Ests")](/et/demo/ "Demo-app VitalControl (ET)")
   {{% /tab %}}
-  {{% tab header="Greek" lang="el" %}}
-[![VitalControl: Main menu with Greek language selected](/images/homescreen/greek.png "Main menu Greek")](/el/demo/ "Demo app VitalControl (EL)")
+  {{% tab header="Grieks" lang="el" %}}
+[![VitalControl: Hoofdmenu met Grieks geselecteerd](/images/homescreen/greek.png "Hoofdmenu Grieks")](/el/demo/ "Demo-app VitalControl (EL)")
   {{% /tab %}}
-  {{% tab header="Dutch" lang="nl" %}}
-[![VitalControl: Main menu with Dutch language selected](/images/homescreen/dutch.png "Main menu Dutch")](/nl/demo/ "Demo app VitalControl (NL)")
+  {{% tab header="Nederlands" lang="nl" %}}
+[![VitalControl: Hoofdmenu met Nederlands geselecteerd](/images/homescreen/dutch.png "Hoofdmenu Nederlands")](/nl/demo/ "Demo-app VitalControl (NL)")
   {{% /tab %}}
-  {{% tab header="Norwegian" lang="no" %}}
-[![VitalControl: Main menu with Norwegian language selected](/images/homescreen/norwegian.png "Main menu Norwegian")](/no/demo/ "Demo app VitalControl (NO)")
+  {{% tab header="Noors" lang="no" %}}
+[![VitalControl: Hoofdmenu met Noors geselecteerd](/images/homescreen/norwegian.png "Hoofdmenu Noors")](/no/demo/ "Demo-app VitalControl (NO)")
   {{% /tab %}}
-  {{% tab header="Czech" lang="cs" %}}
-[![VitalControl: Main menu with Czech language selected](/images/homescreen/czech.png "Main menu Czech")](/cs/demo/ "Demo app VitalControl (CS)")
+  {{% tab header="Tsjechisch" lang="cs" %}}
+[![VitalControl: Hoofdmenu met Tsjechisch geselecteerd](/images/homescreen/czech.png "Hoofdmenu Tsjechisch")](/cs/demo/ "Demo-app VitalControl (CS)")
   {{% /tab %}}
-  {{% tab header="Turkish" lang="tr" %}}
-[![VitalControl: Main menu with Turkish language selected](/images/homescreen/turkish.png "Main menu Turkish")](/tr/demo/ "Demo app VitalControl (TR)")
+  {{% tab header="Turks" lang="tr" %}}
+[![VitalControl: Hoofdmenu met Turks geselecteerd](/images/homescreen/turkish.png "Hoofdmenu Turks")](/tr/demo/ "Demo-app VitalControl (TR)")
   {{% /tab %}}
-  {{% tab header="Ukrainian" lang="uk" %}}
-[![VitalControl: Main menu with Ukrainian language selected](/images/homescreen/ukrainian.png "Main menu Ukrainian")](/uk/demo/ "Demo app VitalControl (UK)")
+  {{% tab header="Oekraïens" lang="uk" %}}
+[![VitalControl: Hoofdmenu met Oekraïens geselecteerd](/images/homescreen/ukrainian.png "Hoofdmenu Oekraïens")](/uk/demo/ "Demo-app VitalControl (UK)")
   {{% /tab %}}
 {{< /tabpane >}}
+
+Please paste the Markdown content you would like translated into Dutch.

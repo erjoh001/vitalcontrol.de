@@ -1,75 +1,75 @@
 ---
-title: "bekijken"
-linkTitle: "bekijken"
+title: "Bekijken"
+linkTitle: "Bekijken"
 weight: 20
 date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: on-watch
 description: >
- Check out your on watch list.
-categories: [Lists]
-tags: [Lists, on watch]
-translationKey: lists/on-watch
+ Bekijk uw lijst met geobserveerde dieren.
+categories: [Lijsten]
+tags: [Lijsten, geobserveerd]
+translationKey: lijsten/geobserveerd
 ---
-## On watch list
+## Lijst van geobserveerde dieren
 
-On the watch list you will find all animals that you have manually added to the list. The list helps you to keep an overview of the animals you have rated as conspicuous. Also, for each animal on the list, you can do the following:
+Op de lijst van geobserveerde dieren vindt u alle dieren die u handmatig aan de lijst heeft toegevoegd. De lijst helpt u een overzicht te houden van de dieren die u als opvallend heeft beoordeeld. Ook kunt u voor elk dier op de lijst het volgende doen:
 
 - [Actiemenu](/nl/docs/lists/alarm/#actiemenu)
-- [Dier data](/nl/docs/lists/alarm/#dier-data)
+- [Diergegevens](/nl/docs/lists/alarm/#dier-data)
 - [Temperatuur meten](/nl/docs/lists/alarm/#temperatuur-meten)
 - [Dier beoordelen](/nl/docs/lists/alarm/#dier-beoordelen)
 - [Verwijder van Watchlist](#verwijder-van-watchlist)
 - [Toggle alarm status](#toggle-alarm-status)
 - [Dier zoeken](/nl/docs/lists/alarm/#dier-zoeken)
-- [Filter zetten](/nl/docs/lists/alarm/#filter-zetten)
+- [Filter instellen](/nl/docs/lists/alarm/#filter-zetten)
 
 {{% alert title="Hint" %}}
-Some actions are to be carried out in the same way as in the [Alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
+Sommige acties worden op dezelfde manier uitgevoerd als in de [Alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.
 {{% /alert %}}
 
-The alarm list is structured as follows:
+De alarmlijst is als volgt gestructureerd:
 
-   ![VitalControl Lists On watch list](../images/onwatchstructure.png "Structure of the On watch list")
+   ![VitalControl Lijsten Geobserveerde lijst](../images/onwatchstructure.png "Structuur van de Geobserveerde lijst")
 
-|Symbol   | Description
+|Symbool   | Beschrijving
 |---------|-----
-| ![VitalControl Lists On-watch list](../images/kopf.png "Counter herd size") | Shows how many animals are on the list
-| ![Icon for cow](../images/kopf2.png "Cow head") | Shows whether the selected animal is a calf or a cow
-| ![VitalControl Lists On-watch list](../images/auge.png "Rating") | The last recorded rating is shown below the symbol with the colors of the traffic light system
-| &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Body temperature" title="Body temperature" /> | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
-| &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Display animal on alarm" title="Animal on alarm" /> | A circle mark below the symbol indicates that the animal is on the alarm list
+| ![VitalControl Lijsten Geobserveerde lijst](../images/kopf.png "Teller kuddegrootte") | Toont hoeveel dieren er op de lijst staan
+| ![Icoon voor koe](../images/kopf2.png "Koeienkop") | Toont of het geselecteerde dier een kalf of een koe is
+| ![VitalControl Lijsten Geobserveerde lijst](../images/auge.png "Beoordeling") | De laatst opgenomen beoordeling wordt onder het symbool getoond met de kleuren van het verkeerslichtsysteem
+| &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Lichaamstemperatuur" title="Lichaamstemperatuur" /> | De laatst opgenomen koortsmeting wordt onder het symbool getoond met de kleuren van het verkeerslichtsysteem
+| &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Dier op alarm weergeven" title="Dier op alarm" /> | Een cirkelmarkering onder het symbool geeft aan dat het dier op de alarmlijst staat
 
-### Preliminary Steps
+### Voorbereidende Stappen
 
-1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lijsten` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Selecteer het <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
-2. A submenu opens in which various lists are displayed. Select the list &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `bekijken`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende lijsten worden weergegeven. Selecteer de lijst &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `bekijken`. Bevestig met `OK`.
 
-3. The list `bekijken` is now open.
+3. De lijst `bekijken` is nu geopend.
 
-   ![VitalControl Lists On watch list](../images/firststeps2.png "Preliminary Steps")
+   ![VitalControl Lists On watch list](../images/firststeps2.png "Voorbereidende Stappen")
 
 ### Verwijder van Watchlist
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `verwijder van Watchlist` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een popupmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `verwijder van Watchlist` te markeren en selecteer deze optie door op de centrale `OK` knop of de `F3` toets `OK` te drukken.
 
-3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de on watch lijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The animal is now removed from the watch list.
+4. Het dier is nu verwijderd uit de watchlist.
 
-   ![VitalControl Lists On watch list](../images/remove.png "verwijder van Watchlist")
+   ![VitalControl Lists On watch list](../images/remove.png "Verwijder van Watchlist")
 
 ### Toggle alarm status
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle alarm status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een popupmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Toggle alarm status` te markeren en selecteer deze optie door op de centrale `OK` knop of de `F3` toets `OK` te drukken.
 
-3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de on watch lijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The animal is now added or removed from the alarm list depending on its initial status.
+4. Het dier is nu toegevoegd of verwijderd uit de alarmlijst, afhankelijk van de initiële status.
 
    ![VitalControl Lists Toggle alarm status](../images/alarmstatus.png "Toggle alarm status")

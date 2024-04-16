@@ -1,36 +1,37 @@
 ---
-title: Registration of a new animal
+title: Registratie van een nieuw dier
 linkTitle: nieuw dier
 date: 2023-07-28T13:25:28+02:00
 weight: 30
 draft: false
 slug: animal
 description: >
-  How to register a new animal using the VitalControl device.
-categories: [New animal]
-tags: [Register animals]
+  Hoe een nieuw dier te registreren met het VitalControl-apparaat.
+categories: [Nieuw dier]
+tags: [Dieren registreren]
 translationKey: new/animal
 ---
-## Create a new animal
+## Een nieuw dier aanmaken
 
-To create a new animal, proceed as follows:
+Om een nieuw dier aan te maken, ga als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Nieuw` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nieuw dier" /> `Nieuw` en druk op de `OK` knop.
 
-2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `nieuw dier` and confirm with `OK`.
+2. Er opent een submenu. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het menu-item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nieuw dier" /> `nieuw dier` te selecteren en bevestig met `OK`.
 
-3. Either scan the animal's transponder or use the `F3` ESC key to continue without a scanned transponder. You can use this function if the animal does not yet have a transponder. You can scan this later and assign it to the animal.
+3. Scan de transponder van het dier of gebruik de `F3` ESC-toets om verder te gaan zonder een gescande transponder. U kunt deze functie gebruiken als het dier nog geen transponder heeft. U kunt deze later scannen en toewijzen aan het dier.
 
-4. Another submenu opens in which you can save the information about the animal. Use the arrow keys △ ▽ to select the desired setting item.
+4. Er opent een ander submenu waarin u de informatie over het dier kunt opslaan. Gebruik de pijltoetsen △ ▽ om het gewenste instelling-item te selecteren.
 
-5. For the settings `Type can nutdier`,`Geslacht` ,`Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` and `Afkalfverloop`, use the arrow keys ◁ ▷ to select the desired setting.
+5. Voor de instellingen `Type can nutdier`,`Geslacht`, `Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` en `Afkalfverloop`, gebruik de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren.
 
-6. For the settings `Oormerkenummer`, `ID` and `Geboortedatum` use the arrow keys △ ▽ to select the desired setting option and confirm with `OK`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `OK`.
+6. Voor de instellingen `Oormerkenummer`, `ID` en `Geboortedatum` gebruik de pijltoetsen △ ▽ om de gewenste instellingsoptie te selecteren en bevestig met `OK`. Gebruik de pijltoetsen △ ▽◁ ▷ om de gewenste nummers te selecteren. Bevestig ten slotte met `OK`.
 
-7. Save the settings and create the new animal with the `F3` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+7. Sla de instellingen op en maak het nieuwe dier aan met de `F3` toets &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.
 
 {{% alert title="Hint" %}}
-Further information and setting options for creating new animals can be found [here](../../settings/animal-registration/).
+Verdere informatie en instellingsopties voor het aanmaken van nieuwe dieren vindt u [hier](../../settings/animal-registration/).
 {{% /alert %}}
 
-   ![VitalControl: Menüfolge New New animals](../images/new.png "Create a new animal")
+   ![VitalControl: Menüfolge Nieuwe Nieuwe dieren](../images/new.png "Een nieuw dier aanmaken")
+

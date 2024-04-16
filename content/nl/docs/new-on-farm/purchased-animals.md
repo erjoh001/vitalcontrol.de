@@ -6,115 +6,115 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: purchased-animals
 description: >
-  Here you can view your current purchases and export the data.
-categories: [New on farm]
-tags: [New on farm]
+  Hier kunt u uw huidige aankopen bekijken en de gegevens exporteren.
+categories: [Nieuw op de boerderij]
+tags: [Nieuw op de boerderij]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Gekocht dier
 
-In this list you will find all the animals that you have created via bulk recording. You can export this list and thus register your additions directly in the herd management program DSP-Herde and in HI-Tier. Alternatively, you can delete all purchase notices.
+In deze lijst vindt u alle dieren die u via bulkregistratie heeft aangemaakt. U kunt deze lijst exporteren en zo uw aanwinsten direct registreren in het kuddebeheerprogramma DSP-Herde en in HI-Tier. U kunt ook alle aankoopmeldingen verwijderen.
 
 {{% alert title="Hint" %}}
-To export data you need the included UBS stick. Connect the USB stick with the USB-C adapter to your VitalControl device before following the instructions.
+Om gegevens te exporteren heeft u de meegeleverde UBS-stick nodig. Sluit de USB-stick met de USB-C-adapter aan op uw VitalControl-apparaat voordat u de instructies volgt.
 {{% /alert %}}
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="New on farm" /> `Nieuw op bedrijf` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nieuw op de boerderij" /> `Nieuw op bedrijf` en druk op de `OK` knop.
 
-2. A submenu opens in which you can choose between <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="New on farm, no transponder" /> `Nieuw op bedrijf, geen transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `Gekocht dier`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="No national animal ID" /> `Geen oormerk toegewezen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Births" /> `Geboortes` and <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="No transponder assigned" /> `Geen transponder toegewezen`. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `Gekocht dier` and confirm with `OK`.
+2. Er opent een submenu waarin u kunt kiezen tussen <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nieuw op de boerderij, geen transponder" /> `Nieuw op bedrijf, geen transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Gekocht dier" /> `Gekocht dier`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Geen nationaal dier-ID" /> `Geen oormerk toegewezen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Geboortes" /> `Geboortes` en <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Geen transponder toegewezen" /> `Geen transponder toegewezen`. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het menu-item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Gekocht dier" /> `Gekocht dier` te selecteren en bevestig met `OK`.
 
-3. A list opens with your purchases that you have registered via the bulk recording menu item.
+3. Er opent een lijst met uw aankopen die u heeft geregistreerd via het menu-item voor bulkregistratie.
 
-4. Use the `F3` key `CSV export`.
+4. Gebruik de `F3` toets `CSV exporteren`.
 
-5. The CSV message list is now saved on your USB stick.
+5. De CSV-berichtenlijst wordt nu opgeslagen op uw USB-stick.
 
-    ![VitalControl: List of purchased animals, csv export](../images/purchasedanimals.png "Purchased animals, csv export ")
+![VitalControl: Lijst van gekochte dieren, csv export](../images/purchasedanimals.png "Gekochte dieren, csv export")
 
-## Options: Delete all notices after export
+## Opties: Verwijder alle meldingen na export
 
-With this option, you can set whether all messages within the `Purchased animals` list should be deleted after the CSV file has been exported. Only use this option if you are sure that you no longer need the messages!
+Met deze optie kunt u instellen of alle berichten binnen de lijst `Gekochte dieren` verwijderd moeten worden nadat het CSV-bestand is geëxporteerd. Gebruik deze optie alleen als u zeker weet dat u de berichten niet meer nodig heeft!
 
-1. Use the `F3` key. A submenu opens.
+1. Gebruik de `F3` toets. Er opent een submenu.
 
-2. Use the arrow keys △ ▽ to select the menu item `Delete all notices after export` and confirm with `OK`.
+2. Gebruik de pijltoetsen △ ▽ om het menu-item `Verwijder alle meldingen na export` te selecteren en bevestig met `OK`.
 
-3. The box is now marked with a tick. The option is activated. Confirm again with 'OK' to deactivate the option. 
+3. Het vakje is nu gemarkeerd met een vinkje. De optie is geactiveerd. Bevestig opnieuw met 'OK' om de optie te deactiveren.
 
-    ![VitalControl: List of purchased animals, csv export](../images/delete-all.png "Delete all notices after export")      
+    ![VitalControl: Lijst van gekochte dieren, csv export](../images/delete-all.png "Verwijder alle meldingen na export")
 
-## Direct function calls
+## Directe functieoproepen
 
-In addition to creating the export file, you have the following options:
+Naast het aanmaken van het exportbestand, heeft u de volgende opties:
 
 - [Transponder afnemen](#transponder-afnemen)
 - [Verwijder alle meldingen](#verwijder-alle-meldingen)
 - [Verwijder dier + melding](#verwijder-dier--melding)
 - [Verwijder aankoopmelding](#verwijder-aankoopmelding)
-- [Edit a mark](#edit-data-of-purchased-animal)
+- [Gegevens van gekocht dier bewerken](#gegevens-van-gekocht-dier-bewerken)
 
 {{% alert title="Hint" %}}
-Always open the `purchased animals` list first as described in the instructions above.
+Open altijd eerst de lijst `gekochte dieren` zoals beschreven in de instructies hierboven.
 {{% /alert %}}
 
 ### Transponder afnemen
 
-You can use this function to remove the transponder from an animal.
+U kunt deze functie gebruiken om de transponder van een dier te verwijderen.
 
-1. Use the `F3` key. A submenu opens.
+1. Gebruik de `F3` toets. Er opent een submenu.
 
-2. Use the arrow keys △ ▽ to select the menu item `Transponder afnemen` and confirm with `OK`.
+2. Gebruik de pijltoetsen △ ▽ om het menu-item `Transponder afnemen` te selecteren en bevestig met `OK`.
 
-3. The transponder has been successfully unlinked.
+3. De transponder is succesvol ontkoppeld.
 
-    ![VitalControl: List of purchased animals, csv export](../images/unlink-transponder.png "Purchased animals, unlink transponder")
+    ![VitalControl: Lijst van gekochte dieren, csv export](../images/unlink-transponder.png "Gekochte dieren, transponder ontkoppelen")
 
 ### Verwijder alle meldingen
 
-With this function you can delete all animals from the `Purchased animals` list without having to create an export file first.
+Met deze functie kunt u alle dieren uit de lijst `Gekochte dieren` verwijderen zonder eerst een exportbestand te hoeven aanmaken.
 
-1. Use the `F3` key. A submenu opens.
+1. Gebruik de `F3` toets. Er opent een submenu.
 
-2. Use the arrow keys △ ▽ to select the menu item `Verwijder alle meldingen` and confirm with `OK`.
+2. Gebruik de pijltoetsen △ ▽ om het menu-item `Verwijder alle meldingen` te selecteren en bevestig met `OK`.
 
-3. The purchase notices have been successfully deleted.
+3. De aankoopmeldingen zijn succesvol verwijderd.
 
-    ![VitalControl: List of purchased animals, clear purchase notices](../images/clear.png "Verwijder alle meldingen")
+![VitalControl: Lijst van gekochte dieren, aankoopmeldingen wissen](../images/clear.png "Verwijder alle meldingen")
 
 ### Verwijder dier + melding
 
-To delete an animal and its corresponding purchase notice, proceed as follows:
+Om een dier en de bijbehorende aankoopmelding te verwijderen, ga je als volgt te werk:
 
-1. Use the arrow keys △ ▽ to select the animal you want to delete.
+1. Gebruik de pijltoetsen △ ▽ om het dier te selecteren dat je wilt verwijderen.
 
-2. Use the `F3` key. A submenu opens.
+2. Gebruik de `F3` toets. Er opent een submenu.
 
-3. Use the arrow keys △ ▽ to select the menu item `Verwijder dier + melding` and confirm with `OK`.
+3. Gebruik de pijltoetsen △ ▽ om het menu-item `Verwijder dier + melding` te selecteren en bevestig met `OK`.
 
-4. The animal and the access message have been successfully deleted.
+4. Het dier en de toegangsmelding zijn succesvol verwijderd.
 
-    ![VitalControl: List of purchased animals, dele animal + notice](../images/delete.png "Verwijder dier + melding")
+    ![VitalControl: Lijst van gekochte dieren, dier + melding verwijderen](../images/delete.png "Verwijder dier + melding")
 
 ### Verwijder aankoopmelding
 
-To delete an animal's notice of purchase from the list, proceed as follows:
+Om de aankoopmelding van een dier uit de lijst te verwijderen, ga je als volgt te werk:
 
-1. Use the arrow keys △ ▽ to select the animal whose purchase notice you want to delete.
+1. Gebruik de pijltoetsen △ ▽ om het dier te selecteren waarvan je de aankoopmelding wilt verwijderen.
 
-2. Use the `F3` key. A submenu opens.
+2. Gebruik de `F3` toets. Er opent een submenu.
 
-3. Use the arrow keys △ ▽ to select the menu item `Verwijder aankoopmelding` and confirm with `OK`.
+3. Gebruik de pijltoetsen △ ▽ om het menu-item `Verwijder aankoopmelding` te selecteren en bevestig met `OK`.
 
-4. The notice of purchase of the selected animal has been successfully deleted.
+4. De aankoopmelding van het geselecteerde dier is succesvol verwijderd.
 
-    ![VitalControl: List of purchased animals, clear notice of purchase](../images/clearnotice.png "Verwijder aankoopmelding")
+    ![VitalControl: Lijst van gekochte dieren, aankoopmelding wissen](../images/clearnotice.png "Verwijder aankoopmelding")
 
-### Edit data of purchased animal
+### Gegevens van gekocht dier bewerken
 
-To edit the data of an animal in the list of purchases, proceed as follows:
+Om de gegevens van een dier in de lijst van aankopen te bewerken, ga je als volgt te werk:
 
-1. Use the arrow keys △ ▽ to select the animal you want to edit.
+1. Gebruik de pijltoetsen △ ▽ om het dier te selecteren dat je wilt bewerken.
 
-2. Use the `OK` button. A submenu with the animal data opens. You can find out how to edit these [here](/nl/docs/acties/edit/#veranderen).
+2. Gebruik de `OK` knop. Er opent een submenu met de gegevens van het dier. Je kunt hier vinden hoe je deze kunt bewerken [hier](/nl/docs/acties/edit/#veranderen).
 
-    ![VitalControl: List of purchased animals, Edit animal data](../images/edit.png "Edit data of purchased animal")
+    ![VitalControl: Lijst van gekochte dieren, gegevens van dier bewerken](../images/edit.png "Gegevens van gekocht dier bewerken")

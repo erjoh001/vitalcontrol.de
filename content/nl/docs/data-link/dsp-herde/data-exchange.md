@@ -1,47 +1,47 @@
 ---
-title: Data exchange between VitalControl and herd management software Herde
-linkTitle: Data exchange
+title: Gegevensuitwisseling tussen VitalControl en veemanagementsoftware Herde
+linkTitle: Gegevensuitwisseling
 date: 2023-08-04T12:22:12+02:00
 draft: false
 description: >
-  Synchronize the animals stored on VitalControl device with animals managed by *Herde* software and transfer measured values recorded with VitalControl device to *Herde* software.
+  Synchroniseer de dieren opgeslagen op het VitalControl-apparaat met dieren beheerd door *Herde* software en draag gemeten waarden over die zijn opgenomen met het VitalControl-apparaat naar *Herde* software.
 weight: 20
-categories: [Data exchange, DSP Herde]
+categories: [Gegevensuitwisseling, DSP Herde]
 ---
-Follow the steps below to synchronize data between the software `Herde` and VitalControl device:
+Volg de onderstaande stappen om gegevens te synchroniseren tussen de software `Herde` en het VitalControl-apparaat:
 
-### Connect VitalControl to PC
+### Verbind VitalControl met PC
 
-1. Connect the VitalControl device to your computer or laptop via the supplied USB cable.
+1. Verbind het VitalControl-apparaat met uw computer of laptop via de meegeleverde USB-kabel.
 
-   ![Connect VitalControl to PC or laptop](/images/synchronisation/connect-to-pc.svg "Connect VitalControl to PC")
+   ![Verbind VitalControl met PC of laptop](/images/synchronisation/connect-to-pc.svg "Verbind VitalControl met PC")
 
-1. Make sure your VitalControl device is turned on.
+1. Zorg ervoor dat uw VitalControl-apparaat is ingeschakeld.
 
-### Perform data exchange
+### Voer gegevensuitwisseling uit
 
-1. Within the software `Herde`, perform a full data exchange. Depending on the configuration of your user interface, you can invoke this exchange via the menu item `Full data exchange` in the main menu (top level item _Technology_), in the sidebar menu or in your customized toolbox (horizontal or vertical).
+1. Voer binnen de software `Herde` een volledige gegevensuitwisseling uit. Afhankelijk van de configuratie van uw gebruikersinterface, kunt u deze uitwisseling oproepen via het menu-item `Volledige gegevensuitwisseling` in het hoofdmenu (bovenste niveau item _Technologie_), in het zijbalkmenu of in uw aangepaste gereedschapskist (horizontaal of verticaal).
 
-   ![Software Herde: Triggering a full data exchange](../screenshots/data-exchange.png "Herde: Triggering data exchange")
+   ![Software Herde: Een volledige gegevensuitwisseling activeren](../screenshots/data-exchange.png "Herde: Gegevensuitwisseling activeren")
 
-1. A pop-up opens, listing the stipulated technology couplings in the sidebar to the left. Click on the button labeled `VitalControl` in order to start the data exchange:
+1. Er opent een pop-up, waarin de voorgeschreven technologiekoppelingen in de zijbalk links worden vermeld. Klik op de knop met het label `VitalControl` om de gegevensuitwisseling te starten:
 
-   ![Software Herde, Starting data exchange](../screenshots/start-transfer.png "Herde: Start data exchange")
+   ![Software Herde, starten van gegevensuitwisseling](../screenshots/start-transfer.png "Herde: Start gegevensuitwisseling")
 
-1. On first time data exchange a warning appears, indicating that there are no animals registered on the VitalControl device yet. Acknowledge this notice with `Yes`. Data exchange is started then.
+1. Bij de eerste gegevensuitwisseling verschijnt een waarschuwing dat er nog geen dieren geregistreerd zijn op het VitalControl-apparaat. Bevestig deze melding met `Ja`. De gegevensuitwisseling wordt dan gestart.
 
-   ![Software Herde, data exchange: warning](../screenshots/warning.png "Data exchange: warning")
+   ![Software Herde, gegevensuitwisseling: waarschuwing](../screenshots/warning.png "Gegevensuitwisseling: waarschuwing")
 
-1. Data exchange is a two-step process: In the first step ➊ the animal data are transferred from software `Herde` to the VitalControl. In the second step ➋, measurement data collected with the VitalControl are transferred into software `Herde`. The number of imported data sets (animals, calvings, alerts and weights) is listed in the pop-up:
+1. Gegevensuitwisseling is een tweestapsproces: In de eerste stap ➊ worden de diergegevens overgedragen van software `Herde` naar de VitalControl. In de tweede stap ➋ worden de meetgegevens die met de VitalControl zijn verzameld, overgedragen naar software `Herde`. Het aantal geïmporteerde gegevenssets (dieren, kalveren, waarschuwingen en gewichten) wordt vermeld in de pop-up:
 
-   ![Data exchange with software Herde: Course of actions](../screenshots/data-transfer.png "Data exchange: Course of actions")
+![Data-uitwisseling met software Herde: Actieverloop](../screenshots/data-transfer.png "Data-uitwisseling: Actieverloop")
 
-1. Successful completion of data exchange is signalled via a pop-up with a success message.
+1. Succesvolle voltooiing van de gegevensuitwisseling wordt aangegeven via een pop-up met een succesmelding.
 
-   ![Software Herde: Success message data exchange](../screenshots/success-message.png "Herde: Success message data exchange")
+   ![Software Herde: Succesmelding gegevensuitwisseling](../screenshots/success-message.png "Herde: Succesmelding gegevensuitwisseling")
 
-    {{% alert title="Attention" %}}
-If many animals are registered on the VitalControl device, data exchange may take some time. The progress of the data transfer can be seen on the display of the device.
+    {{% alert title="Let op" %}}
+Als er veel dieren geregistreerd staan op het VitalControl-apparaat, kan de gegevensuitwisseling enige tijd in beslag nemen. De voortgang van de gegevensoverdracht is zichtbaar op het display van het apparaat.
 
-![VitalControl, data exchange: progress bar](../../vcsynchronizer/images/import-animals/data-transfer.png "VitalControl: progress bar data exchange")
+![VitalControl, gegevensuitwisseling: voortgangsbalk](../../vcsynchronizer/images/import-animals/data-transfer.png "VitalControl: voortgangsbalk gegevensuitwisseling")
     {{% /alert %}}

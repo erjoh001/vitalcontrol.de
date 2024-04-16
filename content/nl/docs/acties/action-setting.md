@@ -1,43 +1,43 @@
 ---
-title: Action settings
+title: Actie-instellingen
 linkTitle: Instellingen acties
-slug: settings
+slug: instellingen
 weight: 120
 description: >
- Set the menu items for the Action menu and set the chain of actions
+ Stel de menu-items in voor het Actie-menu en stel de actieketen in
 date: 2023-07-26
-categories: [Actions, Chain of Actions]
-tags: [Actions, Chain of actions]
-translationKey: actions/settings
+categories: [Acties, Actieketen]
+tags: [Acties, Actieketen]
+translationKey: acties/instellingen
 ---
 ## Menuonderdelen
 
-In this settings menu you determine which actions are displayed to you within the &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` menu.
+In dit instellingenmenu bepaal je welke acties aan jou worden getoond binnen het &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` menu.
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` en druk op de `OK` knop.
 
-2. Use the `On/Off` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chain of actions" />&nbsp; button either directly or scan an animal beforehand.
+2. Gebruik de `Aan/Uit` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Actieketen" />&nbsp; knop direct of scan eerst een dier.
 
-3. A submenu opens. Use the arrow keys △ ▽ to select the menu item `Menuonderdelen` and confirm with `OK`.
+3. Er opent een submenu. Gebruik de pijltoetsen △ ▽ om het menu-item `Menuonderdelen` te selecteren en bevestig met `OK`.
 
-4. Another submenu opens with all the actions you can display. Select the desired action using the arrow keys △ ▽ and confirm with `OK`. The action will now be displayed or no longer displayed to you, depending on its initial status. A yellow circle marks actions that are shown, a gray circle marks actions that aren't shown.
+4. Er opent een ander submenu met alle acties die je kunt tonen. Selecteer de gewenste actie met de pijltoetsen △ ▽ en bevestig met `OK`. De actie zal nu getoond of niet meer getoond worden, afhankelijk van de initiële status. Een gele cirkel markeert acties die worden getoond, een grijze cirkel markeert acties die niet worden getoond.
 
-5. If you would like to `Schakel in + zet terug`, select the corresponding menu item using the arrow keys and confirm with `OK`.
+5. Als je `Schakel in + zet terug` wilt, selecteer het overeenkomstige menu-item met de pijltoetsen en bevestig met `OK`.
 
-6. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` menu.
+6. Sla de instellingen op en gebruik de `F1` toets &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" /> om terug te keren naar het &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` menu.
 
     ![VitalControl: Menu Acties Menuonderdelen](../images/menu.png "Menuonderdelen")
 
 ## Opeenvolgende acties
 
-In this settings menu you set the &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Opeenvolgende acties`.
+In dit instellingenmenu stel je de &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Actieketen" />&nbsp; `Opeenvolgende acties` in.
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` en druk op de `OK` knop.
 
-2. Use the `On/Off` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chain of actions" />&nbsp; button either directly or scan an animal beforehand.
+2. Gebruik de `On/Off` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Keten van acties" />&nbsp; knop direct of scan eerst een dier.
 
-3. A submenu opens. Use the arrow keys △ ▽ to select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Opeenvolgende acties` and confirm with `OK`.
+3. Er opent een submenu. Gebruik de pijltoetsen △ ▽ om het menu-item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Keten van acties" />&nbsp; `Opeenvolgende acties` te selecteren en bevestig met `OK`.
 
-4. Further instructions can be found [here](/nl/docs/chain-of-actions/#set-chain-of-actions).
+4. Verdere instructies zijn te vinden [hier](/nl/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Menu Acties Vervolgacties](../images/chainofactions.png "Opeenvolgende acties")

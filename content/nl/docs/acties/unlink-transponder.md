@@ -1,37 +1,37 @@
 ---
-title: Unlink transponder
+title: Transponder afnemen
 linkTitle: Transponder afnemen
 slug: unlink-transponder
 weight: 110
 description: >
- Remove the transponder link to an animal
+ Transponderkoppeling aan een dier verwijderen
 date: 2023-07-26
 categories: [Transponder]
 tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
-{{% alert title="Warning" color="warning" %}}
-This action is not enabled by default! Activate this as described in [action setting](../settings/).
+{{% alert title="Waarschuwing" color="warning" %}}
+Deze actie is standaard niet ingeschakeld! Activeer dit zoals beschreven in [actie instelling](../settings/).
 {{% /alert %}}
 
 ## Transponder afnemen
 
-With this action you can detach a transponder that has already been assigned to an animal from this animal.
+Met deze actie kunt u een transponder die al aan een dier is toegewezen, loskoppelen van dit dier.
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan the animal with the desired transponder or select the animal with the transponder from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
+2. Scan het dier met de gewenste transponder of selecteer het dier met de transponder uit de lijst. Bevestig dit met `OK` en selecteer de dier-ID met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Unlink transponder" /> `Transponder afnemen` and confirm with `OK`.
+3. Er opent een submenu met de dieracties. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Transponder ontkoppelen" /> `Transponder afnemen` te selecteren en bevestig met `OK`.
 
-4. The transponder was successfully detached from the animal.
+4. De transponder is succesvol losgekoppeld van het dier.
 
 {{< tabpane >}}
-{{< tab header="Unlink transponder:" text=true disabled=true />}}
-{{% tab header="Transponder scan" text=true %}}
-![VitalControl: Menu Action Unlink transponder](../images/unlinktransponder-scan.png "Transponder afnemen")
+{{< tab header="Transponder ontkoppelen:" text=true disabled=true />}}
+{{% tab header="Transponder scannen" text=true %}}
+![VitalControl: Menu Actie Transponder ontkoppelen](../images/unlinktransponder-scan.png "Transponder ontkoppelen")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
-![VitalControl: Menu Action Unlink transponder](../images/unlinktransponder.png "Transponder afnemen")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+![VitalControl: Menu Actie Transponder ontkoppelen](../images/unlinktransponder.png "Transponder ontkoppelen")
 {{% /tab %}}
 {{< /tabpane >}}

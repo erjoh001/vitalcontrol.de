@@ -5,38 +5,37 @@ date: 2023-07-28T13:25:28+02:00
 weight: 70
 slug: transponder-linkage
 description: >
-  Set the assignment of the transponder on your VitalControl device.
+  Stel de toewijzing van de transponder in op uw VitalControl-apparaat.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
-translationKey: settings/link-transponder
+categories: [instellingen]
+tags: [instellingen, Maximale leeftijd, maximale leeftijd gekochte kalveren, Toewijzing dier-ID]
+translationKey: instellingen/link-transponder
 ---
-## Set Maximale leeftijd moederdier op nieuw bedrijf
-To set the `Maximale leeftijd moederdier op nieuw bedrijf` on your device proceed as follows.
+## Stel Maximale leeftijd moederdier op nieuw bedrijf in
+Om de `Maximale leeftijd moederdier op nieuw bedrijf` in te stellen op uw apparaat, ga als volgt te werk.
 
-1. Select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` in the main screen of your VitalControl device and press the `OK` button.
+1. Selecteer het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys  △ ▽ to select `Link transponder`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Link transponder` te selecteren. Bevestig met `OK`.
 
-3. The setting field `Maximale leeftijd moederdier op nieuw bedrijf` is automatically selected. Use the arrow keys ◁ ▷ to set the maximum age.
+3. Het instellingenveld `Maximale leeftijd moederdier op nieuw bedrijf` wordt automatisch geselecteerd. Gebruik de pijltoetsen ◁ ▷ om de maximale leeftijd in te stellen.
 
-    ![VitalControl: menu settings link transponder](../images/maximumage.png "Purchased calves maximum age")
+    ![VitalControl: menu-instellingen link transponder](../images/maximumage.png "Maximale leeftijd gekochte kalveren")
 
 ## Toevoegen Diernummer
 
-To set the `Toevoegen Diernummer` on your device, proceed as follows.
+Om het `Toevoegen Diernummer` in te stellen op uw apparaat, ga als volgt te werk.
 
-1. Select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` in the main screen of your VitalControl device and press the `OK` key.
+1. Selecteer het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` toets.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽  to select `Link transponder`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Link transponder` te selecteren. Bevestig met `OK`.
 
-3. Use the arrow keys △ ▽ to select the setting field `Toevoegen Diernummer`.
+3. Gebruik de pijltoetsen △ ▽ om het instellingenveld `Toevoegen Diernummer` te selecteren.
 
-4. Use the arrow keys ◁ ▷ to set the assignment of the animal numbers. If you select the setting `Derivation from transponder number`, you will get the options to set the `Digits of new ID` and `Right offset`. Use the arrow keys △ ▽ to select the appropriate range and the arrow keys ◁ ▷ to select the desired setting.
+4. Gebruik de pijltoetsen ◁ ▷ om de toewijzing van de diernummers in te stellen. Als u de instelling `Afwijking van transpondernummer` selecteert, krijgt u de opties om de `Cijfers van nieuwe ID` en `Rechts offset` in te stellen. Gebruik de pijltoetsen △ ▽ om het juiste bereik te selecteren en de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren.
 
-5. Select the option `Consecutive` or `Derivation from transponder number` and proceed as described in page [Assignment animal ID](../animal-registration/#toevoegen-diernummer).
+5. Selecteer de optie `Opeenvolgend` of `Afwijking van transpondernummer` en ga verder zoals beschreven op pagina [Toewijzing dier-ID](../animal-registration/#toevoegen-diernummer).
 
+![VitalControl: menu-instellingen link transponder](../images/assignmentanimalid.png "Toewijzing dier-ID")
 
-    ![VitalControl: menu settings link transponder](../images/assignmentanimalid.png "Assignment animal ID")
-
-Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Sla de instellingen op en keer terug naar het hoofdmenu <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` door op de `F1` toets te drukken &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.

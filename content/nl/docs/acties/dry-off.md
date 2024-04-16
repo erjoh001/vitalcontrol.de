@@ -1,63 +1,63 @@
 ---
-title: Dry off
+title: Droog zetten
 linkTitle: Droog zetten
 slug: dry-off
 weight: 115
 description: >
- Dry off a cow or add her to the fresh cows list
+ Droog een koe of voeg haar toe aan de lijst met verse koeien
 date: 2023-07-26
-categories: [Dry off]
-tags: [Dry off]
+categories: [Droog zetten]
+tags: [Droog zetten]
 translationKey: actions/dry-cows
 ---
 
 ## Droog zetten
 
 {{% alert title="Hint" %}}
-Depending on the initial status of the cow, you can either dry the animal and add it to the dryer list, or you can mark the animal as a fresh milker and thus add it to the fresh milker list. The distinction between the functions is made clear by a plus symbol or a minus symbol.
+Afhankelijk van de initiële status van de koe, kun je het dier droogzetten en toevoegen aan de drooglijst, of je kunt het dier markeren als een verse melker en zo toevoegen aan de lijst van verse melkers. Het onderscheid tussen de functies wordt duidelijk gemaakt door een plus- of minsymbool.
 {{% /alert %}}
 
-### Dry off a cow
+### Een koe droogzetten
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
+2. Scan ofwel de transponder van het dier zonder het nationale dier-ID of selecteer het dier uit de lijst. Bevestig dit met `OK` en selecteer het dier-ID met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Dry off" /> `Drog zetten` and confirm with `OK`.
+3. Een submenu met de dieracties opent. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Droog zetten" /> `Droog zetten` te selecteren en bevestig met `OK`.
 
-4. The animal was successfully marked as dry.
+4. Het dier is succesvol gemarkeerd als droog.
 
 {{< tabpane >}}
-{{< tab header="Dry off a cow:" text=true disabled=true />}}
+{{< tab header="Een koe droogzetten:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Dry off](../images/dryoff-scan.png "Dry off a cow")
+ ![VitalControl: Menu Acties Droog zetten](../images/dryoff-scan.png "Een koe droogzetten")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Dry off](../images/dryoff.png "Dry off a cow")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Acties Droog zetten](../images/dryoff.png "Een koe droogzetten")
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Mark as lactated
+### Marker als gelacteerd
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
+2. Scan ofwel de transponder van het dier zonder het nationale dier-ID of selecteer het dier uit de lijst. Bevestig dit met `OK` en selecteer het dier-ID met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Dry off" /> `Drog zetten` and confirm with `OK`.
+3. Er opent een submenu met de dierenacties. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Dry off" /> `Drog zetten` te selecteren en bevestig met `OK`.
 
-4. The animal was successfully marked as lactated.
+4. Het dier is succesvol gemarkeerd als gelacteerd.
 
 {{< tabpane >}}
-{{< tab header="Mark as lactated:" text=true disabled=true />}}
+{{< tab header="Markeer als gelacteerd:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Mark as lactated](../images/lactated-scan.png "Mark as lactated")
+ ![VitalControl: Menu Acties Markeer als gelacteerd](../images/lactated-scan.png "Markeer als gelacteerd")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Mark as lactated](../images/lactated.png "Mark as lactated")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Acties Markeer als gelacteerd](../images/lactated.png "Markeer als gelacteerd")
 {{% /tab %}}
 {{< /tabpane >}}
 
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer naar voren brengen.
 {{% /alert %}}

@@ -1,42 +1,42 @@
 ---
-title: Registration of new animals
-linkTitle: Niewe dieren
+title: Registratie van nieuwe dieren
+linkTitle: Nieuwe dieren
 date: 2023-07-28T13:25:28+02:00
 weight: 40
 draft: false
 slug: animals
 description: >
-  How to create multiple new animals on the VitalControl device using one single action.
-categories: [New animals]
-tags: [New animals]
+  Hoe u meerdere nieuwe dieren tegelijkertijd kunt aanmaken op het VitalControl-apparaat met één enkele actie.
+categories: [Nieuwe dieren]
+tags: [Nieuwe dieren]
 translationKey: new/animals
 ---
-## Create several new animals
+## Meerdere nieuwe dieren aanmaken
 
-In this menu item you can register several new animals at once. In doing so, you set a basic setting that applies to all animals during this creation.
+In dit menu-item kunt u tegelijkertijd meerdere nieuwe dieren registreren. Hierbij stelt u een basisinstelling in die geldt voor alle dieren tijdens deze creatie.
 
-{{% alert title="Warning" color="warning" %}}
-You can use this function if you want to register animals with a consecutive transponder and a consecutive ear tag number. Use the animal with the highest or lowest transponder and ear tag number to scan. Depending on your settings, VitalControl then continuously counts up or down the transponder and ear tag numbers of the next animals to be created.
+{{% alert title="Waarschuwing" color="warning" %}}
+U kunt deze functie gebruiken als u dieren wilt registreren met een opeenvolgend transpondernummer en een opeenvolgend oormerknummer. Gebruik het dier met het hoogste of laagste transponder- en oormerknummer om te scannen. Afhankelijk van uw instellingen telt VitalControl vervolgens continu op of af voor de transponder- en oormerknummers van de volgende te creëren dieren.
 {{% /alert %}}
 
-To create several new animals, proceed as follows:
+Om meerdere nieuwe dieren te creëren, volg deze stappen:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Nieuw` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nieuw dier" /> `Nieuw` en druk op de `OK` knop.
 
-2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="New animals" /> `Niewe dieren` and confirm with `OK`.
+2. Er opent een submenu. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het menu-item <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Nieuwe dieren" /> `Nieuwe dieren` te selecteren en bevestig met `OK`.
 
-3. Either scan the animal's transponder or use the `F3` ESC key to continue without a scanned transponder. You can use this function if the animal does not yet have a transponder. You can scan this later and assign it to the animal.
+3. Scan ofwel de transponder van het dier of gebruik de `F3` ESC-toets om verder te gaan zonder een gescande transponder. U kunt deze functie gebruiken als het dier nog geen transponder heeft. U kunt deze later scannen en toewijzen aan het dier.
 
-4. Another submenu opens in which you can save the information about the animals. Use the arrow keys △ ▽ to select the desired setting item.
+4. Er opent een ander submenu waarin u de informatie over de dieren kunt opslaan. Gebruik de pijltoetsen △ ▽ om het gewenste instelling-item te selecteren.
 
-5. For the settings `Type can nutdier`,`Geslacht` ,`Geboortegewicht`, `Ras`, `verblijfplaats` and `Aantal nieuwe dieren` use the arrow keys ◁ ▷ to select the desired setting. With the `Aantal nieuwe dieren` you determine how many new animals you want to create at once.
+5. Voor de instellingen `Type landbouwdier`,`Geslacht`, `Geboortegewicht`, `Ras`, `verblijfplaats` en `Aantal nieuwe dieren` gebruikt u de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren. Met `Aantal nieuwe dieren` bepaalt u hoeveel nieuwe dieren u tegelijk wilt creëren.
 
-6. For the settings `Oormerknummer`and `ID van eerste dier` use the arrow keys △ ▽ to select the desired setting option and confirm with `OK`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `OK`.
+6. Voor de instellingen `Oormerknummer` en `ID van eerste dier` gebruikt u de pijltoetsen △ ▽ om de gewenste instellingsoptie te selecteren en bevestig met `OK`. Gebruik de pijltoetsen △ ▽◁ ▷ om de gewenste nummers te selecteren. Bevestig ten slotte met `OK`.
 
-7. Save the settings and create the new animal with the `F3` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+7. Sla de instellingen op en maak het nieuwe dier aan met de `F3` toets &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.
 
 {{% alert title="Hint" %}}
-Further information and setting options for creating new animals can be found [here](../../settings/animal-registration/).
+Meer informatie en instellingsopties voor het aanmaken van nieuwe dieren vind je [hier](../../settings/animal-registration/).
 {{% /alert %}}
 
-   ![VitalControl: Menüfolge New New animals](../images/newanimals.png "Create new animals")
+   ![VitalControl: Menüfolge Nieuwe dieren](../images/newanimals.png "Nieuwe dieren aanmaken")

@@ -6,41 +6,41 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: datetime
 description: >
-  Here, you set the date and time.
-categories: [Settings]
-tags: [Settings, Date & Time]
+  Hier stelt u de datum en tijd in.
+categories: [Instellingen]
+tags: [Instellingen, Datum & Tijd]
 translationKey: settings/datetime
 ---
-## To set the date
+## De datum instellen
 
-{{% alert title="Warning" color="warning" %}}
-Make sure the date and time are set correctly. Otherwise, the timestamps of the measurements and the birth dates of newly added animals will be incorrect!
+{{% alert title="Waarschuwing" color="warning" %}}
+Zorg ervoor dat de datum en tijd correct zijn ingesteld. Anders zijn de tijdstempels van de metingen en de geboortedata van nieuw toegevoegde dieren incorrect!
 {{% /alert %}}
 
-To set the date on your device, follow these steps:
+Volg deze stappen om de datum op uw apparaat in te stellen:
 
-1. On the main screen of your VitalControl device, select the menu option <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` button.
+1. Selecteer op het hoofdscherm van uw VitalControl-apparaat de menuoptie <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Datum & Tijd`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Datum & Tijd` te selecteren. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Datum` and `Tijd`. Select the `Datum` settings field.
+3. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ kunt schakelen tussen de twee instelvelden voor `Datum` en `Tijd`. Selecteer het instelveld `Datum`.
 
-4. Press `OK` key or use `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> key to switch to setting mode. Now you can set the day using the arrow keys △ ▽. The button `F3` 🡆 takes you to the month setting. Alternatively, you can confirm with `OK`. Use the arrow keys △ ▽ here as well. Click `F3` 🡆 again to go to year setting. Now use the arrow keys △ ▽ for adjustment of year. Confirm with `Ok` as soon as the date is set correctly.
+4. Druk op de `OK` toets of gebruik de `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bewerken" /> toets om over te schakelen naar de instelmodus. Nu kunt u de dag instellen met de pijltoetsen △ ▽. De knop `F3` 🡆 brengt u naar de maandinstelling. U kunt ook bevestigen met `OK`. Gebruik hier ook de pijltoetsen △ ▽. Klik weer op `F3` 🡆 om naar de jaarinstelling te gaan. Gebruik nu de pijltoetsen △ ▽ voor het aanpassen van het jaar. Bevestig met `Ok` zodra de datum correct is ingesteld.
 
-    ![VitalControl: menu settings date](../images/date.png "To set the date")
+    ![VitalControl: menu-instellingen datum](../images/date.png "De datum instellen")
 
-## To set the time
+## De tijd instellen
 
-To set the time on your device, follow these steps:
+Volg deze stappen om de tijd op uw apparaat in te stellen:
 
-1. On the main screen of your VitalControl device, select the menu option <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` button.
+1. Selecteer op het hoofdscherm van uw VitalControl-apparaat de menuoptie <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Datum & Tijd`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Datum & Tijd` te selecteren. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Datum` and `Tijd`. Select the `Datum` settings field.
+3. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ kunt schakelen tussen de twee instelvelden voor `Datum` en `Tijd`. Selecteer het instelveld `Datum`.
 
-4. Press `OK` key or use `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> key to switch to setting mode. Now you can set the day using the arrow keys △ ▽. The button `F3` 🡆  takes you to the minute setting. Alternatively, you can confirm with `OK`. Now use the arrow keys △ ▽ for adjustment of minutes. Once the time is set correctly, confirm with `Ok`.
+4. Druk op de `OK` toets of gebruik de `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> toets om over te schakelen naar de instellingsmodus. Nu kunt u de dag instellen met de pijltoetsen △ ▽. De knop `F3` 🡆 brengt u naar de minuteninstelling. U kunt ook bevestigen met `OK`. Gebruik nu de pijltoetsen △ ▽ voor het aanpassen van de minuten. Zodra de tijd correct is ingesteld, bevestig met `Ok`.
 
-    ![VitalControl: menu settings time](../images/time.png "To set the time")
+    ![VitalControl: menu instellingen tijd](../images/time.png "Om de tijd in te stellen")
 
-Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Sla de instellingen op en keer terug naar het hoofdmenu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` door op de `F1` toets te drukken &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.

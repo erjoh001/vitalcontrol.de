@@ -6,59 +6,59 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: new-no-transponder
 description: >
-  Here you assign a transponder to new animals without a transponder.
-categories: [New on farm, transponder]
-tags: [New on farm, transponder]
+  Hier wijs je een transponder toe aan nieuwe dieren zonder transponder.
+categories: [Nieuw op bedrijf, transponder]
+tags: [Nieuw op bedrijf, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Nieuw op bedrijf, geen transponder
 
-In this list you will find all newly created animals with a maximum age of X days that have not yet been assigned a transponder. You can set the maximum age [here](/nl/docs/settings/animal-registration/#standaard-waardes). Once you have collected a transponder from these animals, you can search for the corresponding animal ID within the list and scan the associated transponder. The transponder is then automatically assigned to the animal and the animal is deleted from the list. To assign a transponder, proceed as follows:
+In deze lijst vind je alle nieuw aangemaakte dieren met een maximale leeftijd van X dagen die nog geen transponder toegewezen hebben gekregen. Je kunt de maximale leeftijd [hier](/nl/docs/settings/animal-registration/#standaard-waardes) instellen. Nadat je een transponder van deze dieren hebt verzameld, kun je in de lijst zoeken naar de bijbehorende dier-ID en de bijbehorende transponder scannen. De transponder wordt dan automatisch aan het dier toegewezen en het dier wordt uit de lijst verwijderd. Om een transponder toe te wijzen, ga je als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="New on farm" /> `Nieuw op bedrijf` and press the `OK` button.
+1. Selecteer in het hoofdscherm van je VitalControl-apparaat het menu-item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nieuw op bedrijf" /> `Nieuw op bedrijf` en druk op de `OK` knop.
 
-2. A submenu opens in which you can choose between <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="New on farm, no transponder" /> `Nieuw op bedrijf, geen transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `Gekocht dier`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="No national animal ID" /> `Geen oormerk toegewezen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Births" /> `Geboortes` and <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="No transponder assigned" /> `Geen transponder toegewezen`. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="New on farm, no transponder" /> `Nieuw op bedrijf, geen transponder` and confirm with `OK`.
+2. Er opent een submenu waarin je kunt kiezen tussen <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nieuw op bedrijf, geen transponder" /> `Nieuw op bedrijf, geen transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Gekocht dier" /> `Gekocht dier`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Geen nationaal dier-ID" /> `Geen oormerk toegewezen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Geboortes" /> `Geboortes` en <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Geen transponder toegewezen" /> `Geen transponder toegewezen`. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het menu-item <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nieuw op bedrijf, geen transponder" /> `Nieuw op bedrijf, geen transponder` te selecteren en bevestig met `OK`.
 
-3. A list opens with all animals that have been newly created but to which no transponder has yet been assigned. Use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Een lijst opent met alle dieren die nieuw zijn aangemaakt maar waaraan nog geen transponder is toegewezen. Gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de knop `Aan/Uit` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Zoeken" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. Now scan the animal's transponder.
+4. Scan nu de transponder van het dier.
 
-5. A transponder has been successfully added to the animal.
+5. Een transponder is succesvol toegevoegd aan het dier.
 
 {{< tabpane >}}
-{{< tab header="New on farm, no transponder:" text=true disabled=true />}}
-{{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu New on farm, no transponder](../images/notransponder-scan.png "New on farm, no transponder")
+{{< tab header="Nieuw op bedrijf, geen transponder:" text=true disabled=true />}}
+{{% tab header="Transponder scannen" text=true %}}
+ ![VitalControl: Menu Nieuw op bedrijf, geen transponder](../images/notransponder-scan.png "Nieuw op bedrijf, geen transponder")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu New on farm, no transponder](../images/notransponder.png "New on farm, no transponder")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Nieuw op bedrijf, geen transponder](../images/notransponder.png "Nieuw op bedrijf, geen transponder")
 {{% /tab %}}
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-As soon as you have assigned all animals, you have the option of being redirected to the menu item `Purchased animals` via the `F3` button. There you can create a CSV file for the access report in HI-Tier or HERDE-Mast. <br/>
+Zodra u alle dieren heeft toegewezen, heeft u de mogelijkheid om via de knop `F3` te worden doorgestuurd naar het menu-item `Gekochte dieren`. Daar kunt u een CSV-bestand aanmaken voor het toegangsrapport in HI-Tier of HERDE-Mast. <br/>
 <br/>
-![VitalControl: Menu New on farm, no transponder](../images/redirect.png "Redirect")
+![VitalControl: Menu Nieuw op bedrijf, geen transponder](../images/redirect.png "Doorsturen")
 {{% /alert %}}
 
 ## Vorige toegevoegde acties
 
-You can use the previous additional actions to set which actions you want to perform before assigning the transponder. You can choose between measuring the temperature, assessing the animal and weighing the animal. The respective action is saved directly for the animal that you subsequently assign. Proceed as follows:
+U kunt de vorige extra acties gebruiken om in te stellen welke acties u wilt uitvoeren voordat u de transponder toewijst. U kunt kiezen tussen het meten van de temperatuur, het beoordelen van het dier en het wegen van het dier. De respectievelijke actie wordt direct opgeslagen voor het dier dat u vervolgens toewijst. Ga als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="New on farm" /> `Nieuw op bedrijf` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nieuw op bedrijf" /> `Nieuw op bedrijf` en druk op de knop `OK`.
 
-2. A submenu opens in which you can choose between <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="New on farm, no transponder" /> `Nieuw op bedrijf, geen transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `Gekocht dier`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="No national animal ID" /> `Geen oormerk toegewezen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Births" /> `Geboortes` and <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="No transponder assigned" /> `Geen transponder toegewezen`. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="New on farm, no transponder" /> `Nieuw op bedrijf, geen transponder` and confirm with `OK`.
+2. Er opent een submenu waarin u kunt kiezen tussen <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nieuw op bedrijf, geen transponder" /> `Nieuw op bedrijf, geen transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Gekocht dier" /> `Gekocht dier`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Geen nationaal dier-ID" /> `Geen oormerk toegewezen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Geboortes" /> `Geboortes` en <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Geen transponder toegewezen" /> `Geen transponder toegewezen`. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het menu-item <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nieuw op bedrijf, geen transponder" /> `Nieuw op bedrijf, geen transponder` te selecteren en bevestig met `OK`.
 
-3. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; to call up a popup. Use the arrow keys △ ▽ to navigate to the `Vorige toegevoegde acties` item.
+3. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; om een popup op te roepen. Gebruik de pijltoetsen △ ▽ om naar het item `Vorige toegevoegde acties` te navigeren.
 
-4. Use the arrow buttons △ ▽ to choose between `Temp. meten`, `Dier beoordelen` and `Dier wegen`. Confirm with `OK` to activate the checkbox. A tick appears inside the checkbox to confirm that the action is activated. Confirm again with `OK` to deactivate the action. You can activate any number of actions at the same time.
+4. Gebruik de pijlknoppen △ ▽ om te kiezen tussen `Temp. meten`, `Dier beoordelen` en `Dier wegen`. Bevestig met `OK` om het selectievakje te activeren. Er verschijnt een vinkje in het selectievakje om te bevestigen dat de actie is geactiveerd. Bevestig opnieuw met `OK` om de actie te deactiveren. Je kunt tegelijkertijd een willekeurig aantal acties activeren.
 
 {{% alert title="Hint" %}}
-The menu item `Vorige toegevoegde acties:` informs you that assigning a transponder will always be the last action to be carried out as soon as you confirm an animal selection with `OK` in the menu item `Nieuw op bedrijf, geen transponder`.
+Het menu-item `Vorige toegevoegde acties:` informeert je dat het toewijzen van een transponder altijd de laatste actie zal zijn die wordt uitgevoerd zodra je een dierselectie bevestigt met `OK` in het menu-item `Nieuw op bedrijf, geen transponder`.
 {{% /alert %}}
 
- ![VitalControl: Menu New on farm, no transponder](../images/actions.png "Additional actions")
+ ![VitalControl: Menu Nieuw op bedrijf, geen transponder](../images/actions.png "Aanvullende acties")
 
- ## Further menu items
+ ## Verdere menu-items
 
-You also have the option of selecting between `Instellingen`, `Dier zoeken` and `Filter zetten` in the pop-up. Use the arrow buttons △ ▽ to navigate to the respective menu item and confirm with `OK`. The information for the menu item `Instellingen` can be found [here](/nl/docs/settings/animal-registration/#standaard-waardes), for `Filter zetten` [here](/nl/docs/filter/) and for `Dier zoeken` proceed as in `Nieuw op bedrijf, geen transponder` step 3.
+Je hebt ook de mogelijkheid om te kiezen tussen `Instellingen`, `Dier zoeken` en `Filter zetten` in de pop-up. Gebruik de pijlknoppen △ ▽ om naar het betreffende menu-item te navigeren en bevestig met `OK`. De informatie voor het menu-item `Instellingen` is te vinden [hier](/nl/docs/settings/animal-registration/#standaard-waardes), voor `Filter zetten` [hier](/nl/docs/filter/) en voor `Dier zoeken` ga je te werk zoals in `Nieuw op bedrijf, geen transponder` stap 3.

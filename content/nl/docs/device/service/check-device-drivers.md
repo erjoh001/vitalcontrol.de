@@ -1,10 +1,10 @@
 ---
-title: Check device drivers
-linkTitle: Check device drivers
+title: Controleer apparaatstuurprogramma's
+linkTitle: Controleer apparaatstuurprogramma's
 date: 2023-09-14T10:01:35+02:00
 weight: 10
 draft: false
 description: >
- The instructions for checking your device drivers can be found here
+ De instructies voor het controleren van uw apparaatstuurprogramma's vindt u hier
 manualLink: /nl/docs/diagnosis/hardware/
 ---

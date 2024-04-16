@@ -1,44 +1,44 @@
 ---
-title: Unregister animal
+title: Dier afmelden
 linkTitle: Afmelden
 slug: unregister
 weight: 100
 description: >
- Unregister an animal
+ Dier afmelden
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Unregister]
+categories: [Acties]
+tags: [Acties, Afmelden]
 translationKey: actions/unregister
 ---
-{{% alert title="Warning" color="warning" %}}
-As soon as you delete the animal data record, it is no longer available for evaluation purposes! If you deregister an animal, but want for example evaluate the animal's development again afterwards, you must retain the animal data record!
+{{% alert title="Waarschuwing" color="warning" %}}
+Zodra u het gegevensrecord van het dier verwijdert, is het niet langer beschikbaar voor evaluatiedoeleinden! Als u een dier afmeldt, maar bijvoorbeeld later de ontwikkeling van het dier opnieuw wilt evalueren, moet u het gegevensrecord van het dier bewaren!
 {{% /alert %}}
 
 ## Afmelden
 
-The action `Afmelden` allows you to deregister an animal as soon as it is moved out. To deregister an animal, proceed as follows:
+De actie `Afmelden` stelt u in staat een dier af te melden zodra het verplaatst is. Om een dier af te melden, volg de volgende stappen:
 
-1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Unregister" /> `Afmelden` and confirm with `OK`.
+3. Een submenu met de dieracties opent. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Afmelden" /> `Afmelden` te selecteren en bevestig met `OK`.
 
-4. Another submenu opens in which you can save various settings. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
+4. Een ander submenu opent waarin u verschillende instellingen kunt opslaan. Gebruik de pijltoetsen △ ▽ om de gewenste instellingsoptie te selecteren. Gebruik de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren.
 
-5. Use the key `F3` `Afmelden` to deregister the animal with the specified settings.
+5. Gebruik de toets `F3` `Afmelden` om het dier af te melden met de opgegeven instellingen.
 
 {{< tabpane >}}
-{{< tab header="Unregister:" text=true disabled=true />}}
+{{< tab header="Afmelden:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Unregister](../images/unregister-scan.png "Unregister an animal")
+ ![VitalControl: Menu Actie Afmelden](../images/unregister-scan.png "Dier afmelden")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Unregister](../images/unregister.png "Unregister an animal")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Actie Afmelden](../images/unregister.png "Dier afmelden")
 {{% /tab %}}
 {{< /tabpane >}}
 
 
-{{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+{{% alert title="Tip" %}}
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het menu [actie-instellingen](../settings/). Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}

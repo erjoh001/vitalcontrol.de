@@ -6,77 +6,77 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: verse-koeien
 description: >
-  Facilitate the control of your fresh cows.
-categories: [Lists]
-tags: [Lists, fresh cow]
-translationKey: lists/fresh-cows
+  Faciliteer de controle van uw verse koeien.
+categories: [Lijsten]
+tags: [Lijsten, verse koe]
+translationKey: lijsten/verse-koeien
 ---
-### Fresh cows list
+### Lijst van verse koeien
 
-{{% alert title="Explanation" %}}
-When managing fresh cows, checking the animals daily for several days after birth is considered a best practices routine. The fresh cows list supports facilitates this fresh cow control, especially in terms of temperature recording. For each animal, a column chart over all days of the control period is shown, each day of the control period is represented by a vertical bar. Depending on the colour of the bar (green, yellow or red), you can see whether a normal, elevated or critically elevated temperature was measured on that day for the respective animal.
+{{% alert title="Uitleg" %}}
+Bij het beheren van verse koeien wordt het dagelijks controleren van de dieren gedurende meerdere dagen na de geboorte beschouwd als een beste praktijk routine. De lijst van verse koeien ondersteunt deze controle van verse koeien, vooral wat betreft het registreren van de temperatuur. Voor elk dier wordt een kolomdiagram over alle dagen van de controleperiode getoond, elke dag van de controleperiode wordt vertegenwoordigd door een verticale balk. Afhankelijk van de kleur van de balk (groen, geel of rood), kunt u zien of er op die dag een normale, verhoogde of kritisch verhoogde temperatuur is gemeten voor het betreffende dier.
 {{% /alert %}}
 
-Cows are put on the fresh cows list immediately after their calving has been registered. They remain on that list for a certain period of time, the length of this period (in days) can be adjusted in the [settings](../../settings/data-acquisition/#controle-periode-verse-koeien).
- The following actions are available for this list:
+Koeien worden direct na hun kalverenregistratie op de lijst van verse koeien geplaatst. Ze blijven gedurende een bepaalde periode op die lijst staan, de lengte van deze periode (in dagen) kan worden aangepast in de [instellingen](../../instellingen/data-acquisitie/#controle-periode-verse-koeien).
+ De volgende acties zijn beschikbaar voor deze lijst:
 
 - [Actiemenu](../alarm/#actiemenu)
-- [Dier data](../alarm/#dier-data)
+- [Diergegevens](../alarm/#dier-data)
 - [Temperatuur meten](../alarm/#temperatuur-meten)
 - [Toggle alarm status](#toggle-alarm-status)
 - [Toggle watch status](#toggle-watch-status)
 - [Verborgen gemeten koeien](#verborgen-gemeten-koeien)
 - [Dier zoeken](../alarm/#dier-zoeken)
-- [Filter zetten](../alarm/#filter-zetten)
+- [Filter instellen](../alarm/#filter-zetten)
 
 {{% alert title="Hint" %}}
-Some actions are to be carried out in the same way as in the [alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
+Sommige acties worden op dezelfde manier uitgevoerd als in de [alarmlist](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.
 {{% /alert %}}
 
-### Preliminary Steps
+### Voorbereidende stappen
 
-1. Select the <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `Lijsten` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Selecteer het <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lijsten" /> `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
-2. A submenu opens in which various lists are displayed. Select the `Verse koeien` list <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende lijsten worden weergegeven. Selecteer de lijst `Verse koeien` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Bevestig met `OK`.
 
-3. The fresh cows list is now open.
+3. De lijst met verse koeien is nu geopend.
 
-   ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Verse koeien list")
+   ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Verse koeien lijst")
 
 ### Toggle alarm status
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle alarm status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Toggle alarm status` te markeren en selecteer deze optie door op de centrale `OK` knop of de `F3` toets `OK` te drukken.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de lijst van verse koeien, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kun je zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The animal is now added or removed from the alert list depending on its initial status.
+4. Het dier wordt nu toegevoegd aan of verwijderd uit de alarmlijst, afhankelijk van de initiële status.
 
-   ![VitalControl Lists Fresh cows list](../images/togglealarmstatus.png "Toggle alarm status")
+   ![VitalControl Lists Fresh cows list](../images/togglealarmstatus.png "Alarmstatus wisselen")
 
 ### Toggle watch status
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle watch status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Toggle watch status` te markeren en selecteer deze optie door op de centrale `OK` knop of de `F3` toets `OK` te drukken.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de lijst van verse koeien, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kun je zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The animal is now added or removed from the on watch list depending on its initial status.
+4. Het dier wordt nu toegevoegd aan of verwijderd uit de bewakingslijst, afhankelijk van de initiële status.
 
-   ![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Toggle watch status")
+![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Toggle watch status")
 
 ### Verborgen gemeten koeien
 
-If this function is activated, the animals for which a temperature measurement has been carried out are hidden on the dry cow list. If this function is not activated, the animals remain visible on the list.
+Als deze functie is geactiveerd, worden de dieren waarvoor een temperatuurmeting is uitgevoerd verborgen op de lijst met droge koeien. Als deze functie niet is geactiveerd, blijven de dieren zichtbaar op de lijst.
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the option `Verborgen gemeten koeien` and toggle this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; om een pop-upmenu op te roepen dat verschillende opties weergeeft. Gebruik de pijltoetsen △ ▽ om de optie `Verborgen gemeten koeien` te markeren en schakel deze optie in door op de centrale `OK` knop of de `F3` toets `OK` te drukken.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de lijst met verse koeien, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `On/Off` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The function `hide measured` is now activated. Activation is indicated by ticking the box.
+4. De functie `verbergen gemeten` is nu geactiveerd. Activatie wordt aangegeven door het aanvinken van het vakje.
 
    ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Verborgen gemeten koeien")

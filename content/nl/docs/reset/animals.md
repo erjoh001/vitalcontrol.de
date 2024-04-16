@@ -1,23 +1,23 @@
 ---
-title: "Erasing all animal data"
-linkTitle: "Animal data"
+title: "Alle dierengegevens wissen"
+linkTitle: "Dierengegevens"
 date: 2017-01-02
 description: >
-  Learn how to delete all animals and their data from your VitalControl device.
+  Leer hoe je alle dieren en hun gegevens kunt verwijderen van je VitalControl-apparaat.
 categories: [Reset]
 ---
-## Erasing all animal data from device
+## Alle dierengegevens van apparaat wissen
 
-1. Open the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Apparaat` in the main screen of your VitalControl device.
+1. Open het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van je VitalControl-apparaat.
 
-1. Invoke the submenu `Data management`, navigate to the menu entry `Reset fabrieksinstellingen`. Select the option `Alleen dierdata` in this menu.
+1. Roep het submenu `Data management` op, navigeer naar het menu-item `Reset fabrieksinstellingen`. Selecteer hier de optie `Alleen dierdata`.
 
-1. Press the `OK` button to trigger erasure of animals. Now a pop-up with a security question appears. Confirm with `Yes` here.
+1. Druk op de `OK` knop om het wissen van dieren te starten. Nu verschijnt er een pop-up met een beveiligingsvraag. Bevestig hier met `Ja`.
 
-1. Animal data are erased and a success message appears.
+1. Diergegevens zijn gewist en een succesmelding verschijnt.
 
-   ![VitalControl: Menu path Delete all animals from device](../images/eraseanimals.png "Alleen dierdata")
+   ![VitalControl: Menupad Verwijder alle dieren van apparaat](../images/eraseanimals.png "Alleen dierdata")
 
-1. All animal data are now erased from VitalControl device. You can check the success of the erasure via the menu item `Groep` in the main menu:
+1. Alle diergegevens zijn nu gewist van het VitalControl-apparaat. Je kunt het succes van het wissen controleren via het menu-item `Groep` in het hoofdmenu:
 
-   ![VitalControl: Main menu item 'Herd', no animals registered](../images/no-animals.png "No animals registered")
+   ![VitalControl: Hoofdmenu-item 'Kudde', geen dieren geregistreerd](../images/no-animals.png "Geen dieren geregistreerd")

@@ -1,11 +1,11 @@
 ---
-title: Export dier data (csv)
-linkTitle: Export dier data (csv)
+title: Exporteer diergegevens (csv)
+linkTitle: Exporteer diergegevens (csv)
 date: 2023-09-14T10:01:35+02:00
 weight: 30
 draft: false
 description: >
- All information and instructions for exporting animal data can be found here
+ Alle informatie en instructies voor het exporteren van diergegevens vindt u hier
 manualLink: /nl/docs/data-export/usb-drive/
 ---
 <script>

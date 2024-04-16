@@ -1,34 +1,35 @@
 ---
-title: Newborn care
-linkTitle: Eerst verzorging kaf
+title: Zorg voor pasgeborenen
+linkTitle: Eerste verzorging kalf
 draft: true
 slug: newborn-care
 weight: 120
 description: >
- Record important aspects of newborn care.
+  Registreer belangrijke aspecten van de zorg voor pasgeborenen.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, newborn care]
+categories: [Acties]
+tags: [Acties, zorg voor pasgeborenen]
 translationKey: actions/newborn-care
 ---
 
-## Newborn care
+## Zorg voor pasgeborenen
 
-The campaign `newborn care` helps you to record important aspects of the newborn care of a newborn calf. It also helps you identify possible causes of illness
-close. To apply the `newborn care` action, proceed as follows:
+De campagne `zorg voor pasgeborenen` helpt je om belangrijke aspecten van de zorg voor een pasgeboren kalf vast te leggen. Het helpt je ook mogelijke oorzaken van ziekte te identificeren
+dichtbij. Om de actie `zorg voor pasgeborenen` toe te passen, ga je als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item `Actions` and press the `OK` button.
+1. Selecteer in het hoofdscherm van je VitalControl-apparaat het menu-item `Acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met behulp van de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action `newborn care` and confirm with `OK`.
+3. Een submenu met de dieracties opent. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie `zorg voor pasgeborenen` te selecteren en bevestig met `OK`.
 
-4. Another submenu opens. Use the △ ▽ arrow keys to select a newborn care setting option and use the ◁ ▷ arrow keys to select the desired setting.
+4. Een ander submenu opent. Gebruik de pijltoetsen △ ▽ om een optie voor zorginstelling voor pasgeborenen te selecteren en gebruik de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren.
 
-5. Save the settings with the `F1` key.
+5. Sla de instellingen op met de `F1` toets.
 
-    ![VitalControl: Menu Action Newborn care](../images/newborncare.png "Newborn care")
+    ![VitalControl: Menu Actie Zorg voor pasgeborenen](../images/newborncare.png "Zorg voor pasgeborenen")
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het menu [actie-instellingen](../settings/). Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
 {{% /alert %}}
+

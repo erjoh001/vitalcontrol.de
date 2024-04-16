@@ -1,27 +1,27 @@
 ---
-title: Next animal
-linkTitle: Next animal
-slug: next animal
+title: Volgend dier
+linkTitle: Volgend dier
+slug: volgend dier
 weight: 10
 description: >
- Select the next animal within the Actions menu item.
+ Selecteer het volgende dier binnen het menu-item Acties.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions]
-translationKey: actions/next-animal
+categories: [Acties]
+tags: [Acties]
+translationKey: acties/volgend-dier
 draft: true
 ---
-## Next animal
+## Volgend dier
 
-Within the `actions` menu you have the option of selecting the next animal at any time without having to leave the Actions menu item. To select the next animal, do the following:
+Binnen het menu `acties` heb je de mogelijkheid om op elk moment het volgende dier te selecteren zonder het menu-item Acties te verlaten. Om het volgende dier te selecteren, doe je het volgende:
 
-1. On the main screen of your VitalControl device, select the menu item `actions` and press the `OK` button.
+1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item `acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. To do this, confirm with `OK` and select an animal using the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig dit met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. In the lower control bar you can find the menu item `next animal`. Use the `F3` key to execute this.
+3. Er opent een submenu met de dieracties. In de onderste bedieningsbalk kun je het menu-item `volgend dier` vinden. Gebruik de `F3` toets om dit uit te voeren.
 
-4. The window from step two automatically opens again and you can select the next animal.
+4. Het venster van stap twee opent automatisch opnieuw en je kunt het volgende dier selecteren.
 
-    ![VitalControl: Menu Actions Next animal](../images/nextanimal.png "Choose next animal")
+    ![VitalControl: Menu Acties Volgend dier](../images/nextanimal.png "Kies volgend dier")
     

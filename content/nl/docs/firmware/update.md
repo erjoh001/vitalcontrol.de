@@ -48,4 +48,3 @@ De gegevensback-up is een aanbevolen voorzorgsmaatregel. Alle bestaande dier- en
    ![VitalControl: Succesbericht firmware-update](../images/update-success.png "Succes firmware-update")
 
    De nieuwe firmware is nu geïnstalleerd op uw apparaat.
-

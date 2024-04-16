@@ -4,28 +4,28 @@ linkTitle: Temperatuur
 slug: temperature
 weight: 20
 description: >
- Evaluate your stored data in the Temperature section.
+  Evalueer uw opgeslagen gegevens in het gedeelte Temperatuur.
 date: 2023-07-26
-categories: [Evaluation]
-tags: [Evaluation, Temperature]
-translationKey: evaluation/temperature
+categories: [Evaluatie]
+tags: [Evaluatie, Temperatuur]
+translationKey: evaluatie/temperatuur
 ---
 {{% alert title="Hint" %}}
-In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
+In de standaardinstelling zijn alle dieren die op de VitalControl zijn opgeslagen opgenomen in de evaluatie. Door een [filter](../../filter/) te gebruiken, kunt u de evaluatie beperken tot een subset van de dieren op uw apparaat, bijvoorbeeld alleen tot mannelijke dieren of tot dieren tot een bepaalde maximale leeftijd.
 {{% /alert %}}
 
-## Evaluate temperatuur
+## Temperatuur evalueren
 
-In this evaluation you can see the following information:
-- Currently febrile ill animals
-- Animals with febrile illnesses during lifetime
+In deze evaluatie kunt u de volgende informatie zien:
+- Momenteel koortsachtig zieke dieren
+- Dieren met koortsachtige ziekten gedurende hun leven
 
-To perform the evaluation, proceed as follows:
+Om de evaluatie uit te voeren, ga als volgt te werk:
 
-1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluatie`. Confirm with `OK`.
+1. Markeer in het hoofdscherm van uw apparaat het pictogram &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluatie" />&nbsp; `Evaluatie`. Bevestig met `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Gewicht`, `Temperatuur`, `Beoordeling` and `Sterfte`. Select &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Evaluate temperature" />&nbsp; `Temperatuur` and confirm with `OK`.
+2. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ ◁ ▷ kunt kiezen tussen de menu-items `Gewicht`, `Temperatuur`, `Beoordeling` en `Sterfte`. Selecteer &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Temperatuur evalueren" />&nbsp; `Temperatuur` en bevestig met `OK`.
 
-3. The device now starts to calculate the success variables.
+3. Het apparaat begint nu met het berekenen van de succesvariabelen.
 
-   ![VitalControl: menu Evaluation Evaluate temperature](../images/temperature.png "Evaluate temperature")
+   ![VitalControl: menu Evaluatie Temperatuur evalueren](../images/temperature.png "Temperatuur evalueren")

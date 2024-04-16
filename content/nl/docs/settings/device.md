@@ -1,98 +1,98 @@
 ---
-title: "Apparaat instellingen"
+title: "Apparaatinstellingen"
 linkTitle: "Apparaat"
 date: 2023-07-28T13:25:28+02:00
 weight: 50
 slug: device
 description: >
- Here you can adjust various device settings.
+ Hier kunt u verschillende apparaatinstellingen aanpassen.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
-translationKey: settings/device
+categories: [instellingen]
+tags: [instellingen, apparaat]
+translationKey: instellingen/apparaat
 ---
 ## Zet uit na
 
-To set the period of non-activity until the device is switched off, proceed as follows.
+Om de periode van inactiviteit in te stellen totdat het apparaat wordt uitgeschakeld, ga als volgt te werk.
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Apparaat`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Apparaat` te selecteren. Bevestig met `OK`.
 
-3.  Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for  `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Herlderheid`, `Vibraties toetsen` and `Resource monitor`. Select  `Zet uit na`.
+3. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ kunt schakelen tussen de instellingsvelden voor `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Helderheid`, `Vibraties toetsen` en `Resource monitor`. Selecteer `Zet uit na`.
 
-4. Use the arrow keys ◁ ▷ to set the desired duration in minutes.
+4. Gebruik de pijltoetsen ◁ ▷ om de gewenste duur in minuten in te stellen.
 
-    ![VitalControl: menu settings Shutdown device after](../images/shutdowndeviceafter.png "Shutdown device after")
+    ![VitalControl: menu-instellingen Apparaat uitschakelen na](../images/shutdowndeviceafter.png "Apparaat uitschakelen na")
 
 ## Scherm opstarten
 
-To set the start up screen proceed as follows.
+Om het opstartscherm in te stellen, ga als volgt te werk.
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Apparaat` te selecteren. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for   `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Herlderheid`, `Vibraties toetsen` and `Resource monitor`. Select  `scherm opstarten`.
+3. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ kunt schakelen tussen de instellingsvelden voor `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Helderheid`, `Vibraties toetsen` en `Resource monitor`. Selecteer `scherm opstarten`.
 
-4. Use the arrow keys ◁ ▷ to set the desired start-up screen.
+4. Gebruik de pijltoetsen ◁ ▷ om het gewenste opstartscherm in te stellen.
 
-    ![VitalControl: menu settings Start-up screen](../images/startupscreen.png "Start-up screen")
+    ![VitalControl: menu-instellingen Opstartscherm](../images/startupscreen.png "Opstartscherm")
 
 ## Demonstratiemodus
 
-If the presentation mode is selected, the device simulates the temperature measurements and displays a randomly generated temperature as a measured value. This mode is used for device demonstration if no animals are available for a measurement. To deactivate or activate the presentation mode of the device, proceed as follows:
+Als de demonstratiemodus is geselecteerd, simuleert het apparaat de temperatuurmetingen en toont een willekeurig gegenereerde temperatuur als gemeten waarde. Deze modus wordt gebruikt voor apparaatdemonstratie als er geen dieren beschikbaar zijn voor een meting. Om de demonstratiemodus van het apparaat te deactiveren of te activeren, ga als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Apparaat` te selecteren. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for   `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Herlderheid`, `Vibraties toetsen` and `Resource monitor`. Select  `Demonstratiemodus`.
+3. Er opent een ander submenu waarin u de pijltoetsen △ ▽ kunt gebruiken om te schakelen tussen de instellingsvelden voor `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Helderheid`, `Vibraties toetsen` en `Resource monitor`. Selecteer `Demonstratiemodus`.
 
-4. Use the arrow keys ◁ ▷ to activate or deactivate the presentation mode.
+4. Gebruik de pijltoetsen ◁ ▷ om de presentatiemodus te activeren of deactiveren.
 
-    ![VitalControl: menu settings Demonstration mode](../images/demonstrationmode.png "Demonstration mode")
+    ![VitalControl: menu-instellingen Demonstratiemodus](../images/demonstrationmode.png "Demonstratiemodus")
 
-## Herlderheid
+## Helderheid
 
-To set the display brightness proceed as follows.
+Om de helderheid van het scherm in te stellen, ga als volgt te werk.
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Apparaat` te selecteren. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for   `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Herlderheid`, `Vibraties toetsen` and `Resource monitor`. Select  `Herlderheid`.
+3. Er opent een ander submenu waarin u de pijltoetsen △ ▽ kunt gebruiken om te schakelen tussen de instellingsvelden voor `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Helderheid`, `Vibraties toetsen` en `Resource monitor`. Selecteer `Helderheid`.
 
-4. Use the arrow keys ◁ ▷ to set the display brightness.
+4. Gebruik de pijltoetsen ◁ ▷ om de helderheid van het scherm in te stellen.
 
-    ![VitalControl: menu settings Display brightness](../images/displaybrightness.png "Display brightness")
+    ![VitalControl: menu-instellingen Schermhelderheid](../images/displaybrightness.png "Schermhelderheid")
 
 ## Vibraties toetsen
 
-To deactivate or activate the vibration on keypress of the device, proceed as follows:
+Om de trilling bij het indrukken van een toets op het apparaat te deactiveren of activeren, ga als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Apparaat` te selecteren. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for   `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Herlderheid`, `Vibraties toetsen` and `Resource monitor`. Select  `Vibraties toetsen`.
+3. Er opent een ander submenu waarin u de pijltoetsen △ ▽ kunt gebruiken om te schakelen tussen de instellingsvelden voor `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Helderheid`, `Vibraties toetsen` en `Resource monitor`. Selecteer `Vibraties toetsen`.
 
-4. Use the arrow keys ◁ ▷ to activate or deactivate the vibration on keypress.
+4. Gebruik de pijltoetsen ◁ ▷ om de trilling bij toetsaanslag te activeren of deactiveren.
 
-    ![VitalControl: menu settings Display brightness](../images/vibrationonkeypress.png "Display brightness")
+    ![VitalControl: menu-instellingen Schermhelderheid](../images/vibrationonkeypress.png "Schermhelderheid")
 
 ## Resource monitor
 
-To deactivate or activate the vibration resource monitor of the device, proceed as follows:
+Om de trillingsbronmonitor van het apparaat te deactiveren of te activeren, ga je als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` and press the `OK` button.
+1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` en druk op de `OK` knop.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Device`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Apparaat` te selecteren. Bevestig met `OK`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for   `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Herlderheid`, `Vibraties toetsen` and `Resource monitor`. Select  `Resource monitor`.
+3. Er opent een ander submenu waarin je met de pijltoetsen △ ▽ kunt schakelen tussen de instellingsvelden voor `Zet uit na`, `scherm opstarten`, `Demonstratiemodus`, `Helderheid`, `Vibraties toetsen` en `Resource monitor`. Selecteer `Resource monitor`.
 
-4. Use the arrow keys ◁ ▷ to activate or deactivate the resource monitor.
+4. Gebruik de pijltoetsen ◁ ▷ om de bronmonitor te activeren of deactiveren.
 
-    ![VitalControl: Menu settings Resource monitor](../images/resourcemonitor.png "Resource monitor")
+    ![VitalControl: Menu-instellingen Bronmonitor](../images/resourcemonitor.png "Bronmonitor")
 
-Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Sla de instellingen op en keer terug naar het hoofdmenu <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` door op de `F1` toets te drukken &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.

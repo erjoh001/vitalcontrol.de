@@ -6,49 +6,49 @@ weight: 30
 draft: false
 slug: animal
 description: >
- View important information related to individual animals.
-Categories: [Animal]
-tags: [Animal, Temperature, Height, Animal data]
+ Bekijk belangrijke informatie gerelateerd aan individuele dieren.
+Categories: [Dier]
+tags: [Dier, Temperatuur, Hoogte, Diergegevens]
 translationKey: animal/animal
 ---
 ## Dier
 
-The individual animal function allows you to view important information about weight, temperature and rating for each individual animal. You always have the option of displaying the information as a graphic or as a list. To use the single animal function, proceed as follows:
+De functie voor individuele dieren stelt u in staat belangrijke informatie te bekijken over gewicht, temperatuur en beoordeling voor elk individueel dier. U heeft altijd de optie om de informatie weer te geven als een grafiek of als een lijst. Om de functie voor een enkel dier te gebruiken, ga als volgt te werk:
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/animal.svg" width="35" align="bottom" alt="Animal" /> `Dier` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item <img src="/icons/main/animal.svg" width="35" align="bottom" alt="Dier" /> `Dier` en druk op de `OK` knop.
 
-2. An overview of the most important animal information opens. The upper edge of the screen shows you which animal you are currently viewing. Use the `F3` key to choose between animal information <img src="/icons/footer/info.svg" width="20" align="bottom" alt="Info" />, temperature <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" />, weight  <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weight" /> and rating <img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Rating" />.
+2. Een overzicht van de belangrijkste dierinformatie opent. De bovenrand van het scherm laat zien welk dier u momenteel bekijkt. Gebruik de `F3` toets om te kiezen tussen dierinformatie <img src="/icons/footer/info.svg" width="20" align="bottom" alt="Info" />, temperatuur <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatuur" />, gewicht  <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Gewicht" /> en beoordeling <img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Beoordeling" />.
 
- ![VitalControl: Menu Animal](images/list.png "Display as a list")
+ ![VitalControl: Menu Dier](images/list.png "Weergeven als een lijst")
 
 {{% alert title="Hint"  %}}
-Within each information display you have the option of [searching for an animal](#search-animal), setting a [filter](#set-filter) and switching to a [graphical view](#set-graphical-view).
-You can also switch between the individual animals at any time using the arrow keys ◁ ▷.
+Binnen elke informatieweergave heeft u de optie om [naar een dier te zoeken](#search-animal), een [filter in te stellen](#set-filter) en over te schakelen naar een [grafische weergave](#set-graphical-view).
+U kunt ook op elk moment tussen de individuele dieren schakelen met de pijltoetsen ◁ ▷.
 {{% /alert %}}
 
-### Set graphical view
+### Grafische weergave instellen
 
-1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Filter zetten`, `Dier zoeken`, or `grafische weergave`.
+1. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop-upmenu" /> om een pop-upmenu te openen. In dit menu kunt u kiezen tussen de functies `Filter zetten`, `Dier zoeken`, of `grafische weergave`.
 
-2. Select `grafische weergave` with the arrow keys △ ▽ and confirm with `OK`.
+2. Selecteer `grafische weergave` met de pijltoetsen △ ▽ en bevestig met `OK`.
 
- ![VitalControl: Menu Animal](images/graphic.png "Representation as a graphic")
+ ![VitalControl: Menu Animal](images/graphic.png "Voorstelling als een grafiek")
 
-### Search animal
+### Dier zoeken
 
-1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Filter zetten`, `Dier zoeken`, or `grafische weergave`.
+1. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop-upmenu" /> om een pop-upmenu te openen. In dit menu kunt u kiezen tussen de functies `Filter zetten`, `Dier zoeken`, of `grafische weergave`.
 
-2. Select `Dier zoeken` with the arrow keys △ ▽ and confirm with `OK`.
+2. Selecteer `Dier zoeken` met de pijltoetsen △ ▽ en bevestig met `OK`.
 
-3. Use the arrow keys △ ▽ ◁ ▷ to select the desired animal number and confirm with `OK`
+3. Gebruik de pijltoetsen △ ▽ ◁ ▷ om het gewenste dier nummer te selecteren en bevestig met `OK`
 
  ![VitalControl: Menu Animal](images/search.png "Dier zoeken")
 
-### Set filter
+### Filter instellen
 
-1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Filter zetten`, `Dier zoeken`, or `grafische weergave`.
+1. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop-upmenu" /> om een pop-upmenu te openen. In dit menu kunt u kiezen tussen de functies `Filter zetten`, `Dier zoeken`, of `grafische weergave`.
 
-2. Select `Filter zetten` with the arrow keys △ ▽ and confirm with `OK`.
-You can get instructions on how to use the filter [here]({{< relref "../filter" >}}).
+2. Selecteer `Filter zetten` met de pijltoetsen △ ▽ en bevestig met `OK`.
+U kunt instructies over hoe het filter te gebruiken [hier]({{< relref "../filter" >}}) vinden.
 
- ![VitalControl: Menu Animal](images/filter.png "Filter zetten")
+ ![VitalControl: Menu Animal](images/filter.png "Filter instellen")

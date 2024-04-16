@@ -1,36 +1,36 @@
 ---
-title: Registration of a kalving
+title: Registratie van een kalving
 linkTitle: Kalving
 date: 2023-07-28T13:25:28+02:00
 weight: 20
 draft: false
 slug: calving
 description: >
-  How to register a new calving using VitalControl device.
-categories: [Calving]
-tags: [Calving]
+  Hoe een nieuwe kalving registreren met het VitalControl-apparaat.
+categories: [Kalving]
+tags: [Kalving]
 translationKey: new/calving
 ---
-## Register a kalving
+## Een kalving registreren
 
-To register a calving, proceed as follows:
+Om een kalving te registreren, ga als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `Nieuw` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nieuw dier" /> `Nieuw` en druk op de `OK` knop.
 
-2. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving" /> `Kalving` and confirm with `OK`.
+2. Er opent een submenu. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het menu-item <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Kalving" /> `Kalving` te selecteren en bevestig met `OK`.
 
-3. Give the ID of the dam, either via scan of the dam's transponder or by pressing the `OK` button and entering the ID of the dam using the arrow keys ◁ ▷ △ ▽ and confirming with `OK`. Now either scan the transponder of the newborn calf or use the `F3` key `ESC` to continue without scanning. Use this function if the calf does not yet have a transponder. You can scan a transponder later on once it was attached to the animal.
+3. Geef de ID van de moeder, hetzij via scan van de transponder van de moeder of door op de `OK` knop te drukken en de ID van de moeder in te voeren met de pijltoetsen ◁ ▷ △ ▽ en te bevestigen met `OK`. Scan nu de transponder van het pasgeboren kalf of gebruik de `F3` toets `ESC` om verder te gaan zonder te scannen. Gebruik deze functie als het kalf nog geen transponder heeft. U kunt later een transponder scannen zodra deze aan het dier is bevestigd.
 
-4. Another submenu opens in which you can save information about the calf. Use the arrow keys △ ▽ to select the desired setting item.
+4. Er opent een ander submenu waarin u informatie over het kalf kunt opslaan. Gebruik de pijltoetsen △ ▽ om het gewenste instellingenitem te selecteren.
 
-5. For the settings `Type van nutdier`,`Geslacht` ,`Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` and `Afkalfverloop`, use the arrow keys ◁ ▷ to select the desired setting.
+5. Voor de instellingen `Type van nutdier`,`Geslacht`, `Geboortegewicht`, `Ras`, `verblijfplaats`, `Eenling/Meerling` en `Afkalfverloop`, gebruik de pijltoetsen ◁ ▷ om de gewenste instelling te selecteren.
 
-6. For the settings `Oormerknummer`, `ID` and `Geboortedatum` use the arrow keys △ ▽ to select the desired setting option and confirm with `OK`. Use the arrow keys △ ▽◁ ▷ to select the desired numbers. Finally, confirm with `OK`.
+6. Voor de instellingen `Oormerknummer`, `ID` en `Geboortedatum` gebruik de pijltoetsen △ ▽ om de gewenste instellingsoptie te selecteren en bevestig met `OK`. Gebruik de pijltoetsen △ ▽◁ ▷ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-7. Save the settings and create the new animal with the `F3` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+7. Sla de instellingen op en maak het nieuwe dier aan met de `F3` toets &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.
 
 {{% alert title="Hint" %}}
-Further information and setting options for creating new animals can be found [here](../../settings/animal-registration/).
+Verdere informatie en instellingsopties voor het aanmaken van nieuwe dieren vindt u [hier](../../settings/animal-registration/).
 {{% /alert %}}
 
-   ![VitalControl: Menu path New Calving](../images/calving.png "kegister a calving")
+   ![VitalControl: Menu pad Nieuw Kalveren](../images/calving.png "Registreer een kalveren")

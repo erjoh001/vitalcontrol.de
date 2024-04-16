@@ -5,22 +5,22 @@ date: 2023-07-28T13:25:28+02:00
 weight: 75
 slug: unlink-transponder
 description: >
-  Specify how the animal ID will be assigned after the transponder was detached.
+  Geef aan hoe de dier-ID moet worden toegewezen nadat de transponder is losgekoppeld.
 date: 2023-07-26
-Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+Kategorien: [Instellingen]
+Tags: [Instellingen, Transponder, DierID]
 translationKey: settings/unlink-transponder
 ---
 ## Transponder afnemen
 
-You can use this setting to specify how the animal ID should be assigned as soon as you remove the transponder from the animal. This setting can be used if, for example, the synchronization with the Urban Alma Pro feeder has been carried out and the animal IDs on the VitalControl now correspond to the collar number of the animals. As soon as you remove the collar and detach the transponder, you can specify that the animal ID is now derived from the ear tag number. This allows you to quickly identify the animal in the barn without a collar.
+U kunt deze instelling gebruiken om aan te geven hoe de dier-ID moet worden toegewezen zodra u de transponder van het dier verwijdert. Deze instelling kan worden gebruikt als bijvoorbeeld de synchronisatie met de Urban Alma Pro voeder is uitgevoerd en de dier-ID's op de VitalControl nu overeenkomen met het halsbandnummer van de dieren. Zodra u de halsband verwijdert en de transponder loskoppelt, kunt u aangeven dat de dier-ID nu afgeleid wordt van het oornummernummer. Dit stelt u in staat om het dier snel te identificeren in de stal zonder halsband.
 
-1. Open the <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` menu on the main screen of your VitalControl device.
+1. Open het <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` menu op het hoofdscherm van uw VitalControl apparaat.
 
-2. A submenu opens in which various settings are displayed. Use the arrow buttons △ ▽ to select `Transponder afnemen`. Confirm with `OK`.
+2. Er opent een submenu waarin verschillende instellingen worden weergegeven. Gebruik de pijltoetsen △ ▽ om `Transponder afnemen` te selecteren. Bevestig met `OK`.
 
-3. Now use the arrow buttons ◁ ▷ to select your desired setting. You can choose between `geen kans` or `Toevoegen Diernummer`.
+3. Gebruik nu de pijltoetsen ◁ ▷ om uw gewenste instelling te selecteren. U kunt kiezen tussen `geen kans` of `Toevoegen Diernummer`.
 
-4. The setting option `derivation from eartag number` allows you to make further settings. See [here](/nl/docs/settings/animal-registration/#dieren-automatisch-registreren). 
+4. De instellingsoptie `afleiding van oornummernummer` stelt u in staat om verdere instellingen te maken. Zie [hier](/nl/docs/settings/animal-registration/#dieren-automatisch-registreren).
 
-   ![VitalControl: Menu Settings Unlink transponder](../images/unlink-transponder.png "Unlink transponder")
+   ![VitalControl: Menu Instellingen Transponder afnemen](../images/unlink-transponder.png "Transponder afnemen")

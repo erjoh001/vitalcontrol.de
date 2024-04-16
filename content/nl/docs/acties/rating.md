@@ -4,61 +4,61 @@ linkTitle: Beoordeling
 slug: rating
 weight: 30
 description: >
- Rate your animals.
+ Beoordeel uw dieren.
 date: 2023-07-26
 categories: [Actions]
 tags: [Actions, Rating]
 translationKey: actions/animal-rating
 ---
 
-## Rate your animals
+## Beoordeel uw dieren
 
-When rating the animal, you document the condition of the individual animal. The condition is determined visually and recorded with the help of the traffic light system. In the basic assessment, only the general condition is recorded. In the extended evaluation you record the general condition, feed intake, consistency of faeces  and respiratory diseases. You can either change the rating mode directly in the <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Rating` action or you can define it in the [settings](../../settings/data-acquisition/#dierevaluatie).
-
-{{% alert title="Hint" %}}
-A yellow or red evaluation means that VitalControl classifies the animal as conspicuous and puts it on the alarm list.
-{{% /alert %}}
-
-1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
-
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
-
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Beoordeling` and confirm with `OK`.
-
-4. The rating menu opens. If you want to switch the rating mode, use the `On/Off` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chain-of-actions" />&nbsp; button and the arrow keys ◁ ▷. With the `F1` key <img src="/icons/footer/exit.svg" width="24" align="bottom" alt="Back" />&nbsp; you get back to the evaluation menu.
-
-5. Use the arrow keys ◁ ▷ △ ▽ to select a state and save it with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or the `OK` key.
-
-6. In advanced mode, use the `F1` and `F3` keys to switch between the rating parameters.
+Wanneer u het dier beoordeelt, documenteert u de conditie van het individuele dier. De conditie wordt visueel bepaald en vastgelegd met behulp van het verkeerslichtsysteem. In de basisbeoordeling wordt alleen de algemene conditie vastgelegd. In de uitgebreide evaluatie registreert u de algemene conditie, voedselinname, consistentie van de feces en ademhalingsziekten. U kunt de beoordelingsmodus direct wijzigen in de <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Beoordeling` actie of u kunt deze definiëren in de [instellingen](../../settings/data-acquisition/#dierevaluatie).
 
 {{% alert title="Hint" %}}
-If you do not make a selection using the arrow keys ◁ ▷ but save directly using the `F3` or `OK` key, VitalControl saves a neutral assessment, represented by a gray color.
+Een gele of rode beoordeling betekent dat VitalControl het dier als opvallend classificeert en op de alarmlijst plaatst.
 {{% /alert %}}
 
-### Basic rating
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` en druk op de `OK` knop.
+
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
+
+3. Er opent een submenu met de dieracties. Gebruik de pijltoetsen ◁ ▷ om de actie <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Beoordeling` te selecteren en bevestig met `OK`.
+
+4. Het beoordelingsmenu opent. Als u de beoordelingsmodus wilt wijzigen, gebruik dan de `Aan/Uit` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chain-of-actions" />&nbsp; knop en de pijltoetsen ◁ ▷. Met de `F1` toets <img src="/icons/footer/exit.svg" width="24" align="bottom" alt="Back" />&nbsp; keert u terug naar het evaluatiemenu.
+
+5. Gebruik de pijltoetsen ◁ ▷ △ ▽ om een staat te selecteren en sla deze op met de `F3` toets <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> of de `OK` knop.
+
+6. In de geavanceerde modus, gebruik de `F1` en `F3` toetsen om te schakelen tussen de beoordelingsparameters.
+
+{{% alert title="Hint" %}}
+Als u geen selectie maakt met de pijltoetsen ◁ ▷ maar direct opslaat met de `F3` of `OK` toets, slaat VitalControl een neutrale beoordeling op, weergegeven door een grijze kleur.
+{{% /alert %}}
+
+### Basisbeoordeling
 
 {{< tabpane >}}
-{{< tab header="Basic rating:" text=true disabled=true />}}
+{{< tab header="Basisbeoordeling:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Rating](../images/basicrating-scan.png "Basic rating")
+ ![VitalControl: Menu Acties Beoordeling](../images/basicrating-scan.png "Basisbeoordeling")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Rating](../images/basicrating.png "Basic rating")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Acties Beoordeling](../images/basicrating.png "Basisbeoordeling")
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Extended Rating
+### Uitgebreide Beoordeling
 
 {{< tabpane >}}
-{{< tab header="Basic rating:" text=true disabled=true />}}
+{{< tab header="Basisbeoordeling:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Rating](../images/extendedrating-scan.png "Extended rating")
+ ![VitalControl: Menu Acties Beoordeling](../images/extendedrating-scan.png "Uitgebreide beoordeling")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Rating](../images/extendedrating.png "Extended rating")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Acties Beoordeling](../images/extendedrating.png "Uitgebreide beoordeling")
 {{% /tab %}}
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](/nl/docs/acties/settings/#menuonderdelen) menu. Alternatively, resetting all actions will bring that action back up.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/settings/#menuonderdelen) menu. Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
 {{% /alert %}}

@@ -1,37 +1,37 @@
 ---
-title: Data export to USB flash drive
-linkTitle: To USB flash drive
+title: Gegevensexport naar USB-stick
+linkTitle: Naar USB-stick
 date: 2023-07-20
 weight: 10
 description: >
-  Export CVS data files containing animal data and measurement values stored on the VitalControl device to a USB flash drive.
-categories: [Data export]
-tags: [CSV files, USB flash drive]
+  Exporteer CVS-gegevensbestanden met dierengegevens en meetwaarden opgeslagen op het VitalControl-apparaat naar een USB-stick.
+categories: [Gegevensexport]
+tags: [CSV-bestanden, USB-stick]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "In order to perform an export of your device data," %}}
+{{% usb-drive/en "Om een export van uw apparaatgegevens uit te voeren," %}}
 
-## Perform data export
+## Voer gegevensexport uit
 
-1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Apparaat` in the main screen of your VitalControl device.
+1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
-2. Invoke the submenu `Data management`, select the menu item `Export dier data (csv)` and confirm with `OK`. You are now asked to insert an USB flash drive:
+2. Roep het submenu `Data management` op, selecteer het menu-item `Exporteer dierdata (csv)` en bevestig met `OK`. U wordt nu gevraagd om een USB-stick in te voeren:
 
-   ![VitalControl: Menu path data export](../images/data-export.png "Invoke data export")
+   ![VitalControl: Menupad gegevensexport](../images/data-export.png "Roep gegevensexport op")
 
-3. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
+3. Steek de USB-stick (C-stekker) in de connector aan de onderkant van het apparaat.
 
-   ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+   ![VitalControl: USB-stick invoeren](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-stick invoeren")
 
-4. Once the device detected insertion of the USB stick, data export is automatically started. Writing the backup data may take a few seconds. When the data export finished, a success message is displayed:
+4. Zodra het apparaat de invoering van de USB-stick detecteert, wordt de gegevensexport automatisch gestart. Het schrijven van de back-upgegevens kan enkele seconden duren. Wanneer de gegevensexport is voltooid, wordt een succesmelding weergegeven:
 
-   ![VitalControl: success message data export](../images/success-data-export.png "Success data export")
+   ![VitalControl: succesmelding gegevensexport](../images/success-data-export.png "Succes gegevensexport")
 
-5. Data export is now complete. You will find the four created [export files](../export-files/) inside the directory `export-csv` on your USB flash drive.
+5. De gegevensexport is nu voltooid. U vindt de vier gecreëerde [exportbestanden](../export-files/) in de map `export-csv` op uw USB-stick.
 
-   ![USB flash drive with export files VitalControl](../images/export-files.png "Export files on USB flash drive")
+   ![USB-stick met exportbestanden VitalControl](../images/export-files.png "Exportbestanden op USB-stick")
 
-   {{% alert title="Notes" %}}
-  - To prevent accidental overwriting of export files, the file name of each export file always includes the date and time when the file was created. Be sure to use the latest version of the export files if you have exported animal data multiple times.
-  - The file size of the export files depends on the number of animals on the VitalControl and on the number of measurements performed. In general, the export files only occupy a few kB of storage space on the USB stick.
+   {{% alert title="Opmerkingen" %}}
+  - Om per ongeluk overschrijven van exportbestanden te voorkomen, bevat de bestandsnaam van elk exportbestand altijd de datum en tijd waarop het bestand is gemaakt. Zorg ervoor dat u de nieuwste versie van de exportbestanden gebruikt als u meerdere keren diergegevens hebt geëxporteerd.
+  - De bestandsgrootte van de exportbestanden hangt af van het aantal dieren op de VitalControl en van het aantal uitgevoerde metingen. Over het algemeen nemen de exportbestanden slechts enkele kB opslagruimte in beslag op de USB-stick.
    {{% /alert %}}

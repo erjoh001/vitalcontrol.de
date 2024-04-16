@@ -1,8 +1,8 @@
 ---
-title: "Reset VitalControl device"
-linkTitle: "Device reset"
+title: "VitalControl-apparaat resetten"
+linkTitle: "Apparaat resetten"
 date: 2017-01-02
 description: >
-  Reset settings on VitalControl device and/or delete all animal data.
+  Reset instellingen op VitalControl-apparaat en/of verwijder alle dierengegevens.
 weight: 40
 ---

@@ -14,7 +14,7 @@ tags: [back-upbestand, USB-flashstation]
 
 1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
-2. Roep het submenu `Gegevensbeheer` op en selecteer vervolgens het submenu-item `Gegevensback-up`. Selecteer nu het menu-item `Back-up maken` en bevestig met `OK`. U wordt nu gevraagd om een USB-flashstation in te voegen:
+2. Roep het submenu `Data management` op en selecteer vervolgens het submenu-item `Data backup`. Selecteer nu het menu-item `Create back up` en bevestig met `OK`. U wordt nu gevraagd om een USB-flashstation in te voegen:
 
    ![VitalControl: menupad gegevensback-up](../images/backup.png "Roep gegevensback-up op")
 

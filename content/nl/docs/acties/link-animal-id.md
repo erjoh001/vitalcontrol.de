@@ -1,65 +1,65 @@
 ---
 title: Link dier ID
 linkTitle: Link dier ID
-slug: link-animal-id
+slug: koppel-dier-id
 weight: 115
 description: >
- Assign a national animal ID to an animal that does not have a national animal ID
+ Wijs een nationaal dier-ID toe aan een dier dat geen nationaal dier-ID heeft
 date: 2023-07-26
-categories: [National animal ID]
-tags: [National animal ID]
+categories: [Nationaal dier-ID]
+tags: [Nationaal dier-ID]
 translationKey: actions/national-animal-id
 ---
-{{% alert title="Warning" color="warning" %}}
-This action is not enabled by default! Activate this as described in [action settings](../settings/).
+{{% alert title="Waarschuwing" color="warning" %}}
+Deze actie is standaard niet ingeschakeld! Activeer dit zoals beschreven in [actie-instellingen](../settings/).
 {{% /alert %}}
 
 ## Link dier ID
 
-To assign a national animal ID to an animal that does not have a national animal ID, proceed as follows:
+Om een nationaal dier-ID toe te wijzen aan een dier dat geen nationaal dier-ID heeft, ga als volgt te werk:
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
+2. Scan ofwel de transponder van het dier zonder het nationale dier-ID of selecteer het dier uit de lijst. Bevestig dit met `OK` en selecteer het dier-ID met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Link animal ID" /> `Link dier ID` and confirm with `OK`.
+3. Een submenu met de dieracties opent. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Koppel dier ID" /> `Koppel dier ID` te selecteren en bevestig met `OK`.
 
-4. Another submenu opens with all the setting options for the animal data. The setting option `Oormerkenummer` is automatically selected. Confirm with `OK`.
+4. Een ander submenu opent met alle instellingsopties voor de diergegevens. De instellingsoptie `Oormerkenummer` wordt automatisch geselecteerd. Bevestig met `OK`.
 
-5. Use the arrow keys ◁ ▷ △ ▽ to set the national animal ID. Confirm again with `OK`.
+5. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het nationale dier-ID in te stellen. Bevestig opnieuw met `OK`.
 
-6. Save the settings and return to the main menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` using the `F3` key.
+6. Sla de instellingen op en keer terug naar het hoofdmenu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` met behulp van de `F3` toets.
 
 {{< tabpane >}}
-{{< tab header="Link animal ID:" text=true disabled=true />}}
+{{< tab header="Koppel dier ID:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Link animal ID](../images/linkanimalid-scan.png "Link dier ID")
+ ![VitalControl: Menu Actie Koppel dier ID](../images/linkanimalid-scan.png "Koppel dier ID")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Link animal ID](../images/linkanimalid.png "Link dier ID")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Actie Koppel dier ID](../images/linkanimalid.png "Koppel dier ID")
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Link animal ID with electronic ear tag scan
+## Link dier ID aan elektronische oormerkscan
 
-To assign a national animal ID to an animal that has an electronic ear tag, proceed as follows:
+Om een nationaal dier-ID toe te wijzen aan een dier dat een elektronisch oormerk heeft, ga als volgt te werk:
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
+2. Scan ofwel de transponder van het dier zonder het nationale dier-ID of selecteer het dier uit de lijst. Bevestig dit met `OK` en selecteer het dier-ID met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `Link dier ID` and confirm with `OK`.
+3. Een submenu met de dieracties opent. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de actie &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `Link dier ID` te selecteren en bevestig met `OK`.
 
-4. Now scan the electronic ear tag.
+4. Scan nu het elektronische oormerk.
 
-5. The animal has been successfully assigned an national animal ID.
+5. Het dier is succesvol een nationaal dier-ID toegewezen.
 
 {{< tabpane >}}
-{{< tab header="Link animal ID with electronic ear tag scan:" text=true disabled=true />}}
+{{< tab header="Koppel dier-ID aan elektronische oormerkscan:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan-scan.png "Link dier ID")
+ ![VitalControl: Menu Actie Koppel dier ID](../images/linkanimalidscan-scan.png "Koppel dier ID")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Action Link animal ID](../images/linkanimalidscan.png "Link dier ID")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Actie Koppel dier ID](../images/linkanimalidscan.png "Koppel dier ID")
 {{% /tab %}}
 {{< /tabpane >}}

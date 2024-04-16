@@ -1,10 +1,9 @@
 ---
-title: "Data exchange with automatic calf feeder, farm PC and third-party software products"
-linkTitle: "Data exchange"
+title: "Gegevensuitwisseling met automatische kalfsvoederautomaat, boerderij-PC en softwareproducten van derden"
+linkTitle: "Gegevensuitwisseling"
 date: 2023-08-04T11:29:27+02:00
 description: >
-  Several coupling options exist for the VitalControl device for efficient data exchange with other hardware and software solutions.
+  Er zijn verschillende koppelingsopties beschikbaar voor het VitalControl-apparaat voor efficiënte gegevensuitwisseling met andere hardware- en softwareoplossingen.
 draft: false
 weight: 20
 ---
-
