@@ -9,7 +9,7 @@ description: >
  Bekijk uw lijst met geobserveerde dieren.
 categories: [Lijsten]
 tags: [Lijsten, geobserveerd]
-translationKey: lijsten/geobserveerd
+translationKey: lists/on-watch
 ---
 ## Lijst van geobserveerde dieren
 

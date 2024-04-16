@@ -8,7 +8,7 @@ description: >
 categories: [Data export]
 tags: [exportbestanden, temperaturen, gewichten, beoordelingen]
 slug: export-bestanden
-translationKey: data-export/data-bestanden
+translationKey: data-export/data-files
 ---
 ## Algemene informatie
 

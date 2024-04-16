@@ -8,7 +8,7 @@ description: >
 date: 2023-07-26
 categories: [Acties, Actieketen]
 tags: [Acties, Actieketen]
-translationKey: acties/instellingen
+translationKey: actions/settings
 ---
 ## Menuonderdelen
 

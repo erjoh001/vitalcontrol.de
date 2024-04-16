@@ -8,7 +8,7 @@ description: >
 date: 2023-07-26
 categories: [Acties]
 tags: [Acties]
-translationKey: acties/volgend-dier
+translationKey: actions/next-animal
 draft: true
 ---
 ## Volgend dier

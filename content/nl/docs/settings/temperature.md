@@ -9,7 +9,7 @@ description: >
  Stel de temperatuurinstellingen in voor de toepassing van uw VitalControl-apparaat
 categories: [instellingen]
 tags: [instellingen, temperatuur, drempelwaarde, anus spotlight]
-translationKey: instellingen/temperatuur
+translationKey: settings/temperature
 ---
 ## Stel de drempelwaarden en temperatuurbereiken in
 {{% alert title = "Hint" %}}

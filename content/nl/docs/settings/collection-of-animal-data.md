@@ -4,12 +4,12 @@ linkTitle: "Gegevens overnemen"
 weight: 40
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: gegevens-acquisitie
+slug: data-acquisition
 description: >
  Gegevensopslag voor relevante instellingen voor het verzamelen van dierengegevens
 categories: [instellingen]
 tags: [instellingen, gegevensacquisitie]
-translationKey: instellingen/gegevens-acquisitie
+translationKey: settings/data-acquisition
 maphilight: true
 ---
 ## Overzicht
@@ -21,7 +21,7 @@ De volgende afbeelding toont de beschikbare instellingen met betrekking tot het 
 <map name="workmap-overview">
   <area shape="rect" coords="3,40,239,80" alt="Gewichtsbepaling" title="Submenu: Instellingen voor gewichtsregistratie&#10;Muisklik: open documentatie" href="#instellingen-gewichtsregistratie">
   <area shape="rect" coords="3,80,239,160" alt="Dierevaluatie" title="Stel de modus van dierbeoordeling in&#10;Muisklik: open documentatie" href="#dierevaluatie">
-  <area shape="rect" coords="3,160,239,240" alt="Controleperiode verse koeien" title="Stel de lengte van de controleperiode voor verse koeien in&#10;Muisklik: open documentatie" href="#controle-periode-verse-koeien">
+  <area shape="rect" coords="3,160,239,240" alt="Controleperiode verse koeien" title="Stel de lengte van de controleperiode voor verse koeien in&#10;Muisklik: open documentatie" href="#controleperiode-verse-koeien">
 
   <area shape="rect" coords="2,282,125,318" alt="Terug" title="Ga een niveau terug" href="/nl/docs/instellingen/">
 </map>

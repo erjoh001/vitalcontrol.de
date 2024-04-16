@@ -6,7 +6,7 @@ draft: false
 categories: [Diagnose, RFID-scan]
 description: >
   Controleer het bereik van uw RFID-scanner of toon het leesprotocol en de nummers opgeslagen op onbekende transponders.
-translationKey: diagnose/rfid-scan
+translationKey: diagnosis/rfid-scan
 weight: 20
 ---
 

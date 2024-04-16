@@ -9,7 +9,7 @@ description: >
 date: 2023-07-26
 categories: [Apparaat, Gegevensexport]
 tags: [Apparaat, Gegevensexport]
-translationKey: apparaat/gegevensbeheer
+translationKey: device/data-management
 no_list: true
 maphilight: true
 ---

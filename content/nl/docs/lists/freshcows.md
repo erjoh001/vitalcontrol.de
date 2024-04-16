@@ -4,12 +4,12 @@ linkTitle: "Verse koeien"
 weight: 40
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: verse-koeien
+slug: fresh-cows
 description: >
   Faciliteer de controle van uw verse koeien.
 categories: [Lijsten]
 tags: [Lijsten, verse koe]
-translationKey: lijsten/verse-koeien
+translationKey: lists/fresh-cows
 ---
 ### Lijst van verse koeien
 

@@ -9,7 +9,7 @@ description: >
 date: 2023-07-26
 categories: [instellingen]
 tags: [instellingen, Maximale leeftijd, maximale leeftijd gekochte kalveren, Toewijzing dier-ID]
-translationKey: instellingen/link-transponder
+translationKey: settings/link-transponder
 ---
 ## Stel Maximale leeftijd moederdier op nieuw bedrijf in
 Om de `Maximale leeftijd moederdier op nieuw bedrijf` in te stellen op uw apparaat, ga als volgt te werk.

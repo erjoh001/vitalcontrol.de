@@ -9,7 +9,7 @@ description: >
  Bekijk uw actielijst.
 categories: [Lijsten]
 tags: [Lijsten, Actie]
-translationKey: lijsten/actie
+translationKey: lists/action
 ---
 ## Actielijst
 

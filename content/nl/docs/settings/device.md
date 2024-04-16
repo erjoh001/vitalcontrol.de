@@ -9,7 +9,7 @@ description: >
 date: 2023-07-26
 categories: [instellingen]
 tags: [instellingen, apparaat]
-translationKey: instellingen/apparaat
+translationKey: settings/device
 ---
 ## Zet uit na
 

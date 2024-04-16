@@ -9,7 +9,7 @@ description: >
  Hier selecteert u eenheden voor temperatuur en massa.
 categories: [instellingen]
 tags: [instellingen, eenheden]
-translationKey: instellingen/eenheden
+translationKey: settings/units
 ---
 ## Temperatuureenheid instellen
 

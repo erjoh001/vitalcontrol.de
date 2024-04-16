@@ -8,7 +8,7 @@ description: >
 date: 2023-07-26
 categories: [Evaluatie]
 tags: [Evaluatie, gewicht]
-translationKey: evaluatie/gewicht
+translationKey: evaluation/weight
 maphilight: true
 ---
 {{% alert title="Hint" %}}
@@ -22,7 +22,7 @@ Als u op een menu-item klikt, wordt u doorgestuurd naar een beschrijving van de 
 <img src="../images/imagemap.png" alt="VitalControl Evaluatie" title="Gewicht" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Weging van vandaag" title="Evalueer de gewichtswaarden van uw dieren die vandaag met de VitalControl zijn geregistreerd&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#wegign-van-vandaag">
+   <area shape="rect" coords="3,40,116,160" alt="Weging van vandaag" title="Evalueer de gewichtswaarden van uw dieren die vandaag met de VitalControl zijn geregistreerd&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#weging-van-vandaag">
    <area shape="rect" coords="116,40,238,160" alt="Geboortegewicht" title="Evalueer uw opgeslagen geboortegewichten&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#geboortegewicht">
    <area shape="rect" coords="3,160,116,279" alt="gewichtsontwikkeling" title="Evalueer de gewichtsontwikkeling van uw dieren&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#gewichtsontwikkeling">
 
