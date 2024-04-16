@@ -1,22 +1,22 @@
 ---
-title: Serial number
-linkTitle: Serial number
+title: Serienummer
+linkTitle: Serienummer
 date: 2023-09-14T10:01:35+02:00
 weight: 1
 draft: false
 description: >
- To retrieve the serial number of your device click here
+ Om het serienummer van uw apparaat op te halen, klik hier
 ---
-## Get serial number
+## Serienummer ophalen
 
-To retrieve the serial number of your device, proceed as follows:
+Om het serienummer van uw apparaat op te halen, ga als volgt te werk:
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `Apparaat` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" />  `Apparaat` en druk op de `OK` knop.
 
-2. A submenu opens with several menu items. Select `Info` and confirm with `OK`.
+2. Er opent een submenu met verschillende menu-items. Selecteer `Info` en bevestig met `OK`.
 
-3. Another submenu opens. Select `Serienummer` and confirm with `OK`.
+3. Er opent een ander submenu. Selecteer `Serienummer` en bevestig met `OK`.
 
-4. The serial number will now be displayed.
+4. Het serienummer wordt nu weergegeven.
 
-   ![VitalControl: Menu Device Info](../images/serialnumber.png "Get serial number")
+   ![VitalControl: Menu Apparaat Info](../images/serialnumber.png "Serienummer ophalen")

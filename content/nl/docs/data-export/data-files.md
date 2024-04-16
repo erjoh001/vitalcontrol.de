@@ -1,51 +1,51 @@
 ---
-title: Structure and content of the exported CSV data files
-linkTitle: Export dier data
+title: Structuur en inhoud van de geëxporteerde CSV-gegevensbestanden
+linkTitle: Exporteer diergegevens
 date: 2023-07-20
 weight: 30
 description: >
-  Description of the structure and content of the four data files created during the export.
+  Beschrijving van de structuur en inhoud van de vier gegevensbestanden die tijdens de export worden aangemaakt.
 categories: [Data export]
-tags: [export files, temperatures, weights, ratings]
-slug: export-files
+tags: [exportbestanden, temperaturen, gewichten, beoordelingen]
+slug: export-bestanden
 translationKey: data-export/data-files
 ---
-## General information
+## Algemene informatie
 
-When exporting animal data, regardless of whether to the [USB flash drive][] or to a local mass storage device [on the PC][], four export files are generated in each case:
+Bij het exporteren van diergegevens, ongeacht of dit naar de [USB-stick][] of naar een lokale massaalopslagapparaat [op de PC][], worden in elk geval vier exportbestanden gegenereerd:
 
-- [Animal data][] `(animals.csv)`
-- [Body temperature data][] `(temperatures.csv)`
-- [Weight data][] `(weights.csv)`
-- [Animal ratings][] `(ratings.csv)`
+- [Diergegevens][] `(animals.csv)`
+- [Gegevens over lichaamstemperatuur][] `(temperatures.csv)`
+- [Gewichtsgegevens][] `(weights.csv)`
+- [Beoordelingen van dieren][] `(ratings.csv)`
 
-[USB flash drive]: ../usb-drive/
-[on the PC]: ../pc/
+[USB-stick]: ../usb-drive/
+[op de PC]: ../pc/
 
-[Animal data]: #animal-data-animalscsv
-[Body temperature data]: #body-temperature-data-temperaturescsv
-[Weight data]: #weight-data-weightscsv
-[Animal ratings]: #animal-ratings-ratingscsv
+[Diergegevens]: #diergegevens-animalscsv
+[Gegevens over lichaamstemperatuur]: #gegevens-over-lichaamstemperatuur-temperaturescsv
+[Gewichtsgegevens]: #gewichtsgegevens-weightscsv
+[Beoordelingen van dieren]: #beoordelingen-van-dieren-ratingscsv
 
-All four files are human readable [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) text files. The files are encoded in `UTF-8` format, semicolons (`;`) are used as column separators. The individual data fields are *not* enclosed in quotation marks. Each row of the respective table represents an animal data set or a measurement or assessment performed on an animal.
+Alle vier bestanden zijn leesbare [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) tekstbestanden. De bestanden zijn gecodeerd in `UTF-8` formaat, puntkomma's (`;`) worden gebruikt als kolomscheiders. De afzonderlijke gegevensvelden zijn *niet* omsloten door aanhalingstekens. Elke rij van de respectievelijke tabel vertegenwoordigt een diergegevensset of een meting of beoordeling uitgevoerd op een dier.
 
-## Further processing of exported data
+## Verdere verwerking van geëxporteerde gegevens
 
-You can open each of these four export files in a spreadsheet program of your choice (such as [Microsoft Excel](https://products.office.com/excel) or [OpenOffice Calc](https://www.openoffice.org/)) and perform advanced analysis of the data there. As an example, the view of the table `animals.csv` in a spreadsheet program is shown below:
+U kunt elk van deze vier exportbestanden openen in een spreadsheetprogramma naar keuze (zoals [Microsoft Excel](https://products.office.com/excel) of [OpenOffice Calc](https://www.openoffice.org/)) en daar geavanceerde analyses van de gegevens uitvoeren. Als voorbeeld wordt hieronder de weergave van de tabel `animals.csv` in een spreadsheetprogramma getoond:
 
-![Exported animal data, opened in a spreadsheet program](../images/animals.png "Animal data opened in spreadsheet program")
+![Geëxporteerde diergegevens, geopend in een spreadsheetprogramma](../images/animals.png "Diergegevens geopend in spreadsheetprogramma")
 
-## Description of data files
+## Beschrijving van gegevensbestanden
 
-The following four sections describe each of the exported data files in detail:
+De volgende vier secties beschrijven elk van de geëxporteerde gegevensbestanden in detail:
 
-### Animal data (`animals.csv`)
+### Diergegevens (`animals.csv`)
 
-- **File name** `animals.csv`
-- **Description** General animal data
-- **Number of columns** 6
+- **Bestandsnaam** `animals.csv`
+- **Beschrijving** Algemene diergegevens
+- **Aantal kolommen** 6
 
-Each row of the animal data table represents one animal stored on the VitalControl. An exemplary animal data table thus has the following appearance:
+Elke rij van de dierendatatabel vertegenwoordigt één dier opgeslagen op de VitalControl. Een voorbeeldige dierendatatabel ziet er dus als volgt uit:
 
 ```csv
 National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
@@ -55,94 +55,94 @@ National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
 …
 ```
 
-The following table lists and describes each column of the animal data table:
+De volgende tabel lijst en beschrijft elke kolom van de dierendatatabel:
 
-|Column| Name of column    | Description                     | Comments                                                  |
+|Kolom| Naam van kolom       | Beschrijving                      | Opmerkingen                                                |
 |:-:|----------------------|---------------------------------|-----------------------------------------------------------|
-| 1 | `National-ID-Animal` | Official national animal number | 15 digits according to [ISO1174/85][], maybe not recorded |
-| 2 | `Farm-ID-Animal`     | Management number               | 2- to 6 digits, often equal to number at collar           |
-| 3 | `Transponder-ID`     | Transponder number              | may be missing , may be identical with national animal ID |
-| 4 | `DateOfBirth`        | Date of birth                   | Format: `YYYY-MM-TT` (`Year-Month-Day`)                   |
-| 5 | `Sex`                | Sex                             | _Values:_ `M`: male, `F`: female, `?`: unknown            |
-| 6 | `BirthWeight-Kg`     | Birth weight                    | Unit: `kilogram`, maybe not recorded / missing            |
+| 1 | `National-ID-Animal` | Officieel nationaal dier nummer | 15 cijfers volgens [ISO1174/85][], mogelijk niet geregistreerd |
+| 2 | `Farm-ID-Animal`     | Beheernummer                     | 2 tot 6 cijfers, vaak gelijk aan nummer op halsband       |
+| 3 | `Transponder-ID`     | Transpondernummer                | kan ontbreken, kan identiek zijn met nationaal dier ID    |
+| 4 | `DateOfBirth`        | Geboortedatum                    | Formaat: `YYYY-MM-TT` (`Jaar-Maand-Dag`)                  |
+| 5 | `Sex`                | Geslacht                         | _Waarden:_ `M`: mannelijk, `F`: vrouwelijk, `?`: onbekend |
+| 6 | `BirthWeight-Kg`     | Geboortegewicht                  | Eenheid: `kilogram`, mogelijk niet geregistreerd / ontbrekend |
 
 [ISO1174/85]: https://en.wikipedia.org/wiki/ISO_11784_and_ISO_11785
 
-If needed, you can also download the provided sample file [animals.csv][].
+Indien nodig, kunt u ook het voorbeeldbestand [animals.csv][] downloaden.
 
 [animals.csv]: /data-export/animals.csv
 
-### Body temperature data (`temperatures.csv`)
+### Lichaamstemperatuurgegevens (`temperatures.csv`)
 
-- **File name** `temperatures.csv`
-- **Description** Temperature values, obtained by taking the rectal body temperature of animals.
-- **Number of columns** 5
+- **Bestandsnaam** `temperatures.csv`
+- **Beschrijving** Temperatuurwaarden, verkregen door het meten van de rectale lichaamstemperatuur van dieren.
+- **Aantal kolommen** 5
 
-Each line of the temperature data table represents a body temperature measurement performed on an animal with VitalControl device. An exemplary temperature table thus has the following appearance:
+Elke regel van de temperatuurdatatabel vertegenwoordigt een lichaamstemperatuurmeting uitgevoerd op een dier met VitalControl-apparaat. Een voorbeeldige temperatuurtabel ziet er dus als volgt uit:
 
 ```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Temperature-Celsius
+National-ID-Animal;Farm-ID-Animal;Datum;Tijd;Temperatuur-Celsius
 276000312341001;1001;276000312341001;2023-07-24;38.03
 276000312341002;1002;276000312341002;2023-07-24;40.12
 276000312341003;1003;276000312341003;2023-07-24;39.97
 …
 ```
 
-The following table lists and describes each column of the export file containing the body temperature values:
+De volgende tabel geeft een lijst en beschrijving van elke kolom in het exportbestand met de lichaamstemperatuurwaarden:
 
-|Column| Name of column     | Description                          | Comments                                         |
-|:-:|-----------------------|--------------------------------------|--------------------------------------------------|
-| 1 | `National-ID-Animal`  | 15-digit number of measured animal   | according to [ISO1174/85][], maybe not recorded  |
-| 2 | `Farm-ID-Animal`      | Management number of measured animal | 2- to 6 digits, often equal to collar number     |
-| 3 | `Date`                | Date of temperature measurement      | Format: `YYYY-MM-TT` (`Year-Month-Day`)          |
-| 4 | `Time`                | Uhrzeit der Temperaturmessung        | Format: `hh-mm-ss` (`hour:minute:second`)        |
-| 5 | `Temperature-Celsius` | Measured temperature value           | Unit: `Grad Celsius`                             |
+|Kolom| Naam van kolom       | Beschrijving                            | Opmerkingen                                       |
+|:-:|-----------------------|-----------------------------------------|---------------------------------------------------|
+| 1 | `National-ID-Animal`  | 15-cijferig nummer van gemeten dier     | volgens [ISO1174/85][], mogelijk niet geregistreerd |
+| 2 | `Farm-ID-Animal`      | Beheernummer van gemeten dier           | 2 tot 6 cijfers, vaak gelijk aan halsbandnummer   |
+| 3 | `Datum`               | Datum van temperatuurmeting             | Formaat: `JJJJ-MM-DD` (`Jaar-Maand-Dag`)          |
+| 4 | `Tijd`                | Tijd van temperatuurmeting              | Formaat: `uu-mm-ss` (`uur:minuut:seconde`)        |
+| 5 | `Temperatuur-Celsius` | Gemeten temperatuurwaarde               | Eenheid: `Grad Celsius`                           |
 
-If needed, you can also download the provided sample file [temperatures.csv][]. The figure below shows this data file opened in a spreadsheet program.
+Indien nodig, kunt u ook het voorbeeldbestand [temperatures.csv][] downloaden. De afbeelding hieronder toont dit gegevensbestand geopend in een spreadsheetprogramma.
 
-![Export file with body temperature values, opened in spreadsheet program](../images/temperatures.png "Table temperature values")
+![Exportbestand met lichaamstemperatuurwaarden, geopend in spreadsheetprogramma](../images/temperatures.png "Tabel temperatuurwaarden")
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Weight data (`weights.csv`)
+### Gewichtsgegevens (`weights.csv`)
 
-- **File name** `weights.csv`
-- **Description** Weight values obtained by weighing animals
-- **Number of columns** 5
+- **Bestandsnaam** `weights.csv`
+- **Beschrijving** Gewichtswaarden verkregen door het wegen van dieren
+- **Aantal kolommen** 5
 
-Each line of the weight table represents one weighing of an animal using the VitalControl device for recording the weight value. An exemplary weight table thus has the following appearance:
+Elke regel van de gewichtstabel vertegenwoordigt één weging van een dier met behulp van het VitalControl-apparaat voor het registreren van de gewichtswaarde. Een voorbeeldige gewichtstabel ziet er dus als volgt uit:
 
 ```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
+National-ID-Animal;Farm-ID-Animal;Datum;Tijd;Gewicht-Kg
 276000312341001;1001;276000312341001;2023-07-24;67.8
 276000312341002;1002;276000312341002;2023-07-24;F;40.4
 276000312341003;1003;276000312341003;2023-07-24;F;104.2
 …
 ```
 
-The following table lists and describes the individual columns of the table containing the animal weights:
+De volgende tabel geeft een lijst en beschrijving van de individuele kolommen van de tabel met de gewichten van dieren:
 
-|Column| Name of column     | Description                         | Comments                                        |
-|:-:|-----------------------|-------------------------------------|-------------------------------------------------|
-| 1 | `National-ID-Animal`  | 15-digit number of weighed animal   | according to [ISO1174/85][], maybe not recorded |
-| 2 | `Farm-ID-Animal`      | Management number of weighed animal | 2- to 6 digits, often equal to collar number    |
-| 3 | `Date`                | Date of weighing                    | Format: `YYYY-MM-TT` (`Year-Month-Day`)         |
-| 4 | `Time`                | Time of weighing                    | Format: `hh-mm-ss` (`hour:minute:second`)       |
-| 5 | `Weight-Kg`           | Weight value                        | Unit: `Kilogram`                                |
+|Kolom| Naam van kolom       | Beschrijving                           | Opmerkingen                                      |
+|:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
+| 1 | `National-ID-Animal`  | 15-cijferig nummer van gewogen dier     | volgens [ISO1174/85][], mogelijk niet geregistreerd |
+| 2 | `Farm-ID-Animal`      | Beheernummer van gewogen dier           | 2 tot 6 cijfers, vaak gelijk aan halsbandnummer    |
+| 3 | `Datum`               | Datum van wegen                         | Formaat: `YYYY-MM-DD` (`Jaar-Maand-Dag`)         |
+| 4 | `Tijd`                | Tijd van wegen                          | Formaat: `hh-mm-ss` (`uur:minuut:seconde`)       |
+| 5 | `Gewicht-Kg`          | Gewichtswaarde                          | Eenheid: `Kilogram`                              |
 
-If needed, you can also download the provided sample file [weights.csv][]. The figure below shows this export file opened in a spreadsheet program.
+Indien nodig, kunt u ook het voorbeeldbestand [weights.csv][] downloaden. De afbeelding hieronder toont dit exportbestand geopend in een spreadsheetprogramma.
 
-![Export file with animal weight values, opened in spreadsheet program](../images/weights.png "Table weight values")
+![Exportbestand met gewichtswaarden van dieren, geopend in spreadsheetprogramma](../images/weights.png "Tabel gewichtswaarden")
 
 [weights.csv]: /data-export/weights.csv
 
-### Animal ratings (`ratings.csv`)
+### Dierbeoordelingen (`ratings.csv`)
 
-- **File name** `ratings.csv`
-- **Description** Animal ratings obtained by visually inspecting the animals
-- **Number of columns** 8
+- **Bestandsnaam** `ratings.csv`
+- **Beschrijving** Dierbeoordelingen verkregen door visuele inspectie van de dieren
+- **Aantal kolommen** 8
 
-Each row of the animal ratings table represents the visual rating of an an animal evaluation performed with VitalControl. An exemplary table with animal rating has the following appearance:
+Elke rij van de tabel met dierbeoordelingen vertegenwoordigt de visuele beoordeling van een dierenevaluatie uitgevoerd met VitalControl. Een voorbeeldtabel met dierbeoordeling ziet er als volgt uit:
 
 ```csv
 National-ID-Animal;Farm-ID-Animal;Date;Time;ScoreCondition;ScoreFeedIntake;ScoreScours;ScoreRespiratory
@@ -152,21 +152,21 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;ScoreCondition;ScoreFeedIntake;Score
 …
 ```
 
-The following table lists and describes each column of the animal ratings table:
+De volgende tabel geeft een lijst en beschrijving van elke kolom van de tabel met dierbeoordelingen:
 
-|Column| Name of column     | Description                             | Comments                                        |
+|Kolom| Naam van de kolom     | Beschrijving                             | Opmerkingen                                        |
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
-| 1 | `National-ID-Animal`  | 15-digit number of rated animal         | according to [ISO1174/85][], maybe not recorded |
-| 2 | `Farm-ID-Animal`      | Management number of rated animal       | 2- to 6 digits, often equal to collar number    |
-| 3 | `Date`                | Date of rating                          | Format: `YYYY-MM-TT` (`Year-Month-Day`)         |
-| 4 | `Time`                | Time of rating                          | Format: `hh-mm-ss` (`hour:minute:second`)       |
-| 5 | `ScoreCondition`      | Rating of general condition             | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
-| 6 | `ScoreFeedIntake`     | Rating of feed intake                   | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
-| 7 | `ScoreScours`         | Rating of status concerning `Scours`    | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
-| 8 | `ScoreRespiratory`    | Rating of status `Respiratory diseases` | _Ratings:_ `Red`, `Yellow`, `Green`, `None`     |
+| 1 | `National-ID-Animal`  | 15-cijferig nummer van beoordeeld dier  | volgens [ISO1174/85][], mogelijk niet geregistreerd |
+| 2 | `Farm-ID-Animal`      | Beheernummer van beoordeeld dier        | 2 tot 6 cijfers, vaak gelijk aan halsbandnummer    |
+| 3 | `Datum`               | Datum van beoordeling                   | Formaat: `YYYY-MM-TT` (`Jaar-Maand-Dag`)         |
+| 4 | `Tijd`                | Tijd van beoordeling                    | Formaat: `hh-mm-ss` (`uur:minuut:seconde`)       |
+| 5 | `ScoreCondition`      | Beoordeling van algemene conditie       | _Beoordelingen:_ `Rood`, `Geel`, `Groen`, `Geen`     |
+| 6 | `ScoreFeedIntake`     | Beoordeling van voeropname              | _Beoordelingen:_ `Rood`, `Geel`, `Groen`, `Geen`     |
+| 7 | `ScoreScours`         | Beoordeling van status betreffende `Scours` | _Beoordelingen:_ `Rood`, `Geel`, `Groen`, `Geen`     |
+| 8 | `ScoreRespiratory`    | Beoordeling van status `Ademhalingsziekten` | _Beoordelingen:_ `Rood`, `Geel`, `Groen`, `Geen`     |
 
-If necessary, you can also download the provided sample file [ratings.csv][]. The figure below shows this file opened in a spreadsheet program.
+Indien nodig, kunt u ook het verstrekte voorbeeldbestand [ratings.csv][] downloaden. De onderstaande afbeelding toont dit bestand geopend in een spreadsheetprogramma.
 
-![Export file with animal ratings, opened in spreadsheet program](../images/ratings.png "Table animal ratings")
+![Exportbestand met dierbeoordelingen, geopend in spreadsheetprogramma](../images/ratings.png "Tabel dierbeoordelingen")
 
 [ratings.csv]: /data-export/ratings.csv

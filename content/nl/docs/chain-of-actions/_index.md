@@ -1,54 +1,54 @@
 ---
-title: "Chain of actions: setup and usage"
+title: "Keten van acties: opzet en gebruik"
 linkTitle: "Opeenvolgende acties"
 weight: 15
 date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: chain-of-actions
 description: >
- Perform multiple animal actions subsequently
-categories: [Chain of actions]
-tags: [Chain of actions, Actions]
+ Voer meerdere dierenacties achtereenvolgens uit
+categories: [Keten van acties]
+tags: [Keten van acties, Acties]
 translationKey: action-chain
 ---
-## Chain of actions
+## Keten van acties
 
-The action chain allows you to automatically carry out several actions for an animal one after the other. For example, you can select the actions `Temperatuur` and `Beoordeling`. If you then carry out the chain of actions, you can take your animal's temperature first and record the rating immediately afterwards.
+De actieketen stelt je in staat om automatisch meerdere acties voor een dier na elkaar uit te voeren. Je kunt bijvoorbeeld de acties `Temperatuur` en `Beoordeling` selecteren. Als je vervolgens de actieketen uitvoert, kun je eerst de temperatuur van je dier opnemen en direct daarna de beoordeling registreren.
 
-### Use chain of actions
+### Gebruik keten van acties
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Opeenvolgende acties` and press the `OK` button.
+1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Keten van acties" />&nbsp; `Opeenvolgende acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or confirm with `OK` and use the arrow keys △ ▽ ◁ ▷ to enter the desired animal ID.
+2. Scan een dier met de transponder of bevestig met `OK` en gebruik de pijltoetsen △ ▽ ◁ ▷ om de gewenste dier-ID in te voeren.
 
-3. The chain of actions is now executed. As soon as all actions in the action chain have been carried out, the next animal can be selected directly.
+3. De keten van acties wordt nu uitgevoerd. Zodra alle acties in de actieketen zijn uitgevoerd, kan direct het volgende dier worden geselecteerd.
 
 {{< tabpane >}}
-{{< tab header="Use chain of actions:" text=true disabled=true />}}
+{{< tab header="Gebruik keten van acties:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu chain of actions](images/chainofactions-scan.png "Chain of actions")
+ ![VitalControl: Menu keten van acties](images/chainofactions-scan.png "Keten van acties")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu chain of actions](images/chainofactions.png "Chain of actions")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu keten van acties](images/chainofactions.png "Keten van acties")
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Set chain of actions
+### Stel keten van acties in
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Opeenvolgende acties` and press the `OK` button.
+1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Keten van acties" />&nbsp; `Opeenvolgende acties` en druk op de `OK` knop.
 
-2. Use the button `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`Instellingen`).
+2. Gebruik de knop `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`Instellingen`).
 
-3. An overlay screen pops up. Use the arrow keys △ ▽ to choose between the listed actions 1 - 4 (you can perform up to four actions in a row). Use the arrow keys ◁ ▷ to select the desired action for the respective action. Save the settings with the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+3. Er verschijnt een overlay-scherm. Gebruik de pijltoetsen △ ▽ om te kiezen tussen de vermelde acties 1 - 4 (je kunt tot vier acties achter elkaar uitvoeren). Gebruik de pijltoetsen ◁ ▷ om de gewenste actie voor de betreffende actie te selecteren. Sla de instellingen op met de `F1` toets &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.
 
-4. If you want to reset the entire action chain, select the option `Reset acties` in the submenu using the arrow keys △ ▽ and confirm with `OK`.
+4. Als u de gehele actieketen wilt resetten, selecteer dan de optie `Reset acties` in het submenu met behulp van de pijltoetsen △ ▽ en bevestig met `OK`.
 
     ![VitalControl: Menu chain of actions](images/setchainofactions.png "Set chain of actions")
 
 {{% alert title="Hint" %}}
-Within the individual actions you have the same setting options as described in the chapter [Actions](../acties) for each individual action.
+Binnen de individuele acties heb je dezelfde instelmogelijkheden als beschreven in het hoofdstuk [Acties](../acties) voor elke afzonderlijke actie.
 {{% /alert %}}
 
 {{% alert title="Hint" %}}
-The symbols in the start screen of the action chain show which actions you have set and in which order.
+De symbolen op het startscherm van de actieketen tonen welke acties je hebt ingesteld en in welke volgorde.
 {{% /alert %}}

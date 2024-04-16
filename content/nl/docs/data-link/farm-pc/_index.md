@@ -1,44 +1,44 @@
 ---
-title: Export of animal and measurement data to the farm management PC
-linkTitle: Data export (PC)
+title: Export van dier- en meetgegevens naar de PC van het boerderijbeheer
+linkTitle: Gegevensexport (PC)
 date: 2023-07-19
 weight: 15
 description: >
- Export animal data and measurement values from VitalControl device into several CVS files
+ Exporteer diergegevens en meetwaarden vanuit het VitalControl-apparaat naar verschillende CVS-bestanden
 categories: [Data export]
 ---
-Proceed as follows to export data from VitalControl to a mass storage device of your PC:
+Ga als volgt te werk om gegevens van VitalControl naar een opslagapparaat van uw PC te exporteren:
 
-### Connect VitalControl to PC
+### Verbind VitalControl met PC
 
-1. Connect the VitalControl device to your computer or laptop via the supplied USB cable.
+1. Verbind het VitalControl-apparaat met uw computer of laptop via de meegeleverde USB-kabel.
 
-   ![Connect VitalControl to PC or laptop](/images/synchronisation/connect-to-pc.svg "Connect VitalControl to PC")
+   ![Verbind VitalControl met PC of laptop](/images/synchronisation/connect-to-pc.svg "Verbind VitalControl met PC")
 
-1. Make sure your VitalControl device is turned on.
+1. Zorg ervoor dat uw VitalControl-apparaat is ingeschakeld.
 
-### Perform data export
+### Voer gegevensexport uit
 
-1. Press the Windows key to open the Start menu
+1. Druk op de Windows-toets om het Startmenu te openen
 
-1. *Windows 11 only*: Click the `All Apps` button
+1. *Alleen Windows 11*: Klik op de knop `Alle apps`
 
-1. In the list of your installed applications, scroll down to the letter `U`. There you should find a menu entry `Urban VitalControl`. If necessary, expand this entry so that all submenu entries are displayed.
+1. Scroll in de lijst van uw geïnstalleerde applicaties naar de letter `U`. Daar zou u een menu-item `Urban VitalControl` moeten vinden. Indien nodig, vouw dit item uit zodat alle submenu-items worden weergegeven.
 
-   {{% alert title="Attention" %}}
-If you cannot find the entry `Urban VitalControl` in your applications list, you may have to [install](../vcsynchronizer/installation/) the software `VCSynchronizer` on your PC first.
+   {{% alert title="Let op" %}}
+Als u het item `Urban VitalControl` niet kunt vinden in uw applicatielijst, moet u mogelijk eerst de software `VCSynchronizer` op uw PC [installeren](../vcsynchronizer/installation/).
    {{% /alert %}}
 
-1. Click on the menu item `Data export (CVS)`.
+1. Klik op het menu-item `Gegevensexport (CVS)`.
 
-   ![Windows Start menu, menu entry for Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows start menu, VitalControl")
+   ![Windows Startmenu, menu-item voor Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows startmenu, VitalControl")
 
-1. The export process is started. Once data export is finished, an Explorer window opens which displays the local data directory with the four newly created [export files](../../data-export/export-files/).
+1. Het exportproces wordt gestart. Zodra de gegevensexport is voltooid, opent een Verkenner-venster dat de lokale gegevensdirectory toont met de vier nieuw aangemaakte [exportbestanden](../../data-export/export-files/).
 
-   ![Local data directory with export files](../../data-export/images/export-files.png "Export files, locally stored")
+   ![Lokale gegevensdirectory met exportbestanden](../../data-export/images/export-files.png "Exportbestanden, lokaal opgeslagen")
 
-   {{% alert title="Note" %}}
-  You can open each of these four [export files](../../data-export/export-files/) in a spreadsheet program of your choice (such as [Microsoft Excel](https://products.office.com/excel) or [OpenOffice Calc](https://www.openoffice.org/)) and perform advanced analysis of the data there. As an example, the view of the table `animals.csv` in a spreadsheet program is shown below:
+   {{% alert title="Opmerking" %}}
+  U kunt elk van deze vier [exportbestanden](../../data-export/export-files/) openen in een spreadsheetprogramma naar keuze (zoals [Microsoft Excel](https://products.office.com/excel) of [OpenOffice Calc](https://www.openoffice.org/)) en daar geavanceerde data-analyses uitvoeren. Als voorbeeld wordt hieronder de weergave van de tabel `animals.csv` in een spreadsheetprogramma getoond:
 
-  ![Exported animal data table opened in a spreadsheet software](../../data-export/images/animals.png "Spreadsheet software with animal data")
-   {{% /alert %}}
+![Geëxporteerde dierendata tabel geopend in spreadsheetsoftware](../../data-export/images/animals.png "Spreadsheetsoftware met dierendata")
+{{% /alert %}}

@@ -4,37 +4,37 @@ linkTitle: Alarm
 slug: alarm
 weight: 60
 description: >
- Add and remove animals from the alarm list.
+ Dieren toevoegen en verwijderen van de alarmlijst.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Alarm]
+categories: [Acties]
+tags: [Acties, Alarm]
 translationKey: actions/alarm
 ---
 
-## Alert
+## Alarm
 
-With the action `Alarm` you put animals on the alarm list or remove them from it. The alarm list helps you to find conspicuous animals more quickly and easily, making your daily routine checks easier. To apply the `Alarm` action, proceed as follows:
+Met de actie `Alarm` plaats je dieren op de alarmlijst of verwijder je ze ervan. De alarmlijst helpt je om opvallende dieren sneller en gemakkelijker te vinden, waardoor je dagelijkse routinecontroles eenvoudiger worden. Om de `Alarm` actie toe te passen, ga je als volgt te werk:
 
-1. In the main screen of your VitalControl device, select the menu item `Acties` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  and press the `OK` button.
+1. Selecteer in het hoofdscherm van je VitalControl-apparaat het menu-item `Acties` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Add alarm" /> `Alarm` action and confirm with `OK`.
+3. Er opent een submenu met de dieracties. Gebruik de pijltoetsen ◁ ▷ △ ▽ om de &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Alarm toevoegen" /> `Alarm` actie te selecteren en bevestig met `OK`.
 
-4. A notification appears that the animal was successfully added to the alarm list and the display for the animal in the header changes. The symbol &nbsp;<img src="/icons/header/animal-in-alarm.svg" width="32" align="bottom" alt="Animal in alarm" /> indicates that this animal is on the alarm list.
+4. Er verschijnt een melding dat het dier succesvol aan de alarmlijst is toegevoegd en de weergave voor het dier in de kop verandert. Het symbool &nbsp;<img src="/icons/header/animal-in-alarm.svg" width="32" align="bottom" alt="Dier in alarm" /> geeft aan dat dit dier op de alarmlijst staat.
 
-5. You can remove the animal from the alarm list again by applying the &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Remove alarm" /> `Alarm` action again. Whether you add or remove the animal from the alarm list by using the `Alarm` action is indicated with a small + or - sign.
+5. Je kunt het dier weer van de alarmlijst verwijderen door de &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Alarm verwijderen" /> `Alarm` actie opnieuw toe te passen. Of je het dier toevoegt of verwijdert van de alarmlijst met de `Alarm` actie wordt aangegeven met een klein + of - teken.
 
 {{< tabpane >}}
 {{< tab header="Alert:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Alarm](../images/alarm-scan.png "Alarm")
+ ![VitalControl: Menu Acties Alarm](../images/alarm-scan.png "Alarm")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Alarm](../images/alarm.png "Alarm")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Acties Alarm](../images/alarm.png "Alarm")
 {{% /tab %}}
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}

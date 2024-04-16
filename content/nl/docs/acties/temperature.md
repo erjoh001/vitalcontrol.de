@@ -1,96 +1,96 @@
 ---
-title: Measure temperature
+title: Temperatuur meten
 linkTitle: Temperatuur
 slug: measure-temperature
 weight: 10
 description: >
-  Measure fever in your animals.
+  Meet koorts bij uw dieren.
 date: 2023-07-26
 Categories: [Actions]
 tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 
-## Measure fever
+## Koorts meten
 
-Use the temperature action to measure the temperature of your animals. Insert the measuring tip rectally to the specified measuring depth (for large animals the entire length up to the bulge, for small ruminants approx. 6 cm or 2/3 of the measuring tip). The measuring process runs automatically. As soon as the measurement process is complete, the device displays the measured temperature. The color coding indicates whether the temperature is in the green, yellow or red range. You have a number of options during the Take a temperature campaign:
+Gebruik de temperatuuractie om de temperatuur van uw dieren te meten. Breng de meettip rectaal in tot de gespecificeerde meetdiepte (voor grote dieren de volledige lengte tot aan de verdikking, voor kleine herkauwers ongeveer 6 cm of 2/3 van de meettip). Het meetproces verloopt automatisch. Zodra het meetproces is voltooid, toont het apparaat de gemeten temperatuur. De kleurcodering geeft aan of de temperatuur zich in het groene, gele of rode bereik bevindt. U heeft een aantal opties tijdens de campagne Temperatuur meten:
 
-- [Save the result](#save-result) to document the measurement animal-specifically
-- Put the animal on the [Watch List](#toevoegen-aan-watchlist). This makes it easier for you to check the repetitions, as you can call up these animals using the 'observation list' and thus find the conspicuous animals more easily.
-- Turn the [Measurement Site Illumination](#lighting-of-the-measurement-location-on-and-off) on and off
-- [Herhaal metingt](#herhaal-meting)
-- The [Cancel Action](#cancel-the-action)
+- [Sla het resultaat op](#save-result) om de meting dierspecifiek te documenteren
+- Plaats het dier op de [Kijklijst](#toevoegen-aan-watchlist). Dit maakt het gemakkelijker voor u om de herhalingen te controleren, aangezien u deze dieren kunt oproepen met behulp van de 'observatielijst' en zo de opvallende dieren gemakkelijker kunt vinden.
+- Zet de [Verlichting van de Meetlocatie](#lighting-of-the-measurement-location-on-and-off) aan en uit
+- [Herhaal meting](#herhaal-meting)
+- De [Actie annuleren](#cancel-the-action)
 
 {{% alert title="Hint" %}}
-If the temperature is in the yellow area ("elevated") or red area ("fever"), VitalControl automatically puts the selected animal on the alarm list. By correlating with other data, you can continuously monitor the health of the individual animal.
+Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is, plaatst VitalControl automatisch het geselecteerde dier op de alarmlijst. Door correlatie met andere gegevens kunt u de gezondheid van het individuele dier continu monitoren.
 {{% /alert %}}
 
-### Preliminary steps
+### Voorbereidende stappen
 
-1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. The action <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" /> `Temperatuur` is automatically selected. Confirm with `OK`.
+3. Er opent een submenu met de dieracties. De actie <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" /> `Temperatuur` is automatisch geselecteerd. Bevestig met `OK`.
 
-4. Now carry out the measurement. As soon as the measurement is completed, the temperature is highlighted in blue, green, yellow or red, depending on the threshold set.
+4. Voer nu de meting uit. Zodra de meting is voltooid, wordt de temperatuur gemarkeerd in blauw, groen, geel of rood, afhankelijk van de ingestelde drempel.
 
 {{< tabpane >}}
-{{< tab header="Preliminary steps:" text=true disabled=true />}}
+{{< tab header="Voorbereidende stappen:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
- ![VitalControl: Menu Actions Preliminary steps](../images/firststeps-scan.png "Preliminary steps")
+ ![VitalControl: Menu Acties Voorbereidende stappen](../images/firststeps-scan.png "Voorbereidende stappen")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
- ![VitalControl: Menu Actions Preliminary steps](../images/firststeps.png "Preliminary steps")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+ ![VitalControl: Menu Acties Voorbereidende stappen](../images/firststeps.png "Voorbereidende stappen")
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Save result
+### Resultaat opslaan
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or confirm with `OK` to save the result.
+2. Gebruik de `F3` toets <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Opslaan" /> of bevestig met `OK` om het resultaat op te slaan.
 
-    ![VitalControl: Menu Actions Save results](../images/saveresults.png "Save results")
+    ![VitalControl: Menu Acties Resultaat opslaan](../images/saveresults.png "Resultaat opslaan")
 
 ### Toevoegen aan Watchlist
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
+2. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A popup menu opens in which you can select from the menu items `herhaal meting`, `Toevoegen aan Watchlist` or `Lamp`. Use the arrow keys △ ▽ to select `Toevoegen aan Watchlist` and press the central `OK` key or the `F3` key `OK`.
+3. Er opent een popupmenu waarin je kunt kiezen uit de menu-items `herhaal meting`, `Toevoegen aan Watchlist` of `Lamp`. Gebruik de pijltoetsen △ ▽ om `Toevoegen aan Watchlist` te selecteren en druk op de centrale `OK` toets of de `F3` toets `OK`.
 
-    ![VitalControl: Menu Actions Toevoegen aan Watchlist](../images/watchlist.png "Toevoegen aan Watchlist")
+    ![VitalControl: Menu Acties Toevoegen aan Watchlist](../images/watchlist.png "Toevoegen aan Watchlist")
 
-### Lighting of the measurement location on and off
+### Verlichting van de meetlocatie aan en uit
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
+2. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A popup menu opens in which you can select from the menu items `herhaal meting`, `Toevoegen aan Watchlist` or `Lamp`. Use the arrow keys △ ▽ to select `Lamp` and press the central `OK` key or the `F3` key `OK`.
+3. Er opent een popupmenu waarin je kunt kiezen uit de menu-items `herhaal meting`, `Toevoegen aan Watchlist` of `Lamp`. Gebruik de pijltoetsen △ ▽ om `Lamp` te selecteren en druk op de centrale `OK` toets of de `F3` toets `OK`.
 
-    ![VitalControl: Menu Actions Lamp on off](../images/light.png "Lamp on off")
+    ![VitalControl: Menu Acties Lamp aan uit](../images/light.png "Lamp aan uit")
 
 ### Herhaal meting
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
+2. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A popup menu opens in which you can select from the menu items `herhaal meting`, `Toevoegen aan Watchlist` or `Lamp`. Use the arrow keys △ ▽ to select `herhaal meting` and press the central `OK` key or the `F3` key `OK`.
+3. Er opent een pop-upmenu waarin je kunt kiezen uit de menu-items `herhaal meting`, `Toevoegen aan Watchlist` of `Lamp`. Gebruik de pijltoetsen △ ▽ om `herhaal meting` te selecteren en druk op de centrale `OK` toets of de `F3` toets `OK`.
 
     ![VitalControl: Menu Actions herhaal meting](../images/repeat.png "herhaal meting")
 
-### Cancel the action
+### Annuleer de actie
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Press the `F1` <img src="/icons/footer/cancel.svg" width="25" align="bottom" alt="Cancel" /> key to cancel the action.
+2. Druk op de `F1` <img src="/icons/footer/cancel.svg" width="25" align="bottom" alt="Cancel" /> toets om de actie te annuleren.
 
-    ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
+    ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Annuleer de actie")
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](/nl/docs/acties/settings/#menuonderdelen) menu. Alternatively, resetting all actions will bring that action back up.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/settings/#menuonderdelen) menu. Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
 {{% /alert %}}

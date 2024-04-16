@@ -1,13 +1,13 @@
 ---
-title: Apply the chain of action
+title: Pas de actieketen toe
 linkTitle: Opeenvolgende acties
 slug: opeenvolgende-acties
 weight: 50
 description: >
- Applying and setting the chain of action.
+ Het toepassen en instellen van de actieketen.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, chain of action]
+categories: [Acties]
+tags: [Acties, actieketen]
 manualLink: /nl/docs/chain-of-actions/
 ---
 <script>

@@ -1,24 +1,24 @@
 ---
-title: Turn flashlight on or off
+title: Zaklamp aan- of uitzetten
 linkTitle: Licht aan
 date: 2023-07-28T13:25:28+02:00
 weight: 50
 slug: flashlight
 description: >
-  Turn the light on your VitalControl device on or off
+  Zet het licht op uw VitalControl-apparaat aan of uit
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+categories: [Apparaat]
+tags: [Apparaat]
 translationKey: device/flashlight
 ---
-## Activate and deactivate light
+## Licht activeren en deactiveren
 
-Here you can activate or deactivate the light on your VitalControl device. If you activate the light, it lights up permanently.
+Hier kunt u het licht op uw VitalControl-apparaat activeren of deactiveren. Als u het licht activeert, blijft het continu branden.
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Apparaat` and press the `OK` button.
+1. Op het hoofdscherm van uw VitalControl-apparaat, selecteer het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" /> `Apparaat` en druk op de `OK` knop.
 
-2. A submenu opens with several menu items. Select `Lamp` and confirm with `OK` or use the `F3` (On) key.
+2. Er opent een submenu met verschillende menu-items. Selecteer `Lamp` en bevestig met `OK` of gebruik de `F3` (Aan) toets.
 
-3. The light is now activated. This setting is symbolized by a yellow circle. Confirm again with `OK` or use the `F3` (Off) key to deactivate the light.
+3. Het licht is nu geactiveerd. Deze instelling wordt gesymboliseerd door een gele cirkel. Bevestig opnieuw met `OK` of gebruik de `F3` (Uit) toets om het licht te deactiveren.
 
-   ![VitalControl: Menu Device light](../images/light.png "Activate and deactivate light")
+   ![VitalControl: Menu Apparaat licht](../images/light.png "Licht activeren en deactiveren")

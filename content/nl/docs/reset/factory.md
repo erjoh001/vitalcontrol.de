@@ -1,21 +1,21 @@
 ---
-title: "Reset VitalControl device to factory settings"
-linkTitle: "Factory reset"
+title: "VitalControl-apparaat terugzetten naar fabrieksinstellingen"
+linkTitle: "Fabrieksreset"
 date: 2017-01-03
 description: >
-  Restoring default values on your VitalControl device by performing a factory reset.
+  Standaardwaarden herstellen op uw VitalControl-apparaat door een fabrieksreset uit te voeren.
 categories: [Reset]
 ---
-## Performing a factory reset
+## Een fabrieksreset uitvoeren
 
-1. Open the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Apparaat` in the main screen of your VitalControl device.
+1. Open het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
-1. Invoke the submenu `Data management`, navigate to the menu entry `Factory reset`. Leave the suggested option `Reset fabrieksinstellingen` unchanged.
+2. Roep het submenu `Data management` op, navigeer naar het menu-item `Reset fabrieksinstellingen`. Laat de voorgestelde optie `Alleen dierdata` ongewijzigd.
 
-1. Press the `OK` button to trigger the factory reset. Now a pop-up with a security question appears. Confirm with `Ja` here.
+3. Druk op de `OK` knop om de fabrieksreset te starten. Nu verschijnt er een pop-up met een beveiligingsvraag. Bevestig hier met `Ja`.
 
-1. Settings are reset to factory defaults now. A start-up menu appears, enter your language, date and time there.
+4. Instellingen zijn nu teruggezet naar de fabrieksinstellingen. Er verschijnt een opstartmenu, voer hier uw taal, datum en tijd in.
 
-   ![VitalControl: Menu path Reset to factory default settings](../images/resetdevice.png "Reset fabrieksinstellingen")
+   ![VitalControl: Menupad Reset naar fabrieksinstellingen](../images/resetdevice.png "Reset fabrieksinstellingen")
 
-6. Your VitalControl device is successfully reset to factory settings now.
+5. Uw VitalControl-apparaat is nu succesvol teruggezet naar de fabrieksinstellingen.

@@ -1,11 +1,11 @@
 ---
-title: "VCSynchronizer: base software for data synchronisation"
-linkTitle: Base software
+title: "VCSynchronizer: basessoftware voor gegevenssynchronisatie"
+linkTitle: Basessoftware
 date: 2023-07-19
 description: >
-  Application to synchronize data between VitalControl and third-party applications.
+  Applicatie om gegevens te synchroniseren tussen VitalControl en applicaties van derden.
 weight: 10
 ---
-#### VCSynchronizer version 0.9.10
+#### VCSynchronizer versie 0.9.10
 
 <a href="/download/SetupVitalControlSynchronizer.exe" role="button" class="btn btn-primary btn-lg">Download VCSynchronizer</a>

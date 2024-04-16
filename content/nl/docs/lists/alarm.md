@@ -1,139 +1,139 @@
 ---
-title: "Alarm list"
-linkTitle: "Alarm list"
+title: "Alarmlijst"
+linkTitle: "Alarmlijst"
 weight: 10
 date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: alarm
 description: >
-  Check out your alarm list.
-categories: [Lists]
-tags: [Lists, alarm]
+  Bekijk uw alarmlijst.
+categories: [Lijsten]
+tags: [Lijsten, alarm]
 translationKey: lists/alarm
 ---
-## Alarm list
+## Alarmlijst
 
-On the alarm list you will find all animals that you have either manually added to the list or all animals that were in the yellow or red range when the temperature was measured. The list helps you to keep an overview of all conspicuous animals. Also, for each animal on the list, you can do the following:
+Op de alarmlijst vindt u alle dieren die u handmatig aan de lijst heeft toegevoegd of alle dieren die in het geel of rood waren toen de temperatuur werd gemeten. De lijst helpt u om een overzicht te houden van alle opvallende dieren. Ook kunt u voor elk dier op de lijst het volgende doen:
 
 - [Actiemenu](#actiemenu)
-- [Dier data](#dier-data)
+- [Diergegevens](#dier-data)
 - [Temperatuur meten](#temperatuur-meten)
 - [Dier beoordelen](#dier-beoordelen)
-- [Alarm terug zetten](#alarm-terug-zetten)
-- [Toggle watch status](#toggle-watch-status)
+- [Alarm terugzetten](#alarm-terug-zetten)
+- [Bewakingsstatus wisselen](#toggle-watch-status)
 - [Dier zoeken](#dier-zoeken)
-- [Filter zetten](#filter-zetten)
+- [Filter instellen](#filter-zetten)
 
-The alarm list is structured as follows:
+De alarmlijst is als volgt gestructureerd:
 
-   ![VitalControl Lists Alarm list](../images/alarmstructure.png "Structure of the alarm list")
+   ![VitalControl Lijsten Alarmlijst](../images/alarmstructure.png "Structuur van de alarmlijst")
 
-|Symbol   | Description
+|Symbool   | Beschrijving
 |-------  |----
-| ![VitalControl Icon Animal head](../images/kopf.png "Animal head") | Shows how many animals are on the list
-| ![VitalControl Icon ID](../images/ID.png "ID") | Shows whether the selected animal is a calf or a cow. The clinical thermometer shows whether the animal was in the yellow or red zone at the last measurement. The animal ID is displayed below the symbol.
-| ![VitalControl Icon Rating](../images/auge.png "Icon Rating") | The last recorded rating is shown below the symbol with the colors of the traffic light system
-| &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Body temperature" title="Body temperature" /> | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
-| &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Rating of animal" title="Rating" /> |The circle mark below the symbol shows that the animal is on the watch list
+| ![VitalControl Icoon Dierenkop](../images/kopf.png "Dierenkop") | Toont hoeveel dieren er op de lijst staan
+| ![VitalControl Icoon ID](../images/ID.png "ID") | Toont of het geselecteerde dier een kalf of een koe is. De klinische thermometer toont of het dier bij de laatste meting in de gele of rode zone was. De dier-ID wordt onder het symbool weergegeven.
+| ![VitalControl Icoon Beoordeling](../images/auge.png "Icoon Beoordeling") | De laatst opgenomen beoordeling wordt onder het symbool getoond met de kleuren van het verkeerslichtsysteem
+| &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Lichaamstemperatuur" title="Lichaamstemperatuur" /> | De laatst opgenomen koortsmeting wordt onder het symbool getoond met de kleuren van het verkeerslichtsysteem
+| &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Beoordeling van dier" title="Beoordeling" /> |Het cirkelvormige merkteken onder het symbool toont dat het dier op de bewakingslijst staat
 
-### Preliminary Steps
+### Voorbereidende stappen
 
-1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lijsten` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Selecteer het <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lijsten" /> `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
-2. A submenu opens in which various list icons are displayed. Highlight the icon <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Alarm` and confirm with `OK`.
+2. Er opent een submenu waarin verschillende lijsticonen worden weergegeven. Markeer het icoon <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Alarm` en bevestig met `OK`.
 
-3. The alarm list is now open.
+3. De alarmlijst is nu geopend.
 
-   ![VitalControl Lists Alarmlist](../images/firststeps.png "Preliminary Steps")
+   ![VitalControl Lists Alarmlist](../images/firststeps.png "Voorbereidende Stappen")
 
 ### Actiemenu
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Actiemenu` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Actiemenu` te markeren en selecteer de actie door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The `Actions` menu will open automatically. The handling of the actions can be found [here](/nl/docs/acties/).
+4. Het `Acties` menu zal automatisch openen. De afhandeling van de acties is te vinden [hier](/nl/docs/acties/).
 
-   ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
+   ![VitalControl Lists Alarmlist](../images/actionmenu.png "Actiemenu")
 
 ### Dier data
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Dier data` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Dier data` te markeren en selecteer de actie door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The animal data will now be displayed.
+4. De diergegevens worden nu weergegeven.
 
-   ![VitalControl Lists Alarmlist](../images/animaldata.png "Dier data")
+   ![VitalControl Lists Alarmlist](../images/animaldata.png "Diergegevens")
 
 ### Temperatuur meten
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Temperatuur meten` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Temperatuur meten` te markeren en selecteer de actie door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The [Temperatuur meten](/nl/docs/acties/measure-temperature/#measure-fever) function is now started automatically.
+4. De functie [Temperatuur meten](/nl/docs/acties/measure-temperature/#measure-fever) wordt nu automatisch gestart.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Temperatuur meten")
 
 ### Dier beoordelen
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Dier beoordelen` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Dier beoordelen` te markeren en selecteer de actie door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The [Dier beoordelen](/nl/docs/acties/rating/#rate-your-animals) function is now started automatically.
+4. De functie [Dier beoordelen](/nl/docs/acties/rating/#rate-your-animals) wordt nu automatisch gestart.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Dier beoordelen")
 
 ### Alarm terug zetten
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Alarm terug zetten` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Alarm terug zetten` te markeren en selecteer de actie door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The animal is now removed from the alarm list.
+4. Het dier is nu verwijderd uit de alarmlijst.
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Alarm terug zetten")
 
-### Toggle watch status
+### Toogle watch status
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle watch status` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Toogle watch status` te markeren en selecteer de actie door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. The animal is now added or removed from the watch list depending on its initial status.
+4. Het dier wordt nu toegevoegd of verwijderd uit de horlogelijst, afhankelijk van de initiële status.
 
-   ![VitalControl Lists Alarmlist](../images/watchlist.png "Toggle watch status")
+   ![VitalControl Lists Alarmlist](../images/watchlist.png "Horloge status wisselen")
 
 ### Dier zoeken
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `Dier zoeken` and invoke the search function by pressing the central `OK` key or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat verschillende opties weergeeft. Gebruik de pijltoetsen △ ▽ om de functie `Dier zoeken` te markeren en roep de zoekfunctie op door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Use the arrow keys △ ▽ ◁ ▷ to select the desired animal ID. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Gebruik de pijltoetsen △ ▽ ◁ ▷ om de gewenste dier-ID te selecteren. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-   ![VitalControl Lists Alarmlist](../images/searchanimal.png "Dier zoeken")
+![VitalControl Lists Alarmlist](../images/searchanimal.png "Dier zoeken")
 
 ### Filter zetten
 
-1. Complete the preliminary steps.
+1. Voltooi de voorbereidende stappen.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `Filter zetten` and invoke the filter function by pressing the central `OK` key or the `F3` key `OK`.
+2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat verschillende opties weergeeft. Gebruik de pijltoetsen △ ▽ om de functie `Filter zetten` te markeren en roep de filterfunctie op door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Set the desired filter. You can find how to use the filter [here](../../filter/#applying-filters).
+3. Stel het gewenste filter in. U kunt hier vinden hoe u het filter gebruikt [hier](../../filter/#applying-filters).
 
-   ![VitalControl Lists Alarmlist](../images/setfilter.png "Filter zetten")
+   ![VitalControl Lists Alarmlist](../images/setfilter.png "Filter instellen")

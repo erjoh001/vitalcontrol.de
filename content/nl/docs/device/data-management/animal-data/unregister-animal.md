@@ -5,27 +5,27 @@ date: 2023-09-14T10:01:35+02:00
 weight: 30
 draft: false
 description: >
- Deregister animals from your VitalControl.
+ Dieren afmelden van uw VitalControl.
 Kategorien: [Animaldata]
 Tags: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
-## Unregister animals
+## Dieren afmelden
 
-Deregister animals from your VitalControl that have either exceeded an age limit or have not been assigned a transponder. Proceed as follows:
+Meld dieren af van uw VitalControl die ofwel een leeftijdsgrens hebben overschreden of aan wie geen transponder is toegewezen. Ga als volgt te werk:
 
-1. On the main screen of your VitalControl device, open the menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Apparaat`.
+1. Open op het hoofdscherm van uw VitalControl-apparaat het menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat`.
 
-2. A submenu opens. Use the arrow buttons △ ▽ to navigate to the `Data management` item and confirm with `OK`.
+2. Er opent een submenu. Gebruik de pijltoetsen △ ▽ om te navigeren naar het item `Data management` en bevestig met `OK`.
 
-3. Another submenu opens. Use the arrow buttons △ ▽ to navigate to the `dier data` item and confirm with `OK`. 
+3. Er opent een ander submenu. Gebruik de pijltoetsen △ ▽ om te navigeren naar het item `Dier data` en bevestig met `OK`.
 
-4. Another submenu opens. Use the arrow buttons △ ▽ to navigate to the item `Dier afmelden: `.
+4. Er opent een ander submenu. Gebruik de pijltoetsen △ ▽ om te navigeren naar het item `Dier afmelden:`.
 
-5. Use the arrow buttons ◁ ▷ to select whether you want to deregister the animals `ouder dan 100 dagen` or `Geen transponder toegewezen`. The "aantal" item shows you how many animals will be deregistered. Confirm your selection with `OK`.
+5. Gebruik de pijltoetsen ◁ ▷ om te selecteren of u de dieren wilt afmelden `ouder dan 100 dagen` of `Geen transponder toegewezen`. Het item "aantal" toont u hoeveel dieren zullen worden afgemeld. Bevestig uw keuze met `OK`.
 
-6. Confirm the security pop-up with the `F3` button. 
+6. Bevestig de beveiligingspop-up met de `F3` knop.
 
-7. The animals were successfully deregistered.
+7. De dieren zijn succesvol afgemeld.
 
- ![VitalControl: Menu Device Data-management Animal-data](../images/unregister.png "Dier afmelden")
+ ![VitalControl: Menu Apparaat Gegevensbeheer Diergegevens](../images/unregister.png "Dier afmelden")

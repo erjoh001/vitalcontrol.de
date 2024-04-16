@@ -1,14 +1,14 @@
 ---
-title: "Importing animals from the official national animal database"
-linkTitle: "Animal import"
+title: "Dieren importeren uit de officiële nationale dierendatabase"
+linkTitle: "Dieren import"
 weight: 30
 date: 2017-01-05
 toc_hide: true
 hide_summary: true
 translationKey: import-db-nais
 description: >
- Import the animals of your herd from the national animal database of your country into VitalControl.
+ Importeer de dieren van uw kudde uit de nationale dierendatabase van uw land in VitalControl.
 ---
-{{< alert title="Attention" >}}
-[Importing animals](/docs/data-link/hi-tier/tierimport/) from the national animal database is currently available for German farmers only. With future [firmware versions]({{< relref "../../firmware/versions/" >}}) of VitalControl, we plan to make animal import function available for other countries, too.
+{{< alert title="Let op" >}}
+[Dieren importeren](/docs/data-link/hi-tier/tierimport/) uit de nationale dierendatabase is momenteel alleen beschikbaar voor Duitse boeren. Met toekomstige [firmwareversies]({{< relref "../../firmware/versions/" >}}) van VitalControl, plannen we de importfunctie van dieren ook beschikbaar te maken voor andere landen.
 {{< /alert >}}

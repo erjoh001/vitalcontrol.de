@@ -3,24 +3,24 @@ title: Bedrijf
 linkTitle: Bedrijf
 date: 2023-07-26
 weight: 80
-categories: [Settings]
-tags: [Settings, Farm number]
+categories: [Instellingen]
+tags: [Instellingen, Boerderijnummer]
 description: >
-  Permanently save your official twelve digit national farm ID on VitalControl device.
+  Sla uw officiële twaalfcijferige nationale boerderij-ID permanent op op het VitalControl-apparaat.
 translationKey: settings/farm-number
 ---
-{{< alert title="Attention" >}}
-Entering the farm number is currently of interest for German farmers only. Farmers from all other nationalities currently do **not** benefit from entering the farm ID. This may change with future [firmware versions]({{< relref "../firmware/versions/" >}}) of VitalControl.
+{{< alert title="Let op" >}}
+Het invoeren van het boerderijnummer is momenteel alleen van belang voor Duitse boeren. Boeren van alle andere nationaliteiten hebben momenteel **geen** voordeel bij het invoeren van de boerderij-ID. Dit kan veranderen met toekomstige [firmwareversies]({{< relref "../firmware/versions/" >}}) van VitalControl.
 {{< /alert >}}
 
-## Set your farm number
+## Stel uw boerderijnummer in
 
-To set the company number on your device, proceed as follows:
+Om het bedrijfsnummer op uw apparaat in te stellen, gaat u als volgt te werk:
 
-1. Open the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Instellingen` in the main screen of your VitalControl device.
+1. Open het menu-item <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` op het hoofdscherm van uw VitalControl-apparaat.
 
-2. Invoke the submenu `Bedrijfsnummer`. An input mask appears in which you can conveniently set your farm number. First, use the arrow keys to navigate to the far left of the input field and select your country. Afterwards, use the arrow keys to enter your twelve-digit farm number.
+2. Roep het submenu `Bedrijfsnummer` op. Er verschijnt een invoermasker waarin u gemakkelijk uw boerderijnummer kunt instellen. Gebruik eerst de pijltoetsen om naar het uiterste linkerdeel van het invoerveld te navigeren en selecteer uw land. Gebruik daarna de pijltoetsen om uw twaalfcijferige boerderijnummer in te voeren.
 
-   ![VitalControl: Menu path for setting your farm number](../images/farm-number.png "Setting your farm number")
+   ![VitalControl: Menupad voor het instellen van uw boerderijnummer](../images/farm-number.png "Uw boerderijnummer instellen")
 
-3. Confirm with `OK` as soon as you have entered the 12-digit number sequence correctly. Your farm number is now permanently stored on the device.
+3. Bevestig met `OK` zodra u de 12-cijferige nummerreeks correct hebt ingevoerd. Uw boerderijnummer is nu permanent opgeslagen op het apparaat.

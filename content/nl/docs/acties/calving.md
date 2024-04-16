@@ -1,22 +1,22 @@
 ---
-title: Calving
-linkTitle: Kalving
+title: Kalven
+linkTitle: Kalven
 slug: calving
 weight: 115
 description: >
- Register a calving
+  Registreer een kalving
 date: 2023-07-26
-categories: [Calving]
-tags: [Calving]
+categories: [Kalven]
+tags: [Kalven]
 translationKey: actions/calving
 ---
 {{% alert title="Hint" %}}
-This function is only displayed for cows, but not for calves or lambs.
-If you don't need this function, you can deactivate it in the [action settings](../settings/) menu.
+Deze functie wordt alleen weergegeven voor koeien, maar niet voor kalveren of lammeren.
+Als u deze functie niet nodig heeft, kunt u deze deactiveren in het menu [actie-instellingen](../settings/).
 {{% /alert %}}
 
-## Register a calving
+## Een kalving registreren
 
-As soon as you have entered the action menu, select the menu item <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `Calving` and confirm with `OK`. Proceed as described in the instructions [Registration of a calving](/nl/docs/new/calving/).
+Zodra u het actiemenu hebt betreden, selecteert u het menu-item <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Kalven"  alt="Kalven"/> `Kalven` en bevestig met `OK`. Ga verder zoals beschreven in de instructies [Registratie van een kalving](/nl/docs/new/calving/).
 
-   ![VitalControl: Menu Actions Kalving](../images/calving.png "Kalving")
+   ![VitalControl: Menu Acties Kalven](../images/calving.png "Kalven")

@@ -1,24 +1,24 @@
 ---
-title: "Temperature measurement"
-linkTitle: "Temperatuur meting"
+title: "Temperatuurmeting"
+linkTitle: "Temperatuurmeting"
 date: 2023-07-28T13:25:28+02:00
 weight: 40
 slug: temperature-measurement
 description: >
- Test your device’s temperature measurement
+ Test de temperatuurmeting van je apparaat
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+categories: [Apparaat]
+tags: [Apparaat]
 translationKey: device/temperature-measurement
 ---
-## Test temperature measurement
+## Test temperatuurmeting
 
-Here you can test the temperature measurement of your device without saving the measurement for an animal. To carry out the test, proceed as follows:
+Hier kun je de temperatuurmeting van je apparaat testen zonder de meting voor een dier op te slaan. Volg deze stappen om de test uit te voeren:
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Apparaat` and press the `OK` button.
+1. Selecteer op het hoofdscherm van je VitalControl-apparaat het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" /> `Apparaat` en druk op de `OK` knop.
 
-2. A submenu opens with several menu items. Select `Temperatuur meting` and confirm with `OK`.
+2. Er opent een submenu met verschillende menu-items. Selecteer `Temperatuur meting` en bevestig met `OK`.
 
-3. Now carry out the measurement.
+3. Voer nu de meting uit.
 
-   ![VitalControl: Menu Device Temperature measurement](../images/temperature.png "Test temperature measurement")
+   ![VitalControl: Menu Apparaat Temperatuurmeting](../images/temperature.png "Test temperatuurmeting")

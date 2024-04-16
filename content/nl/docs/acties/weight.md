@@ -1,41 +1,43 @@
 ---
-title: Record weight
-linkTitle: Weging
+title: Gewicht registreren
+linkTitle: Gewicht
 slug: record-weight
 weight: 20
 description: >
-  Record the weight of your animals.
+  Registreer het gewicht van uw dieren.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, weight]
+categories: [Acties]
+tags: [Acties, gewicht]
 translationKey: actions/weight
 ---
 
-## Record weight
-Use the &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weighing` action to save the weight of your animal individually. To do this, weigh your animals or estimate their weight and enter this value in the VitalControl device. This allows you to check the weight development of your animals and evaluate them individually.
+## Gewicht registreren
+Gebruik de &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Wegen" /> `Wegen` actie om het gewicht van uw dier individueel op te slaan. Doe dit door uw dieren te wegen of hun gewicht te schatten en voer deze waarde in op het VitalControl-apparaat. Hiermee kunt u de gewichtsontwikkeling van uw dieren controleren en individueel evalueren.
 
-{{% alert title="Hint" %}}
-If the average weight deviates very strongly in one direction (too high/too low), the value for the daily increase should be adjusted.
+{{% alert title="Tip" %}}
+Als het gemiddelde gewicht sterk afwijkt in één richting (te hoog/te laag), moet de waarde voor de dagelijkse toename worden aangepast.
 {{% /alert %}}
 
-1. In the main screen of your VitalControl device, select the menu item  &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Acties` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Scan een dier met de transponder of selecteer een dier uit de lijst. Bevestig met `OK` en selecteer een dier met de pijltoetsen △ ▽. Bevestig met `OK`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weging` and confirm with `OK`.
+3. Er opent een submenu met de dieracties. Gebruik de pijltoetsen ◁ ▷ om de actie &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Wegen" /> `Weging` te selecteren en bevestig met `OK`.
 
-4. A menu opens with a weight specification. Increase or decrease this with the arrow keys △ ▽ and save the result with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or with the `OK` key.
+4. Er opent een menu met een gewichtsspecificatie. Verhoog of verlaag dit met de pijltoetsen △ ▽ en sla het resultaat op met de `F3` toets <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Opslaan" /> of met de `OK` toets.
 
 {{< tabpane >}}
-{{< tab header="Record weight:" text=true disabled=true />}}
+{{< tab header="Gewicht registreren:" text=true disabled=true />}}
 {{% tab header="Transponder scan" text=true %}}
-  ![VitalControl: Menu Action Weighing](../images/weighing-scan.png "Weighing")
+  ![VitalControl: Menu Actie Wegen](../images/weighing-scan.png "Wegen")
 {{% /tab %}}
-{{% tab header="Manual selection from list" text=true %}}
-  ![VitalControl: Menu Action Weighing](../images/weighing.png "Weighing")
+{{% tab header="Handmatige selectie uit lijst" text=true %}}
+  ![VitalControl: Menu Actie Wegen](../images/weighing.png "Wegen")
 {{% /tab %}}
 {{< /tabpane >}}
 
-{{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](/nl/docs/acties/settings/#menuonderdelen) menu. Alternatively, resetting all actions will bring that action back up.
+{{% alert title="Tip" %}}
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/settings/#menuonderdelen) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}
+
+Please paste the Markdown content you want translated into Dutch.

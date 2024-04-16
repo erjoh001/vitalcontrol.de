@@ -6,65 +6,65 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 slug: births
 description: >
-  Here you can see your births and create an export file.
-categories: [Births]
-tags: [Births]
+  Hier kunt u uw geboortes bekijken en een exportbestand aanmaken.
+categories: [Geboortes]
+tags: [Geboortes]
 translationKey: new-on-farm/births
 ---
 ## Geboortes
 
-In this list you can view your births, edit them and create an export file to register in HI-Tier. To create an export file, proceed as follows:
+In deze lijst kunt u uw geboortes bekijken, bewerken en een exportbestand aanmaken om te registreren in HI-Tier. Volg deze stappen om een exportbestand te maken:
 
 {{% alert title="Hint" %}}
-To export data you need the included UBS stick. Connect the USB stick with the USB-C adapter to your VitalControl device before following the instructions.
+Om gegevens te exporteren heeft u de meegeleverde USB-stick nodig. Sluit de USB-stick met de USB-C adapter aan op uw VitalControl-apparaat voordat u de instructies volgt.
 {{% /alert %}}
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="New on farm" /> `Nieuw op bedrijf` and press the `OK` button.
+1. Selecteer in het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nieuw op bedrijf" /> `Nieuw op bedrijf` en druk op de `OK` knop.
 
-2. A submenu opens in which you can choose between <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="New on farm, no transponder" /> `Nieuw op bedrijf, geen transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `Gekocht dier`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="No national animal ID" /> `Geen oormerk toegewezen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Births" /> `Geboortes` and <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="No transponder assigned" /> `Geen transponder toegewezen`. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/births.svg" width="40" align="bottom" alt="Births" /> `Geboortes` and confirm with `OK`.
+2. Er opent een submenu waarin u kunt kiezen tussen <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nieuw op bedrijf, geen transponder" /> `Nieuw op bedrijf, geen transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Gekocht dier" /> `Gekocht dier`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Geen nationaal dier-ID" /> `Geen oormerk toegewezen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Geboortes" /> `Geboortes` en <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Geen transponder toegewezen" /> `Geen transponder toegewezen`. Gebruik de pijltoetsen ◁ ▷ △ ▽ om het menu-item <img src="/icons/main/births.svg" width="40" align="bottom" alt="Geboortes" /> `Geboortes` te selecteren en bevestig met `OK`.
 
-3. A list with all your births opens.
+3. Er opent een lijst met al uw geboortes.
 
-4. Use the `F3` key `CSV export geboortelijst`. A submenu opens.
+4. Gebruik de `F3` toets `CSV export geboortelijst`. Er opent een submenu.
 
-5. Use the arrow keys △ ▽ to select the menu item `Export csv lijst can geboortes` and confirm with `OK`.
+5. Gebruik de pijltoetsen △ ▽ om het menu-item `Export csv lijst van geboortes` te selecteren en bevestig met `OK`.
 
-6. The list is now saved as a CSV file on your USB stick. All animals from the `Geboortes` list are deleted.
+6. De lijst wordt nu opgeslagen als een CSV-bestand op uw USB-stick. Alle dieren uit de `Geboortes` lijst worden verwijderd.
 
-    ![VitalControl: Menu New on farm Geboortes](../images/births.png "Geboortes")
+    ![VitalControl: Menu Nieuw op bedrijf Geboortes](../images/births.png "Geboortes")
 
-## Setting options
+## Instellingen opties
 
-In addition to creating the export file, you have the following options:
+Naast het maken van het exportbestand, heeft u de volgende opties:
 
-- [Change](#change-between-lijst-and-individueel-dier-zicht) between lijst zicht and individueel dier zicht
+- [Wijzig](#wijzig-tussen-lijst-en-individueel-dier-zicht) tussen lijst zicht en individueel dier zicht
 - [Verwijder alle geboortemeldingen](../purchased-animals/#verwijder-alle-meldingen)
 - [Verwijder dier + melding](../purchased-animals/#verwijder-dier--melding)
 - [Verwijder geboortemelding](../purchased-animals/#verwijder-aankoopmelding)
-- [Edit](#edit-data-of-birth-notice) a notice
+- [Bewerk](#bewerk-gegevens-van-geboortemelding) een melding
 
 {{% alert title="Hint" %}}
-Some actions are identical to the actions in the `Purchased animals` list. Follow the links to the step-by-step instructions. Always open the `Births` list first as described in the instructions above.
+Sommige acties zijn identiek aan de acties in de lijst `Gekochte dieren`. Volg de links naar de stap-voor-stap instructies. Open altijd eerst de lijst `Geboorten` zoals beschreven in de instructies hierboven.
 {{% /alert %}}
 
-### Change between Lijst and Individueel dier zicht
+### Wijzig tussen Lijst en Individueel dier zicht
 
-1. Use the <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `On/Off` button.
+1. Gebruik de <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `Aan/Uit` knop.
 
-2. Use the arrow keys ◁ ▷ to choose between `Lijst` and `Individueel dier zicht`.
+2. Gebruik de pijltoetsen ◁ ▷ om te kiezen tussen `Lijst` en `Individueel dier zicht`.
 
-3. Save your setting with the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;. Within the list view, use the arrow keys ◁ ▷ to switch between the animals.
+3. Sla uw instelling op met de `F1` toets &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;. Binnen de lijstweergave, gebruik de pijltoetsen ◁ ▷ om tussen de dieren te schakelen.
 
-    ![VitalControl: Menu New on farm Births](../images/change.png "Change between list view and single animal view")
+    ![VitalControl: Menu Nieuw op boerderij Geboorten](../images/change.png "Wijzig tussen lijstweergave en enkel dier weergave")
 
-### Edit data of birth notice
+### Bewerk gegevens van geboortemelding
 
 {{% alert title="Hint" %}}
-Editing the animal data is only possible in the list view!
+Het bewerken van de diergegevens is alleen mogelijk in de lijstweergave!
 {{% /alert %}}
 
-1. Use the arrow keys △ ▽ to select the animal you want to edit and confirm with `OK`.
+1. Gebruik de pijltoetsen △ ▽ om het dier te selecteren dat u wilt bewerken en bevestig met `OK`.
 
-2. A submenu opens in which you can adjust various settings. For step by step instructions click [here](/nl/docs/new/calving/#register-a-kalving).
+2. Er opent een submenu waarin u verschillende instellingen kunt aanpassen. Voor stapsgewijze instructies klik [hier](/nl/docs/new/calving/#register-a-kalving).
 
-    ![VitalControl: Menu New on farm Births](../images/edit2.png "Edit a birth notice")
+    ![VitalControl: Menu Nieuw op boerderij Geboorten](../images/edit2.png "Bewerk een geboortemelding")

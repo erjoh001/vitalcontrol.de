@@ -1,33 +1,33 @@
 ---
-title: Installation
-linkTitle: Installation
+title: Installatie
+linkTitle: Installatie
 date: 2023-07-19
 weight: 10
 description: >
-  How to install VCSynchronizer software on your Windows PC
+  Hoe de VCSynchronizer software te installeren op uw Windows PC
 ---
-1. Download the [installation file](/download/SetupVitalControlSynchronizer.exe) for VC Synchronizer software.
+1. Download het [installatiebestand](/download/SetupVitalControlSynchronizer.exe) voor de VC Synchronizer software.
 
-   {{% alert title="Note" %}}
-  The downloaded installer can be used for a *new* installation as well as for an *updating* an already existing VC-Synchronizer installation to a newer version. In both cases the installation process is identical.
+   {{% alert title="Opmerking" %}}
+  Het gedownloade installatiebestand kan gebruikt worden voor een *nieuwe* installatie alsook voor het *updaten* van een reeds bestaande VC-Synchronizer installatie naar een nieuwere versie. In beide gevallen is het installatieproces identiek.
    {{% /alert %}}
 
-2. Start the installation of the program by double-clicking the downloaded file `SetupVitalControlSynchronizer.exe`.
+2. Start de installatie van het programma door dubbel te klikken op het gedownloade bestand `SetupVitalControlSynchronizer.exe`.
 
-3. *New installation only:* a language selection window opens, leave the selection `English` as is and click `OK` to start the installation.
+3. *Alleen nieuwe installatie:* een venster voor taalselectie opent, laat de selectie `Engels` zoals het is en klik op `OK` om de installatie te starten.
 
-   ![Installation VC-Synchronizer: Selection of language](../images/installation/lang-select.png "Language selection")
+   ![Installatie VC-Synchronizer: Taalselectie](../images/installation/lang-select.png "Taalselectie")
 
-4. Click `Next` on the welcome screen of the installer. Then accept the given license terms.
+4. Klik op `Volgende` op het welkomstscherm van de installateur. Accepteer vervolgens de gegeven licentievoorwaarden.
 
-   ![Installation VC-Synchronizer: Welcome screen](../images/installation/welcome.png "Welcome screen") ![Installation VC-Synchronizer: License screen](../images/installation/license.png "License screen")
+   ![Installatie VC-Synchronizer: Welkomstscherm](../images/installation/welcome.png "Welkomstscherm") ![Installatie VC-Synchronizer: Licentiescherm](../images/installation/license.png "Licentiescherm")
 
-5. In the screen for component selection, leave options unchanged and press `Next`. On the next screen, leave the suggested destination folder unchanged and press `Install`.
+5. Op het scherm voor componentselectie, laat de opties ongewijzigd en druk op `Volgende`. Op het volgende scherm, laat de voorgestelde bestemmingsmap ongewijzigd en druk op `Installeren`.
 
-   ![Installation VC-Synchronizer: Selection of components to be installed](../images/installation/components.png "Selection of components") ![Installation VC-Synchronizer: Selection of target directory](../images/installation/install-dir.png "Selection of target directory")
+   ![Installatie VC-Synchronizer: Selectie van te installeren componenten](../images/installation/components.png "Selectie van componenten") ![Installatie VC-Synchronizer: Selectie van doelmap](../images/installation/install-dir.png "Selectie van doelmap")
 
-6. Click `Next` on the screen that informs you about installation success. On the final screen, press `Complete` without selecting any of the options offered`.
+6. Klik op `Volgende` op het scherm dat u informeert over het succes van de installatie. Op het laatste scherm, druk op `Voltooien` zonder een van de aangeboden opties te selecteren`.
 
-   ![Installation VC-Synchronizer: Installation completed](../images/installation/completed.png "Installation completed") ![Installation VC-Synchronizer: Final screen](../images/installation/finish.png "Installation succeeded")
+   ![Installatie VC-Synchronizer: Installatie voltooid](../images/installation/completed.png "Installatie voltooid") ![Installatie VC-Synchronizer: Laatste scherm](../images/installation/finish.png "Installatie geslaagd")
 
-7. `VCSynchronizer` software is now installed on your computer.
+7. `VCSynchronizer` software is nu geïnstalleerd op uw computer.

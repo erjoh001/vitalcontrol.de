@@ -1,59 +1,59 @@
 ---
-title: "RFID scan: range test and diagnosis of transponders"
-linkTitle: RFID scan
+title: "RFID-scan: bereiktest en diagnose van transponders"
+linkTitle: RFID-scan
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnosis, RFID Scan]
+categories: [Diagnose, RFID-scan]
 description: >
-  Check the range of your RFID scanner or show the reading protocol and the numbers stored on unknown transponders.
+  Controleer het bereik van uw RFID-scanner of toon het leesprotocol en de nummers opgeslagen op onbekende transponders.
 translationKey: diagnosis/rfid-scan
 weight: 20
 ---
 
-Using the menu 'Range test' you can determine whether VitalControl device can read transponders you have at hand. Besides checking compatibility, you can also conveniently determine the transmission protocol used by these transponders and display the number stored on the transponder.
+Met behulp van het menu 'Bereiktest' kunt u bepalen of het VitalControl-apparaat transponders die u bij de hand heeft kan lezen. Naast het controleren van compatibiliteit, kunt u ook gemakkelijk het transmissieprotocol dat door deze transponders wordt gebruikt bepalen en het nummer dat op de transponder is opgeslagen weergeven.
 
-## Perform range test
+## Voer bereiktest uit
 
-1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Apparaat` in the main screen of your VitalControl device.
+1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
-1. Invoke the submenu `Service`, select the menu item `Range test` and confirm with `OK`. An animated scan screen is displayed now.
+1. Roep het submenu `Service` op, selecteer het menu-item `Range test` en bevestig met `OK`. Er wordt nu een geanimeerd scanscherm weergegeven.
 
-    ![VitalControl: Menu path Range test RFID scanner](../images/rangetest.png "Range test RFID scanner")
+    ![VitalControl: Menupad Bereiktest RFID-scanner](../images/rangetest.png "Bereiktest RFID-scanner")
 
-1.  Slowly approach your transponder to the reading head of the VitalControl device. To achieve a good reading result, the transponder must be aligned horizontally to the reading head of the VitalControl device.
+1.  Benader uw transponder langzaam tot de leeskop van het VitalControl-apparaat. Om een goed leesresultaat te bereiken, moet de transponder horizontaal ten opzichte van de leeskop van het VitalControl-apparaat worden uitgelijnd.
 
-    ![ VitalControl: correctly approach transponder to RFID reading head](/images/diagnosis/transponderscan.svg "Correct transponder scan")
+    ![ VitalControl: transponder correct benaderen tot RFID-leeskop](/images/diagnosis/transponderscan.svg "Correcte transponderscan")
 
-1. As soon as the RFID scanner detects the transponder, a vibration alarm is triggered and the background color of the transponder image displayed on the screen changes to green:
+1. Zodra de RFID-scanner de transponder detecteert, wordt een trilalarm geactiveerd en verandert de achtergrondkleur van het op het scherm weergegeven transponderbeeld naar groen:
 
-   ![VitalControl: Range test: Transponder detected](../images/transponder-detected.png "Transponder detected")
+   ![VitalControl: Bereiktest: Transponder gedetecteerd](../images/transponder-detected.png "Transponder gedetecteerd")
 
-1. Move the transponder back and forth several times at the border of the reading field. This way, you can determine the reading range of the RFID scanner in combination with the transponders you are using.
+1. Beweeg de transponder meerdere keren heen en weer aan de rand van het leesveld. Op deze manier kunt u het leesbereik van de RFID-scanner in combinatie met de transponders die u gebruikt bepalen.
 
-## Transponder check
+## Transpondercontrole
 
-Performing the range test described above, you can obtain information on transponders from different origin, too:
+Door de hierboven beschreven bereiktest uit te voeren, kunt u ook informatie verkrijgen over transponders van verschillende herkomst:
 
-### Official transponder ear tags
+### Officiële transponder oormerken
 
-1. If you use transponder ear tags for your animals, on which the officially assigned 15-digit ear tag number of the animal is encoded, the following information is displayed on the screen once the transponder was read:
+1. Als u transponder oormerken voor uw dieren gebruikt, waarop het officieel toegewezen 15-cijferige oormerknummer van het dier is gecodeerd, wordt de volgende informatie op het scherm weergegeven zodra de transponder is gelezen:
 
-    - 15-digit ID official assigned to your animal from your national animal identification service.
-    - Country in which the business is located
-    - Country in which the business is located (German farms only)
-    - Transmission protocol used (FDX or HDX)
+    - 15-cijferige ID officieel toegewezen aan uw dier vanuit uw nationale dienst voor dieridentificatie.
+    - Land waarin het bedrijf gevestigd is
+    - Land waarin het bedrijf gevestigd is (alleen Duitse boerderijen)
+    - Gebruikt transmissieprotocol (FDX of HDX)
     <br>
 
-    ![VitalControl: check of transponder ear tag](../images/transponder-official.png "Info official transponder ear tag")
+    ![VitalControl: controle van officiële transponder oormerk](../images/transponder-official.png "Info officiële transponder oormerk")
 
-### Transponders from third-party vendors
+### Transponders van derde partijen
 
-1. If you use transponders from third-party suppliers, such as Urban, for the electronic identification of your animals, the following information will be displayed on the screen once the transponder was read:
+1. Als u transponders van derde partij leveranciers gebruikt, zoals Urban, voor de elektronische identificatie van uw dieren, wordt de volgende informatie op het scherm weergegeven zodra de transponder is gelezen:
 
-    - ID encoded on transponder, number of digits varies depending on the manufacturer
-    - Manufacturer of the transponder (if stored on the transponder)
-    - Transmission protocol used (FDX or HDX)
+    - ID gecodeerd op transponder, aantal cijfers varieert afhankelijk van de fabrikant
+    - Fabrikant van de transponder (indien opgeslagen op de transponder)
+    - Gebruikt transmissieprotocol (FDX of HDX)
     <br>
 
-    ![VitalControl: check of transponder from manufacturer](../images/transponder-manufacturer.png "Info transponder from manufacturer")
+    ![VitalControl: controle van transponder van fabrikant](../images/transponder-manufacturer.png "Info transponder van fabrikant")
 

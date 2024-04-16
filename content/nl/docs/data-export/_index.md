@@ -1,9 +1,9 @@
 ---
-title: Export of animal data and measurement values
-linkTitle: Data export
+title: Export van dierengegevens en meetwaarden
+linkTitle: Gegevensexport
 date: 2023-07-20
 weight: 30
 description: >
-  Export animal data and measurement values on the VitalControl to CVS data files.
+  Exporteer dierengegevens en meetwaarden van de VitalControl naar CVS-gegevensbestanden.
 translationKey: data-export
 ---

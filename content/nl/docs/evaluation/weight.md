@@ -4,84 +4,84 @@ linkTitle: Gewicht
 slug: weight
 weight: 10
 description: >
- Evaluate your stored data in the Weight section.
+  Evalueer uw opgeslagen gegevens in de sectie Gewicht.
 date: 2023-07-26
-categories: [Evaluation]
-tags: [Evaluation, weight]
+categories: [Evaluatie]
+tags: [Evaluatie, gewicht]
 translationKey: evaluation/weight
 maphilight: true
 ---
 {{% alert title="Hint" %}}
-In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
+In de standaardinstelling zijn alle dieren die op de VitalControl zijn opgeslagen opgenomen in de evaluatie. Door een [filter](../../filter/) te gebruiken, kunt u de evaluatie beperken tot een subset van de dieren op uw apparaat, bijvoorbeeld alleen tot mannelijke dieren of tot dieren tot een bepaalde maximale leeftijd.
 {{% /alert %}}
 
 {{% alert title="Hint" %}}
-If you click on a menu item, you will be redirected to a description of the respective function.
+Als u op een menu-item klikt, wordt u doorgestuurd naar een beschrijving van de betreffende functie.
 {{% /alert %}}
 
-<img src="../images/imagemap.png" alt="VitalControl Evaluation" title="Weight" usemap="#workmap" class="maphilight" />
+<img src="../images/imagemap.png" alt="VitalControl Evaluatie" title="Gewicht" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Weging van vandaag" title="Evaluate the weight values of your animals recorded with the VitalControl on the current day&#10;Mouse click: to the documentation" href="/nl/docs/evaluation/weight/#wegign-van-vandaag">
-   <area shape="rect" coords="116,40,238,160" alt="Geboortegewicht" title="Evaluate your stored birth weights&#10;Mouse click: to the documentation" href="/nl/docs/evaluation/weight/#geboortegewicht">
-   <area shape="rect" coords="3,160,116,279" alt="gewichtsontwikkeling" title="Evaluate the weight development of your animals&#10;Mouse click: to the documentation" href="/nl/docs/evaluation/weight/#gewichtsontwikkeling">
+   <area shape="rect" coords="3,40,116,160" alt="Weging van vandaag" title="Evalueer de gewichtswaarden van uw dieren die vandaag met de VitalControl zijn geregistreerd&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#weging-van-vandaag">
+   <area shape="rect" coords="116,40,238,160" alt="Geboortegewicht" title="Evalueer uw opgeslagen geboortegewichten&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#geboortegewicht">
+   <area shape="rect" coords="3,160,116,279" alt="gewichtsontwikkeling" title="Evalueer de gewichtsontwikkeling van uw dieren&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#gewichtsontwikkeling">
 
-   <area shape="rect" coords="150,282,238,319" alt="Filter" title="Set a filter&#10;Mouse click: to the documentation" href="/nl/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="Back" title="Jump back one level&#10;Mouse click: to the documentation" href="/nl/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="Filter" title="Stel een filter in&#10;Muisklik: naar de documentatie" href="/nl/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Terug" title="Spring een niveau terug&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/">
 </map>
 
-## Wegign van vandaag
-In this evaluation you can see the following information related to the weighings of the last 6 hours:
-- The mean animal weight
-- The mean daily gain since birth
-- The average daily increase since the last weighing
-- The doubling of the birth weight after X days
+## Weging van vandaag
+In deze evaluatie kunt u de volgende informatie zien met betrekking tot de wegingen van de laatste 6 uur:
+- Het gemiddelde gewicht van de dieren
+- De gemiddelde dagelijkse toename sinds de geboorte
+- De gemiddelde dagelijkse toename sinds de laatste weging
+- De verdubbeling van het geboortegewicht na X dagen
 
-To perform the evaluation, proceed as follows:
+Om de evaluatie uit te voeren, ga als volgt te werk:
 
-1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluatie`. Confirm with `OK`.
+1. Markeer op het hoofdscherm van uw apparaat het pictogram &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluatie`. Bevestig met `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Gewicht`, `Temperatuur`, `Beoordeling` and `Sterfte`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Gewicht` and confirm with `OK`.
+2. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ ◁ ▷ kunt kiezen tussen de menu-items `Gewicht`, `Temperatuur`, `Beoordeling` en `Sterfte`. Selecteer &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Gewicht` en bevestig met `OK`.
 
-3. The evaluation options for the Weight section now appear. Select the evaluation option &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Weging van vandaag` and confirm with `OK`. The device now begins to calculate the success variables.
+3. De evaluatieopties voor de sectie Gewicht verschijnen nu. Selecteer de evaluatieoptie &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Weging van vandaag` en bevestig met `OK`. Het apparaat begint nu met het berekenen van de succesvariabelen.
 
-4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
+4. Wanneer de berekening is voltooid, kunt u de bovengenoemde succesvariabelen bekijken. Gebruik de pijltoetsen △ ▽ om door het weergegeven menu te navigeren.
 
-   ![VitalControl: menu Evaluation Today's weighings](../images/todaysweighings.png "Evaluate Today's weighings")
+   ![VitalControl: menu Evaluatie Wegingen van vandaag](../images/todaysweighings.png "Evaluatie Wegingen van vandaag")
 
 ## Geboortegewicht
-In this evaluation you can view the following information:
-- The average birth weight
-- The weight classes
+In deze evaluatie kunt u de volgende informatie bekijken:
+- Het gemiddelde geboortegewicht
+- De gewichtsklassen
 
-To perform the evaluation, proceed as follows:
+Om de evaluatie uit te voeren, ga als volgt te werk:
 
-1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluatie`. Confirm with `OK`.
+1. Markeer op het hoofdscherm van uw apparaat het pictogram &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluatie`. Bevestig met `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Gewicht`, `Temperatuur`, `Beoordeling` and `Sterfte`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Gewicht` and confirm with `OK`.
+2. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ ◁ ▷ kunt kiezen tussen de menu-items `Gewicht`, `Temperatuur`, `Beoordeling` en `Sterfte`. Selecteer &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Gewicht` en bevestig met `OK`.
 
-3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Geboortegewicht` and confirm with `OK`. The device now starts to calculate the success variables.
+3. Nu verschijnen de evaluatieopties voor de sectie Gewicht. Selecteer &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Geboortegewicht` en bevestig met `OK`. Het apparaat begint nu met het berekenen van de succesvariabelen.
 
-4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
+4. Wanneer de berekening is voltooid, kunt u de bovengenoemde succesvariabelen bekijken. Gebruik de pijltoetsen △ ▽ om door het weergegeven menu te navigeren.
 
-   ![VitalControl: menu Evaluation Birth weights](../images/birthweights.png "Evaluate Birth weights")
+![VitalControl: menu Evaluatie Geboortegewichten](../images/birthweights.png "Evaluatie Geboortegewichten")
 
 ## Gewichtsontwikkeling
 
-In this evaluation you can see the following information related to all weighings:
-- The average animal weight
-- The average daily weight gain since birth
-- The average daily weight gain since last weighing
-- The birth weight doubled after
+In deze evaluatie kunt u de volgende informatie zien die gerelateerd is aan alle wegingen:
+- Het gemiddelde gewicht van het dier
+- De gemiddelde dagelijkse gewichtstoename sinds de geboorte
+- De gemiddelde dagelijkse gewichtstoename sinds de laatste weging
+- Het geboortegewicht verdubbeld na
 
-To perform the evaluation, proceed as follows:
+Om de evaluatie uit te voeren, ga als volgt te werk:
 
-1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluatie`. Confirm with `OK`.
+1. Markeer in het hoofdscherm van uw apparaat het pictogram &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluatie" />&nbsp; `Evaluatie`. Bevestig met `OK`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Gewicht`, `Temperatuur`, `Beoordeling` and `Sterfte`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Gewicht` and confirm with `OK`.
+2. Er opent een ander submenu waarin u met de pijltoetsen △ ▽ ◁ ▷ kunt kiezen tussen de menu-items `Gewicht`, `Temperatuur`, `Beoordeling` en `Sterfte`. Selecteer &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Gewicht" />&nbsp; `Gewicht` en bevestig met `OK`.
 
-3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Weight development" />&nbsp; `Gewichtsontwikkeling` and confirm with `OK`. The device now starts to calculate the success variables.
+3. Nu verschijnen de evaluatieopties voor het gewichtsgedeelte. Selecteer &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Gewichtsontwikkeling" />&nbsp; `Gewichtsontwikkeling` en bevestig met `OK`. Het apparaat begint nu met het berekenen van de succesvariabelen.
 
-4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
+4. Wanneer de berekening is voltooid, kunt u de bovengenoemde succesvariabelen bekijken. Gebruik de pijltoetsen △ ▽ om door het weergegeven menu te navigeren.
 
-   ![VitalControl: menu Evaluation Weight development](../images/weightdevelopment.png "Evaluate Weight development")
+   ![VitalControl: menu Evaluatie Gewichtsontwikkeling](../images/weightdevelopment.png "Evaluatie Gewichtsontwikkeling")

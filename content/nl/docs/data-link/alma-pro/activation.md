@@ -1,10 +1,10 @@
 ---
-title: One-time activation of VitalControl device in the settings of the automatic feeder
-linkTitle: Activation
+title: Eenmalige activering van het VitalControl-apparaat in de instellingen van de automatische voeder
+linkTitle: Activering
 date: 2023-08-04T12:32:28+02:00
 draft: false
 description: >
-  Before using the VitalControl for the first time, you must activate it once in the settings of Alma Pro feeder.
+  Voordat u de VitalControl voor de eerste keer gebruikt, moet u deze eenmalig activeren in de instellingen van de Alma Pro voeder.
 weight: 10
 categories: [Alma Pro]
 ---
