@@ -39,23 +39,23 @@ index.acx=(function(){var A=index;var C={};
 var Ce=[26,26];
 C.Acg={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/SimulationReader.png"
 ,Format:A._PIXEL_FORMAT_NATIVE,NoOfFrames:1,FrameSize:[354,730],FrameDelay:0,_this:
-null}};C.ARE={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/SimulationLightCone.png"
+null}};C.ARD={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/SimulationLightCone.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[120,120],FrameDelay:0,_this:
-null}};C.Au0={_Init:function(){A.acr.AVs._Init.call(this,0);this.Bnn(0xFF706E6C);
+null}};C.Au0={_Init:function(){A.acr.AVr._Init.call(this,0);this.Bnn(0xFF706E6C);
 this.Bnq(0xFF706E6C);this.Bnp(0xFFABABA8);this.Bno(0xFF706E6C);this.Bnj(0xFF706E6C
 );this.Bnm(0xFF706E6C);this.Bnl(0xFFABABA8);this.Bnk(0xFF706E6C);this.Bni(34);this.
 Bm8(0xFF706E6C);this.Bm$(0xFF706E6C);this.Bm_(0xAAABABA8);this.Bm9(0xFF706E6C);this.
 Bm4(0xFF706E6C);this.Bm7(0xFF706E6C);this.Bm6(0xAAABABA8);this.Bm5(0xFF706E6C);this.
-Bm3(34);this.Bng(0x11);this.A_j(A.aaL(A.fl.Ak));this.A_i(A.aaL(A.fl.Ak));this.Bm1(
+Bm3(34);this.Bng(0x11);this.A_k(A.aaL(A.fl.Ak));this.A_j(A.aaL(A.fl.Ak));this.Bm1(
 0x11);this.BmB(0x4);this.BmO(7);this.BmR(5);this.BmQ(1);this.BmP(3);this.BmK(A.aaL(
 A.acr.Aea));this.BmN(A.aaL(A.acr.Aea));this.BmM(A.aaL(A.acr.Aea));this.BmL(A.aaL(
 A.acr.Aea));this.BmG(6);this.BmJ(4);this.BmI(0);this.BmH(2);this.BmC(A.aaL(A.acr.
 Aea));this.BmF(A.aaL(A.acr.Aea));this.BmE(A.aaL(A.acr.Aea));this.BmD(A.aaL(A.acr.
-Aea));this.AF8(Ce);},_ReInit:function(){this.A_j(A.aaL(A.fl.Ak));this.A_i(A.aaL(
+Aea));this.AF8(Ce);},_ReInit:function(){this.A_k(A.aaL(A.fl.Ak));this.A_j(A.aaL(
 A.fl.Ak));},_variants:function(){return this;},_this:null};
 C._Init=function(){};C._ReInit=function(){var B;if((B=C.Au0._this))B._ReInit(),C.
 Au0._ReInit.call(B);};C.DH=function(D){var B;if((B=C.Acg[0]._this)&&(B._cycle!=D
-))B._Done(C.Acg[0]._this=null);if((B=C.ARE[0]._this)&&(B._cycle!=D))B._Done(C.ARE[
+))B._Done(C.Acg[0]._this=null);if((B=C.ARD[0]._this)&&(B._cycle!=D))B._Done(C.ARD[
 0]._this=null);if((B=C.Au0._this)&&(B._cycle!=D))B._Done(C.Au0._this=null);};return C;
 })();
 
