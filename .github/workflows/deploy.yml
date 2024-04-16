@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3.0.0
         with:
-          hugo-version: '0.124.1'
+          hugo-version: '0.125.0'
           extended: true
 
       - name: Setup Go
@@ -30,7 +30,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4.0.2
         with:
-          node-version: '20'
+          node-version: '21'
           cache: 'npm'
           # The action defaults to search for the dependency file (package-lock.json,
           # npm-shrinkwrap.json or yarn.lock) in the repository root, and uses its
