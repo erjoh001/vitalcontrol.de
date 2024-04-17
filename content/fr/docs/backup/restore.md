@@ -28,8 +28,8 @@ Sur cette clé USB, un répertoire `backup` doit exister, qui doit contenir un *
 
    ![VitalControl : insérer la clé USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insérer la clé USB")
 
-4. Une fois que l'appareil a détecté l'insertion de la clé USB, une fenêtre de confirmation apparaît. Accordez cette fenêtre contextuelle avec `Oui` pour démarrer la restauration des données. La décompression et la restauration de la sauvegarde peuvent prendre une minute ou plus. Lorsque la restauration des données est terminée, un message de réussite est affiché :
+4. Once the device has detected the insertion of the USB key, a confirmation window appears. Grant this popup with `Yes` to start the data restoration. Decompressing and restoring the backup may take a minute or more. When the data restoration is complete, a success message is displayed:
 
-   ![VitalControl: message de réussite de la restauration des données](../images/restore-done.png "Message de réussite de la restauration des données")
+   ![VitalControl: data restoration success message](../images/restore-done.png "Data restoration success message")
 
-5. Les données de sauvegarde ont été restaurées avec succès sur l'appareil VitalControl.
+5. The backup data has been successfully restored on the VitalControl device.
