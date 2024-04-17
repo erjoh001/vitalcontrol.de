@@ -9,7 +9,7 @@ node_modules/
 
 # Content
 content/de/docs/aktionen/.$aktionen.svg.*
-content/en/docs/aktionen/.$actions.svg.*
+content/en/docs/actions/.$actions.svg.*
 
 content/de/docs/menu/.$menuebaum.svg.*
 content/en/docs/menu/.$menu-tree.svg.*

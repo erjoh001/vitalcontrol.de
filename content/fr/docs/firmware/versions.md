@@ -31,3 +31,4 @@ Le tableau suivant liste les versions actuelles du firmware :
 Si vous manquez de nouvelles fonctionnalités sur votre dispositif ou rencontrez des problèmes de stabilité, nous vous encourageons à [mettre à jour](../update/) le firmware sur votre dispositif vers la dernière version disponible.
 {{% /alert %}}
 
+
