@@ -49,6 +49,6 @@ Vous pouvez également passer d'un animal à l'autre à tout moment en utilisant
 1. Appuyez sur le bouton supérieur central `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Ouvrir le menu pop-up" /> afin d'ouvrir un menu pop-up. Dans ce menu, vous pouvez choisir entre les fonctions `Définir le filtre`, `Rechercher un animal` ou `Vue graphique`.
 
 2. Sélectionnez `Définir le filtre` avec les touches fléchées △ ▽ et confirmez avec `OK`.
-Vous pouvez obtenir des instructions sur comment utiliser le filtre [ici]({{< relref "../filter" >}}).
+Vous pouvez obtenir des instructions sur comment utiliser le filtre [ici]({{< relref "../filtre" >}}).
 
 ![VitalControl : Menu Animal](images/filter.png "Définir le filtre")

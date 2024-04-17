@@ -4,7 +4,7 @@ linkTitle: "Unités"
 weight: 20
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: units
+slug: unites
 description: >
  Ici, vous sélectionnez les unités pour la température et la masse.
 categories: [settings]

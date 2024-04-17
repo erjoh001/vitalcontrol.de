@@ -1,7 +1,8 @@
 ---
-title: "Création d'une sauvegarde de données"
-linkTitle: "Sauvegarde"
+title: Création d'une sauvegarde de données
+linkTitle: Sauvegarde
 date: 2023-07-20
+slug: sauvegarde
 weight: 20
 description: >
   Au moyen d'une sauvegarde de données, un fichier de sauvegarde est créé contenant l'ensemble des données stockées sur l'appareil VitalControl.

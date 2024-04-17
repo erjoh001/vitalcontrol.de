@@ -30,7 +30,7 @@ Pour installer la mise à jour sur votre appareil, vous avez besoin d'une clé U
 La sauvegarde des données est une mesure de précaution recommandée. Toutes les données animales et de l'appareil existantes seront préservées lors de la mise à jour du micrologiciel de l'appareil VitalControl.
     {{% /alert %}}
 
-[Sauvegarde des données]: {{< relref "../backup/backup/" >}}
+[Sauvegarde des données]: {{< relref "../sauvegarde/backup/" >}}
 
 ## Effectuer la mise à jour du micrologiciel
 

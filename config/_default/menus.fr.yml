@@ -1,7 +1,10 @@
 main:
-  - name: Page d'accueil VitalControl (en anglais)
-    url: ../en/
-    weight: 10
-  - name: Documentation (en anglais)
-    url: ../en/docs/
-    weight: 20
+  - name: Structure du menu
+    url: /docs/menu-tree/
+    weight: 40
+  - name: Application de démonstration
+    url: /demo/
+    weight: 42
+  - name: Micrologiciel
+    url: /docs/micrologiciel/
+    weight: 42
