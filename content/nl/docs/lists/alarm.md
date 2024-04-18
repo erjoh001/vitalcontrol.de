@@ -20,7 +20,7 @@ Op de alarmlijst vindt u alle dieren die u handmatig aan de lijst heeft toegevoe
 - [Temperatuur meten](#temperatuur-meten)
 - [Dier beoordelen](#dier-beoordelen)
 - [Alarm terugzetten](#alarm-terug-zetten)
-- [Bewakingsstatus wisselen](#toggle-watch-status)
+- [Bewakingsstatus wisselen](#toogle-watch-status)
 - [Dier zoeken](#dier-zoeken)
 - [Filter instellen](#filter-zetten)
 
@@ -78,7 +78,7 @@ De alarmlijst is als volgt gestructureerd:
 
 3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. De functie [Temperatuur meten](/nl/docs/acties/measure-temperature/#measure-fever) wordt nu automatisch gestart.
+4. De functie [Temperatuur meten](/nl/docs/acties/measure-temperature/) wordt nu automatisch gestart.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Temperatuur meten")
 
@@ -90,7 +90,7 @@ De alarmlijst is als volgt gestructureerd:
 
 3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. De functie [Dier beoordelen](/nl/docs/acties/rating/#rate-your-animals) wordt nu automatisch gestart.
+4. De functie [Dier beoordelen](/nl/docs/acties/rating/#beoordeel-uw-dieren) wordt nu automatisch gestart.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Dier beoordelen")
 
@@ -134,6 +134,6 @@ De alarmlijst is als volgt gestructureerd:
 
 2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat verschillende opties weergeeft. Gebruik de pijltoetsen △ ▽ om de functie `Filter zetten` te markeren en roep de filterfunctie op door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
 
-3. Stel het gewenste filter in. U kunt hier vinden hoe u het filter gebruikt [hier](../../filter/#applying-filters).
+3. Stel het gewenste filter in. U kunt hier vinden hoe u het filter gebruikt [hier](../../filter/).
 
    ![VitalControl Lists Alarmlist](../images/setfilter.png "Filter instellen")

@@ -33,12 +33,12 @@ Als u het item `Urban VitalControl` niet kunt vinden in uw applicatielijst, moet
 
    ![Windows Startmenu, menu-item voor Urban VitalControl (VCSynchronizer)](../vcsynchronizer/images/data-export/data-export.png "Windows startmenu, VitalControl")
 
-1. Het exportproces wordt gestart. Zodra de gegevensexport is voltooid, opent een Verkenner-venster dat de lokale gegevensdirectory toont met de vier nieuw aangemaakte [exportbestanden](../../data-export/export-files/).
+1. Het exportproces wordt gestart. Zodra de gegevensexport is voltooid, opent een Verkenner-venster dat de lokale gegevensdirectory toont met de vier nieuw aangemaakte [exportbestanden](../../data-export/export-bestanden/).
 
    ![Lokale gegevensdirectory met exportbestanden](../../data-export/images/export-files.png "Exportbestanden, lokaal opgeslagen")
 
    {{% alert title="Opmerking" %}}
-  U kunt elk van deze vier [exportbestanden](../../data-export/export-files/) openen in een spreadsheetprogramma naar keuze (zoals [Microsoft Excel](https://products.office.com/excel) of [OpenOffice Calc](https://www.openoffice.org/)) en daar geavanceerde data-analyses uitvoeren. Als voorbeeld wordt hieronder de weergave van de tabel `animals.csv` in een spreadsheetprogramma getoond:
+  U kunt elk van deze vier [exportbestanden](../../data-export/export-bestanden/) openen in een spreadsheetprogramma naar keuze (zoals [Microsoft Excel](https://products.office.com/excel) of [OpenOffice Calc](https://www.openoffice.org/)) en daar geavanceerde data-analyses uitvoeren. Als voorbeeld wordt hieronder de weergave van de tabel `animals.csv` in een spreadsheetprogramma getoond:
 
 ![Geëxporteerde dierendata tabel geopend in spreadsheetsoftware](../../data-export/images/animals.png "Spreadsheetsoftware met dierendata")
 {{% /alert %}}

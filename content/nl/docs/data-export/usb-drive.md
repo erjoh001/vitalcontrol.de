@@ -27,7 +27,7 @@ translationKey: data-export/usb-drive
 
    ![VitalControl: succesmelding gegevensexport](../images/success-data-export.png "Succes gegevensexport")
 
-5. De gegevensexport is nu voltooid. U vindt de vier gecreëerde [exportbestanden](../export-files/) in de map `export-csv` op uw USB-stick.
+5. De gegevensexport is nu voltooid. U vindt de vier gecreëerde [exportbestanden](../export-bestanden/) in de map `export-csv` op uw USB-stick.
 
    ![USB-stick met exportbestanden VitalControl](../images/export-files.png "Exportbestanden op USB-stick")
 

@@ -23,7 +23,7 @@ De volgende afbeelding toont de beschikbare instellingen met betrekking tot het 
   <area shape="rect" coords="3,80,239,160" alt="Dierevaluatie" title="Stel de modus van dierbeoordeling in&#10;Muisklik: open documentatie" href="#dierevaluatie">
   <area shape="rect" coords="3,160,239,240" alt="Controleperiode verse koeien" title="Stel de lengte van de controleperiode voor verse koeien in&#10;Muisklik: open documentatie" href="#controleperiode-verse-koeien">
 
-  <area shape="rect" coords="2,282,125,318" alt="Terug" title="Ga een niveau terug" href="/nl/docs/instellingen/">
+  <area shape="rect" coords="2,282,125,318" alt="Terug" title="Ga een niveau terug" href="/nl/docs/settings/">
 </map>
 
 {{% alert title="Tip" %}}
@@ -161,7 +161,7 @@ Om de `Dierevaluatie` op uw apparaat in te stellen, gaat u als volgt te werk.
 ## Controleperiode verse koeien
 
 {{% alert title="Uitleg" %}}
-Bij het beheren van verse koeien wordt het dagelijks controleren van de dieren gedurende meerdere dagen na de geboorte, inclusief het meten van hun temperatuur, beschouwd als een beste praktijk. De duur van deze controleperiode varieert aanzienlijk van boerderij tot boerderij. Om deze reden kan de lengte van de controleperiode worden ingesteld op een waarde tussen 3 en 14 dagen in de VitalControl-instellingen. De ingestelde waarde voor de controleperiode van verse koeien bepaalt het aantal kolommen van de kolomgrafiek die voor elk dier wordt weergegeven in de [lijst met verse koeien](../../lists/verse-koeien/).
+Bij het beheren van verse koeien wordt het dagelijks controleren van de dieren gedurende meerdere dagen na de geboorte, inclusief het meten van hun temperatuur, beschouwd als een beste praktijk. De duur van deze controleperiode varieert aanzienlijk van boerderij tot boerderij. Om deze reden kan de lengte van de controleperiode worden ingesteld op een waarde tussen 3 en 14 dagen in de VitalControl-instellingen. De ingestelde waarde voor de controleperiode van verse koeien bepaalt het aantal kolommen van de kolomgrafiek die voor elk dier wordt weergegeven in de [lijst met verse koeien](../../lists/fresh-cows/).
 {{% /alert %}}
 
 Om de lengte van de controleperiode voor uw verse koeien in te stellen, gaat u als volgt te werk:

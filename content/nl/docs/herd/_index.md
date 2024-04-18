@@ -15,13 +15,13 @@ translationKey: herd
 
 Binnen het menu-item Kudde kunt u uw gehele kudde bekijken, individuele dieren zoeken en belangrijke informatie weergeven. U heeft de volgende mogelijkheden:
 
-- Bekijk [diergegevens](#view-animal-data)
-- Bekijk [temperatuurgegevens](#display-temperatuur)
-- Bekijk [beoordelingsgegevens](#view-beoordeling)
-- Bekijk [gewichtsgegevens](#display-gewicht)
+- Bekijk [diergegevens](#diergegevens-bekijken)
+- Bekijk [temperatuurgegevens](#temperatuur-weergeven)
+- Bekijk [beoordelingsgegevens](#beoordeling-bekijken)
+- Bekijk [gewichtsgegevens](#gewicht-weergeven)
 - [Dier zoeken](#dier-zoeken)
-- [Filter instellen](#filter-zetten)
-- [Acties](#call-acties-menu)
+- [Filter instellen](#filter-instellen)
+- [Acties](#actiemenu-oproepen)
 
 ### Voorbereidende stappen
 

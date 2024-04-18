@@ -19,8 +19,8 @@ Op de lijst van droge dieren vindt u alle dieren die u als droge dieren hebt opg
 - [Dier data](../alarm/#dier-data)
 - [Temperatuur meten](../alarm/#temperatuur-meten)
 - [Kalving](#kalving)
-- [Toggle alarm status](../on-watch/#toggle-alarm-status)
-- [Toggle watch status](../alarm/#toggle-watch-status)
+- [Toogle alarm status](../on-watch/#toggle-alarm-status)
+- [Toogle watch status](../alarm/#toogle-watch-status)
 - [Dier zoeken](../alarm/#dier-zoeken)
 - [Filter zetten](../alarm/#filter-zetten)
 
