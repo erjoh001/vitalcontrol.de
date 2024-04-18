@@ -26,7 +26,7 @@ Dentro del directorio `backup` de su unidad flash USB, es posible que encuentre 
 
 3. Inserte la unidad flash USB (conector C) en el conector en la parte inferior del dispositivo.
 
-   ![VitalControl: insertar unidad flash USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insertar unidad flash USB")
+![VitalControl: insertar unidad flash USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insertar unidad flash USB")
 
 4. Una vez que el dispositivo detecte la inserción de la memoria USB, aparecerá una ventana de confirmación. Confirme esta ventana emergente con `Sí` para iniciar la restauración de datos. La descompresión y restauración de la copia de seguridad puede tardar un minuto o más. Cuando la restauración de datos esté completa, se mostrará un mensaje de éxito:
 

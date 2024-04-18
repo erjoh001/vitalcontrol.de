@@ -30,8 +30,8 @@ tags: [archivo de respaldo, unidad flash USB]
 
    ![Unidad flash USB con archivo de respaldo VitalControl](../images/backup-file.png "Unidad flash USB con archivo de respaldo")
 
-   {{% alert title="Consejo" %}}
-  Si un archivo `backup.vcu` ya existe en el directorio `backup` de su unidad flash USB, este archivo será renombrado. El nuevo nombre del archivo está compuesto por la cadena principal `backup` y la fecha y hora en que se creó el archivo de respaldo (por ejemplo, `backup_2023-07-17_12-50-37.vcb`). El archivo de respaldo recién escrito siempre se llama `backup.vcu`.
-    {{% /alert %}}
+{{% alert title="Consejo" %}}
+Si un archivo `backup.vcu` ya existe en el directorio `backup` de su unidad flash USB, este archivo será renombrado. El nuevo nombre del archivo está compuesto por la cadena principal `backup` y la fecha y hora en que se creó el archivo de respaldo (por ejemplo, `backup_2023-07-17_12-50-37.vcb`). El archivo de respaldo recién escrito siempre se llama `backup.vcu`.
+{{% /alert %}}
 
 6. El archivo de copia de seguridad creado se puede utilizar para [restaurar](../restore) los datos almacenados en cualquier dispositivo VitalControl si es necesario.
