@@ -22,7 +22,7 @@ Op de lijst van geobserveerde dieren vindt u alle dieren die u handmatig aan de 
 - [Verwijder van Watchlist](#verwijder-van-watchlist)
 - [Toggle alarm status](#toggle-alarm-status)
 - [Dier zoeken](/nl/docs/lists/alarm/#dier-zoeken)
-- [Filter instellen](/nl/docs/lists/alarm/#filter-zetten)
+- [Filter instellen](../alarm/#filter-zetten)
 
 {{% alert title="Hint" %}}
 Sommige acties worden op dezelfde manier uitgevoerd als in de [Alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.

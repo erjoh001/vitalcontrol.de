@@ -17,7 +17,7 @@ translationKey: lists/fresh-cows
 Bij het beheren van verse koeien wordt het dagelijks controleren van de dieren gedurende meerdere dagen na de geboorte beschouwd als een beste praktijk routine. De lijst van verse koeien ondersteunt deze controle van verse koeien, vooral wat betreft het registreren van de temperatuur. Voor elk dier wordt een kolomdiagram over alle dagen van de controleperiode getoond, elke dag van de controleperiode wordt vertegenwoordigd door een verticale balk. Afhankelijk van de kleur van de balk (groen, geel of rood), kunt u zien of er op die dag een normale, verhoogde of kritisch verhoogde temperatuur is gemeten voor het betreffende dier.
 {{% /alert %}}
 
-Koeien worden direct na hun kalverenregistratie op de lijst van verse koeien geplaatst. Ze blijven gedurende een bepaalde periode op die lijst staan, de lengte van deze periode (in dagen) kan worden aangepast in de [instellingen](../../instellingen/data-acquisitie/#controle-periode-verse-koeien).
+Koeien worden direct na hun kalverenregistratie op de lijst van verse koeien geplaatst. Ze blijven gedurende een bepaalde periode op die lijst staan, de lengte van deze periode (in dagen) kan worden aangepast in de [instellingen](../../settings/data-acquisition/#controleperiode-verse-koeien).
  De volgende acties zijn beschikbaar voor deze lijst:
 
 - [Actiemenu](../alarm/#actiemenu)

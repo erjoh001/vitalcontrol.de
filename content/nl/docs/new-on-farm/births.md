@@ -65,6 +65,6 @@ Het bewerken van de diergegevens is alleen mogelijk in de lijstweergave!
 
 1. Gebruik de pijltoetsen △ ▽ om het dier te selecteren dat u wilt bewerken en bevestig met `OK`.
 
-2. Er opent een submenu waarin u verschillende instellingen kunt aanpassen. Voor stapsgewijze instructies klik [hier](/nl/docs/new/calving/#register-a-kalving).
+2. Er opent een submenu waarin u verschillende instellingen kunt aanpassen. Voor stapsgewijze instructies klik [hier](/nl/docs/new/calving/#een-kalving-registreren).
 
     ![VitalControl: Menu Nieuw op boerderij Geboorten](../images/edit2.png "Bewerk een geboortemelding")

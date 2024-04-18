@@ -19,7 +19,7 @@ Als u op een menu-item klikt, wordt u doorgestuurd naar een beschrijving van de 
   <area shape="rect" coords="3,280,116,399" alt="Droge koeien" title="Bekijk uw lijst met droge koeien&#10;Muisklik: open documentatie" href="/nl/docs/lists/dry-cows/">
 
   <area shape="rect" coords="116,40,230,160" alt="bekijken" title="Bekijk uw observatielijst&#10;Muisklik: open documentatie" href="/nl/docs/lists/on-watch/">
-  <area shape="rect" coords="116,160,230,280" alt="Verse koeien" title="Bekijk uw lijst met verse koeien&#10;Muisklik: open documentatie" href="/nl/docs/lists/verse-koeien/">
+  <area shape="rect" coords="116,160,230,280" alt="Verse koeien" title="Bekijk uw lijst met verse koeien&#10;Muisklik: open documentatie" href="/nl/docs/lists/fresh-cows/">
 
   <area shape="rect" coords="2,401,115,438" alt="Terug" title="Spring een niveau terug" href="/nl/docs/menu/mainmenu/">
 </map>

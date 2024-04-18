@@ -22,7 +22,7 @@ De functie voor individuele dieren stelt u in staat belangrijke informatie te be
  ![VitalControl: Menu Dier](images/list.png "Weergeven als een lijst")
 
 {{% alert title="Hint"  %}}
-Binnen elke informatieweergave heeft u de optie om [naar een dier te zoeken](#search-animal), een [filter in te stellen](#set-filter) en over te schakelen naar een [grafische weergave](#set-graphical-view).
+Binnen elke informatieweergave heeft u de optie om [naar een dier te zoeken](#dier-zoeken), een [filter in te stellen](#filter-instellen) en over te schakelen naar een [grafische weergave](#grafische-weergave-instellen).
 U kunt ook op elk moment tussen de individuele dieren schakelen met de pijltoetsen ◁ ▷.
 {{% /alert %}}
 

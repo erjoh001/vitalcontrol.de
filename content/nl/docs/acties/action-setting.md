@@ -38,6 +38,6 @@ In dit instellingenmenu stel je de &nbsp;<img src="/icons/actions/action-chain.s
 
 3. Er opent een submenu. Gebruik de pijltoetsen △ ▽ om het menu-item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Keten van acties" />&nbsp; `Opeenvolgende acties` te selecteren en bevestig met `OK`.
 
-4. Verdere instructies zijn te vinden [hier](/nl/docs/chain-of-actions/#set-chain-of-actions).
+4. Verdere instructies zijn te vinden [hier](/nl/docs/chain-of-actions/#keten-van-acties).
 
     ![VitalControl: Menu Acties Vervolgacties](../images/chainofactions.png "Opeenvolgende acties")
