@@ -53,7 +53,7 @@ markup:
 outputs:
   section:
    - HTML
-   #- print
+   - print
    - RSS
 
 # hugo module configuration
