@@ -433,7 +433,7 @@ title: Урбанический ВиталКонтроль
 
 {{% blocks/feature3 icon="empty" title="Легко сообщайте о <br> покупках" %}}
 <br>
-<img src="images/pruchased.png" alt="Purchased" />
+<img src="images/purchased.png" alt="Purchased" />
 <br>
 {{% /blocks/feature3 %}}
 

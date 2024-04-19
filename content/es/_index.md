@@ -432,7 +432,7 @@ Nuestros **puntos destacados** para ti
 
 {{% blocks/feature3 icon="empty" title="Reporta tus <br> compras fácilmente" %}}
 <br>
-<img src="images/pruchased.png" alt="Purchased" />
+<img src="images/purchased.png" alt="Purchased" />
 <br>
 {{% /blocks/feature3 %}}
 

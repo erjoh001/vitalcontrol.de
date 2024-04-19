@@ -432,7 +432,7 @@ Meidän **vahvuutemme** teitä varten
 
 {{% blocks/feature3 icon="empty" title="Ilmoita ostoksesi <br> helposti" %}}
 <br>
-<img src="images/pruchased.png" alt="Purchased" />
+<img src="images/purchased.png" alt="Purchased" />
 <br>
 {{% /blocks/feature3 %}}
 

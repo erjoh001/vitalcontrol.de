@@ -432,7 +432,7 @@ Nos **points forts** pour vous
 
 {{% blocks/feature3 icon="empty" title="Signalez vos <br> achats facilement" %}}
 <br>
-<img src="images/pruchased.png" alt="Purchased" />
+<img src="images/purchased.png" alt="Purchased" />
 <br>
 {{% /blocks/feature3 %}}
 

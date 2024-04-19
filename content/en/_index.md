@@ -432,7 +432,7 @@ Our **highlights** for you
 
 {{% blocks/feature3 icon="empty" title="Report your <br> purchases easily" %}}
 <br>
-<img src="images/pruchased.png" alt="Purchased" />
+<img src="images/purchased.png" alt="Purchased" />
 <br>
 {{% /blocks/feature3 %}}
 
