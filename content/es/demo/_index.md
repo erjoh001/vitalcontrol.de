@@ -1,5 +1,5 @@
 ---
-title: Aplicación de demostración VitalControl - en Español
+title: Aplicación de demostración VitalControl
 linkTitle: Aplicación de demostración
 type: "docs"
 ---

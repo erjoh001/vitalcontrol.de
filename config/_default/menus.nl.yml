@@ -2,7 +2,7 @@ main:
   - name: Menustructuur
     url: /docs/menustructuur/
     weight: 40
-  - name: Demo app
+  - name: Demo-applicatie
     url: /nl/demo/
     weight: 42
   - name: Firmware

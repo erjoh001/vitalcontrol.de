@@ -6,6 +6,7 @@ draft: false
 weight: 60
 description: >
   Lataa uusin laiteohjelmiston versio ja asenna se VitalControl-laitteeseesi.
+translationKey: firmware
 ---
 #### VitalControl versio 0.9.10
 

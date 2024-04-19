@@ -1,6 +1,6 @@
 ---
-title: Demo application VitalControl - Dutch
-linkTitle: Demo application VitalControl
+title: Demo-applicatie VitalControl
+linkTitle: Demo-applicatie
 type: "docs"
 ---
 {{< demo lang="nl" >}}

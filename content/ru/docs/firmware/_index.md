@@ -6,6 +6,7 @@ draft: false
 weight: 60
 description: >
   Загрузите последнюю версию прошивки и установите ее на ваше устройство VitalControl.
+translationKey: firmware
 ---
 #### Версия VitalControl 0.9.10
 

@@ -6,6 +6,7 @@ draft: false
 weight: 60
 description: >
   Download the latest firmware version and install it on your VitalControl device.
+translationKey: firmware
 ---
 #### VitalControl version 0.9.10
 

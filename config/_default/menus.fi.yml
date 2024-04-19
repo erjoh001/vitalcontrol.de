@@ -1,7 +1,10 @@
 main:
-  - name: Homepage VitalControl (in English)
-    url: ../en/
-    weight: 10
-  - name: Documentation (in English)
-    url: ../en/docs/
-    weight: 20
+  - name: Valikkorakenne
+    url: /docs/menu-tree/
+    weight: 40
+  - name: Demo-sovellus
+    url: /demo/
+    weight: 42
+  - name: Laiteohjelmisto
+    url: /docs/laiteohjelmisto/
+    weight: 42
