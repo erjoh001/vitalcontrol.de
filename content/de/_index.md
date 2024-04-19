@@ -6,7 +6,7 @@ title: Urban GmbH
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
   Mehr erfahren <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="docs/">
   Dokumentation <i class="fa-solid fa-book ms-2 "></i>
 </a>
 <p class="lead mt-5">Management der Tiergesundheit auf höchstem Niveau!</p>

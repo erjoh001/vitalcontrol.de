@@ -6,7 +6,7 @@ title: Urban VitalControl
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
   En savoir plus <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/fr/docs/">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="docs/">
   Documentation<i class="fa-solid fa-book ms-2 "></i>
 </a>
 <p class="lead mt-5">Gestion de la santé au plus haut niveau !</p>
