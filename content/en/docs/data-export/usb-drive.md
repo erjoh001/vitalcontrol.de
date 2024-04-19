@@ -35,3 +35,4 @@ translationKey: data-export/usb-drive
   - To prevent accidental overwriting of export files, the file name of each export file always includes the date and time when the file was created. Be sure to use the latest version of the export files if you have exported animal data multiple times.
   - The file size of the export files depends on the number of animals on the VitalControl and on the number of measurements performed. In general, the export files only occupy a few kB of storage space on the USB stick.
    {{% /alert %}}
+   

@@ -56,4 +56,3 @@ Performing the range test described above, you can obtain information on transpo
     <br>
 
     ![VitalControl: check of transponder from manufacturer](../images/transponder-manufacturer.png "Info transponder from manufacturer")
-

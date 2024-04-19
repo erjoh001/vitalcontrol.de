@@ -68,3 +68,4 @@ Editing the animal data is only possible in the list view!
 2. A submenu opens in which you can adjust various settings. For step by step instructions click [here](/en/docs/new/calving/#register-a-calving).
 
     ![VitalControl: Menu New on farm Births](../images/edit2.png "Edit a birth notice")
+    

@@ -1,0 +1,46 @@
+---
+title: Eläinhistoria
+linkTitle: Eläinhistoria
+slug: animal-history
+weight: 80
+description: >
+ Näytä eläimen historia.
+date: 2023-07-26
+categories: [Toiminnot]
+tags: [Toiminnot, Eläinhistoria]
+translationKey: actions/animalshistory
+---
+
+## Eläinhistoria
+
+Eläinhistoria antaa sinulle yleiskatsauksen tähän mennessä tallennetuista tiedoista ja valitun eläimen kehityksestä. Voit vapaasti valita näytettävät tiedot. Voit myös valita, näytetäänkö historia taulukkona vai kaaviona. Eläinhistoria auttaa sinua näkemään, oliko ja milloin nämä eläimet viimeksi herättivät huomiota. Se auttaa myös luomaan läpinäkyvyyttä, jos useampi henkilö suorittaa eläintarkastuksen.
+
+Eläinhistorian tarkastelemiseksi toimi seuraavasti:
+
+1. Valitse päävalikosta VitalControl-laitteestasi kohdan &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" />  `Toiminnot` ja paina `OK`-nappia.
+
+2. Joko skannaa eläin transponderilla tai valitse eläin listasta. Vahvista `OK`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `OK`:lla.
+
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Eläinhistoria" /> `Eläinhistoria` ja vahvista `OK`:lla.
+
+4. Nyt näytetään viimeksi asetetut tiedot. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa valikko" /> avataksesi valintavalikon tietosivuille.
+
+5. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi tietosivu. Vahvista `F3`-näppäimellä tai `OK`-näppäimellä.
+
+6. Valittu tietosivu esitetään sinulle.
+
+7. Käytä keskimmäistä `On/Off`-nappia <img src="/icons/footer/on-off.svg" width="18" align="bottom" alt="On/Off-nappi" />&nbsp; vaihtaaksesi listanäkymän <img src="/icons/footer/list.svg" width="20" align="bottom" alt="Listanäkymä" /> ja kaavionäkymän <img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Kaavionäkymä" />&nbsp; välillä.
+
+{{< tabpane >}}
+{{< tab header="Eläinhistoria:" text=true disabled=true />}}
+{{% tab header="Transponderin skannaus" text=true %}}
+![VitalControl: Valikko Toiminto Eläinhistoria](../images/animalhistory-scan.png "Eläinhistoria")
+{{% /tab %}}
+{{% tab header="Manuaalinen valinta listasta" text=true %}}
+![VitalControl: Valikko Toiminto Eläinhistoria](../images/animalhistory.png "Eläinhistoria")
+{{% /tab %}}
+{{< /tabpane >}}
+
+{{% alert title="Vihje" %}}
+Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti poistettu käytöstä! Aktivoi toiminto [toimintoasetukset](../settings/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen tuo kyseisen toiminnon takaisin.
+{{% /alert %}}
