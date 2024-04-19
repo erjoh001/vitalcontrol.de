@@ -3,6 +3,7 @@ title: Maatilan numero
 linkTitle: Maatilan numero
 date: 2023-07-26
 weight: 80
+slug: maatilannumero
 categories: [Asetukset]
 tags: [Asetukset, Maatilan numero]
 description: >
@@ -10,7 +11,7 @@ description: >
 translationKey: settings/farm-number
 ---
 {{< alert title="Huomio" >}}
-Maatilan numeron syöttäminen koskee tällä hetkellä vain saksalaisia viljelijöitä. Muiden kansallisuuksien viljelijät eivät tällä hetkellä hyödy maatilatunnuksen syöttämisestä. Tämä saattaa muuttua tulevissa [laitteiston versioissa]({{< relref "../firmware/versions/" >}}) VitalControl-laitteessa.
+Maatilan numeron syöttäminen koskee tällä hetkellä vain saksalaisia viljelijöitä. Muiden kansallisuuksien viljelijät eivät tällä hetkellä hyödy maatilatunnuksen syöttämisestä. Tämä saattaa muuttua tulevissa [laitteiston versioissa]({{< relref "../laiteohjelmisto/versions/" >}}) VitalControl-laitteessa.
 {{< /alert >}}
 
 ## Aseta maatilasi numero

@@ -99,7 +99,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
 2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la función `Establecer filtro` e invoca la función de filtro presionando la tecla central `OK` o la tecla `F3` `OK`.
 
-3. Cómo aplicar el filtro se puede encontrar [aquí]({{< relref "../filter/" >}}).
+3. Cómo aplicar el filtro se puede encontrar [aquí]({{< relref "../filtro/" >}}).
 
     ![VitalControl: Menú de Hato](images/setfilter.png "Buscar animal")
 

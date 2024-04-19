@@ -49,6 +49,6 @@ Voit myös vaihtaa yksittäisten eläinten välillä milloin tahansa käyttämä
 1. Paina keskimmäistä yläpuolella olevaa `On/Off` -nappia <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Avaa ponnahdusvalikko" /> avataksesi ponnahdusvalikon. Tässä valikossa voit valita toiminnoista `Aseta suodatin`, `Etsi eläin` tai `Graafinen näkymä`.
 
 2. Valitse `Aseta suodatin` nuolinäppäimillä △ ▽ ja vahvista `OK`:lla.
-Ohjeet suotimen käyttöön löydät [täältä]({{< relref "../filter" >}}).
+Ohjeet suotimen käyttöön löydät [täältä]({{< relref "../suodatin" >}}).
 
 ![VitalControl: Menu Animal](images/filter.png "Aseta suodatin")

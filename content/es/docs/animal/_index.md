@@ -49,6 +49,6 @@ También puede cambiar entre los animales individuales en cualquier momento usan
 1. Presiona el botón superior central `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Abrir menú emergente" /> para abrir un menú emergente. En este menú, puedes elegir entre las funciones `Establecer filtro`, `Buscar animal` o `Vista gráfica`.
 
 2. Selecciona `Establecer filtro` con las teclas de flecha △ ▽ y confirma con `OK`.
-Puedes obtener instrucciones sobre cómo usar el filtro [aquí]({{< relref "../filter" >}}).
+Puedes obtener instrucciones sobre cómo usar el filtro [aquí]({{< relref "../filtro" >}}).
 
 ![VitalControl: Menú Animal](images/filter.png "Establecer filtro")

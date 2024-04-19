@@ -99,7 +99,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
 2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; kutsuaksesi esiin ponnahdusvalikon, joka listaa eri vaihtoehtoja. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Aseta suodatin` ja kutsu suodatintoiminto esiin painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
 
-3. Tietoa suodattimen käytöstä löytyy [täältä]({{< relref "../filter/" >}}).
+3. Tietoa suodattimen käytöstä löytyy [täältä]({{< relref "../suodatin/" >}}).
 
     ![VitalControl: Menu Herd](images/setfilter.png "Etsi eläin")
 
