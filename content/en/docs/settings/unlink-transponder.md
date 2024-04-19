@@ -24,3 +24,4 @@ You can use this setting to specify how the animal ID should be assigned as soon
 4. The setting option `derivation from eartag number` allows you to make further settings. See [here](/en/docs/settings/animal-registration/#digit-of-the-new-id). 
 
    ![VitalControl: Menu Settings Unlink transponder](../images/unlink-transponder.png "Unlink transponder")
+   

@@ -94,6 +94,4 @@ To deactivate or activate the vibration resource monitor of the device, proceed 
 
     ![VitalControl: Menu settings Resource monitor](../images/resourcemonitor.png "Resource monitor")
 
-## Save and return to the top menu `Settings`
-
-- Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

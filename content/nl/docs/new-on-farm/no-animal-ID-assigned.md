@@ -41,7 +41,7 @@ Onder [Laatste actie op OK](/nl/docs/new-on-farm/no-national-animal-id-assigned/
 {{% tab header="ID koppelen (RFID-scan)" text=true %}}
  ![VitalControl: Menu Nieuw Geen nationale dier-ID toegewezen](../images/noanimalID-scan.png "ID koppelen (RFID-scan)")
 {{% /tab %}}
-{{< /tabpane >}}        
+{{< /tabpane >}}    
 
 ## Laatste actie op OK
 

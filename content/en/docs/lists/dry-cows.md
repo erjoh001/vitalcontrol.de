@@ -55,3 +55,4 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 7. Save the settings with the `F3` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
    ![VitalControl Lists Dry cows list](../images/calving.png "Calving")
+   

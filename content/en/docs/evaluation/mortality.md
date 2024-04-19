@@ -24,3 +24,4 @@ To perform the evaluation, proceed as follows:
 3. The device now starts to calculate the success variables.
 
    ![VitalControl: menu Evaluation Evaluate mortality](../images/mortality.png "Evaluate mortality")
+   
