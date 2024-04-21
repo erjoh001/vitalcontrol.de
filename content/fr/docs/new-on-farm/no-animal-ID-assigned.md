@@ -30,7 +30,7 @@ Dans cette liste, vous trouverez tous les animaux auxquels aucun identifiant d'a
 7. Enregistrez le paramètre avec la touche `F3` <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Save" />&nbsp;. L'animal a été assigné avec succès un ID national et retiré de la liste.
 
 {{% alert title="Conseil" %}}
-Sous [dernières actions sur OK](/fr/docs/new-on-farm/no-national-animal-id-assigned/#last-action-on-ok), vous pouvez choisir si vous souhaitez entrer le numéro de boucle auriculaire manuellement ou par scan. Sélectionnez l'écran exemple selon votre configuration.
+Sous [dernières actions sur OK](#dernière-action-sur-ok), vous pouvez choisir si vous souhaitez entrer le numéro de boucle auriculaire manuellement ou par scan. Sélectionnez l'écran exemple selon votre configuration.
 {{% /alert %}}
 
 {{< tabpane >}}

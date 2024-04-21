@@ -5,4 +5,5 @@ date: 2023-07-20
 weight: 10
 description: >
   Realice una copia de seguridad de todo el conjunto de datos del dispositivo VitalControl y restáurelo en otro dispositivo.
+translationKey: section-backup
 ---

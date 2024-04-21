@@ -7,4 +7,5 @@ description: >
   Importez tous les animaux du distributeur au dispositif VitalControl et transférez les températures enregistrées, les poids et les évaluations des animaux vers le distributeur.
 weight: 20
 categories: [Alma Pro]
+translationKey: alma-pro
 ---

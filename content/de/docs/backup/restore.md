@@ -6,6 +6,7 @@ draft: false
 weight: 20
 description: >
   Bei einer Datenrücksicherung wird mittels einer Backup-Datei der gesamte Datenbestand des VitalControl-Geräts wiederhergestellt.
+translationKey: restore
 ---
 {{% usb-drive/de "Um auf ihrem Gerät eine Datenrücksicherung durchzuführen," %}}
 

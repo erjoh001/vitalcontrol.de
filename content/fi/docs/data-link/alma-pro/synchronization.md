@@ -7,6 +7,7 @@ description: >
   Synkronoi VitalControl-laitteella tallennetut eläimet automaattiseen ruokkijaan rekisteröityjen eläinten kanssa ja siirrä VitalControl-laitteella mitatut arvot ruokkijaan arviointia ja parempaa visualisointia varten.
 weight: 20
 categories: [Tietojen vaihto, Alma Pro]
+translationKey: alma-pro/synchronization
 ---
 ## Avaa USB-portti
 

@@ -7,6 +7,7 @@ description: >
   By means of a data backup, a backup file is created which contains the entire data stored on the VitalControl device.
 categories: [Data backup]
 tags: [backup file, USB flash drive]
+translationKey: backup
 ---
 {{% usb-drive/en "In order to perform a data backup for your device," %}}
 

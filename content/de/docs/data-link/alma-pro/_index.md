@@ -7,4 +7,5 @@ description: >
   Importieren Sie den Tierbestand des Tränkeautomaten auf das VitalControl und übermitteln sie erfasste Temperaturen, Gewichte und Tierbewertungen auf den Automaten
 weight: 20
 Kategorien: [Alma Pro]
+translationKey: alma-pro
 ---

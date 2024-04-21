@@ -7,6 +7,7 @@ description: >
   Ennen kuin käytät VitalControlia ensimmäistä kertaa, sinun on aktivoitava se kerran Alma Pro -ruokkijan asetuksissa.
 weight: 10
 categories: [Alma Pro]
+translationKey: alma-pro/activation
 ---
 
 ![Käynnistä asetukset VitalControl](../images/open-settings-vitalcontrol.png "Kutsu asetusvalikko VitalControl")

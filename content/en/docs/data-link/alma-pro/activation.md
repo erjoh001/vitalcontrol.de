@@ -7,6 +7,7 @@ description: >
   Before using the VitalControl for the first time, you must activate it once in the settings of Alma Pro feeder.
 weight: 10
 categories: [Alma Pro]
+translationKey: alma-pro/activation
 ---
 
 ![Invoke Settings VitalControl](../images/open-settings-vitalcontrol.png "Invoke settings menu VitalControl")

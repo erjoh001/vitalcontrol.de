@@ -7,6 +7,7 @@ description: >
   Tietojen varmuuskopioinnin avulla luodaan varmuuskopiotiedosto, joka sisältää kaikki VitalControl-laitteessa tallennetut tiedot.
 categories: [Tietojen varmuuskopiointi]
 tags: [varmuuskopiotiedosto, USB-muistitikku]
+translationKey: backup
 ---
 {{% usb-drive/en "Jotta voit suorittaa laitteellesi tietojen varmuuskopioinnin," %}}
 

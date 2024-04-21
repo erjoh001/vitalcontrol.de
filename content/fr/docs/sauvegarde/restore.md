@@ -5,6 +5,7 @@ date: 2023-07-20
 weight: 20
 description: >
  Grâce à une restauration de données, l'ensemble des données d'un appareil VitalControl peut être restauré sur un autre appareil à l'aide d'un fichier de sauvegarde.
+translationKey: restore
 ---
 {{% usb-drive/fr "Pour restaurer une sauvegarde de données sur votre appareil VitalControl," %}}
 

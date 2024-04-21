@@ -5,6 +5,7 @@ date: 2023-07-20
 weight: 20
 description: >
  VitalControl-laitteen koko datan voi palauttaa toiselle laitteelle käyttäen varmuuskopiotiedostoa.
+translationKey: restore
 ---
 {{% usb-drive/en "Jotta voit palauttaa tietovarauksen VitalControl-laitteeseesi," %}}
 

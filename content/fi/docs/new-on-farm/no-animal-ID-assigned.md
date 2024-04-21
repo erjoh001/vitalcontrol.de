@@ -30,7 +30,7 @@ Tässä luettelossa löydät kaikki eläimet, joille ei ole vielä määritetty 
 7. Tallenna asetus `F3`-näppäimellä <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Tallenna" />&nbsp;. Eläimelle on nyt onnistuneesti annettu kansallinen eläintunnus ja se on poistettu listalta.
 
 {{% alert title="Vihje" %}}
-Kohdassa [viimeiset toimet OK:lla](/fi/docs/new-on-farm/no-national-animal-id-assigned/#last-action-on-ok) voit asettaa, haluatko syöttää korvamerkin numeron käsin vai skannauksella. Valitse esimerkkinäyttö asetuksesi mukaan.
+Kohdassa [viimeiset toimet OK:lla](#viimeinen-toiminto-oklla) voit asettaa, haluatko syöttää korvamerkin numeron käsin vai skannauksella. Valitse esimerkkinäyttö asetuksesi mukaan.
 {{% /alert %}}
 
 {{< tabpane >}}

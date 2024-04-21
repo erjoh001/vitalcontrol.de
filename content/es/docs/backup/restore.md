@@ -5,6 +5,7 @@ date: 2023-07-20
 weight: 20
 description: >
  A través de una restauración de datos, se puede restaurar toda la información de un dispositivo VitalControl en un dispositivo diferente utilizando un archivo de copia de seguridad.
+translationKey: restore
 ---
 {{% usb-drive/es "Para restaurar una copia de seguridad de datos en su dispositivo VitalControl," %}}
 

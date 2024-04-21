@@ -30,7 +30,7 @@ In deze lijst vindt u alle dieren die nog geen dier-ID hebben toegewezen gekrege
 7. Sla de instelling op met de toets `F3` <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Opslaan" />&nbsp;. Het dier is succesvol een nationale dier-ID toegewezen en uit de lijst verwijderd.
 
 {{% alert title="Hint" %}}
-Onder [Laatste actie op OK](/nl/docs/new-on-farm/no-national-animal-id-assigned/#laatste-actie-op-ok) kun je instellen of je het oormerknummer handmatig of via scan wilt invoeren. Selecteer het voorbeeldscherm volgens je instelling.
+Onder [Laatste actie op OK](#laatste-actie-op-ok) kun je instellen of je het oormerknummer handmatig of via scan wilt invoeren. Selecteer het voorbeeldscherm volgens je instelling.
 {{% /alert %}}
 
 {{< tabpane >}}

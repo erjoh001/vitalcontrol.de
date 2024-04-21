@@ -7,6 +7,7 @@ description: >
   Synchronise the animals stored on VitalControl device with animals registered on the automatic feeder and transfer measured values recorded with VitalControl device to the feeder for evaluation purposes and better visualisation.
 weight: 20
 categories: [Data exchange, Alma Pro]
+translationKey: alma-pro/synchronization
 ---
 ## Open USB port
 

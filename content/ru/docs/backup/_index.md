@@ -5,4 +5,5 @@ date: 2023-07-20
 weight: 10
 description: >
   Создайте резервную копию всего набора данных устройства VitalControl и восстановите его на другом устройстве.
+translationKey: section-backup
 ---

@@ -8,6 +8,7 @@ description: >
   Mittels einer Datensicherung wird eine Backup-Datei erzeugt, welche den gesamten Datenbestand des VitalControl-Geräts enthält.
 kategorien: [Datensicherung]
 tags: [Sicherungsdatei, USB-Stick]
+translationKey: backup
 ---
 {{% usb-drive/de "Um für ihr Gerät eine Datensicherung durchzuführen," %}}
 

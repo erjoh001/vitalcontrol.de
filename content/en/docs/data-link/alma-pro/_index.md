@@ -7,4 +7,5 @@ description: >
   Import all animals from the feeder to the VitalControl device and transfer recorded temperatures, weights and animal ratings to the feeder.
 weight: 20
 categories: [Alma Pro]
+translationKey: alma-pro
 ---

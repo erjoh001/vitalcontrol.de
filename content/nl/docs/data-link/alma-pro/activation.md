@@ -7,4 +7,5 @@ description: >
   Voordat u de VitalControl voor de eerste keer gebruikt, moet u deze eenmalig activeren in de instellingen van de Alma Pro voeder.
 weight: 10
 categories: [Alma Pro]
+translationKey: alma-pro/activation
 ---

@@ -30,7 +30,7 @@ En esta lista encontrarás todos los animales a los que aún no se les ha asigna
 7. Guarda la configuración con la tecla `F3` <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Guardar" />&nbsp;. El animal fue asignado exitosamente un ID nacional y eliminado de la lista.
 
 {{% alert title="Consejo" %}}
-En [últimas acciones en OK](/es/docs/new-on-farm/no-national-animal-id-assigned/#last-action-on-ok) puedes configurar si deseas ingresar el número de etiqueta del oído manualmente o por escaneo. Selecciona la pantalla de ejemplo según tu configuración.
+En [últimas acciones en OK](#última-acción-en-ok) puedes configurar si deseas ingresar el número de etiqueta del oído manualmente o por escaneo. Selecciona la pantalla de ejemplo según tu configuración.
 {{% /alert %}}
 
 {{< tabpane >}}

@@ -5,6 +5,7 @@ date: 2023-07-20
 weight: 20
 description: >
  Via een gegevensherstel kan alle data van een VitalControl-apparaat worden hersteld op een ander apparaat met behulp van een back-upbestand.
+translationKey: restore
 ---
 {{% usb-drive/nl "Om een gegevensback-up naar uw VitalControl-apparaat te herstellen," %}}
 

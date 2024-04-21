@@ -30,7 +30,7 @@ Innerhalb dieser Liste finden Sie alle Tiere denen noch keine Ohrmarkennummer zu
 7. Speichern Sie die Einstellung mit der `F3` Taste &nbsp;<img src="/icons/footer/save.svg" width="25" align="bottom" alt="Speichern" /> ab. Dem Tier wurde erfolgreich eine Ohrmarkennummer zugewiesen und es wurde daher von der Liste entfernt.
 
 {{% alert title="Hinweis" %}}
-Unter [Abschlussaktion bei OK](/docs/zugaenge/keine-ohrmarkennummer-zugewiesen/#abschlussaktion-bei-ok) können Sie einstellen ob Sie die Ohrmarkennummer manuell oder per Scan eingeben möchten. Wählen Sie das Beispielbild Ihrer Einstellung entsprechend. 
+Unter [Abschlussaktion bei OK](#abschlussaktion-bei-ok) können Sie einstellen ob Sie die Ohrmarkennummer manuell oder per Scan eingeben möchten. Wählen Sie das Beispielbild Ihrer Einstellung entsprechend. 
 {{% /alert %}}
 
 {{< tabpane >}}

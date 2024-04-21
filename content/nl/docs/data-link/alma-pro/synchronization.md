@@ -7,6 +7,7 @@ description: >
   Synchroniseer de op het VitalControl-apparaat opgeslagen dieren met de dieren geregistreerd op de automatische voeder en draag gemeten waarden over die zijn opgenomen met het VitalControl-apparaat naar de voeder voor evaluatiedoeleinden en betere visualisatie.
 weight: 20
 categories: [Gegevensuitwisseling, Alma Pro]
+translationKey: alma-pro/synchronization
 ---
 ## Open USB-poort
 

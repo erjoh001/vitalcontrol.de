@@ -30,7 +30,7 @@ In this list you will find all animals that have not yet been assigned an animal
 7. Save the setting with the `F3` key <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Save" />&nbsp;. The animal was successfully assigned an national animal ID and removed from the list.
 
 {{% alert title="Hint" %}}
-Under [last actions on OK](/en/docs/new-on-farm/no-national-animal-id-assigned/#last-action-on-ok) you can set whether you want to enter the ear tag number manually or by scan. Select the example screen according to your setting. 
+Under [last actions on OK](#last-action-on-ok) you can set whether you want to enter the ear tag number manually or by scan. Select the example screen according to your setting. 
 {{% /alert %}}
 
 {{< tabpane >}}

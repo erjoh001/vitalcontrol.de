@@ -7,6 +7,7 @@ description: >
   Перед первым использованием VitalControl необходимо один раз активировать его в настройках кормушки Alma Pro.
 weight: 10
 categories: [Alma Pro]
+translationKey: alma-pro/activation
 ---
 
 ![Вызов настроек VitalControl](../images/open-settings-vitalcontrol.png "Вызов меню настроек VitalControl")
