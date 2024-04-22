@@ -455,7 +455,7 @@ C.AhK;this.H(E7);},_className:"Demonstrator::SelectionAreaContent"};C.AMD={Y:nul
 B[1])-((B=this.Vx.M)[3]-B[1])));},_Init:function(aArg){C.AhK._Init.call(this,aArg
 );A.Core.Y._Init.call(this.Y={I:this},0);C.AL8._Init.call(this.Vx={I:this},0);C.
 AVN._Init.call(this.TD={I:this},0);this.__proto__=C.AMD;this.Y.A0(0x3F);this.Y.H(
-E7);this.Y.JT(1);this.Vx.H(AhX);this.Vx.Aj(true);this.Vx.ArX(true);this.TD.A0(0x3
+E7);this.Y.JT(1);this.Vx.H(AhX);this.Vx.Aj(true);this.Vx.ArX(false);this.TD.A0(0x3
 );this.TD.H(KZ);this.TD.Aj(true);this.TD.N2(C.AMw);this.TD.Bnw(C.AMK);this.J(this.
 Y,0);this.J(this.Vx,0);this.J(this.TD,0);this.Bb(this.TD);this.Y.Em=[this,this.BB2
 ];this.TD.Zs(A._GetAutoObject(A.aco.Aqh));},_Done:function(){this.__proto__=C.AhK;
