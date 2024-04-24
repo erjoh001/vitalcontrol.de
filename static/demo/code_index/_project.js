@@ -27,15 +27,15 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 13.02
+* Version  : 13.03
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *
 *******************************************************************************/
 
-var EmWiCompr_13_02;var index;if(!EmWiCompr_13_02)throw new Error("The Embedded Wizard runtime environment file 'emwi_compr_13_02.js' isn't yet loaded!"
+var EmWiCompr_13_03;var index;if(!EmWiCompr_13_03)throw new Error("The Embedded Wizard runtime environment file 'emwi_compr_13_03.js' isn't yet loaded!"
 );if(index)throw new Error("The application file '_project.js' included twice!");
-index=(function(){var A={__proto__:EmWiCompr_13_02};
+index=(function(){var A={__proto__:EmWiCompr_13_03};
 A.Bosnian=1;A.Bulgarian=2;A.Chinese_TWN=3;A.Czech=4;A.Default=0;A.Dutch=5;A.Estonian=
 6;A.Finnish=7;A.French=8;A.German=9;A.Greek=10;A.Italian=11;A.Japanese=12;A.Norwegian=
 13;A.Polish=14;A.Russian=15;A.Spanish=16;A.Turkish=17;A.Ukrainian=18;

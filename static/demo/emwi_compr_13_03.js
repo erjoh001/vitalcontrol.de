@@ -27,13 +27,13 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 13.02
+* Version  : 13.03
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *
 *******************************************************************************/
 
-EmWiCompr_13_02=(function(){var e={};e._SetLanguage=function(nn){if(this.o7===nn)
+EmWiCompr_13_03=(function(){var e={};e._SetLanguage=function(nn){if(this.o7===nn)
 return nn;this.o7=nn;var eH=this.h8;while(eH){eH._ReInit();eH=eH._next;}this._ReInit(
 );return nn;};e._SetStyles=function(nv){if(this.wA===nv)return nv;this.wA=nv;var
 eH=this.h8;while(eH){eH._ReInit();eH=eH._next;}this._ReInit();return nv;};e.aaR=
@@ -635,7 +635,7 @@ var vT="precision mediump float;\n"+"uniform   highp   mat4 dst_map;\n"+"attribu
 "  vec4 clr_l   = mix( clr_tl, clr_bl, clr_pos.y );\n"+"  vec4 clr_r   = mix( clr_tr, clr_br, clr_pos.y );\n"+
 "  vec4 clr     = mix( clr_l,  clr_r,  clr_pos.x );\n"+"  gl_FragColor = texture2D( src, src_ofs + fract( src_pos_var.xy ) * src_size ).a\n"+
 "                            * clr;\n"+"}\n";var aZ="precision mediump       float;\n"+
-"uniform lowp  sampler2D src;\n"+"varying highp vec3      src_pos_var;\n";var a$=
+"uniform lowp  sampler2D src;\n"+"varying highp vec3      src_pos_var;\n";var ba=
 "uniform highp vec2      src_step;\n";var dT="uniform lowp  sampler2D msk;\n"+"varying highp vec2      msk_pos_var;\n"+
 "uniform       bool      msk_invert;\n";var gg="uniform highp vec2      msk_step;\n";
 var bQ="uniform lowp  float     opacity;\n";var cO="uniform lowp  vec4      tint;\n"+
@@ -714,94 +714,94 @@ var gh="  }\n";var h2="  {0} = texture2D( src, src_pos_var.xy );\n";var fO="  ve
 "\n"+"  {0} = tmp;\n";var fp="  {0} = {1} * opacity;\n";var fq="  float gray   = dot( {1}.rgb, vec3( 0.299, 0.587, 0.114 ));\n"+
 "  vec4  color2 = tint * vec4( vec3( gray ), {1}.a );\n"+"  {0} = mix( {1}, color2, intensity ) * opacity;\n";
 var fr="  vec4 color2 = {1}.a * tint;\n"+"  {0} = mix( {1}, color2, intensity ) * opacity;\n";
-var uo=aZ+a$+a0+j(eN,{'0':'src'})+j(fO,{'0':'gl_FragColor'})+a1;var up=aZ+a$+cC+
-a0+j(eN,{'0':'src'})+jQ+j(fO,{'0':'gl_FragColor'})+a1;var uq=aZ+a$+a0+j(cv,{'0':
-'src'})+j(fP,{'0':'gl_FragColor'})+a1;var ur=aZ+a$+cC+a0+j(cv,{'0':'src'})+fN+j(
-fP,{'0':'gl_FragColor'})+a1;var us=aZ+a$+a0+j(eO,{'0':'src'})+j(fQ,{'0':'gl_FragColor'
-})+a1;var ut=aZ+a$+cC+a0+j(eO,{'0':'src'})+jR+j(fQ,{'0':'gl_FragColor'})+a1;var uu=
-aZ+a$+a0+j(cv,{'0':'src'})+j(gi,{'0':'gl_FragColor'})+a1;var uv=aZ+a$+cC+a0+j(cv
-,{'0':'src'})+fN+j(gi,{'0':'gl_FragColor'})+a1;var uw=aZ+a$+a0+j(fo,{'0':'src'})+
-j(gj,{'0':'gl_FragColor'})+a1;var ux=aZ+a$+cC+a0+j(fo,{'0':'src'})+k2+j(gj,{'0':
-'gl_FragColor'})+a1;var uy=aZ+a$+dT+gg+a0+j(eN,{'0':'src'})+j(eN,{'0':'msk'})+j(
+var uo=aZ+ba+a0+j(eN,{'0':'src'})+j(fO,{'0':'gl_FragColor'})+a1;var up=aZ+ba+cC+
+a0+j(eN,{'0':'src'})+jQ+j(fO,{'0':'gl_FragColor'})+a1;var uq=aZ+ba+a0+j(cv,{'0':
+'src'})+j(fP,{'0':'gl_FragColor'})+a1;var ur=aZ+ba+cC+a0+j(cv,{'0':'src'})+fN+j(
+fP,{'0':'gl_FragColor'})+a1;var us=aZ+ba+a0+j(eO,{'0':'src'})+j(fQ,{'0':'gl_FragColor'
+})+a1;var ut=aZ+ba+cC+a0+j(eO,{'0':'src'})+jR+j(fQ,{'0':'gl_FragColor'})+a1;var uu=
+aZ+ba+a0+j(cv,{'0':'src'})+j(gi,{'0':'gl_FragColor'})+a1;var uv=aZ+ba+cC+a0+j(cv
+,{'0':'src'})+fN+j(gi,{'0':'gl_FragColor'})+a1;var uw=aZ+ba+a0+j(fo,{'0':'src'})+
+j(gj,{'0':'gl_FragColor'})+a1;var ux=aZ+ba+cC+a0+j(fo,{'0':'src'})+k2+j(gj,{'0':
+'gl_FragColor'})+a1;var uy=aZ+ba+dT+gg+a0+j(eN,{'0':'src'})+j(eN,{'0':'msk'})+j(
 oY)+j(o0)+j(gh)+j(fO,{'0':'gl_FragColor','1':'* msk_0','2':'* msk_1L','3':'* msk_1R'
-,'4':'* msk_2L','5':'* msk_2R'})+a1;var uz=aZ+a$+dT+gg+cC+a0+j(eN,{'0':'src'})+j(
+,'4':'* msk_2L','5':'* msk_2R'})+a1;var uz=aZ+ba+dT+gg+cC+a0+j(eN,{'0':'src'})+j(
 eN,{'0':'msk'})+jQ+j(oY)+j(o0)+j(gh)+j(fO,{'0':'gl_FragColor','1':'* msk_0','2':
-'* msk_1L','3':'* msk_1R','4':'* msk_2L','5':'* msk_2R'})+a1;var uA=aZ+a$+dT+gg+
+'* msk_1L','3':'* msk_1R','4':'* msk_2L','5':'* msk_2R'})+a1;var uA=aZ+ba+dT+gg+
 a0+j(cv,{'0':'src'})+j(cv,{'0':'msk'})+j(k3)+j(k4)+j(gh)+j(fP,{'0':'gl_FragColor'
 ,'1':'* msk_0','2':'* msk_1L','3':'* msk_1R','4':'* msk_2L','5':'* msk_2R','6':'* msk_3L'
-,'7':'* msk_3R','8':'* msk_4L','9':'* msk_4R'})+a1;var uB=aZ+a$+dT+gg+cC+a0+j(cv
+,'7':'* msk_3R','8':'* msk_4L','9':'* msk_4R'})+a1;var uB=aZ+ba+dT+gg+cC+a0+j(cv
 ,{'0':'src'})+j(cv,{'0':'msk'})+fN+j(k3)+j(k4)+j(gh)+j(fP,{'0':'gl_FragColor','1':
 '* msk_0','2':'* msk_1L','3':'* msk_1R','4':'* msk_2L','5':'* msk_2R','6':'* msk_3L'
-,'7':'* msk_3R','8':'* msk_4L','9':'* msk_4R'})+a1;var uC=aZ+a$+dT+gg+a0+j(eO,{'0':
+,'7':'* msk_3R','8':'* msk_4L','9':'* msk_4R'})+a1;var uC=aZ+ba+dT+gg+a0+j(eO,{'0':
 'src'})+j(eO,{'0':'msk'})+j(oZ)+j(o1)+j(gh)+j(fQ,{'0':'gl_FragColor','1':'* msk_0'
 ,'2':'* msk_1L','3':'* msk_1R','4':'* msk_2L','5':'* msk_2R','6':'* msk_3L','7':
 '* msk_3R','8':'* msk_4L','9':'* msk_4R','A':'* msk_5L','B':'* msk_5R','C':'* msk_6L'
-,'D':'* msk_6R'})+a1;var uD=aZ+a$+dT+gg+cC+a0+j(eO,{'0':'src'})+j(eO,{'0':'msk'}
+,'D':'* msk_6R'})+a1;var uD=aZ+ba+dT+gg+cC+a0+j(eO,{'0':'src'})+j(eO,{'0':'msk'}
 )+jR+j(oZ)+j(o1)+j(gh)+j(fQ,{'0':'gl_FragColor','1':'* msk_0','2':'* msk_1L','3':
 '* msk_1R','4':'* msk_2L','5':'* msk_2R','6':'* msk_3L','7':'* msk_3R','8':'* msk_4L'
 ,'9':'* msk_4R','A':'* msk_5L','B':'* msk_5R','C':'* msk_6L','D':'* msk_6R'})+a1;
-var uE=aZ+a$+dT+gg+a0+j(cv,{'0':'src'})+j(cv,{'0':'msk'})+j(k3)+j(k4)+j(gh)+j(gi
+var uE=aZ+ba+dT+gg+a0+j(cv,{'0':'src'})+j(cv,{'0':'msk'})+j(k3)+j(k4)+j(gh)+j(gi
 ,{'0':'gl_FragColor','1':'* msk_0','2':'* msk_1L','3':'* msk_1R','4':'* msk_2L',
 '5':'* msk_2R','6':'* msk_3L','7':'* msk_3R','8':'* msk_4L','9':'* msk_4R'})+a1;
-var uF=aZ+a$+dT+gg+cC+a0+j(cv,{'0':'src'})+j(cv,{'0':'msk'})+fN+j(k3)+j(k4)+j(gh
+var uF=aZ+ba+dT+gg+cC+a0+j(cv,{'0':'src'})+j(cv,{'0':'msk'})+fN+j(k3)+j(k4)+j(gh
 )+j(gi,{'0':'gl_FragColor','1':'* msk_0','2':'* msk_1L','3':'* msk_1R','4':'* msk_2L'
 ,'5':'* msk_2R','6':'* msk_3L','7':'* msk_3R','8':'* msk_4L','9':'* msk_4R'})+a1;
-var uG=aZ+a$+dT+gg+a0+j(fo,{'0':'src'})+j(fo,{'0':'msk'})+j(rk)+j(rl)+j(gh)+j(gj
+var uG=aZ+ba+dT+gg+a0+j(fo,{'0':'src'})+j(fo,{'0':'msk'})+j(rk)+j(rl)+j(gh)+j(gj
 ,{'0':'gl_FragColor','1':'* msk_0','2':'* msk_1L','3':'* msk_1R','4':'* msk_2L',
 '5':'* msk_2R','6':'* msk_3L','7':'* msk_3R','8':'* msk_4L','9':'* msk_4R','A':'* msk_5L'
 ,'B':'* msk_5R','C':'* msk_6L','D':'* msk_6R','E':'* msk_7L','F':'* msk_7R','G':
-'* msk_8L','H':'* msk_8R'})+a1;var uH=aZ+a$+dT+gg+cC+a0+j(fo,{'0':'src'})+j(fo,{
+'* msk_8L','H':'* msk_8R'})+a1;var uH=aZ+ba+dT+gg+cC+a0+j(fo,{'0':'src'})+j(fo,{
 '0':'msk'})+k2+j(rk)+j(rl)+j(gh)+j(gj,{'0':'gl_FragColor','1':'* msk_0','2':'* msk_1L'
 ,'3':'* msk_1R','4':'* msk_2L','5':'* msk_2R','6':'* msk_3L','7':'* msk_3R','8':
 '* msk_4L','9':'* msk_4R','A':'* msk_5L','B':'* msk_5R','C':'* msk_6L','D':'* msk_6R'
 ,'E':'* msk_7L','F':'* msk_7R','G':'* msk_8L','H':'* msk_8R'})+a1;var uI=aZ+dT+a0+
 j(h0)+j(h2,{'0':'vec4 color'})+j(h1,{'0':'gl_FragColor','1':'color'})+a1;var uJ=
-aZ+a$+dT+a0+j(eN,{'0':'src'})+j(h0)+j(fO,{'0':'vec4 color'})+j(h1,{'0':'gl_FragColor'
-,'1':'color'})+a1;var uK=aZ+a$+dT+a0+j(cv,{'0':'src'})+j(h0)+j(fP,{'0':'vec4 color'
-})+j(h1,{'0':'gl_FragColor','1':'color'})+a1;var uL=aZ+a$+dT+a0+j(eO,{'0':'src'}
+aZ+ba+dT+a0+j(eN,{'0':'src'})+j(h0)+j(fO,{'0':'vec4 color'})+j(h1,{'0':'gl_FragColor'
+,'1':'color'})+a1;var uK=aZ+ba+dT+a0+j(cv,{'0':'src'})+j(h0)+j(fP,{'0':'vec4 color'
+})+j(h1,{'0':'gl_FragColor','1':'color'})+a1;var uL=aZ+ba+dT+a0+j(eO,{'0':'src'}
 )+j(h0)+j(fQ,{'0':'vec4 color'})+j(h1,{'0':'gl_FragColor','1':'color'})+a1;var uP=
 aZ+bQ+cO+a0+j(h2,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var
-uQ=aZ+a$+bQ+cO+a0+j(eN,{'0':'src'})+j(fO,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor'
-,'1':'color'})+a1;var uR=aZ+a$+bQ+cO+cC+a0+j(eN,{'0':'src'})+jQ+j(fO,{'0':'vec4 color'
-})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var uS=aZ+a$+bQ+cO+a0+j(cv,{'0':'src'
+uQ=aZ+ba+bQ+cO+a0+j(eN,{'0':'src'})+j(fO,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor'
+,'1':'color'})+a1;var uR=aZ+ba+bQ+cO+cC+a0+j(eN,{'0':'src'})+jQ+j(fO,{'0':'vec4 color'
+})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var uS=aZ+ba+bQ+cO+a0+j(cv,{'0':'src'
 })+j(fP,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var uT=aZ+
-a$+bQ+cO+cC+a0+j(cv,{'0':'src'})+fN+j(fP,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor'
-,'1':'color'})+a1;var uU=aZ+a$+bQ+cO+a0+j(eO,{'0':'src'})+j(fQ,{'0':'vec4 color'
-})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var uV=aZ+a$+bQ+cO+cC+a0+j(eO,{'0':
+ba+bQ+cO+cC+a0+j(cv,{'0':'src'})+fN+j(fP,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor'
+,'1':'color'})+a1;var uU=aZ+ba+bQ+cO+a0+j(eO,{'0':'src'})+j(fQ,{'0':'vec4 color'
+})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var uV=aZ+ba+bQ+cO+cC+a0+j(eO,{'0':
 'src'})+jR+j(fQ,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var
-uW=aZ+a$+bQ+cO+a0+j(cv,{'0':'src'})+j(gi,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor'
-,'1':'color'})+a1;var uX=aZ+a$+bQ+cO+cC+a0+j(cv,{'0':'src'})+fN+j(gi,{'0':'vec4 color'
-})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var uY=aZ+a$+bQ+cO+a0+j(fo,{'0':'src'
+uW=aZ+ba+bQ+cO+a0+j(cv,{'0':'src'})+j(gi,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor'
+,'1':'color'})+a1;var uX=aZ+ba+bQ+cO+cC+a0+j(cv,{'0':'src'})+fN+j(gi,{'0':'vec4 color'
+})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var uY=aZ+ba+bQ+cO+a0+j(fo,{'0':'src'
 })+j(gj,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor','1':'color'})+a1;var uZ=aZ+
-a$+bQ+cO+cC+a0+j(fo,{'0':'src'})+k2+j(gj,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor'
+ba+bQ+cO+cC+a0+j(fo,{'0':'src'})+k2+j(gj,{'0':'vec4 color'})+j(fq,{'0':'gl_FragColor'
 ,'1':'color'})+a1;var u0=aZ+bQ+cO+a0+j(h2,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor'
-,'1':'color'})+a1;var u1=aZ+a$+bQ+cO+a0+j(eN,{'0':'src'})+j(fO,{'0':'vec4 color'
-})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var u2=aZ+a$+bQ+cO+cC+a0+j(eN,{'0':
+,'1':'color'})+a1;var u1=aZ+ba+bQ+cO+a0+j(eN,{'0':'src'})+j(fO,{'0':'vec4 color'
+})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var u2=aZ+ba+bQ+cO+cC+a0+j(eN,{'0':
 'src'})+jQ+j(fO,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var
-u3=aZ+a$+bQ+cO+a0+j(cv,{'0':'src'})+j(fP,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor'
-,'1':'color'})+a1;var u4=aZ+a$+bQ+cO+cC+a0+j(cv,{'0':'src'})+fN+j(fP,{'0':'vec4 color'
-})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var u5=aZ+a$+bQ+cO+a0+j(eO,{'0':'src'
+u3=aZ+ba+bQ+cO+a0+j(cv,{'0':'src'})+j(fP,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor'
+,'1':'color'})+a1;var u4=aZ+ba+bQ+cO+cC+a0+j(cv,{'0':'src'})+fN+j(fP,{'0':'vec4 color'
+})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var u5=aZ+ba+bQ+cO+a0+j(eO,{'0':'src'
 })+j(fQ,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var u6=aZ+
-a$+bQ+cO+cC+a0+j(eO,{'0':'src'})+jR+j(fQ,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor'
-,'1':'color'})+a1;var u7=aZ+a$+bQ+cO+a0+j(cv,{'0':'src'})+j(gi,{'0':'vec4 color'
-})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var u8=aZ+a$+bQ+cO+cC+a0+j(cv,{'0':
+ba+bQ+cO+cC+a0+j(eO,{'0':'src'})+jR+j(fQ,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor'
+,'1':'color'})+a1;var u7=aZ+ba+bQ+cO+a0+j(cv,{'0':'src'})+j(gi,{'0':'vec4 color'
+})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var u8=aZ+ba+bQ+cO+cC+a0+j(cv,{'0':
 'src'})+fN+j(gi,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var
-u9=aZ+a$+bQ+cO+a0+j(fo,{'0':'src'})+j(gj,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor'
-,'1':'color'})+a1;var u_=aZ+a$+bQ+cO+cC+a0+j(fo,{'0':'src'})+k2+j(gj,{'0':'vec4 color'
+u9=aZ+ba+bQ+cO+a0+j(fo,{'0':'src'})+j(gj,{'0':'vec4 color'})+j(fr,{'0':'gl_FragColor'
+,'1':'color'})+a1;var u_=aZ+ba+bQ+cO+cC+a0+j(fo,{'0':'src'})+k2+j(gj,{'0':'vec4 color'
 })+j(fr,{'0':'gl_FragColor','1':'color'})+a1;var u$=aZ+bQ+a0+j(h2,{'0':'vec4 color'
-})+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var va=aZ+a$+bQ+a0+j(eN,{'0':'src'}
-)+j(fO,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var vb=aZ+a$+
+})+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var va=aZ+ba+bQ+a0+j(eN,{'0':'src'}
+)+j(fO,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var vb=aZ+ba+
 bQ+cC+a0+j(eN,{'0':'src'})+jQ+j(fO,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor',
-'1':'color'})+a1;var vc=aZ+a$+bQ+a0+j(cv,{'0':'src'})+j(fP,{'0':'vec4 color'})+j(
-fp,{'0':'gl_FragColor','1':'color'})+a1;var vd=aZ+a$+bQ+cC+a0+j(cv,{'0':'src'})+
+'1':'color'})+a1;var vc=aZ+ba+bQ+a0+j(cv,{'0':'src'})+j(fP,{'0':'vec4 color'})+j(
+fp,{'0':'gl_FragColor','1':'color'})+a1;var vd=aZ+ba+bQ+cC+a0+j(cv,{'0':'src'})+
 fN+j(fP,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var ve=aZ+
-a$+bQ+a0+j(eO,{'0':'src'})+j(fQ,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':
-'color'})+a1;var vf=aZ+a$+bQ+cC+a0+j(eO,{'0':'src'})+jR+j(fQ,{'0':'vec4 color'})+
-j(fp,{'0':'gl_FragColor','1':'color'})+a1;var vg=aZ+a$+bQ+a0+j(cv,{'0':'src'})+j(
-gi,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var vh=aZ+a$+bQ+
+ba+bQ+a0+j(eO,{'0':'src'})+j(fQ,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':
+'color'})+a1;var vf=aZ+ba+bQ+cC+a0+j(eO,{'0':'src'})+jR+j(fQ,{'0':'vec4 color'})+
+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var vg=aZ+ba+bQ+a0+j(cv,{'0':'src'})+j(
+gi,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var vh=aZ+ba+bQ+
 cC+a0+j(cv,{'0':'src'})+fN+j(gi,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':
-'color'})+a1;var vi=aZ+a$+bQ+a0+j(fo,{'0':'src'})+j(gj,{'0':'vec4 color'})+j(fp,{
-'0':'gl_FragColor','1':'color'})+a1;var vj=aZ+a$+bQ+cC+a0+j(fo,{'0':'src'})+k2+j(
+'color'})+a1;var vi=aZ+ba+bQ+a0+j(fo,{'0':'src'})+j(gj,{'0':'vec4 color'})+j(fp,{
+'0':'gl_FragColor','1':'color'})+a1;var vj=aZ+ba+bQ+cC+a0+j(fo,{'0':'src'})+k2+j(
 gj,{'0':'vec4 color'})+j(fp,{'0':'gl_FragColor','1':'color'})+a1;var uM=aZ+dT+bQ+
 cO+a0+j(h0)+j(h2,{'0':'vec4 color'})+j(fq,{'0':'color','1':'color'})+j(h1,{'0':'gl_FragColor'
 ,'1':'color'})+a1;var uN=aZ+dT+bQ+cO+a0+j(h0)+j(h2,{'0':'vec4 color'})+j(fr,{'0':
@@ -1097,49 +1097,49 @@ max>=min){t=(max+min)>>1;ed=yX-(g.charCodeAt(t*2)|(g.charCodeAt(t*2+1)<<16));if(
 !ed)return zK.charCodeAt(t)-128;if(ed<0)max=t-1;else min=t+1;}return 0;};e.m9=function(
 az,m,ak,ae){var p=0;var bm=0;var a_=m.length;var aq;if(!az){console.log("EmWi error: Invalid font resource."
 );return 0;}if(ae===-1)ae=a_;if(a_<ae)ae=a_;if(ak<0){ae+=ak;ak=0;}if((ak+ae)>a_)
-ae=a_-ak;aq=this.hi();while(ae>0){var aD=[];var ab=m.charCodeAt(ak);var ba;var d;
+ae=a_-ak;aq=this.hi();while(ae>0){var aD=[];var ab=m.charCodeAt(ak);var a$;var d;
 if((ab===0x061C)||(ab===0xFEFF)||((ab>=0x200B)&&(ab<=0x200F))||((ab>=0x202A)&&(ab<=
 0x202E))||((ab>=0x2066)&&(ab<=0x2069))){ae--;ak++;continue;}if(ab===0x000A){ae--;
-ak++;bm=0;continue;}ba=this.gl(az,m,ak,Math.min(ae,8),false,aD,aq);if(!ba){aD[0]=
-1;aD[1]=0;ba=1;}for(d=0;d<aD[0];d++){var ad=this.e7(az,aD[d+1]);if(!ad){bm=0;continue;
-}p+=this.dw(az,bm,aD[d+1])+ad.Advance;bm=aD[d+1];}ae-=ba;ak+=ba;}return p;};e.aaQ=
+ak++;bm=0;continue;}a$=this.gl(az,m,ak,Math.min(ae,8),false,aD,aq);if(!a$){aD[0]=
+1;aD[1]=0;a$=1;}for(d=0;d<aD[0];d++){var ad=this.e7(az,aD[d+1]);if(!ad){bm=0;continue;
+}p+=this.dw(az,bm,aD[d+1])+ad.Advance;bm=aD[d+1];}ae-=a$;ak+=a$;}return p;};e.aaQ=
 function(az,m,ak,ae){var gr=[0,0,0,0];var p=0;var bm=0;var a_=m.length;var aq;if(
 !az){console.log("EmWi error: Invalid font resource.");return this.wg;}if(ae===-
 1)ae=a_;if(a_<ae)ae=a_;if(ak<0){ae+=ak;ak=0;}if((ak+ae)>a_)ae=a_-ak;aq=this.hi();
-while(ae>0){var aD=[];var ab=m.charCodeAt(ak);var ba;var d;if((ab===0x061C)||(ab===
+while(ae>0){var aD=[];var ab=m.charCodeAt(ak);var a$;var d;if((ab===0x061C)||(ab===
 0xFEFF)||((ab>=0x200B)&&(ab<=0x200F))||((ab>=0x202A)&&(ab<=0x202E))||((ab>=0x2066
-)&&(ab<=0x2069))){ae--;ak++;continue;}if(ab===0x000A){ae--;ak++;bm=0;continue;}ba=
-this.gl(az,m,ak,Math.min(ae,8),false,aD,aq);if(!ba){aD[0]=1;aD[1]=0;ba=1;}for(d=
+)&&(ab<=0x2069))){ae--;ak++;continue;}if(ab===0x000A){ae--;ak++;bm=0;continue;}a$=
+this.gl(az,m,ak,Math.min(ae,8),false,aD,aq);if(!a$){aD[0]=1;aD[1]=0;a$=1;}for(d=
 0;d<aD[0];d++){var ad=this.e7(az,aD[d+1]);if(!ad){bm=0;continue;}if(!p)gr[0]=ad.
 OriginX;gr[1]=Math.min(gr[1],ad.OriginY);gr[3]=Math.max(gr[3],ad.OriginY+ad.Height
 );p+=this.dw(az,bm,aD[d+1]);gr[2]=Math.max(gr[2],p+ad.OriginX+ad.Width);p+=ad.Advance;
-if(!(ad.OriginX+ad.Width)&&ad.Advance)gr[2]=Math.max(p,gr[2]);bm=aD[d+1];}ae-=ba;
-ak+=ba;}return gr;};e.aaP=function(az,m,ak,ae,bx,eT){var ga=0;var f$=0x8000;var sD=
+if(!(ad.OriginX+ad.Width)&&ad.Advance)gr[2]=Math.max(p,gr[2]);bm=aD[d+1];}ae-=a$;
+ak+=a$;}return gr;};e.aaP=function(az,m,ak,ae,bx,eT){var ga=0;var f$=0x8000;var sD=
 0;var a_=m.length;var bm=0;var aq;if(!az){console.log("EmWi error: Invalid font resource."
 );return 0;}if(ae===-1)ae=a_;if(a_<ae)ae=a_;if(ak<0){ae+=ak;ak=0;}if((ak+ae)>a_)
 ae=a_-ak;if(!ae)return 0;if(bx<0)return-1;if(eT>0)eT-=this.m9(az,m,ak,ae);if(eT>
 0){var co=ak;var ao=ae;var f5=0;for(;ao;co++,ao--){var ab=m.charCodeAt(co);if((ab===
 32)||(ab===0xA0))f5++;}if(f5)ga=((eT<<16)/f5)|0;}aq=this.hi();while(ae>0){var aD=[
-];var ab=m.charCodeAt(ak);var kc=0;var ba;var d;if((ab===0x061C)||(ab===0xFEFF)||((
+];var ab=m.charCodeAt(ak);var kc=0;var a$;var d;if((ab===0x061C)||(ab===0xFEFF)||((
 ab>=0x200B)&&(ab<=0x200F))||((ab>=0x202A)&&(ab<=0x202E))||((ab>=0x2066)&&(ab<=0x2069
-))){ae--;ak++;continue;}if(ab===0x000A){ae--;ak++;bm=0;continue;}ba=this.gl(az,m
-,ak,Math.min(ae,8),false,aD,aq);if(!ba){aD[0]=1;aD[1]=0;ba=1;}for(d=0;d<aD[0];d++
+))){ae--;ak++;continue;}if(ab===0x000A){ae--;ak++;bm=0;continue;}a$=this.gl(az,m
+,ak,Math.min(ae,8),false,aD,aq);if(!a$){aD[0]=1;aD[1]=0;a$=1;}for(d=0;d<aD[0];d++
 ){var ad=this.e7(az,aD[d+1]);if(!ad){bm=0;continue;}kc+=this.dw(az,bm,aD[d+1]);kc+=
 ad.Advance;bm=aD[d+1];}if(ga&&((ab===0x20)||(ab===0xA0))){f$+=ga;kc+=f$>>16;f$&=
-0xFFFF;}if(bx<((kc>>1)+1))break;ae-=ba;ak+=ba;sD+=ba;bx-=kc;}return sD;};e.aaF=function(
+0xFFFF;}if(bx<((kc>>1)+1))break;ae-=a$;ak+=a$;sD+=a$;bx-=kc;}return sD;};e.aaF=function(
 az,m,ak,ae,gP,eT){var ga=0;var f$=0x8000;var p=0;var a_=m.length;var bm=0;var aq;
 if(!az){console.log("EmWi error: Invalid font resource.");return 0;}if(ae===-1)ae=
 a_;if(a_<ae)ae=a_;if(ak<0){ae+=ak;ak=0;}if((ak+ae)>a_)ae=a_-ak;if(!ae)return 0;if(
 gP<0)return-1;if(eT>0)eT-=this.m9(az,m,ak,ae);if(eT>0){var co=ak;var ao=ae;var f5=
 0;for(;ao;co++,ao--){var ab=m.charCodeAt(co);if((ab===32)||(ab===0xA0))f5++;}if(
 f5)ga=((eT<<16)/f5)|0;}aq=this.hi();while(ae>0){var aD=[];var ab=m.charCodeAt(ak
-);var kc=0;var ba;var d;if((ab===0x061C)||(ab===0xFEFF)||((ab>=0x200B)&&(ab<=0x200F
+);var kc=0;var a$;var d;if((ab===0x061C)||(ab===0xFEFF)||((ab>=0x200B)&&(ab<=0x200F
 ))||((ab>=0x202A)&&(ab<=0x202E))||((ab>=0x2066)&&(ab<=0x2069))){ae--;ak++;continue;
-}if(ab===0x000A){ae--;ak++;bm=0;continue;}ba=this.gl(az,m,ak,Math.min(ae,8),false
-,aD,aq);if(!ba){aD[0]=1;aD[1]=0;ba=1;}if(ba>gP)break;for(d=0;d<aD[0];d++){var ad=
+}if(ab===0x000A){ae--;ak++;bm=0;continue;}a$=this.gl(az,m,ak,Math.min(ae,8),false
+,aD,aq);if(!a$){aD[0]=1;aD[1]=0;a$=1;}if(a$>gP)break;for(d=0;d<aD[0];d++){var ad=
 this.e7(az,aD[d+1]);if(!ad){bm=0;continue;}p+=this.dw(az,bm,aD[d+1]);p+=ad.Advance;
 bm=aD[d+1];}if(ga&&((ab===0x20)||(ab===0xA0))){f$+=ga;p+=f$>>16;f$&=0xFFFF;}ae-=
-ba;ak+=ba;gP-=ba;}return p;};e.abv=function(az,m,ak,aI,rY,aB){var p8=(aI<0)?0x7FFFFFFE:
+a$;ak+=a$;gP-=a$;}return p;};e.abv=function(az,m,ak,aI,rY,aB){var p8=(aI<0)?0x7FFFFFFE:
 aI;var s9=(rY<0)?0x7FFFFFFF:rY;var lY=Math.max(ak,0);var i3=Math.max(m.length-lY
 ,0);var pW=i3*2+1;var ag=new Uint16Array(pW+1);var src=ag;var fX=1;var c9=fX+1;var
 g_=pW-i3;var b5=g_;var cH=0;var e4=false;var bm=0;var ei=-1;var width=0;var ao=0;
@@ -1148,7 +1148,7 @@ t+lY);ag[pW]=0;for(t=0;t<i3;t++)switch(src[t+b5]){case 0x25:src[b5+t++]=0xFEFF;b
 case 0x5E:src[b5+t]=0x200B;break;case 0x7E:src[b5+t]=0x00AD;break;}if(aB&&!this.
 rv(aB,src,b5,i3,-1))aB=null;if(aB){this.rx(aB,src,b5);this.rw(aB,src,b5);this.ru(
 aB,src,b5,null,[az]);}var tx=String.fromCharCode.apply(null,src.slice(b5));aq=this.
-hi();for(t=0;ab=src[b5];){var ba=1;if(ab!==0xA){var ad;var eG=0;var fV=0;var xt=
+hi();for(t=0;ab=src[b5];){var a$=1;if(ab!==0xA){var ad;var eG=0;var fV=0;var xt=
 b5;if((ab===0x061C)||((ab>=0x200C)&&(ab<=0x200F))||((ab>=0x202A)&&(ab<=0x202E))||((
 ab>=0x2066)&&(ab<=0x2069)))ab=0xFEFF;if(e4&&(ab!==0xFEFF)&&(ab!==0x200B)&&(ab!==
 0x00AD)&&(ab!==0x20))e4=false;if((ab===0x200B)&&width&&!e4){if(cH&&(ag[cH]===0xAD
@@ -1159,14 +1159,14 @@ this.jT(aB,b5-g_):0;kH=ad.Advance;if(av===ei)if(av&1)kH+=this.dw(az,fB,bm);else 
 this.dw(az,bm,fB);}if(((width+kH)<=p8)&&kH||!cH){if(cH&&(ag[cH]===0xAD))ag[cH]=0xFEFF;
 width-=kH;cH=c9;e4=true;}}if(ab===0x200B)ab=0xFEFF;if(ab!=0xFEFF){var aD=[];var eh=
 Math.min(i3-(b5-g_),8);var l2=ei;var iY=bm;var av;var d;if(aB){av=this.jT(aB,b5-
-g_);for(d=1;d<eh;d++)if(av!==this.jT(aB,b5-g_+d))eh=d;}this.rK(aq);ba=this.gl(az
-,tx,b5-g_,eh,av&1,aD,aq);if(!ba){aD[0]=1;aD[1]=0;ba=1;}for(d=0;d<aD[0];d++){var ad=
+g_);for(d=1;d<eh;d++)if(av!==this.jT(aB,b5-g_+d))eh=d;}this.rK(aq);a$=this.gl(az
+,tx,b5-g_,eh,av&1,aD,aq);if(!a$){aD[0]=1;aD[1]=0;a$=1;}for(d=0;d<aD[0];d++){var ad=
 this.e7(az,aD[d+1]);if(ad){eG+=ad.Advance;if(av===ei){if(av&1)eG+=this.dw(az,aD[
-d+1],bm);else eG+=this.dw(az,bm,aD[d+1]);}bm=aD[d+1];ei=av;}}fV=eG;if((ba<eh)&&((
-p8-width)<(3*fV))){var fU=0;this.ne(aq);this.gl(az,tx,b5-g_,ba,av&1,aD,aq);this.
+d+1],bm);else eG+=this.dw(az,bm,aD[d+1]);}bm=aD[d+1];ei=av;}}fV=eG;if((a$<eh)&&((
+p8-width)<(3*fV))){var fU=0;this.ne(aq);this.gl(az,tx,b5-g_,a$,av&1,aD,aq);this.
 ne(aq);for(d=0;d<aD[0];d++){var ad=this.e7(az,aD[d+1]);if(ad){fU+=ad.Advance;if(
 av===l2){if(av&1)fU+=this.dw(az,aD[d+1],iY);else fU+=this.dw(az,iY,aD[d+1]);}iY=
-aD[d+1];l2=av;}}if(fU>fV)fV=fU;}}if(((fV+width)<=p8)||!width){width+=eG;while(ba-->
+aD[d+1];l2=av;}}if(fU>fV)fV=fU;}}if(((fV+width)<=p8)||!width){width+=eG;while(a$-->
 0)ag[c9++]=src[b5++];}else if(cH){if(ag[cH]===0x20)ag[cH]=0xFEFF;for(b5--,c9--;c9>
 cH;b5--,c9--)src[b5]=ag[c9];cH=0;ab=0xA;b5++;c9++;}else{b5=xt;ab=0xA;}if(ab===0xA
 ){if(src[b5]===0x20){ag[c9++]=0xFEFF;b5++;}while(((ab=src[b5])===0xAD)||(ab===0x061C
@@ -1254,35 +1254,35 @@ null,eP);var ha=dd;var at=null;var dq=-1;var d7=0;var qM=0;var tM=0;var qL=0;var
 qI=0;var qJ=0;var qK=0;var e4=false;var gZ=0;var bm=0;var ei=-1;var aq=ap.hi();aG[
 0]=0;aG[1]=0;aG[2]=0;aG[3]=0;aG[4]=0;for(;eP[dd];dd++){var fc=fu[dd];var aX=eP[dd
 ];var type=fc&0xF;var fW=0;var pT=0;var sL=0;var sO=0;var nY=0;var nZ=0;var n0=0;
-var ba=0;if(((type===1)||(type===2))&&(((fc>>12)&0xFF)!==dq)){dq=(fc>>12)&0xFF;at=
+var a$=0;if(((type===1)||(type===2))&&(((fc>>12)&0xFF)!==dq)){dq=(fc>>12)&0xFF;at=
 null;if(ax&&(dq>=0)&&(dq<ax.gf))at=ax.fl[dq];if(!at){dq=0;at=(ax&&(ax.gf>0))?ax.
 fl[0]:null;}ei=-1;bm=0;ap.lg(aq);}if((aX===0xA)&&at){aG[3]=Math.max(aG[3],at.Ascent
 );aG[4]=Math.max(aG[4],at.Leading);gZ=Math.max(gZ,at.Descent);}if(aX===0xA)break;
 if((type>=3)&&(type<=5)){var hw=(fc>>12)&0xFF;var ch=null;if(ax&&(hw>=0)&&(hw<ax.
 hY))ch=ax.hd[hw];if(!ch&&ax&&(ax.hY>0))ch=ax.hd[0];if(ch){fW=ch.FrameSize[0];sL=
-ch.FrameSize[1];pT=fW;}ei=-1;bm=0;ap.lg(aq);}else{var ad;if((aX===0x200B)&&(!aG[
-0]||e4))aX=0xFEFF;if((aX===0xAD)&&(!aG[0]||e4))aX=0xFEFF;if((aX===0x20)&&!aG[0])
-aX=0xA0;if((aX===0x20)||(aX===0x200B)){if(d7&&(eP[d7]===0xAD))eP[d7]=0xFEFF;d7=dd;
-qM=aG[0];tM=aG[1];qL=aG[2];qI=aG[3];qK=aG[4];qJ=gZ;e4=true;}if(aX===0xAD){var fB=
-at?ap.gL(at,aX):0;if(fB&&aG[0]&&(ad=ap.e7(at,fB))){var av=aB?ap.jT(aB,dd):0;fW=ad.
-Advance;nY=at.Ascent;nZ=at.Descent;n0=at.Leading;if(av===ei)if(av&1)fW+=ap.dw(at
-,fB,bm);else fW+=ap.dw(at,bm,fB);}if(((aG[0]+fW)<=pE)&&fW){if(d7&&(eP[d7]===0xAD
+ch.FrameSize[1];pT=fW;}ei=-1;bm=0;a$=1;ap.lg(aq);}else{var ad;if((aX===0x200B)&&(
+!aG[0]||e4))aX=0xFEFF;if((aX===0xAD)&&(!aG[0]||e4))aX=0xFEFF;if((aX===0x20)&&!aG[
+0])aX=0xA0;if((aX===0x20)||(aX===0x200B)){if(d7&&(eP[d7]===0xAD))eP[d7]=0xFEFF;d7=
+dd;qM=aG[0];tM=aG[1];qL=aG[2];qI=aG[3];qK=aG[4];qJ=gZ;e4=true;}if(aX===0xAD){var
+fB=at?ap.gL(at,aX):0;if(fB&&aG[0]&&(ad=ap.e7(at,fB))){var av=aB?ap.jT(aB,dd):0;fW=
+ad.Advance;nY=at.Ascent;nZ=at.Descent;n0=at.Leading;if(av===ei)if(av&1)fW+=ap.dw(
+at,fB,bm);else fW+=ap.dw(at,bm,fB);}if(((aG[0]+fW)<=pE)&&fW){if(d7&&(eP[d7]===0xAD
 ))eP[d7]=0xFEFF;d7=dd;qM=aG[0]+fW;qI=Math.max(aG[3],nY);qK=Math.max(aG[4],n0);qJ=
 Math.max(gZ,nZ);qL=aG[2];e4=true;}continue;}if((aX===0x061C)||((aX>=0x200B)&&(aX<=
 0x200F))||((aX>=0x202A)&&(aX<=0x202E))||((aX>=0x2066)&&(aX<=0x2069)))aX=0xFEFF;if(
 aX===0xFEFF){eP[dd]=0xFEFF;continue;}if(d7!==dd)e4=false;if(at){var aD=[];var av=
 0;var eh=1;var eG=0;var fV=0;var l2=ei;var iY=bm;var d=dd+1;while(eP[d]&&(fu[d]===
 fc)&&(eh<8)){eh++;d++;}if(aB){av=ap.jT(aB,dd);for(d=1;d<eh;d++)if(av!=ap.jT(aB,dd+
-d))eh=d;}ap.rK(aq);ba=ap.gl(at,nR,dd,eh,av&1,aD,aq);if(!ba){aD[0]=1;aD[1]=0;ba=1;
+d))eh=d;}ap.rK(aq);a$=ap.gl(at,nR,dd,eh,av&1,aD,aq);if(!a$){aD[0]=1;aD[1]=0;a$=1;
 }for(d=0;d<aD[0];d++){var ad=ap.e7(at,aD[d+1]);if(ad){eG+=ad.Advance;if(av===ei){
 if(av&1)eG+=ap.dw(at,aD[d+1],bm);else eG+=ap.dw(at,bm,aD[d+1]);}bm=aD[d+1];ei=av;
-}}fV=eG;if((ba<eh)&&((pE-aG[0])<(3*fV))){var fU=0;ap.ne(aq);ap.gl(at,nR,dd,ba,av&
+}}fV=eG;if((a$<eh)&&((pE-aG[0])<(3*fV))){var fU=0;ap.ne(aq);ap.gl(at,nR,dd,a$,av&
 1,aD,aq);ap.ne(aq);for(d=0;d<aD[0];d++){var ad=ap.e7(at,aD[d+1]);if(ad){fU+=ad.Advance;
 if(av===l2){if(av&1)fU+=ap.dw(at,aD[d+1],iY);else fU+=ap.dw(at,iY,aD[d+1]);}iY=aD[
 d+1];l2=av;}}if(fU>fV)fV=fU;}fW=eG;pT=fV;nY=at.Ascent;nZ=at.Descent;n0=at.Leading;
 if((aX===0x20)||(aX===0xA0))sO=fW;}}if(((pT+aG[0])<=pE)||!aG[0]){aG[0]+=fW;aG[1]=
 Math.max(aG[1],sL);aG[3]=Math.max(aG[3],nY);aG[4]=Math.max(aG[4],n0);gZ=Math.max(
-gZ,nZ);aG[2]+=sO;dd+=ba-1;continue;}if(d7){aG[0]=qM;aG[1]=tM;aG[2]=qL;aG[3]=qI;aG[
+gZ,nZ);aG[2]+=sO;dd+=a$-1;continue;}if(d7){aG[0]=qM;aG[1]=tM;aG[2]=qL;aG[3]=qI;aG[
 4]=qK;gZ=qJ;dd=d7+1;if(eP[d7]===0x20)eP[d7]=0xFEFF;while((((type=(fu[dd]&0xF))===
 1)||(type===2))&&(((aX=eP[dd])===0xFEFF)||(aX===0x200B)||(aX===0xAD)))dd++;d7=0;
 }break;}if(d7&&(eP[d7]===0xAD))eP[d7]=0xFEFF;aG[1]=Math.max(aG[1],aG[3]+gZ);aG[3
@@ -1315,12 +1315,12 @@ hd[hw];if(!ch&&ax&&(ax.hY>0))ch=ax.hd[0];if(ch&&(hL>=ch.NoOfFrames))hL=0;if(ch){
 var co=eg[1]-ch.FrameSize[1];switch(type){case 3:co>>=1;break;case 5:co=0;break;
 }a2.push(0x49,p,dy[0]+e_[0]+co,hw,hL,eW);p+=ch.FrameSize[0];}bm=0;ap.lg(aq);}if(((
 type===1)||(type===2))&&at&&(aX!==0xFEFF)){var aD=[];var eh=1;var d=t+1;var pZ=true;
-var fc=gp[t];var ba=0;var eG=0;var d1=0;var bP;while(eV[d]&&(gp[d]==fc)&&(eh<8)&&(
-eh<ao)){eh++;d++;}ba=ap.gl(at,nR,t,eh,false,aD,aq);if(!ba){aD[0]=1;aD[1]=0;ba=1;
+var fc=gp[t];var a$=0;var eG=0;var d1=0;var bP;while(eV[d]&&(gp[d]==fc)&&(eh<8)&&(
+eh<ao)){eh++;d++;}a$=ap.gl(at,nR,t,eh,false,aD,aq);if(!a$){aD[0]=1;aD[1]=0;a$=1;
 }for(d=0;d<aD[0];d++){var ad=ap.e7(at,aD[d+1]);if(ad){eG+=ad.Advance;if(pZ){d1=ap.
 dw(at,bm,aD[1]);pZ=false;}else eG+=ap.dw(at,bm,aD[d+1]);bm=aD[d+1];}}if(!g9&&!pZ
-){g9=a2.length;a2.push(0x54,p+d1,dy[0]+e_[0]+eg[3],"",dq,eW);}for(bP=0;(bP<ba)&&
-g9;bP++)a2[g9+3]+=String.fromCharCode(eV[t+bP]);p+=eG+d1;t+=ba-1;ao-=ba-1;if((aX===
+){g9=a2.length;a2.push(0x54,p+d1,dy[0]+e_[0]+eg[3],"",dq,eW);}for(bP=0;(bP<a$)&&
+g9;bP++)a2[g9+3]+=String.fromCharCode(eV[t+bP]);p+=eG+d1;t+=a$-1;ao-=a$-1;if((aX===
 0x20)||(aX===0xA0))os+=ad.Advance;}}if(eV[t-1]!==0xA)t--;dy[0]+=eg[1]+e_[0];e_[0
 ]=eg[4];}if(dM)ap.rB(dM);eS[0]+=s4[0];return f2;}function tY(m,l,no){var ab;while((
 ab=m.charCodeAt(l))){if((ab===0x7B)&&d8(m,l,"{lnk:")){var ha=l+=5;while(((ab=m.charCodeAt(
@@ -2477,11 +2477,11 @@ ab=m.charCodeAt(co);if((ab===32)||(ab===0xA0))f5++;}if(f5)ga=((eT<<16)/f5)|0;}am
 cU(am);aj=cU(aj);al=cU(al);ai=cU(ai);var fC=(am!==al)||(aj!==ai)||(am!==aj);ex(b
 ,ag.aT,b.hZ);fM(b,null,false);b.bindTexture(b.TEXTURE_2D,this.la);if(b.ct&&!an)b.
 disable(b.BLEND);if(!b.ct&&an)b.enable(b.BLEND);b.ct=an;var cS=[];var kt=[];var l8=
-gA;aq=this.hi();while(ae>0){var aD=[];var ab=m.charCodeAt(ak);var ba;var d,bP;if((
+gA;aq=this.hi();while(ae>0){var aD=[];var ab=m.charCodeAt(ak);var a$;var d,bP;if((
 ab===0x061C)||(ab===0xFEFF)||((ab>=0x200B)&&(ab<=0x200F))||((ab>=0x202A)&&(ab<=0x202E
 ))||((ab>=0x2066)&&(ab<=0x2069))){ae--;ak++;continue;}if(ab===0x000A){ae--;ak++;
-bm=0;continue;}ba=this.gl(az,m,ak,Math.min(ae,8),false,aD,aq);if(!ba){aD[0]=1;aD[
-1]=0;ba=1;console.log("EmWi error: No glyph available for the character code: "+
+bm=0;continue;}a$=this.gl(az,m,ak,Math.min(ae,8),false,aD,aq);if(!a$){aD[0]=1;aD[
+1]=0;a$=1;console.log("EmWi error: No glyph available for the character code: "+
 m.charCodeAt(ak));}for(d=0;d<aD[0];d++){var ad=this.rD(az,aD[d+1]);var d1;if(!ad&&
 cS.length){if(fC)q1(b,cS,kt,ag.aK,l8,gB,cQ,s,q,x,w,f,am,aj,ai,al);else q0(b,cS,kt
 ,ag.aK,l8,gB,cQ,s,q,x,w,f,am);for(bP=0;bP<cS.length;bP++)cS[bP].m2--;cS=[];kt=[];
@@ -2489,8 +2489,8 @@ ad=this.rD(az,aD[d+1]);}if(!ad){console.log("EmWi error: Not able to load the gl
 aD[d+1]);return;}d1=this.dw(az,bm,aD[d+1]);if(ga&&((ab===0x20)||(ab===0xA0))){f$+=
 ga;d1+=f$>>16;f$&=0xFFFF;}if(((gA+d1+ad.OriginX+ad.Width)<=s)&&!cS.length){gA+=d1+
 ad.Advance;bm=aD[d+1];continue;}if((gA+d1+ad.OriginX)>=x){ae=0;break;}if(!cS.length
-)l8=gA;ad.m2++;cS.push(ad);kt.push(d1);gA+=d1+ad.Advance;bm=aD[d+1];}ae-=ba;ak+=
-ba;}if(cS.length){if(fC)q1(b,cS,kt,ag.aK,l8,gB,cQ,s,q,x,w,f,am,aj,ai,al);else q0(
+)l8=gA;ad.m2++;cS.push(ad);kt.push(d1);gA+=d1+ad.Advance;bm=aD[d+1];}ae-=a$;ak+=
+a$;}if(cS.length){if(fC)q1(b,cS,kt,ag.aK,l8,gB,cQ,s,q,x,w,f,am,aj,ai,al);else q0(
 b,cS,kt,ag.aK,l8,gB,cQ,s,q,x,w,f,am);for(bP=0;bP<cS.length;bP++)cS[bP].m2--;}if(
 this.c5)fn(b);};e.aaa=function(n,ax,bB,ac,k,f,cZ,hr,hs,io,im,an){if(!n||!ax||!bB||(
 ac<0)||(ac>=n.NoOfFrames))return;k=this.lb(k,f);if((k[2]<=k[0])||(k[3]<=k[1]))return;

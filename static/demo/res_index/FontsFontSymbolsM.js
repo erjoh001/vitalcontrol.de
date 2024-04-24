@@ -27,7 +27,7 @@
 * The demonstration application is browser based and can be run from inside any
 *  WebGL enabled web browser (Firefox, Chrome, Edge, ...):
 *
-* Version  : 13.02
+* Version  : 13.03
 * Profile  : WebGLDemonstrator
 * Platform : Web.WebGL.RGBA8888
 *

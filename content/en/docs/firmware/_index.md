@@ -1,11 +1,10 @@
 ---
-title: "Firmware"
-linkTitle: "Firmware"
+title: Firmware
+linkTitle: Firmware
 date: 2023-07-18T12:47:29+02:00
 draft: false
 weight: 60
-description: >
-  Download the latest firmware version and install it on your VitalControl device.
+description: Download the latest firmware version and install it on your VitalControl device.
 translationKey: firmware
 ---
 #### VitalControl version 0.9.10
