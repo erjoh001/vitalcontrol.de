@@ -37,80 +37,80 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 );if(index.aco)throw new Error("The unit file 'DeviceDemonstrator.js' included twice!"
 );index.aco=(function(){var A=index;var C={};
 var Ce=[0,0];var BD=[0,0,1000,740];var E7=[200,5,577,745];var Hr=[270,69,510,389];
-var IU=[605,30,975,740];var Is=[25,25,45,41];var O4=[547,610,687,750];var P_=[270
+var IV=[605,30,975,740];var Is=[25,25,45,41];var O4=[547,610,687,750];var P_=[270
 ,390];var P$=[350,390];var CQ=[350,450];var Ff=[270,450];var L3=[430,390];var Qa=[
-510,390];var J3=[510,450];var Oc=[430,450];var Qb=[360,390];var MJ=[420,390];var
-Ta=[420,450];var UU=[360,450];var Z5=[335,460];var W8=[447,460];var It=[447,500];
-var UV=[335,500];var Z6=[350,512];var W9=[430,512];var Z7=[430,592];var W_=[350,
-592];var Z8=[335,605];var Z9=[447,605];var UW=[447,665];var W$=[335,665];var O5=[
+510,390];var J5=[510,450];var Oc=[430,450];var Qb=[360,390];var MJ=[420,390];var
+S$=[420,450];var UT=[360,450];var Z5=[335,460];var W8=[447,460];var It=[447,500];
+var UU=[335,500];var Z6=[350,512];var W9=[430,512];var Z7=[430,592];var W_=[350,
+592];var Z8=[335,605];var Z9=[447,605];var UV=[447,665];var W$=[335,665];var O5=[
 264,504];var Z_=[344,504];var O6=[344,601];var Rn=[264,601];var Xa=[436,504];var
-Xb=[516,504];var UX=[516,601];var Z$=[436,601];var Aaa=[10,130,210,310];var Xc="%d%m%Y";
-var Xd="0";var Tb="1";var UY="2";var UZ="3";
-C.A5l={Bgy:null,Background:null,Acg:null,AkW:null,AgE:null,Ap:null,ZT:null,S3:null
+Xb=[516,504];var UW=[516,601];var Z$=[436,601];var Aaa=[10,130,210,310];var Xc="%d%m%Y";
+var Xd="0";var Ta="1";var UX="2";var UY="3";
+C.A5m={BgC:null,Background:null,Acg:null,AkW:null,AgE:null,Ap:null,ZT:null,S2:null
 ,ZU:null,ZW:null,ZV:null,W3:null,ZX:null,WX:null,W1:null,W2:null,Abe:null,Dn:null
 ,Init:function(aArg){A._GetAutoObject(A.Device.Device).Ar4(A._NewObject(A.Device.
-Transponder,0));},DriveCursorHitting:function(Te,BF,Fh){var Az0=this.AOR();if(!!
-Az0){var A2w=Az0.M;A2w=A.abJ(A2w,Az0.BjA(Ce));if(!A.wa(A2w,Fh)){this.ACK(Az0);Az0.
-Cs(0x10,0x0);}}return A.Core.Root.DriveCursorHitting.call(this,Te,BF,Fh);},Bpr:function(
+Transponder,0));},DriveCursorHitting:function(Td,BF,Fh){var Az0=this.AOR();if(!!
+Az0){var A2x=Az0.M;A2x=A.abJ(A2x,Az0.BjE(Ce));if(!A.wa(A2x,Fh)){this.ACK(Az0);Az0.
+Cs(0x10,0x0);}}return A.Core.Root.DriveCursorHitting.call(this,Td,BF,Fh);},Bpv:function(
 G){var K=this.K;this.Device.UpdateActiveScreen(3);K.AkW.Ar(false);},NC:function(
 G){var K=this.K;var B;var D5=(A.Core.Bn.isPrototypeOf(G)?G:null);var AiK=0;if(D5===
 K.ZV)AiK=27;else if(D5===K.ZU)AiK=26;else if(D5===K.ZW)AiK=28;else if(D5===K.W1)
 AiK=6;else if(D5===K.W2)AiK=7;else if(D5===K.W3)AiK=4;else if(D5===K.WX)AiK=5;else
-if(D5===K.ZX)AiK=1;if(!!D5){if((D5.Down&&(D5.Jt>0))&&(D5.Jt<400))return;var BzA=
+if(D5===K.ZX)AiK=1;if(!!D5){if((D5.Down&&(D5.Ju>0))&&(D5.Ju<400))return;var BzC=
 this.AV;this.Bb(this.GK);this.Im().DriveKeyboardHitting(AiK,0x00,D5.Down);this.Bb(
-BzA);K.S3.H(A.abM(K.S3.M,D5.H1[0]-((((B=K.S3.M)[2]-B[0])/2)|0)));K.S3.H(A.abO(K.
-S3.M,D5.H1[1]-((((B=K.S3.M)[3]-B[1])/2)|0)));K.ZT.Ar(true);}},AiR:function(G){var
-K=this.K;var B;var JC=(A.Core.BK.isPrototypeOf(G)?G:null);if((String.fromCharCode(
-JC.DQ).toLowerCase().charCodeAt(0)||0)===0x73)A._GetAutoObject(C.G1).Bfn(this);else
-if((String.fromCharCode(JC.DQ).toLowerCase().charCodeAt(0)||0)===0x74)A._GetAutoObject(
-A.Device.Helper).AK9(this);else if((String.fromCharCode(JC.DQ).toLowerCase().charCodeAt(
-0)||0)===0x64)this.Bb(this.GK);else if((String.fromCharCode(JC.DQ).toLowerCase().
-charCodeAt(0)||0)===0x63)this.Bb(K.AgE);else if(JC.CO===152){if(this.AV===K.AgE)
-this.Bb(this.GK);else this.Bb(K.AgE);}else if(this.AV===this.GK){if(JC.CO===11){
+BzC);K.S2.H(A.abM(K.S2.M,D5.H1[0]-((((B=K.S2.M)[2]-B[0])/2)|0)));K.S2.H(A.abO(K.
+S2.M,D5.H1[1]-((((B=K.S2.M)[3]-B[1])/2)|0)));K.ZT.Ar(true);}},AiR:function(G){var
+K=this.K;var B;var JD=(A.Core.BK.isPrototypeOf(G)?G:null);if((String.fromCharCode(
+JD.DQ).toLowerCase().charCodeAt(0)||0)===0x73)A._GetAutoObject(C.G1).Bfr(this);else
+if((String.fromCharCode(JD.DQ).toLowerCase().charCodeAt(0)||0)===0x74)A._GetAutoObject(
+A.Device.Helper).AK9(this);else if((String.fromCharCode(JD.DQ).toLowerCase().charCodeAt(
+0)||0)===0x64)this.Bb(this.GK);else if((String.fromCharCode(JD.DQ).toLowerCase().
+charCodeAt(0)||0)===0x63)this.Bb(K.AgE);else if(JD.CO===152){if(this.AV===K.AgE)
+this.Bb(this.GK);else this.Bb(K.AgE);}else if(this.AV===this.GK){if(JD.CO===11){
 this.Im().DriveKeyboardHitting(26,0x00,true);this.Im().DriveKeyboardHitting(26,0x00
-,false);}else if(JC.CO===12){this.Im().DriveKeyboardHitting(27,0x00,true);this.Im(
-).DriveKeyboardHitting(27,0x00,false);}else if(JC.CO===13){this.Im().DriveKeyboardHitting(
+,false);}else if(JD.CO===12){this.Im().DriveKeyboardHitting(27,0x00,true);this.Im(
+).DriveKeyboardHitting(27,0x00,false);}else if(JD.CO===13){this.Im().DriveKeyboardHitting(
 28,0x00,true);this.Im().DriveKeyboardHitting(28,0x00,false);}}},_Init:function(aArg
 ){var K=this.K;A.acg.Ap._Init.call(K.Background={I:this},0);A.acg.Ap._Init.call(
 K.Acg={I:this},0);A.Core.Timer._Init.call(K.AkW={I:this},0);A.acw.AUI._Init.call(
 K.AgE={I:this},0);A.acg.Ap._Init.call(K.Ap={I:this},0);A.acl.ANr._Init.call(K.ZT={
-I:this},0);A.acg.Ap._Init.call(K.S3={I:this},0);A.Core.Bn._Init.call(K.ZU={I:this
+I:this},0);A.acg.Ap._Init.call(K.S2={I:this},0);A.Core.Bn._Init.call(K.ZU={I:this
 },0);A.Core.Bn._Init.call(K.ZW={I:this},0);A.Core.Bn._Init.call(K.ZV={I:this},0);
 A.Core.Bn._Init.call(K.W3={I:this},0);A.Core.Bn._Init.call(K.ZX={I:this},0);A.Core.
 Bn._Init.call(K.WX={I:this},0);A.Core.Bn._Init.call(K.W1={I:this},0);A.Core.Bn._Init.
 call(K.W2={I:this},0);A.acw.Abe._Init.call(K.Abe={I:this},0);A.Core.BK._Init.call(
-K.Dn={I:this},0);K.__proto__=C.A5l;var B;this.H(BD);K.Background.H(BD);K.Acg.H(E7
-);this.GK.H(Hr);K.AkW.PV(2000);K.AkW.Ar(true);K.AgE.H(IU);K.Ap.H(Is);K.ZT.AkY=true;
-K.ZT.WI(9);K.ZT.HO(1);K.ZT.Fr(300);K.ZT.B2=0xA0FFFFFF;K.ZT.Cx=0x00FFFFFF;K.S3.H(
-O4);K.S3.L(0x00FFFFFF);K.ZU.JV(P_);K.ZU.Kw(P$);K.ZU.DC(CQ);K.ZU.DM(Ff);K.ZW.JV(L3
-);K.ZW.Kw(Qa);K.ZW.DC(J3);K.ZW.DM(Oc);K.ZV.JV(Qb);K.ZV.Kw(MJ);K.ZV.DC(Ta);K.ZV.DM(
-UU);K.W3.JV(Z5);K.W3.Kw(W8);K.W3.DC(It);K.W3.DM(UV);K.ZX.JV(Z6);K.ZX.Kw(W9);K.ZX.
-DC(Z7);K.ZX.DM(W_);K.WX.JV(Z8);K.WX.Kw(Z9);K.WX.DC(UW);K.WX.DM(W$);K.W1.JV(O5);K.
-W1.Kw(Z_);K.W1.DC(O6);K.W1.DM(Rn);K.W2.JV(Xa);K.W2.Kw(Xb);K.W2.DC(UX);K.W2.DM(Z$
+K.Dn={I:this},0);K.__proto__=C.A5m;var B;this.H(BD);K.Background.H(BD);K.Acg.H(E7
+);this.GK.H(Hr);K.AkW.PV(2000);K.AkW.Ar(true);K.AgE.H(IV);K.Ap.H(Is);K.ZT.AkY=true;
+K.ZT.WI(9);K.ZT.HO(1);K.ZT.Fr(300);K.ZT.B2=0xA0FFFFFF;K.ZT.Cx=0x00FFFFFF;K.S2.H(
+O4);K.S2.L(0x00FFFFFF);K.ZU.JX(P_);K.ZU.Kw(P$);K.ZU.DC(CQ);K.ZU.DM(Ff);K.ZW.JX(L3
+);K.ZW.Kw(Qa);K.ZW.DC(J5);K.ZW.DM(Oc);K.ZV.JX(Qb);K.ZV.Kw(MJ);K.ZV.DC(S$);K.ZV.DM(
+UT);K.W3.JX(Z5);K.W3.Kw(W8);K.W3.DC(It);K.W3.DM(UU);K.ZX.JX(Z6);K.ZX.Kw(W9);K.ZX.
+DC(Z7);K.ZX.DM(W_);K.WX.JX(Z8);K.WX.Kw(Z9);K.WX.DC(UV);K.WX.DM(W$);K.W1.JX(O5);K.
+W1.Kw(Z_);K.W1.DC(O6);K.W1.DM(Rn);K.W2.JX(Xa);K.W2.Kw(Xb);K.W2.DC(UW);K.W2.DM(Z$
 );K.Abe.H(Aaa);this.J(K.Background,-1);this.J(K.Acg,-1);this.J(K.AgE,0);this.J(K.
-Ap,0);this.J(K.S3,0);this.J(K.ZU,0);this.J(K.ZW,0);this.J(K.ZV,0);this.J(K.W3,0);
+Ap,0);this.J(K.S2,0);this.J(K.ZU,0);this.J(K.ZW,0);this.J(K.ZV,0);this.J(K.W3,0);
 this.J(K.ZX,0);this.J(K.WX,0);this.J(K.W1,0);this.J(K.W2,0);this.J(K.Abe,0);K.Background.
-Ax(A.aaL(A.acw.Background));K.Acg.Ax(A.aaL(A.acx.Acg));K.AkW.MC=[this,K.Bpr];K.Ap.
-Ax(A.aaL(A.acw.ARW));K.ZT.Q=[B=K.S3,B.Bk2,B.L];K.S3.Ax(A.aaL(A.acx.ARD));K.ZU.Lo=[
+Ax(A.aaL(A.acw.Background));K.Acg.Ax(A.aaL(A.acx.Acg));K.AkW.MC=[this,K.Bpv];K.Ap.
+Ax(A.aaL(A.acw.ARW));K.ZT.Q=[B=K.S2,B.Bk6,B.L];K.S2.Ax(A.aaL(A.acx.ARD));K.ZU.Lo=[
 this,K.NC];K.ZU.BL=[this,K.NC];K.ZW.Lo=[this,K.NC];K.ZW.BL=[this,K.NC];K.ZV.Lo=[
 this,K.NC];K.ZV.BL=[this,K.NC];K.W3.D1=[this,K.NC];K.W3.Lo=[this,K.NC];K.W3.BL=[
 this,K.NC];K.ZX.Lo=[this,K.NC];K.ZX.BL=[this,K.NC];K.WX.D1=[this,K.NC];K.WX.Lo=[
 this,K.NC];K.WX.BL=[this,K.NC];K.W1.D1=[this,K.NC];K.W1.Lo=[this,K.NC];K.W1.BL=[
 this,K.NC];K.W2.D1=[this,K.NC];K.W2.Lo=[this,K.NC];K.W2.BL=[this,K.NC];K.Abe.Ab6([
-B=A._GetAutoObject(A.Device.Helper),B.U4,B.U7]);K.Dn.BL=[this,K.AiR];K.Bgy=A._GetAutoObject(
+B=A._GetAutoObject(A.Device.Helper),B.U3,B.U6]);K.Dn.BL=[this,K.AiR];K.BgC=A._GetAutoObject(
 A.acs.Acp);K.Init.call(this,aArg);A.h7++;},_Done:function(){var K=this.K;K.__proto__=
 null;K.Background._Done();K.Acg._Done();K.AkW._Done();K.AgE._Done();K.Ap._Done();
-K.ZT._Done();K.S3._Done();K.ZU._Done();K.ZW._Done();K.ZV._Done();K.W3._Done();K.
+K.ZT._Done();K.S2._Done();K.ZU._Done();K.ZW._Done();K.ZV._Done();K.W3._Done();K.
 ZX._Done();K.WX._Done();K.W1._Done();K.W2._Done();K.Abe._Done();K.Dn._Done();A.h7--;
 },_ReInit:function(){var K=this.K;K.Background._ReInit();K.Acg._ReInit();K.AkW._ReInit(
-);K.AgE._ReInit();K.Ap._ReInit();K.ZT._ReInit();K.S3._ReInit();K.ZU._ReInit();K.
+);K.AgE._ReInit();K.Ap._ReInit();K.ZT._ReInit();K.S2._ReInit();K.ZU._ReInit();K.
 ZW._ReInit();K.ZV._ReInit();K.W3._ReInit();K.ZX._ReInit();K.WX._ReInit();K.W1._ReInit(
 );K.W2._ReInit();K.Abe._ReInit();K.Dn._ReInit();},_Mark:function(D){var B;if((B=
-this.Bgy)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.Background)._cycle!=D)B.
+this.BgC)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.Background)._cycle!=D)B.
 _Mark(B._cycle=D);if((B=this.Acg)._cycle!=D)B._Mark(B._cycle=D);if((B=this.AkW).
 _cycle!=D)B._Mark(B._cycle=D);if((B=this.AgE)._cycle!=D)B._Mark(B._cycle=D);if((
 B=this.Ap)._cycle!=D)B._Mark(B._cycle=D);if((B=this.ZT)._cycle!=D)B._Mark(B._cycle=
-D);if((B=this.S3)._cycle!=D)B._Mark(B._cycle=D);if((B=this.ZU)._cycle!=D)B._Mark(
+D);if((B=this.S2)._cycle!=D)B._Mark(B._cycle=D);if((B=this.ZU)._cycle!=D)B._Mark(
 B._cycle=D);if((B=this.ZW)._cycle!=D)B._Mark(B._cycle=D);if((B=this.ZV)._cycle!=
 D)B._Mark(B._cycle=D);if((B=this.W3)._cycle!=D)B._Mark(B._cycle=D);if((B=this.ZX
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.WX)._cycle!=D)B._Mark(B._cycle=D);if((
@@ -118,70 +118,70 @@ B=this.W1)._cycle!=D)B._Mark(B._cycle=D);if((B=this.W2)._cycle!=D)B._Mark(B._cyc
 D);if((B=this.Abe)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Dn)._cycle!=D)B._Mark(
 B._cycle=D);},_variants:function(){return this;},_className:"DeviceDemonstrator::ApplicationDemonstration"
 };C.DeviceClass={AJX:null,Avy:null,AuP:null,Init:function(aArg){var K=this.K;var
-B;A.zV([this,K.BkN],this.An,0);A.zX([this,K.BmZ],[B=K.AJX,B.A9h,B.A_F],0);A.zX([
-this,K.Bl$],[B=K.AJX,B.A8B,B.AS6],0);},Ar3:function(E){this.UpdateScanState(E);}
+B;A.zV([this,K.BkR],this.An,0);A.zX([this,K.Bm3],[B=K.AJX,B.A9i,B.A_G],0);A.zX([
+this,K.Bmd],[B=K.AJX,B.A8C,B.AS6],0);},Ar3:function(E){this.UpdateScanState(E);}
 ,AwW:function(E){this.UpdateMeasureState(E);},Aw_:function(E){this.UpdateTempValue(
 E);},AxJ:function(){this.UpdateMeasureState(1);this.UpdateTempValue(0);},AhP:function(
-){var B;A._GetAutoObject(A.Device.Helper).SV.AnZ(this);this.UpdateMeasureState(0
+){var B;A._GetAutoObject(A.Device.Helper).SU.AnZ(this);this.UpdateMeasureState(0
 );},AhM:function(){this.UpdateScanState(1);},An0:function(){this.UpdateScanState(
 0);},Ar4:function(E){this.UpdateScanTransponder(E.Id,E.TransponderType,E.TransponderProtocol
-);if(this.ScanState!==1)return;this.UpdateScanState(2);},BmZ:function(G){var K=this.
+);if(this.ScanState!==1)return;this.UpdateScanState(2);},Bm3:function(G){var K=this.
 K;var AlN=A._GetAutoObject(C.G1).AGE;if(AlN<0)K.Avy=null;else{K.Avy=A._NewObject(
 A.Device.Int32FilterCriterion,0);K.Avy.Initialize(2,0,AlN,true);}A.pe([this,K.Bk
-],this);},Bl$:function(G){var K=this.K;var Bgm=A._GetAutoObject(C.G1).ABO;if(Bgm<=
+],this);},Bmd:function(G){var K=this.K;var Bgq=A._GetAutoObject(C.G1).ABO;if(Bgq<=
 0)K.AuP=null;else{K.AuP=A._NewObject(A.Device.Int32FilterCriterion,0);K.AuP.Initialize(
-1,4,Bgm,false);}A.pe([this,K.Bk],this);},Bk:function(G){var K=this.K;var Be=A._GetAutoObject(
+1,4,Bgq,false);}A.pe([this,K.Bk],this);},Bk:function(G){var K=this.K;var Be=A._GetAutoObject(
 A.Device.Helper).Mt();Be.CW(K.Avy);Be.CW(K.AuP);A._GetAutoObject(C.Aqh).Bk(Be);}
-,BkN:function(G){var K=this.K;A.pe([this,K.Bk],this);},_Init:function(aArg){var K=
+,BkR:function(G){var K=this.K;A.pe([this,K.Bk],this);},_Init:function(aArg){var K=
 this.K;A.acs.DeviceClass._Init.call(this,aArg);K.__proto__=C.DeviceClass;this.OO(
 4);this.Aw5(276034580109999);K.AJX=A._GetAutoObject(C.G1);K.Init.call(this,aArg);
 },_Mark:function(D){var B;A.acs.DeviceClass._Mark.call(this,D);if((B=this.AJX)&&(
 B._cycle!=D))B._Mark(B._cycle=D);if((B=this.Avy)&&(B._cycle!=D))B._Mark(B._cycle=
 D);if((B=this.AuP)&&(B._cycle!=D))B._Mark(B._cycle=D);},_variants:function(){return this;
-},_className:"DeviceDemonstrator::DeviceClass"};C.UD={_Init:function(){A.acs.UD.
-_Init.call(this,0);this.ATI(false);this.ATJ(false);},_ReInit:function(){A.acs.UD.
-_ReInit.call(this,0);},_variants:function(){return this;},_this:null};C.A5_={AGA:
-0,AGE:0,ABO:0,Asy:null,WW:3950,AhF:0,Axs:true,A_F:function(E){if(this.AGE===E)return;
-this.AGE=E;A.abo([this,this.A9h,this.A_F],0);},A9h:function(){return this.AGE;},
-AS6:function(E){if(this.ABO===E)return;this.ABO=E;A.abo([this,this.A8B,this.AS6]
-,0);},A8B:function(){return this.ABO;},Bfn:function(G){this.Bgx(this.AGA);},A_D:
-function(E){if(this.AGA===E)return;this.AGA=E;A.abo([this,this.BlC,this.A_D],0);
-},A_G:function(E){if(this.Asy===E)return;this.Asy=E;A.abo([this,this.A9i,this.A_G
-],0);},A9i:function(){return this.Asy;},Bgx:function(Jj){var B;var Ii=false;if((
-A._GetAutoObject(A.Device.Device).ScanState===1)&&!!Jj){A._GetAutoObject(A.Device.
-Device).OT.ATV(1);A._GetAutoObject(A.Device.Device).OT.OnSetId(Jj);A._GetAutoObject(
+},_className:"DeviceDemonstrator::DeviceClass"};C.UC={_Init:function(){A.acs.UC.
+_Init.call(this,0);this.ATI(false);this.ATJ(false);},_ReInit:function(){A.acs.UC.
+_ReInit.call(this,0);},_variants:function(){return this;},_this:null};C.A5$={AGA:
+0,AGE:0,ABO:0,Asy:null,WW:3950,AhF:0,Axs:true,A_G:function(E){if(this.AGE===E)return;
+this.AGE=E;A.abo([this,this.A9i,this.A_G],0);},A9i:function(){return this.AGE;},
+AS6:function(E){if(this.ABO===E)return;this.ABO=E;A.abo([this,this.A8C,this.AS6]
+,0);},A8C:function(){return this.ABO;},Bfr:function(G){this.BgB(this.AGA);},A_E:
+function(E){if(this.AGA===E)return;this.AGA=E;A.abo([this,this.BlG,this.A_E],0);
+},A_H:function(E){if(this.Asy===E)return;this.Asy=E;A.abo([this,this.A9j,this.A_H
+],0);},A9j:function(){return this.Asy;},BgB:function(Iw){var B;var Ii=false;if((
+A._GetAutoObject(A.Device.Device).ScanState===1)&&!!Iw){A._GetAutoObject(A.Device.
+Device).OT.ATV(1);A._GetAutoObject(A.Device.Device).OT.OnSetId(Iw);A._GetAutoObject(
 A.Device.Device).OT.ATU(2);A._GetAutoObject(A.Device.Device).Ar3(2);A.abo([B=A._GetAutoObject(
-A.Device.Device),B.ASU,B.A0w],0);Ii=true;}return Ii;},ATD:function(E){if(this.Axs===
+A.Device.Device),B.ASU,B.A0x],0);Ii=true;}return Ii;},ATD:function(E){if(this.Axs===
 E)return;this.Axs=E;A.abo([this,this.ASR,this.ATD],0);},AFS:function(E){if(this.
-WW===E)return;this.WW=E;A.abo([this,this.BlI,this.AFS],0);},Be_:function(G){var B;
+WW===E)return;this.WW=E;A.abo([this,this.BlM,this.AFS],0);},Bfc:function(G){var B;
 if(this.Axs)A._GetAutoObject(A.Device.Helper).AK9(this);else A._GetAutoObject(A.
-Device.Helper).Bdf(this.WW);},BCn:function(Bxg){var AtD=Bxg.toFixed();AtD=AtD+A.
-_GetAutoObject(A.acj.VH).AC4(AtD).toFixed();var O;for(O=0;O<AtD.length;O++){A.aam(
+Device.Helper).Bdi(this.WW);},BCp:function(Bxi){var AtD=Bxi.toFixed();AtD=AtD+A.
+_GetAutoObject(A.acj.VG).AC4(AtD).toFixed();var O;for(O=0;O<AtD.length;O++){A.aam(
 ).DriveKeyboardHitting(0,AtD.charCodeAt(O)||0,true);A.aam().DriveKeyboardHitting(
 0,AtD.charCodeAt(O)||0,false);}A.aam().DriveKeyboardHitting(0,0x0D,true);A.aam().
 DriveKeyboardHitting(0,0x0D,false);return true;},Ar5:function(E){if(this.AhF===E
-)return;this.AhF=E;A.abo([this,this.AEL,this.Ar5],0);},BCo:function(AyZ){var Av=
-A._NewObject(A.Core.Bs,0);Av.Initialize(AyZ);var J9=Av.Format(Xc)+Xd;J9=J9+A._GetAutoObject(
-A.acj.VH).AC4(J9).toFixed();var O;for(O=0;O<J9.length;O++){A.aam().DriveKeyboardHitting(
-0,J9.charCodeAt(O)||0,true);A.aam().DriveKeyboardHitting(0,J9.charCodeAt(O)||0,false
+)return;this.AhF=E;A.abo([this,this.AEL,this.Ar5],0);},BCq:function(AyZ){var Av=
+A._NewObject(A.Core.Bs,0);Av.Initialize(AyZ);var JE=Av.Format(Xc)+Xd;JE=JE+A._GetAutoObject(
+A.acj.VG).AC4(JE).toFixed();var O;for(O=0;O<JE.length;O++){A.aam().DriveKeyboardHitting(
+0,JE.charCodeAt(O)||0,true);A.aam().DriveKeyboardHitting(0,JE.charCodeAt(O)||0,false
 );}A.aam().DriveKeyboardHitting(149,0x00,true);A.aam().DriveKeyboardHitting(149,
-0x00,false);return true;},BlC:function(){return this.AGA;},ASR:function(){return this.
-Axs;},BlI:function(){return this.WW;},AEL:function(){return this.AhF;},_Init:function(
-aArg){this.__proto__=C.A5_;this.Asy=A.acw.AMD;A.h7++;},_Done:function(){this.__proto__=
+0x00,false);return true;},BlG:function(){return this.AGA;},ASR:function(){return this.
+Axs;},BlM:function(){return this.WW;},AEL:function(){return this.AhF;},_Init:function(
+aArg){this.__proto__=C.A5$;this.Asy=A.acw.AMD;A.h7++;},_Done:function(){this.__proto__=
 null;A.h7--;},_ReInit:function(){},_Mark:function(D){var B;if((B=this.I)&&(B._cycle
 !=D))B._Mark(B._cycle=D);},I:null,_cycle:0,_observers:null,_className:"DeviceDemonstrator::DemonstrationConfigClass"
-};C.G1={_Init:function(){C.A5_._Init.call(this,0);},_ReInit:function(){},_variants:
+};C.G1={_Init:function(){C.A5$._Init.call(this,0);},_ReInit:function(){},_variants:
 function(){return this;},_this:null};C.Aqh={_Init:function(){A.Device.Table._Init.
 call(this,0);this.OnSetId(0);},_ReInit:function(){},_variants:function(){return this;
-},_this:null};C.A5$={AhJ:A.jV,Delete:function(){this.AFN(A.abV(this.AhJ,this.AhJ.
+},_this:null};C.A6a={AhJ:A.jV,Delete:function(){this.AFN(A.abV(this.AhJ,this.AhJ.
 length-1));},Ez:function(Ac2){if(!this.AhJ.length&&(Ac2===0x30))return;if(this.AhJ.
 length<6)this.AFN(this.AhJ+String.fromCharCode(Ac2));},AFN:function(E){if(this.AhJ===
-E)return;this.AhJ=E;A.abo([this,this.A9f,this.AFN],0);A._GetAutoObject(C.G1).AS6(
-A.wz(this.AhJ,-1,10));},A9f:function(){return this.AhJ;},_Init:function(aArg){this.
-__proto__=C.A5$;A.h7++;},_Done:function(){this.__proto__=null;A.h7--;},_ReInit:function(
+E)return;this.AhJ=E;A.abo([this,this.A9g,this.AFN],0);A._GetAutoObject(C.G1).AS6(
+A.wz(this.AhJ,-1,10));},A9g:function(){return this.AhJ;},_Init:function(aArg){this.
+__proto__=C.A6a;A.h7++;},_Done:function(){this.__proto__=null;A.h7--;},_ReInit:function(
 ){},_Mark:function(D){var B;if((B=this.I)&&(B._cycle!=D))B._Mark(B._cycle=D);},I:
 null,_cycle:0,_observers:null,_className:"DeviceDemonstrator::DemonstrationSearchHelperClass"
-};C.AgO={_Init:function(){C.A5$._Init.call(this,0);},_ReInit:function(){},_variants:
+};C.AgO={_Init:function(){C.A6a._Init.call(this,0);},_ReInit:function(){},_variants:
 function(){return this;},_this:null};C.PZ={AJ7:function(G){var Ac=A._GetAutoObject(
 A.Device.Helper).Dv();this.A1(276000312341001,2,1,Ac-1382400,0,1,false,false,false
 ,true,40800,0,0,false,0,false,1,1,1,0,true,true,A._GetAutoObject(A.Device.Device
@@ -614,24 +614,24 @@ Ac-6048000,276000312341005,3780,3,0,0,0,0,0);this.AG(Ac-5961600,276000312341005,
 ,3670,3,0,0,0,0,0);this.AG(Ac-432000,276000312343007,3910,2,0,0,0,0,0);this.AG(Ac-
 345600,276000312343007,4090,1,0,0,0,0,0);this.AG(Ac-259200,276000312343007,3680,
 3,0,0,0,0,0);this.AG(Ac-172800,276000312343007,4130,1,0,0,0,0,0);this.AG(Ac-86400
-,276000312343007,3730,3,0,0,0,0,0);},AJ6:function(G){this.AlP(1,Tb);this.AlP(2,UY
-);this.AlP(3,UZ);},AJ8:function(G){this.Aay(2016,216,11);this.Aay(2017,217,10);this.
+,276000312343007,3730,3,0,0,0,0,0);},AJ6:function(G){this.AlP(1,Ta);this.AlP(2,UX
+);this.AlP(3,UY);},AJ8:function(G){this.Aay(2016,216,11);this.Aay(2017,217,10);this.
 Aay(2018,218,9);this.Aay(2019,219,8);this.Aay(2020,220,7);this.Aay(2021,221,6);}
 ,_Init:function(aArg){var K=this.K;K.__proto__=C.PZ;A.h7++;},_Done:function(){var
 K=this.K;K.__proto__=null;A.h7--;},_ReInit:function(){},_Mark:function(D){},_variants:
-function(){return this;},_className:"DeviceDemonstrator::TableData"};C.AnT={A2O:
-0,AKB:function(G){var K=this.K;A.kR.AnT.BbY.call(this,G);if(A._GetAutoObject(A.Device.
-Device).Ij===K.A2O)return;if(A._GetAutoObject(A.Device.Device).Ij===27)A._GetAutoObject(
-C.G1).Ar5(2);else if(K.A2O===27)A._GetAutoObject(C.G1).Ar5(0);K.A2O=A._GetAutoObject(
+function(){return this;},_className:"DeviceDemonstrator::TableData"};C.AnT={A2P:
+0,AKB:function(G){var K=this.K;A.kR.AnT.Bb1.call(this,G);if(A._GetAutoObject(A.Device.
+Device).Ij===K.A2P)return;if(A._GetAutoObject(A.Device.Device).Ij===27)A._GetAutoObject(
+C.G1).Ar5(2);else if(K.A2P===27)A._GetAutoObject(C.G1).Ar5(0);K.A2P=A._GetAutoObject(
 A.Device.Device).Ij;},_Init:function(aArg){var K=this.K;K.__proto__=C.AnT;A.h7++;
 },_Done:function(){var K=this.K;K.__proto__=null;A.h7--;},_ReInit:function(){},_Mark:
 function(D){},_variants:function(){return this;},_className:"DeviceDemonstrator::ScreenLoaderClass"
 };
 C._Init=function(){C.DeviceClass.__proto__=A.acs.DeviceClass;};C._ReInit=function(
-){var B;if((B=C.UD._this))B._ReInit(),C.UD._ReInit.call(B);if((B=C.G1._this))B._ReInit(
+){var B;if((B=C.UC._this))B._ReInit(),C.UC._ReInit.call(B);if((B=C.G1._this))B._ReInit(
 ),C.G1._ReInit.call(B);if((B=C.Aqh._this))B._ReInit(),C.Aqh._ReInit.call(B);if((
 B=C.AgO._this))B._ReInit(),C.AgO._ReInit.call(B);};C.DH=function(D){var B;if((B=
-C.UD._this)&&(B._cycle!=D))B._Done(C.UD._this=null);if((B=C.G1._this)&&(B._cycle
+C.UC._this)&&(B._cycle!=D))B._Done(C.UC._this=null);if((B=C.G1._this)&&(B._cycle
 !=D))B._Done(C.G1._this=null);if((B=C.Aqh._this)&&(B._cycle!=D))B._Done(C.Aqh._this=
 null);if((B=C.AgO._this)&&(B._cycle!=D))B._Done(C.AgO._this=null);};return C;})(
 );

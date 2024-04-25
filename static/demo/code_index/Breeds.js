@@ -39,13 +39,14 @@ ack=(function(){var A=index;var C={};
 
 C.AA={2:"\u0410\u0431\u0440\u0435\u0434\u0438\u043D \u0430\u043D\u0433\u044A\u0441"
 ,0:"Aberdeen Angus",15:"\u0410\u0431\u0435\u0440\u0434\u0438\u043D-\u0430\u043D\u0433\u0443\u0441\u0441\u043A\u0430\u044F"
-};C.AO={1:"Tele mu\u0161ko",0:"Heck Cattle",8:"B\xE9tail Aurochs",9:"Auerochse (Heckrind)"
-,10:"Heck",15:"\u0422\u0443\u0440 (\u0431\u044B\u043A)",16:"Uro (ganado de Heck)"
-,18:"\u0422\u0443\u0440 (\u0431\u0438\u043A)"};C.AS={2:"\u0410\u0439\u044A\u0440\u0448\u0438\u0440"
-,0:"Ayrshire",15:"\u0410\u0439\u0440\u0448\u0438\u0440\u0441\u043A\u0430\u044F"};
-C.AT={0:"Ansbach-Triesdorfer",15:"\u0410\u043D\u0441\u0431\u0430\u0445-\u0422\u0440\u0438\u0441\u0434\u043E\u0440\u0444\u0441\u043A\u0430\u044F"
-};C.AU={1:"Aubrac",0:"Aubrac Cattle",8:"Aubrac",9:"Aubrac",10:"Aubrac",13:"Aubrac storfe"
-,15:"\u041E\u0431\u0440\u0430\u043A",16:"Ganado Aubrac"};C.BA={2:"\u0411\u043B\u043E\u043D\u0434 \u0414\u2019 \u0410\u043A\u0438\u0442\u0435\u043D"
+};C.AO={1:"Tele mu\u0161ko",0:"Heck Cattle",6:"Hecki veis",8:"B\xE9tail Aurochs"
+,9:"Auerochse (Heckrind)",10:"Heck",15:"\u0422\u0443\u0440 (\u0431\u044B\u043A)"
+,16:"Uro (ganado de Heck)",18:"\u0422\u0443\u0440 (\u0431\u0438\u043A)"};C.AS={2:
+"\u0410\u0439\u044A\u0440\u0448\u0438\u0440",0:"Ayrshire",15:"\u0410\u0439\u0440\u0448\u0438\u0440\u0441\u043A\u0430\u044F"
+};C.AT={0:"Ansbach-Triesdorfer",15:"\u0410\u043D\u0441\u0431\u0430\u0445-\u0422\u0440\u0438\u0441\u0434\u043E\u0440\u0444\u0441\u043A\u0430\u044F"
+};C.AU={1:"Aubrac",0:"Aubrac Cattle",6:"Aubraci t\xF5ug",8:"Aubrac",9:"Aubrac",10:
+"Aubrac",13:"Aubrac storfe",15:"\u041E\u0431\u0440\u0430\u043A",16:"Ganado Aubrac"
+};C.BA={2:"\u0411\u043B\u043E\u043D\u0434 \u0414\u2019 \u0410\u043A\u0438\u0442\u0435\u043D"
 ,0:"Blonde d\u2019Aquitaine",13:"Blonde d`Aquitaine",15:"\u0421\u0432\u0435\u0442\u043B\u0430\u044F \u0430\u043A\u0432\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F"
 ,16:"Blonde de Aquitania"};C.BAZ={0:"Bazadaise",15:"\u0411\u0430\u0437\u0430\u0434\u044D\u0437"
 ,18:"\u0411\u0430\u0437\u0430\u0434\u0435\u0437"};C.BB={2:"\u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E \u0441\u0438\u043D\u044C\u043E"
@@ -58,7 +59,7 @@ C.AT={0:"Ansbach-Triesdorfer",15:"\u0410\u043D\u0441\u0431\u0430\u0445-\u0422\u0
 ,15:"\u0411\u0438\u0437\u043E\u043D/\u0437\u0443\u0431\u0440",16:"Bisonte",18:"\u0411\u0456\u0437\u043E\u043D/\u0437\u0443\u0431\u0440"
 };C.BLA={0:"Blaarkop",15:"\u0413\u043E\u043B\u043B\u0430\u043D\u0434\u0441\u043A\u0430\u044F (Blaarkop)"
 };C.BLH={2:"\u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438 \u043B\u043E\u043D\u0433\u0445\u043E\u0440\u043D"
-,0:"British Longhorn",15:"\u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u043B\u043E\u043D\u0433\u0445\u043E\u0440\u043D"
+,0:"British Longhorn",6:"Briti Longhorn",15:"\u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u043B\u043E\u043D\u0433\u0445\u043E\u0440\u043D"
 };C.BRA={0:"Brangus",15:"\u0411\u0440\u0430\u043D\u0433\u0443\u0441"};C.BRN={0:"Brahman"
 ,15:"\u0411\u0440\u0430\u0445\u043C\u0430\u043D",18:"\u0411\u0440\u0430\u0445\u043C\u0430\u043D"
 };C.BV={0:"Braunvieh",5:"Bruinvee",8:"Brune des Alpes",15:"\u0411\u0443\u0440\u0430\u044F \u0448\u0432\u0438\u0446\u043A\u0430\u044F"
@@ -203,12 +204,13 @@ FL={1:"simental",0:"Fleckvieh",6:"Fleckiev",15:"\u0424\u043B\u0435\u043A\u0444\u
 };C.UCK={0:"Uckerm\xE4rker",6:"UCK",15:"\u0423\u043A\u0435\u0440\u043C\u044D\u0440\u043A\u0441\u043A\u0430\u044F"
 };C.UST={1:"Ma\u0111arsko sivo govedo",0:"Hungarian Grey",6:"UST",8:"B\u0153uf gris de Hongrie"
 ,9:"Ungarisches Steppenrind",13:"Ungarsk Gr\xE5",15:"\u0412\u0435\u043D\u0433\u0435\u0440\u0441\u043A\u0430\u044F \u0441\u0435\u0440\u0430\u044F"
-,16:"Ganado H\xFAngaro"};C.VR={1:"Vogesen govedo",0:"Vogesenrind",8:"Vosgienne",
-9:"Vogesen-Rind",15:"\u0412\u043E\u0433\u0435\u0437\u0441\u043A\u0430\u044F",16:
-"Vaca de los Vosgos"};C.VW={1:"Vorderwald govedo",0:"Vorderwald Cattle",8:"Vorderw\xE4lder"
-,9:"Vorderw\xE4lder",13:"Vorderwald Storfe",15:"\u0424\u043E\u0440\u0434\u0435\u0440\u0432\u0430\u043B\u044C\u0434"
+,16:"Ganado H\xFAngaro"};C.VR={1:"Vogesen govedo",0:"Vogesenrind",6:"Vosgesi rinne"
+,8:"Vosgienne",9:"Vogesen-Rind",15:"\u0412\u043E\u0433\u0435\u0437\u0441\u043A\u0430\u044F"
+,16:"Vaca de los Vosgos"};C.VW={1:"Vorderwald govedo",0:"Vorderwald Cattle",6:"Vorderwaldi veis"
+,8:"Vorderw\xE4lder",9:"Vorderw\xE4lder",13:"Vorderwald Storfe",15:"\u0424\u043E\u0440\u0434\u0435\u0440\u0432\u0430\u043B\u044C\u0434"
 ,16:"Ganado de Vorderwald"};C.VWF={1:"Vorderwald govedo za tov",0:"Vorderwald Cattle, beef"
-,8:"Vorderw\xE4lder, engraissement",9:"Vorderw\xE4lder, Fleischnutzung",10:"Vorderwald Cattle, \u03BA\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2"
+,6:"Vorderwaldi veised, veiseliha",8:"Vorderw\xE4lder, engraissement",9:"Vorderw\xE4lder, Fleischnutzung"
+,10:"Vorderwald Cattle, \u03BA\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2"
 ,13:"Vorderwald kj\xF8ttfe",15:"\u0424\u043E\u0440\u0434\u0435\u0440\u0432\u0430\u043B\u044C\u0434, \u043C\u044F\u0441\u043D\u0430\u044F"
 ,16:"Ganado de Vorderwald, carne",18:"\u0424\u043E\u0440\u0434\u0435\u0440\u0432\u0430\u043B\u044C\u0434, \u043C\'\u044F\u0441\u043D\u0430"
 };C.WAG={0:"Wagy\u016B",6:"WAG",8:"Wagyu",15:"\u0412\u0430\u0433\u044E",18:"\u0412\u0430\u0433\u044E"
@@ -224,7 +226,7 @@ FL={1:"simental",0:"Fleckvieh",6:"Fleckiev",15:"\u0424\u043B\u0435\u043A\u0444\u
 ,18:"\u0412\u043E\u0434\u044F\u043D\u0438\u0439 \u0431\u0443\u0439\u0432\u043E\u043B"
 };C.WP={1:"bijeli park",0:"White Park",6:"WP",15:"\u0410\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0430\u044F \u043F\u0430\u0440\u043A\u043E\u0432\u0430\u044F"
 };C.WSH={2:"\u0411\u044F\u043B \u0428\u043E\u0440\u0442\u0445\u043E\u0440\u043D"
-,0:"Whitbred Shorthorn",15:"\u0423\u0438\u0442\u0431\u0440\u0435\u0434 \u0428\u043E\u0440\u0442\u0433\u043E\u0440\u043D"
+,0:"Whitbred Shorthorn",6:"Whitbreadi l\xFChisarv",15:"\u0423\u0438\u0442\u0431\u0440\u0435\u0434 \u0428\u043E\u0440\u0442\u0433\u043E\u0440\u043D"
 };C.XFF={1:"Ukr\u0161tenje mesno govedo x mesno govedo",2:"\u041A\u0440\u044A\u0441\u0442\u043E\u0441\u043A\u0430 \u043C\u0435\u0441\u043E "+
 "\u0445 \u043C\u0435\u0441\u043E",0:"Crossbreed beef \xD7 beef",6:"Ristand lihaveis \xD7 lihaveis"
 ,8:"Bovins \xE0 viande \xD7 bovins \xE0 viande",9:"Kreuzung Fleischrind \xD7 Fleischrind"
@@ -255,24 +257,25 @@ FL={1:"simental",0:"Fleckvieh",6:"Fleckiev",15:"\u0424\u043B\u0435\u043A\u0444\u
 "\u0445\u0443\u0434\u043E\u0431\u0430 \xD7 \u043C\u043E\u043B\u043E\u0447\u043D\u0430 "+
 "\u0445\u0443\u0434\u043E\u0431\u0430"};C.XZF={2:"\u041A\u0440\u044A\u0441\u0442\u043E\u0441\u043A\u0430 \u0441 \u0434\u0432\u043E\u0439\u043D\u0430 "+
 "\u0443\u043F\u043E\u0442\u0440\u0435\u0431\u0430 \xD7 \u0433\u043E\u0432\u0435\u0436\u0434\u043E "+
-"\u043C\u0435\u0441\u043E",0:"Crossbreed dual-use \xD7 beef",7:"Risteytys kaksik\xE4ytt\xF6inen \xD7 naudanliha"
-,8:"Croisement bovin \xE0 deux fins \xD7 b\u0153uf de boucherie",9:"Kreuzung Zweinut~zungsrind \xD7 Fleischr."
-,15:"\u0421\u043A\u0440\u0435\u0449\u0438\u0432\u0430\u043D\u0438\u0435 \u0434\u0432\u043E\u0439\u043D\u043E\u0433\u043E "+
+"\u043C\u0435\u0441\u043E",0:"Crossbreed dual-use \xD7 beef",6:"Ristand kaksikotstarbeline \xD7 lihaveis"
+,7:"Risteytys kaksik\xE4ytt\xF6inen \xD7 naudanliha",8:"Croisement bovin \xE0 deux fins \xD7 b\u0153uf de boucherie"
+,9:"Kreuzung Zweinut~zungsrind \xD7 Fleischr.",15:"\u0421\u043A\u0440\u0435\u0449\u0438\u0432\u0430\u043D\u0438\u0435 \u0434\u0432\u043E\u0439\u043D\u043E\u0433\u043E "+
 "\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F \xD7 \u0433\u043E\u0432\u044F\u0434\u0438\u043D\u0430"
 };C.XZM={2:"\u041A\u0440\u044A\u0441\u0442\u043E\u0441\u043A\u0430 \u0441 \u0434\u0432\u043E\u0439\u043D\u0430 "+
 "\u0443\u043F\u043E\u0442\u0440\u0435\u0431\u0430 \xD7 \u043C\u043B\u044F\u043A\u043E"
-,0:"Crossbreed dual-use \xD7 milk",7:"Kaksik\xE4ytt\xF6isen karjan risteytt\xE4minen \xD7 maito."
+,0:"Crossbreed dual-use \xD7 milk",6:"Ristand topeltkasutusega \xD7 piim",7:"Kaksik\xE4ytt\xF6isen karjan risteytt\xE4minen \xD7 maito."
 ,8:"Croisement bovin \xE0 deux fins \xD7 bovin laitier",9:"Kreuzung Zweinut~zungsrind \xD7 Milchr."
 ,15:"\u0421\u043A\u0440\u0435\u0449\u0438\u0432\u0430\u043D\u0438\u0435 \u0434\u0432\u043E\u0439\u043D\u043E\u0433\u043E "+
 "\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F \xD7 \u043C\u043E\u043B\u043E\u043A\u043E"
 };C.XZZ={2:"\u041A\u0440\u044A\u0441\u0442\u043E\u0441\u043A\u0430 \u0434\u0432\u043E\u0439\u043D\u0430 "+
 "\u0443\u043F\u043E\u0442\u0440\u0435\u0431\u0430 \xD7 \u0434\u0432\u043E\u0439\u043D\u0430 "+
 "\u0443\u043F\u043E\u0442\u0440\u0435\u0431\u0430",0:"Crossbreed dual-use \xD7 dual-use"
-,7:"Risteytys kaksik\xE4ytt\xF6inen \xD7 kaksik\xE4ytt\xF6inen",8:"Croisement double fins \xD7 double fins"
-,9:"Kreuzung Zweinut~zung \xD7 Zweinutzung",15:"\u0421\u043A\u0440\u0435\u0449\u0438\u0432\u0430\u043D\u0438\u0435 \u0434\u0432\u043E\u0439\u043D\u043E\u0433\u043E "+
+,6:"Ristkasutusega topeltkasutus \xD7 topeltkasutus",7:"Risteytys kaksik\xE4ytt\xF6inen \xD7 kaksik\xE4ytt\xF6inen"
+,8:"Croisement double fins \xD7 double fins",9:"Kreuzung Zweinut~zung \xD7 Zweinutzung"
+,15:"\u0421\u043A\u0440\u0435\u0449\u0438\u0432\u0430\u043D\u0438\u0435 \u0434\u0432\u043E\u0439\u043D\u043E\u0433\u043E "+
 "\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F \xD7 \u0434\u0432\u043E\u0439\u043D\u043E\u0433\u043E "+
 "\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F"};C.YAK={0:"Yakutian"
-,8:"Yack",9:"Yak",15:"\u042F\u043A",18:"\u042F\u043A"};C.ZEB={1:"minijaturna zebu"
+,6:"Jakuudi",8:"Yack",9:"Yak",15:"\u042F\u043A",18:"\u042F\u043A"};C.ZEB={1:"minijaturna zebu"
 ,0:"Miniature Zebu",6:"ZEB",8:"Zebu miniature",9:"Zwerg-Zebu",15:"\u041A\u0430\u0440\u043B\u0438\u043A\u043E\u0432\u044B\u0439 \u0417\u0435\u0431\u0443"
 };
 C._Init=function(){};C._ReInit=function(){};C.DH=function(D){};return C;})();
