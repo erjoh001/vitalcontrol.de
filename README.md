@@ -1,6 +1,6 @@
 # Website VitalControl
 
-This site holds the sources for the web site `www.vitalcontrol.de`.
+This project holds the sources for the web site `www.vitalcontrol.de`.
 
 ## Running the website locally
 
