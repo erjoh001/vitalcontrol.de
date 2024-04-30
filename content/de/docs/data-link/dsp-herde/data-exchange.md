@@ -8,6 +8,7 @@ description: >
 weight: 20
 slug: datentausch
 Kategorien: [Datenaustausch, DSP Herde]
+translationKey: DSPherde/data-exchange
 ---
 Gehen Sie wie folgt vor, um Daten zwischen der Herde Software und dem VitalControl abzugleichen:
 

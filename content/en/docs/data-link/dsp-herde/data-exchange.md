@@ -7,6 +7,7 @@ description: >
   Synchronize the animals stored on VitalControl device with animals managed by *Herde* software and transfer measured values recorded with VitalControl device to *Herde* software.
 weight: 20
 categories: [Data exchange, DSP Herde]
+translationKey: DSPherde/data-exchange
 ---
 Follow the steps below to synchronize data between the software `Herde` and VitalControl device:
 

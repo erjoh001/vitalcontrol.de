@@ -6,4 +6,5 @@ weight: 50
 draft: false
 description: >
   Sujets liés à la maintenance et fonctions utiles pour le dépannage.
+translationKey: vcsynchronizer/maintenance  
 ---

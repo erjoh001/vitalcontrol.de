@@ -9,6 +9,7 @@ description: >
 kategorien: [Reset]
 tags: [Reset, Reset Gerät, Reset Werkseinstellungen]
 slug: werkseinstellungen
+translationKey: reset/factory
 ---
 ## Durchführung eines Geräteresets
 

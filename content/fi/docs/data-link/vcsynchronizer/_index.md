@@ -5,6 +5,7 @@ date: 2023-07-19
 description: >
   Sovellus tietojen synkronoimiseen VitalControlin ja kolmansien osapuolien sovellusten välillä.
 weight: 10
+translationKey: vcsynchronizer
 ---
 #### VCSynchronizer versio 0.9.10
 

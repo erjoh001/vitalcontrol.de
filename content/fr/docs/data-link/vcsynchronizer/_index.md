@@ -5,6 +5,7 @@ date: 2023-07-19
 description: >
   Application pour synchroniser les données entre VitalControl et des applications tierces.
 weight: 10
+translationKey: vcsynchronizer
 ---
 #### VCSynchronizer version 0.9.10
 

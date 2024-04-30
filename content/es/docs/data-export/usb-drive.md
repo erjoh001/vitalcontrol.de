@@ -15,19 +15,23 @@ translationKey: data-export/usb-drive
 
 1. Abra el elemento del menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
 
-2. Invoque el submenú `Gestión de datos`, seleccione el elemento del menú `Exportar datos de animales (csv)` y confirme con `OK`. Ahora se le pedirá que inserte una memoria USB:
+2. Acceda al submenú `Gestión de datos`, seleccione la opción de menú `Datos animales` y confirme con `OK`.
+
+3. Se abre otro submenú. Seleccione el punto de menú `Exportar datos de animales (csv)` y confirme con `OK`.
+
+4. Se le pedirá que introduzca una memoria USB:
 
    ![VitalControl: Ruta del menú exportación de datos](../images/data-export.png "Invocar exportación de datos")
 
-3. Inserte la memoria USB (conector tipo C) en el conector en la parte inferior del dispositivo.
+5. Inserte la memoria USB (conector tipo C) en el conector en la parte inferior del dispositivo.
 
    ![VitalControl: insertar memoria USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insertar memoria USB")
 
-4. Una vez que el dispositivo detecte la inserción de la memoria USB, la exportación de datos se inicia automáticamente. Escribir los datos de respaldo puede tardar unos segundos. Cuando la exportación de datos haya finalizado, se mostrará un mensaje de éxito:
+6. Una vez que el dispositivo detecte la inserción de la memoria USB, la exportación de datos se inicia automáticamente. Escribir los datos de respaldo puede tardar unos segundos. Cuando la exportación de datos haya finalizado, se mostrará un mensaje de éxito:
 
    ![VitalControl: mensaje de éxito en la exportación de datos](../images/success-data-export.png "Éxito en la exportación de datos")
 
-5. La exportación de datos ahora está completa. Encontrará los cuatro archivos de exportación [archivos de exportación](../export-files/) dentro del directorio `export-csv` en su memoria USB.
+7. La exportación de datos ahora está completa. Encontrará los cuatro archivos de exportación [archivos de exportación](../export-files/) dentro del directorio `export-csv` en su memoria USB.
 
    ![Memoria USB con archivos de exportación VitalControl](../images/export-files.png "Archivos de exportación en memoria USB")
 

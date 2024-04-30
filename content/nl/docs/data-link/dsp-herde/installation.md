@@ -7,6 +7,7 @@ description: >
   Definieer de synchronisatieparameters voor gegevensuitwisseling tussen de software *Herde* en het VitalControl-apparaat.
 weight: 10
 categories: [DSP Herde]
+translationKey: DSPherde/installation
 ---
 Voor de eerste [gegevensuitwisseling](../data-exchange/), moet de technologiekoppeling met het VitalControl-apparaat eenmalig worden gecreëerd en ingesteld.
 

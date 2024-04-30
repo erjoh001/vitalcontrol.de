@@ -7,6 +7,7 @@ description: >
   Richten Sie einmalig die Technikkopplung zur Datensynchronisation zwischen der Herde Software und dem VitalControl-Gerät ein.
 weight: 10
 Kategorien: [DSP Herde, Technikkopplung]
+translationKey: DSPherde/installation
 ---
 Vor dem erstmaligen [Datenaustausch](../datentausch/) muss einmalig die Technikkopplung zum VitalControl-Gerät angelegt und eingerichtet werden.
 

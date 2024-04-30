@@ -15,19 +15,23 @@ translationKey: data-export/usb-drive
 
 1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 
-2. Invoke the submenu `Data management`, select the menu item `Export animal data (csv)` and confirm with `OK`. You are now asked to insert an USB flash drive:
+2. Invoke the submenu `Data management`, select the menu item `Animal data` and confirm with `OK`.
+
+3. Another submenu opens. Select the menu item `Export animal data (csv)` and confirm with `OK`.
+
+4. You are now asked to insert an USB flash drive:
 
    ![VitalControl: Menu path data export](../images/data-export.png "Invoke data export")
 
-3. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
+5. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
 
    ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
 
-4. Once the device detected insertion of the USB stick, data export is automatically started. Writing the backup data may take a few seconds. When the data export finished, a success message is displayed:
+6. Once the device detected insertion of the USB stick, data export is automatically started. Writing the backup data may take a few seconds. When the data export finished, a success message is displayed:
 
    ![VitalControl: success message data export](../images/success-data-export.png "Success data export")
 
-5. Data export is now complete. You will find the four created [export files](../export-files/) inside the directory `export-csv` on your USB flash drive.
+7. Data export is now complete. You will find the four created [export files](../export-files/) inside the directory `export-csv` on your USB flash drive.
 
    ![USB flash drive with export files VitalControl](../images/export-files.png "Export files on USB flash drive")
 

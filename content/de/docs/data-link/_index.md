@@ -6,4 +6,5 @@ description: >
   Für das VitalControl-Gerät existieren mehrere Kopplungsmöglichkeiten für den effizienten Datenaustausch mit anderen Hard- und Softwarelösungen.
 draft: false
 weight: 40
+translationKey: data-link
 ---

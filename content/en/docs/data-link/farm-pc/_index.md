@@ -6,6 +6,7 @@ weight: 15
 description: >
  Export animal data and measurement values from VitalControl device into several CVS files
 categories: [Data export]
+translationKey: farmPC
 ---
 Proceed as follows to export data from VitalControl to a mass storage device of your PC:
 

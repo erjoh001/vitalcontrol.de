@@ -6,4 +6,5 @@ description: >
   Existen varias opciones de acoplamiento para el dispositivo VitalControl para un intercambio de datos eficiente con otras soluciones de hardware y software.
 draft: false
 weight: 20
+translationKey: data-link
 ---

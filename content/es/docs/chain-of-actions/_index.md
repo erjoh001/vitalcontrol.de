@@ -13,7 +13,7 @@ translationKey: action-chain
 ---
 ## Cadena de acciones
 
-La cadena de acciones te permite llevar a cabo automáticamente varias acciones para un animal una tras otra. Por ejemplo, puedes seleccionar las acciones `Medir temperatura` y `Calificación`. Si luego realizas la cadena de acciones, puedes tomar primero la temperatura de tu animal y registrar la calificación inmediatamente después.
+La cadena de acciones te permite llevar a cabo automáticamente varias acciones para un animal una tras otra. Por ejemplo, puedes seleccionar las acciones `Temperatura` y `Evaluación`. Si luego realizas la cadena de acciones, puedes tomar primero la temperatura de tu animal y registrar la calificación inmediatamente después.
 
 ### Usar cadena de acciones
 
@@ -41,7 +41,7 @@ La cadena de acciones te permite llevar a cabo automáticamente varias acciones 
 
 3. Aparece una pantalla superpuesta. Usa las teclas de flecha △ ▽ para elegir entre las acciones listadas del 1 al 4 (puedes realizar hasta cuatro acciones en fila). Usa las teclas de flecha ◁ ▷ para seleccionar la acción deseada para la respectiva acción. Guarda la configuración con la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
 
-4. Si desea restablecer toda la cadena de acciones, seleccione la opción `Resetear cadena de acciones` en el submenú utilizando las teclas de flecha △ ▽ y confirme con `OK`.
+4. Si desea restablecer toda la cadena de acciones, seleccione la opción `Reiniciar cadena de acciones` en el submenú utilizando las teclas de flecha △ ▽ y confirme con `OK`.
 
     ![VitalControl: Menú cadena de acciones](images/setchainofactions.png "Establecer cadena de acciones")
 

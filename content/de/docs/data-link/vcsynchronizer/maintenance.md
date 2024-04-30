@@ -6,4 +6,5 @@ draft: false
 weight: 50
 description: >
   Aufruf von Funktionen welche der Wartung dienen oder im Fehlerfall bei der Analyse und Eingrenzung des Fehlers hilfreich sind.
+translationKey: vcsynchronizer/maintenance  
 ---

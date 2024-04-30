@@ -5,6 +5,7 @@ date: 2023-07-19
 weight: 10
 description: >
   Как установить программное обеспечение VCSynchronizer на ваш ПК с Windows
+translationKey: vcsynchronizer/installation
 ---
 1. Загрузите [файл установки](/download/SetupVitalControlSynchronizer.exe) для программы VC Synchronizer.
 

@@ -6,4 +6,5 @@ weight: 50
 draft: false
 description: >
   Onderwerpen gerelateerd aan onderhoud en functies die nuttig zijn voor probleemoplossing.
+translationKey: vcsynchronizer/maintenance  
 ---

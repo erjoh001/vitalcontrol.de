@@ -6,4 +6,5 @@ description: >
   Er zijn verschillende koppelingsopties beschikbaar voor het VitalControl-apparaat voor efficiënte gegevensuitwisseling met andere hardware- en softwareoplossingen.
 draft: false
 weight: 20
+translationKey: data-link
 ---

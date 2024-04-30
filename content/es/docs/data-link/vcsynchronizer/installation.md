@@ -5,6 +5,7 @@ date: 2023-07-19
 weight: 10
 description: >
   Cómo instalar el software VCSynchronizer en tu PC con Windows
+translationKey: vcsynchronizer/installation  
 ---
 1. Descarga el [archivo de instalación](/download/SetupVitalControlSynchronizer.exe) para el software VC Synchronizer.
 

@@ -7,6 +7,7 @@ description: >
   Define the synchronisation parameters for data exchange between the software *Herde* and the VitalControl device.
 weight: 10
 categories: [DSP Herde]
+translationKey: DSPherde/installation
 ---
 Prior to the first [data exchange](../data-exchange/), the technology coupling to the VitalControl device must be created and set up once.
 

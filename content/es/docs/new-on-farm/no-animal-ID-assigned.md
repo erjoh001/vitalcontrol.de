@@ -1,6 +1,6 @@
 ---
-title: "No se ha asignado ID nacional de animal"
-linkTitle: "No se ha asignado ID nacional de animal"
+title: "Ningún ID de animal asignado"
+linkTitle: "Ningún ID de animal asignado"
 weight: 30
 date: 2023-07-28T13:25:28+02:00
 draft: false
@@ -11,13 +11,13 @@ categories: [Nuevo en la granja]
 tags: [Nuevo en la granja]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## No se ha asignado ID nacional de animal
+## Ningún ID de animal asignado
 
 En esta lista encontrarás todos los animales a los que aún no se les ha asignado un ID de animal. Puedes asignar un ID de animal a los animales en esta lista.
 
 1. En la pantalla principal de tu dispositivo VitalControl, selecciona el elemento del menú <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nuevo en la granja" /> `Nuevo en la granja` y presiona el botón `OK`.
 
-2. Se abre un submenú en el que puedes elegir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nuevo en la granja, sin transpondedor" /> `Nuevo en la granja, sin transpondedor`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animales comprados" /> `Animales comprados`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional de animal" /> `No se ha asignado ID nacional de animal`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Nacimientos" /> `Nacimientos` y <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Sin transpondedor asignado" /> `Sin transpondedor asignado`. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el elemento del menú <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional de animal" /> `No se ha asignado ID nacional de animal` y confirma con `OK`.
+2. Se abre un submenú en el que puedes elegir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nuevo en la granja, sin transpondedor" /> `Nuevo en la granja, sin transpondedor`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animales comprados" /> `Animales comprados`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional de animal" /> `Ningún ID de animal asignado`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Nacimientos" /> `Nacimientos` y <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Ningún transpondedor asignado" /> `Ningún transpondedor asignado`. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el elemento del menú <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional de animal" /> `Ningún ID de animal asignado` y confirma con `OK`.
 
 3. Se abre una lista con tus animales a los que aún no se les ha asignado un ID nacional de animal.
 
@@ -49,7 +49,7 @@ Puedes usar las acciones adicionales para configurar qué acciones deseas realiz
 
 1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nuevo en la granja" /> `Nuevo en la granja` y presiona el botón `OK`.
 
-2. Se abre un submenú en el que puedes elegir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nuevo en la granja, sin transpondedor" /> `Nuevo en la granja, sin transpondedor`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animales comprados" /> `Animales comprados`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional del animal" /> `Sin ID nacional del animal asignado`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Nacimientos" /> `Nacimientos` y <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Sin transpondedor asignado" /> `Sin transpondedor asignado`. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el ítem del menú <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional del animal" /> `Sin ID nacional del animal asignado` y confirma con `OK`.
+2. Se abre un submenú en el que puedes elegir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nuevo en la granja, sin transpondedor" /> `Nuevo en la granja, sin transpondedor`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animales comprados" /> `Animales comprados`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional del animal" /> `Sin ID nacional del animal asignado`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Nacimientos" /> `Nacimientos` y <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Ningún transpondedor asignado" /> `Ningún transpondedor asignado`. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el ítem del menú <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional del animal" /> `Sin ID nacional del animal asignado` y confirma con `OK`.
 
 3. Se abre una lista con tus animales que aún no han sido asignados un ID nacional de animal.
 
@@ -67,7 +67,7 @@ Puedes usar las acciones adicionales previas para establecer qué acciones desea
 
 1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nuevo en la granja" /> `Nuevo en la granja` y presiona el botón `OK`.
 
-2. Se abre un submenú en el que puedes elegir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nuevo en la granja, sin transpondedor" /> `Nuevo en la granja, sin transpondedor`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animales comprados" /> `Animales comprados`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional de animal" /> `Sin ID nacional de animal asignado`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Nacimientos" /> `Nacimientos` y <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Sin transpondedor asignado" /> `Sin transpondedor asignado`. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el ítem del menú <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional de animal" /> `Sin ID nacional de animal asignado` y confirma con `OK`.
+2. Se abre un submenú en el que puedes elegir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nuevo en la granja, sin transpondedor" /> `Nuevo en la granja, sin transpondedor`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animales comprados" /> `Animales comprados`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional de animal" /> `Sin ID nacional de animal asignado`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Nacimientos" /> `Nacimientos` y <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Ningún transpondedor asignado" /> `Ningún transpondedor asignado`. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el ítem del menú <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Sin ID nacional de animal" /> `Sin ID nacional de animal asignado` y confirma con `OK`.
 
 3. Se abre una lista con tus animales que aún no han sido asignados un ID nacional de animal.
 

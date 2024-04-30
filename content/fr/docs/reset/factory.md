@@ -5,6 +5,7 @@ date: 2017-01-03
 description: >
   Restauration des valeurs par défaut sur votre appareil VitalControl en effectuant une réinitialisation d'usine.
 categories: [Réinitialisation]
+translationKey: reset/factory
 ---
 ## Effectuer une réinitialisation d'usine
 

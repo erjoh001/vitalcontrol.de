@@ -22,10 +22,10 @@ Al exportar datos de animales, ya sea al [pendrive USB][] o a un dispositivo de 
 [pendrive USB]: ../usb-drive/
 [en el PC]: ../pc/
 
-[Datos de animales]: #animal-data-animalscsv
-[Datos de temperatura corporal]: #body-temperature-data-temperaturescsv
-[Datos de peso]: #weight-data-weightscsv
-[Calificaciones de animales]: #animal-ratings-ratingscsv
+[Datos de animales]: #datos-de-animales-animalscsv
+[Datos de temperatura corporal]: #datos-de-temperatura-corporal-temperaturescsv
+[Datos de peso]: #datos-de-peso-weightscsv
+[Calificaciones de animales]: #valoraciones-de-animales-ratingscsv
 
 Los cuatro archivos son archivos de texto [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) legibles por humanos. Los archivos están codificados en formato `UTF-8`, se utilizan puntos y comas (`;`) como separadores de columnas. Los campos de datos individuales *no* están encerrados entre comillas. Cada fila de la respectiva tabla representa un conjunto de datos de un animal o una medición o evaluación realizada sobre un animal.
 

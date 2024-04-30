@@ -5,6 +5,7 @@ date: 2023-07-19
 weight: 10
 description: >
   Kuinka asentaa VCSynchronizer-ohjelmisto Windows-tietokoneellesi
+translationKey: vcsynchronizer/installation
 ---
 1. Lataa [asennustiedosto](/download/SetupVitalControlSynchronizer.exe) VC Synchronizer -ohjelmistolle.
 

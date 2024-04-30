@@ -5,6 +5,7 @@ date: 2017-01-03
 description: >
   Palauta oletusarvot VitalControl-laitteeseesi suorittamalla tehdasasetusten palautus.
 categories: [Reset]
+translationKey: reset/factory
 ---
 ## Tehdasasetusten palauttaminen
 

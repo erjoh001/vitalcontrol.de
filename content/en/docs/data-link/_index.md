@@ -6,4 +6,5 @@ description: >
   Several coupling options exist for the VitalControl device for efficient data exchange with other hardware and software solutions.
 draft: false
 weight: 20
+translationKey: data-link
 ---

@@ -6,4 +6,5 @@ description: >
   Plusieurs options de couplage existent pour l'appareil VitalControl afin d'assurer un échange de données efficace avec d'autres solutions matérielles et logicielles.
 draft: false
 weight: 20
+translationKey: data-link
 ---

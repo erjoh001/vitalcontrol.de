@@ -6,4 +6,5 @@ weight: 50
 draft: false
 description: >
   Huoltoon liittyvät aiheet ja toiminnot, jotka auttavat vianmäärityksessä.
+translationKey: vcsynchronizer/maintenance  
 ---

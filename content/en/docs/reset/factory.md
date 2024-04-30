@@ -5,6 +5,7 @@ date: 2017-01-03
 description: >
   Restoring default values on your VitalControl device by performing a factory reset.
 categories: [Reset]
+translationKey: reset/factory
 ---
 ## Performing a factory reset
 

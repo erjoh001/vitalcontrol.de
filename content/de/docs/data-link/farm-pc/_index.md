@@ -6,6 +6,7 @@ description: >
 date: 2023-07-19
 weight: 15
 kategorien: [Datenexport]
+translationKey: farmPC
 ---
 Gehen Sie wie folgt vor, um Daten vom VitalControl auf einen Massenspeicher ihres PCs zu exportieren:
 

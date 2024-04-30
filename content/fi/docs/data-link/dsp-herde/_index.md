@@ -7,4 +7,5 @@ description: >
   Tallenna lämpötilat, painot ja terveystiedot helposti VitalControl-laitteella ja tuo tallennetut tiedot *Herde*-ohjelmistoon.
 weight: 30
 categories: [DSP Herde]
+translationKey: DSPherde
 ---

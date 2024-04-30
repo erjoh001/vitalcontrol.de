@@ -6,6 +6,7 @@ weight: 15
 description: >
  VitalControl-laitteesta useisiin CVS-tiedostoihin vietävien eläindatan ja mittausarvojen vienti
 categories: [Data export]
+translationKey: farmPC
 ---
 Noudata seuraavia ohjeita viedäksesi dataa VitalControl-laitteesta massamuistilaitteeseen tietokoneellasi:
 

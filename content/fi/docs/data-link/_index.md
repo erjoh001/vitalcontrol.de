@@ -6,4 +6,5 @@ description: >
   VitalControl-laitteelle on olemassa useita kytkentävaihtoehtoja tehokkaaseen tietojenvaihtoon muiden laitteiden ja ohjelmistoratkaisujen kanssa.
 draft: false
 weight: 20
+translationKey: data-link
 ---

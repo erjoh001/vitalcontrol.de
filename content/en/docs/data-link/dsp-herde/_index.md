@@ -7,4 +7,5 @@ description: >
   Record temperatures, weights and health data easily with VitalControl device and import the recorded data into the *Herde* software.
 weight: 30
 categories: [DSP Herde]
+translationKey: DSPherde
 ---

@@ -6,4 +6,5 @@ weight: 50
 draft: false
 description: >
   Темы, связанные с техническим обслуживанием и функции, полезные для устранения неполадок.
+translationKey: vcsynchronizer/maintenance  
 ---
