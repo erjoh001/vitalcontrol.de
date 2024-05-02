@@ -78,8 +78,8 @@ module:
       target: static/fr/demo
       lang: fr
     - source: static/demo
-      target: static/gr/demo
-      lang: gr
+      target: static/hu/demo
+      lang: hu
     - source: static/demo
       target: static/nl/demo
       lang: nl

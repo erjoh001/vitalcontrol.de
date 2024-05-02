@@ -47,6 +47,10 @@ fr:
   languageName: French
   contentDir: content/fr
   weight: 80
+hu:
+  languageName: Magyar
+  contentDir: content/hu
+  weight: 90
 nl:
   languageName: Nederlands
   contentDir: content/nl
