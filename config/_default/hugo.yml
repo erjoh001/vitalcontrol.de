@@ -64,6 +64,9 @@ module:
       lang: cs
     - source: static/demo
       target: static/el/demo
+      lang: da
+    - source: static/demo
+      target: static/da/demo
       lang: el
     - source: static/demo
       target: static/es/demo

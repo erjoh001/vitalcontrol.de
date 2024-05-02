@@ -26,6 +26,10 @@ cs:
   languageName: Čeština
   contentDir: content/cs
   weight: 40
+da:
+  languageName: Dansk
+  contentDir: content/da
+  weight: 45
 et:
   languageName: Eesti
   contentDir: content/et

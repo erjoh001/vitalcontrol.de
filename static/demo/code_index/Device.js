@@ -216,18 +216,18 @@ C.Action={UNDEFINED:0,TempMeasurement:1,Rating:2,Alarm:4,Watch:8,History:16,Anim
 29,TimestampLastTemperature:30,TimestampLastAssessment:31,Breed:32,EaseOfDelivery:
 33,WhereAbouts:34,NaisIdMother:35,ReasonOfLeaving:36,IsRegistrationNoticePending:
 37,IsDry:38};C.Assessment={None:0,Red:1,Yellow:2,Green:3,Blue:4,Gray:5};C.Filter={
-B7:null,B8:null,CX:function(AI){if(!AI)return;var Aw=this.B7;while(!!Aw){if(Aw===
-AI)throw new Error(Ce);Aw=Aw.Ah;}AI.AJ=this.B8;if(!!this.B8)this.B8.Ah=AI;this.B8=
-AI;if(!this.B7)this.B7=AI;},AOQ:function(){return this.B7;},AOV:function(Bcc){if(
-!!Bcc)return Bcc.Ah;return null;},DL:function(AJd,Eb){var Aw=this.B7;while(!!Aw){
+B8:null,B9:null,CX:function(AI){if(!AI)return;var Aw=this.B8;while(!!Aw){if(Aw===
+AI)throw new Error(Ce);Aw=Aw.Ah;}AI.AJ=this.B9;if(!!this.B9)this.B9.Ah=AI;this.B9=
+AI;if(!this.B8)this.B8=AI;},AOQ:function(){return this.B8;},AOV:function(Bcc){if(
+!!Bcc)return Bcc.Ah;return null;},DL:function(AJd,Eb){var Aw=this.B8;while(!!Aw){
 if(Aw.EJ===AJd){if(Eb===1)return Aw;else if(Aw.Operator===Eb)return Aw;}Aw=Aw.Ah;
-}return null;},Nq:function(AI){var Aw=this.B7;while(!!Aw){if(Aw===AI){if(!!Aw.AJ
-)Aw.AJ.Ah=Aw.Ah;if(!!Aw.Ah)Aw.Ah.AJ=Aw.AJ;if(this.B7===Aw)this.B7=Aw.Ah;if(this.
-B8===Aw)this.B8=Aw.AJ;Aw.Ah=null;Aw.AJ=null;return;}Aw=Aw.Ah;}},E$:function(){var
-Be=A._NewObject(C.Filter,0);var Aw=this.B7;while(!!Aw){Be.CX(Aw.Abk());Aw=Aw.Ah;
+}return null;},Nq:function(AI){var Aw=this.B8;while(!!Aw){if(Aw===AI){if(!!Aw.AJ
+)Aw.AJ.Ah=Aw.Ah;if(!!Aw.Ah)Aw.Ah.AJ=Aw.AJ;if(this.B8===Aw)this.B8=Aw.Ah;if(this.
+B9===Aw)this.B9=Aw.AJ;Aw.Ah=null;Aw.AJ=null;return;}Aw=Aw.Ah;}},E$:function(){var
+Be=A._NewObject(C.Filter,0);var Aw=this.B8;while(!!Aw){Be.CX(Aw.Abk());Aw=Aw.Ah;
 }return Be;},_Init:function(aArg){this.__proto__=C.Filter;A.h7++;},_Done:function(
 ){this.__proto__=null;A.h7--;},_ReInit:function(){},_Mark:function(D){var B;if((
-B=this.B7)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.B8)&&(B._cycle!=D))B._Mark(
+B=this.B8)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.B9)&&(B._cycle!=D))B._Mark(
 B._cycle=D);if((B=this.I)&&(B._cycle!=D))B._Mark(B._cycle=D);},I:null,_cycle:0,_observers:
 null,_className:"Device::Filter"};C.FilterCriterion={Ah:null,AJ:null,EJ:-1,Operator:
 1,YK:false,Abk:function(){return null;},E$:function(AI){if(!AI)return;this.EJ=AI.
@@ -556,7 +556,7 @@ Aq){this.AE3(Aq);},UpdateBirthListView:function(AK){if(this.Aqs===AK)return;this
 Aqs=AK;A.abo([this,this.AEG,this.AIV],0);},BatchResetBirthNoticePending:function(
 ){var O;var AiY=0;var Adj=A._GetAutoObject(C.Device).An.Filter;var Be=A._GetAutoObject(
 C.Helper).AOM();A._GetAutoObject(C.Device).An.Bk(Be);for(O=0;O<A._GetAutoObject(
-C.Device).An.B9();O++){A._GetAutoObject(C.Helper).G8(O);A._GetAutoObject(C.Helper
+C.Device).An.B_();O++){A._GetAutoObject(C.Helper).G8(O);A._GetAutoObject(C.Helper
 ).W.Ae6(false);A._GetAutoObject(C.Helper).W.Ci(A._GetAutoObject(C.Device).An);AiY++;
 }A._GetAutoObject(C.Device).An.Bk(Adj);return AiY;},UpdateTransferProgress:function(
 AK){if(this.AxU===AK)return;this.AxU=AK;A.abo([this,this.AS1,this.A0H],0);},AF5:
@@ -630,7 +630,7 @@ Aq){this.Aw$(Aq);},AD4:function(){if(this.K&&this.K.AD4)return this.K.AD4.apply(
 this,arguments);else return C.DeviceClass.BuW.apply(this,arguments);},BuW:function(
 ){return 1;},AD5:function(){if(this.K&&this.K.AD5)return this.K.AD5.apply(this,arguments
 );else return C.DeviceClass.BuX.apply(this,arguments);},BuX:function(){return 1;
-},GetCommitCount:function(){return 2146;},GetCommitEpoch:function(){return 1713968356;
+},GetCommitCount:function(){return 2173;},GetCommitEpoch:function(){return 1714662121;
 },GetCommitHash:function(){return A.kR.Bh8;},GetVersionMajor:function(){return 0;
 },GetVersionMinor:function(){return 9;},GetVersionRev:function(){return 9;},AFC:
 function(E){if(this.K&&this.K.AFC)return this.K.AFC.apply(this,arguments);else return C.
@@ -642,7 +642,7 @@ K.Axf.apply(this,arguments);else return C.DeviceClass.Bwc.apply(this,arguments);
 function(Ay9){if(this.Ak5===Ay9)return;this.Ak5=Ay9;A.abo([this,this.AS2,this.A0I
 ],0);},BatchResetPurchasedNoticePending:function(){var O;var AiY=0;var Adj=A._GetAutoObject(
 C.Device).An.Filter;var Be=A._GetAutoObject(C.Helper).Avy();A._GetAutoObject(C.Device
-).An.Bk(Be);for(O=0;O<A._GetAutoObject(C.Device).An.B9();O++){A._GetAutoObject(C.
+).An.Bk(Be);for(O=0;O<A._GetAutoObject(C.Device).An.B_();O++){A._GetAutoObject(C.
 Helper).G8(O);A._GetAutoObject(C.Helper).W.Ae6(false);A._GetAutoObject(C.Helper).
 W.Ci(A._GetAutoObject(C.Device).An);AiY++;}A._GetAutoObject(C.Device).An.Bk(Adj);
 return AiY;},BnD:function(E){},UpdateMassRecordingAutomatic:function(AK){if(this.
@@ -812,8 +812,8 @@ this.K.V2)return this.K.V2.apply(this,arguments);else return C.ITable.V2.apply(t
 ,arguments);},H3:function(Ad,A4){if(this.K&&this.K.H3)return this.K.H3.apply(this
 ,arguments);else return C.ITable.H3.apply(this,arguments);},OnSetId:function(E){
 if(this.K&&this.K.OnSetId)return this.K.OnSetId.apply(this,arguments);else return C.
-ITable.OnSetId.apply(this,arguments);},B9:function(){if(this.K&&this.K.B9)return this.
-K.B9.apply(this,arguments);else return C.ITable.B9.apply(this,arguments);},Bk:function(
+ITable.OnSetId.apply(this,arguments);},B_:function(){if(this.K&&this.K.B_)return this.
+K.B_.apply(this,arguments);else return C.ITable.B_.apply(this,arguments);},Bk:function(
 E){if(this.K&&this.K.Bk)return this.K.Bk.apply(this,arguments);else return C.ITable.
 Bk.apply(this,arguments);},V3:function(Ad,A4){if(this.K&&this.K.V3)return this.K.
 V3.apply(this,arguments);else return C.ITable.V3.apply(this,arguments);},Sm:function(
@@ -1114,12 +1114,12 @@ Breed;},ASH:function(){return this.EaseOfDelivery;},Aws:function(){return this.W
 IsDry;},_Init:function(aArg){C.Row._Init.call(this,aArg);this.__proto__=C.Animal;
 this.TableId=0;},_className:"Device::Animal"};C.Row={CL:-1,TableId:2,E3:function(
 Ad,AH){if(!AH){A.ab5("%s",(As2+this.CL.toFixed())+As3);return false;}else if(AH.
-Id!==this.TableId)throw new Error(As4);else if((Ad<0)||(Ad>=AH.B9())){A.ab5("%s"
-,(((Aom+this.CL.toFixed())+As5)+AH.B9().toFixed())+Ald);return false;}this.CL=Ad;
+Id!==this.TableId)throw new Error(As4);else if((Ad<0)||(Ad>=AH.B_())){A.ab5("%s"
+,(((Aom+this.CL.toFixed())+As5)+AH.B_().toFixed())+Ald);return false;}this.CL=Ad;
 return true;},Ci:function(AH){if(!AH){A.ab5("%s",(As2+this.CL.toFixed())+As3);return false;
 }else if(AH.Id!==this.TableId)throw new Error(As4);else if(this.Am7()&&AH.Lj()){
 A.ab5("%s",Ayd+AH.HK().toFixed());return false;}else if(!this.Am7()&&((this.CL<0
-)||(this.CL>=AH.B9()))){A.ab5("%s",(((Aom+this.CL.toFixed())+As5)+AH.B9().toFixed(
+)||(this.CL>=AH.B_()))){A.ab5("%s",(((Aom+this.CL.toFixed())+As5)+AH.B_().toFixed(
 ))+Ald);return false;}return true;},Gr:function(){this.E6();this.CL=-1;},Am7:function(
 ){return this.CL===-1;},E6:function(){this.CL=-2;},Aq0:function(){return this.CL
 !==-2;},A9l:function(){return this.CL;},A_K:function(E){this.CL=E;},_Init:function(
@@ -1295,7 +1295,7 @@ A._NewObject(C.Int32FilterCriterion,0);Oi.Operator=0;Oi.EJ=1;Oi.A5=Ac8;Be.CX(Oi)
 if(Xr>0){var Ov=A._NewObject(C.UInt32FilterCriterion,0);Ov.Operator=2;Ov.EJ=6;Ov.
 A5=Xr;Be.CX(Ov);}if(AfJ>0){var On=A._NewObject(C.UInt32FilterCriterion,0);On.Operator=
 3;On.EJ=6;On.A5=AfJ;Be.CX(On);}AH.Bk(Be);var Ma=A._NewObject(C.Int32ArrayWrapper
-,0);Ma.ZA(6);var O;for(O=0;O<Ma.MH;O=O+1)Ma.Set(O,0);var Va;for(O=0;O<AH.B9();O=
+,0);Ma.ZA(6);var O;for(O=0;O<Ma.MH;O=O+1)Ma.Set(O,0);var Va;for(O=0;O<AH.B_();O=
 O+1){Va=AH.I8(O,AJk);Ma.Set(Va,Ma.Get(Va)+1);}AH.Bk(ApH);return Ma;},ZR:function(
 Ah8){var B;var GG=A._NewObject(A.Core.Bs,0);var BgN=A._NewObject(A.Core.An5,0);GG.
 Initialize(A._GetAutoObject(C.Converter).AhT());BgN.Initialize2(Ah8,0,0,0);GG=GG.
@@ -1306,7 +1306,7 @@ Oi);if(Xr>0){var Ov=A._NewObject(C.UInt32FilterCriterion,0);Ov.Operator=2;Ov.EJ=
 6;Ov.A5=Xr;Be.CX(Ov);}if(AfJ>0){var On=A._NewObject(C.UInt32FilterCriterion,0);On.
 Operator=3;On.EJ=6;On.A5=AfJ;Be.CX(On);}AH.Bk(Be);var Ma=A._NewObject(C.Int32ArrayWrapper
 ,0);Ma.ZA(6);var O;for(O=0;O<Ma.MH;O=O+1)Ma.Set(O,0);var Ao7=A._NewObject(C.Rating
-,0);var A10;for(O=0;O<AH.B9();O=O+1){Ao7.E3(O,AH);if(A._GetAutoObject(C.Helper).
+,0);var A10;for(O=0;O<AH.B_();O=O+1){Ao7.E3(O,AH);if(A._GetAutoObject(C.Helper).
 AGr(Ao7)){A10=A._GetAutoObject(C.Helper).ADf(Ao7);Ma.Set(A10,Ma.Get(A10)+1);}}AH.
 Bk(ApH);return Ma;},A2x:function(AH,Ac8,Bzj){if(!AH)throw new Error(As7);var Be=
 A._NewObject(C.Filter,0);var ApH=AH.Filter;var Oi=A._NewObject(C.Int32FilterCriterion
@@ -1315,7 +1315,7 @@ A._NewObject(C.Filter,0);var ApH=AH.Filter;var Oi=A._NewObject(C.Int32FilterCrit
 ).AmJ(1);var Ov=A._NewObject(C.UInt32FilterCriterion,0);Ov.Operator=2;Ov.EJ=6;Ov.
 A5=Xr;Be.CX(Ov);var On=A._NewObject(C.UInt32FilterCriterion,0);On.Operator=3;On.
 EJ=6;On.A5=AfJ;Be.CX(On);AH.Bk(Be);var Ao7=A._NewObject(C.Rating,0);var Va;var LT=
-0;var O;for(O=0;O<AH.B9();O=O+1){Ao7.E3(O,AH);if(A._GetAutoObject(C.Helper).AGr(
+0;var O;for(O=0;O<AH.B_();O=O+1){Ao7.E3(O,AH);if(A._GetAutoObject(C.Helper).AGr(
 Ao7)){Va=A._GetAutoObject(C.Helper).ADf(Ao7);if(A._GetAutoObject(C.Converter).Ad2(
 Va)>A._GetAutoObject(C.Converter).Ad2(LT))LT=Va;}}AH.Bk(ApH);return LT;},Am6:function(
 ){if((A._GetAutoObject(C.Device).WeightRecordingScope===2)||(A._GetAutoObject(C.
@@ -1327,9 +1327,9 @@ var Oi=A._NewObject(C.Int32FilterCriterion,0);Oi.Operator=0;Oi.EJ=1;Oi.A5=Ac8;Be
 CX(Oi);if(Xr>0){var Ov=A._NewObject(C.UInt32FilterCriterion,0);Ov.Operator=2;Ov.
 EJ=6;Ov.A5=Xr;Be.CX(Ov);}if(AfJ>0){var On=A._NewObject(C.UInt32FilterCriterion,0
 );On.Operator=3;On.EJ=6;On.A5=AfJ;Be.CX(On);}AH.Bk(Be);var Ma=A._NewObject(C.Int32ArrayWrapper
-,0);Ma.ZA(6);var O;for(O=0;O<Ma.MH;O=O+1)Ma.Set(O,0);if(AH.B9()>0){var Va=AH.I8(
+,0);Ma.ZA(6);var O;for(O=0;O<Ma.MH;O=O+1)Ma.Set(O,0);if(AH.B_()>0){var Va=AH.I8(
 0,AJk);var ApZ=AH.Hv(O,6);var Ac=A._NewObject(A.Core.Bs,0);Ac.Initialize(ApZ);var
-Aqe=Va;var AKd=A._NewObject(A.Core.Bs,0);AKd.Initialize(Ac.JV());for(O=1;O<AH.B9(
+Aqe=Va;var AKd=A._NewObject(A.Core.Bs,0);AKd.Initialize(Ac.JV());for(O=1;O<AH.B_(
 );O=O+1){Va=AH.I8(O,AJk);ApZ=AH.Hv(O,6);Ac.Initialize(ApZ);if((Ac.AbZ()!==AKd.AbZ(
 ))||(Ac.Year!==AKd.Year)){Ma.Set(Aqe,Ma.Get(Aqe)+1);AKd.Initialize(Ac.JV());Aqe=
 Va;}else if(!!Va&&(Va<Aqe))Aqe=Va;}Ma.Set(Aqe,Ma.Get(Aqe)+1);}AH.Bk(ApH);return Ma;
@@ -1530,13 +1530,13 @@ C.Device).An);Cz.PW(0);Cz.Ci(A._GetAutoObject(C.Device).An);A._GetAutoObject(C.D
 },Bjs:function(Bxg){var Be=A._GetAutoObject(C.Helper).Mv();var AfS=this.A6W(2,Bxg
 );Be.CX(AfS);return Be;},ByM:function(Aty,AoF){var Xt=A._GetAutoObject(C.Device).
 An.Filter;A._GetAutoObject(C.Device).An.Bk(this.A6Z(Aty,AoF));var CB=A._GetAutoObject(
-C.Device).An.B9();var O;for(O=CB-1;O>=0;O--){A._GetAutoObject(C.Helper).G8(O);A.
+C.Device).An.B_();var O;for(O=CB-1;O>=0;O--){A._GetAutoObject(C.Helper).G8(O);A.
 _GetAutoObject(C.Helper).W.Ae5(false);A._GetAutoObject(C.Helper).W.Ci(A._GetAutoObject(
 C.Device).An);}A._GetAutoObject(C.Device).An.Bk(Xt);},Bjt:function(Aty,AoF){var Xt=
 A._GetAutoObject(C.Device).An.Filter;A._GetAutoObject(C.Device).An.Bk(this.A6Z(Aty
-,AoF));var Gh=A._GetAutoObject(C.Device).An.B9();A._GetAutoObject(C.Device).An.Bk(
+,AoF));var Gh=A._GetAutoObject(C.Device).An.B_();A._GetAutoObject(C.Device).An.Bk(
 Xt);return Gh;},A67:function(AH){var Xt=AH.Filter;AH.Bk(this.Avy());var O;var A25=
-4294967295;for(O=0;O<AH.B9();O++){var Pc=AH.Hv(O,4);if(Pc<A25)A25=Pc;}AH.Bk(Xt);
+4294967295;for(O=0;O<AH.B_();O++){var Pc=AH.Hv(O,4);if(Pc<A25)A25=Pc;}AH.Bk(Xt);
 return A._GetAutoObject(C.Helper).Mb(A25,A._GetAutoObject(C.Helper).Dv());},Bj9:
 function(){if(A._GetAutoObject(C.Device).P4.Z1!==6)return false;if((A._GetAutoObject(
 C.Device).P4.AsS===1529)&&(A._GetAutoObject(C.Device).P4.Asl===16900))return true;
@@ -1940,7 +1940,7 @@ call(this,aArg);this.__proto__=C.ActionToString;},_className:"Device::ActionToSt
 };C.ACTIONS_COUNT=19;C.PopupTimeout=2000;C.ITable={Filter:null,Id:2,CF:function(
 Ad,A4){return 0;},V2:function(Ad,A4){return A.jV;},Ako:function(G){A.we(this,0);
 A.pe([this,this.DX],this);},H3:function(Ad,A4){return false;},Hv:function(Ad,A4){
-return this.Sm(Ad,A4);},OnSetId:function(E){if(this.Id===E)return;this.Id=E;},B9:
+return this.Sm(Ad,A4);},OnSetId:function(E){if(this.Id===E)return;this.Id=E;},B_:
 function(){return 0;},Bk:function(E){if(this.Filter===E)return;this.Filter=E;A.abo([
 this,this.Fp,this.Ft],0);},Ft:function(Aq){this.Bk(Aq);},I8:function(Ad,A4){var BBU=
 this.V3(Ad,A4);return A._GetAutoObject(C.Converter).A$_(BBU);},V3:function(Ad,A4

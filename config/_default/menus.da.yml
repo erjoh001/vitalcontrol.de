@@ -1,0 +1,7 @@
+main:
+  - name: Hjemmeside VitalControl (på engelsk)
+    url: ../en/
+    weight: 10
+  - name: Dokumentation (på engelsk)
+    url: ../en/docs/
+    weight: 20
