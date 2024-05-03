@@ -55,6 +55,14 @@ hu:
   languageName: Magyar
   contentDir: content/hu
   weight: 90
+it:
+  languageName: Italiano
+  contentDir: content/it
+  weight: 93
+lv:
+  languageName: Latviešu
+  contentDir: content/lv
+  weight: 95
 nl:
   languageName: Nederlands
   contentDir: content/nl
@@ -63,10 +71,22 @@ no:
   languageName: Norsk
   contentDir: content/no
   weight: 110
+pl:
+  languageName: Polski
+  contentDir: content/pl
+  weight: 120
+ro:
+  languageName: Română
+  contentDir: content/ro
+  weight: 123
 ru:
   languageName: Русский
   contentDir: content/ru
-  weight: 120
+  weight: 125
+sv:
+  languageName: Svenska
+  contentDir: content/sv
+  weight: 125
 tr:
   languageName: Türkçe
   contentDir: content/tr

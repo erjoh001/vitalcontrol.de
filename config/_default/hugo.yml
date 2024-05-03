@@ -63,10 +63,10 @@ module:
       target: static/cs/demo
       lang: cs
     - source: static/demo
-      target: static/el/demo
+      target: static/da/demo
       lang: da
     - source: static/demo
-      target: static/da/demo
+      target: static/el/demo
       lang: el
     - source: static/demo
       target: static/es/demo
@@ -84,14 +84,29 @@ module:
       target: static/hu/demo
       lang: hu
     - source: static/demo
+      target: static/it/demo
+      lang: it
+    - source: static/demo
+      target: static/lv/demo
+      lang: lv
+    - source: static/demo
       target: static/nl/demo
       lang: nl
     - source: static/demo
       target: static/no/demo
       lang: no
     - source: static/demo
+      target: static/pl/demo
+      lang: pl
+    - source: static/demo
+      target: static/ro/demo
+      lang: ro
+    - source: static/demo
       target: static/ru/demo
       lang: ru
+    - source: static/demo
+      target: static/sv/demo
+      lang: sv
     - source: static/demo
       target: static/tr/demo
       lang: tr
