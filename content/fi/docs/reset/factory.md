@@ -11,7 +11,7 @@ translationKey: reset/factory
 
 1. Avaa valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` VitalControl-laitteesi päävalikosta.
 
-1. Käynnistä alavalikko `Tietojenhallinta`, siirry valikkokohtaan `Tehdasasetusten palautus`. Jätä ehdotettu vaihtoehto `Kaikki laitetiedot` muuttamattomaksi.
+1. Käynnistä alavalikko `Tiedonhallinta`, siirry valikkokohtaan `Tehdasasetukset`. Jätä ehdotettu vaihtoehto `Kaikki laitetiedot` muuttamattomaksi.
 
 1. Paina `OK`-painiketta käynnistääksesi tehdasasetusten palautuksen. Nyt ilmestyy ponnahdusikkuna turvakysymyksellä. Vahvista tässä `Kyllä`.
 

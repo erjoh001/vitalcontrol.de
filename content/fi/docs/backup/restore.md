@@ -21,7 +21,7 @@ USB-muistitikkusi `backup`-hakemistossa voi olla useita varmuuskopiotiedostoja, 
 
 1. Avaa päävalikosta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` VitalControl-laitteessa, johon haluat palauttaa tiedot.
 
-2. Käynnistä alavalikko `Tietojen hallinta` ja valitse sen jälkeen alavalikon kohta `Tietovarmuus`. Valitse nyt valikkokohta `Palauta varmuuskopio` ja vahvista `OK`. Sinua pyydetään nyt asettamaan USB-muistitikku:
+2. Käynnistä alavalikko `Tiedonhallinta` ja valitse sen jälkeen alavalikon kohta `Datan vaermuuskopio`. Valitse nyt valikkokohta `Palauta varmuuskopio` ja vahvista `OK`. Sinua pyydetään nyt asettamaan USB-muistitikku:
 
    ![VitalControl: valikkopolku tietojen palautukseen](../images/restore.png "Palautus varmuuskopiotiedostosta")
 

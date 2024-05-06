@@ -15,19 +15,21 @@ translationKey: data-export/usb-drive
 
 1. Avaa valikkokohta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` päävalikosta VitalControl-laitteellasi.
 
-2. Avaa alavalikko `Tietojenhallinta`, valitse valikkokohta `Vie eläintiedot (csv)` ja vahvista `OK`. Sinua pyydetään nyt asettamaan USB-muistitikku:
+2. Kutsu esiin alivalikko `Tiedonhallinta`, valitse valikkokohta `Tietoa aliäimistä` ja vahvista valinta `OK`:lla.
+
+3. Toinen alivalikko avautuu. Valitse valikkokohta `Vie elaintiedot (csv)` ja vahvista `OK`.
 
    ![VitalControl: Valikkopolku tietojen vientiin](../images/data-export.png "Käynnistä tietojen vienti")
 
-3. Aseta USB-muistitikku (C-liitin) laitteen alaosassa olevaan liittimeen.
+4. Aseta USB-muistitikku (C-liitin) laitteen alaosassa olevaan liittimeen.
 
    ![VitalControl: aseta USB-muistitikku](/images/firmware/update/plug-in-dual-usb-stick.svg "Aseta USB-muistitikku")
 
-4. Kun laite on havainnut USB-tikun, tietojen vienti käynnistyy automaattisesti. Varmuuskopiotietojen kirjoittaminen voi kestää muutaman sekunnin. Kun tietojen vienti on valmis, näytölle tulee onnistumisilmoitus:
+5. Kun laite on havainnut USB-tikun, tietojen vienti käynnistyy automaattisesti. Varmuuskopiotietojen kirjoittaminen voi kestää muutaman sekunnin. Kun tietojen vienti on valmis, näytölle tulee onnistumisilmoitus:
 
    ![VitalControl: onnistumisilmoitus tietojen viennistä](../images/success-data-export.png "Onnistunut tietojen vienti")
 
-5. Tietojen vienti on nyt valmis. Löydät neljä luotua [vientitiedostoa](../export-files/) `export-csv`-kansiosta USB-muistitikultasi.
+6. Tietojen vienti on nyt valmis. Löydät neljä luotua [vientitiedostoa](../export-files/) `export-csv`-kansiosta USB-muistitikultasi.
 
    ![USB-muistitikku vientitiedostoilla VitalControl](../images/export-files.png "Vientitiedostot USB-muistitikulla")
 

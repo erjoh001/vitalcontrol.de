@@ -15,7 +15,7 @@ translationKey: backup
 
 1. Avaa valikkokohta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` päävalikossa VitalControl-laitteellasi.
 
-2. Kutsu alavalikko `Tietojenhallinta` ja valitse sen jälkeen alavalikkokohta `Tietojen varmuuskopiointi`. Valitse nyt valikkokohta `Luo varmuuskopio` ja vahvista `OK`. Sinua pyydetään nyt asettamaan USB-muistitikku:
+2. Kutsu alavalikko `Tiedonhallinta` ja valitse sen jälkeen alavalikkokohta `Datan vaermuuskopio`. Valitse nyt valikkokohta `Luo varmuuskopio` ja vahvista `OK`. Sinua pyydetään nyt asettamaan USB-muistitikku:
 
    ![VitalControl: valikkopolku tietojen varmuuskopiointiin](../images/backup.png "Kutsu tietojen varmuuskopiointi")
 

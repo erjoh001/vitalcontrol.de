@@ -10,7 +10,7 @@ categories: [Reset]
 
 1. Avaa valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` päävalikosta VitalControl-laitteellasi.
 
-1. Käynnistä alavalikko `Tietojenhallinta`, siirry valikkokohtaan `Tehdasasetusten palautus`. Valitse tässä valikossa vaihtoehto `Vain eläintiedot`.
+1. Käynnistä alavalikko `Tiedonhallinta`, siirry valikkokohtaan `Tehdasasetukset`. Valitse tässä valikossa vaihtoehto `Vain eläintiedot`.
 
 1. Paina `OK`-painiketta käynnistääksesi eläinten tietojen poiston. Nyt näyttöön tulee turvakysymys. Vahvista valitsemalla `Kyllä`.
 
