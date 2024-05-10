@@ -38,6 +38,6 @@ translationKey: actions/settings
 
 3. Открывается подменю. Используйте стрелки △ ▽ для выбора пункта меню &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Цепочка действий" />&nbsp; `цепочка действий` и подтвердите нажатием `OK`.
 
-4. Дополнительные инструкции можно найти [здесь](/ru/docs/chain-of-actions/#set-chain-of-actions).
+4. Дополнительные инструкции можно найти [здесь](/ru/docs/chain-of-actions/).
 
     ![VitalControl: Меню Действия Цепочка Действий](../images/chainofactions.png "Цепочка Действий")

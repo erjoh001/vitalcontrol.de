@@ -38,5 +38,3 @@ translationKey: actions/on-watch
 {{% alert title="Подсказка" %}}
 Если это действие недоступно, возможно, оно было деактивировано! Активируйте действие в меню [настройки действий](../settings/). В качестве альтернативы, сброс всех действий вернет это действие обратно.
 {{% /alert %}}
-
-Please paste the Markdown content you would like translated into Russian.

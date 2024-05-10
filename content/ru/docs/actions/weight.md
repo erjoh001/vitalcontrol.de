@@ -39,5 +39,3 @@ translationKey: actions/weight
 {{% alert title="Подсказка" %}}
 Если это действие недоступно, вероятно, действие было деактивировано! Активируйте действие в меню [настройки действий](../settings/). В качестве альтернативы, сброс всех действий вернет это действие.
 {{% /alert %}}
-
-Please paste the Markdown content you want translated into Russian.

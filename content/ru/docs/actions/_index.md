@@ -29,8 +29,8 @@ maphilight: true
    <area shape="rect" coords="175,225,230,280" alt="Потеря животного" title="Регистрация потери животного&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/animal-loss/">
    <area shape="rect" coords="3,280,60,337" alt="Привязка транспондера" title="Присвоение транспондера животному&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/link-transponder/">
    <area shape="rect" coords="55,280,120,337" alt="Отвязка транспондера" title="Удаление связи транспондера с животным&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/unlink-transponder/">
-   <area shape="rect" coords="120,280,175,337" alt="Ручное присвоение ID животного" title="Присвоение национального ID животному, у которого нет национального ID&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/link-animal-id/#link-animal-id">
-   <area shape="rect" coords="175,280,230,337" alt="Присвоение ID животного с помощью сканирования" title="Присвоение национального ID животному, у которого нет национального ID&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
+   <area shape="rect" coords="120,280,175,337" alt="Ручное присвоение ID животного" title="Присвоение национального ID животному, у которого нет национального ID&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/link-animal-id/#привязка-идентификатора-животного">
+   <area shape="rect" coords="175,280,230,337" alt="Присвоение ID животного с помощью сканирования" title="Присвоение национального ID животному, у которого нет национального ID&#10;Клик мыши: открыть документацию" href="/ru/docs/actions/link-animal-id/#связывание-идентификационного-номера-животного-с-электронной-меткой-на-ухе">
 
 <area shape="rect" coords="100,340,140,375" alt="Настройки" title="Вызов настроек&#10;Клик мыши: к документации" href="/ru/docs/actions/settings/">
 </map>
