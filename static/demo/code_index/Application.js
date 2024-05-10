@@ -332,7 +332,7 @@ B._cycle=D);if((B=this.ZC)._cycle!=D)B._Mark(B._cycle=D);if((B=this.NU)._cycle!=
 D)B._Mark(B._cycle=D);if((B=this.Oz)._cycle!=D)B._Mark(B._cycle=D);if((B=this.TJ
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.TK)._cycle!=D)B._Mark(B._cycle=D);},_className:
 "Application::BatteryIndicator"};C.ZC={_Init:function(aArg){A.acl.Gm._Init.call(
-this,aArg);this.__proto__=C.ZC;this.AkY=true;this.B2=0;this.Cx=255;},_className:
+this,aArg);this.__proto__=C.ZC;this.AkY=true;this.B3=0;this.Cx=255;},_className:
 "Application::PulseAnimation"};C.Ek={GK:null,AR:null,Background:null,OB:null,Bo:
 null,Do:null,K_:0,Avr:0,Avs:0,Ao4:0,LK:false,KJ:false,Qv:false,Ai:function(Ae){var
 B;A.Core.P.Ai.call(this,Ae);var Hf=((Ae&0x10)===0x10);var Fw=((Ae&0x20)===0x20);
@@ -455,7 +455,7 @@ _GetAutoObject(A.Device.Device).AhM();},E4:function(G){A._GetAutoObject(A.Device
 Device).An0();},Al6:function(G){var F;this.Am();this.TH.Ar(A._GetAutoObject(A.Device.
 Device).ScanState===1);if(A._GetAutoObject(A.Device.Device).ScanState===2)A._GetAutoObject(
 A.Device.Helper).Aeo.Ar(true);if(!this.TH.Bw)(F=this.TH.Q,F[2].call(F[0],this.TH.
-B2));},Bb5:function(s){this.Al6(s);},An8:function(){switch(A._GetAutoObject(A.Device.
+B3));},Bb5:function(s){this.Al6(s);},An8:function(){switch(A._GetAutoObject(A.Device.
 Device).ScanState){case 4:this.Background.L(A.jb.Gj);break;case 3:this.Background.
 L(A.jb.H9);break;default:this.Background.L(A.jb.CJ);}},AkG:function(E){if(this.AsP===
 E)return;this.AsP=E;this.Ji.AkG(E);},_Init:function(aArg){C.AB._Init.call(this,aArg
@@ -464,7 +464,7 @@ E)return;this.AsP=E;this.Ji.AkG(E);},_Init:function(aArg){C.AB._Init.call(this,a
 ,0);this.__proto__=C.Ra;var B;this.Background.L(A.jb.CJ);this.N.Z(false);this.Number.
 H(UX);this.Number.KU(true);this.Number.L(A.jb.Text);this.Ji.H(Z6);this.Ji.AkG(0);
 this.IU.H(W9);this.IU.L(A.jb.AV);this.IU.Zr(true);this.TH.Fr(1750);this.TH.Ut(750
-);this.TH.AkB(0);this.TH.Ar(true);this.TH.B2=3;this.J(this.Number,0);this.J(this.
+);this.TH.AkB(0);this.TH.Ar(true);this.TH.B3=3;this.J(this.Number,0);this.J(this.
 Ji,0);this.J(this.IU,0);this.Number.S(A.aaL(A.fl.Af));this.IU.Ax(A.aaL(A.ach.ADS
 ));this.TH.Q=[B=this.IU,B.ASJ,B.Cv];this.Init(aArg);},_Done:function(){this.__proto__=
 C.AB;this.Number._Done();this.Ji._Done();this.IU._Done();this.TH._Done();C.AB._Done.
@@ -821,7 +821,7 @@ var QA=0;if(E<this.Gq){E=this.F$;QA=-this.Dz.We*this.Dz.AY;}if(E>this.F$){E=this
 Gq;QA=this.Dz.We;}C.Ds.Bx.call(this,E);if(!!QA)this.Dz.Gb(QA);this.Dz.GT(this.AM
 );if(this.Dz.Bj_())this.Dz.BpH(false,false);this.Dz.HI(this.Dz.Gt,true,this.HN,null
 );},Hm:function(G){var B;var Gg=this.Dz.G6;var CA=(C.CG.isPrototypeOf(B=this.Dz.
-Cj)?B:null);if(!CA)return;CA.S(this.V.B6);CA.Aw9(19);CA.AZ(this.V.AmT);CA.BnX(19
+Cj)?B:null);if(!CA)return;CA.S(this.V.B7);CA.Aw9(19);CA.AZ(this.V.AmT);CA.BnX(19
 );CA.Cr(this.V.AqR);CA.BnY(19);CA.L(this.V.AQ);if(!!this.AC)CA.R(this.AC.Gl(Gg));
 else CA.R(Xg);CA.H(A.abK(CA.M,[this.Dz.We,(B=this.Dz.M)[3]-B[1]]));},BwM:function(
 s){this.Hm(s);},CK:function(E){if(this.AC===E)return;this.AC=E;if(!!this.AC){this.
@@ -936,22 +936,23 @@ B._cycle=D);if((B=this.P9)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Gy)._cycle!=
 D)B._Mark(B._cycle=D);if((B=this.Gx)._cycle!=D)B._Mark(B._cycle=D);},_className:
 "Application::SettingsItemDate"};C.ON={LanguageToString:null,Init:function(aArg){
 var B;A.zX([this,this.Bel],[B=A._GetAutoObject(A.Device.Device),B.A86,B.BbB],0);
-A.pe([this,this.Bel],this);},Du:function(){return 18;},Gl:function(aIndex){return this.
+A.pe([this,this.Bel],this);},Du:function(){return 23;},Gl:function(aIndex){return this.
 LanguageToString.BS(this.C7(aIndex));},Au:function(E){C.Cm.Au.call(this,E);A._GetAutoObject(
 A.Device.Device).AnC(E);},Bel:function(G){this.Q=A._GetAutoObject(A.Device.Device
 ).Language;A.abo([this,this.B$,this.Cb],0);},_Init:function(aArg){C.Cm._Init.call(
 this,aArg);A.Device.LanguageToString._Init.call(this.LanguageToString={I:this},0
-);this.__proto__=C.ON;this.B7.Set(0,0);this.B7.Set(1,1);this.B7.Set(2,5);this.B7.
-Set(3,3);this.B7.Set(4,8);this.B7.Set(5,9);this.B7.Set(6,7);this.B7.Set(7,6);this.
-B7.Set(8,10);this.B7.Set(9,2);this.B7.Set(10,11);this.B7.Set(11,12);this.B7.Set(
-12,13);this.B7.Set(13,14);this.B7.Set(14,15);this.B7.Set(15,16);this.B7.Set(16,18
-);this.B7.Set(17,17);this.Init(aArg);},_Done:function(){this.__proto__=C.Cm;this.
-LanguageToString._Done();C.Cm._Done.call(this);},_ReInit:function(){C.Cm._ReInit.
-call(this);this.LanguageToString._ReInit();},_Mark:function(D){var B;C.Cm._Mark.
-call(this,D);if((B=this.LanguageToString)._cycle!=D)B._Mark(B._cycle=D);},_className:
-"Application::Languages"};C.Rf={TemperatureUnitToString:null,Du:function(){return 2;
-},C7:function(aIndex){if((aIndex<0)||(aIndex>=2))return-1;return aIndex;},Gl:function(
-aIndex){if((aIndex<0)||(aIndex>=2))return A.jV;return this.TemperatureUnitToString.
+);this.__proto__=C.ON;this.BX.Set(0,0);this.BX.Set(1,1);this.BX.Set(2,5);this.BX.
+Set(3,3);this.BX.Set(4,8);this.BX.Set(5,9);this.BX.Set(6,7);this.BX.Set(7,6);this.
+BX.Set(8,10);this.BX.Set(9,2);this.BX.Set(10,11);this.BX.Set(11,12);this.BX.Set(
+12,13);this.BX.Set(13,14);this.BX.Set(14,15);this.BX.Set(15,16);this.BX.Set(16,18
+);this.BX.Set(17,17);this.BX.Set(18,4);this.BX.Set(19,20);this.BX.Set(20,21);this.
+BX.Set(21,23);this.BX.Set(22,24);this.Init(aArg);},_Done:function(){this.__proto__=
+C.Cm;this.LanguageToString._Done();C.Cm._Done.call(this);},_ReInit:function(){C.
+Cm._ReInit.call(this);this.LanguageToString._ReInit();},_Mark:function(D){var B;
+C.Cm._Mark.call(this,D);if((B=this.LanguageToString)._cycle!=D)B._Mark(B._cycle=
+D);},_className:"Application::Languages"};C.Rf={TemperatureUnitToString:null,Du:
+function(){return 2;},C7:function(aIndex){if((aIndex<0)||(aIndex>=2))return-1;return aIndex;
+},Gl:function(aIndex){if((aIndex<0)||(aIndex>=2))return A.jV;return this.TemperatureUnitToString.
 BS(aIndex);},DZ:function(A7){return A7;},H4:function(){return 1;},Au:function(E){
 C.AC.Au.call(this,E);A._GetAutoObject(A.Device.Device).Axb(E);},Init:function(aArg
 ){var B;A.zX([this,this.BgT],[B=A._GetAutoObject(A.Device.Device),B.ArB,B.Atq],0
@@ -1308,35 +1309,35 @@ D)B._Mark(B._cycle=D);if((B=this.Ak8)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Z
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.ZY)._cycle!=D)B._Mark(B._cycle=D);},_className:
 "Application::SyncScreen"};C.Aq1={_Init:function(aArg){C.ADp._Init.call(this,aArg
 );this.__proto__=C.Aq1;this.A_m(false);},_className:"Application::HeaderScannedAnimalId"
-};C.Gender={Animal:null,GenderToString:null,B7:A.abi(3,0,{0:2,2:1}),Du:function(
-){return 3;},C7:function(aIndex){if(aIndex>=3)return-1;return this.B7.Get(aIndex
+};C.Gender={Animal:null,GenderToString:null,BX:A.abi(3,0,{0:2,2:1}),Du:function(
+){return 3;},C7:function(aIndex){if(aIndex>=3)return-1;return this.BX.Get(aIndex
 );},Gl:function(aIndex){return this.GenderToString.BS(this.C7(aIndex));},DZ:function(
-A7){var O=0;while(O<3){if(this.B7.Get(O)===A7)return O;O=O+1;}return-1;},H4:function(
-){var O=0;var max=-1;while(O<3){if(this.B7.Get(O)>max)max=this.B7.Get(O);O=O+1;}
+A7){var O=0;while(O<3){if(this.BX.Get(O)===A7)return O;O=O+1;}return-1;},H4:function(
+){var O=0;var max=-1;while(O<3){if(this.BX.Get(O)>max)max=this.BX.Get(O);O=O+1;}
 return max;},Au:function(E){C.AC.Au.call(this,E);if(!!this.Animal)this.Animal.JX(
 E);},L2:function(E){var B;if(this.Animal===E)return;if(!!this.Animal)A.z$([this,
 this.Af3],[B=this.Animal,B.WC,B.JX],0);this.Animal=E;if(!!this.Animal)A.zX([this
 ,this.Af3],[B=this.Animal,B.WC,B.JX],0);A.pe([this,this.Af3],this);},Af3:function(
 G){if(!!this.Animal)this.Q=this.Animal.Gender;else this.Q=2;A.abo([this,this.B$,
 this.Cb],0);},_Init:function(aArg){C.AC._Init.call(this,aArg);A.Device.GenderToString.
-_Init.call(this.GenderToString={I:this},0);(this.B7=[]).__proto__=C.Gender.B7;this.
+_Init.call(this.GenderToString={I:this},0);(this.BX=[]).__proto__=C.Gender.BX;this.
 __proto__=C.Gender;},_Done:function(){this.__proto__=C.AC;this.GenderToString._Done(
 );C.AC._Done.call(this);},_ReInit:function(){C.AC._ReInit.call(this);this.GenderToString.
 _ReInit();},_Mark:function(D){var B;C.AC._Mark.call(this,D);if((B=this.Animal)&&(
 B._cycle!=D))B._Mark(B._cycle=D);if((B=this.GenderToString)._cycle!=D)B._Mark(B.
 _cycle=D);},_className:"Application::Gender"};C.BirthType={Animal:null,BirthTypeToString:
-null,B7:A.abi(4,0,{1:1,2:2,3:3}),Du:function(){return 4;},C7:function(aIndex){if(
-aIndex>=4)return-1;return this.B7.Get(aIndex);},Gl:function(aIndex){return this.
+null,BX:A.abi(4,0,{1:1,2:2,3:3}),Du:function(){return 4;},C7:function(aIndex){if(
+aIndex>=4)return-1;return this.BX.Get(aIndex);},Gl:function(aIndex){return this.
 BirthTypeToString.BS(this.C7(aIndex));},DZ:function(A7){var O=0;while(O<4){if(this.
-B7.Get(O)===A7)return O;O=O+1;}return-1;},H4:function(){var O=0;var max=-1;while(
-O<4){if(this.B7.Get(O)>max)max=this.B7.Get(O);O=O+1;}return max;},Au:function(E){
+BX.Get(O)===A7)return O;O=O+1;}return-1;},H4:function(){var O=0;var max=-1;while(
+O<4){if(this.BX.Get(O)>max)max=this.BX.Get(O);O=O+1;}return max;},Au:function(E){
 C.AC.Au.call(this,E);if(!!this.Animal)this.Animal.Akw(E);},A1K:function(G){if(!!
 this.Animal)this.Q=this.Animal.BirthType;else this.Q=0;A.abo([this,this.B$,this.
 Cb],0);},L2:function(E){var B;if(this.Animal===E)return;if(!!this.Animal)A.z$([this
 ,this.A1K],[B=this.Animal,B.ASD,B.Akw],0);this.Animal=E;if(!!this.Animal)A.zX([this
 ,this.A1K],[B=this.Animal,B.ASD,B.Akw],0);A.pe([this,this.A1K],this);},_Init:function(
 aArg){C.AC._Init.call(this,aArg);A.Device.BirthTypeToString._Init.call(this.BirthTypeToString={
-I:this},0);(this.B7=[]).__proto__=C.BirthType.B7;this.__proto__=C.BirthType;},_Done:
+I:this},0);(this.BX=[]).__proto__=C.BirthType.BX;this.__proto__=C.BirthType;},_Done:
 function(){this.__proto__=C.AC;this.BirthTypeToString._Done();C.AC._Done.call(this
 );},_ReInit:function(){C.AC._ReInit.call(this);this.BirthTypeToString._ReInit();
 },_Mark:function(D){var B;C.AC._Mark.call(this,D);if((B=this.Animal)&&(B._cycle!=
@@ -1560,25 +1561,25 @@ D))B._Mark(B._cycle=D);if((B=this.Av)._cycle!=D)B._Mark(B._cycle=D);if((B=this.J
 B=this.Uk)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Bc)._cycle!=D)B._Mark(B._cycle=
 D);if((B=this.So)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Gy)._cycle!=D)B._Mark(
 B._cycle=D);if((B=this.Gx)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::SettingsItemTime"
-};C.CG={B6:null,AmT:null,AqR:null,Em:null,Text:null,String:A.jV,Bd5:A.jV,Kl:0x12
+};C.CG={B7:null,AmT:null,AqR:null,Em:null,Text:null,String:A.jV,Bd5:A.jV,Kl:0x12
 ,ALd:0,AQ:0xFFFFFFFF,N8:0,AUD:0,A$w:0,Bd6:true,G4:function(CN){var LL=(A.Core.ARE.
 isPrototypeOf(CN)?CN:null);if(!!LL)this.BC4(this);return A.Core.P.G4.call(this,CN
 );},Bl:function(aSize){A.Core.P.Bl.call(this,aSize);A.pe([this,this.Ajl],this);}
 ,Dd:function(aFilter){return A.abh(this.Text.Dd(),this.M.slice(0,2));},R:function(
 E){if(this.String===E)return;this.String=E;if(this.Bd6){this.Bd5=E;this.Bd6=false;
-}this.ALd=E.length;A.pe([this,this.Ajl],this);},S:function(E){if(this.B6===E)return;
-this.B6=E;A.pe([this,this.Ajl],this);},AZ:function(E){if(this.AmT===E)return;this.
+}this.ALd=E.length;A.pe([this,this.Ajl],this);},S:function(E){if(this.B7===E)return;
+this.B7=E;A.pe([this,this.Ajl],this);},AZ:function(E){if(this.AmT===E)return;this.
 AmT=E;A.pe([this,this.Ajl],this);},Cr:function(E){if(this.AqR===E)return;this.AqR=
 E;A.pe([this,this.Ajl],this);},A6:function(E){if(E===this.Kl)return;this.Kl=E;this.
 Text.A6(E);},Ajl:function(G){var B;var ALj=0;if(!this.ALd){this.Text.Z(false);return;
-}this.Text.Z(true);this.Text.R(this.String);this.Text.KU(false);if(!!this.B6){ALj=
-this.B6.Yt(this.String,0,this.ALd);if(ALj<(((B=this.M)[2]-B[0])-(2*this.Text.Je)
-)){this.Text.S(this.B6);this.Text.Aw9(this.N8);return;}}this.Text.KU(true);if(!!
+}this.Text.Z(true);this.Text.R(this.String);this.Text.KU(false);if(!!this.B7){ALj=
+this.B7.Yt(this.String,0,this.ALd);if(ALj<(((B=this.M)[2]-B[0])-(2*this.Text.Je)
+)){this.Text.S(this.B7);this.Text.Aw9(this.N8);return;}}this.Text.KU(true);if(!!
 this.AmT){ALj=this.AmT.Yt(this.String,0,this.ALd);this.Text.S(this.AmT);this.Text.
 Aw9(this.AUD);if((ALj<(((B=this.M)[2]-B[0])-(2*this.Text.Je)))&&(((B=this.Text.Dd(
 ))[3]-B[1])<=((B=this.M)[3]-B[1])))return;}if(!!this.AqR){this.Text.S(this.AqR);
 if(((B=this.Text.Dd())[3]-B[1])>((B=this.M)[3]-B[1]))this.Text.Aw9((((this.Text.
-B6.Ascent+this.Text.B6.Descent)*75)/100)|0);}},L:function(E){if(E===this.AQ)return;
+B7.Ascent+this.Text.B7.Descent)*75)/100)|0);}},L:function(E){if(E===this.AQ)return;
 this.AQ=E;this.Text.L(E);},BC4:function(G){this.R(this.Bd5);},Q7:function(E){if(
 A.aa0(this.Em,E))return;this.Em=E;this.Text.Q7(E);},ASB:function(){return A.abh(
 this.Text.Dd(),this.M.slice(0,2));},Afh:function(AoO){return A.abf(this.M.slice(
@@ -1590,7 +1591,7 @@ _Init.call(this.Text={I:this},0);this.__proto__=C.CG;this.H(AHF);this.Ar(false);
 this.Text.A0(0x3F);this.Text.H(AHF);this.Text.R(Ro);this.J(this.Text,0);},_Done:
 function(){this.__proto__=A.Core.P;this.Text._Done();A.Core.P._Done.call(this);}
 ,_ReInit:function(){A.Core.P._ReInit.call(this);this.Text._ReInit();},_Mark:function(
-D){var B;A.Core.P._Mark.call(this,D);if((B=this.B6)&&(B._cycle!=D))B._Mark(B._cycle=
+D){var B;A.Core.P._Mark.call(this,D);if((B=this.B7)&&(B._cycle!=D))B._Mark(B._cycle=
 D);if((B=this.AmT)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.AqR)&&(B._cycle
 !=D))B._Mark(B._cycle=D);if((B=this.Em)&&((B=B[0])._cycle!=D))B._Mark(B._cycle=D
 );if((B=this.Text)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::AutoSizeText"
@@ -1672,9 +1673,9 @@ A.ach.Am3));}break;case 4:{this.N.Cw(null);this.N.C3(A.aaL(A.ach.AvS));}break;de
 case 1:if((A._GetAutoObject(A.Device.Device).Lw>3240)&&(A._GetAutoObject(A.Device.
 Device).Lw<5460)){A._GetAutoObject(A.Device.Device).AhP();A._GetAutoObject(A.Device.
 Device).UpdateMeasureState(3);}break;case 3:{this.H8.OnSetTemperature(A._GetAutoObject(
-A.Device.Device).Lw);var B1=A._GetAutoObject(A.Device.Converter).AsK(A._GetAutoObject(
+A.Device.Device).Lw);var B2=A._GetAutoObject(A.Device.Converter).AsK(A._GetAutoObject(
 A.Device.Helper).W.AnimalType,A._GetAutoObject(A.Device.Device).Lw);this.H8.OnSetRatingTemperature(
-B1);this.H8.Ci(A._GetAutoObject(A.Device.Device).Bt);A._GetAutoObject(C.A8).FB();
+B2);this.H8.Ci(A._GetAutoObject(A.Device.Device).Bt);A._GetAutoObject(C.A8).FB();
 }break;case 4:this.AKK(this);break;default:;}},AkX:function(G){C.Re.AkX.call(this
 ,G);switch(A._GetAutoObject(A.Device.Device).MeasureState){case 3:A._GetAutoObject(
 A.Device.Device).Dw(9);break;case 4:this.AKK(this);break;default:;}},Ax0:function(
@@ -1694,7 +1695,7 @@ call(this,D);if((B=this.H8)&&(B._cycle!=D))B._Mark(B._cycle=D);},_className:"App
 };C.AhB={N7:null,DK:null,Il:null,Bc:null,AuD:null,String:A.jV,AxO:A.jV,Mz:7,Akb:
 2,KV:0,AU2:false,Init:function(aArg){},Bl:function(aSize){A.Core.P.Bl.call(this,
 aSize);this.DK.H([0,0,aSize[0]-this.Akb,(aSize[1]/2)|0]);if(aSize[1]<=40)this.DK.
-S(A.aaL(A.fl.Bh));else this.DK.S(A.aaL(A.fl.Ak));this.Il.S(this.DK.B6);this.Il.H(
+S(A.aaL(A.fl.Bh));else this.DK.S(A.aaL(A.fl.Ak));this.Il.S(this.DK.B7);this.Il.H(
 this.DK.M);this.Bc.H([].concat([0,aSize[1]-2],aSize));A.pe([this,this.WM],this);
 },R:function(E){if(this.String===E)return;this.String=E;this.DK.R(E);},Ahw:function(
 E){if(this.AxO===E)return;this.AxO=E;this.Il.R(E);},Ab6:function(E){this.Mz=E;if(
@@ -1830,7 +1831,7 @@ __proto__=C.AT8;var B;this.H(Ce);this.Background.H(Ff);this.Background.L(0x88FFF
 Ad5.L(A.jb.CJ);this.VI.H(AHN);this.VI.Nn(2);this.VI.L(A.jb.Text);this.GU.H(AHM);
 this.GU.Hn(10);this.GU.Jb(true);this.GU.Bod(0);this.GU.KU(true);this.GU.L(A.jb.Text
 );this.PopupTimeout.PV(0);this.Acb.A_Z(0);this.Acb.A_X(A.jb.AV);this.Acb.A_W(0);
-this.Acb.AGa(AHu);this.AgH.HO(1);this.AgH.B2=255;this.AgH.Cx=0;this.J2(this.Ek,-
+this.Acb.AGa(AHu);this.AgH.HO(1);this.AgH.B3=255;this.AgH.Cx=0;this.J2(this.Ek,-
 1);this.J(this.Ad5,0);this.J(this.VI,0);this.J(this.GU,0);this.GU.S(A.aaL(A.fl.Af
 ));this.PopupTimeout.ME=[this,this.BBf];this.Acb.A_Y(A.aaL(A.ach.NX));this.Acb.A_V(
 A.aaL(A.ach.NX));this.AgH.Q=[B=this.N,B.Awq,B.A0z];this.Init(aArg);},_Done:function(
@@ -2017,7 +2018,7 @@ this.Au8=5;},_ReInit:function(){},_variants:function(){return this;},_this:null}
 C.AU0={Se:function(){var B;var Ao=(A.acl.Afb.isPrototypeOf(B=A.acl.Aen.Se.call(this
 ))?B:null);if(!Ao)throw new Error(As9);Ao.Cp.Cx=100;return Ao;},Sd:function(){var
 B;var Ao=(A.acl.Axo.isPrototypeOf(B=A.acl.Aen.Sd.call(this))?B:null);if(!Ao)throw new
-Error(As9);Ao.E0.B2=100;return Ao;},_Init:function(aArg){A.acl.Aen._Init.call(this
+Error(As9);Ao.E0.B3=100;return Ao;},_Init:function(aArg){A.acl.Aen._Init.call(this
 ,aArg);this.__proto__=C.AU0;},_className:"Application::ShadeTransition"};C.Am0={
 Ag_:null,SY:null,HR:null,DS:null,AnimalId:-1,GroupId:-1,ADg:true,Dg:function(E){
 C.BQ.Dg.call(this,E);this.SY.L(E);this.HR.L(E);this.Ag_.L(E);},OnSetAnimalId:function(
@@ -2058,14 +2059,14 @@ A.Device.Helper).W.WorstAssessment);this.DS.Ae3(A._GetAutoObject(A.Device.Helper
 A._GetAutoObject(A.Device.Helper).W.IsWatch);this.DS.Ae9(A._GetAutoObject(A.Device.
 Helper).W.LastTemperature);},_Init:function(aArg){C.Am0._Init.call(this,aArg);this.
 __proto__=C.ADq;this.Init(aArg);},_className:"Application::HeaderSelectedAnimalIds"
-};C.Ko={AhQ:A.abi(3,A.jV,null),B7:A.abi(3,0,{0:7,1:30,2:90}),Ann:3,Du:function(){
+};C.Ko={AhQ:A.abi(3,A.jV,null),BX:A.abi(3,0,{0:7,1:30,2:90}),Ann:3,Du:function(){
 if(this.Ann<3)return this.Ann;else return 3;},C7:function(aIndex){if((aIndex>=3)||(
-aIndex>=this.Ann))return-1;return this.B7.Get(aIndex);},Gl:function(aIndex){if((
+aIndex>=this.Ann))return-1;return this.BX.Get(aIndex);},Gl:function(aIndex){if((
 aIndex>=3)||(aIndex>=this.Ann))return AWS;return this.AhQ.Get(aIndex);},DZ:function(
-A7){var O=0;while((O<3)&&(O<=this.Ann)){if(this.B7.Get(O)===A7)return O;O=O+1;}return-
-1;},H4:function(){var O=0;var max=-1;while((O<3)&&(O<=this.Ann)){if(this.B7.Get(
-O)>max)max=this.B7.Get(O);O=O+1;}return max;},_Init:function(aArg){C.AC._Init.call(
-this,aArg);(this.AhQ=[]).__proto__=C.Ko.AhQ;(this.B7=[]).__proto__=C.Ko.B7;this.
+A7){var O=0;while((O<3)&&(O<=this.Ann)){if(this.BX.Get(O)===A7)return O;O=O+1;}return-
+1;},H4:function(){var O=0;var max=-1;while((O<3)&&(O<=this.Ann)){if(this.BX.Get(
+O)>max)max=this.BX.Get(O);O=O+1;}return max;},_Init:function(aArg){C.AC._Init.call(
+this,aArg);(this.AhQ=[]).__proto__=C.Ko.AhQ;(this.BX=[]).__proto__=C.Ko.BX;this.
 __proto__=C.Ko;this.AhQ.Set(0,A.aaR(A.acf.A7M));this.AhQ.Set(1,A.aaR(A.acf.A7K));
 this.AhQ.Set(2,A.aaR(A.acf.A7L));},_ReInit:function(){C.AC._ReInit.call(this);this.
 AhQ.Set(0,A.aaR(A.acf.A7M));this.AhQ.Set(1,A.aaR(A.acf.A7K));this.AhQ.Set(2,A.aaR(
@@ -2222,9 +2223,9 @@ CP();},_Mark:function(D){var B;C.AB._Mark.call(this,D);if((B=this.H8)&&(B._cycle
 !=D))B._Mark(B._cycle=D);if((B=this.Yw)._cycle!=D)B._Mark(B._cycle=D);if((B=this.
 Aff)._cycle!=D)B._Mark(B._cycle=D);if((B=this.AaK)._cycle!=D)B._Mark(B._cycle=D);
 if((B=this.MF)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::RateScreen"
-};C.HZ={Y:null,Gender:null,AnimalType:null,Breed:null,Jj:null,Pp:null,AsX:null,BZ:
+};C.HZ={Y:null,Gender:null,AnimalType:null,Breed:null,Jj:null,Pp:null,AsX:null,B0:
 null,Db:null,C$:null,CH:null,Gn:null,Ay:null,KM:0,Init:function(aArg){A.zX([this
-,this.Bb0],this.BZ.Q,0);A.pe([this,this.Bb0],this);A.pe([this,this.ABf],this);},
+,this.Bb0],this.B0.Q,0);A.pe([this,this.Bb0],this);A.pe([this,this.ABf],this);},
 Ai:function(Ae){C.AB.Ai.call(this,Ae);A._GetAutoObject(A.Device.Helper).ANA(this.
 Y);},DE:function(G){var B;var Fi=0;var X=this.AV;switch(this.Cq.CO){case 6:Fi=2;
 break;case 7:Fi=7;break;case 4:Fi=4;break;case 5:Fi=5;break;default:;}X=this.QJ(
@@ -2241,27 +2242,27 @@ Auq();},Agh:function(G){A.ab5("%s",Ayo);},AyY:function(s){this.Agh(s);},Ew:funct
 G){A.ab5("%s",Ayo);},AI4:function(s){this.Ew(s);},Auq:function(){A.ab5("%s",Alg);
 },AAB:function(G){A.ab5("%s",Ayo);},AcT:function(s){this.AAB(s);},JK:function(Ag
 ){this.Bb(Ag);this.Y.HI(Ag,true,null,null);this.Y.Vz(null,null);},ApK:function(G
-){var F;this.C$.Ahv(A._GetAutoObject(A.Device.Helper).Abr((F=this.BZ.Q,F[1].call(
+){var F;this.C$.Ahv(A._GetAutoObject(A.Device.Helper).Abr((F=this.B0.Q,F[1].call(
 F[0]))));},Bb0:function(s){this.ApK(s);},Awd:function(){return this.KM;},_Init:function(
 aArg){C.AB._Init.call(this,aArg);A.Core.Y._Init.call(this.Y={I:this},0);C.Gender.
 _Init.call(this.Gender={I:this},0);C.AnimalType._Init.call(this.AnimalType={I:this
 },0);C.Breed._Init.call(this.Breed={I:this},0);C.UU._Init.call(this.Jj={I:this},
 0);A.Device.M6._Init.call(this.Pp={I:this},0);A.Device.K0._Init.call(this.AsX={I:
-this},0);C.BW._Init.call(this.BZ={I:this},0);C.BW._Init.call(this.Db={I:this},0);
+this},0);C.BW._Init.call(this.B0={I:this},0);C.BW._Init.call(this.Db={I:this},0);
 C.AkV._Init.call(this.C$={I:this},0);C.AxC._Init.call(this.CH={I:this},0);C.AsC.
 _Init.call(this.Gn={I:this},0);C.Ay._Init.call(this.Ay={I:this},0);this.__proto__=
 C.HZ;var B;this.N.Z(true);this.Dr(C.IL);this.Y.H(Ff);this.Y.JW(1);this.KM=A._GetAutoObject(
-A.Device.Helper).Abr(this.AnimalType.Q);this.BZ.H(Ah1);this.BZ.Aj(true);this.BZ.
+A.Device.Helper).Abr(this.AnimalType.Q);this.B0.H(Ah1);this.B0.Aj(true);this.B0.
 T(A.aaR(A.acf.Aft));this.Db.H(Ayp);this.Db.Aj(true);this.Db.T(A.aaR(A.acf.Afo));
 this.C$.H(Aoo);this.C$.Aj(true);this.C$.T(A.aaR(A.acf.KM));this.C$.Ga(1000);this.
 C$.EV(99000);this.C$.Ahv(A._GetAutoObject(A.Device.Helper).Abr(this.AnimalType.Q
 ));this.CH.H(Ah2);this.CH.Aj(true);this.CH.T(A.aaR(A.acf.Breed));this.Gn.H(AW7);
 this.Gn.Aj(true);this.Gn.T(A.aaR(A.acf.Jj));this.Ay.H(Ayq);this.J(this.Y,0);this.
-J(this.BZ,0);this.J(this.Db,0);this.J(this.C$,0);this.J(this.CH,0);this.J(this.Gn
+J(this.B0,0);this.J(this.Db,0);this.J(this.C$,0);this.J(this.CH,0);this.J(this.Gn
 ,0);this.J(this.Ay,0);this.Y.Em=[this,this.Fk];this.Gender.L2(A._GetAutoObject(A.
 Device.Helper).W);this.AnimalType.L2(A._GetAutoObject(A.Device.Helper).W);this.Breed.
 L2(A._GetAutoObject(A.Device.Helper).W);this.Jj.L2(A._GetAutoObject(A.Device.Helper
-).W);this.BZ.Au([B=this.AnimalType,B.B$,B.Cb]);this.BZ.CK(this.AnimalType);this.
+).W);this.B0.Au([B=this.AnimalType,B.B$,B.Cb]);this.B0.CK(this.AnimalType);this.
 Db.Au([B=this.Gender,B.B$,B.Cb]);this.Db.CK(this.Gender);this.C$.Au([this,this.Awd
 ,this.AeY]);this.CH.Gs([this,this.D_,this.GS]);this.CH.L1([B=this.CH,B.FV]);this.
 CH.L4(A.aaL(A.ach.Edit));this.CH.Au([B=this.Breed,B.B$,B.Cb]);this.CH.CK(this.Breed
@@ -2269,19 +2270,19 @@ CH.L4(A.aaL(A.ach.Edit));this.CH.Au([B=this.Breed,B.B$,B.Cb]);this.CH.CK(this.Br
 B.FV]);this.Gn.L4(A.aaL(A.ach.Edit));this.Gn.Au([B=this.Jj,B.B$,B.Cb]);this.Gn.CK(
 this.Jj);this.Gn.Any(this.AsX);this.Init(aArg);},_Done:function(){this.__proto__=
 C.AB;this.Y._Done();this.Gender._Done();this.AnimalType._Done();this.Breed._Done(
-);this.Jj._Done();this.Pp._Done();this.AsX._Done();this.BZ._Done();this.Db._Done(
+);this.Jj._Done();this.Pp._Done();this.AsX._Done();this.B0._Done();this.Db._Done(
 );this.C$._Done();this.CH._Done();this.Gn._Done();this.Ay._Done();C.AB._Done.call(
 this);},_ReInit:function(){C.AB._ReInit.call(this);this.Y._ReInit();this.Gender.
 _ReInit();this.AnimalType._ReInit();this.Breed._ReInit();this.Jj._ReInit();this.
-Pp._ReInit();this.AsX._ReInit();this.BZ._ReInit();this.Db._ReInit();this.C$._ReInit(
-);this.CH._ReInit();this.Gn._ReInit();this.Ay._ReInit();this.BZ.T(A.aaR(A.acf.Aft
+Pp._ReInit();this.AsX._ReInit();this.B0._ReInit();this.Db._ReInit();this.C$._ReInit(
+);this.CH._ReInit();this.Gn._ReInit();this.Ay._ReInit();this.B0.T(A.aaR(A.acf.Aft
 ));this.Db.T(A.aaR(A.acf.Afo));this.C$.T(A.aaR(A.acf.KM));this.CH.T(A.aaR(A.acf.
 Breed));this.Gn.T(A.aaR(A.acf.Jj));},_Mark:function(D){var B;C.AB._Mark.call(this
 ,D);if((B=this.Y)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Gender)._cycle!=D)B._Mark(
 B._cycle=D);if((B=this.AnimalType)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Breed
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.Jj)._cycle!=D)B._Mark(B._cycle=D);if((
 B=this.Pp)._cycle!=D)B._Mark(B._cycle=D);if((B=this.AsX)._cycle!=D)B._Mark(B._cycle=
-D);if((B=this.BZ)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Db)._cycle!=D)B._Mark(
+D);if((B=this.B0)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Db)._cycle!=D)B._Mark(
 B._cycle=D);if((B=this.C$)._cycle!=D)B._Mark(B._cycle=D);if((B=this.CH)._cycle!=
 D)B._Mark(B._cycle=D);if((B=this.Gn)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Ay
 )._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::AnimalDataScreen"};C.
@@ -2637,9 +2638,9 @@ A3c.Ez);else if(ALC===7)DV.L3(0);else DV.L3(-1);DV=A3c;}A.pe([this,this.Adu],thi
 ){if(this.ARo===E)return;this.ARo=E;},ATm:function(E){var B;if(E===this.Awl())return;
 var Af_=E;var DV=this.ET;while(!!DV){if(Af_.length>0){DV.L3(A.wz(A.ab2(Af_,1),-1
 ,10));Af_=A.abV(Af_,Af_.length-1);}else DV.L3(-1);DV=(C.DF.isPrototypeOf(B=this.
-QJ(DV,2,0x11))?B:null);}},Awl:function(){var B;var IA=A.jV;var O=0;var B5=this.Cu;
-for(;O<6;O=O+1){if(!!B5&&(B5.Ez>=0))IA=IA+B5.Ez.toFixed();B5=(C.DF.isPrototypeOf(
-B=this.TT(B5,0x11))?B:null);}return IA;},_Init:function(aArg){A.Core.P._Init.call(
+QJ(DV,2,0x11))?B:null);}},Awl:function(){var B;var IA=A.jV;var O=0;var B6=this.Cu;
+for(;O<6;O=O+1){if(!!B6&&(B6.Ez>=0))IA=IA+B6.Ez.toFixed();B6=(C.DF.isPrototypeOf(
+B=this.TT(B6,0x11))?B:null);}return IA;},_Init:function(aArg){A.Core.P._Init.call(
 this,aArg);C.DF._Init.call(this.Cu={I:this},0);C.DF._Init.call(this.CW={I:this},
 0);C.DF._Init.call(this.Dy={I:this},0);C.DF._Init.call(this.Eq={I:this},0);C.DF.
 _Init.call(this.FZ={I:this},0);C.DF._Init.call(this.ET={I:this},0);A.Core.BK._Init.
@@ -2662,7 +2663,7 @@ D);if((B=this.CW)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Dy)._cycle!=D)B._Mark
 B._cycle=D);if((B=this.Eq)._cycle!=D)B._Mark(B._cycle=D);if((B=this.FZ)._cycle!=
 D)B._Mark(B._cycle=D);if((B=this.ET)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Fm
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.Fb)._cycle!=D)B._Mark(B._cycle=D);},_className:
-"Application::InputID"};C.Bh8="0bd51746";C.BDg={Undefined:0,BEk:1,BDy:2};C.AkK={
+"Application::InputID"};C.Bh8="087a96fe";C.BDg={Undefined:0,BEk:1,BDy:2};C.AkK={
 Tu:null,AiW:null,Ld:null,ANH:null,An_:null,push:function(MO){if(!this.Tu){MO.Ahz=
 null;MO.My=null;this.Tu=MO;this.AiW=this.Tu;}else{MO.Ahz=this.AiW;MO.My=null;this.
 AiW.My=MO;this.AiW=MO;}},BCe:function(MO){var Ql=this.Tu;while(!!Ql){if(Ql.JP.Id===
@@ -2762,9 +2763,9 @@ this,D);if((B=this.Ux)&&((B=B[0])._cycle!=D))B._Mark(B._cycle=D);},_className:"A
 );},Ai:function(Ae){var F;C.AB.Ai.call(this,Ae);if(this.ABC)this.N.C3(A.aaL(A.ach.
 AQ4));else this.N.C3(A.aaL(A.ach.AQ5));if(A._GetAutoObject(A.Device.Device).ScanState===
 4){this.OY.L(A.jb.Bm);this.Sc.Z(false);this.TP.Z(false);this.IU.Z(true);this.Gm.
-Ar(false);(F=this.Gm.Q,F[2].call(F[0],this.Gm.B2));this.Background.L(A.jb.Gj);}else
+Ar(false);(F=this.Gm.Q,F[2].call(F[0],this.Gm.B3));this.Background.L(A.jb.Gj);}else
 if(this.Abi.Bw){this.OY.L(A.jb.Text);this.Sc.Z(true);this.TP.Z(true);this.IU.Z(false
-);this.Gm.Ar(false);(F=this.Gm.Q,F[2].call(F[0],this.Gm.B2));this.Background.L(A.
+);this.Gm.Ar(false);(F=this.Gm.Q,F[2].call(F[0],this.Gm.B3));this.Background.L(A.
 jb.E1);}else{this.OY.L(A.jb.Text);this.Sc.Z(false);this.TP.Z(false);this.IU.Z(true
 );this.Gm.Ar(true);this.Background.L(A.jb.CJ);}if(this.AgS.Bw)this.W4.Z(true);else
 this.W4.Z(false);},CC:function(G){A._GetAutoObject(A.Device.Device).AhM();},E4:function(
@@ -2790,7 +2791,7 @@ _Init.call(this.AcD={I:this},0);C.W4._Init.call(this.W4={I:this},0);C.CG._Init.c
 this.Hj={I:this},0);this.__proto__=C.AUn;var B;this.Background.L(A.jb.CJ);this.N.
 Z(true);this.Ji.H(AXq);this.Ji.AkG(0);this.OY.H(AXr);this.OY.R(A.aaR(A.acf.A$6));
 this.OY.L(A.jb.Text);this.IU.H(AXs);this.IU.L(A.jb.AV);this.IU.Zr(true);this.Gm.
-Fr(1750);this.Gm.Ut(750);this.Gm.AkB(0);this.Gm.Ar(true);this.Gm.B2=3;this.AL.H(
+Fr(1750);this.Gm.Ut(750);this.Gm.AkB(0);this.Gm.Ar(true);this.Gm.B3=3;this.AL.H(
 Ays);this.Abi.PV(-1);this.Abi.WG(1000);this.AgS.PV(-1);this.AgS.WG(5000);this.TP.
 H(AHZ);this.Sc.H(AHZ);this.Sc.L(A.jb.E1);this.AcD.H(Ays);this.AcD.R(A.aaR(A.acf.
 A$E));this.AcD.L(A.jb.Text);this.W4.H(Ays);this.Hj.H(AXt);this.Hj.Ar(false);this.
@@ -2857,30 +2858,30 @@ function(){C.Cg._ReInit.call(this);this.H6._ReInit();this.IO._ReInit();this.Jc(A
 aaR(A.acf.ACC));this.H6.T(A.aaR(A.acf.Date));this.IO.T(A.aaR(A.acf.Bs));},_Mark:
 function(D){var B;C.Cg._Mark.call(this,D);if((B=this.H6)._cycle!=D)B._Mark(B._cycle=
 D);if((B=this.IO)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::DateTimeSettingsScreen"
-};C.AVl={Rf:null,FK:null,BZ:null,OM:null,YM:null,Aa4:null,_Init:function(aArg){C.
+};C.AVl={Rf:null,FK:null,B0:null,OM:null,YM:null,Aa4:null,_Init:function(aArg){C.
 Cg._Init.call(this,aArg);C.Rf._Init.call(this.Rf={I:this},0);C.AMI._Init.call(this.
-FK={I:this},0);C.AUV._Init.call(this.BZ={I:this},0);C.AUX._Init.call(this.OM={I:
+FK={I:this},0);C.AUV._Init.call(this.B0={I:this},0);C.AUX._Init.call(this.OM={I:
 this},0);C.Afn._Init.call(this.YM={I:this},0);C.Aa4._Init.call(this.Aa4={I:this}
 ,0);this.__proto__=C.AVl;var B;this.Jc(A.aaR(A.acf.Temperature));this.FK.Au(A._GetAutoObject(
-A.Device.Device).AnimalType);this.BZ.H(AXu);this.BZ.Aj(true);this.BZ.T(A.aaR(A.acf.
-Arr));this.BZ.Bi(false);this.OM.H(Aah);this.OM.Aj(true);this.OM.T(A.aaR(A.acf.Undertemperature
+A.Device.Device).AnimalType);this.B0.H(AXu);this.B0.Aj(true);this.B0.T(A.aaR(A.acf.
+Arr));this.B0.Bi(false);this.OM.H(Aah);this.OM.Aj(true);this.OM.T(A.aaR(A.acf.Undertemperature
 ));this.OM.Bi(true);this.OM.Bx(3800);this.OM.Ga(3000);this.OM.EV(5000);this.OM.A_2(
 A.aaR(A.acf.AG2));this.YM.H(AXv);this.YM.Aj(true);this.YM.Z(true);this.YM.T(A.aaR(
-A.acf.A5s));this.J(this.BZ,0);this.J(this.OM,0);this.J(this.YM,0);this.BZ.Ab1([B=
-this.BZ,B.FV]);this.BZ.Gs([this,this.D_,this.GS]);this.BZ.AkA(A.aaL(A.ach.Edit));
-this.BZ.L1([B=this.BZ,B.AyZ]);this.BZ.L4(A.aaL(A.ach.AnR));this.BZ.Au([B=this.FK
-,B.B$,B.Cb]);this.BZ.CK(this.FK);this.BZ.A_C([B=this.FK,B.AS5,B.A0L]);this.BZ.A_B([
-B=this.FK,B.AS4,B.A0K]);this.OM.L1([B=this.BZ,B.AyZ]);this.OM.L4(A.aaL(A.ach.AnR
+A.acf.A5s));this.J(this.B0,0);this.J(this.OM,0);this.J(this.YM,0);this.B0.Ab1([B=
+this.B0,B.FV]);this.B0.Gs([this,this.D_,this.GS]);this.B0.AkA(A.aaL(A.ach.Edit));
+this.B0.L1([B=this.B0,B.AyZ]);this.B0.L4(A.aaL(A.ach.AnR));this.B0.Au([B=this.FK
+,B.B$,B.Cb]);this.B0.CK(this.FK);this.B0.A_C([B=this.FK,B.AS5,B.A0L]);this.B0.A_B([
+B=this.FK,B.AS4,B.A0K]);this.OM.L1([B=this.B0,B.AyZ]);this.OM.L4(A.aaL(A.ach.AnR
 ));this.OM.Au([B=A._GetAutoObject(A.Device.Device),B.A9z,B.BbN]);this.YM.CK(this.
 Aa4);this.YM.AkD([B=A._GetAutoObject(A.Device.Device),B.A8U,B.Bbw]);},_Done:function(
-){this.__proto__=C.Cg;this.Rf._Done();this.FK._Done();this.BZ._Done();this.OM._Done(
+){this.__proto__=C.Cg;this.Rf._Done();this.FK._Done();this.B0._Done();this.OM._Done(
 );this.YM._Done();this.Aa4._Done();C.Cg._Done.call(this);},_ReInit:function(){C.
-Cg._ReInit.call(this);this.Rf._ReInit();this.FK._ReInit();this.BZ._ReInit();this.
+Cg._ReInit.call(this);this.Rf._ReInit();this.FK._ReInit();this.B0._ReInit();this.
 OM._ReInit();this.YM._ReInit();this.Aa4._ReInit();this.Jc(A.aaR(A.acf.Temperature
-));this.BZ.T(A.aaR(A.acf.Arr));this.OM.T(A.aaR(A.acf.Undertemperature));this.OM.
+));this.B0.T(A.aaR(A.acf.Arr));this.OM.T(A.aaR(A.acf.Undertemperature));this.OM.
 A_2(A.aaR(A.acf.AG2));this.YM.T(A.aaR(A.acf.A5s));},_Mark:function(D){var B;C.Cg.
 _Mark.call(this,D);if((B=this.Rf)._cycle!=D)B._Mark(B._cycle=D);if((B=this.FK)._cycle
-!=D)B._Mark(B._cycle=D);if((B=this.BZ)._cycle!=D)B._Mark(B._cycle=D);if((B=this.
+!=D)B._Mark(B._cycle=D);if((B=this.B0)._cycle!=D)B._Mark(B._cycle=D);if((B=this.
 OM)._cycle!=D)B._Mark(B._cycle=D);if((B=this.YM)._cycle!=D)B._Mark(B._cycle=D);if((
 B=this.Aa4)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::TemperatureSettingsScreen"
 };C.AN2={PK:null,PL:null,Sv:null,V7:null,Sx:null,Sw:null,Gd:null,Acs:null,Init:function(
@@ -3028,12 +3029,12 @@ Bh));},_Done:function(){this.__proto__=C.Fo;this.D2._Done();C.Fo._Done.call(this
 );},_ReInit:function(){C.Fo._ReInit.call(this);this.D2._ReInit();this.G_.S(A.aaL(
 A.fl.Af));this.G_.AZ(A.aaL(A.fl.Ak));this.G_.Cr(A.aaL(A.fl.Bh));},_Mark:function(
 D){var B;C.Fo._Mark.call(this,D);if((B=this.D2)._cycle!=D)B._Mark(B._cycle=D);},
-_className:"Application::ListsMenuItem"};C.D2={B6:null,AeF:null,Ap:null,Text:null
+_className:"Application::ListsMenuItem"};C.D2={B7:null,AeF:null,Ap:null,Text:null
 ,DK:A.jV,AmQ:0,M5:0,Je:0,A5T:0x14,Init:function(aArg){},T:function(E){if(this.DK===
 E)return;this.DK=E;this.Text.R(E);},BCW:function(G){this.Ap.H(this.Text.M);this.
 AeF.H(this.Text.M);},Zt:function(E){if(this.AmQ===E)return;this.AmQ=E;this.AeF.L(
 E);this.Text.L(E);},CU:function(E){if(this.M5===E)return;this.M5=E;this.Ap.L(E);
-},S:function(E){if(this.B6===E)return;this.B6=E;this.Text.S(E);},Hn:function(E){
+},S:function(E){if(this.B7===E)return;this.B7=E;this.Text.S(E);},Hn:function(E){
 if(this.Je===E)return;this.Je=E;this.Text.Hn(E);},Bml:function(E){if(this.A5T===
 E)return;this.A5T=E;this.Text.A6(E);},_Init:function(aArg){A.Core.P._Init.call(this
 ,aArg);A.acg.NU._Init.call(this.AeF={I:this},0);A.acg.NU._Init.call(this.Ap={I:this
@@ -3046,7 +3047,7 @@ AeF.Ax(A.aaL(A.ach.AP2));this.Ap.Ax(A.aaL(A.ach.AP1));this.Text.Q7([this,this.BC
 A.Core.P;this.AeF._Done();this.Ap._Done();this.Text._Done();A.Core.P._Done.call(
 this);},_ReInit:function(){A.Core.P._ReInit.call(this);this.AeF._ReInit();this.Ap.
 _ReInit();this.Text._ReInit();this.Text.S(A.aaL(A.fl.Ak));},_Mark:function(D){var
-B;A.Core.P._Mark.call(this,D);if((B=this.B6)&&(B._cycle!=D))B._Mark(B._cycle=D);
+B;A.Core.P._Mark.call(this,D);if((B=this.B7)&&(B._cycle!=D))B._Mark(B._cycle=D);
 if((B=this.AeF)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Ap)._cycle!=D)B._Mark(B.
 _cycle=D);if((B=this.Text)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::RowsCountInfo"
 };C.Ub={DY:null,Y:null,Ay:null,DE:function(G){var B;C.AB.DE.call(this,G);if(!!this.
@@ -3446,12 +3447,12 @@ D)B._Mark(B._cycle=D);if((B=this.TA)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Ad
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.XP)._cycle!=D)B._Mark(B._cycle=D);if((
 B=this.Vt)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Vu)._cycle!=D)B._Mark(B._cycle=
 D);if((B=this.AaT)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Ay)._cycle!=D)B._Mark(
-B._cycle=D);},_className:"Application::ActionChainSettingsOverlayMenu"};C.Cm={B7:
-A.abi(20,0,null),Du:function(){return 16;},C7:function(aIndex){if(aIndex>=20)return-
-1;return this.B7.Get(aIndex);},DZ:function(A7){var O=0;while(O<20){if(this.B7.Get(
-O)===A7)return O;O=O+1;}return-1;},H4:function(){var O=0;var max=-1;while(O<20){
-if(this.B7.Get(O)>max)max=this.B7.Get(O);O=O+1;}return max;},_Init:function(aArg
-){C.AC._Init.call(this,aArg);(this.B7=[]).__proto__=C.Cm.B7;this.__proto__=C.Cm;
+B._cycle=D);},_className:"Application::ActionChainSettingsOverlayMenu"};C.Cm={BX:
+A.abi(25,0,null),Du:function(){return 16;},C7:function(aIndex){if(aIndex>=25)return-
+1;return this.BX.Get(aIndex);},DZ:function(A7){var O=0;while(O<25){if(this.BX.Get(
+O)===A7)return O;O=O+1;}return-1;},H4:function(){var O=0;var max=-1;while(O<25){
+if(this.BX.Get(O)>max)max=this.BX.Get(O);O=O+1;}return max;},_Init:function(aArg
+){C.AC._Init.call(this,aArg);(this.BX=[]).__proto__=C.Cm.BX;this.__proto__=C.Cm;
 },_className:"Application::ArraySelection"};C.AutoAction={Ib:null,Ac9:null,ActionToString:
 null,Index:0,Init:function(aArg){A.zV([this,this.AtE],this.Ac9,0);A.pe([this,this.
 AtE],this);},Du:function(){return this.Ib.Na();},C7:function(aIndex){if(aIndex>=
@@ -3655,8 +3656,8 @@ A.Device.Helper).Am6()){if(A._GetAutoObject(A.Device.Device).Bt.Lj()){A._GetAuto
 A.Device.Device).A3(24,false,U2,0,null);A._GetAutoObject(A.Device.Device).A3(50,
 true,A._GetAutoObject(A.Device.Device).Bt.HK().toFixed(),0,null);}else{var L$=A.
 _GetAutoObject(A.Device.Device).An.LV(0,this.Ge.Id);A._GetAutoObject(A.Device.Device
-).SR(L$);var B1=A._NewObject(A.Device.Rating,0);B1.Gr();B1.OnSetAnimalId(this.Ge.
-Id);B1.OnSetBodyWeight(this.KM);B1.OnSetTimestamp(this.Ge.DateOfBirth);B1.Ci(A._GetAutoObject(
+).SR(L$);var B2=A._NewObject(A.Device.Rating,0);B2.Gr();B2.OnSetAnimalId(this.Ge.
+Id);B2.OnSetBodyWeight(this.KM);B2.OnSetTimestamp(this.Ge.DateOfBirth);B2.Ci(A._GetAutoObject(
 A.Device.Device).Bt);}}this.ApD();},ApD:function(){var B;var F,Ct;if(!!(F=this.Cc.
 Q,F[1].call(F[0]))){(F=this.Cc.Q,F[2].call(F[0],F[1].call(F[0])+1));if(this.LX)(
 Ct=this.Dp.Q,Ct[2].call(Ct[0],(F=this.Cc.Q,F[1].call(F[0]))));}if(!this.LX)(Ct=this.
@@ -3674,11 +3675,11 @@ Helper).W.VisualId-1);break;case 0:IZ[2].call(IZ[0],A._GetAutoObject(A.Device.He
 toFixed(),0,[this,this.BBj]);this.AFH(this.Zl-1);A.aaS([this,this.Bdf],null);},BBj:
 function(G){var As=(A.Device.PopupContext.isPrototypeOf(G)?G:null);if(!!As&&(As.
 PopupState===5))this.Bc9=true;},ApK:function(G){var F;C.HZ.ApK.call(this,G);var AoY=
-0;switch((F=this.BZ.Q,F[1].call(F[0]))){case 0:case 2:AoY=A._GetAutoObject(A.Device.
-Device).AdT;break;case 1:AoY=730;break;default:A.ab5("%s%e",Alf,(F=this.BZ.Q,F[1
+0;switch((F=this.B0.Q,F[1].call(F[0]))){case 0:case 2:AoY=A._GetAutoObject(A.Device.
+Device).AdT;break;case 1:AoY=730;break;default:A.ab5("%s%e",Alf,(F=this.B0.Q,F[1
 ].call(F[0])));}A._GetAutoObject(A.Device.Helper).W.Q6(A._GetAutoObject(A.Device.
 Helper).Dv()-A._GetAutoObject(A.Device.Helper).AmJ(AoY));(F=this.C$.Q,F[2].call(
-F[0],this.C$.AnY));switch(this.BZ.AC.Q){case 0:{this.Kv.Jd(A.aaR(A.acf.ANk));this.
+F[0],this.C$.AnY));switch(this.B0.AC.Q){case 0:{this.Kv.Jd(A.aaR(A.acf.ANk));this.
 Kv.IR(A.aaR(A.acf.ANl));}break;case 1:{this.Kv.Jd(A.aaR(A.acf.Bic));this.Kv.IR(A.
 aaR(A.acf.Bid));}break;case 2:{this.Kv.Jd(A.aaR(A.acf.Bkj));this.Kv.IR(A.aaR(A.acf.
 Bkk));}break;default:throw new Error(Alf);}},Ae4:function(E){if(this.LX===E)return;
@@ -3740,7 +3741,7 @@ BS(this.C7(aIndex));},Au:function(E){C.Cm.Au.call(this,E);A._GetAutoObject(A.Dev
 Device).Aw8(E);},Bge:function(G){this.Q=A._GetAutoObject(A.Device.Device).RatingMode;
 A.abo([this,this.B$,this.Cb],0);},_Init:function(aArg){C.Cm._Init.call(this,aArg
 );A.Device.RatingModeToString._Init.call(this.RatingModeToString={I:this},0);this.
-__proto__=C.RatingMode;this.B7.Set(0,0);this.B7.Set(1,1);this.Init(aArg);},_Done:
+__proto__=C.RatingMode;this.BX.Set(0,0);this.BX.Set(1,1);this.Init(aArg);},_Done:
 function(){this.__proto__=C.Cm;this.RatingModeToString._Done();C.Cm._Done.call(this
 );},_ReInit:function(){C.Cm._ReInit.call(this);this.RatingModeToString._ReInit();
 },_Mark:function(D){var B;C.Cm._Mark.call(this,D);if((B=this.RatingModeToString).
@@ -3771,7 +3772,7 @@ WeightRecordingModeToString.BS(this.C7(aIndex));},Au:function(E){C.Cm.Au.call(th
 Bhk],this);},Bhk:function(G){this.Q=A._GetAutoObject(A.Device.Device).WeightRecordingMode;
 A.abo([this,this.B$,this.Cb],0);},_Init:function(aArg){C.Cm._Init.call(this,aArg
 );A.Device.WeightRecordingModeToString._Init.call(this.WeightRecordingModeToString={
-I:this},0);this.__proto__=C.WeightRecordingMode;this.B7.Set(0,0);this.B7.Set(1,1
+I:this},0);this.__proto__=C.WeightRecordingMode;this.BX.Set(0,0);this.BX.Set(1,1
 );this.Init(aArg);},_Done:function(){this.__proto__=C.Cm;this.WeightRecordingModeToString.
 _Done();C.Cm._Done.call(this);},_ReInit:function(){C.Cm._ReInit.call(this);this.
 WeightRecordingModeToString._ReInit();},_Mark:function(D){var B;C.Cm._Mark.call(
@@ -3791,7 +3792,7 @@ function(aArg){C.ABJ._Init.call(this,aArg);this.__proto__=C.AxY;},_className:"Ap
 C.ANL,0);Aa.H(BD);Aa.T(Qe);Aa.Aj(true);Aa.Ar(false);Aa.Bi(true);this.J(Aa,0);this.
 AtD(this);},AtD:function(G){var B;var AlB=1;var A22=0;var X=this.Y.Ah;var Cy=null;
 var K8=null;while(!!X&&!((X.U&0x200)===0x200)){Cy=(C.OZ.isPrototypeOf(X)?X:null);
-if(((X.U&0x400)===0x400)&&!!Cy){var ALk=(B=Cy.V.B6.A7c(Cy.V.String,0,-1))[2]-B[0
+if(((X.U&0x400)===0x400)&&!!Cy){var ALk=(B=Cy.V.B7.A7c(Cy.V.String,0,-1))[2]-B[0
 ];if(!!(C.Ms.isPrototypeOf(X)?X:null))ALk=ALk+20;if(A22<ALk)A22=ALk;Cy.H(A.abL(Cy.
 M,120));Cy.H(A.abI(Cy.M,28));Cy.H(A.abM(Cy.M,this.M[0]));Cy.H(A.abO(Cy.M,((B=this.
 M)[3]-B[1])-(AlB*28)));AlB=AlB+1;}else{K8=(A.acg.C8.isPrototypeOf(X)?X:null);if(((
@@ -3865,9 +3866,9 @@ _Done();A.Core.P._Done.call(this);},_ReInit:function(){A.Core.P._ReInit.call(thi
 );this.AL._ReInit();},_Mark:function(D){var B;A.Core.P._Mark.call(this,D);if((B=
 this.AL)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::OverlayShade"};
 C.AUZ={Se:function(){var B;var Ao=(A.acl.Afb.isPrototypeOf(B=A.acl.Aen.Se.call(this
-))?B:null);if(!Ao)throw new Error(As9);Ao.Cp.Cx=255;Ao.Cp.B2=0;return Ao;},Sd:function(
+))?B:null);if(!Ao)throw new Error(As9);Ao.Cp.Cx=255;Ao.Cp.B3=0;return Ao;},Sd:function(
 ){var B;var Ao=(A.acl.Axo.isPrototypeOf(B=A.acl.Aen.Sd.call(this))?B:null);if(!Ao
-)throw new Error(As9);Ao.E0.Cx=0;Ao.E0.B2=255;Ao.Dt=true;return Ao;},_Init:function(
+)throw new Error(As9);Ao.E0.Cx=0;Ao.E0.B3=255;Ao.Dt=true;return Ao;},_Init:function(
 aArg){A.acl.Aen._Init.call(this,aArg);this.__proto__=C.AUZ;},_className:"Application::ShadeOverlayTransition"
 };C.AnW={_Init:function(){C.AUZ._Init.call(this,0);},_ReInit:function(){},_variants:
 function(){return this;},_this:null};C.AkV={AnY:0,A2l:false,Init:function(aArg){
@@ -3975,14 +3976,14 @@ A.Device.Device).A3(21,true,A._GetAutoObject(A.Device.Converter).Rj(A._GetAutoOb
 A.Device.Helper).W.NaisId),0,null);return;}A._GetAutoObject(A.Device.Helper).W.Ci(
 A._GetAutoObject(A.Device.Device).An);if(this.KM>0){if(this.AM4){var Ad=A._GetAutoObject(
 A.Device.Device).Bt.LV(0,A._GetAutoObject(A.Device.Helper).W.FirstBodyWeightId);
-if(Ad>=0){var B1=A._NewObject(A.Device.Rating,0);B1.E3(Ad,A._GetAutoObject(A.Device.
-Device).Bt);B1.OnSetBodyWeight(this.KM);B1.OnSetTimestamp(A._GetAutoObject(A.Device.
-Helper).W.DateOfBirth);B1.Ci(A._GetAutoObject(A.Device.Device).Bt);}else A.ab5("%s%i"
+if(Ad>=0){var B2=A._NewObject(A.Device.Rating,0);B2.E3(Ad,A._GetAutoObject(A.Device.
+Device).Bt);B2.OnSetBodyWeight(this.KM);B2.OnSetTimestamp(A._GetAutoObject(A.Device.
+Helper).W.DateOfBirth);B2.Ci(A._GetAutoObject(A.Device.Device).Bt);}else A.ab5("%s%i"
 ,AYq,A._GetAutoObject(A.Device.Helper).W.FirstBodyWeightId);}else if(A._GetAutoObject(
 A.Device.Device).Bt.Lj())A._GetAutoObject(A.Device.Device).A3(50,true,A._GetAutoObject(
-A.Device.Device).Bt.HK().toFixed(),0,null);else{var B1=A._NewObject(A.Device.Rating
-,0);B1.Gr();B1.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);B1.OnSetBodyWeight(
-this.KM);B1.OnSetTimestamp(A._GetAutoObject(A.Device.Helper).W.DateOfBirth);B1.Ci(
+A.Device.Device).Bt.HK().toFixed(),0,null);else{var B2=A._NewObject(A.Device.Rating
+,0);B2.Gr();B2.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);B2.OnSetBodyWeight(
+this.KM);B2.OnSetTimestamp(A._GetAutoObject(A.Device.Helper).W.DateOfBirth);B2.Ci(
 A._GetAutoObject(A.Device.Device).Bt);}}A._GetAutoObject(C.A8).FB();},Ew:function(
 G){A._GetAutoObject(A.Device.Helper).W.E3(A._GetAutoObject(A.Device.Helper).W.CL
 ,A._GetAutoObject(A.Device.Device).An);A._GetAutoObject(C.A8).FB();},Auq:function(
@@ -4069,9 +4070,9 @@ case 4:Fi=4;break;case 5:Fi=5;break;default:;}X=this.QJ(X,Fi,0x414);if(!!X)this.
 Bb(X);if(!!X&&((X.U&0x400)===0x400))this.Y.HI(X,true,null,null);},Al3:function(G
 ){A._GetAutoObject(C.A8).FB();},ApO:function(G){var F;if(A._GetAutoObject(A.Device.
 Device).Bt.Lj())A._GetAutoObject(A.Device.Device).A3(50,true,A._GetAutoObject(A.
-Device.Device).Bt.HK().toFixed(),0,null);else{var B1=A._NewObject(A.Device.Rating
-,0);B1.Gr();B1.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);B1.OnSetBodyWeight(
-this.M8);B1.OnSetTimestamp(A._GetAutoObject(A.Device.Helper).Dv());B1.Ci(A._GetAutoObject(
+Device.Device).Bt.HK().toFixed(),0,null);else{var B2=A._NewObject(A.Device.Rating
+,0);B2.Gr();B2.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);B2.OnSetBodyWeight(
+this.M8);B2.OnSetTimestamp(A._GetAutoObject(A.Device.Helper).Dv());B2.Ci(A._GetAutoObject(
 A.Device.Device).Bt);}if(this.AmL){A._GetAutoObject(A.Device.Helper).W.Ae5(false
 );if(!A._GetAutoObject(A.Device.Helper).W.AnimalType)A._GetAutoObject(A.Device.Helper
 ).A7e(A._GetAutoObject(A.Device.Helper).Dv(),this.Asi);}A._GetAutoObject(A.Device.
@@ -4188,7 +4189,7 @@ this.Cc.Q,0);A.zX([this,this.At$],this.Dp.Q,0);A.pe([this,this.AAG],this);A.pe([
 this,this.GH],this);A.pe([this,this.Bfc],this);A.pe([this,this.Be8],this);A.pe([
 this,this.At$],this);},Ew:function(G){A._GetAutoObject(A.Device.Helper).W.E6();A.
 _GetAutoObject(C.A8).FB();},Agh:function(G){var F;A._GetAutoObject(A.Device.Helper
-).W.EC((F=this.BZ.Q,F[1].call(F[0])));if(!!A._GetAutoObject(A.Device.Helper).AhI
+).W.EC((F=this.B0.Q,F[1].call(F[0])));if(!!A._GetAutoObject(A.Device.Helper).AhI
 ){var AlN=A._GetAutoObject(A.Device.Helper).AhI.AOY();A._GetAutoObject(A.Device.
 Helper).W.Ab4(AlN);A._GetAutoObject(A.Device.Helper).W.AnD(AlN);}var Alt=A._GetAutoObject(
 A.Device.Helper).A1R(A._GetAutoObject(A.Device.Helper).W,(F=this.Dj.H0.Hu,F[1].call(
@@ -4201,14 +4202,14 @@ Helper).W,Alt,(F=this.Dj.H0.Hu,F[1].call(F[0])),0,[this,this.ApJ]);},Auq:functio
 Helper).W.Id);A._GetAutoObject(A.Device.Device).SR(L$);var Bd7=false;if(A._GetAutoObject(
 A.Device.Helper).Am6()){if(A._GetAutoObject(A.Device.Device).Bt.Lj()){Bd7=true;A.
 _GetAutoObject(A.Device.Device).A3(50,true,A._GetAutoObject(A.Device.Device).Bt.
-HK().toFixed(),0,null);}else{var B1=A._NewObject(A.Device.Rating,0);B1.Gr();B1.OnSetAnimalId(
-A._GetAutoObject(A.Device.Helper).W.Id);B1.OnSetBodyWeight(this.KM);B1.OnSetTimestamp(
-A._GetAutoObject(A.Device.Helper).W.DateOfBirth);B1.Ci(A._GetAutoObject(A.Device.
+HK().toFixed(),0,null);}else{var B2=A._NewObject(A.Device.Rating,0);B2.Gr();B2.OnSetAnimalId(
+A._GetAutoObject(A.Device.Helper).W.Id);B2.OnSetBodyWeight(this.KM);B2.OnSetTimestamp(
+A._GetAutoObject(A.Device.Helper).W.DateOfBirth);B2.Ci(A._GetAutoObject(A.Device.
 Device).Bt);}}if(A._GetAutoObject(A.Device.Helper).A7F()&&(Bd7===false)){if(A._GetAutoObject(
 A.Device.Device).Bt.Lj())A._GetAutoObject(A.Device.Device).A3(50,true,A._GetAutoObject(
-A.Device.Device).Bt.HK().toFixed(),0,null);else{var B1=A._NewObject(A.Device.Rating
-,0);B1.Gr();B1.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);B1.OnSetBodyWeight(
-this.M8);B1.Ci(A._GetAutoObject(A.Device.Device).Bt);}}var IZ=null;switch((F=this.
+A.Device.Device).Bt.HK().toFixed(),0,null);else{var B2=A._NewObject(A.Device.Rating
+,0);B2.Gr();B2.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);B2.OnSetBodyWeight(
+this.M8);B2.Ci(A._GetAutoObject(A.Device.Device).Bt);}}var IZ=null;switch((F=this.
 Dj.H0.Hu,F[1].call(F[0]))){case 3:IZ=[B=A._GetAutoObject(A.Device.Device),B.Awj,
 B.AyQ];break;case 2:IZ=[B=A._GetAutoObject(A.Device.Device),B.Awk,B.AyR];break;case
 4:case 5:IZ=[B=A._GetAutoObject(A.Device.Device),B.Ant,B.AoB];break;default:;}if(
@@ -4228,19 +4229,19 @@ AVJ(A._GetAutoObject(A.Device.Helper).W,A._GetAutoObject(A.Device.Device).Eartag
 ,this.LX);},Bfc:function(G){A.pe([this,this.Bg8],this);},Be8:function(G){A.pe([this
 ,this.Bg8],this);},Bg8:function(G){var F,Ct,Tf;switch(A._GetAutoObject(A.Device.
 Device).WeightRecordingScope){case 0:this.Ee.Ahv(A._GetAutoObject(A.Device.Helper
-).AhW(A._GetAutoObject(A.Device.Helper).Abr((F=this.BZ.Q,F[1].call(F[0]))),(Ct=this.
-Cn.Dm,Ct[1].call(Ct[0])),2,(Tf=this.BZ.Q,Tf[1].call(Tf[0]))));break;case 2:this.
+).AhW(A._GetAutoObject(A.Device.Helper).Abr((F=this.B0.Q,F[1].call(F[0]))),(Ct=this.
+Cn.Dm,Ct[1].call(Ct[0])),2,(Tf=this.B0.Q,Tf[1].call(Tf[0]))));break;case 2:this.
 Ee.Ahv(A._GetAutoObject(A.Device.Helper).AhW(this.KM,(F=this.Cn.Dm,F[1].call(F[0
-])),2,(Ct=this.BZ.Q,Ct[1].call(Ct[0]))));break;default:;}},ApJ:function(G){var F;
+])),2,(Ct=this.B0.Q,Ct[1].call(Ct[0]))));break;default:;}},ApJ:function(G){var F;
 var As=(A.Device.PopupContext.isPrototypeOf(G)?G:null);if(!As)return;switch(As.Id
 ){case 22:case 21:switch((F=this.Dj.H0.Hu,F[1].call(F[0]))){case 3:case 2:case 5:
 case 4:this.JK(this.Dj);break;case 0:this.JK(this.Dp);break;case 1:this.JK(this.
 Cc);break;default:throw new Error(Ayw+(F=this.Dj.H0.Hu,F[1].call(F[0])).toFixed(
 ));}break;case 43:{this.JK(this.Dj);this.JK(this.Dp);}break;case 25:case 42:{this.
 JK(this.Dj);this.JK(this.Cc);}break;case 41:break;default:A.ab5("%s%e",Atd,As.Id
-);}},ApK:function(G){var F;C.HZ.ApK.call(this,G);var AoY=0;switch((F=this.BZ.Q,F[
+);}},ApK:function(G){var F;C.HZ.ApK.call(this,G);var AoY=0;switch((F=this.B0.Q,F[
 1].call(F[0]))){case 0:case 2:AoY=A._GetAutoObject(A.Device.Device).AdT;break;case
-1:AoY=730;break;default:A.ab5("%s%e",Alf,(F=this.BZ.Q,F[1].call(F[0])));}(F=this.
+1:AoY=730;break;default:A.ab5("%s%e",Alf,(F=this.B0.Q,F[1].call(F[0])));}(F=this.
 Cn.Dm,F[2].call(F[0],A._GetAutoObject(A.Device.Helper).Dv()-A._GetAutoObject(A.Device.
 Helper).AmJ(AoY)));(F=this.C$.Q,F[2].call(F[0],this.C$.AnY));this.Ee.Ahv(A._GetAutoObject(
 A.Device.Helper).W.AhW(1));},Ae4:function(E){if(this.LX===E)return;this.LX=E;A.abo([
@@ -4620,10 +4621,10 @@ Helper).W.Ci(A._GetAutoObject(A.Device.Device).An);var L$=A._GetAutoObject(A.Dev
 Device).An.LV(0,A._GetAutoObject(A.Device.Helper).W.Id);A._GetAutoObject(A.Device.
 Device).SR(L$);if(A._GetAutoObject(A.Device.Helper).Am6()){if(A._GetAutoObject(A.
 Device.Device).Bt.Lj())A._GetAutoObject(A.Device.Device).A3(50,true,A._GetAutoObject(
-A.Device.Device).Bt.HK().toFixed(),0,null);else{var B1=A._NewObject(A.Device.Rating
-,0);B1.Gr();B1.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);B1.OnSetBodyWeight(
+A.Device.Device).Bt.HK().toFixed(),0,null);else{var B2=A._NewObject(A.Device.Rating
+,0);B2.Gr();B2.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);B2.OnSetBodyWeight(
 A._GetAutoObject(A.Device.Helper).Abr(A._GetAutoObject(A.Device.Helper).W.AnimalType
-));B1.OnSetTimestamp(A._GetAutoObject(A.Device.Helper).W.DateOfBirth);B1.Ci(A._GetAutoObject(
+));B2.OnSetTimestamp(A._GetAutoObject(A.Device.Helper).W.DateOfBirth);B2.Ci(A._GetAutoObject(
 A.Device.Device).Bt);}}if(!A._GetAutoObject(A.Device.Device).AgA)A._GetAutoObject(
 A.Device.Helper).Bag();}return true;},BAu:function(){if(!!A._GetAutoObject(A.Device.
 Helper).UD){var AJv=true;if(A._GetAutoObject(A.Device.Helper).UD.Id!==A._GetAutoObject(
@@ -4654,12 +4655,12 @@ _cycle=D);},_className:"Application::ActionScanScreen"};C.A4$={AutoActions:null,
 ActionToString:null,AnimalTypeToString:null,Ape:-1,EN:0,Byx:function(){var Bgn=false;
 var Oo=A._GetAutoObject(A.Device.Helper).W.IsAlarm;if(A._GetAutoObject(A.Device.
 Device).Bt.Lj())A._GetAutoObject(A.Device.Device).A3(50,true,A._GetAutoObject(A.
-Device.Device).Bt.HK().toFixed(),0,null);else if(Oo){Bgn=true;var B1=A._NewObject(
-A.Device.Rating,0);B1.Gr();B1.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.
-Id);A._GetAutoObject(A.Device.Helper).Axz(B1,5);B1.OnSetAppearance(3);B1.Ci(A._GetAutoObject(
-A.Device.Device).Bt);}else{var B1=A._NewObject(A.Device.Rating,0);B1.Gr();B1.OnSetAnimalId(
-A._GetAutoObject(A.Device.Helper).W.Id);A._GetAutoObject(A.Device.Helper).Axz(B1
-,5);B1.OnSetAppearance(1);B1.Ci(A._GetAutoObject(A.Device.Device).Bt);}A._GetAutoObject(
+Device.Device).Bt.HK().toFixed(),0,null);else if(Oo){Bgn=true;var B2=A._NewObject(
+A.Device.Rating,0);B2.Gr();B2.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.
+Id);A._GetAutoObject(A.Device.Helper).Axz(B2,5);B2.OnSetAppearance(3);B2.Ci(A._GetAutoObject(
+A.Device.Device).Bt);}else{var B2=A._NewObject(A.Device.Rating,0);B2.Gr();B2.OnSetAnimalId(
+A._GetAutoObject(A.Device.Helper).W.Id);A._GetAutoObject(A.Device.Helper).Axz(B2
+,5);B2.OnSetAppearance(1);B2.Ci(A._GetAutoObject(A.Device.Device).Bt);}A._GetAutoObject(
 A.Device.Helper).W.E3(A._GetAutoObject(A.Device.Helper).W.CL,A._GetAutoObject(A.
 Device.Device).An);if(Bgn)A._GetAutoObject(A.Device.Helper).W.Uu(false);if(Oo)A.
 _GetAutoObject(A.Device.Helper).W.AnV(false);else A._GetAutoObject(A.Device.Helper
@@ -4719,9 +4720,9 @@ function(){this.E5(1);},BB0:function(){var Oo=A._GetAutoObject(A.Device.Helper).
 W.IsAlarm;if(Oo&&(!!A._GetAutoObject(A.Device.Helper).W.WorstAssessment&&(A._GetAutoObject(
 A.Device.Helper).W.WorstAssessment!==5))){if(A._GetAutoObject(A.Device.Device).Bt.
 Lj())A._GetAutoObject(A.Device.Device).A3(50,true,A._GetAutoObject(A.Device.Device
-).Bt.HK().toFixed(),0,null);else{var B1=A._NewObject(A.Device.Rating,0);B1.Gr();
-B1.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);A._GetAutoObject(A.Device.
-Helper).Axz(B1,5);B1.Ci(A._GetAutoObject(A.Device.Device).Bt);}}A._GetAutoObject(
+).Bt.HK().toFixed(),0,null);else{var B2=A._NewObject(A.Device.Rating,0);B2.Gr();
+B2.OnSetAnimalId(A._GetAutoObject(A.Device.Helper).W.Id);A._GetAutoObject(A.Device.
+Helper).Axz(B2,5);B2.Ci(A._GetAutoObject(A.Device.Device).Bt);}}A._GetAutoObject(
 A.Device.Helper).W.E3(A._GetAutoObject(A.Device.Helper).W.CL,A._GetAutoObject(A.
 Device.Device).An);A._GetAutoObject(A.Device.Helper).W.Uu(false);if(Oo)A._GetAutoObject(
 A.Device.Helper).W.AnV(false);A._GetAutoObject(A.Device.Helper).W.Ci(A._GetAutoObject(
@@ -5396,9 +5397,9 @@ AA4=A._NewObject(A.Device.AssessmentFilterCriterion,0);AA4.Initialize(3,5,0,true
 aArg){C.Aa1._Init.call(this,aArg);this.__proto__=C.AMB;this.ATu(C.AUp);this.ATv(
 C.APL);this.ATk(C.TD);this.ArT(A.aaR(A.acf.Axv));this.Dl(A.aaR(A.acf.Ano));},_ReInit:
 function(){C.Aa1._ReInit.call(this);this.ArT(A.aaR(A.acf.Axv));this.Dl(A.aaR(A.acf.
-Ano));},_className:"Application::AnimalRatings"};C.IH={B6:null,Y:null,V:null,Uy:
+Ano));},_className:"Application::AnimalRatings"};C.IH={B7:null,Y:null,V:null,Uy:
 5,T:function(E){C.I5.T.call(this,E);this.V.R(E);},Dg:function(E){C.I5.Dg.call(this
-,E);this.V.L(E);},S:function(E){if(this.B6===E)return;this.B6=E;this.V.S(this.B6
+,E);this.V.L(E);},S:function(E){if(this.B7===E)return;this.B7=E;this.V.S(this.B7
 );},Au0:function(G){var B;var NE=(A.Core.Y.isPrototypeOf(G)?G:null);if(!NE)return;
 if(((B=NE.Dd(0x1))[2]-B[0])>((B=NE.M)[2]-B[0]))this.S(A.aaL(A.fl.HJ));},Kx:function(
 E){if(this.Uy===E)return;this.Uy=E;this.Y.H([].concat(E,this.Y.M.slice(1,4)));},
@@ -5410,7 +5411,7 @@ jb.Text);this.V.Aj(true);this.J(this.Y,0);this.J(this.V,0);this.Y.Em=[this,this.
 AAY];this.V.S(A.aaL(A.fl.Kr));},_Done:function(){this.__proto__=C.I5;this.Y._Done(
 );this.V._Done();C.I5._Done.call(this);},_ReInit:function(){C.I5._ReInit.call(this
 );this.Y._ReInit();this.V._ReInit();this.V.S(A.aaL(A.fl.Kr));},_Mark:function(D){
-var B;C.I5._Mark.call(this,D);if((B=this.B6)&&(B._cycle!=D))B._Mark(B._cycle=D);
+var B;C.I5._Mark.call(this,D);if((B=this.B7)&&(B._cycle!=D))B._Mark(B._cycle=D);
 if((B=this.Y)._cycle!=D)B._Mark(B._cycle=D);if((B=this.V)._cycle!=D)B._Mark(B._cycle=
 D);},_className:"Application::AnimalInfoItem"};C.RU={AfR:0,Ai:function(Ae){C.FA.
 Ai.call(this,Ae);this.T(A.aaR(A.acf.RQ));if(this.AfR>=0)this.Kz((this.AfR.toFixed(
@@ -5584,8 +5585,8 @@ BS(this.C7(aIndex));},Au:function(E){C.Cm.Au.call(this,E);A._GetAutoObject(A.Dev
 Device).Zq(E);},BcU:function(G){this.Q=A._GetAutoObject(A.Device.Device).WeightRecordingMode;
 A.abo([this,this.B$,this.Cb],0);},_Init:function(aArg){C.Cm._Init.call(this,aArg
 );A.Device.AnimalListContentToString._Init.call(this.AnimalListContentToString={
-I:this},0);this.__proto__=C.Km;this.B7.Set(0,0);this.B7.Set(1,14);this.B7.Set(2,
-1);this.B7.Set(3,2);this.B7.Set(4,3);this.Init(aArg);},_Done:function(){this.__proto__=
+I:this},0);this.__proto__=C.Km;this.BX.Set(0,0);this.BX.Set(1,14);this.BX.Set(2,
+1);this.BX.Set(3,2);this.BX.Set(4,3);this.Init(aArg);},_Done:function(){this.__proto__=
 C.Cm;this.AnimalListContentToString._Done();C.Cm._Done.call(this);},_ReInit:function(
 ){C.Cm._ReInit.call(this);this.AnimalListContentToString._ReInit();},_Mark:function(
 D){var B;C.Cm._Mark.call(this,D);if((B=this.AnimalListContentToString)._cycle!=D
@@ -5807,7 +5808,7 @@ F[0],this.AC.C7(this.AM)));A.abo(this.Q,0);}},Bx:function(E){var QA=0;if(this.Gq
 !==this.F$){if(E<this.Gq){E=this.F$;QA=-this.CM.GO*this.CM.AY;}if(E>this.F$){E=this.
 Gq;QA=this.CM.GO;}}C.WS.Bx.call(this,E);if(!!QA)this.CM.Gb(QA);this.CM.GT(this.AM
 );this.CM.HI(this.CM.Gt,true,this.HN,null);},Hm:function(G){var B;var Gg=this.CM.
-G6;var CA=(C.CG.isPrototypeOf(B=this.CM.Cj)?B:null);if(!CA)return;CA.S(this.V.B6
+G6;var CA=(C.CG.isPrototypeOf(B=this.CM.Cj)?B:null);if(!CA)return;CA.S(this.V.B7
 );CA.AZ(A.aaL(A.fl.Af));CA.L(this.V.AQ);if(!!this.AC)CA.R(this.AC.Gl(Gg));else CA.
 R(Xg);CA.H(A.abK(CA.M,[(B=this.CM.M)[2]-B[0],this.CM.GO]));},CK:function(E){if(this.
 AC===E)return;this.AC=E;if(!!this.AC){this.Ga(0);this.EV(this.AC.Du()-1);this.CM.
@@ -6253,8 +6254,8 @@ Du.apply(this,arguments);else return C.FactoryResetScope.BuU.apply(this,argument
 );},BuU:function(){return 3;},Gl:function(aIndex){if((aIndex<0)||(aIndex>=3))return A.
 jV;return this.FactoryResetScopeToString.BS(this.C7(aIndex));},_Init:function(aArg
 ){C.Cm._Init.call(this,aArg);A.Device.FactoryResetScopeToString._Init.call(this.
-FactoryResetScopeToString={I:this},0);this.__proto__=C.FactoryResetScope;this.B7.
-Set(0,0);this.B7.Set(1,1);this.B7.Set(2,2);var J7=this._variants();if(J7){this.K={
+FactoryResetScopeToString={I:this},0);this.__proto__=C.FactoryResetScope;this.BX.
+Set(0,0);this.BX.Set(1,1);this.BX.Set(2,2);var J7=this._variants();if(J7){this.K={
 };J7._Init.call(this,aArg);}},_Done:function(){if(this.K)this.K._Done.call(this);
 this.__proto__=C.Cm;this.FactoryResetScopeToString._Done();C.Cm._Done.call(this);
 },_ReInit:function(){C.Cm._ReInit.call(this);this.FactoryResetScopeToString._ReInit(
@@ -6811,9 +6812,9 @@ case 2:this.Bb(this.G2);break;case 7:this.Bb(this.F0);break;default:A.ab5("%s%e"
 ,Brt,GA);}this.AzT=(C.DF.isPrototypeOf(B=this.AV)?B:null);},LQ:function(G){},A0Z:
 function(s){this.LQ(s);},AE7:function(E){if(this.AM6===E)return;this.AM6=E;this.
 Am();},A9Y:function(E){if(this.AM7===E)return;this.AM7=E;this.Am();},A9X:function(
-E){if(this.AB9===E)return;this.AB9=E;this.Am();},Ys:function(HA){var B5=null;switch(
-HA){case-1:case 0:B5=this.F0;break;case 1:B5=this.G2;break;default:A.ab5("%s",Ah4
-);}return B5;},Kx:function(E){if(this.Uy===E)return;this.Uy=E;this.Amo();},Amo:function(
+E){if(this.AB9===E)return;this.AB9=E;this.Am();},Ys:function(HA){var B6=null;switch(
+HA){case-1:case 0:B6=this.F0;break;case 1:B6=this.G2;break;default:A.ab5("%s",Ah4
+);}return B6;},Kx:function(E){if(this.Uy===E)return;this.Uy=E;this.Amo();},Amo:function(
 ){A.ab5("%s",Alg);},BdP:function(Ac2,GA,LK){var B;if(!!Ac2){var Be;if(LK)Be=0x11;
 else Be=0x0;switch(GA){case 2:Ac2=(C.DF.isPrototypeOf(B=this.AqO(Ac2,Be))?B:null
 );break;case 7:Ac2=(C.DF.isPrototypeOf(B=this.TT(Ac2,Be))?B:null);break;default:
@@ -6837,9 +6838,9 @@ B=this.Fb)._cycle!=D)B._Mark(B._cycle=D);if((B=this.G2)._cycle!=D)B._Mark(B._cyc
 D);if((B=this.F0)._cycle!=D)B._Mark(B._cycle=D);if((B=this.EM)._cycle!=D)B._Mark(
 B._cycle=D);},_className:"Application::InputNumber"};C.ARh={Dy:null,CW:null,Cu:null
 ,FO:function(E){if(this.M_===E)return;C.HL.FO.call(this,E);this.Cu.CU(E);this.CW.
-CU(E);this.Dy.CU(E);},Ys:function(HA){var B5=null;switch(HA){case-1:case 0:B5=this.
-F0;break;case 1:B5=this.Cu;break;case 2:B5=this.CW;break;case 3:B5=this.Dy;break;
-case 4:B5=this.G2;break;default:A.ab5("%s",Ah4);}return B5;},_Init:function(aArg
+CU(E);this.Dy.CU(E);},Ys:function(HA){var B6=null;switch(HA){case-1:case 0:B6=this.
+F0;break;case 1:B6=this.Cu;break;case 2:B6=this.CW;break;case 3:B6=this.Dy;break;
+case 4:B6=this.G2;break;default:A.ab5("%s",Ah4);}return B6;},_Init:function(aArg
 ){C.HL._Init.call(this,aArg);C.DF._Init.call(this.Dy={I:this},0);C.DF._Init.call(
 this.CW={I:this},0);C.DF._Init.call(this.Cu={I:this},0);this.__proto__=C.ARh;this.
 H(Brx);this.G2.H(Alk);this.Dy.H(BaD);this.CW.H(BaE);this.Cu.H(BaF);this.F0.H(Bry
@@ -6857,7 +6858,7 @@ AVL;},BBF:function(G){A._GetAutoObject(C.A8).Cd(3);A._GetAutoObject(A.Device.Dev
 ).Anx(1);},_Init:function(aArg){C.X2._Init.call(this,aArg);C.CG._Init.call(this.
 Rc={I:this},0);A.acl.Gm._Init.call(this.AcI={I:this},0);this.__proto__=C.AVM;this.
 AeO.H(BrA);this.UG.R(A.jV);this.Rc.H(BrB);this.Rc.R(A.aaR(A.acf.AVK)+BaG);this.Rc.
-L(A.jb.Text);this.AcI.HO(1);this.AcI.Fr(5000);this.AcI.B2=100;this.J(this.Rc,0);
+L(A.jb.Text);this.AcI.HO(1);this.AcI.Fr(5000);this.AcI.B3=100;this.J(this.Rc,0);
 this.Rc.S(A.aaL(A.fl.Af));this.Rc.AZ(A.aaL(A.fl.Ak));this.Rc.Cr(A.aaL(A.fl.Bh));
 this.AcI.SC=[this,this.BBF];this.AcI.Q=[this,this.Bl4,this.Bn$];},_Done:function(
 ){this.__proto__=C.X2;this.Rc._Done();this.AcI._Done();C.X2._Done.call(this);},_ReInit:
@@ -6892,11 +6893,11 @@ D)B._Mark(B._cycle=D);},_className:"Application::NewAnimalCalvingDataScreen"};C.
 ADX={AgQ:null,AgR:null,NP:null,NO:null,ET:null,FZ:null,Eq:null,Dy:null,CW:null,Cu:
 null,FO:function(E){if(this.M_===E)return;C.Li.FO.call(this,E);this.Cu.CU(E);this.
 CW.CU(E);this.Dy.CU(E);this.Eq.CU(E);this.FZ.CU(E);this.ET.CU(E);this.NO.CU(E);this.
-NP.CU(E);this.AgR.CU(E);this.AgQ.CU(E);},Ys:function(HA){var B5=null;switch(HA){
-case-1:case 0:B5=this.F0;break;case 1:B5=this.Cu;break;case 2:B5=this.CW;break;case
-3:B5=this.Dy;break;case 4:B5=this.Eq;break;case 5:B5=this.FZ;break;case 6:B5=this.
-ET;break;case 7:B5=this.NO;break;case 8:B5=this.NP;break;case 9:B5=this.AgR;break;
-case 10:B5=this.AgQ;break;case 11:B5=this.G2;break;default:A.ab5("%s",Ah4);}return B5;
+NP.CU(E);this.AgR.CU(E);this.AgQ.CU(E);},Ys:function(HA){var B6=null;switch(HA){
+case-1:case 0:B6=this.F0;break;case 1:B6=this.Cu;break;case 2:B6=this.CW;break;case
+3:B6=this.Dy;break;case 4:B6=this.Eq;break;case 5:B6=this.FZ;break;case 6:B6=this.
+ET;break;case 7:B6=this.NO;break;case 8:B6=this.NP;break;case 9:B6=this.AgR;break;
+case 10:B6=this.AgQ;break;case 11:B6=this.G2;break;default:A.ab5("%s",Ah4);}return B6;
 },_Init:function(aArg){C.Li._Init.call(this,aArg);C.DF._Init.call(this.AgQ={I:this
 },0);C.DF._Init.call(this.AgR={I:this},0);C.DF._Init.call(this.NP={I:this},0);C.
 DF._Init.call(this.NO={I:this},0);C.DF._Init.call(this.ET={I:this},0);C.DF._Init.
@@ -6923,9 +6924,9 @@ B._cycle=D);if((B=this.FZ)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Eq)._cycle!=
 D)B._Mark(B._cycle=D);if((B=this.Dy)._cycle!=D)B._Mark(B._cycle=D);if((B=this.CW
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.Cu)._cycle!=D)B._Mark(B._cycle=D);},_className:
 "Application::InputNumber12"};C.HL={Q:null,AM:0,Ai:function(Ae){C.G5.Ai.call(this
-,Ae);this.Amo();},Adu:function(G){var B;var F;var IA=A.jV;var B5=this.G2;while(!
-!B5){if(B5.Ez>0)IA=IA+B5.Ez.toFixed();else IA=IA+String.fromCharCode(0x30);B5=(C.
-DF.isPrototypeOf(B=this.TT(B5,0x11))?B:null);}var BO=this.AM;this.Bx(A.wz(IA,-1,
+,Ae);this.Amo();},Adu:function(G){var B;var F;var IA=A.jV;var B6=this.G2;while(!
+!B6){if(B6.Ez>0)IA=IA+B6.Ez.toFixed();else IA=IA+String.fromCharCode(0x30);B6=(C.
+DF.isPrototypeOf(B=this.TT(B6,0x11))?B:null);}var BO=this.AM;this.Bx(A.wz(IA,-1,
 10));if(this.AM!==BO){if(!!this.Q)(F=this.Q,F[2].call(F[0],this.AM));A.abo(this.
 Q,0);}},LQ:function(G){},Amo:function(){var B;var F;if(!!this.Q){var DV=this.F0;
 var AdD=this.Uy;var A7=(F=this.Q,F[1].call(F[0]));while(!!DV){if(A7>0){DV.L3(A7%
@@ -6938,8 +6939,8 @@ Am();},_Init:function(aArg){C.G5._Init.call(this,aArg);this.__proto__=C.HL;},_Ma
 function(D){var B;C.G5._Mark.call(this,D);if((B=this.Q)&&((B=B[0])._cycle!=D))B.
 _Mark(B._cycle=D);},_className:"Application::InputNumber2_32"};C.Li={AM:0,Q:null
 ,Ai:function(Ae){C.G5.Ai.call(this,Ae);this.Amo();},Adu:function(G){var B;var F;
-var IA=A.jV;var B5=this.G2;while(!!B5){if(B5.Ez>0)IA=IA+B5.Ez.toFixed();else IA=
-IA+String.fromCharCode(0x30);B5=(C.DF.isPrototypeOf(B=this.TT(B5,0x11))?B:null);
+var IA=A.jV;var B6=this.G2;while(!!B6){if(B6.Ez>0)IA=IA+B6.Ez.toFixed();else IA=
+IA+String.fromCharCode(0x30);B6=(C.DF.isPrototypeOf(B=this.TT(B6,0x11))?B:null);
 }var BO=this.AM;this.Bx(A.ab0(IA,0,10));if(this.AM!==BO){if(!!this.Q)(F=this.Q,F[
 2].call(F[0],this.AM));A.abo(this.Q,0);}},LQ:function(G){},Amo:function(){var B;
 var F;if(!!this.Q){var DV=this.F0;var AdD=this.Uy;var A7=(F=this.Q,F[1].call(F[0
@@ -6963,9 +6964,9 @@ _ReInit();},_Mark:function(D){var B;C.AC._Mark.call(this,D);if((B=this.EartagNrA
 )._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::EartagNrAssignmentMode"
 };C.AvV={Eq:null,Dy:null,CW:null,Cu:null,FO:function(E){if(this.M_===E)return;C.
 HL.FO.call(this,E);this.Cu.CU(E);this.CW.CU(E);this.Dy.CU(E);this.Eq.CU(E);},Ys:
-function(HA){var B5=null;switch(HA){case-1:case 0:B5=this.F0;break;case 1:B5=this.
-Cu;break;case 2:B5=this.CW;break;case 3:B5=this.Dy;break;case 4:B5=this.Eq;break;
-case 5:B5=this.G2;break;default:A.ab5("%s",Ah4);}return B5;},_Init:function(aArg
+function(HA){var B6=null;switch(HA){case-1:case 0:B6=this.F0;break;case 1:B6=this.
+Cu;break;case 2:B6=this.CW;break;case 3:B6=this.Dy;break;case 4:B6=this.Eq;break;
+case 5:B6=this.G2;break;default:A.ab5("%s",Ah4);}return B6;},_Init:function(aArg
 ){C.HL._Init.call(this,aArg);C.DF._Init.call(this.Eq={I:this},0);C.DF._Init.call(
 this.Dy={I:this},0);C.DF._Init.call(this.CW={I:this},0);C.DF._Init.call(this.Cu={
 I:this},0);this.__proto__=C.AvV;this.H(Ayr);this.G2.H(AHT);this.Eq.H(AHU);this.Dy.
@@ -7289,10 +7290,10 @@ B._Mark(B._cycle=D);if((B=this.JO)&&((B=B[0])._cycle!=D))B._Mark(B._cycle=D);},_
 "Application::SettingsItemNaisID"};C.ARi={ET:null,FZ:null,Eq:null,Dy:null,CW:null
 ,Cu:null,FO:function(E){if(this.M_===E)return;C.Li.FO.call(this,E);this.Cu.CU(E);
 this.CW.CU(E);this.Dy.CU(E);this.Eq.CU(E);this.FZ.CU(E);this.ET.CU(E);},Ys:function(
-HA){var B5=null;switch(HA){case-1:case 0:B5=this.F0;break;case 1:B5=this.Cu;break;
-case 2:B5=this.CW;break;case 3:B5=this.Dy;break;case 4:B5=this.Eq;break;case 5:B5=
-this.FZ;break;case 6:B5=this.ET;break;case 7:B5=this.G2;break;default:A.ab5("%s"
-,Ah4);}return B5;},_Init:function(aArg){C.Li._Init.call(this,aArg);C.DF._Init.call(
+HA){var B6=null;switch(HA){case-1:case 0:B6=this.F0;break;case 1:B6=this.Cu;break;
+case 2:B6=this.CW;break;case 3:B6=this.Dy;break;case 4:B6=this.Eq;break;case 5:B6=
+this.FZ;break;case 6:B6=this.ET;break;case 7:B6=this.G2;break;default:A.ab5("%s"
+,Ah4);}return B6;},_Init:function(aArg){C.Li._Init.call(this,aArg);C.DF._Init.call(
 this.ET={I:this},0);C.DF._Init.call(this.FZ={I:this},0);C.DF._Init.call(this.Eq={
 I:this},0);C.DF._Init.call(this.Dy={I:this},0);C.DF._Init.call(this.CW={I:this},
 0);C.DF._Init.call(this.Cu={I:this},0);this.__proto__=C.ARi;this.H(BrS);this.G2.
@@ -7314,8 +7315,8 @@ function(aArg){A.pe([this,this.LQ],this);},Ai:function(Ae){var B;A.Core.P.Ai.cal
 this,Ae);this.EM.Z(false);this.EM.H(A.wC(this.Ys(0).M,this.Ys(-1).M));var IC=((Ae&
 0x40)===0x40);if(IC){this.Bgy(A.jb.AV);this.Bgz(A.jb.Bm);}else{this.Bgy(this.M_);
 this.Bgz(A.jb.Text);}this.Amo();},FO:function(E){if(this.M_===E)return;this.M_=E;
-this.Am();},LQ:function(G){},Ys:function(HA){var B5=null;switch(HA){case-1:case 0:
-B5=this.F0;break;case 1:B5=this.G2;break;default:A.ab5("%s",Ah4);}return B5;},Kx:
+this.Am();},LQ:function(G){},Ys:function(HA){var B6=null;switch(HA){case-1:case 0:
+B6=this.F0;break;case 1:B6=this.G2;break;default:A.ab5("%s",Ah4);}return B6;},Kx:
 function(E){if(this.Uy===E)return;this.Uy=E;this.Amo();},Amo:function(){var B;var
 F;if(!!this.Q){var DV=this.F0;var AdD=this.Uy;var A7=(F=this.Q,F[1].call(F[0]));
 while(!!DV){if(A7>0){DV.L3(A7%10);A7=(A7/10)|0;}else if(AdD>0)DV.L3(0);else DV.L3(-
@@ -7348,7 +7349,7 @@ D)B._Mark(B._cycle=D);},_className:"Application::InputGroupedNumber"};C.Ez={AgJ:
 null,Background:null,Text:null,Ez:-1,M5:0,AmQ:0,Aqt:false,Ai:function(Ae){A.Core.
 P.Ai.call(this,Ae);if(this.Ez<0)this.Text.R(Rp);else this.Text.R(this.Ez.toFixed(
 ));this.Background.L(this.M5);this.Text.L(this.AmQ);},L3:function(E){if(this.Ez===
-E)return;var B5=E;if((B5<0)||(B5>9))B5=-1;this.Ez=B5;this.Am();},CU:function(E){
+E)return;var B6=E;if((B6<0)||(B6>9))B6=-1;this.Ez=B6;this.Am();},CU:function(E){
 if(this.M5===E)return;this.M5=E;this.Am();},AeZ:function(E){if(this.Aqt===E)return;
 this.Aqt=E;this.AgJ.Ar(E);if(E===false)this.Text.Z(true);},Zt:function(E){if(this.
 AmQ===E)return;this.AmQ=E;this.Am();},_Init:function(aArg){A.Core.P._Init.call(this
@@ -7456,9 +7457,9 @@ SJ(3);break;case 3:this.SJ(2);break;default:this.SJ(0);}break;default:D5.NM=true
 HW=A._NewObject(A.Device.Int32FilterCriterion,0);HW.Initialize(1,0,AcY,true);Fy.
 CX(HW);var AA4=A._NewObject(A.Device.AssessmentFilterCriterion,0);AA4.Initialize(
 3,5,0,true);Fy.CX(AA4);L6.Bk(Fy);},Aiy:function(G){var Ap6=0;var A4c=A._GetAutoObject(
-A.Device.Device).Bt.B_();var B1=A._NewObject(A.Device.Rating,0);while(Ap6<A4c){B1.
-E3(Ap6,A._GetAutoObject(A.Device.Device).Bt);this.BdS(B1,0);var BCI=A._GetAutoObject(
-A.Device.Helper).ZR(2);this.BdS(B1,BCI);Ap6++;}C.FC.Aiy.call(this,G);},Aar:function(
+A.Device.Device).Bt.B_();var B2=A._NewObject(A.Device.Rating,0);while(Ap6<A4c){B2.
+E3(Ap6,A._GetAutoObject(A.Device.Device).Bt);this.BdS(B2,0);var BCI=A._GetAutoObject(
+A.Device.Helper).ZR(2);this.BdS(B2,BCI);Ap6++;}C.FC.Aiy.call(this,G);},Aar:function(
 G){A.pe([this,this.Bdv],this);C.FC.Aar.call(this,G);},Adp:function(G){this.Auh=A.
 _NewObject(A.Device.Int32ArrayWrapper,0);this.Aug=A._NewObject(A.Device.Int32ArrayWrapper
 ,0);this.Aui=A._NewObject(A.Device.Int32ArrayWrapper,0);this.Auj=A._NewObject(A.
@@ -7707,9 +7708,9 @@ V.M[2],0,((aSize[0]*50)/100)|0,aSize[1]]);this.A$.H([this.SW.M[2]-1,0,this.SW.M[
 Ea.H([this.UL.M[2]-1,0,this.UL.M[2]+1,aSize[1]]);this.Gu.H([this.UL.M[2],0,aSize[
 0],aSize[1]]);this.Ajy.H(this.Gu.M);},Ai:function(Ae){C.Ba.Ai.call(this,Ae);this.
 T(this.ABH.toFixed());this.SW.L(this.V.AQ);this.SW.R(this.AlE.toFixed());this.UL.
-L(this.V.AQ);this.UL.R(this.AtQ.toFixed());var B1=this.BBO(this.XL);this.Gu.L(A.
-_GetAutoObject(A.acj.Assessment).XB(B1));this.Ajy.L(A._GetAutoObject(A.acj.Assessment
-).Qr(B1));this.Gu.R(A.abk(this.XL,0,0)+AfG);},Ch:function(Ad){if(!this.AX)return;
+L(this.V.AQ);this.UL.R(this.AtQ.toFixed());var B2=this.BBO(this.XL);this.Gu.L(A.
+_GetAutoObject(A.acj.Assessment).XB(B2));this.Ajy.L(A._GetAutoObject(A.acj.Assessment
+).Qr(B2));this.Gu.R(A.abk(this.XL,0,0)+AfG);},Ch:function(Ad){if(!this.AX)return;
 this.Hs=Ad;Ad=(this.AX.B_()-Ad)-1;if(!!this.AX){this.AlE=this.AX.CF(Ad,1);this.AtQ=
 this.AX.CF(Ad,2);this.ABH=this.AX.CF(Ad,0);if(this.AlE>0)this.XL=(this.AtQ/this.
 AlE)*100;else this.XL=0;this.Am();}},BBO:function(XL){if(XL>=8)return 1;else if(
@@ -7858,7 +7859,7 @@ Sk={I:this},0);A.acg.Text._Init.call(this.UA={I:this},0);C.CG._Init.call(this.Lt
 I:this},0);A.Device.TM._Init.call(this.Jh={I:this},0);A.Device.TM._Init.call(this.
 Z3={I:this},0);A.Device.TM._Init.call(this.Z2={I:this},0);A.acg.Ap._Init.call(this.
 Sl={I:this},0);C.CG._Init.call(this.HG={I:this},0);A.acl.TM._Init.call(this.AjI={
-I:this},0);this.__proto__=C.Re;var B;this.N.Z(true);this.Ak3.Fr(1000);this.Ak3.B2=
+I:this},0);this.__proto__=C.Re;var B;this.N.Z(true);this.Ak3.Fr(1000);this.Ak3.B3=
 2;this.NW.H(Bse);this.NW.L(A.jb.CT);this.C_.H(Bsf);this.C_.L(A.jb.AV);this.C_.Cv(
 0);this.C_.Z(true);this.AcE.H(Bsg);this.AcE.L(A.jb.Text);this.AcE.Z(false);this.
 JQ.KU(true);this.JQ.R(A.aaR(A.acf.ADZ));this.JQ.L(A.jb.Text);this.TemperatureUnit.
@@ -7867,9 +7868,9 @@ Akl));this.MJ.L(A.jb.Text);this.PX.H(Bsh);this.PX.R(A.aaR(A.acf.PX));this.PX.L(A
 jb.Text);this.PX.Z(false);this.Sk.H(Bsi);this.Sk.A6(0x14);this.Sk.R(Bsj);this.Sk.
 L(A.jb.Text);this.Sk.Z(false);this.UA.H(Bsk);this.UA.R(Bsl);this.UA.L(A.jb.Text);
 this.UA.Z(false);this.Lt.H(Bsm);this.Lt.R(A.aaR(A.acu.AVw));this.Lt.A6(0x12);this.
-Lt.L(A.jb.Gj);this.Jh.B2=false;this.Jh.Cx=true;this.Jh.HO(1);this.Jh.Fr(4000);this.
-Jh.Ut(0);this.Z3.B2=false;this.Z3.Cx=true;this.Z3.HO(2);this.Z3.Fr(400);this.Z3.
-Ut(200);this.Z2.B2=false;this.Z2.Cx=true;this.Z2.HO(3);this.Z2.Fr(500);this.Z2.Ut(
+Lt.L(A.jb.Gj);this.Jh.B3=false;this.Jh.Cx=true;this.Jh.HO(1);this.Jh.Fr(4000);this.
+Jh.Ut(0);this.Z3.B3=false;this.Z3.Cx=true;this.Z3.HO(2);this.Z3.Fr(400);this.Z3.
+Ut(200);this.Z2.B3=false;this.Z2.Cx=true;this.Z2.HO(3);this.Z2.Fr(500);this.Z2.Ut(
 250);this.Sl.H(Bsn);this.HG.H(Bso);this.HG.Z(A._GetAutoObject(A.Device.Device).HG
 );this.HG.R(A.aaR(A.acf.HG));this.HG.A6(0x12);this.HG.L(A.jb.Gj);this.AjI.Ar(A._GetAutoObject(
 A.Device.Device).HG);this.AjI.Fr(500);this.AjI.Ut(1000);this.J(this.NW,0);this.J(
@@ -8901,10 +8902,10 @@ B._Mark(B._cycle=D);if((B=this.GermanStateToString)._cycle!=D)B._Mark(B._cycle=D
 };C.ARf={NP:null,NO:null,ET:null,FZ:null,Eq:null,Dy:null,CW:null,Cu:null,FO:function(
 E){if(this.M_===E)return;C.Li.FO.call(this,E);this.Cu.CU(E);this.CW.CU(E);this.Dy.
 CU(E);this.Eq.CU(E);this.FZ.CU(E);this.ET.CU(E);this.NO.CU(E);this.NP.CU(E);},Ys:
-function(HA){var B5=null;switch(HA){case-1:case 0:B5=this.F0;break;case 1:B5=this.
-Cu;break;case 2:B5=this.CW;break;case 3:B5=this.Dy;break;case 4:B5=this.Eq;break;
-case 5:B5=this.FZ;break;case 6:B5=this.ET;break;case 7:B5=this.NO;break;case 8:B5=
-this.NP;break;case 9:B5=this.G2;break;default:A.ab5("%s",Ah4);}return B5;},_Init:
+function(HA){var B6=null;switch(HA){case-1:case 0:B6=this.F0;break;case 1:B6=this.
+Cu;break;case 2:B6=this.CW;break;case 3:B6=this.Dy;break;case 4:B6=this.Eq;break;
+case 5:B6=this.FZ;break;case 6:B6=this.ET;break;case 7:B6=this.NO;break;case 8:B6=
+this.NP;break;case 9:B6=this.G2;break;default:A.ab5("%s",Ah4);}return B6;},_Init:
 function(aArg){C.Li._Init.call(this,aArg);C.DF._Init.call(this.NP={I:this},0);C.
 DF._Init.call(this.NO={I:this},0);C.DF._Init.call(this.ET={I:this},0);C.DF._Init.
 call(this.FZ={I:this},0);C.DF._Init.call(this.Eq={I:this},0);C.DF._Init.call(this.
@@ -9011,7 +9012,7 @@ D)B._Mark(B._cycle=D);if((B=this.X_)._cycle!=D)B._Mark(B._cycle=D);},_className:
 ,Lm:null,Cn:null,G7:null,Lk:null,AzS:true,Init:function(aArg){this.Bb(this.Db);A.
 pe([this,this.GH],this);},Ew:function(G){var B;A._GetAutoObject(A.Device.Helper).
 W.E6();A._GetAutoObject(C.A8).FB();if(!!this.K7)this.K7.Ew(this);},Agh:function(
-G){var B;var F;A._GetAutoObject(A.Device.Helper).W.EC((F=this.BZ.Q,F[1].call(F[0
+G){var B;var F;A._GetAutoObject(A.Device.Helper).W.EC((F=this.B0.Q,F[1].call(F[0
 ])));A._GetAutoObject(A.Device.Helper).W.AwS(true);if(!!this.K7)this.K7.Agh(this
 );if(A._GetAutoObject(A.Device.Device).An.Lj())A._GetAutoObject(A.Device.Helper).
 AKq(A._GetAutoObject(A.Device.Helper).W,5,5,0,[this,this.ApJ]);else{this.Ai1();A.
@@ -9029,9 +9030,9 @@ L$=A._GetAutoObject(A.Device.Device).An.LV(0,A._GetAutoObject(A.Device.Helper).W
 Id);A._GetAutoObject(A.Device.Device).SR(L$);if(A._GetAutoObject(A.Device.Helper
 ).Am6()){if(A._GetAutoObject(A.Device.Device).Bt.Lj())A._GetAutoObject(A.Device.
 Device).A3(50,true,A._GetAutoObject(A.Device.Device).Bt.HK().toFixed(),0,null);else{
-var B1=A._NewObject(A.Device.Rating,0);B1.Gr();B1.OnSetAnimalId(A._GetAutoObject(
-A.Device.Helper).W.Id);B1.OnSetBodyWeight(this.KM);B1.OnSetTimestamp(A._GetAutoObject(
-A.Device.Helper).W.DateOfBirth);B1.Ci(A._GetAutoObject(A.Device.Device).Bt);}}A.
+var B2=A._NewObject(A.Device.Rating,0);B2.Gr();B2.OnSetAnimalId(A._GetAutoObject(
+A.Device.Helper).W.Id);B2.OnSetBodyWeight(this.KM);B2.OnSetTimestamp(A._GetAutoObject(
+A.Device.Helper).W.DateOfBirth);B2.Ci(A._GetAutoObject(A.Device.Device).Bt);}}A.
 _GetAutoObject(A.Device.Helper).A7e(A._GetAutoObject(A.Device.Helper).W.DateOfBirth
 ,true);},Ap7:function(G){var B;if(!!this.K7)this.K7.Ap7(this);},GH:function(G){if(
 A._GetAutoObject(A.Device.Helper).Am6())this.C$.Z(true);else this.C$.Z(false);},
@@ -9178,8 +9179,8 @@ aIndex){if((aIndex<0)||(aIndex>=this.Du()))return null;return this.AeU.AsM(aInde
 );},AC6:function(aIndex){if((aIndex<0)||(aIndex>=this.Du()))return-1;return this.
 AeU.AsN(aIndex);},BeC:function(G){this.Q=A._GetAutoObject(A.Device.Device).AbU;A.
 abo([this,this.B$,this.Cb],0);},_Init:function(aArg){C.Cm._Init.call(this,aArg);
-A.Device.AeU._Init.call(this.AeU={I:this},0);this.__proto__=C.Abp;this.B7.Set(0,
-0);this.B7.Set(1,1);this.B7.Set(2,2);this.Init(aArg);},_Done:function(){this.__proto__=
+A.Device.AeU._Init.call(this.AeU={I:this},0);this.__proto__=C.Abp;this.BX.Set(0,
+0);this.BX.Set(1,1);this.BX.Set(2,2);this.Init(aArg);},_Done:function(){this.__proto__=
 C.Cm;this.AeU._Done();C.Cm._Done.call(this);},_ReInit:function(){C.Cm._ReInit.call(
 this);this.AeU._ReInit();},_Mark:function(D){var B;C.Cm._Mark.call(this,D);if((B=
 this.AeU)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::FilterDriedOffSelection"
@@ -9282,18 +9283,18 @@ B$,this.Cb],0);},L2:function(E){var B;if(this.Animal===E)return;if(!!this.Animal
 )A.z$([this,this.A4Z],[B=this.Animal,B.Aws,B.Nm],0);this.Animal=E;if(!!this.Animal
 )A.zX([this,this.A4Z],[B=this.Animal,B.Aws,B.Nm],0);A.pe([this,this.A4Z],this);}
 ,_Init:function(aArg){C.Cm._Init.call(this,aArg);A.Device.WhereAboutsToString._Init.
-call(this.WhereAboutsToString={I:this},0);this.__proto__=C.UT;this.B7.Set(0,1);this.
-B7.Set(1,2);this.B7.Set(2,3);this.B7.Set(3,4);this.B7.Set(4,5);},_Done:function(
+call(this.WhereAboutsToString={I:this},0);this.__proto__=C.UT;this.BX.Set(0,1);this.
+BX.Set(1,2);this.BX.Set(2,3);this.BX.Set(3,4);this.BX.Set(4,5);},_Done:function(
 ){this.__proto__=C.Cm;this.WhereAboutsToString._Done();C.Cm._Done.call(this);},_ReInit:
 function(){C.Cm._ReInit.call(this);this.WhereAboutsToString._ReInit();},_Mark:function(
 D){var B;C.Cm._Mark.call(this,D);if((B=this.Animal)&&(B._cycle!=D))B._Mark(B._cycle=
 D);if((B=this.WhereAboutsToString)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::WhereaboutsArray"
 };C.UU={Du:function(){return 6;},_Init:function(aArg){C.UT._Init.call(this,aArg);
-this.__proto__=C.UU;this.B7.Set(0,0);this.B7.Set(1,1);this.B7.Set(2,2);this.B7.Set(
-3,3);this.B7.Set(4,4);this.B7.Set(5,5);},_className:"Application::WhereaboutsLiving"
+this.__proto__=C.UU;this.BX.Set(0,0);this.BX.Set(1,1);this.BX.Set(2,2);this.BX.Set(
+3,3);this.BX.Set(4,4);this.BX.Set(5,5);},_className:"Application::WhereaboutsLiving"
 };C.AcL={Du:function(){return 5;},_Init:function(aArg){C.UT._Init.call(this,aArg
-);this.__proto__=C.AcL;this.B7.Set(0,6);this.B7.Set(1,7);this.B7.Set(2,8);this.B7.
-Set(3,9);this.B7.Set(4,10);},_className:"Application::WhereaboutsLoss"};C.AdW={AnimalIdAutoGenerationMethodToString:
+);this.__proto__=C.AcL;this.BX.Set(0,6);this.BX.Set(1,7);this.BX.Set(2,8);this.BX.
+Set(3,9);this.BX.Set(4,10);},_className:"Application::WhereaboutsLoss"};C.AdW={AnimalIdAutoGenerationMethodToString:
 null,Init:function(aArg){var B;A.zX([this,this.BcS],[B=A._GetAutoObject(A.Device.
 Device),B.ASA,B.A0s],0);A.pe([this,this.BcS],this);},Du:function(){return 2;},C7:
 function(aIndex){if((aIndex<0)||(aIndex>=2))return-1;return aIndex;},Gl:function(
@@ -9696,12 +9697,12 @@ fl.Bh));},_ReInit:function(){C.BW._ReInit.call(this);this.V.Cr(A.aaL(A.fl.Bh));t
 CP();},_Mark:function(D){var B;C.BW._Mark.call(this,D);if((B=this.Filter)&&((B=B[
 0])._cycle!=D))B._Mark(B._cycle=D);},_className:"Application::BaseGroupFilterItem"
 };C.ASc={Ge:null,MU:null,DY:null,Y:null,Ef:null,Cn:null,CH:null,Db:null,Gn:null,
-Ee:null,C$:null,BZ:null,Ay:null,Breed:null,Jj:null,AnimalType:null,Gender:null,Pp:
+Ee:null,C$:null,B0:null,Ay:null,Breed:null,Jj:null,AnimalType:null,Gender:null,Pp:
 null,K0:null,Jh:null,YJ:null,Amk:null,KM:0,M8:0,A4n:false,Init:function(aArg){var
 B;A.zX([this,this.BA9],[B=A._GetAutoObject(A.Device.Device),B.AEK,B.AIY],0);A.zV([
 this,this.At_],this.MU,0);A.zX([this,this.At_],[B=A._GetAutoObject(A.Device.Device
 ),B.Awr,B.AyV],0);A.zX([this,this.GH],[B=A._GetAutoObject(A.Device.Device),B.AEK
-,B.AIY],0);A.zV([this,this.GH],this.MU,0);A.zX([this,this.AiP],this.BZ.Q,0);A.pe([
+,B.AIY],0);A.zV([this,this.GH],this.MU,0);A.zX([this,this.AiP],this.B0.Q,0);A.pe([
 this,this.AiP],this);A.pe([this,this.Bfb],this);A.pe([this,this.At_],this);A.pe([
 this,this.GH],this);A.pe([this,this.A3Q],this);},Bb:function(E){C.AB.Bb.call(this
 ,E);A.pe([this,this.ALv],this);A.pe([this,this.DJ],this);},Ai:function(Ae){var F;
@@ -9733,18 +9734,18 @@ JK(this.Ef);if(Ber)this.Bdd(this);},Adw:function(G){A._GetAutoObject(A.Device.De
 if(this.MU.NZ(23)){if(A._GetAutoObject(A.Device.Device).Bt.Lj())A._GetAutoObject(
 A.Device.Device).A3(50,true,A._GetAutoObject(A.Device.Device).Bt.HK().toFixed(),
 0,null);else{var L$=A._GetAutoObject(A.Device.Device).An.LV(0,this.Ge.Id);A._GetAutoObject(
-A.Device.Device).SR(L$);var B1=A._NewObject(A.Device.Rating,0);B1.Gr();B1.OnSetAnimalId(
-this.Ge.Id);B1.OnSetBodyWeight(this.KM);B1.OnSetTimestamp(this.Ge.DateOfBirth);B1.
+A.Device.Device).SR(L$);var B2=A._NewObject(A.Device.Rating,0);B2.Gr();B2.OnSetAnimalId(
+this.Ge.Id);B2.OnSetBodyWeight(this.KM);B2.OnSetTimestamp(this.Ge.DateOfBirth);B2.
 Ci(A._GetAutoObject(A.Device.Device).Bt);}}if(this.MU.NZ(18)){if(A._GetAutoObject(
 A.Device.Device).Bt.Lj())A._GetAutoObject(A.Device.Device).A3(50,true,A._GetAutoObject(
 A.Device.Device).Bt.HK().toFixed(),0,null);else{var L$=A._GetAutoObject(A.Device.
-Device).An.LV(0,this.Ge.Id);A._GetAutoObject(A.Device.Device).SR(L$);var B1=A._NewObject(
-A.Device.Rating,0);B1.Gr();B1.OnSetAnimalId(this.Ge.Id);B1.OnSetBodyWeight(this.
-M8);B1.OnSetTimestamp(A._GetAutoObject(A.Device.Helper).Dv());B1.Ci(A._GetAutoObject(
+Device).An.LV(0,this.Ge.Id);A._GetAutoObject(A.Device.Device).SR(L$);var B2=A._NewObject(
+A.Device.Rating,0);B2.Gr();B2.OnSetAnimalId(this.Ge.Id);B2.OnSetBodyWeight(this.
+M8);B2.OnSetTimestamp(A._GetAutoObject(A.Device.Helper).Dv());B2.Ci(A._GetAutoObject(
 A.Device.Device).Bt);}}A._GetAutoObject(A.Device.Device).WH(65280);this.Jh.Ar(true
 );(F=A._GetAutoObject(A.Device.Device),F.AFz(F.Av2+1));this.A4n=true;A.pe([this,
 this.ALv],this);this.ApD();},GH:function(G){this.Cn.ATK(A._GetAutoObject(A.Device.
-Device).AeP);A._GetAutoObject(A.Device.Helper).J3(this.BZ,this.MU.NZ(14));A._GetAutoObject(
+Device).AeP);A._GetAutoObject(A.Device.Helper).J3(this.B0,this.MU.NZ(14));A._GetAutoObject(
 A.Device.Helper).J3(this.C$,this.MU.NZ(23));A._GetAutoObject(A.Device.Helper).J3(
 this.CH,this.MU.NZ(32));A._GetAutoObject(A.Device.Helper).J3(this.Ee,this.MU.NZ(
 18));A._GetAutoObject(A.Device.Helper).J3(this.Db,this.MU.NZ(7));A._GetAutoObject(
@@ -9775,7 +9776,7 @@ Background.Fq();var width=(BCd?((B=this.M)[2]-B[0])-((B=this.Ay.M)[2]-B[0]):(B=t
 M)[2]-B[0]);var Aa;var Xw=this.Y.TT(null,0x401);while(!!Xw&&(((B=Xw)?B.__proto__:
 null)!==A.Core.Y)){Aa=(C.OZ.isPrototypeOf(Xw)?Xw:null);if(!!Aa)Aa.H(A.abL(Aa.M,width
 ));Xw=this.Y.TT(Xw,0x1);}},Bz0:function(Aaj){var Aa=null;switch(Aaj){case 14:Aa=
-this.BZ;break;case 32:Aa=this.CH;break;case 23:Aa=this.C$;break;case 7:Aa=this.Db;
+this.B0;break;case 32:Aa=this.CH;break;case 23:Aa=this.C$;break;case 7:Aa=this.Db;
 break;case 18:Aa=this.Ee;break;case 34:Aa=this.Gn;break;default:A.ab5("%s%e",Bt9
 ,Aaj);}return Aa;},BA9:function(G){var F;if(A._GetAutoObject(A.Device.Device).AeP
 )A._GetAutoObject(A.Device.Helper).W.Q6(0);else if(!(F=this.Cn.Dm,F[1].call(F[0]
@@ -9803,7 +9804,7 @@ function(aArg){C.AB._Init.call(this,aArg);A.acg.AL._Init.call(this.DY={I:this},0
 );A.Core.Y._Init.call(this.Y={I:this},0);C.AUU._Init.call(this.Ef={I:this},0);C.
 AUQ._Init.call(this.Cn={I:this},0);C.AxC._Init.call(this.CH={I:this},0);C.BW._Init.
 call(this.Db={I:this},0);C.AsC._Init.call(this.Gn={I:this},0);C.AkV._Init.call(this.
-Ee={I:this},0);C.AkV._Init.call(this.C$={I:this},0);C.BW._Init.call(this.BZ={I:this
+Ee={I:this},0);C.AkV._Init.call(this.C$={I:this},0);C.BW._Init.call(this.B0={I:this
 },0);C.Ay._Init.call(this.Ay={I:this},0);C.Breed._Init.call(this.Breed={I:this},
 0);C.UU._Init.call(this.Jj={I:this},0);C.AnimalType._Init.call(this.AnimalType={
 I:this},0);C.Gender._Init.call(this.Gender={I:this},0);A.Device.M6._Init.call(this.
@@ -9820,11 +9821,11 @@ Db.T(A.aaR(A.acf.Afo));this.Gn.H(Ba0);this.Gn.Aj(true);this.Gn.T(A.aaR(A.acf.Jj)
 Ee.EV(999000);this.Ee.Ahv(A._GetAutoObject(A.Device.Helper).Abr(this.AnimalType.
 Q));this.C$.H(Ba0);this.C$.Aj(true);this.C$.T(A.aaR(A.acf.KM));this.C$.Ga(1000);
 this.C$.EV(99000);this.C$.Ahv(A._GetAutoObject(A.Device.Helper).Abr(this.AnimalType.
-Q));this.BZ.H(Ata);this.BZ.Aj(true);this.BZ.T(A.aaR(A.acf.Aft));this.Ay.H(It);this.
-Jh.B2=false;this.Jh.Cx=true;this.Jh.HO(1);this.Jh.Fr(1000);this.Jh.Ut(0);this.YJ.
+Q));this.B0.H(Ata);this.B0.Aj(true);this.B0.T(A.aaR(A.acf.Aft));this.Ay.H(It);this.
+Jh.B3=false;this.Jh.Cx=true;this.Jh.HO(1);this.Jh.Fr(1000);this.Jh.Ut(0);this.YJ.
 H(Aah);this.YJ.Aj(true);this.YJ.ArN(A.jb.Text);this.Amk.PV(3000);this.J(this.DY,
 0);this.J(this.Y,0);this.J(this.Ef,0);this.J(this.Cn,0);this.J(this.CH,0);this.J(
-this.Db,0);this.J(this.Gn,0);this.J(this.Ee,0);this.J(this.C$,0);this.J(this.BZ,
+this.Db,0);this.J(this.Gn,0);this.J(this.Ee,0);this.J(this.C$,0);this.J(this.B0,
 0);this.J(this.Ay,0);this.J(this.YJ,0);this.N.CE=[this,this.Ew];this.N.Cf=[this,
 this.Adw];this.N.C2(A.aaL(A.ach.E2));this.N.Cw(A.aaL(A.ach.AeD));this.Y.Em=[this
 ,this.Fk];this.Ef.Gs([this,this.D_,this.GS]);this.Ef.Au([B=A._GetAutoObject(A.Device.
@@ -9837,32 +9838,32 @@ Breed,B.B$,B.Cb]);this.CH.CK(this.Breed);this.CH.Any(this.Pp);this.Db.Au([B=this
 Gender,B.B$,B.Cb]);this.Db.CK(this.Gender);this.Gn.Gs([this,this.D_,this.GS]);this.
 Gn.L1([B=this.Gn,B.FV]);this.Gn.L4(A.aaL(A.ach.Edit));this.Gn.Au([B=this.Jj,B.B$
 ,B.Cb]);this.Gn.CK(this.Jj);this.Gn.Any(this.K0);this.Ee.Au([this,this.Anr,this.
-Ahs]);this.C$.Au([this,this.Awd,this.AeY]);this.BZ.Au([B=this.AnimalType,B.B$,B.
-Cb]);this.BZ.CK(this.AnimalType);this.Ay.BnN([this,this.A3Q]);this.Breed.L2(A._GetAutoObject(
+Ahs]);this.C$.Au([this,this.Awd,this.AeY]);this.B0.Au([B=this.AnimalType,B.B$,B.
+Cb]);this.B0.CK(this.AnimalType);this.Ay.BnN([this,this.A3Q]);this.Breed.L2(A._GetAutoObject(
 A.Device.Helper).W);this.Jj.L2(A._GetAutoObject(A.Device.Helper).W);this.AnimalType.
 L2(A._GetAutoObject(A.Device.Helper).W);this.Gender.L2(A._GetAutoObject(A.Device.
 Helper).W);this.Ge=A._NewObject(A.Device.Animal,0);this.MU=A._GetAutoObject(C.Ams
 );this.Jh.Q=[B=A._GetAutoObject(A.Device.Device),B.AS0,B.A0G];this.Amk.ME=[this,
 this.ALv];this.Init(aArg);},_Done:function(){this.__proto__=C.AB;this.DY._Done();
 this.Y._Done();this.Ef._Done();this.Cn._Done();this.CH._Done();this.Db._Done();this.
-Gn._Done();this.Ee._Done();this.C$._Done();this.BZ._Done();this.Ay._Done();this.
+Gn._Done();this.Ee._Done();this.C$._Done();this.B0._Done();this.Ay._Done();this.
 Breed._Done();this.Jj._Done();this.AnimalType._Done();this.Gender._Done();this.Pp.
 _Done();this.K0._Done();this.Jh._Done();this.YJ._Done();this.Amk._Done();C.AB._Done.
 call(this);},_ReInit:function(){C.AB._ReInit.call(this);this.DY._ReInit();this.Y.
 _ReInit();this.Ef._ReInit();this.Cn._ReInit();this.CH._ReInit();this.Db._ReInit(
-);this.Gn._ReInit();this.Ee._ReInit();this.C$._ReInit();this.BZ._ReInit();this.Ay.
+);this.Gn._ReInit();this.Ee._ReInit();this.C$._ReInit();this.B0._ReInit();this.Ay.
 _ReInit();this.Breed._ReInit();this.Jj._ReInit();this.AnimalType._ReInit();this.
 Gender._ReInit();this.Pp._ReInit();this.K0._ReInit();this.Jh._ReInit();this.YJ._ReInit(
 );this.Amk._ReInit();this.Ef.T(A.aaR(A.acf.ACL));this.Cn.T(A.aaR(A.acf.Aeg));this.
 CH.T(A.aaR(A.acf.Breed));this.Db.T(A.aaR(A.acf.Afo));this.Gn.T(A.aaR(A.acf.Jj));
-this.Ee.T(A.aaR(A.acf.M8));this.C$.T(A.aaR(A.acf.KM));this.BZ.T(A.aaR(A.acf.Aft)
+this.Ee.T(A.aaR(A.acf.M8));this.C$.T(A.aaR(A.acf.KM));this.B0.T(A.aaR(A.acf.Aft)
 );},_Mark:function(D){var B;C.AB._Mark.call(this,D);if((B=this.Ge)&&(B._cycle!=D
 ))B._Mark(B._cycle=D);if((B=this.MU)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.
 DY)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Y)._cycle!=D)B._Mark(B._cycle=D);if((
 B=this.Ef)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Cn)._cycle!=D)B._Mark(B._cycle=
 D);if((B=this.CH)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Db)._cycle!=D)B._Mark(
 B._cycle=D);if((B=this.Gn)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Ee)._cycle!=
-D)B._Mark(B._cycle=D);if((B=this.C$)._cycle!=D)B._Mark(B._cycle=D);if((B=this.BZ
+D)B._Mark(B._cycle=D);if((B=this.C$)._cycle!=D)B._Mark(B._cycle=D);if((B=this.B0
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.Ay)._cycle!=D)B._Mark(B._cycle=D);if((
 B=this.Breed)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Jj)._cycle!=D)B._Mark(B._cycle=
 D);if((B=this.AnimalType)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Gender)._cycle
@@ -9881,8 +9882,8 @@ _ReInit.call(this);this.Zk._ReInit();this.N.CR(A.aaR(A.acf.A6y));this.Zk.R(A.aaR
 A.acf.A$R));this.Zk.S(A.aaL(A.fl.Af));},_Mark:function(D){var B;C.SetTransponderScreen.
 _Mark.call(this,D);if((B=this.Zk)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::SetTransponderCancableScreen"
 };C.ADY={Cu:null,FO:function(E){if(this.M_===E)return;C.HL.FO.call(this,E);this.
-Cu.CU(E);},Ys:function(HA){var B5=null;switch(HA){case-1:case 0:B5=this.F0;break;
-case 1:B5=this.Cu;break;case 2:B5=this.G2;break;default:A.ab5("%s",Ah4);}return B5;
+Cu.CU(E);},Ys:function(HA){var B6=null;switch(HA){case-1:case 0:B6=this.F0;break;
+case 1:B6=this.Cu;break;case 2:B6=this.G2;break;default:A.ab5("%s",Ah4);}return B6;
 },_Init:function(aArg){C.HL._Init.call(this,aArg);C.DF._Init.call(this.Cu={I:this
 },0);this.__proto__=C.ADY;this.H(Bud);this.Cu.H(BaC);this.F0.H(Bue);this.J(this.
 Cu,-2);this.Cu.Dk=[this,this.GX];},_Done:function(){this.__proto__=C.HL;this.Cu.
@@ -9909,8 +9910,8 @@ _className:"Application::SettingsItemGroupNumbered3"};C.Acs={ScreenTypeToString:
 null,Du:function(){return 4;},Gl:function(aIndex){if((aIndex<0)||(aIndex>=96))return A.
 jV;return this.ScreenTypeToString.BS(this.C7(aIndex));},_Init:function(aArg){C.Cm.
 _Init.call(this,aArg);A.Device.ScreenTypeToString._Init.call(this.ScreenTypeToString={
-I:this},0);this.__proto__=C.Acs;this.B7.Set(0,3);this.B7.Set(1,35);this.B7.Set(2
-,34);this.B7.Set(3,43);},_Done:function(){this.__proto__=C.Cm;this.ScreenTypeToString.
+I:this},0);this.__proto__=C.Acs;this.BX.Set(0,3);this.BX.Set(1,35);this.BX.Set(2
+,34);this.BX.Set(3,43);},_Done:function(){this.__proto__=C.Cm;this.ScreenTypeToString.
 _Done();C.Cm._Done.call(this);},_ReInit:function(){C.Cm._ReInit.call(this);this.
 ScreenTypeToString._ReInit();},_Mark:function(D){var B;C.Cm._Mark.call(this,D);if((
 B=this.ScreenTypeToString)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::StartScreenType"
@@ -9964,8 +9965,8 @@ aArg);},_Mark:function(D){var B;A.Core.P._Mark.call(this,D);if((B=this.St)&&(B._
 !=D))B._Mark(B._cycle=D);if((B=this.Q)&&((B=B[0])._cycle!=D))B._Mark(B._cycle=D);
 },_className:"Application::InputNumberVariable_32"};C.ARg={CW:null,Cu:null,FO:function(
 E){if(this.M_===E)return;C.HL.FO.call(this,E);this.Cu.CU(E);this.CW.CU(E);},Ys:function(
-HA){var B5=null;switch(HA){case-1:case 0:B5=this.F0;break;case 1:B5=this.Cu;break;
-case 2:B5=this.CW;break;case 3:B5=this.G2;break;default:A.ab5("%s",Ah4);}return B5;
+HA){var B6=null;switch(HA){case-1:case 0:B6=this.F0;break;case 1:B6=this.Cu;break;
+case 2:B6=this.CW;break;case 3:B6=this.G2;break;default:A.ab5("%s",Ah4);}return B6;
 },_Init:function(aArg){C.HL._Init.call(this,aArg);C.DF._Init.call(this.CW={I:this
 },0);C.DF._Init.call(this.Cu={I:this},0);this.__proto__=C.ARg;this.H(Bui);this.G2.
 H(Alk);this.CW.H(BaD);this.Cu.H(BaE);this.F0.H(BaF);this.J(this.CW,-2);this.J(this.
@@ -9996,18 +9997,18 @@ A.Core.P;this.Y1._Done();this.Ua._Done();A.Core.P._Done.call(this);},_ReInit:fun
 ){A.Core.P._ReInit.call(this);this.Y1._ReInit();this.Ua._ReInit();},_Mark:function(
 D){var B;A.Core.P._Mark.call(this,D);if((B=this.Y1)._cycle!=D)B._Mark(B._cycle=D
 );if((B=this.Ua)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::MenuTreeElement"
-};C.AUy={Sy:null,PE:null,Db:null,BZ:null,CH:null,GQ:null,AnimalType:null,WeightRecordingScope:
+};C.AUy={Sy:null,PE:null,Db:null,B0:null,CH:null,GQ:null,AnimalType:null,WeightRecordingScope:
 null,Gender:null,Breed:null,Pp:null,UU:null,K0:null,Init:function(aArg){A.zX([this
-,this.AuS],this.BZ.Q,0);A.zX([this,this.AM8],this.CH.Q,0);A.zX([this,this.Brg],this.
+,this.AuS],this.B0.Q,0);A.zX([this,this.AM8],this.CH.Q,0);A.zX([this,this.Brg],this.
 Sy.Q,0);A.zX([this,this.Avv],this.Db.Q,0);A.zX([this,this.AV7],this.GQ.Q,0);},AuS:
-function(G){var F;A._GetAutoObject(A.Device.Device).EC((F=this.BZ.Q,F[1].call(F[
+function(G){var F;A._GetAutoObject(A.Device.Device).EC((F=this.B0.Q,F[1].call(F[
 0])));},Brg:function(G){var F;A._GetAutoObject(A.Device.Device).Axj((F=this.Sy.Q
 ,F[1].call(F[0])));},Avv:function(G){var F;A._GetAutoObject(A.Device.Device).JX((
 F=this.Db.Q,F[1].call(F[0])));},AV7:function(G){var F;A._GetAutoObject(A.Device.
 Device).Nm((F=this.GQ.Q,F[1].call(F[0])));},AM8:function(G){var F;A._GetAutoObject(
 A.Device.Device).N3((F=this.CH.Q,F[1].call(F[0])));},_Init:function(aArg){C.Cg._Init.
 call(this,aArg);C.BW._Init.call(this.Sy={I:this},0);C.Ir._Init.call(this.PE={I:this
-},0);C.BW._Init.call(this.Db={I:this},0);C.BW._Init.call(this.BZ={I:this},0);C.AxC.
+},0);C.BW._Init.call(this.Db={I:this},0);C.BW._Init.call(this.B0={I:this},0);C.AxC.
 _Init.call(this.CH={I:this},0);C.AsC._Init.call(this.GQ={I:this},0);C.AnimalType.
 _Init.call(this.AnimalType={I:this},0);C.WeightRecordingScope._Init.call(this.WeightRecordingScope={
 I:this},0);C.Gender._Init.call(this.Gender={I:this},0);C.Breed._Init.call(this.Breed={
@@ -10017,36 +10018,36 @@ Jc((A.aaR(A.acf.Asp)+Ayz)+A.aaR(A.acf.AjH));this.Sy.H(Ah3);this.Sy.Aj(true);this
 Sy.T(A.aaR(A.acf.Bat));this.Sy.Bi(true);this.Sy.Bx(0);this.PE.H(Ayp);this.PE.Aj(
 true);this.PE.Z(true);this.PE.T(A.aaR(A.acf.AdT));this.PE.Ga(0);this.PE.EV(99);this.
 PE.IR(A.aaR(A.acf.Ko));this.PE.Jd(A.aaR(A.acf.GL));this.Db.H(Aah);this.Db.Aj(true
-);this.Db.T(A.aaR(A.acf.Afo));this.Db.Bi(true);this.Db.Bx(0);this.BZ.H(Ali);this.
-BZ.Aj(true);this.BZ.T(A.aaR(A.acf.Aft));this.BZ.Bi(true);this.BZ.Bx(0);this.CH.H(
+);this.Db.T(A.aaR(A.acf.Afo));this.Db.Bi(true);this.Db.Bx(0);this.B0.H(Ali);this.
+B0.Aj(true);this.B0.T(A.aaR(A.acf.Aft));this.B0.Bi(true);this.B0.Bx(0);this.CH.H(
 AcQ);this.CH.Aj(true);this.CH.T(A.aaR(A.acf.Breed));this.CH.Bi(false);this.GQ.H(
 AcQ);this.GQ.Aj(true);this.GQ.T(A.aaR(A.acf.Jj));this.GQ.Bi(true);this.AnimalType.
 Au(A._GetAutoObject(A.Device.Device).AnimalType);this.WeightRecordingScope.Au(A.
 _GetAutoObject(A.Device.Device).WeightRecordingScope);this.Gender.Au(A._GetAutoObject(
 A.Device.Device).Gender);this.Breed.Au(A._GetAutoObject(A.Device.Device).Breed);
 this.UU.Au(A._GetAutoObject(A.Device.Device).WhereAbouts);this.J(this.Sy,0);this.
-J(this.PE,0);this.J(this.Db,0);this.J(this.BZ,0);this.J(this.CH,0);this.J(this.GQ
+J(this.PE,0);this.J(this.Db,0);this.J(this.B0,0);this.J(this.CH,0);this.J(this.GQ
 ,0);this.Sy.Au([B=this.WeightRecordingScope,B.B$,B.Cb]);this.Sy.CK(this.WeightRecordingScope
 );this.PE.Au([B=A._GetAutoObject(A.Device.Device),B.A8G,B.Bbm]);this.Db.Au([B=this.
-Gender,B.B$,B.Cb]);this.Db.CK(this.Gender);this.BZ.Au([B=this.AnimalType,B.B$,B.
-Cb]);this.BZ.CK(this.AnimalType);this.CH.Gs([this,this.D_,this.GS]);this.CH.L1([
+Gender,B.B$,B.Cb]);this.Db.CK(this.Gender);this.B0.Au([B=this.AnimalType,B.B$,B.
+Cb]);this.B0.CK(this.AnimalType);this.CH.Gs([this,this.D_,this.GS]);this.CH.L1([
 B=this.CH,B.FV]);this.CH.L4(A.aaL(A.ach.Edit));this.CH.Au([B=this.Breed,B.B$,B.Cb
 ]);this.CH.CK(this.Breed);this.CH.Any(this.Pp);this.GQ.Gs([this,this.D_,this.GS]
 );this.GQ.L1([B=this.GQ,B.FV]);this.GQ.L4(A.aaL(A.ach.Edit));this.GQ.Au([B=this.
 UU,B.B$,B.Cb]);this.GQ.CK(this.UU);this.GQ.Any(this.K0);this.Init(aArg);},_Done:
 function(){this.__proto__=C.Cg;this.Sy._Done();this.PE._Done();this.Db._Done();this.
-BZ._Done();this.CH._Done();this.GQ._Done();this.AnimalType._Done();this.WeightRecordingScope.
+B0._Done();this.CH._Done();this.GQ._Done();this.AnimalType._Done();this.WeightRecordingScope.
 _Done();this.Gender._Done();this.Breed._Done();this.Pp._Done();this.UU._Done();this.
 K0._Done();C.Cg._Done.call(this);},_ReInit:function(){C.Cg._ReInit.call(this);this.
-Sy._ReInit();this.PE._ReInit();this.Db._ReInit();this.BZ._ReInit();this.CH._ReInit(
+Sy._ReInit();this.PE._ReInit();this.Db._ReInit();this.B0._ReInit();this.CH._ReInit(
 );this.GQ._ReInit();this.AnimalType._ReInit();this.WeightRecordingScope._ReInit(
 );this.Gender._ReInit();this.Breed._ReInit();this.Pp._ReInit();this.UU._ReInit();
 this.K0._ReInit();this.Jc((A.aaR(A.acf.Asp)+Ayz)+A.aaR(A.acf.AjH));this.Sy.T(A.aaR(
 A.acf.Bat));this.PE.T(A.aaR(A.acf.AdT));this.PE.IR(A.aaR(A.acf.Ko));this.PE.Jd(A.
-aaR(A.acf.GL));this.Db.T(A.aaR(A.acf.Afo));this.BZ.T(A.aaR(A.acf.Aft));this.CH.T(
+aaR(A.acf.GL));this.Db.T(A.aaR(A.acf.Afo));this.B0.T(A.aaR(A.acf.Aft));this.CH.T(
 A.aaR(A.acf.Breed));this.GQ.T(A.aaR(A.acf.Jj));},_Mark:function(D){var B;C.Cg._Mark.
 call(this,D);if((B=this.Sy)._cycle!=D)B._Mark(B._cycle=D);if((B=this.PE)._cycle!=
-D)B._Mark(B._cycle=D);if((B=this.Db)._cycle!=D)B._Mark(B._cycle=D);if((B=this.BZ
+D)B._Mark(B._cycle=D);if((B=this.Db)._cycle!=D)B._Mark(B._cycle=D);if((B=this.B0
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.CH)._cycle!=D)B._Mark(B._cycle=D);if((
 B=this.GQ)._cycle!=D)B._Mark(B._cycle=D);if((B=this.AnimalType)._cycle!=D)B._Mark(
 B._cycle=D);if((B=this.WeightRecordingScope)._cycle!=D)B._Mark(B._cycle=D);if((B=
@@ -10158,13 +10159,13 @@ BS(this.C7(aIndex));},Au:function(E){C.Cm.Au.call(this,E);A._GetAutoObject(A.Dev
 Device).Axf(E);},Bg1:function(G){this.Q=A._GetAutoObject(A.Device.Device).Ak5;A.
 abo([this,this.B$,this.Cb],0);},_Init:function(aArg){C.Cm._Init.call(this,aArg);
 A.Device.TransponderLinkageIdChangeMethodToString._Init.call(this.TransponderLinkageIdChangeMethodToString={
-I:this},0);this.__proto__=C.Afs;this.B7.Set(0,0);this.B7.Set(1,1);this.B7.Set(2,
+I:this},0);this.__proto__=C.Afs;this.BX.Set(0,0);this.BX.Set(1,1);this.BX.Set(2,
 2);this.Init(aArg);},_Done:function(){this.__proto__=C.Cm;this.TransponderLinkageIdChangeMethodToString.
 _Done();C.Cm._Done.call(this);},_ReInit:function(){C.Cm._ReInit.call(this);this.
 TransponderLinkageIdChangeMethodToString._ReInit();},_Mark:function(D){var B;C.Cm.
 _Mark.call(this,D);if((B=this.TransponderLinkageIdChangeMethodToString)._cycle!=
 D)B._Mark(B._cycle=D);},_className:"Application::TransponderAssignmentIdChangeMode"
-};C.Jf={B6:null,IY:null,Cq:null,AmA:null,Sh:null,Anl:null,AjE:null,Text:null,CY:
+};C.Jf={B7:null,IY:null,Cq:null,AmA:null,Sh:null,Anl:null,AjE:null,Text:null,CY:
 null,D6:0,LC:false,Ai:function(Ae){var B;A.acn.Jf.Ai.call(this,Ae);if(((Ae&0x40)===
 0x40))this.IY.Ar(true);else{this.IY.Ar(false);this.CY.Z(false);}},A4T:function(G
 ){var B;var Bd=this.Text.M;var NA=0;var NB=0;if(this.CY.Et[0]<Bd[0])NA=Bd[0]-this.
@@ -10173,16 +10174,16 @@ Bd[1]-this.CY.Et[1];if(this.CY.ED[1]>Bd[3])NB=Bd[3]-this.CY.ED[1];if(!!NA||!!NB)
 this.Text.Gb(A.abf(this.Text.Br,[NA,NB]));NA=this.Text.Br[0];NB=this.Text.Br[1];
 var C6=[(B=this.Text.Dd())[2]-B[0],B[3]-B[1]];if(C6[0]<=((B=this.Text.M)[2]-B[0]
 ))NA=0;if(C6[1]<=((B=this.Text.M)[3]-B[1]))NB=0;this.Text.Gb([NA,NB]);},Amn:function(
-G){if(!this.B6)return;var A4j=this.Text.AG0(this.D6);var pos=this.Text.Afh(A4j);
-this.CY.DM(A.abe(pos,[0,this.B6.Ascent]));this.CY.DC(A.abf(pos,[0,this.B6.Descent
+G){if(!this.B7)return;var A4j=this.Text.AG0(this.D6);var pos=this.Text.Afh(A4j);
+this.CY.DM(A.abe(pos,[0,this.B7.Ascent]));this.CY.DC(A.abf(pos,[0,this.B7.Descent
 ]));if(this.IY.Bw){this.IY.Ar(false);this.IY.Ar(true);}if(this.LC){A.pe([this,this.
-A4T],this);this.LC=false;}},AAD:function(G){if(!this.B6)return;var EH=this.Text.
+A4T],this);this.LC=false;}},AAD:function(G){if(!this.B7)return;var EH=this.Text.
 AG0(this.D6);if(this.Cq.CO===6){EH=[EH[0]-1,EH[1]];if(this.Text.AnS(EH)===this.D6
 ){EH=[EH[0],EH[1]-1];EH=[this.Text.ADa(EH[1]).length,EH[1]];}}if(this.Cq.CO===7){
 EH=[EH[0]+1,EH[1]];if(this.Text.AnS(EH)===this.D6){EH=[EH[0],EH[1]+1];EH=[0,EH[1
-]];}}if(this.Cq.CO===4){var pos=this.Text.Afh(EH);var AaN=(this.B6.Ascent+this.B6.
-Descent)+this.B6.Leading;EH=this.Text.AT$(A.abe(pos,[0,AaN]));}if(this.Cq.CO===5
-){var pos=this.Text.Afh(EH);var AaN=(this.B6.Ascent+this.B6.Descent)+this.B6.Leading;
+]];}}if(this.Cq.CO===4){var pos=this.Text.Afh(EH);var AaN=(this.B7.Ascent+this.B7.
+Descent)+this.B7.Leading;EH=this.Text.AT$(A.abe(pos,[0,AaN]));}if(this.Cq.CO===5
+){var pos=this.Text.Afh(EH);var AaN=(this.B7.Ascent+this.B7.Descent)+this.B7.Leading;
 EH=this.Text.AT$(A.abf(pos,[0,AaN]));}var Vi=this.Text.AnS(EH);var Iy=this.Text.
 String.charCodeAt(Vi)||0;if(((Iy===0x5E)||(Iy===0x7E))||(Iy===0x25))Vi=Vi-1;if(Vi
 !==this.D6){this.D6=Vi;A.pe([this,this.Amn],this);this.LC=true;}},Be7:function(G
@@ -10200,7 +10201,7 @@ D6=this.D6+Aut.length;this.LC=true;},_Init:function(aArg){A.acn.Jf._Init.call(th
 },0);A.Core.BK._Init.call(this.AmA={I:this},0);A.Core.BK._Init.call(this.Sh={I:this
 },0);A.Core.BK._Init.call(this.Anl={I:this},0);A.Core.BK._Init.call(this.AjE={I:
 this},0);A.acg.Text._Init.call(this.Text={I:this},0);A.acg.C8._Init.call(this.CY={
-I:this},0);this.__proto__=C.Jf;var B;this.H(Bur);this.IY.B2=false;this.IY.Cx=true;
+I:this},0);this.__proto__=C.Jf;var B;this.H(Bur);this.IY.B3=false;this.IY.Cx=true;
 this.IY.Fr(500);this.IY.Ut(500);this.Cq.Filter=147;this.Cq.Bw=false;this.AmA.Filter=
 151;this.Sh.Filter=44;this.Anl.Filter=149;this.AjE.Filter=145;this.Text.A0(0x3F);
 this.Text.H(Bus);this.Text.KU(true);this.Text.A6(0x11);this.Text.R(A.jV);this.Text.
@@ -10210,13 +10211,13 @@ Q=[B=this.CY,B.Fq,B.Z];this.Cq.BL=[this,this.AAD];this.Cq.D1=[this,this.AAD];thi
 AmA.BL=[this,this.Be7];this.AmA.D1=[this,this.Be7];this.Sh.BL=[this,this.AAE];this.
 Sh.D1=[this,this.AAE];this.Anl.BL=[this,this.Bfj];this.Anl.D1=[this,this.Bfj];this.
 AjE.BL=[this,this.Be9];this.AjE.D1=[this,this.Be9];this.Text.Q7([this,this.Amn]);
-this.Text.S(A.aaL(A.aci.ACY));this.B6=A.aaL(A.aci.ACY);},_Done:function(){this.__proto__=
+this.Text.S(A.aaL(A.aci.ACY));this.B7=A.aaL(A.aci.ACY);},_Done:function(){this.__proto__=
 A.acn.Jf;this.IY._Done();this.Cq._Done();this.AmA._Done();this.Sh._Done();this.Anl.
 _Done();this.AjE._Done();this.Text._Done();this.CY._Done();A.acn.Jf._Done.call(this
 );},_ReInit:function(){A.acn.Jf._ReInit.call(this);this.IY._ReInit();this.Cq._ReInit(
 );this.AmA._ReInit();this.Sh._ReInit();this.Anl._ReInit();this.AjE._ReInit();this.
 Text._ReInit();this.CY._ReInit();},_Mark:function(D){var B;A.acn.Jf._Mark.call(this
-,D);if((B=this.B6)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.IY)._cycle!=D)B.
+,D);if((B=this.B7)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.IY)._cycle!=D)B.
 _Mark(B._cycle=D);if((B=this.Cq)._cycle!=D)B._Mark(B._cycle=D);if((B=this.AmA)._cycle
 !=D)B._Mark(B._cycle=D);if((B=this.Sh)._cycle!=D)B._Mark(B._cycle=D);if((B=this.
 Anl)._cycle!=D)B._Mark(B._cycle=D);if((B=this.AjE)._cycle!=D)B._Mark(B._cycle=D);
@@ -10489,50 +10490,50 @@ JS.T(A.aaR(A.acf.A6n));this.CP();},_Mark:function(D){var B;C.Fs._Mark.call(this,
 D);if((B=this.AnimalTableFields)&&(B._cycle!=D))B._Mark(B._cycle=D);if((B=this.Ay
 )._cycle!=D)B._Mark(B._cycle=D);if((B=this.Y)._cycle!=D)B._Mark(B._cycle=D);if((
 B=this.JS)._cycle!=D)B._Mark(B._cycle=D);},_className:"Application::MassRecordingFieldSettingsMenu"
-};C.ARU={Y:null,BZ:null,Db:null,CH:null,GQ:null,Ay:null,AnimalType:null,Gender:null
-,Breed:null,UT:null,Init:function(aArg){A.zX([this,this.AuS],this.BZ.Q,0);A.zX([
+};C.ARU={Y:null,B0:null,Db:null,CH:null,GQ:null,Ay:null,AnimalType:null,Gender:null
+,Breed:null,UT:null,Init:function(aArg){A.zX([this,this.AuS],this.B0.Q,0);A.zX([
 this,this.AM8],this.CH.Q,0);A.zX([this,this.AV7],this.GQ.Q,0);A.zX([this,this.Avv
-],this.Db.Q,0);this.Bb(this.BZ);},DE:function(G){C.Fs.DE.call(this,G);this.MT(this
+],this.Db.Q,0);this.Bb(this.B0);},DE:function(G){C.Fs.DE.call(this,G);this.MT(this
 );},Lp:function(){if(!this.BP){this.BP=A._NewObject(C.N,0);this.BP.CE=[this,this.
 AaH];this.BP.Cf=null;this.BP.Ca=null;this.BP.CR(A.jV);this.BP.Cw(null);this.BP.C2(
 A.aaL(A.ach.YA));}return this.BP;},Fk:function(G){var B;this.Ay.MB((B=this.Y.Dd(
 0x1))[3]-B[1]);this.Ay.MD((B=this.Y.M)[3]-B[1]);this.Ay.MC(-this.Y.Br[1]);},MT:function(
 G){var B;this.Y.Vz(null,null);if(!!this.AV&&((this.AV.U&0x400)===0x400))this.Y.HI(
 this.AV,true,null,null);},AuS:function(G){var F;A._GetAutoObject(A.Device.Device
-).EC((F=this.BZ.Q,F[1].call(F[0])));},AV7:function(G){var F;A._GetAutoObject(A.Device.
+).EC((F=this.B0.Q,F[1].call(F[0])));},AV7:function(G){var F;A._GetAutoObject(A.Device.
 Device).Nm((F=this.GQ.Q,F[1].call(F[0])));},Avv:function(G){var F;A._GetAutoObject(
 A.Device.Device).JX((F=this.Db.Q,F[1].call(F[0])));},AM8:function(G){var F;A._GetAutoObject(
 A.Device.Device).N3((F=this.CH.Q,F[1].call(F[0])));},_Init:function(aArg){C.Fs._Init.
-call(this,aArg);A.Core.Y._Init.call(this.Y={I:this},0);C.AaU._Init.call(this.BZ={
+call(this,aArg);A.Core.Y._Init.call(this.Y={I:this},0);C.AaU._Init.call(this.B0={
 I:this},0);C.AaU._Init.call(this.Db={I:this},0);C.AaU._Init.call(this.CH={I:this
 },0);C.AaU._Init.call(this.GQ={I:this},0);C.Ay._Init.call(this.Ay={I:this},0);C.
 AnimalType._Init.call(this.AnimalType={I:this},0);C.Gender._Init.call(this.Gender={
 I:this},0);C.Breed._Init.call(this.Breed={I:this},0);C.UU._Init.call(this.UT={I:
 this},0);this.__proto__=C.ARU;var B;this.H(Qc);this.Text.R(A.aaR(A.acf.AjH));this.
-Y.H(Ba2);this.Y.JW(1);this.BZ.H(Ah1);this.BZ.Ar(true);this.BZ.Aj(true);this.BZ.T(
+Y.H(Ba2);this.Y.JW(1);this.B0.H(Ah1);this.B0.Ar(true);this.B0.Aj(true);this.B0.T(
 A.aaR(A.acf.Aft));this.Db.H(Ayp);this.Db.Ar(true);this.Db.Aj(true);this.Db.T(A.aaR(
 A.acf.Afo));this.CH.H(Aoo);this.CH.Ar(true);this.CH.Aj(true);this.CH.T(A.aaR(A.acf.
 Breed));this.GQ.H(Atb);this.GQ.Ar(true);this.GQ.Aj(true);this.GQ.T(A.aaR(A.acf.Jj
 ));this.Ay.H(It);this.AnimalType.Au(A._GetAutoObject(A.Device.Device).AnimalType
 );this.Gender.Au(A._GetAutoObject(A.Device.Device).Gender);this.Breed.Au(A._GetAutoObject(
 A.Device.Device).Breed);this.UT.Au(A._GetAutoObject(A.Device.Device).WhereAbouts
-);this.J(this.Y,0);this.J(this.BZ,0);this.J(this.Db,0);this.J(this.CH,0);this.J(
-this.GQ,0);this.J(this.Ay,0);this.Y.Em=[this,this.Fk];this.BZ.Zu(A.aaL(A.fl.H2));
-this.BZ.Zv(A.aaL(A.fl.H2));this.BZ.Au([B=this.AnimalType,B.B$,B.Cb]);this.BZ.CK(
+);this.J(this.Y,0);this.J(this.B0,0);this.J(this.Db,0);this.J(this.CH,0);this.J(
+this.GQ,0);this.J(this.Ay,0);this.Y.Em=[this,this.Fk];this.B0.Zu(A.aaL(A.fl.H2));
+this.B0.Zv(A.aaL(A.fl.H2));this.B0.Au([B=this.AnimalType,B.B$,B.Cb]);this.B0.CK(
 this.AnimalType);this.Db.Zu(A.aaL(A.fl.H2));this.Db.Zv(A.aaL(A.fl.H2));this.Db.Au([
 B=this.Gender,B.B$,B.Cb]);this.Db.CK(this.Gender);this.CH.Zu(A.aaL(A.fl.H2));this.
 CH.Zv(A.aaL(A.fl.H2));this.CH.Au([B=this.Breed,B.B$,B.Cb]);this.CH.CK(this.Breed
 );this.GQ.Zu(A.aaL(A.fl.H2));this.GQ.Zv(A.aaL(A.fl.H2));this.GQ.Au([B=this.UT,B.
 B$,B.Cb]);this.GQ.CK(this.UT);this.Init(aArg);},_Done:function(){this.__proto__=
-C.Fs;this.Y._Done();this.BZ._Done();this.Db._Done();this.CH._Done();this.GQ._Done(
+C.Fs;this.Y._Done();this.B0._Done();this.Db._Done();this.CH._Done();this.GQ._Done(
 );this.Ay._Done();this.AnimalType._Done();this.Gender._Done();this.Breed._Done();
 this.UT._Done();C.Fs._Done.call(this);},_ReInit:function(){C.Fs._ReInit.call(this
-);this.Y._ReInit();this.BZ._ReInit();this.Db._ReInit();this.CH._ReInit();this.GQ.
+);this.Y._ReInit();this.B0._ReInit();this.Db._ReInit();this.CH._ReInit();this.GQ.
 _ReInit();this.Ay._ReInit();this.AnimalType._ReInit();this.Gender._ReInit();this.
-Breed._ReInit();this.UT._ReInit();this.Text.R(A.aaR(A.acf.AjH));this.BZ.T(A.aaR(
+Breed._ReInit();this.UT._ReInit();this.Text.R(A.aaR(A.acf.AjH));this.B0.T(A.aaR(
 A.acf.Aft));this.Db.T(A.aaR(A.acf.Afo));this.CH.T(A.aaR(A.acf.Breed));this.GQ.T(
 A.aaR(A.acf.Jj));},_Mark:function(D){var B;C.Fs._Mark.call(this,D);if((B=this.Y).
-_cycle!=D)B._Mark(B._cycle=D);if((B=this.BZ)._cycle!=D)B._Mark(B._cycle=D);if((B=
+_cycle!=D)B._Mark(B._cycle=D);if((B=this.B0)._cycle!=D)B._Mark(B._cycle=D);if((B=
 this.Db)._cycle!=D)B._Mark(B._cycle=D);if((B=this.CH)._cycle!=D)B._Mark(B._cycle=
 D);if((B=this.GQ)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Ay)._cycle!=D)B._Mark(
 B._cycle=D);if((B=this.AnimalType)._cycle!=D)B._Mark(B._cycle=D);if((B=this.Gender
@@ -10617,7 +10618,7 @@ Au:function(E){C.Cm.Au.call(this,E);A._GetAutoObject(A.Device.Device).AwX(E);},B
 function(G){this.Q=A._GetAutoObject(A.Device.Device).OP;A.abo([this,this.B$,this.
 Cb],0);},_Init:function(aArg){C.Cm._Init.call(this,aArg);A.Device.WeightValuePrecisionToString.
 _Init.call(this.WeightValuePrecisionToString={I:this},0);this.__proto__=C.AHr;this.
-B7.Set(0,0);this.B7.Set(1,1);this.B7.Set(2,2);this.Init(aArg);},_Done:function(){
+BX.Set(0,0);this.BX.Set(1,1);this.BX.Set(2,2);this.Init(aArg);},_Done:function(){
 this.__proto__=C.Cm;this.WeightValuePrecisionToString._Done();C.Cm._Done.call(this
 );},_ReInit:function(){C.Cm._ReInit.call(this);this.WeightValuePrecisionToString.
 _ReInit();},_Mark:function(D){var B;C.Cm._Mark.call(this,D);if((B=this.WeightValuePrecisionToString
@@ -10638,8 +10639,8 @@ null,Du:function(){return 2;},Gl:function(aIndex){var F;if((aIndex<0)||(aIndex>=
 BS(this.C7(aIndex));if(!!this.ABP&&!A7)M2=A._GetAutoObject(A.Device.Helper).MI(M2
 ,O9,(F=this.ABP,F[1].call(F[0])).toFixed());return M2;},_Init:function(aArg){C.Cm.
 _Init.call(this,aArg);A.Device.MassDeregistrationCriterionToString._Init.call(this.
-MassDeregistrationCriterionToString={I:this},0);this.__proto__=C.Wm;this.B7.Set(
-0,0);this.B7.Set(1,1);},_Done:function(){this.__proto__=C.Cm;this.MassDeregistrationCriterionToString.
+MassDeregistrationCriterionToString={I:this},0);this.__proto__=C.Wm;this.BX.Set(
+0,0);this.BX.Set(1,1);},_Done:function(){this.__proto__=C.Cm;this.MassDeregistrationCriterionToString.
 _Done();C.Cm._Done.call(this);},_ReInit:function(){C.Cm._ReInit.call(this);this.
 MassDeregistrationCriterionToString._ReInit();},_Mark:function(D){var B;C.Cm._Mark.
 call(this,D);if((B=this.ABP)&&((B=B[0])._cycle!=D))B._Mark(B._cycle=D);if((B=this.
@@ -10895,7 +10896,7 @@ BS(this.C7(aIndex));},Au:function(E){C.Cm.Au.call(this,E);A._GetAutoObject(A.Dev
 Device).Axg(E);},Bg6:function(G){this.Q=A._GetAutoObject(A.Device.Device).An6;A.
 abo([this,this.B$,this.Cb],0);},_Init:function(aArg){C.Cm._Init.call(this,aArg);
 A.Device.TransponderLinkageIdChangeMethodToString._Init.call(this.TransponderLinkageIdChangeMethodToString={
-I:this},0);this.__proto__=C.AVE;this.B7.Set(0,0);this.B7.Set(1,3);this.Init(aArg
+I:this},0);this.__proto__=C.AVE;this.BX.Set(0,0);this.BX.Set(1,3);this.Init(aArg
 );},_Done:function(){this.__proto__=C.Cm;this.TransponderLinkageIdChangeMethodToString.
 _Done();C.Cm._Done.call(this);},_ReInit:function(){C.Cm._ReInit.call(this);this.
 TransponderLinkageIdChangeMethodToString._ReInit();},_Mark:function(D){var B;C.Cm.

@@ -121,40 +121,40 @@ E===this.WR)return;this.WR=E;this.Bj([0,0,(B=this.M)[2]-B[0],B[3]-B[1]]);},BnZ:f
 E){var B;if(E<0.01)E=0.01;if(E>1.1)E=1.1;if(E===this.AGC)return;this.AGC=E;this.
 Bj([0,0,(B=this.M)[2]-B[0],B[3]-B[1]]);},Bdp:function(CZ,aClip,aX,aY,aStartAngle
 ,Xk,Alo,A09,aColor,Ck,aBlend){var B;var JL;var JD;var Agl;var Agm;var Agn;var Ago;
-var BfV;var BfW;var Al7;var Al8;var LD;var B3=aColor;var Kj=(((Ck+1)*this.G9)>>8
-)+1;aBlend=aBlend&&((this.U&0x2)===0x2);if(Kj<256)B3=(B3&0x00FFFFFF)|((((((B3>>24
-)&0xFF)*Kj)>>8)&0xFF)<<24);if(!this.WR)return;var BY=this.WR.FrameSize[0];var BI=
+var BfV;var BfW;var Al7;var Al8;var LD;var B4=aColor;var Kj=(((Ck+1)*this.G9)>>8
+)+1;aBlend=aBlend&&((this.U&0x2)===0x2);if(Kj<256)B4=(B4&0x00FFFFFF)|((((((B4>>24
+)&0xFF)*Kj)>>8)&0xFF)<<24);if(!this.WR)return;var BZ=this.WR.FrameSize[0];var BI=
 this.WR.FrameSize[1];var I3=0;if(Xk>=360){aStartAngle=0;Xk=360;}if(A09>0){var Bdl=
 aStartAngle+(Xk/2);JL=Math.sin(Bdl*A.k$);JD=Math.cos(Bdl*A.k$);aX=aX+((A09*JL)|0
 );aY=aY-((A09*JD)|0);}while(aStartAngle>=90){aStartAngle=aStartAngle-90;I3=I3+90;
 }if(!this.Ags||!A.aaX(this.Ags.FrameSize,this.WR.FrameSize)){this.Ags=A._NewObject(
 A.Graphics.Canvas,0);this.Ags.ArS(this.WR.FrameSize);}if((aStartAngle>0)&&((aStartAngle+
-Xk)<90)){JL=Math.sin(Xk*A.k$);JD=Math.cos(Xk*A.k$);Agl=(-BY*JD)+(BI*JL);Agm=(-BI
-*JD)-(BY*JL);Agn=BI*JL;Ago=-BI*JD;Al7=-BY*JD;Al8=-BY*JL;this.Ags.Avo([0,0,BY,BI]
+Xk)<90)){JL=Math.sin(Xk*A.k$);JD=Math.cos(Xk*A.k$);Agl=(-BZ*JD)+(BI*JL);Agm=(-BI
+*JD)-(BZ*JL);Agn=BI*JL;Ago=-BI*JD;Al7=-BZ*JD;Al8=-BZ*JL;this.Ags.Avo([0,0,BZ,BI]
 ,[0,0,this.Ags.FrameSize[0],this.Ags.FrameSize[1]],0x00000000,0x00000000,0x00000000
-,0x00000000,false);this.Ags.AhV([0,0,BY,BI],this.WR,0,Agl,Agm+BI,1,Agn,Ago+BI,1,
-0,BI,1,Al7,Al8+BI,1,[0,0,BY,BI],B3,B3,B3,B3,true,true);JL=Math.sin((aStartAngle+
-I3)*A.k$)*Alo;JD=Math.cos((aStartAngle+I3)*A.k$)*Alo;Agl=BI*JL;Agm=-BI*JD;Agn=(BY
-*JD)+(BI*JL);Ago=(-BI*JD)+(BY*JL);BfV=BY*JD;BfW=BY*JL;CZ.AhV(aClip,this.Ags,0,Agl+
-aX,Agm+aY,1,Agn+aX,Ago+aY,1,BfV+aX,BfW+aY,1,aX,aY,1,[0,0,BY,BI],0xFFFFFFFF,0xFFFFFFFF
+,0x00000000,false);this.Ags.AhV([0,0,BZ,BI],this.WR,0,Agl,Agm+BI,1,Agn,Ago+BI,1,
+0,BI,1,Al7,Al8+BI,1,[0,0,BZ,BI],B4,B4,B4,B4,true,true);JL=Math.sin((aStartAngle+
+I3)*A.k$)*Alo;JD=Math.cos((aStartAngle+I3)*A.k$)*Alo;Agl=BI*JL;Agm=-BI*JD;Agn=(BZ
+*JD)+(BI*JL);Ago=(-BI*JD)+(BZ*JL);BfV=BZ*JD;BfW=BZ*JL;CZ.AhV(aClip,this.Ags,0,Agl+
+aX,Agm+aY,1,Agn+aX,Ago+aY,1,BfV+aX,BfW+aY,1,aX,aY,1,[0,0,BZ,BI],0xFFFFFFFF,0xFFFFFFFF
 ,0xFFFFFFFF,0xFFFFFFFF,aBlend,true);}else{if(aStartAngle>0){JL=Math.sin(((90+I3)+
-aStartAngle)*A.k$)*Alo;JD=Math.cos(((90+I3)+aStartAngle)*A.k$)*Alo;Agl=(-BY*JD)+(
-BI*JL);Agm=(-BI*JD)-(BY*JL);Agn=BI*JL;Ago=-BI*JD;Al7=-BY*JD;Al8=-BY*JL;if(!I3)LD=[
+aStartAngle)*A.k$)*Alo;JD=Math.cos(((90+I3)+aStartAngle)*A.k$)*Alo;Agl=(-BZ*JD)+(
+BI*JL);Agm=(-BI*JD)-(BZ*JL);Agn=BI*JL;Ago=-BI*JD;Al7=-BZ*JD;Al8=-BZ*JL;if(!I3)LD=[
 aX,-10000,10000,aY];else if(I3===90)LD=[aX,aY,10000,10000];else if(I3===180)LD=[-
 10000,aY,aX,10000];else LD=[-10000,-10000,aX,aY];CZ.AhV(A.lb(aClip,LD),this.WR,0
-,Agl+aX,Agm+aY,1,Agn+aX,Ago+aY,1,aX,aY,1,Al7+aX,Al8+aY,1,[0,0,BY,BI],B3,B3,B3,B3
+,Agl+aX,Agm+aY,1,Agn+aX,Ago+aY,1,aX,aY,1,Al7+aX,Al8+aY,1,[0,0,BZ,BI],B4,B4,B4,B4
 ,aBlend,true);I3=I3+90;if(I3>=360)I3=I3-360;Xk=Xk-(90-aStartAngle);}while(Xk>=90
-){JL=Math.sin((90+I3)*A.k$)*Alo;JD=Math.cos((90+I3)*A.k$)*Alo;Agl=(-BY*JD)+(BI*JL
-);Agm=(-BI*JD)-(BY*JL);Agn=BI*JL;Ago=-BI*JD;Al7=-BY*JD;Al8=-BY*JL;if(!I3)LD=[aX,-
+){JL=Math.sin((90+I3)*A.k$)*Alo;JD=Math.cos((90+I3)*A.k$)*Alo;Agl=(-BZ*JD)+(BI*JL
+);Agm=(-BI*JD)-(BZ*JL);Agn=BI*JL;Ago=-BI*JD;Al7=-BZ*JD;Al8=-BZ*JL;if(!I3)LD=[aX,-
 10000,10000,aY];else if(I3===90)LD=[aX,aY,10000,10000];else if(I3===180)LD=[-10000
 ,aY,aX,10000];else LD=[-10000,-10000,aX,aY];CZ.AhV(A.lb(aClip,LD),this.WR,0,Agl+
-aX,Agm+aY,1,Agn+aX,Ago+aY,1,aX,aY,1,Al7+aX,Al8+aY,1,[0,0,BY,BI],B3,B3,B3,B3,aBlend
+aX,Agm+aY,1,Agn+aX,Ago+aY,1,aX,aY,1,Al7+aX,Al8+aY,1,[0,0,BZ,BI],B4,B4,B4,B4,aBlend
 ,true);I3=I3+90;if(I3>=360)I3=I3-360;Xk=Xk-90;}JL=Math.sin((Xk+I3)*A.k$)*Alo;JD=
-Math.cos((Xk+I3)*A.k$)*Alo;Agl=(-BY*JD)+(BI*JL);Agm=(-BI*JD)-(BY*JL);Agn=BI*JL;Ago=-
-BI*JD;Al7=-BY*JD;Al8=-BY*JL;if(!I3)LD=[aX,-10000,10000,aY];else if(I3===90)LD=[aX
+Math.cos((Xk+I3)*A.k$)*Alo;Agl=(-BZ*JD)+(BI*JL);Agm=(-BI*JD)-(BZ*JL);Agn=BI*JL;Ago=-
+BI*JD;Al7=-BZ*JD;Al8=-BZ*JL;if(!I3)LD=[aX,-10000,10000,aY];else if(I3===90)LD=[aX
 ,aY,10000,10000];else if(I3===180)LD=[-10000,aY,aX,10000];else LD=[-10000,-10000
 ,aX,aY];CZ.AhV(A.lb(aClip,LD),this.WR,0,Agl+aX,Agm+aY,1,Agn+aX,Ago+aY,1,aX,aY,1,
-Al7+aX,Al8+aY,1,[0,0,BY,BI],B3,B3,B3,B3,aBlend,true);}},Ab8:function(E){var B;this.
+Al7+aX,Al8+aY,1,[0,0,BZ,BI],B4,B4,B4,B4,aBlend,true);}},Ab8:function(E){var B;this.
 N7=E;this.Am();this.Bj([0,0,(B=this.M)[2]-B[0],B[3]-B[1]]);},_Init:function(aArg
 ){A.Core.P._Init.call(this,aArg);this.__proto__=C.SM;this.H(IV);this.WR=A.aaL(C.
 AT5);},_Mark:function(D){var B;A.Core.P._Mark.call(this,D);if((B=this.WR)&&(B._cycle

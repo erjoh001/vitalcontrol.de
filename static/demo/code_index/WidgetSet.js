@@ -140,7 +140,7 @@ this.Aio;var ALg=0;if(!!this.Appearance)ALg=this.Appearance.AU9;if(this.BgC&&(th
 F$!==this.Gq)){this.Aio=-this.Gq/(this.F$-this.Gq);At8=this.Aio;this.BgC=false;}
 if(this.F$!==this.Gq)At8=(this.Um()-this.Gq)/(this.F$-this.Gq);if(At8===this.Aio
 )return;this.M$.Ar(false);if(ALg<=0){this.Aio=At8;this.Am();return;}var AKS=At8-
-this.Aio;if(AKS<0)AKS=-AKS;this.M$.WI(14);this.M$.Cx=this.Aio;this.M$.B2=At8;this.
+this.Aio;if(AKS<0)AKS=-AKS;this.M$.WI(14);this.M$.Cx=this.Aio;this.M$.B3=At8;this.
 M$.Fr((10+((ALg/2)|0))+((((ALg*AKS)|0)/2)|0));this.M$.Ar(true);},BA0:function(G){
 },BA3:function(G){this.Aio=this.M$.A5;this.Am();},ApL:function(G){A.pe([this,this.
 AKL],this);if(!!this.Appearance)this.H(this.M);this.Am();},EV:function(E){if(this.
@@ -190,9 +190,9 @@ case 0x61:{bitmap=this.Appearance.Ave;Aav=this.Appearance.AOs;}break;case 0x66:{
 bitmap=this.Appearance.Avh;Aav=this.Appearance.AOv;}break;default:{bitmap=this.Appearance.
 Avf;Aav=this.Appearance.AOt;}}this.Vf.Zr(Aav<0);this.Vf.L(0xFFFFFFFF);if(Aav<0)Aav=
 0;if(!!bitmap&&!((EW&0x1)===0x1)){var HT=((EW&0x4)===0x4);var HU=((EW&0x8)===0x8
-);var BY=bitmap.FrameSize[0];if(HT&&!HU)Az=A.abN(Az,Az[0]+BY);else if(!HT&&HU)Az=[
-].concat(Az[2]-BY,Az.slice(1,4));else{Az=[].concat(Az[0]+((((Az[2]-Az[0])/2)|0)-((
-BY/2)|0)),Az.slice(1,4));Az=A.abN(Az,Az[0]+BY);}}if(!!bitmap&&!((EW&0x2)===0x2)){
+);var BZ=bitmap.FrameSize[0];if(HT&&!HU)Az=A.abN(Az,Az[0]+BZ);else if(!HT&&HU)Az=[
+].concat(Az[2]-BZ,Az.slice(1,4));else{Az=[].concat(Az[0]+((((Az[2]-Az[0])/2)|0)-((
+BZ/2)|0)),Az.slice(1,4));Az=A.abN(Az,Az[0]+BZ);}}if(!!bitmap&&!((EW&0x2)===0x2)){
 var HV=((EW&0x10)===0x10);var HS=((EW&0x20)===0x20);var BI=bitmap.FrameSize[1];if(
 HV&&!HS)Az=[].concat(Az.slice(0,3),Az[1]+BI);else if(!HV&&HS)Az=A.abP(Az,Az[3]-BI
 );else{Az=A.abP(Az,Az[1]+((((Az[3]-Az[1])/2)|0)-((BI/2)|0)));Az=[].concat(Az.slice(
