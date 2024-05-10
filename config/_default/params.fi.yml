@@ -1,5 +1,5 @@
 title: Urban VitalControl
-description: Health management 2.0
+description: Terveydenhuolto 2.0
 time_format_default: 02.01.2006
 time_format_blog: 02.01.2006
 copyright: Urban GmbH & Co.KG
@@ -11,8 +11,8 @@ taxonomy:
     - tags
   # If used, must have same length as taxonomyCloud
   taxonomyCloudTitle:
-    - "Categories"
-    - "Tag cloud"
+    - "Kategoriat"
+    - "Tag pilvi"
   # set taxonomyPageHeader: [] to hide taxonomies on the page headers
   taxonomyPageHeader:
     - categories
