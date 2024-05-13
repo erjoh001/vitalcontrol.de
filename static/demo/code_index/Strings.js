@@ -145,7 +145,7 @@ C.Bhm={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,12:"Cselekv\xE9s~sorozat",13:"Catena di azioni",15:"R\u012Bc\u012Bbu \u0137\u0113de"
 ,16:"Handlingskjede",17:"\u0141a\u0144cuch dzia\u0142a\u0144",19:"Lan\u021B de ac\u021Biuni"
 ,20:"\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439"
-,21:"Cadena de acciones",22:"Handlingskedja",23:"Hareket Zinciri",24:"\u041B\u0430\u043D\u0446\u044E\u0433 \u0434\u0456\u0439"
+,21:"Cadena de acciones",22:"Handlings~kedja",23:"Hareket Zinciri",24:"\u041B\u0430\u043D\u0446\u044E\u0433 \u0434\u0456\u0439"
 };C.ActionList={1:"lista aktivnosti",2:"\u0421\u043F\u0438\u0441\u044A\u043A \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F"
 ,3:"\u884C\u52D5\u6E05\u55AE",4:"Seznam akc\xED",5:"Handlingsliste",0:"Action list"
 ,6:"Actielijst",7:"Tegevuste loend",8:"Toimintalista",9:"Liste d\u2019action",10:
@@ -239,7 +239,8 @@ C.Bhm={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 };C.Bhy={1:"Podaci o \u017Eivotinji: Br. markice za uho",2:"\u0414\u0430\u043D\u043D\u0438 \u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043E: "+
 "\u2116 \u0443\u0448\u043D\u0430 \u043C\u0430\u0440\u043A\u0430",4:"\xDAdaje o zv\xED\u0159eti: \u010D. n\xE1u\u0161nice"
 ,5:"Dyredatabase: Nummer \xF8rem\xE6rke",0:"Animal data: \u2116 eartag",6:"Dierengegevens: nr. oormerk"
-,7:"Looma andmed: \u2116 k\xF5rvam\xE4rk",10:"Tierdaten: \u2116 Ohrmarke",11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03B6\u03CE\u03BF\u03C5: "+
+,7:"Looma andmed: \u2116 k\xF5rvam\xE4rk",9:"Donn\xE9es sur l\'animal : \u2116 de boucle auriculaire"
+,10:"Tierdaten: \u2116 Ohrmarke",11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03B6\u03CE\u03BF\u03C5: "+
 "\u0391\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 \u03C3\u03AE\u03BC\u03B1\u03BD\u03C3\u03B7\u03C2 "+
 "\u03B1\u03C5\u03C4\u03B9\u03BF\u03CD",12:"\xC1llat adatok: f\xFClc\xEDmke sz\xE1ma"
 ,13:"Dati animali: n\xB0 marchio auricolare",15:"Dz\u012Bvnieka dati: \u2116 ausu mar\u0137\u0113jums"
@@ -252,7 +253,8 @@ C.Bhm={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,2:"\u0414\u0430\u043D\u043D\u0438 \u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E: "+
 "\u043F\u043E\u043B+\u0442\u0438\u043F",4:"Data o zv\xED\u0159eti: pohlav\xED+druh"
 ,5:"Dyredata: k\xF8n+type",0:"Animal data: sex+type",6:"Dierlijke gegevens: geslacht+type"
-,7:"Looma andmed: sugu+t\xFC\xFCp",10:"Tierdaten: Geschlecht+Typ",11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03B6\u03CE\u03BF\u03C5: "+
+,7:"Looma andmed: sugu+t\xFC\xFCp",9:"Donn\xE9es sur les animaux : sexe + type",
+10:"Tierdaten: Geschlecht+Typ",11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03B6\u03CE\u03BF\u03C5: "+
 "\u03C6\u03CD\u03BB\u03BF+\u03B5\u03AF\u03B4\u03BF\u03C2",12:"\xC1llat adatok: nem+t\xEDpus"
 ,13:"Dati sull\'animale: sesso + tipo",15:"Dz\u012Bvnieka dati: dzimums+veids",16:
 "Dyredat: kj\xF8nn+type",17:"Dane zwierz\u0119cia: p\u0142e\u0107+rodzaj",19:"Date despre animale: sex + tip"
@@ -697,7 +699,8 @@ C.Bhm={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "venlig at v\xE6re t\xE5lmodig!",0:"CSV export in progress!\n\nThis process may take a few se~conds, please "+
 "be patient!",6:"CSV-export bezig!\n\nDit proces kan enkele seconden duren, graag geduld!"
 ,7:"CSV eksportimine k\xE4ib!\n\nSee protsess v\xF5ib v\xF5tta m\xF5ned sekundid, "+
-"palun ole kannatlik!",10:"CSV-Datei wird erstellt!\n\nDieser Vorgang kann einige Se~kunden dauern, "+
+"palun ole kannatlik!",9:"Exportation CSV en cours !\n\nCe processus peut prendre quelques secondes, "+
+"veuillez patienter !",10:"CSV-Datei wird erstellt!\n\nDieser Vorgang kann einige Se~kunden dauern, "+
 "etwas Geduld bitte!",11:"\u0395\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE CSV \u03C3\u03B5 \u03B5\u03BE\u03AD\u03BB\u03B9\u03BE\u03B7!\n\n\u0397 "+
 "\u03B4\u03B9\u03B1\u03B4\u03B9\u03BA\u03B1\u03C3\u03AF\u03B1 \u03B1\u03C5\u03C4\u03AE "+
 "\u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03B4\u03B9\u03B1\u03C1\u03BA\u03AD\u03C3\u03B5\u03B9 "+
@@ -1194,8 +1197,8 @@ C.ACx={1:"Dnevni prirast",2:"\u0414\u043D\u0435\u0432\u0435\u043D \u043F\u0440\u
 ,16:"Dager med feber",17:"Dni w gor\u0105czce",19:"Zile \xEEn febr\u0103",20:"\u0414\u043D\u0435\u0439 \u0441 \u0442\u0435\u043C~\u043F\u0435~\u0440\u0430~\u0442\u0443\u0440\u043E\u0439"
 ,21:"D\xEDas con fiebre",22:"Dagar i feber",23:"Ate\u015Fli g\xFCnler",24:"\u0414\u043D\u0456\u0432 \u0437 \u0442\u0435\u043C~\u043F\u0435~\u0440\u0430~\u0442\u0443\u0440\u043E\u044E"
 };C.Bim={1:"Dani",2:"\u0414\u043D\u0438 -",4:"Dny",5:"Dage",0:"Days-",6:"Days - Dagen"
-,7:"P\xE4evad",10:"Tage-",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2",12:"Napok",13:
-"Giorni",15:"Days - Dienas",16:"Dager",17:"Dni",19:"Zile",20:"\u0414\u043D\u0438"
+,7:"P\xE4evad",9:"Jours",10:"Tage-",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2",12:
+"Napok",13:"Giorni",15:"Days - Dienas",16:"Dager",17:"Dni",19:"Zile",20:"\u0414\u043D\u0438"
 ,22:"Days - Dagar",24:"\u0414\u043D\u0456"};C.A6d={1:"Dani na stra\u017Ei",2:"\u0414\u043D\u0438 \u043F\u043E\u0434 \u043D\u0430\u0431\u043B\u044E\u0434\u0435\u043D\u0438\u0435"
 ,4:"Dny na hl\xEDdce",5:"Dage p\xE5 vagt",0:"Days on watch",6:"Dagen op de lijst"
 ,7:"P\xE4evad vaatlusel",8:"P\xE4iv\xE4t tarkkailussa.",9:"jours sous suivi.",10:
@@ -1204,10 +1207,10 @@ C.ACx={1:"Dnevni prirast",2:"\u0414\u043D\u0435\u0432\u0435\u043D \u043F\u0440\u
 "Dager p\xE5 vakt",17:"Dni na warcie",19:"Zile de veghe",20:"\u0414\u043D\u0438 \u043D\u0430 \u0434\u0435\u0436\u0443\u0440\u0441\u0442\u0432\u0435"
 ,21:"D\xEDas en observaci\xF3n",22:"Dagar p\xE5 vakt",23:"\u0130zlemedeki g\xFCnler"
 ,24:"\u0414\u043D\u0456 \u043D\u0430 \u0432\u0430\u0440\u0442\u0456"};C.Bin={1:"Dana+"
-,2:"\u0414\u043D\u0438 +",4:"Dny",5:"Dage",0:"Days+",6:"Dagen",7:"P\xE4evad+",10:
-"Tage+",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2",12:"Napok+",13:"Giorni",15:"Dienas"
-,16:"Dager",17:"Dni",19:"Zile",20:"\u0414\u043D\u0438",22:"Dagar",24:"\u0414\u043D\u0456+"
-};C.AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\u0438 \u043F\u043E \u043F\u043E\u0434\u0440\u0430\u0437\u0431\u0438\u0440\u0430\u043D\u0435"
+,2:"\u0414\u043D\u0438 +",4:"Dny",5:"Dage",0:"Days+",6:"Dagen",7:"P\xE4evad+",9:
+"Jours",10:"Tage+",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2",12:"Napok+",13:"Giorni"
+,15:"Dienas",16:"Dager",17:"Dni",19:"Zile",20:"\u0414\u043D\u0438",22:"Dagar",24:
+"\u0414\u043D\u0456+"};C.AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\u0438 \u043F\u043E \u043F\u043E\u0434\u0440\u0430\u0437\u0431\u0438\u0440\u0430\u043D\u0435"
 ,3:"\u51FA\u5EE0\u8A2D\u5B9A",4:"V\xFDchoz\xED hodnoty",5:"Standardv\xE6rdier",0:
 "Default values",6:"Standaard waardes",7:"Vaikimisi v\xE4\xE4rtused",8:"Oletusarvot"
 ,9:"Valeurs standards",10:"Standardwerte",11:"\u03A0\u03C1\u03BF\u03B5\u03C0\u03B9\u03BB\u03B5\u03B3\u03BC\u03AD\u03BD\u03B5\u03C2 "+
@@ -1226,7 +1229,8 @@ C.ACx={1:"Dnevni prirast",2:"\u0414\u043D\u0435\u0432\u0435\u043D \u043F\u0440\u
 "\u0431\u0435\u043B\u0435\u0436\u043A\u0438 \u0441\u043B\u0435\u0434 \u0435\u043A\u0441\u043F\u043E\u0440\u0442\u0438\u0440\u0430\u043D\u0435"
 ,4:"Odstra\u0148te v\u0161echna ozn\xE1men\xED po exportu",5:"Slet alle meddelelser efter eksport"
 ,0:"Delete all notices after export",6:"Verwijder alle meldingen na export.",7:"Kustuta k\xF5ik teated p\xE4rast eksportimist"
-,10:"Alle Nachrichten nach Export l\xF6schen",11:"\u0394\u03B9\u03B1\u03B3\u03C1\u03AC\u03C8\u03C4\u03B5 \u03CC\u03BB\u03B5\u03C2 "+
+,9:"Supprimez tous les avis apr\xE8s l\'exportation.",10:"Alle Nachrichten nach Export l\xF6schen"
+,11:"\u0394\u03B9\u03B1\u03B3\u03C1\u03AC\u03C8\u03C4\u03B5 \u03CC\u03BB\u03B5\u03C2 "+
 "\u03C4\u03B9\u03C2 \u03B5\u03B9\u03B4\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03B9\u03C2 "+
 "\u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE"
 ,12:"Export\xE1l\xE1s ut\xE1n t\xF6r\xF6lje az \xF6sszes \xE9rtes\xEDt\xE9st",13:
@@ -1327,7 +1331,8 @@ A6j={1:"aktivnosti aparata",2:"\u0414\u0435\u0439\u0441\u0442\u0432\u0438\u044F 
 "\u0442\u0430 \u0442\u0432\u0430\u0440\u0438\u043D"};C.DeviceDataOnly={1:"Podaci ure\u0111aja samo"
 ,2:"\u0421\u0430\u043C\u043E \u0434\u0430\u043D\u043D\u0438 \u0437\u0430 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E"
 ,4:"Data za\u0159\xEDzen\xED pouze",5:"Enhedsdata kun",0:"Device data only",6:"Apparaatgegevens alleen"
-,7:"Ainult seadme andmed",10:"Nur Ger\xE4tedaten",11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2 "+
+,7:"Ainult seadme andmed",9:"Donn\xE9es de l\'appareil uniquement",10:"Nur Ger\xE4tedaten"
+,11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2 "+
 "\u03BC\u03CC\u03BD\u03BF",12:"K\xE9sz\xFCl\xE9kadatok csak",13:"Dati del dispositivo solo"
 ,15:"Ier\u012Bces dati tikai",16:"Enhetsdata bare",17:"Dane urz\u0105dzenia tylko"
 ,19:"Datele dispozitivului numai",20:"\u0414\u0430\u043D\u043D\u044B\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430 "+
@@ -1417,8 +1422,8 @@ A6j={1:"aktivnosti aparata",2:"\u0414\u0435\u0439\u0441\u0442\u0432\u0438\u044F 
 "\u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0456\u044F"};C.Biw={1:"Informacije prikazane u listi"
 ,2:"\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\u0442\u0430 "+"\u0441\u0435 \u043F\u043E\u043A\u0430\u0437\u0432\u0430 \u0432 \u0441\u043F\u0438\u0441\u044A\u043A\u0430"
 ,4:"Informace zobrazen\xE9 v seznamu",5:"Informationer vises p\xE5 liste",0:"Info displayed in list"
-,6:"Info weergegeven in lijst",7:"Teave on kuvatud loendina",10:"In Liste gezeigte Info"
-,11:"\u03A0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03AF\u03B5\u03C2 \u03B5\u03BC\u03C6\u03B1\u03BD\u03AF\u03B6\u03BF\u03BD\u03C4\u03B1\u03B9 "+
+,6:"Info weergegeven in lijst",7:"Teave on kuvatud loendina",9:"Informations affich\xE9es sous forme de liste"
+,10:"In Liste gezeigte Info",11:"\u03A0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03AF\u03B5\u03C2 \u03B5\u03BC\u03C6\u03B1\u03BD\u03AF\u03B6\u03BF\u03BD\u03C4\u03B1\u03B9 "+
 "\u03C3\u03B5 \u03BB\u03AF\u03C3\u03C4\u03B1",12:"Inform\xE1ci\xF3k megjelen\xEDtve list\xE1ban"
 ,13:"Informazioni visualizzate in elenco",15:"Inform\u0101cija att\u0113lota sarakst\u0101"
 ,16:"Informasjon vist i liste",17:"Informacje wy\u015Bwietlone na li\u015Bcie",19:
@@ -2209,7 +2214,9 @@ C.A7j={1:"nakon zavr\u0161etka sakrij opciju",2:"\u0421\u043A\u0440\u0438\u0439 
 "\u2019Herde Mast\u2019 or\n\u2019Herde Plus\u2019:\n\nhttps://herde.vitalcontrol.de"
 ,6:"Documentatie over de import van aangekochte dieren in kuddebeheersoftware "+
 "\'Herde Mast\' of \'Herde Plus\':\n\nhttps://herde.vitalcontrol.de",7:"Dokumentatsioon ostetud loomade impordist karjahaldustarkvarasse \"Herde "+
-"Mast\" v\xF5i \"Herde Plus\":\n\nhttps://herde.vitalcontrol.de",10:"Dokumentation zum weiteren Vorgehen:\n\nZugangsmeldung HI Tier:\nhttps://hit.vitalcontrol.de\n\nTierimport "+
+"Mast\" v\xF5i \"Herde Plus\":\n\nhttps://herde.vitalcontrol.de",9:"Documentation sur l\'importation d\'animaux achet\xE9s dans le logiciel "+
+"de gestion de troupeaux \'Herde Mast\' ou \'Herde Plus\' :\n\nhttps://herde.vitalcontrol.de"
+,10:"Dokumentation zum weiteren Vorgehen:\n\nZugangsmeldung HI Tier:\nhttps://hit.vitalcontrol.de\n\nTierimport "+
 "HERDE Mast:\nhttps://herde.vitalcontrol.de",11:"\u03A4\u03B5\u03BA\u03BC\u03B7\u03C1\u03AF\u03C9\u03C3\u03B7 \u03B3\u03B9\u03B1 "+
 "\u03C4\u03B7\u03BD \u03B5\u03B9\u03C3\u03B1\u03B3\u03C9\u03B3\u03AE \u03B1\u03B3\u03BF\u03C1\u03B1\u03C3\u03BC\u03AD\u03BD\u03C9\u03BD "+
 "\u03B6\u03CE\u03C9\u03BD \u03C3\u03C4\u03BF \u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03B9\u03BA\u03CC "+
@@ -2491,7 +2498,8 @@ C.Bkh={1:"dan laktacije",2:"\u0414\u0435\u043D \u0432 \u043B\u0430\u043A\u0442\u
 "\u043E\u0442 \u0441\u043F\u0438\u0441\u044A\u043A!",4:"Ru\u010Dn\xED odstran\u011Bn\xED ozn\xE1men\xED ze seznamu je nutn\xE9!"
 ,5:"Manuel sletning af meddelelser fra listen kr\xE6ves!",0:"Manual deletion of notices from list required!"
 ,6:"Handmatige verwijdering van meldingen uit lijst vereist!",7:"Vajalik on k\xE4sitsi teadete kustutamine nimekirjast!"
-,10:"Meldungen m\xFCs~sen noch manuell gel\xF6scht werden!",11:"\u0391\u03C0\u03B1\u03B9\u03C4\u03B5\u03AF\u03C4\u03B1\u03B9 \u03C7\u03B5\u03B9\u03C1\u03BF\u03BA\u03AF\u03BD\u03B7\u03C4\u03B7 "+
+,9:"Suppression manuelle des avis de la liste requise !",10:"Meldungen m\xFCs~sen noch manuell gel\xF6scht werden!"
+,11:"\u0391\u03C0\u03B1\u03B9\u03C4\u03B5\u03AF\u03C4\u03B1\u03B9 \u03C7\u03B5\u03B9\u03C1\u03BF\u03BA\u03AF\u03BD\u03B7\u03C4\u03B7 "+
 "\u03B4\u03B9\u03B1\u03B3\u03C1\u03B1\u03C6\u03AE \u03B5\u03B9\u03B4\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03C9\u03BD "+
 "\u03B1\u03C0\u03CC \u03C4\u03B7 \u03BB\u03AF\u03C3\u03C4\u03B1!",12:"K\xE9zi t\xF6rl\xE9s sz\xFCks\xE9ges az \xE9rtes\xEDt\xE9sek list\xE1j\xE1r\xF3l!"
 ,13:"Eliminazione manuale degli avvisi dalla lista richiesta!",15:"Manu\u0101la pazi\u0146ojumu izdz\u0113\u0161ana no saraksta ir nepiecie\u0161ama!"
@@ -3757,7 +3765,9 @@ ReasonOfLeaving={1:"Razlog napu\u0161tanja",2:"\u041F\u0440\u0438\u0447\u0438\u0
 ,6:"Transponder toewijzing succesvol afgerond!\n\nDoorverwijzen naar het scherm "+
 "\'Gekochte dieren\' nu?\n\nDaar kunt u een CSV-bestand exporteren voor "+"dierimport in het kuddebeheersysteem."
 ,7:"Transponderi m\xE4\xE4ramine l\xF5petatud edukalt!\n\nSuunata n\xFC\xFCd "+"ekraanile \"Ostetud loomad\"?\n\nSeal saate eksportida loomade importimise "+
-"CSV-faili karjahalduss\xFCsteemi.",10:"Zuordnung beendet!\n\nJetzt auf Bildschirm \u2019Zug\xE4nge\u2019 umleiten?\n\nDort "+
+"CSV-faili karjahalduss\xFCsteemi.",9:"Affectation du transpondeur termin\xE9e avec succ\xE8s !\n\nRediriger maintenant "+
+"vers l\'\xE9cran \'Animaux achet\xE9s\' ?\n\nL\xE0, vous pouvez exporter "+"un fichier CSV pour l\'importation des animaux dans le syst\xE8me de gestion "+
+"de troupeau.",10:"Zuordnung beendet!\n\nJetzt auf Bildschirm \u2019Zug\xE4nge\u2019 umleiten?\n\nDort "+
 "dann eine CSV-Datei f\xFCr die Zugangsmeldung bei HI-Tier oder f\xFCr "+"den Import in HERDE Mast erstellen!"
 ,11:"\u0397 \u03B1\u03BD\u03AC\u03B8\u03B5\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03B4\u03AD\u03BA\u03C4\u03B7-\u03C0\u03BF\u03BC\u03C0\u03BF\u03CD "+
 "\u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03B8\u03B7\u03BA\u03B5 "+"\u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03CE\u03C2!\n\n\u0391\u03BD\u03B1\u03BA\u03B1\u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7 "+
@@ -4033,9 +4043,10 @@ ReasonOfLeaving={1:"Razlog napu\u0161tanja",2:"\u041F\u0440\u0438\u0447\u0438\u0
 "for at registrere dine k\xF8bte dyr?",0:"Barcode scanner detected!\nChange to screen \u2019New\u2019 \u2014> \u2019Bulk "+
 "recording\u2019 in order to register your purchased animals?",6:"Barcode scanner gedetecteerd! Wijzig naar scherm \'Nieuw\' \u2014> \'Bulkopname\' "+
 "om uw gekochte dieren te registreren?",7:"Triipkoodi skanner tuvastatud! Muuda ekraanil \"Uus\" -> \"Hulgisalvestus\", "+
-"et registreerida ostetud loomad?",10:"Barcodescanner erkannt!\nBitte zum Bild~schirm \u2019Neu\u2019 \u2014> "+
-"\u2019Massen~zugang\u2019 wechseln, dort k\xF6nnen Sie ihre zuge~kauften "+"Tiere erfassen!"
-,11:"\u0395\u03BD\u03C4\u03BF\u03C0\u03AF\u03C3\u03C4\u03B7\u03BA\u03B5 \u03C3\u03B1\u03C1\u03C9\u03C4\u03AE\u03C2 "+
+"et registreerida ostetud loomad?",9:"Le scanner de codes-barres d\xE9tect\xE9 !\nChangez \xE0 l\'\xE9cran \'Nouveau\' "+
+"\u2014> \'Enregistrement en masse\' pour enregistrer vos animaux achet\xE9s "+"?"
+,10:"Barcodescanner erkannt!\nBitte zum Bild~schirm \u2019Neu\u2019 \u2014> "+"\u2019Massen~zugang\u2019 wechseln, dort k\xF6nnen Sie ihre zuge~kauften "+
+"Tiere erfassen!",11:"\u0395\u03BD\u03C4\u03BF\u03C0\u03AF\u03C3\u03C4\u03B7\u03BA\u03B5 \u03C3\u03B1\u03C1\u03C9\u03C4\u03AE\u03C2 "+
 "\u03B3\u03C1\u03B1\u03BC\u03BC\u03C9\u03C4\u03BF\u03CD \u03BA\u03CE\u03B4\u03B9\u03BA\u03B1! "+
 "\u0391\u03BB\u03BB\u03AC\u03BE\u03C4\u03B5 \u03C3\u03C4\u03B7\u03BD \u03BF\u03B8\u03CC\u03BD\u03B7 "+
 "\"\u039D\u03AD\u03BF\" -> \"\u039C\u03B1\u03B6\u03B9\u03BA\u03AE \u03BA\u03B1\u03C4\u03B1\u03B3\u03C1\u03B1\u03C6\u03AE\" "+
@@ -4073,7 +4084,8 @@ ReasonOfLeaving={1:"Razlog napu\u0161tanja",2:"\u041F\u0440\u0438\u0447\u0438\u0
 "transpondere til dine k\xF8bte dyr.",0:"Scanner removed!\n\nRedirect to as~sign~ment screen?\nThere you can assign "+
 "trans~ponders to your purchased animals.",6:"Scanner verwijderd!\n\nDoorverwijzen naar het toewijzingsscherm?\nDaar "+
 "kunt u transponders toewijzen aan uw gekochte dieren.",7:"Skanner eemaldatud!\n\nSuunata \xFClesannete ekraanile?\nSeal saate oma "+
-"ostetud loomadele transpondereid m\xE4\xE4rata.",10:"Scanner entfernt!\n\nJetzt zum Zuordnungs~bild~schirm umleiten?\nDort "+
+"ostetud loomadele transpondereid m\xE4\xE4rata.",9:"Scanner retir\xE9 !\n\nRediriger vers l\'\xE9cran des affectations ?\n\nL\xE0, "+
+"vous pouvez attribuer des transpondeurs \xE0 vos animaux achet\xE9s.",10:"Scanner entfernt!\n\nJetzt zum Zuordnungs~bild~schirm umleiten?\nDort "+
 "k\xF6nnen Sie ihren zugekauften Tieren Transpon~der zuweisen.",11:"\u039F \u03C3\u03B1\u03C1\u03C9\u03C4\u03AE\u03C2 \u03B1\u03C6\u03B1\u03B9\u03C1\u03AD\u03B8\u03B7\u03BA\u03B5!\n\n\u0391\u03BD\u03B1\u03BA\u03B1\u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7 "+
 "\u03C3\u03C4\u03B7\u03BD \u03BF\u03B8\u03CC\u03BD\u03B7 \u03B1\u03BD\u03AC\u03B8\u03B5\u03C3\u03B7\u03C2;\n\u0395\u03BA\u03B5\u03AF "+
 "\u03BC\u03C0\u03BF\u03C1\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1 \u03B1\u03BD\u03B1\u03B8\u03AD\u03C3\u03B5\u03C4\u03B5 "+
@@ -4793,8 +4805,8 @@ BpX={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0431\u044F\u0445\u0430 \u0438\u0437\u0442\u0440\u0438\u0442\u0438 \u0443\u0441\u043F\u0435~\u0448\u043D\u043E!"
 ,4:"Data za\u0159\xEDzen\xED byla \xFAsp\u011B\u0161n\u011B smaz\xE1na!",5:"Enhedsdata blev slettet succesfuldt!"
 ,0:"Device data were deleted success~fully!",6:"Apparaatgegevens zijn succesvol verwijderd!"
-,7:"Seadme andmed kustutati edukalt!",10:"Ger\xE4tedaten wurden erfolgreich gel\xF6scht!"
-,11:"\u03A4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C4\u03B7\u03C2 "+
+,7:"Seadme andmed kustutati edukalt!",9:"Les donn\xE9es de l\'appareil ont \xE9t\xE9 supprim\xE9es avec succ\xE8s "+
+"!",10:"Ger\xE4tedaten wurden erfolgreich gel\xF6scht!",11:"\u03A4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C4\u03B7\u03C2 "+
 "\u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2 \u03B4\u03B9\u03B1\u03B3\u03C1\u03AC\u03C6\u03B7\u03BA\u03B1\u03BD "+
 "\u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03CE\u03C2!",12:"Az eszk\xF6zadatok sikeresen t\xF6rl\u0151dtek!"
 ,13:"I dati del dispositivo sono stati eliminati con successo!",15:"Ier\u012Bces dati tika veiksm\u012Bgi dz\u0113sti!"
@@ -6874,7 +6886,8 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 "\u043B\u0438 \u0441\u0442\u0435?",4:"Ve\u0161ker\xE1 data za\u0159\xEDzen\xED budou smaz\xE1na!\nJste si jisti?"
 ,5:"Alle enhedsdata vil blive slettet!\nEr du sikker?",0:"All device data will be deleted!\nAre you sure?"
 ,6:"Alle apparaatgegevens worden verwijderd!\nWeet u het zeker?",7:"K\xF5ik seadme andmed kustutatakse!\nKas olete kindel?"
-,10:"Alle Ger\xE4tedaten werden gel\xF6scht!\nSind Sie sicher?",11:"\u038C\u03BB\u03B1 \u03C4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 "+
+,9:"Toutes les donn\xE9es de l\'appareil seront supprim\xE9es !\n\xCAtes-vous "+
+"s\xFBr ?",10:"Alle Ger\xE4tedaten werden gel\xF6scht!\nSind Sie sicher?",11:"\u038C\u03BB\u03B1 \u03C4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 "+
 "\u03C4\u03B7\u03C2 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2 \u03B8\u03B1 "+
 "\u03B4\u03B9\u03B1\u03B3\u03C1\u03B1\u03C6\u03BF\u03CD\u03BD!\n\u0395\u03AF\u03C3\u03C4\u03B5 "+
 "\u03C3\u03AF\u03B3\u03BF\u03C5\u03C1\u03BF\u03B9;",12:"Minden eszk\xF6zadat t\xF6rl\u0151dik!\nBiztos benne?"
