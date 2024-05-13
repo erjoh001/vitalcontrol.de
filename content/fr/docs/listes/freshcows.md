@@ -47,7 +47,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Basculer le statut d'alarme` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Modifier statut de l'alarme` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
@@ -59,7 +59,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Basculer le statut de surveillance` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `revenir sur statute 'suivi'` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
@@ -73,10 +73,10 @@ Si cette fonction est activée, les animaux pour lesquels une mesure de tempéra
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'option `Masquer les vaches mesurées` et activez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'option `Masquer anim. mesurés` et activez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
-4. La fonction `masquer mesuré` est maintenant activée. L'activation est indiquée par une case cochée.
+4. La fonction `Masquer anim. mesurés` est maintenant activée. L'activation est indiquée par une case cochée.
 
 ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Hide measured cows")

@@ -39,11 +39,11 @@ Dans cette évaluation, vous pouvez voir les informations suivantes liées aux p
 
 Pour effectuer l'évaluation, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Évaluer`. Confirmez avec `OK`.
+1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Évaluation`. Confirmez avec `OK`.
 
-2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `Poids`, `Température`, `Évaluation` et `Mortalité`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Poids` et confirmez avec `OK`.
+2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `Poids`, `Température`, `Évaluation` et `Taux de perte`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Poids` et confirmez avec `OK`.
 
-3. Les options d'évaluation pour la section Poids apparaissent maintenant. Sélectionnez l'option d'évaluation &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Pesée du jour` et confirmez avec `OK`. L'appareil commence alors à calculer les variables de succès.
+3. Les options d'évaluation pour la section Poids apparaissent maintenant. Sélectionnez l'option d'évaluation &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Pesée d'aujourd'hui` et confirmez avec `OK`. L'appareil commence alors à calculer les variables de succès.
 
 4. Lorsque le calcul est terminé, vous pouvez consulter les variables de succès mentionnées ci-dessus. Utilisez les touches fléchées △ ▽ pour naviguer à travers le menu affiché.
 
@@ -56,11 +56,11 @@ Dans cette évaluation, vous pouvez consulter les informations suivantes :
 
 Pour effectuer l'évaluation, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Évaluer`. Confirmez avec `OK`.
+1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Évaluation`. Confirmez avec `OK`.
 
-2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `Poids`, `Température`, `Évaluation` et `Mortalité`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Poids` et confirmez avec `OK`.
+2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `Poids`, `Température`, `Évaluation` et `Taux de perte`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Poids` et confirmez avec `OK`.
 
-3. Maintenant, les options d'évaluation pour la section poids apparaissent. Sélectionnez &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Poids à la naissance` et confirmez avec `OK`. L'appareil commence alors à calculer les variables de succès.
+3. Maintenant, les options d'évaluation pour la section poids apparaissent. Sélectionnez &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Poids de naissance` et confirmez avec `OK`. L'appareil commence alors à calculer les variables de succès.
 
 4. Lorsque le calcul est terminé, vous pouvez consulter les variables de succès mentionnées ci-dessus. Utilisez les touches fléchées △ ▽ pour naviguer à travers le menu affiché.
 
@@ -76,9 +76,9 @@ Dans cette évaluation, vous pouvez voir les informations suivantes liées à to
 
 Pour effectuer l'évaluation, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluer" />&nbsp; `Évaluer`. Confirmez avec `OK`.
+1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluer" />&nbsp; `Évaluation`. Confirmez avec `OK`.
 
-2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `Poids`, `Température`, `Évaluation` et `Mortalité`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Poids" />&nbsp; `Poids` et confirmez avec `OK`.
+2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `Poids`, `Température`, `Évaluation` et `Taux de perte`. Sélectionnez &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Poids" />&nbsp; `Poids` et confirmez avec `OK`.
 
 3. Maintenant, les options d'évaluation pour la section poids apparaissent. Sélectionnez &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Développement du poids" />&nbsp; `Développement du poids` et confirmez avec `OK`. L'appareil commence maintenant à calculer les variables de succès.
 

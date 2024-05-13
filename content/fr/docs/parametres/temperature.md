@@ -18,11 +18,11 @@ Les valeurs seuils pour la température corporelle sont stockées ici individuel
 
 Pour définir les seuils et plages de température sur votre appareil, procédez comme suit :
 
-1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Paramètres` et appuyez sur le bouton `OK`.
+1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur le bouton `OK`.
 
 2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Température`. Confirmez avec `OK`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les deux champs de réglage pour `Seuils`, `Sous-température` et `Projecteur anal`. Sélectionnez le champ de réglage `Seuil`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les deux champs de réglage pour `Seuil`, `Hypothermie` et `Eclairage de l'anus`. Sélectionnez le champ de réglage `Seuil`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour sélectionner le seuil désiré.
 
@@ -39,11 +39,11 @@ Ici, vous définissez la température mesurée à partir de laquelle une sous-te
 
 Pour définir la valeur seuil pour la sous-température, procédez comme suit :
 
-1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Paramètres` et appuyez sur le bouton `OK`.
+1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Réglages` et appuyez sur le bouton `OK`.
 
 2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Température`. Confirmez avec `OK`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `Seuils`, `Sous-température` et `Projecteur anal`. Sélectionnez le champ de réglage `Sous-température`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `Seuil`, `Hypothermie` et `Eclairage de l'anus`. Sélectionnez le champ de réglage `Hypothermie`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour sélectionner la valeur seuil désirée pour la sous-température.
 
@@ -56,11 +56,11 @@ Ici, vous pouvez régler si la lumière doit être activée ou désactivée auto
 
 Pour désactiver ou activer le projecteur anal pendant l'action `Température`, procédez comme suit :
 
-1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Paramètres` et appuyez sur le bouton `OK`.
+1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Réglages` et appuyez sur le bouton `OK`.
 
 2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Température`. Confirmez avec `OK`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `Seuils`, `Sous-température` et `Projecteur anal`. Sélectionnez le champ de réglage `Projecteur anal`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `Seuil`, `Hypothermie` et `Eclairage de l'anus`. Sélectionnez le champ de réglage `Eclairage de l'anus`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour désactiver ou activer le projecteur anal.
 

@@ -23,9 +23,9 @@ Pour enregistrer un vêlage, procédez comme suit :
 
 4. Un autre sous-menu s'ouvre dans lequel vous pouvez enregistrer des informations sur le veau. Utilisez les touches fléchées △ ▽ pour sélectionner l'élément de réglage désiré.
 
-5. Pour les réglages `Type d'animal`, `Sexe`, `Poids à la naissance`, `Race`, `Lieu de détention`, `Multiples` et `Facilité de vêlage`, utilisez les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
+5. Pour les réglages `Type d'animal`, `Sexe`, `Poids de naissance`, `Race`, `Lieu de séjour`, `Multiples` et `Déroulement du vêlage`, utilisez les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
 
-6. Pour les réglages `ID national de l'animal`, `ID` et `Date de naissance` utilisez les touches fléchées △ ▽ pour sélectionner l'option de réglage désirée et confirmez avec `OK`. Utilisez les touches fléchées △ ▽◁ ▷ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+6. Pour les réglages `N° de la boucle`, `ID` et `Date de naissance` utilisez les touches fléchées △ ▽ pour sélectionner l'option de réglage désirée et confirmez avec `OK`. Utilisez les touches fléchées △ ▽◁ ▷ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
 7. Sauvegardez les réglages et créez le nouvel animal avec la touche `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sauvegarder et retourner" />&nbsp;.
 

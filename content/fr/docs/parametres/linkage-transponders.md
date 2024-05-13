@@ -14,11 +14,11 @@ translationKey: settings/link-transponder
 ## Définir l'âge maximum des veaux achetés
 Pour régler l'`Âge maximum des veaux achetés` sur votre appareil, procédez comme suit.
 
-1. Sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Paramètres` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
+1. Sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Lier le transpondeur`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Lier ID transpondeur`. Confirmez avec `OK`.
 
-3. Le champ de réglage `Âge maximum des veaux achetés` est automatiquement sélectionné. Utilisez les touches fléchées ◁ ▷ pour régler l'âge maximum.
+3. Le champ de réglage `Âge maximum veaux acheté` est automatiquement sélectionné. Utilisez les touches fléchées ◁ ▷ pour régler l'âge maximum.
 
     ![VitalControl : paramètres du menu lier le transpondeur](../images/maximumage.png "Âge maximum des veaux achetés")
 
@@ -26,16 +26,16 @@ Pour régler l'`Âge maximum des veaux achetés` sur votre appareil, procédez c
 
 Pour régler l'`Attribution ID animal` sur votre appareil, procédez comme suit.
 
-1. Sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Paramètres` sur l'écran principal de votre appareil VitalControl et appuyez sur la touche `OK`.
+1. Sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` sur l'écran principal de votre appareil VitalControl et appuyez sur la touche `OK`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Lier le transpondeur`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Lier ID transpondeur`. Confirmez avec `OK`.
 
 3. Utilisez les touches fléchées △ ▽ pour sélectionner le champ de réglage `Attribution ID animal`.
 
-4. Utilisez les touches fléchées ◁ ▷ pour régler l'attribution des numéros d'animaux. Si vous sélectionnez le réglage `Dérivation du numéro de transpondeur`, vous obtiendrez les options pour régler les `Chiffres du nouvel ID` et le `Décalage à droite`. Utilisez les touches fléchées △ ▽ pour sélectionner la plage appropriée et les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
+4. Utilisez les touches fléchées ◁ ▷ pour régler l'attribution des numéros d'animaux. Si vous sélectionnez le réglage `Dérivation du N° du transpondeur`, vous obtiendrez les options pour régler les `Chiffres du nouvel ID` et le `Offset droit`. Utilisez les touches fléchées △ ▽ pour sélectionner la plage appropriée et les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
 
 5. Sélectionnez l'option `Consécutif` ou `Dérivation du numéro de transpondeur` et procédez comme décrit dans la page [Attribution ID animal](../animal-registration/#assignment-animal-id).
 
 ![VitalControl : lien du transpondeur dans les paramètres du menu](../images/assignmentanimalid.png "Attribution d'identifiant animal")
 
-Enregistrez les paramètres et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Paramètres` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
+Enregistrez les paramètres et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.

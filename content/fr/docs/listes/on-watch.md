@@ -44,9 +44,9 @@ La liste d'alarme est structurée comme suit :
 
 1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" /> `Listes` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
 
-2. Un sous-menu s'ouvre dans lequel différentes listes sont affichées. Sélectionnez la liste &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="Liste 'Surveillance'" /> `Surveillance`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel différentes listes sont affichées. Sélectionnez la liste &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="Liste 'Surveillance'" /> `Observation`. Confirmez avec `OK`.
 
-3. La liste `Surveillance` est maintenant ouverte.
+3. La liste `Observation` est maintenant ouverte.
 
    ![Listes VitalControl Liste de surveillance](../images/firststeps2.png "Étapes préliminaires")
 
@@ -54,7 +54,7 @@ La liste d'alarme est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Retirer de la liste de surveillance` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Supprimer l'animal de la liste de suivi` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste de surveillance, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
@@ -66,7 +66,7 @@ La liste d'alarme est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Basculer le statut de l'alarme` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Modifier statut de l'alarme` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste de surveillance, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 

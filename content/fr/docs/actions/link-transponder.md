@@ -22,7 +22,7 @@ Avec cette action, vous pouvez assigner un transpondeur à un animal qui n'a pas
 
 2. Sélectionnez l'animal désiré dans la liste. Pour ce faire, confirmez avec `OK` et sélectionnez l'ID de l'animal à l'aide des touches fléchées △ ▽. Confirmez avec `OK`.
 
-3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Lier un transpondeur" /> `Lier un transpondeur` et confirmez avec `OK`.
+3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Lier un transpondeur" /> `Lier ID transpondeur` et confirmez avec `OK`.
 
 4. Scannez maintenant le transpondeur que vous souhaitez assigner à l'animal.
 

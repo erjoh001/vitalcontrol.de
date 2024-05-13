@@ -16,7 +16,7 @@ translationKey: backup
 
 1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` sur l'écran principal de votre appareil VitalControl.
 
-2. Appelez le sous-menu `Gestion des données` et sélectionnez ensuite l'élément de sous-menu `Sauvegarde de données`. Sélectionnez maintenant l'élément de menu `Créer une sauvegarde` et confirmez avec `OK`. Vous êtes maintenant invité à insérer une clé USB :
+2. Appelez le sous-menu `Gestion des données` et sélectionnez ensuite l'élément de sous-menu `Sauvegarde de données`. Sélectionnez maintenant l'élément de menu `Sauvegarder les donnés` et confirmez avec `OK`. Vous êtes maintenant invité à insérer une clé USB :
 
    ![VitalControl : chemin du menu sauvegarde de données](../images/backup.png "Appeler la sauvegarde de données")
 

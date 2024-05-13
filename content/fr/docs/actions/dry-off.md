@@ -19,11 +19,11 @@ Selon le statut initial de la vache, vous pouvez soit sécher l'animal et l'ajou
 
 ### Sécher une vache
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
 
 2. Soit scannez le transpondeur de l'animal sans l'ID national de l'animal, soit sélectionnez l'animal dans la liste. Pour ce faire, confirmez avec `OK` et sélectionnez l'ID de l'animal à l'aide des touches fléchées △ ▽. Confirmez avec `OK`.
 
-3. Un sous-menu avec les actions de l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Sécher" /> `Sécher` et confirmez avec `OK`.
+3. Un sous-menu avec les actions de l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Sécher" /> `Tarissement` et confirmez avec `OK`.
 
 4. L'animal a été marqué avec succès comme sec.
 
@@ -39,11 +39,11 @@ Selon le statut initial de la vache, vous pouvez soit sécher l'animal et l'ajou
 
 ### Marquer comme lactée
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
 
 2. Soit scannez le transpondeur de l'animal sans l'ID national de l'animal, soit sélectionnez l'animal dans la liste. Pour ce faire, confirmez avec `OK` et sélectionnez l'ID de l'animal à l'aide des touches fléchées △ ▽. Confirmez avec `OK`.
 
-3. Un sous-menu avec les actions pour les animaux s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Dry off" /> `Dry off` et confirmez avec `OK`.
+3. Un sous-menu avec les actions pour les animaux s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Dry off" /> `Tarissement` et confirmez avec `OK`.
 
 4. L'animal a été marqué avec succès comme lacté.
 

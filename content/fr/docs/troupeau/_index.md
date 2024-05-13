@@ -97,7 +97,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
 1. Complétez les étapes préparatoires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir popup" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `Définir un filtre` et invoquez la fonction de filtrage en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir popup" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `Définir le filtre` et invoquez la fonction de filtrage en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
 
 3. Comment appliquer le filtre peut être trouvé [ici]({{< relref "../filtre/" >}}).
 

@@ -29,9 +29,9 @@ Pour créer plusieurs nouveaux animaux, procédez comme suit :
 
 4. Un autre sous-menu s'ouvre dans lequel vous pouvez sauvegarder les informations sur les animaux. Utilisez les touches fléchées △ ▽ pour sélectionner l'élément de réglage désiré.
 
-5. Pour les réglages `type d'animal`, `Sexe`, `Poids à la naissance`, `Race`, `Lieu de détention` et `Nombre à créer` utilisez les touches fléchées ◁ ▷ pour sélectionner le réglage désiré. Avec le `Nombre à créer`, vous déterminez combien de nouveaux animaux vous souhaitez créer à la fois.
+5. Pour les réglages `type d'animal`, `Sexe`, `Poids de naissance`, `Race`, `Lieu de séjour` et `Nombre d'animaux neufs` utilisez les touches fléchées ◁ ▷ pour sélectionner le réglage désiré. Avec le `Nombre d'animaux neufs`, vous déterminez combien de nouveaux animaux vous souhaitez créer à la fois.
 
-6. Pour les réglages `ID national de l'animal` et `ID du premier animal` utilisez les touches fléchées △ ▽ pour sélectionner l'option de réglage désirée et confirmez avec `OK`. Utilisez les touches fléchées △ ▽◁ ▷ pour sélectionner les numéros désirés. Enfin, confirmez avec `OK`.
+6. Pour les réglages `N° de la boucle` et `ID du premier animal` utilisez les touches fléchées △ ▽ pour sélectionner l'option de réglage désirée et confirmez avec `OK`. Utilisez les touches fléchées △ ▽◁ ▷ pour sélectionner les numéros désirés. Enfin, confirmez avec `OK`.
 
 7. Sauvegardez les paramètres et créez le nouvel animal avec la touche `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 

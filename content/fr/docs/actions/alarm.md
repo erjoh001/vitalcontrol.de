@@ -15,7 +15,7 @@ translationKey: actions/alarm
 
 Avec l'action `Alarme`, vous pouvez ajouter des animaux à la liste d'alarme ou les en retirer. La liste d'alarme vous aide à trouver plus rapidement et facilement les animaux remarquables, rendant vos contrôles de routine quotidiens plus simples. Pour appliquer l'action `Alarme`, procédez comme suit :
 
-1. Sélectionnez dans l'écran principal de votre appareil VitalControl l'élément de menu `Actions` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> et appuyez sur le bouton `OK`.
+1. Sélectionnez dans l'écran principal de votre appareil VitalControl l'élément de menu `Action` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> et appuyez sur le bouton `OK`.
 
 2. Scannez un animal avec le transpondeur ou sélectionnez un animal dans la liste. Confirmez avec `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
 

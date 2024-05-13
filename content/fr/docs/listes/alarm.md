@@ -50,7 +50,7 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Menu d'action complet` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Menu d'action` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
@@ -62,7 +62,7 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Données sur les animaux` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Données de l'animal` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
@@ -74,7 +74,7 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Prendre la température` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Mesure de la température` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
@@ -98,7 +98,7 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Effacer l'alarme` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Réinitialisation de l'alarme` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal souhaité et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres souhaités. Enfin, confirmez avec `OK`.
 
@@ -110,7 +110,7 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Basculer le statut de surveillance` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `revenir sur statue suivi` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal souhaité et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres souhaités. Enfin, confirmez avec `OK`.
 

@@ -15,7 +15,7 @@ translationKey: settings/language
 
 Pour régler la langue de votre appareil VitalControl, procédez comme suit :
 
-1. `Sélectionnez` l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Paramètres` sur l'écran principal de votre appareil VitalControl et appuyez sur `OK`.
+1. `Sélectionnez` l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` sur l'écran principal de votre appareil VitalControl et appuyez sur `OK`.
 
 1. Un sous-menu s'ouvre, présentant la langue actuelle en haut. Utilisez les touches fléchées ◁ ▷ pour sélectionner la langue désirée. La langue des instructions utilisateur change à la volée lorsque vous sélectionnez une autre langue.
 

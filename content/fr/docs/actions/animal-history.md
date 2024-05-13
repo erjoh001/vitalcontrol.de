@@ -17,11 +17,11 @@ L'histoire des animaux vous offre un aperçu des données enregistrées jusqu'à
 
 Pour consulter l'historique des animaux, procédez comme suit :
 
-1. Sélectionnez dans l'écran principal de votre appareil VitalControl l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `Actions` et appuyez sur le bouton `OK`.
+1. Sélectionnez dans l'écran principal de votre appareil VitalControl l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `Action` et appuyez sur le bouton `OK`.
 
 2. Scannez un animal avec le transpondeur ou sélectionnez un animal dans la liste. Confirmez avec `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
 
-3. Un sous-menu avec les actions de l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Histoire des animaux" /> `Histoire des animaux` et confirmez avec `OK`.
+3. Un sous-menu avec les actions de l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Histoire des animaux" /> `Historique des animaux` et confirmez avec `OK`.
 
 4. Les informations qui ont été définies en dernier sont maintenant affichées. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" /> pour ouvrir le menu de sélection des pages d'information.
 

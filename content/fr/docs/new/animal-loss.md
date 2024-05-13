@@ -14,20 +14,20 @@ translationKey: new/animal-loss
 ## Enregistrer la perte d'un animal
 
 {{% alert title="Conseil" %}}
-La fonction de perte d'animal dans cet élément de menu est principalement utilisée pour enregistrer les veaux/agneaux morts. Les options de réglage sont adaptées en conséquence et ne sont pas identiques aux éléments de réglage dans le menu `Actions` -> `Désenregistrer` ou `Perte d'animal`.
+La fonction de perte d'animal dans cet élément de menu est principalement utilisée pour enregistrer les veaux/agneaux morts. Les options de réglage sont adaptées en conséquence et ne sont pas identiques aux éléments de réglage dans le menu `Actions` -> `Désenregistrer` ou `Perte d'animaux`.
 {{% /alert %}}
 
 Pour enregistrer la perte d'un animal, procédez comme suit :
 
 1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nouvel animal" /> `Nouveau` et appuyez sur le bouton `OK`.
 
-2. Un sous-menu s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'élément de menu <img src="/icons/main/stillbirth.svg" width="40" align="bottom" alt="Perte d'animal" /> `Perte d'animal` et confirmez avec `OK`.
+2. Un sous-menu s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'élément de menu <img src="/icons/main/stillbirth.svg" width="40" align="bottom" alt="Perte d'animal" /> `Perte d'animaux` et confirmez avec `OK`.
 
 3. Scannez le transpondeur de l'animal mère ou utilisez le bouton `OK`. Entrez l'ID de l'animal mère en utilisant les touches fléchées ◁ ▷ △ ▽ et confirmez avec `OK`.
 
 4. Un autre sous-menu s'ouvre dans lequel vous pouvez sauvegarder les informations sur l'animal. Utilisez les touches fléchées △ ▽ pour sélectionner l'élément de réglage désiré.
 
-5. Pour les réglages `Type d'animal`, `Sexe`, `Poids à la naissance`, `Race`, `Lieu`, `Multiples` et `Facilité de vêlage`, utilisez les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
+5. Pour les réglages `Type d'animal`, `Sexe`, `Poids de naissance`, `Race`, `Lieu de séjour`, `Multiple` et `Déroulement du vêlage`, utilisez les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
 
 6. Pour le réglage `Date de naissance` utilisez les touches fléchées △ ▽ pour sélectionner l'option de réglage désirée et confirmez avec `OK`. Utilisez les touches fléchées △ ▽◁ ▷ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 

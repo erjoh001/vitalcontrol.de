@@ -41,9 +41,9 @@ Chaque action est identifiée par un symbole. Passez le curseur de la souris sur
 
 ## Procédure générale
 
-Dans le menu <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions`, vous pouvez à tout moment sélectionner l'animal suivant sans avoir à quitter l'élément de menu Actions. Suivez ces étapes pour sélectionner l'animal suivant :
+Dans le menu <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action`, vous pouvez à tout moment sélectionner l'animal suivant sans avoir à quitter l'élément de menu Actions. Suivez ces étapes pour sélectionner l'animal suivant :
 
-1. Sélectionnez l'élément de menu <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
+1. Sélectionnez l'élément de menu <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
 
 2. Scannez un animal avec le transpondeur ou sélectionnez un animal dans la liste. Confirmez en appuyant sur `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
 

@@ -15,7 +15,7 @@ Pour récupérer le numéro de série de votre appareil, procédez comme suit :
 
 2. Un sous-menu s'ouvre avec plusieurs éléments de menu. Sélectionnez `Info` et confirmez avec `OK`.
 
-3. Un autre sous-menu s'ouvre. Sélectionnez `numéro de série` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre. Sélectionnez `Numéro de série` et confirmez avec `OK`.
 
 4. Le numéro de série sera maintenant affiché.
 

@@ -17,6 +17,6 @@ Si vous n'avez pas besoin de cette fonction, vous pouvez la désactiver dans le 
 
 ## Enregistrer un vêlage
 
-Dès que vous entrez dans le menu d'action, sélectionnez l'élément de menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Veaux"  alt="Veaux"/> `Veaux` et confirmez avec `OK`. Continuez comme décrit dans les instructions [Enregistrement d'un vêlage](/fr/docs/new/calving/).
+Dès que vous entrez dans le menu d'action, sélectionnez l'élément de menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Veaux"  alt="Veaux"/> `Vêlage` et confirmez avec `OK`. Continuez comme décrit dans les instructions [Enregistrement d'un vêlage](/fr/docs/new/calving/).
 
    ![VitalControl: Menu Actions Veaux](../images/calving.png "Veaux")

@@ -32,7 +32,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" />  `Listes` dans l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
 
-2. Un sous-menu s'ouvre dans lequel diverses icônes de listes sont affichées. Mettez en surbrillance l'icône <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Liste des actions" /> `Liste des actions` et confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel diverses icônes de listes sont affichées. Mettez en surbrillance l'icône <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Liste des actions" /> `Liste d'action` et confirmez avec `OK`.
 
 3. La liste des actions est maintenant ouverte.
 
@@ -42,7 +42,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Peser les animaux` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Peser un animal` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des actions, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Rechercher" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
@@ -68,7 +68,7 @@ Cette fonction est utilisée pour ajouter un transpondeur à l'enregistrement de
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Lier le transpondeur` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Lier ID transpondeur` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
 
 3. Dans la liste des actions, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
@@ -82,8 +82,8 @@ Si cette fonction est activée, les animaux pour lesquels une action a été eff
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'option `Masquer après action` et activez/désactivez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'option `Dissimuler après l'action` et activez/désactivez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
 
-3. La fonction `Masquer après action` est maintenant activée/désactivée. L'activation est indiquée par une coche à l'intérieur de la case.
+3. La fonction `Dissimuler après l'action` est maintenant activée/désactivée. L'activation est indiquée par une coche à l'intérieur de la case.
 
    ![VitalControl Lists Action list](../images/hideafteraction.png "Masquer après action")

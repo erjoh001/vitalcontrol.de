@@ -19,9 +19,9 @@ Pour créer un filtre dans les évaluations, procédez comme suit :
 
 1. Dans le sous-menu appartenant à l'élément de menu principal <img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluation" /> `Évaluation` appuyez une fois sur la touche `F3` <img src="/icons/footer/filter.svg" width="25" align="bottom" alt="Filtre" />. Dans le sous-menu appartenant aux éléments de menu principaux <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" /> `Listes` et <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Troupeau" /> `Troupeau`, vous devez appuyer deux fois sur la touche.
 
-2. Un sous-menu s'ouvre dans lequel vous pouvez régler toutes les options de filtrage. Vous pouvez filtrer par `ID de l'animal`, `Âge`, `Sexe`, `Transpondeur`, `ID national de l'animal`, `Fièvre`, `Sous surveillance`, `Type d'animal` et `Alarme`.
+2. Un sous-menu s'ouvre dans lequel vous pouvez régler toutes les options de filtrage. Vous pouvez filtrer par `ID de l'animal`, `Âge`, `Sexe`, `Transpondeur`, `N° de la boucle`, `Fièvre`, `Observation`, `Type d'animal` et `Alarme`.
 
-3. Pour les filtres `Type d'animal`, `Sexe`, `Transpondeur` et `ID national de l'animal` naviguez vers la zone correspondante et confirmez avec `OK`. Utilisez les touches fléchées ◁ ▷ pour spécifier le réglage souhaité. Utilisez la touche `F3` `Appliquer` pour mettre en place le réglage sélectionné. Pour annuler vos modifications de filtre, appuyez sur la touche `F1` &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Retour" />&nbsp;.
+3. Pour les filtres `Type d'animal`, `Sexe`, `Transpondeur` et `N° de la boucle` naviguez vers la zone correspondante et confirmez avec `OK`. Utilisez les touches fléchées ◁ ▷ pour spécifier le réglage souhaité. Utilisez la touche `F3` `Appliquer` pour mettre en place le réglage sélectionné. Pour annuler vos modifications de filtre, appuyez sur la touche `F1` &nbsp;<img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Retour" />&nbsp;.
 
 ![VitalControl : menu Évaluation Créer un filtre](images/filter.png "Créer un filtre")
 
@@ -29,7 +29,7 @@ Pour créer un filtre dans les évaluations, procédez comme suit :
 
 ![VitalControl : menu Évaluation Créer un filtre](images/filter2.png "Créer un filtre")
 
-5. Pour les filtres `Fièvre`, `Sous surveillance` et `Alarme`, il est possible de désactiver ou d'activer leur application. Pour ce faire, sélectionnez le filtre correspondant et confirmez avec `OK`. Le filtre est maintenant actif. Confirmez de nouveau avec `OK` pour désactiver le filtre.
+5. Pour les filtres `Fièvre`, `Observation` et `Alarme`, il est possible de désactiver ou d'activer leur application. Pour ce faire, sélectionnez le filtre correspondant et confirmez avec `OK`. Le filtre est maintenant actif. Confirmez de nouveau avec `OK` pour désactiver le filtre.
 
 ![VitalControl : menu Évaluation Créer un filtre](images/filter3.png "Créer un filtre")
 

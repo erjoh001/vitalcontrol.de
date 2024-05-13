@@ -19,7 +19,7 @@ Lors de l'évaluation de l'animal, vous documentez l'état de l'animal individue
 Une évaluation jaune ou rouge signifie que VitalControl classe l'animal comme remarquable et le place sur la liste d'alarme.
 {{% /alert %}}
 
-1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` et appuyez sur le bouton `OK`.
+1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
 
 2. Soit scannez un animal à l'aide du transpondeur, soit sélectionnez un animal dans la liste. Confirmez avec `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
 

@@ -14,7 +14,7 @@ translationKey: actions/settings
 
 Dans ce menu de paramètres, vous déterminez quelles actions vous sont montrées dans le menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action`.
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
 
 2. Utilisez le bouton `On/Off` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chaîne d'actions" />&nbsp; directement ou scannez d'abord un animal.
 
@@ -32,7 +32,7 @@ Dans ce menu de paramètres, vous déterminez quelles actions vous sont montrée
 
 Dans ce menu de paramètres, vous configurez la &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chaîne d'actions" />&nbsp; `chaîne d'actions`.
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `action` et appuyez sur le bouton `OK`.
 
 2. Utilisez le bouton `Aan/Uit` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Chaîne d'actions" />&nbsp; directement ou scannez d'abord un animal.
 
