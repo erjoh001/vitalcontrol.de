@@ -1,10 +1,10 @@
 main:
   - name: Menüstruktur
     url: /docs/menuebaum/
-    weight: 40
+    weight: 30
   - name: Demonstrator
     url: /demo/
-    weight: 42
+    weight: 40
   - name: Firmware
     url: /docs/firmware/
-    weight: 43
+    weight: 50

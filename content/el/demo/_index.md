@@ -1,5 +1,6 @@
 ---
 title: Demo application VitalControl - Greek
-type: "docs"
+linkTitle: Demo application
+type: docs
 ---
 {{< demo lang="el" >}}

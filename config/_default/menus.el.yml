@@ -1,7 +1,10 @@
 main:
-  - name: Αρχική σελίδα VitalControl (στα αγγλικά)
-    url: ../en/
-    weight: 10
-  - name: Τεκμηρίωση (στα αγγλικά)
-    url: ../en/docs/
-    weight: 20
+  - name: Δομή Μενού
+    url: /docs/menu-tree/
+    weight: 30
+  - name: Δοκιμαστική εφαρμογή
+    url: /demo/
+    weight: 40
+  - name: Firmware
+    url: /docs/firmware/
+    weight: 50
