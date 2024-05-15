@@ -9,7 +9,7 @@ categories: [Andmete varundamine]
 tags: [varundusfail, USB mälupulk]
 translationKey: backup
 ---
-{{% usb-drive/en "Selleks, et teostada oma seadmele andmete varundamist," %}}
+{{% usb-drive/et "Selleks, et teostada oma seadmele andmete varundamist," %}}
 
 ## Andmete varundamine
 

@@ -9,7 +9,7 @@ categories: [Tietojen vienti]
 tags: [CSV-tiedostot, USB-muistitikku]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "Jotta voit viedä laitteesi tiedot," %}}
+{{% usb-drive/fi "Jotta voit viedä laitteesi tiedot," %}}
 
 ## Suorita tietojen vienti
 

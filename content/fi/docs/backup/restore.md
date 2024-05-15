@@ -7,7 +7,7 @@ description: >
  VitalControl-laitteen koko datan voi palauttaa toiselle laitteelle käyttäen varmuuskopiotiedostoa.
 translationKey: restore
 ---
-{{% usb-drive/en "Jotta voit palauttaa tietovarauksen VitalControl-laitteeseesi," %}}
+{{% usb-drive/fi "Jotta voit palauttaa tietovarauksen VitalControl-laitteeseesi," %}}
 
 Tällä USB-muistitikulla on oltava hakemisto `backup`, joka sisältää kelvollisen **tietovarauksen tiedoston `backup.vcu`**.
 

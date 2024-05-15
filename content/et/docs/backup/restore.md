@@ -7,7 +7,7 @@ description: >
  Andmete taastamise teel saab VitalControl seadme kogu andmestiku taastada teisele seadmele, kasutades varundusfaili.
 translationKey: restore
 ---
-{{% usb-drive/en "Andmete varunduse taastamiseks teie VitalControl seadmesse," %}}
+{{% usb-drive/et "Andmete varunduse taastamiseks teie VitalControl seadmesse," %}}
 
 Sellel USB mälupulgal peab olema kaust `backup`, mis peab sisaldama kehtivat **andmete varundusfaili `backup.vcu`**.
 

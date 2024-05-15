@@ -9,7 +9,7 @@ categories: [Gegevensexport]
 tags: [CSV-bestanden, USB-stick]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "Om een export van uw apparaatgegevens uit te voeren," %}}
+{{% usb-drive/nl "Om een export van uw apparaatgegevens uit te voeren," %}}
 
 ## Voer gegevensexport uit
 

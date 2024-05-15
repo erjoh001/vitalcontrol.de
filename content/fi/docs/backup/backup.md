@@ -9,7 +9,7 @@ categories: [Tietojen varmuuskopiointi]
 tags: [varmuuskopiotiedosto, USB-muistitikku]
 translationKey: backup
 ---
-{{% usb-drive/en "Jotta voit suorittaa laitteellesi tietojen varmuuskopioinnin," %}}
+{{% usb-drive/fi "Jotta voit suorittaa laitteellesi tietojen varmuuskopioinnin," %}}
 
 ## Suorita tietojen varmuuskopiointi
 

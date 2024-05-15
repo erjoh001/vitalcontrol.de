@@ -9,7 +9,7 @@ categories: [Exportation de données]
 tags: [Fichiers CSV, Clé USB]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "Afin de réaliser une exportation des données de votre appareil," %}}
+{{% usb-drive/fr "Afin de réaliser une exportation des données de votre appareil," %}}
 
 ## Réaliser l'exportation des données
 

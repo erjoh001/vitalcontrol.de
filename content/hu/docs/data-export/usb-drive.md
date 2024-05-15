@@ -9,7 +9,7 @@ categories: [Adatok exportálása]
 tags: [CSV fájlok, USB flash meghajtó]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "Az eszköz adatainak exportálásához," %}}
+{{% usb-drive/hu "Az eszköz adatainak exportálásához," %}}
 
 ## Adatok exportálása
 

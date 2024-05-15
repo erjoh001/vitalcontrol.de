@@ -9,7 +9,7 @@ categories: [Andmete eksport]
 tags: [CSV failid, USB mälupulk]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "Selleks, et teostada oma seadme andmete eksporti," %}}
+{{% usb-drive/et "Selleks, et teostada oma seadme andmete eksporti," %}}
 
 ## Viige läbi andmete eksport
 
