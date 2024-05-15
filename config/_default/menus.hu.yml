@@ -1,8 +1,8 @@
 main:
-  - name: Menu structure
+  - name: Menüstruktúra
     url: /docs/menu-tree/
     weight: 30
-  - name: Demo app
+  - name: Demó alkalmazás
     url: /demo/
     weight: 40
   - name: Firmware

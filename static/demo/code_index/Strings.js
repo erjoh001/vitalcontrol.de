@@ -1319,7 +1319,7 @@ A6j={1:"aktivnosti aparata",2:"\u0414\u0435\u0439\u0441\u0442\u0432\u0438\u044F 
 "\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+"\u0438\n\u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u0438"
 ,4:"Ve\u0161ker\xE1 data za\u0159\xEDzen\xED a zv\xED\u0159at",5:"Alle enheds- og dyredata"
 ,0:"All device and\nanimal data",6:"Alle dieren en data",7:"K\xF5ik seadme- ja\nloomaandmed"
-,8:"Kaikki laite- ja el\xE4intiedot",9:"Toutes les donn\xE9es des animaux et de l\'appareils"
+,8:"Kaikki laite- ja el\xE4intiedot",9:"Toutes donn\xE9es ani~maux et de l\'appareils"
 ,10:"Alle Tier- und\nGer\xE4tedaten",11:"\u038C\u03BB\u03B1 \u03C4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 "+
 "\u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03CE\u03BD \u03BA\u03B1\u03B9 \u03B6\u03CE\u03C9\u03BD"
 ,12:"\xD6sszes eszk\xF6z- \xE9s \xE1llatadat",13:"Tutti i dati di dispositivi e animali"
@@ -2162,7 +2162,7 @@ C.BiV={1:"elektronska u\u0161na markica",2:"\u0415\u043B\u0435\u043A\u0442\u0440
 ,12:"Csoport",13:"Gruppo",15:"Grupa",16:"Gruppe",17:"Grupa",19:"Grup",20:"\u0413\u0440\u0443\u043F\u043F\u0430"
 ,21:"Grupo",22:"Grupp",23:"Grup",24:"\u0413\u0440\u0443\u043F\u0430"};C.A7f={1:"Oprema"
 ,2:"\u0425\u0440\u0434\u0443\u0435\u0440",4:"hardware",0:"Hardware",7:"Riistvara"
-,11:"\u03A5\u03BB\u03B9\u03BA\u03CC (Hardware)",12:"Szoftver",13:"Ferramenta",15:
+,11:"\u03A5\u03BB\u03B9\u03BA\u03CC (Hardware)",12:"Hardver",13:"Ferramenta",15:
 "Aparat\u016Bra",16:"Maskinvare",17:"Sprz\u0119t komputerowy",19:"Feronerie",20:
 "\u041E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u0435",22:"H\xE5rdvara"
 ,23:"Donan\u0131m",24:"\u0430\u043F\u0430\u0440\u0430\u0442\u043D\u0435 \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F"

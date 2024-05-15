@@ -632,7 +632,7 @@ this,arguments);else return C.DeviceClass.BuW.apply(this,arguments);},BuW:functi
 );else return C.DeviceClass.BuX.apply(this,arguments);},BuX:function(){return 1;
 },GetCommitCount:function(){return 2176;},GetCommitEpoch:function(){return 1715341073;
 },GetCommitHash:function(){return A.kR.Bh8;},GetVersionMajor:function(){return 0;
-},GetVersionMinor:function(){return 9;},GetVersionRev:function(){return 9;},AFC:
+},GetVersionMinor:function(){return 9;},GetVersionRev:function(){return 10;},AFC:
 function(E){if(this.K&&this.K.AFC)return this.K.AFC.apply(this,arguments);else return C.
 DeviceClass.BvG.apply(this,arguments);},BvG:function(E){},BbD:function(Aq){this.
 AFC(Aq);},UpdateMaximumAgeNewOnFarm:function(AK){if(this.Av4===AK)return;this.Av4=
