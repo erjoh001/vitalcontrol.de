@@ -67,8 +67,8 @@ For troubleshooting purposes, it can be convenient to have the source code of th
 To do so, clone the latest version of the docsy theme into the parent folder of the `vitalcontrol.de` project. The newly created repo should now reside in a sibling folder of our site's root folder.
 
 ```shell
-cd /path/to/your/projects/
-git clone --branch v0.9.1 https://github.com/google/docsy.git ../docsy
+cd /path/to/your/local-site-repo/
+git clone --branch v0.10.0 https://github.com/google/docsy.git ../docsy
 ```
 
 Now open the file `hugo.work`, located in the root of your site repo.
