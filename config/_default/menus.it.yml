@@ -1,7 +1,10 @@
 main:
-  - name: Homepage VitalControl (in English)
-    url: ../en/
-    weight: 10
-  - name: Documentation (in English)
-    url: ../en/docs/
-    weight: 20
+  - name: Struttura del menu
+    url: /docs/menu-tree/
+    weight: 30
+  - name: App demo
+    url: /demo/
+    weight: 40
+  - name: Firmware
+    url: /docs/firmware/
+    weight: 50
