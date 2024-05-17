@@ -38,12 +38,12 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 acn=(function(){var A=index;var C={};
 
 C.AhA={_Init:function(aArg){A.Core.P._Init.call(this,aArg);this.__proto__=C.AhA;}
-,_className:"Templates::PushButton"};C.Jf={_Init:function(aArg){A.Core.P._Init.call(
-this,aArg);this.__proto__=C.Jf;},_className:"Templates::TextEditor"};C.Menu={_Init:
+,_className:"Templates::PushButton"};C.Jg={_Init:function(aArg){A.Core.P._Init.call(
+this,aArg);this.__proto__=C.Jg;},_className:"Templates::TextEditor"};C.Menu={_Init:
 function(aArg){A.Core.P._Init.call(this,aArg);this.__proto__=C.Menu;},_className:
 "Templates::Menu"};C.Ahy={_Init:function(aArg){A.Core.P._Init.call(this,aArg);this.
 __proto__=C.Ahy;},_className:"Templates::PickerControl"};
-C._Init=function(){C.AhA.__proto__=A.Core.P;C.Jf.__proto__=A.Core.P;C.Menu.__proto__=
+C._Init=function(){C.AhA.__proto__=A.Core.P;C.Jg.__proto__=A.Core.P;C.Menu.__proto__=
 A.Core.P;C.Ahy.__proto__=A.Core.P;};C._ReInit=function(){};C.DH=function(D){};return C;
 })();
 

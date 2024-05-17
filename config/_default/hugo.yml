@@ -81,11 +81,17 @@ module:
       target: static/fr/demo
       lang: fr
     - source: static/demo
+      target: static/hr/demo
+      lang: hr
+    - source: static/demo
       target: static/hu/demo
       lang: hu
     - source: static/demo
       target: static/it/demo
       lang: it
+    - source: static/demo
+      target: static/lt/demo
+      lang: lt
     - source: static/demo
       target: static/lv/demo
       lang: lv
@@ -99,11 +105,17 @@ module:
       target: static/pl/demo
       lang: pl
     - source: static/demo
+      target: static/pt/demo
+      lang: pt
+    - source: static/demo
       target: static/ro/demo
       lang: ro
     - source: static/demo
       target: static/ru/demo
       lang: ru
+    - source: static/demo
+      target: static/sl/demo
+      lang: sl
     - source: static/demo
       target: static/sv/demo
       lang: sv

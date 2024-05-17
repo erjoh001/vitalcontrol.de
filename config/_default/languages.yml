@@ -51,6 +51,10 @@ fr:
   languageName: French
   contentDir: content/fr
   weight: 80
+hr:
+  languageName: Hrvatski
+  contentDir: content/hr
+  weight: 95
 hu:
   languageName: Magyar
   contentDir: content/hu
@@ -59,6 +63,10 @@ it:
   languageName: Italiano
   contentDir: content/it
   weight: 93
+lt:
+  languageName: Lietuviškas
+  contentDir: content/lt
+  weight: 94
 lv:
   languageName: Latviešu
   contentDir: content/lv
@@ -75,6 +83,10 @@ pl:
   languageName: Polski
   contentDir: content/pl
   weight: 120
+pt:
+  languageName: Português
+  contentDir: content/pt
+  weight: 122
 ro:
   languageName: Română
   contentDir: content/ro
@@ -83,10 +95,14 @@ ru:
   languageName: Русский
   contentDir: content/ru
   weight: 125
-sv:
+sl:
   languageName: Svenska
-  contentDir: content/sv
+  contentDir: content/sl
   weight: 125
+sv:
+  languageName: Slovenščina
+  contentDir: content/sv
+  weight: 128
 tr:
   languageName: Türkçe
   contentDir: content/tr

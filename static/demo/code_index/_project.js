@@ -39,8 +39,9 @@ index=(function(){var A={__proto__:EmWiCompr_13_03};
 A.Bosnian=1;A.Bulgarian=2;A.Chinese_TWN=3;A.Czech=4;A.Danish=5;A.Default=0;A.Dutch=
 6;A.Estonian=7;A.Finnish=8;A.French=9;A.German=10;A.Greek=11;A.Hungarian=12;A.Italian=
 13;A.Japanese=14;A.Latvian=15;A.Norwegian=16;A.Polish=17;A.Portuguese=18;A.Romanian=
-19;A.Russian=20;A.Spanish=21;A.Swedish=22;A.Turkish=23;A.Ukrainian=24;
-A.abC=[1000,740];A.rs=function(){return A.kR.AMO;};A.zU="URBAN VitalControl - Demo App";
+19;A.Russian=20;A.Spanish=21;A.Swedish=22;A.Turkish=23;A.Ukrainian=24;A.Croatian=
+25;A.Lithuanian=26;A.Slovenian=27;
+A.abC=[1000,740];A.rs=function(){return A.kR.AMQ;};A.zU="URBAN VitalControl - Demo App";
 A.o7=0;A.wA=0;A.j0=[];A._Init=function(){A.Core._Init();A.acl._Init();A.Graphics.
 _Init();A.aci._Init();A.acg._Init();A.kR._Init();A.acf._Init();A.ach._Init();A.jb.
 _Init();A.fl._Init();A.acx._Init();A.acn._Init();A.acv._Init();A.Device._Init();
