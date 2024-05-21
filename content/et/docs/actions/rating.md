@@ -60,5 +60,5 @@ Kui te ei tee valikut nooleklahvidega ◁ ▷, vaid salvestate otse klahviga `F3
 {{< /tabpane >}}
 
 {{% alert title="Vihje" %}}
-Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus menüüs [tegevuste seaded](../settings/). Alternatiivina kõigi tegevuste lähtestamine toob selle tegevuse tagasi.
+Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus menüüs [tegevuste seaded](../setting/). Alternatiivina kõigi tegevuste lähtestamine toob selle tegevuse tagasi.
 {{% /alert %}}

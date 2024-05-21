@@ -37,11 +37,11 @@ Pour exporter des données, vous avez besoin de la clé USB incluse. Connectez l
 
 En plus de créer le fichier d'exportation, vous disposez des options suivantes :
 
-- [Changer](#change-between-list-view-and-single-animal-view) entre la vue liste et la vue animal unique
-- [Effacer tous les avis de naissance](../purchased-animals/#clear-all-purchase-notices)
-- [Supprimer animal + avis](../purchased-animals/#delete-animal--purchase-notice)
-- [Effacer l'avis de naissance](../purchased-animals/#clear-notice-of-purchase)
-- [Modifier](#edit-data-of-birth-notice) un avis
+- [Changer](#changer-entre-la-vue-liste-et-la-vue-animal-unique) entre la vue liste et la vue animal unique
+- [Effacer tous les avis de naissance](../purchased-animals/#effacer-toutes-les-notifications-dachat)
+- [Supprimer animal + avis](../purchased-animals/#supprimer-un-animal--avis-dachat)
+- [Effacer l'avis de naissance](../purchased-animals/#effacer-lavis-dachat)
+- [Modifier](#modifier-les-données-de-lavis-de-naissance) un avis
 
 {{% alert title="Conseil" %}}
 Certaines actions sont identiques aux actions dans la liste `Animaux achetés`. Suivez les liens vers les instructions étape par étape. Ouvrez toujours la liste `Naissances` en premier comme décrit dans les instructions ci-dessus.

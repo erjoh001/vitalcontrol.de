@@ -13,7 +13,7 @@ translationKey: actions/animal-rating
 
 ## Évaluez vos animaux
 
-Lors de l'évaluation de l'animal, vous documentez l'état de l'animal individuel. L'état est déterminé visuellement et enregistré à l'aide du système de feux de circulation. Dans l'évaluation de base, seul l'état général est enregistré. Dans l'évaluation étendue, vous enregistrez l'état général, l'ingestion de nourriture, la consistance des fèces et les maladies respiratoires. Vous pouvez soit changer le mode d'évaluation directement dans l'action <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Évaluation" /> `Évaluation` ou vous pouvez le définir dans les [paramètres](../../settings/data-acquisition/#mode-of-animal-rating).
+Lors de l'évaluation de l'animal, vous documentez l'état de l'animal individuel. L'état est déterminé visuellement et enregistré à l'aide du système de feux de circulation. Dans l'évaluation de base, seul l'état général est enregistré. Dans l'évaluation étendue, vous enregistrez l'état général, l'ingestion de nourriture, la consistance des fèces et les maladies respiratoires. Vous pouvez soit changer le mode d'évaluation directement dans l'action <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Évaluation" /> `Évaluation` ou vous pouvez le définir dans les [paramètres](../../settings/data-acquisition/#mode-dévaluation-des-animaux).
 
 {{% alert title="Conseil" %}}
 Une évaluation jaune ou rouge signifie que VitalControl classe l'animal comme remarquable et le place sur la liste d'alarme.
@@ -60,5 +60,5 @@ Si vous ne faites pas de sélection en utilisant les touches fléchées ◁ ▷ 
 {{< /tabpane >}}
 
 {{% alert title="Astuce" %}}
-Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../settings/). Alternativement, la réinitialisation de toutes les actions fera réapparaître cette action.
+Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../setting/). Alternativement, la réinitialisation de toutes les actions fera réapparaître cette action.
 {{% /alert %}}

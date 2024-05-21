@@ -1,14 +1,14 @@
 ---
 title: Ρυθμίσεις δράσεων
 linkTitle: Ρυθμίσεις
-slug: settings
+slug: setting
 weight: 120
 description: >
  Ρυθμίστε τα στοιχεία του μενού για το μενού Δράσεις και ορίστε την αλυσίδα δράσεων
 date: 2023-07-26
 categories: [Δράσεις, Αλυσίδα Δράσεων]
 tags: [Δράσεις, Αλυσίδα δράσεων]
-translationKey: actions/settings
+translationKey: actions/setting
 ---
 ## Στοιχεία μενού
 

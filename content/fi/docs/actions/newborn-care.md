@@ -30,5 +30,5 @@ läheltä. Suorittaaksesi `vastasyntyneen hoito` toiminnon, toimi seuraavasti:
     ![VitalControl: Menu Action Newborn care](../images/newborncare.png "Vastasyntyneen hoito")
 
 {{% alert title="Vihje" %}}
-Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti deaktivoitu! Aktivoi toiminto [toimintoasetukset](../settings/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen tuo kyseisen toiminnon takaisin.
+Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti deaktivoitu! Aktivoi toiminto [toimintoasetukset](../setting/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen tuo kyseisen toiminnon takaisin.
 {{% /alert %}}

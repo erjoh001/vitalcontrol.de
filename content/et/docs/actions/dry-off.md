@@ -59,5 +59,5 @@ Sõltuvalt lehma algsest seisundist võid looma kuivatada ja lisada ta kuivatite
 
 
 {{% alert title="Vihje" %}}
-Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus [tegevuste seadistuste](../settings/) menüüs. Alternatiivina kõikide tegevuste lähtestamine toob selle tegevuse tagasi.
+Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus [tegevuste seadistuste](../setting/) menüüs. Alternatiivina kõikide tegevuste lähtestamine toob selle tegevuse tagasi.
 {{% /alert %}}

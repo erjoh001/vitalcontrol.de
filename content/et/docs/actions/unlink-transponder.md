@@ -11,7 +11,7 @@ tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Hoiatus" color="warning" %}}
-See toiming ei ole vaikimisi lubatud! Aktiveerige see, nagu kirjeldatud [toimingute seadistuses](../settings/).
+See toiming ei ole vaikimisi lubatud! Aktiveerige see, nagu kirjeldatud [toimingute seadistuses](../setting/).
 {{% /alert %}}
 
 ## Eemalda transponderi link

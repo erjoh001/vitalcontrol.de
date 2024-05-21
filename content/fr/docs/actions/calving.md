@@ -1,7 +1,7 @@
 ---
 title: Veaux
 linkTitle: Veaux
-slug: veaux
+slug: calving
 weight: 115
 description: >
   Enregistrer un vêlage
@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Astuce" %}}
 Cette fonction est uniquement affichée pour les vaches, mais pas pour les veaux ou les agneaux.
-Si vous n'avez pas besoin de cette fonction, vous pouvez la désactiver dans le menu [paramètres d'action](../settings/).
+Si vous n'avez pas besoin de cette fonction, vous pouvez la désactiver dans le menu [paramètres d'action](../setting/).
 {{% /alert %}}
 
 ## Enregistrer un vêlage

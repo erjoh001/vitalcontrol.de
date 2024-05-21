@@ -14,10 +14,10 @@ translationKey: data-export/data-files
 
 Lors de l'exportation des données animales, que ce soit vers la [clé USB][] ou vers un dispositif de stockage de masse local [sur le PC][], quatre fichiers d'exportation sont générés dans chaque cas :
 
-- [Données animales][] `(animals.csv)`
-- [Données de température corporelle][] `(temperatures.csv)`
-- [Données de poids][] `(weights.csv)`
-- [Évaluations des animaux][] `(ratings.csv)`
+- [Données animales](#données-animales-animalscsv) `(animals.csv)`
+- [Données de température corporelle](#données-de-température-corporelle-temperaturescsv) `(temperatures.csv)`
+- [Données de poids](#données-de-poids-weightscsv) `(weights.csv)`
+- [Évaluations des animaux](#évaluations-des-animaux-ratingscsv) `(ratings.csv)`
 
 [clé USB]: ../usb-drive/
 [sur le PC]: ../pc/

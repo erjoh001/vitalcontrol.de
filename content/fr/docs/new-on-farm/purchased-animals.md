@@ -47,11 +47,11 @@ Avec cette option, vous pouvez définir si tous les messages dans la liste `Anim
 
 En plus de créer le fichier d'exportation, vous disposez des options suivantes :
 
-- [Dissocier le transpondeur](#unlink-transponder)
-- [Effacer toutes les notifications d'achat](#clear-all-purchase-notices)
-- [Supprimer animal + notification](#delete-animal--purchase-notice)
-- [Effacer la notification d'achat](#clear-notice-of-purchase)
-- [Modifier une marque](#edit-data-of-purchased-animal)
+- [Dissocier le transpondeur](#dissocier-le-transpondeur)
+- [Effacer toutes les notifications d'achat](#effacer-toutes-les-notifications-dachat)
+- [Supprimer animal + notification](#supprimer-un-animal--avis-dachat)
+- [Effacer la notification d'achat](#effacer-lavis-dachat)
+- [Modifier une marque](#modifier-les-données-dun-animal-acheté)
 
 {{% alert title="Conseil" %}}
 Ouvrez toujours la liste des `animaux achetés` en premier comme décrit dans les instructions ci-dessus.

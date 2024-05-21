@@ -36,7 +36,7 @@ Met de actie `bekijken` plaats je dieren op de lijst 'in de gaten houden' of ver
 {{< /tabpane >}}
 
 {{% alert title="Tip" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../setting/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}
 
 Please paste the Markdown content you want to translate into Dutch.

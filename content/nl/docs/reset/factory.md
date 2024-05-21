@@ -11,7 +11,7 @@ translationKey: reset/factory
 
 1. Open het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
-2. Roep het submenu `Data management` op, navigeer naar het menu-item `Reset fabrieksinstellingen`. Laat de voorgestelde optie `Alleen dierdata` ongewijzigd.
+2. Roep het submenu `Data management` op, navigeer naar het menu-item `Reset fabrieksinstellingen`. Laat de voorgestelde optie `Alle dieren en data` ongewijzigd.
 
 3. Druk op de `OK` knop om de fabrieksreset te starten. Nu verschijnt er een pop-up met een beveiligingsvraag. Bevestig hier met `Ja`.
 

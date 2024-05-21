@@ -1,7 +1,7 @@
 ---
 title: Histoire des animaux
 linkTitle: Histoire des animaux
-slug: histoire-des-animaux
+slug: animal-history
 weight: 80
 description: >
  Consultez l'historique d'un animal.
@@ -42,5 +42,5 @@ Pour consulter l'historique des animaux, procédez comme suit :
 {{< /tabpane >}}
 
 {{% alert title="Astuce" %}}
-Si cette action n'est pas disponible, elle est probablement désactivée ! Activez l'action dans le menu [paramètres d'action](../settings/). Alternativement, réinitialiser toutes les actions ramènera cette action.
+Si cette action n'est pas disponible, elle est probablement désactivée ! Activez l'action dans le menu [paramètres d'action](../setting/). Alternativement, réinitialiser toutes les actions ramènera cette action.
 {{% /alert %}}

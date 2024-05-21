@@ -37,7 +37,7 @@ Ha az átlagos súly nagyon erősen eltér egy irányba (túl magas/túl alacson
 {{< /tabpane >}}
 
 {{% alert title="Tipp" %}}
-Ha ez a művelet nem elérhető, valószínűleg deaktiválták! Aktiválja a műveletet az [művelet beállítások](../settings/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
+Ha ez a művelet nem elérhető, valószínűleg deaktiválták! Aktiválja a műveletet az [művelet beállítások](../setting/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
 {{% /alert %}}
 
 

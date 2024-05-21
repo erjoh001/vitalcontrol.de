@@ -37,5 +37,5 @@ Kui keskmine kaal kaldub tugevalt ühes suunas (liiga kõrge/liiga madal), tulek
 {{< /tabpane >}}
 
 {{% alert title="Vihje" %}}
-Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveeri tegevus menüüs [tegevuste seaded](../settings/). Alternatiivina, kõikide tegevuste taastamine toob selle tegevuse tagasi.
+Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveeri tegevus menüüs [tegevuste seaded](../setting/). Alternatiivina, kõikide tegevuste taastamine toob selle tegevuse tagasi.
 {{% /alert %}}

@@ -22,5 +22,5 @@ Seade loetleb nüüd kõik seadme riistvarakomponendid koos nende olekuga. Ideaa
    ![VitalControl: Menüütee riistvarakomponentide kontrolliks](../images/device-check.png "Riistvara kontroll")
 
 {{% alert title="MÄRKUS" %}}
-Kui kõigi komponentide olek on näidatud kui terved (rohelised täpid) ja seadmel esineb endiselt rike, võib tegemist olla tarkvaraveaga. Sellisel juhul võtke ühendust oma kohaliku edasimüüja või tootja [teenindusnumbriga](https://www.urbanonline.de/et/contact).
+Kui kõigi komponentide olek on näidatud kui terved (rohelised täpid) ja seadmel esineb endiselt rike, võib tegemist olla tarkvaraveaga. Sellisel juhul võtke ühendust oma kohaliku edasimüüja või tootja [teenindusnumbriga](https://www.urbanonline.de/en/contact).
 {{% /alert %}}

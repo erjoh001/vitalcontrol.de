@@ -43,5 +43,5 @@ Looma ajaloo vaatamiseks toimige järgmiselt:
 {{< /tabpane >}}
 
 {{% alert title="Vihje" %}}
-Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveeri tegevus [tegevuste seadistuste](../settings/) menüüs. Alternatiivina taastab kõikide tegevuste lähtestamine selle tegevuse.
+Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveeri tegevus [tegevuste seadistuste](../setting/) menüüs. Alternatiivina taastab kõikide tegevuste lähtestamine selle tegevuse.
 {{% /alert %}}

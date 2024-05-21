@@ -53,5 +53,5 @@ Eläintietojen muuttamiseksi toimi seuraavasti:
 {{< /tabpane >}}
 
 {{% alert title="Vihje" %}}
-Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti deaktivoitu! Aktivoi toiminto [toimintoasetukset](../settings/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen palauttaa kyseisen toiminnon.
+Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti deaktivoitu! Aktivoi toiminto [toimintoasetukset](../setting/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen palauttaa kyseisen toiminnon.
 {{% /alert %}}

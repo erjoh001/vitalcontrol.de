@@ -11,7 +11,7 @@ tags: [Transpondeur]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Attention" color="warning" %}}
-Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètre d'action](../settings/).
+Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètre d'action](../setting/).
 {{% /alert %}}
 
 ## Détacher le transpondeur

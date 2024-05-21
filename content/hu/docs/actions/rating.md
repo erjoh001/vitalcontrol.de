@@ -60,5 +60,5 @@ Ha nem választ a nyílbillentyűkkel ◁ ▷, hanem közvetlenül az `F3` vagy 
 {{< /tabpane >}}
 
 {{% alert title="Tipp" %}}
-Ha ez a művelet nem elérhető, valószínűleg a művelet le van tiltva! Aktiválja a műveletet az [művelet beállítások](../settings/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
+Ha ez a művelet nem elérhető, valószínűleg a művelet le van tiltva! Aktiválja a műveletet az [művelet beállítások](../setting/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
 {{% /alert %}}

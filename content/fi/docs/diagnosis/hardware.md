@@ -22,5 +22,5 @@ Laite listaa nyt kaikki laitteen laitteistokomponentit yhdessä niiden tilan kan
    ![VitalControl: Valikkopolku laitteiston komponenttien tarkistukseen](../images/device-check.png "Laitteiston tarkistus")
 
 {{% alert title="HUOMAUTUS" %}}
-Jos kaikkien komponenttien tila näytetään ehjänä (vihreät pisteet) ja laitteessa on silti toimintahäiriö, voi kyseessä olla ohjelmistovika. Tässä tapauksessa ota yhteyttä paikalliseen jälleenmyyjääsi tai valmistajan [huoltopuhelimeen](https://www.urbanonline.de/de/contact).
+Jos kaikkien komponenttien tila näytetään ehjänä (vihreät pisteet) ja laitteessa on silti toimintahäiriö, voi kyseessä olla ohjelmistovika. Tässä tapauksessa ota yhteyttä paikalliseen jälleenmyyjääsi tai valmistajan [huoltopuhelimeen](https://www.urbanonline.de/en/contact).
 {{% /alert %}}

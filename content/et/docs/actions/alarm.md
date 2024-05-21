@@ -36,5 +36,5 @@ Tegevusega `Alarm` panete loomi alarmide nimekirja või eemaldate neid sealt. Al
 {{< /tabpane >}}
 
 {{% alert title="Vihje" %}}
-Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus menüüs [tegevuste seaded](../settings/). Alternatiivina kõikide tegevuste lähtestamine toob selle tegevuse tagasi.
+Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus menüüs [tegevuste seaded](../setting/). Alternatiivina kõikide tegevuste lähtestamine toob selle tegevuse tagasi.
 {{% /alert %}}

@@ -34,7 +34,7 @@ Pour régler l'`Attribution ID animal` sur votre appareil, procédez comme suit.
 
 4. Utilisez les touches fléchées ◁ ▷ pour régler l'attribution des numéros d'animaux. Si vous sélectionnez le réglage `Dérivation du N° du transpondeur`, vous obtiendrez les options pour régler les `Chiffres du nouvel ID` et le `Offset droit`. Utilisez les touches fléchées △ ▽ pour sélectionner la plage appropriée et les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
 
-5. Sélectionnez l'option `Consécutif` ou `Dérivation du numéro de transpondeur` et procédez comme décrit dans la page [Attribution ID animal](../animal-registration/#assignment-animal-id).
+5. Sélectionnez l'option `Consécutif` ou `Dérivation du numéro de transpondeur` et procédez comme décrit dans la page [Attribution ID animal](../animal-registration/#chiffre-du-nouvel-identifiant).
 
 ![VitalControl : lien du transpondeur dans les paramètres du menu](../images/assignmentanimalid.png "Attribution d'identifiant animal")
 

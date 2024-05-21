@@ -60,5 +60,5 @@ Als u geen selectie maakt met de pijltoetsen ◁ ▷ maar direct opslaat met de 
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/instellingen/) menu. Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/setting/) menu. Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
 {{% /alert %}}

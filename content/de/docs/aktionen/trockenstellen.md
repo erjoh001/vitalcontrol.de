@@ -12,7 +12,7 @@ translationKey: actions/dry-cows
 ---
 {{% alert title="Hinweise" %}}
 Diese Funktion wird ihnen nur bei Kühen angezeigt, nicht aber bei Kälbern oder bei Lämmern.
-Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/) deaktivieren.
+Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/) deaktivieren.
 {{% /alert %}}
 
 ## Trockenstellen
@@ -62,5 +62,5 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 {{< /tabpane >}}
 
 {{% alert title="Hinweis" %}}
-Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü](/docs/aktionen/einstellungen/) zu den Aktionen. Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+Sollte diese Aktion für eine Kuh nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü](/docs/aktionen/einstellung/) zu den Aktionen. Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
 {{% /alert %}}

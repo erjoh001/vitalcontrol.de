@@ -36,5 +36,5 @@ De actie `Dier verloren` stelt u in staat om een dierverlies te registreren. Om 
 {{< /tabpane >}}
 
 {{% alert title="Tip" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../setting/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}

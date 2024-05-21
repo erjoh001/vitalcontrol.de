@@ -1,14 +1,14 @@
 ---
 title: Actie-instellingen
 linkTitle: Instellingen acties
-slug: instellingen
+slug: setting
 weight: 120
 description: >
  Stel de menu-items in voor het Actie-menu en stel de actieketen in
 date: 2023-07-26
 categories: [Acties, Actieketen]
 tags: [Acties, Actieketen]
-translationKey: actions/settings
+translationKey: actions/setting
 ---
 ## Menuonderdelen
 

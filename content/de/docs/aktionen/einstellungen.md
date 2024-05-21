@@ -1,7 +1,7 @@
 ---
 title: Aktionsbezogene Einstellungen vornehmen
 linkTitle: Einstellungen
-slug: einstellungen
+slug: einstellung
 weight: 120
 description: >
  Stellen Sie die Sichtbarkeit und Reihenfolge der Menüeinträge ein und legen die Einzelaktionen der Aktionskette fest.

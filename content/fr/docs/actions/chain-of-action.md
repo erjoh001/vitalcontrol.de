@@ -1,7 +1,7 @@
 ---
 title: Appliquer la chaîne d'actions
 linkTitle: Chaîne d'actions
-slug: chaine-d-actions
+slug: chain-of-action
 weight: 50
 description: >
  Appliquer et configurer la chaîne d'actions.

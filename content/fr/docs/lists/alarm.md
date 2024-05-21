@@ -15,14 +15,14 @@ translationKey: lists/alarm
 
 Dans la liste des alarmes, vous trouverez tous les animaux que vous avez ajoutés manuellement à la liste ou tous les animaux qui étaient dans la zone jaune ou rouge lors de la mesure de la température. La liste vous aide à garder un aperçu de tous les animaux remarquables. De plus, pour chaque animal sur la liste, vous pouvez effectuer les actions suivantes :
 
-- [Menu d'action complet](#full-action-menu)
-- [Données de l'animal](#animal-data)
-- [Prendre la température](#take-temperature)
-- [Évaluer l'animal](#rate-animal)
-- [Effacer l'alarme](#clear-alarm)
-- [Changer le statut de surveillance](#toggle-watch-status)
-- [Rechercher un animal](#search-animal)
-- [Définir un filtre](#set-filter)
+- [Menu d'action complet](#menu-daction-complet)
+- [Données de l'animal](#données-sur-les-animaux)
+- [Prendre la température](#prendre-la-température)
+- [Évaluer l'animal](#évaluer-lanimal)
+- [Effacer l'alarme](#effacer-lalarme)
+- [Changer le statut de surveillance](#basculer-le-statut-de-surveillance)
+- [Rechercher un animal](#rechercher-un-animal)
+- [Définir un filtre](#définir-un-filtre)
 
 La liste des alarmes est structurée comme suit :
 
@@ -78,7 +78,7 @@ La liste des alarmes est structurée comme suit :
 
 3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
-4. La fonction [Mesurer la température](/fr/docs/actions/measure-temperature/#measure-fever) est maintenant lancée automatiquement.
+4. La fonction [Mesurer la température](/fr/docs/actions/measure-temperature/#mesurer-la-fièvre) est maintenant lancée automatiquement.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Prendre la température")
 
@@ -90,7 +90,7 @@ La liste des alarmes est structurée comme suit :
 
 3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
-4. La fonction [Évaluer l'animal](/fr/docs/actions/rating/#rate-your-animals) est maintenant lancée automatiquement.
+4. La fonction [Évaluer l'animal](/fr/docs/actions/rating/#évaluez-vos-animaux) est maintenant lancée automatiquement.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Évaluer l'animal")
 

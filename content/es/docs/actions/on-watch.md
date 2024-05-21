@@ -36,5 +36,5 @@ Con la acción `En seguimiento` colocas animales en la lista de vigilancia o los
 {{< /tabpane >}}
 
 {{% alert title="Consejo" %}}
-Si esta acción no está disponible, ¡probablemente ha sido desactivada! Activa la acción en el menú de [configuración de acciones](/es/docs/actions/settings/). Alternativamente, restablecer todas las acciones hará que esta acción vuelva a aparecer.
+Si esta acción no está disponible, ¡probablemente ha sido desactivada! Activa la acción en el menú de [configuración de acciones](/es/docs/actions/setting/). Alternativamente, restablecer todas las acciones hará que esta acción vuelva a aparecer.
 {{% /alert %}}

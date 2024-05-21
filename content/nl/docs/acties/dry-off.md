@@ -59,5 +59,5 @@ Afhankelijk van de initiële status van de koe, kun je het dier droogzetten en t
 
 
 {{% alert title="Hint" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer naar voren brengen.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../setting/) menu. Als alternatief zal het resetten van alle acties deze actie weer naar voren brengen.
 {{% /alert %}}

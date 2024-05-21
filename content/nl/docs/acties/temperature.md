@@ -92,5 +92,5 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Annuleer de actie")
 
 {{% alert title="Hint" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/instellingen/#menuonderdelen) menu. Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/setting/#menuonderdelen) menu. Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
 {{% /alert %}}

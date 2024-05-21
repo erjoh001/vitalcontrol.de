@@ -37,5 +37,5 @@ Si le poids moyen dévie très fortement dans une direction (trop haut/trop bas)
 {{< /tabpane >}}
 
 {{% alert title="Conseil" %}}
-Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../settings/). Alternativement, la réinitialisation de toutes les actions ramènera cette action.
+Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../setting/). Alternativement, la réinitialisation de toutes les actions ramènera cette action.
 {{% /alert %}}

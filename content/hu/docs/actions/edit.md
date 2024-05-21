@@ -54,5 +54,5 @@ Az állatadatok módosításához kövesse az alábbi lépéseket:
 
 
 {{% alert title="Tipp" %}}
-Ha ez a művelet nem elérhető, valószínűleg deaktiválták a műveletet! Aktiválja a műveletet az [akció beállítások](../settings/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
+Ha ez a művelet nem elérhető, valószínűleg deaktiválták a műveletet! Aktiválja a műveletet az [akció beállítások](../setting/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
 {{% /alert %}}

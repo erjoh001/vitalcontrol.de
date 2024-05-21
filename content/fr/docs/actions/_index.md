@@ -29,10 +29,10 @@ Selon le type d'animal, vous pouvez effectuer jusqu'à 16 actions différentes p
    <area shape="rect" coords="175,225,230,280" alt="Perte d'animal" title="Enregistrer une perte d'animal&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/animal-loss/">
    <area shape="rect" coords="3,280,60,337" alt="Associer un transpondeur" title="Attribuer un transpondeur à un animal&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/link-transponder/">
    <area shape="rect" coords="55,280,120,337" alt="Dissocier un transpondeur" title="Retirer l'association de transpondeur d'un animal&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/unlink-transponder/">
-   <area shape="rect" coords="120,280,175,337" alt="Associer manuellement un ID animal" title="Attribuer un ID national à un animal qui n'a pas d'ID national&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/link-animal-id/#link-animal-id">
-   <area shape="rect" coords="175,280,230,337" alt="Associer un ID animal avec scan" title="Attribuer un ID national à un animal qui n'a pas d'ID national&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
+   <area shape="rect" coords="120,280,175,337" alt="Associer manuellement un ID animal" title="Attribuer un ID national à un animal qui n'a pas d'ID national&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/link-animal-id/#lier-lid-animal">
+   <area shape="rect" coords="175,280,230,337" alt="Associer un ID animal avec scan" title="Attribuer un ID national à un animal qui n'a pas d'ID national&#10;Clic de souris : ouvrir la documentation" href="/fr/docs/actions/link-animal-id/#associer-lid-animal-avec-le-scan-de-la-boucle-doreille-électronique">
 
-<area shape="rect" coords="100,340,140,375" alt="Paramètres" title="Accéder aux paramètres&#10;Clic de souris : vers la documentation" href="/fr/docs/actions/settings/">
+<area shape="rect" coords="100,340,140,375" alt="Paramètres" title="Accéder aux paramètres&#10;Clic de souris : vers la documentation" href="/fr/docs/actions/setting/">
 </map>
 
 {{% alert title="Astuce" %}}

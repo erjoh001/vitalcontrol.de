@@ -53,5 +53,5 @@ Looma andmete muutmiseks toimi järgmiselt:
 {{< /tabpane >}}
 
 {{% alert title="Vihje" %}}
-Kui see toiming pole saadaval, on toiming tõenäoliselt deaktiveeritud! Aktiveeri toiming [toimingute seadistuste](../settings/) menüüs. Alternatiivina kõigi toimingute lähtestamine toob selle toimingu tagasi.
+Kui see toiming pole saadaval, on toiming tõenäoliselt deaktiveeritud! Aktiveeri toiming [toimingute seadistuste](../setting/) menüüs. Alternatiivina kõigi toimingute lähtestamine toob selle toimingu tagasi.
 {{% /alert %}}

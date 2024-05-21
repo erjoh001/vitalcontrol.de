@@ -32,7 +32,7 @@ Sõltuvalt looma tüübist saate looma jaoks sooritada kuni 16 erinevat tegevust
    <area shape="rect" coords="120,280,175,337" alt="Seo looma ID käsitsi" title="Määra loomale, kellel puudub rahvuslik looma ID, rahvuslik looma ID&#10;Hiireklõps: ava dokumentatsioon" href="/et/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Seo looma ID skaneerimisega" title="Määra loomale, kellel puudub rahvuslik looma ID, rahvuslik looma ID elektroonilise kõrvamärgi skaneerimisega&#10;Hiireklõps: ava dokumentatsioon" href="/et/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-<area shape="rect" coords="100,340,140,375" alt="Settings" title="Kutsu seaded üles&#10;Hiireklõps: dokumentatsioonile" href="/et/docs/actions/settings/">
+<area shape="rect" coords="100,340,140,375" alt="Settings" title="Kutsu seaded üles&#10;Hiireklõps: dokumentatsioonile" href="/et/docs/actions/setting/">
 </map>
 
 {{% alert title="Vihje" %}}

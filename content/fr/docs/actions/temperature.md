@@ -15,11 +15,11 @@ translationKey: actions/temperature
 
 Utilisez l'action de température pour mesurer la température de vos animaux. Insérez la pointe de mesure rectalement à la profondeur de mesure spécifiée (pour les grands animaux toute la longueur jusqu'à la bosse, pour les petits ruminants environ 6 cm ou 2/3 de la pointe de mesure). Le processus de mesure se déroule automatiquement. Dès que le processus de mesure est terminé, l'appareil affiche la température mesurée. Le codage couleur indique si la température est dans la plage verte, jaune ou rouge. Vous avez plusieurs options pendant la campagne Prendre une température :
 
-- [Enregistrer le résultat](#save-result) pour documenter la mesure spécifique à l'animal
-- Mettre l'animal sur la [Liste de Surveillance](#put-on-the-watch-list). Cela vous facilite la vérification des répétitions, car vous pouvez appeler ces animaux en utilisant la 'liste d'observation' et ainsi trouver plus facilement les animaux remarquables.
-- Allumer et éteindre l'[Éclairage du Site de Mesure](#lighting-of-the-measurement-location-on-and-off)
-- [Refaire la mesure](#repeat-the-measurement)
-- [Annuler l'action](#cancel-the-action)
+- [Enregistrer le résultat](#enregistrer-le-résultat) pour documenter la mesure spécifique à l'animal
+- Mettre l'animal sur la [Liste de Surveillance](#ajouter-à-la-liste-de-surveillance). Cela vous facilite la vérification des répétitions, car vous pouvez appeler ces animaux en utilisant la 'liste d'observation' et ainsi trouver plus facilement les animaux remarquables.
+- Allumer et éteindre l'[Éclairage du Site de Mesure](#allumer-et-éteindre-léclairage-du-lieu-de-mesure)
+- [Refaire la mesure](#refaire-la-mesure)
+- [Annuler l'action](#annuler-laction)
 
 {{% alert title="Conseil" %}}
 Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), VitalControl met automatiquement l'animal sélectionné sur la liste d'alarme. En corrélant avec d'autres données, vous pouvez surveiller en continu la santé de l'animal individuel.
@@ -92,5 +92,5 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Cancel the action")
 
 {{% alert title="Conseil" %}}
-Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../settings/). Alternativement, la réinitialisation de toutes les actions permettra de retrouver cette action.
+Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../setting/). Alternativement, la réinitialisation de toutes les actions permettra de retrouver cette action.
 {{% /alert %}}

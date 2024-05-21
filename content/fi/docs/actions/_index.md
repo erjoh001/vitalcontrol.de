@@ -32,7 +32,7 @@ Eläimen tyypistä riippuen voit suorittaa jopa 16 erilaista toimintoa eläimell
    <area shape="rect" coords="120,280,175,337" alt="Liitä eläimen tunnus manuaalisesti" title="Liitä kansallinen eläintunnus eläimeen, jolla ei ole kansallista eläintunnusta&#10;Hiiren klikkaus: avaa dokumentaatio" href="/fi/docs/actions/link-animal-id/#linkitä-eläimen-id">
    <area shape="rect" coords="175,280,230,337" alt="Liitä eläimen tunnus skannauksella" title="Liitä kansallinen eläintunnus eläimeen, jolla ei ole kansallista eläintunnusta&#10;Hiiren klikkaus: avaa dokumentaatio" href="/fi/docs/actions/link-animal-id/#linkitä-eläimen-id-elektroniseen-korvamerkkiskannaukseen">
 
-<area shape="rect" coords="100,340,140,375" alt="Asetukset" title="Avaa asetukset&#10;Hiiren klikkaus: dokumentaatioon" href="/fi/docs/actions/settings/">
+<area shape="rect" coords="100,340,140,375" alt="Asetukset" title="Avaa asetukset&#10;Hiiren klikkaus: dokumentaatioon" href="/fi/docs/actions/setting/">
 </map>
 
 {{% alert title="Vihje" %}}

@@ -53,5 +53,5 @@ Para cambiar los datos del animal, procede de la siguiente manera:
 {{< /tabpane >}}
 
 {{% alert title="Sugerencia" %}}
-Si esta acción no está disponible, probablemente la acción haya sido desactivada. ¡Activa la acción en el menú de [configuración de acciones](/es/docs/actions/settings/)! Alternativamente, restablecer todas las acciones hará que esa acción vuelva a aparecer.
+Si esta acción no está disponible, probablemente la acción haya sido desactivada. ¡Activa la acción en el menú de [configuración de acciones](/es/docs/actions/setting/)! Alternativamente, restablecer todas las acciones hará que esa acción vuelva a aparecer.
 {{% /alert %}}

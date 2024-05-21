@@ -15,13 +15,13 @@ translationKey: herd
 
 Dans l'élément de menu Troupeau, vous pouvez voir l'ensemble de votre troupeau, rechercher des animaux individuels et afficher des informations importantes. Vous avez les possibilités suivantes :
 
-- Voir [les données animales](#view-animal-data)
-- Voir [les données de température](#display-temperature)
-- Voir [les données de classement](#view-rating)
-- Voir [les données de poids](#view-rating)
-- [Rechercher un animal](#search-animal)
-- Définir un [filtre](#set-filter)
-- [Actions](#call-action-menu)
+- Voir [les données animales](#voir-les-données-animales)
+- Voir [les données de température](#afficher-la-température)
+- Voir [les données de classement](#voir-évaluation)
+- Voir [les données de poids](#afficher-poids)
+- [Rechercher un animal](#rechercher-animal)
+- Définir un [filtre](#définir-un-filtre)
+- [Actions](#appeler-le-menu-daction)
 
 ### Étapes préparatoires
 
@@ -99,7 +99,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
 2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir popup" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `Définir le filtre` et invoquez la fonction de filtrage en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
 
-3. Comment appliquer le filtre peut être trouvé [ici]({{< relref "../filtre/" >}}).
+3. Comment appliquer le filtre peut être trouvé [ici]({{< relref "../filter/" >}}).
 
     ![VitalControl : Menu Troupeau](images/setfilter.png "Rechercher animal")
 

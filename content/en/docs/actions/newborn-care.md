@@ -30,5 +30,5 @@ close. To apply the `newborn care` action, proceed as follows:
     ![VitalControl: Menu Action Newborn care](../images/newborncare.png "Newborn care")
 
 {{% alert title="Hint" %}}
-If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../settings/) menu. Alternatively, resetting all actions will bring that action back up.
+If this action is not available, the action has probably been deactivated! Activate the action in the [action settings](../setting/) menu. Alternatively, resetting all actions will bring that action back up.
 {{% /alert %}}

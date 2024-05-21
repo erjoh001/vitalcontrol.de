@@ -59,5 +59,5 @@ Selon le statut initial de la vache, vous pouvez soit sécher l'animal et l'ajou
 
 
 {{% alert title="Astuce" %}}
-Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres d'actions](../settings/). Alternativement, réinitialiser toutes les actions fera réapparaître cette action.
+Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres d'actions](../setting/). Alternativement, réinitialiser toutes les actions fera réapparaître cette action.
 {{% /alert %}}

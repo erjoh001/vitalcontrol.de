@@ -39,7 +39,7 @@ A `Törlés` művelet lehetővé teszi egy állat törlését, amint az elmozdul
 {{< /tabpane >}}
 
 {{% alert title="Tipp" %}}
-Ha ez a művelet nem elérhető, valószínűleg a művelet le van tiltva! Aktiválja a műveletet a [művelet beállítások](../settings/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
+Ha ez a művelet nem elérhető, valószínűleg a művelet le van tiltva! Aktiválja a műveletet a [művelet beállítások](../setting/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
 {{% /alert %}}
 
 

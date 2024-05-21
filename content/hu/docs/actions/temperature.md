@@ -94,5 +94,5 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
     ![VitalControl: Menü műveletek A művelet megszakítása](../images/saveresults.png "A művelet megszakítása")
 
 {{% alert title="Tipp" %}}
-Ha ez a művelet nem elérhető, valószínűleg deaktiválták! Aktiválja a műveletet az [akció beállítások](../settings/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
+Ha ez a művelet nem elérhető, valószínűleg deaktiválták! Aktiválja a műveletet az [akció beállítások](../setting/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
 {{% /alert %}}

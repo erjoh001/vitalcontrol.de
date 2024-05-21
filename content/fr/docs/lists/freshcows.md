@@ -17,17 +17,17 @@ translationKey: lists/fresh-cows
 Lors de la gestion des vaches fraîches, il est considéré comme une routine de meilleures pratiques de vérifier quotidiennement les animaux pendant plusieurs jours après la naissance. La liste des vaches fraîches facilite ce contrôle des vaches fraîches, notamment en termes d'enregistrement de la température. Pour chaque animal, un graphique en colonnes sur tous les jours de la période de contrôle est affiché, chaque jour de la période de contrôle est représenté par une barre verticale. Selon la couleur de la barre (verte, jaune ou rouge), vous pouvez voir si une température normale, élevée ou critique a été mesurée ce jour-là pour l'animal concerné.
 {{% /alert %}}
 
-Les vaches sont placées sur la liste des vaches fraîches immédiatement après que leur vêlage a été enregistré. Elles restent sur cette liste pendant une certaine période, la durée de cette période (en jours) peut être ajustée dans les [paramètres](../../settings/data-acquisition/#control-period-of-fresh-cows).
+Les vaches sont placées sur la liste des vaches fraîches immédiatement après que leur vêlage a été enregistré. Elles restent sur cette liste pendant une certaine période, la durée de cette période (en jours) peut être ajustée dans les [paramètres](../../settings/data-acquisition/#période-de-contrôle-des-vaches-fraîches).
  Les actions suivantes sont disponibles pour cette liste :
 
-- [Menu d'action complet](../alarm/#full-action-menu)
-- [Données de l'animal](../alarm/#animal-data)
-- [Prendre la température](../alarm/#take-temperature)
-- [Changer le statut d'alarme](#toggle-alarm-status)
-- [Changer le statut de surveillance](#toggle-watch-status)
-- [Masquer les vaches mesurées](#hide-measured-cows)
-- [Rechercher un animal](../alarm/#search-animal)
-- [Définir un filtre](../alarm/#set-filter)
+- [Menu d'action complet](../alarm/#menu-daction-complet)
+- [Données de l'animal](../alarm/#données-sur-les-animaux)
+- [Prendre la température](../alarm/#prendre-la-température)
+- [Changer le statut d'alarme](#basculer-le-statut-dalarme)
+- [Changer le statut de surveillance](#basculer-le-statut-de-surveillance)
+- [Masquer les vaches mesurées](#masquer-les-vaches-mesurées)
+- [Rechercher un animal](../alarm/#rechercher-un-animal)
+- [Définir un filtre](../alarm/#définir-un-filtre)
 
 {{% alert title="Conseil" %}}
 Certaines actions doivent être effectuées de la même manière que dans la [liste d'alarme](../alarm). Elles ne sont pas expliquées ici. Effectuez les étapes préliminaires et utilisez le lien de l'action respective pour accéder aux instructions.

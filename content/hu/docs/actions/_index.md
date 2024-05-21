@@ -33,7 +33,7 @@ Az állat típusától függően akár 16 különböző műveletet is végrehajt
    <area shape="rect" coords="175,280,230,337" alt="Állat azonosító hozzárendelése szkenneléssel" title="Nemzeti állat azonosító hozzárendelése egy állathoz, amelynek nincs nemzeti állat azonosítója&#10;Egérkattintás: dokumentáció megnyitása" href="/hu/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Beállítások" title="Beállítások előhívása&#10;Egérkattintás: a dokumentációhoz" href="/hu/docs/actions/settings/">
+   <area shape="rect" coords="100,340,140,375" alt="Beállítások" title="Beállítások előhívása&#10;Egérkattintás: a dokumentációhoz" href="/hu/docs/actions/setting/">
 </map>
 
 {{% alert title="Tipp" %}}

@@ -41,5 +41,5 @@ Um die Tierhistorie einzusehen gehen Sie wie folgt vor:
 {{< /tabpane >}}
 
 {{% alert title="Hinweis" %}}
-Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü](/docs/aktionen/einstellungen/) zu den Aktionen. Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
+Sollte diese Aktion nicht zur Verfügung stehen, so wurde die Aktion vermutlich deaktiviert! Aktivieren Sie die Aktion im [Einstellungsmenü](/docs/aktionen/einstellung/) zu den Aktionen. Alternativ wird auch das Zurücksetzen aller Aktionen diese Aktion wieder zum Vorschein bringen.
 {{% /alert %}}

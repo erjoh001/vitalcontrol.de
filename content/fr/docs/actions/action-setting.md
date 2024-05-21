@@ -1,14 +1,14 @@
 ---
 title: Paramètres d'action
 linkTitle: Paramètres
-slug: settings
+slug: setting
 weight: 120
 description: >
  Configurez les éléments de menu pour le menu Action et configurez la chaîne d'actions
 date: 2023-07-26
 categories: [Actions, Chaîne d'actions]
 tags: [Actions, Chaîne d'actions]
-translationKey: actions/settings
+translationKey: actions/setting
 ---
 ## Éléments de menu
 
@@ -38,6 +38,6 @@ Dans ce menu de paramètres, vous configurez la &nbsp;<img src="/icons/actions/a
 
 3. Un sous-menu s'ouvre. Utilisez les touches fléchées △ ▽ pour sélectionner l'élément de menu &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chaîne d'actions" />&nbsp; `chaîne d'actions` et confirmez avec `OK`.
 
-4. Des instructions supplémentaires sont disponibles [ici](/fr/docs/chain-of-actions/#set-chain-of-actions).
+4. Des instructions supplémentaires sont disponibles [ici](/fr/docs/chain-of-actions/).
 
     ![VitalControl : Menu Actions Chaîne d'actions](../images/chainofactions.png "Chaîne d'actions")

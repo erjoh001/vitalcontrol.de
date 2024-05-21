@@ -30,5 +30,5 @@ lähedalt. `Vastsündinu hooldus` tegevuse rakendamiseks toimige järgmiselt:
     ![VitalControl: Menüü Tegevus Vastsündinu hooldus](../images/newborncare.png "Vastsündinu hooldus")
 
 {{% alert title="Vihje" %}}
-Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus menüüs [tegevuste seaded](../settings/). Alternatiivselt, kõikide tegevuste taastamine toob selle tegevuse tagasi.
+Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus menüüs [tegevuste seaded](../setting/). Alternatiivselt, kõikide tegevuste taastamine toob selle tegevuse tagasi.
 {{% /alert %}}

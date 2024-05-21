@@ -22,5 +22,5 @@ A készülék most felsorolja az összes hardverkomponenst és azok állapotát.
    ![VitalControl: A hardverkomponensek ellenőrzésének menüútvonala](../images/device-check.png "Hardverellenőrzés")
 
 {{% alert title="MEGJEGYZÉS" %}}
-Ha az összes komponens állapota épnek (zöld pontok) mutatkozik, és a készülék még mindig meghibásodik, akkor szoftverhiba lehet a probléma. Ebben az esetben vegye fel a kapcsolatot a helyi kereskedővel vagy a gyártó [szervizvonalával](https://www.urbanonline.de/hu/contact).
+Ha az összes komponens állapota épnek (zöld pontok) mutatkozik, és a készülék még mindig meghibásodik, akkor szoftverhiba lehet a probléma. Ebben az esetben vegye fel a kapcsolatot a helyi kereskedővel vagy a gyártó [szervizvonalával](https://www.urbanonline.de/en/contact).
 {{% /alert %}}

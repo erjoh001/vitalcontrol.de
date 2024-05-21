@@ -53,5 +53,5 @@ Om de diergegevens te wijzigen, gaat u als volgt te werk:
 {{< /tabpane >}}
 
 {{% alert title="Hint" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../settings/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](../setting/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}

@@ -22,7 +22,7 @@ La fonction animal individuel vous permet de consulter des informations importan
 ![VitalControl: Menu Animal](images/list.png "Affichage sous forme de liste")
 
 {{% alert title="Conseil"  %}}
-Dans chaque affichage d'information, vous avez la possibilité de [rechercher un animal](#search-animal), de définir un [filtre](#set-filter) et de passer à une [vue graphique](#set-graphical-view).
+Dans chaque affichage d'information, vous avez la possibilité de [rechercher un animal](#rechercher-un-animal), de définir un [filtre](#définir-le-filtre) et de passer à une [vue graphique](#définir-la-vue-graphique).
 Vous pouvez également passer d'un animal à l'autre à tout moment en utilisant les touches fléchées ◁ ▷.
 {{% /alert %}}
 
@@ -49,6 +49,6 @@ Vous pouvez également passer d'un animal à l'autre à tout moment en utilisant
 1. Appuyez sur le bouton supérieur central `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Ouvrir le menu pop-up" /> afin d'ouvrir un menu pop-up. Dans ce menu, vous pouvez choisir entre les fonctions `Définir le filtre`, `Rechercher un animal` ou `Vue graphique`.
 
 2. Sélectionnez `Définir le filtre` avec les touches fléchées △ ▽ et confirmez avec `OK`.
-Vous pouvez obtenir des instructions sur comment utiliser le filtre [ici]({{< relref "../filtre" >}}).
+Vous pouvez obtenir des instructions sur comment utiliser le filtre [ici]({{< relref "../filter" >}}).
 
 ![VitalControl : Menu Animal](images/filter.png "Définir le filtre")

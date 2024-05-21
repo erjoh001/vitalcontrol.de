@@ -15,14 +15,14 @@ translationKey: lists/on-watch
 
 Sur la liste de surveillance, vous trouverez tous les animaux que vous avez ajoutés manuellement à la liste. Cette liste vous aide à garder un aperçu des animaux que vous avez jugés suspects. De plus, pour chaque animal sur la liste, vous pouvez effectuer les actions suivantes :
 
-- [Menu d'action complet](../alarm/#full-action-menu)
-- [Données de l'animal](../alarm/#animal-data)
-- [Prendre la température](../alarm/#take-temperature)
-- [Évaluer l'animal](../alarm/#rate-animal)
-- [Retirer de la liste de surveillance](#remove-from-watch-list)
-- [Basculer le statut d'alarme](#toggle-alarm-status)
-- [Rechercher un animal](../alarm/#search-animal)
-- [Définir un filtre](../alarm/#set-filter)
+- [Menu d'action complet](../alarm/#menu-daction-complet)
+- [Données de l'animal](../alarm/#données-sur-les-animaux)
+- [Prendre la température](../alarm/#prendre-la-température)
+- [Évaluer l'animal](../alarm/#évaluer-lanimal)
+- [Retirer de la liste de surveillance](#retirer-de-la-liste-de-surveillance)
+- [Basculer le statut d'alarme](#basculer-le-statut-de-lalarme)
+- [Rechercher un animal](../alarm/#rechercher-un-animal)
+- [Définir un filtre](../alarm/#définir-un-filtre)
 
 {{% alert title="Conseil" %}}
 Certaines actions doivent être effectuées de la même manière que dans la [Liste d'alarme](../alarm). Elles ne sont pas expliquées ici. Effectuez les étapes préliminaires et utilisez le lien de l'action respective pour accéder aux instructions.

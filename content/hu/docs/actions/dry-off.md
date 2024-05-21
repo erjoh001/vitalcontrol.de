@@ -60,5 +60,5 @@ A tehén kezdeti állapotától függően vagy leszáríthatja az állatot és h
 
 
 {{% alert title="Tipp" %}}
-Ha ez a művelet nem elérhető, valószínűleg deaktiválva lett! Aktiválja a műveletet az [művelet beállítások](../settings/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
+Ha ez a művelet nem elérhető, valószínűleg deaktiválva lett! Aktiválja a műveletet az [művelet beállítások](../setting/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
 {{% /alert %}}

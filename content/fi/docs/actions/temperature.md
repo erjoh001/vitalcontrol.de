@@ -92,5 +92,5 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
     ![VitalControl: Valikon toiminnot Peruuta toiminto](../images/saveresults.png "Peruuta toiminto")
 
 {{% alert title="Vihje" %}}
-Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti poistettu käytöstä! Aktivoi toiminto [toimintoasetukset](../settings/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen tuo kyseisen toiminnon takaisin.
+Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti poistettu käytöstä! Aktivoi toiminto [toimintoasetukset](../setting/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen tuo kyseisen toiminnon takaisin.
 {{% /alert %}}

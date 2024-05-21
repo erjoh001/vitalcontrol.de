@@ -32,7 +32,7 @@ Depending on the animal type, you can perform up to 16 different actions for an 
    <area shape="rect" coords="120,280,175,337" alt="Link animal ID manually" title="Assign a national animal ID to an animal that does not have a national animal ID&#10;Mouse click: open documentation" href="/en/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Link animal ID with scan" title="Assign a national animal ID to an animal that does not have a national animal ID&#10;Mouse click: open documentation" href="/en/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-   <area shape="rect" coords="100,340,140,375" alt="Settings" title="Call up the settings&#10;Mouse click: to the documentation" href="/en/docs/actions/settings/">
+   <area shape="rect" coords="100,340,140,375" alt="Settings" title="Call up the settings&#10;Mouse click: to the documentation" href="/en/docs/actions/setting/">
 </map>
 
 {{% alert title="Hint" %}}

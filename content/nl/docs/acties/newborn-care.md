@@ -30,6 +30,6 @@ dichtbij. Om de actie `zorg voor pasgeborenen` toe te passen, ga je als volgt te
     ![VitalControl: Menu Actie Zorg voor pasgeborenen](../images/newborncare.png "Zorg voor pasgeborenen")
 
 {{% alert title="Hint" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het menu [actie-instellingen](../settings/). Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het menu [actie-instellingen](../setting/). Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
 {{% /alert %}}
 

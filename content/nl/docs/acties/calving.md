@@ -12,7 +12,7 @@ translationKey: actions/calving
 ---
 {{% alert title="Hint" %}}
 Deze functie wordt alleen weergegeven voor koeien, maar niet voor kalveren of lammeren.
-Als u deze functie niet nodig heeft, kunt u deze deactiveren in het menu [actie-instellingen](../settings/).
+Als u deze functie niet nodig heeft, kunt u deze deactiveren in het menu [actie-instellingen](../setting/).
 {{% /alert %}}
 
 ## Een kalving registreren

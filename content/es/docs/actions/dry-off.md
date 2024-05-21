@@ -59,5 +59,5 @@ Dependiendo del estado inicial de la vaca, puedes secar al animal y añadirlo a 
 
 
 {{% alert title="Consejo" %}}
-Si esta acción no está disponible, ¡probablemente ha sido desactivada! Activa la acción en el menú de [configuración de acciones](/es/docs/actions/settings/). Alternativamente, restablecer todas las acciones hará que esta acción vuelva a aparecer.
+Si esta acción no está disponible, ¡probablemente ha sido desactivada! Activa la acción en el menú de [configuración de acciones](/es/docs/actions/setting/). Alternativamente, restablecer todas las acciones hará que esta acción vuelva a aparecer.
 {{% /alert %}}

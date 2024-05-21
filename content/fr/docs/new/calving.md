@@ -4,7 +4,7 @@ linkTitle: Vêlage
 date: 2023-07-28T13:25:28+02:00
 weight: 20
 draft: false
-slug: velage
+slug: calving
 description: >
   Comment enregistrer un nouveau vêlage en utilisant l'appareil VitalControl.
 categories: [Vêlage]

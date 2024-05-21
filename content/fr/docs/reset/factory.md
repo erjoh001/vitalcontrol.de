@@ -11,7 +11,7 @@ translationKey: reset/factory
 
 1. Ouvrez l'élément de menu <img src="/icons/device.svg" width="25" align="bottom" alt="Appareil" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
 
-1. Invoquez le sous-menu `Gestion des données`, naviguez jusqu'à l'entrée de menu `Réinitialisation d'usine`. Laissez l'option suggérée `Toutes les données de l'appareil` inchangée.
+1. Invoquez le sous-menu `Gestion des données`, naviguez jusqu'à l'entrée de menu `Réinitialisation d'usine`. Laissez l'option suggérée `Toutes données ani~maux et de l'appareils` inchangée.
 
 1. Appuyez sur le bouton `OK` pour déclencher la réinitialisation d'usine. Une pop-up avec une question de sécurité apparaît. Confirmez par `Oui` ici.
 

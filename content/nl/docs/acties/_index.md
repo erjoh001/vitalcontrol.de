@@ -33,7 +33,7 @@ Afhankelijk van het type dier, kun je tot 16 verschillende acties uitvoeren voor
    <area shape="rect" coords="120,280,175,337" alt="Link dier ID manueel" title="Wijs een nationaal dier-ID toe aan een dier dat geen nationaal dier-ID heeft&#10;Muisklik: open documentatie" href="/nl/docs/acties/koppel-dier-id/#link-dier-id">
    <area shape="rect" coords="175,280,230,337" alt="Link dier ID with scan" title="Wijs een nationaal dier-ID toe aan een dier dat geen nationaal dier-ID heeft&#10;Muisklik: open documentatie" href="/nl/docs/acties/koppel-dier-id/#link-dier-id-aan-elektronische-oormerkscan">
 
-<area shape="rect" coords="100,340,140,375" alt="Instellingen" title="Roep de instellingen op&#10;Muisklik: naar de documentatie" href="/nl/docs/acties/instellingen/">
+<area shape="rect" coords="100,340,140,375" alt="Instellingen" title="Roep de instellingen op&#10;Muisklik: naar de documentatie" href="/nl/docs/acties/setting/">
 
 </map>
 

@@ -92,5 +92,5 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
     ![VitalControl: Menüütegevused Tühista tegevus](../images/saveresults.png "Tühista tegevus")
 
 {{% alert title="Vihje" %}}
-Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus [tegevuste seadistuste](../settings/) menüüs. Alternatiivina, kõikide tegevuste lähtestamine toob selle tegevuse tagasi.
+Kui see tegevus pole saadaval, on tegevus tõenäoliselt deaktiveeritud! Aktiveerige tegevus [tegevuste seadistuste](../setting/) menüüs. Alternatiivina, kõikide tegevuste lähtestamine toob selle tegevuse tagasi.
 {{% /alert %}}

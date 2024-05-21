@@ -30,5 +30,5 @@ proches. Pour appliquer l'action `soins aux nouveau-nés`, procédez comme suit 
     ![VitalControl: Menu Action Soins aux nouveau-nés](../images/newborncare.png "Soins aux nouveau-nés")
 
 {{% alert title="Conseil" %}}
-Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../settings/). Alternativement, la réinitialisation de toutes les actions permettra de retrouver cette action.
+Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../setting/). Alternativement, la réinitialisation de toutes les actions permettra de retrouver cette action.
 {{% /alert %}}

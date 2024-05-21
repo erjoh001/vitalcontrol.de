@@ -32,7 +32,7 @@ maphilight: true
    <area shape="rect" coords="120,280,175,337" alt="Χειροκίνητη σύνδεση ταυτότητας ζώου" title="Ανάθεση εθνικής ταυτότητας ζώου σε ένα ζώο που δεν έχει εθνική ταυτότητα&#10;Κλικ ποντικιού: άνοιγμα τεκμηρίωσης" href="/el/docs/actions/link-animal-id/#link-animal-id">
    <area shape="rect" coords="175,280,230,337" alt="Σύνδεση ταυτότητας ζώου με σάρωση" title="Ανάθεση εθνικής ταυτότητας ζώου σε ένα ζώο που δεν έχει εθνική ταυτότητα&#10;Κλικ ποντικιού: άνοιγμα τεκμηρίωσης" href="/el/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-<area shape="rect" coords="100,340,140,375" alt="Settings" title="Κλήση ρυθμίσεων&#10;Κλικ ποντικιού: στην τεκμηρίωση" href="/el/docs/actions/settings/">
+<area shape="rect" coords="100,340,140,375" alt="Settings" title="Κλήση ρυθμίσεων&#10;Κλικ ποντικιού: στην τεκμηρίωση" href="/el/docs/actions/setting/">
 </map>
 
 {{% alert title="Υπόδειξη" %}}

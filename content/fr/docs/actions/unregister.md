@@ -40,5 +40,5 @@ L'action `Désinscrire` vous permet de désinscrire un animal dès qu'il est dé
 
 
 {{% alert title="Astuce" %}}
-Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../settings/). Alternativement, la réinitialisation de toutes les actions permettra de retrouver cette action.
+Si cette action n'est pas disponible, l'action a probablement été désactivée ! Activez l'action dans le menu [paramètres des actions](../setting/). Alternativement, la réinitialisation de toutes les actions permettra de retrouver cette action.
 {{% /alert %}}

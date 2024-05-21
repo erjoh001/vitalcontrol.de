@@ -11,7 +11,7 @@ Tags: [Ohrmarkennummer]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Achtung" color="warning" %}}
-Diese Aktion ist standardmäßig deaktiviert! Um diese Aktion nutzen zu können, müssen Sie diese zunächst im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellungen/) aktivieren.
+Diese Aktion ist standardmäßig deaktiviert! Um diese Aktion nutzen zu können, müssen Sie diese zunächst im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/) aktivieren.
 {{% /alert %}}
 
 ## Manuelle Zuordnung

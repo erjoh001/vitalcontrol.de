@@ -15,14 +15,14 @@ translationKey: lists/dry-cows
 
 Dans la liste des animaux taris, vous trouverez tous les animaux que vous avez enregistrés comme étant taris. Cette liste vous aidera à suivre vos vaches taries et à effectuer les actions nécessaires sur les animaux. Vous pouvez effectuer les actions suivantes :
 
-- [Menu d'action complet](../alarm/#full-action-menu)
-- [Données de l'animal](../alarm/#animal-data)
-- [Prendre la température](../alarm/#take-temperature)
-- [Vêlage](#calving)
-- [Changer le statut d'alarme](../on-watch/#toggle-alarm-status)
-- [Changer le statut de surveillance](../alarm/#toggle-watch-status)
-- [Rechercher un animal](../alarm/#search-animal)
-- [Définir un filtre](../alarm/#set-filter)
+- [Menu d'action complet](../alarm/#menu-daction-complet)
+- [Données de l'animal](../alarm/#données-sur-les-animaux)
+- [Prendre la température](../alarm/#prendre-la-température)
+- [Vêlage](#vêlage)
+- [Changer le statut d'alarme](../on-watch/#basculer-le-statut-de-lalarme)
+- [Changer le statut de surveillance](../alarm/#basculer-le-statut-de-surveillance)
+- [Rechercher un animal](../alarm/#rechercher-un-animal)
+- [Définir un filtre](../alarm/#définir-un-filtre)
 
 {{% alert title="Conseil" %}}
 Certaines actions doivent être effectuées de la même manière que dans la [liste d'alarme](../alarm). Elles ne sont pas expliquées ici. Effectuez les étapes préliminaires et utilisez le lien de l'action respective pour accéder aux instructions.

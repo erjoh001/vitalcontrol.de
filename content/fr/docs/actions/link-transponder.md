@@ -11,7 +11,7 @@ tags: [Transpondeur]
 translationKey: actions/transponder
 ---
 {{% alert title="Attention" color="warning" %}}
-Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètres d'action](../settings/).
+Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètres d'action](../setting/).
 {{% /alert %}}
 
 ## Lier un transpondeur

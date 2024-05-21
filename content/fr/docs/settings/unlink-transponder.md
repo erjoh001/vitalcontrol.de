@@ -21,6 +21,6 @@ Vous pouvez utiliser ce paramètre pour spécifier comment l'ID de l'animal doit
 
 3. Utilisez maintenant les boutons fléchés ◁ ▷ pour sélectionner votre paramètre souhaité. Vous pouvez choisir entre `Aucun changement` ou `Dérivation du numéro de la boucle`.
 
-4. L'option de paramètre `Dérivation du numéro de la boucle` vous permet de faire d'autres réglages. Voir [ici](/fr/docs/settings/animal-registration/#digit-of-the-new-id).
+4. L'option de paramètre `Dérivation du numéro de la boucle` vous permet de faire d'autres réglages. Voir [ici](/fr/docs/settings/animal-registration/#décalage-à-droite).
 
    ![VitalControl: Menu Paramètres Détacher le transpondeur](../images/unlink-transponder.png "Détacher le transpondeur")

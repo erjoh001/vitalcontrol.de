@@ -1,14 +1,14 @@
 ---
 title: Настройки на действията
 linkTitle: Настройки
-slug: settings
+slug: setting
 weight: 120
 description: >
  Настройте елементите на менюто за менюто Действия и задайте веригата от действия
 date: 2023-07-26
 categories: [Действия, Верига от действия]
 tags: [Действия, Верига от действия]
-translationKey: actions/settings
+translationKey: actions/setting
 ---
 ## Елементи на менюто
 

@@ -30,5 +30,5 @@ A `újszülött gondozása` művelet alkalmazásához kövesse az alábbi lépé
     ![VitalControl: Menü Művelet Újszülött gondozása](../images/newborncare.png "Újszülött gondozása")
 
 {{% alert title="Tipp" %}}
-Ha ez a művelet nem elérhető, valószínűleg a művelet deaktiválva lett! Aktiválja a műveletet a [művelet beállítások](../settings/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
+Ha ez a művelet nem elérhető, valószínűleg a művelet deaktiválva lett! Aktiválja a műveletet a [művelet beállítások](../setting/) menüben. Alternatív megoldásként az összes művelet visszaállítása visszahozza ezt a műveletet.
 {{% /alert %}}

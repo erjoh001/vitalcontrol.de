@@ -36,5 +36,5 @@ Avec l'action `Alarme`, vous pouvez ajouter des animaux à la liste d'alarme ou 
 {{< /tabpane >}}
 
 {{% alert title="Astuce" %}}
-Si cette action n'est pas disponible, elle est probablement désactivée ! Activez l'action dans le menu [paramètres des actions](../settings/). Alternativement, la réinitialisation de toutes les actions rendra cette action à nouveau disponible.
+Si cette action n'est pas disponible, elle est probablement désactivée ! Activez l'action dans le menu [paramètres des actions](../setting/). Alternativement, la réinitialisation de toutes les actions rendra cette action à nouveau disponible.
 {{% /alert %}}

@@ -58,5 +58,5 @@ Riippuen lehmän alkutilanteesta, voit joko Umpeutus eläimen ja lisätä sen ku
 {{< /tabpane >}}
 
 {{% alert title="Vinkki" %}}
-Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti poistettu käytöstä! Aktivoi toiminto [toimintoasetukset](../settings/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen tuo kyseisen toiminnon takaisin.
+Jos tämä toiminto ei ole käytettävissä, toiminto on todennäköisesti poistettu käytöstä! Aktivoi toiminto [toimintoasetukset](../setting/) -valikossa. Vaihtoehtoisesti kaikkien toimintojen nollaaminen tuo kyseisen toiminnon takaisin.
 {{% /alert %}}
