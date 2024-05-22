@@ -30,7 +30,7 @@ Il seguente grafico elenca le impostazioni disponibili riguardanti la registrazi
 Sposta il puntatore del mouse su un simbolo nel grafico sottostante e lascialo fermo per un momento. Apparirà un tooltip che presenta informazioni sull'impostazione rispettiva. Se clicchi su una delle linee, verrai reindirizzato a una descrizione dell'impostazione rispettiva.
 {{% /alert %}}
 
-## Impostazioni *Registrazione del peso*
+## Impostazioni *Registrazione del peso* {#settings-weight-recording}
 
 Il seguente grafico elenca le impostazioni disponibili riguardanti la registrazione del peso degli animali:
 
@@ -44,7 +44,7 @@ Il seguente grafico elenca le impostazioni disponibili riguardanti la registrazi
 </map>
 
 
-### Valutazione dell'aumento di peso giornaliero: Valori soglia
+### Valutazione dell'aumento di peso giornaliero: Valori soglia {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Suggerimento" %}}
 Il campo rosso mostra l'area "aumento di peso troppo basso critico". Il campo giallo mostra l'area "aumento di peso subottimale".
@@ -66,7 +66,7 @@ Per regolare i valori soglia per la valutazione dell'aumento di peso giornaliero
 
     ![VitalControl: impostazioni menu aumento di peso giornaliero](../images/dailyweightgain.png "Aumento di peso giornaliero")
 
-### Peso alla nascita
+### Peso alla nascita {#birth-weight}
 
 Il dispositivo utilizza il peso alla nascita memorizzato qui nelle impostazioni come valore predefinito quando si creano nuovi animali. Per poter selezionare più rapidamente il peso alla nascita individuale di un animale appena nato, potrebbe essere necessario regolare questo valore predefinito per la tua azienda agricola. Per regolare il valore per il `peso alla nascita`, procedere come segue:
 
@@ -94,7 +94,7 @@ Se non si desidera effettuare questa regolazione o se si creano animali automati
 | Intervallo di valori :        | 1,0 a 99 kg    | 1,0 a 99 kg   |
 {{% /alert %}}
 
-### Aumento medio del peso giornaliero
+### Aumento medio del peso giornaliero {#average-daily-weight-gain}
 
 {{% alert title="Spiegazione" %}}
 Quando [si pesa](../../actions/record-weight/) un animale, l'aumento giornaliero definito viene utilizzato per il calcolo del valore del peso suggerito durante la pesatura dell'animale. Se il valore del peso suggerito è troppo basso o troppo alto per la maggior parte degli animali da pesare, dovresti regolare il valore definito verso il basso o verso l'alto, rispettivamente, per ridurre il tempo necessario per regolare il valore del peso con i tasti freccia.
@@ -112,7 +112,7 @@ Per impostare il `guadagno medio giornaliero di peso` utilizzato nel calcolo del
 
     ![VitalControl: impostazioni del menu guadagno medio giornaliero di peso](../images/averagedailyweightgain.png "Guadagno medio giornaliero di peso")
 
-### Precisione della registrazione del peso
+### Precisione della registrazione del peso {#precision-of-weight-recording}
 
 {{% alert title="Spiegazione" %}}
 A seconda del caso d'uso e della specie animale (*agnello*, *vitello*, *mucca*), ci sono diversi requisiti riguardanti la risoluzione del valore del peso da registrare (precisione di *10 g*, *100 g* o *1 kg*). Per soddisfare questi requisiti è necessario utilizzare l'impostazione *Massima precisione*.
@@ -143,7 +143,7 @@ Per impostare la massima precisione durante la registrazione dei pesi degli anim
 <br>
 Salva le impostazioni e torna al menu principale `Acquisizione dati` premendo il tasto `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salva e torna" />&nbsp;.
 
-## Modalità di valutazione degli animali
+## Modalità di valutazione degli animali {#mode-of-animal-rating}
 
 {{% alert title="Spiegazione" %}}
 Nella modalità semplice, durante la valutazione degli animali viene richiesta solo la condizione generale (verde/giallo/rosso). Nella valutazione estesa, vengono richieste 4 categorie di valutazione: condizione generale, consumo di mangime, diarrea e malattia respiratoria.
@@ -161,7 +161,7 @@ Per impostare la `Valutazione degli animali` sul tuo dispositivo procedi come se
 
     ![VitalControl: impostazioni del menu valutazione media degli animali](../images/raitingofanimals.png "Valutazione degli animali")
 
-## Periodo di controllo delle vacche fresche
+## Periodo di controllo delle vacche fresche {#control-period-of-fresh-cows}
 
 {{% alert title="Spiegazione" %}}
 Quando si gestiscono le vacche fresche, controllare quotidianamente gli animali per diversi giorni dopo la nascita, inclusa la misurazione della temperatura, è considerata una pratica ottimale. La durata di questo periodo di controllo varia notevolmente da azienda a azienda. Per questo motivo, la durata del periodo di controllo può essere impostata su un valore compreso tra 3 e 14 giorni nelle impostazioni di VitalControl. Il valore impostato per il periodo di controllo delle vacche fresche determina il numero di colonne del grafico a colonne visualizzato per ogni animale nella [lista delle vacche fresche](../../lists/fresh-cows/).

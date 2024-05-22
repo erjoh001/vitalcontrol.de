@@ -30,7 +30,7 @@ The following graphic lists the available settings concerning the recording of a
 Move the mouse pointer over a symbol in the graphic below and let it rest for a moment. A tooltip appears, presenting information about the respective setting. If you click on one of the lines, you will be forwarded to a description of the respective setting.
 {{% /alert %}}
 
-## Settings *Weight recording*
+## Settings *Weight recording* {#settings-weight-recording}
 
 The following graphic lists the available settings concerning the weight recording of animals:
 
@@ -43,7 +43,7 @@ The following graphic lists the available settings concerning the weight recordi
   <area shape="rect" coords="1,360,230,440" alt="Precision weight recording" title="Set the precision of weight recording&#10;Mouse click: open documentation" href="#precision-of-weight-recording">
 </map>
 
-### Assessment of daily weight gain: Threshold values
+### Assessment of daily weight gain: Threshold values {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Hint" %}}
 The red field shows the "critical too low weight gain" area. The yellow field shows the "suboptimal weight gain" area.
@@ -65,7 +65,7 @@ In order to adjust the threshold values for the assessment of the daily weight g
 
     ![VitalControl: menu settings daily weight gain](../images/dailyweightgain.png "Daily weight gain")
 
-### Birth weight
+### Birth weight {#birth-weight}
 
 The device uses the birth weight stored here in the settings as the default value when creating new animals. In order to be able to select the individual birth weight of a newly born animal more quickly, you may need to adjust this default value for your farm. To adjust the value for the `birth weight`, proceed as follows:
 
@@ -92,7 +92,7 @@ If you do not want to make this adjustment or if you create animals automaticall
 | Value range :                 | 1,0 bis 99 kg  | 1,0 bis 99 kg |
 {{% /alert %}}
 
-### Average daily weight gain
+### Average daily weight gain {#average-daily-weight-gain}
 
 {{% alert title="Explanation" %}}
 When [weighing](../../actions/record-weight/) an animal, the defined daily increase is used for the calculation of the suggested weight value during animal weighing. If the suggested weight value is too low or too high for the majority of the animals to be weighed, you should adjust the defined value downwards or upwards, respectively, to shorten the time needed for adjusting the weight value with the arrow keys.
@@ -110,7 +110,7 @@ To set the `average daily weight gain` used in the calculation of the approximat
 
     ![VitalControl: menu settings average daily weight gain](../images/averagedailyweightgain.png "Average daily weight gain")
 
-### Precision of weight recording
+### Precision of weight recording {#precision-of-weight-recording}
 
 {{% alert title="Explanation" %}}
 Depending on the use case and animal species (*lamb*, *calf*, *cow*), there are different requirements regarding the resolution of the weight value to be recorded (accuracy of *10 g*, *100 g* or *1 kg*). To meet these requirements one is required to make use of the *Maximum accuracy* setting.
@@ -140,7 +140,7 @@ To set the maximum accuracy when recording animal weights with your device, proc
 <br>
 Save the settings and return to the top menu `Data acquisition` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
-## Mode of animal rating
+## Mode of animal rating {#mode-of-animal-rating}
 
 {{% alert title="Explanation" %}}
 In the simple mode, only the general condition is queried during the animal evaluation (green/yellow/red). In the extended evaluation, 4 evaluation categories are queried: general condition, feed consumption, diarrhea and respiratory disease.
@@ -158,7 +158,7 @@ To set the `Rating of animals` on your device proceed as follows.
 
     ![VitalControl: menu settings average rating of animals](../images/raitingofanimals.png "Rating of animals")
 
-## Control period of fresh cows
+## Control period of fresh cows {#control-period-of-fresh-cows}
 
 {{% alert title="Explanation" %}}
 When managing fresh cows, checking the animals daily for several days after birth, including taking their temperature is considered a best practices routine. The duration of this control period varies considerably from farm to farm. For this reason, the length of the control period can be set to a value between 3 and 14 days in the VitalControl settings. The set value for the control period of fresh cows determines the number of columns of the column chart displayed for each animal in the [fresh cow list](../../lists/fresh-cows/).
