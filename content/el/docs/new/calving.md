@@ -11,7 +11,7 @@ categories: [Calving]
 tags: [Calving]
 translationKey: new/calving
 ---
-## Εγγραφή ενός τοκετού
+## Εγγραφή ενός τοκετού {#register-a-calving}
 
 Για να καταχωρίσετε έναν τοκετό, προχωρήστε ως εξής:
 

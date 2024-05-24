@@ -11,7 +11,7 @@ tags: [Tegevused, palavik, temperatuur]
 translationKey: actions/temperature
 ---
 
-## Mõõda palavikku
+## Mõõda palavikku {#measure-fever}
 
 Kasuta temperatuuri tegevust oma loomade temperatuuri mõõtmiseks. Sisesta mõõtetipp rektaalselt ettenähtud sügavusele (suurte loomade puhul kogu pikkus kuni turseni, väikeste mäletsejate puhul umbes 6 cm või 2/3 mõõtetipust). Mõõtmisprotsess toimub automaatselt. Niipea kui mõõtmisprotsess on lõppenud, kuvab seade mõõdetud temperatuuri. Värvikood näitab, kas temperatuur on rohelises, kollases või punases vahemikus. Temperatuuri mõõtmise kampaania ajal on sul mitmeid võimalusi:
 
@@ -45,7 +45,7 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Tulemuse salvestamine
+### Tulemuse salvestamine {#save-result}
 
 1. Viige lõpule eelnevad sammud.
 
@@ -53,7 +53,7 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
     ![VitalControl: Menüütegevused Tulemuse salvestamine](../images/saveresults.png "Tulemuse salvestamine")
 
-### Lisa jälgimisnimekirja
+### Lisa jälgimisnimekirja {#put-on-the-watch-list}
 
 1. Viige lõpule eelnevad sammud.
 
@@ -63,7 +63,7 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
     ![VitalControl: Menüütegevused Lisa jälgimisnimekirja](../images/watchlist.png "Lisa jälgimisnimekirja")
 
-### Mõõtmiskoha valgustuse sisse- ja väljalülitamine
+### Mõõtmiskoha valgustuse sisse- ja väljalülitamine {#lighting-of-the-measurement-location-on-and-off}
 
 1. Viige lõpule eelnevad sammud.
 
@@ -73,7 +73,7 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
     ![VitalControl: Menüütegevused Taskulambi sisse-välja lülitamine](../images/light.png "Taskulambi sisse-välja lülitamine")
 
-### Korda mõõtmist
+### Korda mõõtmist {#repeat-the-measurement}
 
 1. Viige lõpule eelnevad sammud.
 
@@ -83,7 +83,7 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
     ![VitalControl: Menüütegevused Tuli sisse välja](../images/repeat.png "Tuli sisse välja")
 
-### Tühista tegevus
+### Tühista tegevus {#cancel-the-action}
 
 1. Viige lõpule eelnevad sammud.
 

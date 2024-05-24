@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 Deze actie is standaard niet ingeschakeld! Activeer dit zoals beschreven in [actie instelling](../setting/).
 {{% /alert %}}
 
-## Transponder afnemen
+## Transponder afnemen {#unlink-transponder}
 
 Met deze actie kunt u een transponder die al aan een dier is toegewezen, loskoppelen van dit dier.
 

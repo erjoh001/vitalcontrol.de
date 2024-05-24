@@ -7,7 +7,7 @@ description: >
 categories: [Réinitialisation]
 translationKey: reset/factory
 ---
-## Effectuer une réinitialisation d'usine
+## Effectuer une réinitialisation d'usine {#performing-a-factory-reset}
 
 1. Ouvrez l'élément de menu <img src="/icons/device.svg" width="25" align="bottom" alt="Appareil" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
 

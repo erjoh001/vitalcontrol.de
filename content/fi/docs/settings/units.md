@@ -11,7 +11,7 @@ categories: [asetukset]
 tags: [asetukset, yksiköt]
 translationKey: settings/units
 ---
-## Aseta Lämpötilayksik
+## Aseta Lämpötilayksik {#set-temperature-unit}
 
 Lämpötilayksikön asettamiseksi laitteellasi toimi seuraavasti.
 
@@ -25,7 +25,7 @@ Lämpötilayksikön asettamiseksi laitteellasi toimi seuraavasti.
 
     ![VitalControl: valikkoasetukset Lämpötilayksik](../images/temperature.png "Lämpötilayksik")
 
-## Aseta Painoyksikkö
+## Aseta Painoyksikkö {#set-mass-unit}
 
 Massayksikön asettamiseksi laitteellasi toimi seuraavasti.
 

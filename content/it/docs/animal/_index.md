@@ -11,7 +11,7 @@ Categories: [Animale]
 tags: [Animale, Temperatura, Altezza, Dati animali]
 translationKey: animal/animal
 ---
-## Animale
+## Animale {#animal}
 
 La funzione animale individuale ti consente di visualizzare informazioni importanti su peso, temperatura e valutazione per ciascun animale. Hai sempre la possibilità di visualizzare le informazioni come grafico o come elenco. Per utilizzare la funzione animale singolo, procedi come segue:
 
@@ -26,7 +26,7 @@ All'interno di ciascuna visualizzazione delle informazioni hai la possibilità d
 Puoi anche passare tra i singoli animali in qualsiasi momento utilizzando i tasti freccia ◁ ▷.
 {{% /alert %}}
 
-### Imposta visualizzazione grafica
+### Imposta visualizzazione grafica {#set-graphical-view}
 
 1. Premi il pulsante centrale superiore `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> per aprire un menu a comparsa. In questo menu, puoi scegliere tra le funzioni `Imposta filtro`, `Cerca animale` o `Visualizzazione grafica`.
 
@@ -35,7 +35,7 @@ Puoi anche passare tra i singoli animali in qualsiasi momento utilizzando i tast
 
 ![VitalControl: Menu Animal](images/graphic.png "Representation as a graphic")
 
-### Cerca animale
+### Cerca animale {#search-animal}
 
 1. Premi il pulsante centrale superiore `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> per aprire un menu a comparsa. In questo menu, puoi scegliere tra le funzioni `Imposta filtro`, `Cerca animale` o `Vista grafica`.
 
@@ -45,7 +45,7 @@ Puoi anche passare tra i singoli animali in qualsiasi momento utilizzando i tast
 
 ![VitalControl: Menu Animal](images/search.png "Search animal")
 
-### Imposta filtro
+### Imposta filtro {#set-filter}
 
 1. Premi il pulsante centrale superiore `On/Off` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> per aprire un menu a comparsa. In questo menu, puoi scegliere tra le funzioni `Imposta filtro`, `Cerca animale` o `Vista grafica`.
 

@@ -11,7 +11,7 @@ categories: [Új állatok]
 tags: [Új állatok]
 translationKey: new/animals
 ---
-## Több új állat létrehozása
+## Több új állat létrehozása {#create-several-new-animals}
 
 Ebben a menüpontban egyszerre több új állatot is regisztrálhat. Ezzel egy alapbeállítást állít be, amely az összes állatra vonatkozik a létrehozás során.
 

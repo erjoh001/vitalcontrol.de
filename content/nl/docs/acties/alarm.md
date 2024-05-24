@@ -11,7 +11,7 @@ tags: [Acties, Alarm]
 translationKey: actions/alarm
 ---
 
-## Alarm
+## Alarm {#alert}
 
 Met de actie `Alarm` plaats je dieren op de alarmlijst of verwijder je ze ervan. De alarmlijst helpt je om opvallende dieren sneller en gemakkelijker te vinden, waardoor je dagelijkse routinecontroles eenvoudiger worden. Om de `Alarm` actie toe te passen, ga je als volgt te werk:
 

@@ -11,7 +11,7 @@ translationKey: backup
 ---
 {{% usb-drive/hu "Az eszköz adatmentésének végrehajtásához," %}}
 
-## Adatmentés végrehajtása
+## Adatmentés végrehajtása {#perform-data-backup}
 
 1. Nyissa meg a &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Eszköz" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
 

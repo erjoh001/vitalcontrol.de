@@ -11,7 +11,7 @@ Categories: [Állat]
 tags: [Állat, Hőmérséklet, Magasság, Állat adatok]
 translationKey: animal/animal
 ---
-## Állat
+## Állat {#animal}
 
 Az egyes állatok funkció lehetővé teszi, hogy megtekintse az egyes állatok súlyával, hőmérsékletével és értékelésével kapcsolatos fontos információkat. Mindig lehetősége van az információkat grafikusan vagy listaként megjeleníteni. Az egyes állatok funkció használatához kövesse az alábbi lépéseket:
 
@@ -26,7 +26,7 @@ Minden információmegjelenítésen belül lehetősége van [állat keresésére
 Az egyes állatok között bármikor válthat a nyílgombokkal ◁ ▷.
 {{% /alert %}}
 
-### Grafikus nézet beállítása
+### Grafikus nézet beállítása {#set-graphical-view}
 
 1. Nyomja meg a középső felső `Be/Ki` gombot <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Felugró menü megnyitása" /> a felugró menü megnyitásához. Ebben a menüben választhat a `Szűrő beállítása`, `Állat keresése` vagy `Grafikus nézet` funkciók között.
 
@@ -35,7 +35,7 @@ Az egyes állatok között bármikor válthat a nyílgombokkal ◁ ▷.
 
 ![VitalControl: Menu Animal](images/graphic.png "Representation as a graphic")
 
-### Állat keresése
+### Állat keresése {#search-animal}
 
 1. Nyomja meg a középső felső `Be/Ki` gombot <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> a felugró menü megnyitásához. Ebben a menüben választhat a `Szűrő beállítása`, `Állat keresése` vagy `Grafikus nézet` funkciók közül.
 
@@ -45,7 +45,7 @@ Az egyes állatok között bármikor válthat a nyílgombokkal ◁ ▷.
 
 ![VitalControl: Menu Animal](images/search.png "Állat keresése")
 
-### Szűrő beállítása
+### Szűrő beállítása {#set-filter}
 
 1. Nyomja meg a középső felső `Be/Ki` gombot <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> a felugró menü megnyitásához. Ebben a menüben választhat a `Szűrő beállítása`, `Állat keresése` vagy `Grafikus nézet` funkciók közül.
 

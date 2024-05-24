@@ -11,7 +11,7 @@ translationKey: backup
 ---
 {{% usb-drive/en "In order to perform a data backup for your device," %}}
 
-## Perform data backup
+## Perform data backup {#perform-data-backup}
 
 1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 

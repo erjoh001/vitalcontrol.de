@@ -11,7 +11,7 @@ categories: [Nové na farmě]
 tags: [Nové na farmě]
 translationKey: new-on-farm/new-on-farm
 ---
-## Zakoupená zvířata
+## Zakoupená zvířata {#purchased-animals}
 
 V tomto seznamu najdete všechna zvířata, která jste vytvořili prostřednictvím hromadného záznamu. Tento seznam můžete exportovat a tím přímo zaregistrovat své přírůstky v programu pro správu stáda DSP-Herde a v HI-Tier. Alternativně můžete smazat všechny oznámení o nákupu.
 
@@ -32,7 +32,7 @@ Pro export dat potřebujete přiložený UBS stick. Před pokračováním podle 
 
     ![VitalControl: List of purchased animals, csv export](../images/purchasedanimals.png "Zakoupená zvířata, export csv ")
 
-## Možnosti: Smazat všechny oznámení po exportu
+## Možnosti: Smazat všechny oznámení po exportu {#options-delete-all-notices-after-export}
 
 S touto možností můžete nastavit, zda by měla být všechna oznámení v seznamu `Zakoupená zvířata` smazána po exportu CSV souboru. Použijte tuto možnost pouze tehdy, pokud jste si jisti, že již oznámení nepotřebujete!
 
@@ -44,7 +44,7 @@ S touto možností můžete nastavit, zda by měla být všechna oznámení v se
 
     ![VitalControl: List of purchased animals, csv export](../images/delete-all.png "Smazat všechny oznámení po exportu")    
 
-## Přímé volání funkcí
+## Přímé volání funkcí {#direct-function-calls}
 
 Kromě vytvoření exportního souboru máte následující možnosti:
 
@@ -58,7 +58,7 @@ Kromě vytvoření exportního souboru máte následující možnosti:
 Vždy nejprve otevřete seznam `zakoupená zvířata` podle pokynů výše.
 {{% /alert %}}
 
-### Odpojit transpondér
+### Odpojit transpondér {#unlink-transponder}
 
 Tuto funkci můžete použít k odstranění transpondéru ze zvířete.
 
@@ -70,7 +70,7 @@ Tuto funkci můžete použít k odstranění transpondéru ze zvířete.
 
     ![VitalControl: List of purchased animals, csv export](../images/unlink-transponder.png "Zakoupená zvířata, odpojit transpondér")
 
-### Vymazat všechna oznámení o nákupu
+### Vymazat všechna oznámení o nákupu {#clear-all-purchase-notices}
 
 Tuto funkci můžete použít k vymazání všech zvířat ze seznamu `Zakoupená zvířata` bez nutnosti nejprve vytvořit exportní soubor.
 
@@ -82,7 +82,7 @@ Tuto funkci můžete použít k vymazání všech zvířat ze seznamu `Zakoupen�
 
 ![VitalControl: List of purchased animals, clear purchase notices](../images/clear.png "Clear all purchase notices ")
 
-### Smazat zvíře + oznámení o nákupu
+### Smazat zvíře + oznámení o nákupu {#delete-animal--purchase-notice}
 
 Chcete-li smazat zvíře a odpovídající oznámení o nákupu, postupujte následovně:
 
@@ -96,8 +96,8 @@ Chcete-li smazat zvíře a odpovídající oznámení o nákupu, postupujte nás
 
 ![VitalControl: List of purchased animals, dele animal + notice](../images/delete.png "Delete animal + notice")
 
-### Vymazat oznámení o nákupu
-
+### Vymazat oznámení o nákupu {#clear-notice-of-purchase}
+ 
 Chcete-li smazat oznámení o nákupu zvířete ze seznamu, postupujte následovně:
 
 1. Pomocí šipek △ ▽ vyberte zvíře, jehož oznámení o nákupu chcete smazat.
@@ -110,7 +110,7 @@ Chcete-li smazat oznámení o nákupu zvířete ze seznamu, postupujte následov
 
 ![VitalControl: List of purchased animals, clear notice of purchase](../images/clearnotice.png "Clear notice of purchase")
 
-### Upravit údaje o zakoupeném zvířeti
+### Upravit údaje o zakoupeném zvířeti {#edit-data-of-purchased-animal}
 
 Chcete-li upravit údaje o zvířeti v seznamu nákupů, postupujte následovně:
 

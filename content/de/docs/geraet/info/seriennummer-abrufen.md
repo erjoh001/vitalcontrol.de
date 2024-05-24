@@ -7,7 +7,7 @@ draft: false
 description: >
  Um die Seriennummer ihres Gerätes abzurufen klicken Sie hier
 ---
-## Seriennummer abrufen
+## Seriennummer abrufen {#get-serial-number}	
 
 Um die Seriennummer ihres Gerätes abzurufen gehen Sie wie folgt vor:
 

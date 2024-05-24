@@ -14,7 +14,7 @@ translationKey: evaluation/rating
 In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
 {{% /alert %}}
 
-## Evaluate rating
+## Evaluate rating {#evaluate-rating}
 
 In this evaluation you can see the following information as a pie chart:
 - Evaluation of the condition of the last three days

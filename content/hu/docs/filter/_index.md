@@ -9,7 +9,7 @@ categories: [Szűrő]
 tags: [Szűrő]
 translationKey: filter
 ---
-## Szűrők alkalmazása
+## Szűrők alkalmazása {#applying-filters}
 
 {{% alert title="MEGJEGYZÉS" %}}
 A szűrő segít a kiválasztás végrehajtásában a VitalControl eszköz `Nyáj`, `Listák` és `Értékelés` menüpontjaiban található szűrési kritériumok segítségével. Amint alkalmaz egy szűrőt, a különböző szűrési kritériumok szimbólumai megjelennek a képernyő tetején. Ezek a szimbólumok segítenek megtudni, hogy mely szűrési kritériumok vannak aktiválva. Például, ha a `Nem` szűrőt férfira állítja, az eszköz csak férfi állatokat fog használni. Ha például az `Megfigyelés alatt` szűrőt is aktiválja, az eszköz csak a megfigyelési listán szereplő férfi állatokat használja.

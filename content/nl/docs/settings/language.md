@@ -10,7 +10,7 @@ categories: [Instellingen]
 tags: [Instellingen, Taal]
 translationKey: settings/language
 ---
-## Uw taal instellen
+## Uw taal instellen {#setting-your-language}
 
 Om de taal van uw VitalControl-apparaat in te stellen, gaat u als volgt te werk:
 
@@ -24,7 +24,7 @@ Om de taal van uw VitalControl-apparaat in te stellen, gaat u als volgt te werk:
 
 De taal op uw VitalControl-apparaat is nu ingesteld en permanent opgeslagen.
 
-## Beschikbare talen
+## Beschikbare talen {#available-languages}
 
 De firmware van VitalControl bevat vertalingen voor de volgende talen:
 
@@ -45,7 +45,7 @@ De firmware van VitalControl bevat vertalingen voor de volgende talen:
 - Turks (TR)
 - Oekraïens (UK)
 
-## Hoofdmenu in alle beschikbare talen
+## Hoofdmenu in alle beschikbare talen {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Engels" lang="en" %}}

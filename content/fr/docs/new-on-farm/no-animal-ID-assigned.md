@@ -11,7 +11,7 @@ categories: [Nouveau à la ferme]
 tags: [Nouveau à la ferme]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Aucun identifiant national d'animal attribué
+## Aucun identifiant national d'animal attribué {#no-national-animal-id-assigned}
 
 Dans cette liste, vous trouverez tous les animaux auxquels aucun identifiant d'animal n'a encore été attribué. Vous pouvez attribuer un identifiant d'animal aux animaux de cette liste.
 
@@ -30,7 +30,7 @@ Dans cette liste, vous trouverez tous les animaux auxquels aucun identifiant d'a
 7. Enregistrez le paramètre avec la touche `F3` <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Save" />&nbsp;. L'animal a été assigné avec succès un ID national et retiré de la liste.
 
 {{% alert title="Conseil" %}}
-Sous [dernières actions sur OK](#dernière-action-sur-ok), vous pouvez choisir si vous souhaitez entrer le numéro de boucle auriculaire manuellement ou par scan. Sélectionnez l'écran exemple selon votre configuration.
+Sous [dernières actions sur OK](#last-action-on-ok), vous pouvez choisir si vous souhaitez entrer le numéro de boucle auriculaire manuellement ou par scan. Sélectionnez l'écran exemple selon votre configuration.
 {{% /alert %}}
 
 {{< tabpane >}}
@@ -43,7 +43,7 @@ Sous [dernières actions sur OK](#dernière-action-sur-ok), vous pouvez choisir 
 {{% /tab %}}
 {{< /tabpane >}}        
 
-## Dernière action sur OK
+## Dernière action sur OK {#last-action-on-ok}
 
 Vous pouvez utiliser les actions supplémentaires pour définir quelles actions vous souhaitez effectuer avant d'assigner l'ID national de l'animal. Vous pouvez choisir entre mesurer la température, évaluer l'animal et peser l'animal. L'action respective est directement enregistrée pour l'animal que vous assignez ensuite. Procédez comme suit :
 
@@ -61,7 +61,7 @@ Vous pouvez utiliser les actions supplémentaires pour définir quelles actions 
 Vous ne pouvez utiliser l'attribution du numéro de boucle auriculaire par scan que si vous utilisez des boucles auriculaires électroniques !
 {{% /alert %}}
 
-## Actions supplémentaires précédentes
+## Actions supplémentaires précédentes {#previous-additional-actions}
 
 Vous pouvez utiliser les actions supplémentaires précédentes pour définir les actions que vous souhaitez effectuer avant d'attribuer le numéro de boucle auriculaire. Vous pouvez choisir entre mesurer la température, évaluer l'animal et peser l'animal. L'action respective est directement enregistrée pour l'animal que vous attribuez ensuite. Procédez comme suit :
 
@@ -77,6 +77,6 @@ Vous pouvez utiliser les actions supplémentaires précédentes pour définir le
 
     ![Liste des animaux achetés, aucun identifiant national d'animal attribué](../images/aidditional-actions.png "Aucun identifiant national d'animal attribué, Lien")
 
- ## Autres éléments de menu
+ ## Autres éléments de menu {#further-menu-items}
 
 Vous avez également la possibilité de choisir entre `rechercher un animal` et `définir un filtre` dans le pop-up. Utilisez les boutons fléchés △ ▽ pour naviguer jusqu'à l'élément de menu respectif et confirmez avec `OK`. Les informations pour `définir un filtre` [ici](/fr/docs/filter/) et pour `rechercher un animal` procédez comme dans l'étape 4 `aucun identifiant national d'animal attribué`.

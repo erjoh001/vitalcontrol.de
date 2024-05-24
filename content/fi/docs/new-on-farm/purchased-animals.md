@@ -11,7 +11,7 @@ categories: [Uutta tilalla]
 tags: [Uutta tilalla]
 translationKey: new-on-farm/new-on-farm
 ---
-## Osetettuja eläimiä
+## Osetettuja eläimiä {#purchased-animals}
 
 Tässä luettelossa löydät kaikki eläimet, jotka olet luonut joukkotallennuksen kautta. Voit viedä tämän luettelon ja siten rekisteröidä lisäyksesi suoraan karjanhallintaohjelmaan DSP-Herde ja HI-Tier. Vaihtoehtoisesti voit poistaa kaikki ostoilmoitukset.
 
@@ -31,7 +31,7 @@ Tietojen viemiseen tarvitset mukana tulevan UBS-tikun. Yhdistä USB-tikku USB-C-
 
 ![VitalControl: Ostettujen eläinten lista, csv-vienti](../images/purchasedanimals.png "Osetettuja eläimiä, csv-vienti")
 
-## Vaihtoehdot: Poista kaikki ilmoitukset viennin jälkeen
+## Vaihtoehdot: Poista kaikki ilmoitukset viennin jälkeen {#options-delete-all-notices-after-export}
 
 Tällä vaihtoehdolla voit asettaa, poistetaanko kaikki viestit `Osetettuja eläimiä` -listalta CSV-tiedoston viennin jälkeen. Käytä tätä vaihtoehtoa vain, jos olet varma, että et enää tarvitse viestejä!
 
@@ -43,21 +43,21 @@ Tällä vaihtoehdolla voit asettaa, poistetaanko kaikki viestit `Osetettuja elä
 
     ![VitalControl: Ostettujen eläinten lista, csv-vienti](../images/delete-all.png "Poista kaikki ilmoitukset viennin jälkeen")    
 
-## Suorat toimintokutsut
+## Suorat toimintokutsut {#direct-function-calls}
 
 Lisäksi vientitiedoston luomisen lisäksi sinulla on seuraavat vaihtoehdot:
 
-- [Poista transponderin linkitvs](#poista-transponderin-linkitvs)
-- [Tyhjennä kaikki ostoilmoitukset](#tyhjennä-kaikki-ostoilmoitukset)
-- [Poista eläin + ilmoitus](#poista-eläin--ilmoituks)
-- [Tyhjennä ostoilmoitus](#tyhjennä-ostoilmoitus)
-- [Muokkaa merkintää](#muokkaa-ostetun-eläimen-tietoja)
+- [Poista transponderin linkitvs](#unlink-transponder)
+- [Tyhjennä kaikki ostoilmoitukset](#clear-all-purchase-notices)
+- [Poista eläin + ilmoitus](#delete-animal--purchase-notice)
+- [Tyhjennä ostoilmoitus](#clear-notice-of-purchase)
+- [Muokkaa merkintää](#edit-data-of-purchased-animal)
 
 {{% alert title="Vinkki" %}}
 Avaa aina ensin `Osetettuja eläimiä` -lista kuten yllä olevissa ohjeissa on kuvattu.
 {{% /alert %}}
 
-### Poista transponderin linkitvs
+### Poista transponderin linkitvs {#unlink-transponder}
 
 Voit käyttää tätä toimintoa poistaaksesi lähettimen eläimestä.
 
@@ -69,7 +69,7 @@ Voit käyttää tätä toimintoa poistaaksesi lähettimen eläimestä.
 
     ![VitalControl: Ostettujen eläinten lista, csv-vienti](../images/unlink-transponder.png "Osetettuja eläimiä, Poista transponderin linkitvs")
 
-### Tyhjennä kaikki ostoilmoitukset
+### Tyhjennä kaikki ostoilmoitukset {#clear-all-purchase-notices}
 
 Tällä toiminnolla voit poistaa kaikki eläimet `Osetettuja eläimiä` -listalta luomatta ensin vientitiedostoa.
 
@@ -81,7 +81,7 @@ Tällä toiminnolla voit poistaa kaikki eläimet `Osetettuja eläimiä` -listalt
 
 ![VitalControl: Lista ostetuista eläimistä, tyhjennä ostohuomautukset](../images/clear.png "Tyhjennä kaikki ostohuomautukset")
 
-### Poista eläin + ilmoituks
+### Poista eläin + ilmoituks {#delete-animal--purchase-notice}
 
 Eläimen ja siihen liittyvän ostohuomautuksen poistaminen tapahtuu seuraavasti:
 
@@ -95,7 +95,7 @@ Eläimen ja siihen liittyvän ostohuomautuksen poistaminen tapahtuu seuraavasti:
 
 ![VitalControl: Lista ostetuista eläimistä, poista eläin + huomautus](../images/delete.png "Poista eläin + huomautus")
 
-### Tyhjennä ostoilmoitus
+### Tyhjennä ostoilmoitus {#clear-notice-of-purchase}
 
 Eläimen ostohuomautuksen poistaminen listalta tapahtuu seuraavasti:
 
@@ -109,7 +109,7 @@ Eläimen ostohuomautuksen poistaminen listalta tapahtuu seuraavasti:
 
 ![VitalControl: Lista ostetuista eläimistä, tyhjennä ostohuomautus](../images/clearnotice.png "Tyhjennä ostoilmoitus")
 
-### Muokkaa ostetun eläimen tietoja
+### Muokkaa ostetun eläimen tietoja {#edit-data-of-purchased-animal}
 
 Ostoslistan eläimen tietojen muokkaaminen tapahtuu seuraavasti:
 

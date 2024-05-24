@@ -11,8 +11,8 @@ categories: [asetukset]
 tags: [asetukset, Oletusarvot]
 translationKey: settings/new-animals
 ---
-## Aseta oletusarvot
-### Aseta tallennettu paino
+## Aseta oletusarvot {#set-default-values}
+### Aseta tallennettu paino {#set-recorded-weights}
 
 Tässä määrität, mikä paino tallennetaan ja säilytetään luotaessa uusia eläimiä tilallasi. Tallennetun painon asettamiseksi laitteellasi toimi seuraavasti.
 
@@ -30,7 +30,7 @@ Tässä määrität, mikä paino tallennetaan ja säilytetään luotaessa uusia 
  Valitse `ei mitään`, jos: eläimet luodaan automaattisesti taustalla (transponderiskannauksen kautta), tilalla ei ole käytettävissä vaakaa eikä arvioituja arvoja haluta, syntymäpainot ovat tuntemattomia.
 {{% /alert %}}
 
-### Aseta ikä rekisteröinnin yhteydessä
+### Aseta ikä rekisteröinnin yhteydessä {#set-age-at-registration}
 {{% alert title="Vihje" %}}
 Tässä syötetyn iän perusteella laite laskee ehdotetun syntymäajan manuaalisesti luodulle eläimelle tai sitä käytetään automaattisesti luodessa taustalla (transponderiskannauksen kautta). Maitotiloille, syötä päivien määrä, jossa vastasyntyneet vasikat rekisteröidään VitalControliin. Lihakarjan kasvattamotiloille, tähän tulee syöttää ostettujen vasikoiden keski-ikä. Sallittu arvoalue on 0-99 päivää.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Aseta ikä luomishetkellä laitteellasi seuraavasti:
 
     ![VitalControl: valikkoasetukset Aseta rekisteröinti-ikä](../images/ageatregistration.png "Aseta rekisteröinti-ikä")
 
-### Aseta sukupuoli
+### Aseta sukupuoli {#set-sex}
 
 Tässä määrität, mikä sukupuoli ehdotetaan (manuaalinen luonti) tai otetaan automaattisesti käyttöön (taustalla tapahtuva luonti). Määritelläksesi sukupuolen eläimen rekisteröinnissä laitteellasi, toimi seuraavasti.
 
@@ -65,7 +65,7 @@ Tässä määrität, mikä sukupuoli ehdotetaan (manuaalinen luonti) tai otetaan
 
     ![VitalControl: valikkoasetukset Aseta sukupuoli](../images/setsex.png "Aseta sukupuoli")
 
-### Aseta eläimen tyyppi
+### Aseta eläimen tyyppi {#set-type-of-animal}
 
 Tässä määrität, minkä tyyppinen eläin kirjataan luotaessa uusia eläimiä tilallesi. Määritelläksesi eläimen tyypin sen luomishetkellä laitteellasi, toimi seuraavasti:
 
@@ -81,7 +81,7 @@ Tässä määrität, minkä tyyppinen eläin kirjataan luotaessa uusia eläimiä
 
     ![VitalControl: valikkoasetukset eläimen tyyppi](../images/typeofanimal.png "eläimen tyyppi")
 
-### Aseta rotu
+### Aseta rotu {#set-breed}
 
 Tässä määrität, mikä karjan rotu tallennetaan uusia eläimiä luotaessa tilallesi. Määritelläksesi rodun luotaessa laitteellasi, toimi seuraavasti:
 
@@ -97,7 +97,7 @@ Tässä määrität, mikä karjan rotu tallennetaan uusia eläimiä luotaessa ti
 
     ![VitalControl: valikkoasetukset eläimen tyyppi](../images/breed.png "eläimen tyyppi")
 
-### Aseta olinpaikka
+### Aseta olinpaikka {#set-whereabouts}
 
 Tässä määrität, mitkä olinpaikat annetaan eläimille uusia maatilan eläimiä luotaessa. Määritelläksesi maatilan eläimen olinpaikan sen luomishetkellä laitteellasi, toimi seuraavasti:
 
@@ -115,7 +115,7 @@ Tässä määrität, mitkä olinpaikat annetaan eläimille uusia maatilan eläim
 
 Tallenna asetukset ja palaa päävalikkoon `Asetukset` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
-## Autom rekisteröinti
+## Autom rekisteröinti {#auto-registration}
 
 Tässä määrität laitteen käyttäytymisen, kun uusi tunnistin, joka ei ole vielä tunnettu VitalControl-laitteelle, skannataan. Tälle tapaukselle voidaan määritellä kolme erilaista käyttäytymistä.
 
@@ -135,7 +135,7 @@ Määritelläksesi käyttäytymisen, kun käyttäjän eläin luodaan automaattis
 
 ![VitalControl: valikkoasetukset Autom rekisteröinti](../images/autoregistration.png "Autom rekisteröinti")
 
-## Eläimen numeron antaminen
+## Eläimen numeron antaminen {#assignment-animal-id}
 
 Tässä määrität, mikä eläimen tunnus ehdotetaan (johdettu transponderinumerosta) tai käytetään (peräkkäinen), kun luot uuden eläimen tilallesi.
 
@@ -165,7 +165,7 @@ Määritelläksesi eläimen tunnuksen määrittämisen luodessasi tilaeläintä 
 Vain käytettäessä vaihtoehtoa `Peräkkäinen`: jos olet asettanut käyttämään erillisiä numerosarjoja uroksille ja naaraille korvamerkin numeron määrittämisessä, seuraava eläinnumero tallennetaan kullekin uroksille, naaraalle ja tuntemattoman sukupuolen eläimille. Symboli eläinnumeron vasemmalla puolella osoittaa, mihin seuraavaa eläinnumeroa käytetään: joko urokselle ♀ tai naaraalle ♂ tai tuntemattoman sukupuolen eläimille ♀♂?
 {{% /alert %}}
 
-### Uuden tunnisteen numero
+### Uuden tunnisteen numero {#digit-of-the-new-id}
 
 Tässä määrität, kuinka pitkä navetan numero, joka johdetaan lähetysnumeron perusteella, on uudelle eläimelle tilallasi. Mahdollinen arvoalue on 2-6 numeroa. Määritä uuden tilaeläimen tunnisteen pituus laitteellasi seuraavasti:
 
@@ -181,8 +181,8 @@ Tässä määrität, kuinka pitkä navetan numero, joka johdetaan lähetysnumero
 
     ![VitalControl: valikkoasetukset Uuden tunnisteen numero](../images/digitofnewid.png "Uuden tunnisteen numero")
 
-### Oikea siirtymä
-
+### Oikea siirtymä {#right-offset}
+ 
 Tässä määrität, otetaanko siirtymä huomioon myös navetan numeron johdossa lähetysnumerosta. Ilman siirtymää käytetään lähetysnumeron viimeisiä 2-6 numeroa navetan numerona, 1 siirtymällä hylätään oikeanpuoleisin numero, 2 siirtymällä kaksi oikeanpuoleisinta numeroa, ja niin edelleen.
 
 {{% alert title = "Vihje" %}}
@@ -206,7 +206,7 @@ Aseta siirtymä oikealle eläimen kohdalla laitteellasi seuraavasti:
 
 Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
-## Tehtävä korvamerkin numero
+## Tehtävä korvamerkin numero {#assignment-ear-tag-number}
 
 Tässä määrität, käytetäänkö yhtä vai kahta numerosarjaa korvamerkin numeron määrittämisessä eläinten manuaalisen uudelleenrekisteröinnin yhteydessä. Määritelläksesi maatilaeläimen korvamerkin numeron määrityksen laitteellasi, toimi seuraavasti:
 

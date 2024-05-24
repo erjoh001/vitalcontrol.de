@@ -10,7 +10,7 @@ translationKey: farmPC
 ---
 Proceed as follows to export data from VitalControl to a mass storage device of your PC:
 
-### Connect VitalControl to PC
+### Connect VitalControl to PC {#connect-vitalcontrol-to-pc}
 
 1. Connect the VitalControl device to your computer or laptop via the supplied USB cable.
 
@@ -18,7 +18,7 @@ Proceed as follows to export data from VitalControl to a mass storage device of 
 
 1. Make sure your VitalControl device is turned on.
 
-### Perform data export
+### Perform data export {#perform-data-export}
 
 1. Press the Windows key to open the Start menu
 

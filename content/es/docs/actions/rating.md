@@ -11,9 +11,9 @@ tags: [Acciones, Calificación]
 translationKey: actions/animal-rating
 ---
 
-## Califica tus animales
+## Califica tus animales {#rate-your-animals}
 
-Al calificar el animal, documentas la condición del animal individual. La condición se determina visualmente y se registra con la ayuda del sistema de semáforo. En la evaluación básica, solo se registra la condición general. En la evaluación extendida registras la condición general, la ingesta de alimento, la consistencia de las heces y las enfermedades respiratorias. Puedes cambiar el modo de calificación directamente en la acción <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Calificación" /> `Evaluación` o puedes definirlo en los [ajustes](../../settings/data-acquisition/#modo-de-evaluación-de-animales).
+Al calificar el animal, documentas la condición del animal individual. La condición se determina visualmente y se registra con la ayuda del sistema de semáforo. En la evaluación básica, solo se registra la condición general. En la evaluación extendida registras la condición general, la ingesta de alimento, la consistencia de las heces y las enfermedades respiratorias. Puedes cambiar el modo de calificación directamente en la acción <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Calificación" /> `Evaluación` o puedes definirlo en los [ajustes](../../settings/data-acquisition/#mode-of-animal-rating).
 
 {{% alert title="Consejo" %}}
 Una evaluación amarilla o roja significa que VitalControl clasifica al animal como conspicuo y lo pone en la lista de alarmas.
@@ -35,7 +35,7 @@ Una evaluación amarilla o roja significa que VitalControl clasifica al animal c
 Si no haces una selección usando las teclas de flecha ◁ ▷ pero guardas directamente usando la tecla `F3` o `OK`, VitalControl guarda una evaluación neutral, representada por un color gris.
 {{% /alert %}}
 
-### Evaluación básica
+### Evaluación básica {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Calificación básica:" text=true disabled=true />}}
@@ -47,7 +47,7 @@ Si no haces una selección usando las teclas de flecha ◁ ▷ pero guardas dire
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Evaluación extendida
+### Evaluación extendida {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Calificación básica:" text=true disabled=true />}}

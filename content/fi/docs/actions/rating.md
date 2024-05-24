@@ -11,9 +11,9 @@ tags: [Toiminnat, Luokitus]
 translationKey: actions/animal-rating
 ---
 
-## Arvioi eläimesi
+## Arvioi eläimesi {#rate-your-animals}
 
-Eläimen arvioinnissa dokumentoidaan yksittäisen eläimen kunto. Kunto määritetään visuaalisesti ja kirjataan liikennevalojärjestelmän avulla. Perusarvioinnissa kirjataan vain yleiskunto. Laajennetussa arvioinnissa kirjaat yleiskunnon, rehunsaannin, ulosteen koostumuksen ja hengityssairaudet. Voit joko vaihtaa arviointitilaa suoraan <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Luokitus" /> `Luokitus` toiminnossa tai määritellä sen [asetuksissa](../../settings/data-acquisition/#eläimen-arvioinnin-tila).
+Eläimen arvioinnissa dokumentoidaan yksittäisen eläimen kunto. Kunto määritetään visuaalisesti ja kirjataan liikennevalojärjestelmän avulla. Perusarvioinnissa kirjataan vain yleiskunto. Laajennetussa arvioinnissa kirjaat yleiskunnon, rehunsaannin, ulosteen koostumuksen ja hengityssairaudet. Voit joko vaihtaa arviointitilaa suoraan <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Luokitus" /> `Luokitus` toiminnossa tai määritellä sen [asetuksissa](../../settings/data-acquisition/#mode-of-animal-rating).
 
 {{% alert title="Vinkki" %}}
 Keltainen tai punainen arviointi tarkoittaa, että VitalControl luokittelee eläimen huomionarvoiseksi ja laittaa sen hälytyslistalle.
@@ -35,7 +35,7 @@ Keltainen tai punainen arviointi tarkoittaa, että VitalControl luokittelee elä
 Jos et tee valintaa käyttäen nuolinäppäimiä ◁ ▷ vaan tallennat suoraan käyttäen `F3` tai `OK` näppäintä, VitalControl tallentaa neutraalin arvion, joka on esitetty harmaalla värillä.
 {{% /alert %}}
 
-### Perusarviointi
+### Perusarviointi {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Perusarviointi:" text=true disabled=true />}}
@@ -47,7 +47,7 @@ Jos et tee valintaa käyttäen nuolinäppäimiä ◁ ▷ vaan tallennat suoraan 
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Laajennettu arviointi
+### Laajennettu arviointi {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Perusarviointi:" text=true disabled=true />}}

@@ -11,7 +11,7 @@ categories: [Nuovo in fattoria]
 tags: [Nuovo in fattoria]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Nessun ID animale nazionale assegnato
+## Nessun ID animale nazionale assegnato {#no-national-animal-id-assigned}
 
 In questo elenco troverai tutti gli animali a cui non è ancora stato assegnato un ID animale. Puoi assegnare un ID animale agli animali in questo elenco.
 
@@ -44,7 +44,7 @@ Sotto [ultime azioni su OK](#last-action-on-ok) è possibile impostare se si des
 {{% /tab %}}
 {{< /tabpane >}}        
 
-## Ultima azione su OK
+## Ultima azione su OK {#last-action-on-ok}
 
 È possibile utilizzare le azioni aggiuntive per impostare quali azioni si desidera eseguire prima di assegnare l'ID animale nazionale. È possibile scegliere tra misurare la temperatura, valutare l'animale e pesare l'animale. L'azione rispettiva viene salvata direttamente per l'animale che si assegna successivamente. Procedere come segue:
 
@@ -63,7 +63,7 @@ Sotto [ultime azioni su OK](#last-action-on-ok) è possibile impostare se si des
 Puoi utilizzare l'assegnazione del numero di marca auricolare tramite scansione solo se utilizzi marche auricolari elettroniche!
 {{% /alert %}}
 
-## Azioni aggiuntive precedenti
+## Azioni aggiuntive precedenti {#previous-additional-actions}
 
 Puoi utilizzare le azioni aggiuntive precedenti per impostare quali azioni desideri eseguire prima di assegnare il numero di marca auricolare. Puoi scegliere tra misurare la temperatura, valutare l'animale e pesare l'animale. L'azione rispettiva viene salvata direttamente per l'animale a cui successivamente assegni. Procedi come segue:
 
@@ -80,6 +80,6 @@ Puoi utilizzare le azioni aggiuntive precedenti per impostare quali azioni desid
 
     ![Elenco degli animali acquistati, nessun ID nazionale dell'animale assegnato](../images/aidditional-actions.png "Nessun ID nazionale dell'animale assegnato, Link")
 
- ## Ulteriori voci di menu
+ ## Ulteriori voci di menu {#further-menu-items}
 
 Hai anche la possibilità di selezionare tra `cerca animale` e `imposta filtro` nel popup. Usa i pulsanti freccia △ ▽ per navigare alla rispettiva voce di menu e conferma con `OK`. Le informazioni per `imposta filtro` [qui](/it/docs/filter/) e per `cerca animale` procedi come nel passaggio 4 di `nessun ID nazionale dell'animale assegnato`.

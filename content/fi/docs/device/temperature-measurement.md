@@ -11,7 +11,7 @@ categories: [Laite]
 tags: [Laite]
 translationKey: device/temperature-measurement
 ---
-## Testaa lämpötilan mittausta
+## Testaa lämpötilan mittausta {#test-temperature-measurement}
 
 Tässä voit testata laitteesi lämpötilan mittausta tallentamatta mittausta eläimelle. Suorita testi seuraavasti:
 

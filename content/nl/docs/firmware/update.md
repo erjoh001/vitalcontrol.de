@@ -7,13 +7,13 @@ description: >
 ---
 Zorg er eerst voor dat er een [nieuwere firmwareversie](../versions/) beschikbaar is voor uw apparaat en update indien nodig de firmware van uw apparaat volgens de volgende instructies.
 
-## Benodigde accessoire
+## Benodigde accessoire {#required-accessory}
 
 Om de update op uw apparaat te installeren, heeft u een dubbele USB-flashdrive (2-in-1 USB-stick) Type-C/USB 3.0 met een USB C-connector en een USB A-connector nodig. Zo'n dubbele USB-flashdrive wordt samen met uw apparaat geleverd. U kunt ook zo'n USB-flashdrive aanschaffen bij verschillende leveranciers.
 
 ![Dubbele USB-flashdrive (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Dubbele USB-flashdrive")
 
-## Voorbereiding: download de nieuwste firmware
+## Voorbereiding: download de nieuwste firmware {#preparation-download-latest-firmware}
 
 1. Steek uw USB-flashdrive in de USB-connector van uw computer. Maak vervolgens een nieuwe map met de naam 'update' aan in de hoofdmap van uw flashdrive.
 
@@ -31,7 +31,7 @@ De gegevensback-up is een aanbevolen voorzorgsmaatregel. Alle bestaande dier- en
 
 [gegevensback-up]: {{< relref "../backup/backup/" >}}
 
-## Voer firmware-update uit
+## Voer firmware-update uit {#perform-firmware-update}
 
 1. Open het menu-item `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 

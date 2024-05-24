@@ -11,8 +11,8 @@ categories: [Új a farmon, Nemzeti állatazonosító]
 tags: [Új a farmon, Nemzeti állatazonosító]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Nincs transzponder hozzárendelve
-
+## Nincs transzponder hozzárendelve {#no-transponder-assigned}
+ 
 A kezelés ezen a listán belül azonos a `Új a farmon, nincs transzponder` listával. Azonban ezen a listán minden olyan állatot megtalál, amelyhez még nem rendeltek transzpondert, életkoruktól függetlenül.
 
 1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Új a farmon" /> `Új a farmon` menüpontot és nyomja meg az `OK` gombot.

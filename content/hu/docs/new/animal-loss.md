@@ -11,7 +11,7 @@ categories: [Állatveszteség]
 tags: [Állatveszteség]
 translationKey: new/animal-loss
 ---
-## Állatveszteség rögzítése
+## Állatveszteség rögzítése {#record-the-loss-of-an-animal}
 
 {{% alert title="Tipp" %}}
 Az állatveszteség funkció ebben a menüpontban elsősorban elhullott borjak/bárányok rögzítésére szolgál. A beállítási lehetőségek ennek megfelelően vannak adaptálva, és nem azonosak az `Akciók` -> `Kijelentkezés` vagy `Állatveszteség` menüpontok beállítási elemeivel.

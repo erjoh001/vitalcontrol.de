@@ -14,7 +14,7 @@ translationKey: evaluation/temperature
 En la configuración predeterminada, todos los animales almacenados en el VitalControl están incluidos en la evaluación. Utilizando un [filtro](../../filter/) puedes restringir la evaluación a un subconjunto de los animales en tu dispositivo, por ejemplo, solo a animales machos o a animales hasta una cierta edad máxima.
 {{% /alert %}}
 
-## Evaluar temperatura
+## Evaluar temperatura {#evaluate-temperature}
 
 En esta evaluación puedes ver la siguiente información:
 - Animales actualmente enfermos con fiebre

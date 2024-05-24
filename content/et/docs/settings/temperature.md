@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
-## Määra läveväärtused ja temperatuurivahemikud
+## Määra läveväärtused ja temperatuurivahemikud {#set-the-threshold--temperature-ranges}
 {{% alert title = "Vihje" %}}
 Siin salvestatakse kehatemperatuuri läveväärtused individuaalselt loomaliikide vasikas, lehm ja lammas jaoks. Kollased ja punased väljad näitavad vastavalt "kõrgendatud temperatuuri" ja "palaviku" läveväärtust. VitalControl paigutab loomad kollasesse ja punasesse tsooni häireloendisse, mis hõlbustab haigete loomade jälgimist. Alatemperatuuri läve saab samuti vabalt määratleda.
 {{% /alert %}}
@@ -32,7 +32,7 @@ Temperatuuri läveväärtuste ja vahemike seadistamiseks oma seadmel toimi järg
 
     ![VitalControl: menüü seaded läveväärtused & temperatuurivahemikud](../images/threshold.png "Läveväärtused & Temperatuurivahemikud")
 
-## Määra alatemperatuur
+## Määra alatemperatuur {#set-undertemperature}
 {{% alert title = "Vihje" %}}
 Siin saate määrata mõõdetud temperatuuri, millest alates esineb alatemperatuur. Palaviku mõõtmisel kuvatakse see temperatuur sinise taustaga.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Alatemperatuuri läviväärtuse seadmiseks toimige järgmiselt:
 
     ![VitalControl: menüü seaded alatemperatuur](../images/undertemperature.png "Alatemperatuur")
 
-## Pärakuvalgusti
+## Pärakuvalgusti {#anus-spotlight}
 {{% alert title = "Vihje" %}}
 Siin saate seadistada, kas valgus tuleks palaviku mõõtmisel automaatselt sisse või välja lülitada.
 {{% /alert %}}

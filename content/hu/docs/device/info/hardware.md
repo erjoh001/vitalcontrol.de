@@ -7,7 +7,7 @@ draft: false
 description: >
  A készülék hardverinformációinak eléréséhez kattintson ide
 ---
-## Hardverinformációk lekérése
+## Hardverinformációk lekérése {#get-hardware-information}
 
 A készülék hardverinformációinak lekéréséhez kövesse az alábbi lépéseket:
 

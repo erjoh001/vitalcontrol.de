@@ -11,9 +11,9 @@ tags: [Actions, Évaluation]
 translationKey: actions/animal-rating
 ---
 
-## Évaluez vos animaux
+## Évaluez vos animaux {#rate-your-animals}
 
-Lors de l'évaluation de l'animal, vous documentez l'état de l'animal individuel. L'état est déterminé visuellement et enregistré à l'aide du système de feux de circulation. Dans l'évaluation de base, seul l'état général est enregistré. Dans l'évaluation étendue, vous enregistrez l'état général, l'ingestion de nourriture, la consistance des fèces et les maladies respiratoires. Vous pouvez soit changer le mode d'évaluation directement dans l'action <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Évaluation" /> `Évaluation` ou vous pouvez le définir dans les [paramètres](../../settings/data-acquisition/#mode-dévaluation-des-animaux).
+Lors de l'évaluation de l'animal, vous documentez l'état de l'animal individuel. L'état est déterminé visuellement et enregistré à l'aide du système de feux de circulation. Dans l'évaluation de base, seul l'état général est enregistré. Dans l'évaluation étendue, vous enregistrez l'état général, l'ingestion de nourriture, la consistance des fèces et les maladies respiratoires. Vous pouvez soit changer le mode d'évaluation directement dans l'action <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Évaluation" /> `Évaluation` ou vous pouvez le définir dans les [paramètres](../../settings/data-acquisition/#mode-of-animal-rating).
 
 {{% alert title="Conseil" %}}
 Une évaluation jaune ou rouge signifie que VitalControl classe l'animal comme remarquable et le place sur la liste d'alarme.
@@ -35,7 +35,7 @@ Une évaluation jaune ou rouge signifie que VitalControl classe l'animal comme r
 Si vous ne faites pas de sélection en utilisant les touches fléchées ◁ ▷ mais que vous enregistrez directement avec la touche `F3` ou `OK`, VitalControl enregistre une évaluation neutre, représentée par une couleur grise.
 {{% /alert %}}
 
-### Évaluation de base
+### Évaluation de base {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Évaluation de base :" text=true disabled=true />}}
@@ -47,7 +47,7 @@ Si vous ne faites pas de sélection en utilisant les touches fléchées ◁ ▷ 
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Évaluation étendue
+### Évaluation étendue {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Évaluation de base :" text=true disabled=true />}}

@@ -11,7 +11,7 @@ translationKey: backup
 ---
 {{% usb-drive/cs "Pro provedení zálohy dat pro vaše zařízení," %}}
 
-## Proveďte zálohu dat
+## Proveďte zálohu dat {#perform-data-backup}
 
 1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
 

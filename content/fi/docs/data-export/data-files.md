@@ -10,14 +10,14 @@ tags: [vientitiedostot, lämpötilat, painot, arvioinnit]
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Yleistä tietoa
+## Yleistä tietoa {#general-information}
 
 Eläintietojen viennissä, riippumatta siitä viedäänkö tiedot [USB-muistitikulle][] tai paikalliselle massamuistilaitteelle [tietokoneella][], luodaan neljä vientitiedostoa:
 
-- [Eläintiedot](#eläintiedot-animalscsv)
-- [Kehon lämpötilatiedot](#kehon-lämpötilan-tiedot-temperaturescsv)
-- [Painotiedot](#painotiedot-weightscsv)
-- [Eläinten arvioinnit](#eläinten-arvioinnit-ratingscsv)
+- [Eläintiedot](#animal-data-animalscsv)
+- [Kehon lämpötilatiedot](#body-temperature-data-temperaturescsv)
+- [Painotiedot](#weight-data-weightscsv)
+- [Eläinten arvioinnit](#animal-ratings-ratingscsv)
 
 [USB-muistitikku]: ../usb-drive/
 [tietokoneella]: ../pc/
@@ -29,17 +29,17 @@ Eläintietojen viennissä, riippumatta siitä viedäänkö tiedot [USB-muistitik
 
 Kaikki neljä tiedostoa ovat ihmisen luettavia [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) tekstiedostoja. Tiedostot on koodattu `UTF-8` muodossa, ja sarakkeiden erotinmerkkinä käytetään puolipistettä (`;`). Yksittäisiä tietokenttiä *ei* ole suljettu lainausmerkkeihin. Kunkin taulukon rivi edustaa eläintietoerää tai suoritettua mittaus- tai arviointitoimenpidettä eläimelle.
 
-## Viedyn tiedon jatkokäsittely
+## Viedyn tiedon jatkokäsittely {#further-processing-of-exported-data}
 
 Voit avata jokaisen näistä neljästä vientitiedostosta haluamassasi taulukkolaskentaohjelmassa (kuten [Microsoft Excel](https://products.office.com/excel) tai [OpenOffice Calc](https://www.openoffice.org/)) ja suorittaa tietojen syvällisempää analysointia siellä. Esimerkkinä alla on näkymä taulukosta `animals.csv` taulukkolaskentaohjelmassa:
 
 ![Viedy eläintiedot, avattuna taulukkolaskentaohjelmassa](../images/animals.png "Eläintiedot avattuna taulukkolaskentaohjelmassa")
 
-## Tietotiedostojen kuvaus
+## Tietotiedostojen kuvaus {#description-of-data-files}
 
 Seuraavat neljä osiota kuvaavat yksityiskohtaisesti kunkin vientitiedoston:
 
-### Eläintiedot (`animals.csv`)
+### Eläintiedot (`animals.csv`) {#animal-data-animalscsv}
 
 - **Tiedoston nimi** `animals.csv`
 - **Kuvaus** Yleiset eläintiedot
@@ -72,7 +72,7 @@ Tarvittaessa voit myös ladata tarjotun näytetiedoston [animals.csv][].
 
 [animals.csv]: /data-export/animals.csv
 
-### Kehon lämpötilan tiedot (`temperatures.csv`)
+### Kehon lämpötilan tiedot (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Tiedoston nimi** `temperatures.csv`
 - **Kuvaus** Lämpötila-arvot, saatu ottamalla eläinten peräsuolen lämpötila.
@@ -104,7 +104,7 @@ Tarvittaessa voit myös ladata tarjotun näytetiedoston [temperatures.csv][]. Al
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Painotiedot (`weights.csv`)
+### Painotiedot (`weights.csv`) {#weight-data-weightscsv}
 
 - **Tiedoston nimi** `weights.csv`
 - **Kuvaus** Eläinten punnitsemalla saadut painoarvot
@@ -136,7 +136,7 @@ Tarvittaessa voit myös ladata tarjotun näytetiedoston [weights.csv][]. Alla ol
 
 [weights.csv]: /data-export/weights.csv
 
-### Eläinten arvioinnit (`ratings.csv`)
+### Eläinten arvioinnit (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Tiedostonimi** `ratings.csv`
 - **Kuvaus** Eläinten arvioinnit, jotka saadaan visuaalisesti tarkastelemalla eläimiä

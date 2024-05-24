@@ -7,7 +7,7 @@ draft: false
 description: >
  Laitetietojen saamiseksi laitteestasi klikkaa tästä
 ---
-## Hae laitetiedot
+## Hae laitetiedot {#get-hardware-information}
 
 Laitetietojen hakemiseksi toimi seuraavasti:
 

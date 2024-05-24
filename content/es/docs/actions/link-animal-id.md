@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 ¡Esta acción no está habilitada por defecto! Actívala como se describe en [configuración de acciones](../setting/).
 {{% /alert %}}
 
-## Vincular ID del animal
+## Vincular ID del animal {#link-animal-id}
 
 Para asignar un ID nacional de animal a un animal que no tiene un ID nacional de animal, procede de la siguiente manera:
 
@@ -40,7 +40,7 @@ Para asignar un ID nacional de animal a un animal que no tiene un ID nacional de
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Vincular ID de animal con escaneo de etiqueta electrónica para oreja
+## Vincular ID de animal con escaneo de etiqueta electrónica para oreja {#link-animal-id-with-electronic-ear-tag-scan}
 
 Para asignar un ID nacional de animal a un animal que tiene una etiqueta electrónica para oreja, proceda de la siguiente manera:
 

@@ -8,7 +8,7 @@ description: >
  Gyártói információk megjelenítése
 translationKey: device/info/about
 ---
-## Menü "Névjegy" megnyitása
+## Menü "Névjegy" megnyitása {#call-up-menu-about}
 
 A készülék hardverinformációinak lekéréséhez kövesse az alábbi lépéseket:
 

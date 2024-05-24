@@ -11,7 +11,7 @@ categories: [Paramètres]
 tags: [Paramètres, Langue]
 translationKey: settings/language
 ---
-## Définir votre langue
+## Définir votre langue {#setting-your-language}
 
 Pour régler la langue de votre appareil VitalControl, procédez comme suit :
 
@@ -25,7 +25,7 @@ Pour régler la langue de votre appareil VitalControl, procédez comme suit :
 
 La langue sur votre appareil VitalControl est maintenant définie et enregistrée de manière permanente.
 
-## Langues disponibles
+## Langues disponibles {#available-languages}
 
 Le firmware VitalControl contient des traductions pour les langues suivantes :
 
@@ -46,7 +46,7 @@ Le firmware VitalControl contient des traductions pour les langues suivantes :
 - Turc (TR)
 - Ukrainien (UK)
 
-## Menu principal dans toutes les langues disponibles
+## Menu principal dans toutes les langues disponibles {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Anglais" lang="en" %}}

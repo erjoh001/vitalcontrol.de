@@ -11,9 +11,9 @@ tags: [Actions, Rating]
 translationKey: actions/animal-rating
 ---
 
-## Beoordeel uw dieren
+## Beoordeel uw dieren {#rate-your-animals}
 
-Wanneer u het dier beoordeelt, documenteert u de conditie van het individuele dier. De conditie wordt visueel bepaald en vastgelegd met behulp van het verkeerslichtsysteem. In de basisbeoordeling wordt alleen de algemene conditie vastgelegd. In de uitgebreide evaluatie registreert u de algemene conditie, voedselinname, consistentie van de feces en ademhalingsziekten. U kunt de beoordelingsmodus direct wijzigen in de <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Beoordeling` actie of u kunt deze definiëren in de [instellingen](../../settings/data-acquisition/#dierevaluatie).
+Wanneer u het dier beoordeelt, documenteert u de conditie van het individuele dier. De conditie wordt visueel bepaald en vastgelegd met behulp van het verkeerslichtsysteem. In de basisbeoordeling wordt alleen de algemene conditie vastgelegd. In de uitgebreide evaluatie registreert u de algemene conditie, voedselinname, consistentie van de feces en ademhalingsziekten. U kunt de beoordelingsmodus direct wijzigen in de <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Beoordeling` actie of u kunt deze definiëren in de [instellingen](../../settings/data-acquisition/#mode-of-animal-rating).
 
 {{% alert title="Hint" %}}
 Een gele of rode beoordeling betekent dat VitalControl het dier als opvallend classificeert en op de alarmlijst plaatst.
@@ -35,7 +35,7 @@ Een gele of rode beoordeling betekent dat VitalControl het dier als opvallend cl
 Als u geen selectie maakt met de pijltoetsen ◁ ▷ maar direct opslaat met de `F3` of `OK` toets, slaat VitalControl een neutrale beoordeling op, weergegeven door een grijze kleur.
 {{% /alert %}}
 
-### Basisbeoordeling
+### Basisbeoordeling {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Basisbeoordeling:" text=true disabled=true />}}
@@ -47,7 +47,7 @@ Als u geen selectie maakt met de pijltoetsen ◁ ▷ maar direct opslaat met de 
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Uitgebreide Beoordeling
+### Uitgebreide Beoordeling {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Basisbeoordeling:" text=true disabled=true />}}

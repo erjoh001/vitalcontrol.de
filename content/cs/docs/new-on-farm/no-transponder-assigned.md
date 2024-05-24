@@ -11,7 +11,7 @@ categories: [Nové na farmě, Národní identifikace zvířat]
 tags: [Nové na farmě, Národní identifikace zvířat]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Bez přiřazeného transpondéru
+## Bez přiřazeného transpondéru {#no-transponder-assigned}
 
 Zacházení v tomto seznamu je identické se seznamem `Nové na farmě, bez transpondéru`. V tomto seznamu však najdete všechna zvířata, kterým ještě nebyl přiřazen transpondér, bez ohledu na jejich věk.
 

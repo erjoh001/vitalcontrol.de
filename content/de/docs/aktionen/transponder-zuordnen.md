@@ -14,7 +14,7 @@ translationKey: actions/transponder
 Diese Aktion ist standardmäßig deaktiviert! Um diese Aktion nutzen zu können, müssen Sie diese zunächst im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/) aktivieren.
 {{% /alert %}}
 
-## Transponder zuordnen
+## Transponder zuordnen {#link-transponder}
 
 Mit dieser Aktion können Sie einem Tier, welches noch keinen Transponder zugewiesen bekommen hat, einen Transponder zuordnen.
 

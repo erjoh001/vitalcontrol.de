@@ -12,7 +12,7 @@ translationKey: backup
 ---
 {{% usb-drive/de "Um für ihr Gerät eine Datensicherung durchzuführen," %}}
 
-## Datensicherung durchführen
+## Datensicherung durchführen {#perform-data-backup}
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
 

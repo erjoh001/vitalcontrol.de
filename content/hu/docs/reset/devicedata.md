@@ -8,7 +8,7 @@ description: >
   Tanulja meg, hogyan állíthatja vissza a VitalControl eszköz összes beállítását.
 categories: [Reset]
 ---
-## Az összes eszközadat visszaállítása
+## Az összes eszközadat visszaállítása {#resetting-all-device-data}
 
 1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
 

@@ -11,7 +11,7 @@ categories: [Calving]
 tags: [Calving]
 translationKey: new/calving
 ---
-## Registrar un parto
+## Registrar un parto {#register-a-calving}
 
 Para registrar un parto, proceda de la siguiente manera:
 

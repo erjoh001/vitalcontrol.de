@@ -11,7 +11,7 @@ tags: [Actions, Rating]
 translationKey: actions/animal-rating
 ---
 
-## Értékeld az állataidat
+## Értékeld az állataidat {#rate-your-animals}
 
 Az állat értékelésekor dokumentálod az egyes állatok állapotát. Az állapotot vizuálisan határozzák meg, és a közlekedési lámpa rendszer segítségével rögzítik. Az alapértékelés során csak az általános állapotot rögzítik. A kiterjesztett értékelés során rögzíted az általános állapotot, a takarmányfelvételt, az ürülék konzisztenciáját és a légzőszervi betegségeket. Az értékelési módot közvetlenül a <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Értékelés` akcióban változtathatod meg, vagy meghatározhatod a [beállításokban](../../settings/data-acquisition/#mode-of-animal-rating).
 
@@ -35,7 +35,7 @@ A sárga vagy piros értékelés azt jelenti, hogy a VitalControl az állatot fe
 Ha nem választ a nyílbillentyűkkel ◁ ▷, hanem közvetlenül az `F3` vagy `OK` billentyűvel ment, a VitalControl semleges értékelést ment, amelyet szürke szín jelöl.
 {{% /alert %}}
 
-### Alapvető értékelés
+### Alapvető értékelés {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Alapvető értékelés:" text=true disabled=true />}}
@@ -47,7 +47,7 @@ Ha nem választ a nyílbillentyűkkel ◁ ▷, hanem közvetlenül az `F3` vagy 
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Kiterjesztett értékelés
+### Kiterjesztett értékelés {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Alapvető értékelés:" text=true disabled=true />}}

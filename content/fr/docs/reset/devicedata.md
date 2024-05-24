@@ -8,7 +8,7 @@ description: >
   Apprenez à réinitialiser tous les paramètres de l'appareil VitalControl.
 categories: [Réinitialisation]
 ---
-## Réinitialisation de toutes les données de l'appareil
+## Réinitialisation de toutes les données de l'appareil {#resetting-all-device-data}
 
 1. Ouvrez l'élément de menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
 

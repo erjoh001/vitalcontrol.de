@@ -11,7 +11,7 @@ Kategorien: [Nastavení]
 Tags: [Nastavení, Transpondér, ID zvířete]
 translationKey: settings/unlink-transponder
 ---
-## Odpojit transpondér
+## Odpojit transpondér {#unlink-transponder}
 
 Toto nastavení můžete použít k určení, jak by mělo být přiřazeno ID zvířete, jakmile odstraníte transpondér ze zvířete. Toto nastavení lze použít například v případě, že byla provedena synchronizace s krmítkem Urban Alma Pro a ID zvířat na VitalControl nyní odpovídají číslu obojku zvířat. Jakmile odstraníte obojek a odpojíte transpondér, můžete určit, že ID zvířete je nyní odvozeno z čísla ušní známky. To vám umožní rychle identifikovat zvíře ve stáji bez obojku.
 

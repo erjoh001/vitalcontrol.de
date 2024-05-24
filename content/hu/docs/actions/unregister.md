@@ -14,7 +14,7 @@ translationKey: actions/unregister
 Amint törli az állat adatlapját, az többé nem áll rendelkezésre értékelési célokra! Ha töröl egy állatot, de például később újra értékelni szeretné az állat fejlődését, meg kell őriznie az állat adatlapját!
 {{% /alert %}}
 
-## Törlés
+## Törlés {#unregister}
 
 A `Törlés` művelet lehetővé teszi egy állat törlését, amint az elmozdul. Az állat törléséhez kövesse az alábbi lépéseket:
 

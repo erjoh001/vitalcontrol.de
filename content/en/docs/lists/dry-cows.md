@@ -11,7 +11,7 @@ categories: [Lists]
 tags: [Lists, dry cow]
 translationKey: lists/dry-cows
 ---
-## Dry cows list
+## Dry cows list {#dry-cows-list}
 
 On the list of dry animals you will find all animals that you have saved as dry animals. This list will help you keep track of your dry cows and carry out necessary actions on the animals. You can perform the following actions:
 
@@ -28,7 +28,7 @@ On the list of dry animals you will find all animals that you have saved as dry 
 Some actions are to be carried out in the same way as in the [alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
 {{% /alert %}}
 
-### Preliminary Steps
+### Preliminary Steps {#preliminary-steps}
 
 1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
@@ -38,7 +38,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
    ![VitalControl Lists Dry cows list](../images/firststeps5.png "Preliminary Steps")
 
-## Calving
+## Calving {#calving}
 
 1. Complete the preliminary steps.
 

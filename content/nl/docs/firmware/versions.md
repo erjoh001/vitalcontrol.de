@@ -8,7 +8,7 @@ description: >
  Lijst van de huidige firmwareversies voor het VitalControl-apparaat.
 ---
 
-## Bepaal geïnstalleerde firmwareversies op uw apparaat
+## Bepaal geïnstalleerde firmwareversies op uw apparaat {#determine-firmware-versions-installed-on-your-device}
 
 1. Open het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
@@ -16,7 +16,7 @@ description: >
 
 ![VitalControl: bepaal firmwareversies](../images/firmware-versions.png "Weergave firmwareversies")
 
-## Laatste firmwareversies:
+## Laatste firmwareversies: {#latest-firmware-versions}
 
 De volgende tabel toont de huidige firmwareversies:
 

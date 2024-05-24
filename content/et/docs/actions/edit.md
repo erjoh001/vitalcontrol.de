@@ -11,7 +11,7 @@ tags: [Tegevused, looma andmed, muuda]
 translationKey: actions/edit
 ---
 
-## Muuda looma andmeid
+## Muuda looma andmeid {#edit-animal-data}
 
 Tegevus <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muuda" /> `Muuda` võimaldab muuta valitud looma andmeid otse. See funktsioon lihtsustab looma andmete parandamist, näiteks kui loomakontrolli käigus selgub, et sugu on valesti salvestatud. Saad muuta järgmisi andmeid:
 

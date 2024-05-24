@@ -11,7 +11,7 @@ weight: 10
 ---
 Kui teie seadmel esineb rike, peaksite esmalt tegema riistvarakontrolli, et selgitada, kas mõni riistvarakomponent on defektne.
 
-## Kontrollige oma seadme riistvara
+## Kontrollige oma seadme riistvara {#check-the-hardware-of-your-device}
 
 1. Avage menüüpunkt &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadme põhiekraanil.
 

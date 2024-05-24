@@ -10,7 +10,7 @@ tags: [ekspordifailid, temperatuurid, kaalud, hinnangud]
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Üldine teave
+## Üldine teave {#general-information}
 
 Loomaandmete eksportimisel, olenemata kas [USB mälupulgale][] või kohalikule massmäluseadmele [arvutis][], genereeritakse igal juhul neli ekspordifaili:
 
@@ -29,17 +29,17 @@ Loomaandmete eksportimisel, olenemata kas [USB mälupulgale][] või kohalikule m
 
 Kõik neli faili on inimloetavad [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) tekstifailid. Failid on kodeeritud `UTF-8` formaadis, veergude eraldajatena kasutatakse semikoolone (`;`). Üksikud andmeväljad ei ole jutumärkides. Iga vastava tabeli rida esindab looma andmekomplekti või loomale tehtud mõõtmist või hinnangut.
 
-## Eksporditud andmete edasine töötlemine
+## Eksporditud andmete edasine töötlemine {#further-processing-of-exported-data}	
 
 Iga nelja ekspordifaili saab avada teie valitud tabelarvutusprogrammis (näiteks [Microsoft Excel](https://products.office.com/excel) või [OpenOffice Calc](https://www.openoffice.org/)) ja seal andmete edasijõudnud analüüsi teostada. Näiteks on allpool näidatud tabeli `animals.csv` vaade tabelarvutusprogrammis:
 
 ![Eksporditud loomaandmed, avatud tabelarvutusprogrammis](../images/animals.png "Loomaandmed avatud tabelarvutusprogrammis")
 
-## Andmefailide kirjeldus
+## Andmefailide kirjeldus {#description-of-data-files}
 
 Järgmised neli jaotist kirjeldavad üksikasjalikult iga eksporditud andmefaili:
 
-### Looma andmed (`animals.csv`)
+### Looma andmed (`animals.csv`) {#animal-data-animalscsv}
 
 - **Faili nimi** `animals.csv`
 - **Kirjeldus** Üldised loomaandmed
@@ -72,7 +72,7 @@ Vajadusel saate alla laadida ka pakutud näidisfaili [animals.csv][].
 
 [animals.csv]: /data-export/animals.csv
 
-### Kehatemperatuuri andmed (`temperatures.csv`)
+### Kehatemperatuuri andmed (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Faili nimi** `temperatures.csv`
 - **Kirjeldus** Temperatuuri väärtused, saadud loomade rektaalse kehatemperatuuri mõõtmisel.
@@ -104,7 +104,7 @@ Vajadusel saate alla laadida ka pakutud näidisfaili [temperatures.csv][]. Allpo
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Kaalu andmed (`weights.csv`)
+### Kaalu andmed (`weights.csv`) {#weight-data-weightscsv}
 
 - **Faili nimi** `weights.csv`
 - **Kirjeldus** Loomade kaalumisel saadud kaalu väärtused
@@ -136,7 +136,7 @@ Vajadusel saate alla laadida ka pakutud näidisfaili [weights.csv][]. Allpool ol
 
 [weights.csv]: /data-export/weights.csv
 
-### Loomade hinnangud (`ratings.csv`)
+### Loomade hinnangud (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Faili nimi** `ratings.csv`
 - **Kirjeldus** Loomade hinnangud, mis saadud loomi visuaalselt hinnates

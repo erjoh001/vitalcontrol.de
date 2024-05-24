@@ -11,7 +11,7 @@ tags: [Actions, Animal history]
 translationKey: actions/animalshistory
 ---
 
-## Animal History
+## Animal History {#animal-history}
 
 The animal history gives you an overview of the data recorded so far and the development of the selected animal. You are free to choose the information displayed. You can also choose whether the history should be displayed as a table or as a diagram. The animal history helps you to see if and when these animals were conspicuous the last time. It also helps to create transparency if several people carry out the animal inspection.
 

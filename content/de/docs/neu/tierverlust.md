@@ -11,7 +11,7 @@ Kategorien: [Tierverlust]
 Tags: [Tierverlust]
 translationKey: new/animal-loss
 ---
-## Verlust eines Tieres erfassen
+## Verlust eines Tieres erfassen {#record-the-loss-of-an-animal}
 
 {{% alert title="Hinweis" %}}
 Die Funktion Tierverlust in diesem Menüpunkt dient vor allem der Erfassung von toten Kälbern/Lämmern. Die Einstellungsmöglichkeiten sind dementsprechend angepasst und sind nicht identisch mit den Einstellungspunkten in dem Menü `Aktionen` -> `Abmelden` oder `Tierverlust`.

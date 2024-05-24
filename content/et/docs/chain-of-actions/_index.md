@@ -11,11 +11,11 @@ categories: [Tegevuste ahel]
 tags: [Tegevuste ahel, Tegevused]
 translationKey: action-chain
 ---
-## Tegevuste ahel
+## Tegevuste ahel {#chain-of-actions}
 
 Tegevuste ahel võimaldab automaatselt sooritada mitmeid tegevusi looma jaoks üksteise järel. Näiteks võite valida tegevused `Temperatuuri mõõtmine` ja `Hinnang`. Kui te seejärel tegevuste ahelat rakendate, saate esmalt mõõta oma looma temperatuuri ja kohe seejärel salvestada hinnangu.
 
-### Tegevuste ahela kasutamine
+### Tegevuste ahela kasutamine {#use-chain-of-actions}
 
 1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Tegevuste ahel" />&nbsp; `Tegevuste ahel` ja vajutage `OK` nuppu.
 
@@ -33,7 +33,7 @@ Tegevuste ahel võimaldab automaatselt sooritada mitmeid tegevusi looma jaoks ü
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Tegevuste ahela seadistamine
+### Tegevuste ahela seadistamine {#set-chain-of-actions}
 
 1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Tegevuste ahel" />&nbsp; `Tegevuste ahel` ja vajutage `OK` nuppu.
 

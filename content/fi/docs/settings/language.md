@@ -10,7 +10,7 @@ categories: [Asetukset]
 tags: [Asetukset, Kieli]
 translationKey: settings/language
 ---
-## Kielen asettaminen
+## Kielen asettaminen {#setting-your-language}
 
 VitalControl-laitteesi kielen asettamiseksi toimi seuraavasti:
 
@@ -24,7 +24,7 @@ VitalControl-laitteesi kielen asettamiseksi toimi seuraavasti:
 
 Kieli VitalControl-laitteellasi on nyt asetettu ja pysyvästi tallennettu.
 
-## Saatavilla olevat kielet
+## Saatavilla olevat kielet {#available-languages}
 
 VitalControlin laiteohjelmisto sisältää käännökset seuraaville kielille:
 
@@ -45,7 +45,7 @@ VitalControlin laiteohjelmisto sisältää käännökset seuraaville kielille:
 - Turkki (TR)
 - Ukraina (UK)
 
-## Päävalikko kaikilla saatavilla olevilla kielillä
+## Päävalikko kaikilla saatavilla olevilla kielillä {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Englanti" lang="en" %}}

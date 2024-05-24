@@ -11,8 +11,8 @@ categories: [Appareil]
 tags: [Appareil]
 translationKey: device/flashlight
 ---
-## Activer et désactiver la lumière
-
+## Activer et désactiver la lumière {#activate-and-deactivate-light}
+ 
 Ici, vous pouvez activer ou désactiver la lumière sur votre appareil VitalControl. Si vous activez la lumière, elle reste allumée en permanence.
 
 1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/device.svg" width="25" align="bottom" alt="Appareil" /> `Appareil` et appuyez sur le bouton `OK`.

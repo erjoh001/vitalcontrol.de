@@ -11,7 +11,7 @@ categories: [Nová zvířata]
 tags: [Nová zvířata]
 translationKey: new/animals
 ---
-## Vytvoření několika nových zvířat
+## Vytvoření několika nových zvířat {#create-several-new-animals}
 
 V této položce menu můžete najednou zaregistrovat několik nových zvířat. Při tom nastavíte základní nastavení, které platí pro všechna zvířata během této tvorby.
 

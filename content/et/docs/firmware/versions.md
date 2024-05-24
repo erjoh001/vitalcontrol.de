@@ -8,7 +8,7 @@ description: >
  Viimaste püsivara versioonide loetelu VitalControl seadmele.
 ---
 
-## Määra oma seadme paigaldatud püsivara versioonid
+## Määra oma seadme paigaldatud püsivara versioonid {#determine-firmware-versions-installed-on-your-device}
 
 1. Ava menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadme põhiekraanil.
 
@@ -16,7 +16,7 @@ description: >
 
 ![VitalControl: määra püsivara versioonid](../images/firmware-versions.png "Kuva püsivara versioonid")
 
-## Viimased püsivara versioonid:
+## Viimased püsivara versioonid: {#latest-firmware-versions}
 
 Järgnev tabel loetleb praegused püsivara versioonid:
 

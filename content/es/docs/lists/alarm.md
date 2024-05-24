@@ -11,18 +11,18 @@ categories: [Listas]
 tags: [Listas, alarma]
 translationKey: lists/alarm
 ---
-## Lista de alarmas
+## Lista de alarmas {#alarm-list}
 
 En la lista de alarmas encontrarás todos los animales que hayas añadido manualmente a la lista o todos los animales que estaban en el rango amarillo o rojo cuando se midió la temperatura. La lista te ayuda a mantener una visión general de todos los animales destacados. Además, para cada animal en la lista, puedes hacer lo siguiente:
 
-- [Menú acciones](#menú-acciones)
-- [Datos del animal](#datos-del-animal)
-- [Medir temperatura](#medir-temperatura)
-- [Evaluar animal](#evaluar-animal)
-- [Restablecer alarma](#restablecer-alarma)
-- [Alternar estado de seguimiento](#cambiar-estado-de-seguimiento)
-- [Buscar animal](#buscar-animal)
-- [Fijar filtro](#fijar-filtro)
+- [Menú acciones](#full-action-menu)
+- [Datos del animal](#animal-data)
+- [Medir temperatura](#take-temperature)
+- [Evaluar animal](#rate-animal)
+- [Restablecer alarma](#clear-alarm)
+- [Alternar estado de seguimiento](#toggle-watch-status)
+- [Buscar animal](#search-animal)
+- [Fijar filtro](#set-filter)
 
 La lista de alarmas está estructurada de la siguiente manera:
 
@@ -36,7 +36,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Temperatura corporal" title="Temperatura corporal" /> | La última medición de fiebre registrada se muestra debajo del símbolo con los colores del sistema de semáforo
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Evaluación del animal" title="Evaluación" /> |La marca circular debajo del símbolo indica que el animal está en la lista de vigilancia
 
-### Pasos preliminares
+### Pasos preliminares {#preliminary-steps}
 
 1. Selecciona el ítem de menú <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listas" /> `Listas` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `OK`.
 
@@ -46,7 +46,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Pasos Preliminares")
 
-### Menú acciones
+### Menú acciones {#full-action-menu}
 
 1. Completa los pasos preliminares.
 
@@ -58,7 +58,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Menú de acciones")
 
-### Datos del animal
+### Datos del animal {#animal-data}
 
 1. Completa los pasos preliminares.
 
@@ -70,7 +70,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Datos del animal")
 
-### Medir temperatura
+### Medir temperatura {#take-temperature}
 
 1. Completa los pasos preliminares.
 
@@ -78,11 +78,11 @@ La lista de alarmas está estructurada de la siguiente manera:
 
 3. Dentro de la lista de alarmas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
 
-4. La función [Medir temperatura](/es/docs/actions/measure-temperature/#medir-la-fiebre) ahora se inicia automáticamente.
+4. La función [Medir temperatura](/es/docs/actions/measure-temperature/#measure-fever) ahora se inicia automáticamente.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Tomar temperatura")
 
-### Evaluar animal
+### Evaluar animal {#rate-animal}
 
 1. Completa los pasos preliminares.
 
@@ -90,11 +90,11 @@ La lista de alarmas está estructurada de la siguiente manera:
 
 3. Dentro de la lista de alarmas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
 
-4. La función [Evaluar animal](/es/docs/actions/rating/#califica-tus-animales) ahora se inicia automáticamente.
+4. La función [Evaluar animal](/es/docs/actions/rating/#rate-your-animals) ahora se inicia automáticamente.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Evaluar animal")
 
-### Restablecer alarma
+### Restablecer alarma {#clear-alarm}
 
 1. Completa los pasos preliminares.
 
@@ -106,7 +106,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Eliminar alarma")
 
-### Cambiar estado de seguimiento
+### Cambiar estado de seguimiento {#toggle-watch-status}
 
 1. Completa los pasos preliminares.
 
@@ -118,7 +118,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Cambiar estado de vigilancia")
 
-### Buscar animal
+### Buscar animal {#search-animal}
 
 1. Completa los pasos preliminares.
 
@@ -128,7 +128,7 @@ La lista de alarmas está estructurada de la siguiente manera:
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Buscar animal")
 
-### Fijar filtro
+### Fijar filtro {#set-filter}
 
 1. Completa los pasos preliminares.
 

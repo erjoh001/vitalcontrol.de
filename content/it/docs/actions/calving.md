@@ -15,7 +15,7 @@ Questa funzione è visualizzata solo per le mucche, ma non per i vitelli o gli a
 Se non hai bisogno di questa funzione, puoi disattivarla nel menu [impostazioni azioni](../settings/).
 {{% /alert %}}
 
-## Registra un parto
+## Registra un parto {#register-a-calving}
 
 Non appena hai inserito il menu delle azioni, seleziona l'elemento del menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `Parto` e conferma con `OK`. Procedi come descritto nelle istruzioni [Registrazione di un parto](/it/docs/new/calving/).
 

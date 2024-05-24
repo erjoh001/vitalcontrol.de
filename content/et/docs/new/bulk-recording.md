@@ -11,7 +11,7 @@ categories: [Hulgi-registreerimine]
 tags: [Hulgi-registreerimine]
 translationKey: new/bulk-recording
 ---
-## Hulgi-registreerimine
+## Hulgi-registreerimine {#bulk-recording}
 
 Massregistreerimise abil saate lühikese aja jooksul registreerida suure hulga loomi ja need oma seadmesse salvestada. Kasutage vöötkoodi skannerit, et skaneerida veiste passidel olevaid kõrvamärgi numbreid ja sünnikuupäevi. Loom salvestatakse automaatselt ja saate kohe järgmise passi skaneerida. Loomade massiliseks registreerimiseks toimige järgmiselt:
 
@@ -37,7 +37,7 @@ Menüüpunktis `Hulgisalvestus` on täiendavaid seadistamisvõimalusi. Need on s
 Skaneerimisprotsessi ajal võivad ilmneda veateated. Sellisel juhul teeb vöötkoodiskanner heli ja edasine skaneerimine pole võimalik. Kinnitage vastav veateade VitalControli ekraanil ja jätkake skaneerimist.
 {{% /alert %}}
 
-### Sünnikuupäev on kohustuslik
+### Sünnikuupäev on kohustuslik {#birth-date-mandatory}
 
 Selle seadistusvõimalusega saate määrata, kas loomade loomisel tuleb määrata sünnikuupäev. Kui deaktiveerite selle valiku, peate looma salvestamiseks skaneerima ainult vöötkoodi. Nende loomade jaoks salvestatakse siiski sünnikuupäevana praegune kuupäev! See funktsioon on vaikimisi lubatud. Selle deaktiveerimiseks tehke järgmist:
 
@@ -51,7 +51,7 @@ Selle seadistusvõimalusega saate määrata, kas loomade loomisel tuleb määrat
 
 ![VitalControl: Menüü Uus Sünnikuupäev kohustuslik](../images/birthdate.png "Sünnikuupäev kohustuslik")
 
-### Vaikimisi väärtused
+### Vaikimisi väärtused {#default-values}
 
 `Vaikimisi väärtuste` seadistusmenüüs saate määrata standardeid, mis kehtivad iga looma loomisel. Loomise protsess ribakoodi skanneriga jääb samaks nagu ülal kirjeldatud. Teil on võimalus määrata karilooma tüüp, sugu, tõug ja asukoht. `Vaikimisi väärtuste` seadmiseks toimige järgmiselt:
 
@@ -65,7 +65,7 @@ Selle seadistusvõimalusega saate määrata, kas loomade loomisel tuleb määrat
 
    ![VitalControl: Menüü Uus Vaikimisi väärtused](../images/defaultvalues.png "Vaikimisi väärtused")
 
-### Registreeritud väärtused
+### Registreeritud väärtused {#recorded-values}
 
 `Registreeritud väärtuste` seadistusmenüüs saate määrata, milliseid väärtusi tuleks lisaks kõrvamärgi numbrile ja sünnikuupäevale registreerida. Saate valida vahel `Tõug`, `Sugu`, `Asukoht`, `Praegune kaal`, `Sünnikaal` ja `Looma tüüp`. Niipea kui määrate vähemalt ühe väärtuse, muutub skaneerimise protsess. Skaneerige esmalt kõrvamärgi number ja sünnikuupäev. Seejärel kasutage suunaklahve △ ▽ määratavate väärtuste valimiseks ja väärtuste seadmiseks. Seejärel salvestage oma sisestused `F3` klahviga. Alles siis luuakse loom! Registreeritavate väärtuste seadmiseks toimige järgmiselt:
 

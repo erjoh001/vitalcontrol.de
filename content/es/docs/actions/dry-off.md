@@ -11,13 +11,13 @@ tags: [Secar]
 translationKey: actions/dry-cows
 ---
 
-## Secar
+## Secar {#dry-off}
 
 {{% alert title="Consejo" %}}
 Dependiendo del estado inicial de la vaca, puedes secar al animal y añadirlo a la lista de secado, o puedes marcar al animal como una ordeñadora fresca y así añadirla a la lista de ordeñadoras frescas. La distinción entre las funciones se aclara mediante un símbolo de más o un símbolo de menos.
 {{% /alert %}}
 
-### Secar una vaca
+### Secar una vaca {#dry-off-a-cow}
 
 1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `acciones` y presiona el botón `OK`.
 
@@ -37,7 +37,7 @@ Dependiendo del estado inicial de la vaca, puedes secar al animal y añadirlo a 
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Marcar como lactada
+### Marcar como lactada {#mark-as-lactated}
 
 1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `acciones` y presiona el botón `OK`.
 

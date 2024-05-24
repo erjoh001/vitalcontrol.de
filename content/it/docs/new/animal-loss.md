@@ -11,7 +11,7 @@ categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Registrare la perdita di un animale
+## Registrare la perdita di un animale {#record-the-loss-of-an-animal}
 
 {{% alert title="Suggerimento" %}}
 La funzione di perdita di un animale in questo elemento di menu è utilizzata principalmente per registrare vitelli/agnelli morti. Le opzioni di impostazione sono adattate di conseguenza e non sono identiche agli elementi di impostazione nel menu `Azioni` -> `Deregistrare` o `Perdita di un animale`.

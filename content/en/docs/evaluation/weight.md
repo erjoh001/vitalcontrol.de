@@ -30,7 +30,7 @@ If you click on a menu item, you will be redirected to a description of the resp
    <area shape="rect" coords="2,282,95,319" alt="Back" title="Jump back one level&#10;Mouse click: to the documentation" href="/en/docs/evaluation/">
 </map>
 
-## Today's weighings
+## Today's weighings {#todays-weighings}
 In this evaluation you can see the following information related to the weighings of the last 6 hours:
 - The mean animal weight
 - The mean daily gain since birth
@@ -49,7 +49,7 @@ To perform the evaluation, proceed as follows:
 
    ![VitalControl: menu Evaluation Today's weighings](../images/todaysweighings.png "Evaluate Today's weighings")
 
-## Birth weights
+## Birth weights {#birth-weights}
 In this evaluation you can view the following information:
 - The average birth weight
 - The weight classes
@@ -66,7 +66,7 @@ To perform the evaluation, proceed as follows:
 
    ![VitalControl: menu Evaluation Birth weights](../images/birthweights.png "Evaluate Birth weights")
 
-## Weight development
+## Weight development {#weight-development}
 
 In this evaluation you can see the following information related to all weighings:
 - The average animal weight

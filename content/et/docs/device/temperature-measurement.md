@@ -11,7 +11,7 @@ categories: [Device]
 tags: [Device]
 translationKey: device/temperature-measurement
 ---
-## Testi temperatuuri mõõtmist
+## Testi temperatuuri mõõtmist {#test-temperature-measurement}
 
 Siin saad testida oma seadme temperatuuri mõõtmist ilma mõõtmist looma jaoks salvestamata. Testi läbiviimiseks toimi järgnevalt:
 

@@ -10,7 +10,7 @@ categories: [Настройки]
 tags: [Настройки, Език]
 translationKey: settings/language
 ---
-## Настройка на вашия език
+## Настройка на вашия език {#setting-your-language}
 
 За да зададете езика на вашето устройство VitalControl, процедирайте както следва:
 
@@ -24,7 +24,7 @@ translationKey: settings/language
 
 Езикът на вашето устройство VitalControl вече е зададен и постоянно запазен.
 
-## Налични езици
+## Налични езици {#available-languages}
 
 Фърмуерът на VitalControl поддържа преводи на следните езици:
 
@@ -45,7 +45,7 @@ translationKey: settings/language
 - Турски (TR)
 - Украински (UK)
 
-## Главно меню на всички налични езици
+## Главно меню на всички налични езици {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Английски" lang="en" %}}

@@ -11,7 +11,7 @@ categories: [Configuraciones]
 tags: [Configuraciones, Fecha y Hora]
 translationKey: settings/datetime
 ---
-## Para configurar la fecha
+## Para configurar la fecha {#to-set-the-date}
 {{% alert title="Advertencia" color="warning" %}}
 ¡Asegúrate de que la fecha y la hora estén configuradas correctamente! De lo contrario, las marcas de tiempo de las mediciones y las fechas de nacimiento de los animales recién agregados serán incorrectas.
 {{% /alert %}}
@@ -28,7 +28,7 @@ Para configurar la fecha en tu dispositivo, sigue estos pasos:
 
     ![VitalControl: configuración del menú de fecha](../images/date.png "Para configurar la fecha")
 
-## Para configurar la hora
+## Para configurar la hora {#to-set-the-time}
 
 Para configurar la hora en tu dispositivo, sigue estos pasos:
 

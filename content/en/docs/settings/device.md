@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, device]
 translationKey: settings/device
 ---
-## Shutdown device after
+## Shutdown device after {#shutdown-device-after}
 To set the period of non-activity until the device is switched off, proceed as follows.
 
 1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
@@ -24,7 +24,7 @@ To set the period of non-activity until the device is switched off, proceed as f
 
     ![VitalControl: menu settings Shutdown device after](../images/shutdowndeviceafter.png "Shutdown device after")
 
-## Start-up screen
+## Start-up screen {#start-up-screen}
 
 To set the start up screen proceed as follows.
 
@@ -38,7 +38,7 @@ To set the start up screen proceed as follows.
 
     ![VitalControl: menu settings Start-up screen](../images/startupscreen.png "Start-up screen")
 
-## Demonstration mode
+## Demonstration mode {#demonstration-mode}
 
 If the presentation mode is selected, the device simulates the temperature measurements and displays a randomly generated temperature as a measured value. This mode is used for device demonstration if no animals are available for a measurement. To deactivate or activate the presentation mode of the device, proceed as follows:
 
@@ -52,7 +52,7 @@ If the presentation mode is selected, the device simulates the temperature measu
 
     ![VitalControl: menu settings Demonstration mode](../images/demonstrationmode.png "Demonstration mode")
 
-## Display brightness
+## Display brightness {#display-brightness}
 
 To set the display brightness proceed as follows.
 
@@ -66,7 +66,7 @@ To set the display brightness proceed as follows.
 
     ![VitalControl: menu settings Display brightness](../images/displaybrightness.png "Display brightness")
 
-## Vibration on keypress
+## Vibration on keypress {#vibration-on-keypress}
 
 To deactivate or activate the vibration on keypress of the device, proceed as follows:
 
@@ -80,7 +80,7 @@ To deactivate or activate the vibration on keypress of the device, proceed as fo
 
     ![VitalControl: menu settings Display brightness](../images/vibrationonkeypress.png "Display brightness")
 
-## Resource monitor
+## Resource monitor {#resource-monitor}
 
 To deactivate or activate the vibration resource monitor of the device, proceed as follows:
 

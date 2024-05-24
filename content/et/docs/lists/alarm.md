@@ -11,7 +11,7 @@ categories: [Nimekirjad]
 tags: [Nimekirjad, häire]
 translationKey: lists/alarm
 ---
-## Häirete nimekiri
+## Häirete nimekiri {#alarm-list}
 
 Häirete nimekirjast leiad kõik loomad, kes on kas käsitsi nimekirja lisatud või kõik loomad, kes olid temperatuuri mõõtmisel kollases või punases vahemikus. Nimekiri aitab sul hoida ülevaadet kõigist märkimisväärsetest loomadest. Lisaks saad iga nimekirjas oleva looma kohta teha järgmist:
 
@@ -36,7 +36,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Kehatemperatuur" title="Kehatemperatuur" /> | Viimane palavikumõõtmine kuvatakse sümboli all foori värvidega
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Looma hinnang" title="Hinnang" /> |Ringmärk sümboli all näitab, et loom on jälgimisnimekirjas
 
-### Eelsammud
+### Eelsammud {#preliminary-steps}
 
 1. Vali <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Nimekirjad" /> `Nimekirjad` menüüpunkt oma VitalControl seadme põhiekraanil ja vajuta `OK` nuppu.
 
@@ -46,7 +46,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Esialgsed sammud")
 
-### Täielik tegevusmenüü
+### Täielik tegevusmenüü {#full-action-menu}
 
 1. Viige lõpule esialgsed sammud.
 
@@ -58,7 +58,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Tegevusmenüü")
 
-### Looma andmed
+### Looma andmed {#animal-data}
 
 1. Viige lõpule esialgsed sammud.
 
@@ -70,7 +70,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Looma andmed")
 
-### Võta temperatuur
+### Võta temperatuur {#take-temperature}
 
 1. Täida eelnevad sammud.
 
@@ -82,7 +82,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Võta temperatuur")
 
-### Hinda looma
+### Hinda looma {#rate-animal}
 
 1. Täida eelnevad sammud.
 
@@ -94,7 +94,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Hinda looma")
 
-### Kustuta alarm
+### Kustuta alarm {#clear-alarm}
 
 1. Täida eelnevad sammud.
 
@@ -106,7 +106,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Eemalda häire")
 
-### Lülita jälgimisstaatus
+### Lülita jälgimisstaatus {#toggle-watch-status}
 
 1. Täitke eelnevad sammud.
 
@@ -118,7 +118,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Lülita jälgimisstaatus")
 
-### Otsi looma
+### Otsi looma {#search-animal}
 
 1. Täitke eelnevad sammud.
 
@@ -128,7 +128,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Otsi looma")
 
-### Seadista filter
+### Seadista filter {#set-filter}
 
 1. Täida eelnevad sammud.
 

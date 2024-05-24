@@ -11,7 +11,7 @@ Kategorien: [Zukäufe, Datenmanagement]
 Tags: [Zukäufe, Datenmanagement]
 translationKey: new-on-farm/new-on-farm
 ---
-## Zukäufe
+## Zukäufe {#purchased-animals}
 
 Innerhalb dieser Liste finden Sie alle Tiere die Sie über den Massenzugang angelegt haben. Sie können diese Liste exportieren und somit ihre Zugänge direkt im Herdenmanagementprogramm DSP-Herde und in HI-Tier registrieren. Alternativ können Sie die Zugangsliste löschen.
 
@@ -31,7 +31,7 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/zukaeufe.png "Zukäufe")
 
-## Optionen: Alle Nachrichten nach Export löschen 
+## Optionen: Alle Nachrichten nach Export löschen {#options-delete-all-notices-after-export}
 
 Mit dieser Option können Sie einstellen ob alle Meldungen innerhalb der Liste `Zukäufe` gelöscht werden sollen nachdem der Export der CSV-Datei erfolgt ist. Verwenden Sie diese Option nur, wenn Sie sich sicher sind, dass Sie die Meldungen nicht weiter benötigen!
 
@@ -43,21 +43,21 @@ Mit dieser Option können Sie einstellen ob alle Meldungen innerhalb der Liste `
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/nachrichten-loeschen.png "Alle Nachrichten nach Export löschen")
 
-## Direktfunktionen
+## Direktfunktionen {#direct-function-calls}
 
 Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
-- [Transponder abnehmen](#transponder-abnehmen)
-- [Alle Meldungen](#alle-meldungen-l%C3%B6schen) löschen
-- [Tier + Meldung ](#tier--meldung-l%C3%B6schen) löschen
-- [Zugangsmeldung](#zugangsmeldung-l%C3%B6schen) löschen
-- Eine [Meldung](#daten-eines-zu-meldenden-tieres-bearbeiten) bearbeiten
+- [Transponder abnehmen](#unlink-transponder)
+- [Alle Meldungen](#clear-all-purchase-notices) löschen
+- [Tier + Meldung ](#delete-animal--purchase-notice) löschen
+- [Zugangsmeldung](#clear-notice-of-purchase) löschen
+- Eine [Meldung](#edit-data-of-purchased-animal) bearbeiten
 
 {{% alert title="Hinweis" %}}
 Öffnen Sie immer zuerst die Liste `Zukäufe` wie in der Anleitung oben beschrieben.
 {{% /alert %}}
 
-### Transponder abnehmen
+### Transponder abnehmen {#unlink-transponder}
 
 Mit dieser Funktion können Sie den Transponder von einem Tier lösen.
 
@@ -69,7 +69,7 @@ Mit dieser Funktion können Sie den Transponder von einem Tier lösen.
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/transponder-abnehmen.png "Transponder abnehmen")
 
-### Alle Meldungen löschen
+### Alle Meldungen löschen {#clear-all-purchase-notices}
 
 Mit dieser Funktion können Sie alle Tiere aus der Liste `Zukäufe` löschen ohne zuvor eine Export-Datei erstellen zu müssen.
 
@@ -81,7 +81,7 @@ Mit dieser Funktion können Sie alle Tiere aus der Liste `Zukäufe` löschen ohn
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/alle-meldungen-loeschen.png "Alle Meldungen löschen")
 
-### Tier + Meldung löschen
+### Tier + Meldung löschen {#delete-animal--purchase-notice}
 
 Um ein Tier und die Zugangsmeldung zu löschen gehen Sie wie folgt vor:
 
@@ -95,7 +95,7 @@ Um ein Tier und die Zugangsmeldung zu löschen gehen Sie wie folgt vor:
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/tier-und-meldung-loeschen.png "Tier + Meldung löschen")
 
-### Zugangsmeldung löschen
+### Zugangsmeldung löschen {#clear-notice-of-purchase}
 
 Um die Zugangsmeldung eines Tieres aus der Liste zu löschen gehen Sie wie folgt vor:
 
@@ -109,12 +109,12 @@ Um die Zugangsmeldung eines Tieres aus der Liste zu löschen gehen Sie wie folgt
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/zugangsmeldung-loeschen.png "Zugangsmeldung löschen")
 
-### Daten eines zu meldenden Tieres bearbeiten
+### Daten eines zu meldenden Tieres bearbeiten {#edit-data-of-purchased-animal}
 
 Um die Daten eines Tieres in der Zugangsliste vorhanden ist, gehen Sie wie folgt vor:
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, welches Sie bearbeiten möchten.
 
-2. Verwenden Sie die Taste `OK`. Es öffnet sich ein Untermenü mit den Tierdaten des ausgewählten Tieres. Wie diese zu bearbeiten sind finden Sie [hier](/docs/aktionen/aendern/#tierdaten-%C3%A4ndern).
+2. Verwenden Sie die Taste `OK`. Es öffnet sich ein Untermenü mit den Tierdaten des ausgewählten Tieres. Wie diese zu bearbeiten sind finden Sie [hier](/docs/aktionen/aendern/#edit-animal-data).
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/eine-meldung-bearbeiten.png "Eine Meldung bearbeiten")

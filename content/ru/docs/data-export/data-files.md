@@ -10,14 +10,14 @@ tags: [экспортируемые файлы, температуры, веса
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Общая информация
+## Общая информация {#general-information}
 
 При экспорте данных о животных, независимо от того, на [USB-накопитель][] или на локальное массовое хранилище [на ПК][], в каждом случае генерируются четыре файла экспорта:
 
-- [Данные о животных](#описание-файлов-данных) `(animals.csv)`
-- [Данные о температуре тела](#данные-о-температуре-тела-temperaturescsv) `(temperatures.csv)`
-- [Данные о весе](#данные-о-весе-weightscsv) `(weights.csv)`
-- [Оценки животных](#оценки-животных-ratingscsv) `(ratings.csv)`
+- [Данные о животных](#animal-data-animalscsv) `(animals.csv)`
+- [Данные о температуре тела](#body-temperature-data-temperaturescsv) `(temperatures.csv)`
+- [Данные о весе](#weight-data-weightscsv) `(weights.csv)`
+- [Оценки животных](#animal-ratings-ratingscsv) `(ratings.csv)`
 
 [USB-накопитель]: ../usb-drive/
 [на ПК]: ../pc/
@@ -29,17 +29,17 @@ translationKey: data-export/data-files
 
 Все четыре файла представляют собой текстовые файлы [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), читаемые человеком. Файлы закодированы в формате `UTF-8`, в качестве разделителей колонок используются точки с запятой (`;`). Отдельные поля данных *не* заключены в кавычки. Каждая строка соответствующей таблицы представляет собой набор данных о животных или выполненное на животном измерение или оценку.
 
-## Дальнейшая обработка экспортированных данных
+## Дальнейшая обработка экспортированных данных {#further-processing-of-exported-data}
 
 Каждый из этих четырех файлов экспорта можно открыть в программе для работы с электронными таблицами на ваш выбор (например, [Microsoft Excel](https://products.office.com/excel) или [OpenOffice Calc](https://www.openoffice.org/)) и провести там продвинутый анализ данных. Ниже показан пример представления таблицы `animals.csv` в программе для работы с электронными таблицами:
 
 ![Экспортированные данные о животных, открытые в программе для работы с электронными таблицами](../images/animals.png "Данные о животных, открытые в программе для работы с электронными таблицами")
 
-## Описание файлов данных
+## Описание файлов данных {#description-of-data-files}
 
 В следующих четырех разделах подробно описываются каждый из экспортированных файлов данных:
 
-### Данные о животных (`animals.csv`)
+### Данные о животных (`animals.csv`) {#animal-data-animalscsv}
 
 - **Имя файла** `animals.csv`
 - **Описание** Общие данные о животных
@@ -72,7 +72,7 @@ National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
 
 [animals.csv]: /data-export/animals.csv
 
-### Данные о температуре тела (`temperatures.csv`)
+### Данные о температуре тела (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Имя файла** `temperatures.csv`
 - **Описание** Значения температуры, полученные путем измерения ректальной температуры тела животных.
@@ -104,7 +104,7 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Temperature-Celsius
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Данные о весе (`weights.csv`)
+### Данные о весе (`weights.csv`) {#weight-data-weightscsv}
 
 - **Имя файла** `weights.csv`
 - **Описание** Значения веса, полученные при взвешивании животных
@@ -136,7 +136,7 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
 
 [weights.csv]: /data-export/weights.csv
 
-### Оценки животных (`ratings.csv`)
+### Оценки животных (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Имя файла** `ratings.csv`
 - **Описание** Оценки животных, полученные путем визуального осмотра животных

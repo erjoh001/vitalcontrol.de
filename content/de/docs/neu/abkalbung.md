@@ -11,7 +11,7 @@ Kategorien: [Abkalbung]
 Tags: [Abkalbung]
 translationKey: new/calving
 ---
-## Abkalbung erfassen
+## Abkalbung erfassen {#register-a-calving}
 
 Um eine Abkalbung zu erfassen gehen Sie wie folgt vor:
 

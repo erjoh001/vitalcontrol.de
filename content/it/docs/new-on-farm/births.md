@@ -11,7 +11,7 @@ categories: [Nascite]
 tags: [Nascite]
 translationKey: new-on-farm/births
 ---
-## Nascite
+## Nascite {#births}
 
 In questa lista puoi visualizzare le tue nascite, modificarle e creare un file di esportazione per registrarle in HI-Tier. Per creare un file di esportazione, procedi come segue:
 
@@ -33,7 +33,7 @@ Per esportare i dati è necessario il stick UBS incluso. Collega il stick USB co
 
     ![VitalControl: Menu Nuovo in azienda Nascite](../images/births.png "Nascite")
 
-## Impostazione delle opzioni
+## Impostazione delle opzioni {#setting-options}
 
 Oltre a creare il file di esportazione, hai le seguenti opzioni:
 
@@ -47,7 +47,7 @@ Oltre a creare il file di esportazione, hai le seguenti opzioni:
 Alcune azioni sono identiche alle azioni nella lista `Animali acquistati`. Segui i link per le istruzioni passo-passo. Apri sempre prima la lista `Nascite` come descritto nelle istruzioni sopra.
 {{% /alert %}}
 
-### Cambia tra vista elenco e vista singolo animale
+### Cambia tra vista elenco e vista singolo animale {#change-between-list-view-and-single-animal-view}
 
 1. Usa il pulsante <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `On/Off`.
 
@@ -57,7 +57,7 @@ Alcune azioni sono identiche alle azioni nella lista `Animali acquistati`. Segui
 
     ![VitalControl: Menu Nuovo in fattoria Nascite](../images/change.png "Cambia tra vista elenco e vista singolo animale")
 
-### Modifica i dati della notifica di nascita
+### Modifica i dati della notifica di nascita {#edit-data-of-birth-notice}
 
 {{% alert title="Suggerimento" %}}
 La modifica dei dati dell'animale è possibile solo nella vista elenco!

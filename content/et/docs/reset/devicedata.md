@@ -8,7 +8,7 @@ description: >
   Õppige, kuidas lähtestada kõik VitalControl seadme seaded.
 categories: [Lähtestamine]
 ---
-## Kõigi seadme andmete lähtestamine
+## Kõigi seadme andmete lähtestamine {#resetting-all-device-data}
 
 1. Avage menüüelement <img src="/icons/device.svg" width="25" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadme põhiekraanil.
 

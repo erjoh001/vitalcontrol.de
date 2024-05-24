@@ -11,11 +11,11 @@ categories: [Keten van acties]
 tags: [Keten van acties, Acties]
 translationKey: action-chain
 ---
-## Keten van acties
+## Keten van acties {#chain-of-actions}
 
 De actieketen stelt je in staat om automatisch meerdere acties voor een dier na elkaar uit te voeren. Je kunt bijvoorbeeld de acties `Temperatuur` en `Beoordeling` selecteren. Als je vervolgens de actieketen uitvoert, kun je eerst de temperatuur van je dier opnemen en direct daarna de beoordeling registreren.
 
-### Gebruik keten van acties
+### Gebruik keten van acties {#use-chain-of-actions}
 
 1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Keten van acties" />&nbsp; `Opeenvolgende acties` en druk op de `OK` knop.
 
@@ -33,7 +33,7 @@ De actieketen stelt je in staat om automatisch meerdere acties voor een dier na 
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Stel keten van acties in
+### Stel keten van acties in {#set-chain-of-actions}
 
 1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Keten van acties" />&nbsp; `Opeenvolgende acties` en druk op de `OK` knop.
 

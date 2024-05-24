@@ -10,7 +10,7 @@ tags: [archivos de exportación, temperaturas, pesos, calificaciones]
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Información general
+## Información general {#general-information}
 
 Al exportar datos de animales, ya sea al [pendrive USB][] o a un dispositivo de almacenamiento masivo local [en el PC][], se generan cuatro archivos de exportación en cada caso:
 
@@ -22,24 +22,24 @@ Al exportar datos de animales, ya sea al [pendrive USB][] o a un dispositivo de 
 [pendrive USB]: ../usb-drive/
 [en el PC]: ../pc/
 
-[Datos de animales]: #datos-de-animales-animalscsv
-[Datos de temperatura corporal]: #datos-de-temperatura-corporal-temperaturescsv
-[Datos de peso]: #datos-de-peso-weightscsv
-[Calificaciones de animales]: #valoraciones-de-animales-ratingscsv
+[Datos de animales]: #animal-data-animalscsv
+[Datos de temperatura corporal]: #body-temperature-data-temperaturescsv
+[Datos de peso]: #weight-data-weightscsv
+[Calificaciones de animales]: #animal-ratings-ratingscsv
 
 Los cuatro archivos son archivos de texto [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) legibles por humanos. Los archivos están codificados en formato `UTF-8`, se utilizan puntos y comas (`;`) como separadores de columnas. Los campos de datos individuales *no* están encerrados entre comillas. Cada fila de la respectiva tabla representa un conjunto de datos de un animal o una medición o evaluación realizada sobre un animal.
 
-## Procesamiento adicional de datos exportados
+## Procesamiento adicional de datos exportados {#further-processing-of-exported-data}	
 
 Puedes abrir cada uno de estos cuatro archivos de exportación en un programa de hoja de cálculo de tu elección (como [Microsoft Excel](https://products.office.com/excel) o [OpenOffice Calc](https://www.openoffice.org/)) y realizar un análisis avanzado de los datos allí. Como ejemplo, a continuación se muestra la vista de la tabla `animals.csv` en un programa de hoja de cálculo:
 
 ![Datos de animales exportados, abiertos en un programa de hoja de cálculo](../images/animals.png "Datos de animales abiertos en programa de hoja de cálculo")
 
-## Descripción de los archivos de datos
+## Descripción de los archivos de datos {#description-of-data-files}
 
 Las siguientes cuatro secciones describen cada uno de los archivos de datos exportados en detalle:
 
-### Datos de animales (`animals.csv`)
+### Datos de animales (`animals.csv`) {#animal-data-animalscsv}
 
 - **Nombre del archivo** `animals.csv`
 - **Descripción** Datos generales de animales
@@ -72,7 +72,7 @@ Si es necesario, también puedes descargar el archivo de muestra proporcionado [
 
 [animals.csv]: /data-export/animals.csv
 
-### Datos de temperatura corporal (`temperatures.csv`)
+### Datos de temperatura corporal (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Nombre del archivo** `temperatures.csv`
 - **Descripción** Valores de temperatura, obtenidos al tomar la temperatura corporal rectal de los animales.
@@ -104,7 +104,7 @@ Si es necesario, también puedes descargar el archivo de muestra proporcionado [
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Datos de peso (`weights.csv`)
+### Datos de peso (`weights.csv`) {#weight-data-weightscsv}
 
 - **Nombre del archivo** `weights.csv`
 - **Descripción** Valores de peso obtenidos al pesar animales
@@ -136,7 +136,7 @@ Si es necesario, también puedes descargar el archivo de muestra proporcionado [
 
 [weights.csv]: /data-export/weights.csv
 
-### Valoraciones de animales (`ratings.csv`)
+### Valoraciones de animales (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Nombre del archivo** `ratings.csv`
 - **Descripción** Valoraciones de animales obtenidas mediante inspección visual de los animales

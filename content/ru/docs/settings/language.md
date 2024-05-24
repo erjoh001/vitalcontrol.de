@@ -10,7 +10,7 @@ categories: [Настройки]
 tags: [Настройки, Язык]
 translationKey: settings/language
 ---
-## Настройка вашего языка
+## Настройка вашего языка {#setting-your-language}
 
 Чтобы установить язык на вашем устройстве VitalControl, выполните следующие действия:
 
@@ -24,7 +24,7 @@ translationKey: settings/language
 
 Язык на вашем устройстве VitalControl теперь установлен и сохранен навсегда.
 
-## Доступные языки
+## Доступные языки {#available-languages}
 
 Прошивка VitalControl содержит переводы на следующие языки:
 
@@ -45,7 +45,7 @@ translationKey: settings/language
 - Турецкий (TR)
 - Украинский (UK)
 
-## Главное меню на всех доступных языках
+## Главное меню на всех доступных языках {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Английский" lang="en" %}}

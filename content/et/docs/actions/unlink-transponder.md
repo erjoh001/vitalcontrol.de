@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 See toiming ei ole vaikimisi lubatud! Aktiveerige see, nagu kirjeldatud [toimingute seadistuses](../setting/).
 {{% /alert %}}
 
-## Eemalda transponderi link
+## Eemalda transponderi link {#unlink-transponder}
 
 Selle toiminguga saate loomalt eemaldada juba määratud transponderi.
 

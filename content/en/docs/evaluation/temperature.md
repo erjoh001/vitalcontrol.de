@@ -14,7 +14,7 @@ translationKey: evaluation/temperature
 In the default setting, all animals stored on the VitalControl are included in the evaluation. By using a [filter](../../filter/) you can restrict the evaluation to a subset of the animals on your device, e.g. only to male animals or to animals up to a certain maximum age.
 {{% /alert %}}
 
-## Evaluate temperature
+## Evaluate temperature {#evaluate-temperature}
 
 In this evaluation you can see the following information:
 - Currently febrile ill animals

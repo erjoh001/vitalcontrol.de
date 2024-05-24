@@ -11,7 +11,7 @@ categories: [Születések]
 tags: [Születések]
 translationKey: new-on-farm/births
 ---
-## Születések
+## Születések {#births}
 
 Ebben a listában megtekintheti a születéseket, szerkesztheti őket és létrehozhat egy export fájlt a HI-Tier rendszerbe való regisztrációhoz. Az export fájl létrehozásához kövesse az alábbi lépéseket:
 
@@ -33,8 +33,8 @@ Az adatok exportálásához szüksége van a mellékelt UBS stickre. Csatlakozta
 
     ![VitalControl: Menü Új a farmon Születések](../images/births.png "Születések")
 
-## Beállítási lehetőségek
-
+## Beállítási lehetőségek {#setting-options}
+ 
 Az export fájl létrehozása mellett a következő lehetőségek állnak rendelkezésre:
 
 - [Váltás](#change-between-list-view-and-single-animal-view) a lista nézet és az egyedi állat nézet között
@@ -47,7 +47,7 @@ Az export fájl létrehozása mellett a következő lehetőségek állnak rendel
 Néhány művelet megegyezik a `Vásárolt állatok` listában található műveletekkel. Kövesse a lépésről lépésre szóló utasításokat a linkeken. Mindig nyissa meg először a `Születések` listát, ahogy az a fenti utasításokban szerepel.
 {{% /alert %}}
 
-### Váltás a lista nézet és az egyedi állat nézet között
+### Váltás a lista nézet és az egyedi állat nézet között {#change-between-list-view-and-single-animal-view}
 
 1. Használja a <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `Be/Ki` gombot.
 
@@ -57,7 +57,7 @@ Néhány művelet megegyezik a `Vásárolt állatok` listában található műve
 
     ![VitalControl: Menü Új a farmon Születések](../images/change.png "Váltás a lista nézet és az egyedi állat nézet között")
 
-### Születési értesítés adatainak szerkesztése
+### Születési értesítés adatainak szerkesztése {#edit-data-of-birth-notice}
 
 {{% alert title="Tipp" %}}
 Az állat adatainak szerkesztése csak a lista nézetben lehetséges!

@@ -7,7 +7,7 @@ draft: false
 description: >
  Seadme seerianumbri hankimiseks klõpsake siin
 ---
-## Hankige seerianumber
+## Hankige seerianumber {#get-serial-number}
 
 Seadme seerianumbri hankimiseks toimige järgmiselt:
 

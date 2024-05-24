@@ -11,8 +11,8 @@ categories: [settings]
 tags: [settings, Default values]
 translationKey: settings/new-animals
 ---
-## Establecer Valores por defecto
-### Configurar peso(s) registrado(s)
+## Establecer Valores por defecto {#set-default-values}
+### Configurar peso(s) registrado(s) {#set-recorded-weights}
 
 Aquí defines qué peso se registra y guarda al crear nuevos animales en tu granja. Para configurar el peso registrado en tu dispositivo, procede de la siguiente manera.
 
@@ -30,7 +30,7 @@ Aquí defines qué peso se registra y guarda al crear nuevos animales en tu gran
  Selecciona `ninguno` si: los animales se crean automáticamente en segundo plano (mediante escaneo de transpondedor), no hay una báscula disponible en la granja y no se desean valores estimados, los pesos al nacer son desconocidos.
 {{% /alert %}}
 
-### Configurar edad al registrarse
+### Configurar edad al registrarse {#set-age-at-registration}
 {{% alert title="Consejo" %}}
 Basado en la edad ingresada aquí, el dispositivo calcula la fecha de nacimiento que se sugiere para un animal creado manualmente o que se usa para la creación automática en segundo plano (mediante escaneo de transpondedor). Para granjas lecheras, ingresa la edad en días en la que los terneros recién nacidos se registran en VitalControl. Para granjas de engorde, se debe ingresar la edad promedio de los terneros comprados aquí. El rango de valores permitido es de 0 a 99 días.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Para configurar la edad al crear en su dispositivo, proceda de la siguiente mane
 
     ![VitalControl: configuración del menú Establecer edad al registro](../images/ageatregistration.png "Establecer edad al registro")
 
-### Establecer sexo
+### Establecer sexo {#set-sex}
 
 Aquí define qué sexo se sugiere (creación manual) o se adopta automáticamente (creación en el
 fondo). Para definir el sexo al registrar un animal en su dispositivo, proceda de la siguiente manera.
@@ -66,7 +66,7 @@ fondo). Para definir el sexo al registrar un animal en su dispositivo, proceda d
 
     ![VitalControl: configuración del menú Establecer sexo](../images/setsex.png "Establecer sexo")
 
-### Establecer tipo de animal
+### Establecer tipo de animal {#set-type-of-animal}
 
 Aquí define qué tipo de animal se registra al crear nuevos animales en su granja. Para definir el tipo de animal al crearlo en su dispositivo, proceda de la siguiente manera:
 
@@ -82,7 +82,7 @@ Aquí define qué tipo de animal se registra al crear nuevos animales en su gran
 
     ![VitalControl: ajustes del menú tipo de animal](../images/typeofanimal.png "tipo de animal")
 
-### Establecer raza
+### Establecer raza {#set-breed}
 
 Aquí defines qué raza del ganado se registra al crear nuevos animales en tu granja. Para definir la raza al crear en tu dispositivo, procede de la siguiente manera:
 
@@ -98,7 +98,7 @@ Aquí defines qué raza del ganado se registra al crear nuevos animales en tu gr
 
     ![VitalControl: ajustes del menú tipo de animal](../images/breed.png "tipo de animal")
 
-### Establecer Ubicación
+### Establecer Ubicación {#set-whereabouts}
 
 Aquí defines qué ubicaciones se asignan a los animales al crear nuevos animales de granja. Para definir la ubicación del animal de granja cuando se crea en tu dispositivo, procede de la siguiente manera:
 
@@ -116,7 +116,7 @@ Aquí defines qué ubicaciones se asignan a los animales al crear nuevos animale
 
 Guarda los ajustes y regresa al menú principal `Ajustes` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
 
-## Autoregistro
+## Autoregistro {#auto-registration}
 
 Aquí defines el comportamiento del dispositivo cuando se escanea un nuevo transpondedor, que aún no es conocido por el dispositivo VitalControl. Para este caso, se pueden definir tres comportamientos diferentes.
 
@@ -136,7 +136,7 @@ Para definir el comportamiento cuando el animal del usuario se crea automáticam
 
 ![VitalControl: configuración del menú Autoregistro](../images/autoregistration.png "Autoregistro")
 
-## Asignación de ID de animal
+## Asignación de ID de animal {#assignment-animal-id}
 
 Aquí defines qué ID de animal se propone (derivada del número de transpondedor) o se utiliza (Consecutivo) al crear un nuevo animal en tu granja.
 
@@ -166,7 +166,7 @@ Para definir la asignación de la ID de animal al crear el animal de granja en t
 Solo al usar la opción `Consecutivo`: si has configurado usar rangos de números separados para animales machos y hembras al asignar el número de etiqueta de oreja, se almacena un número de animal siguiente para cada uno de machos, hembras y animales de sexo desconocido. Un símbolo colocado a la izquierda del número de animal indica para qué se usa el siguiente número de animal: ¿para macho ♀ o para hembra ♂ o para animales de sexo desconocido ♀♂?
 {{% /alert %}}
 
-### Dígito del nuevo ID
+### Dígito del nuevo ID {#digit-of-the-new-id}
 
 Aquí defines la longitud que tiene un número de granero derivado del número de transpondedor para un nuevo animal en tu granja. El rango de valores posible es de 2 a 6 dígitos. Para definir la longitud del nuevo ID del animal de granja en tu dispositivo procede de la siguiente manera:
 
@@ -182,7 +182,7 @@ Aquí defines la longitud que tiene un número de granero derivado del número d
 
     ![VitalControl: configuración del menú Dígito del nuevo ID](../images/digitofnewid.png "Dígito del nuevo ID")
 
-### Desplazamiento a la derecha
+### Desplazamiento a la derecha {#right-offset}
 
 Aquí defines si también se tiene en cuenta un desplazamiento al derivar un número de granero del número de transpondedor. Sin desplazamiento, los últimos 2-6 dígitos del número de transpondedor se usarán como número de establo, con un desplazamiento de 1 se descartará el dígito más a la derecha, con un desplazamiento de 2 los dos dígitos más a la derecha, y así sucesivamente.
 
@@ -206,7 +206,7 @@ Para configurar el desplazamiento a la derecha del animal en su dispositivo, pro
 
 Guarde los ajustes y regrese al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Configuración` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
 
-## Asignación del número de la marca auricular
+## Asignación del número de la marca auricular {#assignment-ear-tag-number}
 
 Aquí define si se utilizan uno o dos rangos de números al asignar el número de etiqueta de oreja en el curso del re-registro manual de animales. Para definir la asignación del número de etiqueta de oreja del animal de granja en su dispositivo, proceda de la siguiente manera:
 

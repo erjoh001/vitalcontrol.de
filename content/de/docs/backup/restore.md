@@ -18,7 +18,7 @@ Dieser Stick muss zwingend ein Verzeichnis `backup` enthalten, in dem sich eine 
 Im Verzeichnis `backup` ihres USB-Sticks können sich mehrere Sicherungsdateien mit der Endung `.vcu` befinden. Das VitalControl-Gerät verwendet für die Rücksicherung immer die Datei mit dem Namen `backup.vcu`, dies ist immer auch die neueste Datei. Wollen Sie eine ältere Sicherungsdateien (mit dem Sicherungsdatum im Dateinamen) zurückspielen, so müssen Sie diese ältere Sicherungsdatei vor der Rücksicherung nach `backup.vcu` umbenennen!
 {{% /alert %}}
 
-## Daten aufs VitalControl zurücksichern
+## Daten aufs VitalControl zurücksichern {#data-restoration-to-vitalcontrol-device}	
 
 1. Öffnen Sie im Hauptbildschirm desjenigen VitalControl-Geräts, auf das sie die Daten zurückspielen wollen, das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
 

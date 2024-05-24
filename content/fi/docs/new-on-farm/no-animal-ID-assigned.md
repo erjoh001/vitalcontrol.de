@@ -11,8 +11,8 @@ categories: [Uusi tilalla]
 tags: [Uusi tilalla]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Ei eläintunnusta
-
+## Ei eläintunnusta {#no-national-animal-id-assigned}
+ 
 Tässä luettelossa löydät kaikki eläimet, joille ei ole vielä määritetty eläinnumeroa. Voit määrittää eläinnumeron luettelon eläimille.
 
 1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uusi tilalla" /> `Uusi tilalla` ja paina `OK`-nappia.
@@ -30,7 +30,7 @@ Tässä luettelossa löydät kaikki eläimet, joille ei ole vielä määritetty 
 7. Tallenna asetus `F3`-näppäimellä <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Tallenna" />&nbsp;. Eläimelle on nyt onnistuneesti annettu kansallinen eläintunnus ja se on poistettu listalta.
 
 {{% alert title="Vihje" %}}
-Kohdassa [viimeiset toimenpide OK:](#viimeinen-toimenpide-ok) voit asettaa, haluatko syöttää korvamerkin numeron käsin vai skannauksella. Valitse esimerkkinäyttö asetuksesi mukaan.
+Kohdassa [viimeiset toimenpide OK:](#last-action-on-ok) voit asettaa, haluatko syöttää korvamerkin numeron käsin vai skannauksella. Valitse esimerkkinäyttö asetuksesi mukaan.
 {{% /alert %}}
 
 {{< tabpane >}}
@@ -43,7 +43,7 @@ Kohdassa [viimeiset toimenpide OK:](#viimeinen-toimenpide-ok) voit asettaa, halu
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Viimeinen toimenpide OK:
+## Viimeinen toimenpide OK: {#last-action-on-ok}
 
 Voit käyttää lisätoimintoja asettaaksesi, mitä toimintoja haluat suorittaa ennen kansallisen eläintunnuksen antamista. Voit valita lämpötilan mittaamisen, eläimen arvioinnin ja eläimen punnitsemisen välillä. Valittu toiminto tallennetaan suoraan eläimelle, jolle annat tunnuksen. Toimi seuraavasti:
 
@@ -61,7 +61,7 @@ Voit käyttää lisätoimintoja asettaaksesi, mitä toimintoja haluat suorittaa 
 Voit käyttää korvamerkin numeron määritystä skannauksella vain, jos käytät elektronisia korvamerkkejä!
 {{% /alert %}}
 
-## Aiemmat lisätoiminnot
+## Aiemmat lisätoiminnot {#previous-additional-actions}
 
 Voit käyttää aiempia lisätoimenpiteitä asettaaksesi, mitä toimenpiteitä haluat suorittaa ennen korvamerkin numeron määrittämistä. Voit valita lämpötilan mittaamisen, eläimen arvioinnin ja eläimen punnitsemisen välillä. Kyseinen toimenpide tallennetaan suoraan eläimelle, jolle myöhemmin määrität. Toimi seuraavasti:
 
@@ -77,6 +77,6 @@ Voit käyttää aiempia lisätoimenpiteitä asettaaksesi, mitä toimenpiteitä h
 
     ![Ostettujen eläinten lista, kansallista eläintunnusta ei ole määritetty](../images/aidditional-actions.png "Kansallista eläintunnusta ei ole määritetty, Linkki")
 
- ## Lisävalikko
+ ## Lisävalikko {#further-menu-items}
 
 Sinulla on myös mahdollisuus valita popup-ikkunassa vaihtoehdoista `Mitta lämpötila` ja `Arvioi eläin`. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kyseiseen valikkokohtaan ja vahvista painamalla `OK`. Tietoja `Aseta suodatin` [täällä](/fi/docs/filter/) ja `Arvioi eläin` toimi kuten `Ei eläintunnusta` vaiheessa 4.

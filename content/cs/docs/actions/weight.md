@@ -11,7 +11,7 @@ tags: [Actions, weight]
 translationKey: actions/weight
 ---
 
-## Zaznamenat hmotnost
+## Zaznamenat hmotnost {#record-weight}
 Použijte akci &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weighing` k uložení hmotnosti vašeho zvířete jednotlivě. K tomu zvažte svá zvířata nebo odhadněte jejich hmotnost a zadejte tuto hodnotu do zařízení VitalControl. To vám umožní sledovat vývoj hmotnosti vašich zvířat a hodnotit je jednotlivě.
 
 {{% alert title="Tip" %}}

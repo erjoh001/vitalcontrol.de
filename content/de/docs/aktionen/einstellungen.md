@@ -10,8 +10,8 @@ Kategorien: [Aktionen, Aktionskette]
 Tags: [Aktionen, Aktionskette]
 translationKey: actions/settings
 ---
-## Menüeinträge: Sichtbarkeit und Reihenfolge
-
+## Menüeinträge: Sichtbarkeit und Reihenfolge  {#menu-items}
+ 
 In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des Menüs &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` angezeigt werden.
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
@@ -27,7 +27,7 @@ In diesem Einstellungsmenü legen Sie fest, welche Aktionen Ihnen innerhalb des 
 6. Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück zu dem Menü &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen`.
     ![VitalControl: Menüfolge Aktionen Menüeinträge](../bilder/menue.png "Menüeinträge")
 
-## Aktionskette: Einzelaktionen
+## Aktionskette: Einzelaktionen {#chain-of-actions}
 
 In diesem Einstellungsmenü legen Sie die einzelnen Aktionen der &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` fest.
 
@@ -37,6 +37,6 @@ In diesem Einstellungsmenü legen Sie die einzelnen Aktionen der &nbsp;<img src=
 
 3. Es öffnet sich ein Untermenü. Wählen Sie mit den Pfeiltasten △ ▽ den Menüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` aus und bestätigen Sie mit `OK`.
 
-4. Die weitere Anleitung finden Sie [hier](/docs/aktionskette/#aktionskette-einstellen).
+4. Die weitere Anleitung finden Sie [hier](/docs/aktionskette/).
 
     ![VitalControl: Menüfolge Aktionen Aktionskette](../bilder/aktionskette.png "Aktionskette")

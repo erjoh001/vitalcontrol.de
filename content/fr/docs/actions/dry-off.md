@@ -11,13 +11,13 @@ tags: [Sécher]
 translationKey: actions/dry-cows
 ---
 
-## Sécher
+## Sécher {#dry-off}
 
 {{% alert title="Conseil" %}}
 Selon le statut initial de la vache, vous pouvez soit sécher l'animal et l'ajouter à la liste des sécheuses, soit marquer l'animal comme une trayeuse fraîche et ainsi l'ajouter à la liste des trayeuses fraîches. La distinction entre les fonctions est clairement indiquée par un symbole plus ou un symbole moins.
 {{% /alert %}}
 
-### Sécher une vache
+### Sécher une vache {#dry-off-a-cow}
 
 1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
 
@@ -37,7 +37,7 @@ Selon le statut initial de la vache, vous pouvez soit sécher l'animal et l'ajou
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Marquer comme lactée
+### Marquer comme lactée {#mark-as-lactated}
 
 1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
 

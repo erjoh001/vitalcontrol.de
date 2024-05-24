@@ -10,7 +10,7 @@ categories: [Műveletek, Műveletek láncolata]
 tags: [Műveletek, Műveletek láncolata]
 translationKey: actions/setting
 ---
-## Menüelemek
+## Menüelemek {#menu-items}
 
 Ebben a beállítási menüben meghatározhatja, hogy mely műveletek jelenjenek meg a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Művelet` menüben.
 
@@ -28,7 +28,7 @@ Ebben a beállítási menüben meghatározhatja, hogy mely műveletek jelenjenek
 
     ![VitalControl: Menü Műveletek Menüelemek](../images/menu.png "Menüelemek")
 
-## Műveletek láncolata
+## Műveletek láncolata {#chain-of-actions}
 
 Ebben a beállítási menüben beállíthatja a &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `műveletek láncolatát`.
 

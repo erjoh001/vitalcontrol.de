@@ -10,7 +10,7 @@ categories: [Beállítások]
 tags: [Beállítások, Nyelv]
 translationKey: settings/language
 ---
-## Nyelv beállítása
+## Nyelv beállítása {#setting-your-language}
 
 A VitalControl készülék nyelvének beállításához kövesse az alábbi lépéseket:
 
@@ -24,7 +24,7 @@ A VitalControl készülék nyelvének beállításához kövesse az alábbi lép
 
 A VitalControl készülék nyelve most be van állítva és véglegesen tárolva van.
 
-## Elérhető nyelvek
+## Elérhető nyelvek {#available-languages}
 
 A VitalControl firmware az alábbi nyelvekre tartalmaz fordításokat:
 
@@ -45,7 +45,7 @@ A VitalControl firmware az alábbi nyelvekre tartalmaz fordításokat:
 - Török (TR)
 - Ukrán (UK)
 
-## Főmenü az összes elérhető nyelven
+## Főmenü az összes elérhető nyelven {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Angol" lang="en" %}}

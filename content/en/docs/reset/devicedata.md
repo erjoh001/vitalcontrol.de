@@ -8,7 +8,7 @@ description: >
   Learn how to reset all device settings of the VitalControl device.
 categories: [Reset]
 ---
-## Resetting all device data
+## Resetting all device data {#resetting-all-device-data}
 
 1. Open the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 

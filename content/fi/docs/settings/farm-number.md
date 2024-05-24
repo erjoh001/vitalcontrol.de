@@ -14,7 +14,7 @@ translationKey: settings/farm-number
 Maatilan numeron syöttäminen koskee tällä hetkellä vain saksalaisia viljelijöitä. Muiden kansallisuuksien viljelijät eivät tällä hetkellä hyödy maatilatunnuksen syöttämisestä. Tämä saattaa muuttua tulevissa [laitteiston versioissa]({{< relref "../firmware/versions/" >}}) VitalControl-laitteessa.
 {{< /alert >}}
 
-## Aseta maatilasi numero
+## Aseta maatilasi numero {#set-your-farm-number}
 
 Maatilasi numeron asettamiseksi laitteeseesi, toimi seuraavasti:
 

@@ -11,7 +11,7 @@ Categories: [Dier]
 tags: [Dier, Temperatuur, Hoogte, Diergegevens]
 translationKey: animal/animal
 ---
-## Dier
+## Dier {#animal}
 
 De functie voor individuele dieren stelt u in staat belangrijke informatie te bekijken over gewicht, temperatuur en beoordeling voor elk individueel dier. U heeft altijd de optie om de informatie weer te geven als een grafiek of als een lijst. Om de functie voor een enkel dier te gebruiken, ga als volgt te werk:
 
@@ -22,11 +22,11 @@ De functie voor individuele dieren stelt u in staat belangrijke informatie te be
  ![VitalControl: Menu Dier](images/list.png "Weergeven als een lijst")
 
 {{% alert title="Hint"  %}}
-Binnen elke informatieweergave heeft u de optie om [naar een dier te zoeken](#dier-zoeken), een [filter in te stellen](#filter-instellen) en over te schakelen naar een [grafische weergave](#grafische-weergave-instellen).
+Binnen elke informatieweergave heeft u de optie om [naar een dier te zoeken](#search-animal), een [filter in te stellen](#set-filter) en over te schakelen naar een [grafische weergave](#set-graphical-view).
 U kunt ook op elk moment tussen de individuele dieren schakelen met de pijltoetsen ◁ ▷.
 {{% /alert %}}
 
-### Grafische weergave instellen
+### Grafische weergave instellen {#set-graphical-view}
 
 1. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop-upmenu" /> om een pop-upmenu te openen. In dit menu kunt u kiezen tussen de functies `Filter zetten`, `Dier zoeken`, of `grafische weergave`.
 
@@ -34,7 +34,7 @@ U kunt ook op elk moment tussen de individuele dieren schakelen met de pijltoets
 
  ![VitalControl: Menu Animal](images/graphic.png "Voorstelling als een grafiek")
 
-### Dier zoeken
+### Dier zoeken {#search-animal}
 
 1. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop-upmenu" /> om een pop-upmenu te openen. In dit menu kunt u kiezen tussen de functies `Filter zetten`, `Dier zoeken`, of `grafische weergave`.
 
@@ -44,7 +44,7 @@ U kunt ook op elk moment tussen de individuele dieren schakelen met de pijltoets
 
  ![VitalControl: Menu Animal](images/search.png "Dier zoeken")
 
-### Filter instellen
+### Filter instellen {#set-filter}
 
 1. Druk op de middelste bovenste `Aan/Uit` knop <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop-upmenu" /> om een pop-upmenu te openen. In dit menu kunt u kiezen tussen de functies `Filter zetten`, `Dier zoeken`, of `grafische weergave`.
 

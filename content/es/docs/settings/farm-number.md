@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 La introducción del número de granja actualmente es de interés solo para agricultores alemanes. Los agricultores de todas las demás nacionalidades actualmente **no** se benefician de introducir el número de granja. Esto puede cambiar con futuras [versiones del firmware]({{< relref "../firmware/versions/" >}}) de VitalControl.
 {{< /alert >}}
 
-## Establece tu número de granja
+## Establece tu número de granja {#set-your-farm-number}
 
 Para configurar el número de empresa en tu dispositivo, procede de la siguiente manera:
 

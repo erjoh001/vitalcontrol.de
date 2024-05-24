@@ -11,7 +11,7 @@ categories: [Liste]
 tags: [Liste, allarme]
 translationKey: lists/alarm
 ---
-## Elenco degli allarmi
+## Elenco degli allarmi {#alarm-list}
 
 Nell'elenco degli allarmi troverai tutti gli animali che hai aggiunto manualmente alla lista o tutti gli animali che erano nella fascia gialla o rossa quando è stata misurata la temperatura. La lista ti aiuta a tenere una panoramica di tutti gli animali sospetti. Inoltre, per ogni animale nella lista, puoi fare quanto segue:
 
@@ -36,7 +36,7 @@ L'elenco degli allarmi è strutturato come segue:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Temperatura corporea" title="Temperatura corporea" /> | L'ultima misurazione della febbre registrata è mostrata sotto il simbolo con i colori del sistema a semaforo
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Valutazione dell'animale" title="Valutazione" /> |Il segno circolare sotto il simbolo indica che l'animale è nella lista di osservazione
 
-### Passi preliminari
+### Passi preliminari {#preliminary-steps}
 
 1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Liste" /> `Liste` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
 
@@ -47,7 +47,7 @@ L'elenco degli allarmi è strutturato come segue:
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Passi preliminari")
 
-### Menu azioni completo
+### Menu azioni completo {#full-action-menu}
 
 1. Completa i passi preliminari.
 
@@ -59,7 +59,7 @@ L'elenco degli allarmi è strutturato come segue:
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Menu azioni")
 
-### Dati dell'animale
+### Dati dell'animale {#animal-data}
 
 1. Completa i passi preliminari.
 
@@ -71,7 +71,7 @@ L'elenco degli allarmi è strutturato come segue:
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Dati dell'animale")
 
-### Misurare la temperatura
+### Misurare la temperatura {#take-temperature}
 
 1. Completare i passaggi preliminari.
 
@@ -83,7 +83,7 @@ L'elenco degli allarmi è strutturato come segue:
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Misurare la temperatura")
 
-### Valutare l'animale
+### Valutare l'animale {#rate-animal}
 
 1. Completare i passaggi preliminari.
 
@@ -95,7 +95,7 @@ L'elenco degli allarmi è strutturato come segue:
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Valutare l'animale")
 
-### Cancellare l'allarme
+### Cancellare l'allarme {#clear-alarm}
 
 1. Completare i passaggi preliminari.
 
@@ -107,7 +107,7 @@ L'elenco degli allarmi è strutturato come segue:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Clear alarm")
 
-### Attiva/disattiva stato di sorveglianza
+### Attiva/disattiva stato di sorveglianza {#toggle-watch-status}
 
 1. Completa i passaggi preliminari.
 
@@ -119,7 +119,7 @@ L'elenco degli allarmi è strutturato come segue:
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Toggle watch status")
 
-### Cerca animale
+### Cerca animale {#search-animal}
 
 1. Completa i passaggi preliminari.
 
@@ -130,7 +130,7 @@ L'elenco degli allarmi è strutturato come segue:
 
    ![VitalControl Lists Alarmlist](../images/searchanimal.png "Cerca animale")
 
-### Imposta filtro
+### Imposta filtro {#set-filter}
 
 1. Completa i passaggi preliminari.
 

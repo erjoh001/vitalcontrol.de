@@ -11,7 +11,7 @@ categories: [Ellés]
 tags: [Ellés]
 translationKey: new/calving
 ---
-## Ellés regisztrálása
+## Ellés regisztrálása {#register-a-calving}
 
 Az ellés regisztrálásához kövesse az alábbi lépéseket:
 

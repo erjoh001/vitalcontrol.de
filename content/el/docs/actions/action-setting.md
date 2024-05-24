@@ -10,7 +10,7 @@ categories: [Δράσεις, Αλυσίδα Δράσεων]
 tags: [Δράσεις, Αλυσίδα δράσεων]
 translationKey: actions/setting
 ---
-## Στοιχεία μενού
+## Στοιχεία μενού {#menu-items}
 
 Σε αυτό το μενού ρυθμίσεων καθορίζετε ποιες δράσεις εμφανίζονται σε εσάς μέσα στο &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Δράσεις" /> μενού `Δράση`.
 
@@ -28,7 +28,7 @@ translationKey: actions/setting
 
     ![VitalControl: Μενού Δράσεις Στοιχεία Μενού](../images/menu.png "Στοιχεία Μενού")
 
-## Αλυσίδα δράσεων
+## Αλυσίδα δράσεων {#chain-of-actions}
 
 Σε αυτό το μενού ρυθμίσεων ορίζετε την &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Αλυσίδα δράσεων" />&nbsp; `αλυσίδα δράσεων`.
 

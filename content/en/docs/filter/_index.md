@@ -9,7 +9,7 @@ categories: [Filter]
 tags: [Filter]
 translationKey: filter
 ---
-## Applying filters
+## Applying filters {#applying-filters}
 
 {{% alert title="NOTE" %}}
 The filter helps you to carry out a selection using filter criteria within the menu items `Herd`, `Lists` and `Evaluation` of the VitalControl device. As soon as you apply a filter, symbols for the various filter criteria appear at the top of the screen. These symbols are used to help you find out whether and which filter criteria are activated. For example, if you set the `Sex` filter to male, the device will only use male animals. For example, if you also activate the `On watch` filter, the device only uses male animals that are on the observation list.

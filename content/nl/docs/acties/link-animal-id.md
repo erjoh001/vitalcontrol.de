@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 Deze actie is standaard niet ingeschakeld! Activeer dit zoals beschreven in [actie-instellingen](../setting/).
 {{% /alert %}}
 
-## Link dier ID
+## Link dier ID {#link-animal-id}
 
 Om een nationaal dier-ID toe te wijzen aan een dier dat geen nationaal dier-ID heeft, ga als volgt te werk:
 
@@ -40,7 +40,7 @@ Om een nationaal dier-ID toe te wijzen aan een dier dat geen nationaal dier-ID h
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Link dier ID aan elektronische oormerkscan
+## Link dier ID aan elektronische oormerkscan {#link-animal-id-with-electronic-ear-tag-scan}
 
 Om een nationaal dier-ID toe te wijzen aan een dier dat een elektronisch oormerk heeft, ga als volgt te werk:
 

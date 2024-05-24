@@ -30,7 +30,7 @@ Se clicchi su un elemento del menu, verrai reindirizzato a una descrizione della
    <area shape="rect" coords="2,282,95,319" alt="Indietro" title="Torna indietro di un livello&#10;Clic del mouse: alla documentazione" href="/it/docs/evaluation/">
 </map>
 
-## Pesature di oggi
+## Pesature di oggi {#todays-weighings}
 In questa valutazione puoi vedere le seguenti informazioni relative alle pesature delle ultime 6 ore:
 - Il peso medio degli animali
 - L'aumento medio giornaliero dalla nascita
@@ -50,7 +50,7 @@ Per eseguire la valutazione, procedi come segue:
 
    ![VitalControl: menu Valutazione Pesate di oggi](../images/todaysweighings.png "Valuta Pesate di oggi")
 
-## Pesi alla nascita
+## Pesi alla nascita {#birth-weights}
 In questa valutazione puoi visualizzare le seguenti informazioni:
 - Il peso medio alla nascita
 - Le classi di peso
@@ -68,7 +68,7 @@ Per eseguire la valutazione, procedi come segue:
 
    ![VitalControl: menu Evaluation Birth weights](../images/birthweights.png "Evaluate Birth weights")
 
-## Sviluppo del peso
+## Sviluppo del peso {#weight-development}
 
 In questa valutazione puoi vedere le seguenti informazioni relative a tutte le pesate:
 - Il peso medio degli animali

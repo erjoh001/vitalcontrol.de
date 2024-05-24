@@ -7,7 +7,7 @@ draft: false
 description: >
  Om toegang te krijgen tot de hardware-informatie van uw apparaat, klik hier
 ---
-## Hardware-informatie ophalen
+## Hardware-informatie ophalen {#get-hardware-information}
 
 Om de hardware-informatie van uw apparaat op te halen, ga als volgt te werk:
 

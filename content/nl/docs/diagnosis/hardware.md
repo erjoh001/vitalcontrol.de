@@ -11,7 +11,7 @@ weight: 10
 ---
 Als er een storing is aan uw apparaat, moet u eerst een hardwarecontrole uitvoeren om te verduidelijken of een van de hardwarecomponenten defect is.
 
-## Check device drivers
+## Check device drivers {#check-the-hardware-of-your-device}
 
 1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 

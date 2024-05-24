@@ -11,8 +11,8 @@ categories: [settings]
 tags: [settings, Default values]
 translationKey: settings/new-animals
 ---
-## Imposta valori predefiniti
-### Imposta peso registrato
+## Imposta valori predefiniti {#set-default-values}
+### Imposta peso registrato {#set-recorded-weights}
 
 Qui definisci quale peso viene registrato e salvato quando crei nuovi animali nella tua fattoria. Per impostare il peso registrato sul tuo dispositivo, procedi come segue.
 
@@ -30,7 +30,7 @@ Qui definisci quale peso viene registrato e salvato quando crei nuovi animali ne
  Seleziona `nessuno` se: gli animali vengono creati automaticamente in background (tramite scansione del transponder), non è disponibile una bilancia nella fattoria e non si desiderano valori stimati, i pesi alla nascita sono sconosciuti.
 {{% /alert %}}
 
-### Imposta età alla registrazione
+### Imposta età alla registrazione {#set-age-at-registration}
 {{% alert title="Suggerimento" %}}
 In base all'età inserita qui, il dispositivo calcola la data di nascita che viene suggerita per un animale creato manualmente o che viene utilizzata per la creazione automatica in background (tramite scansione del transponder). Per le aziende lattiero-casearie, inserisci l'età in giorni alla quale i vitelli neonati vengono registrati in VitalControl. Per le aziende di allevamento di vitelli da ingrasso, qui deve essere inserita l'età media dei vitelli acquistati. L'intervallo di valori consentito è da 0 a 99 giorni.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Per impostare l'età alla creazione sul tuo dispositivo, procedi come segue:
 
     ![VitalControl: menu impostazioni Imposta età alla registrazione](../images/ageatregistration.png "Imposta età alla registrazione")
 
-### Imposta sesso
+### Imposta sesso {#set-sex}
 
 Qui definisci quale sesso viene suggerito (creazione manuale) o adottato automaticamente (creazione in background). Per definire il sesso durante la registrazione di un animale sul tuo dispositivo, procedi come segue.
 
@@ -65,7 +65,7 @@ Qui definisci quale sesso viene suggerito (creazione manuale) o adottato automat
 
     ![VitalControl: menu impostazioni Imposta sesso](../images/setsex.png "Imposta sesso")
 
-### Imposta tipo di animale
+### Imposta tipo di animale {#set-type-of-animal}
 
 Qui definisci quale tipo di animale viene registrato quando crei nuovi animali nella tua fattoria. Per definire il tipo di animale durante la creazione sul tuo dispositivo, procedi come segue:
 
@@ -82,7 +82,7 @@ Qui definisci quale tipo di animale viene registrato quando crei nuovi animali n
 
     ![VitalControl: impostazioni del menu tipo di animale](../images/typeofanimal.png "tipo di animale")
 
-### Impostare la razza
+### Impostare la razza {#set-breed}
 
 Qui si definisce quale razza del bestiame viene registrata durante la creazione di nuovi animali nella tua fattoria. Per definire la razza durante la creazione sul tuo dispositivo, procedi come segue:
 
@@ -98,7 +98,7 @@ Qui si definisce quale razza del bestiame viene registrata durante la creazione 
 
     ![VitalControl: impostazioni del menu tipo di animale](../images/breed.png "tipo di animale")
 
-### Impostare la Provenienza
+### Impostare la Provenienza {#set-whereabouts}
 
 Qui si definisce quale provenienza viene assegnata agli animali durante la creazione di nuovi animali da fattoria. Per definire la provenienza dell'animale da fattoria quando viene creato sul tuo dispositivo, procedi come segue:
 
@@ -117,7 +117,7 @@ Qui si definisce quale provenienza viene assegnata agli animali durante la creaz
 
 Salvare le impostazioni e tornare al menu principale `Impostazioni` premendo il tasto `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salva e torna" />&nbsp;.
 
-## Registrazione automatica
+## Registrazione automatica {#auto-registration}
 
 Qui si definisce il comportamento del dispositivo quando viene scansionato un nuovo transponder, non ancora conosciuto dal dispositivo VitalControl. Per questo caso possono essere definiti tre comportamenti diversi.
 
@@ -137,7 +137,7 @@ Per definire il comportamento quando l'animale utente viene creato automaticamen
 
     ![VitalControl: menu impostazioni auto-registrazione](../images/autoregistration.png "auto-registrazione")
 
-## Assegnazione ID animale
+## Assegnazione ID animale {#assignment-animal-id}
 
 Qui definisci quale ID animale viene proposto (derivato dal numero del transponder) o utilizzato (consecutivo) quando crei un nuovo animale nella tua fattoria.
 
@@ -167,7 +167,7 @@ Per definire l'assegnazione dell'ID animale quando crei l'animale della fattoria
 Solo quando si utilizza l'opzione `Consecutivo`: se hai impostato di utilizzare intervalli di numeri separati per animali maschi e femmine durante l'assegnazione del numero di marca auricolare, un numero di animale successivo viene memorizzato per ciascuno di maschio, femmina e animali di sesso sconosciuto. Un simbolo posto a sinistra del numero dell'animale indica per cosa viene utilizzato il numero dell'animale successivo: per maschio ♀ o per femmina ♂ o per animali di sesso sconosciuto ♀♂?
 {{% /alert %}}
 
-### Cifra del nuovo ID
+### Cifra del nuovo ID {#digit-of-the-new-id}
 
 Qui definisci quale lunghezza ha un numero di stalla derivato dal numero del transponder per un nuovo animale nella tua fattoria. L'intervallo di valori possibile è da 2 a 6 cifre. Per definire la lunghezza del nuovo ID dell'animale della fattoria sul tuo dispositivo procedi come segue:
 
@@ -183,7 +183,7 @@ Qui definisci quale lunghezza ha un numero di stalla derivato dal numero del tra
 
     ![VitalControl: menu impostazioni Cifra del nuovo ID](../images/digitofnewid.png "Cifra del nuovo ID")
 
-### Offset destro
+### Offset destro {#right-offset}
 
 Qui definisci se un offset viene preso in considerazione anche quando si deriva un numero di stalla dal numero del transponder. Senza offset verranno utilizzate le ultime 2-6 cifre del numero del transponder come numero di stalla, con un offset di 1 verrà scartata la cifra più a destra, con un offset di 2 le due cifre più a destra, e così via.
 
@@ -207,7 +207,7 @@ Per impostare l'offset a destra dell'animale sul tuo dispositivo, procedi come s
 
 Salva le impostazioni e torna al menu principale <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` premendo il tasto `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salva e torna" />&nbsp;.
 
-## Assegnazione numero marca auricolare
+## Assegnazione numero marca auricolare {#assignment-ear-tag-number}
 
 Qui definisci se utilizzare uno o due intervalli di numeri durante l'assegnazione del numero della marca auricolare nel corso della ri-registrazione manuale degli animali. Per definire l'assegnazione del numero della marca auricolare dell'animale da fattoria sul tuo dispositivo, procedi come segue:
 

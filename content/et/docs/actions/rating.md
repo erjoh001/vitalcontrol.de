@@ -11,7 +11,7 @@ tags: [Tegevused, Hinnang]
 translationKey: actions/animal-rating
 ---
 
-## Hinda oma loomi
+## Hinda oma loomi {#rate-your-animals}
 
 Looma hinnates dokumenteerid sa üksikisendi seisukorda. Seisund määratakse visuaalselt ja registreeritakse liiklusvalgusti süsteemi abil. Põhihinnangus registreeritakse ainult üldine seisund. Laiendatud hindamisel registreerid sa üldise seisundi, sööda tarbimise, väljaheidete konsistentsi ja hingamisteede haigused. Sa võid hinnangu režiimi muuta otse <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Hinnang" /> `Hinnang` tegevuses või sa võid selle määrata [seadetes](../../settings/data-acquisition/#mode-of-animal-rating).
 
@@ -35,7 +35,7 @@ Kollane või punane hinnang tähendab, et VitalControl klassifitseerib looma mä
 Kui te ei tee valikut nooleklahvidega ◁ ▷, vaid salvestate otse klahviga `F3` või `OK`, salvestab VitalControl neutraalse hinnangu, mida esindab hall värv.
 {{% /alert %}}
 
-### Põhihinnang
+### Põhihinnang {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Põhihinnang:" text=true disabled=true />}}
@@ -47,7 +47,7 @@ Kui te ei tee valikut nooleklahvidega ◁ ▷, vaid salvestate otse klahviga `F3
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Laiendatud hinnang
+### Laiendatud hinnang {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Põhihinnang:" text=true disabled=true />}}

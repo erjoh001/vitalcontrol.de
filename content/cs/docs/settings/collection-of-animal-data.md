@@ -12,7 +12,7 @@ tags: [nastavení, získávání dat]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Přehled
+## Přehled {#overview}
 
 Následující grafika uvádí dostupná nastavení týkající se záznamu dat o zvířatech:
 
@@ -30,7 +30,7 @@ Následující grafika uvádí dostupná nastavení týkající se záznamu dat 
 Přesuňte ukazatel myši nad symbol v níže uvedené grafice a nechte jej chvíli stát. Zobrazí se tooltip s informacemi o příslušném nastavení. Pokud kliknete na jednu z řádků, budete přesměrováni na popis příslušného nastavení.
 {{% /alert %}}
 
-## Nastavení *Záznam hmotnosti*
+## Nastavení *Záznam hmotnosti* {#settings-weight-recording}
 
 Následující grafika uvádí dostupná nastavení týkající se záznamu hmotnosti zvířat:
 
@@ -43,7 +43,7 @@ Následující grafika uvádí dostupná nastavení týkající se záznamu hmot
   <area shape="rect" coords="1,360,230,440" alt="Přesnost záznamu hmotnosti" title="Nastavit přesnost záznamu hmotnosti&#10;Kliknutí myší: otevřít dokumentaci" href="#precision-of-weight-recording">
 </map>
 
-### Hodnocení denního přírůstku hmotnosti: Prahové hodnoty
+### Hodnocení denního přírůstku hmotnosti: Prahové hodnoty {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Tip" %}}
 Červené pole ukazuje oblast "kriticky nízkého přírůstku hmotnosti". Žluté pole ukazuje oblast "suboptimálního přírůstku hmotnosti".
@@ -65,7 +65,7 @@ Pro úpravu prahových hodnot pro hodnocení denního přírůstku hmotnosti pos
 
     ![VitalControl: menu nastavení denního přírůstku hmotnosti](../images/dailyweightgain.png "Denní přírůstek hmotnosti")
 
-### Porodní hmotnost
+### Porodní hmotnost {#birth-weight}
 
 Zařízení používá porodní hmotnost uloženou zde v nastaveních jako výchozí hodnotu při vytváření nových zvířat. Aby bylo možné rychleji vybrat individuální porodní hmotnost nově narozeného zvířete, možná budete muset upravit tuto výchozí hodnotu pro vaši farmu. Pro úpravu hodnoty `porodní hmotnosti` postupujte následovně:
 
@@ -93,7 +93,7 @@ Pokud nechcete tuto úpravu provádět nebo pokud vytváříte zvířata automat
 | Rozsah hodnot :               | 1,0 až 99 kg   | 1,0 až 99 kg  |
 {{% /alert %}}
 
-### Průměrný denní přírůstek hmotnosti
+### Průměrný denní přírůstek hmotnosti {#average-daily-weight-gain}
 
 {{% alert title="Vysvětlení" %}}
 Při [vážení](../../actions/record-weight/) zvířete se pro výpočet navrhované hodnoty hmotnosti během vážení zvířete používá definovaný denní přírůstek. Pokud je navrhovaná hodnota hmotnosti pro většinu vážených zvířat příliš nízká nebo příliš vysoká, měli byste upravit definovanou hodnotu směrem dolů nebo nahoru, aby se zkrátil čas potřebný k úpravě hodnoty hmotnosti pomocí šipek.
@@ -112,7 +112,7 @@ Pro nastavení `průměrného denního přírůstku hmotnosti` použitého při 
 
     ![VitalControl: menu settings average daily weight gain](../images/averagedailyweightgain.png "Průměrný denní přírůstek hmotnosti")
 
-### Přesnost záznamu hmotnosti
+### Přesnost záznamu hmotnosti {#precision-of-weight-recording}
 
 {{% alert title="Vysvětlení" %}}
 V závislosti na použití a druhu zvířete (*jehně*, *tele*, *kráva*) existují různé požadavky na rozlišení zaznamenané hmotnosti (přesnost *10 g*, *100 g* nebo *1 kg*). K splnění těchto požadavků je nutné použít nastavení *Maximální přesnost*.
@@ -143,7 +143,7 @@ Pro nastavení maximální přesnosti při záznamu hmotnosti zvířat pomocí v
 <br>
 Uložte nastavení a vraťte se do hlavního menu `Získávání dat` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
-## Režim hodnocení zvířat
+## Režim hodnocení zvířat {#mode-of-animal-rating}
 
 {{% alert title="Vysvětlení" %}}
 V jednoduchém režimu se při hodnocení zvířat dotazuje pouze na celkový stav (zelená/žlutá/červená). V rozšířeném hodnocení se dotazují 4 kategorie hodnocení: celkový stav, spotřeba krmiva, průjem a respirační onemocnění.
@@ -162,7 +162,7 @@ Pro nastavení `Hodnocení zvířat` na vašem zařízení postupujte následovn
 
     ![VitalControl: nastavení menu průměrné hodnocení zvířat](../images/raitingofanimals.png "Hodnocení zvířat")
 
-## Kontrolní období čerstvých krav
+## Kontrolní období čerstvých krav {#control-period-of-fresh-cows}
 
 {{% alert title="Vysvětlení" %}}
 Při správě čerstvých krav se považuje za nejlepší praxi kontrolovat zvířata denně po několik dní po porodu, včetně měření jejich teploty. Délka tohoto kontrolního období se značně liší od farmy k farmě. Z tohoto důvodu lze délku kontrolního období nastavit na hodnotu mezi 3 a 14 dny v nastavení VitalControl. Nastavená hodnota pro kontrolní období čerstvých krav určuje počet sloupců sloupcového grafu zobrazeného pro každé zvíře v [seznamu čerstvých krav](../../lists/fresh-cows/).

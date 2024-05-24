@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, temperature, threshold, Mittauskohteen valo]
 translationKey: settings/temperature
 ---
-## Aseta kynnysarvot ja lämpötila-alueet
+## Aseta kynnysarvot ja lämpötila-alueet {#set-the-threshold--temperature-ranges}
 {{% alert title = "Vihje" %}}
 Kehon lämpötilan kynnysarvot tallennetaan täällä erikseen eläinlajeille vasikka, lehmä ja karitsa. Keltaiset ja punaiset kentät näyttävät kynnysarvon "kohonnut lämpötila" ja "kuume" vastaavasti. VitalControl sijoittaa eläimet keltaisille ja punaisille alueille hälytyslistalle, mikä helpottaa sairaiden eläinten seurantaa. Myös Alilämpön kynnys voidaan määritellä vapaasti.
 {{% /alert %}}
@@ -32,7 +32,7 @@ Laitteesi kynnysarvojen ja lämpötila-alueiden asettaminen tapahtuu seuraavasti
 
     ![VitalControl: valikkoasetukset kynnysarvot & lämpötila-alueet](../images/threshold.png "Kynnysarvot & Lämpötila-alueet")
 
-## Aseta alilämpö
+## Aseta alilämpö {#set-undertemperature}
 {{% alert title = "Vihje" %}}
 Tässä asetat mitatun lämpötilan, josta Alilämpö ilmenee. Kuumeen mittauksen aikana tämä lämpötila näkyy sinisellä taustalla.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Toimi seuraavasti asettaaksesi kynnysarvon Alilämpölle:
 
     ![VitalControl: valikkoasetukset Alilämpö](../images/undertemperature.png "Alilämpö")
 
-## Peräsuolen valokeila
+## Peräsuolen valokeila {#anus-spotlight}
 {{% alert title = "Vihje" %}}
 Tässä voit asettaa, tuleeko valon olla automaattisesti päällä tai pois päältä kuumeen mittauksen aikana.
 {{% /alert %}}

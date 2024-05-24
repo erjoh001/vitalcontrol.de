@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètres d'action](../setting/).
 {{% /alert %}}
 
-## Lier l'ID animal
+## Lier l'ID animal {#link-animal-id}
 
 Pour attribuer un ID animal national à un animal qui n'en possède pas, procédez comme suit :
 
@@ -40,7 +40,7 @@ Pour attribuer un ID animal national à un animal qui n'en possède pas, procéd
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Associer l'ID animal avec le scan de la boucle d'oreille électronique
+## Associer l'ID animal avec le scan de la boucle d'oreille électronique {#link-animal-id-with-electronic-ear-tag-scan}
 
 Pour attribuer un ID national à un animal qui possède une boucle d'oreille électronique, procédez comme suit :
 

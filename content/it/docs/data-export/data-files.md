@@ -10,7 +10,7 @@ tags: [file di esportazione, temperature, pesi, valutazioni]
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Informazioni generali
+## Informazioni generali {#general-information}
 
 Quando si esportano i dati degli animali, indipendentemente dal fatto che sia su [chiavetta USB][] o su un dispositivo di archiviazione di massa locale [sul PC][], vengono generati quattro file di esportazione in ogni caso:
 
@@ -29,17 +29,17 @@ Quando si esportano i dati degli animali, indipendentemente dal fatto che sia su
 
 Tutti e quattro i file sono file di testo [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) leggibili dall'uomo. I file sono codificati in formato `UTF-8`, i punti e virgola (`;`) sono usati come separatori di colonna. I singoli campi di dati *non* sono racchiusi tra virgolette. Ogni riga della rispettiva tabella rappresenta un set di dati di un animale o una misurazione o valutazione eseguita su un animale.
 
-## Ulteriore elaborazione dei dati esportati
+## Ulteriore elaborazione dei dati esportati {#further-processing-of-exported-data}
 
 È possibile aprire ciascuno di questi quattro file di esportazione in un programma di fogli di calcolo a scelta (come [Microsoft Excel](https://products.office.com/excel) o [OpenOffice Calc](https://www.openoffice.org/)) e eseguire analisi avanzate dei dati lì. Ad esempio, la visualizzazione della tabella `animals.csv` in un programma di fogli di calcolo è mostrata di seguito:
 
 ![Dati degli animali esportati, aperti in un programma di fogli di calcolo](../images/animals.png "Dati degli animali aperti in un programma di fogli di calcolo")
 
-## Descrizione dei file di dati
+## Descrizione dei file di dati {#description-of-data-files}
 
 Le seguenti quattro sezioni descrivono ciascuno dei file di dati esportati in dettaglio:
 
-### Dati degli animali (`animals.csv`)
+### Dati degli animali (`animals.csv`) {#animal-data-animalscsv}
 
 - **Nome del file** `animals.csv`
 - **Descrizione** Dati generali degli animali
@@ -73,7 +73,7 @@ Se necessario, è possibile scaricare anche il file di esempio fornito [animals.
 
 [animals.csv]: /data-export/animals.csv
 
-### Dati della temperatura corporea (`temperatures.csv`)
+### Dati della temperatura corporea (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Nome del file** `temperatures.csv`
 - **Descrizione** Valori di temperatura, ottenuti misurando la temperatura corporea rettale degli animali.
@@ -105,7 +105,7 @@ Se necessario, puoi anche scaricare il file di esempio fornito [temperatures.csv
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Dati di peso (`weights.csv`)
+### Dati di peso (`weights.csv`) {#weight-data-weightscsv}
 
 - **Nome del file** `weights.csv`
 - **Descrizione** Valori di peso ottenuti pesando gli animali
@@ -119,7 +119,6 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
 276000312341002;1002;276000312341002;2023-07-24;F;40.4
 276000312341003;1003;276000312341003;2023-07-24;F;104.2
 …
-```
 ```
 
 La seguente tabella elenca e descrive le singole colonne della tabella contenente i pesi degli animali:
@@ -138,7 +137,7 @@ Se necessario, è possibile scaricare anche il file di esempio fornito [weights.
 
 [weights.csv]: /data-export/weights.csv
 
-### Valutazioni degli animali (`ratings.csv`)
+### Valutazioni degli animali (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Nome del file** `ratings.csv`
 - **Descrizione** Valutazioni degli animali ottenute ispezionando visivamente gli animali

@@ -11,7 +11,7 @@ categories: [Списъци]
 tags: [Списъци, аларма]
 translationKey: lists/alarm
 ---
-## Списък с аларми
+## Списък с аларми {#alarm-list}
 
 В списъка с аларми ще намерите всички животни, които сте добавили ръчно към списъка или всички животни, които са били в жълтата или червената зона, когато е измерена температурата. Списъкът ви помага да поддържате обзор на всички забележими животни. Също така, за всяко животно в списъка можете да направите следното:
 
@@ -36,7 +36,7 @@ translationKey: lists/alarm
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Телесна температура" title="Телесна температура" /> | Последното записано измерване на треска се показва под символа с цветовете на светофарната система
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Оценка на животното" title="Оценка" /> |Кръглата марка под символа показва, че животното е в списъка за наблюдение
 
-### Предварителни стъпки
+### Предварителни стъпки {#preliminary-steps}
 
 1. Изберете <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Списъци" /> `Списъци` в главното меню на вашето устройство VitalControl и натиснете бутона `OK`.
 
@@ -46,7 +46,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Предварителни стъпки")
 
-### Пълно меню с действия
+### Пълно меню с действия {#full-action-menu}
 
 1. Изпълнете предварителните стъпки.
 
@@ -58,7 +58,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Меню с действия")
 
-### Данни за животните
+### Данни за животните {#animal-data}
 
 1. Изпълнете предварителните стъпки.
 
@@ -70,7 +70,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Данни за животните")
 
-### Измерване на температурата
+### Измерване на температурата {#take-temperature}
 
 1. Изпълнете предварителните стъпки.
 
@@ -82,7 +82,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Измерване на температурата")
 
-### Оценка на животно
+### Оценка на животно {#rate-animal}
 
 1. Изпълнете предварителните стъпки.
 
@@ -94,7 +94,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Оценка на животно")
 
-### Изчистване на аларма
+### Изчистване на аларма {#clear-alarm}
 
 1. Изпълнете предварителните стъпки.
 
@@ -106,7 +106,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Clear alarm")
 
-### Превключване на статуса на наблюдение
+### Превключване на статуса на наблюдение {#toggle-watch-status}
 
 1. Изпълнете предварителните стъпки.
 
@@ -118,7 +118,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Toggle watch status")
 
-### Търсене на животно
+### Търсене на животно {#search-animal}
 
 1. Изпълнете предварителните стъпки.
 
@@ -128,7 +128,7 @@ translationKey: lists/alarm
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Търсене на животно")
 
-### Задаване на филтър
+### Задаване на филтър {#set-filter}
 
 1. Изпълнете предварителните стъпки.
 

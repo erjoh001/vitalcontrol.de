@@ -10,7 +10,7 @@ categories: [Действия, Верига от действия]
 tags: [Действия, Верига от действия]
 translationKey: actions/setting
 ---
-## Елементи на менюто
+## Елементи на менюто {#menu-items}
 
 В това меню за настройки определяте кои действия се показват на вас в рамките на &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Действия" /> `Действия` менюто.
 
@@ -28,7 +28,7 @@ translationKey: actions/setting
 
     ![VitalControl: Меню Действия Елементи на менюто](../images/menu.png "Елементи на менюто")
 
-## Верига от действия
+## Верига от действия {#chain-of-actions}
 
 В това меню за настройки задавате &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Верига от действия" />&nbsp; `верига от действия`.
 

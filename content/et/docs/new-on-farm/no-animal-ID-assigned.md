@@ -11,7 +11,7 @@ categories: [Uus farmis]
 tags: [Uus farmis]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Riiklikku loomanumbrit pole määratud
+## Riiklikku loomanumbrit pole määratud {#no-national-animal-id-assigned}
 
 Selles nimekirjas leiate kõik loomad, kellele ei ole veel määratud loomanumbrit. Saate määrata loomanumbri loomadele selles nimekirjas.
 
@@ -43,7 +43,7 @@ Selles nimekirjas leiate kõik loomad, kellele ei ole veel määratud loomanumbr
 {{% /tab %}}
 {{< /tabpane >}}        
 
-## Viimane toiming OK peal
+## Viimane toiming OK peal {#last-action-on-ok}
 
 Saad kasutada lisatoiminguid, et määrata, milliseid toiminguid soovid teha enne riikliku looma ID määramist. Saad valida temperatuuri mõõtmise, looma hindamise ja looma kaalumise vahel. Vastav toiming salvestatakse otse loomale, kellele seejärel määrad. Toimi järgnevalt:
 
@@ -61,7 +61,7 @@ Saad kasutada lisatoiminguid, et määrata, milliseid toiminguid soovid teha enn
 Kõrvamärgi numbri määramist skaneerimise teel saate kasutada ainult elektrooniliste kõrvamärkide puhul!
 {{% /alert %}}
 
-## Eelnevad lisategevused
+## Eelnevad lisategevused {#previous-additional-actions}
 
 Eelnevate lisategevuste abil saate määrata, milliseid toiminguid soovite teha enne kõrvamärgi numbri määramist. Valikus on temperatuuri mõõtmine, looma hindamine ja looma kaalumine. Vastav toiming salvestatakse otse loomale, kellele te seejärel määrate. Toimige järgmiselt:
 
@@ -77,6 +77,6 @@ Eelnevate lisategevuste abil saate määrata, milliseid toiminguid soovite teha 
 
     ![Ostetud loomade nimekiri, riiklik looma ID määramata](../images/aidditional-actions.png "Riiklik looma ID määramata, Link")
 
- ## Edasised menüüvalikud
+ ## Edasised menüüvalikud {#further-menu-items}
 
 Teil on ka võimalus valida hüpikaknas `otsi looma` ja `sea filter`. Kasutage noolenuppe △ ▽, et liikuda vastava menüüvalikuni ja kinnitage `OK`-ga. Teavet `sea filter` kohta leiate [siit](/et/docs/filter/) ja `otsi looma` toimige nagu `riiklik looma ID määramata` sammus 4.

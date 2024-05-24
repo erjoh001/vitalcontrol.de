@@ -12,7 +12,7 @@ weight: 20
 
 A 'Hatótávolság teszt' menü használatával meghatározhatja, hogy a VitalControl eszköz képes-e olvasni az Ön által használt transzpondereket. Az kompatibilitás ellenőrzése mellett kényelmesen meghatározhatja a transzponderek által használt átviteli protokollt, és megjelenítheti a transzponderen tárolt számot is.
 
-## Hatótávolság teszt végrehajtása
+## Hatótávolság teszt végrehajtása {#perform-range-test}
 
 1. Nyissa meg a &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
 
@@ -30,11 +30,11 @@ A 'Hatótávolság teszt' menü használatával meghatározhatja, hogy a VitalCo
 
 1. Mozgassa a transzpondert többször oda-vissza az olvasási mező határán. Így meghatározhatja az RFID szkenner olvasási hatótávolságát az Ön által használt transzponderekkel kombinálva.
 
-## Transzponder ellenőrzés
+## Transzponder ellenőrzés {#transponder-check}
 
 A fent leírt hatótávolság teszt végrehajtásával információkat szerezhet különböző eredetű transzponderekről is:
 
-### Hivatalos transzponder fülcímkék
+### Hivatalos transzponder fülcímkék {#official-transponder-ear-tags}
 
 1. Ha transzponder fülcímkéket használ az állataihoz, amelyeken az állat hivatalosan kijelölt 15 jegyű fülcímke száma van kódolva, a következő információk jelennek meg a képernyőn, miután a transzpondert beolvasták:
 
@@ -46,7 +46,7 @@ A fent leírt hatótávolság teszt végrehajtásával információkat szerezhet
 
     ![VitalControl: transzponder fülcímke ellenőrzése](../images/transponder-official.png "Info hivatalos transzponder fülcímke")
 
-### Harmadik fél által gyártott transzponderek
+### Harmadik fél által gyártott transzponderek {#transponders-from-third-party-vendors}
 
 1. Ha harmadik fél által gyártott transzpondereket használ, például Urban, az állatai elektronikus azonosítására, a következő információk jelennek meg a képernyőn, miután a transzpondert beolvasták:
 

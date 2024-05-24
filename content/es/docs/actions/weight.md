@@ -11,7 +11,7 @@ tags: [Acciones, peso]
 translationKey: actions/weight
 ---
 
-## Registrar peso
+## Registrar peso {#record-weight}
 Utiliza la acción &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Pesaje" /> `Pesaje` para guardar el peso de tu animal individualmente. Para hacer esto, pesa tus animales o estima su peso e introduce este valor en el dispositivo VitalControl. Esto te permite verificar el desarrollo del peso de tus animales y evaluarlos individualmente.
 
 {{% alert title="Consejo" %}}

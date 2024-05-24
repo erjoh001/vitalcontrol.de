@@ -11,8 +11,8 @@ categories: [Device]
 tags: [Device]
 translationKey: device/temperature-measurement
 ---
-## Prueba la medición de temperatura
-
+## Prueba la medición de temperatura {#test-temperature-measurement}
+ 
 Aquí puedes probar la medición de temperatura de tu dispositivo sin guardar la medición para un animal. Para realizar la prueba, procede de la siguiente manera:
 
 1. En la pantalla principal de tu dispositivo VitalControl, selecciona el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Dispositivo` y presiona el botón `OK`.

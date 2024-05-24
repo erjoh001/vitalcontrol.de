@@ -11,7 +11,7 @@ categories: [Seade]
 tags: [Seade]
 translationKey: device/flashlight
 ---
-## Aktiveeri ja deaktiveeri valgus
+## Aktiveeri ja deaktiveeri valgus {#activate-and-deactivate-light}
 
 Siin saad oma VitalControl seadmel valgust aktiveerida või deaktiveerida. Kui aktiveerid valguse, põleb see pidevalt.
 

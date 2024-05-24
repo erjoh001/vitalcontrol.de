@@ -14,7 +14,7 @@ translationKey: actions/transponder
 Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [műveleti beállítások](../setting/) leírása szerint.
 {{% /alert %}}
 
-## Link transponder
+## Link transponder {#link-transponder}
 
 Ezzel a művelettel egy transzpondert rendelhet egy olyan állathoz, amelyhez még nem lett transzponder hozzárendelve.
 

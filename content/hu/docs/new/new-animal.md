@@ -11,7 +11,7 @@ categories: [Új állat]
 tags: [Állatok regisztrálása]
 translationKey: new/animal
 ---
-## Új állat létrehozása
+## Új állat létrehozása {#create-a-new-animal}
 
 Új állat létrehozásához kövesse az alábbi lépéseket:
 

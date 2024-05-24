@@ -11,7 +11,7 @@ Kategorien: [Einstellungen]
 Tags: [Einstellungen, Gerät]
 translationKey: settings/device
 ---
-## Gerät abschalten nach einstellen
+## Gerät abschalten nach einstellen {#shutdown-device-after}
 
 Um die Zeitspanne der nicht Aktivität bis zum Abschalten des Gerätes einzustellen gehen Sie wie folgt vor:
 
@@ -25,7 +25,7 @@ Um die Zeitspanne der nicht Aktivität bis zum Abschalten des Gerätes einzustel
 
     ![VitalControl: Menüfolge Einstellung Gerät Gerät abschalten nach](../bilder/geraetabschaltennach.png "Gerät abschalten nach einstellen")
 
-## Startbildschirm einstellen
+## Startbildschirm einstellen {#start-up-screen}
 
 Hier legen Sie fest welche Anwendung das Gerät nach dem Starten als erstes Anzeigt. Um den Startbildschirm des Gerätes einzustellen gehen Sie wie folgt vor:
 
@@ -39,7 +39,7 @@ Hier legen Sie fest welche Anwendung das Gerät nach dem Starten als erstes Anze
 
     ![VitalControl: Menüfolge Einstellung Gerät Startseite](../bilder/startseite.png "Startseite einstellen")
 
-## Präsentationsmodus einstellen
+## Präsentationsmodus einstellen {#demonstration-mode}
 
 Ist der Präsentationsmodus gewählt, simuliert das Gerät die Temperaturmessungen und zeigt eine per Zufallsgenerator generierte Temperatur als Messwert an. Dieser Modus dient der Gerätevorführung
 wenn keine Tiere für eine Messung zur Verfügung stehen. Um den Präsentationsmodus des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt vor:
@@ -54,7 +54,7 @@ wenn keine Tiere für eine Messung zur Verfügung stehen. Um den Präsentationsm
 
     ![VitalControl: Menüfolge Einstellung Gerät Präsentationsmodus](../bilder/praesentationsmodus.png "Präsentationsmodus einstellen")
 
-## Helligkeit des Displays einstellen
+## Helligkeit des Displays einstellen {#display-brightness}
 
 Um die Helligkeit des Displays ihres Gerätes einzustellen gehen Sie wie folgt vor:
 
@@ -68,7 +68,7 @@ Um die Helligkeit des Displays ihres Gerätes einzustellen gehen Sie wie folgt v
 
     ![VitalControl: Menüfolge Einstellung Gerät Helligkeit Display](../bilder/helligkeitdisplay.png "Helligkeit des Displays einstellen")
 
-## Vibration bei Tastendruck einstellen
+## Vibration bei Tastendruck einstellen {#vibration-on-keypress}
 
 Um die Vibration bei Tastendruck des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt vor:
 
@@ -82,7 +82,7 @@ Um die Vibration bei Tastendruck des Gerätes zu de- bzw. aktivieren gehen Sie w
 
     ![VitalControl: Menüfolge Einstellung Gerät Vibration bei Tastendruck](../bilder/vibrationtastendruck.png "Vibration bei Tastendruck einstellen")
 
-## Ressourcenmonitor einstellen
+## Ressourcenmonitor einstellen {#resource-monitor}
 
 Um den Ressourcenmonitor des Gerätes zu de- bzw. aktivieren gehen Sie wie folgt vor:
 

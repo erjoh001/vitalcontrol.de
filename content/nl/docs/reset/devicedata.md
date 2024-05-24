@@ -8,7 +8,7 @@ description: >
   Leer hoe u alle apparaatinstellingen van het VitalControl-apparaat kunt resetten.
 categories: [Reset]
 ---
-## Alle apparaatgegevens resetten
+## Alle apparaatgegevens resetten {#resetting-all-device-data}
 
 1. Open het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 

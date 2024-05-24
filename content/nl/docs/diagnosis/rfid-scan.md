@@ -12,7 +12,7 @@ weight: 20
 
 Met behulp van het menu 'Bereiktest' kunt u bepalen of het VitalControl-apparaat transponders die u bij de hand heeft kan lezen. Naast het controleren van compatibiliteit, kunt u ook gemakkelijk het transmissieprotocol dat door deze transponders wordt gebruikt bepalen en het nummer dat op de transponder is opgeslagen weergeven.
 
-## Voer bereiktest uit
+## Voer bereiktest uit {#perform-range-test}
 
 1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 
@@ -30,11 +30,11 @@ Met behulp van het menu 'Bereiktest' kunt u bepalen of het VitalControl-apparaat
 
 1. Beweeg de transponder meerdere keren heen en weer aan de rand van het leesveld. Op deze manier kunt u het leesbereik van de RFID-scanner in combinatie met de transponders die u gebruikt bepalen.
 
-## Transpondercontrole
+## Transpondercontrole {#transponder-check}
 
 Door de hierboven beschreven bereiktest uit te voeren, kunt u ook informatie verkrijgen over transponders van verschillende herkomst:
 
-### Officiële transponder oormerken
+### Officiële transponder oormerken {#official-transponder-ear-tags}
 
 1. Als u transponder oormerken voor uw dieren gebruikt, waarop het officieel toegewezen 15-cijferige oormerknummer van het dier is gecodeerd, wordt de volgende informatie op het scherm weergegeven zodra de transponder is gelezen:
 
@@ -46,7 +46,7 @@ Door de hierboven beschreven bereiktest uit te voeren, kunt u ook informatie ver
 
     ![VitalControl: controle van officiële transponder oormerk](../images/transponder-official.png "Info officiële transponder oormerk")
 
-### Transponders van derde partijen
+### Transponders van derde partijen {#transponders-from-third-party-vendors}
 
 1. Als u transponders van derde partij leveranciers gebruikt, zoals Urban, voor de elektronische identificatie van uw dieren, wordt de volgende informatie op het scherm weergegeven zodra de transponder is gelezen:
 

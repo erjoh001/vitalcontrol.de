@@ -6,7 +6,7 @@ description: >
   Apprenez à supprimer tous les animaux et leurs données de votre appareil VitalControl.
 categories: [Réinitialisation]
 ---
-## Effacement de toutes les données animales de l'appareil
+## Effacement de toutes les données animales de l'appareil {#erasing-all-animal-data-from-device}
 
 1. Ouvrez l'élément de menu <img src="/icons/device.svg" width="25" align="bottom" alt="Appareil" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
 

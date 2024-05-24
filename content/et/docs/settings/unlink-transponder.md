@@ -11,7 +11,7 @@ Kategorien: [Settings]
 Tags: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
-## Eemalda transponder
+## Eemalda transponder {#unlink-transponder}
 
 Seda seadistust saate kasutada looma ID määramiseks kohe, kui eemaldate transponderi loomalt. Seda seadistust saab kasutada näiteks siis, kui on tehtud sünkroniseerimine Urban Alma Pro söötjaga ja loomade ID-d VitalControlis vastavad nüüd loomade kaelarihmade numbrile. Niipea kui eemaldate kaelarihma ja transponderi, saate määrata, et looma ID tuletatakse nüüd kõrvamärgi numbrist. See võimaldab teil looma laudas kiiresti tuvastada.
 

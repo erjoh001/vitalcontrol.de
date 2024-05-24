@@ -11,7 +11,7 @@ translationKey: data-export/usb-drive
 ---
 {{% usb-drive/nl "Om een export van uw apparaatgegevens uit te voeren," %}}
 
-## Voer gegevensexport uit
+## Voer gegevensexport uit {#perform-data-export}
 
 1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 

@@ -15,7 +15,7 @@ Diese Funktion wird ihnen nur bei Kühen angezeigt, nicht aber bei Kälbern oder
 Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/) deaktivieren.
 {{% /alert %}}
 
-## Abkalbung erfassen
+## Abkalbung erfassen {#register-a-calving}
 
 Sobald Sie das Aktionsmenü betreten haben wählen Sie den Menüpunkt <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Abkalbung" /> `Abkalbung` aus und bestätigen Sie mit `OK`. Verfahren Sie wie in der Anleitung [Abkalbung erfassen](/docs/neu/abkalbung/) beschrieben.
 

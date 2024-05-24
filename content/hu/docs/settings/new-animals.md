@@ -11,8 +11,8 @@ categories: [settings]
 tags: [settings, Default values]
 translationKey: settings/new-animals
 ---
-## Alapértelmezett értékek beállítása
-### Rögzített súly(ok) beállítása
+## Alapértelmezett értékek beállítása {#set-default-values}
+### Rögzített súly(ok) beállítása {#set-recorded-weights}
 
 Itt határozhatja meg, hogy mely súlyt rögzítik és mentik el új állatok létrehozásakor a farmján. A rögzített súly beállításához az eszközén, kövesse az alábbi lépéseket.
 
@@ -30,7 +30,7 @@ Itt határozhatja meg, hogy mely súlyt rögzítik és mentik el új állatok l�
  Válassza a `nincs` lehetőséget, ha: az állatok automatikusan jönnek létre a háttérben (transzponder szkennelés révén), nincs mérleg a farmon és nem kíván becsült értékeket, az újszülött súlyok ismeretlenek.
 {{% /alert %}}
 
-### Regisztrációkor megadott életkor beállítása
+### Regisztrációkor megadott életkor beállítása {#set-age-at-registration}
 {{% alert title="Tipp" %}}
 Az itt megadott életkor alapján az eszköz kiszámítja a születési dátumot, amelyet egy manuálisan létrehozott állat számára javasol, vagy amelyet az automatikus létrehozás során használ a háttérben (transzponder szkennelés révén). Tejtermelő farmok esetében adja meg az újszülött borjak regisztrálásának napokban mért életkorát a VitalControl-ban. Hízóborjú nevelő farmok esetében itt kell megadni a vásárolt borjak átlagos életkorát. Az engedélyezett értéktartomány 0 és 99 nap között van.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Az életkor beállítása a létrehozáskor az eszközön a következőképpen t
 
     ![VitalControl: menü beállítások Életkor beállítása regisztráláskor](../images/ageatregistration.png "Életkor beállítása regisztráláskor")
 
-### Nem beállítása
+### Nem beállítása {#set-sex}
 
 Itt határozza meg, hogy melyik nem javasolt (kézi létrehozás) vagy automatikusan elfogadott (háttérben történő létrehozás). Az állat regisztrálásakor a nem meghatározásához az eszközön a következőképpen járjon el.
 
@@ -65,7 +65,7 @@ Itt határozza meg, hogy melyik nem javasolt (kézi létrehozás) vagy automatik
 
     ![VitalControl: menü beállítások Nem beállítása](../images/setsex.png "Nem beállítása")
 
-### Állat típusának beállítása
+### Állat típusának beállítása {#set-type-of-animal}
 
 Itt határozza meg, hogy milyen típusú állatot rögzítenek új állatok létrehozásakor a farmján. Az állat típusának meghatározásához az eszközön a következőképpen járjon el:
 
@@ -82,7 +82,7 @@ Itt határozza meg, hogy milyen típusú állatot rögzítenek új állatok lét
 
     ![VitalControl: menü beállítások állat típusa](../images/typeofanimal.png "állat típusa")
 
-### Fajta beállítása
+### Fajta beállítása {#set-breed}
 
 Itt határozhatja meg, hogy az új állatok létrehozásakor melyik fajta kerül rögzítésre a gazdaságában. A fajta meghatározásához a készüléken a következőképpen járjon el:
 
@@ -98,7 +98,7 @@ Itt határozhatja meg, hogy az új állatok létrehozásakor melyik fajta kerül
 
     ![VitalControl: menü beállítások állat típusa](../images/breed.png "állat típusa")
 
-### Tartózkodási hely beállítása
+### Tartózkodási hely beállítása {#set-whereabouts}
 
 Itt határozhatja meg, hogy az új gazdasági állatok létrehozásakor melyik tartózkodási hely kerül hozzárendelésre. A gazdasági állat tartózkodási helyének meghatározásához a készüléken a következőképpen járjon el:
 
@@ -117,7 +117,7 @@ Itt határozhatja meg, hogy az új gazdasági állatok létrehozásakor melyik t
 
 Mentse a beállításokat, és térjen vissza a `Beállítások` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 
-## Automatikus regisztráció
+## Automatikus regisztráció {#auto-registration}
 
 Itt határozza meg az eszköz viselkedését, amikor egy új transzpondert, amelyet a VitalControl eszköz még nem ismer, beolvasnak. Ehhez az esethez három különböző viselkedés határozható meg.
 
@@ -137,7 +137,7 @@ Az eszközön az állatok automatikus létrehozásának viselkedésének meghat�
 
 ![VitalControl: menü beállítások automatikus regisztráció](../images/autoregistration.png "automatikus regisztráció")
 
-## Állat azonosító hozzárendelése
+## Állat azonosító hozzárendelése {#assignment-animal-id}
 
 Itt határozhatja meg, hogy melyik állat azonosítót javasolja (a transzponder számából származtatva) vagy használja (folyamatos) egy új állat létrehozásakor a farmján.
 
@@ -167,7 +167,7 @@ Az állat azonosító hozzárendelésének meghatározásához az eszközén az 
 Csak a `Consecutive` opció használatakor: ha külön szám tartományokat állított be hím és nőstény állatok számára a fülcímke számának hozzárendelésekor, akkor egy következő állatszámot tárolnak mind a hím, mind a nőstény, mind az ismeretlen nemű állatok számára. Az állatszám bal oldalán elhelyezett szimbólum jelzi, hogy a következő állatszám mire vonatkozik: hím ♀, nőstény ♂ vagy ismeretlen nemű állatok ♀♂?
 {{% /alert %}}
 
-### Az új azonosító számjegye
+### Az új azonosító számjegye {#digit-of-the-new-id}
 
 Itt határozhatja meg, hogy az új állat számára a transzponder számból származó istálló szám milyen hosszúságú legyen a gazdaságában. Az értéktartomány 2-től 6 számjegyig terjed. Az új gazdasági állat azonosítójának hosszának meghatározásához az eszközén a következőképpen járjon el:
 
@@ -183,7 +183,7 @@ Itt határozhatja meg, hogy az új állat számára a transzponder számból sz�
 
     ![VitalControl: menü beállítások Az új azonosító számjegye](../images/digitofnewid.png "Az új azonosító számjegye")
 
-### Jobb oldali eltolás
+### Jobb oldali eltolás {#right-offset}
 
 Itt határozhatja meg, hogy az eltolást is figyelembe veszik-e az istálló számának a transzponder számból történő származtatásakor. Eltolás nélkül a transzponder szám utolsó 2-6 számjegyét használják istálló számként, 1-es eltolással a jobb szélső számjegyet elvetik, 2-es eltolással a két jobb szélső számjegyet, és így tovább.
 
@@ -207,7 +207,7 @@ Az állat jobb oldalán lévő eltolás beállításához az eszközén, kövess
 
 Mentse a beállításokat, és térjen vissza a főmenübe <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 
-## Fülcímke szám hozzárendelése
+## Fülcímke szám hozzárendelése {#assignment-ear-tag-number}
 
 Itt határozza meg, hogy egy vagy két számtartományt használ-e az állatok kézi újraregisztrálása során a fülcímke szám hozzárendeléséhez. Az állat fülcímke számának hozzárendelésének meghatározásához az eszközén, kövesse az alábbi lépéseket:
 

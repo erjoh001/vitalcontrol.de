@@ -10,7 +10,7 @@ Kategorien: [Animaldata]
 Tags: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
-## Отписване на животни
+## Отписване на животни {#unregister-animals}
 
 Отписване на животни от вашето VitalControl, които или са надвишили възрастов лимит или не са им били присвоени транспондери. Процедирайте по следния начин:
 

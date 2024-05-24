@@ -12,7 +12,7 @@ weight: 20
 
 En utilisant le menu 'Test de portée', vous pouvez déterminer si l'appareil VitalControl peut lire les transpondeurs que vous avez en main. Outre la vérification de la compatibilité, vous pouvez également déterminer de manière pratique le protocole de transmission utilisé par ces transpondeurs et afficher le numéro stocké sur le transpondeur.
 
-## Effectuer un test de portée
+## Effectuer un test de portée {#perform-range-test}
 
 1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
 
@@ -30,12 +30,12 @@ En utilisant le menu 'Test de portée', vous pouvez déterminer si l'appareil Vi
 
 1. Déplacez le transpondeur plusieurs fois d'avant en arrière à la limite du champ de lecture. De cette manière, vous pouvez déterminer la portée de lecture du scanner RFID en combinaison avec les transpondeurs que vous utilisez.
 
-## Vérification du transpondeur
+## Vérification du transpondeur {#transponder-check}
 
 En effectuant le test de portée décrit ci-dessus, vous pouvez également obtenir des informations sur les transpondeurs provenant de différentes origines :
 
-### Balises auriculaires officielles à transpondeur
-
+### Balises auriculaires officielles à transpondeur {#official-transponder-ear-tags}
+ 
 1. Si vous utilisez des balises auriculaires à transpondeur pour vos animaux, sur lesquelles le numéro de balise auriculaire de 15 chiffres officiellement attribué à l'animal est encodé, les informations suivantes sont affichées à l'écran une fois le transpondeur lu :
 
     - ID à 15 chiffres officiellement attribué à votre animal par votre service national d'identification des animaux.
@@ -46,7 +46,7 @@ En effectuant le test de portée décrit ci-dessus, vous pouvez également obten
 
     ![VitalControl : vérification de la balise auriculaire à transpondeur](../images/transponder-official.png "Info balise auriculaire à transpondeur officielle")
 
-### Transpondeurs de fournisseurs tiers
+### Transpondeurs de fournisseurs tiers {#transponders-from-third-party-vendors}
 
 1. Si vous utilisez des transpondeurs de fournisseurs tiers, tels qu'Urban, pour l'identification électronique de vos animaux, les informations suivantes seront affichées à l'écran une fois le transpondeur lu :
 

@@ -11,24 +11,24 @@ categories: [Lijsten]
 tags: [Lijsten, Actie]
 translationKey: lists/action
 ---
-## Actielijst
+## Actielijst {#action-list}
 
 Binnen de actielijst kunt u de dieren zien waarvoor zes uur lang geen actie is ondernomen. De volgende instellingsopties zijn ook beschikbaar:
 
-- [Temperatuur meten](../alarm/#temperatuur-meten)
-- [Dier beoordelen](../alarm/#dier-beoordelen)
-- [Dier wegen](#dier-wegen)
-- [Opeenvolgende acties](#opeenvolgende-acties)
+- [Temperatuur meten](../alarm/#take-temperature)
+- [Dier beoordelen](../alarm/#rate-animal)
+- [Dier wegen](#weigh-animals)
+- [Opeenvolgende acties](#chain-of-action)
 - [Link transponder](#link-transponder)
-- [Verberg na actie](#verberg-na-actie)
-- [Dier zoeken](../alarm/#dier-zoeken)
-- [Filter zetten](../alarm/#filter-zetten)
+- [Verberg na actie](#hide-after-action)
+- [Dier zoeken](../alarm/#search-animal)
+- [Filter zetten](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
 Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.
 {{% /alert %}}
 
-### Voorbereidende Stappen
+### Voorbereidende Stappen {#preliminary-steps}
 
 1. Selecteer het <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lijsten" />  `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
@@ -38,7 +38,7 @@ Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst
 
    ![VitalControl Lijsten Actielijst](../images/firststeps3.png "Voorbereidende Stappen")
 
-### Dier wegen
+### Dier wegen {#weigh-animals}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -46,11 +46,11 @@ Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst
 
 3. Binnen de actielijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. U kunt ook zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Zoeken" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. Het menu [dier wegen](..) zal automatisch openen.
+4. Het menu [dier wegen](../../acties/record-weight/) zal automatisch openen.
 
    ![VitalControl Lijsten Actielijst](../images/weightanimals.png "Dier wegen")
 
-### Opeenvolgende acties
+### Opeenvolgende acties {#chain-of-action}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -62,7 +62,7 @@ Sommige acties moeten op dezelfde manier worden uitgevoerd als in de [alarmlijst
 
    ![VitalControl Lijsten Actielijst](../images/chainofaction.png "Opeenvolgende acties")
 
-### Link transponder
+### Link transponder {#link-transponder}
 
 Deze functie wordt gebruikt om een transponder toe te voegen aan het gegevensrecord van dieren die nog geen transponder toegewezen hebben gekregen.
 
@@ -76,7 +76,7 @@ Deze functie wordt gebruikt om een transponder toe te voegen aan het gegevensrec
 
    ![VitalControl Lijsten Actielijst](../images/linktransponder.png "Link transponder")
 
-### Verberg na actie
+### Verberg na actie {#hide-after-action}
 
 Als deze functie geactiveerd is, worden de dieren waarvoor een actie is uitgevoerd verborgen in de actielijst. Als deze functie gedeactiveerd is, blijven de verwerkte dieren zichtbaar in de lijst.
 

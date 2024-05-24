@@ -11,7 +11,7 @@ tags: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
 
-## Állatveszteség
+## Állatveszteség {#animal-loss}
 
 Az `állatveszteség` művelet lehetővé teszi egy állatveszteség regisztrálását. Az állatveszteség regisztrálásához kövesse az alábbi lépéseket:
 

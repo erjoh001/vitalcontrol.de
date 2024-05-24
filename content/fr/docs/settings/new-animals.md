@@ -11,8 +11,8 @@ categories: [paramètres]
 tags: [paramètres, Valeurs par défaut]
 translationKey: settings/new-animals
 ---
-## Définir les valeurs par défaut
-### Définir le(s) poids enregistré(s)
+## Définir les valeurs par défaut {#set-default-values}
+### Définir le(s) poids enregistré(s) {#set-recorded-weights}
 
 Ici, vous définissez quel poids est enregistré et sauvegardé lors de la création de nouveaux animaux sur votre ferme. Pour définir le poids enregistré sur votre appareil, procédez comme suit.
 
@@ -30,7 +30,7 @@ Ici, vous définissez quel poids est enregistré et sauvegardé lors de la créa
  Sélectionnez `aucun` si : les animaux sont créés automatiquement en arrière-plan (via scan de transpondeur), aucune balance n'est disponible dans la ferme et aucune valeur estimée n'est souhaitée, les poids de naissance sont inconnus.
 {{% /alert %}}
 
-### Définir l'âge à l'enregistrement
+### Définir l'âge à l'enregistrement {#set-age-at-registration}
 {{% alert title="Conseil" %}}
 Basé sur l'âge entré ici, l'appareil calcule la date de naissance qui est suggérée pour un animal créé manuellement ou qui est utilisée pour la création automatique en arrière-plan (via scan de transpondeur). Pour les fermes laitières, entrez l'âge en jours auquel les veaux nouveau-nés sont enregistrés dans VitalControl. Pour les fermes d'élevage de bovins de boucherie, l'âge moyen des veaux achetés doit être entré ici. La plage de valeurs admissible est de 0 à 99 jours.
 {{% /alert %}}
@@ -49,8 +49,8 @@ Pour définir l'âge à la création sur votre appareil, procédez comme suit :
 
     ![VitalControl : paramètres du menu Définir l'âge à l'enregistrement](../images/ageatregistration.png "Définir l'âge à l'enregistrement")
 
-### Définir le sexe
-
+### Définir le sexe {#set-sex}
+ 
 Ici, vous définissez quel sexe est suggéré (création manuelle) ou adopté automatiquement (création en
 arrière-plan). Pour définir le sexe lors de l'enregistrement d'un animal sur votre appareil, procédez comme suit.
 
@@ -66,7 +66,7 @@ arrière-plan). Pour définir le sexe lors de l'enregistrement d'un animal sur v
 
     ![VitalControl : paramètres du menu Définir le sexe](../images/setsex.png "Définir le sexe")
 
-### Définir le type d'animal
+### Définir le type d'animal {#set-type-of-animal}
 
 Ici, vous définissez quel type d'animal est enregistré lors de la création de nouveaux animaux dans votre ferme. Pour définir le type d'animal lors de sa création sur votre appareil, procédez comme suit :
 
@@ -82,7 +82,7 @@ Ici, vous définissez quel type d'animal est enregistré lors de la création de
 
     ![VitalControl : paramètres du menu type d'animal](../images/typeofanimal.png "type d'animal")
 
-### Définir la race
+### Définir la race {#set-breed}
 
 Ici, vous définissez quelle race du bétail est enregistrée lors de la création de nouveaux animaux sur votre ferme. Pour définir la race lors de la création sur votre appareil, procédez comme suit :
 
@@ -98,7 +98,7 @@ Ici, vous définissez quelle race du bétail est enregistrée lors de la créati
 
     ![VitalControl : paramètres du menu type d'animal](../images/breed.png "type d'animal")
 
-### Définir le lieu de détention
+### Définir le lieu de détention {#set-whereabouts}
 
 Ici, vous définissez quels lieux de détention sont attribués aux animaux lors de la création de nouveaux animaux de ferme. Pour définir le lieu de détention de l'animal de ferme lors de sa création sur votre appareil, procédez comme suit :
 
@@ -116,7 +116,7 @@ Ici, vous définissez quels lieux de détention sont attribués aux animaux lors
 
 Enregistrez les paramètres et retournez au menu principal `Réglages` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
 
-## Enregistrement automatique
+## Enregistrement automatique {#auto-registration}
 
 Ici, vous définissez le comportement de l'appareil lorsqu'un nouveau transpondeur, qui n'est pas encore connu de l'appareil VitalControl, est scanné. Pour ce cas, trois comportements différents peuvent être définis.
 
@@ -136,7 +136,7 @@ Pour définir le comportement lorsque l'animal de l'utilisateur est créé autom
 
 ![VitalControl : paramètres du menu enregistrement automatique](../images/autoregistration.png "enregistrement automatique")
 
-## Attribution d'ID animal
+## Attribution d'ID animal {#assignment-animal-id}
 
 Ici, vous définissez quel ID animal est proposé (dérivé du numéro de transpondeur) ou utilisé (consécutif) lors de la création d'un nouvel animal dans votre ferme.
 
@@ -166,7 +166,7 @@ Pour définir l'attribution de l'ID animal lors de la création de l'animal de f
 Uniquement lorsque vous utilisez l'option `Consecutive` : si vous avez configuré l'utilisation de plages de numéros séparées pour les animaux mâles et femelles lors de l'attribution du numéro de boucle auriculaire, un numéro d'animal suivant est enregistré pour chacun des mâles, des femelles et des animaux de sexe inconnu. Un symbole placé à gauche du numéro de l'animal indique à quoi le prochain numéro d'animal est utilisé : soit pour mâle ♀, soit pour femelle ♂, soit pour animaux de sexe inconnu ♀♂ ?
 {{% /alert %}}
 
-### Chiffre du nouvel identifiant
+### Chiffre du nouvel identifiant {#digit-of-the-new-id}
 
 Ici, vous définissez quelle longueur un numéro de grange dérivé du numéro de transpondeur a pour un nouvel animal dans votre ferme. La plage de valeurs possible va de 2 à 6 chiffres. Pour définir la longueur du nouvel identifiant de l'animal de ferme sur votre appareil, procédez comme suit :
 
@@ -182,7 +182,7 @@ Ici, vous définissez quelle longueur un numéro de grange dérivé du numéro d
 
     ![VitalControl : paramètres du menu Chiffre du nouvel identifiant](../images/digitofnewid.png "Chiffre du nouvel identifiant")
 
-### Décalage à droite
+### Décalage à droite {#right-offset}
 
 Ici, vous définissez si un décalage est également pris en compte lors de la dérivation d'un numéro de grange à partir du numéro de transpondeur. Sans décalage, les 2 à 6 derniers chiffres du numéro de transpondeur seront utilisés comme numéro de stable, avec un décalage de 1, le chiffre le plus à droite sera ignoré, avec un décalage de 2, les deux chiffres les plus à droite, et ainsi de suite.
 
@@ -207,7 +207,7 @@ Pour régler le décalage à droite de l'animal sur votre appareil, procédez co
 
 Enregistrez les paramètres et revenez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
 
-## Attribution numéro de boucle d'oreille
+## Attribution numéro de boucle d'oreille {#assignment-ear-tag-number}
 
 Ici, vous définissez si une ou deux plages de numéros sont utilisées lors de l'attribution du numéro de boucle d'oreille dans le cadre de la réinscription manuelle des animaux. Pour définir l'attribution du numéro de boucle d'oreille de l'animal de ferme sur votre appareil, procédez comme suit :
 

@@ -11,7 +11,7 @@ Kategorien: [Massenzugang]
 Tags: [Massenzugang]
 translationKey: new/bulk-recording
 ---
-## Massenzugang
+## Massenzugang {#bulk-recording}
 
 Mithilfe des Massenzuganges können Sie eine Vielzahl von Tieren in kurzer Zeit erfassen und in Ihrem Gerät abspeichern. Mit dem Barcode-Scanner scannen Sie die Barcodes für die Ohrmarkennummer und das Geburtsdatum auf den Rinderpässen. Das Tier wird automatisch abgespeichert und Sie können direkt den nächsten Pass einscannen. Um den Massenzugang zu verwenden gehen Sie wie folgt vor:
 
@@ -38,7 +38,7 @@ Während des Scanvorgangs kann es zu Fehlermeldungen kommen. Der Barcodescanner 
 {{% /alert %}}
 
 
-### Geburtsdatum muss angegeben werden
+### Geburtsdatum muss angegeben werden {#birth-date-mandatory}
 
 Mit dieser Einstellungsoption bestimmten Sie, ob das Geburtsdatum beim Anlegen der Tiere zwingend mit angegeben werden muss. Deaktivieren Sie diese Option, müssen Sie nur noch eine Ohrmarkennummer scannen um ein Tier anzulegen. Bei diesen Tieren wird dann jedoch das aktuelle Datum als Geburtsdatum hinterlegt! Diese Funktion ist standardmäßig aktiviert. Um Sie zu deaktivieren gehen Sie wie folgt vor:
 
@@ -52,7 +52,7 @@ Mit dieser Einstellungsoption bestimmten Sie, ob das Geburtsdatum beim Anlegen d
 
    ![VitalControl: Menüfolge Neu Massenzugang](../bilder/geburtsdatum.png "Geburtsdatum muss angegeben werden aktivieren bzw. deaktivieren")
 
-### Standardwerte einstellen
+### Standardwerte einstellen {#default-values}
 
 Innerhalb des Einstellungsmenüs `Standardwerte` legen Sie Standards fest die für jedes Tier gelten, das Sie anlegen. Der Ablauf des Anlegens mit dem Barcode-Scanner bleibt dabei unverändert wie oben beschrieben. Sie haben die Möglichkeit die Art des Nutztieres, das Geschlecht, die Rasse und den Verbleib einzustellen. Um die `Standardwerte` einzustellen gehen Sie wie folgt vor:
 
@@ -66,7 +66,7 @@ Innerhalb des Einstellungsmenüs `Standardwerte` legen Sie Standards fest die f�
 
    ![VitalControl: Menüfolge Neu Standardwerte](../bilder/standardwerte.png "Standardwerte einstellen")
 
-### Erfasste Werte einstellen
+### Erfasste Werte einstellen {#recorded-values}
 
 Innerhalb des Einstellungsmenüs `Erfasste Werte` legen Sie fest, welche Werte zusätzlich zu der Ohrmarkennummer und dem Geburtsdatum erfasst werden sollen. Sie können zwischen `Rasse`, `Geschlecht`, `Verbleib`, `Aktuelles Gewicht`, `Geburtsgewicht` und `Art des Nutztieres` auswählen. Sobald Sie dabei mindestens einen Wert einstellen verändert sich der Ablauf während des Scans. Scannen Sie zunächst die Ohrmarkennummer und das Geburtsdatum ein. Wählen Sie dann mit den Peiltasten △ ▽ die einzustellenden Werte aus und legen Sie die Werte fest. Speichern Sie dann mit der Taste `F3` ihre Angaben ab. Erst danach ist das Tier angelegt! Um die zu erfassenden Werte einzustellen gehen Sie wie folgt vor:
 

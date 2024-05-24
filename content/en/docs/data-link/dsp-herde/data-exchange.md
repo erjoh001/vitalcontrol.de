@@ -11,7 +11,7 @@ translationKey: DSPherde/data-exchange
 ---
 Follow the steps below to synchronize data between the software `Herde` and VitalControl device:
 
-### Connect VitalControl to PC
+### Connect VitalControl to PC {#connect-vitalcontrol-to-pc}
 
 1. Connect the VitalControl device to your computer or laptop via the supplied USB cable.
 
@@ -19,7 +19,7 @@ Follow the steps below to synchronize data between the software `Herde` and Vita
 
 1. Make sure your VitalControl device is turned on.
 
-### Perform data exchange
+### Perform data exchange {#perform-data-exchange}
 
 1. Within the software `Herde`, perform a full data exchange. Depending on the configuration of your user interface, you can invoke this exchange via the menu item `Full data exchange` in the main menu (top level item _Technology_), in the sidebar menu or in your customized toolbox (horizontal or vertical).
 

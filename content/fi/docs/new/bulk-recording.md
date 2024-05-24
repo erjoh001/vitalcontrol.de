@@ -11,7 +11,7 @@ categories: [Uoukkotallennus]
 tags: [Uoukkotallennus]
 translationKey: new/Uoukkotallennus
 ---
-## Uoukkotallennus
+## Uoukkotallennus {#bulk-recording}
 
 Massarekisteröinnin avulla voit tallentaa suuren määrän eläimiä lyhyessä ajassa laitteeseesi. Käytä viivakoodinlukijaa skannataksesi korvamerkkien numerot ja syntymäajat nautojen passeista. Eläin tallennetaan automaattisesti ja voit skannata seuraavan passin heti. Toimi seuraavasti suorittaaksesi eläinten massarekisteröinnin:
 
@@ -37,7 +37,7 @@ Sinulla on lisää asetusvaihtoehtoja `Uoukkotallennus` -valikossa. Nämä selit
 Skannausprosessin aikana voi ilmetä virheilmoituksia. Tällöin viivakoodinlukija antaa äänimerkin, eikä skannaaminen ole mahdollista. Hyväksy vastaava virheilmoitus VitalControl-näytöllä ja jatka skannausta.
 {{% /alert %}}
 
-### Syntymäaika pakollinen
+### Syntymäaika pakollinen {#birth-date-mandatory}
 
 Tällä asetusvaihtoehdolla voit määrittää, onko eläintä luotaessa ilmoitettava syntymäaika. Jos poistat tämän toiminnon käytöstä, sinun tarvitsee vain skannata viivakoodi tallentaaksesi eläimen. Näille eläimille tallennetaan kuitenkin nykyinen päivämäärä syntymäajankohdaksi! Tämä toiminto on oletusarvoisesti käytössä. Poistaaksesi sen käytöstä, tee seuraavasti:
 
@@ -51,7 +51,7 @@ Tällä asetusvaihtoehdolla voit määrittää, onko eläintä luotaessa ilmoite
 
 ![VitalControl: Menu Uusi Syntymäaika pakollinen](../images/birthdate.png "Syntymäaika pakollinen")
 
-### Oletusarvot
+### Oletusarvot {#default-values}
 
 `Oletusarvot`-asetusvalikossa asetat standardit, jotka koskevat jokaista luomaasi eläintä. Viivakoodinlukijalla luomisprosessi pysyy muuttumattomana kuten yllä kuvattu. Voit asettaa eläimen tyypin, sukupuolen, rodun ja olinpaikan. Asettaaksesi `Oletusarvot`, toimi seuraavasti:
 
@@ -65,7 +65,7 @@ Tällä asetusvaihtoehdolla voit määrittää, onko eläintä luotaessa ilmoite
 
    ![VitalControl: Menu Uusi Oletusarvot](../images/defaultvalues.png "Oletusarvot")
 
-### Tallennetut arvot
+### Tallennetut arvot {#recorded-values}
 
 `Tallennetut arvot`-asetusvalikossa voit määrittää, mitkä arvot tulee tallentaa korvamerkin numeron ja syntymäajan lisäksi. Voit valita `Rotu`, `Sukupuoli`, `Olinpaikka`, `Nykyisen painon`, `Syntymäpainon` ja `Eläinlaji` välillä. Heti kun asetat ainakin yhden arvon, prosessi muuttuu skannauksen aikana. Skannaa ensin korvamerkin numero ja syntymäaika. Käytä sitten suuntanäppäimiä △ ▽ valitaksesi asetettavat arvot ja aseta arvot. Tallenna sitten tietosi `F3`-näppäimellä. Vasta sitten eläin luodaan! Asettaaksesi tallennettavat arvot, toimi seuraavasti:
 

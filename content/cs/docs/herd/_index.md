@@ -11,19 +11,19 @@ categories: [Stádo]
 tags: [Stádo, Teplota, Hmotnost, Hodnocení, Údaje o zvířatech]
 translationKey: herd
 ---
-## Stádo
+## Stádo {#herd}
 
 V rámci položky menu Stádo můžete zobrazit celé své stádo, vyhledávat jednotlivá zvířata a zobrazovat důležité informace. Máte následující možnosti:
 
 - Zobrazit [údaje o zvířatech](#view-animal-data)
 - Zobrazit [údaje o teplotě](#display-temperature)
 - Zobrazit [údaje o hodnocení](#view-rating)
-- Zobrazit [údaje o hmotnosti](#view-rating)
+- Zobrazit [údaje o hmotnosti](#display-weight)
 - [Vyhledat zvíře](#search-animal)
 - Nastavit [filtr](#set-filter)
 - [Akce](#call-action-menu)
 
-### Přípravné kroky
+### Přípravné kroky {#preparatory-steps}
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Stádo" /> `Stádo` a stiskněte tlačítko `OK`.
 
@@ -31,7 +31,7 @@ V rámci položky menu Stádo můžete zobrazit celé své stádo, vyhledávat j
 
     ![VitalControl: Menu Stádo](images/herde.png "Stádo")
 
-### Zobrazit údaje o zvířatech
+### Zobrazit údaje o zvířatech {#view-animal-data}
 
 1. Dokončete přípravné kroky.
 
@@ -47,7 +47,7 @@ V rámci položky menu Stádo můžete zobrazit celé své stádo, vyhledávat j
 Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když máte například zobrazenou hmotnost, musíte znovu nastavit zobrazení údajů o zvířatech.
 {{% /alert %}}
 
-### Zobrazit teplotu
+### Zobrazit teplotu {#display-temperature}
 
 1. Dokončete přípravné kroky.
 
@@ -60,7 +60,7 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 
     ![VitalControl: Menu Herd](images/temperature.png "Zobrazit teplotu")
 
-### Zobrazit hodnocení
+### Zobrazit hodnocení {#view-rating}
 
 1. Dokončete přípravné kroky.
 
@@ -72,7 +72,7 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 
     ![VitalControl: Menu Herd](images/rating.png "Zobrazit hodnocení")
 
-### Zobrazit hmotnost
+### Zobrazit hmotnost {#display-weight}
 
 1. Dokončete přípravné kroky.
 
@@ -84,8 +84,8 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 
     ![VitalControl: Menu Herd](images/weight.png "Zobrazit hmotnost")
 
-### Vyhledat zvíře
-
+### Vyhledat zvíře {#search-animal}
+ 
 1. Dokončete přípravné kroky.
 
 2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí různé možnosti. Použijte šipky △ ▽ k zvýraznění funkce `Vyhledat zvíře` a vyvolejte vyhledávací funkci stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`. Alternativně můžete použít tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ihned po kroku jedna.
@@ -95,7 +95,7 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 
     ![VitalControl: Menu Stádo](images/search.png "Vyhledat zvíře")
 
-### Nastavit filtr
+### Nastavit filtr {#set-filter}
 
 1. Dokončete přípravné kroky.
 
@@ -105,7 +105,7 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 
     ![VitalControl: Menu Stádo](images/setfilter.png "Vyhledat zvíře")
 
-### Vyvolat akční menu
+### Vyvolat akční menu {#call-action-menu}
 
 Vždy máte možnost vyvolat akční menu pro zvíře.
 

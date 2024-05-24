@@ -11,7 +11,7 @@ translationKey: backup
 ---
 {{% usb-drive/es "Para realizar una copia de seguridad de datos para su dispositivo," %}}
 
-## Realizar copia de seguridad de datos
+## Realizar copia de seguridad de datos {#perform-data-backup}
 
 1. Abra el elemento de menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
 

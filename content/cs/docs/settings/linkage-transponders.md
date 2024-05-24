@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, Maximální věk, maximální věk nakoupených telat, Přiřazení ID zvířete]
 translationKey: settings/link-transponder
 ---
-## Nastavení maximálního věku nakoupených telat
+## Nastavení maximálního věku nakoupených telat {#set-maximum-age-of-purchased-calves}
 Pro nastavení `Maximálního věku nakoupených telat` na vašem zařízení postupujte následovně.
 
 1. Vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
@@ -22,7 +22,7 @@ Pro nastavení `Maximálního věku nakoupených telat` na vašem zařízení po
 
     ![VitalControl: menu nastavení propojení transpondéru](../images/maximumage.png "Maximální věk nakoupených telat")
 
-## Přiřazení ID zvířete
+## Přiřazení ID zvířete {#assignment-animal-id}
 
 Pro nastavení `Přiřazení ID zvířete` na vašem zařízení postupujte následovně.
 

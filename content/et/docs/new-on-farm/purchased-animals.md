@@ -11,7 +11,7 @@ categories: [Uus farmis]
 tags: [Uus farmis]
 translationKey: new-on-farm/new-on-farm
 ---
-## Ostetud loomad
+## Ostetud loomad {#purchased-animals}
 
 Selles nimekirjas leiate kõik loomad, mille olete loonud hulgisisestuse kaudu. Saate selle nimekirja eksportida ja seeläbi registreerida oma täiendused otse karjahaldusprogrammis DSP-Herde ja HI-Tieris. Alternatiivina võite kustutada kõik ostuteated.
 
@@ -31,7 +31,7 @@ Andmete eksportimiseks on vajalik kaasasolev UBS mälupulk. Ühendage USB mälup
 
 ![VitalControl: Ostetud loomade nimekiri, csv eksport](../images/purchasedanimals.png "Ostetud loomad, csv eksport")
 
-## Valikud: Kustuta kõik teated pärast eksportimist
+## Valikud: Kustuta kõik teated pärast eksportimist {#options-delete-all-notices-after-export}
 
 Selle valikuga saate määrata, kas kõik sõnumid `Ostetud loomade` nimekirjas tuleks pärast CSV-faili eksportimist kustutada. Kasutage seda valikut ainult juhul, kui olete kindel, et te ei vaja enam sõnumeid!
 
@@ -43,7 +43,7 @@ Selle valikuga saate määrata, kas kõik sõnumid `Ostetud loomade` nimekirjas 
 
     ![VitalControl: Ostetud loomade nimekiri, csv eksport](../images/delete-all.png "Kustuta kõik teated pärast eksportimist")
 
-## Otsesed funktsioonikutsed
+## Otsesed funktsioonikutsed {#direct-function-calls}
 
 Lisaks ekspordifaili loomisele on teil järgmised valikud:
 
@@ -57,7 +57,7 @@ Lisaks ekspordifaili loomisele on teil järgmised valikud:
 Avage alati esmalt `ostetud loomade` nimekiri, nagu eespool kirjeldatud.
 {{% /alert %}}
 
-### Eemalda transponder
+### Eemalda transponder {#unlink-transponder}
 
 Selle funktsiooni abil saate loomalt transponderi eemaldada.
 
@@ -69,7 +69,7 @@ Selle funktsiooni abil saate loomalt transponderi eemaldada.
 
     ![VitalControl: Ostetud loomade nimekiri, csv eksport](../images/unlink-transponder.png "Ostetud loomad, transponderi eemaldamine")
 
-### Kustuta kõik ostuteated
+### Kustuta kõik ostuteated {#clear-all-purchase-notices}
 
 Selle funktsiooni abil saate kõik loomad `Ostetud loomade` nimekirjast kustutada, ilma et peaksite esmalt looma eksportfaili.
 
@@ -81,7 +81,7 @@ Selle funktsiooni abil saate kõik loomad `Ostetud loomade` nimekirjast kustutad
 
 ![VitalControl: Ostetud loomade nimekiri, tühjenda ostuteated](../images/clear.png "Tühjenda kõik ostuteated")
 
-### Kustuta loom + ostuteade
+### Kustuta loom + ostuteade {#delete-animal--purchase-notice}
 
 Looma ja vastava ostuteate kustutamiseks toimi järgmiselt:
 
@@ -95,7 +95,7 @@ Looma ja vastava ostuteate kustutamiseks toimi järgmiselt:
 
     ![VitalControl: Ostetud loomade nimekiri, kustuta loom + teade](../images/delete.png "Kustuta loom + teade")
 
-### Tühjenda ostuteade
+### Tühjenda ostuteade {#clear-notice-of-purchase}
 
 Looma ostuteate nimekirjast kustutamiseks toimi järgmiselt:
 
@@ -109,7 +109,7 @@ Looma ostuteate nimekirjast kustutamiseks toimi järgmiselt:
 
     ![VitalControl: Ostetud loomade nimekiri, tühjenda ostuteade](../images/clearnotice.png "Tühjenda ostuteade")
 
-### Muuda ostetud looma andmeid
+### Muuda ostetud looma andmeid {#edit-data-of-purchased-animal}
 
 Ostunimekirjas oleva looma andmete muutmiseks toimi järgmiselt:
 

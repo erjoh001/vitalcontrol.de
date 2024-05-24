@@ -7,13 +7,13 @@ description: >
 ---
 First, make sure that a [newer firmware version](../versions/) is available for your device and, if needed, update the firmware of your device according to the following instructions.
 
-## Required accessory
+## Required accessory {#required-accessory}
 
 To install the update on your device, you need a dual USB flash drive (2-in-1 USB stick) Type-C/USB 3.0 with a USB C connector and a USB A connector. Such a dual USB flash drive is delivered together with your device. You may also purchase such an USB flash drive from different vendors.
 
 ![Dual USB flash drive (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Dual USB flash drive")
 
-## Preparation: download latest firmware
+## Preparation: download latest firmware {#preparation-download-latest-firmware}
 
 1. Insert your USB flash drive into the USB connector of your computer. Then create a new directory named 'update' in the root directory of your flash drive.
 
@@ -31,7 +31,7 @@ The data backup is a recommended precautionary measure. All existing animal and 
 
 [data backup]: {{< relref "../backup/backup/" >}}
 
-## Perform firmware update
+## Perform firmware update {#perform-firmware-update}
 
 1. Open the menu item `Device` in the main screen of your VitalControl device.
 

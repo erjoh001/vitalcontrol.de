@@ -14,7 +14,7 @@ translationKey: actions/unregister
 Niipea kui kustutate looma andmekirje, ei ole see enam hindamise eesmärgil kättesaadav! Kui registreerite looma välja, kuid soovite näiteks hiljem looma arengut uuesti hinnata, peate looma andmekirje säilitama!
 {{% /alert %}}
 
-## Kustuta registrist
+## Kustuta registrist {#unregister}
 
 Tegevus `Kustuta registrist` võimaldab looma registrist kustutada kohe, kui see välja viiakse. Looma registrist kustutamiseks toimige järgmiselt:
 

@@ -11,18 +11,18 @@ categories: [Listat]
 tags: [Listat, hälytys]
 translationKey: lists/alarm
 ---
-## Hälytyslista
+## Hälytyslista {#alarm-list}
 
 Hälytyslistalta löydät kaikki eläimet, jotka olet joko manuaalisesti lisännyt listaan tai kaikki eläimet, jotka olivat keltaisella tai punaisella alueella lämpötilaa mitattaessa. Lista auttaa sinua pitämään yleiskatsauksen kaikista huomionarvoisista eläimistä. Lisäksi voit tehdä seuraavat toimenpiteet kullekin listalla olevalle eläimelle:
 
-- [Täysi toimintovalikko](#täydellinen-toimintovalikko)
-- [Tietoa eläimistä](#tieto-eläimistä)
-- [Mittaa lämpötila](#mittaa-lämpötila)
-- [Arvioi eläin](#arvioi-eläin)
-- [Tyhjennä hälytys](#tyhjennä-hälytys)
-- [Vaihda seurantatila](#vaihda-suerantatila)
-- [Etsi eläin](#etsi-eläin)
-- [Aseta suodatin](#aseta-suodatin)
+- [Täysi toimintovalikko](#full-action-menu)
+- [Tietoa eläimistä](#animal-data)
+- [Mittaa lämpötila](#take-temperature)
+- [Arvioi eläin](#rate-animal)
+- [Tyhjennä hälytys](#clear-alarm)
+- [Vaihda seurantatila](#toggle-watch-status)
+- [Etsi eläin](#search-animal)
+- [Aseta suodatin](#set-filter)
 
 Hälytyslista on järjestetty seuraavasti:
 
@@ -36,7 +36,7 @@ Hälytyslista on järjestetty seuraavasti:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Kehon lämpötila" title="Kehon lämpötila" /> | Viimeksi kirjattu kuumeen mittaus näkyy symbolin alla liikennevalojärjestelmän väreillä
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Eläimen arvostelu" title="Arvostelu" /> |Ympyrämerkki symbolin alla osoittaa, että eläin on vahtilistalla
 
-### Alustavat askeleet
+### Alustavat askeleet {#preliminary-steps}
 
 1. Valitse <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listat" /> `Listat` -valikko päävalikosta VitalControl-laitteellasi ja paina `OK` -nappia.
 
@@ -46,7 +46,7 @@ Hälytyslista on järjestetty seuraavasti:
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Alustavat askeleet")
 
-### Täydellinen toimintovalikko
+### Täydellinen toimintovalikko {#full-action-menu}
 
 1. Suorita alustavat askeleet.
 
@@ -58,7 +58,7 @@ Hälytyslista on järjestetty seuraavasti:
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Toimintovalikko")
 
-### Tieto eläimistä
+### Tieto eläimistä {#animal-data}
 
 1. Suorita alustavat askeleet.
 
@@ -70,7 +70,7 @@ Hälytyslista on järjestetty seuraavasti:
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Tieto eläimistä")
 
-### Mittaa lämpötila
+### Mittaa lämpötila {#take-temperature}
 
 1. Suorita alustavat vaiheet.
 
@@ -78,11 +78,11 @@ Hälytyslista on järjestetty seuraavasti:
 
 3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista `OK`:lla. Voit myös etsiä eläintä. Käytä `On/Off`-näppäintä <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`:lla.
 
-4. [Mittaa lämpötila](/fi/docs/actions/measure-temperature/#tallenna-tulos) -toiminto käynnistyy nyt automaattisesti.
+4. [Mittaa lämpötila](/fi/docs/actions/measure-temperature/#measure-fever) -toiminto käynnistyy nyt automaattisesti.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Mittaa lämpötila")
 
-### Arvioi eläin
+### Arvioi eläin {#rate-animal}
 
 1. Suorita alustavat vaiheet.
 
@@ -90,11 +90,11 @@ Hälytyslista on järjestetty seuraavasti:
 
 3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista `OK`:lla. Voit myös etsiä eläintä. Käytä `On/Off`-näppäintä <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`:lla.
 
-4. [Arvioi eläin](/fi/docs/actions/rating/#arvioi-eläimesi) -toiminto käynnistyy nyt automaattisesti.
+4. [Arvioi eläin](/fi/docs/actions/rating/#rate-your-animals) -toiminto käynnistyy nyt automaattisesti.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Arvioi eläin")
 
-### Tyhjennä hälytys
+### Tyhjennä hälytys {#clear-alarm}
 
 1. Suorita alustavat vaiheet.
 
@@ -106,7 +106,7 @@ Hälytyslista on järjestetty seuraavasti:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Poista hälytys")
 
-### Vaihda suerantatila
+### Vaihda suerantatila {#toggle-watch-status}
 
 1. Suorita alustavat vaiheet.
 
@@ -118,7 +118,7 @@ Hälytyslista on järjestetty seuraavasti:
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Vaihda suerantatila")
 
-### Etsi eläin
+### Etsi eläin {#search-animal}
 
 1. Suorita alustavat vaiheet.
 
@@ -128,7 +128,7 @@ Hälytyslista on järjestetty seuraavasti:
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Etsi eläin")
 
-### Aseta suodatin
+### Aseta suodatin {#set-filter}
 
 1. Suorita alustavat vaiheet.
 

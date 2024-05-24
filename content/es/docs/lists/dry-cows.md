@@ -11,24 +11,24 @@ categories: [Listas]
 tags: [Listas, vaca seca]
 translationKey: lists/dry-cows
 ---
-## Lista de vacas secas
+## Lista de vacas secas {#dry-cows-list}
 
 En la lista de animales secos encontrarás todos los animales que has guardado como animales secos. Esta lista te ayudará a llevar un seguimiento de tus vacas secas y realizar las acciones necesarias sobre los animales. Puedes realizar las siguientes acciones:
 
-- [Menú acciones](../alarm/#menú-acciones)
-- [Datos del animal](../alarm/#datos-del-animal)
-- [Medir temperatura](../alarm/#medir-temperatura)
-- [Parto](#parto)
-- [Cambiar estado alarma](../on-watch/#cambiar-estado-alarma)
-- [Cambiar estado de seguimiento](../alarm/#cambiar-estado-de-seguimiento)
-- [Buscar animal](../alarm/#buscar-animal)
-- [Fijar filtro](../alarm/#fijar-filtro)
+- [Menú acciones](../alarm/#full-action-menu)
+- [Datos del animal](../alarm/#animal-data)
+- [Medir temperatura](../alarm/#take-temperature)
+- [Parto](#calving)
+- [Cambiar estado alarma](../on-watch/#toggle-alarm-status)
+- [Cambiar estado de seguimiento](../alarm/#toggle-watch-status)
+- [Buscar animal](../alarm/#search-animal)
+- [Fijar filtro](../alarm/#set-filter)
 
 {{% alert title="Consejo" %}}
 Algunas acciones se realizan de la misma manera que en la [lista de alarmas](../alarm). Estas no se explican aquí. Realiza los pasos preliminares y usa el enlace de la acción respectiva para obtener las instrucciones.
 {{% /alert %}}
 
-### Pasos preliminares
+### Pasos preliminares {#preliminary-steps}
 
 1. Selecciona el ítem del menú <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listas" /> `Listas` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `OK`.
 
@@ -38,8 +38,8 @@ Algunas acciones se realizan de la misma manera que en la [lista de alarmas](../
 
    ![Listas de VitalControl Lista de vacas secas](../images/firststeps5.png "Pasos preliminares")
 
-## Parto
-
+## Parto {#calving}
+ 
 1. Completa los pasos preliminares.
 
 2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir popup" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `OK`. Usa las teclas de flecha △ ▽ para destacar la acción `Parto` y selecciona esta opción presionando el botón central `OK` o la tecla `F3` `OK`.

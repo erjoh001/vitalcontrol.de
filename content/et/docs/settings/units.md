@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, units]
 translationKey: settings/units
 ---
-## Määra temperatuuri ühik
+## Määra temperatuuri ühik {#set-temperature-unit}
 
 Temperatuuri ühiku seadmiseks oma seadmes toimige järgnevalt.
 
@@ -25,7 +25,7 @@ Temperatuuri ühiku seadmiseks oma seadmes toimige järgnevalt.
 
     ![VitalControl: menüü seaded temperatuuri ühik](../images/temperature.png "Temperatuuri ühik")
 
-## Määra massi ühik
+## Määra massi ühik {#set-mass-unit}
 
 Massi ühiku seadmiseks oma seadmes toimige järgnevalt.
 

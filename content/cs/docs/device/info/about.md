@@ -8,8 +8,8 @@ description: >
  Vyvolání informací o dodavateli
 translationKey: device/info/about
 ---
-## Vyvolání menu "O aplikaci"
-
+## Vyvolání menu "O aplikaci" {#call-up-menu-about}
+ 
 Pro získání informací o hardwaru vašeho zařízení postupujte následovně:
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `zařízení` a stiskněte tlačítko `OK`.

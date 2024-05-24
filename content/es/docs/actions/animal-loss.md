@@ -11,7 +11,7 @@ tags: [Acciones, pérdida-animal]
 translationKey: actions/animal-loss
 ---
 
-## Pérdida de animal
+## Pérdida de animal {#animal-loss}
 
 La acción `pérdida de animal` te permite registrar una pérdida de animal. Para registrar una pérdida de animal, procede de la siguiente manera:
 

@@ -11,7 +11,7 @@ categories: [New on farm, transponder]
 tags: [New on farm, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
-### New on farm, no transponder
+### New on farm, no transponder {#new-on-farm-no-transponder}
 
 In this list you will find all newly created animals with a maximum age of X days that have not yet been assigned a transponder. You can set the maximum age [here](/en/docs/settings/animal-registration/#set-default-values). Once you have collected a transponder from these animals, you can search for the corresponding animal ID within the list and scan the associated transponder. The transponder is then automatically assigned to the animal and the animal is deleted from the list. To assign a transponder, proceed as follows:
 
@@ -41,7 +41,7 @@ As soon as you have assigned all animals, you have the option of being redirecte
 ![VitalControl: Menu New on farm, no transponder](../images/redirect.png "Redirect")
 {{% /alert %}}
 
-## Previous additional actions
+## Previous additional actions {#previous-additional-actions}
 
 You can use the previous additional actions to set which actions you want to perform before assigning the transponder. You can choose between measuring the temperature, assessing the animal and weighing the animal. The respective action is saved directly for the animal that you subsequently assign. Proceed as follows:
 
@@ -59,6 +59,6 @@ The menu item `last action on OK:` informs you that assigning a transponder will
 
 ![VitalControl: Menu New on farm, no transponder](../images/actions.png "Additional actions")
 
- ## Further menu items
+ ## Further menu items {#further-menu-items}
 
 You also have the option of selecting between `settings`, `search animal` and `set filter` in the pop-up. Use the arrow buttons △ ▽ to navigate to the respective menu item and confirm with `OK`. The information for the menu item `settings` can be found [here](/en/docs/settings/animal-registration/#set-default-values), for `set filter` [here](/en/docs/filter/) and for `search animal` proceed as in `new on farm, no transponder` step 3.

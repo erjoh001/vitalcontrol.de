@@ -11,8 +11,8 @@ categories: [Nuovo animale]
 tags: [Registrare animali]
 translationKey: new/animal
 ---
-## Creare un nuovo animale
-
+## Creare un nuovo animale {#create-a-new-animal}
+ 
 Per creare un nuovo animale, procedi come segue:
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nuovo animale" /> `Nuovo` e premi il pulsante `OK`.

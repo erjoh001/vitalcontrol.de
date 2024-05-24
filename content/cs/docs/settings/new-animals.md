@@ -11,8 +11,8 @@ categories: [settings]
 tags: [settings, Default values]
 translationKey: settings/new-animals
 ---
-## Nastavení výchozích hodnot
-### Nastavení zaznamenané hmotnosti
+## Nastavení výchozích hodnot {#set-default-values}
+### Nastavení zaznamenané hmotnosti {#set-recorded-weights}
 
 Zde definujete, která hmotnost je zaznamenána a uložena při vytváření nových zvířat na vaší farmě. Pro nastavení zaznamenané hmotnosti na vašem zařízení postupujte následovně.
 
@@ -30,7 +30,7 @@ Zde definujete, která hmotnost je zaznamenána a uložena při vytváření nov
  Vyberte `žádná`, pokud: zvířata jsou vytvářena automaticky na pozadí (přes skenování transpondéru), na farmě není k dispozici váha a nejsou požadovány odhadované hodnoty, porodní hmotnosti nejsou známy.
 {{% /alert %}}
 
-### Nastavení věku při registraci
+### Nastavení věku při registraci {#set-age-at-registration}
 {{% alert title="Tip" %}}
 Na základě zde zadaného věku zařízení vypočítá datum narození, které je navrženo pro ručně vytvořené zvíře nebo které je použito pro automatické vytvoření na pozadí (přes skenování transpondéru). Pro mléčné farmy zadejte věk v dnech, ve kterých jsou novorozená telata registrována ve VitalControl. Pro farmy s výkrmem telat zadejte průměrný věk nakoupených telat. Přípustný rozsah hodnot je od 0 do 99 dnů.
 {{% /alert %}}
@@ -49,7 +49,7 @@ K nastavení věku při vytvoření na vašem zařízení postupujte následovn�
 
     ![VitalControl: menu settings Set age at registration](../images/ageatregistration.png "Nastavit věk při registraci")
 
-### Nastavit pohlaví
+### Nastavit pohlaví {#set-sex}
 
 Zde definujete, které pohlaví je navrženo (ruční vytvoření) nebo automaticky převzato (vytvoření na pozadí). Pro definování pohlaví při registraci zvířete na vašem zařízení postupujte následovně.
 
@@ -65,7 +65,7 @@ Zde definujete, které pohlaví je navrženo (ruční vytvoření) nebo automati
 
     ![VitalControl: menu settings Set sex](../images/setsex.png "Nastavit pohlaví")
 
-### Nastavit typ zvířete
+### Nastavit typ zvířete {#set-type-of-animal}
 
 Zde definujete, který typ zvířete je zaznamenán při vytváření nových zvířat na vaší farmě. Pro definování typu zvířete při jeho vytvoření na vašem zařízení postupujte následovně:
 
@@ -82,7 +82,7 @@ Zde definujete, který typ zvířete je zaznamenán při vytváření nových zv
 
     ![VitalControl: menu nastavení typu zvířete](../images/typeofanimal.png "typ zvířete")
 
-### Nastavit plemeno
+### Nastavit plemeno {#set-breed}
 
 Zde definujete, které plemeno hospodářských zvířat je zaznamenáno při vytváření nových zvířat na vaší farmě. Chcete-li definovat plemeno při vytváření na vašem zařízení, postupujte následovně:
 
@@ -98,7 +98,7 @@ Zde definujete, které plemeno hospodářských zvířat je zaznamenáno při vy
 
     ![VitalControl: menu nastavení typu zvířete](../images/breed.png "typ zvířete")
 
-### Nastavit umístění
+### Nastavit umístění {#set-whereabouts}
 
 Zde definujete, které umístění je přiřazeno zvířatům při vytváření nových hospodářských zvířat. Chcete-li definovat umístění hospodářského zvířete při jeho vytváření na vašem zařízení, postupujte následovně:
 
@@ -117,7 +117,7 @@ Zde definujete, které umístění je přiřazeno zvířatům při vytváření 
 
 Uložte nastavení a vraťte se do hlavního menu `Nastavení` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
-## Automatická registrace
+## Automatická registrace {#auto-registration}
 
 Zde definujete chování zařízení při skenování nového transpondéru, který ještě není znám zařízení VitalControl. Pro tento případ lze definovat tři různá chování.
 
@@ -139,7 +139,7 @@ Chcete-li definovat chování při automatickém vytváření uživatelských zv
 
     ![VitalControl: menu settings auto-registration](../images/autoregistration.png "auto-registration")
 
-## Přiřazení ID zvířete
+## Přiřazení ID zvířete {#assignment-animal-id}
 
 Zde definujete, které ID zvířete je navrženo (odvozeno z čísla transpondéru) nebo použito (po sobě jdoucí) při vytváření nového zvířete ve vaší farmě.
 
@@ -169,7 +169,7 @@ Pro definování přiřazení ID zvířete při vytváření farmářského zví
 Pouze při použití možnosti `Po sobě jdoucí`: pokud jste nastavili použití samostatných číselných rozsahů pro samčí a samičí zvířata při přiřazování čísla ušní známky, je uloženo další číslo zvířete pro každé z nich: samčí, samičí a zvířata neznámého pohlaví. Symbol umístěný vlevo od čísla zvířete označuje, pro co je další číslo zvířete použito: buď pro samčí ♀ nebo pro samičí ♂ nebo pro zvířata neznámého pohlaví ♀♂?
 {{% /alert %}}
 
-### Číslice nového ID
+### Číslice nového ID {#digit-of-the-new-id}
 
 Zde definujete, jakou délku má mít číslo stáje odvozené z čísla transpondéru pro nové zvíře ve vaší farmě. Možný rozsah hodnot je od 2 do 6 číslic. Pro definování délky nového ID hospodářského zvířete na vašem zařízení postupujte následovně:
 
@@ -185,7 +185,7 @@ Zde definujete, jakou délku má mít číslo stáje odvozené z čísla transpo
 
     ![VitalControl: menu nastavení Číslice nového ID](../images/digitofnewid.png "Číslice nového ID")
 
-### Pravý offset
+### Pravý offset {#right-offset}
 
 Zde definujete, zda se při odvozování čísla stáje z čísla transpondéru bere v úvahu také offset. Bez offsetu budou použity poslední 2-6 číslice čísla transpondéru jako stabilní číslo, s offsetem 1 bude nejpravější číslice vyřazena, s offsetem 2 budou vyřazeny dvě nejpravější číslice a tak dále.
 
@@ -210,7 +210,7 @@ Pro nastavení offsetu napravo od zvířete na vašem zařízení postupujte ná
 
 Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
-## Přiřazení čísla ušní známky
+## Přiřazení čísla ušní známky {#assignment-ear-tag-number}
 
 Zde definujete, zda se při přiřazování čísla ušní známky během ručního přeregistrace zvířat používá jeden nebo dva číselné rozsahy. Pro definování přiřazení čísla ušní známky hospodářského zvířete na vašem zařízení postupujte následovně:
 

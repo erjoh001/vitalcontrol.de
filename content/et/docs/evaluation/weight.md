@@ -30,7 +30,7 @@ Kui klõpsate menüüelemendil, suunatakse teid vastava funktsiooni kirjelduse j
    <area shape="rect" coords="2,282,95,319" alt="Tagasi" title="Hüppa tagasi ühe taseme võrra&#10;Hiireklõps: dokumentatsiooni juurde" href="/et/docs/evaluation/">
 </map>
 
-## Tänased kaalumised
+## Tänased kaalumised {#todays-weighings}
 Selles hindamises näete järgmist teavet viimase 6 tunni kaalumiste kohta:
 - Keskmise looma kaal
 - Keskmise päevase juurdekasvu alates sünnist
@@ -49,7 +49,7 @@ Hindamise teostamiseks toimige järgmiselt:
 
    ![VitalControl: menüü Hindamine Tänased kaalumised](../images/todaysweighings.png "Hinnake tänaseid kaalumisi")
 
-## Sünnikaalud
+## Sünnikaalud {#birth-weights}
 Selles hindamises saate vaadata järgmist teavet:
 - Keskmine sünnikaal
 - Kaaluklassid
@@ -66,7 +66,7 @@ Hindamise teostamiseks toimige järgmiselt:
 
 ![VitalControl: menüü Hindamine Sünnikaalud](../images/birthweights.png "Hinda sünnikaalusid")
 
-## Kaalu areng
+## Kaalu areng {#weight-development}
 
 Selles hindamises näete järgmist teavet kõigi kaalumiste kohta:
 - Keskmine looma kaal

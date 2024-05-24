@@ -11,7 +11,7 @@ weight: 10
 ---
 If there is a malfunction on your device, you should first perform a hardware check to clarify whether any of the hardware components is defective.
 
-## Check the hardware of your device
+## Check the hardware of your device {#check-the-hardware-of-your-device}
 
 1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 

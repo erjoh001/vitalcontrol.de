@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, device]
 translationKey: settings/device
 ---
-## Spegnimento del dispositivo dopo
+## Spegnimento del dispositivo dopo {#shutdown-device-after}
 Per impostare il periodo di inattività fino allo spegnimento del dispositivo, procedi come segue.
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` e premi il pulsante `OK`.
@@ -24,7 +24,7 @@ Per impostare il periodo di inattività fino allo spegnimento del dispositivo, p
 
     ![VitalControl: impostazioni del menu Spegnimento del dispositivo dopo](../images/shutdowndeviceafter.png "Spegnimento del dispositivo dopo")
 
-## Schermata di avvio
+## Schermata di avvio {#start-up-screen}
 
 Per impostare la schermata di avvio, procedi come segue.
 
@@ -38,7 +38,7 @@ Per impostare la schermata di avvio, procedi come segue.
 
     ![VitalControl: impostazioni del menu Schermata di avvio](../images/startupscreen.png "Schermata di avvio")
 
-## Modalità dimostrazione
+## Modalità dimostrazione {#demonstration-mode}
 
 Se viene selezionata la modalità presentazione, il dispositivo simula le misurazioni della temperatura e visualizza una temperatura generata casualmente come valore misurato. Questa modalità viene utilizzata per la dimostrazione del dispositivo se non sono disponibili animali per una misurazione. Per disattivare o attivare la modalità presentazione del dispositivo, procedi come segue:
 
@@ -53,7 +53,7 @@ Se viene selezionata la modalità presentazione, il dispositivo simula le misura
 
     ![VitalControl: impostazioni menu Modalità dimostrazione](../images/demonstrationmode.png "Modalità dimostrazione")
 
-## Luminosità display
+## Luminosità display {#display-brightness}
 
 Per impostare la luminosità del display procedi come segue.
 
@@ -67,7 +67,7 @@ Per impostare la luminosità del display procedi come segue.
 
     ![VitalControl: impostazioni menu Luminosità display](../images/displaybrightness.png "Luminosità display")
 
-## Vibrazione alla pressione dei tasti
+## Vibrazione alla pressione dei tasti {#vibration-on-keypress}
 
 Per disattivare o attivare la vibrazione alla pressione dei tasti del dispositivo, procedi come segue:
 
@@ -82,7 +82,7 @@ Per disattivare o attivare la vibrazione alla pressione dei tasti del dispositiv
 
     ![VitalControl: menu impostazioni Luminosità display](../images/vibrationonkeypress.png "Luminosità display")
 
-## Monitor delle risorse
+## Monitor delle risorse {#resource-monitor}
 
 Per disattivare o attivare il monitor delle risorse del dispositivo, procedi come segue:
 

@@ -12,8 +12,8 @@ tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Ülevaade
-
+## Ülevaade {#overview}
+ 
 Järgnev graafik loetleb saadaolevad seadistused loomade andmete salvestamise kohta:
 
 <img src="../images/animaldataacquisition.png" alt="Loomade andmete hankimine" title="Loomade andmete hankimine" usemap="#workmap-overview" class="maphilight" />
@@ -30,7 +30,7 @@ Järgnev graafik loetleb saadaolevad seadistused loomade andmete salvestamise ko
 Liiguta kursor graafiku all oleva sümboli kohale ja hoia seda hetke paigal. Ilmub tööriistavihje, mis esitab teavet vastava seade kohta. Kui klõpsate mõnel joonel, suunatakse teid vastava seade kirjelduse juurde.
 {{% /alert %}}
 
-## Seaded *Kaalumise salvestamine*
+## Seaded *Kaalumise salvestamine* {#settings-weight-recording}
 
 Järgnev graafik loetleb saadaolevad seadistused loomade kaalumise salvestamise kohta:
 
@@ -43,7 +43,7 @@ Järgnev graafik loetleb saadaolevad seadistused loomade kaalumise salvestamise 
   <area shape="rect" coords="1,360,230,440" alt="Kaalumise täpsus" title="Määra kaalumise täpsus&#10;Hiireklõps: ava dokumentatsioon" href="#precision-of-weight-recording">
 </map>
 
-### Igapäevase kaalutõusu hindamine: Läviväärtused
+### Igapäevase kaalutõusu hindamine: Läviväärtused {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Vihje" %}}
 Punane väli näitab "kritiliselt madalat kaalutõusu" piirkonda. Kollane väli näitab "suboptimaalset kaalutõusu" piirkonda.
@@ -65,7 +65,7 @@ Igapäevase kaalutõusu läviväärtuste kohandamiseks toimige järgmiselt:
 
     ![VitalControl: menüü seaded igapäevase kaalutõusu jaoks](../images/dailyweightgain.png "Igapäevane kaalutõus")
 
-### Sünnikaal
+### Sünnikaal {#birth-weight}
 
 Seade kasutab siin seadetes salvestatud sünnikaalu vaikimisi väärtusena, kui luuakse uusi loomi. Selleks, et saaksite kiiremini valida äsja sündinud looma individuaalse sünnikaalu, võib teil olla vajalik kohandada seda vaikimisi väärtust oma farmis. `Sünnikaalu` väärtuse kohandamiseks toimige järgmiselt:
 
@@ -92,7 +92,7 @@ Kui te ei soovi seda kohandust teha või kui loote loomi automaatselt [taustal](
 | Väärtuste vahemik:            | 1,0 kuni 99 kg | 1,0 kuni 99 kg |
 {{% /alert %}}
 
-### Keskmine päevane kaalutõus
+### Keskmine päevane kaalutõus {#average-daily-weight-gain}
 
 {{% alert title="Selgitus" %}}
 Looma [kaalumisel](../../actions/record-weight/) kasutatakse määratletud päevast tõusu soovitatud kaaluväärtuse arvutamisel looma kaalumisel. Kui soovitatud kaaluväärtus on enamiku kaalutavate loomade jaoks liiga madal või liiga kõrge, peaksite määratletud väärtust vastavalt alandama või tõstma, et kaaluväärtuse kohandamiseks nooleklahvidega kuluvat aega lühendada.
@@ -110,7 +110,7 @@ Looma ligikaudse kaalu arvutamiseks kasutatava `keskmise päevase kaalutõusu` s
 
     ![VitalControl: menüü seaded keskmine päevane kaalutõus](../images/averagedailyweightgain.png "Keskmine päevane kaalutõus")
 
-### Kaalu registreerimise täpsus
+### Kaalu registreerimise täpsus {#precision-of-weight-recording}
 
 {{% alert title="Selgitus" %}}
 Sõltuvalt kasutusjuhtumist ja loomaliigist (*lammas*, *vasikas*, *lehm*) on erinevad nõuded registreeritava kaalu väärtuse resolutsioonile (täpsus *10 g*, *100 g* või *1 kg*). Nende nõuete täitmiseks on vajalik kasutada seadistust *Maksimaalne täpsus*.
@@ -140,7 +140,7 @@ Maksimaalse täpsuse seadmiseks loomade kaalu registreerimisel oma seadmega toim
 <br>
 Salvestage seaded ja naaske peamenüüsse `Andmete kogumine`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
-## Looma hindamise režiim
+## Looma hindamise režiim {#mode-of-animal-rating}
 
 {{% alert title="Selgitus" %}}
 Lihtsas režiimis küsitakse looma hindamisel ainult üldist seisundit (roheline/kollane/punane). Laiendatud hindamisel küsitakse 4 hindamiskategooriat: üldine seisund, söödatarbimine, kõhulahtisus ja hingamisteede haigused.
@@ -158,7 +158,7 @@ Looma `Hindamise` seadistamiseks oma seadmel toimige järgnevalt.
 
     ![VitalControl: menüü seaded loomade keskmine hinnang](../images/raitingofanimals.png "Loomade hinnang")
 
-## Värskete lehmade kontrollperiood
+## Värskete lehmade kontrollperiood {#control-period-of-fresh-cows}
 
 {{% alert title="Selgitus" %}}
 Värskete lehmade haldamisel peetakse parimaks praktikaks loomade igapäevast kontrollimist mitme päeva jooksul pärast sünnitust, sealhulgas nende temperatuuri mõõtmist. Selle kontrollperioodi kestus varieerub farmiti oluliselt. Seetõttu saab VitalControl seadetes määrata kontrollperioodi pikkuse vahemikus 3 kuni 14 päeva. Värskete lehmade kontrollperioodi määratud väärtus määrab iga looma jaoks kuvatava tuludiagrammi veergude arvu [värske lehma nimekirjas](../../lists/fresh-cows/).

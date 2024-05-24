@@ -7,7 +7,7 @@ draft: false
 description: >
  Seadme riistvara teabele juurdepääsuks klõpsake siin
 ---
-## Riistvara teabe hankimine
+## Riistvara teabe hankimine {#get-hardware-information}
 
 Seadme riistvara teabe hankimiseks toimige järgmiselt:
 

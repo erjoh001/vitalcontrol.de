@@ -10,7 +10,7 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Tierverlust]
 translationKey: actions/animal-loss
 ---
-## Tierverlust
+## Tierverlust {#animal-loss}
 
 Die Aktion `Tierverlust` ermöglicht es Ihnen einen Tierverlust zu registrieren. Um einen Tierverlust zu registrieren gehen Sie wie folgt vor:
 

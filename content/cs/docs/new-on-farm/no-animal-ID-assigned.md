@@ -11,7 +11,7 @@ categories: [Nové na farmě]
 tags: [Nové na farmě]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Není přiřazeno národní ID zvířete
+## Není přiřazeno národní ID zvířete {#no-national-animal-id-assigned}
 
 V tomto seznamu najdete všechna zvířata, kterým dosud nebylo přiřazeno ID zvířete. Můžete přiřadit ID zvířete zvířatům v tomto seznamu.
 
@@ -44,7 +44,7 @@ V části [poslední akce na OK](#last-action-on-ok) můžete nastavit, zda chce
 {{% /tab %}}
 {{< /tabpane >}}        
 
-## Poslední akce na OK
+## Poslední akce na OK {#last-action-on-ok}
 
 Pomocí dalších akcí můžete nastavit, které akce chcete provést před přiřazením národního identifikačního čísla zvířete. Můžete si vybrat mezi měřením teploty, hodnocením zvířete a vážením zvířete. Příslušná akce je uložena přímo pro zvíře, které následně přiřadíte. Postupujte následovně:
 
@@ -63,7 +63,7 @@ Pomocí dalších akcí můžete nastavit, které akce chcete provést před př
 Číslo ušní známky můžete přiřadit skenováním pouze v případě, že používáte elektronické ušní známky!
 {{% /alert %}}
 
-## Předchozí dodatečné akce
+## Předchozí dodatečné akce {#previous-additional-actions}
 
 Můžete použít předchozí dodatečné akce k nastavení, které akce chcete provést před přiřazením čísla ušní známky. Můžete si vybrat mezi měřením teploty, hodnocením zvířete a vážením zvířete. Příslušná akce je uložena přímo pro zvíře, kterému následně přiřadíte. Postupujte následovně:
 
@@ -80,6 +80,6 @@ Můžete použít předchozí dodatečné akce k nastavení, které akce chcete 
 
     ![Seznam zakoupených zvířat, není přiřazeno národní identifikační číslo zvířete](../images/aidditional-actions.png "Není přiřazeno národní identifikační číslo zvířete, Odkaz")
 
- ## Další položky menu
+ ## Další položky menu {#further-menu-items}
 
 Máte také možnost vybrat mezi `hledat zvíře` a `nastavit filtr` v pop-up okně. Pomocí šipek △ ▽ přejděte na příslušnou položku menu a potvrďte tlačítkem `OK`. Informace pro `nastavit filtr` [zde](/cs/docs/filter/) a pro `hledat zvíře` postupujte jako v kroku 4 `není přiřazeno národní identifikační číslo zvířete`.

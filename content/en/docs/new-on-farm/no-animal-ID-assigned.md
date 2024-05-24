@@ -11,7 +11,7 @@ categories: [New on farm]
 tags: [New on farm]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## No national animal ID assigned
+## No national animal ID assigned {#no-national-animal-id-assigned}
 
 In this list you will find all animals that have not yet been assigned an animal ID. You can assign an animal ID to the animals in this list.
 
@@ -43,7 +43,7 @@ Under [last actions on OK](#last-action-on-ok) you can set whether you want to e
 {{% /tab %}}
 {{< /tabpane >}}        
 
-## Last action on OK
+## Last action on OK {#last-action-on-ok}
 
 You can use the additional actions to set which actions you want to perform before assigning the national animal ID. You can choose between measuring the temperature, assessing the animal and weighing the animal. The respective action is saved directly for the animal that you subsequently assign. Proceed as follows:
 
@@ -61,7 +61,7 @@ You can use the additional actions to set which actions you want to perform befo
 You can only use the ear tag number assignment by scan if you use electronic ear tags!
 {{% /alert %}}
 
-## Previous additional actions
+## Previous additional actions {#previous-additional-actions}
 
 You can use the previous additional actions to set which actions you want to perform before assigning the ear tag number. You can choose between measuring the temperature, assessing the animal and weighing the animal. The respective action is saved directly for the animal that you subsequently assign. Proceed as follows:
 
@@ -77,6 +77,6 @@ You can use the previous additional actions to set which actions you want to per
 
     ![List of purchased animals, no national animal ID assigned](../images/aidditional-actions.png "No national animal ID assigned, Link")
 
- ## Further menu items
+ ## Further menu items {#further-menu-items}
 
 You also have the option of selecting between `search animal` and `set filter` in the pop-up. Use the arrow buttons △ ▽ to navigate to the respective menu item and confirm with `OK`. The information for `set filter` [here](/en/docs/filter/) and for `search animal` proceed as in `no national animal ID assigned` step 4.

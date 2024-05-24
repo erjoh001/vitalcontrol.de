@@ -11,11 +11,11 @@ categories: [Catena di azioni]
 tags: [Catena di azioni, Azioni]
 translationKey: action-chain
 ---
-## Catena di azioni
+## Catena di azioni {#chain-of-actions}
 
 La catena di azioni ti permette di eseguire automaticamente diverse azioni per un animale una dopo l'altra. Ad esempio, puoi selezionare le azioni `Misura temperatura` e `Valutazione`. Se poi esegui la catena di azioni, puoi prima misurare la temperatura del tuo animale e registrare immediatamente la valutazione subito dopo.
 
-### Utilizzare la catena di azioni
+### Utilizzare la catena di azioni {#use-chain-of-actions}
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Catena di azioni" />&nbsp; `Catena di azioni` e premi il pulsante `OK`.
 
@@ -33,7 +33,7 @@ La catena di azioni ti permette di eseguire automaticamente diverse azioni per u
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Configurare la catena di azioni
+### Configurare la catena di azioni {#set-chain-of-actions}
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Catena di azioni" />&nbsp; `Catena di azioni` e premi il pulsante `OK`.
 

@@ -11,7 +11,7 @@ categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Enregistrer la perte d'un animal
+## Enregistrer la perte d'un animal {#record-the-loss-of-an-animal}
 
 {{% alert title="Conseil" %}}
 La fonction de perte d'animal dans cet élément de menu est principalement utilisée pour enregistrer les veaux/agneaux morts. Les options de réglage sont adaptées en conséquence et ne sont pas identiques aux éléments de réglage dans le menu `Actions` -> `Désenregistrer` ou `Perte d'animaux`.

@@ -10,7 +10,7 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Beobachtung]
 translationKey: actions/on-watch
 ---
-## Beobachtung
+## Beobachtung {#on-watch}
 
 Mit der Aktion `Beobachtung` setzen Sie Tiere auf die Beobachtungsliste oder entfernen Sie von dieser. Die Beobachtungsliste hilft Ihnen auffällige Tiere schneller und leichter wiederzufinden und erleichtert Ihnen somit die täglichen Routinekontrollen. Um die Aktion `Beobachtung` anzuwenden gehen Sie wie folgt vor:
 

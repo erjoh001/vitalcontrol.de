@@ -8,7 +8,7 @@ description: >
   Naučte se, jak resetovat všechna nastavení zařízení VitalControl.
 categories: [Reset]
 ---
-## Resetování všech dat zařízení
+## Resetování všech dat zařízení {#resetting-all-device-data}
 
 1. Otevřete položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
 

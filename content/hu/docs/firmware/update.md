@@ -7,13 +7,13 @@ description: >
 ---
 Először győződjön meg arról, hogy van-e [újabb firmware verzió](../versions/) az eszközéhez, és ha szükséges, frissítse az eszköz firmware-jét az alábbi utasítások szerint.
 
-## Szükséges tartozék
+## Szükséges tartozék {#required-accessory}
 
 A frissítés telepítéséhez az eszközön szüksége van egy kettős USB flash meghajtóra (2 az 1-ben USB stick) Type-C/USB 3.0-val, amely USB C és USB A csatlakozóval rendelkezik. Ilyen kettős USB flash meghajtót szállítanak az eszközzel együtt. Ilyen USB flash meghajtót különböző gyártóktól is vásárolhat.
 
 ![Kettős USB flash meghajtó (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Kettős USB flash meghajtó")
 
-## Előkészítés: legújabb firmware letöltése
+## Előkészítés: legújabb firmware letöltése {#preparation-download-latest-firmware}
 
 1. Helyezze be az USB flash meghajtót a számítógép USB csatlakozójába. Ezután hozzon létre egy új könyvtárat 'update' néven a flash meghajtó gyökérkönyvtárában.
 
@@ -31,7 +31,7 @@ Az adatmentés egy ajánlott óvintézkedés. Az összes meglévő állat- és e
 
 [data backup]: {{< relref "../backup/backup/" >}}
 
-## Firmware frissítés végrehajtása
+## Firmware frissítés végrehajtása {#perform-firmware-update}
 
 1. Nyissa meg a `Device` menüpontot a VitalControl eszköz főképernyőjén.
 

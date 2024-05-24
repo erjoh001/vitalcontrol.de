@@ -11,7 +11,7 @@ categories: [Seaded]
 tags: [Seaded, Kuupäev ja kellaaeg]
 translationKey: settings/datetime
 ---
-## Kuupäeva seadistamiseks
+## Kuupäeva seadistamiseks {#to-set-the-date}
 {{% alert title="Hoiatus" color="warning" %}}
 Veenduge, et kuupäev ja kellaaeg oleksid õigesti seadistatud. Vastasel juhul on mõõtmiste ajatemplid ja uute loomade sünnikuupäevad valed!
 {{% /alert %}}
@@ -28,7 +28,7 @@ Kuupäeva seadistamiseks oma seadmel järgige neid samme:
 
     ![VitalControl: menüü seaded kuupäev](../images/date.png "Kuupäeva seadistamiseks")
 
-## Kellaaja seadistamiseks
+## Kellaaja seadistamiseks {#to-set-the-time}
 
 Kellaaja seadistamiseks oma seadmel järgige neid samme:
 

@@ -7,7 +7,7 @@ description: >
 categories: [Reset]
 translationKey: reset/factory
 ---
-## Tehase lähtestamise teostamine
+## Tehase lähtestamise teostamine {#performing-a-factory-reset}
 
 1. Avage menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Seade` oma VitalControl seadme põhiekraanil.
 

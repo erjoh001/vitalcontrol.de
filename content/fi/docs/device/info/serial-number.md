@@ -7,7 +7,7 @@ draft: false
 description: >
  Laitteesi sarjanumeron noutamiseksi klikkaa tästä
 ---
-## Hae sarjanumero
+## Hae sarjanumero {#get-serial-number}	
 
 Nouda laitteesi sarjanumero seuraavasti:
 

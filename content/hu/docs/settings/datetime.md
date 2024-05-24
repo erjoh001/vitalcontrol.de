@@ -11,7 +11,7 @@ categories: [Beállítások]
 tags: [Beállítások, Dátum és idő]
 translationKey: settings/datetime
 ---
-## A dátum beállítása
+## A dátum beállítása {#to-set-the-date}
 {{% alert title="Figyelmeztetés" color="warning" %}}
 Győződjön meg róla, hogy a dátum és az idő helyesen van beállítva. Ellenkező esetben a mérések időbélyegei és az újonnan hozzáadott állatok születési dátumai helytelenek lesznek!
 {{% /alert %}}
@@ -28,7 +28,7 @@ A dátum beállításához a készüléken kövesse az alábbi lépéseket:
 
     ![VitalControl: menü beállítások dátum](../images/date.png "A dátum beállítása")
 
-## Az idő beállítása
+## Az idő beállítása {#to-set-the-time}
 
 Az idő beállításához a készüléken kövesse az alábbi lépéseket:
 

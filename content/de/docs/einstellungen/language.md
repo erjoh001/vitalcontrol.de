@@ -11,7 +11,7 @@ Kategorien: [Einstellungen]
 Tags: [Einstellungen, Sprache]
 translationKey: settings/language
 ---
-## Sprache festlegen
+## Sprache festlegen {#setting-your-language}
 
 Um die Sprache auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -25,7 +25,7 @@ Um die Sprache auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
 Die Sprache auf ihrem Gerät ist jetzt eingestellt und dauerhaft gespeichert.
 
-## Verfügbare Sprachen
+## Verfügbare Sprachen {#available-languages}
 
 Für folgende Sprachen sind Übersetzungen im VitalControl-Gerät hinterlegt:
 
@@ -46,7 +46,7 @@ Für folgende Sprachen sind Übersetzungen im VitalControl-Gerät hinterlegt:
 - Türkisch (TR)
 - Ukrainisch (UK)
 
-## Hauptmenü in den verfügbaren Sprachen
+## Hauptmenü in den verfügbaren Sprachen {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Deutsch" lang="de" %}}

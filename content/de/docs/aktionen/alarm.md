@@ -10,7 +10,7 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Alarm]
 translationKey: actions/alarm
 ---
-## Alarm
+## Alarm {#alert}
 
 Mit der Aktion `Alarm` setzen Sie Tiere auf die Alarmliste oder entfernen Sie von dieser. Die Alarmliste hilft Ihnen auffällige Tiere schneller und leichter wiederzufinden und erleichtert Ihnen somit die täglichen Routinekontrollen. Um die Aktion `Alarm` anzuwenden gehen Sie wie folgt vor:
 

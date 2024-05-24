@@ -10,7 +10,7 @@ tags: [Exportdateien, Temperaturwerte, Gewichtswerte, Tierbewertungen]
 slug: exportdateien
 translationKey: data-export/data-files
 ---
-## Allgemeines
+## Allgemeines {#general-information}
 
 Beim Export von Tierdaten, unabhängig ob auf den [USB-Stick][] oder auf einen [lokalen Datenträger am PC][], werden jeweils vier Exportdateien erzeugt:
 
@@ -22,24 +22,24 @@ Beim Export von Tierdaten, unabhängig ob auf den [USB-Stick][] oder auf einen [
 [USB-Stick]: ../usb-stick/
 [lokalen Datenträger am PC]: ../pc/
 
-[Tierdaten]: #tierdaten-animalscsv
-[Körpertemperaturdaten]: #k%C3%B6rpertemperaturdaten-temperaturescsv
-[Gewichtsdaten]: #gewichtsdaten-weightscsv
-[Tierbewertungen]: #tierbewertungen-ratingscsv
+[Tierdaten]: #animal-data-animalscsv
+[Körpertemperaturdaten]: #body-temperature-data-temperaturescsv
+[Gewichtsdaten]: #weight-data-weightscsv
+[Tierbewertungen]: #animal-ratings-ratingscsv
 
 Bei allen vier Dateien wird das [CSV](https://de.wikipedia.org/wiki/CSV_(Dateiformat))-Format verwendet, es handelt sich also um vom Menschen lesbare Textdateien. Die Dateien sind im Format `UTF-8` kodiert, als Spaltentrenner kommen Strichpunkt (`;`) zu Einsatz. Die einzelnen Datenfelder sind *nicht* in Hochkommata eingeschlossen. Jede Zeile der jeweiligen Tabelle repräsentiert ein Tier bzw. eine an einem Tier durchgeführte Messung oder Bewertung.
 
-## Weiterverarbeitung der Daten
+## Weiterverarbeitung der Daten {#further-processing-of-exported-data}
 
 Sie können jede dieser 4 Exportdateien in einem Tabellenkalkulationsprogramm ihrer Wahl öffnen (wie etwa [Microsoft Excel](https://products.office.com/excel) oder [OpenOffice Calc](https://www.openoffice.org/de/)) und dort eine erweiterte Auswertungen der Daten durchführen. Beispielhaft ist unten die Ansicht der Tabelle `animals.csv` in einem Tabellenkalkulationsprogramm wiedergegeben.
 
 ![Exportierte Tierdaten, geöffnet in Tabellenkalkulationsprogramm](../images/tiere.png "Tabellenkalkulationsprogramm mit Tierdaten")
 
-## Beschreibung der Datendateien
+## Beschreibung der Datendateien {#description-of-data-files}
 
 In den folgenden vier Abschnitten sind die einzelnen Datendateien jeweils detailliert beschrieben:
 
-### Tierdaten (`animals.csv`)
+### Tierdaten (`animals.csv`) {#animal-data-animalscsv}
 
 - **Dateiname:** `animals.csv`
 - **Beschreibung:** Allgemeine Tierdaten
@@ -73,7 +73,7 @@ Ggf. können Sie auch die bereit gestellte Beispieldatei [animals.csv][] herunte
 
 [animals.csv]: /data-export/animals.csv
 
-### Körpertemperaturdaten (`temperatures.csv`)
+### Körpertemperaturdaten (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Dateiname:** `temperatures.csv`
 - **Beschreibung:** Körpertemperaturen, erhalten durch die Fiebermessung bei Tieren
@@ -105,7 +105,7 @@ Ggf. können Sie auch die bereit gestellte Beispieldatei [temperatures.csv][] he
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Gewichtsdaten (`weights.csv`)
+### Gewichtsdaten (`weights.csv`) {#weight-data-weightscsv}
 
 - **Dateiname:** `weights.csv`
 - **Beschreibung:** Gewichtswerte, erhalten durch die Wägung von Tieren
@@ -137,7 +137,7 @@ Ggf. können Sie auch die bereit gestellte Beispieldatei [weights.csv][] herunte
 
 [weights.csv]: /data-export/weights.csv
 
-### Tierbewertungen (`ratings.csv`)
+### Tierbewertungen (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Dateiname:** `ratings.csv`
 - **Beschreibung:** Tierbewertungen, erhalten durch visuelle Inspektion von Tieren

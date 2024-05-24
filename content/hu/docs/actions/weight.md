@@ -11,7 +11,7 @@ tags: [Actions, weight]
 translationKey: actions/weight
 ---
 
-## Súly rögzítése
+## Súly rögzítése {#record-weight}
 Használja a &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weighing` műveletet, hogy egyedileg mentse állata súlyát. Ehhez mérje meg állatai súlyát vagy becsülje meg azt, és adja meg ezt az értéket a VitalControl készülékben. Ez lehetővé teszi, hogy ellenőrizze állatai súlyfejlődését és egyedileg értékelje őket.
 
 {{% alert title="Tipp" %}}

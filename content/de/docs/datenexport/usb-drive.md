@@ -11,7 +11,7 @@ translationKey: data-export/usb-drive
 ---
 {{% usb-drive/de "Um mit ihrem Gerät einen Datenexport auf USB-Stick durchzuführen," %}}
 
-## Datenexport durchführen
+## Datenexport durchführen {#perform-data-export}	
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
 

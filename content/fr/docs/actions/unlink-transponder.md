@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètre d'action](../setting/).
 {{% /alert %}}
 
-## Détacher le transpondeur
+## Détacher le transpondeur {#unlink-transponder}
 
 Avec cette action, vous pouvez détacher un transpondeur qui a déjà été assigné à un animal de cet animal.
 

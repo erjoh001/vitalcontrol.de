@@ -11,7 +11,7 @@ tags: [Acties, diergegevens, bewerken]
 translationKey: actions/edit
 ---
 
-## Veranderen
+## Veranderen {#edit-animal-data}
 
 De actie <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Veranderen` stelt u in staat om de diergegevens van het geselecteerde dier direct te wijzigen. Deze functie maakt het gemakkelijker om de diergegevens te corrigeren als bijvoorbeeld tijdens de dierinspectie blijkt dat het geslacht verkeerd is opgeslagen. U kunt de volgende gegevens wijzigen:
 

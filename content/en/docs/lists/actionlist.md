@@ -11,7 +11,7 @@ categories: [Lists]
 tags: [Lists, Action]
 translationKey: lists/action
 ---
-## Action list
+## Action list {#action-list}
 
 Within the action list you can see the animals for which no action has been taken for six hours. The following setting options are also available:
 
@@ -28,7 +28,7 @@ Within the action list you can see the animals for which no action has been take
 Some actions are to be carried out in the same way as in the [alarm list](../alarm). These are not explained here. Carry out the preliminary steps and use the link of the respective action to get to the instructions.
 {{% /alert %}}
 
-### Preliminary Steps
+### Preliminary Steps {#preliminary-steps}
 
 1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" />  `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
@@ -38,7 +38,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
    ![VitalControl Lists Action list](../images/firststeps3.png "Preliminary Steps")
 
-### Weigh animals
+### Weigh animals {#weigh-animals}
 
 1. Complete the preliminary steps.
 
@@ -46,11 +46,11 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
 
-4. The [weigh animals](..) menu will open automatically.
+4. The [weigh animals](../../actions/record-weight/) menu will open automatically.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Weigh animals")
 
-### Chain of action
+### Chain of action {#chain-of-action}
 
 1. Complete the preliminary steps.
 
@@ -62,7 +62,7 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
    ![VitalControl Lists Action list](../images/chainofaction.png "Chain of action")
 
-### Link transponder
+### Link transponder {#link-transponder}
 
 This function is used to add a transponder to the data record of animals that have not been assigned a transponder yet.
 
@@ -76,7 +76,7 @@ This function is used to add a transponder to the data record of animals that ha
 
    ![VitalControl Lists Action list](../images/linktransponder.png "Link transponder")
 
-### Hide after action
+### Hide after action {#hide-after-action}
 
 If this function is activated, the animals for which an action has been performed will be hidden from the action list. If this function is deactivated, animals worked off will remain visible in the list.
 

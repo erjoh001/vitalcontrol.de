@@ -10,8 +10,8 @@ categories: [Seaded]
 tags: [Seaded, Keel]
 translationKey: settings/language
 ---
-## Keele seadistamine
-
+## Keele seadistamine {#setting-your-language}
+ 
 Oma VitalControl seadme keele seadistamiseks toimi järgnevalt:
 
 1. `Vali` peamenüüst <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` oma VitalControl seadmel ja vajuta `OK`.
@@ -24,7 +24,7 @@ Oma VitalControl seadme keele seadistamiseks toimi järgnevalt:
 
 Sinu VitalControl seadme keel on nüüd seadistatud ja püsivalt salvestatud.
 
-## Saadaolevad keeled
+## Saadaolevad keeled {#available-languages}
 
 VitalControl tarkvara sisaldab tõlkeid järgmistele keeltele:
 
@@ -45,7 +45,7 @@ VitalControl tarkvara sisaldab tõlkeid järgmistele keeltele:
 - Türgi (TR)
 - Ukraina (UK)
 
-## Põhimenüü kõigis saadaolevates keeltes
+## Põhimenüü kõigis saadaolevates keeltes {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Inglise" lang="en" %}}

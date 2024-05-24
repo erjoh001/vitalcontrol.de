@@ -10,8 +10,8 @@ categories: [Akce]
 tags: [Akce, Historie zvířat]
 translationKey: actions/animalshistory
 ---
-
-## Historie zvířat
+ 
+## Historie zvířat {#animal-history}
 
 Historie zvířat vám poskytuje přehled o dosud zaznamenaných datech a vývoji vybraného zvířete. Můžete si volně vybrat zobrazované informace. Můžete si také vybrat, zda má být historie zobrazena jako tabulka nebo jako diagram. Historie zvířat vám pomáhá zjistit, zda a kdy byla tato zvířata naposledy nápadná. Také pomáhá vytvořit transparentnost, pokud kontrolu zvířat provádí více lidí.
 

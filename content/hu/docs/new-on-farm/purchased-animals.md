@@ -11,7 +11,7 @@ categories: [Új a farmon]
 tags: [Új a farmon]
 translationKey: new-on-farm/new-on-farm
 ---
-## Vásárolt állatok
+## Vásárolt állatok {#purchased-animals}
 
 Ebben a listában megtalálja az összes állatot, amelyet tömeges rögzítés útján hozott létre. Ezt a listát exportálhatja, és így közvetlenül regisztrálhatja a kiegészítéseket a DSP-Herde állománykezelő programban és a HI-Tier-ben. Alternatív megoldásként törölheti az összes vásárlási értesítést.
 
@@ -31,7 +31,7 @@ Az adatok exportálásához szüksége van a mellékelt UBS stickre. Csatlakozta
 
 ![VitalControl: List of purchased animals, csv export](../images/purchasedanimals.png "Purchased animals, csv export ")
 
-## Opciók: Minden értesítés törlése exportálás után
+## Opciók: Minden értesítés törlése exportálás után {#options-delete-all-notices-after-export}
 
 Ezzel az opcióval beállíthatja, hogy a `Vásárolt állatok` listában lévő összes üzenet törlődjön-e a CSV fájl exportálása után. Csak akkor használja ezt az opciót, ha biztos benne, hogy már nincs szüksége az üzenetekre!
 
@@ -43,7 +43,7 @@ Ezzel az opcióval beállíthatja, hogy a `Vásárolt állatok` listában lévő
 
     ![VitalControl: List of purchased animals, csv export](../images/delete-all.png "Minden értesítés törlése exportálás után")    
 
-## Közvetlen funkcióhívások
+## Közvetlen funkcióhívások {#direct-function-calls}
 
 Az export fájl létrehozása mellett a következő lehetőségek állnak rendelkezésre:
 
@@ -57,7 +57,7 @@ Az export fájl létrehozása mellett a következő lehetőségek állnak rendel
 Mindig először nyissa meg a `vásárolt állatok` listát a fent leírtak szerint.
 {{% /alert %}}
 
-### Transzponder leválasztása
+### Transzponder leválasztása {#unlink-transponder}
 
 Ezzel a funkcióval eltávolíthatja a transzpondert egy állatról.
 
@@ -69,7 +69,7 @@ Ezzel a funkcióval eltávolíthatja a transzpondert egy állatról.
 
     ![VitalControl: List of purchased animals, csv export](../images/unlink-transponder.png "Vásárolt állatok, transzponder leválasztása")
 
-### Minden vásárlási értesítés törlése
+### Minden vásárlási értesítés törlése {#clear-all-purchase-notices}
 
 Ezzel a funkcióval törölheti az összes állatot a `Vásárolt állatok` listából anélkül, hogy először export fájlt kellene létrehoznia.
 
@@ -81,7 +81,7 @@ Ezzel a funkcióval törölheti az összes állatot a `Vásárolt állatok` list
 
 ![VitalControl: List of purchased animals, clear purchase notices](../images/clear.png "Clear all purchase notices ")
 
-### Állat + vásárlási értesítés törlése
+### Állat + vásárlási értesítés törlése {#delete-animal--purchase-notice}
 
 Az állat és a hozzá tartozó vásárlási értesítés törléséhez kövesse az alábbi lépéseket:
 
@@ -95,7 +95,7 @@ Az állat és a hozzá tartozó vásárlási értesítés törléséhez kövesse
 
 ![VitalControl: List of purchased animals, dele animal + notice](../images/delete.png "Delete animal + notice")
 
-### Vásárlási értesítés törlése
+### Vásárlási értesítés törlése {#clear-notice-of-purchase}
 
 Az állat vásárlási értesítésének törléséhez a listából kövesse az alábbi lépéseket:
 
@@ -109,7 +109,7 @@ Az állat vásárlási értesítésének törléséhez a listából kövesse az 
 
 ![VitalControl: List of purchased animals, clear notice of purchase](../images/clearnotice.png "Clear notice of purchase")
 
-### Vásárolt állat adatainak szerkesztése
+### Vásárolt állat adatainak szerkesztése {#edit-data-of-purchased-animal}
 
 Az állat adatainak szerkesztéséhez a vásárlási listában kövesse az alábbi lépéseket:
 

@@ -11,7 +11,7 @@ tags: [Actions, Alarm]
 translationKey: actions/alarm
 ---
 
-## Upozornění
+## Upozornění {#alert}
 
 Pomocí akce `Alarm` můžete přidávat zvířata na seznam alarmů nebo je z něj odstraňovat. Seznam alarmů vám pomůže rychleji a snadněji najít nápadná zvířata, což usnadní vaše každodenní kontroly. Pro použití akce `Alarm` postupujte následovně:
 

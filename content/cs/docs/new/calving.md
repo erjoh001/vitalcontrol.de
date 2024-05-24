@@ -11,7 +11,7 @@ categories: [Telení]
 tags: [Telení]
 translationKey: new/calving
 ---
-## Registrace telení
+## Registrace telení {#register-a-calving}
 
 Pro registraci telení postupujte následovně:
 

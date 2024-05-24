@@ -11,13 +11,13 @@ tags: [Szárítás]
 translationKey: actions/dry-cows
 ---
 
-## Szárítás
+## Szárítás {#dry-off}
 
 {{% alert title="Tipp" %}}
 A tehén kezdeti állapotától függően vagy leszáríthatja az állatot és hozzáadhatja a szárító listához, vagy megjelölheti az állatot friss fejősként, és így hozzáadhatja a friss fejős listához. A funkciók közötti különbséget egy plusz vagy mínusz szimbólum jelzi.
 {{% /alert %}}
 
-### Tehén leszárítása
+### Tehén leszárítása {#dry-off-a-cow}
 
 1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` menüpontot és nyomja meg az `OK` gombot.
 
@@ -37,7 +37,7 @@ A tehén kezdeti állapotától függően vagy leszáríthatja az állatot és h
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Megjelölés fejősként
+### Megjelölés fejősként {#mark-as-lactated}
 
 1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` menüpontot és nyomja meg az `OK` gombot.
 

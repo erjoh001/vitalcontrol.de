@@ -11,18 +11,18 @@ categories: [Listat]
 tags: [Listat, On Watch]
 translationKey: lists/on-watch
 ---
-## Tarkkailulistalla
+## Tarkkailulistalla {#on-watch-list}
 
 Tarkkailulistalta löydät kaikki eläimet, jotka olet manuaalisesti lisännyt listaan. Lista auttaa sinua pitämään yleiskatsauksen eläimistä, jotka olet arvioinut huomionarvoisiksi. Lisäksi voit tehdä seuraavat toimenpiteet kullekin listalla olevalle eläimelle:
 
-- [Täysi toimintovalikko](../alarm/#täydellinen-toimintovalikko)
-- [Tietoa eläimistä](../alarm/#tieto-eläimistä)
-- [Mittaa lämpötila](../alarm/#mittaa-lämpötila)
-- [Arvioi eläin](../alarm/#arvioi-eläin)
-- [Poista eläin tarkkailulistalta](#poista-eläin-tarkkailulistalta)
-- [Vaihda hälytysken tila](#vaihda-hälytysken-tila)
-- [Etsi eläin](../alarm/#etsi-eläin)
-- [Aseta suodatin](../alarm/#aseta-suodatin)
+- [Täysi toimintovalikko](../alarm/#full-action-menu)
+- [Tietoa eläimistä](../alarm/#animal-data)
+- [Mittaa lämpötila](../alarm/#take-temperature)
+- [Arvioi eläin](../alarm/#rate-animal)
+- [Poista eläin tarkkailulistalta](#remove-from-watch-list)
+- [Vaihda hälytysken tila](#toggle-alarm-status)
+- [Etsi eläin](../alarm/#search-animal)
+- [Aseta suodatin](../alarm/#set-filter)
 
 {{% alert title="Vihje" %}}
 Jotkin toiminnot suoritetaan samalla tavalla kuin [Hälytyslistassa](../alarm). Niitä ei selitetä tässä. Suorita alustavat vaiheet ja käytä kyseisen toiminnon linkkiä päästäksesi ohjeisiin.
@@ -40,7 +40,7 @@ Hälytyslista on järjestetty seuraavasti:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Kehon lämpötila" title="Kehon lämpötila" /> | Viimeksi kirjattu kuumeen mittaus näkyy symbolin alla liikennevalojärjestelmän värien mukaisesti
 | &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Näytä eläin hälytyksessä" title="Eläin hälytyksessä" /> | Ympyrämerkki symbolin alla osoittaa, että eläin on hälytyslistalla
 
-### Alustavat vaiheet
+### Alustavat vaiheet {#preliminary-steps}
 
 1. Valitse päävalikosta <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Listat` -valikko VitalControl-laitteessasi ja paina `OK`-nappia.
 
@@ -50,7 +50,7 @@ Hälytyslista on järjestetty seuraavasti:
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Alustavat vaiheet")
 
-### Poista eläin tarkkailulistalta
+### Poista eläin tarkkailulistalta {#remove-from-watch-list}
 
 1. Suorita alustavat vaiheet.
 
@@ -62,7 +62,7 @@ Hälytyslista on järjestetty seuraavasti:
 
    ![VitalControl Lists On watch list](../images/remove.png "Poista eläin tarkkailulistalta")
 
-### Vaihda hälytysken tila
+### Vaihda hälytysken tila {#toggle-alarm-status}
 
 1. Suorita alustavat vaiheet.
 

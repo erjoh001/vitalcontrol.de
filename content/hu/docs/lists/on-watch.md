@@ -11,7 +11,7 @@ categories: [Lists]
 tags: [Lists, megfigyelés alatt]
 translationKey: lists/on-watch
 ---
-## Megfigyelési lista
+## Megfigyelési lista {#on-watch-list}
 
 A megfigyelési listán megtalálja az összes állatot, amelyet manuálisan hozzáadott a listához. A lista segít áttekinteni azokat az állatokat, amelyeket feltűnőnek értékelt. Továbbá, minden állat esetében a listán a következőket teheti:
 
@@ -40,7 +40,7 @@ A riasztási lista a következőképpen van felépítve:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Testhőmérséklet" title="Testhőmérséklet" /> | Az utolsó rögzített lázmérés a szimbólum alatt látható a közlekedési lámpa rendszer színeivel
 | &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Állat riasztáson" title="Állat riasztáson" /> | Egy kör jelölés a szimbólum alatt jelzi, hogy az állat a riasztási listán van
 
-### Előzetes lépések
+### Előzetes lépések {#preliminary-steps}
 
 1. Válassza ki a <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Listák` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
 
@@ -50,7 +50,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Előzetes lépések")
 
-### Eltávolítás a megfigyelési listáról
+### Eltávolítás a megfigyelési listáról {#remove-from-watch-list}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -62,7 +62,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists On watch list](../images/remove.png "Eltávolítás a megfigyelési listáról")
 
-### Riasztási állapot váltása
+### Riasztási állapot váltása {#toggle-alarm-status}
 
 1. Végezze el az előzetes lépéseket.
 

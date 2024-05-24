@@ -11,19 +11,19 @@ Kategorien: [Herde]
 Tags: [Herde, Temperatur, Gewicht, Bewertung, Tierdaten]
 translationKey: herd
 ---
-## Herde
+## Herde {#herd}
 
 Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzelne Tiere suchen und sich wichtige Informationen anzeigen lassen. Sie haben dabei folgende Möglichkeiten:
 
-- [Tierdaten](#tierdaten-anzeigen-lassen) anzeigen lassen
-- [Temperaturdaten](#temperatur-anzeigen-lassen) anzeigen lassen
-- [Bewertungsdaten](#bewertung-anzeigen-lassen) anzeigen lassen
-- [Gewichtsdaten](#gewicht-anzeigen-lassen) anzeigen lassen
-- [Tier suchen](#tier-suchen)
+- [Tierdaten](#view-animal-data) anzeigen lassen
+- [Temperaturdaten](#display-temperature) anzeigen lassen
+- [Bewertungsdaten](#view-rating) anzeigen lassen
+- [Gewichtsdaten](#display-weight) anzeigen lassen
+- [Tier suchen](#search-animal)
 - [Filter](../filter/#tierfilter-anwenden) setzen
-- [Aktionen](#aktionsmen%C3%BC-aufrufen) aufrufen
+- [Aktionen](#set-filter) aufrufen
 
-### Vorbereitende Schritte
+### Vorbereitende Schritte {#preparatory-steps}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herde" title="Hauptmenüpunkt Herde" /> `Herde` und drücken Sie die Taste `OK`.
 
@@ -31,9 +31,9 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 
     ![VitalControl: Menüfolge Herde](bilder/herde.png "Herde")
 
-### Tierdaten anzeigen lassen
+### Tierdaten anzeigen lassen {#view-animal-data}
 
-1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
+1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tierdaten: Geschlecht + Typ` oder `Tierdaten: № Ohrmarke` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus. Die beiden Auswahlmöglichkeiten unterscheiden sich in der Darstellung der Informationsleiste. 
 
@@ -47,9 +47,9 @@ Innerhalb des Menüpunktes Herde können Sie Ihre gesamte Herde einsehen, einzel
 Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie sich z.B. das Gewicht anzeigen lassen müssen Sie das Anzeigen der Tierdaten erneut einstellen.
 {{% /alert %}}
 
-### Temperatur anzeigen lassen
+### Temperatur anzeigen lassen {#display-temperature}
 
-1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
+1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Temperatur` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
@@ -59,9 +59,9 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/temperatur.png "Temperatur anzeigen lassen")
 
-### Bewertung anzeigen lassen
+### Bewertung anzeigen lassen {#view-rating}
 
-1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
+1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Bewertung` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
@@ -71,9 +71,9 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/bewertung.png "Bewertung anzeigen lassen")
 
-### Gewicht anzeigen lassen
+### Gewicht anzeigen lassen {#display-weight}
 
-1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
+1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen, in dem bestimmen können, welche Tierdaten in der Herdenliste angezeigt werden. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Gewicht` hervorzuheben und wählen sie diese Ansicht durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
@@ -83,9 +83,9 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/gewicht.png "Gewicht anzeigen lassen")
 
-### Tier suchen
+### Tier suchen {#search-animal}
 
-1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
+1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Tier suchen` hervorzuheben und wählen sie die Suchfunktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
@@ -93,9 +93,9 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/tiersuchen.png "Tier suchen")
 
-### Filter setzen
+### Filter setzen {#set-filter}
 
-1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
+1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
 2. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup mit verschiedenen Optionen aufzurufen. Nutzen Sie die Pfeiltasten △ ▽ um die Zeile `Filter setzen` hervorzuheben und wählen sie die Filterfunktion durch Drücken der zentralen Taste `OK` oder der `F3` Taste `OK` aus.
 
@@ -103,11 +103,11 @@ Die Tierdaten werden Ihnen Standardmäßig als erstes angezeigt. Erst wenn Sie s
 
     ![VitalControl: Menüfolge Herde](bilder/filter.png "Set filter")
 
-### Aktionsmenü aufrufen
+### Aktionsmenü aufrufen {#call-action-menu}
 
 Sie haben jederzeit die Möglichkeit das Aktionsmenü für ein Tier aufzurufen.
 
-1. Führen Sie die [vorbereitenden Schritte](#vorbereitende-schritte) durch.
+1. Führen Sie die [vorbereitenden Schritte](#call-action-menu) durch.
 
 2. Wählen Sie ein Tier aus der Liste mit den Pfeiltasten △ ▽ aus und bestätigen Sie mit `OK`.
 

@@ -8,7 +8,7 @@ description: >
  Leveranciersinformatie oproepen
 translationKey: device/info/about
 ---
-## Menu "Over" oproepen
+## Menu "Over" oproepen {#call-up-menu-about}
 
 Om de hardware-informatie van uw apparaat op te halen, ga als volgt te werk:
 

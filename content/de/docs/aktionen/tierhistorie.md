@@ -10,7 +10,7 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Tierhistorie]
 translationKey: actions/animalshistory
 ---
-## Tierhistorie
+## Tierhistorie {#animal-history}
 
 Die Tierhistorie gibt Ihnen einen Überblick über die bisher erfassten Daten und die Entwicklung des ausgewählten Tieres. Die angezeigte Information können Sie frei wählen. Auch können Sie auswählen ob Ihnen die Historie als Tabelle oder als Diagramm dargestellt werden soll. Die Tierhistorie hilft Ihnen besonders bei auffälligen Tieren einzusehen ob und wann diese das letzte Mal auffällig waren. Auch hilft Sie Transparenz zu schaffen sollten mehrere Personen die Tierkontrolle durchführen.
 

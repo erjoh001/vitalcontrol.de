@@ -15,7 +15,7 @@ Tato funkce je zobrazena pouze pro krávy, nikoli pro telata nebo jehňata.
 Pokud tuto funkci nepotřebujete, můžete ji deaktivovat v menu [nastavení akcí](../settings/).
 {{% /alert %}}
 
-## Registrace telení
+## Registrace telení {#register-a-calving}
 
 Jakmile vstoupíte do menu akcí, vyberte položku menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Telení"  alt="Telení"/> `Telení` a potvrďte `OK`. Pokračujte podle pokynů v návodu [Registrace telení](/cs/docs/new/calving/).
 

@@ -9,7 +9,7 @@ description: >
   Zusammenstellung der aktuellen Firmware-Versionen für das VitalControl Gerät.
 ---
 
-## Firmware-Versionen ihres Geräts ermitteln
+## Firmware-Versionen ihres Geräts ermitteln {#determine-firmware-versions-installed-on-your-device}
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Gerät`.
 
@@ -17,7 +17,7 @@ description: >
 
 ![VitalControl: Firmware-Versionen](../images/firmware-versions.png "Anzeige Firmwareversionen")
 
-## Aktuelle Firmware-Versionen:
+## Aktuelle Firmware-Versionen: {#latest-firmware-versions}
 
 Die folgende Tabelle listet die aktuellen Firmware-Versionen auf:
 

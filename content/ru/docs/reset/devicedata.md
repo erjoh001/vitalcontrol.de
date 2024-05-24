@@ -8,7 +8,7 @@ description: >
   Узнайте, как сбросить все настройки устройства VitalControl.
 categories: [Сброс]
 ---
-## Сброс всех данных устройства
+## Сброс всех данных устройства {#resetting-all-device-data}
 
 1. Откройте пункт меню <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Устройство` на главном экране вашего устройства VitalControl.
 

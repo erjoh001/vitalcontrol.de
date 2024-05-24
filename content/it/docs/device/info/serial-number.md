@@ -7,7 +7,7 @@ draft: false
 description: >
  Per recuperare il numero di serie del tuo dispositivo clicca qui
 ---
-## Recupera il numero di serie
+## Recupera il numero di serie {#get-serial-number}
 
 Per recuperare il numero di serie del tuo dispositivo, procedi come segue:
 

@@ -10,7 +10,7 @@ Vergewissern Sie sie zunächst, ob für ihr Gerät eine [neuere Firmware-Version
 
 {{% usb-drive/de "Um das Update auf Ihr Gerät aufzuspielen" %}}
 
-## Aktualisierung vorbereiten
+## Aktualisierung vorbereiten {#preparation-download-latest-firmware}
 
 1. Erstellen Sie mithilfe eines Computers im Wurzelverzeichnis des mitgelieferten Dual USB-Sticks ein neues Verzeichnis mit dem Namen `update`.
 
@@ -28,7 +28,7 @@ Bei der Datensicherung handelt es sich um eine empfohlene Vorsichtsmaßnahme. Al
 
 [Datensicherung]: {{< relref "../backup/backup/" >}}
 
-## Aktualisierung durchführen
+## Aktualisierung durchführen {#perform-firmware-update}
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü `Gerät`.
 

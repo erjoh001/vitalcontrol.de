@@ -14,7 +14,7 @@ translationKey: filter
 Der Filter hilft Ihnen innerhalb der Menüpunkte `Herde`, `Listen` und `Auswertungen` des VitalControl-Gerätes eine Selektion mittels Filterkriterien durchzuführen. Sobald Sie einen Filter anwenden, erscheinen im oberen Bildschirmrand Symbole für die verschiedenen Filterkriterien. Diese Symbole dienen Ihnen zur Orientierung ob und welche Filterkriterien aktiviert sind. Setzen Sie z.B. den Filter `Geschlecht` auf männlich, verwendet das Gerät nur noch die männlichen Tiere. Aktivieren Sie z. B. zusätzlich den Filter `Beobachtung` verwendet das Gerät nur noch männliche Tiere die auf der Beobachtungsliste stehen.
 {{% /alert %}}
 
-### Tierfilter anlegen
+### Tierfilter anlegen {#applying-filters}
 
 Um einen Tierfilter für die anzulegen gehen Sie wie folgt vor:
 

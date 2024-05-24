@@ -11,7 +11,7 @@ categories: [Registro-masivo]
 tags: [Registro-masivo]
 translationKey: new/bulk-recording
 ---
-## Registro granel
+## Registro granel {#bulk-recording}
 
 Con la ayuda del registro masivo, puedes capturar un gran número de animales en poco tiempo y guardarlos en tu dispositivo. Utiliza el escáner de códigos de barras para escanear los códigos de las etiquetas de oreja y la fecha de nacimiento en los pasaportes del ganado. El animal se guarda automáticamente y puedes escanear el siguiente pasaporte inmediatamente. Para realizar el registro masivo de animales, procede de la siguiente manera:
 
@@ -37,7 +37,7 @@ Tienes más opciones de configuración dentro del elemento del menú `Registro g
 Pueden aparecer mensajes de error durante el proceso de escaneo. En este caso, el escáner de código de barras emite un sonido y no es posible continuar escaneando. Reconoce el mensaje de error correspondiente en la pantalla de VitalControl y continúa escaneando.
 {{% /alert %}}
 
-### Fecha de nacimiento obligatoria
+### Fecha de nacimiento obligatoria {#birth-date-mandatory}
 
 Con esta opción de configuración puedes determinar si se debe especificar la fecha de nacimiento al crear los animales. Si desactivas esta opción, solo tienes que escanear el código de barras para guardar un animal. ¡Para estos animales, sin embargo, se almacena la fecha actual como fecha de nacimiento! Esta función está activada por defecto. Para desactivarla, haz lo siguiente:
 
@@ -51,7 +51,7 @@ Con esta opción de configuración puedes determinar si se debe especificar la f
 
 ![VitalControl: Menú Nuevo Fecha de nacimiento obligatoria](../images/birthdate.png "Fecha de nacimiento obligatoria")
 
-### Valores por defecto
+### Valores por defecto {#default-values}
 
 Dentro del menú de configuración `Valores por defecto`, estableces estándares que se aplican a cada animal que creas. El proceso de creación con el escáner de código de barras permanece sin cambios como se describió anteriormente. Tienes la opción de configurar el tipo de ganado, género, raza y ubicación. Para configurar los `Valores por defecto`, procede de la siguiente manera:
 
@@ -64,8 +64,8 @@ Dentro del menú de configuración `Valores por defecto`, estableces estándares
 4. Guarda las configuraciones y usa la tecla `F1`&nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" /> para volver al ítem del menú <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Registro masivo" />&nbsp; `Registro granel`.
 
    ![VitalControl: Menú Nuevo Valores por defecto](../images/defaultvalues.png "Valores por defecto")
-
-### Valores registrados
+ 
+### Valores registrados {#recorded-values}
 
 Dentro del menú de configuración `Valores registrados`, puedes especificar qué valores deben capturarse además del número de etiqueta de la oreja y la fecha de nacimiento. Puedes elegir entre `Raza`, `Sexo`, `Desarrollo de peso`, `Peso actual`, `Peso al nacer` y `Tipo de ganado`. Tan pronto como configures al menos un valor, el proceso cambia durante el escaneo. Primero escanea el número de etiqueta de la oreja y la fecha de nacimiento. Luego usa las teclas de dirección △ ▽ para seleccionar los valores a configurar y establece los valores. Luego guarda tus entradas con la tecla `F3`. ¡Solo entonces se crea el animal! Para configurar los valores a registrar, procede de la siguiente manera:
 

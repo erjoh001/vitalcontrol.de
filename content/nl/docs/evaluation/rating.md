@@ -14,7 +14,7 @@ translationKey: evaluation/rating
 In de standaardinstelling zijn alle dieren die op de VitalControl zijn opgeslagen opgenomen in de evaluatie. Door gebruik te maken van een [filter](../../filter/) kunt u de evaluatie beperken tot een subset van de dieren op uw apparaat, bijvoorbeeld alleen tot mannelijke dieren of tot dieren tot een bepaalde maximale leeftijd.
 {{% /alert %}}
 
-## Beoordeel beoordeling
+## Beoordeel beoordeling {#evaluate-rating}
 
 In deze evaluatie kunt u de volgende informatie zien als een cirkeldiagram:
 - Beoordeling van de conditie van de laatste drie dagen

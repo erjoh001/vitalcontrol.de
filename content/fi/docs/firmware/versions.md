@@ -8,7 +8,7 @@ description: >
  Laiteohjelmiston nykyiset versiot VitalControl-laitteelle.
 ---
 
-## Määritä laitteeseesi asennetut laiteohjelmistoversiot
+## Määritä laitteeseesi asennetut laiteohjelmistoversiot {#determine-firmware-versions-installed-on-your-device}
 
 1. Avaa valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` VitalControl-laitteesi päävalikosta.
 
@@ -16,7 +16,7 @@ description: >
 
 ![VitalControl: määritä laiteohjelmistoversiot](../images/firmware-versions.png "Näytä laiteohjelmistoversiot")
 
-## Viimeisimmät laiteohjelmistoversiot:
+## Viimeisimmät laiteohjelmistoversiot: {#latest-firmware-versions}
 
 Seuraava taulukko listaa nykyiset laiteohjelmistoversiot:
 

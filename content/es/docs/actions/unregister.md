@@ -14,7 +14,7 @@ translationKey: actions/unregister
 ¡Tan pronto como elimines el registro de datos del animal, este ya no estará disponible para fines de evaluación! Si das de baja a un animal, pero luego quieres, por ejemplo, evaluar nuevamente el desarrollo del animal, debes conservar el registro de datos del animal.
 {{% /alert %}}
 
-## Anular registro
+## Anular registro {#unregister}
 
 La acción `Anular registro` te permite Anular registro a un animal tan pronto como se traslade. Para Anular registro a un animal, procede de la siguiente manera:
 

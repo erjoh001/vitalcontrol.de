@@ -7,7 +7,7 @@ draft: false
 description: >
  Per accedere alle informazioni sull'hardware del tuo dispositivo clicca qui
 ---
-## Ottenere informazioni sull'hardware
+## Ottenere informazioni sull'hardware {#get-hardware-information}
 
 Per recuperare le informazioni sull'hardware del tuo dispositivo, procedi come segue:
 

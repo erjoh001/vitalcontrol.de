@@ -15,7 +15,7 @@ Deze functie wordt alleen weergegeven voor koeien, maar niet voor kalveren of la
 Als u deze functie niet nodig heeft, kunt u deze deactiveren in het menu [actie-instellingen](../setting/).
 {{% /alert %}}
 
-## Een kalving registreren
+## Een kalving registreren {#register-a-calving}
 
 Zodra u het actiemenu hebt betreden, selecteert u het menu-item <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Kalven"  alt="Kalven"/> `Kalven` en bevestig met `OK`. Ga verder zoals beschreven in de instructies [Registratie van een kalving](/nl/docs/new/calving/).
 

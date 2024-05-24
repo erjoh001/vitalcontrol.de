@@ -11,7 +11,7 @@ tags: [Akce, Hodnocení]
 translationKey: actions/animal-rating
 ---
 
-## Ohodnoťte svá zvířata
+## Ohodnoťte svá zvířata {#rate-your-animals}
 
 Při hodnocení zvířete dokumentujete stav jednotlivého zvířete. Stav je určen vizuálně a zaznamenán pomocí systému semaforu. V základním hodnocení je zaznamenán pouze obecný stav. V rozšířeném hodnocení zaznamenáváte obecný stav, příjem potravy, konzistenci výkalů a respirační onemocnění. Můžete buď změnit režim hodnocení přímo v akci <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Hodnocení` nebo jej můžete definovat v [nastavení](../../settings/data-acquisition/#mode-of-animal-rating).
 
@@ -36,7 +36,7 @@ Při hodnocení zvířete dokumentujete stav jednotlivého zvířete. Stav je ur
 Pokud neprovedete výběr pomocí šipek ◁ ▷, ale uložíte přímo pomocí klávesy `F3` nebo `OK`, VitalControl uloží neutrální hodnocení, které je reprezentováno šedou barvou.
 {{% /alert %}}
 
-### Základní hodnocení
+### Základní hodnocení {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Základní hodnocení:" text=true disabled=true />}}
@@ -48,7 +48,7 @@ Pokud neprovedete výběr pomocí šipek ◁ ▷, ale uložíte přímo pomocí 
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Rozšířené hodnocení
+### Rozšířené hodnocení {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Základní hodnocení:" text=true disabled=true />}}

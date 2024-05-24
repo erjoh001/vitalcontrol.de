@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, Età massima, età massima dei vitelli acquistati, Assegnazione ID animale]
 translationKey: settings/link-transponder
 ---
-## Imposta l'età massima dei vitelli acquistati
+## Imposta l'età massima dei vitelli acquistati {#set-maximum-age-of-purchased-calves}
 Per impostare l'`Età massima dei vitelli acquistati` sul tuo dispositivo, procedi come segue.
 
 1. Seleziona l'elemento del menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
@@ -22,7 +22,7 @@ Per impostare l'`Età massima dei vitelli acquistati` sul tuo dispositivo, proce
 
     ![VitalControl: impostazioni del menu collegamento transponder](../images/maximumage.png "Età massima dei vitelli acquistati")
 
-## Assegnazione ID animale
+## Assegnazione ID animale {#assignment-animal-id}
 
 Per impostare l'`Assegnazione ID animale` sul tuo dispositivo, procedi come segue.
 

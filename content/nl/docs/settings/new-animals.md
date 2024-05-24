@@ -11,8 +11,8 @@ categories: [settings]
 tags: [settings, Default values]
 translationKey: settings/new-animals
 ---
-## Standaard waardes
-### Opgenomen gewicht
+## Standaard waardes {#set-default-values}
+### Opgenomen gewicht {#set-recorded-weights}
 
 Hier definieert u welk gewicht wordt geregistreerd en opgeslagen bij het aanmaken van nieuwe dieren op uw boerderij. Volg de volgende stappen om het opgenomen gewicht op uw apparaat in te stellen.
 
@@ -30,7 +30,7 @@ Hier definieert u welk gewicht wordt geregistreerd en opgeslagen bij het aanmake
  Selecteer `geen` indien: de dieren automatisch op de achtergrond worden aangemaakt (via transponderscan), er geen weegschaal beschikbaar is op de boerderij en geen geschatte waarden gewenst zijn, de geboortegewichten onbekend zijn.
 {{% /alert %}}
 
-### Leeftijd nieuw kalf/lam
+### Leeftijd nieuw kalf/lam {#set-age-at-registration}
 {{% alert title="Hint" %}}
 Op basis van de hier ingevoerde leeftijd berekent het apparaat de geboortedatum die wordt voorgesteld voor een handmatig aangemaakt dier of die wordt gebruikt voor automatische creatie op de achtergrond (via transponderscan). Voor melkveebedrijven, voer de leeftijd in dagen in waarop pasgeboren kalveren worden geregistreerd in VitalControl. Voor opfokbedrijven, voer de gemiddelde leeftijd van de aangekochte kalveren hier in. Het toegestane bereik van waarden is van 0 tot 99 dagen.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Om de leeftijd bij aanmaak op uw apparaat in te stellen, gaat u als volgt te wer
 
     ![VitalControl: menu-instellingen Leeftijd bij registratie instellen](../images/ageatregistration.png "Leeftijd bij registratie instellen")
 
-### Geslacht
+### Geslacht {#set-sex}
 
 Hier bepaalt u welk geslacht wordt voorgesteld (handmatige aanmaak) of automatisch wordt overgenomen (aanmaak op de achtergrond). Om het geslacht te definiëren bij het registreren van een dier op uw apparaat, gaat u als volgt te werk.
 
@@ -65,7 +65,7 @@ Hier bepaalt u welk geslacht wordt voorgesteld (handmatige aanmaak) of automatis
 
     ![VitalControl: menu-instellingen Geslacht instellen](../images/setsex.png "Geslacht instellen")
 
-### Type van nutdier
+### Type van nutdier {#set-type-of-animal}
 
 Hier bepaalt u welk type dier wordt geregistreerd bij het aanmaken van nieuwe dieren op uw boerderij. Om het type dier te definiëren bij het aanmaken op uw apparaat, gaat u als volgt te werk:
 
@@ -81,7 +81,7 @@ Hier bepaalt u welk type dier wordt geregistreerd bij het aanmaken van nieuwe di
 
     ![VitalControl: menu instellingen type dier](../images/typeofanimal.png "type dier")
 
-### Ras instellen
+### Ras instellen {#set-breed}
 
 Hier definieer je welk ras van het vee wordt geregistreerd bij het aanmaken van nieuwe dieren op je boerderij. Om het ras te definiëren bij het aanmaken op je apparaat, ga je als volgt te werk:
 
@@ -97,7 +97,7 @@ Hier definieer je welk ras van het vee wordt geregistreerd bij het aanmaken van 
 
     ![VitalControl: menu instellingen type dier](../images/breed.png "type dier")
 
-### Verblijfplaats
+### Verblijfplaats {#set-whereabouts}
 
 Hier definieer je welke verblijfplaats wordt toegewezen aan de dieren bij het aanmaken van nieuwe boerderijdieren. Om de verblijfplaats van het boerderijdier te definiëren bij het aanmaken op je apparaat, ga je als volgt te werk:
 
@@ -115,7 +115,7 @@ Hier definieer je welke verblijfplaats wordt toegewezen aan de dieren bij het aa
 
 Sla de instellingen op en keer terug naar het hoofdmenu `Instellingen` door op de `F1`-toets te drukken &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.
 
-## Dieren automatisch registreren
+## Dieren automatisch registreren {#auto-registration}
 
 Hier definieer je het gedrag van het apparaat wanneer een nieuwe transponder, die nog niet bekend is bij het VitalControl-apparaat, wordt gescand. Voor dit geval kunnen drie verschillende gedragingen worden gedefinieerd.
 
@@ -135,7 +135,7 @@ Om het gedrag te definiëren wanneer het gebruikersdier automatisch op uw appara
 
 ![VitalControl: menu-instellingen automatische registratie](../images/autoregistration.png "automatische registratie")
 
-## Toevoegen Diernummer
+## Toevoegen Diernummer {#assignment-animal-id}
 
 Hier definieer je welk diernummer wordt voorgesteld (Afleiding van het transpondernummer) of gebruikt (opeenvolgend) bij het aanmaken van een nieuw dier op je boerderij.
 
@@ -165,7 +165,7 @@ Om de toewijzing van het diernummer te definiëren bij het aanmaken van het boer
 Alleen bij gebruik van de optie `opeenvolgend`: als u hebt ingesteld dat u aparte nummerreeksen gebruikt voor mannelijke en vrouwelijke dieren bij het toewijzen van het oormerknummer, wordt een volgend dier nummer opgeslagen voor elk van mannelijke, vrouwelijke en dieren van onbekend geslacht. Een symbool links van het dier nummer geeft aan waarvoor het volgende dier nummer wordt gebruikt: ofwel voor mannelijk ♀ of voor vrouwelijk ♂ of voor dieren van onbekend geslacht ♀♂?
 {{% /alert %}}
 
-### Cijfer van nieuw ID
+### Cijfer van nieuw ID {#digit-of-the-new-id}
 
 Hier definieert u welke lengte een stalnummer afgeleid van het transpondernummer heeft voor een nieuw dier op uw boerderij. De mogelijke waardebereik is van 2 tot 6 cijfers. Om de lengte van het nieuwe ID van het boerderijdier op uw apparaat in te stellen, gaat u als volgt te werk:
 
@@ -181,7 +181,7 @@ Hier definieert u welke lengte een stalnummer afgeleid van het transpondernummer
 
     ![VitalControl: menu-instellingen Cijfer van het nieuwe ID](../images/digitofnewid.png "Cijfer van het nieuwe ID")
 
-### Offset rechts
+### Offset rechts {#right-offset}
 
 Hier definieert u of er ook rekening wordt gehouden met een offset bij het afleiden van een stalnummer uit het transpondernummer. Zonder offset worden de laatste 2-6 cijfers van het transpondernummer gebruikt als stalnummer, met een offset van 1 wordt het meest rechtse cijfer weggelaten, met een offset van 2 de twee meest rechtse cijfers, enzovoort.
 
@@ -206,7 +206,7 @@ Om de offset rechts van het dier op uw apparaat in te stellen, gaat u als volgt 
 
 Sla de instellingen op en keer terug naar het hoofdmenu <img src="/icons/gear.svg" width="25" align="bottom" alt="Instellingen" /> `Instellingen` door op de `F1`-toets te drukken &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.
 
-## Toevoegen Oormerk
+## Toevoegen Oormerk {#assignment-ear-tag-number}
 
 Hier definieert u of er één of twee nummerreeksen worden gebruikt bij het toewijzen van het oormerknummer in het kader van de handmatige herregistratie van dieren. Om de toewijzing van het oormerknummer van het boerderijdier op uw apparaat te definiëren, gaat u als volgt te werk:
 

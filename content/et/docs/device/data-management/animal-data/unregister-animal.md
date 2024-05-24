@@ -10,7 +10,7 @@ Kategorien: [Animaldata]
 Tags: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
-## Looma registrist kustutamine
+## Looma registrist kustutamine {#unregister-animals}
 
 Eemaldage loomad oma VitalControlist, kes on kas ületanud vanusepiiri või kellele ei ole määratud transponderit. Toimige järgnevalt:
 

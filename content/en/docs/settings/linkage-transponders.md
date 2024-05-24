@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
 translationKey: settings/link-transponder
 ---
-## Set maximum age of purchased calves
+## Set maximum age of purchased calves {#set-maximum-age-of-purchased-calves}
 To set the `Purchased calves maximum age` on your device proceed as follows.
 
 1. Select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` in the main screen of your VitalControl device and press the `OK` button.
@@ -22,7 +22,7 @@ To set the `Purchased calves maximum age` on your device proceed as follows.
 
     ![VitalControl: menu settings link transponder](../images/maximumage.png "Purchased calves maximum age")
 
-## Assignment animal ID
+## Assignment animal ID {#assignment-animal-id}
 
 To set the `Assignment animal ID` on your device, proceed as follows.
 

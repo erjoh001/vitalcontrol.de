@@ -11,7 +11,7 @@ categories: [Enregistrement en masse]
 tags: [Enregistrement en masse]
 translationKey: new/bulk-recording
 ---
-## Enregistrement en masse
+## Enregistrement en masse {#bulk-recording}
 
 Grâce à l'enregistrement en masse, vous pouvez capturer un grand nombre d'animaux en peu de temps et les sauvegarder sur votre appareil. Utilisez le scanner de codes-barres pour scanner les codes-barres du numéro de boucle auriculaire et de la date de naissance sur les passeports du bétail. L'animal est enregistré automatiquement et vous pouvez scanner immédiatement le passeport suivant. Pour effectuer l'enregistrement en masse des animaux, procédez comme suit :
 
@@ -37,7 +37,7 @@ Vous avez d'autres options de réglage dans l'élément de menu `Accès en masse
 Des messages d'erreur peuvent apparaître pendant le processus de scan. Dans ce cas, le scanner de codes-barres émet un son et il n'est plus possible de continuer à scanner. Accusez réception du message d'erreur correspondant sur l'affichage VitalControl et continuez à scanner.
 {{% /alert %}}
 
-### Date de naissance obligatoire
+### Date de naissance obligatoire {#birth-date-mandatory}
 
 Avec cette option de réglage, vous pouvez déterminer si la date de naissance doit être spécifiée lors de la création des animaux. Si vous désactivez cette option, vous n'avez qu'à scanner le code-barres pour enregistrer un animal. Pour ces animaux, cependant, la date actuelle est alors enregistrée comme date de naissance ! Cette fonction est activée par défaut. Pour la désactiver, procédez comme suit :
 
@@ -51,7 +51,7 @@ Avec cette option de réglage, vous pouvez déterminer si la date de naissance d
 
 ![VitalControl : Menu Nouvelle Date de naissance obligatoire](../images/birthdate.png "Date de naissance obligatoire")
 
-### Valeurs par défaut
+### Valeurs par défaut {#default-values}
 
 Dans le menu des paramètres `Valeurs standard`, vous définissez les normes qui s'appliquent à chaque animal que vous créez. Le processus de création avec le scanner de codes-barres reste inchangé comme décrit ci-dessus. Vous avez la possibilité de définir le type de bétail, le sexe, la race et le lieu de détention. Pour régler les `Valeurs standard`, procédez comme suit :
 
@@ -65,7 +65,7 @@ Dans le menu des paramètres `Valeurs standard`, vous définissez les normes qui
 
    ![VitalControl : Menu Nouvelles Valeurs par défaut](../images/defaultvalues.png "Valeurs par défaut")
 
-### Valeurs enregistrées
+### Valeurs enregistrées {#recorded-values}
 
 Dans le menu des paramètres `Valeurs enregistrées`, vous pouvez spécifier quelles valeurs doivent être capturées en plus du numéro de boucle auriculaire et de la date de naissance. Vous pouvez choisir entre `Race`, `Sexe`, `Lieu de séjour`, `Poids actuel`, `Poids de naissance` et `Type d'animal`. Dès que vous réglez au moins une valeur, le processus change lors de la numérisation. Scannez d'abord le numéro de boucle auriculaire et la date de naissance. Ensuite, utilisez les touches directionnelles △ ▽ pour sélectionner les valeurs à régler et réglez les valeurs. Ensuite, sauvegardez vos entrées avec la touche `F3`. Ce n'est qu'ensuite que l'animal est créé ! Pour régler les valeurs à enregistrer, procédez comme suit :
 

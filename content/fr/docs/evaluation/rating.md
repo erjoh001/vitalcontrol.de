@@ -14,7 +14,7 @@ translationKey: evaluation/rating
 Dans le réglage par défaut, tous les animaux stockés sur le VitalControl sont inclus dans l'évaluation. En utilisant un [filtre](../../filter/) vous pouvez restreindre l'évaluation à un sous-ensemble des animaux sur votre appareil, par exemple uniquement aux animaux mâles ou aux animaux jusqu'à un certain âge maximum.
 {{% /alert %}}
 
-## Évaluer la notation
+## Évaluer la notation {#evaluate-rating}
 
 Dans cette évaluation, vous pouvez voir les informations suivantes sous forme de diagramme circulaire :
 - Évaluation de l'état des trois derniers jours

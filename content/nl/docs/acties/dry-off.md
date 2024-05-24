@@ -11,13 +11,13 @@ tags: [Droog zetten]
 translationKey: actions/dry-cows
 ---
 
-## Droog zetten
+## Droog zetten {#dry-off}
 
 {{% alert title="Hint" %}}
 Afhankelijk van de initiële status van de koe, kun je het dier droogzetten en toevoegen aan de drooglijst, of je kunt het dier markeren als een verse melker en zo toevoegen aan de lijst van verse melkers. Het onderscheid tussen de functies wordt duidelijk gemaakt door een plus- of minsymbool.
 {{% /alert %}}
 
-### Een koe droogzetten
+### Een koe droogzetten {#dry-off-a-cow}
 
 1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 
@@ -37,7 +37,7 @@ Afhankelijk van de initiële status van de koe, kun je het dier droogzetten en t
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Marker als gelacteerd
+### Marker als gelacteerd {#mark-as-lactated}
 
 1. Op het hoofdscherm van je VitalControl-apparaat, selecteer het menu-item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acties" /> `Acties` en druk op de `OK` knop.
 

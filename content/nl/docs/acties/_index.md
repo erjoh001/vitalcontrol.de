@@ -30,8 +30,8 @@ Afhankelijk van het type dier, kun je tot 16 verschillende acties uitvoeren voor
    <area shape="rect" coords="175,225,230,280" alt="Animal loss" title="Registreer een verlies van een dier&#10;Muisklik: open documentatie" href="/nl/docs/acties/animal-loss/">
    <area shape="rect" coords="3,280,60,337" alt="Dier verloren" title="Wijs een transponder toe aan een dier&#10;Muisklik: open documentatie" href="/nl/docs/acties/link-transponder/">
    <area shape="rect" coords="55,280,120,337" alt="Transponder afnemen" title="Verwijder de transponderkoppeling van een dier&#10;Muisklik: open documentatie" href="/nl/docs/acties/unlink-transponder/">
-   <area shape="rect" coords="120,280,175,337" alt="Link dier ID manueel" title="Wijs een nationaal dier-ID toe aan een dier dat geen nationaal dier-ID heeft&#10;Muisklik: open documentatie" href="/nl/docs/acties/koppel-dier-id/#link-dier-id">
-   <area shape="rect" coords="175,280,230,337" alt="Link dier ID with scan" title="Wijs een nationaal dier-ID toe aan een dier dat geen nationaal dier-ID heeft&#10;Muisklik: open documentatie" href="/nl/docs/acties/koppel-dier-id/#link-dier-id-aan-elektronische-oormerkscan">
+   <area shape="rect" coords="120,280,175,337" alt="Link dier ID manueel" title="Wijs een nationaal dier-ID toe aan een dier dat geen nationaal dier-ID heeft&#10;Muisklik: open documentatie" href="/nl/docs/acties/koppel-dier-id/#link-animal-id">
+   <area shape="rect" coords="175,280,230,337" alt="Link dier ID with scan" title="Wijs een nationaal dier-ID toe aan een dier dat geen nationaal dier-ID heeft&#10;Muisklik: open documentatie" href="/nl/docs/acties/koppel-dier-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 <area shape="rect" coords="100,340,140,375" alt="Instellingen" title="Roep de instellingen op&#10;Muisklik: naar de documentatie" href="/nl/docs/acties/setting/">
 

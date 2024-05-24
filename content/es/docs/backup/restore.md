@@ -17,7 +17,7 @@ En esta unidad flash USB, debe existir un directorio `backup`, que debe contener
 Dentro del directorio `backup` de su unidad flash USB, es posible que encuentre varios archivos de copia de seguridad con la extensión `.vcu`. El dispositivo VitalControl siempre restaura los datos de copia de seguridad del archivo llamado `backup.vcu`, que siempre es el archivo más reciente. Si desea restaurar datos de un archivo de copia de seguridad más antiguo (que contiene la fecha de la copia de seguridad en el nombre del archivo), debe renombrar este archivo de copia de seguridad más antiguo a `backup.vcu` antes de realizar la restauración de datos.
 {{% /alert %}}
 
-## Restauración de datos en el dispositivo VitalControl
+## Restauración de datos en el dispositivo VitalControl {#data-restoration-to-vitalcontrol-device}
 
 1. Abra el elemento de menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal del dispositivo VitalControl al que desea restaurar los datos.
 

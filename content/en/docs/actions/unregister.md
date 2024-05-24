@@ -14,7 +14,7 @@ translationKey: actions/unregister
 As soon as you delete the animal data record, it is no longer available for evaluation purposes! If you deregister an animal, but want for example evaluate the animal's development again afterwards, you must retain the animal data record!
 {{% /alert %}}
 
-## Unregister
+## Unregister {#unregister}
 
 The action `Unregister` allows you to deregister an animal as soon as it is moved out. To deregister an animal, proceed as follows:
 

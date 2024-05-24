@@ -11,8 +11,8 @@ categories: [Device]
 tags: [Device]
 translationKey: device/flashlight
 ---
-## Активиране и деактивиране на светлината
-
+## Активиране и деактивиране на светлината {#activate-and-deactivate-light}
+ 
 Тук можете да активирате или деактивирате светлината на вашето устройство VitalControl. Ако активирате светлината, тя ще свети постоянно.
 
 1. На главния екран на вашето устройство VitalControl изберете менюто <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Устройство` и натиснете бутона `OK`.

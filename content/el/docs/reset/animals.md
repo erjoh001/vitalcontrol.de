@@ -6,7 +6,7 @@ description: >
   Μάθετε πώς να διαγράφετε όλα τα ζώα και τα δεδομένα τους από τη συσκευή σας VitalControl.
 categories: [Reset]
 ---
-## Διαγραφή όλων των δεδομένων ζώων από τη συσκευή
+## Διαγραφή όλων των δεδομένων ζώων από τη συσκευή {#erasing-all-animal-data-from-device}
 
 1. Ανοίξτε το στοιχείο μενού <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Device` στην κύρια οθόνη της συσκευής σας VitalControl.
 

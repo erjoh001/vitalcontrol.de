@@ -8,7 +8,7 @@ description: >
   Μάθετε πώς να επαναφέρετε όλες τις ρυθμίσεις της συσκευής VitalControl.
 categories: [Επαναφορά]
 ---
-## Επαναφορά όλων των δεδομένων συσκευής
+## Επαναφορά όλων των δεδομένων συσκευής {#resetting-all-device-data}
 
 1. Ανοίξτε το στοιχείο μενού <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Συσκευή` στην κύρια οθόνη της συσκευής VitalControl.
 

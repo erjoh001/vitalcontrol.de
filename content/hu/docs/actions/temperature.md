@@ -11,8 +11,8 @@ tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 
-## Lázmérés
-
+## Lázmérés {#measure-fever}
+ 
 Használja a hőmérséklet akciót, hogy megmérje állatai hőmérsékletét. Helyezze a mérőhegyet rektálisan a megadott mérési mélységig (nagy állatoknál a teljes hosszúságig a dudorig, kis kérődzőknél kb. 6 cm vagy a mérőhegy 2/3-a). A mérési folyamat automatikusan zajlik. Amint a mérési folyamat befejeződik, a készülék kijelzi a mért hőmérsékletet. A színkódolás jelzi, hogy a hőmérséklet a zöld, sárga vagy piros tartományban van-e. Számos lehetőség áll rendelkezésére a Hőmérséklet mérés kampány során:
 
 - [Eredmény mentése](#save-result) az állatspecifikus mérés dokumentálásához
@@ -46,7 +46,7 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Eredmény mentése
+### Eredmény mentése {#save-result}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -54,7 +54,7 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 
     ![VitalControl: Menü Műveletek Eredmények mentése](../images/saveresults.png "Eredmények mentése")
 
-### Felvétel a figyelőlistára
+### Felvétel a figyelőlistára {#put-on-the-watch-list}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -64,7 +64,7 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 
     ![VitalControl: Menü Műveletek Felvétel a figyelőlistára](../images/watchlist.png "Felvétel a figyelőlistára")
 
-### A mérési hely megvilágítása be- és kikapcsolása
+### A mérési hely megvilágítása be- és kikapcsolása {#lighting-of-the-measurement-location-on-and-off}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -74,7 +74,7 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 
     ![VitalControl: Menü Műveletek Zseblámpa be-ki](../images/light.png "Zseblámpa be-ki")
 
-### A mérés megismétlése
+### A mérés megismétlése {#repeat-the-measurement}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -85,7 +85,7 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 
     ![VitalControl: Menü műveletek Fény be/ki](../images/repeat.png "Fény be/ki")
 
-### A művelet megszakítása
+### A művelet megszakítása {#cancel-the-action}
 
 1. Végezze el az előkészítő lépéseket.
 

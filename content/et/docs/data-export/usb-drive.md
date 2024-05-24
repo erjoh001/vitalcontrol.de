@@ -11,7 +11,7 @@ translationKey: data-export/usb-drive
 ---
 {{% usb-drive/et "Selleks, et teostada oma seadme andmete eksporti," %}}
 
-## Viige läbi andmete eksport
+## Viige läbi andmete eksport {#perform-data-export}	
 
 1. Avage menüüpunkt &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadme põhiekraanil.
 

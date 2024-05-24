@@ -8,7 +8,7 @@ description: >
  Az aktuális firmware verziók listája a VitalControl eszközhöz.
 ---
 
-## Telepített firmware verziók meghatározása az eszközön
+## Telepített firmware verziók meghatározása az eszközön {#determine-firmware-versions-installed-on-your-device}
 
 1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
 
@@ -16,7 +16,7 @@ description: >
 
 ![VitalControl: firmware verziók meghatározása](../images/firmware-versions.png "Firmware verziók megjelenítése")
 
-## Legújabb firmware verziók:
+## Legújabb firmware verziók: {#latest-firmware-versions}
 
 A következő táblázat az aktuális firmware verziókat sorolja fel:
 

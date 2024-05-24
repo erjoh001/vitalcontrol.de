@@ -11,7 +11,7 @@ categories: [New animal]
 tags: [Register animals]
 translationKey: new/animal
 ---
-## Create a new animal
+## Create a new animal {#create-a-new-animal}
 
 To create a new animal, proceed as follows:
 

@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Zadání čísla farmy je v současné době zajímavé pouze pro německé farmáře. Farmáři z jiných zemí aktuálně **ne**těží ze zadání ID farmy. To se může změnit s budoucími [verzemi firmwaru]({{< relref "../firmware/versions/" >}}) VitalControl.
 {{< /alert >}}
 
-## Nastavte své číslo farmy
+## Nastavte své číslo farmy {#set-your-farm-number}
 
 Chcete-li nastavit číslo společnosti na svém zařízení, postupujte následovně:
 

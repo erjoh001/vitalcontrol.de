@@ -11,7 +11,7 @@ translationKey: data-export/usb-drive
 ---
 {{% usb-drive/en "In order to perform an export of your device data," %}}
 
-## Perform data export
+## Perform data export {#perform-data-export}
 
 1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 

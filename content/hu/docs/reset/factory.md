@@ -7,7 +7,7 @@ description: >
 categories: [Visszaállítás]
 translationKey: reset/factory
 ---
-## Gyári visszaállítás végrehajtása
+## Gyári visszaállítás végrehajtása {#performing-a-factory-reset}
 
 1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
 

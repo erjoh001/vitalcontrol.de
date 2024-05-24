@@ -11,7 +11,7 @@ translationKey: backup
 ---
 {{% usb-drive/et "Selleks, et teostada oma seadmele andmete varundamist," %}}
 
-## Andmete varundamine
+## Andmete varundamine {#perform-data-backup}
 
 1. Avage peamenüüs &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `Seade`.
 

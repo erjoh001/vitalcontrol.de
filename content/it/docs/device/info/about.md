@@ -8,7 +8,7 @@ description: >
  Richiamare le informazioni del fornitore
 translationKey: device/info/about
 ---
-## Richiamare il menu "Informazioni"
+## Richiamare il menu "Informazioni" {#call-up-menu-about}
 
 Per recuperare le informazioni hardware del tuo dispositivo, procedi come segue:
 

@@ -11,7 +11,7 @@ categories: [Liste]
 tags: [Liste, in controllo]
 translationKey: lists/on-watch
 ---
-## Nella lista di controllo
+## Nella lista di controllo {#on-watch-list}
 
 Nella lista di controllo troverai tutti gli animali che hai aggiunto manualmente alla lista. La lista ti aiuta a mantenere una panoramica degli animali che hai valutato come sospetti. Inoltre, per ogni animale nella lista, puoi fare quanto segue:
 
@@ -40,7 +40,7 @@ La lista di allarme è strutturata come segue:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Temperatura corporea" title="Temperatura corporea" /> | L'ultima misurazione della febbre registrata è mostrata sotto il simbolo con i colori del sistema a semaforo
 | &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Visualizza animale in allarme" title="Animale in allarme" /> | Un segno circolare sotto il simbolo indica che l'animale è nella lista di allarme
 
-### Passaggi Preliminari
+### Passaggi Preliminari {#preliminary-steps}
 
 1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Liste` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
 
@@ -50,7 +50,7 @@ La lista di allarme è strutturata come segue:
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Preliminary Steps")
 
-### Rimuovere dalla lista di osservazione
+### Rimuovere dalla lista di osservazione {#remove-from-watch-list}
 
 1. Completa i passaggi preliminari.
 
@@ -62,7 +62,7 @@ La lista di allarme è strutturata come segue:
 
    ![VitalControl Lists On watch list](../images/remove.png "Remove from watch list")
 
-### Attivare/disattivare lo stato di allarme
+### Attivare/disattivare lo stato di allarme {#toggle-alarm-status}
 
 1. Completa i passaggi preliminari.
 

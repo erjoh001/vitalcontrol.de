@@ -11,19 +11,19 @@ categories: [Mandria]
 tags: [Mandria, Temperatura, Peso, Valutazione, Dati degli animali]
 translationKey: herd
 ---
-## Mandria
+## Mandria {#herd}
 
 All'interno della voce di menu Mandria, puoi visualizzare l'intera mandria, cercare animali individuali e visualizzare informazioni importanti. Hai le seguenti possibilità:
 
 - Visualizza [dati degli animali](#view-animal-data)
 - Visualizza [dati sulla temperatura](#display-temperature)
 - Visualizza [dati di valutazione](#view-rating)
-- Visualizza [dati sul peso](#view-rating)
+- Visualizza [dati sul peso](#display-weight)
 - [Cerca animale](#search-animal)
 - Imposta [filtro](#set-filter)
 - [Azioni](#call-action-menu)
 
-### Passi preparatori
+### Passi preparatori {#preparatory-steps}
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Mandria" /> `Mandria` e premi il pulsante `OK`.
 
@@ -31,7 +31,7 @@ All'interno della voce di menu Mandria, puoi visualizzare l'intera mandria, cerc
 
     ![VitalControl: Menu Mandria](images/herde.png "Mandria")
 
-### Visualizza dati degli animali
+### Visualizza dati degli animali {#view-animal-data}
 
 1. Completa i passi preparatori.
 
@@ -47,7 +47,7 @@ All'interno della voce di menu Mandria, puoi visualizzare l'intera mandria, cerc
 Per impostazione predefinita, i dati degli animali vengono visualizzati per primi. Solo quando hai visualizzato il peso, ad esempio, devi impostare nuovamente la visualizzazione dei dati degli animali.
 {{% /alert %}}
 
-### Visualizza temperatura
+### Visualizza temperatura {#display-temperature}
 
 1. Completa i passi preparatori.
 
@@ -60,7 +60,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
     ![VitalControl: Menu Herd](images/temperature.png "Visualizza temperatura")
 
-### Visualizza valutazione
+### Visualizza valutazione {#view-rating}
 
 1. Completa i passaggi preparatori.
 
@@ -72,7 +72,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
     ![VitalControl: Menu Herd](images/rating.png "Visualizza valutazione")
 
-### Visualizza peso
+### Visualizza peso {#display-weight}
 
 1. Completa i passaggi preparatori.
 
@@ -84,7 +84,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
     ![VitalControl: Menu Herd](images/weight.png "Visualizza peso")
 
-### Cerca animale
+### Cerca animale {#search-animal}
 
 1. Completa i passaggi preparatori.
 
@@ -95,7 +95,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
     ![VitalControl: Menu Herd](images/search.png "Cerca animale")
 
-### Imposta filtro
+### Imposta filtro {#set-filter}
 
 1. Completa i passaggi preparatori.
 
@@ -105,7 +105,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
     ![VitalControl: Menu Herd](images/setfilter.png "Cerca animale")
 
-### Chiama menu azioni
+### Chiama menu azioni {#call-action-menu}
 
 Hai sempre la possibilità di richiamare il menu azioni per un animale.
 

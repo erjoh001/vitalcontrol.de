@@ -11,7 +11,7 @@ categories: [Lists]
 tags: [Lists, dry cow]
 translationKey: lists/dry-cows
 ---
-## Száraz tehenek listája
+## Száraz tehenek listája {#dry-cows-list}
 
 A száraz állatok listáján megtalálja az összes olyan állatot, amelyet száraz állatként mentett el. Ez a lista segít nyomon követni a száraz teheneit és elvégezni a szükséges műveleteket az állatokon. A következő műveleteket végezheti el:
 
@@ -28,7 +28,7 @@ A száraz állatok listáján megtalálja az összes olyan állatot, amelyet sz�
 Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](../alarm). Ezek itt nincsenek részletezve. Végezze el az előzetes lépéseket, és használja az adott művelet linkjét az utasítások eléréséhez.
 {{% /alert %}}
 
-### Előzetes lépések
+### Előzetes lépések {#preliminary-steps}
 
 1. Válassza ki a <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lists` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
 
@@ -38,7 +38,7 @@ Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](
 
    ![VitalControl Lists Dry cows list](../images/firststeps5.png "Előzetes lépések")
 
-## Ellés
+## Ellés {#calving}
 
 1. Végezze el az előzetes lépéseket.
 

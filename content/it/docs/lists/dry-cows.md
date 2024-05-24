@@ -11,7 +11,7 @@ categories: [Liste]
 tags: [Liste, vacca asciutta]
 translationKey: lists/dry-cows
 ---
-## Elenco vacche asciutte
+## Elenco vacche asciutte {#dry-cows-list}
 
 Nell'elenco degli animali asciutti troverai tutti gli animali che hai salvato come animali asciutti. Questo elenco ti aiuterà a tenere traccia delle tue vacche asciutte e a eseguire le azioni necessarie sugli animali. Puoi eseguire le seguenti azioni:
 
@@ -28,7 +28,7 @@ Nell'elenco degli animali asciutti troverai tutti gli animali che hai salvato co
 Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco allarmi](../alarm). Queste non sono spiegate qui. Esegui i passaggi preliminari e usa il link dell'azione rispettiva per arrivare alle istruzioni.
 {{% /alert %}}
 
-### Passaggi Preliminari
+### Passaggi Preliminari {#preliminary-steps}
 
 1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Liste" /> `Liste` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
 
@@ -38,7 +38,7 @@ Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco allarmi
 
    ![VitalControl Liste Elenco vacche asciutte](../images/firststeps5.png "Passaggi Preliminari")
 
-## Parto
+## Parto {#calving}
 
 1. Completa i passaggi preliminari.
 

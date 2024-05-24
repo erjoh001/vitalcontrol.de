@@ -8,7 +8,7 @@ description: >
  Seznam aktuálních verzí firmwaru pro zařízení VitalControl.
 ---
 
-## Zjištění verzí firmwaru nainstalovaných na vašem zařízení
+## Zjištění verzí firmwaru nainstalovaných na vašem zařízení {#determine-firmware-versions-installed-on-your-device}
 
 1. Otevřete položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
 
@@ -16,7 +16,7 @@ description: >
 
 ![VitalControl: zjištění verzí firmwaru](../images/firmware-versions.png "Zobrazení verzí firmwaru")
 
-## Nejnovější verze firmwaru:
+## Nejnovější verze firmwaru: {#latest-firmware-versions}
 
 Následující tabulka uvádí aktuální verze firmwaru:
 

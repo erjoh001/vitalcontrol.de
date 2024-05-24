@@ -11,7 +11,7 @@ tags: [Acties, gewicht]
 translationKey: actions/weight
 ---
 
-## Gewicht registreren
+## Gewicht registreren {#record-weight}
 Gebruik de &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Wegen" /> `Wegen` actie om het gewicht van uw dier individueel op te slaan. Doe dit door uw dieren te wegen of hun gewicht te schatten en voer deze waarde in op het VitalControl-apparaat. Hiermee kunt u de gewichtsontwikkeling van uw dieren controleren en individueel evalueren.
 
 {{% alert title="Tip" %}}
@@ -39,5 +39,3 @@ Als het gemiddelde gewicht sterk afwijkt in één richting (te hoog/te laag), mo
 {{% alert title="Tip" %}}
 Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/setting/) menu. Als alternatief zal het resetten van alle acties deze actie weer beschikbaar maken.
 {{% /alert %}}
-
-Please paste the Markdown content you want translated into Dutch.

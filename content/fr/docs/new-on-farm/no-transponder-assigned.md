@@ -11,7 +11,7 @@ categories: [Nouveau à la ferme, ID national de l'animal]
 tags: [Nouveau à la ferme, ID national de l'animal]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Sans transpondeur attribué
+## Sans transpondeur attribué {#no-transponder-assigned}
 
 La manipulation dans cette liste est identique à celle de la liste `Nouveau à la ferme, sans transpondeur`. Cependant, dans cette liste, vous trouverez tous les animaux qui n'ont pas encore reçu de transpondeur, quel que soit leur âge.
 

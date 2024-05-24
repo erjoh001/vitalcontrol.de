@@ -11,7 +11,7 @@ categories: [Nieuwe dieren]
 tags: [Nieuwe dieren]
 translationKey: new/animals
 ---
-## Meerdere nieuwe dieren aanmaken
+## Meerdere nieuwe dieren aanmaken {#create-several-new-animals}
 
 In dit menu-item kunt u tegelijkertijd meerdere nieuwe dieren registreren. Hierbij stelt u een basisinstelling in die geldt voor alle dieren tijdens deze creatie.
 

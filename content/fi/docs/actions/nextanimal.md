@@ -11,7 +11,7 @@ tags: [Toiminnot]
 translationKey: actions/next-animal
 draft: true
 ---
-## Seuraava eläin
+## Seuraava eläin {#next-animal}
 
 `toiminnot`-valikossa sinulla on mahdollisuus valita seuraava eläin milloin tahansa poistumatta Toiminnot-valikosta. Seuraavan eläimen valitsemiseksi toimi seuraavasti:
 

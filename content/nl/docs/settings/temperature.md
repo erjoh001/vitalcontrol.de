@@ -11,7 +11,7 @@ categories: [instellingen]
 tags: [instellingen, temperatuur, drempelwaarde, anus spotlight]
 translationKey: settings/temperature
 ---
-## Stel de drempelwaarden en temperatuurbereiken in
+## Stel de drempelwaarden en temperatuurbereiken in {#set-the-threshold--temperature-ranges}
 {{% alert title = "Hint" %}}
 Drempelwaarden voor de lichaamstemperatuur worden hier individueel opgeslagen voor de diersoorten kalf, koe en lam. De gele en rode velden tonen de drempelwaarde voor "verhoogde temperatuur" en "koorts" respectievelijk. VitalControl plaatst dieren in de gele en rode gebieden op de alarmlijst, waardoor het gemakkelijker wordt voor u om zieke dieren te monitoren. Een drempelwaarde voor ondertemperatuur kan ook vrij worden gedefinieerd.
 {{% /alert %}}
@@ -32,7 +32,7 @@ Om de drempelwaarden en temperatuurbereiken op uw apparaat in te stellen, volg d
 
     ![VitalControl: menu-instellingen drempelwaarden & temperatuurbereiken](../images/threshold.png "Drempelwaarden & Temperatuurbereiken")
 
-## Ondertemperatuur instellen
+## Ondertemperatuur instellen {#set-undertemperature}
 {{% alert title = "Hint" %}}
 Hier stel je de gemeten temperatuur in waarbij een ondertemperatuur optreedt. Tijdens de koortsmeting wordt deze temperatuur weergegeven met een blauwe achtergrond.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Om de drempelwaarde voor de ondertemperatuur in te stellen, ga je als volgt te w
 
     ![VitalControl: menu-instellingen ondertemperatuur](../images/undertemperature.png "Ondertemperatuur")
 
-## Anus spotlight
+## Anus spotlight {#anus-spotlight}
 {{% alert title = "Hint" %}}
 Hier kun je instellen of het licht automatisch geactiveerd of gedeactiveerd moet worden tijdens de koortsmeting.
 {{% /alert %}}

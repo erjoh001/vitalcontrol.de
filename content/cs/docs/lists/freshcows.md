@@ -11,13 +11,13 @@ categories: [Seznamy]
 tags: [Seznamy, čerstvá kráva]
 translationKey: lists/fresh-cows
 ---
-### Seznam čerstvých krav
+### Seznam čerstvých krav {#fresh-cows-list}
 
 {{% alert title="Vysvětlení" %}}
 Při správě čerstvých krav se považuje za nejlepší praxi kontrolovat zvířata denně po několik dní po porodu. Seznam čerstvých krav podporuje tuto kontrolu čerstvých krav, zejména pokud jde o zaznamenávání teploty. Pro každé zvíře je zobrazen sloupcový graf za všechny dny kontrolního období, každý den kontrolního období je reprezentován svislou čarou. Podle barvy čáry (zelená, žlutá nebo červená) můžete vidět, zda byla v daný den pro příslušné zvíře naměřena normální, zvýšená nebo kriticky zvýšená teplota.
 {{% /alert %}}
 
-Krávy jsou zařazeny na seznam čerstvých krav ihned po zaregistrování jejich porodu. Na tomto seznamu zůstávají po určitou dobu, délku tohoto období (ve dnech) lze nastavit v [nastavení](../../settings/data-acquisition/#control-period-of-fresh-cows).
+Krávy jsou zařazeny na seznam čerstvých krav ihned po zaregistrování jejich porodu. Na tomto seznamu zůstávají po určitou dobu, délku tohoto období (ve dnech) lze nastavit v [nastavení](../../settings/data-acquisition/#control-period-of-fresh-cows)).
  Následující akce jsou k dispozici pro tento seznam:
 
 - [Plné menu akcí](../alarm/#full-action-menu)
@@ -33,7 +33,7 @@ Krávy jsou zařazeny na seznam čerstvých krav ihned po zaregistrování jejic
 Některé akce je třeba provést stejným způsobem jako v [seznamu alarmů](../alarm). Ty zde nejsou vysvětleny. Proveďte předběžné kroky a použijte odkaz příslušné akce, abyste se dostali k pokynům.
 {{% /alert %}}
 
-### Předběžné kroky
+### Předběžné kroky {#preliminary-steps}
 
 1. Vyberte položku menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Seznamy" /> `Seznamy` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
 
@@ -44,7 +44,7 @@ Některé akce je třeba provést stejným způsobem jako v [seznamu alarmů](..
 
    ![VitalControl Seznamy Seznam čerstvých krav](../images/firststeps4.png "Seznam čerstvých krav")
 
-### Přepnout stav alarmu
+### Přepnout stav alarmu {#toggle-alarm-status}
 
 1. Dokončete předběžné kroky.
 
@@ -56,7 +56,7 @@ Některé akce je třeba provést stejným způsobem jako v [seznamu alarmů](..
 
    ![VitalControl Seznamy Seznam čerstvých krav](../images/togglealarmstatus.png "Přepnout stav alarmu")
 
-### Přepnout stav sledování
+### Přepnout stav sledování {#toggle-watch-status}
 
 1. Dokončete předběžné kroky.
 
@@ -69,7 +69,7 @@ Některé akce je třeba provést stejným způsobem jako v [seznamu alarmů](..
 
    ![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Toggle watch status")
 
-### Skrýt měřené krávy
+### Skrýt měřené krávy {#hide-measured-cows}
 
 Pokud je tato funkce aktivována, zvířata, u kterých bylo provedeno měření teploty, jsou skryta na seznamu suchých krav. Pokud tato funkce není aktivována, zvířata zůstávají viditelná na seznamu.
 

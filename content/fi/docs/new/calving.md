@@ -11,7 +11,7 @@ categories: [Calving]
 tags: [Calving]
 translationKey: new/calving
 ---
-## Rekisteröi poikiminen
+## Rekisteröi poikiminen {#register-a-calving}
 
 Vasikan rekisteröimiseksi toimi seuraavasti:
 

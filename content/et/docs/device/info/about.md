@@ -8,7 +8,7 @@ description: >
  Kutsu esile tootja teave
 translationKey: device/info/about
 ---
-## Kutsu esile menüü "Info"
+## Kutsu esile menüü "Info" {#call-up-menu-about}
 
 Seadme riistvarateabe hankimiseks toimi järgmiselt:
 

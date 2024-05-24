@@ -8,7 +8,7 @@ description: >
  Kutsu myyjän tietoja
 translationKey: device/info/about
 ---
-## Kutsu valikko "Tietoja"
+## Kutsu valikko "Tietoja" {#call-up-menu-about}
 
 Noudattaaksesi laitteesi laitetietoja, toimi seuraavasti:
 

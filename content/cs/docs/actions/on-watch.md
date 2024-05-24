@@ -11,7 +11,7 @@ tags: [Akce, na sledování]
 translationKey: actions/on-watch
 ---
 
-## Na sledování
+## Na sledování {#on-watch}
 
 Pomocí akce `na sledování` umístíte zvířata na seznam sledovaných nebo je z něj odstraníte. Seznam sledovaných vám pomůže rychleji a snadněji najít nápadná zvířata, což usnadní vaše každodenní kontroly. Pro použití akce `na sledování` postupujte následovně:
 

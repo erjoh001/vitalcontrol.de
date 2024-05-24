@@ -11,7 +11,7 @@ categories: [Asetukset]
 tags: [Asetukset, Päivä ja aika]
 translationKey: settings/datetime
 ---
-## Päivä asettaminen
+## Päivä asettaminen {#to-set-the-date}
 {{% alert title="Varoitus" color="warning" %}}
 Varmista, että Päivä ja aika on asetettu oikein. Muutoin mittauksien aikaleimat ja uusien eläinten syntymäajat ovat virheellisiä!
 {{% /alert %}}
@@ -28,7 +28,7 @@ Päivän asettamiseksi laitteellasi, noudata näitä ohjeita:
 
     ![VitalControl: valikkoasetukset Päivä](../images/date.png "Päivän asettaminen")
 
-## Ajan asettaminen
+## Ajan asettaminen {#to-set-the-time}
 
 Ajan asettamiseksi laitteellasi, noudata näitä ohjeita:
 

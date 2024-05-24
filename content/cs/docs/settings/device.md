@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, device]
 translationKey: settings/device
 ---
-## Vypnutí zařízení po
+## Vypnutí zařízení po {#shutdown-device-after}
 Chcete-li nastavit dobu nečinnosti, po které se zařízení vypne, postupujte následovně.
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
@@ -24,7 +24,7 @@ Chcete-li nastavit dobu nečinnosti, po které se zařízení vypne, postupujte 
 
     ![VitalControl: menu nastavení Vypnutí zařízení po](../images/shutdowndeviceafter.png "Vypnutí zařízení po")
 
-## Úvodní obrazovka
+## Úvodní obrazovka {#start-up-screen}
 
 Chcete-li nastavit úvodní obrazovku, postupujte následovně.
 
@@ -38,7 +38,7 @@ Chcete-li nastavit úvodní obrazovku, postupujte následovně.
 
     ![VitalControl: menu nastavení Úvodní obrazovka](../images/startupscreen.png "Úvodní obrazovka")
 
-## Demonstrativní režim
+## Demonstrativní režim {#demonstration-mode}
 
 Pokud je vybrán demonstrační režim, zařízení simuluje měření teploty a zobrazuje náhodně generovanou teplotu jako naměřenou hodnotu. Tento režim se používá pro demonstraci zařízení, pokud nejsou k dispozici žádná zvířata pro měření. Chcete-li deaktivovat nebo aktivovat demonstrační režim zařízení, postupujte následovně:
 
@@ -53,7 +53,7 @@ Pokud je vybrán demonstrační režim, zařízení simuluje měření teploty a
 
     ![VitalControl: menu nastavení Demonstrační režim](../images/demonstrationmode.png "Demonstrační režim")
 
-## Jas displeje
+## Jas displeje {#display-brightness}
 
 Pro nastavení jasu displeje postupujte následovně.
 
@@ -67,7 +67,7 @@ Pro nastavení jasu displeje postupujte následovně.
 
     ![VitalControl: menu nastavení Jas displeje](../images/displaybrightness.png "Jas displeje")
 
-## Vibrace při stisku klávesy
+## Vibrace při stisku klávesy {#vibration-on-keypress}
 
 Pro deaktivaci nebo aktivaci vibrace při stisku klávesy zařízení postupujte následovně:
 
@@ -82,7 +82,7 @@ Pro deaktivaci nebo aktivaci vibrace při stisku klávesy zařízení postupujte
 
     ![VitalControl: menu nastavení Jas displeje](../images/vibrationonkeypress.png "Jas displeje")
 
-## Monitor prostředků
+## Monitor prostředků {#resource-monitor}
 
 Pro deaktivaci nebo aktivaci monitoru prostředků zařízení postupujte následovně:
 

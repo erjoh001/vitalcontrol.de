@@ -11,13 +11,13 @@ categories: [Lists]
 tags: [Lists, fresh cow]
 translationKey: lists/fresh-cows
 ---
-### Elenco delle vacche fresche
+### Elenco delle vacche fresche {#fresh-cows-list}
 
 {{% alert title="Spiegazione" %}}
 Quando si gestiscono le vacche fresche, controllare gli animali quotidianamente per diversi giorni dopo la nascita è considerata una pratica ottimale. L'elenco delle vacche fresche supporta e facilita questo controllo, soprattutto in termini di registrazione della temperatura. Per ogni animale, viene mostrato un grafico a colonne per tutti i giorni del periodo di controllo, ogni giorno del periodo di controllo è rappresentato da una barra verticale. A seconda del colore della barra (verde, giallo o rosso), è possibile vedere se è stata misurata una temperatura normale, elevata o criticamente elevata in quel giorno per l'animale rispettivo.
 {{% /alert %}}
 
-Le vacche vengono inserite nell'elenco delle vacche fresche immediatamente dopo che il loro parto è stato registrato. Rimangono in quell'elenco per un certo periodo di tempo, la durata di questo periodo (in giorni) può essere regolata nelle [impostazioni](../../settings/data-acquisition/#control-period-of-fresh-cows).
+Le vacche vengono inserite nell'elenco delle vacche fresche immediatamente dopo che il loro parto è stato registrato. Rimangono in quell'elenco per un certo periodo di tempo, la durata di questo periodo (in giorni) può essere regolata nelle [impostazioni](../../settings/data-acquisition/#control-period-of-fresh-cows)).
  Le seguenti azioni sono disponibili per questo elenco:
 
 - [Menu azioni completo](../alarm/#full-action-menu)
@@ -33,7 +33,7 @@ Le vacche vengono inserite nell'elenco delle vacche fresche immediatamente dopo 
 Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco degli allarmi](../alarm). Queste non sono spiegate qui. Esegui i passaggi preliminari e utilizza il link dell'azione rispettiva per accedere alle istruzioni.
 {{% /alert %}}
 
-### Passaggi Preliminari
+### Passaggi Preliminari {#preliminary-steps}
 
 1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `Lists` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
 
@@ -43,7 +43,7 @@ Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco degli a
 
    ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Fresh cow list")
 
-### Attivare/disattivare lo stato di allarme
+### Attivare/disattivare lo stato di allarme {#toggle-alarm-status}
 
 1. Completa i passaggi preliminari.
 
@@ -55,7 +55,7 @@ Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco degli a
 
    ![VitalControl Lists Fresh cows list](../images/togglealarmstatus.png "Toggle alarm status")
 
-### Attivare/disattivare lo stato di sorveglianza
+### Attivare/disattivare lo stato di sorveglianza {#toggle-watch-status}
 
 1. Completa i passaggi preliminari.
 
@@ -68,7 +68,7 @@ Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco degli a
 
    ![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Toggle watch status")
 
-### Nascondi vacche misurate
+### Nascondi vacche misurate {#hide-measured-cows}
 
 Se questa funzione è attivata, gli animali per i quali è stata effettuata una misurazione della temperatura sono nascosti nella lista delle vacche asciutte. Se questa funzione non è attivata, gli animali rimangono visibili nella lista.
 

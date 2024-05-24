@@ -10,7 +10,7 @@ categories: [Nastavení]
 tags: [Nastavení, Jazyk]
 translationKey: settings/language
 ---
-## Nastavení jazyka
+## Nastavení jazyka {#setting-your-language}
 
 Pro nastavení jazyka na vašem zařízení VitalControl postupujte následovně:
 
@@ -24,7 +24,7 @@ Pro nastavení jazyka na vašem zařízení VitalControl postupujte následovně
 
 Jazyk na vašem zařízení VitalControl je nyní nastaven a trvale uložen.
 
-## Dostupné jazyky
+## Dostupné jazyky {#available-languages}
 
 Firmware VitalControl obsahuje překlady pro následující jazyky:
 
@@ -45,7 +45,7 @@ Firmware VitalControl obsahuje překlady pro následující jazyky:
 - Turečtina (TR)
 - Ukrajinština (UK)
 
-## Hlavní menu ve všech dostupných jazycích
+## Hlavní menu ve všech dostupných jazycích {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Angličtina" lang="en" %}}

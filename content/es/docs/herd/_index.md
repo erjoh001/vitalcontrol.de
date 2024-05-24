@@ -11,19 +11,19 @@ categories: [Rebaño]
 tags: [Rebaño, Temperatura, Peso, Calificación, Datos del animal]
 translationKey: herd
 ---
-## Rebaño
+## Rebaño {#herd}
 
 Dentro del ítem del menú Rebaño, puedes ver todo tu rebaño, buscar animales individuales y mostrar información importante. Tienes las siguientes posibilidades:
 
-- Ver [datos del animal](#ver-datos-del-animal)
-- Ver [datos de temperatura](#mostrar-temperatura)
-- Ver [datos de calificación](#ver-calificación)
-- Ver [datos de peso](#mostrar-peso)
-- [Buscar animal](#buscar-animal)
-- Establecer [filtro](#establecer-filtro)
-- [Acciones](#llamar-al-menú-de-acciones)
+- Ver [datos del animal](#view-animal-data)
+- Ver [datos de temperatura](#display-temperature)
+- Ver [datos de calificación](#view-rating)
+- Ver [datos de peso](#display-weight)
+- [Buscar animal](#search-animal)
+- Establecer [filtro](#set-filter)
+- [Acciones](#call-action-menu)
 
-### Pasos preparatorios
+### Pasos preparatorios {#preparatory-steps}
 
 1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Rebaño" /> `Rebaño` y presiona el botón `OK`.
 
@@ -31,7 +31,7 @@ Dentro del ítem del menú Rebaño, puedes ver todo tu rebaño, buscar animales 
 
     ![VitalControl: Menú Rebaño](images/herde.png "Rebaño")
 
-### Ver datos del animal
+### Ver datos del animal {#view-animal-data}
 
 1. Completa los pasos preparatorios.
 
@@ -47,7 +47,7 @@ Dentro del ítem del menú Rebaño, puedes ver todo tu rebaño, buscar animales 
 Por defecto, los datos del animal se muestran primero. Solo cuando tienes el peso mostrado, por ejemplo, tienes que configurar nuevamente la visualización de los datos del animal.
 {{% /alert %}}
 
-### Mostrar temperatura
+### Mostrar temperatura {#display-temperature}
 
 1. Completa los pasos preparatorios.
 
@@ -59,7 +59,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
     ![VitalControl: Menú Rebaño](images/temperature.png "Mostrar temperatura")
 
-### Ver calificación
+### Ver calificación {#view-rating}
 
 1. Completa los pasos preparatorios.
 
@@ -71,7 +71,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
     ![VitalControl: Menú Rebaño](images/rating.png "Ver calificación")
 
-### Mostrar peso
+### Mostrar peso {#display-weight}
 
 1. Completa los pasos preparatorios.
 
@@ -83,7 +83,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
     ![VitalControl: Menú Rebaño](images/weight.png "Mostrar peso")
 
-### Buscar animal
+### Buscar animal {#search-animal}
 
 1. Completa los pasos preparatorios.
 
@@ -93,7 +93,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
     ![VitalControl: Menú de Hato](images/search.png "Buscar animal")
 
-### Establecer filtro
+### Establecer filtro {#set-filter}
 
 1. Completa los pasos preparatorios.
 
@@ -103,7 +103,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
     ![VitalControl: Menú de Hato](images/setfilter.png "Buscar animal")
 
-### Llamar al menú de acciones
+### Llamar al menú de acciones {#call-action-menu}
 
 Siempre tienes la opción de llamar al menú de acciones para un animal.
 

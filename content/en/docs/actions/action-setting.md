@@ -10,7 +10,7 @@ categories: [Actions, Chain of Actions]
 tags: [Actions, Chain of actions]
 translationKey: actions/setting
 ---
-## Menu items
+## Menu items {#menu-items}
 
 In this settings menu you determine which actions are displayed to you within the &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` menu.
 
@@ -28,7 +28,7 @@ In this settings menu you determine which actions are displayed to you within th
 
     ![VitalControl: Menu Actions Menu items](../images/menu.png "Menu items")
 
-## Chain of actions
+## Chain of actions {#chain-of-actions}
 
 In this settings menu you set the &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `chain of actions`.
 

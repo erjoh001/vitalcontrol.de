@@ -11,7 +11,7 @@ weight: 10
 ---
 Jos laitteessasi ilmenee toimintahäiriö, sinun tulisi ensin suorittaa laitteiston tarkistus selvittääksesi, onko jokin laitteiston komponenteista viallinen.
 
-## Tarkista laitteesi laitteisto
+## Tarkista laitteesi laitteisto {#check-the-hardware-of-your-device}
 
 1. Avaa valikkokohta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` VitalControl-laitteesi päävalikosta.
 

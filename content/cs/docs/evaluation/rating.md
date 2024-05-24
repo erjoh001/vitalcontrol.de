@@ -14,7 +14,7 @@ translationKey: evaluation/rating
 V základním nastavení jsou do vyhodnocení zahrnuta všechna zvířata uložená na VitalControl. Pomocí [filtru](../../filter/) můžete omezit vyhodnocení na podmnožinu zvířat na vašem zařízení, např. pouze na samce nebo na zvířata do určitého maximálního věku.
 {{% /alert %}}
 
-## Vyhodnotit hodnocení
+## Vyhodnotit hodnocení {#evaluate-rating}
 
 V tomto vyhodnocení můžete vidět následující informace jako koláčový graf:
 - Vyhodnocení stavu za poslední tři dny

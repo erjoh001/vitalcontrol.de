@@ -11,7 +11,7 @@ Kategorien: [Gerät]
 Tags: [Gerät]
 translationKey: device/flashlight
 ---
-## Licht aktivieren und deaktivieren
+## Licht aktivieren und deaktivieren {#activate-and-deactivate-light}
 
 Hier können Sie das Licht iim Kopfteil Ihres VitalControl-Geräts aktivieren bzw. deaktivieren. Aktivieren Sie das Licht, leuchtet es dauerhaft.
 

@@ -11,7 +11,7 @@ categories: [Nuevos animales]
 tags: [Nuevos animales]
 translationKey: new/animals
 ---
-## Crear varios nuevos animales
+## Crear varios nuevos animales {#create-several-new-animals}
 
 En este elemento del menú puedes registrar varios nuevos animales a la vez. Al hacerlo, estableces una configuración básica que se aplica a todos los animales durante esta creación.
 

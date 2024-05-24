@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 Questa azione non è abilitata di default! Attivala come descritto nelle [impostazioni delle azioni](../settings/).
 {{% /alert %}}
 
-## Scollega transponder
+## Scollega transponder {#unlink-transponder}
 
 Con questa azione puoi scollegare un transponder che è già stato assegnato a un animale da questo animale.
 

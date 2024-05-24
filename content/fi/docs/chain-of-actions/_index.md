@@ -11,11 +11,11 @@ categories: [Toimintaketju]
 tags: [Toimintaketju, Toiminnot]
 translationKey: action-chain
 ---
-## Toimintaketju
+## Toimintaketju {#chain-of-actions}
 
 Toimintaketju mahdollistaa useiden toimintojen automaattisen suorittamisen eläimelle peräkkäin. Voit esimerkiksi valita toiminnot `Mittaa lämpötila` ja `Arviointi`. Kun suoritat toimintaketjun, voit ensin mitata eläimesi lämpötilan ja kirjata arvioinnin välittömästi sen jälkeen.
 
-### Käytä toimintaketjua
+### Käytä toimintaketjua {#use-chain-of-actions}
 
 1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toimintaketju" />&nbsp; `Toimintaketju` ja paina `OK`-nappia.
 
@@ -33,7 +33,7 @@ Toimintaketju mahdollistaa useiden toimintojen automaattisen suorittamisen eläi
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Aseta toimintaketju
+### Aseta toimintaketju {#set-chain-of-actions}
 
 1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toimintaketju" />&nbsp; `Toimintaketju` ja paina `OK`-nappia.
 

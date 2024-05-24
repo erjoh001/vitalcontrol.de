@@ -10,7 +10,7 @@ categories: [Ρυθμίσεις]
 tags: [Ρυθμίσεις, Γλώσσα]
 translationKey: settings/language
 ---
-## Ρύθμιση της γλώσσας σας
+## Ρύθμιση της γλώσσας σας {#setting-your-language}
 
 Για να ρυθμίσετε τη γλώσσα της συσκευής σας VitalControl, προχωρήστε ως εξής:
 
@@ -24,7 +24,7 @@ translationKey: settings/language
 
 Η γλώσσα στη συσκευή σας VitalControl είναι τώρα ρυθμισμένη και αποθηκευμένη μόνιμα.
 
-## Διαθέσιμες γλώσσες
+## Διαθέσιμες γλώσσες {#available-languages}
 
 Το firmware του VitalControl περιλαμβάνει μεταφράσεις για τις ακόλουθες γλώσσες:
 
@@ -45,7 +45,7 @@ translationKey: settings/language
 - Τουρκικά (TR)
 - Ουκρανικά (UK)
 
-## Κύριο μενού σε όλες τις διαθέσιμες γλώσσες
+## Κύριο μενού σε όλες τις διαθέσιμες γλώσσες {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="Αγγλικά" lang="en" %}}

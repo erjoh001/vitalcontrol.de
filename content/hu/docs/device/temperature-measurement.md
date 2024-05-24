@@ -11,7 +11,7 @@ categories: [Eszköz]
 tags: [Eszköz]
 translationKey: device/temperature-measurement
 ---
-## Hőmérséklet mérés tesztelése
+## Hőmérséklet mérés tesztelése {#test-temperature-measurement}
 
 Itt tesztelheti az eszköz hőmérséklet mérését anélkül, hogy az állat számára mentené a mérést. A teszt elvégzéséhez kövesse az alábbi lépéseket:
 

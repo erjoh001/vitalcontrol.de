@@ -14,7 +14,7 @@ translationKey: evaluation/temperature
 Oletusasetuksissa kaikki VitalControl-laitteeseen tallennetut eläimet sisältyvät arviointiin. Käyttämällä [suodatinta](../../filter/) voit rajoittaa arvioinnin vain tietylle eläinryhmälle laitteessasi, esimerkiksi vain urospuolisille eläimille tai tiettyyn enimmäisikään saakka.
 {{% /alert %}}
 
-## Arviointi lämpötila
+## Arviointi lämpötila {#evaluate-temperature}
 
 Tässä arvioinnissa voit nähdä seuraavat tiedot:
 - Tällä hetkellä kuumeisesti sairaat eläimet

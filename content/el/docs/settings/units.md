@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, units]
 translationKey: settings/units
 ---
-## Ρύθμιση μονάδας θερμοκρασίας
+## Ρύθμιση μονάδας θερμοκρασίας {#set-temperature-unit}
 
 Για να ρυθμίσετε τη μονάδα θερμοκρασίας στη συσκευή σας, προχωρήστε ως εξής.
 
@@ -25,7 +25,7 @@ translationKey: settings/units
 
     ![VitalControl: μενού ρυθμίσεων μονάδας θερμοκρασίας](../images/temperature.png "Μονάδα θερμοκρασίας")
 
-## Ρύθμιση μονάδας μάζας
+## Ρύθμιση μονάδας μάζας {#set-mass-unit}
 
 Για να ρυθμίσετε τη μονάδα μάζας στη συσκευή σας, προχωρήστε ως εξής.
 

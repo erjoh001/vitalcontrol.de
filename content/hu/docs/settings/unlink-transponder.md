@@ -11,7 +11,7 @@ Kategorien: [Beállítások]
 Tags: [Beállítások, Transzponder, ÁllatID]
 translationKey: settings/unlink-transponder
 ---
-## Transzponder leválasztása
+## Transzponder leválasztása {#unlink-transponder}
 
 Ezzel a beállítással megadhatja, hogyan legyen hozzárendelve az állat azonosítója, amint eltávolítja a transzpondert az állatról. Ez a beállítás használható például akkor, ha az Urban Alma Pro etetővel való szinkronizálás megtörtént, és az állat azonosítók a VitalControl-on most már megfelelnek az állatok nyakörv számának. Amint eltávolítja a nyakörvet és leválasztja a transzpondert, megadhatja, hogy az állat azonosítója mostantól a fülcímke számából származik. Ez lehetővé teszi, hogy gyorsan azonosítsa az állatot az istállóban nyakörv nélkül.
 

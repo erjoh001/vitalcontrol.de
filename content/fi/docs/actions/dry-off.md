@@ -11,13 +11,13 @@ tags: [Umpeutus]
 translationKey: actions/dry-cows
 ---
 
-## Umpeutus
+## Umpeutus {#dry-off}
 
 {{% alert title="Vihje" %}}
 Riippuen lehmän alkutilanteesta, voit joko Umpeutus eläimen ja lisätä sen kuivurilistaan, tai voit merkitä eläimen tuoreeksi lypsäjäksi ja siten lisätä sen tuoreiden lypsäjien listaan. Toimintojen ero tehdään selväksi plus-symbolilla tai miinus-symbolilla.
 {{% /alert %}}
 
-### Umpeutus lehmä
+### Umpeutus lehmä {#dry-off-a-cow}
 
 1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-nappia.
 
@@ -37,7 +37,7 @@ Riippuen lehmän alkutilanteesta, voit joko Umpeutus eläimen ja lisätä sen ku
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Merkitse lypsetyksi
+### Merkitse lypsetyksi {#mark-as-lactated}
 
 1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-nappia.
 

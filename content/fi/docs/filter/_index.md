@@ -9,7 +9,7 @@ categories: [Suodatin]
 tags: [Suodatin]
 translationKey: filter
 ---
-## Suodattimien käyttö
+## Suodattimien käyttö {#applying-filters}
 
 {{% alert title="HUOMAUTUS" %}}
 Suodatin auttaa sinua suorittamaan valinnan suodatinkriteerien avulla valikkojen `Lauma`, `Listat` ja `Arviointi` kohdissa VitalControl-laitteessa. Kun käytät suodatinta, näytön yläosaan ilmestyy erilaisia suodatinkriteereitä kuvaavia symboleja. Nämä symbolit auttavat sinua selvittämään, onko ja mitä suodatinkriteereitä on aktivoitu. Esimerkiksi, jos asetat `Sukupuoli`-suodattimen miehille, laite käyttää vain urospuolisia eläimiä. Esimerkiksi, jos aktivoit myös `Tarkkailussa`-suodattimen, laite käyttää vain tarkkailulistalla olevia urospuolisia eläimiä.

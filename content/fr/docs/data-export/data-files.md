@@ -10,14 +10,14 @@ tags: [fichiers d'exportation, températures, poids, évaluations]
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Informations générales
+## Informations générales {#general-information}
 
 Lors de l'exportation des données animales, que ce soit vers la [clé USB][] ou vers un dispositif de stockage de masse local [sur le PC][], quatre fichiers d'exportation sont générés dans chaque cas :
 
-- [Données animales](#données-animales-animalscsv) `(animals.csv)`
-- [Données de température corporelle](#données-de-température-corporelle-temperaturescsv) `(temperatures.csv)`
-- [Données de poids](#données-de-poids-weightscsv) `(weights.csv)`
-- [Évaluations des animaux](#évaluations-des-animaux-ratingscsv) `(ratings.csv)`
+- [Données animales](#animal-data-animalscsv) `(animals.csv)`
+- [Données de température corporelle](#body-temperature-data-temperaturescsv) `(temperatures.csv)`
+- [Données de poids](#weight-data-weightscsv) `(weights.csv)`
+- [Évaluations des animaux](#animal-ratings-ratingscsv) `(ratings.csv)`
 
 [clé USB]: ../usb-drive/
 [sur le PC]: ../pc/
@@ -29,17 +29,17 @@ Lors de l'exportation des données animales, que ce soit vers la [clé USB][] ou
 
 Les quatre fichiers sont des fichiers texte [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) lisibles par l'homme. Les fichiers sont encodés en format `UTF-8`, les points-virgules (`;`) sont utilisés comme séparateurs de colonnes. Les champs de données individuels ne sont *pas* encadrés par des guillemets. Chaque ligne du tableau respectif représente un ensemble de données animales ou une mesure ou évaluation effectuée sur un animal.
 
-## Traitement ultérieur des données exportées
+## Traitement ultérieur des données exportées {#further-processing-of-exported-data}	
 
 Vous pouvez ouvrir chacun de ces quatre fichiers d'exportation dans un programme de tableur de votre choix (tel que [Microsoft Excel](https://products.office.com/excel) ou [OpenOffice Calc](https://www.openoffice.org/)) et y effectuer une analyse avancée des données. À titre d'exemple, la vue du tableau `animals.csv` dans un programme de tableur est illustrée ci-dessous :
 
 ![Données animales exportées, ouvertes dans un programme de tableur](../images/animals.png "Données animales ouvertes dans un programme de tableur")
 
-## Description des fichiers de données
+## Description des fichiers de données {#description-of-data-files}
 
 Les quatre sections suivantes décrivent chacun des fichiers de données exportés en détail :
 
-### Données animales (`animals.csv`)
+### Données animales (`animals.csv`) {#animal-data-animalscsv}
 
 - **Nom du fichier** `animals.csv`
 - **Description** Données générales sur les animaux
@@ -72,7 +72,7 @@ Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni
 
 [animals.csv]: /data-export/animals.csv
 
-### Données de température corporelle (`temperatures.csv`)
+### Données de température corporelle (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Nom du fichier** `temperatures.csv`
 - **Description** Valeurs de température, obtenues en prenant la température corporelle rectale des animaux.
@@ -104,7 +104,7 @@ Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Données de poids (`weights.csv`)
+### Données de poids (`weights.csv`) {#weight-data-weightscsv}
 
 - **Nom du fichier** `weights.csv`
 - **Description** Valeurs de poids obtenues en pesant les animaux
@@ -136,7 +136,7 @@ Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni
 
 [weights.csv]: /data-export/weights.csv
 
-### Évaluations des animaux (`ratings.csv`)
+### Évaluations des animaux (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Nom du fichier** `ratings.csv`
 - **Description** Évaluations des animaux obtenues par inspection visuelle des animaux

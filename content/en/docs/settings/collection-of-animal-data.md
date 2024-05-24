@@ -12,7 +12,7 @@ tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Overview
+## Overview {#overview}
 
 The following graphic lists the available settings concerning the recording of animal data:
 

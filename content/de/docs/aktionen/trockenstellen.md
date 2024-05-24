@@ -15,13 +15,13 @@ Diese Funktion wird ihnen nur bei Kühen angezeigt, nicht aber bei Kälbern oder
 Falls diese Funktion von ihnen nicht benötigt wird, können Sie sie im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/) deaktivieren.
 {{% /alert %}}
 
-## Trockenstellen
+## Trockenstellen {#dry-off}
 
 {{% alert title="Hinweis" %}}
 Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenstellen und somit auf die Trockenstellerliste hinzufügen oder Sie können das Tier als Frischmelker markieren und somit auf die Frischmelkerliste setzen. Die Unterscheidung der Funktion wird durch ein Plus- oder ein Minus-Symbol verdeutlicht.
 {{% /alert %}}
 
-### Eine Kuh trockenstellen
+### Eine Kuh trockenstellen {#dry-off-a-cow}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 
@@ -41,7 +41,7 @@ Abhängig von dem Ausgangsstatus der Kuh können Sie das Tier entweder trockenst
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Eine Kuh als laktierend markieren
+### Eine Kuh als laktierend markieren {#mark-as-lactated}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.
 

@@ -11,7 +11,7 @@ categories: [Nuevo en la granja]
 tags: [Nuevo en la granja]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Ningún ID de animal asignado
+## Ningún ID de animal asignado {#no-national-animal-id-assigned}
 
 En esta lista encontrarás todos los animales a los que aún no se les ha asignado un ID de animal. Puedes asignar un ID de animal a los animales en esta lista.
 
@@ -30,7 +30,7 @@ En esta lista encontrarás todos los animales a los que aún no se les ha asigna
 7. Guarda la configuración con la tecla `F3` <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Guardar" />&nbsp;. El animal fue asignado exitosamente un ID nacional y eliminado de la lista.
 
 {{% alert title="Consejo" %}}
-En [últimas acciones en OK](#última-acción-en-ok) puedes configurar si deseas ingresar el número de etiqueta del oído manualmente o por escaneo. Selecciona la pantalla de ejemplo según tu configuración.
+En [últimas acciones en OK](#last-action-on-ok) puedes configurar si deseas ingresar el número de etiqueta del oído manualmente o por escaneo. Selecciona la pantalla de ejemplo según tu configuración.
 {{% /alert %}}
 
 {{< tabpane >}}
@@ -43,7 +43,7 @@ En [últimas acciones en OK](#última-acción-en-ok) puedes configurar si deseas
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Última acción en OK
+## Última acción en OK {#last-action-on-ok}
 
 Puedes usar las acciones adicionales para configurar qué acciones deseas realizar antes de asignar el ID nacional del animal. Puedes elegir entre medir la temperatura, evaluar al animal y pesar al animal. La acción respectiva se guarda directamente para el animal que posteriormente asignes. Procede de la siguiente manera:
 
@@ -61,7 +61,7 @@ Puedes usar las acciones adicionales para configurar qué acciones deseas realiz
 ¡Solo puedes usar la asignación de número de etiqueta de oreja por escaneo si usas etiquetas electrónicas de oreja!
 {{% /alert %}}
 
-## Acciones adicionales previas
+## Acciones adicionales previas	{#previous-additional-actions}
 
 Puedes usar las acciones adicionales previas para establecer qué acciones deseas realizar antes de asignar el número de etiqueta de oreja. Puedes elegir entre medir la temperatura, evaluar al animal y pesar al animal. La acción respectiva se guarda directamente para el animal que posteriormente asignas. Procede de la siguiente manera:
 
@@ -77,6 +77,6 @@ Puedes usar las acciones adicionales previas para establecer qué acciones desea
 
     ![Lista de animales comprados, sin ID nacional de animal asignado](../images/aidditional-actions.png "Sin ID nacional de animal asignado, Enlace")
 
- ## Más ítems del menú
+ ## Más ítems del menú {#further-menu-items}
 
 También tienes la opción de seleccionar entre `buscar animal` y `establecer filtro` en el pop-up. Usa los botones de flecha △ ▽ para navegar al ítem de menú respectivo y confirma con `OK`. La información para `establecer filtro` [aquí](/es/docs/filter/) y para `buscar animal` procede como en el paso 4 de `sin ID nacional de animal asignado`.

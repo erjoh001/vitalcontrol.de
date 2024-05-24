@@ -11,7 +11,7 @@ categories: [Vêlage]
 tags: [Vêlage]
 translationKey: new/calving
 ---
-## Enregistrer un vêlage
+## Enregistrer un vêlage {#register-a-calving}
 
 Pour enregistrer un vêlage, procédez comme suit :
 

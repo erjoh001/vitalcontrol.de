@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 Tato akce není ve výchozím nastavení povolena! Aktivujte ji podle popisu v [nastavení akce](../settings/).
 {{% /alert %}}
 
-## Přiřadit ID zvířete
+## Přiřadit ID zvířete {#link-animal-id}
 
 Chcete-li přiřadit národní ID zvířete zvířeti, které nemá národní ID zvířete, postupujte následovně:
 
@@ -40,7 +40,7 @@ Chcete-li přiřadit národní ID zvířete zvířeti, které nemá národní ID
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Propojení ID zvířete s elektronickým ušním štítkem
+## Propojení ID zvířete s elektronickým ušním štítkem {#link-animal-id-with-electronic-ear-tag-scan}
 
 Pro přiřazení národního ID zvířete zvířeti, které má elektronický ušní štítek, postupujte následovně:
 

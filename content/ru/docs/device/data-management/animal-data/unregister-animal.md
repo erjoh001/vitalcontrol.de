@@ -10,7 +10,7 @@ Kategorien: [Animaldata]
 Tags: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
-## Отмена регистрации животных
+## Отмена регистрации животных {#unregister-animals}
 
 Отмените регистрацию животных в вашем VitalControl, которые либо превысили возрастной предел, либо которым не был присвоен транспондер. Действуйте следующим образом:
 

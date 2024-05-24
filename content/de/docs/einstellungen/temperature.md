@@ -11,7 +11,7 @@ Kategorien: [Einstellungen]
 Tags: [Einstellungen, Temperatur, Schwellenwert, Beleuchtung Messort]
 translationKey: settings/temperature
 ---
-## Tierartspezifische Schwellenwerte & Temperaturbereiche einstellen
+## Tierartspezifische Schwellenwerte & Temperaturbereiche einstellen {#set-the-threshold--temperature-ranges}
 {{% alert title = "Hinweis" %}}
 Hier sind Schwellenwerte für die Körpertemperatur jeweils individuell für die Tierarten Kalb, Kuh und Lamm hinterlegt. Das gelbe und das rote Feld zeigen jeweils den Schwellenwert für „erhöhte Temperatur“ bzw. für „Fieber“. VitalControl setzt Tiere im gelben und roten Bereich auf die Alarmliste und erleichtert Ihnen so die Kontrolle kranker Tiere. Ein Schwellenwert für Untertemperatur kann ebenfalls frei definiert werden.
 {{% /alert %}}
@@ -32,7 +32,7 @@ Um die Tierart des Schwellenwertes & Temperaturbereiche auf ihrem Gerät festzul
 
     ![VitalControl: Menüfolge Einstellung Datum](../bilder/schwellenwert.png "Datum einstellen")
 
-## Untertemperatur festlegen
+## Untertemperatur festlegen {#set-undertemperature}
 {{% alert title = "Hinweis" %}}
 Hier stellen Sie ein ab welcher gemessenen Temperatur eine Untertemperatur vorliegt. Während des Fiebermessens wird Ihnen diese Temperatur blau hinterlegt angezeigt.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Um den Schwellenwert für die Untertemperatur einzustellen gehen Sie wie folgt v
 
     ![VitalControl: Menüfolge Einstellung Untertemperatur](../bilder/untertemperatur.png "Untertemperatur einstellen")
 
-## Beleuchtung Messort
+## Beleuchtung Messort {#anus-spotlight}
 {{% alert title = "Hinweis" %}}
 Hier stellen Sie ein, ob das Licht während des Fiebermessens automatisch aktiviert bzw. deaktiviert sein soll.
 {{% /alert %}}

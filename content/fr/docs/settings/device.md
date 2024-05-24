@@ -11,7 +11,7 @@ categories: [paramètres]
 tags: [paramètres, appareil]
 translationKey: settings/device
 ---
-## Éteindre l'appareil après
+## Éteindre l'appareil après {#shutdown-device-after}
 Pour régler la période d'inactivité jusqu'à ce que l'appareil s'éteigne, procédez comme suit.
 
 1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur le bouton `OK`.
@@ -24,7 +24,7 @@ Pour régler la période d'inactivité jusqu'à ce que l'appareil s'éteigne, pr
 
     ![VitalControl : paramètres du menu Éteindre l'appareil après](../images/shutdowndeviceafter.png "Éteindre l'appareil après")
 
-## Écran de démarrage
+## Écran de démarrage {#start-up-screen}
 
 Pour régler l'écran de démarrage, procédez comme suit.
 
@@ -38,7 +38,7 @@ Pour régler l'écran de démarrage, procédez comme suit.
 
     ![VitalControl : paramètres du menu Écran de démarrage](../images/startupscreen.png "Écran de démarrage")
 
-## Mode démonstration
+## Mode démonstration {#demonstration-mode}
 
 Si le mode de présentation est sélectionné, l'appareil simule les mesures de température et affiche une température générée aléatoirement comme valeur mesurée. Ce mode est utilisé pour la démonstration de l'appareil si aucun animal n'est disponible pour une mesure. Pour désactiver ou activer le mode de présentation de l'appareil, procédez comme suit :
 
@@ -52,7 +52,7 @@ Si le mode de présentation est sélectionné, l'appareil simule les mesures de 
 
     ![VitalControl : réglages du menu Mode démonstration](../images/demonstrationmode.png "Mode démonstration")
 
-## Luminosité de l'écran
+## Luminosité de l'écran {#display-brightness}
 
 Pour régler la luminosité de l'écran, procédez comme suit.
 
@@ -66,7 +66,7 @@ Pour régler la luminosité de l'écran, procédez comme suit.
 
     ![VitalControl : réglages du menu Luminosité de l'écran](../images/displaybrightness.png "Luminosité de l'écran")
 
-## Vibration à la pression des touches
+## Vibration à la pression des touches {#vibration-on-keypress}
 
 Pour désactiver ou activer la vibration à la pression des touches de l'appareil, procédez comme suit :
 
@@ -80,7 +80,7 @@ Pour désactiver ou activer la vibration à la pression des touches de l'apparei
 
     ![VitalControl : réglages du menu Luminosité de l'écran](../images/vibrationonkeypress.png "Luminosité de l'écran")
 
-## Moniteur de ressources
+## Moniteur de ressources {#resource-monitor}
 
 Pour désactiver ou activer le moniteur de ressources de vibration de l'appareil, procédez comme suit :
 

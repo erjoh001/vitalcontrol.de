@@ -6,7 +6,7 @@ description: >
   Leer hoe je alle dieren en hun gegevens kunt verwijderen van je VitalControl-apparaat.
 categories: [Reset]
 ---
-## Alle dierengegevens van apparaat wissen
+## Alle dierengegevens van apparaat wissen {#erasing-all-animal-data-from-device}
 
 1. Open het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van je VitalControl-apparaat.
 

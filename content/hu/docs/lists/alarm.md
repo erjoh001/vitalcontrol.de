@@ -11,7 +11,7 @@ categories: [Lists]
 tags: [Lists, alarm]
 translationKey: lists/alarm
 ---
-## Riasztási lista
+## Riasztási lista {#alarm-list}
 
 A riasztási listán megtalálja az összes állatot, amelyet manuálisan hozzáadott a listához, vagy az összes állatot, amely a sárga vagy piros tartományban volt a hőmérséklet mérésekor. A lista segít áttekinteni az összes feltűnő állatot. Továbbá, minden állathoz a listán a következőket teheti:
 
@@ -36,7 +36,7 @@ A riasztási lista a következőképpen van felépítve:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Testhőmérséklet" title="Testhőmérséklet" /> | Az utolsó rögzített lázmérés a szimbólum alatt jelenik meg a közlekedési lámpa rendszer színeivel
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Állat értékelése" title="Értékelés" /> |A szimbólum alatti kör jelzi, hogy az állat a figyelési listán van
 
-### Előkészítő lépések
+### Előkészítő lépések {#preliminary-steps}
 
 1. Válassza ki a <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listák" /> `Listák` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
 
@@ -47,7 +47,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Előkészítő lépések")
 
-### Teljes műveleti menü
+### Teljes műveleti menü {#full-action-menu}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -59,7 +59,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Műveleti menü")
 
-### Állat adatok
+### Állat adatok {#animal-data}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -71,7 +71,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Állat adatok")
 
-### Hőmérséklet mérése
+### Hőmérséklet mérése {#take-temperature}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -83,7 +83,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Hőmérséklet mérése")
 
-### Állat értékelése
+### Állat értékelése {#rate-animal}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -95,7 +95,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Állat értékelése")
 
-### Riasztás törlése
+### Riasztás törlése	{#clear-alarm}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -108,7 +108,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Ébresztés törlése")
 
-### Figyelési állapot váltása
+### Figyelési állapot váltása {#toggle-watch-status}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -120,7 +120,7 @@ A riasztási lista a következőképpen van felépítve:
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Figyelési állapot váltása")
 
-### Állat keresése
+### Állat keresése {#search-animal}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -130,7 +130,7 @@ A riasztási lista a következőképpen van felépítve:
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Állat keresése")
 
-### Szűrő beállítása
+### Szűrő beállítása {#set-filter}
 
 1. Végezze el az előzetes lépéseket.
 

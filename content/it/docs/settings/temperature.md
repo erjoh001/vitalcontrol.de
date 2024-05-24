@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
-## Imposta le soglie e gli intervalli di temperatura
+## Imposta le soglie e gli intervalli di temperatura {#set-the-threshold--temperature-ranges}
 {{% alert title = "Suggerimento" %}}
 I valori soglia per la temperatura corporea sono memorizzati qui individualmente per le specie animali vitello, mucca e agnello. I campi gialli e rossi mostrano rispettivamente il valore soglia per "temperatura elevata" e "febbre". VitalControl inserisce gli animali nelle aree gialle e rosse nella lista degli allarmi, facilitando il monitoraggio degli animali malati. È possibile definire liberamente anche una soglia per la temperatura bassa.
 {{% /alert %}}
@@ -32,7 +32,7 @@ Per impostare le soglie e gli intervalli di temperatura sul tuo dispositivo, pro
 
     ![VitalControl: menu impostazioni soglie e intervalli di temperatura](../images/threshold.png "Soglie e intervalli di temperatura")
 
-## Impostare la sottotemperatura
+## Impostare la sottotemperatura {#set-undertemperature}
 {{% alert title = "Suggerimento" %}}
 Qui imposti la temperatura misurata dalla quale si verifica una sottotemperatura. Durante la misurazione della febbre, questa temperatura viene visualizzata con uno sfondo blu.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Per impostare il valore soglia per la sottotemperatura, procedi come segue:
 
     ![VitalControl: impostazioni menu sottotemperatura](../images/undertemperature.png "Sottotemperatura")
 
-## Luce anale
+## Luce anale {#anus-spotlight}
 {{% alert title = "Suggerimento" %}}
 Qui puoi impostare se la luce deve essere attivata o disattivata automaticamente durante la misurazione della febbre.
 {{% /alert %}}

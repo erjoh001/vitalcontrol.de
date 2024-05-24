@@ -11,7 +11,7 @@ categories: [Uued loomad]
 tags: [Uued loomad]
 translationKey: new/animals
 ---
-## Loo mitu uut looma
+## Loo mitu uut looma {#create-several-new-animals}
 
 Selles menüüpunkti saate korraga registreerida mitu uut looma. Selle käigus määrate põhiseaded, mis kehtivad kõikidele loomadele selle loomise ajal.
 

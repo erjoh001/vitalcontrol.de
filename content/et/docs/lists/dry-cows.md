@@ -11,7 +11,7 @@ categories: [Loendid]
 tags: [Loendid, põhikari]
 translationKey: lists/dry-cows
 ---
-## Põhikarja loend
+## Põhikarja loend {#dry-cows-list}
 
 Põhikarja loendis leiate kõik loomad, keda olete märkinud kui põhikarja. See loend aitab teil jälgida oma põhikarja ja teostada vajalikke toiminguid loomadega. Saate teostada järgmisi toiminguid:
 
@@ -28,7 +28,7 @@ Põhikarja loendis leiate kõik loomad, keda olete märkinud kui põhikarja. See
 Mõned toimingud tuleb teostada samamoodi nagu [häireloendis](../alarm). Neid siin ei selgitata. Tee eelnevad sammud ja kasuta vastava toimingu linki, et juhendite juurde jõuda.
 {{% /alert %}}
 
-### Eelsammud
+### Eelsammud {#preliminary-steps}
 
 1. Valige peamenüüs VitalControl seadmel <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Loendid" /> `Loendid` menüüpunkt ja vajutage `OK` nuppu.
 
@@ -38,7 +38,7 @@ Mõned toimingud tuleb teostada samamoodi nagu [häireloendis](../alarm). Neid s
 
    ![VitalControl Loendid Põhikarja loend](../images/firststeps5.png "Eelsammud")
 
-## Poegimine
+## Poegimine {#calving}
 
 1. Täitke eelsammud.
 

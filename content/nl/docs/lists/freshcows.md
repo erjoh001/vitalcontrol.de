@@ -11,29 +11,29 @@ categories: [Lijsten]
 tags: [Lijsten, verse koe]
 translationKey: lists/fresh-cows
 ---
-### Lijst van verse koeien
+### Lijst van verse koeien {#fresh-cows-list}
 
 {{% alert title="Uitleg" %}}
 Bij het beheren van verse koeien wordt het dagelijks controleren van de dieren gedurende meerdere dagen na de geboorte beschouwd als een beste praktijk routine. De lijst van verse koeien ondersteunt deze controle van verse koeien, vooral wat betreft het registreren van de temperatuur. Voor elk dier wordt een kolomdiagram over alle dagen van de controleperiode getoond, elke dag van de controleperiode wordt vertegenwoordigd door een verticale balk. Afhankelijk van de kleur van de balk (groen, geel of rood), kunt u zien of er op die dag een normale, verhoogde of kritisch verhoogde temperatuur is gemeten voor het betreffende dier.
 {{% /alert %}}
 
-Koeien worden direct na hun kalverenregistratie op de lijst van verse koeien geplaatst. Ze blijven gedurende een bepaalde periode op die lijst staan, de lengte van deze periode (in dagen) kan worden aangepast in de [instellingen](../../settings/data-acquisition/#controleperiode-verse-koeien).
+Koeien worden direct na hun kalverenregistratie op de lijst van verse koeien geplaatst. Ze blijven gedurende een bepaalde periode op die lijst staan, de lengte van deze periode (in dagen) kan worden aangepast in de [instellingen](../../settings/data-acquisition/#control-period-of-fresh-cows)).
  De volgende acties zijn beschikbaar voor deze lijst:
 
-- [Actiemenu](../alarm/#actiemenu)
-- [Diergegevens](../alarm/#dier-data)
-- [Temperatuur meten](../alarm/#temperatuur-meten)
+- [Actiemenu](../alarm/#full-action-menu)
+- [Diergegevens](../alarm/#animal-data)
+- [Temperatuur meten](../alarm/#take-temperature)
 - [Toggle alarm status](#toggle-alarm-status)
 - [Toggle watch status](#toggle-watch-status)
-- [Verborgen gemeten koeien](#verborgen-gemeten-koeien)
-- [Dier zoeken](../alarm/#dier-zoeken)
-- [Filter instellen](../alarm/#filter-zetten)
+- [Verborgen gemeten koeien](#hide-measured-cows)
+- [Dier zoeken](../alarm/#search-animal)
+- [Filter instellen](../alarm/#set-filter)
 
 {{% alert title="Hint" %}}
 Sommige acties worden op dezelfde manier uitgevoerd als in de [alarmlist](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.
 {{% /alert %}}
 
-### Voorbereidende stappen
+### Voorbereidende stappen {#preliminary-steps}
 
 1. Selecteer het <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lijsten" /> `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
@@ -43,7 +43,7 @@ Sommige acties worden op dezelfde manier uitgevoerd als in de [alarmlist](../ala
 
    ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Verse koeien lijst")
 
-### Toggle alarm status
+### Toggle alarm status {#toggle-alarm-status}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -55,7 +55,7 @@ Sommige acties worden op dezelfde manier uitgevoerd als in de [alarmlist](../ala
 
    ![VitalControl Lists Fresh cows list](../images/togglealarmstatus.png "Alarmstatus wisselen")
 
-### Toggle watch status
+### Toggle watch status {#toggle-watch-status}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -67,7 +67,7 @@ Sommige acties worden op dezelfde manier uitgevoerd als in de [alarmlist](../ala
 
 ![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Toggle watch status")
 
-### Verborgen gemeten koeien
+### Verborgen gemeten koeien {#hide-measured-cows}
 
 Als deze functie is geactiveerd, worden de dieren waarvoor een temperatuurmeting is uitgevoerd verborgen op de lijst met droge koeien. Als deze functie niet is geactiveerd, blijven de dieren zichtbaar op de lijst.
 

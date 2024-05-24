@@ -10,12 +10,12 @@ description: >
 categories: [Akciólánc]
 tags: [Akciólánc, Akciók]
 translationKey: action-chain
----
-## Akciólánc
+--- 
+## Akciólánc {#chain-of-actions}
 
 Az akciólánc lehetővé teszi, hogy automatikusan több akciót hajts végre egy állaton egymás után. Például kiválaszthatod a `Hőmérséklet mérése` és `Értékelés` akciókat. Ha ezután végrehajtod az akcióláncot, először megmérheted az állat hőmérsékletét, majd azonnal rögzítheted az értékelést.
 
-### Akciólánc használata
+### Akciólánc használata {#use-chain-of-actions}
 
 1. A VitalControl készülék főképernyőjén válaszd ki a &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Akciólánc" />&nbsp; `Akciólánc` menüpontot és nyomd meg az `OK` gombot.
 
@@ -33,7 +33,7 @@ Az akciólánc lehetővé teszi, hogy automatikusan több akciót hajts végre e
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Akciólánc beállítása
+### Akciólánc beállítása {#set-chain-of-actions}
 
 1. A VitalControl készülék főképernyőjén válaszd ki a &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Akciólánc" />&nbsp; `Akciólánc` menüpontot és nyomd meg az `OK` gombot.
 

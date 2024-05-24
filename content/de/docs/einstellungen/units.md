@@ -11,7 +11,7 @@ Kategorien: [Einstellungen]
 Tags: [Einstellungen, Einheiten]
 translationKey: settings/units
 ---
-## Temperatureinheit festlegen
+## Temperatureinheit festlegen {#set-temperature-unit}
 
 Um die Temperatureinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -25,7 +25,7 @@ Um die Temperatureinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
     ![VitalControl: Menüfolge Einstellung Temperatureinheit](../bilder/temperature.png "Temperatureinheit einstellen")
 
-## Masseneinheit festlegen
+## Masseneinheit festlegen {#set-mass-unit}
 
 Um die Masseneinheit auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 

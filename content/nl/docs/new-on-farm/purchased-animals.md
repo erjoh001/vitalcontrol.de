@@ -11,7 +11,7 @@ categories: [Nieuw op de boerderij]
 tags: [Nieuw op de boerderij]
 translationKey: new-on-farm/new-on-farm
 ---
-## Gekocht dier
+## Gekocht dier {#purchased-animals}
 
 In deze lijst vindt u alle dieren die u via bulkregistratie heeft aangemaakt. U kunt deze lijst exporteren en zo uw aanwinsten direct registreren in het kuddebeheerprogramma DSP-Herde en in HI-Tier. U kunt ook alle aankoopmeldingen verwijderen.
 
@@ -31,7 +31,7 @@ Om gegevens te exporteren heeft u de meegeleverde UBS-stick nodig. Sluit de USB-
 
 ![VitalControl: Lijst van gekochte dieren, csv export](../images/purchasedanimals.png "Gekochte dieren, csv export")
 
-## Opties: Verwijder alle meldingen na export
+## Opties: Verwijder alle meldingen na export {#options-delete-all-notices-after-export}
 
 Met deze optie kunt u instellen of alle berichten binnen de lijst `Gekochte dieren` verwijderd moeten worden nadat het CSV-bestand is geëxporteerd. Gebruik deze optie alleen als u zeker weet dat u de berichten niet meer nodig heeft!
 
@@ -43,21 +43,21 @@ Met deze optie kunt u instellen of alle berichten binnen de lijst `Gekochte dier
 
     ![VitalControl: Lijst van gekochte dieren, csv export](../images/delete-all.png "Verwijder alle meldingen na export")
 
-## Directe functieoproepen
+## Directe functieoproepen {#direct-function-calls}
 
 Naast het aanmaken van het exportbestand, heeft u de volgende opties:
 
-- [Transponder afnemen](#transponder-afnemen)
-- [Verwijder alle meldingen](#verwijder-alle-meldingen)
-- [Verwijder dier + melding](#verwijder-dier--melding)
-- [Verwijder aankoopmelding](#verwijder-aankoopmelding)
-- [Gegevens van gekocht dier bewerken](#gegevens-van-gekocht-dier-bewerken)
+- [Transponder afnemen](#unlink-transponder)
+- [Verwijder alle meldingen](#clear-all-purchase-notices)
+- [Verwijder dier + melding](#delete-animal--purchase-notice)
+- [Verwijder aankoopmelding](#clear-notice-of-purchase)
+- [Gegevens van gekocht dier bewerken](#edit-data-of-purchased-animal)
 
 {{% alert title="Hint" %}}
 Open altijd eerst de lijst `gekochte dieren` zoals beschreven in de instructies hierboven.
 {{% /alert %}}
 
-### Transponder afnemen
+### Transponder afnemen {#unlink-transponder}
 
 U kunt deze functie gebruiken om de transponder van een dier te verwijderen.
 
@@ -69,7 +69,7 @@ U kunt deze functie gebruiken om de transponder van een dier te verwijderen.
 
     ![VitalControl: Lijst van gekochte dieren, csv export](../images/unlink-transponder.png "Gekochte dieren, transponder ontkoppelen")
 
-### Verwijder alle meldingen
+### Verwijder alle meldingen {#clear-all-purchase-notices}
 
 Met deze functie kunt u alle dieren uit de lijst `Gekochte dieren` verwijderen zonder eerst een exportbestand te hoeven aanmaken.
 
@@ -81,7 +81,7 @@ Met deze functie kunt u alle dieren uit de lijst `Gekochte dieren` verwijderen z
 
 ![VitalControl: Lijst van gekochte dieren, aankoopmeldingen wissen](../images/clear.png "Verwijder alle meldingen")
 
-### Verwijder dier + melding
+### Verwijder dier + melding {#delete-animal--purchase-notice}
 
 Om een dier en de bijbehorende aankoopmelding te verwijderen, ga je als volgt te werk:
 
@@ -95,7 +95,7 @@ Om een dier en de bijbehorende aankoopmelding te verwijderen, ga je als volgt te
 
     ![VitalControl: Lijst van gekochte dieren, dier + melding verwijderen](../images/delete.png "Verwijder dier + melding")
 
-### Verwijder aankoopmelding
+### Verwijder aankoopmelding {#clear-notice-of-purchase}
 
 Om de aankoopmelding van een dier uit de lijst te verwijderen, ga je als volgt te werk:
 
@@ -109,12 +109,12 @@ Om de aankoopmelding van een dier uit de lijst te verwijderen, ga je als volgt t
 
     ![VitalControl: Lijst van gekochte dieren, aankoopmelding wissen](../images/clearnotice.png "Verwijder aankoopmelding")
 
-### Gegevens van gekocht dier bewerken
+### Gegevens van gekocht dier bewerken {#edit-data-of-purchased-animal}
 
 Om de gegevens van een dier in de lijst van aankopen te bewerken, ga je als volgt te werk:
 
 1. Gebruik de pijltoetsen △ ▽ om het dier te selecteren dat je wilt bewerken.
 
-2. Gebruik de `OK` knop. Er opent een submenu met de gegevens van het dier. Je kunt hier vinden hoe je deze kunt bewerken [hier](/nl/docs/acties/edit/#veranderen).
+2. Gebruik de `OK` knop. Er opent een submenu met de gegevens van het dier. Je kunt hier vinden hoe je deze kunt bewerken [hier](/nl/docs/acties/edit/#edit-animal-data).
 
     ![VitalControl: Lijst van gekochte dieren, gegevens van dier bewerken](../images/edit.png "Gegevens van gekocht dier bewerken")

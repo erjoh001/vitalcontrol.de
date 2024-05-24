@@ -11,7 +11,7 @@ categories: [Nové zvíře]
 tags: [Registrace zvířat]
 translationKey: new/animal
 ---
-## Vytvoření nového zvířete
+## Vytvoření nového zvířete {#create-a-new-animal}
 
 Pro vytvoření nového zvířete postupujte následovně:
 

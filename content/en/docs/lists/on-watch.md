@@ -11,7 +11,7 @@ categories: [Lists]
 tags: [Lists, on watch]
 translationKey: lists/on-watch
 ---
-## On watch list
+## On watch list {#on-watch-list}
 
 On the watch list you will find all animals that you have manually added to the list. The list helps you to keep an overview of the animals you have rated as conspicuous. Also, for each animal on the list, you can do the following:
 
@@ -40,7 +40,7 @@ The alarm list is structured as follows:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Body temperature" title="Body temperature" /> | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
 | &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Display animal on alarm" title="Animal on alarm" /> | A circle mark below the symbol indicates that the animal is on the alarm list
 
-### Preliminary Steps
+### Preliminary Steps {#preliminary-steps}
 
 1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
@@ -50,7 +50,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Preliminary Steps")
 
-### Remove from watch list
+### Remove from watch list {#remove-from-watch-list}
 
 1. Complete the preliminary steps.
 
@@ -62,7 +62,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists On watch list](../images/remove.png "Remove from watch list")
 
-### Toggle alarm status
+### Toggle alarm status {#toggle-alarm-status}
 
 1. Complete the preliminary steps.
 

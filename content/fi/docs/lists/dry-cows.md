@@ -11,25 +11,25 @@ categories: [Listat]
 tags: [Listat, pohjalehmä]
 translationKey: lists/dry-cows
 ---
-## Pohjalehmien lista
+## Pohjalehmien lista {#dry-cows-list}
 
 Pohjalehmien listalta löydät kaikki eläimet, jotka olet tallentanut pohjalehmiksi. Tämä lista auttaa sinua seuraamaan pohjalehmiäsi ja suorittamaan tarvittavia toimenpiteitä eläimille. Voit suorittaa seuraavat toimenpiteet:
 
-- [Täysi toimintovalikko](../alarm/#täydellinen-toimintovalikko)
-- [Tietoa eläimistä](../alarm/#tieto-eläimistä)
-- [Mittaa lämpötila](../alarm/#mittaa-lämpötila)
-- [Poikiminen](#poikiminen)
-- [Poista eläin tarkkailulistalta](../on-watch/#poista-eläin-tarkkailulistalta)
-- [Vaihda hälytysken tila](../on-watch/#vaihda-hälytysken-tila)
-- [Etsi eläin](../alarm/#etsi-eläin)
-- [Aseta suodatin](../alarm/#aseta-suodatin)
+- [Täysi toimintovalikko](../alarm/#full-action-menu)
+- [Tietoa eläimistä](../alarm/#animal-data)
+- [Mittaa lämpötila](../alarm/#take-temperature)
+- [Poikiminen](#calving)
+- [Poista eläin tarkkailulistalta](../on-watch/#toggle-alarm-status)
+- [Vaihda hälytysken tila](../alarm/#toggle-watch-status)
+- [Etsi eläin](../alarm/#search-animal)
+- [Aseta suodatin](../alarm/#set-filter)
 
 
 {{% alert title="Vinkki" %}}
 Jotkut toimenpiteet suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). Niitä ei selitetä tässä. Suorita alustavat vaiheet ja käytä kyseisen toiminnon linkkiä ohjeiden saamiseksi.
 {{% /alert %}}
 
-### Alustavat vaiheet
+### Alustavat vaiheet {#preliminary-steps}
 
 1. Valitse päävalikosta <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listat" /> `Listat` -valikkokohta VitalControl-laitteessasi ja paina `OK`-nappia.
 
@@ -39,7 +39,7 @@ Jotkut toimenpiteet suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm
 
    ![VitalControl Listat Pohjalehmien lista](../images/firststeps5.png "Alustavat vaiheet")
 
-## Poikiminen
+## Poikiminen {#calving}
 
 1. Suorita alustavat vaiheet.
 

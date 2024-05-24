@@ -7,7 +7,7 @@ translationKey: actions
 weight: 50
 maphilight: true
 ---
-## Available actions
+## Available actions {#available-actions}
 
 Depending on the animal type, you can perform up to 16 different actions for an animal.
 
@@ -39,7 +39,7 @@ Depending on the animal type, you can perform up to 16 different actions for an 
 Each action is identified by a symbol. Move the mouse pointer over a symbol in the graphic below and let it rest for a moment. A tooltip appears, presenting information about the respective action. If you click on one of the symbols, you will be forwarded to a description of the respective action.
 {{% /alert %}}
 
-## General procedure
+## General procedure {#general-procedure}
 
 Within the menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` you can select the next animal at any time without having to leave the menu item Actions. To select the next animal, proceed as follows:
 

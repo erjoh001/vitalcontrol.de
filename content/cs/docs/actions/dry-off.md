@@ -11,13 +11,13 @@ tags: [Osušit]
 translationKey: actions/dry-cows
 ---
 
-## Osušit
+## Osušit {#dry-off}
 
 {{% alert title="Tip" %}}
 V závislosti na počátečním stavu krávy můžete buď osušit zvíře a přidat ho na seznam sušičů, nebo můžete označit zvíře jako čerstvou dojnici a tím ho přidat na seznam čerstvých dojnic. Rozlišení mezi funkcemi je zřejmé pomocí plusového nebo minusového symbolu.
 {{% /alert %}}
 
-### Osušit krávu
+### Osušit krávu {#dry-off-a-cow}
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `actions` a stiskněte tlačítko `OK`.
 
@@ -37,7 +37,7 @@ V závislosti na počátečním stavu krávy můžete buď osušit zvíře a př
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Označit jako laktovanou
+### Označit jako laktovanou {#mark-as-lactated}
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `actions` a stiskněte tlačítko `OK`.
 

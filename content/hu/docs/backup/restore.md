@@ -17,7 +17,7 @@ Ezen az USB flash meghajtón léteznie kell egy `backup` könyvtárnak, amelynek
 Az USB flash meghajtó `backup` könyvtárában több `.vcu` kiterjesztésű biztonsági mentési fájlt is találhat. A VitalControl eszköz mindig a `backup.vcu` nevű fájlból állítja vissza az adatokat, amely mindig a legújabb fájl. Ha egy régebbi biztonsági mentési fájlból szeretne adatokat visszaállítani (amely tartalmazza a mentés dátumát a fájlnévben), akkor ezt a régebbi biztonsági mentési fájlt át kell neveznie `backup.vcu`-ra, mielőtt végrehajtaná az adatvisszaállítást!
 {{% /alert %}}
 
-## Adatvisszaállítás a VitalControl eszközre
+## Adatvisszaállítás a VitalControl eszközre {#data-restoration-to-vitalcontrol-device}		
 
 1. Nyissa meg a menüpontot &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Eszköz" /> `Eszköz` a VitalControl eszköz főképernyőjén, amelyre vissza szeretné állítani az adatokat.
 

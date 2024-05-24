@@ -11,7 +11,7 @@ Kategorien: [Settings]
 Tags: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
-## Desvincular Transpondedor
+## Desvincular Transpondedor {#unlink-transponder}
 
 Puede utilizar esta configuración para especificar cómo se debe asignar la identificación del animal tan pronto como retire el transpondedor del animal. Esta configuración puede utilizarse si, por ejemplo, se ha realizado la sincronización con el alimentador Urban Alma Pro y las identificaciones de los animales en el VitalControl ahora corresponden al número de collar de los animales. Tan pronto como retire el collar y desvincule el transpondedor, puede especificar que la identificación del animal se derive ahora del número de la etiqueta de la oreja. Esto le permite identificar rápidamente al animal en el establo sin un collar.
 
@@ -21,6 +21,6 @@ Puede utilizar esta configuración para especificar cómo se debe asignar la ide
 
 3. Ahora use los botones de flecha ◁ ▷ para seleccionar la configuración deseada. Puede elegir entre `sin cambios` o `derivación del número de etiqueta`.
 
-4. La opción de configuración `derivación del número de etiqueta` le permite realizar más ajustes. Vea [aquí](/es/docs/settings/animal-registration/#dígito-del-nuevo-id).
+4. La opción de configuración `derivación del número de etiqueta` le permite realizar más ajustes. Vea [aquí](/es/docs/settings/animal-registration/#digit-of-the-new-id).
 
    ![VitalControl: Menú Configuraciones Desvincular transpondedor](../images/unlink-transponder.png "Desvincular transpondedor")

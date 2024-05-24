@@ -6,7 +6,7 @@ description: >
   Узнайте, как удалить всех животных и их данные с вашего устройства VitalControl.
 categories: [Reset]
 ---
-## Удаление всех данных о животных с устройства
+## Удаление всех данных о животных с устройства {#erasing-all-animal-data-from-device}
 
 1. Откройте пункт меню <img src="/icons/device.svg" width="25" align="bottom" alt="Устройство" /> `Устройство` на главном экране вашего устройства VitalControl.
 

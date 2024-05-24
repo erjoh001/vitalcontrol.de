@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 A gazdasági szám megadása jelenleg csak a német gazdák számára érdekes. Más nemzetiségű gazdák jelenleg **nem** profitálnak a gazdasági azonosító megadásából. Ez a jövőbeli [firmware verziókkal]({{< relref "../firmware/versions/" >}}) a VitalControl esetében változhat.
 {{< /alert >}}
 
-## Állítsa be a gazdasági számát
+## Állítsa be a gazdasági számát {#set-your-farm-number}
 
 A vállalati szám eszközön történő beállításához kövesse az alábbi lépéseket:
 

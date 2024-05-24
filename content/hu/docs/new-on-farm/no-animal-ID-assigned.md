@@ -11,7 +11,7 @@ categories: [Új a farmon]
 tags: [Új a farmon]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Nincs nemzeti állatazonosító hozzárendelve
+## Nincs nemzeti állatazonosító hozzárendelve {#no-national-animal-id-assigned}
 
 Ebben a listában megtalálja az összes olyan állatot, amelyhez még nem rendeltek állatazonosítót. Hozzárendelhet egy állatazonosítót a listában szereplő állatokhoz.
 
@@ -44,7 +44,7 @@ Az [utolsó műveletek az OK gombon](#last-action-on-ok) alatt beállíthatja, h
 {{% /tab %}}
 {{< /tabpane >}}        
 
-## Utolsó művelet az OK gombon
+## Utolsó művelet az OK gombon {#last-action-on-ok}
 
 Az extra műveletek segítségével beállíthatja, hogy milyen műveleteket kíván végrehajtani a nemzeti állat azonosító hozzárendelése előtt. Választhat a hőmérséklet mérés, az állat értékelése és az állat mérlegelése között. Az adott művelet közvetlenül elmentésre kerül az állathoz, amelyet ezt követően hozzárendel. Az alábbiak szerint járjon el:
 
@@ -63,7 +63,7 @@ Az extra műveletek segítségével beállíthatja, hogy milyen műveleteket kí
 Csak akkor használhatod a fülcímke szám hozzárendelést szkenneléssel, ha elektronikus fülcímkéket használsz!
 {{% /alert %}}
 
-## Korábbi kiegészítő műveletek
+## Korábbi kiegészítő műveletek {#previous-additional-actions}
 
 A korábbi kiegészítő műveletekkel beállíthatod, hogy milyen műveleteket szeretnél végrehajtani a fülcímke szám hozzárendelése előtt. Választhatsz a hőmérséklet mérés, az állat értékelése és az állat mérlegelése között. Az adott művelet közvetlenül elmentésre kerül az állathoz, amelyhez később hozzárendeled. Az alábbiak szerint járj el:
 
@@ -79,6 +79,6 @@ A korábbi kiegészítő műveletekkel beállíthatod, hogy milyen műveleteket 
 
     ![Megvásárolt állatok listája, nincs nemzeti állatazonosító hozzárendelve](../images/aidditional-actions.png "Nincs nemzeti állatazonosító hozzárendelve, Link")
 
- ## További menüpontok
+ ## További menüpontok {#further-menu-items}
 
 A felugró ablakban lehetőséged van a `állat keresése` és a `szűrő beállítása` közötti választásra is. Használd a nyílbillentyűket △ ▽ a megfelelő menüpont eléréséhez és erősítsd meg az `OK` gombbal. A `szűrő beállítása` információi [itt](/hu/docs/filter/) és a `állat keresése` információi a `nincs nemzeti állatazonosító hozzárendelve` 4. lépésében leírtak szerint történnek.

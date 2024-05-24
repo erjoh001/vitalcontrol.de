@@ -7,8 +7,7 @@ draft: false
 description: >
  Chcete-li získat informace o hardwaru vašeho zařízení, klikněte zde
 ---
-## Získat informace o hardwaru
-
+## Získat informace o hardwaru {#get-hardware-information}
 Chcete-li získat informace o hardwaru vašeho zařízení, postupujte následovně:
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `device` a stiskněte tlačítko `OK`.

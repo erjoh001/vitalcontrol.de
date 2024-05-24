@@ -10,7 +10,7 @@ categories: [Tegevused, Tegevuste jada]
 tags: [Tegevused, Tegevuste jada]
 translationKey: actions/setting
 ---
-## Menüüelemendid
+## Menüüelemendid {#menu-items}
 
 Selles seadete menüüs määrad, millised tegevused kuvatakse sulle &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `Tegevus` menüüs.
 
@@ -28,7 +28,7 @@ Selles seadete menüüs määrad, millised tegevused kuvatakse sulle &nbsp;<img 
 
     ![VitalControl: Menüü Tegevuste Menüüelemendid](../images/menu.png "Menüüelemendid")
 
-## Tegevuste jada
+## Tegevuste jada {#chain-of-actions}
 
 Selles seadete menüüs seadistad &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Tegevuste jada" />&nbsp; `tegevuste jada`.
 

@@ -10,7 +10,7 @@ tags: [εξαγόμενα αρχεία, θερμοκρασίες, βάρη, αξ
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Γενικές πληροφορίες
+## Γενικές πληροφορίες {#general-information}
 
 Κατά την εξαγωγή δεδομένων ζώων, ανεξάρτητα από το αν γίνεται σε [USB flash drive][] ή σε τοπική μονάδα αποθήκευσης [στον Η/Υ][], δημιουργούνται τέσσερα αρχεία εξαγωγής σε κάθε περίπτωση:
 
@@ -29,17 +29,17 @@ translationKey: data-export/data-files
 
 Τα τέσσερα αρχεία είναι αναγνώσιμα από τον άνθρωπο αρχεία κειμένου [CSV](https://en.wikipedia.org/wiki/Comma-separated_values). Τα αρχεία κωδικοποιούνται σε μορφή `UTF-8`, χρησιμοποιούνται ελληνικά ερωτηματικά (`;`) ως διαχωριστικά στηλών. Τα επιμέρους πεδία δεδομένων *δεν* περικλείονται σε εισαγωγικά. Κάθε γραμμή του αντίστοιχου πίνακα αντιπροσωπεύει ένα σύνολο δεδομένων ζώου ή μια μέτρηση ή αξιολόγηση που έγινε σε ένα ζώο.
 
-## Περαιτέρω επεξεργασία των εξαγόμενων δεδομένων
+## Περαιτέρω επεξεργασία των εξαγόμενων δεδομένων {#further-processing-of-exported-data}	
 
 Μπορείτε να ανοίξετε καθένα από αυτά τα τέσσερα αρχεία εξαγωγής σε ένα πρόγραμμα υπολογιστικών φύλλων της επιλογής σας (όπως το [Microsoft Excel](https://products.office.com/excel) ή το [OpenOffice Calc](https://www.openoffice.org/)) και να πραγματοποιήσετε προχωρημένη ανάλυση των δεδομένων εκεί. Για παράδειγμα, παρουσιάζεται παρακάτω η άποψη του πίνακα `animals.csv` σε ένα πρόγραμμα υπολογιστικών φύλλων:
 
 ![Εξαγόμενα δεδομένα ζώων, ανοιχτά σε πρόγραμμα υπολογιστικών φύλλων](../images/animals.png "Δεδομένα ζώων ανοιχτά σε πρόγραμμα υπολογιστικών φύλλων")
 
-## Περιγραφή των αρχείων δεδομένων
+## Περιγραφή των αρχείων δεδομένων {#description-of-data-files}
 
 Οι ακόλουθες τέσσερις ενότητες περιγράφουν αναλυτικά καθένα από τα εξαγόμενα αρχεία δεδομένων:
 
-### Δεδομένα ζώων (`animals.csv`)
+### Δεδομένα ζώων (`animals.csv`) {#animal-data-animalscsv}
 
 - **Όνομα αρχείου** `animals.csv`
 - **Περιγραφή** Γενικά δεδομένα ζώων
@@ -72,7 +72,7 @@ National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
 
 [animals.csv]: /data-export/animals.csv
 
-### Δεδομένα θερμοκρασίας σώματος (`temperatures.csv`)
+### Δεδομένα θερμοκρασίας σώματος (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Όνομα αρχείου** `temperatures.csv`
 - **Περιγραφή** Τιμές θερμοκρασίας, ληφθείσες μετρώντας την πρωκτική θερμοκρασία των ζώων.
@@ -104,7 +104,7 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Temperature-Celsius
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Δεδομένα βάρους (`weights.csv`)
+### Δεδομένα βάρους (`weights.csv`) {#weight-data-weightscsv}
 
 - **Όνομα αρχείου** `weights.csv`
 - **Περιγραφή** Τιμές βάρους που λαμβάνονται με τη ζύγιση ζώων
@@ -136,7 +136,7 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
 
 [weights.csv]: /data-export/weights.csv
 
-### Βαθμολογίες ζώων (`ratings.csv`)
+### Βαθμολογίες ζώων (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Όνομα αρχείου** `ratings.csv`
 - **Περιγραφή** Βαθμολογίες ζώων που λαμβάνονται με οπτική επιθεώρηση των ζώων

@@ -29,8 +29,8 @@ Dependiendo del tipo de animal, puedes realizar hasta 16 acciones diferentes par
    <area shape="rect" coords="175,225,230,280" alt="Pérdida del animal" title="Registrar una pérdida del animal&#10;Clic del ratón: abrir documentación" href="/es/docs/actions/animal-loss/">
    <area shape="rect" coords="3,280,60,337" alt="Vincular transpondedor" title="Asignar un transpondedor a un animal&#10;Clic del ratón: abrir documentación" href="/es/docs/actions/link-transponder/">
    <area shape="rect" coords="55,280,120,337" alt="Desvincular transpondedor" title="Eliminar el vínculo del transpondedor con un animal&#10;Clic del ratón: abrir documentación" href="/es/docs/actions/unlink-transponder/">
-   <area shape="rect" coords="120,280,175,337" alt="Vincular ID del animal manualmente" title="Asignar un ID nacional de animal a un animal que no tiene un ID nacional de animal&#10;Clic del ratón: abrir documentación" href="/es/docs/actions/link-animal-id/#vincular-id-del-animal">
-   <area shape="rect" coords="175,280,230,337" alt="Vincular ID del animal con escaneo" title="Asignar un ID nacional de animal a un animal que no tiene un ID nacional de animal&#10;Clic del ratón: abrir documentación" href="/es/docs/actions/link-animal-id/#vincular-id-de-animal-con-escaneo-de-etiqueta-electrónica-para-oreja">
+   <area shape="rect" coords="120,280,175,337" alt="Vincular ID del animal manualmente" title="Asignar un ID nacional de animal a un animal que no tiene un ID nacional de animal&#10;Clic del ratón: abrir documentación" href="/es/docs/actions/link-animal-id/#link-animal-id">
+   <area shape="rect" coords="175,280,230,337" alt="Vincular ID del animal con escaneo" title="Asignar un ID nacional de animal a un animal que no tiene un ID nacional de animal&#10;Clic del ratón: abrir documentación" href="/es/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 <area shape="rect" coords="100,340,140,375" alt="Configuración" title="Acceder a la configuración&#10;Clic del ratón: a la documentación" href="/es/docs/actions/setting/">
 </map>

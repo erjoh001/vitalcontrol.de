@@ -11,7 +11,7 @@ Kategorien: [Settings]
 Tags: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
-## Scollega Transponder
+## Scollega Transponder {#unlink-transponder}
 
 Puoi utilizzare questa impostazione per specificare come l'ID animale deve essere assegnato non appena rimuovi il transponder dall'animale. Questa impostazione può essere utilizzata se, ad esempio, è stata effettuata la sincronizzazione con l'alimentatore Urban Alma Pro e gli ID animali su VitalControl ora corrispondono al numero del collare degli animali. Non appena rimuovi il collare e scolleghi il transponder, puoi specificare che l'ID animale ora deriva dal numero del marchio auricolare. Questo ti permette di identificare rapidamente l'animale nella stalla senza un collare.
 

@@ -11,7 +11,7 @@ categories: [Device]
 tags: [Device]
 translationKey: device/flashlight
 ---
-## Fény aktiválása és deaktiválása
+## Fény aktiválása és deaktiválása {#activate-and-deactivate-light}
 
 Itt aktiválhatja vagy deaktiválhatja a fényt a VitalControl készülékén. Ha aktiválja a fényt, az folyamatosan világít.
 

@@ -11,7 +11,7 @@ categories: [Kalving]
 tags: [Kalving]
 translationKey: new/calving
 ---
-## Een kalving registreren
+## Een kalving registreren {#register-a-calving}
 
 Om een kalving te registreren, ga als volgt te werk:
 

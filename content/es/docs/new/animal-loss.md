@@ -11,7 +11,7 @@ categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Registrar la pérdida de un animal
+## Registrar la pérdida de un animal {#record-the-loss-of-an-animal}
 
 {{% alert title="Consejo" %}}
 La función de pérdida de animal en este elemento del menú se utiliza principalmente para registrar terneros/corderos muertos. Las opciones de configuración se adaptan en consecuencia y no son idénticas a los elementos de configuración en el menú `Acciones` -> `Dar de baja` o `Pérdida de animal`.

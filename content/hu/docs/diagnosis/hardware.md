@@ -11,7 +11,7 @@ weight: 10
 ---
 Ha a készülékén meghibásodás lép fel, először végezzen hardverellenőrzést annak tisztázására, hogy valamelyik hardverkomponens hibás-e.
 
-## Ellenőrizze a készülék hardverét
+## Ellenőrizze a készülék hardverét {#check-the-hardware-of-your-device}
 
 1. Nyissa meg a főképernyőn a &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Készülék" /> `Készülék` menüpontot a VitalControl készülékén.
 

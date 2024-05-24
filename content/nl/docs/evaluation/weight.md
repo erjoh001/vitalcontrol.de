@@ -22,15 +22,15 @@ Als u op een menu-item klikt, wordt u doorgestuurd naar een beschrijving van de 
 <img src="../images/imagemap.png" alt="VitalControl Evaluatie" title="Gewicht" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Weging van vandaag" title="Evalueer de gewichtswaarden van uw dieren die vandaag met de VitalControl zijn geregistreerd&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#weging-van-vandaag">
-   <area shape="rect" coords="116,40,238,160" alt="Geboortegewicht" title="Evalueer uw opgeslagen geboortegewichten&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#geboortegewicht">
-   <area shape="rect" coords="3,160,116,279" alt="gewichtsontwikkeling" title="Evalueer de gewichtsontwikkeling van uw dieren&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#gewichtsontwikkeling">
+   <area shape="rect" coords="3,40,116,160" alt="Weging van vandaag" title="Evalueer de gewichtswaarden van uw dieren die vandaag met de VitalControl zijn geregistreerd&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Geboortegewicht" title="Evalueer uw opgeslagen geboortegewichten&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="gewichtsontwikkeling" title="Evalueer de gewichtsontwikkeling van uw dieren&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/weight/#weight-development">
 
    <area shape="rect" coords="150,282,238,319" alt="Filter" title="Stel een filter in&#10;Muisklik: naar de documentatie" href="/nl/docs/filter">
    <area shape="rect" coords="2,282,95,319" alt="Terug" title="Spring een niveau terug&#10;Muisklik: naar de documentatie" href="/nl/docs/evaluation/">
 </map>
 
-## Weging van vandaag
+## Weging van vandaag {#todays-weighings}
 In deze evaluatie kunt u de volgende informatie zien met betrekking tot de wegingen van de laatste 6 uur:
 - Het gemiddelde gewicht van de dieren
 - De gemiddelde dagelijkse toename sinds de geboorte
@@ -49,7 +49,7 @@ Om de evaluatie uit te voeren, ga als volgt te werk:
 
    ![VitalControl: menu Evaluatie Wegingen van vandaag](../images/todaysweighings.png "Evaluatie Wegingen van vandaag")
 
-## Geboortegewicht
+## Geboortegewicht {#birth-weights}
 In deze evaluatie kunt u de volgende informatie bekijken:
 - Het gemiddelde geboortegewicht
 - De gewichtsklassen
@@ -66,7 +66,7 @@ Om de evaluatie uit te voeren, ga als volgt te werk:
 
 ![VitalControl: menu Evaluatie Geboortegewichten](../images/birthweights.png "Evaluatie Geboortegewichten")
 
-## Gewichtsontwikkeling
+## Gewichtsontwikkeling {#weight-development}
 
 In deze evaluatie kunt u de volgende informatie zien die gerelateerd is aan alle wegingen:
 - Het gemiddelde gewicht van het dier

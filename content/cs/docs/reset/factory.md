@@ -8,7 +8,7 @@ description: >
 categories: [Reset]
 translationKey: reset/factory
 ---
-## Provedení továrního resetu
+## Provedení továrního resetu {#performing-a-factory-reset}
 
 1. Otevřete položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
 

@@ -12,7 +12,7 @@ weight: 20
 
 Utilizzando il menu 'Test di portata' è possibile determinare se il dispositivo VitalControl può leggere i transponder che hai a disposizione. Oltre a verificare la compatibilità, puoi anche determinare comodamente il protocollo di trasmissione utilizzato da questi transponder e visualizzare il numero memorizzato sul transponder.
 
-## Eseguire il test di portata
+## Eseguire il test di portata {#perform-range-test}
 
 1. Apri l'elemento del menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` nella schermata principale del tuo dispositivo VitalControl.
 
@@ -30,11 +30,11 @@ Utilizzando il menu 'Test di portata' è possibile determinare se il dispositivo
 
 1. Muovi il transponder avanti e indietro più volte al confine del campo di lettura. In questo modo, puoi determinare la portata di lettura dello scanner RFID in combinazione con i transponder che stai utilizzando.
 
-## Controllo del transponder
+## Controllo del transponder {#transponder-check}
 
 Eseguendo il test di portata descritto sopra, puoi ottenere informazioni anche sui transponder di diversa origine:
 
-### Transponder ufficiali
+### Transponder ufficiali {#official-transponder-ear-tags}
 
 1. Se utilizzi transponder ufficiali per i tuoi animali, sui quali è codificato il numero ufficiale di 15 cifre assegnato all'animale, le seguenti informazioni verranno visualizzate sullo schermo una volta letto il transponder:
 
@@ -46,7 +46,7 @@ Eseguendo il test di portata descritto sopra, puoi ottenere informazioni anche s
 
     ![VitalControl: verifica del transponder ufficiale](../images/transponder-official.png "Info transponder ufficiale")
 
-### Transponder di fornitori terzi
+### Transponder di fornitori terzi {#transponders-from-third-party-vendors}
 
 1. Se utilizzi transponder di fornitori terzi, come Urban, per l'identificazione elettronica dei tuoi animali, le seguenti informazioni verranno visualizzate sullo schermo una volta letto il transponder:
 

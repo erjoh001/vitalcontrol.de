@@ -11,7 +11,7 @@ tags: [Akce, ztráta zvířete]
 translationKey: actions/animal-loss
 ---
 
-## Ztráta zvířete
+## Ztráta zvířete {#animal-loss}
 
 Akce `ztráta zvířete` vám umožňuje zaregistrovat ztrátu zvířete. Pro zaregistrování ztráty zvířete postupujte následovně:
 

@@ -7,13 +7,13 @@ description: >
 ---
 Primero, asegúrese de que haya una [versión de firmware más reciente](../versions/) disponible para su dispositivo y, si es necesario, actualice el firmware de su dispositivo siguiendo las siguientes instrucciones.
 
-## Accesorio necesario
+## Accesorio necesario {#required-accessory}
 
 Para instalar la actualización en su dispositivo, necesita una memoria USB dual (pendrive 2 en 1) Tipo-C/USB 3.0 con un conector USB C y un conector USB A. Tal memoria USB dual se entrega junto con su dispositivo. También puede comprar una memoria USB de este tipo de diferentes proveedores.
 
 ![Memoria USB dual (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Memoria USB dual")
-
-## Preparación: descargar el último firmware
+ 
+## Preparación: descargar el último firmware {#preparation-download-latest-firmware}
 
 1. Inserte su memoria USB en el conector USB de su computadora. Luego cree un nuevo directorio llamado 'update' en el directorio raíz de su memoria USB.
 
@@ -31,7 +31,7 @@ La copia de seguridad de datos es una medida de precaución recomendada. Todos l
 
 [copia de seguridad de datos]: {{< relref "../backup/backup/" >}}
 
-## Realizar la actualización de firmware
+## Realizar la actualización de firmware {#perform-firmware-update}
 
 1. Abra el elemento del menú `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
 

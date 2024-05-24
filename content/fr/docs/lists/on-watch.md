@@ -11,18 +11,18 @@ categories: [Listes]
 tags: [Listes, en surveillance]
 translationKey: lists/on-watch
 ---
-## Liste de surveillance
+## Liste de surveillance {#on-watch-list}
 
 Sur la liste de surveillance, vous trouverez tous les animaux que vous avez ajoutés manuellement à la liste. Cette liste vous aide à garder un aperçu des animaux que vous avez jugés suspects. De plus, pour chaque animal sur la liste, vous pouvez effectuer les actions suivantes :
 
-- [Menu d'action complet](../alarm/#menu-daction-complet)
-- [Données de l'animal](../alarm/#données-sur-les-animaux)
-- [Prendre la température](../alarm/#prendre-la-température)
-- [Évaluer l'animal](../alarm/#évaluer-lanimal)
-- [Retirer de la liste de surveillance](#retirer-de-la-liste-de-surveillance)
-- [Basculer le statut d'alarme](#basculer-le-statut-de-lalarme)
-- [Rechercher un animal](../alarm/#rechercher-un-animal)
-- [Définir un filtre](../alarm/#définir-un-filtre)
+- [Menu d'action complet](../alarm/#full-action-menu)
+- [Données de l'animal](../alarm/#animal-data)
+- [Prendre la température](../alarm/#take-temperature)
+- [Évaluer l'animal](../alarm/#rate-animal)
+- [Retirer de la liste de surveillance](#remove-from-watch-list)
+- [Basculer le statut d'alarme](#toggle-alarm-status)
+- [Rechercher un animal](../alarm/#search-animal)
+- [Définir un filtre](../alarm/#set-filter)
 
 {{% alert title="Conseil" %}}
 Certaines actions doivent être effectuées de la même manière que dans la [Liste d'alarme](../alarm). Elles ne sont pas expliquées ici. Effectuez les étapes préliminaires et utilisez le lien de l'action respective pour accéder aux instructions.
@@ -40,7 +40,7 @@ La liste d'alarme est structurée comme suit :
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Température corporelle" title="Température corporelle" /> | La dernière mesure de fièvre enregistrée est affichée sous le symbole avec les couleurs du système de feux de circulation
 | &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Afficher l'animal en alarme" title="Animal en alarme" /> | Un marqueur circulaire sous le symbole indique que l'animal est sur la liste d'alarme
 
-### Étapes préliminaires
+### Étapes préliminaires {#preliminary-steps}
 
 1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" /> `Listes` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
 
@@ -50,7 +50,7 @@ La liste d'alarme est structurée comme suit :
 
    ![Listes VitalControl Liste de surveillance](../images/firststeps2.png "Étapes préliminaires")
 
-### Retirer de la liste de surveillance
+### Retirer de la liste de surveillance {#remove-from-watch-list}
 
 1. Complétez les étapes préliminaires.
 
@@ -62,7 +62,7 @@ La liste d'alarme est structurée comme suit :
 
    ![Listes VitalControl Liste de surveillance](../images/remove.png "Retirer de la liste de surveillance")
 
-### Basculer le statut de l'alarme
+### Basculer le statut de l'alarme {#toggle-alarm-status}
 
 1. Complétez les étapes préliminaires.
 

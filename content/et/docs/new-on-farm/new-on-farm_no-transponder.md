@@ -11,7 +11,7 @@ categories: [Uus farmis, transponder]
 tags: [Uus farmis, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
-### Uus farmis, transponderta
+### Uus farmis, transponderta {#new-on-farm-no-transponder}
 
 Selles nimekirjas leiate kõik hiljuti loodud loomad, kelle vanus on maksimaalselt X päeva ja kellele ei ole veel transponderit määratud. Maksimaalse vanuse saate määrata [siin](/et/docs/settings/animal-registration/#set-default-values). Kui olete nendelt loomadelt transponderi kogunud, saate nimekirjas vastava looma ID otsida ja seotud transponderi skaneerida. Transponder määratakse seejärel automaatselt loomale ja loom kustutatakse nimekirjast. Transponderi määramiseks toimige järgmiselt:
 
@@ -41,7 +41,7 @@ Niipea kui olete kõik loomad määranud, on teil võimalus suunata end menüüp
 ![VitalControl: Menüü Uus farmis, transponder puudub](../images/redirect.png "Suunamine")
 {{% /alert %}}
 
-## Eelnevad lisategevused
+## Eelnevad lisategevused {#previous-additional-actions}
 
 Saate kasutada eelnevaid lisategevusi, et määrata, milliseid toiminguid soovite enne transponderi määramist teostada. Valikus on temperatuuri mõõtmine, looma hindamine ja looma kaalumine. Vastav toiming salvestatakse otse loomale, kellele te seejärel määrate. Toimige järgmiselt:
 
@@ -59,6 +59,6 @@ Menüüpunkt `viimane tegevus OK peal:` teavitab teid, et transponderi määrami
 
 ![VitalControl: Menüü Uus farmis, transponder puudub](../images/actions.png "Lisategevused")
 
-## Edasised menüüpunktid
+## Edasised menüüpunktid {#further-menu-items}
 
 Teil on ka võimalus valida hüpikaknas vahel `seaded`, `otsi looma` ja `sea filter`. Kasutage nooleklahve △ ▽ vastava menüüpunkti juurde navigeerimiseks ja kinnitage `OK`-ga. Menüüpunkti `seaded` teave asub [siin](/et/docs/settings/animal-registration/#set-default-values), `sea filter` [siin](/et/docs/filter/) ja `otsi looma` toimige nagu `uus farmis, transponder puudub` samm 3.

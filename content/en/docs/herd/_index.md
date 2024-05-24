@@ -11,7 +11,7 @@ categories: [Herd]
 tags: [Herd, Temperature, Weight, Rating, Animal data]
 translationKey: herd
 ---
-## Herd
+## Herd {#herd}
 
 Within the Herd menu item, you can view your entire herd, search for individual animals and display important information. You have the following possibilities:
 
@@ -23,7 +23,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 - Set [filter](#set-filter)
 - [Actions](#call-action-menu)
 
-### Preparatory steps
+### Preparatory steps {#preparatory-steps}
 
 1. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herd" /> `Herd` and press the `OK` button.
 
@@ -31,7 +31,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
     ![VitalControl: Menu Herd](images/herde.png "Herd")
 
-### View animal data
+### View animal data {#view-animal-data}
 
 1. Complete the preparatory steps.
 
@@ -47,7 +47,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 By default, the animal data is displayed first. Only when you have the weight displayed, for example, do you have to set the display of the animal data again.
 {{% /alert %}}
 
-### Display temperature
+### Display temperature {#display-temperature}
 
 1. Complete the preparatory steps.
 
@@ -59,7 +59,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
     ![VitalControl: Menu Herd](images/temperature.png "Display temperature")
 
-### View rating
+### View rating {#view-rating}
 
 1. Complete the preparatory steps.
 
@@ -71,7 +71,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
     ![VitalControl: Menu Herd](images/rating.png "View rating")
 
-### Display weight
+### Display weight {#display-weight}
 
 1. Complete the preparatory steps.
 
@@ -83,7 +83,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
     ![VitalControl: Menu Herd](images/weight.png "Display weight")
 
-### Search animal
+### Search animal {#search-animal}
 
 1. Complete the preparatory steps.
 
@@ -93,7 +93,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
     ![VitalControl: Menu Herd](images/search.png "Search animal")
 
-### Set filter
+### Set filter {#set-filter}
 
 1. Complete the preparatory steps.
 
@@ -103,7 +103,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
     ![VitalControl: Menu Herd](images/setfilter.png "Search animal")
 
-### Call action menu
+### Call action menu {#call-action-menu}
 
 You always have the option to call up the action menu for an animal.
 

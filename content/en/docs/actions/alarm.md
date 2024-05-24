@@ -11,7 +11,7 @@ tags: [Actions, Alarm]
 translationKey: actions/alarm
 ---
 
-## Alert
+## Alert {#alert}
 
 With the action `Alarm` you put animals on the alarm list or remove them from it. The alarm list helps you to find conspicuous animals more quickly and easily, making your daily routine checks easier. To apply the `Alarm` action, proceed as follows:
 

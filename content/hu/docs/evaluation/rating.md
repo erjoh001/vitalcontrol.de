@@ -14,7 +14,7 @@ translationKey: evaluation/rating
 Alapértelmezett beállítás szerint a VitalControl-on tárolt összes állat szerepel az értékelésben. Egy [szűrő](../../filter/) használatával korlátozhatja az értékelést az eszközén lévő állatok egy részhalmazára, például csak hím állatokra vagy egy bizonyos maximális korig terjedő állatokra.
 {{% /alert %}}
 
-## Értékelés értékelése
+## Értékelés értékelése {#evaluate-rating}
 
 Ebben az értékelésben a következő információkat láthatja kördiagramként:
 - Az utolsó három nap állapotának értékelése

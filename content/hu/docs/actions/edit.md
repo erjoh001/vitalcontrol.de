@@ -11,7 +11,7 @@ tags: [Actions, állatadatok, szerkesztés]
 translationKey: actions/edit
 ---
 
-## Állatadatok szerkesztése
+## Állatadatok szerkesztése {#edit-animal-data}
 
 A <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Szerkesztés` művelet lehetővé teszi a kiválasztott állat adatainak közvetlen módosítását. Ez a funkció megkönnyíti az állatadatok javítását, ha például az állatvizsgálat során kiderül, hogy a nem helytelenül lett elmentve. A következő adatokat módosíthatja:
 

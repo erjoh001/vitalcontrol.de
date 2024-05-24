@@ -6,7 +6,7 @@ description: >
   Aprende cómo eliminar todos los animales y sus datos de tu dispositivo VitalControl.
 categories: [Reset]
 ---
-## Borrando todos los datos de animales del dispositivo
+## Borrando todos los datos de animales del dispositivo {#erasing-all-animal-data-from-device}
 
 1. Abre el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de tu dispositivo VitalControl.
 

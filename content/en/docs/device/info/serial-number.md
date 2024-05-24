@@ -7,7 +7,7 @@ draft: false
 description: >
  To retrieve the serial number of your device click here
 ---
-## Get serial number
+## Get serial number {#get-serial-number}
 
 To retrieve the serial number of your device, proceed as follows:
 

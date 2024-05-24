@@ -11,7 +11,7 @@ tags: [Tegevused, Alarm]
 translationKey: actions/alarm
 ---
 
-## Häire
+## Häire {#alert}
 
 Tegevusega `Alarm` panete loomi alarmide nimekirja või eemaldate neid sealt. Alarmide nimekiri aitab teil märgata silmapaistvaid loomi kiiremini ja lihtsamini, muutes teie igapäevased kontrollid lihtsamaks. `Alarm` tegevuse rakendamiseks toimige järgmiselt:
 

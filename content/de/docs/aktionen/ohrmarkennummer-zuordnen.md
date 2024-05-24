@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 Diese Aktion ist standardmäßig deaktiviert! Um diese Aktion nutzen zu können, müssen Sie diese zunächst im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/) aktivieren.
 {{% /alert %}}
 
-## Manuelle Zuordnung
+## Manuelle Zuordnung {#link-animal-id}
 
 Um einem Tier manuell eine Ohrmarkennummer zuzuweisen gehen Sie wie folgt vor:
 
@@ -40,7 +40,7 @@ Um einem Tier manuell eine Ohrmarkennummer zuzuweisen gehen Sie wie folgt vor:
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Zuordnung mittels Scan einer elektronischen Ohrmarke
+## Zuordnung mittels Scan einer elektronischen Ohrmarke {#link-animal-id-with-electronic-ear-tag-scan}
 
 Um einem Tier, das über eine elektronische Ohrmarke verfügt, eine Ohrmarkennummer zuzuweisen gehen Sie wie folgt vor:
 

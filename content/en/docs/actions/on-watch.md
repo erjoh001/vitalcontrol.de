@@ -11,7 +11,7 @@ tags: [Actions, on watch]
 translationKey: actions/on-watch
 ---
 
-## On watch
+## On watch {#on-watch}
 
 With the action `on watch` you put animals on the on-watch list or remove them from it. The on-watch list helps you to find conspicuous animals more quickly and easily, making your daily routine checks easier. To apply the `on watch` action, proceed as follows:
 

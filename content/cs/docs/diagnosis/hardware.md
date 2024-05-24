@@ -11,7 +11,7 @@ weight: 10
 ---
 Pokud dojde k poruše vašeho zařízení, měli byste nejprve provést kontrolu hardwaru, abyste zjistili, zda není některá z hardwarových komponent vadná.
 
-## Zkontrolujte hardware vašeho zařízení
+## Zkontrolujte hardware vašeho zařízení {#check-the-hardware-of-your-device}
 
 1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
 

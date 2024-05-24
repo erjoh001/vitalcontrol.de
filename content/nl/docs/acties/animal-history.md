@@ -11,7 +11,7 @@ tags: [Acties, Dierengeschiedenis]
 translationKey: actions/animalshistory
 ---
 
-## Dierhistorie
+## Dierhistorie {#animal-history}
 
 De dierengeschiedenis geeft je een overzicht van de tot nu toe geregistreerde gegevens en de ontwikkeling van het geselecteerde dier. Je bent vrij om te kiezen welke informatie wordt weergegeven. Je kunt ook kiezen of de geschiedenis als tabel of als diagram wordt weergegeven. De dierengeschiedenis helpt je te zien of en wanneer deze dieren de laatste keer opvallend waren. Het helpt ook om transparantie te creëren als meerdere mensen de dierinspectie uitvoeren.
 

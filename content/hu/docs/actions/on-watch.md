@@ -11,7 +11,7 @@ tags: [Actions, on watch]
 translationKey: actions/on-watch
 ---
 
-## Megfigyelés alatt
+## Megfigyelés alatt {#on-watch}
 
 A `megfigyelés alatt` művelettel állatokat helyezhet a megfigyelési listára vagy távolíthat el onnan. A megfigyelési lista segít gyorsabban és könnyebben megtalálni a feltűnő állatokat, így megkönnyítve a napi rutin ellenőrzéseket. A `megfigyelés alatt` művelet alkalmazásához kövesse az alábbi lépéseket:
 

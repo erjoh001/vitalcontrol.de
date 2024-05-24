@@ -14,7 +14,7 @@ translationKey: actions/transponder
 See toiming ei ole vaikimisi lubatud! Aktiveeri see, nagu kirjeldatud [toimingute seadetes](../setting/).
 {{% /alert %}}
 
-## Lingi transponder
+## Lingi transponder {#link-transponder}
 
 Selle toiminguga saad määrata transponderi loomale, kellele pole veel transponderit määratud.
 

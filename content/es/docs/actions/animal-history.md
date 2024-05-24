@@ -11,7 +11,7 @@ tags: [Acciones, Historial del animales]
 translationKey: actions/animalshistory
 ---
 
-## Historial del animales
+## Historial del animales {#animal-history}
 
 El Historial del animales te proporciona una visión general de los datos registrados hasta ahora y el desarrollo del animal seleccionado. Tienes la libertad de elegir la información que se muestra. También puedes elegir si el historial debe mostrarse en forma de tabla o como un diagrama. El Historial del animales te ayuda a ver si y cuándo estos animales fueron notorios la última vez. También ayuda a crear transparencia si varias personas realizan la inspección del animal.
 

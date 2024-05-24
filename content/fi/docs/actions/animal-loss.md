@@ -11,7 +11,7 @@ tags: [Toiminnat, animal-loss]
 translationKey: actions/animal-loss
 ---
 
-## Eläinten menetys
+## Eläinten menetys {#animal-loss}
 
 Toiminto `Eläinten menetys` mahdollistaa eläimen menetyksen rekisteröinnin. Eläimen menetyksen rekisteröimiseksi toimi seuraavasti:
 

@@ -7,7 +7,7 @@ description: >
 categories: [Сброс]
 translationKey: reset/factory
 ---
-## Выполнение сброса до заводских настроек
+## Выполнение сброса до заводских настроек {#performing-a-factory-reset}
 
 1. Откройте пункт меню <img src="/icons/device.svg" width="25" align="bottom" alt="Устройство" /> `Устройство` на главном экране вашего устройства VitalControl.
 

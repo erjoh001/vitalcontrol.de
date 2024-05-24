@@ -11,7 +11,7 @@ categories: [instellingen]
 tags: [instellingen, eenheden]
 translationKey: settings/units
 ---
-## Temperatuureenheid instellen
+## Temperatuureenheid instellen {#set-temperature-unit}
 
 Om de temperatuureenheid op uw apparaat in te stellen, gaat u als volgt te werk.
 
@@ -25,7 +25,7 @@ Om de temperatuureenheid op uw apparaat in te stellen, gaat u als volgt te werk.
 
     ![VitalControl: menu-instellingen temperatuureenheid](../images/temperature.png "Temperatuureenheid")
 
-## Massaeenheid instellen
+## Massaeenheid instellen {#set-mass-unit}
 
 Om de massaeenheid op uw apparaat in te stellen, gaat u als volgt te werk.
 

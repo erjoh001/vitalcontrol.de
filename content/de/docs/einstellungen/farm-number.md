@@ -10,7 +10,7 @@ Kategorien: [Einstellungen]
 Tags: [Einstellungen, Betriebsnummer]
 translationKey: settings/farm-number
 ---
-## Betriebsnummer festlegen
+## Betriebsnummer festlegen {#set-your-farm-number}
 
 Um erfolgreich einen [Import ihres Tierbestands] aus der HI-Tier Datenbank durchführen zu können, müssen Sie einmalig ihre zehnstellige Betriebsnummer eingeben und abspeichern. Gehen Sie hierfür wie folgt vor:
 

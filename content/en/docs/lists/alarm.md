@@ -11,7 +11,7 @@ categories: [Lists]
 tags: [Lists, alarm]
 translationKey: lists/alarm
 ---
-## Alarm list
+## Alarm list {#alarm-list}
 
 On the alarm list you will find all animals that you have either manually added to the list or all animals that were in the yellow or red range when the temperature was measured. The list helps you to keep an overview of all conspicuous animals. Also, for each animal on the list, you can do the following:
 
@@ -36,7 +36,7 @@ The alarm list is structured as follows:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Body temperature" title="Body temperature" /> | The last fever measurement recorded is shown below the symbol with the colors of the traffic light system
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Rating of animal" title="Rating" /> |The circle mark below the symbol shows that the animal is on the watch list
 
-### Preliminary Steps
+### Preliminary Steps {#preliminary-steps}
 
 1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
 
@@ -46,7 +46,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Preliminary Steps")
 
-### Full action menu
+### Full action menu {#full-action-menu}
 
 1. Complete the preliminary steps.
 
@@ -58,7 +58,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
-### Animal data
+### Animal data {#animal-data}
 
 1. Complete the preliminary steps.
 
@@ -70,7 +70,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Animal data")
 
-### Take temperature
+### Take temperature {#take-temperature}
 
 1. Complete the preliminary steps.
 
@@ -82,7 +82,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Take temperature")
 
-### Rate animal
+### Rate animal {#rate-animal}
 
 1. Complete the preliminary steps.
 
@@ -94,7 +94,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Rate animal")
 
-### Clear alarm
+### Clear alarm {#clear-alarm}
 
 1. Complete the preliminary steps.
 
@@ -106,7 +106,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Clear alarm")
 
-### Toggle watch status
+### Toggle watch status {#toggle-watch-status}
 
 1. Complete the preliminary steps.
 
@@ -118,7 +118,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Toggle watch status")
 
-### Search animal
+### Search animal {#search-animal}
 
 1. Complete the preliminary steps.
 
@@ -128,7 +128,7 @@ The alarm list is structured as follows:
 
    ![VitalControl Lists Alarmlist](../images/searchanimal.png "Search animal")
 
-### Set filter
+### Set filter {#set-filter}
 
 1. Complete the preliminary steps.
 

@@ -11,7 +11,7 @@ translationKey: backup
 ---
 {{% usb-drive/nl "Om een gegevensback-up voor uw apparaat uit te voeren," %}}
 
-## Gegevensback-up uitvoeren
+## Gegevensback-up uitvoeren {#perform-data-backup}
 
 1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 

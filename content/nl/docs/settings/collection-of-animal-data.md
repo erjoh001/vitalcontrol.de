@@ -12,16 +12,16 @@ tags: [instellingen, gegevensacquisitie]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Overzicht
+## Overzicht {#overview}
 
 De volgende afbeelding toont de beschikbare instellingen met betrekking tot het vastleggen van dierengegevens:
 
 <img src="../images/animaldataacquisition.png" alt="Verwerving van dierengegevens" title="Verwerving van dierengegevens" usemap="#workmap-overview" class="maphilight" />
 
 <map name="workmap-overview">
-  <area shape="rect" coords="3,40,239,80" alt="Gewichtsbepaling" title="Submenu: Instellingen voor gewichtsregistratie&#10;Muisklik: open documentatie" href="#instellingen-gewichtsregistratie">
-  <area shape="rect" coords="3,80,239,160" alt="Dierevaluatie" title="Stel de modus van dierbeoordeling in&#10;Muisklik: open documentatie" href="#dierevaluatie">
-  <area shape="rect" coords="3,160,239,240" alt="Controleperiode verse koeien" title="Stel de lengte van de controleperiode voor verse koeien in&#10;Muisklik: open documentatie" href="#controleperiode-verse-koeien">
+  <area shape="rect" coords="3,40,239,80" alt="Gewichtsbepaling" title="Submenu: Instellingen voor gewichtsregistratie&#10;Muisklik: open documentatie" href="#settings-weight-recording">
+  <area shape="rect" coords="3,80,239,160" alt="Dierevaluatie" title="Stel de modus van dierbeoordeling in&#10;Muisklik: open documentatie" href="#mode-of-animal-rating">
+  <area shape="rect" coords="3,160,239,240" alt="Controleperiode verse koeien" title="Stel de lengte van de controleperiode voor verse koeien in&#10;Muisklik: open documentatie" href="#control-period-of-fresh-cows">
 
   <area shape="rect" coords="2,282,125,318" alt="Terug" title="Ga een niveau terug" href="/nl/docs/settings/">
 </map>
@@ -30,20 +30,20 @@ De volgende afbeelding toont de beschikbare instellingen met betrekking tot het 
 Beweeg de muisaanwijzer over een symbool in de afbeelding hieronder en laat deze even rusten. Er verschijnt een tooltip met informatie over de betreffende instelling. Als u op een van de lijnen klikt, wordt u doorgestuurd naar een beschrijving van de betreffende instelling.
 {{% /alert %}}
 
-## Instellingen *Gewichtsregistratie*
+## Instellingen *Gewichtsregistratie* {#settings-weight-recording}
 
 De volgende afbeelding toont de beschikbare instellingen met betrekking tot de gewichtsregistratie van dieren:
 
 <img src="../images/weightrecording.png" alt="Submenu-items instellingen voor gewichtsregistratie" title="Instellingen gewichtsregistratie" usemap="#workmap-weight" class="maphilight" />
 
 <map name="workmap-weight">
-  <area shape="rect" coords="1,40,230,199" alt="Dagelijkse toenames" title="Stel de drempelwaarden in voor de beoordeling van de dagelijkse gewichtstoename&#10;Muisklik: open documentatie" href="#beoordeling-van-dagelijkse-toenames-drempelwaarden">
-  <area shape="rect" coords="1,200,230,280" alt="Geboortegewicht" title="Stel het voorgestelde geboortegewicht in bij het registreren van een nieuw dier&#10;Muisklik: open documentatie" href="#geboortegewicht">
-  <area shape="rect" coords="1,280,230,360" alt="Gem. dagl. gewichtstoename" title="Stel de gemiddelde dagelijkse gewichtstoename in die gebruikt wordt bij het schatten van het gewicht van dieren&#10;Muisklik: open documentatie" href="#gem-dagl-gewichtstoename">
-  <area shape="rect" coords="1,360,230,440" alt="Maximale precisie" title="Stel de precisie van gewichtsregistratie in&#10;Muisklik: open documentatie" href="#maximale-precisie">
+  <area shape="rect" coords="1,40,230,199" alt="Dagelijkse toenames" title="Stel de drempelwaarden in voor de beoordeling van de dagelijkse gewichtstoename&#10;Muisklik: open documentatie" href="#assessment-of-daily-weight-gain-threshold-values">
+  <area shape="rect" coords="1,200,230,280" alt="Geboortegewicht" title="Stel het voorgestelde geboortegewicht in bij het registreren van een nieuw dier&#10;Muisklik: open documentatie" href="#birth-weight">
+  <area shape="rect" coords="1,280,230,360" alt="Gem. dagl. gewichtstoename" title="Stel de gemiddelde dagelijkse gewichtstoename in die gebruikt wordt bij het schatten van het gewicht van dieren&#10;Muisklik: open documentatie" href="#average-daily-weight-gain">
+  <area shape="rect" coords="1,360,230,440" alt="Maximale precisie" title="Stel de precisie van gewichtsregistratie in&#10;Muisklik: open documentatie" href="#precision-of-weight-recording">
 </map>
 
-### Beoordeling van Dagelijkse toenames: Drempelwaarden
+### Beoordeling van Dagelijkse toenames: Drempelwaarden {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Hint" %}}
 Het rode veld toont het gebied van "kritisch te lage gewichtstoename". Het gele veld toont het gebied van "suboptimale gewichtstoename".
@@ -65,7 +65,7 @@ Om de drempelwaarden voor de beoordeling van de dagelijkse gewichtstoename aan t
 
     ![VitalControl: menu-instellingen dagelijkse gewichtstoename](../images/dailyweightgain.png "Dagelijkse gewichtstoename")
 
-### Geboortegewicht
+### Geboortegewicht {#birth-weight}
 
 Het apparaat gebruikt het hier in de instellingen opgeslagen geboortegewicht als standaardwaarde bij het aanmaken van nieuwe dieren. Om het individuele geboortegewicht van een pasgeboren dier sneller te kunnen selecteren, moet je mogelijk deze standaardwaarde voor jouw boerderij aanpassen. Om de waarde voor het `Geboortegewicht` aan te passen, ga je als volgt te werk:
 
@@ -81,7 +81,7 @@ Het apparaat gebruikt het hier in de instellingen opgeslagen geboortegewicht als
 
 {{% alert title="Waarschuwing" color="warning" %}}
 Het standaard geboortegewicht is slechts een benaderende waarde, die individueel moet worden aangepast bij het aanmaken van een nieuw dier.
-Als u deze aanpassing niet wilt maken of als u dieren automatisch [op de achtergrond](../animal-registration/#dieren-automatisch-registreren) aanmaakt, moet er geen geboortegewicht worden opgevraagd of opgeslagen bij het aanmaken van een nieuw dier. Dit kan worden gedefinieerd in de instellingen voor [registratie van dieren](../animal-registration/#opgenomen-gewicht).
+Als u deze aanpassing niet wilt maken of als u dieren automatisch [op de achtergrond](../animal-registration/#auto-registration) aanmaakt, moet er geen geboortegewicht worden opgevraagd of opgeslagen bij het aanmaken van een nieuw dier. Dit kan worden gedefinieerd in de instellingen voor [registratie van dieren](../animal-registration/#set-recorded-weights).
 {{% /alert %}}
 
 {{% alert title="Standaardwaarden geboortegewichten:" %}}
@@ -92,7 +92,7 @@ Als u deze aanpassing niet wilt maken of als u dieren automatisch [op de achterg
 | Waarde bereik:                | 1,0 tot 99 kg   | 1,0 tot 99 kg |
 {{% /alert %}}
 
-### Gem. dagl. gewichtstoename
+### Gem. dagl. gewichtstoename {#average-daily-weight-gain}
 
 {{% alert title="Uitleg" %}}
 Bij het [wegen](../../acties/record-weight/) van een dier wordt de gedefinieerde dagelijkse toename gebruikt voor de berekening van de voorgestelde gewichtswaarde tijdens het wegen van het dier. Als de voorgestelde gewichtswaarde te laag of te hoog is voor de meerderheid van de te wegen dieren, moet u de gedefinieerde waarde naar beneden of naar boven bijstellen, respectievelijk om de tijd die nodig is voor het aanpassen van de gewichtswaarde met de pijltoetsen te verkorten.
@@ -110,7 +110,7 @@ Om de `Gem. dagl. gewichtstoename` in te stellen die gebruikt wordt bij de berek
 
     ![VitalControl: menu-instellingen gemiddelde dagelijkse gewichtstoename](../images/averagedailyweightgain.png "Gemiddelde dagelijkse gewichtstoename")
 
-### Maximale precisie
+### Maximale precisie {#precision-of-weight-recording}
 
 {{% alert title="Uitleg" %}}
 Afhankelijk van het gebruiksscenario en de diersoort (*lam*, *kalf*, *koe*), zijn er verschillende vereisten met betrekking tot de resolutie van de te registreren gewichtswaarde (nauwkeurigheid van *10 g*, *100 g* of *1 kg*). Om aan deze vereisten te voldoen, moet gebruik worden gemaakt van de instelling *Maximale precisie*.
@@ -140,7 +140,7 @@ Om de maximale nauwkeurigheid in te stellen bij het registreren van diergewichte
 <br>
 Sla de instellingen op en keer terug naar het bovenste menu `Data overnemen` door op de `F1` toets te drukken &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Opslaan en terugkeren" />&nbsp;.
 
-## Dierevaluatie
+## Dierevaluatie {#mode-of-animal-rating}
 
 {{% alert title="Uitleg" %}}
 In de eenvoudige modus wordt tijdens de dierevaluatie alleen de algemene conditie opgevraagd (groen/geel/rood). In de uitgebreide evaluatie worden 4 evaluatiecategorieën opgevraagd: algemene conditie, voerconsumptie, diarree en ademhalingsziekte.
@@ -158,7 +158,7 @@ Om de `Dierevaluatie` op uw apparaat in te stellen, gaat u als volgt te werk.
 
     ![VitalControl: menu-instellingen gemiddelde beoordeling van dieren](../images/raitingofanimals.png "Beoordeling van dieren")
 
-## Controleperiode verse koeien
+## Controleperiode verse koeien {#control-period-of-fresh-cows}
 
 {{% alert title="Uitleg" %}}
 Bij het beheren van verse koeien wordt het dagelijks controleren van de dieren gedurende meerdere dagen na de geboorte, inclusief het meten van hun temperatuur, beschouwd als een beste praktijk. De duur van deze controleperiode varieert aanzienlijk van boerderij tot boerderij. Om deze reden kan de lengte van de controleperiode worden ingesteld op een waarde tussen 3 en 14 dagen in de VitalControl-instellingen. De ingestelde waarde voor de controleperiode van verse koeien bepaalt het aantal kolommen van de kolomgrafiek die voor elk dier wordt weergegeven in de [lijst met verse koeien](../../lists/fresh-cows/).

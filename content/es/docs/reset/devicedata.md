@@ -8,7 +8,7 @@ description: >
   Aprende cómo restablecer todas las configuraciones del dispositivo VitalControl.
 categories: [Reset]
 ---
-## Restablecimiento de todos los datos del dispositivo
+## Restablecimiento de todos los datos del dispositivo {#resetting-all-device-data}
 
 1. Abre el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Dispositivo` en la pantalla principal de tu dispositivo VitalControl.
 

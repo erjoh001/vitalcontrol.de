@@ -11,7 +11,7 @@ Kategorien: [Einzeltier]
 Tags: [Einzeltier, Temperatur, Gewicht, Tierdaten]
 translationKey: animal/animal
 ---
-## Einzeltier
+## Einzeltier {#animal}
 
 Die Funktion Einzeltier ermöglicht es Ihnen wichtige Informationen über Gewicht, Temperatur und Bewertung für jedes individuelle Tier einzusehen. Dabei haben Sie jederzeit die Möglichkeit sich die Informationen als Grafik oder als Liste anzeigen zu lassen. Um die Einzeltierfunktion anzuwenden gehen Sie wie folgt vor:
 
@@ -22,11 +22,11 @@ Die Funktion Einzeltier ermöglicht es Ihnen wichtige Informationen über Gewich
 ![VitalControl: Menüfolge Einzeltier](bilder/einzeltier.png "Einzeltier als Liste")
 
 {{% alert title="Hinweis"  %}}
-Innerhalb jeder Informationsanzeige haben Sie die Möglichkeit ein [Tier zu suchen](#tier-suchen), einen [Filter](#filter-setzen) zu setzen und auf eine [grafische Ansicht](#grafische-ansicht-einstellen) umzuschalten.
+Innerhalb jeder Informationsanzeige haben Sie die Möglichkeit ein [Tier zu suchen](#search-animal), einen [Filter](#set-filter) zu setzen und auf eine [grafische Ansicht](#set-graphical-view) umzuschalten.
 Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzelnen Tieren wechseln.
 {{% /alert %}}
 
-### Grafische Ansicht einstellen
+### Grafische Ansicht einstellen {#set-graphical-view}
 
 1. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Popup Menu öffnen" /> um ein Popup-Menü zu öffnen. Dort können Sie zwischen den Funktionen `Filter setzen`, `Tier suchen` oder `Grafische Ansicht` wählen.
 
@@ -34,7 +34,7 @@ Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzeln
 
 ![VitalControl: Menüfolge Einzeltier](bilder/grafisch.png "Grafische Ansicht")
 
- ### Tier suchen
+ ### Tier suchen {#search-animal}	
 
  1. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Popup Menu öffnen" /> um ein Popup-Menü zu öffnen. Dort können Sie zwischen den Funktionen `Filter setzen`, `Tier suchen` oder `Grafische Ansicht` wählen.
 
@@ -44,7 +44,7 @@ Außerdem können Sie jederzeit mit den Pfeiltasten ◁ ▷ zwischen den einzeln
 
 ![VitalControl: Menüfolge Einzeltier](bilder/suchen.png "Tier suchen")
 
-### Filter setzen
+### Filter setzen {#set-filter}
 
 1. Drücken Sie die mittlere, obere `An/Aus` Taste <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Popup Menu öffnen" /> um ein Popup-Menü zu öffnen. Dort können Sie zwischen den Funktionen `Filter setzen`, `Tier suchen` oder `Grafische Ansicht` wählen.
 

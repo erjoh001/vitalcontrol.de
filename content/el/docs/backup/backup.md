@@ -11,7 +11,7 @@ translationKey: backup
 ---
 {{% usb-drive/el "Για να εκτελέσετε ένα αντίγραφο ασφαλείας για τη συσκευή σας," %}}
 
-## Εκτέλεση αντιγράφου ασφαλείας
+## Εκτέλεση αντιγράφου ασφαλείας {#perform-data-backup}
 
 1. Ανοίξτε το στοιχείο μενού &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Συσκευή" /> `Συσκευή` στην κύρια οθόνη της συσκευής σας VitalControl.
 

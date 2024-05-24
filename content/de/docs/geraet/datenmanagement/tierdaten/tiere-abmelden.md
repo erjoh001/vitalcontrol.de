@@ -10,7 +10,7 @@ Kategorien: [Tierdaten]
 Tags: [Tiere, Abmelden]
 translationKey: device/unregister-animals
 ---
-## Tiere abmelden 
+## Tiere abmelden {#unregister-animals}
 
 Melden Sie Tiere von Ihrem VitalControl ab die entweder eine Altersgrenze überschritten haben oder denen kein Transponder zugewiesen wurde. Gehen Sie wie folgt vor:
 

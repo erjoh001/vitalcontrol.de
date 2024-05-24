@@ -11,7 +11,7 @@ tags: [Acciones, datos del animal, editar]
 translationKey: actions/edit
 ---
 
-## Editar datos del animal
+## Editar datos del animal {#edit-animal-data}
 
 La acción <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Editar" /> `Editar` te permite cambiar los datos del animal seleccionado directamente. Esta función facilita la corrección de los datos del animal si, por ejemplo, durante la inspección del animal se observa que el género se ha guardado incorrectamente. Puedes cambiar los siguientes datos:
 

@@ -11,8 +11,8 @@ categories: [Sünnid]
 tags: [Sünnid]
 translationKey: new-on-farm/births
 ---
-## Sünnid
-
+## Sünnid {#births}
+ 
 Selles nimekirjas saate vaadata oma sünniregistreid, neid muuta ja luua ekspordifaili registreerimiseks HI-Tieris. Ekspordifaili loomiseks toimige järgmiselt:
 
 {{% alert title="Vihje" %}}
@@ -33,7 +33,7 @@ Andmete eksportimiseks on vajalik kaasasolev UBS mälupulk. Ühendage USB mälup
 
     ![VitalControl: Menüü Uus farmis Sünnid](../images/births.png "Sünnid")
 
-## Valikute seadistamine
+## Valikute seadistamine {#setting-options}
 
 Lisaks ekspordifaili loomisele on teil järgmised valikud:
 
@@ -47,7 +47,7 @@ Lisaks ekspordifaili loomisele on teil järgmised valikud:
 Mõned toimingud on identilised `Ostetud loomad` loendis olevate toimingutega. Järgige linke samm-sammult juhistele. Avage alati esmalt `Sünnid` loend, nagu juhistes kirjeldatud.
 {{% /alert %}}
 
-### Muuda loendi vaadet ja üksiku looma vaadet
+### Muuda loendi vaadet ja üksiku looma vaadet {#change-between-list-view-and-single-animal-view}
 
 1. Kasutage <img src="/icons/gear.svg" width="25" align="bottom" alt="Hammasratas" /> `Sees/Väljas` nuppu.
 
@@ -57,7 +57,7 @@ Mõned toimingud on identilised `Ostetud loomad` loendis olevate toimingutega. J
 
     ![VitalControl: Menüü Uus farmis Sünnid](../images/change.png "Muuda loendi vaadet ja üksiku looma vaadet")
 
-### Muuda sünniteate andmeid
+### Muuda sünniteate andmeid {#edit-data-of-birth-notice}
 
 {{% alert title="Vihje" %}}
 Looma andmeid on võimalik muuta ainult loendi vaates!

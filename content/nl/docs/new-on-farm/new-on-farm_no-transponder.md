@@ -11,9 +11,9 @@ categories: [Nieuw op bedrijf, transponder]
 tags: [Nieuw op bedrijf, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
-### Nieuw op bedrijf, geen transponder
+### Nieuw op bedrijf, geen transponder {#new-on-farm-no-transponder}
 
-In deze lijst vind je alle nieuw aangemaakte dieren met een maximale leeftijd van X dagen die nog geen transponder toegewezen hebben gekregen. Je kunt de maximale leeftijd [hier](/nl/docs/settings/animal-registration/#standaard-waardes) instellen. Nadat je een transponder van deze dieren hebt verzameld, kun je in de lijst zoeken naar de bijbehorende dier-ID en de bijbehorende transponder scannen. De transponder wordt dan automatisch aan het dier toegewezen en het dier wordt uit de lijst verwijderd. Om een transponder toe te wijzen, ga je als volgt te werk:
+In deze lijst vind je alle nieuw aangemaakte dieren met een maximale leeftijd van X dagen die nog geen transponder toegewezen hebben gekregen. Je kunt de maximale leeftijd [hier](/nl/docs/settings/animal-registration/#set-default-values) instellen. Nadat je een transponder van deze dieren hebt verzameld, kun je in de lijst zoeken naar de bijbehorende dier-ID en de bijbehorende transponder scannen. De transponder wordt dan automatisch aan het dier toegewezen en het dier wordt uit de lijst verwijderd. Om een transponder toe te wijzen, ga je als volgt te werk:
 
 1. Selecteer in het hoofdscherm van je VitalControl-apparaat het menu-item <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nieuw op bedrijf" /> `Nieuw op bedrijf` en druk op de `OK` knop.
 
@@ -41,7 +41,7 @@ Zodra u alle dieren heeft toegewezen, heeft u de mogelijkheid om via de knop `F3
 ![VitalControl: Menu Nieuw op bedrijf, geen transponder](../images/redirect.png "Doorsturen")
 {{% /alert %}}
 
-## Vorige toegevoegde acties
+## Vorige toegevoegde acties {#previous-additional-actions}
 
 U kunt de vorige extra acties gebruiken om in te stellen welke acties u wilt uitvoeren voordat u de transponder toewijst. U kunt kiezen tussen het meten van de temperatuur, het beoordelen van het dier en het wegen van het dier. De respectievelijke actie wordt direct opgeslagen voor het dier dat u vervolgens toewijst. Ga als volgt te werk:
 
@@ -59,6 +59,6 @@ Het menu-item `Vorige toegevoegde acties:` informeert je dat het toewijzen van e
 
  ![VitalControl: Menu Nieuw op bedrijf, geen transponder](../images/actions.png "Aanvullende acties")
 
- ## Verdere menu-items
+ ## Verdere menu-items {#further-menu-items}
 
-Je hebt ook de mogelijkheid om te kiezen tussen `Instellingen`, `Dier zoeken` en `Filter zetten` in de pop-up. Gebruik de pijlknoppen △ ▽ om naar het betreffende menu-item te navigeren en bevestig met `OK`. De informatie voor het menu-item `Instellingen` is te vinden [hier](/nl/docs/settings/animal-registration/#standaard-waardes), voor `Filter zetten` [hier](/nl/docs/filter/) en voor `Dier zoeken` ga je te werk zoals in `Nieuw op bedrijf, geen transponder` stap 3.
+Je hebt ook de mogelijkheid om te kiezen tussen `Instellingen`, `Dier zoeken` en `Filter zetten` in de pop-up. Gebruik de pijlknoppen △ ▽ om naar het betreffende menu-item te navigeren en bevestig met `OK`. De informatie voor het menu-item `Instellingen` is te vinden [hier](/nl/docs/settings/animal-registration/#set-default-values), voor `Filter zetten` [hier](/nl/docs/filter/) en voor `Dier zoeken` ga je te werk zoals in `Nieuw op bedrijf, geen transponder` stap 3.

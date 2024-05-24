@@ -11,7 +11,7 @@ tags: [Acties]
 translationKey: actions/next-animal
 draft: true
 ---
-## Volgend dier
+## Volgend dier {#next-animal} 
 
 Binnen het menu `acties` heb je de mogelijkheid om op elk moment het volgende dier te selecteren zonder het menu-item Acties te verlaten. Om het volgende dier te selecteren, doe je het volgende:
 

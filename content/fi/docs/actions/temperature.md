@@ -11,21 +11,21 @@ tags: [Toiminnot, kuume, lämpötila]
 translationKey: actions/temperature
 ---
 
-## Mittaa kuume
+## Mittaa kuume {#measure-fever}
 
 Käytä lämpötilatoimintoa eläintesi lämpötilan mittaamiseen. Aseta mittauskärki peräsuoleen määritettyyn syvyyteen (suurilla eläimillä koko pituus pullistumaan asti, pienillä märehtijöillä noin 6 cm tai 2/3 mittauskärjestä). Mittausprosessi toimii automaattisesti. Heti kun mittausprosessi on valmis, laite näyttää mitatun lämpötilan. Värikoodaus osoittaa, onko lämpötila vihreällä, keltaisella tai punaisella alueella. Sinulla on useita vaihtoehtoja Lämpötilan mittaus -kampanjan aikana:
 
-- [Tallenna tulos](#tallenna-tulos) dokumentoidaksesi mittauksen eläinkohtaisesti
-- Lisää [katsottavien listaan](#lisää-katsottavien-listaan). Tämä helpottaa toistojen tarkistamista, koska voit kutsua nämä eläimet esiin 'tarkkailulistan' avulla ja siten löytää helpommin huomiotaherättävät eläimet.
-- Kytke [Mittauspaikan valaistus](#mittauspaikan-valaistuksen-kytkeminen-päälle-ja-pois) päälle ja pois
-- [Toista mittaus](#toista-mittaus)
-- [Peruuta toiminto](#peruuta-toiminto)
+- [Tallenna tulos](#save-result) dokumentoidaksesi mittauksen eläinkohtaisesti
+- Lisää [katsottavien listaan](#put-on-the-watch-list). Tämä helpottaa toistojen tarkistamista, koska voit kutsua nämä eläimet esiin 'tarkkailulistan' avulla ja siten löytää helpommin huomiotaherättävät eläimet.
+- Kytke [Mittauspaikan valaistus](#lighting-of-the-measurement-location-on-and-off) päälle ja pois
+- [Toista mittaus](#repeat-the-measurement)
+- [Peruuta toiminto](#cancel-the-action)
 
 {{% alert title="Vihje" %}}
 Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("kuume"), VitalControl asettaa automaattisesti valitun eläimen hälytyslistalle. Yhdistämällä muita tietoja voit jatkuvasti seurata yksittäisen eläimen terveyttä.
 {{% /alert %}}
 
-### Alustavat vaiheet
+### Alustavat vaiheet 
 
 1. Valitse VitalControl-laitteesi päänäytössä valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `Toiminnot` ja paina `OK`-painiketta.
 
@@ -45,7 +45,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Tallenna tulos
+### Tallenna tulos {#save-result}
 
 1. Suorita alustavat vaiheet.
 
@@ -53,7 +53,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
     ![VitalControl: Valikko Toiminnot Tallenna tulokset](../images/saveresults.png "Tallenna tulokset")
 
-### Lisää katsottavien listaan
+### Lisää katsottavien listaan {#put-on-the-watch-list}
 
 1. Suorita alustavat vaiheet.
 
@@ -63,7 +63,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
     ![VitalControl: Valikko Toiminnot Lisää katsottavien listaan](../images/watchlist.png "Lisää katsottavien listaan")
 
-### Mittauspaikan valaistuksen kytkeminen päälle ja pois
+### Mittauspaikan valaistuksen kytkeminen päälle ja pois {#lighting-of-the-measurement-location-on-and-off}
 
 1. Suorita alustavat vaiheet.
 
@@ -73,7 +73,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
     ![VitalControl: Valikko Toiminnot Valo päälle pois](../images/light.png "Valo päälle pois")
 
-### Toista mittaus
+### Toista mittaus {#repeat-the-measurement}
 
 1. Suorita alustavat vaiheet.
 
@@ -83,7 +83,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
     ![VitalControl: Valikon toiminnot Valo päällä pois päältä](../images/repeat.png "Valo päällä pois päältä")
 
-### Peruuta toiminto
+### Peruuta toiminto {#cancel-the-action}
 
 1. Suorita alustavat vaiheet.
 

@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, device]
 translationKey: settings/device
 ---
-## Lülita seade välja pärast
+## Lülita seade välja pärast {#shutdown-device-after}
 Seadistamaks aega, mis kulub tegevusetuseni, mil seade lülitub välja, toimige järgnevalt.
 
 1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
@@ -24,7 +24,7 @@ Seadistamaks aega, mis kulub tegevusetuseni, mil seade lülitub välja, toimige 
 
     ![VitalControl: menüü seaded Lülita seade välja pärast](../images/shutdowndeviceafter.png "Lülita seade välja pärast")
 
-## Käivitusekraan
+## Käivitusekraan {#start-up-screen}
 
 Käivitusekraani seadistamiseks toimige järgnevalt.
 
@@ -38,7 +38,7 @@ Käivitusekraani seadistamiseks toimige järgnevalt.
 
     ![VitalControl: menüü seaded Käivitusekraan](../images/startupscreen.png "Käivitusekraan")
 
-## Demonstratsioonirežiim
+## Demonstratsioonirežiim {#demonstration-mode}
 
 Kui valitud on esitlusrežiim, simuleerib seade temperatuurimõõtmisi ja kuvab juhuslikult genereeritud temperatuuri mõõdetud väärtusena. See režiim on kasutusel seadme demonstreerimiseks, kui mõõtmiseks pole saadaval loomi. Seadme esitlusrežiimi deaktiveerimiseks või aktiveerimiseks toimige järgnevalt:
 
@@ -52,7 +52,7 @@ Kui valitud on esitlusrežiim, simuleerib seade temperatuurimõõtmisi ja kuvab 
 
     ![VitalControl: menüü seaded Demonstratsioonirežiim](../images/demonstrationmode.png "Demonstratsioonirežiim")
 
-## Ekraani heledus
+## Ekraani heledus {#display-brightness}
 
 Ekraani heleduse seadmiseks toimige järgmiselt.
 
@@ -66,7 +66,7 @@ Ekraani heleduse seadmiseks toimige järgmiselt.
 
     ![VitalControl: menüü seaded Ekraani heledus](../images/displaybrightness.png "Ekraani heledus")
 
-## Klahvivajutuse vibratsioon
+## Klahvivajutuse vibratsioon {#vibration-on-keypress}
 
 Seadme klahvivajutuse vibratsiooni deaktiveerimiseks või aktiveerimiseks toimige järgmiselt:
 
@@ -80,7 +80,7 @@ Seadme klahvivajutuse vibratsiooni deaktiveerimiseks või aktiveerimiseks toimig
 
     ![VitalControl: menüü seaded Ekraani heledus](../images/vibrationonkeypress.png "Ekraani heledus")
 
-## Ressursimonitor
+## Ressursimonitor {#resource-monitor}
 
 Seadme vibratsiooni ressursimonitori deaktiveerimiseks või aktiveerimiseks toimige järgmiselt:
 

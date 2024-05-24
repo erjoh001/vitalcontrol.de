@@ -7,13 +7,13 @@ description: >
 ---
 Varmista ensin, että [uudempi laiteohjelmiston versio](../versions/) on saatavilla laitteellesi ja tarvittaessa päivitä laitteesi laiteohjelmisto seuraavien ohjeiden mukaisesti.
 
-## Tarvittava lisävaruste
+## Tarvittava lisävaruste {#required-accessory}
 
 Laitteen päivityksen asentamiseksi tarvitset kaksipäisen USB-muistitikun (2-in-1 USB-tikku) Type-C/USB 3.0, jossa on USB C -liitin ja USB A -liitin. Tällainen kaksipäinen USB-muistitikku toimitetaan laitteen mukana. Voit myös ostaa tällaisen USB-muistitikun eri toimittajilta.
 
 ![Kaksipäinen USB-muistitikku (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Kaksipäinen USB-muistitikku")
 
-## Valmistelu: lataa uusin laiteohjelmisto
+## Valmistelu: lataa uusin laiteohjelmisto {#preparation-download-latest-firmware}
 
 1. Työnnä USB-muistitikkusi tietokoneesi USB-liitäntään. Luo sitten uusi hakemisto nimeltä 'update' muistitikkusi juurihakemistoon.
 
@@ -31,7 +31,7 @@ Tietovarmuuskopio on suositeltava varotoimenpide. Kaikki olemassa olevat eläin-
 
 [tietovarmuuskopio]: {{< relref "../backup/backup/" >}}
 
-## Suorita laiteohjelmiston päivitys
+## Suorita laiteohjelmiston päivitys {#perform-firmware-update}
 
 1. Avaa päävalikosta `Laite`-valikkokohta VitalControl-laitteessasi.
 

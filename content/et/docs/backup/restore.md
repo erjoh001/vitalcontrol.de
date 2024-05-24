@@ -17,7 +17,7 @@ Sellel USB mälupulgal peab olema kaust `backup`, mis peab sisaldama kehtivat **
 Teie USB mälupulga `backup` kaustas võib leiduda mitu varundusfaili laiendiga `.vcu`. VitalControl seade taastab alati andmed failist nimega `backup.vcu`, mis on alati uusim fail. Kui soovite taastada andmeid vanemast varundusfailist (mille failinimes on varunduse kuupäev), peate enne andmete taastamist nimetama selle vanema varundusfaili ümber `backup.vcu`-ks!
 {{% /alert %}}
 
-## Andmete taastamine VitalControl seadmesse
+## Andmete taastamine VitalControl seadmesse {#data-restoration-to-vitalcontrol-device}
 
 1. Avage peamenüüs &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `Seade` VitalControl seadmes, kuhu soovite andmed taastada.
 

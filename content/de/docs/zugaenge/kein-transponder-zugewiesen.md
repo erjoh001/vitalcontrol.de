@@ -11,7 +11,7 @@ Kategorien: [Zukäufe, Tiernummer]
 Tags: [Zukäufe, Tiernummer]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Kein Transponder zugewiesen
+## Kein Transponder zugewiesen {#no-transponder-assigned}
 
 Die Handhabung innerhalb dieser Liste ist identisch mit der Liste `Zukäufe, kein Transponder zugewiesen`. In dieser Liste finden Sie jedoch alle Tiere denen noch kein Transponder zugeordnet wurde, unabhängig von Ihrem Alter.
 
@@ -19,6 +19,6 @@ Die Handhabung innerhalb dieser Liste ist identisch mit der Liste `Zukäufe, kei
 
 2. Es öffnet sich ein Untermenü in dem Sie zwischen <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Zukäufe, kein Transponder" /> `Zukäufe, kein Transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zukäufe" /> `Zukäufe`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Keine Ohrmarkennummer zugewiesen" /> `Keine Ohrmarkennummer zugewiesen`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Geburten" /> `Geburten` und <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Kein Transponder zugewiesen" /> `Kein Transponder zugewiesen` auswählen können. Verwenden Sie die Pfeiltasten ◁ ▷ △ ▽ um den Menüpunkt <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Kein Transponder zugewiesen" /> `Kein Transponder zugewiesen` auszuwählen und bestätigen Sie mit `OK`.
 
-3. Es öffnet sich eine Liste mit allen Tieren denen noch kein Transponder zugewiesen wurde. Um einen Transponder zuzuweisen verfahren Sie wie in [`Zukäufe, kein Transponder zugewiesen`](../zukaeufe-kein-transponder/#zuk%C3%A4ufe-kein-transponder) ab Schritt drei.
+3. Es öffnet sich eine Liste mit allen Tieren denen noch kein Transponder zugewiesen wurde. Um einen Transponder zuzuweisen verfahren Sie wie in [`Zukäufe, kein Transponder zugewiesen`](../zukaeufe-kein-transponder/#new-on-farm-no-transponder) ab Schritt drei.
 
     ![VitalControl: Menüfolge Zugänge Zukäufe](../bilder/kein-transponder-zugewiesen.png "Kein Transponder zugewiesen")

@@ -11,7 +11,7 @@ categories: [Uudet eläimet]
 tags: [Uudet eläimet]
 translationKey: new/animals
 ---
-## Luo useita uudet eläimet
+## Luo useita uudet eläimet {#create-several-new-animals}
 
 Tässä valikossa voit rekisteröidä useita uudet eläimet kerralla. Tässä yhteydessä asetat perusasetuksen, joka koskee kaikkia tässä luonnissa olevia eläimiä.
 

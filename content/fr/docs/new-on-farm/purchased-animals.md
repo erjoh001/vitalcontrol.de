@@ -11,7 +11,7 @@ categories: [Nouveau à la ferme]
 tags: [Nouveau à la ferme]
 translationKey: new-on-farm/new-on-farm
 ---
-## Animaux achetés
+## Animaux achetés {#purchased-animals}
 
 Dans cette liste, vous trouverez tous les animaux que vous avez créés via l'enregistrement en masse. Vous pouvez exporter cette liste et ainsi enregistrer vos ajouts directement dans le programme de gestion de troupeau DSP-Herde et dans HI-Tier. Alternativement, vous pouvez supprimer toutes les notifications d'achat.
 
@@ -31,7 +31,7 @@ Pour exporter des données, vous avez besoin de la clé USB incluse. Connectez l
 
 ![VitalControl : Liste des animaux achetés, export csv](../images/purchasedanimals.png "Animaux achetés, export csv")
 
-## Options : Supprimer toutes les notifications après l'exportation
+## Options : Supprimer toutes les notifications après l'exportation {#options-delete-all-notices-after-export}
 
 Avec cette option, vous pouvez définir si tous les messages dans la liste `Animaux achetés` doivent être supprimés après que le fichier CSV a été exporté. Utilisez cette option uniquement si vous êtes sûr de ne plus avoir besoin des messages !
 
@@ -43,21 +43,21 @@ Avec cette option, vous pouvez définir si tous les messages dans la liste `Anim
 
     ![VitalControl : Liste des animaux achetés, export csv](../images/delete-all.png "Supprimer toutes les notifications après l'exportation")
 
-## Appels de fonction directs
+## Appels de fonction directs {#direct-function-calls}
 
 En plus de créer le fichier d'exportation, vous disposez des options suivantes :
 
-- [Dissocier le transpondeur](#dissocier-le-transpondeur)
-- [Effacer toutes les notifications d'achat](#effacer-toutes-les-notifications-dachat)
-- [Supprimer animal + notification](#supprimer-un-animal--avis-dachat)
-- [Effacer la notification d'achat](#effacer-lavis-dachat)
-- [Modifier une marque](#modifier-les-données-dun-animal-acheté)
+- [Dissocier le transpondeur](#unlink-transponder)
+- [Effacer toutes les notifications d'achat](#clear-all-purchase-notices)
+- [Supprimer animal + notification](#delete-animal--purchase-notice)
+- [Effacer la notification d'achat](#clear-notice-of-purchase)
+- [Modifier une marque](#edit-data-of-purchased-animal)
 
 {{% alert title="Conseil" %}}
 Ouvrez toujours la liste des `animaux achetés` en premier comme décrit dans les instructions ci-dessus.
 {{% /alert %}}
 
-### Dissocier le transpondeur
+### Dissocier le transpondeur {#unlink-transponder}
 
 Vous pouvez utiliser cette fonction pour retirer le transpondeur d'un animal.
 
@@ -69,7 +69,7 @@ Vous pouvez utiliser cette fonction pour retirer le transpondeur d'un animal.
 
     ![VitalControl : Liste des animaux achetés, export csv](../images/unlink-transponder.png "Animaux achetés, dissocier le transpondeur")
 
-### Effacer toutes les notifications d'achat
+### Effacer toutes les notifications d'achat {#clear-all-purchase-notices}
 
 Avec cette fonction, vous pouvez supprimer tous les animaux de la liste `Animaux achetés` sans avoir à créer un fichier d'exportation au préalable.
 
@@ -81,7 +81,7 @@ Avec cette fonction, vous pouvez supprimer tous les animaux de la liste `Animaux
 
 ![VitalControl : Liste des animaux achetés, effacer les avis d'achat](../images/clear.png "Effacer tous les avis d'achat")
 
-### Supprimer un animal + avis d'achat
+### Supprimer un animal + avis d'achat {#delete-animal--purchase-notice}
 
 Pour supprimer un animal et son avis d'achat correspondant, procédez comme suit :
 
@@ -95,7 +95,7 @@ Pour supprimer un animal et son avis d'achat correspondant, procédez comme suit
 
     ![VitalControl : Liste des animaux achetés, supprimer animal + avis](../images/delete.png "Supprimer animal + avis")
 
-### Effacer l'avis d'achat
+### Effacer l'avis d'achat {#clear-notice-of-purchase}
 
 Pour supprimer l'avis d'achat d'un animal de la liste, procédez comme suit :
 
@@ -109,7 +109,7 @@ Pour supprimer l'avis d'achat d'un animal de la liste, procédez comme suit :
 
     ![VitalControl : Liste des animaux achetés, effacer l'avis d'achat](../images/clearnotice.png "Effacer l'avis d'achat")
 
-### Modifier les données d'un animal acheté
+### Modifier les données d'un animal acheté {#edit-data-of-purchased-animal}
 
 Pour modifier les données d'un animal dans la liste des achats, procédez comme suit :
 

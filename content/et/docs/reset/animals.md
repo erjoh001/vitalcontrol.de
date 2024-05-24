@@ -6,7 +6,7 @@ description: >
   Õpi, kuidas kustutada kõik loomad ja nende andmed oma VitalControl seadmest.
 categories: [Reset]
 ---
-## Kõigi loomade andmete kustutamine seadmest
+## Kõigi loomade andmete kustutamine seadmest {#erasing-all-animal-data-from-device}
 
 1. Avage menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Seade` oma VitalControl seadme põhiekraanil.
 

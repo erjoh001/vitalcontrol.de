@@ -11,7 +11,7 @@ tags: [Toiminnot, paino]
 translationKey: actions/weight
 ---
 
-## Paina paino
+## Paina paino {#record-weight}
 Käytä &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Punnitus" /> `Punnitus` toimintoa tallentaaksesi eläimesi painon yksilöllisesti. Tee tämä punnitsemalla eläimesi tai arvioimalla niiden paino ja syöttämällä tämä arvo VitalControl-laitteeseen. Tämä mahdollistaa eläintesi painokehityksen tarkistamisen ja arvioimisen yksilöllisesti.
 
 {{% alert title="Vinkki" %}}

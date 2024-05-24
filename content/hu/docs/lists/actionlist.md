@@ -11,7 +11,7 @@ categories: [Lists]
 tags: [Lists, Action]
 translationKey: lists/action
 ---
-## Akciólista
+## Akciólista {#action-list}
 
 Az akciólistában láthatja azokat az állatokat, amelyekkel hat órán belül nem történt semmilyen akció. A következő beállítási lehetőségek is elérhetők:
 
@@ -28,7 +28,7 @@ Az akciólistában láthatja azokat az állatokat, amelyekkel hat órán belül 
 Néhány akciót ugyanúgy kell végrehajtani, mint az [riasztási listában](../alarm). Ezek itt nincsenek részletezve. Végezze el az előzetes lépéseket, és használja a megfelelő akció linkjét az utasítások eléréséhez.
 {{% /alert %}}
 
-### Előzetes lépések
+### Előzetes lépések {#preliminary-steps}
 
 1. Válassza ki a <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" />  `Listák` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
 
@@ -38,7 +38,7 @@ Néhány akciót ugyanúgy kell végrehajtani, mint az [riasztási listában](..
 
    ![VitalControl Lists Action list](../images/firststeps3.png "Előzetes lépések")
 
-### Állatok mérlegelése
+### Állatok mérlegelése {#weigh-animals}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -47,11 +47,11 @@ Néhány akciót ugyanúgy kell végrehajtani, mint az [riasztási listában](..
 3. Az akciólistában használja a nyílgombokat △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />, és használja a nyílgombokat ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
 
 
-4. A [weigh animals](..) menü automatikusan megnyílik.
+4. A [weigh animals](../../actions/record-weight/) menü automatikusan megnyílik.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Weigh animals")
 
-### Akciólánc
+### Akciólánc {#chain-of-action}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -63,7 +63,7 @@ Néhány akciót ugyanúgy kell végrehajtani, mint az [riasztási listában](..
 
    ![VitalControl Lists Action list](../images/chainofaction.png "Chain of action")
 
-### Transzponder összekapcsolása
+### Transzponder összekapcsolása {#link-transponder}
 
 Ez a funkció arra szolgál, hogy transzpondert adjon hozzá azoknak az állatoknak az adatlapjához, amelyekhez még nem rendeltek transzpondert.
 
@@ -77,7 +77,7 @@ Ez a funkció arra szolgál, hogy transzpondert adjon hozzá azoknak az állatok
 
    ![VitalControl Lists Action list](../images/linktransponder.png "Link transponder")
 
-### Elrejtés művelet után
+### Elrejtés művelet után {#hide-after-action}
 
 Ha ez a funkció aktiválva van, a művelet végrehajtása után az állatok el lesznek rejtve a műveleti listából. Ha ez a funkció deaktiválva van, a feldolgozott állatok továbbra is láthatóak maradnak a listában.
 

@@ -11,7 +11,7 @@ categories: [Seznamy]
 tags: [Seznamy, alarm]
 translationKey: lists/alarm
 ---
-## Seznam alarmů
+## Seznam alarmů {#alarm-list}
 
 Na seznamu alarmů najdete všechna zvířata, která jste buď ručně přidali do seznamu, nebo všechna zvířata, která byla v žlutém nebo červeném rozsahu při měření teploty. Seznam vám pomáhá udržet přehled o všech nápadných zvířatech. Také pro každé zvíře na seznamu můžete udělat následující:
 
@@ -36,7 +36,7 @@ Seznam alarmů je strukturován následovně:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Tělesná teplota" title="Tělesná teplota" /> | Poslední zaznamenané měření horečky je zobrazeno pod symbolem s barvami systému semaforu
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Hodnocení zvířete" title="Hodnocení" /> |Kruhová značka pod symbolem ukazuje, že zvíře je na seznamu sledovaných
 
-### Předběžné kroky
+### Předběžné kroky {#preliminary-steps}
 
 1. Vyberte položku menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Seznamy" /> `Seznamy` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
 
@@ -47,7 +47,7 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Předběžné kroky")
 
-### Plná akční nabídka
+### Plná akční nabídka {#full-action-menu}
 
 1. Dokončete předběžné kroky.
 
@@ -59,7 +59,7 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Akční nabídka")
 
-### Data zvířete
+### Data zvířete {#animal-data}
 
 1. Dokončete předběžné kroky.
 
@@ -71,7 +71,7 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Data zvířete")
 
-### Změřte teplotu
+### Změřte teplotu {#take-temperature}
 
 1. Dokončete předběžné kroky.
 
@@ -83,7 +83,7 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Změřte teplotu")
 
-### Ohodnoťte zvíře
+### Ohodnoťte zvíře {#rate-animal}
 
 1. Dokončete předběžné kroky.
 
@@ -95,8 +95,8 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Ohodnoťte zvíře")
 
-### Vymažte alarm
-
+### Vymažte alarm {#clear-alarm}
+ 
 1. Dokončete předběžné kroky.
 
 2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Vymažte alarm` a vyberte akci stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
@@ -108,7 +108,7 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Vymazat alarm")
 
-### Přepnout stav sledování
+### Přepnout stav sledování {#toggle-watch-status}
 
 1. Dokončete předběžné kroky.
 
@@ -120,8 +120,8 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Přepnout stav sledování")
 
-### Hledat zvíře
-
+### Hledat zvíře {#search-animal}
+ 
 1. Dokončete předběžné kroky.
 
 2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí různé možnosti. Pomocí šipek △ ▽ zvýrazněte funkci `Hledat zvíře` a vyvolejte funkci hledání stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
@@ -130,7 +130,7 @@ Seznam alarmů je strukturován následovně:
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Search animal")
 
-### Nastavit filtr
+### Nastavit filtr {#set-filter}
 
 1. Dokončete předběžné kroky.
 

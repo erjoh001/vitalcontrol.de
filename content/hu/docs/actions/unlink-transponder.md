@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [művelet beállítás](../setting/) leírása szerint.
 {{% /alert %}}
 
-## Transzponder leválasztása
+## Transzponder leválasztása {#unlink-transponder}
 
 Ezzel a művelettel leválaszthat egy állathoz már hozzárendelt transzpondert az állatról.
 

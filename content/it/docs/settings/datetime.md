@@ -11,7 +11,7 @@ categories: [Impostazioni]
 tags: [Impostazioni, Data & Ora]
 translationKey: settings/datetime
 ---
-## Per impostare la data
+## Per impostare la data {#to-set-the-date}
 {{% alert title="Avviso" color="warning" %}}
 Assicurati che la data e l'ora siano impostate correttamente. Altrimenti, i timestamp delle misurazioni e le date di nascita degli animali appena aggiunti saranno errati!
 {{% /alert %}}
@@ -28,7 +28,7 @@ Per impostare la data sul tuo dispositivo, segui questi passaggi:
 
     ![VitalControl: menu impostazioni data](../images/date.png "Per impostare la data")
 
-## Per impostare l'ora
+## Per impostare l'ora {#to-set-the-time}
 
 Per impostare l'ora sul tuo dispositivo, segui questi passaggi:
 

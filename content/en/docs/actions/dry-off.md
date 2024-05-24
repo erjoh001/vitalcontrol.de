@@ -11,13 +11,13 @@ tags: [Dry off]
 translationKey: actions/dry-cows
 ---
 
-## Dry off
+## Dry off {#dry-off}
 
 {{% alert title="Hint" %}}
 Depending on the initial status of the cow, you can either dry the animal and add it to the dryer list, or you can mark the animal as a fresh milker and thus add it to the fresh milker list. The distinction between the functions is made clear by a plus symbol or a minus symbol.
 {{% /alert %}}
 
-### Dry off a cow
+### Dry off a cow {#dry-off-a-cow}
 
 1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
 
@@ -37,7 +37,7 @@ Depending on the initial status of the cow, you can either dry the animal and ad
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Mark as lactated
+### Mark as lactated {#mark-as-lactated}
 
 1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
 

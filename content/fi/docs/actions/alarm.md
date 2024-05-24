@@ -11,7 +11,7 @@ tags: [Toiminnat, Hälytys]
 translationKey: actions/alarm
 ---
 
-## Hälytys
+## Hälytys {#alert}
 
 Toiminnolla `Hälytys` voit lisätä eläimiä hälytyslistalle tai poistaa niitä sieltä. Hälytyslista auttaa sinua löytämään huomiota herättävät eläimet nopeammin ja helpommin, mikä tekee päivittäisistä tarkastuksistasi helpompia. Toimiaksesi `Hälytys` toiminnolla, toimi seuraavasti:
 

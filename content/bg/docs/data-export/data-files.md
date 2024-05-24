@@ -10,7 +10,7 @@ tags: [експортни файлове, температури, тегла, о
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Обща информация
+## Обща информация {#general-information}
 
 При експортиране на данни за животни, независимо дали към [USB флаш устройство][] или към локално масово съхранение [на компютъра][], във всеки случай се генерират четири експортни файла:
 
@@ -29,17 +29,17 @@ translationKey: data-export/data-files
 
 Всички четири файла са четими от човек [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) текстови файлове. Файловете са кодирани във формат `UTF-8`, за разделители на колоните се използват точка със запетая (`;`). Отделните полета с данни *не* са оградени с кавички. Всяка редица от съответната таблица представлява набор от данни за животно или извършено измерване или оценка на животно.
 
-## По-нататъшна обработка на експортираните данни
+## По-нататъшна обработка на експортираните данни {#further-processing-of-exported-data}	
 
 Можете да отворите всеки от тези четири експортни файла в програма за електронни таблици по ваш избор (като [Microsoft Excel](https://products.office.com/excel) или [OpenOffice Calc](https://www.openoffice.org/)) и да извършите по-напреднали анализи на данните там. Като пример, изгледът на таблицата `animals.csv` в програма за електронни таблици е показан по-долу:
 
 ![Експортирани данни за животни, отворени в програма за електронни таблици](../images/animals.png "Данни за животни отворени в програма за електронни таблици")
 
-## Описание на данните файлове
+## Описание на данните файлове {#description-of-data-files}
 
 Следващите четири раздели описват всеки от експортираните данни файлове подробно:
 
-### Данни за животни (`animals.csv`)
+### Данни за животни (`animals.csv`) {#animal-data-animalscsv}
 
 - **Име на файла** `animals.csv`
 - **Описание** Общи данни за животни
@@ -72,7 +72,7 @@ National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
 
 [animals.csv]: /data-export/animals.csv
 
-### Данни за телесната температура (`temperatures.csv`)
+### Данни за телесната температура (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Име на файла** `temperatures.csv`
 - **Описание** Стойности на температурата, получени чрез измерване на ректалната телесна температура на животни.
@@ -104,7 +104,7 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Temperature-Celsius
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Данни за тегло (`weights.csv`)
+### Данни за тегло (`weights.csv`) {#weight-data-weightscsv}
 
 - **Име на файла** `weights.csv`
 - **Описание** Стойности на теглото, получени чрез теглене на животни
@@ -136,7 +136,7 @@ National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
 
 [weights.csv]: /data-export/weights.csv
 
-### Оценки на животните (`ratings.csv`)
+### Оценки на животните (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Име на файла** `ratings.csv`
 - **Описание** Оценки на животните, получени чрез визуална инспекция на животните

@@ -11,7 +11,7 @@ Categories: [Zvíře]
 tags: [Zvíře, Teplota, Výška, Data o zvířatech]
 translationKey: animal/animal
 ---
-## Zvíře
+## Zvíře {#animal}
 
 Funkce jednotlivého zvířete vám umožňuje zobrazit důležité informace o hmotnosti, teplotě a hodnocení každého jednotlivého zvířete. Vždy máte možnost zobrazit informace jako grafiku nebo jako seznam. Chcete-li použít funkci jednotlivého zvířete, postupujte následovně:
 
@@ -26,7 +26,7 @@ V rámci každého zobrazení informací máte možnost [vyhledat zvíře](#sear
 Také můžete kdykoli přepínat mezi jednotlivými zvířaty pomocí šipek ◁ ▷.
 {{% /alert %}}
 
-### Nastavit grafické zobrazení
+### Nastavit grafické zobrazení {#set-graphical-view}
 
 1. Stiskněte prostřední horní tlačítko `Zap/Vyp` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Otevřít pop up menu" /> pro otevření pop up menu. V tomto menu můžete vybírat mezi funkcemi `Nastavit filtr`, `Vyhledat zvíře` nebo `Grafické zobrazení`.
 
@@ -35,7 +35,7 @@ Také můžete kdykoli přepínat mezi jednotlivými zvířaty pomocí šipek �
 
 ![VitalControl: Menu Zvíře](images/graphic.png "Reprezentace jako grafika")
 
-### Hledat zvíře
+### Hledat zvíře {#search-animal}
 
 1. Stiskněte prostřední horní tlačítko `Zap/Vyp` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Otevřít pop up menu" /> pro otevření pop up menu. V tomto menu můžete vybrat mezi funkcemi `Nastavit filtr`, `Hledat zvíře` nebo `Grafický pohled`.
 
@@ -45,7 +45,7 @@ Také můžete kdykoli přepínat mezi jednotlivými zvířaty pomocí šipek �
 
 ![VitalControl: Menu Zvíře](images/search.png "Hledat zvíře")
 
-### Nastavit filtr
+### Nastavit filtr {#set-filter}
 
 1. Stiskněte prostřední horní tlačítko `Zap/Vyp` <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Otevřít pop up menu" /> pro otevření pop up menu. V tomto menu můžete vybrat mezi funkcemi `Nastavit filtr`, `Hledat zvíře` nebo `Grafický pohled`.
 

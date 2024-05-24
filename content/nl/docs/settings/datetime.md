@@ -11,7 +11,7 @@ categories: [Instellingen]
 tags: [Instellingen, Datum & Tijd]
 translationKey: settings/datetime
 ---
-## De datum instellen
+## De datum instellen {#to-set-the-date}
 
 {{% alert title="Waarschuwing" color="warning" %}}
 Zorg ervoor dat de datum en tijd correct zijn ingesteld. Anders zijn de tijdstempels van de metingen en de geboortedata van nieuw toegevoegde dieren incorrect!
@@ -29,7 +29,7 @@ Volg deze stappen om de datum op uw apparaat in te stellen:
 
     ![VitalControl: menu-instellingen datum](../images/date.png "De datum instellen")
 
-## De tijd instellen
+## De tijd instellen {#to-set-the-time}
 
 Volg deze stappen om de tijd op uw apparaat in te stellen:
 

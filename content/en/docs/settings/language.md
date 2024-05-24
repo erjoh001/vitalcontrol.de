@@ -10,7 +10,7 @@ categories: [Settings]
 tags: [Settings, Language]
 translationKey: settings/language
 ---
-## Setting your language
+## Setting your language {#setting-your-language}
 
 To set the language of your VitalControl device, proceed as follows:
 
@@ -24,7 +24,7 @@ To set the language of your VitalControl device, proceed as follows:
 
 The language on your VitalControl device is now set and permanently stored.
 
-## Available languages
+## Available languages {#available-languages}
 
 VitalControl firmware holds translations for the following languages:
 
@@ -45,7 +45,7 @@ VitalControl firmware holds translations for the following languages:
 - Turkish (TR)
 - Ukrainian (UK)
 
-## Main menu in all available languages
+## Main menu in all available languages {#main-menu-in-all-available-languages}
 
 {{< tabpane text=true right=false >}}
   {{% tab header="English" lang="en" %}}

@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 Tämä toiminto ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [toiminnon asetuksissa](../setting/).
 {{% /alert %}}
 
-## Poista transponderin linkitys
+## Poista transponderin linkitys {#unlink-transponder}
 
 Tällä toiminnolla voit irrottaa jo eläimeen kiinnitetyn transponderin tästä eläimestä.
 

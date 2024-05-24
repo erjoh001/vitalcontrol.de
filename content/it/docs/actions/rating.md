@@ -11,7 +11,7 @@ tags: [Azioni, Valutazione]
 translationKey: actions/animal-rating
 ---
 
-## Valuta i tuoi animali
+## Valuta i tuoi animali {#rate-your-animals}
 
 Quando valuti l'animale, documenti le condizioni dell'animale individuale. La condizione è determinata visivamente e registrata con l'aiuto del sistema a semaforo. Nella valutazione di base, viene registrata solo la condizione generale. Nella valutazione estesa, registri la condizione generale, l'assunzione di cibo, la consistenza delle feci e le malattie respiratorie. Puoi cambiare la modalità di valutazione direttamente nell'azione <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Valutazione` oppure puoi definirla nelle [impostazioni](../../settings/data-acquisition/#mode-of-animal-rating).
 
@@ -36,7 +36,7 @@ Una valutazione gialla o rossa significa che VitalControl classifica l'animale c
 Se non fai una selezione usando i tasti freccia ◁ ▷ ma salvi direttamente usando il tasto `F3` o `OK`, VitalControl salva una valutazione neutra, rappresentata da un colore grigio.
 {{% /alert %}}
 
-### Valutazione di base
+### Valutazione di base {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Valutazione di base:" text=true disabled=true />}}
@@ -48,7 +48,7 @@ Se non fai una selezione usando i tasti freccia ◁ ▷ ma salvi direttamente us
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Valutazione estesa
+### Valutazione estesa {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Valutazione di base:" text=true disabled=true />}}

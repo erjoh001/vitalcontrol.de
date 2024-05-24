@@ -14,7 +14,7 @@ translationKey: actions/unregister
 Zodra u het gegevensrecord van het dier verwijdert, is het niet langer beschikbaar voor evaluatiedoeleinden! Als u een dier afmeldt, maar bijvoorbeeld later de ontwikkeling van het dier opnieuw wilt evalueren, moet u het gegevensrecord van het dier bewaren!
 {{% /alert %}}
 
-## Afmelden
+## Afmelden {#unregister}
 
 De actie `Afmelden` stelt u in staat een dier af te melden zodra het verplaatst is. Om een dier af te melden, volg de volgende stappen:
 

@@ -11,7 +11,7 @@ categories: [Apparaat]
 tags: [Apparaat]
 translationKey: device/flashlight
 ---
-## Licht activeren en deactiveren
+## Licht activeren en deactiveren {#activate-and-deactivate-light}
 
 Hier kunt u het licht op uw VitalControl-apparaat activeren of deactiveren. Als u het licht activeert, blijft het continu branden.
 

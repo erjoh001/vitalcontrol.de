@@ -17,7 +17,7 @@ Su questa chiavetta USB deve esistere una directory `backup`, che deve contenere
 All'interno della directory `backup` della tua chiavetta USB, potresti trovare diversi file di backup con estensione `.vcu`. Il dispositivo VitalControl ripristina sempre i dati di backup dal file denominato `backup.vcu`, che è sempre il file più recente. Se desideri ripristinare i dati da un file di backup più vecchio (che contiene la data del backup nel nome del file), devi rinominare questo file di backup più vecchio in `backup.vcu` prima di eseguire il ripristino dei dati!
 {{% /alert %}}
 
-## Ripristino dei dati sul dispositivo VitalControl
+## Ripristino dei dati sul dispositivo VitalControl {#data-restoration-to-vitalcontrol-device}		
 
 1. Apri la voce di menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` nella schermata principale del dispositivo VitalControl su cui desideri ripristinare i dati.
 

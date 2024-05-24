@@ -11,7 +11,7 @@ categories: [Uus loom]
 tags: [Loomade registreerimine]
 translationKey: new/animal
 ---
-## Loo uus loom
+## Loo uus loom {#create-a-new-animal}
 
 Uue looma loomiseks toimi järgnevalt:
 

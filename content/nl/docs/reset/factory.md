@@ -7,7 +7,7 @@ description: >
 categories: [Reset]
 translationKey: reset/factory
 ---
-## Een fabrieksreset uitvoeren
+## Een fabrieksreset uitvoeren {#performing-a-factory-reset}
 
 1. Open het menu-item <img src="/icons/device.svg" width="25" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van uw VitalControl-apparaat.
 

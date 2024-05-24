@@ -14,7 +14,7 @@ translationKey: actions/transponder
 Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [paramètres d'action](../setting/).
 {{% /alert %}}
 
-## Lier un transpondeur
+## Lier un transpondeur {#link-transponder}
 
 Avec cette action, vous pouvez assigner un transpondeur à un animal qui n'a pas encore été assigné de transpondeur.
 

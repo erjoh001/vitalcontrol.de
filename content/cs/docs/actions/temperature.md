@@ -11,7 +11,7 @@ tags: [Akce, horečka, teplota]
 translationKey: actions/temperature
 ---
 
-## Měření horečky
+## Měření horečky {#measure-fever}
 
 Použijte akci měření teploty k měření teploty vašich zvířat. Vložte měřicí hrot rektálně do specifikované hloubky měření (u velkých zvířat celou délku až po výstupek, u malých přežvýkavců cca 6 cm nebo 2/3 měřicího hrotu). Měřicí proces probíhá automaticky. Jakmile je měření dokončeno, zařízení zobrazí naměřenou teplotu. Barevné kódování ukazuje, zda je teplota v zeleném, žlutém nebo červeném rozsahu. Během kampaně Měření teploty máte několik možností:
 
@@ -46,7 +46,7 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Uložit výsledek
+### Uložit výsledek {#save-result}
 
 1. Dokončete předběžné kroky.
 
@@ -54,7 +54,7 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 
     ![VitalControl: Menu Actions Save results](../images/saveresults.png "Save results")
 
-### Přidat na seznam sledovaných
+### Přidat na seznam sledovaných {#put-on-the-watch-list}
 
 1. Dokončete předběžné kroky.
 
@@ -64,7 +64,7 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 
     ![VitalControl: Menu Actions Put on watch list](../images/watchlist.png "Put on watch list")
 
-### Zapnutí a vypnutí osvětlení měřicího místa
+### Zapnutí a vypnutí osvětlení měřicího místa {#lighting-of-the-measurement-location-on-and-off}
 
 1. Dokončete předběžné kroky.
 
@@ -74,8 +74,8 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 
     ![VitalControl: Menu Actions Flashlight on off](../images/light.png "Flashlight on off")
 
-### Opakovat měření
-
+### Opakovat měření {#repeat-the-measurement}
+ 
 1. Dokončete předběžné kroky.
 
 
@@ -85,7 +85,7 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 
     ![VitalControl: Menu Akce Světlo zapnuto vypnuto](../images/repeat.png "Světlo zapnuto vypnuto")
 
-### Zrušit akci
+### Zrušit akci {#cancel-the-action}
 
 1. Dokončete předběžné kroky.
 

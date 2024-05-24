@@ -11,7 +11,7 @@ categories: [paramètres]
 tags: [paramètres, température, seuil, projecteur anal]
 translationKey: settings/temperature
 ---
-## Définir les seuils et plages de température
+## Définir les seuils et plages de température {#set-the-threshold--temperature-ranges}
 {{% alert title = "Conseil" %}}
 Les valeurs seuils pour la température corporelle sont stockées ici individuellement pour les espèces animales veau, vache et agneau. Les champs jaunes et rouges indiquent la valeur seuil pour "température élevée" et "fièvre" respectivement. VitalControl place les animaux dans les zones jaunes et rouges sur la liste d'alarme, ce qui vous facilite la surveillance des animaux malades. Un seuil pour la sous-température peut également être librement défini.
 {{% /alert %}}
@@ -32,7 +32,7 @@ Pour définir les seuils et plages de température sur votre appareil, procédez
 
     ![VitalControl : réglages du menu seuil & plages de température](../images/threshold.png "Seuil & Plages de température")
 
-## Définir la sous-température
+## Définir la sous-température {#set-undertemperature}
 {{% alert title = "Conseil" %}}
 Ici, vous définissez la température mesurée à partir de laquelle une sous-température se produit. Lors de la mesure de la fièvre, cette température est affichée avec un fond bleu.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Pour définir la valeur seuil pour la sous-température, procédez comme suit :
 
     ![VitalControl : réglages du menu sous-température](../images/undertemperature.png "Sous-température")
 
-## Projecteur anal
+## Projecteur anal {#anus-spotlight}
 {{% alert title = "Conseil" %}}
 Ici, vous pouvez régler si la lumière doit être activée ou désactivée automatiquement lors de la mesure de la fièvre.
 {{% /alert %}}

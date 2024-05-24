@@ -11,7 +11,7 @@ tags: [Tegevused, Looma ajalugu]
 translationKey: actions/animalshistory
 ---
 
-## Looma Ajalugu
+## Looma Ajalugu {#animal-history}
 
 Looma ajalugu annab ülevaate seni salvestatud andmetest ja valitud looma arengust. Saate vabalt valida kuvatava teabe. Samuti saate valida, kas ajalugu kuvatakse tabeli või diagrammina. Looma ajalugu aitab näha, kas ja millal need loomad viimati silma paistsid. See aitab ka läbipaistvust luua, kui mitu inimest viivad läbi looma ülevaatust.
 

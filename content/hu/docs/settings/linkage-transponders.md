@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
 translationKey: settings/link-transponder
 ---
-## Vásárolt borjak maximális életkorának beállítása
+## Vásárolt borjak maximális életkorának beállítása {#set-maximum-age-of-purchased-calves}
 A `Vásárolt borjak maximális életkora` beállításához a készülékén kövesse az alábbi lépéseket.
 
 1. Válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
@@ -22,8 +22,7 @@ A `Vásárolt borjak maximális életkora` beállításához a készülékén k�
 
     ![VitalControl: menu settings link transponder](../images/maximumage.png "Vásárolt borjak maximális életkora")
 
-## Állat azonosító hozzárendelése
-
+## Állat azonosító hozzárendelése {#assignment-animal-id}
 Az `Állat azonosító hozzárendelése` beállításához a készülékén kövesse az alábbi lépéseket.
 
 1. Válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.

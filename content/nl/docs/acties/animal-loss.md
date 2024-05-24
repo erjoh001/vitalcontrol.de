@@ -11,7 +11,7 @@ tags: [Acties, dier-verlies]
 translationKey: actions/animal-loss
 ---
 
-## Dier verloren
+## Dier verloren {#animal-loss}
 
 De actie `Dier verloren` stelt u in staat om een dierverlies te registreren. Om een dierverlies te registreren, volg de volgende stappen:
 

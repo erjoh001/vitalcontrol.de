@@ -9,7 +9,7 @@ categories: [Filter]
 tags: [Filter]
 translationKey: filter
 ---
-## Filtreerimine
+## Filtreerimine {#applying-filters}
 
 {{% alert title="MÄRKUS" %}}
 Filter aitab teil menüüpunktides `Kari`, `Nimekirjad` ja `Hindamine` VitalControl seadmes filtreerimiskriteeriumide abil valikut teostada. Niipea kui rakendate filtrit, ilmuvad ekraani ülaossa erinevate filtreerimiskriteeriumide sümbolid. Need sümbolid aitavad teil teada saada, kas ja millised filtreerimiskriteeriumid on aktiveeritud. Näiteks, kui seadistate `Sugu` filtri meessoost, kasutab seade ainult isaseid loomi. Näiteks, kui aktiveerite ka `Jälgimisel` filtri, kasutab seade ainult jälgimisnimekirjas olevaid isaseid loomi.

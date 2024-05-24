@@ -11,7 +11,7 @@ weight: 10
 ---
 Si hay un mal funcionamiento en tu dispositivo, primero deberías realizar una comprobación de hardware para aclarar si alguno de los componentes de hardware está defectuoso.
 
-## Comprueba el hardware de tu dispositivo
+## Comprueba el hardware de tu dispositivo {#check-the-hardware-of-your-device}
 
 1. Abre el ítem del menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de tu dispositivo VitalControl.
 

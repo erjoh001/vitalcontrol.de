@@ -8,7 +8,7 @@ description: >
  Appeler les informations du fournisseur
 translationKey: device/info/about
 ---
-## Appeler le menu "À propos"
+## Appeler le menu "À propos" {#call-up-menu-about}
 
 Pour récupérer les informations matérielles de votre appareil, procédez comme suit :
 

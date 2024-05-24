@@ -8,13 +8,13 @@ description: >
 
 Tout d'abord, assurez-vous qu'une [version plus récente du micrologiciel](../versions/) est disponible pour votre appareil et, si nécessaire, mettez à jour le micrologiciel de votre appareil en suivant les instructions suivantes.
 
-## Accessoire requis
+## Accessoire requis {#required-accessory}
 
 Pour installer la mise à jour sur votre appareil, vous avez besoin d'une clé USB double (clé USB 2-en-1) Type-C/USB 3.0 avec un connecteur USB C et un connecteur USB A. Une telle clé USB double est livrée avec votre appareil. Vous pouvez également acheter une telle clé USB auprès de différents fournisseurs.
 
 ![Clé USB double (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Clé USB double")
 
-## Préparation : téléchargement du micrologiciel le plus récent
+## Préparation : téléchargement du micrologiciel le plus récent {#preparation-download-latest-firmware}
 
 1. Insérez votre clé USB dans le connecteur USB de votre ordinateur. Ensuite, créez un nouveau répertoire nommé 'update' dans le répertoire racine de votre clé USB.
 
@@ -32,7 +32,7 @@ La sauvegarde des données est une mesure de précaution recommandée. Toutes le
 
 [Sauvegarde des données]: {{< relref "../backup/backup/" >}}
 
-## Effectuer la mise à jour du micrologiciel
+## Effectuer la mise à jour du micrologiciel {#perform-firmware-update}
 
 1. Ouvrez l'élément de menu `Appareil` sur l'écran principal de votre appareil VitalControl.
 

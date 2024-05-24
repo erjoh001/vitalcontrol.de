@@ -11,7 +11,7 @@ categories: [Tömeges rögzítés]
 tags: [Tömeges rögzítés]
 translationKey: new/bulk-recording
 ---
-## Tömeges rögzítés
+## Tömeges rögzítés {#bulk-recording}
 
 A tömeges regisztráció segítségével rövid idő alatt nagy számú állatot rögzíthet és menthet az eszközére. Használja a vonalkódolvasót a szarvasmarha útleveleken található fülcímke szám és születési dátum vonalkódjainak beolvasásához. Az állat automatikusan mentésre kerül, és azonnal beolvashatja a következő útlevelet. Az állatok tömeges regisztrációjának végrehajtásához kövesse az alábbi lépéseket:
 
@@ -38,7 +38,7 @@ További beállítási lehetőségek állnak rendelkezésedre a `Tömeges rögz�
 Hibajelzések jelenhetnek meg a szkennelési folyamat során. Ebben az esetben a vonalkódolvasó hangot ad ki, és a további szkennelés nem lehetséges. Ismerd el a megfelelő hibajelzést a VitalControl kijelzőjén, és folytasd a szkennelést.
 {{% /alert %}}
 
-### Születési dátum kötelező
+### Születési dátum kötelező {#birth-date-mandatory}
 
 Ezzel a beállítási lehetőséggel meghatározhatod, hogy az állatok létrehozásakor meg kell-e adni a születési dátumot. Ha kikapcsolod ezt az opciót, csak a vonalkódot kell beolvasnod az állat mentéséhez. Ezeknél az állatoknál azonban az aktuális dátum kerül tárolásra születési dátumként! Ez a funkció alapértelmezés szerint engedélyezve van. A kikapcsoláshoz kövesd az alábbi lépéseket:
 
@@ -52,7 +52,7 @@ Ezzel a beállítási lehetőséggel meghatározhatod, hogy az állatok létreho
 
 ![VitalControl: Menu New Birth date mandatory](../images/birthdate.png "Születési dátum kötelező")
 
-### Alapértelmezett értékek
+### Alapértelmezett értékek {#default-values}
 
 Az `Alapértelmezett értékek` beállítási menüben olyan szabványokat állíthat be, amelyek minden létrehozott állatra vonatkoznak. A vonalkódolvasóval történő létrehozás folyamata változatlan marad, ahogy fentebb leírtuk. Lehetősége van beállítani az állat típusát, nemét, fajtáját és tartózkodási helyét. Az `Alapértelmezett értékek` beállításához kövesse az alábbi lépéseket:
 
@@ -66,7 +66,7 @@ Az `Alapértelmezett értékek` beállítási menüben olyan szabványokat áll�
 
 ![VitalControl: Menu New Default values](../images/defaultvalues.png "Alapértelmezett értékek")
 
-### Rögzített értékek
+### Rögzített értékek {#recorded-values}
 
 A `Rögzített értékek` beállítási menüben megadhatja, hogy mely értékeket kell rögzíteni a fülcímke száma és a születési dátum mellett. Választhat a `Fajta`, `Nem`, `Tartózkodási hely`, `Jelenlegi súly`, `Születési súly` és `Állat típusa` között. Amint legalább egy értéket beállít, a folyamat megváltozik a szkennelés során. Először szkennelje be a fülcímke számát és a születési dátumot. Ezután használja a △ ▽ iránygombokat a beállítandó értékek kiválasztásához és az értékek beállításához. Ezután mentse el a bejegyzéseit az `F3` gombbal. Csak ezután jön létre az állat! A rögzítendő értékek beállításához kövesse az alábbi lépéseket:
 

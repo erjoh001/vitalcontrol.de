@@ -7,7 +7,7 @@ description: >
 categories: [Reset]
 translationKey: reset/factory
 ---
-## Извършване на фабричен рестарт
+## Извършване на фабричен рестарт {#performing-a-factory-reset}
 
 1. Отворете менюто <img src="/icons/device.svg" width="25" align="bottom" alt="Устройство" /> `Устройство` на главния екран на вашето устройство VitalControl.
 

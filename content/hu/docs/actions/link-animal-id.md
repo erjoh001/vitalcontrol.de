@@ -14,8 +14,8 @@ translationKey: actions/national-animal-id
 Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [művelet beállítások](../setting/) leírása szerint.
 {{% /alert %}}
 
-## Állat azonosító összekapcsolása
-
+## Állat azonosító összekapcsolása {#link-animal-id}
+ 
 Országos állat azonosító hozzárendeléséhez egy olyan állathoz, amelynek nincs országos állat azonosítója, kövesse az alábbi lépéseket:
 
 1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `műveletek` menüpontot és nyomja meg az `OK` gombot.
@@ -40,7 +40,7 @@ Országos állat azonosító hozzárendeléséhez egy olyan állathoz, amelynek 
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Az állat azonosítójának összekapcsolása az elektronikus fülcímke beolvasásával
+## Az állat azonosítójának összekapcsolása az elektronikus fülcímke beolvasásával {#link-animal-id-with-electronic-ear-tag-scan}
 
 Az állat nemzeti azonosítójának hozzárendeléséhez egy elektronikus fülcímkével rendelkező állathoz, kövesse az alábbi lépéseket:
 

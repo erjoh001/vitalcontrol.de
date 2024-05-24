@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, units]
 translationKey: settings/units
 ---
-## Définir l'unité de température
+## Définir l'unité de température {#set-temperature-unit}
 
 Pour définir l'unité de température sur votre appareil, procédez comme suit.
 
@@ -25,7 +25,7 @@ Pour définir l'unité de température sur votre appareil, procédez comme suit.
 
     ![VitalControl : réglages du menu unité de température](../images/temperature.png "Unité de température")
 
-## Définir l'unité de masse
+## Définir l'unité de masse {#set-mass-unit}
 
 Pour définir l'unité de masse sur votre appareil, procédez comme suit.
 

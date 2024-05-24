@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 ¡Esta acción no está habilitada por defecto! Actívala como se describe en [configuración de acciones](../setting/).
 {{% /alert %}}
 
-## Desvincular transpondedor
+## Desvincular transpondedor {#unlink-transponder}
 
 Con esta acción puedes desvincular un transpondedor que ya ha sido asignado a un animal de este animal.
 

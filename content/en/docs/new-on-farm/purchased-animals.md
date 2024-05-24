@@ -11,7 +11,7 @@ categories: [New on farm]
 tags: [New on farm]
 translationKey: new-on-farm/new-on-farm
 ---
-## Purchased animals
+## Purchased animals {#purchased-animals}
 
 In this list you will find all the animals that you have created via bulk recording. You can export this list and thus register your additions directly in the herd management program DSP-Herde and in HI-Tier. Alternatively, you can delete all purchase notices.
 
@@ -31,7 +31,7 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
     ![VitalControl: List of purchased animals, csv export](../images/purchasedanimals.png "Purchased animals, csv export ")
 
-## Options: Delete all notices after export
+## Options: Delete all notices after export {#options-delete-all-notices-after-export}
 
 With this option, you can set whether all messages within the `Purchased animals` list should be deleted after the CSV file has been exported. Only use this option if you are sure that you no longer need the messages!
 
@@ -43,7 +43,7 @@ With this option, you can set whether all messages within the `Purchased animals
 
     ![VitalControl: List of purchased animals, csv export](../images/delete-all.png "Delete all notices after export")    
 
-## Direct function calls
+## Direct function calls {#direct-function-calls}
 
 In addition to creating the export file, you have the following options:
 
@@ -57,7 +57,7 @@ In addition to creating the export file, you have the following options:
 Always open the `purchased animals` list first as described in the instructions above.
 {{% /alert %}}
 
-### Unlink transponder
+### Unlink transponder {#unlink-transponder}
 
 You can use this function to remove the transponder from an animal.
 
@@ -69,7 +69,7 @@ You can use this function to remove the transponder from an animal.
 
     ![VitalControl: List of purchased animals, csv export](../images/unlink-transponder.png "Purchased animals, unlink transponder")
 
-### Clear all purchase notices
+### Clear all purchase notices {#clear-all-purchase-notices}
 
 With this function you can delete all animals from the `Purchased animals` list without having to create an export file first.
 
@@ -81,7 +81,7 @@ With this function you can delete all animals from the `Purchased animals` list 
 
     ![VitalControl: List of purchased animals, clear purchase notices](../images/clear.png "Clear all purchase notices ")
 
-### Delete animal + purchase notice
+### Delete animal + purchase notice {#delete-animal--purchase-notice}
 
 To delete an animal and its corresponding purchase notice, proceed as follows:
 
@@ -95,7 +95,7 @@ To delete an animal and its corresponding purchase notice, proceed as follows:
 
     ![VitalControl: List of purchased animals, dele animal + notice](../images/delete.png "Delete animal + notice")
 
-### Clear notice of purchase
+### Clear notice of purchase {#clear-notice-of-purchase}
 
 To delete an animal's notice of purchase from the list, proceed as follows:
 
@@ -109,7 +109,7 @@ To delete an animal's notice of purchase from the list, proceed as follows:
 
     ![VitalControl: List of purchased animals, clear notice of purchase](../images/clearnotice.png "Clear notice of purchase")
 
-### Edit data of purchased animal
+### Edit data of purchased animal {#edit-data-of-purchased-animal}
 
 To edit the data of an animal in the list of purchases, proceed as follows:
 

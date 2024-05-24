@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 Questa azione non è abilitata di default! Attivala come descritto nelle [impostazioni delle azioni](../settings/).
 {{% /alert %}}
 
-## Collega ID animale
+## Collega ID animale {#link-animal-id}
 
 Per assegnare un ID animale nazionale a un animale che non ha un ID animale nazionale, procedi come segue:
 
@@ -40,7 +40,7 @@ Per assegnare un ID animale nazionale a un animale che non ha un ID animale nazi
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Collegare l'ID animale con la scansione del marchio auricolare elettronico
+## Collegare l'ID animale con la scansione del marchio auricolare elettronico {#link-animal-id-with-electronic-ear-tag-scan}
 
 Per assegnare un ID animale nazionale a un animale che ha un marchio auricolare elettronico, procedi come segue:
 

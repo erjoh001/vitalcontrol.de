@@ -17,7 +17,7 @@ Before setting up the technology coupling, check whether the 'VCSynchronizer' so
 
 To set up the technology, proceed as follows:
 
-## Create new parameter set for data exchange with VitalControl device
+## Create new parameter set for data exchange with VitalControl device {#create-new-parameter-set-for-data-exchange-with-vitalcontrol-device}
 
 1. Within the software `Herde`, open the `Settings` window. Depending on the configuration of your user interface, you can open this window via the menu item `Organization` in the main menu (top level item _Settings_), in the sidebar menu or in your customized toolbox (horizontal or vertical).
 
@@ -35,13 +35,13 @@ To set up the technology, proceed as follows:
 
    The parameter set for technology `VitalControl` is now created and must be configured in the next steps.
 
-## Configuration: Basic settings
+## Configuration: Basic settings {#configuration-basic-settings}
 
 Initially, the tab `Basic settings` is selected in the screen displayed, as shown in the figure below. Make adjustments there in the categories `External program` ➊, `Animal data` ➋, `Locations` ➌ and `Leaving` ➍ according to your farm-specific conditions.
 
    ![Software Herde: Configuration of basic settings](../screenshots/basic-settings.png "Technology VitalControl: Basic settings").
    
-### Category `External program` ➊
+### Category `External program` ➊ {#category-external-program-}
 
 In order to perform data exchange between VitalControl and Herde Plus, basic software [VitalControl Synchronizer](../../vcsynchronizer) is needed as external helper program. For the correct function of this program, some adjustments have to be made in the category `External program` ➊.
 
@@ -57,7 +57,7 @@ In order to perform data exchange between VitalControl and Herde Plus, basic sof
 - **Technology 🡒  Program HerdePlus**:  
   This input field needs to be filled with the value `vc_exp.bat`. The correspondingly named batch file specifies the sequence of operations during data export.
 
-### Category `Animal Data` ➋
+### Category `Animal Data` ➋ {#category-animal-data-}
 
 Further adjustments have to be made in the category 'Animal data' ➋ in order to get data exchange fully functional.
 
@@ -78,16 +78,16 @@ Further adjustments have to be made in the category 'Animal data' ➋ in order t
 - **Minimum age for transfer**:  
   If `0` is entered as value for this input field, **all animals** will be transferred to the VitalControl device, regardless of their age. A value greater than `0` defines the minimum age (in days) for the animals to be transferred. For example, if **only cows** are to be transferred to the device, a value of 600 days (= 20 months) must be entered here as the minimum age.
 
-### Category `Locations` ➌
+### Category `Locations` ➌ {#category-locations-}
 
 Use this category to exclude animals at certain locations from data transfer to the device. To do so, remove the checkmark from the location(s) for which you **do not** want to transfer the animals housed there to the device.
 
-### Category `Leaving` ➍
+### Category `Leaving` ➍ {#category-leaving-}
 
 Tick the 'Leaving in HERDEplus' option here. This way you specify that animals that left the herd are also deleted from VitalControl device during synchronisation.
 Also tick the 'Does not exist in stock' option. This way you specify that animals on the VitalControl that are not known to `Herde` software are deleted from the VitalControl during synchronisation.
 
-## Configuration: Technology-specific settings
+## Configuration: Technology-specific settings {#configuration-technology-specific-settings}
 
 Next, click on the `Technology-specific settings` tab to determine the scope of the data exchange. It is recommended to check all check boxes listed there except for the checkbox `Save import file after processing`. The latter checkbox is meant for diagnostic purposes and should be selected only if demanded by service personnel.
 
@@ -96,7 +96,7 @@ Next, click on the `Technology-specific settings` tab to determine the scope of 
 
    ![Herde Software: Configuration Data exchange](../screenshots/technology-specific-settings.png "Data exchange: specific settings").
 
-## Save data exchange settings
+## Save data exchange settings {#save-data-exchange-settings}
 
 Press the `Save (F2)` key after you have configured all configuration parameters appropriately. The parameter set for data exchange to VitalControl device is now saved and ready for use.  
 Perform a [data exchange](../data-exchange/) now to check whether the stipulated settings are valid so that you successfully can exchange data to and from VitalControl device.

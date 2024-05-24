@@ -11,8 +11,8 @@ Kategorien: [Einstellungen]
 Tags: [Einstellungen, Tiere neu anlegen]
 translationKey: settings/new-animals
 ---
-## Standardwerte festlegen
-### Erfasste Gewicht(e) einstellen
+## Standardwerte festlegen {#set-default-values}
+### Erfasste Gewicht(e) einstellen {#set-recorded-weights}
 
 Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb erfasst und abgespeichert wird. Um die zu erfassenden Gewichte auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -30,7 +30,7 @@ Hier definieren Sie, welches Gewicht beim Anlegen neuer Tiere in Ihrem Betrieb e
  Wählen Sie "keine", wenn: die Tiere automatisch im Hintergrund angelegt werden (via Transponderscan), im Betrieb keine Waage vorhanden ist und keine Schätzwerte gewollt sind, die Geburtsgewichte unbekannt sind.
 {{% /alert %}}
 
-### Alter beim Anlegen einstellen
+### Alter beim Anlegen einstellen {#set-age-at-registration}
 
 {{% alert title="Tipp" %}}
 Anhand der dort hinterlegten Altersangabe berechnet das Gerät das Geburtsdatum, welches für ein manuell neu anzulegendes Tier vorgeschlagen bzw. welches beim automatischen Anlegen im Hintergrund (via Transponderscan) verwendet wird. Bei Milchviehbetrieben ist hier das Alter in Tagen einzugeben, in dem neugeborene Kälber im VitalControl registriert werden. Bei Fresseraufzuchtbetrieben ist hier das durchschnittliche Alter der Zukaufskälber einzugeben. Der zulässige Wertebereich reicht von 0 bis 99 Tagen..
@@ -50,7 +50,7 @@ Um das Alter beim Anlegen einzustellen verfahren Sie wie folgt:
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Alter](../bilder/alterbeimanlegen.png "Alter beim Anlegen einstellen")
 
-### Geschlecht einstellen
+### Geschlecht einstellen {#set-sex}
 
 Hier definieren Sie, welches Geschlecht beim Anlegen neuer Tiere in Ihrem Betrieb vorgeschlagen (manuelles Anlegen) bzw. automatisch übernommen wird (Anlegen im Hintergrund). Um das Geschlecht beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -66,7 +66,7 @@ Hier definieren Sie, welches Geschlecht beim Anlegen neuer Tiere in Ihrem Betrie
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Geschlecht](../bilder/geschlecht.png "Geschlecht einstellen")
 
-### Art des Nutztieres einstellen
+### Art des Nutztieres einstellen {#set-type-of-animal}
 
 Hier definieren Sie welche Art des Nutztieres beim Anlegen neuer Tiere in Ihrem Betrieb erfasst wird. Um die Art des Nutztieres beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -82,7 +82,7 @@ Hier definieren Sie welche Art des Nutztieres beim Anlegen neuer Tiere in Ihrem 
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Art des Nutztieres](../bilder/art.png "Art des Nutztieres einstellen")
 
-### Rasse einstellen
+### Rasse einstellen {#set-breed}
 
 Hier definieren Sie welche Rasse des Nutztieres beim Anlegen neuer Tiere in ihrem Betrieb erfasst wird. Um die Rasse beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -98,7 +98,7 @@ Hier definieren Sie welche Rasse des Nutztieres beim Anlegen neuer Tiere in ihre
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Rasse](../bilder/rasse.png "Rasse einstellen")
 
-### Verbleib einstellen
+### Verbleib einstellen {#set-whereabouts}
 
 Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zugeordnet wird. Um den Verbleib des Nutztieres beim Anlegen auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -116,7 +116,7 @@ Hier definieren Sie welcher Verbleib den Tieren beim Anlegen neuer Nutztiere zug
 
 Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
 
-## Tiere automatisch anlegen
+## Tiere automatisch anlegen {#auto-registration}
 Hier definieren Sie, das Verhalten des Geräts, wenn ein neuer, dem VitalControl-Gerät noch unbekannter Transponder eingescannt wird. Für diesem Fall könnten drei verschiedene Verhaltensweisen definiert werden.
 
 {{% alert title = "Hinweis" %}}
@@ -135,7 +135,7 @@ Um die Verhaltensweise beim Automatischen anlegen des Nutztieres auf ihrem Gerä
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Tiere automatisch anlegen](../bilder/tiereautomatischanlegen.png "Tiere automatisch anlegen einstellen")
 
-### Vergabe Tiernummer einstellen
+### Vergabe Tiernummer einstellen {#assignment-animal-id}
 Hier definieren Sie welche Tiernummer beim Neuanlegen eines neuen Tieres in Ihrem Betrieb vorgeschlagen (Ableitung von Transpondernummer) bzw. verwendet (fortlaufend) wird.
 
 {{% alert title = "Tipp" %}}
@@ -165,7 +165,7 @@ Tipp:
 Nur bei Nutzung der Option „Fortlaufend“: wenn Sie eingestellt haben, dass Sie bei der Zuordnung der Ohrmarkennummer getrennte Nummernbereiche für männliche und weibliche Tiere verwenden, wird je eine nächste Tiernummer abgespeichert für männliche, für weibliche und für Tiere mit unbekanntem Geschlecht. Ein links von der Tiernummer platziertes Symbol kennzeichnet, wofür die nächste Tiernummer verwendet wird: entweder für männliche ♀ oder für weibliche ♂ oder für Tiere unbekannten Geschlechts ♀♂?.
 {{% /alert %}}
 
-### Neue ID: Länge einstellen
+### Neue ID: Länge einstellen {#digit-of-the-new-id}
 
 Hier definieren Sie, welche Länge eine von der Transpondernummer abgeleitete Stallnummer für ein neues Tier in Ihrem Betrieb hat. Die mögliche Wertebereich reicht von 2 bis 6 Ziffern. Um die Länge der neuen ID des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
@@ -181,7 +181,7 @@ Hier definieren Sie, welche Länge eine von der Transpondernummer abgeleitete St
 
     ![VitalControl: Menüfolge Einstellung Tiere neu anlegen Neue ID: Länge](../bilder/neueidlaenge.png "Neue ID: Länge einstellen")
 
-### Offset rechts einstellen
+### Offset rechts einstellen {#right-offset}
 Hier legen Sie fest, ob bei der Ableitung einer Stallnummer aus der Transpondernummer auch ein Offset berücksichtigt wird. Ohne Offset werden die letzten 2-6 Ziffern der Transpondernummer als stabile Nummer verwendet, bei einem Offset von 1 wird die Ziffer ganz rechts verworfen, bei einem Offset von 2 die beiden Ziffern ganz rechts usw.
 
 {{% alert title = "Tipp" %}}
@@ -205,7 +205,7 @@ Um das Offset rechts des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie f
 
 Speichern Sie die Einstellungen und gelangen Sie mittels der `F1` Taste &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Speichern und zurück" /> zurück in das Obermenü `Tiere neu anlegen`.
 
-## Zuordnung Ohrmarkennummern einstellen
+## Zuordnung Ohrmarkennummern einstellen {#assignment-ear-tag-number}
 
 Hier definieren Sie, ob bei der Zuordnung der Ohrmarkennummer im Zuge des manuellen Neu-Anmeldens von Tieren ein oder zwei Nummernbereiche verwendet werden. Um die Zuordnung der Ohrmarkennummer des Nutztieres auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 

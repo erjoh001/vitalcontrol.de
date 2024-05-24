@@ -11,7 +11,7 @@ categories: [Uusi eläin]
 tags: [Rekisteröi eläimiä]
 translationKey: new/animal
 ---
-## Luo uusi eläin
+## Luo uusi eläin {#create-a-new-animal}
 
 Uuden eläimen luomiseksi toimi seuraavasti:
 

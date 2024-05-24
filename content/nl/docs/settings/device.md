@@ -11,7 +11,7 @@ categories: [instellingen]
 tags: [instellingen, apparaat]
 translationKey: settings/device
 ---
-## Zet uit na
+## Zet uit na {#shutdown-device-after}
 
 Om de periode van inactiviteit in te stellen totdat het apparaat wordt uitgeschakeld, ga als volgt te werk.
 
@@ -25,7 +25,7 @@ Om de periode van inactiviteit in te stellen totdat het apparaat wordt uitgescha
 
     ![VitalControl: menu-instellingen Apparaat uitschakelen na](../images/shutdowndeviceafter.png "Apparaat uitschakelen na")
 
-## Scherm opstarten
+## Scherm opstarten {#start-up-screen}
 
 Om het opstartscherm in te stellen, ga als volgt te werk.
 
@@ -39,7 +39,7 @@ Om het opstartscherm in te stellen, ga als volgt te werk.
 
     ![VitalControl: menu-instellingen Opstartscherm](../images/startupscreen.png "Opstartscherm")
 
-## Demonstratiemodus
+## Demonstratiemodus {#demonstration-mode}
 
 Als de demonstratiemodus is geselecteerd, simuleert het apparaat de temperatuurmetingen en toont een willekeurig gegenereerde temperatuur als gemeten waarde. Deze modus wordt gebruikt voor apparaatdemonstratie als er geen dieren beschikbaar zijn voor een meting. Om de demonstratiemodus van het apparaat te deactiveren of te activeren, ga als volgt te werk:
 
@@ -53,7 +53,7 @@ Als de demonstratiemodus is geselecteerd, simuleert het apparaat de temperatuurm
 
     ![VitalControl: menu-instellingen Demonstratiemodus](../images/demonstrationmode.png "Demonstratiemodus")
 
-## Helderheid
+## Helderheid {#display-brightness}
 
 Om de helderheid van het scherm in te stellen, ga als volgt te werk.
 
@@ -67,7 +67,7 @@ Om de helderheid van het scherm in te stellen, ga als volgt te werk.
 
     ![VitalControl: menu-instellingen Schermhelderheid](../images/displaybrightness.png "Schermhelderheid")
 
-## Vibraties toetsen
+## Vibraties toetsen {#vibration-on-keypress}
 
 Om de trilling bij het indrukken van een toets op het apparaat te deactiveren of activeren, ga als volgt te werk:
 
@@ -81,7 +81,7 @@ Om de trilling bij het indrukken van een toets op het apparaat te deactiveren of
 
     ![VitalControl: menu-instellingen Schermhelderheid](../images/vibrationonkeypress.png "Schermhelderheid")
 
-## Resource monitor
+## Resource monitor {#resource-monitor}
 
 Om de trillingsbronmonitor van het apparaat te deactiveren of te activeren, ga je als volgt te werk:
 

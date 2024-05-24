@@ -11,13 +11,13 @@ tags: [Asciugare]
 translationKey: actions/dry-cows
 ---
 
-## Asciugare
+## Asciugare {#dry-off}
 
 {{% alert title="Suggerimento" %}}
 A seconda dello stato iniziale della mucca, puoi asciugare l'animale e aggiungerlo alla lista degli asciutti, oppure puoi segnare l'animale come una nuova lattante e quindi aggiungerlo alla lista delle nuove lattanti. La distinzione tra le funzioni è resa chiara da un simbolo più o un simbolo meno.
 {{% /alert %}}
 
-### Asciugare una mucca
+### Asciugare una mucca {#dry-off-a-cow}
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `azioni` e premi il pulsante `OK`.
 
@@ -37,7 +37,7 @@ A seconda dello stato iniziale della mucca, puoi asciugare l'animale e aggiunger
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Segnare come lattante
+### Segnare come lattante {#mark-as-lactated}
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `azioni` e premi il pulsante `OK`.
 

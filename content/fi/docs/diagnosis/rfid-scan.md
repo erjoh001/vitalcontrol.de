@@ -12,7 +12,7 @@ weight: 20
 
 Käyttämällä valikkoa 'Aluetesti' voit määrittää, pystyykö VitalControl-laite lukemaan käsillä olevat transponderit. Yhteensopivuuden tarkistamisen lisäksi voit myös kätevästi määrittää näiden transponderien käyttämän siirtoprotokollan ja näyttää transponderiin tallennetun numeron.
 
-## Suorita Aluetesti
+## Suorita Aluetesti {#perform-range-test}
 
 1. Avaa päävalikosta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` -valikkokohta VitalControl-laitteellasi.
 
@@ -30,11 +30,11 @@ Käyttämällä valikkoa 'Aluetesti' voit määrittää, pystyykö VitalControl-
 
 1. Liikuta transponderia edestakaisin lukukentän rajalla useita kertoja. Näin voit määrittää käyttämiesi transponderien kanssa RFID-skannerin lukuetäisyyden.
 
-## Transponderin tarkistus
+## Transponderin tarkistus {#transponder-check}
 
 Suorittamalla yllä kuvatun Aluetestin, voit saada tietoa myös eri alkuperää olevista transpondereista:
 
-### Viralliset transponderikorvamerkit
+### Viralliset transponderikorvamerkit {#official-transponder-ear-tags}
 
 1. Jos käytät eläimillesi transponderikorvamerkkejä, joille on koodattu virallisesti määrätty 15-numeroinen korvamerkin numero, näytölle tulee seuraavat tiedot, kun transponderi on luettu:
 
@@ -46,7 +46,7 @@ Suorittamalla yllä kuvatun Aluetestin, voit saada tietoa myös eri alkuperää 
 
     ![VitalControl: transponderikorvamerkin tarkistus](../images/transponder-official.png "Tietoja virallisesta transponderikorvamerkistä")
 
-### Kolmannen osapuolen toimittajien transponderit
+### Kolmannen osapuolen toimittajien transponderit {#transponders-from-third-party-vendors}
 
 1. Jos käytät kolmansien osapuolien toimittajien, kuten Urbanin, transpondereita eläintesi elektroniseen tunnistamiseen, näytölle tulee seuraavat tiedot, kun transponderi on luettu:
 

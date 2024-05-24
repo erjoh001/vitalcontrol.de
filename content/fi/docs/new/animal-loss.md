@@ -11,8 +11,8 @@ categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Rekisteröi eläimen menetys
-
+## Rekisteröi eläimen menetys {#record-the-loss-of-an-animal}
+ 
 {{% alert title="Vihje" %}}
 Tämän valikkokohdan eläimen menetystoimintoa käytetään pääasiassa kuolleiden vasikoiden/karitsojen kirjaamiseen. Asetusvaihtoehdot on mukautettu sen mukaisesti eivätkä ne ole identtisiä valikon `Toiminnot` -> `Poista rekisteristä` tai `Eläinten menetys` asetuskohtien kanssa.
 {{% /alert %}}

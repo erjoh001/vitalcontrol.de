@@ -11,7 +11,7 @@ categories: [Registrazione di massa]
 tags: [Registrazione di massa]
 translationKey: new/bulk-recording
 ---
-## Registrazione di massa
+## Registrazione di massa {#bulk-recording}
 
 Con l'aiuto della registrazione di massa, puoi catturare un gran numero di animali in breve tempo e salvarli sul tuo dispositivo. Utilizza lo scanner di codici a barre per scansionare i codici a barre per il numero di marca auricolare e la data di nascita sui passaporti del bestiame. L'animale viene salvato automaticamente e puoi scansionare subito il passaporto successivo. Per eseguire la registrazione di massa degli animali, procedi come segue:
 
@@ -37,7 +37,7 @@ Hai ulteriori opzioni di impostazione all'interno della voce di menu `Registrazi
 Durante il processo di scansione possono apparire messaggi di errore. In questo caso, lo scanner di codici a barre emette un suono e ulteriori scansioni non sono possibili. Conferma il messaggio di errore corrispondente sul display di VitalControl e continua a scansionare.
 {{% /alert %}}
 
-### Data di nascita obbligatoria
+### Data di nascita obbligatoria {#birth-date-mandatory}
 
 Con questa opzione di impostazione puoi determinare se la data di nascita deve essere specificata quando si creano gli animali. Se disattivi questa opzione, devi solo scansionare il codice a barre per salvare un animale. Per questi animali, tuttavia, la data corrente viene memorizzata come data di nascita! Questa funzione è abilitata per impostazione predefinita. Per disattivarla, procedi come segue:
 
@@ -51,7 +51,7 @@ Con questa opzione di impostazione puoi determinare se la data di nascita deve e
 
 ![VitalControl: Menu New Birth date mandatory](../images/birthdate.png "Birth date mandatory")
 
-### Valori predefiniti
+### Valori predefiniti {#default-values}
 
 All'interno del menu delle impostazioni `Valori predefiniti` imposti gli standard che si applicano a ciascun animale che crei. Il processo di creazione con lo scanner di codici a barre rimane invariato come descritto sopra. Hai la possibilità di impostare il tipo di bestiame, il sesso, la razza e la posizione. Per impostare i `Valori predefiniti`, procedi come segue:
 
@@ -65,7 +65,7 @@ All'interno del menu delle impostazioni `Valori predefiniti` imposti gli standar
 
 ![VitalControl: Menu New Default values](../images/defaultvalues.png "Default values")
 
-### Valori registrati
+### Valori registrati {#recorded-values}
 
 All'interno del menu delle impostazioni `Valori registrati`, puoi specificare quali valori devono essere catturati oltre al numero di marca auricolare e alla data di nascita. Puoi scegliere tra `Razza`, `Sesso`, `Posizione`, `Peso attuale`, `Peso alla nascita` e `Tipo di animale`. Non appena imposti almeno un valore, il processo cambia durante la scansione. Prima scansiona il numero di marca auricolare e la data di nascita. Poi usa i tasti direzionali △ ▽ per selezionare i valori da impostare e imposta i valori. Poi salva le tue voci con il tasto `F3`. Solo allora l'animale viene creato! Per impostare i valori da registrare, procedi come segue:
 

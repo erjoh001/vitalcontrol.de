@@ -10,7 +10,7 @@ tags: [export files, temperatures, weights, ratings]
 slug: export-files
 translationKey: data-export/data-files
 ---
-## General information
+## General information {#general-information}
 
 When exporting animal data, regardless of whether to the [USB flash drive][] or to a local mass storage device [on the PC][], four export files are generated in each case:
 
@@ -29,17 +29,17 @@ When exporting animal data, regardless of whether to the [USB flash drive][] or 
 
 All four files are human readable [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) text files. The files are encoded in `UTF-8` format, semicolons (`;`) are used as column separators. The individual data fields are *not* enclosed in quotation marks. Each row of the respective table represents an animal data set or a measurement or assessment performed on an animal.
 
-## Further processing of exported data
+## Further processing of exported data {#further-processing-of-exported-data}
 
 You can open each of these four export files in a spreadsheet program of your choice (such as [Microsoft Excel](https://products.office.com/excel) or [OpenOffice Calc](https://www.openoffice.org/)) and perform advanced analysis of the data there. As an example, the view of the table `animals.csv` in a spreadsheet program is shown below:
 
 ![Exported animal data, opened in a spreadsheet program](../images/animals.png "Animal data opened in spreadsheet program")
 
-## Description of data files
+## Description of data files {#description-of-data-files}
 
 The following four sections describe each of the exported data files in detail:
 
-### Animal data (`animals.csv`)
+### Animal data (`animals.csv`) {#animal-data-animalscsv}
 
 - **File name** `animals.csv`
 - **Description** General animal data
@@ -72,7 +72,7 @@ If needed, you can also download the provided sample file [animals.csv][].
 
 [animals.csv]: /data-export/animals.csv
 
-### Body temperature data (`temperatures.csv`)
+### Body temperature data (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **File name** `temperatures.csv`
 - **Description** Temperature values, obtained by taking the rectal body temperature of animals.
@@ -104,7 +104,7 @@ If needed, you can also download the provided sample file [temperatures.csv][]. 
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Weight data (`weights.csv`)
+### Weight data (`weights.csv`) {#weight-data-weightscsv}
 
 - **File name** `weights.csv`
 - **Description** Weight values obtained by weighing animals
@@ -136,7 +136,7 @@ If needed, you can also download the provided sample file [weights.csv][]. The f
 
 [weights.csv]: /data-export/weights.csv
 
-### Animal ratings (`ratings.csv`)
+### Animal ratings (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **File name** `ratings.csv`
 - **Description** Animal ratings obtained by visually inspecting the animals

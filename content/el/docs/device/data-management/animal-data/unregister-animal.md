@@ -10,7 +10,7 @@ Kategorien: [Animaldata]
 Tags: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
-## Κατάργηση εγγραφής ζώων
+## Κατάργηση εγγραφής ζώων {#unregister-animals}
 
 Καταργήστε την εγγραφή ζώων από το VitalControl σας που έχουν είτε υπερβεί ένα όριο ηλικίας είτε δεν έχουν ανατεθεί δέκτης. Προχωρήστε ως εξής:
 

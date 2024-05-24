@@ -11,7 +11,7 @@ translationKey: data-export/usb-drive
 ---
 {{% usb-drive/fi "Jotta voit viedä laitteesi tiedot," %}}
 
-## Suorita tietojen vienti
+## Suorita tietojen vienti {#perform-data-export}
 
 1. Avaa valikkokohta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` päävalikosta VitalControl-laitteellasi.
 

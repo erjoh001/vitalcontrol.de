@@ -11,15 +11,15 @@ tags: [Acciones, fiebre, temperatura]
 translationKey: actions/temperature
 ---
 
-## Medir la fiebre
+## Medir la fiebre {#measure-fever}
 
 Utiliza la acción de temperatura para medir la temperatura de tus animales. Inserta la punta del medidor rectalmente hasta la profundidad de medición especificada (para animales grandes toda la longitud hasta el abultamiento, para pequeños rumiantes aproximadamente 6 cm o 2/3 de la punta del medidor). El proceso de medición se ejecuta automáticamente. Tan pronto como el proceso de medición se complete, el dispositivo muestra la temperatura medida. La codificación por colores indica si la temperatura está en el rango verde, amarillo o rojo. Tienes varias opciones durante la campaña de Tomar la temperatura:
 
-- [Guardar el resultado](#guardar-resultado) para documentar la medición de manera específica al animal
-- Poner al animal en la [Lista de Observación](#añadir-a-la-lista-de-seguimiento). Esto te facilita verificar las repeticiones, ya que puedes convocar a estos animales usando la 'lista de observación' y así encontrar más fácilmente a los animales conspicuos.
-- Encender y apagar la [Iluminación del Sitio de Medición](#encender-y-apagar-la-iluminación-del-lugar-de-medición)
-- La [Repetición de la medición](#repetir-la-medición)
-- La [Cancelación de la acción](#cancelar-la-acción)
+- [Guardar el resultado](#save-result) para documentar la medición de manera específica al animal
+- Poner al animal en la [Lista de Observación](#put-on-the-watch-list). Esto te facilita verificar las repeticiones, ya que puedes convocar a estos animales usando la 'lista de observación' y así encontrar más fácilmente a los animales conspicuos.
+- Encender y apagar la [Iluminación del Sitio de Medición](#lighting-of-the-measurement-location-on-and-off)
+- La [Repetición de la medición](#repeat-the-measurement)
+- La [Cancelación de la acción](#cancel-the-action)
 
 {{% alert title="Consejo" %}}
 Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), VitalControl automáticamente pone al animal seleccionado en la lista de alarmas. Al correlacionar con otros datos, puedes monitorear continuamente la salud del animal individual.
@@ -45,7 +45,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Guardar resultado
+### Guardar resultado {#save-result}
 
 1. Complete los pasos preliminares.
 
@@ -53,7 +53,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
     ![VitalControl: Acciones del Menú Guardar resultados](../images/saveresults.png "Guardar resultados")
 
-### Añadir a la lista de seguimiento
+### Añadir a la lista de seguimiento {#put-on-the-watch-list}
 
 1. Complete los pasos preliminares.
 
@@ -63,7 +63,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
     ![VitalControl: Acciones del Menú Añadir a lista de seguimiento](../images/watchlist.png "Añadir a lista de seguimiento")
 
-### Encender y apagar la iluminación del lugar de medición
+### Encender y apagar la iluminación del lugar de medición {#lighting-of-the-measurement-location-on-and-off}
 
 1. Complete los pasos preliminares.
 
@@ -73,7 +73,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
     ![VitalControl: Acciones del Menú Encender y apagar linterna](../images/light.png "Encender y apagar linterna")
 
-### Repetir la medición
+### Repetir la medición {#repeat-the-measurement}
 
 1. Complete los pasos preliminares.
 
@@ -83,7 +83,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
     ![VitalControl: Acciones del Menú Luz encendida/apagada](../images/repeat.png "Luz encendida/apagada")
 
-### Cancelar la acción
+### Cancelar la acción {#cancel-the-action}
 
 1. Completa los pasos preliminares.
 

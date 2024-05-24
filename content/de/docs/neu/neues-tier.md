@@ -11,7 +11,7 @@ Kategorien: [Neues Tier]
 Tags: [Tiere anlegen]
 translationKey: new/animal
 ---
-## Ein neues Tier anlegen
+## Ein neues Tier anlegen {#create-a-new-animal}
 
 Um ein neues Tier anzulegen gehen Sie wie folgt vor:
 

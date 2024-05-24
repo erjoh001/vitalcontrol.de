@@ -9,7 +9,7 @@ categories: [Filtre]
 tags: [Filtre]
 translationKey: filter
 ---
-## Application des filtres
+## Application des filtres {#applying-filters}
 
 {{% alert title="NOTE" %}}
 Le filtre vous aide à effectuer une sélection en utilisant des critères de filtrage dans les éléments de menu `Troupeau`, `Listes` et `Évaluation` de l'appareil VitalControl. Dès que vous appliquez un filtre, des symboles pour les différents critères de filtrage apparaissent en haut de l'écran. Ces symboles sont utilisés pour vous aider à savoir si et quels critères de filtrage sont activés. Par exemple, si vous réglez le filtre `Sexe` sur masculin, l'appareil n'utilisera que des animaux mâles. Par exemple, si vous activez également le filtre `Sous surveillance`, l'appareil n'utilise que des animaux mâles qui sont sur la liste d'observation.

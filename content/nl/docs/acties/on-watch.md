@@ -11,7 +11,7 @@ tags: [Acties, in de gaten houden]
 translationKey: actions/on-watch
 ---
 
-## In de gaten houden
+## In de gaten houden {#on-watch}
 
 Met de actie `bekijken` plaats je dieren op de lijst 'in de gaten houden' of verwijder je ze daarvan. De lijst 'in de gaten houden' helpt je om opvallende dieren sneller en gemakkelijker te vinden, wat je dagelijkse routinecontroles vergemakkelijkt. Om de actie `bekijken` toe te passen, ga je als volgt te werk:
 

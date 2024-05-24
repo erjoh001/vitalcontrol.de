@@ -7,7 +7,7 @@ description: >
 categories: [Reset]
 translationKey: reset/factory
 ---
-## Realizando un restablecimiento de fábrica
+## Realizando un restablecimiento de fábrica {#performing-a-factory-reset}
 
 1. Abra el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
 

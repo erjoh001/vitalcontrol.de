@@ -11,7 +11,7 @@ tags: [Actions, en surveillance]
 translationKey: actions/on-watch
 ---
 
-## En surveillance
+## En surveillance {#on-watch}
 
 Avec l'action `Observation`, vous placez des animaux sur la liste de surveillance ou les retirez de celle-ci. La liste de surveillance vous aide à trouver plus rapidement et facilement les animaux suspects, facilitant vos contrôles de routine quotidiens. Pour appliquer l'action `Observation`, procédez comme suit :
 

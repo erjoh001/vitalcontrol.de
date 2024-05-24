@@ -30,7 +30,7 @@ Ha rákattint egy menüpontra, átirányítjuk a megfelelő funkció leírásár
    <area shape="rect" coords="2,282,95,319" alt="Vissza" title="Ugorjon vissza egy szintet&#10;Egérkattintás: a dokumentációhoz" href="/hu/docs/evaluation/">
 </map>
 
-## Mai mérlegelések
+## Mai mérlegelések {#todays-weighings}
 Ebben az értékelésben a következő információkat láthatja az elmúlt 6 óra mérlegeléseivel kapcsolatban:
 - Az állatok átlagos súlya
 - Az átlagos napi gyarapodás születés óta
@@ -49,7 +49,7 @@ Az értékelés elvégzéséhez járjon el az alábbiak szerint:
 
    ![VitalControl: menu Evaluation Today's weighings](../images/todaysweighings.png "Evaluate Today's weighings")
 
-## Születési súlyok
+## Születési súlyok {#birth-weights}
 Ebben az értékelésben a következő információkat tekintheti meg:
 - Az átlagos születési súly
 - A súlyosztályok
@@ -67,7 +67,7 @@ Az értékelés elvégzéséhez járjon el az alábbiak szerint:
 
    ![VitalControl: menu Értékelés Születési súlyok](../images/birthweights.png "Születési súlyok értékelése")
 
-## Súlyfejlődés
+## Súlyfejlődés {#weight-development}
 
 Ebben az értékelésben a következő információkat láthatja az összes méréshez kapcsolódóan:
 - Az állatok átlagos súlya

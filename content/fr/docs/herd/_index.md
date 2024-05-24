@@ -11,19 +11,19 @@ categories: [Troupeau]
 tags: [Troupeau, Température, Poids, Classement, Données animales]
 translationKey: herd
 ---
-## Troupeau
+## Troupeau {#herd}
 
 Dans l'élément de menu Troupeau, vous pouvez voir l'ensemble de votre troupeau, rechercher des animaux individuels et afficher des informations importantes. Vous avez les possibilités suivantes :
 
-- Voir [les données animales](#voir-les-données-animales)
-- Voir [les données de température](#afficher-la-température)
-- Voir [les données de classement](#voir-évaluation)
-- Voir [les données de poids](#afficher-poids)
-- [Rechercher un animal](#rechercher-animal)
-- Définir un [filtre](#définir-un-filtre)
-- [Actions](#appeler-le-menu-daction)
+- Voir [les données animales](#view-animal-data)
+- Voir [les données de température](#display-temperature)
+- Voir [les données de classement](#view-rating)
+- Voir [les données de poids](#display-weight)
+- [Rechercher un animal](#search-animal)
+- Définir un [filtre](#set-filter)
+- [Actions](#call-action-menu)
 
-### Étapes préparatoires
+### Étapes préparatoires {#preparatory-steps}
 
 1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Troupeau" /> `Troupeau` et appuyez sur le bouton `OK`.
 
@@ -31,7 +31,7 @@ Dans l'élément de menu Troupeau, vous pouvez voir l'ensemble de votre troupeau
 
     ![VitalControl: Menu Troupeau](images/herde.png "Troupeau")
 
-### Voir les données animales
+### Voir les données animales {#view-animal-data}
 
 1. Complétez les étapes préparatoires.
 
@@ -47,7 +47,7 @@ Dans l'élément de menu Troupeau, vous pouvez voir l'ensemble de votre troupeau
 Par défaut, les données animales sont affichées en premier. Ce n'est que lorsque vous avez affiché le poids, par exemple, que vous devez régler à nouveau l'affichage des données animales.
 {{% /alert %}}
 
-### Afficher la température
+### Afficher la température {#display-temperature}
 
 1. Complétez les étapes préparatoires.
 
@@ -59,7 +59,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
     ![VitalControl: Menu Troupeau](images/temperature.png "Afficher la température")
 
-### Voir évaluation
+### Voir évaluation {#view-rating}
 
 1. Complétez les étapes préparatoires.
 
@@ -71,7 +71,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
     ![VitalControl: Menu Troupeau](images/rating.png "Voir évaluation")
 
-### Afficher poids
+### Afficher poids {#display-weight}
 
 1. Complétez les étapes préparatoires.
 
@@ -83,7 +83,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
     ![VitalControl: Menu Troupeau](images/weight.png "Afficher poids")
 
-### Rechercher animal
+### Rechercher animal {#search-animal}
 
 1. Complétez les étapes préparatoires.
 
@@ -93,7 +93,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
     ![VitalControl : Menu Troupeau](images/search.png "Rechercher animal")
 
-### Définir un filtre
+### Définir un filtre {#set-filter}
 
 1. Complétez les étapes préparatoires.
 
@@ -103,7 +103,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
     ![VitalControl : Menu Troupeau](images/setfilter.png "Rechercher animal")
 
-### Appeler le menu d'action
+### Appeler le menu d'action {#call-action-menu}
 
 Vous avez toujours la possibilité d'appeler le menu d'action pour un animal.
 

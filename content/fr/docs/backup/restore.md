@@ -17,7 +17,7 @@ Sur cette clé USB, un répertoire `backup` doit exister, qui doit contenir un *
 À l'intérieur du répertoire `backup` de votre clé USB, vous pouvez trouver plusieurs fichiers de sauvegarde avec l'extension `.vcu`. L'appareil VitalControl restaure toujours les données de sauvegarde à partir du fichier nommé `backup.vcu`, qui est toujours le fichier le plus récent. Si vous souhaitez restaurer des données à partir d'un fichier de sauvegarde plus ancien (qui contient la date de sauvegarde dans le nom du fichier), vous devez renommer ce fichier de sauvegarde plus ancien en `backup.vcu` avant d'effectuer la restauration des données !
 {{% /alert %}}
 
-## Restauration des données sur l'appareil VitalControl
+## Restauration des données sur l'appareil VitalControl {#data-restoration-to-vitalcontrol-device}
 
 1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` à l'écran principal de l'appareil VitalControl sur lequel vous souhaitez restaurer les données.
 

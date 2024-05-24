@@ -11,7 +11,7 @@ translationKey: data-export/usb-drive
 ---
 {{% usb-drive/cs "Pro provedení exportu dat vašeho zařízení," %}}
 
-## Proveďte export dat
+## Proveďte export dat {#perform-data-export}	
 
 1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
 

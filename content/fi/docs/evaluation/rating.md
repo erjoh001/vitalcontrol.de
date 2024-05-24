@@ -13,8 +13,8 @@ translationKey: evaluation/rating
 {{% alert title="Vihje" %}}
 Oletusasetuksissa kaikki VitalControl-laitteeseen tallennetut eläimet sisältyvät arviointiin. Käyttämällä [suodatinta](../../filter/) voit rajoittaa arvioinnin vain tiettyyn eläinryhmään laitteellasi, esim. vain urospuolisiin eläimiin tai tiettyyn enimmäisikään asti.
 {{% /alert %}}
-
-## Arviointi arvostelu
+ 
+## Arviointi arvostelu {#evaluate-rating}
 
 Tässä arvioinnissa näet seuraavat tiedot piirakkakaaviona:
 - Viimeisen kolmen päivän kunnon arviointi

@@ -11,7 +11,7 @@ tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 
-## Measure fever
+## Measure fever {#measure-fever}
 
 Use the temperature action to measure the temperature of your animals. Insert the measuring tip rectally to the specified measuring depth (for large animals the entire length up to the bulge, for small ruminants approx. 6 cm or 2/3 of the measuring tip). The measuring process runs automatically. As soon as the measurement process is complete, the device displays the measured temperature. The color coding indicates whether the temperature is in the green, yellow or red range. You have a number of options during the Take a temperature campaign:
 
@@ -25,7 +25,7 @@ Use the temperature action to measure the temperature of your animals. Insert th
 If the temperature is in the yellow area ("elevated") or red area ("fever"), VitalControl automatically puts the selected animal on the alarm list. By correlating with other data, you can continuously monitor the health of the individual animal.
 {{% /alert %}}
 
-### Preliminary steps
+### Preliminary steps {#preliminary-steps}
 
 1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
 
@@ -45,7 +45,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Save result
+### Save result {#save-result}
 
 1. Complete the preliminary steps.
 
@@ -53,7 +53,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
     ![VitalControl: Menu Actions Save results](../images/saveresults.png "Save results")
 
-### Put on the watch list
+### Put on the watch list {#put-on-the-watch-list}
 
 1. Complete the preliminary steps.
 
@@ -63,7 +63,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
     ![VitalControl: Menu Actions Put on watch list](../images/watchlist.png "Put on watch list")
 
-### Lighting of the measurement location on and off
+### Lighting of the measurement location on and off {#lighting-of-the-measurement-location-on-and-off}
 
 1. Complete the preliminary steps.
 
@@ -73,7 +73,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
     ![VitalControl: Menu Actions Flashlight on off](../images/light.png "Flashlight on off")
 
-### Repeat the measurement
+### Repeat the measurement {#repeat-the-measurement}
 
 1. Complete the preliminary steps.
 
@@ -83,7 +83,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
     ![VitalControl: Menu Actions Light on off](../images/repeat.png "Light on off")
 
-### Cancel the action
+### Cancel the action {#cancel-the-action}
 
 1. Complete the preliminary steps.
 

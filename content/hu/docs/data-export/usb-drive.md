@@ -11,7 +11,7 @@ translationKey: data-export/usb-drive
 ---
 {{% usb-drive/hu "Az eszköz adatainak exportálásához," %}}
 
-## Adatok exportálása
+## Adatok exportálása {#perform-data-export}	
 
 1. Nyissa meg a menüpontot &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Eszköz" /> `Eszköz` a VitalControl eszköz főképernyőjén.
 

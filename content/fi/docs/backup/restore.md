@@ -17,7 +17,7 @@ Tällä USB-muistitikulla on oltava hakemisto `backup`, joka sisältää kelvoll
 USB-muistitikkusi `backup`-hakemistossa voi olla useita varmuuskopiotiedostoja, joilla on `.vcu`-pääte. VitalControl-laite palauttaa aina tietovarauksen tiedostosta nimeltä `backup.vcu`, joka on aina uusin tiedosto. Jos haluat palauttaa tiedot vanhemmasta varmuuskopiotiedostosta (jossa varmuuskopion päivämäärä on tiedoston nimessä), sinun on nimettävä tämä vanhempi varmuuskopiotiedosto `backup.vcu`:ksi ennen tietojen palauttamista!
 {{% /alert %}}
 
-## Tietojen palauttaminen VitalControl-laitteeseen
+## Tietojen palauttaminen VitalControl-laitteeseen {#data-restoration-to-vitalcontrol-device}
 
 1. Avaa päävalikosta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` VitalControl-laitteessa, johon haluat palauttaa tiedot.
 

@@ -11,7 +11,7 @@ tags: [Azioni, in osservazione]
 translationKey: actions/on-watch
 ---
 
-## In osservazione
+## In osservazione {#on-watch}
 
 Con l'azione `in osservazione` puoi mettere gli animali nella lista di osservazione o rimuoverli da essa. La lista di osservazione ti aiuta a trovare più rapidamente e facilmente gli animali sospetti, rendendo più semplici i controlli di routine quotidiani. Per applicare l'azione `in osservazione`, procedi come segue:
 

@@ -11,8 +11,8 @@ categories: [settings]
 tags: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
-## Küszöbértékek és hőmérsékleti tartományok beállítása
-{{% alert title = "Tipp" %}}
+## Küszöbértékek és hőmérsékleti tartományok beállítása {#set-the-threshold--temperature-ranges}
+{{% alert title = "Tipp" %}} 
 A testhőmérséklet küszöbértékei egyedileg vannak tárolva a borjú, tehén és bárány állatfajok számára. A sárga és piros mezők az "emelkedett hőmérséklet" és a "láz" küszöbértékét mutatják. A VitalControl a sárga és piros területeken lévő állatokat az alarm listára helyezi, megkönnyítve ezzel a beteg állatok megfigyelését. Az alacsony hőmérséklet küszöbértéke is szabadon meghatározható.
 {{% /alert %}}
 
@@ -32,7 +32,7 @@ A küszöbértékek és hőmérsékleti tartományok beállításához a készü
 
     ![VitalControl: menü beállítások küszöbértékek és hőmérsékleti tartományok](../images/threshold.png "Küszöbértékek és hőmérsékleti tartományok")
 
-## Alacsony hőmérséklet beállítása
+## Alacsony hőmérséklet beállítása {#set-undertemperature}
 {{% alert title = "Tipp" %}}
 Itt állíthatja be a mért hőmérsékletet, amelytől kezdve alacsony hőmérséklet lép fel. A lázmérés során ez a hőmérséklet kék háttérrel jelenik meg.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Az alacsony hőmérséklet küszöbértékének beállításához kövesse az al
 
     ![VitalControl: menü beállítások alacsony hőmérséklet](../images/undertemperature.png "Alacsony hőmérséklet")
 
-## Anális fény
+## Anális fény {#anus-spotlight}
 {{% alert title = "Tipp" %}}
 Itt beállíthatja, hogy a fény automatikusan aktiválódjon vagy deaktiválódjon a lázmérés során.
 {{% /alert %}}

@@ -11,7 +11,7 @@ Kategorien: [Asetukset]
 Tags: [Asetukset, Lähetin, EläimenID]
 translationKey: settings/unlink-transponder
 ---
-## Poista transponderin linkitys
+## Poista transponderin linkitys {#unlink-transponder}
 
 Voit käyttää tätä asetusta määrittämään, miten eläimen tunnus tulisi määrittää heti, kun irrotat lähettimen eläimestä. Tätä asetusta voidaan käyttää esimerkiksi, jos synkronointi Urban Alma Pro -ruokintalaitteen kanssa on suoritettu ja eläinten tunnukset VitalControlissa vastaavat nyt eläinten kaulanumeroita. Kun poistat kaulapannan ja irrotat lähettimen, voit määrittää, että eläimen tunnus johdetaan nyt korvamerkin numerosta. Tämä mahdollistaa eläimen nopean tunnistamisen navetassa ilman kaulapantaa.
 
@@ -21,6 +21,6 @@ Voit käyttää tätä asetusta määrittämään, miten eläimen tunnus tulisi 
 
 3. Käytä nyt nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen. Voit valita joko `ei muutosta` tai `Korvamerkin numeron johtaminen`.
 
-4. Asetusvaihtoehto `Korvamerkin numeron johtaminen` mahdollistaa lisäasetusten tekemisen. Katso [täältä](/fi/docs/settings/animal-registration/#oikea-siirtymä).
+4. Asetusvaihtoehto `Korvamerkin numeron johtaminen` mahdollistaa lisäasetusten tekemisen. Katso [täältä](/fi/docs/settings/animal-registration/#digit-of-the-new-id).
 
    ![VitalControl: Menu Settings Unlink transponder](../images/unlink-transponder.png "Poista transponderin linkitys")

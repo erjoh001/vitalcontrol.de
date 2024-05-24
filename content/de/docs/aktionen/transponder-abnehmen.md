@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 Diese Aktion ist standardmäßig deaktiviert! Um diese Aktion nutzen zu können, müssen Sie diese zunächst im [Einstellungsmenü zu den Aktionen](/docs/aktionen/einstellung/) aktivieren.
 {{% /alert %}}
 
-## Transponder abnehmen
+## Transponder abnehmen {#unlink-transponder}
 
 Mit dieser Aktion können Sie einen Transponder, der bereits einem Tier zugeordnet wurde, von diesem Tier lösen.
 

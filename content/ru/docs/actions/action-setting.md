@@ -10,7 +10,7 @@ categories: [Действия, Цепочка действий]
 tags: [Действия, Цепочка действий]
 translationKey: actions/setting
 ---
-## Пункты меню
+## Пункты меню {#menu-items}
 
 В этом меню настроек вы определяете, какие действия отображаются вам в меню &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Действия" /> `Действия`.
 
@@ -28,7 +28,7 @@ translationKey: actions/setting
 
     ![VitalControl: Меню Действия Пункты меню](../images/menu.png "Пункты меню")
 
-## Цепочка действий
+## Цепочка действий {#chain-of-actions}
 
 В этом меню настроек вы настраиваете &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Цепочка действий" />&nbsp; `цепочку действий`.
 

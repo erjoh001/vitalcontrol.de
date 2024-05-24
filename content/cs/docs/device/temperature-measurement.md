@@ -11,7 +11,7 @@ categories: [Device]
 tags: [Device]
 translationKey: device/temperature-measurement
 ---
-## Test měření teploty
+## Test měření teploty {#test-temperature-measurement}
 
 Zde můžete otestovat měření teploty vašeho zařízení, aniž byste uložili měření pro zvíře. Pro provedení testu postupujte následovně:
 

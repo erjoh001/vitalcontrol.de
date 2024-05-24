@@ -11,13 +11,13 @@ categories: [Nimekirjad]
 tags: [Nimekirjad, värske lehm]
 translationKey: lists/fresh-cows
 ---
-### Värskete lehmade nimekiri
+### Värskete lehmade nimekiri {#fresh-cows-list}
 
 {{% alert title="Selgitus" %}}
 Värskete lehmade haldamisel peetakse parimaks praktikaks loomade igapäevast kontrollimist mitme päeva jooksul pärast sünnitust. Värskete lehmade nimekiri toetab seda värskete lehmade kontrolli, eriti temperatuuri registreerimise osas. Iga looma kohta kuvatakse kontrollperioodi kõikide päevade kohta veergdiagramm, iga kontrollperioodi päev on esindatud vertikaalse ribaga. Sõltuvalt riba värvist (roheline, kollane või punane) näete, kas vastaval päeval mõõdeti looma jaoks normaalne, tõusnud või kriitiliselt tõusnud temperatuur.
 {{% /alert %}}
 
-Lehmad lisatakse värskete lehmade nimekirja kohe pärast nende poegimise registreerimist. Nad jäävad sellesse nimekirja teatud ajaks, selle perioodi pikkust (päevades) saab reguleerida [seadetes](../../settings/data-acquisition/#control-period-of-fresh-cows).
+Lehmad lisatakse värskete lehmade nimekirja kohe pärast nende poegimise registreerimist. Nad jäävad sellesse nimekirja teatud ajaks, selle perioodi pikkust (päevades) saab reguleerida [seadetes](../../settings/data-acquisition/#control-period-of-fresh-cows)).
 Selle nimekirja jaoks on saadaval järgmised toimingud:
 
 - [Täielik toimingute menüü](../alarm/#full-action-menu)
@@ -33,7 +33,7 @@ Selle nimekirja jaoks on saadaval järgmised toimingud:
 Mõned toimingud viiakse läbi samamoodi nagu [häirete nimekirjas](../alarm). Neid siin ei selgitata. Viige läbi eelnevad sammud ja kasutage vastava toimingu linki juhiste saamiseks.
 {{% /alert %}}
 
-### Eelsammud
+### Eelsammud {#preliminary-steps}
 
 1. Valige peamenüüs oma VitalControl seadmel <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Nimekirjad" /> `Nimekirjad` menüüpunkt ja vajutage `OK` nuppu.
 
@@ -43,7 +43,7 @@ Mõned toimingud viiakse läbi samamoodi nagu [häirete nimekirjas](../alarm). N
 
    ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Värske lehma nimekiri")
 
-### Lülita häire olekut
+### Lülita häire olekut {#toggle-alarm-status}
 
 1. Täitke eelnevad sammud.
 
@@ -55,7 +55,7 @@ Mõned toimingud viiakse läbi samamoodi nagu [häirete nimekirjas](../alarm). N
 
    ![VitalControl Lists Fresh cows list](../images/togglealarmstatus.png "Lülita häire olekut")
 
-### Lülita jälgimisolekut
+### Lülita jälgimisolekut {#toggle-watch-status}
 
 1. Täitke eelnevad sammud.
 
@@ -67,7 +67,7 @@ Mõned toimingud viiakse läbi samamoodi nagu [häirete nimekirjas](../alarm). N
 
 ![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Toggle watch status")
 
-### Peida mõõdetud lehmad
+### Peida mõõdetud lehmad {#hide-measured-cows}
 
 Kui see funktsioon on aktiveeritud, peidetakse kuivade lehmade nimekirjast loomad, kellele on tehtud temperatuuri mõõtmine. Kui see funktsioon ei ole aktiveeritud, jäävad loomad nimekirjas nähtavale.
 

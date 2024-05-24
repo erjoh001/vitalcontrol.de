@@ -11,7 +11,7 @@ tags: [Akce, údaje o zvířeti, upravit]
 translationKey: actions/edit
 ---
 
-## Upravit údaje o zvířeti
+## Upravit údaje o zvířeti {#edit-animal-data}
 
 Akce <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" /> `Upravit` vám umožňuje přímo změnit údaje o vybraném zvířeti. Tato funkce usnadňuje opravu údajů o zvířeti, pokud se například během kontroly zvířat ukáže, že pohlaví bylo uloženo nesprávně. Můžete změnit následující údaje:
 

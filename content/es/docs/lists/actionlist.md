@@ -11,24 +11,24 @@ categories: [Listas]
 tags: [Listas, Acción]
 translationKey: lists/action
 ---
-## Lista de acciones
+## Lista de acciones {#action-list}
 
 Dentro de la lista de acciones puedes ver los animales para los cuales no se ha tomado ninguna acción durante seis horas. También están disponibles las siguientes opciones de configuración:
 
-- [Medir temperatura](../alarm/#medir-temperatura)
-- [Evaluar animal](../alarm/#evaluar-animal)
-- [Pesaje de animal](#pesaje-de-animal)
-- [Cadena de acciones](#cadena-de-acciones)
-- [Vincular transpondedor](#vincular-transpondedor)
-- [Ocultar después de la acción](#ocultar-después-de-la-acción)
-- [Buscar animal](../alarm/#buscar-animal)
-- [Fijar filtro](../alarm/#fijar-filtro)
+- [Medir temperatura](../alarm/#take-temperature)
+- [Evaluar animal](../alarm/#rate-animal)
+- [Pesaje de animal](#weigh-animals)
+- [Cadena de acciones](#chain-of-action)
+- [Vincular transpondedor](#link-transponder)
+- [Ocultar después de la acción](#hide-after-action)
+- [Buscar animal](../alarm/#search-animal)
+- [Fijar filtro](../alarm/#set-filter)
 
 {{% alert title="Consejo" %}}
 Algunas acciones se deben realizar de la misma manera que en la [lista de alarmas](../alarm). Estas no se explican aquí. Realiza los pasos preliminares y usa el enlace de la acción respectiva para llegar a las instrucciones.
 {{% /alert %}}
 
-### Pasos preliminares
+### Pasos preliminares {#preliminary-steps}
 
 1. Selecciona el elemento del menú <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listas" />  `Listas` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `OK`.
 
@@ -38,7 +38,7 @@ Algunas acciones se deben realizar de la misma manera que en la [lista de alarma
 
    ![VitalControl Listas Lista de acciones](../images/firststeps3.png "Pasos preliminares")
 
-### Pesaje de animal
+### Pesaje de animal {#weigh-animals}
 
 1. Completa los pasos preliminares.
 
@@ -50,7 +50,7 @@ Algunas acciones se deben realizar de la misma manera que en la [lista de alarma
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Pesar animales")
 
-### Cadena de acciones
+### Cadena de acciones {#chain-of-action}
 
 1. Completa los pasos preliminares.
 
@@ -62,7 +62,7 @@ Algunas acciones se deben realizar de la misma manera que en la [lista de alarma
 
    ![VitalControl Lists Action list](../images/chainofaction.png "Cadena de acciones")
 
-### Vincular transpondedor
+### Vincular transpondedor {#link-transponder}
 
 Esta función se utiliza para añadir un transpondedor al registro de datos de animales que aún no tienen asignado un transpondedor.
 
@@ -76,7 +76,7 @@ Esta función se utiliza para añadir un transpondedor al registro de datos de a
 
    ![VitalControl Lists Action list](../images/linktransponder.png "Vincular transpondedor")
 
-### Ocultar después de la acción
+### Ocultar después de la acción {#hide-after-action}
 
 Si esta función está activada, los animales para los cuales se ha realizado una acción serán ocultados de la lista de acciones. Si esta función está desactivada, los animales procesados permanecerán visibles en la lista.
 

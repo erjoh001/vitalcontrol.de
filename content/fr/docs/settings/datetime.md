@@ -11,7 +11,7 @@ categories: [Paramètres]
 tags: [Paramètres, Date & Heure]
 translationKey: settings/datetime
 ---
-## Pour régler la date
+## Pour régler la date {#to-set-the-date}
 {{% alert title="Attention" color="warning" %}}
 Assurez-vous que la date et l'heure sont correctement réglées. Sinon, les horodatages des mesures et les dates de naissance des animaux nouvellement ajoutés seront incorrects !
 {{% /alert %}}
@@ -28,7 +28,7 @@ Pour régler la date sur votre appareil, suivez ces étapes :
 
     ![VitalControl : réglages du menu date](../images/date.png "Pour régler la date")
 
-## Pour régler l'heure
+## Pour régler l'heure {#to-set-the-time}
 
 Pour régler l'heure sur votre appareil, suivez ces étapes :
 

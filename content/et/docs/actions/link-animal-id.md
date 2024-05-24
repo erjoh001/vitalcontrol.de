@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 See toiming ei ole vaikimisi lubatud! Aktiveeri see, nagu kirjeldatud [toimingute seadetes](../setting).
 {{% /alert %}}
 
-## Looma ID sidumine
+## Looma ID sidumine {#link-animal-id}
 
 Rahvusliku looma ID määramiseks loomale, kellel seda veel ei ole, toimi järgnevalt:
 
@@ -40,7 +40,7 @@ Rahvusliku looma ID määramiseks loomale, kellel seda veel ei ole, toimi järgn
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Looma ID sidumine elektroonilise kõrvamärgi skannimisega
+## Looma ID sidumine elektroonilise kõrvamärgi skannimisega {#link-animal-id-with-electronic-ear-tag-scan}
 
 Loomale rahvusliku looma ID määramiseks, mis on varustatud elektroonilise kõrvamärgiga, toimige järgmiselt:
 

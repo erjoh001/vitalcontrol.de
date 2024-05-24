@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
-## Establecer los umbrales y rangos de temperatura
+## Establecer los umbrales y rangos de temperatura {#set-the-threshold--temperature-ranges}
 {{% alert title = "Consejo" %}}
 Los valores umbral para la temperatura corporal se almacenan aquí individualmente para las especies animales ternero, vaca y cordero. Los campos amarillos y rojos muestran el valor umbral para "temperatura elevada" y "fiebre" respectivamente. VitalControl coloca a los animales en las áreas amarillas y rojas en la lista de alarmas, facilitándote el monitoreo de animales enfermos. También se puede definir libremente un umbral para la temperatura baja.
 {{% /alert %}}
@@ -32,7 +32,7 @@ Para configurar los umbrales y rangos de temperatura en tu dispositivo procede d
 
     ![VitalControl: configuraciones de menú umbral y rangos de temperatura](../images/threshold.png "Umbrales y Rangos de Temperatura")
 
-## Configurar la temperatura baja
+## Configurar la temperatura baja {#set-undertemperature}
 {{% alert title = "Consejo" %}}
 Aquí estableces la temperatura medida a partir de la cual ocurre una temperatura baja. Durante la medición de fiebre, esta temperatura se muestra con un fondo azul.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Para configurar el valor umbral para la temperatura baja, procede de la siguient
 
     ![VitalControl: configuraciones del menú temperatura baja](../images/undertemperature.png "Temperatura baja")
 
-## Foco anal
+## Foco anal {#anus-spotlight}
 {{% alert title = "Consejo" %}}
 Aquí puedes configurar si la luz debe activarse o desactivarse automáticamente durante la medición de fiebre.
 {{% /alert %}}

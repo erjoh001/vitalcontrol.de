@@ -14,7 +14,7 @@ translationKey: evaluation/temperature
 In de standaardinstelling zijn alle dieren die op de VitalControl zijn opgeslagen opgenomen in de evaluatie. Door een [filter](../../filter/) te gebruiken, kunt u de evaluatie beperken tot een subset van de dieren op uw apparaat, bijvoorbeeld alleen tot mannelijke dieren of tot dieren tot een bepaalde maximale leeftijd.
 {{% /alert %}}
 
-## Temperatuur evalueren
+## Temperatuur evalueren {#evaluate-temperature}
 
 In deze evaluatie kunt u de volgende informatie zien:
 - Momenteel koortsachtig zieke dieren

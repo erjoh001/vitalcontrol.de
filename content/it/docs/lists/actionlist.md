@@ -11,7 +11,7 @@ categories: [Liste]
 tags: [Liste, Azione]
 translationKey: lists/action
 ---
-## Elenco azioni
+## Elenco azioni {#action-list}
 
 Nell'elenco delle azioni puoi vedere gli animali per i quali non è stata intrapresa alcuna azione per sei ore. Sono inoltre disponibili le seguenti opzioni di impostazione:
 
@@ -28,7 +28,7 @@ Nell'elenco delle azioni puoi vedere gli animali per i quali non è stata intrap
 Alcune azioni devono essere eseguite nello stesso modo dell'[elenco allarmi](../alarm). Queste non sono spiegate qui. Esegui i passaggi preliminari e utilizza il link dell'azione corrispondente per accedere alle istruzioni.
 {{% /alert %}}
 
-### Passaggi preliminari
+### Passaggi preliminari {#preliminary-steps}
 
 1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Liste" /> `Liste` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
 
@@ -38,7 +38,7 @@ Alcune azioni devono essere eseguite nello stesso modo dell'[elenco allarmi](../
 
    ![VitalControl Liste Elenco azioni](../images/firststeps3.png "Passaggi preliminari")
 
-### Pesa animali
+### Pesa animali {#weigh-animals}
 
 1. Completa i passaggi preliminari.
 
@@ -47,11 +47,11 @@ Alcune azioni devono essere eseguite nello stesso modo dell'[elenco allarmi](../
 3. Nell'elenco delle azioni, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Cerca" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
 
 
-4. Il menu [pesare animali](..) si aprirà automaticamente.
+4. Il menu [pesare animali](../../actions/record-weight/) si aprirà automaticamente.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Pesare animali")
 
-### Catena di azioni
+### Catena di azioni {#chain-of-action}
 
 1. Completare i passaggi preliminari.
 
@@ -63,7 +63,7 @@ Alcune azioni devono essere eseguite nello stesso modo dell'[elenco allarmi](../
 
    ![VitalControl Lists Action list](../images/chainofaction.png "Catena di azioni")
 
-### Collegare transponder
+### Collegare transponder {#link-transponder}
 
 Questa funzione viene utilizzata per aggiungere un transponder al record dei dati di animali a cui non è stato ancora assegnato un transponder.
 
@@ -77,7 +77,7 @@ Questa funzione viene utilizzata per aggiungere un transponder al record dei dat
 
    ![VitalControl Lists Action list](../images/linktransponder.png "Collegare transponder")
 
-### Nascondi dopo l'azione
+### Nascondi dopo l'azione {#hide-after-action}
 
 Se questa funzione è attivata, gli animali per i quali è stata eseguita un'azione saranno nascosti dalla lista delle azioni. Se questa funzione è disattivata, gli animali lavorati rimarranno visibili nella lista.
 

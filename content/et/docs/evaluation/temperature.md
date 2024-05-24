@@ -14,7 +14,7 @@ translationKey: evaluation/temperature
 Vaikimisi seadistuses on hindamisel arvestatud kõik VitalControl'is salvestatud loomad. Kasutades [filtrit](../../filter/) saate hindamist piirata seadme teatud loomade alamhulgaga, näiteks ainult isased loomad või loomad kuni teatud maksimaalse vanuseni.
 {{% /alert %}}
 
-## Hinda temperatuuri
+## Hinda temperatuuri {#evaluate-temperature}
 
 Selles hindamises näete järgmist teavet:
 - Praegu palavikulised haiged loomad

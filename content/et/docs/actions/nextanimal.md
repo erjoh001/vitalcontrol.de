@@ -11,7 +11,7 @@ tags: [Tegevused]
 translationKey: actions/next-animal
 draft: true
 ---
-## Järgmine loom
+## Järgmine loom {#next-animal}
 
 `actions` menüüs on teil võimalus igal ajal valida järgmine loom, ilma et peaksite lahkuma Tegevuste menüüpunktist. Järgmise looma valimiseks toimige järgnevalt:
 

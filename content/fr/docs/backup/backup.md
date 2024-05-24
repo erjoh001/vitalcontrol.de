@@ -12,7 +12,7 @@ translationKey: backup
 ---
 {{% usb-drive/fr "Afin de réaliser une sauvegarde de données pour votre appareil," %}}
 
-## Réaliser une sauvegarde de données
+## Réaliser une sauvegarde de données {#perform-data-backup}
 
 1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` sur l'écran principal de votre appareil VitalControl.
 

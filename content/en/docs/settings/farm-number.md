@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Entering the farm number is currently of interest for German farmers only. Farmers from all other nationalities currently do **not** benefit from entering the farm ID. This may change with future [firmware versions]({{< relref "../firmware/versions/" >}}) of VitalControl.
 {{< /alert >}}
 
-## Set your farm number
+## Set your farm number {#set-your-farm-number}
 
 To set the company number on your device, proceed as follows:
 

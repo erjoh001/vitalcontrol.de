@@ -11,19 +11,19 @@ categories: [Nyáj]
 tags: [Nyáj, Hőmérséklet, Súly, Értékelés, Állat adatok]
 translationKey: herd
 ---
-## Nyáj
+## Nyáj {#herd}
 
 A Nyáj menüpontban megtekintheti az egész nyáját, kereshet egyedi állatokat és megjeleníthet fontos információkat. A következő lehetőségek állnak rendelkezésére:
 
 - [Állat adatok](#view-animal-data) megtekintése
 - [Hőmérséklet adatok](#display-temperature) megtekintése
 - [Értékelési adatok](#view-rating) megtekintése
-- [Súly adatok](#view-rating) megtekintése
+- [Súly adatok](#display-weight) megtekintése
 - [Állat keresése](#search-animal)
 - [Szűrő](#set-filter) beállítása
 - [Műveletek](#call-action-menu)
 
-### Előkészítő lépések
+### Előkészítő lépések {#preparatory-steps}
 
 1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Nyáj" /> `Nyáj` menüpontot, és nyomja meg az `OK` gombot.
 
@@ -31,7 +31,7 @@ A Nyáj menüpontban megtekintheti az egész nyáját, kereshet egyedi állatoka
 
     ![VitalControl: Nyáj menü](images/herde.png "Nyáj")
 
-### Állat adatok megtekintése
+### Állat adatok megtekintése {#view-animal-data}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -47,7 +47,7 @@ A Nyáj menüpontban megtekintheti az egész nyáját, kereshet egyedi állatoka
 Alapértelmezés szerint először az állat adatok jelennek meg. Csak akkor kell újra beállítania az állat adatok megjelenítését, ha például a súlyt jeleníti meg.
 {{% /alert %}}
 
-### Hőmérséklet megjelenítése
+### Hőmérséklet megjelenítése {#display-temperature}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -60,7 +60,7 @@ Alapértelmezés szerint először az állat adatok jelennek meg. Csak akkor kel
 
     ![VitalControl: Menü Állomány](images/temperature.png "Hőmérséklet megjelenítése")
 
-### Értékelés megtekintése
+### Értékelés megtekintése {#view-rating}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -72,7 +72,7 @@ Alapértelmezés szerint először az állat adatok jelennek meg. Csak akkor kel
 
     ![VitalControl: Menü Állomány](images/rating.png "Értékelés megtekintése")
 
-### Súly megjelenítése
+### Súly megjelenítése {#display-weight}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -84,7 +84,7 @@ Alapértelmezés szerint először az állat adatok jelennek meg. Csak akkor kel
 
     ![VitalControl: Menü Állomány](images/weight.png "Súly megjelenítése")
 
-### Állat keresése
+### Állat keresése {#search-animal}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -95,7 +95,7 @@ Alapértelmezés szerint először az állat adatok jelennek meg. Csak akkor kel
 
     ![VitalControl: Menü Nyáj](images/search.png "Állat keresése")
 
-### Szűrő beállítása
+### Szűrő beállítása {#set-filter}
 
 1. Végezze el az előkészítő lépéseket.
 
@@ -105,7 +105,7 @@ Alapértelmezés szerint először az állat adatok jelennek meg. Csak akkor kel
 
     ![VitalControl: Menü Nyáj](images/setfilter.png "Állat keresése")
 
-### Akciómenü hívása
+### Akciómenü hívása {#call-action-menu}
 
 Mindig lehetősége van egy állat akciómenüjének megnyitására.
 

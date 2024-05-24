@@ -11,7 +11,7 @@ Kategorien: [Geburten, Datenexport]
 Tags: [Geburten, Datenexport]
 translationKey: new-on-farm/births
 ---
-## Geburten
+## Geburten {#births}
 
 In dieser Liste können Sie ihre Geburten einsehen, diese bearbeiten und eine Export-Datei erstellen um die Anmeldung in HI-Tier vorzunehmen. Um eine Exportdatei zu erstellen gehen Sie wie folgt vor:
 
@@ -33,21 +33,21 @@ Für den Datenexport benötigen Sie den mitgelieferten UBS-Stick. Schließen Sie
 
     ![VitalControl: Menüfolge Zugänge Geburten](../bilder/geburten.png "HIT-Meldeliste exportieren")
 
-## Einstellungsmöglichkeiten
+## Einstellungsmöglichkeiten {#setting-options}
 
 Sie haben, außer die Exportdatei zu erstellen, folgende weitere Möglichkeiten:
 
-- Zwischen [Listen- und Einzelansicht](../geburten/#wechsel-zwischen-listen--und-einzelansicht) wechseln
-- [Tierdaten](../geburten/#bearbeiten-der-tierdaten) bearbeiten
-- [Alle Meldungen](../zukaeufe/#alle-meldungen-l%C3%B6schen) löschen
-- [Tier + Meldung ](../zukaeufe/#tier--meldung-l%C3%B6schen) löschen
-- [Geburtsmeldung](../zukaeufe/#zugangsmeldung-l%C3%B6schen) löschen
+- Zwischen [Listen- und Einzelansicht](#change-between-list-view-and-single-animal-view) wechseln
+- [Tierdaten](#edit-data-of-birth-notice) bearbeiten
+- [Alle Meldungen](../zukaeufe/#clear-all-purchase-notices) löschen
+- [Tier + Meldung ](../zukaeufe/#delete-animal--purchase-notice) löschen
+- [Geburtsmeldung](../zukaeufe/#clear-notice-of-purchase) löschen
 
 {{% alert title="Hinweis" %}}
 Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen Sie den Verlinkungen zu den Schritt für Schritt Anleitungen. Öffnen Sie immer zuerst die Liste `Geburten` wie in der Anleitung oben beschrieben.
 {{% /alert %}}
 
-### Wechsel zwischen Listen- und Einzelansicht
+### Wechsel zwischen Listen- und Einzelansicht {#change-between-list-view-and-single-animal-view}
 
 1. Verwenden Sie die <img src="/icons/gear.svg" width="25" align="bottom" alt="An/Aus" /> `An/Aus` Taste.
 
@@ -57,7 +57,7 @@ Einige Aktionen sind identisch mit den Aktionen in der Liste `Zukäufe`. Folgen 
 
     ![VitalControl: Menüfolge Zugänge Geburten](../bilder/wechsel.png "Wechsel zwischen Listen- und Einzelansicht")
 
-### Bearbeiten der Tierdaten
+### Bearbeiten der Tierdaten {#edit-data-of-birth-notice}
 
 {{% alert title="Hinweis" %}}
 Das Bearbeiten der Tierdaten ist nur in der Listenansicht möglich!
@@ -65,6 +65,6 @@ Das Bearbeiten der Tierdaten ist nur in der Listenansicht möglich!
 
 1. Wählen Sie mit den Pfeiltasten △ ▽ das Tier aus, das Sie bearbeiten möchten und bestätigen Sie mit `OK`.
 
-2. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungen vornehmen können. Für die Schritt für Schritt Anleitung klicken Sie [hier](/docs/neu/abkalbung/#abkalbung-erfassen).
+2. Es öffnet sich ein Untermenü in dem Sie verschiedene Einstellungen vornehmen können. Für die Schritt für Schritt Anleitung klicken Sie [hier](/docs/neu/abkalbung/#register-a-calving).
 
     ![VitalControl: Menüfolge Zugänge Geburten](../bilder/tierdaten.png "Bearbeiten der Tierdaten")

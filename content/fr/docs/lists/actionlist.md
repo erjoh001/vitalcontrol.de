@@ -11,24 +11,24 @@ categories: [Listes]
 tags: [Listes, Action]
 translationKey: lists/action
 ---
-## Liste des actions
+## Liste des actions {#action-list}
 
 Dans la liste des actions, vous pouvez voir les animaux pour lesquels aucune action n'a été prise depuis six heures. Les options de réglage suivantes sont également disponibles :
 
-- [Prendre la température](../alarm/#prendre-la-température)
-- [Évaluer les animaux](../alarm/#évaluer-lanimal)
-- [Peser les animaux](#peser-les-animaux)
-- [Chaîne d'actions](#chaîne-dactions)
-- [Lier le transpondeur](#lier-le-transpondeur)
-- [Masquer après action](#masquer-après-action)
-- [Rechercher un animal](../alarm/#rechercher-un-animal)
-- [Définir un filtre](../alarm/#définir-un-filtre)
+- [Prendre la température](../alarm/#take-temperature)
+- [Évaluer les animaux](../alarm/#rate-animal)
+- [Peser les animaux](#weigh-animals)
+- [Chaîne d'actions](#chain-of-action)
+- [Lier le transpondeur](#link-transponder)
+- [Masquer après action](#hide-after-action)
+- [Rechercher un animal](../alarm/#search-animal)
+- [Définir un filtre](../alarm/#set-filter)
 
 {{% alert title="Conseil" %}}
 Certaines actions doivent être effectuées de la même manière que dans la [liste d'alarme](../alarm). Elles ne sont pas expliquées ici. Effectuez les étapes préliminaires et utilisez le lien de l'action respective pour accéder aux instructions.
 {{% /alert %}}
 
-### Étapes préliminaires
+### Étapes préliminaires {#preliminary-steps}
 
 1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" />  `Listes` dans l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
 
@@ -38,7 +38,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
    ![Listes VitalControl Liste des actions](../images/firststeps3.png "Étapes préliminaires")
 
-### Peser les animaux
+### Peser les animaux {#weigh-animals}
 
 1. Complétez les étapes préliminaires.
 
@@ -46,11 +46,11 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 3. Dans la liste des actions, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Rechercher" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
 
-4. Le menu [peser les animaux](..) s'ouvrira automatiquement.
+4. Le menu [peser les animaux](../../actions/record-weight/) s'ouvrira automatiquement.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Peser les animaux")
 
-### Chaîne d'actions
+### Chaîne d'actions {#chain-of-action}
 
 1. Complétez les étapes préliminaires.
 
@@ -62,7 +62,7 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
    ![VitalControl Lists Action list](../images/chainofaction.png "Chaîne d'actions")
 
-### Lier le transpondeur
+### Lier le transpondeur {#link-transponder}
 
 Cette fonction est utilisée pour ajouter un transpondeur à l'enregistrement de données des animaux qui n'ont pas encore été assignés à un transpondeur.
 
@@ -76,7 +76,7 @@ Cette fonction est utilisée pour ajouter un transpondeur à l'enregistrement de
 
    ![VitalControl Lists Action list](../images/linktransponder.png "Lier le transpondeur")
 
-### Masquer après action
+### Masquer après action {#hide-after-action}
 
 Si cette fonction est activée, les animaux pour lesquels une action a été effectuée seront masqués de la liste des actions. Si cette fonction est désactivée, les animaux traités resteront visibles dans la liste.
 

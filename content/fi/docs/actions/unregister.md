@@ -14,7 +14,7 @@ translationKey: actions/unregister
 Kun poistat eläimen tietueen, sitä ei voi enää käyttää arviointitarkoituksiin! Jos poistat eläimen rekisteröinnin, mutta haluat esimerkiksi arvioida eläimen kehitystä myöhemmin uudelleen, sinun on säilytettävä eläimen tietue!
 {{% /alert %}}
 
-## Rekisteröimätön
+## Rekisteröimätön {#unregister}
 
 Toiminto `Rekisteröimätön` mahdollistaa eläimen rekisteröinnin poistamisen, kun se siirretään pois. Toimi seuraavasti eläimen rekisteröinnin poistamiseksi:
 

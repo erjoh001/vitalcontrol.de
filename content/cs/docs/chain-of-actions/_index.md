@@ -11,11 +11,11 @@ categories: [Řetězec akcí]
 tags: [Řetězec akcí, Akce]
 translationKey: action-chain
 ---
-## Řetězec akcí
+## Řetězec akcí {#chain-of-actions}
 
 Řetězec akcí vám umožňuje automaticky provádět několik akcí pro zvíře jednu po druhé. Například můžete vybrat akce `Měření teploty` a `Hodnocení`. Pokud poté provedete řetězec akcí, můžete nejprve změřit teplotu svého zvířete a ihned poté zaznamenat hodnocení.
 
-### Použití řetězce akcí
+### Použití řetězce akcí {#use-chain-of-actions}
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Řetězec akcí" />&nbsp; `Řetězec akcí` a stiskněte tlačítko `OK`.
 
@@ -33,7 +33,7 @@ translationKey: action-chain
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Nastavení řetězce akcí
+### Nastavení řetězce akcí {#set-chain-of-actions}
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Řetězec akcí" />&nbsp; `Řetězec akcí` a stiskněte tlačítko `OK`.
 

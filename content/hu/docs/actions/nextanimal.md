@@ -11,7 +11,7 @@ tags: [Akciók]
 translationKey: actions/next-animal
 draft: true
 ---
-## Következő állat
+## Következő állat {#next-animal}
 
 Az `akciók` menüben bármikor kiválaszthatja a következő állatot anélkül, hogy el kellene hagynia az Akciók menüpontot. A következő állat kiválasztásához tegye a következőket:
 

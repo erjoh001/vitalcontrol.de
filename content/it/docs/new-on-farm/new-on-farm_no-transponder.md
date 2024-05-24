@@ -11,7 +11,7 @@ categories: [Nuovo in fattoria, transponder]
 tags: [Nuovo in fattoria, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
-### Nuovo in fattoria, senza transponder
+### Nuovo in fattoria, senza transponder {#new-on-farm-no-transponder}
 
 In questa lista troverai tutti gli animali appena creati con un'età massima di X giorni che non sono ancora stati assegnati a un transponder. Puoi impostare l'età massima [qui](/it/docs/settings/animal-registration/#set-default-values). Una volta raccolto un transponder da questi animali, puoi cercare l'ID animale corrispondente all'interno della lista e scansionare il transponder associato. Il transponder viene quindi automaticamente assegnato all'animale e l'animale viene eliminato dalla lista. Per assegnare un transponder, procedi come segue:
 
@@ -42,7 +42,7 @@ Non appena hai assegnato tutti gli animali, hai la possibilità di essere reindi
 ![VitalControl: Menu New on farm, no transponder](../images/redirect.png "Redirect")
 {{% /alert %}}
 
-## Azioni aggiuntive precedenti
+## Azioni aggiuntive precedenti {#previous-additional-actions}
 
 Puoi utilizzare le azioni aggiuntive precedenti per impostare quali azioni desideri eseguire prima di assegnare il transponder. Puoi scegliere tra misurare la temperatura, valutare l'animale e pesare l'animale. L'azione rispettiva viene salvata direttamente per l'animale che assegni successivamente. Procedi come segue:
 
@@ -61,6 +61,6 @@ L'elemento di menu `ultima azione su OK:` ti informa che l'assegnazione di un tr
 
 ![VitalControl: Menu Nuovo in fattoria, senza transponder](../images/actions.png "Azioni aggiuntive")
 
- ## Ulteriori elementi di menu
+ ## Ulteriori elementi di menu {#further-menu-items}
 
 Hai anche la possibilità di selezionare tra `impostazioni`, `cerca animale` e `imposta filtro` nel pop-up. Usa i pulsanti freccia △ ▽ per navigare all'elemento di menu rispettivo e conferma con `OK`. Le informazioni per l'elemento di menu `impostazioni` possono essere trovate [qui](/it/docs/settings/animal-registration/#set-default-values), per `imposta filtro` [qui](/it/docs/filter/) e per `cerca animale` procedi come nel passo 3 di `nuovo in fattoria, senza transponder`.

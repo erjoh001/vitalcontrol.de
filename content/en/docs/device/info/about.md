@@ -8,7 +8,7 @@ description: >
  Call up vendor information
 translationKey: device/info/about
 ---
-## Call up menu "About"
+## Call up menu "About" {#call-up-menu-about}
 
 To retrieve the hardware information of your device, proceed as follows:
 

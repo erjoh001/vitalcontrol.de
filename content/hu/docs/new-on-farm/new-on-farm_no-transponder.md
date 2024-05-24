@@ -11,7 +11,7 @@ categories: [Új a farmon, transzponder]
 tags: [Új a farmon, transzponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
-### Új a farmon, nincs transzponder
+### Új a farmon, nincs transzponder {#new-on-farm-no-transponder}
 
 Ebben a listában megtalálja az összes újonnan létrehozott állatot, amelyek maximális életkora X nap, és amelyekhez még nem rendeltek transzpondert. A maximális életkort [itt](/hu/docs/settings/animal-registration/#set-default-values) állíthatja be. Miután összegyűjtött egy transzpondert ezekből az állatokból, megkeresheti a megfelelő állat azonosítóját a listában, és beolvashatja a hozzá tartozó transzpondert. A transzponder ezután automatikusan hozzárendelődik az állathoz, és az állat törlődik a listából. A transzponder hozzárendeléséhez kövesse az alábbi lépéseket:
 
@@ -41,7 +41,7 @@ Amint minden állatot hozzárendelt, lehetősége van az `F3` gombbal átirány�
 ![VitalControl: Menü Új a farmon, nincs transzponder](../images/redirect.png "Átirányítás")
 {{% /alert %}}
 
-## Korábbi kiegészítő műveletek
+## Korábbi kiegészítő műveletek {#previous-additional-actions}
 
 A korábbi kiegészítő műveletek segítségével beállíthatja, hogy milyen műveleteket szeretne végrehajtani a transzponder hozzárendelése előtt. Választhat a hőmérséklet mérés, az állat értékelése és az állat mérlegelése között. Az adott művelet közvetlenül elmentésre kerül az állathoz, amelyet később hozzárendel. Az alábbiak szerint járjon el:
 
@@ -59,6 +59,6 @@ A `utolsó művelet OK-ra:` menüpont tájékoztatja Önt arról, hogy a transzp
 
 ![VitalControl: Menü Új a farmon, nincs transzponder](../images/actions.png "További műveletek")
 
-## További menüpontok
+## További menüpontok {#further-menu-items}
 
 Lehetősége van a `beállítások`, `állat keresése` és `szűrő beállítása` közötti választásra is a felugró ablakban. Használja a nyílgombokat △ ▽ a megfelelő menüponthoz való navigáláshoz, és erősítse meg az `OK` gombbal. A `beállítások` menüponthoz tartozó információkat [itt](/hu/docs/settings/animal-registration/#set-default-values) találja, a `szűrő beállítása` menüponthoz [itt](/hu/docs/filter/), és az `állat keresése` menüpontban ugyanúgy járjon el, mint az `új a farmon, nincs transzponder` 3. lépésében.

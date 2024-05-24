@@ -11,7 +11,7 @@ categories: [Seznamy]
 tags: [Seznamy, sledování]
 translationKey: lists/on-watch
 ---
-## Na sledovaném seznamu
+## Na sledovaném seznamu {#on-watch-list}
 
 Na sledovaném seznamu najdete všechna zvířata, která jste ručně přidali na seznam. Seznam vám pomáhá udržet přehled o zvířatech, která jste označili jako nápadná. Také pro každé zvíře na seznamu můžete provést následující:
 
@@ -40,7 +40,7 @@ Seznam alarmů je strukturován následovně:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Tělesná teplota" title="Tělesná teplota" /> | Poslední zaznamenané měření horečky je zobrazeno pod symbolem s barvami systému semaforu
 | &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Zobrazení zvířete na alarmu" title="Zvíře na alarmu" /> | Kruh pod symbolem označuje, že zvíře je na seznamu alarmů
 
-### Předběžné kroky
+### Předběžné kroky {#preliminary-steps}
 
 1. Vyberte položku nabídky <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Seznamy` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
 
@@ -50,7 +50,7 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Předběžné kroky")
 
-### Odebrat ze seznamu hlídání
+### Odebrat ze seznamu hlídání {#remove-from-watch-list}
 
 1. Dokončete předběžné kroky.
 
@@ -62,7 +62,7 @@ Seznam alarmů je strukturován následovně:
 
    ![VitalControl Lists On watch list](../images/remove.png "Odebrat ze seznamu hlídání")
 
-### Přepnout stav alarmu
+### Přepnout stav alarmu {#toggle-alarm-status}
 
 1. Dokončete předběžné kroky.
 

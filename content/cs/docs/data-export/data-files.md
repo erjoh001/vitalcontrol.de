@@ -10,7 +10,7 @@ tags: [exportní soubory, teploty, hmotnosti, hodnocení]
 slug: export-files
 translationKey: data-export/data-files
 ---
-## Obecné informace
+## Obecné informace {#general-information}
 
 Při exportu dat o zvířatech, ať už na [USB flash disk][] nebo na místní úložné zařízení [na PC][], jsou v každém případě generovány čtyři exportní soubory:
 
@@ -29,17 +29,17 @@ Při exportu dat o zvířatech, ať už na [USB flash disk][] nebo na místní �
 
 Všechny čtyři soubory jsou čitelné pro člověka jako textové soubory ve formátu [CSV](https://en.wikipedia.org/wiki/Comma-separated_values). Soubory jsou kódovány ve formátu `UTF-8`, jako oddělovače sloupců jsou použity středníky (`;`). Jednotlivá datová pole nejsou uzavřena v uvozovkách. Každý řádek příslušné tabulky představuje datový záznam o zvířeti nebo měření či hodnocení provedené na zvířeti.
 
-## Další zpracování exportovaných dat
+## Další zpracování exportovaných dat {#further-processing-of-exported-data}	
 
 Každý z těchto čtyř exportních souborů můžete otevřít v tabulkovém programu dle vašeho výběru (například [Microsoft Excel](https://products.office.com/excel) nebo [OpenOffice Calc](https://www.openoffice.org/)) a provádět tam pokročilou analýzu dat. Jako příklad je níže uveden pohled na tabulku `animals.csv` v tabulkovém programu:
 
 ![Exportovaná data o zvířatech, otevřená v tabulkovém programu](../images/animals.png "Data o zvířatech otevřená v tabulkovém programu")
 
-## Popis datových souborů
+## Popis datových souborů {#description-of-data-files}
 
 Následující čtyři sekce podrobně popisují každý z exportovaných datových souborů:
 
-### Data o zvířatech (`animals.csv`)
+### Data o zvířatech (`animals.csv`) {#animal-data-animalscsv}
 
 - **Název souboru** `animals.csv`
 - **Popis** Obecná data o zvířatech
@@ -72,7 +72,7 @@ Pokud je potřeba, můžete si také stáhnout poskytnutý vzorový soubor [anim
 
 [animals.csv]: /data-export/animals.csv
 
-### Data tělesné teploty (`temperatures.csv`)
+### Data tělesné teploty (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Název souboru** `temperatures.csv`
 - **Popis** Hodnoty teploty, získané měřením rektální tělesné teploty zvířat.
@@ -104,7 +104,7 @@ Pokud je to potřeba, můžete si také stáhnout poskytnutý vzorový soubor [t
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Údaje o hmotnosti (`weights.csv`)
+### Údaje o hmotnosti (`weights.csv`) {#weight-data-weightscsv}
 
 - **Název souboru** `weights.csv`
 - **Popis** Hodnoty hmotnosti získané vážením zvířat
@@ -136,7 +136,7 @@ Pokud je to potřeba, můžete si také stáhnout poskytnutý vzorový soubor [w
 
 [weights.csv]: /data-export/weights.csv
 
-### Hodnocení zvířat (`ratings.csv`)
+### Hodnocení zvířat (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Název souboru** `ratings.csv`
 - **Popis** Hodnocení zvířat získané vizuální kontrolou zvířat

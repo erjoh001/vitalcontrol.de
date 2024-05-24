@@ -15,7 +15,7 @@ Ez a funkció csak tehenek esetében jelenik meg, borjak vagy bárányok esetéb
 Ha nincs szüksége erre a funkcióra, kikapcsolhatja az [akció beállítások](../setting/) menüben.
 {{% /alert %}}
 
-## Ellés regisztrálása
+## Ellés regisztrálása {#register-a-calving}
 
 Amint belépett az akció menübe, válassza ki a <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `Ellés` menüpontot és erősítse meg `OK` gombbal. Folytassa az [Ellés regisztrálása](/hu/docs/new/calving/) útmutatóban leírtak szerint.
 

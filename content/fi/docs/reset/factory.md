@@ -7,7 +7,7 @@ description: >
 categories: [Reset]
 translationKey: reset/factory
 ---
-## Tehdasasetusten palauttaminen
+## Tehdasasetusten palauttaminen {#performing-a-factory-reset}
 
 1. Avaa valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` VitalControl-laitteesi päävalikosta.
 

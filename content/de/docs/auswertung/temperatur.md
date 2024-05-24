@@ -14,7 +14,7 @@ translationKey: evaluation/temperature
 In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filter](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf ihrem Gerät beschränken, z.B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
 {{% /alert %}}
 
-## Temperatur auswerten
+## Temperatur auswerten {#evaluate-temperature}
 
 In dieser Auswertung können Sie folgende Informationen einsehen:
 - Aktuell fiebrig erkrankte Tiere

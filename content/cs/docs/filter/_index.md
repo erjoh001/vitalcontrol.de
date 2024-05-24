@@ -9,7 +9,7 @@ categories: [Filter]
 tags: [Filter]
 translationKey: filter
 ---
-## Použití filtrů
+## Použití filtrů {#applying-filters}
 
 {{% alert title="POZNÁMKA" %}}
 Filtr vám pomůže provést výběr pomocí kritérií filtru v položkách menu `Stádo`, `Seznamy` a `Hodnocení` zařízení VitalControl. Jakmile použijete filtr, na horní části obrazovky se objeví symboly pro různá kritéria filtru. Tyto symboly vám pomohou zjistit, zda a která kritéria filtru jsou aktivována. Například pokud nastavíte filtr `Pohlaví` na mužské, zařízení bude používat pouze mužská zvířata. Pokud také aktivujete filtr `Na pozorování`, zařízení použije pouze mužská zvířata, která jsou na seznamu pozorování.

@@ -11,7 +11,7 @@ tags: [Toiminnat, eläintiedot, muokkaa]
 translationKey: actions/edit
 ---
 
-## Muokkaa eläintietoja
+## Muokkaa eläintietoja {#edit-animal-data}
 
 Toiminto <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokkaa" /> `Muokkaa` mahdollistaa valitun eläimen tietojen suoran muuttamisen. Tämä toiminto helpottaa eläintietojen korjaamista, jos esimerkiksi eläintarkastuksen aikana huomataan, että sukupuoli on tallennettu väärin. Voit muuttaa seuraavia tietoja:
 

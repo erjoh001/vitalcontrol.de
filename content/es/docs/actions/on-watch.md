@@ -11,7 +11,7 @@ tags: [Acciones, En seguimiento]
 translationKey: actions/on-watch
 ---
 
-## En seguimiento
+## En seguimiento {#on-watch}
 
 Con la acción `En seguimiento` colocas animales en la lista de vigilancia o los retiras de ella. La lista de vigilancia te ayuda a encontrar animales conspicuos más rápidamente y fácilmente, facilitando tus chequeos rutinarios diarios. Para aplicar la acción `En seguimiento`, procede de la siguiente manera:
 

@@ -11,7 +11,7 @@ categories: [Nieuw dier]
 tags: [Dieren registreren]
 translationKey: new/animal
 ---
-## Een nieuw dier aanmaken
+## Een nieuw dier aanmaken {#create-a-new-animal}
 
 Om een nieuw dier aan te maken, ga als volgt te werk:
 

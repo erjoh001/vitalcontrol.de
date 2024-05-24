@@ -11,8 +11,8 @@ categories: [settings]
 tags: [settings, Default values]
 translationKey: settings/new-animals
 ---
-## Määra vaikimisi väärtused
-### Määra registreeritud kaalud
+## Määra vaikimisi väärtused {#set-default-values}
+### Määra registreeritud kaalud {#set-recorded-weights}
 
 Siin määratlete, milline kaal registreeritakse ja salvestatakse, kui loote uusi loomi oma farmis. Registreeritud kaalu seadmiseks oma seadmes toimige järgmiselt.
 
@@ -30,7 +30,7 @@ Siin määratlete, milline kaal registreeritakse ja salvestatakse, kui loote uus
  Valige `puudub`, kui: loomad luuakse automaatselt taustal (transponderi skaneerimise teel), farmis ei ole saadaval kaalu ja hinnangulisi väärtusi ei soovita, sünnikaalud on teadmata.
 {{% /alert %}}
 
-### Määra registreerimise vanus
+### Määra registreerimise vanus {#set-age-at-registration}
 {{% alert title="Vihje" %}}
 Siin sisestatud vanuse põhjal arvutab seade sünnikuupäeva, mis pakutakse käsitsi loodud looma jaoks või mida kasutatakse automaatse loomise jaoks taustal (transponderi skaneerimise teel). Piimatootmisfarmide jaoks sisestage päevade arv, mil uued vasikad VitalControlis registreeritakse. Kasvatusfarmide jaoks tuleb sisestada ostetud vasikate keskmine vanus. Lubatud väärtuste vahemik on 0 kuni 99 päeva.
 {{% /alert %}}
@@ -49,7 +49,7 @@ Looma loomise vanuse seadmiseks oma seadmel toimige järgmiselt:
 
     ![VitalControl: menüü seaded Määra registreerimisel vanus](../images/ageatregistration.png "Määra registreerimisel vanus")
 
-### Määra sugu
+### Määra sugu {#set-sex}
 
 Siin määratlete, millist sugu pakutakse (käsitsi loomine) või võetakse automaatselt (taustal loomine). Looma soo määramiseks oma seadmel toimige järgmiselt.
 
@@ -65,7 +65,7 @@ Siin määratlete, millist sugu pakutakse (käsitsi loomine) või võetakse auto
 
     ![VitalControl: menüü seaded Määra sugu](../images/setsex.png "Määra sugu")
 
-### Määra looma tüüp
+### Määra looma tüüp {#set-type-of-animal}
 
 Siin määratlete, millist looma tüüpi salvestatakse uute loomade loomisel teie farmis. Looma tüübi määramiseks oma seadmel toimige järgmiselt:
 
@@ -81,7 +81,7 @@ Siin määratlete, millist looma tüüpi salvestatakse uute loomade loomisel tei
 
     ![VitalControl: menüü seaded looma tüüp](../images/typeofanimal.png "loomatüüp")
 
-### Määra tõug
+### Määra tõug {#set-breed}
 
 Siin määrate, millist karilooma tõugu registreeritakse uute loomade loomisel teie farmis. Tõu määramiseks loomise ajal oma seadmel toimige järgmiselt:
 
@@ -97,7 +97,7 @@ Siin määrate, millist karilooma tõugu registreeritakse uute loomade loomisel 
 
     ![VitalControl: menüü seaded tõug](../images/breed.png "tõug")
 
-### Määra asukoht
+### Määra asukoht {#set-whereabouts}
 
 Siin määrate, millised asukohad määratakse loomadele uute farmiloomade loomisel. Farmilooma asukoha määramiseks loomise ajal oma seadmel toimige järgmiselt:
 
@@ -115,7 +115,7 @@ Siin määrate, millised asukohad määratakse loomadele uute farmiloomade loomi
 
 Salvestage seaded ja naaske peamenüüsse `Seaded`, vajutades klahvi `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
-## Automaatregistreerimine
+## Automaatregistreerimine {#auto-registration}
 
 Siin määratlete seadme käitumise, kui skannitakse uut transponderit, mis ei ole veel VitalControl seadmele teada. Selleks juhuks saab määratleda kolm erinevat käitumist.
 
@@ -135,7 +135,7 @@ Selleks, et määratleda käitumist, kui kasutaja loom loob automaatselt teie se
 
 ![VitalControl: menüü seaded automaatregistreerimine](../images/autoregistration.png "automaatregistreerimine")
 
-## Looma ID määramine
+## Looma ID määramine {#assignment-animal-id}
 
 Siin määratlete, millist looma ID-d pakutakse (tuletatud transpondernumbrist) või kasutatakse (järjestikune), kui loote oma farmis uue looma.
 
@@ -165,7 +165,7 @@ Looma ID määramiseks looma loomisel oma seadmes toimige järgmiselt:
 Ainult valiku `Järjestikune` kasutamisel: kui olete seadistanud eraldi numbrite vahemikud isaste ja emaste loomade kõrvamärgi numbri määramiseks, salvestatakse järgmine loomanumber igaühe jaoks - isased, emased ja teadmata soost loomad. Sümbol, mis on asetatud loomanumbri vasakule küljele, näitab, mille jaoks järgmist loomanumbrit kasutatakse: kas isastele ♀, emastele ♂ või teadmata soost loomadele ♀♂?
 {{% /alert %}}
 
-### Uue ID number
+### Uue ID number {#digit-of-the-new-id}
 
 Siin määratlete, milline on teie farmis uue looma transpondernumbrist tuletatud laudanumbri pikkus. Võimalik väärtuste vahemik on 2 kuni 6 numbrit. Uue farmilooma ID pikkuse määramiseks oma seadmel toimige järgmiselt:
 
@@ -181,7 +181,7 @@ Siin määratlete, milline on teie farmis uue looma transpondernumbrist tuletatu
 
     ![VitalControl: menüü seaded Uue ID number](../images/digitofnewid.png "Uue ID number")
 
-### Parempoolne nihe
+### Parempoolne nihe {#right-offset}
 
 Siin määratlete, kas transpondernumbrist laudanumbri tuletamisel võetakse arvesse ka nihet. Ilma nihketa kasutatakse transpondernumbri viimaseid 2-6 numbrit kui laudanumbrit, 1 suuruse nihke korral jäetakse kõige parempoolsem number ära, 2 suuruse nihke korral kaks parempoolset numbrit jne.
 
@@ -206,7 +206,7 @@ Looma paremale nihke seadmiseks oma seadmel toimige järgmiselt:
 
 Salvestage seaded ja naaske peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
-## Kõrvamärgi numbri määramine
+## Kõrvamärgi numbri määramine {#assignment-ear-tag-number}
 
 Siin määratlete, kas kõrvamärgi numbri määramisel kasutatakse ühte või kahte numbrivahemikku loomade käsitsi ümberregistreerimise käigus. Farmilooma kõrvamärgi numbri määramiseks oma seadmel toimige järgmiselt:
 

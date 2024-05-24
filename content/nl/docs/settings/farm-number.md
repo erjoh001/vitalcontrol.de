@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Het invoeren van het boerderijnummer is momenteel alleen van belang voor Duitse boeren. Boeren van alle andere nationaliteiten hebben momenteel **geen** voordeel bij het invoeren van de boerderij-ID. Dit kan veranderen met toekomstige [firmwareversies]({{< relref "../firmware/versions/" >}}) van VitalControl.
 {{< /alert >}}
 
-## Stel uw boerderijnummer in
+## Stel uw boerderijnummer in {#set-your-farm-number}
 
 Om het bedrijfsnummer op uw apparaat in te stellen, gaat u als volgt te werk:
 

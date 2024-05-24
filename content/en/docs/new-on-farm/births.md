@@ -11,7 +11,7 @@ categories: [Births]
 tags: [Births]
 translationKey: new-on-farm/births
 ---
-## Births
+## Births {#births}
 
 In this list you can view your births, edit them and create an export file to register in HI-Tier. To create an export file, proceed as follows:
 
@@ -33,7 +33,7 @@ To export data you need the included UBS stick. Connect the USB stick with the U
 
     ![VitalControl: Menu New on farm Births](../images/births.png "Births")
 
-## Setting options
+## Setting options {#setting-options}
 
 In addition to creating the export file, you have the following options:
 
@@ -47,7 +47,7 @@ In addition to creating the export file, you have the following options:
 Some actions are identical to the actions in the `Purchased animals` list. Follow the links to the step-by-step instructions. Always open the `Births` list first as described in the instructions above.
 {{% /alert %}}
 
-### Change between list view and single animal view
+### Change between list view and single animal view {#change-between-list-view-and-single-animal-view}
 
 1. Use the <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `On/Off` button.
 
@@ -57,7 +57,7 @@ Some actions are identical to the actions in the `Purchased animals` list. Follo
 
     ![VitalControl: Menu New on farm Births](../images/change.png "Change between list view and single animal view")
 
-### Edit data of birth notice
+### Edit data of birth notice {#edit-data-of-birth-notice}
 
 {{% alert title="Hint" %}}
 Editing the animal data is only possible in the list view!

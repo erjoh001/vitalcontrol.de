@@ -11,7 +11,7 @@ categories: [Laite]
 tags: [Laite]
 translationKey: device/flashlight
 ---
-## Valon aktivointi ja deaktivointi
+## Valon aktivointi ja deaktivointi {#activate-and-deactivate-light}
 
 Tässä voit aktivoida tai deaktivoida valon VitalControl-laitteessasi. Kun aktivoit valon, se palaa jatkuvasti.
 

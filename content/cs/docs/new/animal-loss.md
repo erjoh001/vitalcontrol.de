@@ -11,7 +11,7 @@ categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Záznam ztráty zvířete
+## Záznam ztráty zvířete {#record-the-loss-of-an-animal}
 
 {{% alert title="Tip" %}}
 Funkce ztráty zvířete v této položce menu je primárně určena k zaznamenání mrtvých telat/jehňat. Možnosti nastavení jsou tomu odpovídajícím způsobem přizpůsobeny a nejsou totožné s položkami nastavení v menu `Akce` -> `Odhlásit` nebo `Ztráta zvířete`.

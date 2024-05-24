@@ -11,7 +11,7 @@ tags: [Actions, Alarme]
 translationKey: actions/alarm
 ---
 
-## Alert
+## Alert {#alert}
 
 Avec l'action `Alarme`, vous pouvez ajouter des animaux à la liste d'alarme ou les en retirer. La liste d'alarme vous aide à trouver plus rapidement et facilement les animaux remarquables, rendant vos contrôles de routine quotidiens plus simples. Pour appliquer l'action `Alarme`, procédez comme suit :
 

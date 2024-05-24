@@ -11,7 +11,7 @@ categories: [Bulk-recording]
 tags: [Bulk-recording]
 translationKey: new/bulk-recording
 ---
-## Massa opname
+## Massa opname {#bulk-recording}
 
 Met behulp van massaregistratie kunt u in korte tijd een groot aantal dieren vastleggen en opslaan op uw apparaat. Gebruik de barcodescanner om de barcodes voor het oornummernummer en de geboortedatum op de vee-paspoorten te scannen. Het dier wordt automatisch opgeslagen en u kunt direct het volgende paspoort scannen. Om massaregistratie van dieren uit te voeren, ga als volgt te werk:
 
@@ -37,7 +37,7 @@ Je hebt verdere instellingsopties binnen het menu-item `Massa opname`. Deze word
 Foutmeldingen kunnen verschijnen tijdens het scanproces. In dit geval geeft de barcodescanner een geluidssignaal en is verder scannen niet mogelijk. Erken de overeenkomstige foutmelding op het VitalControl-display en ga verder met scannen.
 {{% /alert %}}
 
-### Geboortedatum moet aangegeven worden
+### Geboortedatum moet aangegeven worden {#birth-date-mandatory}
 
 Met deze instellingsoptie kun je bepalen of de geboortedatum moet worden opgegeven bij het aanmaken van de dieren. Als je deze optie deactiveert, hoef je alleen de barcode te scannen om een dier op te slaan. Voor deze dieren wordt echter de huidige datum dan opgeslagen als geboortedatum! Deze functie is standaard ingeschakeld. Om het te deactiveren, doe je het volgende:
 
@@ -51,7 +51,7 @@ Met deze instellingsoptie kun je bepalen of de geboortedatum moet worden opgegev
 
    ![VitalControl: Menu Nieuwe Geboortedatum verplicht](../images/birthdate.png "Geboortedatum moet aangegeven worden")
 
-### Standaard waardes
+### Standaard waardes {#default-values}
 
 Binnen het menu `Standaard waardes` stel je normen in die gelden voor elk dier dat je aanmaakt. Het proces van aanmaken met de barcodescanner blijft ongewijzigd zoals hierboven beschreven. Je hebt de mogelijkheid om het type vee, geslacht, ras en verblijfplaats in te stellen. Om de `Standaard waardes` in te stellen, ga je als volgt te werk:
 
@@ -65,7 +65,7 @@ Binnen het menu `Standaard waardes` stel je normen in die gelden voor elk dier d
 
    ![VitalControl: Menu Nieuwe Standaard waardes](../images/defaultvalues.png "Standaard waardes")
 
-### Opgenomen waardes
+### Opgenomen waardes {#recorded-values}
 
 Binnen het menu `Opgenomen waardes` kun je specificeren welke waarden naast het oornummer en de geboortedatum vastgelegd moeten worden. Je kunt kiezen tussen `Ras`, `Geslacht`, `verblijfplaats`, `Huidig gewicht`, `Geboortegewicht` en `Type van nutdier`. Zodra je minstens één waarde instelt, verandert het proces tijdens het scannen. Scan eerst het oornummer en de geboortedatum. Gebruik dan de richtingstoetsen △ ▽ om de in te stellen waarden te selecteren en stel de waarden in. Sla vervolgens je invoer op met de `F3` toets. Pas dan wordt het dier aangemaakt! Om de vast te leggen waarden in te stellen, ga je als volgt te werk:
 

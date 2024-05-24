@@ -11,9 +11,9 @@ categories: [Nouveau sur la ferme, transpondeur]
 tags: [Nouveau sur la ferme, transpondeur]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
-### Nouveau sur la ferme, sans transpondeur
+### Nouveau sur la ferme, sans transpondeur {#new-on-farm-no-transponder}
 
-Dans cette liste, vous trouverez tous les animaux nouvellement créés d'un âge maximum de X jours qui n'ont pas encore reçu de transpondeur. Vous pouvez définir l'âge maximum [ici](/fr/docs/settings/animal-registration/#définir-les-poids-enregistrés). Une fois que vous avez récupéré un transpondeur de ces animaux, vous pouvez rechercher l'ID de l'animal correspondant dans la liste et scanner le transpondeur associé. Le transpondeur est alors automatiquement attribué à l'animal et l'animal est supprimé de la liste. Pour attribuer un transpondeur, procédez comme suit :
+Dans cette liste, vous trouverez tous les animaux nouvellement créés d'un âge maximum de X jours qui n'ont pas encore reçu de transpondeur. Vous pouvez définir l'âge maximum [ici](/fr/docs/settings/animal-registration/#set-default-values). Une fois que vous avez récupéré un transpondeur de ces animaux, vous pouvez rechercher l'ID de l'animal correspondant dans la liste et scanner le transpondeur associé. Le transpondeur est alors automatiquement attribué à l'animal et l'animal est supprimé de la liste. Pour attribuer un transpondeur, procédez comme suit :
 
 1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nouveau sur la ferme" /> `Arrivées` et appuyez sur le bouton `OK`.
 
@@ -41,7 +41,7 @@ Dès que vous avez attribué tous les animaux, vous avez la possibilité d'être
 ![VitalControl: Menu Nouveau à la ferme, sans transpondeur](../images/redirect.png "Redirection")
 {{% /alert %}}
 
-## Actions supplémentaires précédentes
+## Actions supplémentaires précédentes {#previous-additional-actions}
 
 Vous pouvez utiliser les actions supplémentaires précédentes pour définir les actions que vous souhaitez effectuer avant d'attribuer le transpondeur. Vous pouvez choisir entre mesurer la température, évaluer l'animal et peser l'animal. L'action respective est directement enregistrée pour l'animal que vous attribuez ensuite. Procédez comme suit :
 
@@ -59,6 +59,6 @@ L'option de menu `dernière action sur OK :` vous informe que l'attribution d'un
 
 ![VitalControl : Menu Nouveau à la ferme, sans transpondeur](../images/actions.png "Actions supplémentaires")
 
- ## Autres options de menu
+ ## Autres options de menu {#further-menu-items}
 
-Vous avez également la possibilité de choisir entre `paramètres`, `rechercher un animal` et `définir un filtre` dans le pop-up. Utilisez les boutons fléchés △ ▽ pour naviguer jusqu'à l'option de menu respective et confirmez avec `OK`. Les informations pour l'option de menu `paramètres` se trouvent [ici](/fr/docs/settings/animal-registration/#définir-les-poids-enregistrés), pour `définir un filtre` [ici](/fr/docs/filter/) et pour `rechercher un animal` procédez comme dans l'étape 3 de `nouveau à la ferme, sans transpondeur`.
+Vous avez également la possibilité de choisir entre `paramètres`, `rechercher un animal` et `définir un filtre` dans le pop-up. Utilisez les boutons fléchés △ ▽ pour naviguer jusqu'à l'option de menu respective et confirmez avec `OK`. Les informations pour l'option de menu `paramètres` se trouvent [ici](/fr/docs/settings/animal-registration/#set-default-values), pour `définir un filtre` [ici](/fr/docs/filter/) et pour `rechercher un animal` procédez comme dans l'étape 3 de `nouveau à la ferme, sans transpondeur`.

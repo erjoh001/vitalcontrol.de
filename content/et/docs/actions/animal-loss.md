@@ -11,7 +11,7 @@ tags: [Tegevused, looma-kadu]
 translationKey: actions/animal-loss
 ---
 
-## Looma kadu
+## Looma kadu {#animal-loss}
 
 Tegevus `looma kadu` võimaldab registreerida looma kadumist. Looma kadumise registreerimiseks toimi järgnevalt:
 

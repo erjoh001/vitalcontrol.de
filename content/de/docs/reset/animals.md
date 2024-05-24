@@ -9,7 +9,7 @@ kategorien: [Reset]
 tags: [Reset, Reset Tierbestand]
 slug: tierdaten
 ---
-## Löschung aller Tierdaten vom Gerät
+## Löschung aller Tierdaten vom Gerät {#erasing-all-animal-data-from-device}
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü <img src="/icons/device.svg" width="25" align="bottom" alt="Gerät" /> `Gerät`.
 

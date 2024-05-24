@@ -22,15 +22,15 @@ Si vous cliquez sur un élément de menu, vous serez redirigé vers une descript
 <img src="../images/imagemap.png" alt="Évaluation VitalControl" title="Poids" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Pesée d'aujourd'hui" title="Évaluez les valeurs de poids de vos animaux enregistrées avec le VitalControl le jour actuel&#10;Clic de souris : vers la documentation" href="/fr/docs/evaluation/weight/#pesées-daujourdhui">
-   <area shape="rect" coords="116,40,238,160" alt="Poids à la naissance" title="Évaluez vos poids de naissance stockés&#10;Clic de souris : vers la documentation" href="/fr/docs/evaluation/weight/#poids-à-la-naissance">
-   <area shape="rect" coords="3,160,116,279" alt="Développement du poids" title="Évaluez le développement du poids de vos animaux&#10;Clic de souris : vers la documentation" href="/fr/docs/evaluation/weight/#développement-du-poids">
+   <area shape="rect" coords="3,40,116,160" alt="Pesée d'aujourd'hui" title="Évaluez les valeurs de poids de vos animaux enregistrées avec le VitalControl le jour actuel&#10;Clic de souris : vers la documentation" href="/fr/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Poids à la naissance" title="Évaluez vos poids de naissance stockés&#10;Clic de souris : vers la documentation" href="/fr/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Développement du poids" title="Évaluez le développement du poids de vos animaux&#10;Clic de souris : vers la documentation" href="/fr/docs/evaluation/weight/#weight-development">
 
    <area shape="rect" coords="150,282,238,319" alt="Filtre" title="Définir un filtre&#10;Clic de souris : vers la documentation" href="/fr/docs/filter">
    <area shape="rect" coords="2,282,95,319" alt="Retour" title="Revenir d'un niveau&#10;Clic de souris : vers la documentation" href="/fr/docs/evaluation/">
 </map>
 
-## Pesées d'aujourd'hui
+## Pesées d'aujourd'hui {#todays-weighings}
 Dans cette évaluation, vous pouvez voir les informations suivantes liées aux pesées des dernières 6 heures :
 - Le poids moyen des animaux
 - Le gain moyen quotidien depuis la naissance
@@ -49,7 +49,7 @@ Pour effectuer l'évaluation, procédez comme suit :
 
    ![VitalControl: menu Évaluation Pesées du jour](../images/todaysweighings.png "Évaluer les pesées du jour")
 
-## Poids à la naissance
+## Poids à la naissance {#birth-weights}
 Dans cette évaluation, vous pouvez consulter les informations suivantes :
 - Le poids moyen à la naissance
 - Les classes de poids
@@ -66,7 +66,7 @@ Pour effectuer l'évaluation, procédez comme suit :
 
 ![VitalControl : menu Évaluation Poids de naissance](../images/birthweights.png "Évaluer les poids de naissance")
 
-## Développement du poids
+## Développement du poids {#weight-development}
 
 Dans cette évaluation, vous pouvez voir les informations suivantes liées à toutes les pesées :
 - Le poids moyen des animaux

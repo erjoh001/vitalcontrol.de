@@ -7,7 +7,7 @@ draft: false
 description: >
  Pour récupérer le numéro de série de votre appareil, cliquez ici
 ---
-## Obtenir le numéro de série
+## Obtenir le numéro de série {#get-serial-number}
 
 Pour récupérer le numéro de série de votre appareil, procédez comme suit :
 

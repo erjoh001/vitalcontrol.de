@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 L'inserimento del numero aziendale è attualmente di interesse solo per gli agricoltori tedeschi. Gli agricoltori di tutte le altre nazionalità attualmente **non** beneficiano dell'inserimento dell'ID aziendale. Questo potrebbe cambiare con le future [versioni del firmware]({{< relref "../firmware/versions/" >}}) di VitalControl.
 {{< /alert >}}
 
-## Imposta il tuo numero aziendale
+## Imposta il tuo numero aziendale {#set-your-farm-number}
 
 Per impostare il numero aziendale sul tuo dispositivo, procedi come segue:
 

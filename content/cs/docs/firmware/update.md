@@ -7,13 +7,13 @@ description: >
 ---
 Nejprve se ujistěte, že je pro vaše zařízení k dispozici [novější verze firmwaru](../versions/) a v případě potřeby aktualizujte firmware vašeho zařízení podle následujících pokynů.
 
-## Požadované příslušenství
+## Požadované příslušenství {#required-accessory}
 
 Pro instalaci aktualizace na vašem zařízení potřebujete duální USB flash disk (2-v-1 USB stick) Type-C/USB 3.0 s USB C konektorem a USB A konektorem. Takový duální USB flash disk je dodáván spolu s vaším zařízením. Můžete si také zakoupit takový USB flash disk od různých dodavatelů.
 
 ![Duální USB flash disk (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Duální USB flash disk")
 
-## Příprava: stažení nejnovějšího firmwaru
+## Příprava: stažení nejnovějšího firmwaru {#preparation-download-latest-firmware}
 
 1. Vložte svůj USB flash disk do USB konektoru vašeho počítače. Poté vytvořte nový adresář s názvem 'update' v kořenovém adresáři vašeho flash disku.
 
@@ -31,7 +31,7 @@ Záloha dat je doporučené preventivní opatření. Všechna stávající data 
 
 [data backup]: {{< relref "../backup/backup/" >}}
 
-## Provedení aktualizace firmwaru
+## Provedení aktualizace firmwaru {#perform-firmware-update}
 
 1. Otevřete položku menu `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
 

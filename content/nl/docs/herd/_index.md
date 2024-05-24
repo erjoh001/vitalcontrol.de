@@ -11,19 +11,19 @@ categories: [Kudde]
 tags: [Kudde, Temperatuur, Gewicht, Beoordeling, Diergegevens]
 translationKey: herd
 ---
-## Kudde
+## Kudde {#herd}
 
 Binnen het menu-item Kudde kunt u uw gehele kudde bekijken, individuele dieren zoeken en belangrijke informatie weergeven. U heeft de volgende mogelijkheden:
 
-- Bekijk [diergegevens](#diergegevens-bekijken)
-- Bekijk [temperatuurgegevens](#temperatuur-weergeven)
-- Bekijk [beoordelingsgegevens](#beoordeling-bekijken)
-- Bekijk [gewichtsgegevens](#gewicht-weergeven)
-- [Dier zoeken](#dier-zoeken)
-- [Filter instellen](#filter-instellen)
-- [Acties](#actiemenu-oproepen)
+- Bekijk [diergegevens](#view-animal-data)
+- Bekijk [temperatuurgegevens](#display-temperature)
+- Bekijk [beoordelingsgegevens](#view-rating)
+- Bekijk [gewichtsgegevens](#display-weight)
+- [Dier zoeken](#search-animal)
+- [Filter instellen](#set-filter)
+- [Acties](#call-action-menu)
 
-### Voorbereidende stappen
+### Voorbereidende stappen {#preparatory-steps}
 
 1. Selecteer op het hoofdscherm van uw VitalControl-apparaat het menu-item <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Kudde" /> `Groep` en druk op de `OK` knop.
 
@@ -31,7 +31,7 @@ Binnen het menu-item Kudde kunt u uw gehele kudde bekijken, individuele dieren z
 
     ![VitalControl: Menu Kudde](images/herde.png "Kudde")
 
-### Diergegevens bekijken
+### Diergegevens bekijken {#view-animal-data}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -47,7 +47,7 @@ Binnen het menu-item Kudde kunt u uw gehele kudde bekijken, individuele dieren z
 Standaard worden de diergegevens eerst weergegeven. Alleen wanneer u bijvoorbeeld het gewicht hebt weergegeven, moet u de weergave van de diergegevens opnieuw instellen.
 {{% /alert %}}
 
-### Temperatuur weergeven
+### Temperatuur weergeven {#display-temperature}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -59,7 +59,7 @@ Standaard worden de diergegevens eerst weergegeven. Alleen wanneer u bijvoorbeel
 
     ![VitalControl: Menu Herd](images/temperature.png "Temperatuur weergeven")
 
-### Beoordeling bekijken
+### Beoordeling bekijken {#view-rating}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -71,7 +71,7 @@ Standaard worden de diergegevens eerst weergegeven. Alleen wanneer u bijvoorbeel
 
     ![VitalControl: Menu Herd](images/rating.png "Beoordeling bekijken")
 
-### Gewicht weergeven
+### Gewicht weergeven {#display-weight}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -83,7 +83,7 @@ Standaard worden de diergegevens eerst weergegeven. Alleen wanneer u bijvoorbeel
 
     ![VitalControl: Menu Herd](images/weight.png "Gewicht weergeven")
 
-### Dier zoeken
+### Dier zoeken {#search-animal}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -93,7 +93,7 @@ Standaard worden de diergegevens eerst weergegeven. Alleen wanneer u bijvoorbeel
 
     ![VitalControl: Menu Kudde](images/search.png "Dier zoeken")
 
-### Filter instellen
+### Filter instellen {#set-filter}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -103,7 +103,7 @@ Standaard worden de diergegevens eerst weergegeven. Alleen wanneer u bijvoorbeel
 
     ![VitalControl: Menu Kudde](images/setfilter.png "Dier zoeken")
 
-### Actiemenu oproepen
+### Actiemenu oproepen {#call-action-menu}
 
 U heeft altijd de mogelijkheid om het actiemenu voor een dier op te roepen.
 

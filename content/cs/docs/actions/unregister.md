@@ -14,7 +14,7 @@ translationKey: actions/unregister
 Jakmile odstraníte záznam o zvířeti, již není k dispozici pro účely hodnocení! Pokud odhlásíte zvíře, ale chcete například znovu hodnotit jeho vývoj, musíte si záznam o zvířeti ponechat!
 {{% /alert %}}
 
-## Odhlásit
+## Odhlásit {#unregister}
 
 Akce `Odhlásit` vám umožňuje odhlásit zvíře, jakmile je přemístěno. Pro odhlášení zvířete postupujte následovně:
 

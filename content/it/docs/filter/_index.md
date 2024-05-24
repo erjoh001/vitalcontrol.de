@@ -9,8 +9,8 @@ categories: [Filtro]
 tags: [Filtro]
 translationKey: filter
 ---
-## Applicare filtri
-
+## Applicare filtri {#applying-filters}
+ 
 {{% alert title="NOTA" %}}
 Il filtro ti aiuta a effettuare una selezione utilizzando criteri di filtro all'interno delle voci di menu `Mandria`, `Liste` e `Valutazione` del dispositivo VitalControl. Non appena applichi un filtro, i simboli per i vari criteri di filtro appaiono nella parte superiore dello schermo. Questi simboli vengono utilizzati per aiutarti a capire se e quali criteri di filtro sono attivati. Ad esempio, se imposti il filtro `Sesso` su maschio, il dispositivo utilizzerà solo animali maschi. Ad esempio, se attivi anche il filtro `In osservazione`, il dispositivo utilizza solo animali maschi che sono nella lista di osservazione.
 {{% /alert %}}

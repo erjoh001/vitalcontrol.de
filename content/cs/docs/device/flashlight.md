@@ -11,7 +11,7 @@ categories: [Zařízení]
 tags: [Zařízení]
 translationKey: device/flashlight
 ---
-## Aktivace a deaktivace světla
+## Aktivace a deaktivace světla {#activate-and-deactivate-light}
 
 Zde můžete aktivovat nebo deaktivovat světlo na vašem zařízení VitalControl. Pokud světlo aktivujete, bude trvale svítit.
 

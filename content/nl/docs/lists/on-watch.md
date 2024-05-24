@@ -11,18 +11,18 @@ categories: [Lijsten]
 tags: [Lijsten, geobserveerd]
 translationKey: lists/on-watch
 ---
-## Lijst van geobserveerde dieren
+## Lijst van geobserveerde dieren {#on-watch-list}
 
 Op de lijst van geobserveerde dieren vindt u alle dieren die u handmatig aan de lijst heeft toegevoegd. De lijst helpt u een overzicht te houden van de dieren die u als opvallend heeft beoordeeld. Ook kunt u voor elk dier op de lijst het volgende doen:
 
-- [Actiemenu](/nl/docs/lists/alarm/#actiemenu)
-- [Diergegevens](/nl/docs/lists/alarm/#dier-data)
-- [Temperatuur meten](/nl/docs/lists/alarm/#temperatuur-meten)
-- [Dier beoordelen](/nl/docs/lists/alarm/#dier-beoordelen)
-- [Verwijder van Watchlist](#verwijder-van-watchlist)
+- [Actiemenu](../alarm/#full-action-menu)
+- [Diergegevens](../alarm/#animal-data)
+- [Temperatuur meten](../alarm/#take-temperature)
+- [Dier beoordelen](../alarm/#rate-animal)
+- [Verwijder van Watchlist](#remove-from-watch-list)
 - [Toggle alarm status](#toggle-alarm-status)
-- [Dier zoeken](/nl/docs/lists/alarm/#dier-zoeken)
-- [Filter instellen](../alarm/#filter-zetten)
+- [Dier zoeken](../alarm/#search-animal)
+- [Filter instellen](../alarm/#full-action-menu)
 
 {{% alert title="Hint" %}}
 Sommige acties worden op dezelfde manier uitgevoerd als in de [Alarmlijst](../alarm). Deze worden hier niet uitgelegd. Voer de voorbereidende stappen uit en gebruik de link van de betreffende actie om naar de instructies te gaan.
@@ -40,7 +40,7 @@ De alarmlijst is als volgt gestructureerd:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Lichaamstemperatuur" title="Lichaamstemperatuur" /> | De laatst opgenomen koortsmeting wordt onder het symbool getoond met de kleuren van het verkeerslichtsysteem
 | &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Dier op alarm weergeven" title="Dier op alarm" /> | Een cirkelmarkering onder het symbool geeft aan dat het dier op de alarmlijst staat
 
-### Voorbereidende Stappen
+### Voorbereidende Stappen {#preliminary-steps}
 
 1. Selecteer het <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
@@ -50,7 +50,7 @@ De alarmlijst is als volgt gestructureerd:
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Voorbereidende Stappen")
 
-### Verwijder van Watchlist
+### Verwijder van Watchlist {#remove-from-watch-list}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -62,7 +62,7 @@ De alarmlijst is als volgt gestructureerd:
 
    ![VitalControl Lists On watch list](../images/remove.png "Verwijder van Watchlist")
 
-### Toggle alarm status
+### Toggle alarm status {#toggle-alarm-status}
 
 1. Voltooi de voorbereidende stappen.
 

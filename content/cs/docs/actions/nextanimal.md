@@ -11,7 +11,7 @@ tags: [Akce]
 translationKey: actions/next-animal
 draft: true
 ---
-## Další zvíře
+## Další zvíře {#next-animal}
 
 V rámci nabídky `akce` máte možnost kdykoli vybrat další zvíře, aniž byste museli opustit položku nabídky Akce. Chcete-li vybrat další zvíře, postupujte takto:
 

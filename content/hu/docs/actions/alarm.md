@@ -11,7 +11,7 @@ tags: [Actions, Alarm]
 translationKey: actions/alarm
 ---
 
-## Riasztás
+## Riasztás {#alert}
 
 A `Riasztás` akcióval állatokat helyezhet a riasztási listára, vagy eltávolíthatja őket onnan. A riasztási lista segít gyorsabban és könnyebben megtalálni a feltűnő állatokat, megkönnyítve ezzel a napi rutinellenőrzéseket. A `Riasztás` akció alkalmazásához kövesse az alábbi lépéseket:
 

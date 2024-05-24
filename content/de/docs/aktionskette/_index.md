@@ -11,11 +11,11 @@ Kategorien: [Aktionskette]
 Tags: [Aktionskette, Aktionen]
 translationKey: action-chain
 ---
-## Aktionskette
+## Aktionskette {#chain-of-actions}
 
 Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisch hintereinander durchzuführen. Sie können z.B. die Aktionen `Temperatur messen` und `Bewertung` auswählen. Führen Sie dann die Aktionskette aus, können Sie bei ihrem Tier zunächst das Fieber messen und direkt danach die Bewertung erfassen.
 
-### Aktionskette verwenden
+### Aktionskette verwenden {#use-chain-of-actions}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` und drücken Sie die Taste `OK`.
 
@@ -34,7 +34,7 @@ Die Aktionskette ermöglicht es Ihnen, mehrere Aktionen für ein Tier automatisc
 {{< /tabpane >}}
 
 
-### Aktionskette einstellen
+### Aktionskette einstellen {#set-chain-of-actions}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Aktionskette" />&nbsp; `Aktionskette` und drücken Sie die Taste `OK`.
 

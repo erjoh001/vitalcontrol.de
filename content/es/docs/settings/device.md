@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, device]
 translationKey: settings/device
 ---
-## Apagar dispositivo después de
+## Apagar dispositivo después de {#shutdown-device-after}
 Para configurar el período de inactividad hasta que el dispositivo se apague, proceda de la siguiente manera.
 
 1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuraciones" /> `Ajustes` y presione el botón `OK`.
@@ -24,7 +24,7 @@ Para configurar el período de inactividad hasta que el dispositivo se apague, p
 
     ![VitalControl: configuraciones del menú Apagar dispositivo después de](../images/shutdowndeviceafter.png "Apagar dispositivo después de")
 
-## Pantalla de inicio
+## Pantalla de inicio {#start-up-screen}
 
 Para configurar la pantalla de inicio proceda de la siguiente manera.
 
@@ -38,7 +38,7 @@ Para configurar la pantalla de inicio proceda de la siguiente manera.
 
     ![VitalControl: configuraciones del menú Pantalla de inicio](../images/startupscreen.png "Pantalla de inicio")
 
-## Modo de presentación
+## Modo de presentación {#demonstration-mode}
 
 Si se selecciona el modo de presentación, el dispositivo simula las mediciones de temperatura y muestra una temperatura generada aleatoriamente como valor medido. Este modo se utiliza para la presentación del dispositivo si no hay animales disponibles para una medición. Para desactivar o activar el modo de presentación del dispositivo, proceda de la siguiente manera:
 
@@ -52,7 +52,7 @@ Si se selecciona el modo de presentación, el dispositivo simula las mediciones 
 
     ![VitalControl: ajustes del menú Modo de presentación](../images/demonstrationmode.png "Modo de presentación")
 
-## Brillo de la pantalla
+## Brillo de la pantalla {#display-brightness}
 
 Para configurar el brillo de la pantalla procede de la siguiente manera.
 
@@ -66,7 +66,7 @@ Para configurar el brillo de la pantalla procede de la siguiente manera.
 
     ![VitalControl: ajustes del menú Brillo de la pantalla](../images/displaybrightness.png "Brillo de la pantalla")
 
-## Vibración al pulsar un botón
+## Vibración al pulsar un botón {#vibration-on-keypress}
 
 Para desactivar o activar la Vibración al pulsar un botón del dispositivo, procede de la siguiente manera:
 
@@ -80,7 +80,7 @@ Para desactivar o activar la Vibración al pulsar un botón del dispositivo, pro
 
     ![VitalControl: configuración del menú Brillo de la pantalla](../images/vibrationonkeypress.png "Brillo de la pantalla")
 
-## Monitor de recursos
+## Monitor de recursos {#resource-monitor}
 
 Para desactivar o activar el monitor de recursos de vibración del dispositivo, procede de la siguiente manera:
 

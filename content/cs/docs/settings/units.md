@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, units]
 translationKey: settings/units
 ---
-## Nastavení jednotky teploty
+## Nastavení jednotky teploty {#set-temperature-unit}
 
 Pro nastavení jednotky teploty na vašem zařízení postupujte následovně.
 
@@ -25,7 +25,7 @@ Pro nastavení jednotky teploty na vašem zařízení postupujte následovně.
 
     ![VitalControl: menu nastavení jednotky teploty](../images/temperature.png "Jednotka teploty")
 
-## Nastavení jednotky hmotnosti
+## Nastavení jednotky hmotnosti {#set-mass-unit}
 
 Pro nastavení jednotky hmotnosti na vašem zařízení postupujte následovně.
 

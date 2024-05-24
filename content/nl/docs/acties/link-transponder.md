@@ -14,7 +14,7 @@ translationKey: actions/transponder
 Deze actie is standaard niet ingeschakeld! Activeer dit zoals beschreven in [actie-instellingen](../setting/).
 {{% /alert %}}
 
-## Link transponder
+## Link transponder {#link-transponder}
 
 Met deze actie kunt u een transponder toewijzen aan een dier dat nog geen transponder heeft.
 

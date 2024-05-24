@@ -11,7 +11,7 @@ weight: 10
 ---
 Si votre appareil présente un dysfonctionnement, vous devriez d'abord effectuer une vérification matérielle pour clarifier si l'un des composants matériels est défectueux.
 
-## Vérifiez le matériel de votre appareil
+## Vérifiez le matériel de votre appareil {#check-the-hardware-of-your-device}
 
 1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
 

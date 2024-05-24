@@ -15,7 +15,7 @@ Cette fonction est uniquement affichée pour les vaches, mais pas pour les veaux
 Si vous n'avez pas besoin de cette fonction, vous pouvez la désactiver dans le menu [paramètres d'action](../setting/).
 {{% /alert %}}
 
-## Enregistrer un vêlage
+## Enregistrer un vêlage {#register-a-calving}
 
 Dès que vous entrez dans le menu d'action, sélectionnez l'élément de menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Veaux"  alt="Veaux"/> `Vêlage` et confirmez avec `OK`. Continuez comme décrit dans les instructions [Enregistrement d'un vêlage](/fr/docs/new/calving/).
 

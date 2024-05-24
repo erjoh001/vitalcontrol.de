@@ -11,7 +11,7 @@ categories: [Uus farmis, Riiklik looma ID]
 tags: [Uus farmis, Riiklik looma ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Transponder määramata
+## Transponder määramata {#no-transponder-assigned}
 
 Selle nimekirja käsitlus on identne `Uus farmis, transponder määramata` nimekirjaga. Siiski leiate siit nimekirjast kõik loomad, kellele ei ole veel määratud transponderit, olenemata nende vanusest.
 

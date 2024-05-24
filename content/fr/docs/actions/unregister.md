@@ -14,7 +14,7 @@ translationKey: actions/unregister
 Dès que vous supprimez l'enregistrement des données de l'animal, il n'est plus disponible pour des fins d'évaluation ! Si vous désinscrivez un animal, mais souhaitez par exemple évaluer à nouveau le développement de l'animal par la suite, vous devez conserver l'enregistrement des données de l'animal !
 {{% /alert %}}
 
-## Désinscription
+## Désinscription {#unregister}
 
 L'action `Désinscrire` vous permet de désinscrire un animal dès qu'il est déplacé. Pour désinscrire un animal, procédez comme suit :
 

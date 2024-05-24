@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 This action is not enabled by default! Activate this as described in [action setting](../setting/).
 {{% /alert %}}
 
-## Unlink transponder
+## Unlink transponder {#unlink-transponder}
 
 With this action you can detach a transponder that has already been assigned to an animal from this animal.
 

@@ -14,7 +14,7 @@ translationKey: actions/weight
 Wenn Sie den Menüpunkt Aktionen aufrufen müssen Sie zunächst entweder ein Tier mittels des Transponders einscannen oder ein Tier manuell auswählen. Erst danach erhalten Sie Zugang zu den unterschiedlichen Aktionen.
 {{% /alert %}}
 
-## Gewicht erfassen
+## Gewicht erfassen {#record-weight}
 
 Die Aktion <img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Wiegung" /> `Wiegung` nutzen Sie um das Gewicht Ihres Tieres individuell abzuspeichern. Hierzu wiegen Sie ihre Tiere oder führen eine Schätzung des Gewichtes durch und tragen diesen Wert in das VitalControl-Gerät ein. Somit können Sie die Gewichtsentwicklung ihrer Tiere überprüfen und tierindividuell auswerten.
 

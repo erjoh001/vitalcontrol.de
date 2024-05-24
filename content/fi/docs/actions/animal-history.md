@@ -11,7 +11,7 @@ tags: [Toiminnot, Eläin historia]
 translationKey: actions/animalshistory
 ---
 
-## Eläin historia
+## Eläin historia {#animal-history}
 
 Eläin historia antaa sinulle yleiskatsauksen tähän mennessä tallennetuista tiedoista ja valitun eläimen kehityksestä. Voit vapaasti valita näytettävät tiedot. Voit myös valita, näytetäänkö historia taulukkona vai kaaviona. Eläin historia auttaa sinua näkemään, oliko ja milloin nämä eläimet viimeksi herättivät huomiota. Se auttaa myös luomaan läpinäkyvyyttä, jos useampi henkilö suorittaa eläintarkastuksen.
 

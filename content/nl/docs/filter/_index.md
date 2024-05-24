@@ -9,7 +9,7 @@ categories: [Filter]
 tags: [Filter]
 translationKey: filter
 ---
-## Filters toepassen
+## Filters toepassen {#applying-filters}
 
 {{% alert title="Opmerking" %}}
 Het filter helpt je om een selectie uit te voeren met filtercriteria binnen de menu-items `Groep`, `Lijsten` en `Evaluatie` van het VitalControl-apparaat. Zodra je een filter toepast, verschijnen er symbolen voor de verschillende filtercriteria bovenaan het scherm. Deze symbolen worden gebruikt om je te helpen ontdekken of en welke filtercriteria zijn geactiveerd. Als je bijvoorbeeld het `Geslacht` filter instelt op mannelijk, zal het apparaat alleen mannelijke dieren gebruiken. Als je bijvoorbeeld ook het `bekijken` filter activeert, gebruikt het apparaat alleen mannelijke dieren die op de observatielijst staan.

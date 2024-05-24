@@ -11,7 +11,7 @@ categories: [Device]
 tags: [Device]
 translationKey: device/flashlight
 ---
-## Attivare e disattivare la luce
+## Attivare e disattivare la luce {#activate-and-deactivate-light}
 
 Qui puoi attivare o disattivare la luce sul tuo dispositivo VitalControl. Se attivi la luce, si accende permanentemente.
 

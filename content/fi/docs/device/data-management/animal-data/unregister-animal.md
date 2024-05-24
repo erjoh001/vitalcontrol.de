@@ -10,7 +10,7 @@ Kategorien: [Animaldata]
 Tags: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
-## Poista eläimet rekisteristä
+## Poista eläimet rekisteristä {#unregister-animals}
 
 Poista eläimet VitalControl-laitteesi rekisteristä, jos ne ovat ylittäneet ikärajan tai niille ei ole määritetty transponderia. Toimi seuraavasti:
 

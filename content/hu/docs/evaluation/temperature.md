@@ -14,7 +14,7 @@ translationKey: evaluation/temperature
 Alapértelmezett beállítás szerint az összes állat, amely a VitalControl-on van tárolva, szerepel az értékelésben. Egy [szűrő](../../filter/) használatával korlátozhatja az értékelést az eszközén lévő állatok egy részére, például csak a hím állatokra vagy egy bizonyos maximális korig lévő állatokra.
 {{% /alert %}}
 
-## Hőmérséklet értékelése
+## Hőmérséklet értékelése {#evaluate-temperature}
 
 Ebben az értékelésben a következő információkat láthatja:
 - Jelenleg lázas beteg állatok

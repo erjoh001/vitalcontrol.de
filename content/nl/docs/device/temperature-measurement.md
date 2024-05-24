@@ -11,7 +11,7 @@ categories: [Apparaat]
 tags: [Apparaat]
 translationKey: device/temperature-measurement
 ---
-## Test temperatuurmeting
+## Test temperatuurmeting {#test-temperature-measurement}
 
 Hier kun je de temperatuurmeting van je apparaat testen zonder de meting voor een dier op te slaan. Volg deze stappen om de test uit te voeren:
 

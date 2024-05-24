@@ -11,13 +11,13 @@ categories: [Lists]
 tags: [Lists, fresh cow]
 translationKey: lists/fresh-cows
 ---
-### Friss tehenek listája
+### Friss tehenek listája {#fresh-cows-list}
 
 {{% alert title="Magyarázat" %}}
 A friss tehenek kezelésekor a legjobb gyakorlatok közé tartozik az állatok napi ellenőrzése több napon keresztül a születés után. A friss tehenek listája támogatja ezt az ellenőrzést, különösen a hőmérséklet rögzítése szempontjából. Minden állat esetében egy oszlopdiagram látható az ellenőrzési időszak minden napjára, az ellenőrzési időszak minden napját egy függőleges oszlop képviseli. Az oszlop színétől függően (zöld, sárga vagy piros) látható, hogy az adott napon normál, emelkedett vagy kritikusan emelkedett hőmérsékletet mértek-e az adott állatnál.
 {{% /alert %}}
 
-A tehenek azonnal felkerülnek a friss tehenek listájára, miután az ellésüket regisztrálták. Egy bizonyos ideig maradnak ezen a listán, ennek az időszaknak a hossza (napokban) a [beállításokban](../../settings/data-acquisition/#control-period-of-fresh-cows) állítható be.
+A tehenek azonnal felkerülnek a friss tehenek listájára, miután az ellésüket regisztrálták. Egy bizonyos ideig maradnak ezen a listán, ennek az időszaknak a hossza (napokban) a [beállításokban](../../settings/data-acquisition/#control-period-of-fresh-cows)) állítható be.
  A következő műveletek érhetők el ezen a listán:
 
 - [Teljes műveleti menü](../alarm/#full-action-menu)
@@ -33,7 +33,7 @@ A tehenek azonnal felkerülnek a friss tehenek listájára, miután az ellésük
 Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](../alarm). Ezek itt nincsenek részletezve. Végezze el az előzetes lépéseket, és használja az adott művelet linkjét az utasítások eléréséhez.
 {{% /alert %}}
 
-### Előzetes lépések
+### Előzetes lépések {#preliminary-steps}
 
 1. Válassza ki a <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `Lists` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
 
@@ -44,7 +44,7 @@ Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](
 
    ![VitalControl Lists Fresh cows list](../images/firststeps4.png "Friss tehén lista")
 
-### Riasztási állapot váltása
+### Riasztási állapot váltása {#toggle-alarm-status}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -55,8 +55,8 @@ Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](
 4. Az állat most hozzáadódik vagy eltávolításra kerül a riasztási listáról az eredeti állapotától függően.
 
    ![VitalControl Lists Fresh cows list](../images/togglealarmstatus.png "Riasztási állapot váltása")
-
-### Figyelési állapot váltása
+ 
+### Figyelési állapot váltása {#toggle-watch-status}
 
 1. Végezze el az előzetes lépéseket.
 
@@ -68,7 +68,7 @@ Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](
 
 ![VitalControl Lists Fresh cows list](../images/togglewatchstatus.png "Toggle watch status")
 
-### Mért tehenek elrejtése
+### Mért tehenek elrejtése {#hide-measured-cows}
 
 Ha ez a funkció aktiválva van, a száraz tehén listán elrejtésre kerülnek azok az állatok, amelyeknél hőmérsékletmérést végeztek. Ha ez a funkció nincs aktiválva, az állatok láthatóak maradnak a listán.
 

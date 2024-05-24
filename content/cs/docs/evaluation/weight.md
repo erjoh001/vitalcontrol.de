@@ -30,7 +30,7 @@ Pokud kliknete na položku menu, budete přesměrováni na popis příslušné f
    <area shape="rect" coords="2,282,95,319" alt="Zpět" title="Skok o úroveň zpět&#10;Kliknutí myší: na dokumentaci" href="/cs/docs/evaluation/">
 </map>
 
-## Dnešní vážení
+## Dnešní vážení {#todays-weighings}
 V tomto vyhodnocení můžete vidět následující informace týkající se vážení za posledních 6 hodin:
 - Průměrná hmotnost zvířat
 - Průměrný denní přírůstek od narození
@@ -50,7 +50,7 @@ Pro provedení hodnocení postupujte následovně:
 
    ![VitalControl: menu Evaluation Today's weighings](../images/todaysweighings.png "Evaluate Today's weighings")
 
-## Porodní váhy
+## Porodní váhy {#birth-weights}
 V tomto hodnocení můžete zobrazit následující informace:
 - Průměrná porodní váha
 - Váhové třídy
@@ -68,7 +68,7 @@ Pro provedení hodnocení postupujte následovně:
 
    ![VitalControl: menu Hodnocení Porodní váhy](../images/birthweights.png "Hodnocení Porodní váhy")
 
-## Vývoj hmotnosti
+## Vývoj hmotnosti {#weight-development}
 
 V tomto hodnocení můžete vidět následující informace týkající se všech vážení:
 - Průměrná hmotnost zvířete

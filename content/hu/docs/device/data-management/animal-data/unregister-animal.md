@@ -10,7 +10,7 @@ Kategorien: [Állatadatok]
 Tags: [Állatadatok, Regisztráció megszüntetése]
 translationKey: device/unregister-animals
 ---
-## Állat regisztrációjának megszüntetése
+## Állat regisztrációjának megszüntetése {#unregister-animals}
 
 Szűntesse meg azoknak az állatoknak a regisztrációját a VitalControl rendszerében, amelyek túllépték a korhatárt vagy nem kaptak transzpondert. Kövesse az alábbi lépéseket:
 

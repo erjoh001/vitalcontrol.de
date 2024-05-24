@@ -12,7 +12,7 @@ weight: 20
 
 Utilizando el menú 'Prueba de alcance', puedes determinar si el dispositivo VitalControl puede leer los transpondedores que tienes a mano. Además de verificar la compatibilidad, también puedes determinar de manera conveniente el protocolo de transmisión utilizado por estos transpondedores y mostrar el número almacenado en el transpondedor.
 
-## Realizar prueba de alcance
+## Realizar prueba de alcance {#perform-range-test}
 
 1. Abre el elemento del menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de tu dispositivo VitalControl.
 
@@ -30,11 +30,11 @@ Utilizando el menú 'Prueba de alcance', puedes determinar si el dispositivo Vit
 
 1. Mueve el transpondedor hacia adelante y hacia atrás varias veces en el borde del campo de lectura. De esta manera, puedes determinar el rango de lectura del escáner RFID en combinación con los transpondedores que estás utilizando.
 
-## Verificación de transpondedor
+## Verificación de transpondedor {#transponder-check}
 
 Realizando la prueba de alcance descrita anteriormente, también puedes obtener información sobre transpondedores de diferentes orígenes:
 
-### Etiquetas oficiales de oreja con transpondedor
+### Etiquetas oficiales de oreja con transpondedor {#official-transponder-ear-tags}
 
 1. Si utiliza etiquetas de oreja con transpondedor para sus animales, en las cuales se codifica el número de etiqueta de oreja de 15 dígitos asignado oficialmente al animal, se mostrará la siguiente información en la pantalla una vez que se haya leído el transpondedor:
 
@@ -46,7 +46,7 @@ Realizando la prueba de alcance descrita anteriormente, también puedes obtener 
 
     ![VitalControl: verificación de etiqueta de oreja con transpondedor](../images/transponder-official.png "Info etiqueta de oreja con transpondedor oficial")
 
-### Transpondedores de proveedores terceros
+### Transpondedores de proveedores terceros {#transponders-from-third-party-vendors}
 
 1. Si utiliza transpondedores de proveedores terceros, como Urban, para la identificación electrónica de sus animales, se mostrará la siguiente información en la pantalla una vez que se haya leído el transpondedor:
 

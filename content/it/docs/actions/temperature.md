@@ -11,7 +11,7 @@ tags: [Azioni, febbre, temperatura]
 translationKey: actions/temperature
 ---
 
-## Misurare la febbre
+## Misurare la febbre {#measure-fever}
 
 Usa l'azione temperatura per misurare la temperatura dei tuoi animali. Inserisci la punta di misurazione per via rettale alla profondità di misurazione specificata (per animali grandi l'intera lunghezza fino al rigonfiamento, per piccoli ruminanti circa 6 cm o 2/3 della punta di misurazione). Il processo di misurazione avviene automaticamente. Non appena il processo di misurazione è completato, il dispositivo visualizza la temperatura misurata. La codifica a colori indica se la temperatura è nella gamma verde, gialla o rossa. Hai diverse opzioni durante la campagna Prendere la temperatura:
 
@@ -25,7 +25,7 @@ Usa l'azione temperatura per misurare la temperatura dei tuoi animali. Inserisci
 Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), VitalControl mette automaticamente l'animale selezionato nella lista di allarme. Correlando con altri dati, puoi monitorare continuamente la salute del singolo animale.
 {{% /alert %}}
 
-### Passi preliminari
+### Passi preliminari 
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `Azioni` e premi il pulsante `OK`.
 
@@ -46,7 +46,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Salva risultato
+### Salva risultato {#save-result}
 
 1. Completa i passi preliminari.
 
@@ -54,7 +54,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
     ![VitalControl: Menu Azioni Salva risultati](../images/saveresults.png "Salva risultati")
 
-### Metti nella lista di controllo
+### Metti nella lista di controllo {#put-on-the-watch-list}
 
 1. Completa i passi preliminari.
 
@@ -64,7 +64,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
     ![VitalControl: Menu Azioni Metti nella lista di controllo](../images/watchlist.png "Metti nella lista di controllo")
 
-### Accensione e spegnimento dell'illuminazione del luogo di misurazione
+### Accensione e spegnimento dell'illuminazione del luogo di misurazione {#lighting-of-the-measurement-location-on-and-off}
 
 1. Completa i passi preliminari.
 
@@ -74,7 +74,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
     ![VitalControl: Menu Azioni Torcia accesa spenta](../images/light.png "Torcia accesa spenta")
 
-### Ripeti la misurazione
+### Ripeti la misurazione {#repeat-the-measurement}
 
 1. Completa i passi preliminari.
 
@@ -85,7 +85,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
     ![VitalControl: Menu Azioni Luce accesa spenta](../images/repeat.png "Luce accesa spenta")
 
-### Annulla l'azione
+### Annulla l'azione {#cancel-the-action}
 
 1. Completare i passaggi preliminari.
 

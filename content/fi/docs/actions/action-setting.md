@@ -10,7 +10,7 @@ categories: [Toiminnat, Toiminnatjen ketju]
 tags: [Toiminnat, Toiminnatjen ketju]
 translationKey: actions/setting
 ---
-## Valikkokohdat
+## Valikkokohdat {#menu-items}
 
 Tässä asetusvalikossa määrität, mitkä Toiminnat näytetään sinulle &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat`-valikossa.
 
@@ -28,7 +28,7 @@ Tässä asetusvalikossa määrität, mitkä Toiminnat näytetään sinulle &nbsp
 
     ![VitalControl: Valikko Toiminnatjen Valikkokohdat](../images/menu.png "Valikkokohdat")
 
-## Toiminnatjen ketju
+## Toiminnatjen ketju {#chain-of-actions}
 
 Tässä asetusvalikossa asetat &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toiminnatjen ketju" />&nbsp; `Toiminnatjen ketjun`.
 
@@ -38,6 +38,6 @@ Tässä asetusvalikossa asetat &nbsp;<img src="/icons/actions/action-chain.svg" 
 
 3. Alivalikko avautuu. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toimintaketju" />&nbsp; `toimintaketju` ja vahvista `OK`.
 
-4. Lisäohjeita löytyy [täältä](/fi/docs/chain-of-actions/#toimintaketju).
+4. Lisäohjeita löytyy [täältä](/fi/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Valikko Toiminnat Toimintaketju](../images/chainofactions.png "Toimintaketju")

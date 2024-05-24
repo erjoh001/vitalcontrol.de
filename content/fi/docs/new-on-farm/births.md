@@ -11,7 +11,7 @@ categories: [Syntymät]
 tags: [Syntymät]
 translationKey: new-on-farm/births
 ---
-## Syntymät
+## Syntymät {#births}
 
 Tässä luettelossa voit tarkastella syntyneitä, muokata niitä ja luoda vientitiedoston rekisteröitäväksi HI-Tier-järjestelmään. Vientitiedoston luomiseksi toimi seuraavasti:
 
@@ -33,21 +33,21 @@ Tietojen viemiseen tarvitset mukana tulevan UBS-tikun. Yhdistä USB-tikku USB-C-
 
     ![VitalControl: Valikko Uusi tilalla Syntymät](../images/births.png "Syntymät")
 
-## Asetusten määrittäminen
+## Asetusten määrittäminen {#setting-options}
 
 Lisäksi vientitiedoston luomiseen, sinulla on seuraavat vaihtoehdot:
 
-- [Vaihda](#vaihda-listanäkymä-ja-yksittäisen-eläinnäkymän-välillä) listanäkymän ja yksittäisen eläinnäkymän välillä
-- [Tyhjennä kaikki syntymäilmoitukset](../purchased-animals/#tyhjennä-kaikki-ostoilmoitukset)
-- [Poista eläin + ilmoitukset](../purchased-animals/#poista-eläin--ilmoituks)
-- [Tyhjennä ostoilmoitus](../purchased-animals/#tyhjennä-ostoilmoitus)
-- [Muokkaa](#muokkaa-syntymäilmoituksen-tietoja) ilmoitusta
+- [Vaihda](#change-between-list-view-and-single-animal-view) listanäkymän ja yksittäisen eläinnäkymän välillä
+- [Tyhjennä kaikki syntymäilmoitukset](../purchased-animals/#clear-all-purchase-notices)
+- [Poista eläin + ilmoitukset](../purchased-animals/#delete-animal--purchase-notice)
+- [Tyhjennä ostoilmoitus](../purchased-animals/#clear-notice-of-purchase)
+- [Muokkaa](#edit-data-of-birth-notice) ilmoitusta
 
 {{% alert title="Vinkki" %}}
 Jotkut toiminnot ovat identtisiä `Ostettuja eläimet` -listan toimintoihin. Seuraa linkkejä vaiheittaisiin ohjeisiin. Avaa aina ensin `Syntymät`-lista kuten yllä olevissa ohjeissa on kuvattu.
 {{% /alert %}}
 
-### Vaihda listanäkymä ja yksittäisen eläinnäkymän välillä
+### Vaihda listanäkymä ja yksittäisen eläinnäkymän välillä {#change-between-list-view-and-single-animal-view}
 
 1. Käytä <img src="/icons/gear.svg" width="25" align="bottom" alt="Vaihde" /> `Päälle/Pois` -painiketta.
 
@@ -57,7 +57,7 @@ Jotkut toiminnot ovat identtisiä `Ostettuja eläimet` -listan toimintoihin. Seu
 
     ![VitalControl: Menu New on farm Births](../images/change.png "Vaihda listanäkymän ja yksittäisen eläinnäkymän välillä")
 
-### Muokkaa syntymäilmoituksen tietoja
+### Muokkaa syntymäilmoituksen tietoja {#edit-data-of-birth-notice}
 
 {{% alert title="Vinkki" %}}
 Eläintietojen muokkaaminen on mahdollista vain listanäkymässä!

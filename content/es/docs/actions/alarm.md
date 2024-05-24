@@ -11,7 +11,7 @@ tags: [Acciones, Alarma]
 translationKey: actions/alarm
 ---
 
-## Alerta
+## Alerta {#alert}
 
 Con la acción `Alarma` puedes poner animales en la lista de alarma o quitarlos de ella. La lista de alarma te ayuda a encontrar animales conspicuos más rápidamente y fácilmente, facilitando tus chequeos rutinarios diarios. Para aplicar la acción `Alarma`, procede de la siguiente manera:
 

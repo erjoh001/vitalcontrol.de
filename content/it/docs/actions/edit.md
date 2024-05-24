@@ -11,7 +11,7 @@ tags: [Azioni, dati animali, modifica]
 translationKey: actions/edit
 ---
 
-## Modifica dati animali
+## Modifica dati animali {#edit-animal-data}
 
 L'azione <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Modifica" /> `Modifica` ti permette di cambiare i dati dell'animale selezionato direttamente. Questa funzione facilita la correzione dei dati dell'animale se, ad esempio, durante l'ispezione dell'animale diventa evidente che il sesso è stato salvato in modo errato. Puoi cambiare i seguenti dati:
 

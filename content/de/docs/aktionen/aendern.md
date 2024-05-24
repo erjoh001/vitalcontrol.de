@@ -10,7 +10,7 @@ Kategorien: [Aktionen]
 Tags: [Aktionen, Tierdaten]
 translationKey: actions/edit
 ---
-## Tierdaten ändern
+## Tierdaten ändern {#edit-animal-data}
 
 Die Aktion <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Bearbeiten" title="Bearbeiten" /> `Ändern` ermöglicht es Ihnen die Tierdaten des ausgewählten Tieres direkt zu ändern. Diese Funktion erleichtert es die Tierdaten zu korrigieren sollte z.B. während der Tierkontrolle auffallen, dass das Geschlecht falsch eingespeichert wurde. Folgende Daten können Sie ändern:
 

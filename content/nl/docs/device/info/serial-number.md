@@ -7,7 +7,7 @@ draft: false
 description: >
  Om het serienummer van uw apparaat op te halen, klik hier
 ---
-## Serienummer ophalen
+## Serienummer ophalen {#get-serial-number}
 
 Om het serienummer van uw apparaat op te halen, ga als volgt te werk:
 

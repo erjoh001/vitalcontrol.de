@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 Talunumbri sisestamine on hetkel oluline ainult Saksamaa põllumeestele. Teiste rahvuste põllumehed ei saa praegu talu ID sisestamisest kasu. See võib muutuda tulevaste [tarkvaraversioonidega]({{< relref "../firmware/versions/" >}}) VitalControl'is.
 {{< /alert >}}
 
-## Seadista oma talunumber
+## Seadista oma talunumber {#set-your-farm-number}
 
 Et seadistada ettevõtte number oma seadmel, toimi järgnevalt:
 

@@ -11,7 +11,7 @@ Kategorien: [Neue Tiere]
 Tags: [Tiere anlegen]
 translationKey: new/animals
 ---
-## Mehrere neue Tiere anlegen
+## Mehrere neue Tiere anlegen {#create-several-new-animals}
 
 In diesem Menüpunkt können Sie mehrere neue Tiere auf einmal anmelden. Dabei legen Sie eine Grundeinstellung fest die für alle Tiere während dieses Anlegens gelten.
 

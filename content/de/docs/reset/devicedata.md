@@ -8,7 +8,7 @@ description: >
   Erfahren Sie, wie Sie alle Geräteeinstellungen des VitalControl-Geräts zurücksetzen können.
 categories: [Zurücksetzen]
 ---
-## Zurücksetzen aller Gerätedaten
+## Zurücksetzen aller Gerätedaten {#resetting-all-device-data}
 
 1. Öffnen Sie den Menüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Gerät" /> `Gerät` im Hauptbildschirm Ihres VitalControl-Geräts.
 

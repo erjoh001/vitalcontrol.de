@@ -7,7 +7,7 @@ draft: false
 description: >
  Chcete-li získat sériové číslo svého zařízení, klikněte zde
 ---
-## Získat sériové číslo
+## Získat sériové číslo {#get-serial-number}	
 
 Chcete-li získat sériové číslo svého zařízení, postupujte následovně:
 

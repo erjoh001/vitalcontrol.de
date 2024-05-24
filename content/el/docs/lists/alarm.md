@@ -11,7 +11,7 @@ categories: [Λίστες]
 tags: [Λίστες, συναγερμός]
 translationKey: lists/alarm
 ---
-## Λίστα Συναγερμών
+## Λίστα Συναγερμών {#alarm-list}
 
 Στη λίστα συναγερμών θα βρείτε όλα τα ζώα που έχετε προσθέσει χειροκίνητα στη λίστα ή όλα τα ζώα που βρίσκονταν στην κίτρινη ή κόκκινη ζώνη κατά τη διάρκεια της μέτρησης της θερμοκρασίας. Η λίστα σας βοηθά να διατηρείτε μια επισκόπηση όλων των ζώων που παρουσιάζουν ανωμαλίες. Επίσης, για κάθε ζώο στη λίστα, μπορείτε να κάνετε τα εξής:
 
@@ -36,7 +36,7 @@ translationKey: lists/alarm
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Θερμοκρασία σώματος" title="Θερμοκρασία σώματος" /> | Η τελευταία καταγεγραμμένη μέτρηση πυρετού εμφανίζεται κάτω από το σύμβολο με τα χρώματα του συστήματος φαναριού
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Αξιολόγηση ζώου" title="Αξιολόγηση" /> |Η κυκλική σήμανση κάτω από το σύμβολο δείχνει ότι το ζώο βρίσκεται στη λίστα παρακολούθησης
 
-### Προκαταρκτικά Βήματα
+### Προκαταρκτικά Βήματα {#preliminary-steps}
 
 1. Επιλέξτε το στοιχείο μενού <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Λίστες" /> `Λίστες` στην κύρια οθόνη της συσκευής σας VitalControl και πατήστε το κουμπί `OK`.
 
@@ -46,7 +46,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Προκαταρκτικά Βήματα")
 
-### Πλήρες μενού ενεργειών
+### Πλήρες μενού ενεργειών {#full-action-menu}
 
 1. Ολοκληρώστε τα προκαταρκτικά βήματα.
 
@@ -58,7 +58,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Μενού Ενεργειών")
 
-### Δεδομένα Ζώου
+### Δεδομένα Ζώου {#animal-data}
 
 1. Ολοκληρώστε τα προκαταρκτικά βήματα.
 
@@ -70,7 +70,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Δεδομένα Ζώου")
 
-### Λήψη θερμοκρασίας
+### Λήψη θερμοκρασίας {#take-temperature}
 
 1. Ολοκληρώστε τα προκαταρκτικά βήματα.
 
@@ -82,7 +82,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Λήψη θερμοκρασίας")
 
-### Αξιολόγηση ζώου
+### Αξιολόγηση ζώου {#rate-animal}
 
 1. Ολοκληρώστε τα προκαταρκτικά βήματα.
 
@@ -94,7 +94,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Αξιολόγηση ζώου")
 
-### Καθαρισμός συναγερμού
+### Καθαρισμός συναγερμού {#clear-alarm}
 
 1. Ολοκληρώστε τα προκαταρκτικά βήματα.
 
@@ -106,7 +106,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Clear alarm")
 
-### Εναλλαγή κατάστασης παρακολούθησης
+### Εναλλαγή κατάστασης παρακολούθησης {#toggle-watch-status}
 
 1. Ολοκληρώστε τα προκαταρκτικά βήματα.
 
@@ -118,7 +118,7 @@ translationKey: lists/alarm
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Toggle watch status")
 
-### Αναζήτηση ζώου
+### Αναζήτηση ζώου {#search-animal}
 
 1. Ολοκληρώστε τα προκαταρκτικά βήματα.
 
@@ -128,7 +128,7 @@ translationKey: lists/alarm
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Αναζήτηση ζώου")
 
-### Ορισμός φίλτρου
+### Ορισμός φίλτρου {#set-filter}
 
 1. Ολοκληρώστε τα προκαταρκτικά βήματα.
 

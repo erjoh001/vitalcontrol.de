@@ -11,7 +11,7 @@ categories: [Nuovo in fattoria, ID animale nazionale]
 tags: [Nuovo in fattoria, ID animale nazionale]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Nessun transponder assegnato
+## Nessun transponder assegnato {#no-transponder-assigned}
 
 La gestione all'interno di questo elenco è identica all'elenco `Nuovo in fattoria, nessun transponder`. Tuttavia, in questo elenco troverai tutti gli animali a cui non è ancora stato assegnato un transponder, indipendentemente dalla loro età.
 

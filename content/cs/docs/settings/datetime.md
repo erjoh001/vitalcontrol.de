@@ -11,7 +11,7 @@ categories: [Nastavení]
 tags: [Nastavení, Datum a čas]
 translationKey: settings/datetime
 ---
-## Nastavení data
+## Nastavení data {#to-set-the-date}
 {{% alert title="Varování" color="warning" %}}
 Ujistěte se, že datum a čas jsou nastaveny správně. Jinak budou časové značky měření a data narození nově přidaných zvířat nesprávné!
 {{% /alert %}}
@@ -28,7 +28,7 @@ Pro nastavení data na vašem zařízení postupujte podle těchto kroků:
 
     ![VitalControl: menu nastavení data](../images/date.png "Nastavení data")
 
-## Nastavení času
+## Nastavení času {#to-set-the-time}
 
 Pro nastavení času na vašem zařízení postupujte podle těchto kroků:
 

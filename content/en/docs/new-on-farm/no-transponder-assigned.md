@@ -11,7 +11,7 @@ categories: [New on farm, National animal ID]
 tags: [New on farm, National animal ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## No transponder assigned
+## No transponder assigned {#no-transponder-assigned}
 
 The handling within this list is identical to the `New on farm, no transponder` list. However, in this list you will find all animals that have not yet been assigned a transponder, regardless of their age.
 

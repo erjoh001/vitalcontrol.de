@@ -11,8 +11,8 @@ categories: [Parto]
 tags: [Parto]
 translationKey: new/calving
 ---
-## Registrare un parto
-
+## Registrare un parto {#register-a-calving}
+ 
 Per registrare un parto, procedi come segue:
 
 1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nuovo animale" /> `Nuovo` e premi il pulsante `OK`.

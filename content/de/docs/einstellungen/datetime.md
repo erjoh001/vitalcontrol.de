@@ -11,7 +11,7 @@ Kategorien: [Einstellungen]
 Tags: [Einstellungen, Datum & Uhrzeit]
 translationKey: settings/datetime
 ---
-## Datum festlegen
+## Datum festlegen {#to-set-the-date}
 {{% alert title="Warnung" color="warning" %}}
 Achten Sie unbedingt darauf, dass Datum- und Uhrzeit korrekt eingestellt sind. Andernfalls werden die Zeitstempel der Messwerte sowie das Geburtsdatum neu angelelegter Tiere fehlerhaft sein!
 {{% /alert %}}
@@ -28,7 +28,7 @@ Um das Datum auf ihrem Gerät festzulegen gehen Sie wie folgt vor:
 
     ![VitalControl: Menüfolge Einstellung Datum](../bilder/date.png "Datum einstellen")
 
-## Uhrzeit festlegen
+## Uhrzeit festlegen {#to-set-the-time}
 
 {{% alert title="Warnung" color="warning" %}}
 Wird das Gerät länger als eine Woche nicht genutzt, werden Sie beim nächsten Gerätestart aufgefordert Datum und Uhrzeit neu einzugeben. Dieser Aufforderung ist unbedingt Folge zu leisten!

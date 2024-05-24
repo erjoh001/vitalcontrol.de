@@ -13,7 +13,7 @@ translationKey: settings/farm-number
 La saisie du numéro de ferme concerne actuellement uniquement les agriculteurs allemands. Les agriculteurs de toutes autres nationalités ne bénéficient actuellement **pas** de l'entrée du numéro de ferme. Cela pourrait changer avec les futures [versions du firmware]({{< relref "../firmware/versions/" >}}) de VitalControl.
 {{< /alert >}}
 
-## Définissez votre numéro de ferme
+## Définissez votre numéro de ferme {#set-your-farm-number}
 
 Pour configurer le numéro de l'entreprise sur votre appareil, procédez comme suit :
 

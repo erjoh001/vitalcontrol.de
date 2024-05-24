@@ -17,7 +17,7 @@ On this USB flash drive, a directory `backup` must exist, which must held a vali
 Inside the directory `backup` of your USB flash drive, you may find several backup files with extension `.vcu`. The VitalControl device always restores the backup data form the file named `backup.vcu`, which is always the newest file. If you want to restore data from an older backup file (which contains the backup date in the file name), you have to rename this older backup file to `backup.vcu` before performing data restore!
 {{% /alert %}}
 
-## Data restoration to VitalControl device
+## Data restoration to VitalControl device {#data-restoration-to-vitalcontrol-device}
 
 1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of the VitalControl device to which you want to restore the data.
 

@@ -11,7 +11,7 @@ categories: [Seznamy]
 tags: [Seznamy, Akce]
 translationKey: lists/action
 ---
-## Seznam akcí
+## Seznam akcí {#action-list}
 
 V seznamu akcí můžete vidět zvířata, u kterých nebyla provedena žádná akce po dobu šesti hodin. K dispozici jsou také následující možnosti nastavení:
 
@@ -28,7 +28,7 @@ V seznamu akcí můžete vidět zvířata, u kterých nebyla provedena žádná 
 Některé akce se provádějí stejným způsobem jako v [seznamu alarmů](../alarm). Ty zde nejsou vysvětleny. Proveďte předběžné kroky a použijte odkaz příslušné akce, abyste se dostali k pokynům.
 {{% /alert %}}
 
-### Předběžné kroky
+### Předběžné kroky {#preliminary-steps}
 
 1. Vyberte položku menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Seznamy" />  `Seznamy` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
 
@@ -38,7 +38,7 @@ Některé akce se provádějí stejným způsobem jako v [seznamu alarmů](../al
 
    ![VitalControl Seznamy Seznam akcí](../images/firststeps3.png "Předběžné kroky")
 
-### Vážit zvířata
+### Vážit zvířata {#weigh-animals}
 
 1. Dokončete předběžné kroky.
 
@@ -47,11 +47,11 @@ Některé akce se provádějí stejným způsobem jako v [seznamu alarmů](../al
 3. V seznamu akcí použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Vyhledat" /> a použijte šipky ◁ ▷ △ ▽ k výběru požadovaných číslic. Nakonec potvrďte stisknutím `OK`.
 
 
-4. Menu [vážení zvířat](..) se otevře automaticky.
+4. Menu [vážení zvířat](../../actions/record-weight/) se otevře automaticky.
 
    ![VitalControl Seznamy Akční seznam](../images/weightanimals.png "Vážení zvířat")
 
-### Řetězec akcí
+### Řetězec akcí {#chain-of-action}
 
 1. Dokončete předběžné kroky.
 
@@ -63,7 +63,7 @@ Některé akce se provádějí stejným způsobem jako v [seznamu alarmů](../al
 
    ![VitalControl Seznamy Akční seznam](../images/chainofaction.png "Řetězec akcí")
 
-### Připojit transpondér
+### Připojit transpondér {#link-transponder}
 
 Tato funkce slouží k přidání transpondéru do datového záznamu zvířat, kterým ještě nebyl přiřazen transpondér.
 
@@ -77,7 +77,7 @@ Tato funkce slouží k přidání transpondéru do datového záznamu zvířat, 
 
    ![VitalControl Seznamy Akční seznam](../images/linktransponder.png "Připojit transpondér")
 
-### Skrýt po akci
+### Skrýt po akci {#hide-after-action}
 
 Pokud je tato funkce aktivována, zvířata, u kterých byla provedena akce, budou skryta ze seznamu akcí. Pokud je tato funkce deaktivována, zvířata, u kterých byla provedena akce, zůstanou viditelná v seznamu.
 

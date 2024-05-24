@@ -12,7 +12,7 @@ weight: 20
 
 Using the menu 'Range test' you can determine whether VitalControl device can read transponders you have at hand. Besides checking compatibility, you can also conveniently determine the transmission protocol used by these transponders and display the number stored on the transponder.
 
-## Perform range test
+## Perform range test {#perform-range-test}
 
 1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 
@@ -30,11 +30,11 @@ Using the menu 'Range test' you can determine whether VitalControl device can re
 
 1. Move the transponder back and forth several times at the border of the reading field. This way, you can determine the reading range of the RFID scanner in combination with the transponders you are using.
 
-## Transponder check
+## Transponder check {#transponder-check}
 
 Performing the range test described above, you can obtain information on transponders from different origin, too:
 
-### Official transponder ear tags
+### Official transponder ear tags {#official-transponder-ear-tags}
 
 1. If you use transponder ear tags for your animals, on which the officially assigned 15-digit ear tag number of the animal is encoded, the following information is displayed on the screen once the transponder was read:
 
@@ -46,7 +46,7 @@ Performing the range test described above, you can obtain information on transpo
 
     ![VitalControl: check of transponder ear tag](../images/transponder-official.png "Info official transponder ear tag")
 
-### Transponders from third-party vendors
+### Transponders from third-party vendors {#transponders-from-third-party-vendors}
 
 1. If you use transponders from third-party suppliers, such as Urban, for the electronic identification of your animals, the following information will be displayed on the screen once the transponder was read:
 

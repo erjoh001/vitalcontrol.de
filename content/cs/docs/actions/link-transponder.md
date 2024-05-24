@@ -14,7 +14,7 @@ translationKey: actions/transponder
 Tato akce není ve výchozím nastavení povolena! Aktivujte ji, jak je popsáno v [nastavení akce](../settings/).
 {{% /alert %}}
 
-## Link transponder
+## Link transponder {#link-transponder}
 
 S touto akcí můžete přiřadit transponder zvířeti, které ještě nemá přiřazený transponder.
 

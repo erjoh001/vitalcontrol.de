@@ -8,7 +8,7 @@ description: >
  Lista de las versiones actuales del firmware para el dispositivo VitalControl.
 ---
 
-## Determinar las versiones de firmware instaladas en su dispositivo
+## Determinar las versiones de firmware instaladas en su dispositivo {#determine-firmware-versions-installed-on-your-device}
 
 1. Abra el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
 
@@ -16,7 +16,7 @@ description: >
 
 ![VitalControl: determinar versiones de firmware](../images/firmware-versions.png "Mostrar versiones de firmware")
 
-## Últimas versiones de firmware:
+## Últimas versiones de firmware: {#latest-firmware-versions}
 
 La siguiente tabla lista las versiones actuales de firmware:
 

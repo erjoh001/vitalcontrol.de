@@ -11,7 +11,7 @@ categories: [Bulk-recording]
 tags: [Bulk-recording]
 translationKey: new/bulk-recording
 ---
-## Bulk-recording
+## Bulk-recording {#bulk-recording}
 
 With the help of mass registration, you can capture a large number of animals in a short time and save them to your device. Use the barcode scanner to scan the barcodes for the ear tag number and date of birth on the cattle passports. The animal is saved automatically and you can scan the next passport straight away. To perform mass registration of animals, proceed as follows:
 
@@ -37,7 +37,7 @@ You have further setting options within the `Bulk recording` menu item. These ar
 Error messages may appear during the scanning process. In this case, the barcode scanner emits a sound and further scanning is not possible. Acknowledge the corresponding error message on the VitalControl display and continue scanning.
 {{% /alert %}}
 
-### Birth date mandatory
+### Birth date mandatory {#birth-date-mandatory}
 
 With this setting option you can determine whether the date of birth must be specified when creating the animals. If you deactivate this option, you only have to scan the barcode to save an animal. For these animals, however, the current date is then stored as the date of birth! This feature is enabled by default. To deactivate it, do the following:
 
@@ -51,7 +51,7 @@ With this setting option you can determine whether the date of birth must be spe
 
    ![VitalControl: Menu New Birth date mandatory](../images/birthdate.png "Birth date mandatory")
 
-### Default values
+### Default values {#default-values}
 
 Within the `Default values` settings menu you set standards that apply to each animal you create. The process of creating with the barcode scanner remains unchanged as described above. You have the option of setting the type of livestock, gender, breed and whereabouts. To set the `Default values`, proceed as follows:
 
@@ -65,7 +65,7 @@ Within the `Default values` settings menu you set standards that apply to each a
 
    ![VitalControl: Menu New Default values](../images/defaultvalues.png "Default values")
 
-### Recorded values
+### Recorded values {#recorded-values}
 
 Within the `Recorded values` settings menu, you can specify which values ​​should be captured in addition to the ear tag number and date of birth. You can choose between `Breed`, `Sex`, `Whereabouts`, `Current weight`, `Birth weight` and `Type of animal`. As soon as you set at least one value, the process changes during scanning. First scan the ear tag number and the date of birth. Then use the direction keys △ ▽ to select the values ​​to be set and set the values. Then save your entries with the `F3` key. Only then is the animal created! To set the values ​​to be recorded, proceed as follows:
 

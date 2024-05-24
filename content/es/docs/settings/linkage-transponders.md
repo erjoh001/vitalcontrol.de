@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, Edad máxima, Comprados terneros edad maximá, Asignación ID animal]
 translationKey: settings/link-transponder
 ---
-## Establecer la Comprados terneros edad maximá
+## Establecer la Comprados terneros edad maximá {#set-maximum-age-of-purchased-calves}
 Para configurar la `Comprados terneros edad maximá` en tu dispositivo, procede de la siguiente manera.
 
 1. Selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuraciones" /> `Ajustes` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `OK`.
@@ -22,7 +22,7 @@ Para configurar la `Comprados terneros edad maximá` en tu dispositivo, procede 
 
     ![VitalControl: configuraciones del menú enlace de transpondedor](../images/maximumage.png "Comprados terneros edad maximá")
 
-## Asignación ID animal
+## Asignación ID animal {#assignment-animal-id}
 
 Para configurar el `Asignación de ID de animal` en tu dispositivo, procede de la siguiente manera.
 
@@ -34,7 +34,7 @@ Para configurar el `Asignación de ID de animal` en tu dispositivo, procede de l
 
 4. Usa las teclas de flecha ◁ ▷ para establecer la asignación de los números de los animales. Si seleccionas la configuración `Derivación del No de transpondedor`, obtendrás las opciones para configurar los `Dígitos de ID nueva` y el `Compensación derecha`. Usa las teclas de flecha △ ▽ para seleccionar el rango apropiado y las teclas de flecha ◁ ▷ para seleccionar la configuración deseada.
 
-5. Selecciona la opción `Consecutivo` o `Derivación del No de transpondedor` y procede como se describe en la página [Asignación ID animal](../animal-registration/#asignación-de-id-de-animal).
+5. Selecciona la opción `Consecutivo` o `Derivación del No de transpondedor` y procede como se describe en la página [Asignación ID animal](../animal-registration/#assignment-animal-id).
 
 ![VitalControl: enlace del menú de configuraciones transpondedor](../images/assignmentanimalid.png "Asignación de ID de animal")
 

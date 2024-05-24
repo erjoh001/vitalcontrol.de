@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
-## Set the threshold & temperature ranges
+## Set the threshold & temperature ranges {#set-the-threshold--temperature-ranges}
 {{% alert title = "Hint" %}}
 Threshold values for the body temperature are stored here individually for the animal species calf, cow and lamb. The yellow and red fields show the threshold value for "elevated temperature" and "fever" respectively. VitalControl places animals in the yellow and red areas on the alarm list, making it easier for you to monitor sick animals. A threshold for under temperature can also be freely defined.
 {{% /alert %}}
@@ -33,7 +33,7 @@ To set the threshold & temperature ranges on your device proceed as follows:
     ![VitalControl: menu settings threshold & temperature ranges](../images/threshold.png "Threshold & Temperature ranges")
 
 
-## Set undertemperature
+## Set undertemperature {#set-undertemperature}
 {{% alert title = "Hint" %}}
 Here you set the measured temperature from which an undertemperature occurs. During the fever measurement, this temperature is displayed with a blue background.
 {{% /alert %}}
@@ -50,7 +50,7 @@ To set the threshold value for the undertemperature, proceed as follows:
 
     ![VitalControl: menu settings undertemperature](../images/undertemperature.png "Undertemperature")
 
-## Anus spotlight
+## Anus spotlight {#anus-spotlight}
 {{% alert title = "Hint" %}}
 Here you can set whether the light should be automatically activated or deactivated during fever measurement.
 {{% /alert %}}

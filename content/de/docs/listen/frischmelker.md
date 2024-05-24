@@ -11,28 +11,28 @@ Kategorien: [Listen]
 Tags: [Listen, Frischmelker]
 translationKey: lists/fresh-cows
 ---
-## Frischmelkerliste
+## Frischmelkerliste {#fresh-cows-list}
 
 {{% alert title="Erläuterung" %}}
 Beim Management von Frischmelkern ist es gute fachliche Praxis, mehrere Tage nach der Geburt täglich eine Tierkontrolle durchzuführen. Die Frischmelkerliste es VitalControls unterstützt sie bei dieser Tierkontrolle, insbesondere bei der Temperaturerfassung. Für jedes Tier wird mittels eines Säulendiagramms ein Überblick über alle Tage der Kontrollperiode gegeben, jeder Tag der Periode durch eine Säule repräsentiert. Je nach Farbe der Säule (grün, gelb oder rot) ist ersichtlich, ob für das jeweilige Tier an diesem Tag eine normale, eine erhöhte oder kritisch erhöhte Temperatur gemessen wurde.
 {{% /alert %}}
 
-In der Frischmelkerliste finden Sie ihre Frischmelker aufgelistet. Tiere, für die eine Abkalbung registriert wurde, erscheinen automatisch auf dieser Liste und werden dort für die von Ihnen [festgelegte Zeitdauer](../../einstellungen/erfassung-tierdaten/#kontrollperiode-frischmelker) angezeigt. Folgende Aktionen stehen Ihnen für diese Liste zur Verfügung:
+In der Frischmelkerliste finden Sie ihre Frischmelker aufgelistet. Tiere, für die eine Abkalbung registriert wurde, erscheinen automatisch auf dieser Liste und werden dort für die von Ihnen [festgelegte Zeitdauer](../../einstellungen/erfassung-tierdaten/#control-period-of-fresh-cows)) angezeigt. Folgende Aktionen stehen Ihnen für diese Liste zur Verfügung:
 
-- [Aktionsmenü](../alarm/#aktionsmen%C3%BC-mit-einem-tier-%C3%B6ffnen) aufrufen
-- [Tierdaten](../alarm/#tierdaten-einsehen) einsehen
-- [Temperatur](../alarm/#temperatur-messen) messen
-- [Alarmstatus](#alarmstatus-%C3%A4ndern) ändern
-- Status [Beobachtung umkehren](#status-beobachtung-umkehren)
-- [Gemessene ausblenden](#gemessene-ausblenden)
-- [Tier suchen](../alarm/#tier-suchen)
-- [Filter setzen](../alarm/#filter-setzen)
+- [Aktionsmenü](../alarm/#full-action-menu) aufrufen
+- [Tierdaten](../alarm/#animal-data) einsehen
+- [Temperatur](../alarm/#take-temperature) messen
+- [Alarmstatus](#toggle-alarm-status) ändern
+- Status [Beobachtung umkehren](#toggle-watch-status)
+- [Gemessene ausblenden](#hide-measured-cows)
+- [Tier suchen](../alarm/#search-animal)
+- [Filter setzen](../alarm/#set-filter)
 
 {{% alert title="Hinweis" %}}
 Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Diese sind hier nicht erläutert. Führen Sie die vorbereitenden Schritte durch und verwenden Sie den Link der jeweiligen Aktion um zu der Anleitung zu gelangen.
 {{% /alert %}}
 
-### Vorbereitende Schritte
+### Vorbereitende Schritte {#preliminary-steps}
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listen" /> `Listen` und drücken Sie die Taste `OK`.
 
@@ -42,7 +42,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Frischmelkerliste](../bilder/vorbereitendeschritte4.png "Vorbereitende Schritte")
 
-### Alarmstatus ändern
+### Alarmstatus ändern {#toggle-alarm-status}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -54,7 +54,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Frischmelkerliste](../bilder/alarmstatusaendern2.png "Alarmstatus ändern")
 
-### Status Beobachtung umkehren
+### Status Beobachtung umkehren {#toggle-watch-status}
 
 1. Führen Sie die vorbereitenden Schritte aus.
 
@@ -66,7 +66,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
    ![VitalControl Listen Frischmelkerliste](../bilder/statusumkehren22.png "Status Beobachtung umkehren")
 
-### Gemessene ausblenden
+### Gemessene ausblenden {#hide-measured-cows}
 
 Wenn diese Funktion aktiviert ist werden die Tiere, bei denen eine Messung der Temperatur durchgeführt wurde, auf der Trockensteherliste ausgeblendet. Ist diese Funktion nicht aktiviert bleiben die Tiere auf der Liste sichtbar.
 

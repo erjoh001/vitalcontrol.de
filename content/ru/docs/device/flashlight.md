@@ -11,7 +11,7 @@ categories: [Device]
 tags: [Device]
 translationKey: device/flashlight
 ---
-## Активация и деактивация света
+## Активация и деактивация света {#activate-and-deactivate-light}
 
 Здесь вы можете включить или выключить свет на вашем устройстве VitalControl. Если вы включите свет, он будет гореть постоянно.
 

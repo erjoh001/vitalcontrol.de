@@ -11,7 +11,7 @@ translationKey: data-export/usb-drive
 ---
 {{% usb-drive/it "Per eseguire un'esportazione dei dati del dispositivo," %}}
 
-## Eseguire l'esportazione dei dati
+## Eseguire l'esportazione dei dati {#perform-data-export}	
 
 1. Apri l'elemento del menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` nella schermata principale del tuo dispositivo VitalControl.
 

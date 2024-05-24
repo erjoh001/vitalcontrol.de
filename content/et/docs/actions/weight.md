@@ -11,7 +11,7 @@ tags: [Tegevused, kaal]
 translationKey: actions/weight
 ---
 
-## Kaalu salvestamine
+## Kaalu salvestamine {#record-weight}
 Kasuta &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Kaalumine" /> `Kaalumine` tegevust, et salvestada oma looma kaal individuaalselt. Selleks kaalu oma loomi või hinda nende kaalu ja sisesta see väärtus VitalControl seadmesse. See võimaldab sul jälgida oma loomade kaalu arengut ja hinnata neid individuaalselt.
 
 {{% alert title="Vihje" %}}

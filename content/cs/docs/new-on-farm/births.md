@@ -11,7 +11,7 @@ categories: [Narození]
 tags: [Narození]
 translationKey: new-on-farm/births
 ---
-## Narození
+## Narození {#births}
 
 V tomto seznamu můžete zobrazit svá narození, upravit je a vytvořit exportní soubor pro registraci v HI-Tier. Pro vytvoření exportního souboru postupujte následovně:
 
@@ -33,7 +33,7 @@ Pro export dat potřebujete přiložený UBS stick. Připojte USB stick s USB-C 
 
     ![VitalControl: Menu Nové na farmě Narození](../images/births.png "Narození")
 
-## Nastavení možností
+## Nastavení možností {#setting-options}
 
 Kromě vytvoření exportního souboru máte následující možnosti:
 
@@ -47,7 +47,7 @@ Kromě vytvoření exportního souboru máte následující možnosti:
 Některé akce jsou totožné s akcemi v seznamu `Zakoupená zvířata`. Postupujte podle odkazů na podrobné pokyny. Vždy nejprve otevřete seznam `Narození`, jak je popsáno v pokynech výše.
 {{% /alert %}}
 
-### Přepnout mezi zobrazením seznamu a zobrazením jednotlivých zvířat
+### Přepnout mezi zobrazením seznamu a zobrazením jednotlivých zvířat {#change-between-list-view-and-single-animal-view}
 
 1. Použijte tlačítko <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `Zap/Vyp`.
 
@@ -57,7 +57,7 @@ Některé akce jsou totožné s akcemi v seznamu `Zakoupená zvířata`. Postupu
 
     ![VitalControl: Menu Nové na farmě Narození](../images/change.png "Přepnout mezi zobrazením seznamu a zobrazením jednotlivých zvířat")
 
-### Upravit údaje o oznámení narození
+### Upravit údaje o oznámení narození {#edit-data-of-birth-notice}
 
 {{% alert title="Tip" %}}
 Úprava údajů o zvířeti je možná pouze v zobrazení seznamu!

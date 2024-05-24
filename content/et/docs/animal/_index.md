@@ -11,7 +11,7 @@ Categories: [Loom]
 tags: [Loom, Temperatuur, Kõrgus, Looma andmed]
 translationKey: animal/animal
 ---
-## Loom
+## Loom {#animal}
 
 Üksiklooma funktsioon võimaldab vaadata olulist teavet iga üksiklooma kaalu, temperatuuri ja hinnangu kohta. Teil on alati võimalus kuvada teavet graafiliselt või nimekirjana. Üksiklooma funktsiooni kasutamiseks toimige järgmiselt:
 
@@ -26,7 +26,7 @@ Iga teabe kuvamise juures on teil võimalus [otsida looma](#search-animal), sead
 Samuti võite igal ajal loomade vahel liikuda kasutades nooleklahve ◁ ▷.
 {{% /alert %}}
 
-### Seadista graafiline vaade
+### Seadista graafiline vaade {#set-graphical-view}
 
 1. Vajutage keskmist ülemist `On/Off` nuppu <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Ava hüpikmenüü" />, et avada hüpikmenüü. Selles menüüs saate valida funktsioonide `Seadista filter`, `Otsi looma` või `Graafiline vaade` vahel.
 
@@ -34,7 +34,7 @@ Samuti võite igal ajal loomade vahel liikuda kasutades nooleklahve ◁ ▷.
 
 ![VitalControl: Menu Animal](images/graphic.png "Esitlus graafikuna")
 
-### Looma otsing
+### Looma otsing {#search-animal}
 
 1. Vajutage keskmist ülemist `On/Off` nuppu <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Ava hüpikmenüü" /> hüpikmenüü avamiseks. Selles menüüs saate valida funktsioonide `Sea filter`, `Otsi looma` või `Graafiline vaade` vahel.
 
@@ -44,7 +44,7 @@ Samuti võite igal ajal loomade vahel liikuda kasutades nooleklahve ◁ ▷.
 
 ![VitalControl: Menu Animal](images/search.png "Otsi looma")
 
-### Sea filter
+### Sea filter {#set-filter}
 
 1. Vajutage keskmist ülemist `On/Off` nuppu <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Ava hüpikmenüü" /> hüpikmenüü avamiseks. Selles menüüs saate valida funktsioonide `Sea filter`, `Otsi looma` või `Graafiline vaade` vahel.
 

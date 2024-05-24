@@ -8,7 +8,7 @@ description: >
   Научете как да нулирате всички настройки на устройството VitalControl.
 categories: [Reset]
 ---
-## Нулиране на всички данни на устройството
+## Нулиране на всички данни на устройството {#resetting-all-device-data}
 
 1. Отворете менюто <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Устройство` на главния екран на вашето устройство VitalControl.
 

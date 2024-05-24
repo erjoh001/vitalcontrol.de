@@ -11,7 +11,7 @@ categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Record the loss of an animal
+## Record the loss of an animal {#record-the-loss-of-an-animal}
 
 {{% alert title="Hint" %}}
 The animal loss function in this menu item is primarily used to record dead calves/lambs. The setting options are adapted accordingly and are not identical to the setting items in the menu `Actions` -> `Unregister` or `Animal loss`.

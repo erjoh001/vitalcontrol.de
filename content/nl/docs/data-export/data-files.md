@@ -10,14 +10,14 @@ tags: [exportbestanden, temperaturen, gewichten, beoordelingen]
 slug: export-bestanden
 translationKey: data-export/data-files
 ---
-## Algemene informatie
+## Algemene informatie {#general-information}
 
 Bij het exporteren van diergegevens, ongeacht of dit naar de [USB-stick][] of naar een lokale massaalopslagapparaat [op de PC][], worden in elk geval vier exportbestanden gegenereerd:
 
-- [Diergegevens](#diergegevens-animalscsv) `(animals.csv)`
-- [Gegevens over lichaamstemperatuur](#lichaamstemperatuurgegevens-temperaturescsv)`(temperatures.csv)`
-- [Gewichtsgegevens](#gewichtsgegevens-weightscsv) `(weights.csv)`
-- [Beoordelingen van dieren](#dierbeoordelingen-ratingscsv) `(ratings.csv)`
+- [Diergegevens](#animal-data-animalscsv) `(animals.csv)`
+- [Gegevens over lichaamstemperatuur](#body-temperature-data-temperaturescsv)`(temperatures.csv)`
+- [Gewichtsgegevens](#weight-data-weightscsv) `(weights.csv)`
+- [Beoordelingen van dieren](#animal-ratings-ratingscsv) `(ratings.csv)`
 
 [USB-stick]: ../usb-drive/
 [op de PC]: ../pc/
@@ -29,17 +29,17 @@ Bij het exporteren van diergegevens, ongeacht of dit naar de [USB-stick][] of na
 
 Alle vier bestanden zijn leesbare [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) tekstbestanden. De bestanden zijn gecodeerd in `UTF-8` formaat, puntkomma's (`;`) worden gebruikt als kolomscheiders. De afzonderlijke gegevensvelden zijn *niet* omsloten door aanhalingstekens. Elke rij van de respectievelijke tabel vertegenwoordigt een diergegevensset of een meting of beoordeling uitgevoerd op een dier.
 
-## Verdere verwerking van geëxporteerde gegevens
+## Verdere verwerking van geëxporteerde gegevens {#further-processing-of-exported-data}	
 
 U kunt elk van deze vier exportbestanden openen in een spreadsheetprogramma naar keuze (zoals [Microsoft Excel](https://products.office.com/excel) of [OpenOffice Calc](https://www.openoffice.org/)) en daar geavanceerde analyses van de gegevens uitvoeren. Als voorbeeld wordt hieronder de weergave van de tabel `animals.csv` in een spreadsheetprogramma getoond:
 
 ![Geëxporteerde diergegevens, geopend in een spreadsheetprogramma](../images/animals.png "Diergegevens geopend in spreadsheetprogramma")
 
-## Beschrijving van gegevensbestanden
+## Beschrijving van gegevensbestanden {#description-of-data-files}
 
 De volgende vier secties beschrijven elk van de geëxporteerde gegevensbestanden in detail:
 
-### Diergegevens (`animals.csv`)
+### Diergegevens (`animals.csv`) {#animal-data-animalscsv}
 
 - **Bestandsnaam** `animals.csv`
 - **Beschrijving** Algemene diergegevens
@@ -72,7 +72,7 @@ Indien nodig, kunt u ook het voorbeeldbestand [animals.csv][] downloaden.
 
 [animals.csv]: /data-export/animals.csv
 
-### Lichaamstemperatuurgegevens (`temperatures.csv`)
+### Lichaamstemperatuurgegevens (`temperatures.csv`) {#body-temperature-data-temperaturescsv}
 
 - **Bestandsnaam** `temperatures.csv`
 - **Beschrijving** Temperatuurwaarden, verkregen door het meten van de rectale lichaamstemperatuur van dieren.
@@ -104,7 +104,7 @@ Indien nodig, kunt u ook het voorbeeldbestand [temperatures.csv][] downloaden. D
 
 [temperatures.csv]: /data-export/temperatures.csv
 
-### Gewichtsgegevens (`weights.csv`)
+### Gewichtsgegevens (`weights.csv`) {#weight-data-weightscsv}
 
 - **Bestandsnaam** `weights.csv`
 - **Beschrijving** Gewichtswaarden verkregen door het wegen van dieren
@@ -136,7 +136,7 @@ Indien nodig, kunt u ook het voorbeeldbestand [weights.csv][] downloaden. De afb
 
 [weights.csv]: /data-export/weights.csv
 
-### Dierbeoordelingen (`ratings.csv`)
+### Dierbeoordelingen (`ratings.csv`) {#animal-ratings-ratingscsv}
 
 - **Bestandsnaam** `ratings.csv`
 - **Beschrijving** Dierbeoordelingen verkregen door visuele inspectie van de dieren

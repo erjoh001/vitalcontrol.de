@@ -11,7 +11,7 @@ tags: [Tegevused, valve all]
 translationKey: actions/on-watch
 ---
 
-## Valve all
+## Valve all {#on-watch}
 
 Tegevusega `valve all` paned loomad valvele või eemaldad nad sealt. Valve nimekiri aitab sul kiiremini ja lihtsamini leida silmapaistvaid loomi, muutes sinu igapäevased kontrollid lihtsamaks. `Valve all` tegevuse rakendamiseks toimi järgnevalt:
 

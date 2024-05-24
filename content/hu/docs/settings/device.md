@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, device]
 translationKey: settings/device
 ---
-## Eszköz kikapcsolása után
+## Eszköz kikapcsolása után {#shutdown-device-after}
 Az eszköz kikapcsolásáig tartó inaktivitási időszak beállításához kövesse az alábbi lépéseket.
 
 1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
@@ -24,7 +24,7 @@ Az eszköz kikapcsolásáig tartó inaktivitási időszak beállításához köv
 
     ![VitalControl: menü beállítások Eszköz kikapcsolása után](../images/shutdowndeviceafter.png "Eszköz kikapcsolása után")
 
-## Indítóképernyő
+## Indítóképernyő {#start-up-screen}
 
 Az indítóképernyő beállításához kövesse az alábbi lépéseket.
 
@@ -38,7 +38,7 @@ Az indítóképernyő beállításához kövesse az alábbi lépéseket.
 
     ![VitalControl: menü beállítások Indítóképernyő](../images/startupscreen.png "Indítóképernyő")
 
-## Bemutató mód
+## Bemutató mód {#demonstration-mode}
 
 Ha a bemutató mód van kiválasztva, az eszköz szimulálja a hőmérsékletméréseket, és véletlenszerűen generált hőmérsékletet jelenít meg mért értékként. Ez a mód az eszköz bemutatására szolgál, ha nincs elérhető állat a méréshez. Az eszköz bemutató módjának kikapcsolásához vagy bekapcsolásához kövesse az alábbi lépéseket:
 
@@ -53,7 +53,7 @@ Ha a bemutató mód van kiválasztva, az eszköz szimulálja a hőmérsékletmé
 
     ![VitalControl: menü beállítások Bemutató mód](../images/demonstrationmode.png "Bemutató mód")
 
-## Kijelző fényereje
+## Kijelző fényereje {#display-brightness}
 
 A kijelző fényerejének beállításához kövesse az alábbi lépéseket.
 
@@ -67,7 +67,7 @@ A kijelző fényerejének beállításához kövesse az alábbi lépéseket.
 
     ![VitalControl: menü beállítások Kijelző fényereje](../images/displaybrightness.png "Kijelző fényereje")
 
-## Rezgetés gombnyomáskor
+## Rezgetés gombnyomáskor {#vibration-on-keypress}
 
 A készülék gombnyomáskor történő rezgetésének deaktiválásához vagy aktiválásához kövesse az alábbi lépéseket:
 
@@ -81,7 +81,7 @@ A készülék gombnyomáskor történő rezgetésének deaktiválásához vagy a
 
     ![VitalControl: menü beállítások Kijelző fényereje](../images/vibrationonkeypress.png "Kijelző fényereje")
 
-## Erőforrás-figyelő
+## Erőforrás-figyelő {#resource-monitor}
 
 Az eszköz vibrációs erőforrás-figyelőjének deaktiválásához vagy aktiválásához kövesse az alábbi lépéseket:
 

@@ -11,18 +11,18 @@ categories: [Lijsten]
 tags: [Lijsten, alarm]
 translationKey: lists/alarm
 ---
-## Alarmlijst
+## Alarmlijst {#alarm-list}
 
 Op de alarmlijst vindt u alle dieren die u handmatig aan de lijst heeft toegevoegd of alle dieren die in het geel of rood waren toen de temperatuur werd gemeten. De lijst helpt u om een overzicht te houden van alle opvallende dieren. Ook kunt u voor elk dier op de lijst het volgende doen:
 
-- [Actiemenu](#actiemenu)
-- [Diergegevens](#dier-data)
-- [Temperatuur meten](#temperatuur-meten)
-- [Dier beoordelen](#dier-beoordelen)
-- [Alarm terugzetten](#alarm-terug-zetten)
-- [Bewakingsstatus wisselen](#toogle-watch-status)
-- [Dier zoeken](#dier-zoeken)
-- [Filter instellen](#filter-zetten)
+- [Actiemenu](#full-action-menu)
+- [Diergegevens](#animal-data)
+- [Temperatuur meten](#take-temperature)
+- [Dier beoordelen](#rate-animal)
+- [Alarm terugzetten](#clear-alarm)
+- [Bewakingsstatus wisselen](#toggle-watch-status)
+- [Dier zoeken](#search-animal)
+- [Filter instellen](#set-filter)
 
 De alarmlijst is als volgt gestructureerd:
 
@@ -36,7 +36,7 @@ De alarmlijst is als volgt gestructureerd:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Lichaamstemperatuur" title="Lichaamstemperatuur" /> | De laatst opgenomen koortsmeting wordt onder het symbool getoond met de kleuren van het verkeerslichtsysteem
 | &nbsp;<img src="/icons/actions/rating.svg" width="25" align="bottom" alt="Beoordeling van dier" title="Beoordeling" /> |Het cirkelvormige merkteken onder het symbool toont dat het dier op de bewakingslijst staat
 
-### Voorbereidende stappen
+### Voorbereidende stappen {#preliminary-steps}
 
 1. Selecteer het <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lijsten" /> `Lijsten` menu-item op het hoofdscherm van uw VitalControl-apparaat en druk op de `OK` knop.
 
@@ -46,7 +46,7 @@ De alarmlijst is als volgt gestructureerd:
 
    ![VitalControl Lists Alarmlist](../images/firststeps.png "Voorbereidende Stappen")
 
-### Actiemenu
+### Actiemenu {#full-action-menu}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -58,7 +58,7 @@ De alarmlijst is als volgt gestructureerd:
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Actiemenu")
 
-### Dier data
+### Dier data {#animal-data}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -69,8 +69,8 @@ De alarmlijst is als volgt gestructureerd:
 4. De diergegevens worden nu weergegeven.
 
    ![VitalControl Lists Alarmlist](../images/animaldata.png "Diergegevens")
-
-### Temperatuur meten
+ 
+### Temperatuur meten {#take-temperature}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -82,7 +82,7 @@ De alarmlijst is als volgt gestructureerd:
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Temperatuur meten")
 
-### Dier beoordelen
+### Dier beoordelen {#rate-animal}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -90,11 +90,11 @@ De alarmlijst is als volgt gestructureerd:
 
 3. Binnen de alarmlijst, gebruik de pijltoetsen △ ▽ om het gewenste dier te selecteren en bevestig met `OK`. Als alternatief kunt u zoeken naar een dier. Gebruik de `Aan/Uit` knop <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> en gebruik de pijltoetsen ◁ ▷ △ ▽ om de gewenste cijfers te selecteren. Bevestig ten slotte met `OK`.
 
-4. De functie [Dier beoordelen](/nl/docs/acties/rating/#beoordeel-uw-dieren) wordt nu automatisch gestart.
+4. De functie [Dier beoordelen](/nl/docs/acties/rating/#rate-your-animals) wordt nu automatisch gestart.
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Dier beoordelen")
 
-### Alarm terug zetten
+### Alarm terug zetten {#clear-alarm}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -106,8 +106,8 @@ De alarmlijst is als volgt gestructureerd:
 
    ![VitalControl Lists Alarmlist](../images/clearalarm.png "Alarm terug zetten")
 
-### Toogle watch status
-
+### Toogle watch status {#toggle-watch-status}
+ 
 1. Voltooi de voorbereidende stappen.
 
 2. Gebruik de `F3` toets &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; om een pop-upmenu op te roepen dat de mogelijke acties weergeeft bij het drukken op de `OK` toets. Gebruik de pijltoetsen △ ▽ om de actie `Toogle watch status` te markeren en selecteer de actie door op de centrale `OK` toets of de `F3` toets `OK` te drukken.
@@ -118,7 +118,7 @@ De alarmlijst is als volgt gestructureerd:
 
    ![VitalControl Lists Alarmlist](../images/watchlist.png "Horloge status wisselen")
 
-### Dier zoeken
+### Dier zoeken {#search-animal}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -128,7 +128,7 @@ De alarmlijst is als volgt gestructureerd:
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Dier zoeken")
 
-### Filter zetten
+### Filter zetten {#set-filter}
 
 1. Voltooi de voorbereidende stappen.
 

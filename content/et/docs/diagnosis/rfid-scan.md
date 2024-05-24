@@ -12,7 +12,7 @@ weight: 20
 
 Menüü 'Ulatuse test' abil saate kindlaks teha, kas VitalControl seade suudab lugeda teie käes olevaid transpondereid. Lisaks ühilduvuse kontrollimisele saate mugavalt kindlaks teha ka nende transponderite kasutatava edastusprotokolli ja kuvada transponderil salvestatud numbri.
 
-## Ulatuse testi sooritamine
+## Ulatuse testi sooritamine {#perform-range-test}
 
 1. Avage peamenüüs &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadmes.
 
@@ -30,11 +30,11 @@ Menüü 'Ulatuse test' abil saate kindlaks teha, kas VitalControl seade suudab l
 
 1. Liigutage transponderit mitu korda edasi-tagasi lugemisvälja piiril. Nii saate kindlaks teha RFID skanneri lugemisulatuse koos kasutatavate transponderitega.
 
-## Transponderi kontroll
+## Transponderi kontroll {#transponder-check}
 
 Ülalkirjeldatud ulatuse testi sooritades saate teavet ka erineva päritoluga transponderite kohta:
 
-### Ametlikud transponderiga kõrvamärgid
+### Ametlikud transponderiga kõrvamärgid {#official-transponder-ear-tags}
 
 1. Kui kasutate oma loomadele transponderiga kõrvamärke, millele on kodeeritud looma ametlikult määratud 15-kohaline kõrvamärgi number, kuvatakse ekraanil järgmine teave pärast transponderi lugemist:
 
@@ -46,7 +46,7 @@ Menüü 'Ulatuse test' abil saate kindlaks teha, kas VitalControl seade suudab l
 
     ![VitalControl: transponderiga kõrvamärgi kontroll](../images/transponder-official.png "Info ametlik transponderiga kõrvamärk")
 
-### Kolmandate osapoolte tarnijate transponderid
+### Kolmandate osapoolte tarnijate transponderid {#transponders-from-third-party-vendors}
 
 1. Kui kasutate oma loomade elektrooniliseks identifitseerimiseks kolmandate osapoolte tarnijate, nagu Urban, transpondereid, kuvatakse ekraanil järgmine teave pärast transponderi lugemist:
 

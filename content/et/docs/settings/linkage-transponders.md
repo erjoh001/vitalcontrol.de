@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
 translationKey: settings/link-transponder
 ---
-## Määra ostetud vasikate maksimaalne vanus
+## Määra ostetud vasikate maksimaalne vanus {#set-maximum-age-of-purchased-calves}
 Oma seadmel `Ostetud vasikate maksimaalne vanus` määramiseks toimi järgnevalt.
 
 1. Vali põhiekraanil <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajuta `OK` nuppu.
@@ -22,7 +22,7 @@ Oma seadmel `Ostetud vasikate maksimaalne vanus` määramiseks toimi järgnevalt
 
     ![VitalControl: menüü seaded link transponder](../images/maximumage.png "Ostetud vasikate maksimaalne vanus")
 
-## Looma ID seostamine
+## Looma ID seostamine {#assignment-animal-id}
 
 Oma seadmel `Looma ID seostamine` määramiseks toimi järgnevalt.
 

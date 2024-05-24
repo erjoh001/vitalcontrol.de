@@ -9,7 +9,7 @@ categories: [Filtro]
 tags: [Filtro]
 translationKey: filter
 ---
-## Aplicando filtros
+## Aplicando filtros {#applying-filters}
 
 {{% alert title="NOTA" %}}
 El filtro te ayuda a realizar una selección usando criterios de filtro dentro de los elementos del menú `Hato`, `Listas` y `Evaluación` del dispositivo VitalControl. Tan pronto como apliques un filtro, aparecerán símbolos para los diversos criterios de filtro en la parte superior de la pantalla. Estos símbolos se utilizan para ayudarte a saber si se activaron criterios de filtro y cuáles. Por ejemplo, si configuras el filtro `Sexo` a masculino, el dispositivo solo usará animales machos. Por ejemplo, si también activas el filtro `En observación`, el dispositivo solo usará animales machos que están en la lista de observación.

@@ -11,7 +11,7 @@ categories: [Nimekirjad]
 tags: [Nimekirjad, jälgimisel]
 translationKey: lists/on-watch
 ---
-## Jälgimisnimekirjas
+## Jälgimisnimekirjas {#on-watch-list}
 
 Jälgimisnimekirjas leiad kõik loomad, mille oled käsitsi nimekirja lisanud. Nimekiri aitab sul hoida ülevaadet loomadest, mida oled hinnanud märkimisväärseks. Samuti saad iga nimekirjas oleva looma kohta teha järgmist:
 
@@ -40,7 +40,7 @@ Häirenimekiri on struktureeritud järgmiselt:
 | &nbsp;<img src="/icons/actions/temperature.svg" width="12" align="bottom" alt="Kehatemperatuur" title="Kehatemperatuur" /> | Sümboli all kuvatakse viimane palavikumõõtmine foori värvidega
 | &nbsp;&nbsp;<img src="/icons/header/alarm.svg" width="8" align="bottom" alt="Kuva loom häirenimekirjas" title="Loom häires" /> | Sümboli all olev ring märgib, et loom on häirenimekirjas
 
-### Eelsammud
+### Eelsammud {#preliminary-steps}
 
 1. Valige põhiekraanil <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Listid` menüüpunkt ja vajutage `OK` nuppu.
 
@@ -50,7 +50,7 @@ Häirenimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Eelsammud")
 
-### Eemalda valvelistist
+### Eemalda valvelistist {#remove-from-watch-list}
 
 1. Täitke eelsammud.
 
@@ -62,7 +62,7 @@ Häirenimekiri on struktureeritud järgmiselt:
 
    ![VitalControl Lists On watch list](../images/remove.png "Eemalda valvelistist")
 
-### Lülita häire olekut
+### Lülita häire olekut {#toggle-alarm-status}
 
 1. Täitke eelsammud.
 

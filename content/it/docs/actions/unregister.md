@@ -14,7 +14,7 @@ translationKey: actions/unregister
 Non appena elimini il record dei dati dell'animale, non sarà più disponibile per scopi di valutazione! Se deregistri un animale, ma vuoi ad esempio valutare nuovamente lo sviluppo dell'animale in seguito, devi conservare il record dei dati dell'animale!
 {{% /alert %}}
 
-## Deregistrare
+## Deregistrare {#unregister}
 
 L'azione `Deregistrare` ti permette di deregistrare un animale non appena viene spostato. Per deregistrare un animale, procedi come segue:
 

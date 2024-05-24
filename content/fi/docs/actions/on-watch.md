@@ -11,7 +11,7 @@ tags: [Toiminnat, On Watch]
 translationKey: actions/on-watch
 ---
 
-## On Watch
+## On Watch {#on-watch}
 
 Toiminnolla `On Watch` voit lisätä eläimiä tarkkailulistalle tai poistaa ne sieltä. Tarkkailulista auttaa sinua löytämään huomiota herättävät eläimet nopeammin ja helpommin, mikä tekee päivittäisistä tarkastuksistasi helpompia. Toimiaksesi `On Watch` toiminnolla, toimi seuraavasti:
 

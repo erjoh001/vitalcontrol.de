@@ -11,7 +11,7 @@ categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Het verlies van een dier registreren
+## Het verlies van een dier registreren {#record-the-loss-of-an-animal}
 
 {{% alert title="Hint" %}}
 De functie voor dierverlies in dit menu-item wordt voornamelijk gebruikt om dode kalveren/lammeren te registreren. De instellingsopties zijn dienovereenkomstig aangepast en zijn niet identiek aan de instellingen in het menu `Acties` -> `Afmelden` of `Dier verloren`.

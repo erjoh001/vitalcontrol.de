@@ -10,8 +10,8 @@ Kategorien: [Animaldata]
 Tags: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
-## Odregistrovat zvířata
-
+## Odregistrovat zvířata {#unregister-animals}
+ 
 Odregistrujte zvířata z vašeho VitalControl, která buď překročila věkový limit, nebo jim nebyl přiřazen transpondér. Postupujte následovně:
 
 1. Na hlavní obrazovce vašeho zařízení VitalControl otevřete menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Zařízení`.

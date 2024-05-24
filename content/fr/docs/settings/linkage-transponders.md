@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, Âge maximum, âge maximum des veaux achetés, Attribution ID animal]
 translationKey: settings/link-transponder
 ---
-## Définir l'âge maximum des veaux achetés
+## Définir l'âge maximum des veaux achetés {#set-maximum-age-of-purchased-calves}
 Pour régler l'`Âge maximum des veaux achetés` sur votre appareil, procédez comme suit.
 
 1. Sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
@@ -22,7 +22,7 @@ Pour régler l'`Âge maximum des veaux achetés` sur votre appareil, procédez c
 
     ![VitalControl : paramètres du menu lier le transpondeur](../images/maximumage.png "Âge maximum des veaux achetés")
 
-## Attribution ID animal
+## Attribution ID animal {#assignment-animal-id}
 
 Pour régler l'`Attribution ID animal` sur votre appareil, procédez comme suit.
 
@@ -34,7 +34,7 @@ Pour régler l'`Attribution ID animal` sur votre appareil, procédez comme suit.
 
 4. Utilisez les touches fléchées ◁ ▷ pour régler l'attribution des numéros d'animaux. Si vous sélectionnez le réglage `Dérivation du N° du transpondeur`, vous obtiendrez les options pour régler les `Chiffres du nouvel ID` et le `Offset droit`. Utilisez les touches fléchées △ ▽ pour sélectionner la plage appropriée et les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
 
-5. Sélectionnez l'option `Consécutif` ou `Dérivation du numéro de transpondeur` et procédez comme décrit dans la page [Attribution ID animal](../animal-registration/#chiffre-du-nouvel-identifiant).
+5. Sélectionnez l'option `Consécutif` ou `Dérivation du numéro de transpondeur` et procédez comme décrit dans la page [Attribution ID animal](../animal-registration/#assignment-animal-id).
 
 ![VitalControl : lien du transpondeur dans les paramètres du menu](../images/assignmentanimalid.png "Attribution d'identifiant animal")
 

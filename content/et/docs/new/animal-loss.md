@@ -11,7 +11,7 @@ categories: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---
-## Looma kadumise registreerimine
+## Looma kadumise registreerimine {#record-the-loss-of-an-animal}
 
 {{% alert title="Vihje" %}}
 Selle menüüpunkti looma kadumise funktsioon on peamiselt mõeldud surnud vasikate/lammaste registreerimiseks. Seadistusvõimalused on vastavalt kohandatud ja ei ole identne menüüpunktidega `Tegevused` -> `Eemalda registreering` või `Looma kadu`.

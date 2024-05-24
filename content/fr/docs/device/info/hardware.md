@@ -7,7 +7,7 @@ draft: false
 description: >
  Pour accéder aux informations matérielles de votre appareil, cliquez ici
 ---
-## Obtenir des informations sur le matériel
+## Obtenir des informations sur le matériel {#get-hardware-information}
 
 Pour récupérer les informations matérielles de votre appareil, procédez comme suit :
 

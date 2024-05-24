@@ -8,7 +8,7 @@ description: >
  Λίστα των τρεχουσών εκδόσεων firmware για τη συσκευή VitalControl.
 ---
 
-## Προσδιορίστε τις εγκατεστημένες εκδόσεις firmware στη συσκευή σας
+## Προσδιορίστε τις εγκατεστημένες εκδόσεις firmware στη συσκευή σας {#determine-firmware-versions-installed-on-your-device}
 
 1. Ανοίξτε το στοιχείο μενού <img src="/icons/device.svg" width="25" align="bottom" alt="Συσκευή" /> `Συσκευή` στην κύρια οθόνη της συσκευής σας VitalControl.
 
@@ -16,7 +16,7 @@ description: >
 
 ![VitalControl: προσδιορισμός εκδόσεων firmware](../images/firmware-versions.png "Εμφάνιση εκδόσεων firmware")
 
-## Τελευταίες εκδόσεις firmware:
+## Τελευταίες εκδόσεις firmware: {#latest-firmware-versions}
 
 Ο παρακάτω πίνακας απαριθμεί τις τρέχουσες εκδόσεις firmware:
 

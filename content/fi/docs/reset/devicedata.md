@@ -8,7 +8,7 @@ description: >
   Opi, kuinka nollata kaikki VitalControl-laitteen asetukset.
 categories: [Nollaus]
 ---
-## Kaikkien laitteen tietojen nollaus
+## Kaikkien laitteen tietojen nollaus {#resetting-all-device-data}
 
 1. Avaa päävalikosta kohde <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Laite` VitalControl-laitteessasi.
 

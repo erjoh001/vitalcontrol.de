@@ -11,7 +11,7 @@ weight: 10
 ---
 Liegt auf ihrem Gerät eine Fehlfunktion vor, so sollten Sie in einem ersten Schritt eine Hardwarediagnose durchführen um abzuklären, ob es sich um einen Hardwaredefekt handelt.
 
-## Hardwarediagnose durchführen
+## Hardwarediagnose durchführen {#check-the-hardware-of-your-device}
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
 

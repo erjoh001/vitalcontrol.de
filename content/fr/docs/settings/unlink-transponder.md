@@ -11,7 +11,7 @@ Kategorien: [Paramètres]
 Tags: [Paramètres, Transpondeur, AnimalID]
 translationKey: settings/unlink-transponder
 ---
-## Détacher le Transpondeur
+## Détacher le Transpondeur {#unlink-transponder}
 
 Vous pouvez utiliser ce paramètre pour spécifier comment l'ID de l'animal doit être attribué dès que vous retirez le transpondeur de l'animal. Ce paramètre peut être utilisé si, par exemple, la synchronisation avec le distributeur Urban Alma Pro a été effectuée et les IDs des animaux sur le VitalControl correspondent maintenant au numéro de collier des animaux. Dès que vous retirez le collier et détachez le transpondeur, vous pouvez spécifier que l'ID de l'animal est maintenant dérivé du numéro de la boucle d'oreille. Cela vous permet d'identifier rapidement l'animal dans la grange sans collier.
 
@@ -21,6 +21,6 @@ Vous pouvez utiliser ce paramètre pour spécifier comment l'ID de l'animal doit
 
 3. Utilisez maintenant les boutons fléchés ◁ ▷ pour sélectionner votre paramètre souhaité. Vous pouvez choisir entre `Aucun changement` ou `Dérivation du numéro de la boucle`.
 
-4. L'option de paramètre `Dérivation du numéro de la boucle` vous permet de faire d'autres réglages. Voir [ici](/fr/docs/settings/animal-registration/#décalage-à-droite).
+4. L'option de paramètre `Dérivation du numéro de la boucle` vous permet de faire d'autres réglages. Voir [ici](/fr/docs/settings/animal-registration/#digit-of-the-new-id).
 
    ![VitalControl: Menu Paramètres Détacher le transpondeur](../images/unlink-transponder.png "Détacher le transpondeur")

@@ -14,7 +14,7 @@ translationKey: actions/transponder
 Tämä Toiminnat ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [Toiminnatasetuksissa](../setting/).
 {{% /alert %}}
 
-## Linkitä transponderi
+## Linkitä transponderi {#link-transponder}
 
 Tällä toiminnolla voit asettaa lähettimen eläimelle, jolle ei vielä ole määritetty lähetintä.
 

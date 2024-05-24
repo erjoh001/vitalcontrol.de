@@ -7,7 +7,7 @@ draft: false
 description: >
  Um die Hardwareinformationen ihres Gerätes abzurufen klicken Sie hier
 ---
-## Hardwareinformationen abrufen
+## Hardwareinformationen abrufen {#get-hardware-information}
 
 Um die Hardwareinformationen ihres Gerätes abzurufen gehen Sie wie folgt vor:
 

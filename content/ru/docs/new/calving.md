@@ -11,7 +11,7 @@ categories: [Отел]
 tags: [Отел]
 translationKey: new/calving
 ---
-## Регистрация отела
+## Регистрация отела {#register-a-calving}
 
 Для регистрации отела выполните следующие шаги:
 

@@ -11,7 +11,7 @@ tags: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
 
-## Animal loss
+## Animal loss {#animal-loss}
 
 The action `animal loss` allows you to register an animal loss. To register an animal loss, proceed as follows:
 

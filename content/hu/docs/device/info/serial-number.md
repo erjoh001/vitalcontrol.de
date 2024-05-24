@@ -7,7 +7,7 @@ draft: false
 description: >
  A készülék sorozatszámának lekéréséhez kattintson ide
 ---
-## Sorozatszám lekérése
+## Sorozatszám lekérése {#get-serial-number}	
 
 A készülék sorozatszámának lekéréséhez kövesse az alábbi lépéseket:
 

@@ -14,6 +14,8 @@ translationKey: actions/unregister
 Sobald Sie den Tierdatensatz löschen steht er Ihnen nicht mehr zu Auswertungszwecken zur Verfügung! Sollten Sie ein Tier abmelden, möchten aber im Nachgang z.B. noch einmal die Tierentwicklung auswerten müssen Sie den Tierdatensatz beibehalten!
 {{% /alert %}}
 
+# Abmelden {#unregister}
+
 Die Aktion `Abmelden` ermöglicht es Ihnen ein Tier abzumelden sobald es ausgestallt wird. Um ein Tier abzumelden gehen Sie wie folgt vor:
 
 1. Wählen Sie im Hauptbildschirm Ihres VitalControl-Geräts den Menüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Aktionen" /> `Aktionen` und drücken Sie die Taste `OK`.

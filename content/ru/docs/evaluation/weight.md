@@ -22,15 +22,15 @@ maphilight: true
 <img src="../images/imagemap.png" alt="Оценка VitalControl" title="Вес" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Сегодняшний взвешивание" title="Оцените значения веса ваших животных, записанные с помощью VitalControl на текущий день&#10;Клик мышью: к документации" href="/ru/docs/evaluation/weight/#сегодняшние-взвешивания">
-   <area shape="rect" coords="116,40,238,160" alt="Вес при рождении" title="Оцените сохраненный вес при рождении&#10;Клик мышью: к документации" href="/ru/docs/evaluation/weight/#вес-при-рождении">
-   <area shape="rect" coords="3,160,116,279" alt="Развитие веса" title="Оцените развитие веса ваших животных&#10;Клик мышью: к документации" href="/ru/docs/evaluation/weight/#развитие-веса">
+   <area shape="rect" coords="3,40,116,160" alt="Сегодняшний взвешивание" title="Оцените значения веса ваших животных, записанные с помощью VitalControl на текущий день&#10;Клик мышью: к документации" href="/ru/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Вес при рождении" title="Оцените сохраненный вес при рождении&#10;Клик мышью: к документации" href="/ru/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Развитие веса" title="Оцените развитие веса ваших животных&#10;Клик мышью: к документации" href="/ru/docs/evaluation/weight/#weight-development">
 
    <area shape="rect" coords="150,282,238,319" alt="Фильтр" title="Установить фильтр&#10;Клик мышью: к документации" href="/ru/docs/filter">
    <area shape="rect" coords="2,282,95,319" alt="Назад" title="Вернуться на один уровень назад&#10;Клик мышью: к документации" href="/ru/docs/evaluation/">
 </map>
 
-## Сегодняшние взвешивания
+## Сегодняшние взвешивания {#todays-weighings}
 В этой оценке вы можете увидеть следующую информацию, связанную с взвешиваниями последних 6 часов:
 - Средний вес животного
 - Средний прирост веса с момента рождения
@@ -49,7 +49,7 @@ maphilight: true
 
    ![VitalControl: меню Оценка Взвешивания сегодня](../images/todaysweighings.png "Оценить Взвешивания сегодня")
 
-## Вес при рождении
+## Вес при рождении {#birth-weights}
 В этой оценке вы можете просмотреть следующую информацию:
 - Средний вес при рождении
 - Классы веса
@@ -66,7 +66,7 @@ maphilight: true
 
 ![VitalControl: меню Оценка Вес при рождении](../images/birthweights.png "Оценка веса при рождении")
 
-## Развитие веса
+## Развитие веса {#weight-development}
 
 В этой оценке вы можете увидеть следующую информацию, связанную со всеми взвешиваниями:
 - Средний вес животного

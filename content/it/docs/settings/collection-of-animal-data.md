@@ -12,7 +12,7 @@ tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Panoramica
+## Panoramica {#overview}
 
 Il seguente grafico elenca le impostazioni disponibili riguardanti la registrazione dei dati sugli animali:
 
@@ -30,7 +30,7 @@ Il seguente grafico elenca le impostazioni disponibili riguardanti la registrazi
 Sposta il puntatore del mouse su un simbolo nel grafico sottostante e lascialo fermo per un momento. Apparirà un tooltip che presenta informazioni sull'impostazione rispettiva. Se clicchi su una delle linee, verrai reindirizzato a una descrizione dell'impostazione rispettiva.
 {{% /alert %}}
 
-## Impostazioni *Registrazione del peso* {#settings-weight-recording}
+## Impostazioni *Registrazione del peso* {#settings-weight-recording} 
 
 Il seguente grafico elenca le impostazioni disponibili riguardanti la registrazione del peso degli animali:
 

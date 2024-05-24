@@ -12,7 +12,7 @@ tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---
-## Áttekintés
+## Áttekintés {#overview}
 
 Az alábbi grafika felsorolja az állati adatok rögzítésével kapcsolatos elérhető beállításokat:
 
@@ -30,7 +30,7 @@ Az alábbi grafika felsorolja az állati adatok rögzítésével kapcsolatos el�
 Mozgassa az egérmutatót az alábbi grafikon egy szimbóluma fölé, és hagyja ott egy pillanatra. Egy tooltip jelenik meg, amely információkat nyújt az adott beállításról. Ha rákattint az egyik sorra, az adott beállítás leírásához lesz irányítva.
 {{% /alert %}}
 
-## Beállítások *Súlyrögzítés*
+## Beállítások *Súlyrögzítés* {#settings-weight-recording}
 
 Az alábbi grafika felsorolja az állatok súlyrögzítésével kapcsolatos elérhető beállításokat:
 
@@ -43,7 +43,7 @@ Az alábbi grafika felsorolja az állatok súlyrögzítésével kapcsolatos elé
   <area shape="rect" coords="1,360,230,440" alt="Súlyrögzítés pontossága" title="Súlyrögzítés pontosságának beállítása&#10;Egérkattintás: dokumentáció megnyitása" href="#precision-of-weight-recording">
 </map>
 
-### Napi súlygyarapodás értékelése: Küszöbértékek
+### Napi súlygyarapodás értékelése: Küszöbértékek {#assessment-of-daily-weight-gain-threshold-values}
 
 {{% alert title="Tipp" %}}
 A piros mező a "kritikusan alacsony súlygyarapodás" területét mutatja. A sárga mező a "szuboptimális súlygyarapodás" területét mutatja.
@@ -65,7 +65,7 @@ A napi súlygyarapodás értékeléséhez szükséges küszöbértékek beállí
 
     ![VitalControl: napi súlygyarapodás beállítások menü](../images/dailyweightgain.png "Napi súlygyarapodás")
 
-### Születési súly
+### Születési súly {#birth-weight}
 
 A készülék a beállításokban tárolt születési súlyt használja alapértelmezett értékként új állatok létrehozásakor. Annak érdekében, hogy az újonnan született állat egyedi születési súlyát gyorsabban ki lehessen választani, szükség lehet az alapértelmezett érték beállítására a gazdaság számára. A `születési súly` értékének beállításához kövesse az alábbi lépéseket:
 
@@ -93,7 +93,7 @@ Ha nem kívánja ezt a beállítást elvégezni, vagy ha automatikusan hoz létr
 | Értéktartomány :              | 1,0 és 99 kg között  | 1,0 és 99 kg között |
 {{% /alert %}}
 
-### Átlagos napi súlygyarapodás
+### Átlagos napi súlygyarapodás {#average-daily-weight-gain}
 
 {{% alert title="Magyarázat" %}}
 Amikor egy állatot [lemér](../../actions/record-weight/), a meghatározott napi növekedést használják a javasolt súlyérték kiszámításához az állat mérlegelése során. Ha a javasolt súlyérték túl alacsony vagy túl magas a mérlegelendő állatok többségéhez képest, akkor a meghatározott értéket lefelé vagy felfelé kell módosítania, hogy lerövidítse a súlyérték nyílgombokkal történő beállításához szükséges időt.
@@ -112,7 +112,7 @@ Az állat hozzávetőleges súlyának kiszámításához használt `napi átlago
 
     ![VitalControl: menü beállítások átlagos napi súlygyarapodás](../images/averagedailyweightgain.png "Átlagos napi súlygyarapodás")
 
-### Súlyfelvétel pontossága
+### Súlyfelvétel pontossága {#precision-of-weight-recording}
 
 {{% alert title="Magyarázat" %}}
 Az alkalmazási esettől és az állatfajtól függően (*bárány*, *borjú*, *tehén*) különböző követelmények vannak a rögzítendő súlyérték felbontásával kapcsolatban (*10 g*, *100 g* vagy *1 kg* pontosság). Ezen követelmények teljesítéséhez szükséges a *Maximális pontosság* beállítás használata.
@@ -143,7 +143,7 @@ Az állatok súlyának rögzítésekor a maximális pontosság beállításához
 <br>
 Mentse a beállításokat, és térjen vissza az `Adatgyűjtés` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 
-## Állatértékelési mód
+## Állatértékelési mód {#mode-of-animal-rating}
 
 {{% alert title="Magyarázat" %}}
 Egyszerű módban az állatértékelés során csak az általános állapotot kérdezik le (zöld/sárga/piros). A kiterjesztett értékelés során 4 értékelési kategóriát kérdeznek le: általános állapot, takarmányfogyasztás, hasmenés és légzőszervi betegség.
@@ -162,7 +162,7 @@ Az `Állatok értékelése` beállításához a készülékén járjon el az al�
 
     ![VitalControl: menü beállítások állatok értékelése](../images/raitingofanimals.png "Állatok értékelése")
 
-## Friss tehenek ellenőrzési időszaka
+## Friss tehenek ellenőrzési időszaka {#control-period-of-fresh-cows}
 
 {{% alert title="Magyarázat" %}}
 A friss tehenek kezelésekor a legjobb gyakorlatok közé tartozik az állatok napi ellenőrzése több napon keresztül a születés után, beleértve a hőmérsékletük mérését is. Az ellenőrzési időszak hossza farmonként jelentősen eltérhet. Emiatt az ellenőrzési időszak hossza a VitalControl beállításokban 3 és 14 nap között állítható be. A friss tehenek ellenőrzési időszakára beállított érték határozza meg az oszlopdiagram oszlopainak számát, amely minden állat esetében megjelenik a [friss tehén lista](../../lists/fresh-cows/) alatt.

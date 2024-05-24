@@ -6,7 +6,7 @@ description: >
   Opi, kuinka poistaa kaikki eläimet ja niiden tiedot VitalControl-laitteestasi.
 categories: [Reset]
 ---
-## Kaikkien eläintietojen poistaminen laitteesta
+## Kaikkien eläintietojen poistaminen laitteesta {#erasing-all-animal-data-from-device}
 
 1. Avaa valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` päävalikosta VitalControl-laitteellasi.
 

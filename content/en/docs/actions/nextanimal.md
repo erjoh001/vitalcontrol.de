@@ -11,7 +11,7 @@ tags: [Actions]
 translationKey: actions/next-animal
 draft: true
 ---
-## Next animal
+## Next animal {#next-animal}
 
 Within the `actions` menu you have the option of selecting the next animal at any time without having to leave the Actions menu item. To select the next animal, do the following:
 

@@ -14,7 +14,7 @@ translationKey: evaluation/rating
 Nella configurazione predefinita, tutti gli animali memorizzati su VitalControl sono inclusi nella valutazione. Utilizzando un [filtro](../../filter/) puoi restringere la valutazione a un sottoinsieme degli animali sul tuo dispositivo, ad esempio solo agli animali maschi o agli animali fino a una certa età massima.
 {{% /alert %}}
 
-## Valutare la valutazione
+## Valutare la valutazione {#evaluate-rating}
 
 In questa valutazione puoi vedere le seguenti informazioni come un grafico a torta:
 - Valutazione della condizione degli ultimi tre giorni

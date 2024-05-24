@@ -11,7 +11,7 @@ categories: [settings]
 tags: [settings, units]
 translationKey: settings/units
 ---
-## Hőmérsékleti egység beállítása
+## Hőmérsékleti egység beállítása {#set-temperature-unit}
 
 A hőmérsékleti egység beállításához az eszközén, kövesse az alábbi lépéseket.
 
@@ -25,7 +25,7 @@ A hőmérsékleti egység beállításához az eszközén, kövesse az alábbi l
 
     ![VitalControl: menü beállítások hőmérsékleti egység](../images/temperature.png "Hőmérsékleti egység")
 
-## Tömeg egység beállítása
+## Tömeg egység beállítása {#set-mass-unit}
 
 A tömeg egység beállításához az eszközén, kövesse az alábbi lépéseket.
 

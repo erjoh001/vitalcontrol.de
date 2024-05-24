@@ -11,7 +11,7 @@ weight: 20
 ---
 Über das Menü `Reichweitentest` können Sie die Tauglichkeit des Geräts für ihnen vorliegende Transponder ermitteln. In diesem Zuge können Sie auch bequem das von diesen Transponder verwendete Übertragungsprotokoll ermitteln sowie die auf dem Transponder hinterlegte Nummer anzeigen lassen.
 
-## Reichweitentest durchführen
+## Reichweitentest durchführen {#perform-range-test}
 
 1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
 
@@ -29,11 +29,11 @@ weight: 20
 
 1. Bewegen Sie den Transponder mehrmals an der Grenze des Lesefelds hin un her. So ermitteln Sie die Lesereichweite des RFID-Scanners in Verbindung mit dem von Ihnen verwendeten Transponder.
 
-## Überprüfung von Transpondern
+## Überprüfung von Transpondern {#transponder-check}
 
 Sie können den oben beschriebenen Reichweitentest auch dazu nutzen, um Informationen zu ihnen vorliegenden Transpondern aus verschiedenster Herkunft zu erhalten:
 
-### Offizielle Transponderohrmarken
+### Offizielle Transponderohrmarken {#official-transponder-ear-tags}
 
 1. Setzen Sie für ihre Tiere Transponderohrmarken ein, auf denen die offiziell vergebene, 15-stellige Ohrmarkennummer des Tiers kodiert ist, so werden nach der Erkennung des Transponders folgende Angaben auf dem Bildschirm ausgegeben:
 
@@ -45,7 +45,7 @@ Sie können den oben beschriebenen Reichweitentest auch dazu nutzen, um Informat
 
     ![VitalControl: Überprüfung Transponderohrmarke](../abbildungen/transponder-offiziell.png "Info Transponderohrmarke")
 
-### Transponder verschiedener Anbieter
+### Transponder verschiedener Anbieter {#transponders-from-third-party-vendors}
 
 1. Nutzen Sie für die elektronische Kennzeichnung ihrer Tiere dagegen Transponder von Drittanbietern, wie etwa von Urban, so werden nach der Erkennung des Transponders folgende Angaben auf dem Bildschirm angezeigt:
 

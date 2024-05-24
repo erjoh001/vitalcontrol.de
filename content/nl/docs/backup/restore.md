@@ -17,7 +17,7 @@ Op deze USB-flashstation moet een map `backup` bestaan, die een geldig **gegeven
 In de map `backup` van uw USB-flashstation kunt u meerdere back-upbestanden met de extensie `.vcu` vinden. Het VitalControl-apparaat herstelt altijd de back-upgegevens uit het bestand met de naam `backup.vcu`, dat altijd het nieuwste bestand is. Als u gegevens wilt herstellen vanuit een ouder back-upbestand (dat de back-updatum in de bestandsnaam bevat), moet u dit oudere back-upbestand hernoemen naar `backup.vcu` voordat u het gegevensherstel uitvoert!
 {{% /alert %}}
 
-## Gegevensherstel naar VitalControl-apparaat
+## Gegevensherstel naar VitalControl-apparaat {#data-restoration-to-vitalcontrol-device}
 
 1. Open het menu-item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat` op het hoofdscherm van het VitalControl-apparaat waarop u de gegevens wilt herstellen.
 

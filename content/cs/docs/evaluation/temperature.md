@@ -14,7 +14,7 @@ translationKey: evaluation/temperature
 V základním nastavení jsou do vyhodnocení zahrnuta všechna zvířata uložená na VitalControl. Pomocí [filtru](../../filter/) můžete omezit vyhodnocení na podmnožinu zvířat na vašem zařízení, např. pouze na samce nebo na zvířata do určitého maximálního věku.
 {{% /alert %}}
 
-## Vyhodnotit teplotu
+## Vyhodnotit teplotu {#evaluate-temperature}
 
 V tomto vyhodnocení můžete vidět následující informace:
 - Aktuálně febrilní nemocná zvířata

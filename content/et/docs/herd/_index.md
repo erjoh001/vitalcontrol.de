@@ -11,27 +11,27 @@ categories: [Kari]
 tags: [Kari, Temperatuur, Kaal, Hinnang, Looma andmed]
 translationKey: herd
 ---
-## Kari
+## Kari {#herd}
 
 Karja menüüpunkti all saate vaadata kogu oma karja, otsida üksikuid loomi ja kuvada olulist informatsiooni. Teil on järgmised võimalused:
 
 - Vaata [looma andmeid](#view-animal-data)
 - Vaata [temperatuuri andmeid](#display-temperature)
 - Vaata [hinnangu andmeid](#view-rating)
-- Vaata [kaalu andmeid](#view-rating)
+- Vaata [kaalu andmeid](#display-weight)
 - [Otsi looma](#search-animal)
 - Seadista [filter](#set-filter)
 - [Tegevused](#call-action-menu)
 
-### Ettevalmistavad sammud
-
+### Ettevalmistavad sammud {#preparatory-steps}
+ 
 1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Kari" /> `Kari` ja vajutage `OK` nuppu.
 
 2. Avaneb teie karja ülevaade.
 
     ![VitalControl: Menüü Kari](images/herde.png "Kari")
 
-### Vaata looma andmeid
+### Vaata looma andmeid {#view-animal-data}
 
 1. Täitke ettevalmistavad sammud.
 
@@ -47,7 +47,7 @@ Karja menüüpunkti all saate vaadata kogu oma karja, otsida üksikuid loomi ja 
 Vaikimisi kuvatakse esmalt looma andmed. Ainult siis, kui teil on näiteks kaal kuvatud, peate looma andmete kuvamise uuesti seadistama.
 {{% /alert %}}
 
-### Kuvage temperatuur
+### Kuvage temperatuur {#display-temperature}
 
 1. Täitke ettevalmistavad sammud.
 
@@ -59,8 +59,8 @@ Vaikimisi kuvatakse esmalt looma andmed. Ainult siis, kui teil on näiteks kaal 
 
     ![VitalControl: Menüü Karja](images/temperature.png "Kuva temperatuur")
 
-### Vaata hinnangut
-
+### Vaata hinnangut {#view-rating}
+ 
 1. Viige lõpule ettevalmistavad sammud.
 
 2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb teabekategooriad, mida saab karja nimekirjas kuvada. Kasutage nooleklahve △ ▽, et esile tõsta rida `Hinnang` ja valige see kategooria, vajutades keskset `OK` nuppu või klahvi `F3` `OK`.
@@ -71,7 +71,7 @@ Vaikimisi kuvatakse esmalt looma andmed. Ainult siis, kui teil on näiteks kaal 
 
     ![VitalControl: Menüü Karja](images/rating.png "Vaata hinnangut")
 
-### Kuva kaal
+### Kuva kaal {#display-weight}
 
 1. Viige lõpule ettevalmistavad sammud.
 
@@ -83,7 +83,7 @@ Vaikimisi kuvatakse esmalt looma andmed. Ainult siis, kui teil on näiteks kaal 
 
     ![VitalControl: Menüü Karja](images/weight.png "Kuva kaal")
 
-### Otsi looma
+### Otsi looma {#search-animal}
 
 1. Viige lõpule ettevalmistavad sammud.
 
@@ -93,7 +93,7 @@ Vaikimisi kuvatakse esmalt looma andmed. Ainult siis, kui teil on näiteks kaal 
 
     ![VitalControl: Menüü Kariloom](images/search.png "Otsi looma")
 
-### Seadista filter
+### Seadista filter {#set-filter}
 
 1. Täitke ettevalmistavad sammud.
 
@@ -103,7 +103,7 @@ Vaikimisi kuvatakse esmalt looma andmed. Ainult siis, kui teil on näiteks kaal 
 
     ![VitalControl: Menüü Kariloom](images/setfilter.png "Otsi looma")
 
-### Kutsu esile tegevusmenüü
+### Kutsu esile tegevusmenüü {#call-action-menu}
 
 Teil on alati võimalus looma jaoks tegevusmenüü esile kutsuda.
 

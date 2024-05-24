@@ -28,9 +28,9 @@ Je nach Tierart können Sie bis zu 16 verschiedene Aktionen für ein Tier ausfü
    <area shape="rect" coords="175,225,230,280" alt="Tierverlust" title="Registrieren Sie einen Tierverlust&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/tierverlust/">
    <area shape="rect" coords="3,280,60,336" alt="Transponder zuordnen" title="Ordnen Sie einem Tier einen Transponder zu&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/transponder-zuordnen/">
    <area shape="rect" coords="55,280,120,336" alt="Transponder abnehmen" title="Lösen Sie für ein Tier die bestehende Verknüpfung zu einem Transponder&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/transponder-abnehmen/">
-   <area shape="rect" coords="120,280,175,336" alt="Ohrmarkennummer manuell zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#manuelle-zuordnung">
-   <area shape="rect" coords="175,280,230,336" alt="Ohrmarkennummer mit Scan zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#zuordnung-mittels-scan-einer-elektronischen-ohrmarke">
-   <area shape="rect" coords="100,338,140,374" alt="Einstellungen" title="Rufen Sie die Einstellungen auf&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/einstellung/#menüeinträge-sichtbarkeit-und-reihenfolge">
+   <area shape="rect" coords="120,280,175,336" alt="Ohrmarkennummer manuell zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#link-animal-id">
+   <area shape="rect" coords="175,280,230,336" alt="Ohrmarkennummer mit Scan zuordnen" title="Lernen Sie, wie Sie einem Tier, dem noch keine Ohrmarkennummer zugewiesen wurde, eine Ohrmarkennummer zuordnen&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/ohrmarkennummer-zuordnen/#link-animal-id-with-electronic-ear-tag-scan">
+   <area shape="rect" coords="100,338,140,374" alt="Einstellungen" title="Rufen Sie die Einstellungen auf&#10;Mausklick: zur Dokumentation" href="/docs/aktionen/einstellung/">
 </map>
 
 {{% alert title="Hinweis" %}}

@@ -14,7 +14,7 @@ translationKey: actions/transponder
 ¡Esta acción no está habilitada por defecto! Actívala como se describe en [configuración de acciones](../setting/).
 {{% /alert %}}
 
-## Vincular transpondedor
+## Vincular transpondedor {#link-transponder}
 
 Con esta acción puedes asignar un transpondedor a un animal que aún no ha sido asignado un transpondedor.
 

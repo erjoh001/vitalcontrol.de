@@ -14,7 +14,7 @@ translationKey: evaluation/rating
 In der Standardeinstellung werden alle auf dem VitalControl gespeicherten Tiere in die Auswertung miteinbezogen. Durch die Anwendung eines [Filters](../../filter/) können Sie die Auswertung auf eine Teilmenge der Tiere auf ihrem Gerät beschränken, z.B. nur auf männliche Tiere oder auf Tiere bis zu einem bestimmten Maximalalter.
 {{% /alert %}}
 
-## Bewertung auswerten
+## Bewertung auswerten {#evaluate-rating}
 
 In dieser Auswertung können Sie folgende Informationen als übersichtliches Kreisdiagramm einsehen:
 - Bewertung des Zustandes der letzten drei Tage

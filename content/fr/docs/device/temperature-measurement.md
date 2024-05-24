@@ -11,7 +11,7 @@ categories: [Appareil]
 tags: [Appareil]
 translationKey: device/temperature-measurement
 ---
-## Tester la mesure de température
+## Tester la mesure de température {#test-temperature-measurement}
 
 Ici, vous pouvez tester la mesure de température de votre appareil sans enregistrer la mesure pour un animal. Pour réaliser le test, procédez comme suit :
 

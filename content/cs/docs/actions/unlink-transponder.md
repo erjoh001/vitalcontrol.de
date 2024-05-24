@@ -14,7 +14,7 @@ translationKey: actions/transponder-unlink
 Tato akce není ve výchozím nastavení povolena! Aktivujte ji, jak je popsáno v [nastavení akce](../settings/).
 {{% /alert %}}
 
-## Odpojit transpondér
+## Odpojit transpondér {#unlink-transponder}
 
 Tuto akci můžete použít k odpojení transpondéru, který byl již přiřazen ke zvířeti, od tohoto zvířete.
 

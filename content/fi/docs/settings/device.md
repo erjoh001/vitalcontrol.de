@@ -11,7 +11,7 @@ categories: [asetukset]
 tags: [asetukset, laite]
 translationKey: settings/device
 ---
-## Sammuta laite tämän jälkeen
+## Sammuta laite tämän jälkeen {#shutdown-device-after}
 Asettaaksesi ajanjakson, jonka jälkeen laite kytkeytyy pois päältä toimettomuuden jälkeen, toimi seuraavasti.
 
 1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-nappia.
@@ -24,7 +24,7 @@ Asettaaksesi ajanjakson, jonka jälkeen laite kytkeytyy pois päältä toimettom
 
     ![VitalControl: valikkoasetukset Sammuta laite tämän jälkeen](../images/shutdowndeviceafter.png "Sammuta laite tämän jälkeen")
 
-## Aloitusnäyttö
+## Aloitusnäyttö {#start-up-screen}
 
 Asettaaksesi käynnistysnäytön, toimi seuraavasti.
 
@@ -38,7 +38,7 @@ Asettaaksesi käynnistysnäytön, toimi seuraavasti.
 
     ![VitalControl: valikkoasetukset Aloitusnäyttö](../images/startupscreen.png "Aloitusnäyttö")
 
-## Demotila
+## Demotila {#demonstration-mode}
 
 Jos Demotila on valittu, laite simuloituu lämpötilamittauksia ja näyttää satunnaisesti generoidun lämpötilan mitattuna arvona. Tätä tilaa käytetään laitteen esittelyyn, jos eläimiä ei ole saatavilla mittaukseen. Poistaaksesi tai ottaaksesi käyttöön laitteen Demotilan, toimi seuraavasti:
 
@@ -52,7 +52,7 @@ Jos Demotila on valittu, laite simuloituu lämpötilamittauksia ja näyttää sa
 
     ![VitalControl: valikkoasetukset Demotila](../images/demonstrationmode.png "Demotila")
 
-## Kirkkhaus
+## Kirkkhaus {#display-brightness}
 
 Näytön kirkkauden säätämiseksi toimi seuraavasti.
 
@@ -66,7 +66,7 @@ Näytön kirkkauden säätämiseksi toimi seuraavasti.
 
     ![VitalControl: valikkoasetukset Kirkkhaus](../images/displaybrightness.png "Kirkkhaus")
 
-## Värinä näppäimen painalluksessa
+## Värinä näppäimen painalluksessa {#vibration-on-keypress}
 
 Laitteen näppäimen painalluksen värinän aktivoimiseksi tai deaktivoimiseksi toimi seuraavasti:
 
@@ -80,7 +80,7 @@ Laitteen näppäimen painalluksen värinän aktivoimiseksi tai deaktivoimiseksi 
 
     ![VitalControl: valikkoasetukset Kirkkhaus](../images/vibrationonkeypress.png "Kirkkhaus")
 
-## Resurssien valvonta
+## Resurssien valvonta {#resource-monitor}
 
 Laitteen värinäResurssien valvontan deaktivoimiseksi tai aktivoimiseksi toimi seuraavasti:
 

@@ -12,7 +12,7 @@ weight: 20
 
 Pomocí menu 'Test dosahu' můžete zjistit, zda zařízení VitalControl dokáže číst transpondéry, které máte po ruce. Kromě kontroly kompatibility můžete také pohodlně určit přenosový protokol používaný těmito transpondéry a zobrazit číslo uložené na transpondéru.
 
-## Proveďte test dosahu
+## Proveďte test dosahu {#perform-range-test}
 
 1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
 
@@ -30,11 +30,11 @@ Pomocí menu 'Test dosahu' můžete zjistit, zda zařízení VitalControl doká�
 
 1. Pohybujte transpondérem několikrát tam a zpět na hranici čtecího pole. Tímto způsobem můžete určit čtecí dosah RFID skeneru v kombinaci s transpondéry, které používáte.
 
-## Kontrola transpondéru
+## Kontrola transpondéru {#transponder-check}
 
 Provedením výše popsaného testu dosahu můžete také získat informace o transpondérech z různých zdrojů:
 
-### Oficiální transpondérové ušní známky
+### Oficiální transpondérové ušní známky {#official-transponder-ear-tags}
 
 1. Pokud používáte transpondérové ušní známky pro vaše zvířata, na kterých je zakódováno oficiálně přidělené 15místné číslo ušní známky zvířete, po přečtení transpondéru se na obrazovce zobrazí následující informace:
 
@@ -46,7 +46,7 @@ Provedením výše popsaného testu dosahu můžete také získat informace o tr
 
     ![VitalControl: kontrola transpondérové ušní známky](../images/transponder-official.png "Info oficiální transpondérová ušní známka")
 
-### Transpondéry od dodavatelů třetích stran
+### Transpondéry od dodavatelů třetích stran {#transponders-from-third-party-vendors}
 
 1. Pokud používáte transpondéry od dodavatelů třetích stran, jako je Urban, pro elektronickou identifikaci vašich zvířat, po přečtení transpondéru se na obrazovce zobrazí následující informace:
 

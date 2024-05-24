@@ -11,7 +11,7 @@ categories: [Calving]
 tags: [Calving]
 translationKey: new/calving
 ---
-## Vasika registreerimine
+## Vasika registreerimine {#register-a-calving}
 
 Vasika registreerimiseks toimige järgmiselt:
 

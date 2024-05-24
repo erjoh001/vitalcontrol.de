@@ -10,7 +10,7 @@ categories: [Akce, Řetězec akcí]
 tags: [Akce, Řetězec akcí]
 translationKey: actions/settings
 ---
-## Položky menu
+## Položky menu {#menu-items}
 
 V tomto nastavení určíte, které akce se vám zobrazí v menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Akce`.
 
@@ -28,7 +28,7 @@ V tomto nastavení určíte, které akce se vám zobrazí v menu &nbsp;<img src=
 
     ![VitalControl: Menu Položky menu](../images/menu.png "Položky menu")
 
-## Řetězec akcí
+## Řetězec akcí {#chain-of-actions}
 
 V tomto nastavení nastavíte &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `řetězec akcí`.
 

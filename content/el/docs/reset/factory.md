@@ -7,7 +7,7 @@ description: >
 categories: [Reset]
 translationKey: reset/factory
 ---
-## Εκτέλεση επαναφοράς εργοστασίου
+## Εκτέλεση επαναφοράς εργοστασίου {#performing-a-factory-reset}
 
 1. Ανοίξτε το στοιχείο μενού <img src="/icons/device.svg" width="25" align="bottom" alt="Συσκευή" /> `Συσκευή` στην κύρια οθόνη της συσκευής σας VitalControl.
 

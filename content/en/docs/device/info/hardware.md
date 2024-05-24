@@ -7,7 +7,7 @@ draft: false
 description: >
  To access the hardware information of your device click here
 ---
-## Get hardware information
+## Get hardware information {#get-hardware-information}
 
 To retrieve the hardware information of your device, proceed as follows:
 

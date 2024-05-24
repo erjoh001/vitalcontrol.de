@@ -11,7 +11,7 @@ categories: [Uusi tilalla, Kansallinen eläin-ID]
 tags: [Uusi tilalla, Kansallinen eläin-ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---
-## Ei Transponderia
+## Ei Transponderia {#no-transponder-assigned}
 
 Tämän luettelon käsittely on identtinen `Uusi tilalla, ei transponderia` -luettelon kanssa. Tässä luettelossa löydät kuitenkin kaikki eläimet, joille ei ole vielä määritetty lähetintä, iästä riippumatta.
 

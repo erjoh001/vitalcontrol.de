@@ -8,7 +8,7 @@ description: >
  Rufen Sie Herstellerinformationen ab.
 translationKey: device/info/about
 ---
-## Menü "Über" aufrufen
+## Menü "Über" aufrufen {#call-up-menu-about}
 
 Um Informationen über den Hersteller Ihres Gerätes aufzurufen, gehen Sie wie folgt vor:
 

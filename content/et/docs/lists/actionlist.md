@@ -11,7 +11,7 @@ categories: [Nimekirjad]
 tags: [Nimekirjad, Tegevus]
 translationKey: lists/action
 ---
-## Tegevuste nimekiri
+## Tegevuste nimekiri {#action-list}
 
 Tegevuste nimekirjas näete loomi, kellele pole kuue tunni jooksul tegevusi tehtud. Samuti on saadaval järgmised seadistusvõimalused:
 
@@ -28,7 +28,7 @@ Tegevuste nimekirjas näete loomi, kellele pole kuue tunni jooksul tegevusi teht
 Mõned tegevused tuleb teha samamoodi nagu [häirete nimekirjas](../alarm). Neid siin ei selgitata. Tee eelnevad sammud ja kasuta vastava tegevuse linki juhiste juurde jõudmiseks.
 {{% /alert %}}
 
-### Eelsammud
+### Eelsammud {#preliminary-steps}
 
 1. Valige peamenüüs <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Nimekirjad" />  `Nimekirjad` menüüpunkt ja vajutage `OK` nuppu.
 
@@ -38,7 +38,7 @@ Mõned tegevused tuleb teha samamoodi nagu [häirete nimekirjas](../alarm). Neid
 
    ![VitalControl Nimekirjad Tegevuste nimekiri](../images/firststeps3.png "Eelsammud")
 
-### Kaaluge loomi
+### Kaaluge loomi {#weigh-animals}
 
 1. Täitke eelsammud.
 
@@ -46,11 +46,11 @@ Mõned tegevused tuleb teha samamoodi nagu [häirete nimekirjas](../alarm). Neid
 
 3. Tegevuste nimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage `OK` nupuga. Alternatiivina võite otsida looma. Kasutage `Sees/Väljas` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Otsi" /> ja kasutage nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage `OK`.
 
-4. [Loomade kaalumise](..) menüü avaneb automaatselt.
+4. [Loomade kaalumise](../../actions/record-weight/) menüü avaneb automaatselt.
 
    ![VitalControl Lists Action list](../images/weightanimals.png "Loomade kaalumine")
 
-### Tegevuste jada
+### Tegevuste jada {#chain-of-action}
 
 1. Viige lõpule eelnevad sammud.
 
@@ -62,7 +62,7 @@ Mõned tegevused tuleb teha samamoodi nagu [häirete nimekirjas](../alarm). Neid
 
    ![VitalControl Lists Action list](../images/chainofaction.png "Tegevuste jada")
 
-### Ühenda transponder
+### Ühenda transponder {#link-transponder} 
 
 Seda funktsiooni kasutatakse transponderi lisamiseks loomade andmekirjele, kellele pole veel transponderit määratud.
 
@@ -76,7 +76,7 @@ Seda funktsiooni kasutatakse transponderi lisamiseks loomade andmekirjele, kelle
 
    ![VitalControl Lists Action list](../images/linktransponder.png "Ühenda transponder")
 
-### Peida pärast tegevust
+### Peida pärast tegevust {#hide-after-action}
 
 Kui see funktsioon on aktiveeritud, peidetakse loomad, kellele on tegevus tehtud, tegevuste nimekirjast. Kui see funktsioon on deaktiveeritud, jäävad töödeldud loomad nimekirja nähtavale.
 

@@ -11,7 +11,7 @@ categories: [Device]
 tags: [Device]
 translationKey: device/temperature-measurement
 ---
-## Test misurazione della temperatura
+## Test misurazione della temperatura {#test-temperature-measurement}
 
 Qui puoi testare la misurazione della temperatura del tuo dispositivo senza salvare la misurazione per un animale. Per effettuare il test, procedi come segue:
 

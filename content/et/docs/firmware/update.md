@@ -7,13 +7,13 @@ description: >
 ---
 Esmalt veenduge, et teie seadme jaoks on saadaval [uuem püsivara versioon](../versions/) ja vajadusel uuendage oma seadme püsivara järgmiste juhiste kohaselt.
 
-## Nõutav tarvik
+## Nõutav tarvik {#required-accessory}
 
 Seadmele uuenduse paigaldamiseks on vajalik kahepoolne USB mälupulk (2-in-1 USB mälupulk) tüüp-C/USB 3.0 USB C ja USB A pistikutega. Selline kahepoolne USB mälupulk on teie seadmega kaasas. Võite sellise USB mälupulga osta ka erinevatelt müüjatelt.
 
 ![Kahepoolne USB mälupulk (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Kahepoolne USB mälupulk")
 
-## Ettevalmistus: laadi alla viimane püsivara
+## Ettevalmistus: laadi alla viimane püsivara {#preparation-download-latest-firmware}
 
 1. Sisesta oma USB mälupulk arvuti USB pistikusse. Seejärel loo oma mälupulga juurkataloogi uus kaust nimega 'update'.
 
@@ -31,7 +31,7 @@ Andmete varukoopia on soovitatav ettevaatusabinõu. Kõik olemasolevad looma- ja
 
 [andmete varukoopia]: {{< relref "../backup/backup/" >}}
 
-## Viige läbi püsivara uuendus
+## Viige läbi püsivara uuendus {#perform-firmware-update}
 
 1. Avage oma VitalControl seadme põhiekraanil menüüpunkt `Seade`.
 

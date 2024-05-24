@@ -11,7 +11,7 @@ tags: [Azioni, Allarme]
 translationKey: actions/alarm
 ---
 
-## Allerta
+## Allerta {#alert}
 
 Con l'azione `Allarme` puoi mettere gli animali nella lista di allarme o rimuoverli da essa. La lista di allarme ti aiuta a trovare animali sospetti più rapidamente e facilmente, rendendo più semplici i controlli di routine quotidiani. Per applicare l'azione `Allarme`, procedi come segue:
 

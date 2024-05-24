@@ -11,15 +11,15 @@ tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 
-## Koorts meten
+## Koorts meten {#measure-fever}
 
 Gebruik de temperatuuractie om de temperatuur van uw dieren te meten. Breng de meettip rectaal in tot de gespecificeerde meetdiepte (voor grote dieren de volledige lengte tot aan de verdikking, voor kleine herkauwers ongeveer 6 cm of 2/3 van de meettip). Het meetproces verloopt automatisch. Zodra het meetproces is voltooid, toont het apparaat de gemeten temperatuur. De kleurcodering geeft aan of de temperatuur zich in het groene, gele of rode bereik bevindt. U heeft een aantal opties tijdens de campagne Temperatuur meten:
 
-- [Sla het resultaat op](#resultaat-opslaan) om de meting dierspecifiek te documenteren
-- Plaats het dier op de [Kijklijst](#toevoegen-aan-watchlist). Dit maakt het gemakkelijker voor u om de herhalingen te controleren, aangezien u deze dieren kunt oproepen met behulp van de 'observatielijst' en zo de opvallende dieren gemakkelijker kunt vinden.
-- Zet de [Verlichting van de Meetlocatie](#verlichting-van-de-meetlocatie-aan-en-uit) aan en uit
-- [Herhaal meting](#herhaal-meting)
-- De [Actie annuleren](#annuleer-de-actie)
+- [Sla het resultaat op](#save-result) om de meting dierspecifiek te documenteren
+- Plaats het dier op de [Kijklijst](#put-on-the-watch-list). Dit maakt het gemakkelijker voor u om de herhalingen te controleren, aangezien u deze dieren kunt oproepen met behulp van de 'observatielijst' en zo de opvallende dieren gemakkelijker kunt vinden.
+- Zet de [Verlichting van de Meetlocatie](#lighting-of-the-measurement-location-on-and-off) aan en uit
+- [Herhaal meting](#repeat-the-measurement)
+- De [Actie annuleren](#cancel-the-action)
 
 {{% alert title="Hint" %}}
 Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is, plaatst VitalControl automatisch het geselecteerde dier op de alarmlijst. Door correlatie met andere gegevens kunt u de gezondheid van het individuele dier continu monitoren.
@@ -45,7 +45,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Resultaat opslaan
+### Resultaat opslaan {#save-result}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -53,7 +53,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 
     ![VitalControl: Menu Acties Resultaat opslaan](../images/saveresults.png "Resultaat opslaan")
 
-### Toevoegen aan Watchlist
+### Toevoegen aan Watchlist {#put-on-the-watch-list}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -63,7 +63,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 
     ![VitalControl: Menu Acties Toevoegen aan Watchlist](../images/watchlist.png "Toevoegen aan Watchlist")
 
-### Verlichting van de meetlocatie aan en uit
+### Verlichting van de meetlocatie aan en uit {#lighting-of-the-measurement-location-on-and-off}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -73,7 +73,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 
     ![VitalControl: Menu Acties Lamp aan uit](../images/light.png "Lamp aan uit")
 
-### Herhaal meting
+### Herhaal meting {#repeat-the-measurement}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -83,7 +83,7 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
 
     ![VitalControl: Menu Actions herhaal meting](../images/repeat.png "herhaal meting")
 
-### Annuleer de actie
+### Annuleer de actie {#cancel-the-action}
 
 1. Voltooi de voorbereidende stappen.
 
@@ -92,5 +92,5 @@ Als de temperatuur in het gele gebied ("verhoogd") of rode gebied ("koorts") is,
     ![VitalControl: Menu Actions Cancel the action](../images/saveresults.png "Annuleer de actie")
 
 {{% alert title="Hint" %}}
-Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/setting/#menuonderdelen) menu. Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
+Als deze actie niet beschikbaar is, is de actie waarschijnlijk gedeactiveerd! Activeer de actie in het [actie-instellingen](/nl/docs/acties/setting/) menu. Als alternatief zal het resetten van alle acties die actie weer naar voren brengen.
 {{% /alert %}}

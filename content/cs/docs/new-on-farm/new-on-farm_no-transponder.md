@@ -11,7 +11,7 @@ categories: [Nový na farmě, transpondér]
 tags: [Nový na farmě, transpondér]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
-### Nový na farmě, bez transpondéru
+### Nový na farmě, bez transpondéru {#new-on-farm-no-transponder}
 
 V tomto seznamu najdete všechna nově vytvořená zvířata s maximálním věkem X dní, kterým ještě nebyl přiřazen transpondér. Maximální věk můžete nastavit [zde](/cs/docs/settings/animal-registration/#set-default-values). Jakmile od těchto zvířat získáte transpondér, můžete v seznamu vyhledat odpovídající ID zvířete a naskenovat přidružený transpondér. Transpondér je pak automaticky přiřazen zvířeti a zvíře je ze seznamu odstraněno. Pro přiřazení transpondéru postupujte následovně:
 
@@ -42,7 +42,7 @@ Jakmile přiřadíte všechna zvířata, máte možnost být přesměrováni na 
 ![VitalControl: Menu Nové na farmě, bez transpondéru](../images/redirect.png "Přesměrování")
 {{% /alert %}}
 
-## Předchozí dodatečné akce
+## Předchozí dodatečné akce {#previous-additional-actions}
 
 Pomocí předchozích dodatečných akcí můžete nastavit, které akce chcete provést před přiřazením transpondéru. Můžete si vybrat mezi měřením teploty, hodnocením zvířete a vážením zvířete. Příslušná akce je uložena přímo pro zvíře, které následně přiřadíte. Postupujte následovně:
 
@@ -61,6 +61,6 @@ Položka menu `poslední akce na OK:` vás informuje, že přiřazení transpond
 
 ![VitalControl: Menu Nové na farmě, bez transpondéru](../images/actions.png "Další akce")
 
- ## Další položky menu
+ ## Další položky menu {#further-menu-items}
 
 Máte také možnost vybrat mezi `nastavení`, `hledat zvíře` a `nastavit filtr` ve vyskakovacím okně. Pomocí šipek △ ▽ přejděte na příslušnou položku menu a potvrďte `OK`. Informace pro položku menu `nastavení` naleznete [zde](/cs/docs/settings/animal-registration/#set-default-values), pro `nastavit filtr` [zde](/cs/docs/filter/) a pro `hledat zvíře` postupujte jako v kroku 3 `nové na farmě, bez transpondéru`.

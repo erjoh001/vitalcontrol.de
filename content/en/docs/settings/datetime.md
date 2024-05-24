@@ -11,7 +11,7 @@ categories: [Settings]
 tags: [Settings, Date & Time]
 translationKey: settings/datetime
 ---
-## To set the date
+## To set the date {#to-set-the-date}
 {{% alert title="Warning" color="warning" %}}
 Make sure the date and time are set correctly. Otherwise, the timestamps of the measurements and the birth dates of newly added animals will be incorrect!
 {{% /alert %}}
@@ -28,7 +28,7 @@ To set the date on your device, follow these steps:
 
     ![VitalControl: menu settings date](../images/date.png "To set the date")
 
-## To set the time
+## To set the time {#to-set-the-time}
 
 To set the time on your device, follow these steps:
 

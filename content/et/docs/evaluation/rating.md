@@ -14,7 +14,7 @@ translationKey: evaluation/rating
 Vaikimisi seadistuses on kõik VitalControl'is salvestatud loomad hindamisel arvesse võetud. Kasutades [filtrit](../../filter/) saate hindamist piirata seadme teatud loomade alamhulgaga, näiteks ainult isaste loomade või teatud maksimaalse vanuseni loomadega.
 {{% /alert %}}
 
-## Hinda reitingut
+## Hinda reitingut {#evaluate-rating}
 
 Selles hindamises näete järgmist teavet sektordiagrammina:
 - Viimase kolme päeva seisundi hindamine

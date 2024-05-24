@@ -11,7 +11,7 @@ Categories: [Animal]
 tags: [Animal, Temperature, Height, Animal data]
 translationKey: animal/animal
 ---
-## Animal
+## Animal {#animal}
 
 The individual animal function allows you to view important information about weight, temperature and rating for each individual animal. You always have the option of displaying the information as a graphic or as a list. To use the single animal function, proceed as follows:
 
@@ -26,7 +26,7 @@ Within each information display you have the option of [searching for an animal]
 You can also switch between the individual animals at any time using the arrow keys ◁ ▷.
 {{% /alert %}}
 
-### Set graphical view
+### Set graphical view {#set-graphical-view}
 
 1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Set filter`, `Search animal`, or `Graphical view`.
 
@@ -34,7 +34,7 @@ You can also switch between the individual animals at any time using the arrow k
 
 ![VitalControl: Menu Animal](images/graphic.png "Representation as a graphic")
 
-### Search animal
+### Search animal {#search-animal}
 
 1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Set filter`, `Search animal`, or `Graphical view`.
 
@@ -44,7 +44,7 @@ You can also switch between the individual animals at any time using the arrow k
 
 ![VitalControl: Menu Animal](images/search.png "Search animal")
 
-### Set filter
+### Set filter {#set-filter}
 
 1. Press the middle upper `On/Off` button <img src="/icons/footer/search_chart.svg" width="40" align="bottom" alt="Open pop up menu" /> in order to open a pop up menu. In this menu, you may choose between the functions `Set filter`, `Search animal`, or `Graphical view`.
 

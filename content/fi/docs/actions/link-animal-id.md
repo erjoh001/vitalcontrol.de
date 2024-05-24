@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 Tämä toiminto ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuvattu [toimintoasetuksissa](../setting/).
 {{% /alert %}}
 
-## Linkitä eläimen ID
+## Linkitä eläimen ID {#link-animal-id}
 
 Määritä Kansallinen eläin ID eläimelle, jolla ei ole kansallista eläintunnusta, seuraavasti:
 
@@ -40,7 +40,7 @@ Määritä Kansallinen eläin ID eläimelle, jolla ei ole kansallista eläintunn
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Linkitä eläimen ID elektroniseen korvamerkkiskannaukseen
+## Linkitä eläimen ID elektroniseen korvamerkkiskannaukseen {#link-animal-id-with-electronic-ear-tag-scan}
 
 Eläimen kansallisen tunnuksen määrittämiseksi eläimelle, jolla on elektroninen korvamerkki, toimi seuraavasti:
 

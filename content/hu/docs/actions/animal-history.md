@@ -11,7 +11,7 @@ tags: [Actions, Állattörténet]
 translationKey: actions/animalshistory
 ---
 
-## Állattörténet
+## Állattörténet {#animal-history}
 
 Az állattörténet áttekintést nyújt az eddig rögzített adatokról és a kiválasztott állat fejlődéséről. Szabadon választhatja ki a megjelenített információkat. Azt is kiválaszthatja, hogy a történetet táblázatként vagy diagramként szeretné-e megjeleníteni. Az állattörténet segít megállapítani, hogy ezek az állatok mikor voltak utoljára feltűnőek. Emellett átláthatóságot teremt, ha több ember végzi az állatvizsgálatot.
 

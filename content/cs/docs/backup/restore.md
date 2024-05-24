@@ -17,7 +17,7 @@ Na tomto USB flash disku musí existovat adresář `backup`, který musí obsaho
 V adresáři `backup` na vašem USB flash disku můžete najít několik záložních souborů s příponou `.vcu`. Zařízení VitalControl vždy obnovuje záložní data ze souboru s názvem `backup.vcu`, což je vždy nejnovější soubor. Pokud chcete obnovit data ze staršího záložního souboru (který obsahuje datum zálohy v názvu souboru), musíte tento starší záložní soubor přejmenovat na `backup.vcu` před provedením obnovení dat!
 {{% /alert %}}
 
-## Obnovení dat na zařízení VitalControl
+## Obnovení dat na zařízení VitalControl {#data-restoration-to-vitalcontrol-device}
 
 1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce zařízení VitalControl, na které chcete data obnovit.
 

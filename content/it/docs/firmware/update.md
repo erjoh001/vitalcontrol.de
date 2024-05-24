@@ -7,13 +7,13 @@ description: >
 ---
 Innanzitutto, assicurati che una [versione firmware più recente](../versions/) sia disponibile per il tuo dispositivo e, se necessario, aggiorna il firmware del tuo dispositivo seguendo le istruzioni seguenti.
 
-## Accessorio richiesto
+## Accessorio richiesto {#required-accessory}
 
 Per installare l'aggiornamento sul tuo dispositivo, hai bisogno di una chiavetta USB duale (2-in-1 USB stick) Type-C/USB 3.0 con un connettore USB C e un connettore USB A. Una tale chiavetta USB duale viene fornita insieme al tuo dispositivo. Puoi anche acquistare una tale chiavetta USB da diversi fornitori.
 
 ![Chiavetta USB duale (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg "Chiavetta USB duale")
 
-## Preparazione: scarica il firmware più recente
+## Preparazione: scarica il firmware più recente {#preparation-download-latest-firmware}
 
 1. Inserisci la tua chiavetta USB nel connettore USB del tuo computer. Quindi crea una nuova directory denominata 'update' nella directory principale della tua chiavetta USB.
 
@@ -31,7 +31,7 @@ Il backup dei dati è una misura precauzionale raccomandata. Tutti i dati degli 
 
 [backup dei dati]: {{< relref "../backup/backup/" >}}
 
-## Eseguire l'aggiornamento del firmware
+## Eseguire l'aggiornamento del firmware {#perform-firmware-update}
 
 1. Apri la voce di menu `Dispositivo` nella schermata principale del tuo dispositivo VitalControl.
 

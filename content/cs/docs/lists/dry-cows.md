@@ -11,7 +11,7 @@ categories: [Seznamy]
 tags: [Seznamy, suchá kráva]
 translationKey: lists/dry-cows
 ---
-## Seznam suchých krav
+## Seznam suchých krav {#dry-cows-list}
 
 Na seznamu suchých zvířat najdete všechna zvířata, která jste uložili jako suchá zvířata. Tento seznam vám pomůže sledovat vaše suché krávy a provádět potřebné akce na zvířatech. Můžete provádět následující akce:
 
@@ -28,7 +28,7 @@ Na seznamu suchých zvířat najdete všechna zvířata, která jste uložili ja
 Některé akce je třeba provádět stejným způsobem jako v [seznamu alarmů](../alarm). Ty zde nejsou vysvětleny. Proveďte předběžné kroky a použijte odkaz příslušné akce, abyste se dostali k pokynům.
 {{% /alert %}}
 
-### Předběžné kroky
+### Předběžné kroky {#preliminary-steps}
 
 1. Vyberte položku menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Seznamy" /> `Seznamy` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
 
@@ -38,7 +38,7 @@ Některé akce je třeba provádět stejným způsobem jako v [seznamu alarmů](
 
    ![VitalControl Seznamy Seznam suchých krav](../images/firststeps5.png "Předběžné kroky")
 
-## Telení
+## Telení {#calving}
 
 1. Dokončete předběžné kroky.
 

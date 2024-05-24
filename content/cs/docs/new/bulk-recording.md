@@ -11,7 +11,7 @@ categories: [Hromadný záznam]
 tags: [Hromadný záznam]
 translationKey: new/bulk-recording
 ---
-## Hromadný záznam
+## Hromadný záznam {#bulk-recording}
 
 S pomocí hromadné registrace můžete zachytit velké množství zvířat v krátkém čase a uložit je do svého zařízení. Použijte čtečku čárových kódů k naskenování čárových kódů pro číslo ušní známky a datum narození na pasech skotu. Zvíře je automaticky uloženo a můžete okamžitě naskenovat další pas. Pro provedení hromadné registrace zvířat postupujte následovně:
 
@@ -37,7 +37,7 @@ V položce menu `Hromadné nahrávání` máte další možnosti nastavení. Ty 
 Během procesu skenování se mohou objevit chybové zprávy. V tomto případě čtečka čárových kódů vydá zvuk a další skenování není možné. Potvrďte odpovídající chybovou zprávu na displeji VitalControl a pokračujte ve skenování.
 {{% /alert %}}
 
-### Povinné datum narození
+### Povinné datum narození {#birth-date-mandatory}
 
 S touto možností nastavení můžete určit, zda musí být při vytváření zvířat uvedeno datum narození. Pokud tuto možnost deaktivujete, stačí naskenovat čárový kód pro uložení zvířete. Pro tato zvířata je však jako datum narození uloženo aktuální datum! Tato funkce je ve výchozím nastavení povolena. Pro deaktivaci postupujte následovně:
 
@@ -51,7 +51,7 @@ S touto možností nastavení můžete určit, zda musí být při vytváření 
 
 ![VitalControl: Menu Nové Datum narození povinné](../images/birthdate.png "Datum narození povinné")
 
-### Výchozí hodnoty
+### Výchozí hodnoty {#default-values}
 
 V nabídce nastavení `Výchozí hodnoty` nastavíte standardy, které platí pro každé zvíře, které vytvoříte. Proces vytváření pomocí čtečky čárových kódů zůstává nezměněn, jak je popsáno výše. Máte možnost nastavit typ hospodářských zvířat, pohlaví, plemeno a místo pobytu. Pro nastavení `Výchozí hodnoty` postupujte následovně:
 
@@ -65,7 +65,7 @@ V nabídce nastavení `Výchozí hodnoty` nastavíte standardy, které platí pr
 
 ![VitalControl: Menu Nové Výchozí hodnoty](../images/defaultvalues.png "Výchozí hodnoty")
 
-### Zaznamenané hodnoty
+### Zaznamenané hodnoty {#recorded-values}
 
 V nabídce nastavení `Zaznamenané hodnoty` můžete určit, které hodnoty by měly být zachyceny kromě čísla ušní známky a data narození. Můžete si vybrat mezi `Plemeno`, `Pohlaví`, `Místo pobytu`, `Aktuální hmotnost`, `Porodní hmotnost` a `Typ zvířete`. Jakmile nastavíte alespoň jednu hodnotu, proces se během skenování změní. Nejprve naskenujte číslo ušní známky a datum narození. Poté pomocí směrových kláves △ ▽ vyberte hodnoty, které chcete nastavit, a nastavte hodnoty. Poté uložte své záznamy pomocí klávesy `F3`. Teprve potom je zvíře vytvořeno! Pro nastavení hodnot, které mají být zaznamenány, postupujte následovně:
 

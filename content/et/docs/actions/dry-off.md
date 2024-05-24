@@ -11,13 +11,13 @@ tags: [Kuivatamine]
 translationKey: actions/dry-cows
 ---
 
-## Kuivatamine
+## Kuivatamine {#dry-off}
 
 {{% alert title="Vihje" %}}
 Sõltuvalt lehma algsest seisundist võid looma kuivatada ja lisada ta kuivatite nimekirja või märgistada looma värskelt lüpsvaks ja seega lisada ta värskete lüpsjate nimekirja. Funktsioonide vaheline eristamine on tehtud pluss- või miinussümboliga.
 {{% /alert %}}
 
-### Lehma kuivatamine
+### Lehma kuivatamine {#dry-off-a-cow}
 
 1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `toimingud` ja vajuta `OK` nuppu.
 
@@ -37,7 +37,7 @@ Sõltuvalt lehma algsest seisundist võid looma kuivatada ja lisada ta kuivatite
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Märgi kui lüpsnud
+### Märgi kui lüpsnud {#mark-as-lactated}
 
 1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `toimingud` ja vajuta `OK` nuppu.
 

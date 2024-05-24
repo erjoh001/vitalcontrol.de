@@ -8,7 +8,7 @@ description: >
 categories: [Reset]
 translationKey: reset/factory
 ---
-## Performing a factory reset
+## Performing a factory reset {#performing-a-factory-reset}
 
 1. Open the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
 

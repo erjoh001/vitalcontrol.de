@@ -14,7 +14,7 @@ translationKey: actions/national-animal-id
 This action is not enabled by default! Activate this as described in [action settings](../setting/).
 {{% /alert %}}
 
-## Link animal ID
+## Link animal ID {#link-animal-id}
 
 To assign a national animal ID to an animal that does not have a national animal ID, proceed as follows:
 
@@ -40,7 +40,7 @@ To assign a national animal ID to an animal that does not have a national animal
 {{% /tab %}}
 {{< /tabpane >}}
 
-## Link animal ID with electronic ear tag scan
+## Link animal ID with electronic ear tag scan {#link-animal-id-with-electronic-ear-tag-scan}
 
 To assign a national animal ID to an animal that has an electronic ear tag, proceed as follows:
 

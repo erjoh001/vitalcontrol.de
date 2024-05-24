@@ -10,7 +10,7 @@ Kategorien: [Animaldata]
 Tags: [Animaldata, Désinscription]
 translationKey: device/unregister-animals
 ---
-## Désinscrire les animaux
+## Désinscrire les animaux {#unregister-animals}
 
 Désinscrire les animaux de votre VitalControl qui ont soit dépassé une limite d'âge, soit n'ont pas été assignés à un transpondeur. Procédez comme suit :
 

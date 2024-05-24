@@ -11,7 +11,7 @@ categories: [Nieuw op boerderij]
 tags: [Nieuw op boerderij]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
-## Geen oormerk toegewezen
+## Geen oormerk toegewezen {#no-national-animal-id-assigned}
 
 In deze lijst vindt u alle dieren die nog geen dier-ID hebben toegewezen gekregen. U kunt een dier-ID toewijzen aan de dieren in deze lijst.
 
@@ -30,7 +30,7 @@ In deze lijst vindt u alle dieren die nog geen dier-ID hebben toegewezen gekrege
 7. Sla de instelling op met de toets `F3` <img src="/icons/footer/save.svg" width="24" align="bottom" alt="Opslaan" />&nbsp;. Het dier is succesvol een nationale dier-ID toegewezen en uit de lijst verwijderd.
 
 {{% alert title="Hint" %}}
-Onder [Laatste actie op OK](#laatste-actie-op-ok) kun je instellen of je het oormerknummer handmatig of via scan wilt invoeren. Selecteer het voorbeeldscherm volgens je instelling.
+Onder [Laatste actie op OK](#last-action-on-ok) kun je instellen of je het oormerknummer handmatig of via scan wilt invoeren. Selecteer het voorbeeldscherm volgens je instelling.
 {{% /alert %}}
 
 {{< tabpane >}}
@@ -43,7 +43,7 @@ Onder [Laatste actie op OK](#laatste-actie-op-ok) kun je instellen of je het oor
 {{% /tab %}}
 {{< /tabpane >}}    
 
-## Laatste actie op OK
+## Laatste actie op OK {#last-action-on-ok}
 
 Je kunt de extra acties gebruiken om in te stellen welke acties je wilt uitvoeren voordat je de nationale dier-ID toewijst. Je kunt kiezen tussen het meten van de temperatuur, het beoordelen van het dier en het wegen van het dier. De respectievelijke actie wordt direct opgeslagen voor het dier dat je vervolgens toewijst. Ga als volgt te werk:
 
@@ -61,7 +61,7 @@ Je kunt de extra acties gebruiken om in te stellen welke acties je wilt uitvoere
 U kunt de toewijzing van het oormerknummer per scan alleen gebruiken als u elektronische oormerken gebruikt!
 {{% /alert %}}
 
-## Vorige toegevoegde acties
+## Vorige toegevoegde acties {#previous-additional-actions}
 
 U kunt de vorige extra acties gebruiken om in te stellen welke acties u wilt uitvoeren voordat u het oormerknummer toewijst. U kunt kiezen tussen het meten van de temperatuur, het beoordelen van het dier en het wegen van het dier. De respectievelijke actie wordt direct voor het dier opgeslagen dat u vervolgens toewijst. Ga als volgt te werk:
 
@@ -77,6 +77,6 @@ U kunt de vorige extra acties gebruiken om in te stellen welke acties u wilt uit
 
     ![Lijst van gekochte dieren, geen nationaal dier-ID toegewezen](../images/aidditional-actions.png "Geen nationaal dier-ID toegewezen, Link")
 
- ## Verdere menu-items
+ ## Verdere menu-items {#further-menu-items}
 
 U heeft ook de optie om te kiezen tussen `Dier zoeken` en `Filter zetten` in de pop-up. Gebruik de pijlknoppen △ ▽ om naar het respectievelijke menu-item te navigeren en bevestig met `OK`. De informatie voor `Filter zetten` [hier](/nl/docs/filter/) en voor `Dier zoeken` ga verder zoals in stap 4 van `Geen oormerk toegewezen`.

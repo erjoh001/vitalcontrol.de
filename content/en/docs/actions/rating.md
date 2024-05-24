@@ -11,7 +11,7 @@ tags: [Actions, Rating]
 translationKey: actions/animal-rating
 ---
 
-## Rate your animals
+## Rate your animals {#rate-your-animals}
 
 When rating the animal, you document the condition of the individual animal. The condition is determined visually and recorded with the help of the traffic light system. In the basic assessment, only the general condition is recorded. In the extended evaluation you record the general condition, feed intake, consistency of faeces  and respiratory diseases. You can either change the rating mode directly in the <img src="/icons/actions/rating.svg" width="30" align="bottom" alt="Rating" /> `Rating` action or you can define it in the [settings](../../settings/data-acquisition/#mode-of-animal-rating).
 
@@ -35,7 +35,7 @@ A yellow or red evaluation means that VitalControl classifies the animal as cons
 If you do not make a selection using the arrow keys ◁ ▷ but save directly using the `F3` or `OK` key, VitalControl saves a neutral assessment, represented by a gray color.
 {{% /alert %}}
 
-### Basic rating
+### Basic rating {#basic-rating}
 
 {{< tabpane >}}
 {{< tab header="Basic rating:" text=true disabled=true />}}
@@ -47,7 +47,7 @@ If you do not make a selection using the arrow keys ◁ ▷ but save directly us
 {{% /tab %}}
 {{< /tabpane >}}
 
-### Extended Rating
+### Extended Rating {#extended-rating}
 
 {{< tabpane >}}
 {{< tab header="Basic rating:" text=true disabled=true />}}

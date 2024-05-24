@@ -10,8 +10,8 @@ Kategorien: [Animaldata]
 Tags: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
-## Dieren afmelden
-
+## Dieren afmelden {#unregister-animals}
+ 
 Meld dieren af van uw VitalControl die ofwel een leeftijdsgrens hebben overschreden of aan wie geen transponder is toegewezen. Ga als volgt te werk:
 
 1. Open op het hoofdscherm van uw VitalControl-apparaat het menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Apparaat" /> `Apparaat`.
