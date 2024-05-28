@@ -13,9 +13,9 @@ translationKey: backup
 
 ## Realizar copia de seguridad de datos {#perform-data-backup}
 
-1. Abra el elemento de menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
+1. Abra el elemento de menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="{{< T "Device" >}}" /> `{{< T "Device" >}}` en la pantalla principal de su dispositivo VitalControl.
 
-2. Invoque el submenú `Gestión de datos` y seleccione posteriormente el elemento de submenú `Copia de seguridad de datos`. Ahora seleccione el elemento de menú `Crear copia de seguridad` y confirme con `OK`. Se le pedirá que inserte una unidad flash USB:
+2. Invoque el submenú `{{< T "DataManagement" >}}` y seleccione posteriormente el elemento de submenú `{{< T "DataBackup" >}}`. Ahora seleccione el elemento de menú `{{< T "CreateBackup" >}}` y confirme con `OK`. Se le pedirá que inserte una unidad flash USB:
 
    ![VitalControl: ruta de menú copia de seguridad de datos](../images/backup.png "Invoque copia de seguridad de datos")
 

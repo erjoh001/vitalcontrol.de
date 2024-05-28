@@ -13,9 +13,9 @@ translationKey: backup
 
 ## Perform data backup {#perform-data-backup}
 
-1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
+1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="{{< T "Device" >}}" /> `{{< T "Device" >}}` in the main screen of your VitalControl device.
 
-2. Invoke the submenu `Data management` and select the submenu item `Data backup` afterwards. Now select the menu item `Create backup` and confirm with `OK`. You are now asked to insert an USB flash drive:
+2. Invoke the submenu `{{< T "DataManagement" >}}` and select the submenu item `{{< T "DataBackup" >}}` afterwards. Now select the menu item `{{< T "CreateBackup" >}}` and confirm with `OK`. You are now asked to insert an USB flash drive:
 
    ![VitalControl: menu path data backup](../images/backup.png "Invoke data backup")
 

@@ -14,9 +14,9 @@ translationKey: backup
 
 ## Datensicherung durchführen {#perform-data-backup}
 
-1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Gerät" /> `Gerät`.
+1. Öffnen Sie im Hauptbildschirm Ihres VitalControl-Geräts das Menü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="{{< T "Device" >}}" /> `{{< T "Device" >}}`.
 
-2. Wechseln Sie ins Untermenü `Datenmanagement` und wählen Sie dort den ersten Eintrag `Datensicherung` aus. Wählen Sie nun die Zeile `Datensicherung erstellen` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, einen USB-Stick einzustecken.
+2. Wechseln Sie ins Untermenü `{{< T "DataManagement" >}}` und wählen Sie dort den ersten Eintrag `{{< T "DataBackup" >}}` aus. Wählen Sie nun die Zeile `{{< T "CreateBackup" >}}` und bestätigen Sie mit `OK`. Das Gerät fordert Sie jetzt dazu auf, einen USB-Stick einzustecken.
 
    ![VitalControl: Menüfolge Erstellung Datensicherung](../images/backup.png "Datensicherung aufrufen")
 
