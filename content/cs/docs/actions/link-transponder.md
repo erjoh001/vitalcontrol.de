@@ -18,11 +18,11 @@ Tato akce není ve výchozím nastavení povolena! Aktivujte ji, jak je popsáno
 
 S touto akcí můžete přiřadit transponder zvířeti, které ještě nemá přiřazený transponder.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `Akce` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Vyberte požadované zvíře ze seznamu. Potvrďte to stisknutím `OK` a vyberte ID zvířete pomocí šipek △ ▽. Potvrďte stisknutím `OK`.
+2. Vyberte požadované zvíře ze seznamu. Potvrďte to stisknutím `{{<T "Ok" >}}` a vyberte ID zvířete pomocí šipek △ ▽. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> `Link transponder` a potvrďte stisknutím `OK`.
+3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> `{{<T "LinkTransponder" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Nyní naskenujte transponder, který chcete přiřadit zvířeti.
 

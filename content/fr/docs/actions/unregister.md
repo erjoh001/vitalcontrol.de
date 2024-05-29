@@ -16,17 +16,17 @@ Dès que vous supprimez l'enregistrement des données de l'animal, il n'est plus
 
 ## Désinscription {#unregister}
 
-L'action `Désinscrire` vous permet de désinscrire un animal dès qu'il est déplacé. Pour désinscrire un animal, procédez comme suit :
+L'action `{{<T "Unregister" >}}` vous permet de désinscrire un animal dès qu'il est déplacé. Pour désinscrire un animal, procédez comme suit :
 
-1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
+1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Soit scannez un animal à l'aide du transpondeur, soit sélectionnez un animal dans la liste. Confirmez avec `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
+2. Soit scannez un animal à l'aide du transpondeur, soit sélectionnez un animal dans la liste. Confirmez avec `{{<T "Ok" >}}` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Désinscrire" /> `Désinscrire` et confirmez avec `OK`.
+3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Désinscrire" /> `{{<T "Unregister" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 4. Un autre sous-menu s'ouvre dans lequel vous pouvez enregistrer divers paramètres. Utilisez les touches fléchées △ ▽ pour sélectionner l'option de paramètre souhaitée. Utilisez les touches fléchées ◁ ▷ pour sélectionner le paramètre souhaité.
 
-5. Utilisez la touche `F3` `Désinscrire` pour désinscrire l'animal avec les paramètres spécifiés.
+5. Utilisez la touche `F3` `{{<T "Unregister" >}}` pour désinscrire l'animal avec les paramètres spécifiés.
 
 {{< tabpane >}}
 {{< tab header="Désinscription :" text=true disabled=true />}}

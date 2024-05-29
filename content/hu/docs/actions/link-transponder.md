@@ -18,11 +18,11 @@ Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [m�
 
 Ezzel a művelettel egy transzpondert rendelhet egy olyan állathoz, amelyhez még nem lett transzponder hozzárendelve.
 
-1. A VitalControl készülék főképernyőjén válassza ki a menüpontot &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Művelet` és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a menüpontot &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Válassza ki a kívánt állatot a listából. Ehhez erősítse meg az `OK` gombbal, és válassza ki az állat azonosítóját a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Válassza ki a kívánt állatot a listából. Ehhez erősítse meg az `{{<T "Ok" >}}` gombbal, és válassza ki az állat azonosítóját a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü az állatműveletekkel. Használja a ◁ ▷ △ ▽ nyílgombokat a &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> `Link transponder` művelet kiválasztásához, és erősítse meg az `OK` gombbal.
+3. Megnyílik egy almenü az állatműveletekkel. Használja a ◁ ▷ △ ▽ nyílgombokat a &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> `{{<T "LinkTransponder" >}}` művelet kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Most olvassa be a transzpondert, amelyet az állathoz szeretne rendelni.
 

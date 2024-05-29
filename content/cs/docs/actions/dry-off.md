@@ -19,11 +19,11 @@ V závislosti na počátečním stavu krávy můžete buď osušit zvíře a př
 
 ### Osušit krávu {#dry-off-a-cow}
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `actions` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte transpondér zvířete bez národního ID zvířete, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `OK` a vyberte ID zvířete pomocí šipek △ ▽. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte transpondér zvířete bez národního ID zvířete, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `{{<T "Ok" >}}` a vyberte ID zvířete pomocí šipek △ ▽. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi zvířete. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Osušit" /> `Dry off` a potvrďte tlačítkem `OK`.
+3. Otevře se podmenu s akcemi zvířete. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Osušit" /> `{{<T "DryOff" >}}` a potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 4. Zvíře bylo úspěšně označeno jako suché.
 
@@ -39,12 +39,12 @@ V závislosti na počátečním stavu krávy můžete buď osušit zvíře a př
 
 ### Označit jako laktovanou {#mark-as-lactated}
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `actions` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte transpondér zvířete bez národního ID zvířete, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `OK` a vyberte ID zvířete pomocí šipek △ ▽. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte transpondér zvířete bez národního ID zvířete, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `{{<T "Ok" >}}` a vyberte ID zvířete pomocí šipek △ ▽. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 
-3. Otevře se podnabídka s akcemi pro zvířata. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Osušit" /> `Osušit` a potvrďte `OK`.
+3. Otevře se podnabídka s akcemi pro zvířata. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Osušit" /> `{{<T "DryOff" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 4. Zvíře bylo úspěšně označeno jako laktující.
 

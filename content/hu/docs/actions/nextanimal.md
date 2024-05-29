@@ -13,13 +13,13 @@ draft: true
 ---
 ## Következő állat {#next-animal}
 
-Az `akciók` menüben bármikor kiválaszthatja a következő állatot anélkül, hogy el kellene hagynia az Akciók menüpontot. A következő állat kiválasztásához tegye a következőket:
+Az `{{<T "Actions" >}}` menüben bármikor kiválaszthatja a következő állatot anélkül, hogy el kellene hagynia az Akciók menüpontot. A következő állat kiválasztásához tegye a következőket:
 
-1. A VitalControl készülék főképernyőjén válassza ki az `akciók` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki az `{{<T "Actions" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy olvassa be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Ehhez erősítse meg az `OK` gombbal, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy olvassa be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Ehhez erősítse meg az `{{<T "Ok" >}}` gombbal, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü az állat akcióival. Az alsó vezérlősávban megtalálja a `következő állat` menüpontot. Használja az `F3` gombot ennek végrehajtásához.
+3. Megnyílik egy almenü az állat akcióival. Az alsó vezérlősávban megtalálja a Next animal menüpontot. Használja az `F3` gombot ennek végrehajtásához.
 
 4. Az ablak a második lépéstől automatikusan újra megnyílik, és kiválaszthatja a következő állatot.
 

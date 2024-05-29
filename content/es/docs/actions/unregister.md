@@ -16,17 +16,17 @@ translationKey: actions/unregister
 
 ## Anular registro {#unregister}
 
-La acción `Anular registro` te permite Anular registro a un animal tan pronto como se traslade. Para Anular registro a un animal, procede de la siguiente manera:
+La acción `{{<T "Unregister" >}}` te permite Anular registro a un animal tan pronto como se traslade. Para Anular registro a un animal, procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `Acciones` y presiona el botón `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `{{<T "Actions" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Escanea un animal usando el transpondedor o selecciona un animal de la lista. Confirma con `OK` y selecciona un animal con las teclas de flecha △ ▽. Confirma con `OK`.
+2. Escanea un animal usando el transpondedor o selecciona un animal de la lista. Confirma con `{{<T "Ok" >}}` y selecciona un animal con las teclas de flecha △ ▽. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre un submenú con las acciones del animal. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar la acción &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Anular registro" /> `Anular registro` y confirma con `OK`.
+3. Se abre un submenú con las acciones del animal. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar la acción &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Anular registro" /> `{{<T "Unregister" >}}` y confirma con `{{<T "Ok" >}}`.
 
 4. Se abre otro submenú en el que puedes guardar varios ajustes. Usa las teclas de flecha △ ▽ para seleccionar la opción de ajuste deseada. Usa las teclas de flecha ◁ ▷ para seleccionar el ajuste deseado.
 
-5. Usa la tecla `F3` `Anular registro` para Anular registro al animal con los ajustes especificados.
+5. Usa la tecla `F3` `{{<T "Unregister" >}}` para Anular registro al animal con los ajustes especificados.
 
 {{< tabpane >}}
 {{< tab header="Anular registro:" text=true disabled=true />}}

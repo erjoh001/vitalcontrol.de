@@ -17,6 +17,6 @@ Se non hai bisogno di questa funzione, puoi disattivarla nel menu [impostazioni 
 
 ## Registra un parto {#register-a-calving}
 
-Non appena hai inserito il menu delle azioni, seleziona l'elemento del menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `Parto` e conferma con `OK`. Procedi come descritto nelle istruzioni [Registrazione di un parto](/it/docs/new/calving/).
+Non appena hai inserito il menu delle azioni, seleziona l'elemento del menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` e conferma con `{{<T "Ok" >}}`. Procedi come descritto nelle istruzioni [Registrazione di un parto](/it/docs/new/calving/).
 
    ![VitalControl: Menu Azioni Parto](../images/calving.png "Parto")

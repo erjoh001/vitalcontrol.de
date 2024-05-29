@@ -13,13 +13,13 @@ draft: true
 ---
 ## Seuraava eläin {#next-animal}
 
-`toiminnot`-valikossa sinulla on mahdollisuus valita seuraava eläin milloin tahansa poistumatta Toiminnot-valikosta. Seuraavan eläimen valitsemiseksi toimi seuraavasti:
+`{{<T "Actions" >}}`-valikossa sinulla on mahdollisuus valita seuraava eläin milloin tahansa poistumatta Toiminnot-valikosta. Seuraavan eläimen valitsemiseksi toimi seuraavasti:
 
-1. Valitse päävalikosta `toiminnot` ja paina `OK`-näppäintä.
+1. Valitse päävalikosta `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listalta. Vahvista valinta painamalla `OK` ja valitse eläin käyttäen nuolinäppäimiä △ ▽. Vahvista valinta painamalla `OK`.
+2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listalta. Vahvista valinta painamalla `{{<T "Ok" >}}` ja valitse eläin käyttäen nuolinäppäimiä △ ▽. Vahvista valinta painamalla `{{<T "Ok" >}}`.
 
-3. Alivalikko eläimen toiminnoille avautuu. Alaosan ohjauspalkista löydät valikon kohdan `seuraava eläin`. Käytä `F3`-näppäintä suorittaaksesi tämän.
+3. Alivalikko eläimen toiminnoille avautuu. Alaosan ohjauspalkista löydät valikon kohdan Next animal. Käytä `F3`-näppäintä suorittaaksesi tämän.
 
 4. Ikkuna vaiheesta kaksi avautuu automaattisesti uudelleen ja voit valita seuraavan eläimen.
 

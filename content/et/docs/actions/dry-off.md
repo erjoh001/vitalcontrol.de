@@ -19,11 +19,11 @@ Sõltuvalt lehma algsest seisundist võid looma kuivatada ja lisada ta kuivatite
 
 ### Lehma kuivatamine {#dry-off-a-cow}
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `toimingud` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `{{<T "Actions" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Skaneeri kas looma transponder ilma riikliku looma ID-ta või vali loom nimekirjast. Selleks kinnita `OK` ja vali looma ID nooltega △ ▽. Kinnita `OK`.
+2. Skaneeri kas looma transponder ilma riikliku looma ID-ta või vali loom nimekirjast. Selleks kinnita `{{<T "Ok" >}}` ja vali looma ID nooltega △ ▽. Kinnita `{{<T "Ok" >}}`.
 
-3. Avaneb alammenüü looma toimingutega. Kasuta nooli ◁ ▷ △ ▽, et valida toiming <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Kuivata" /> `Kuivata` ja kinnita `OK`.
+3. Avaneb alammenüü looma toimingutega. Kasuta nooli ◁ ▷ △ ▽, et valida toiming <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Kuivata" /> `{{<T "DryOff" >}}` ja kinnita `{{<T "Ok" >}}`.
 
 4. Loom on edukalt märgistatud kui kuivatatud.
 
@@ -39,11 +39,11 @@ Sõltuvalt lehma algsest seisundist võid looma kuivatada ja lisada ta kuivatite
 
 ### Märgi kui lüpsnud {#mark-as-lactated}
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `toimingud` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `{{<T "Actions" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Skaneeri kas looma transponder ilma riikliku looma ID-ta või vali loom nimekirjast. Selleks kinnita `OK` ja vali looma ID nooltega △ ▽. Kinnita `OK`.
+2. Skaneeri kas looma transponder ilma riikliku looma ID-ta või vali loom nimekirjast. Selleks kinnita `{{<T "Ok" >}}` ja vali looma ID nooltega △ ▽. Kinnita `{{<T "Ok" >}}`.
 
-3. Avaneb alammenüü loomade tegevustega. Kasutage nooleklahve ◁ ▷ △ ▽ tegevuse <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Kuivata" /> `Kuivata` valimiseks ja kinnitage `OK`-ga.
+3. Avaneb alammenüü loomade tegevustega. Kasutage nooleklahve ◁ ▷ △ ▽ tegevuse <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Kuivata" /> `{{<T "DryOff" >}}` valimiseks ja kinnitage `{{<T "Ok" >}}`-ga.
 
 4. Loom on edukalt märgitud lakteerituks.
 

@@ -18,11 +18,11 @@ Tämä toiminto ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuv
 
 Tällä toiminnolla voit irrottaa jo eläimeen kiinnitetyn transponderin tästä eläimestä.
 
-1. Valitse VitalControl-laitteesi päävalikosta kohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-nappia.
+1. Valitse VitalControl-laitteesi päävalikosta kohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläin halutulla transponderilla tai valitse eläin transponderilla listasta. Vahvista tämä painamalla `OK` ja valitse eläimen tunnus nuolinäppäimillä △ ▽. Vahvista painamalla `OK`.
+2. Joko skannaa eläin halutulla transponderilla tai valitse eläin transponderilla listasta. Vahvista tämä painamalla `{{<T "Ok" >}}` ja valitse eläimen tunnus nuolinäppäimillä △ ▽. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Alivalikko eläimen toiminnoista avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Poista transponderin linkitys" /> `Poista transponderin linkitys` ja vahvista painamalla `OK`.
+3. Alivalikko eläimen toiminnoista avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Poista transponderin linkitys" /> `{{<T "UnlinkTransponder" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 4. Transponderi onnistuneesti irrotettu eläimestä.
 

@@ -27,11 +27,11 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
 ### Alustavat vaiheet 
 
-1. Valitse VitalControl-laitteesi päänäytössä valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `Toiminnot` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteesi päänäytössä valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Joko skannaa eläin transponderilla tai valitse eläin listalta. Vahvista `OK`-painikkeella ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `OK`-painikkeella.
+2. Joko skannaa eläin transponderilla tai valitse eläin listalta. Vahvista `{{<T "Ok" >}}`-painikkeella ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`-painikkeella.
 
-3. Alivalikko eläintoiminnoille avautuu. Toiminto <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Lämpötila" /> `Lämpötila` on automaattisesti valittuna. Vahvista `OK`-painikkeella.
+3. Alivalikko eläintoiminnoille avautuu. Toiminto <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Lämpötila" /> `{{<T "Temperature" >}}` on automaattisesti valittuna. Vahvista `{{<T "Ok" >}}`-painikkeella.
 
 4. Suorita mittaus. Heti kun mittaus on valmis, lämpötila korostetaan sinisenä, vihreänä, keltaisena tai punaisena asetetun kynnyksen mukaan.
 
@@ -49,7 +49,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Tallenna" /> tai vahvista `OK`-painikkeella tuloksen tallentamiseksi.
+2. Käytä `F3`-näppäintä <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Tallenna" /> tai vahvista `{{<T "Ok" >}}`-painikkeella tuloksen tallentamiseksi.
 
     ![VitalControl: Valikko Toiminnot Tallenna tulokset](../images/saveresults.png "Tallenna tulokset")
 
@@ -59,7 +59,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
 2. Paina keskimmäistä yläpuolella olevaa `On/Off`-painiketta <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Avaa ponnahdusikkuna" />.
 
-3. Ponnahdusvalikko avautuu, josta voit valita valikkokohteista `Toista mittaus`, `Lisää katsottavien listaan` tai `Valo`. Käytä nuolinäppäimiä △ ▽ valitaksesi `Lisää katsottavien listaan` ja paina keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+3. Ponnahdusvalikko avautuu, josta voit valita valikkokohteista `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` tai `{{<T "Flashlight" >}}`. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "AddToWatchList" >}}` ja paina keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
     ![VitalControl: Valikko Toiminnot Lisää katsottavien listaan](../images/watchlist.png "Lisää katsottavien listaan")
 
@@ -69,7 +69,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
 2. Paina keskimmäistä yläpuolella olevaa `On/Off`-painiketta <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Avaa ponnahdusikkuna" />.
 
-3. Ponnahdusvalikko avautuu, josta voit valita valikkokohteista `Toista mittaus`, `Lisää katsottavien listaan` tai `Valo`. Käytä nuolinäppäimiä △ ▽ valitaksesi `Valo` ja paina keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+3. Ponnahdusvalikko avautuu, josta voit valita valikkokohteista `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` tai `{{<T "Flashlight" >}}`. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Flashlight" >}}` ja paina keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
     ![VitalControl: Valikko Toiminnot Valo päälle pois](../images/light.png "Valo päälle pois")
 
@@ -79,7 +79,7 @@ Jos lämpötila on keltaisella alueella ("kohonnut") tai punaisella alueella ("k
 
 2. Paina keskimmäistä yläreunan `On/Off` -painiketta <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Avaa ponnahdusikkuna" />.
 
-3. Ponnahdusvalikko avautuu, josta voit valita valikkokohteista `Toista mittaus`, `Lisää katselulistalle` tai `Valo`. Käytä nuolinäppäimiä △ ▽ valitaksesi `Toista mittaus` ja paina keskimmäistä `OK` -näppäintä tai `F3` -näppäintä `OK`.
+3. Ponnahdusvalikko avautuu, josta voit valita valikkokohteista `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` tai `{{<T "Flashlight" >}}`. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RepeatMeasurement" >}}` ja paina keskimmäistä `{{<T "Ok" >}}` -näppäintä tai `F3` -näppäintä `{{<T "Ok" >}}`.
 
     ![VitalControl: Valikon toiminnot Valo päällä pois päältä](../images/repeat.png "Valo päällä pois päältä")
 

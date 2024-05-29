@@ -13,13 +13,13 @@ draft: true
 ---
 ## Next animal {#next-animal}
 
-Within the `actions` menu you have the option of selecting the next animal at any time without having to leave the Actions menu item. To select the next animal, do the following:
+Within the `{{<T "Actions" >}}` menu you have the option of selecting the next animal at any time without having to leave the Actions menu item. To select the next animal, do the following:
 
-1. On the main screen of your VitalControl device, select the menu item `actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item `{{<T "Actions" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Either scan an animal using the transponder or select an animal from the list. To do this, confirm with `OK` and select an animal using the arrow keys △ ▽. Confirm with `OK`.
+2. Either scan an animal using the transponder or select an animal from the list. To do this, confirm with `{{<T "Ok" >}}` and select an animal using the arrow keys △ ▽. Confirm with `{{<T "Ok" >}}`.
 
-3. A submenu with the animal actions opens. In the lower control bar you can find the menu item `next animal`. Use the `F3` key to execute this.
+3. A submenu with the animal actions opens. In the lower control bar you can find the menu item Next animal. Use the Next animal key to execute this.
 
 4. The window from step two automatically opens again and you can select the next animal.
 

@@ -27,11 +27,11 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 ### Preliminary steps {#preliminary-steps}
 
-1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Either scan an animal using the transponder or select an animal from the list. Confirm with `{{<T "Ok" >}}` and select an animal with the arrow keys △ ▽. Confirm with `{{<T "Ok" >}}`.
 
-3. A submenu with the animal actions opens. The action <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" /> `Temperature` is automatically selected. Confirm with `OK`.
+3. A submenu with the animal actions opens. The action <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" /> `{{<T "Temperature" >}}` is automatically selected. Confirm with `{{<T "Ok" >}}`.
 
 4. Now carry out the measurement. As soon as the measurement is completed, the temperature is highlighted in blue, green, yellow or red, depending on the threshold set.
 
@@ -49,7 +49,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or confirm with `OK` to save the result.
+2. Use the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or confirm with `{{<T "Ok" >}}` to save the result.
 
     ![VitalControl: Menu Actions Save results](../images/saveresults.png "Save results")
 
@@ -59,7 +59,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A popup menu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` or `Flashlight`. Use the arrow keys △ ▽ to select `Add to watch list` and press the central `OK` key or the `F3` key `OK`.
+3. A popup menu opens in which you can select from the menu items `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` or `{{<T "Flashlight" >}}`. Use the arrow keys △ ▽ to select `{{<T "AddToWatchList" >}}` and press the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Actions Put on watch list](../images/watchlist.png "Put on watch list")
 
@@ -69,7 +69,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A popup menu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` or `Flashlight`. Use the arrow keys △ ▽ to select `Flashlight` and press the central `OK` key or the `F3` key `OK`.
+3. A popup menu opens in which you can select from the menu items `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` or `{{<T "Flashlight" >}}`. Use the arrow keys △ ▽ to select `{{<T "Flashlight" >}}` and press the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Actions Flashlight on off](../images/light.png "Flashlight on off")
 
@@ -79,7 +79,7 @@ If the temperature is in the yellow area ("elevated") or red area ("fever"), Vit
 
 2. Press the middle upper `On/Off` button <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. A popup menu opens in which you can select from the menu items `Repeat measurement`, `Add to watch list` or `Flashlight`. Use the arrow keys △ ▽ to select `Repeat measurement` and press the central `OK` key or the `F3` key `OK`.
+3. A popup menu opens in which you can select from the menu items `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` or `{{<T "Flashlight" >}}`. Use the arrow keys △ ▽ to select `{{<T "RepeatMeasurement" >}}` and press the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Actions Light on off](../images/repeat.png "Light on off")
 

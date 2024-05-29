@@ -19,11 +19,11 @@ Dependiendo del estado inicial de la vaca, puedes secar al animal y añadirlo a 
 
 ### Secar una vaca {#dry-off-a-cow}
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `acciones` y presiona el botón `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `{{<T "Actions" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Escanea el transpondedor del animal sin la ID nacional del animal o selecciona el animal de la lista. Para hacer esto, confirma con `OK` y selecciona la ID del animal usando las teclas de flecha △ ▽. Confirma con `OK`.
+2. Escanea el transpondedor del animal sin la ID nacional del animal o selecciona el animal de la lista. Para hacer esto, confirma con `{{<T "Ok" >}}` y selecciona la ID del animal usando las teclas de flecha △ ▽. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre un submenú con las acciones del animal. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar la acción <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Secar" /> `Secar` y confirma con `OK`.
+3. Se abre un submenú con las acciones del animal. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar la acción <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Secar" /> `{{<T "DryOff" >}}` y confirma con `{{<T "Ok" >}}`.
 
 4. El animal fue marcado exitosamente como seco.
 
@@ -39,11 +39,11 @@ Dependiendo del estado inicial de la vaca, puedes secar al animal y añadirlo a 
 
 ### Marcar como lactada {#mark-as-lactated}
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `acciones` y presiona el botón `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `{{<T "Actions" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Escanea el transpondedor del animal sin la ID nacional del animal o selecciona el animal de la lista. Para hacer esto, confirma con `OK` y selecciona la ID del animal usando las teclas de flecha △ ▽. Confirma con `OK`.
+2. Escanea el transpondedor del animal sin la ID nacional del animal o selecciona el animal de la lista. Para hacer esto, confirma con `{{<T "Ok" >}}` y selecciona la ID del animal usando las teclas de flecha △ ▽. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre un submenú con las acciones del animal. Utiliza las teclas de flecha ◁ ▷ △ ▽ para seleccionar la acción <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Dry off" /> `Secar` y confirma con `OK`.
+3. Se abre un submenú con las acciones del animal. Utiliza las teclas de flecha ◁ ▷ △ ▽ para seleccionar la acción <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Dry off" /> `{{<T "DryOff" >}}` y confirma con `{{<T "Ok" >}}`.
 
 4. El animal fue marcado exitosamente como lactado.
 

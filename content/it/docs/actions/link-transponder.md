@@ -18,11 +18,11 @@ Questa azione non è abilitata di default! Attivala come descritto nelle [impost
 
 Con questa azione puoi assegnare un transponder a un animale a cui non è ancora stato assegnato un transponder.
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Azione` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Seleziona l'animale desiderato dall'elenco. Per fare ciò, conferma con `OK` e seleziona l'ID dell'animale utilizzando i tasti freccia △ ▽. Conferma con `OK`.
+2. Seleziona l'animale desiderato dall'elenco. Per fare ciò, conferma con `{{<T "Ok" >}}` e seleziona l'ID dell'animale utilizzando i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> `Link transponder` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> `{{<T "LinkTransponder" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. Ora scansiona il transponder che vuoi assegnare all'animale.
 

@@ -13,7 +13,7 @@ translationKey: actions/edit
 
 ## Állatadatok szerkesztése {#edit-animal-data}
 
-A <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Szerkesztés` művelet lehetővé teszi a kiválasztott állat adatainak közvetlen módosítását. Ez a funkció megkönnyíti az állatadatok javítását, ha például az állatvizsgálat során kiderül, hogy a nem helytelenül lett elmentve. A következő adatokat módosíthatja:
+A <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `{{<T "Edit" >}}` művelet lehetővé teszi a kiválasztott állat adatainak közvetlen módosítását. Ez a funkció megkönnyíti az állatadatok javítását, ha például az állatvizsgálat során kiderül, hogy a nem helytelenül lett elmentve. A következő adatokat módosíthatja:
 
 - Állat típusa
 - Nem
@@ -28,17 +28,17 @@ A <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Sz
 
 Az állatadatok módosításához kövesse az alábbi lépéseket:
 
-1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Műveletek` menüpontot és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` menüpontot és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy szkenneljen be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `OK` gombbal, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy szkenneljen be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `{{<T "Ok" >}}` gombbal, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü az állatműveletekkel. Használja a ◁ ▷ △ ▽ nyílgombokat a <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `Szerkesztés` művelet kiválasztásához, és erősítse meg az `OK` gombbal.
+3. Megnyílik egy almenü az állatműveletekkel. Használja a ◁ ▷ △ ▽ nyílgombokat a <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `{{<T "Edit" >}}` művelet kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Megnyílik egy lista az állat adataival. Használja a △ ▽ nyílgombokat a kívánt módosítási lehetőség kiválasztásához.
 
-5. Az `Állat típusa`, `Nem`, `Születési súly`, `Fajta`, `Tartózkodási hely`, `Többszörös` és `Ellési könnyűség` adatok esetében használja a ◁ ▷ nyílgombokat a kívánt módosítás elvégzéséhez.
+5. Az `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` és `{{<T "CalvingEase" >}}` adatok esetében használja a ◁ ▷ nyílgombokat a kívánt módosítás elvégzéséhez.
 
-6. Az `Azonosító` és `Születési dátum` adatok esetében válassza ki őket a △ ▽ nyílgombokkal, és erősítse meg az `OK` gombbal. Használja a △ ▽ nyílgombokat a megfelelő szám kiválasztásához, és a ◁ ▷ nyílgombokat a számmezőkön belüli navigáláshoz.
+6. Az `{{<T "ID" >}}` és `{{<T "DateBirth" >}}` adatok esetében válassza ki őket a △ ▽ nyílgombokkal, és erősítse meg az `{{<T "Ok" >}}` gombbal. Használja a △ ▽ nyílgombokat a megfelelő szám kiválasztásához, és a ◁ ▷ nyílgombokat a számmezőkön belüli navigáláshoz.
 
 7. Mentse a módosítást az `F3` gombbal.
 

@@ -13,13 +13,13 @@ translationKey: actions/animal-loss
 
 ## Ztráta zvířete {#animal-loss}
 
-Akce `ztráta zvířete` vám umožňuje zaregistrovat ztrátu zvířete. Pro zaregistrování ztráty zvířete postupujte následovně:
+Akce `{{<T "AnimalLoss" >}}` vám umožňuje zaregistrovat ztrátu zvířete. Pro zaregistrování ztráty zvířete postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `Akce` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře pomocí transpondéru nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `OK` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte zvíře pomocí transpondéru nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `{{<T "Ok" >}}` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Ztráta zvířete" /> `ztráta zvířete` a potvrďte tlačítkem `OK`.
+3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Ztráta zvířete" /> `{{<T "AnimalLoss" >}}` a potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 4. Otevře se další podmenu, ve kterém můžete uložit různá nastavení. Pomocí šipek △ ▽ vyberte požadovanou možnost nastavení. Pomocí šipek ◁ ▷ vyberte požadované nastavení.
 

@@ -18,17 +18,17 @@ This action is not enabled by default! Activate this as described in [action set
 
 To assign a national animal ID to an animal that does not have a national animal ID, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
+2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `{{<T "Ok" >}}` and select the animal ID using the arrow keys △ ▽. Confirm with `{{<T "Ok" >}}`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Link animal ID" /> `Link animal ID` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Link animal ID" /> `{{<T "LinkAnimalID" >}}` and confirm with `{{<T "Ok" >}}`.
 
-4. Another submenu opens with all the setting options for the animal data. The setting option `National animal ID` is automatically selected. Confirm with `OK`.
+4. Another submenu opens with all the setting options for the animal data. The setting option `{{<T "NationalAnimalID" >}}` is automatically selected. Confirm with `{{<T "Ok" >}}`.
 
-5. Use the arrow keys ◁ ▷ △ ▽ to set the national animal ID. Confirm again with `OK`.
+5. Use the arrow keys ◁ ▷ △ ▽ to set the national animal ID. Confirm again with `{{<T "Ok" >}}`.
 
-6. Save the settings and return to the main menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` using the `F3` key.
+6. Save the settings and return to the main menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` using the `F3` key.
 
 {{< tabpane >}}
 {{< tab header="Link animal ID:" text=true disabled=true />}}
@@ -44,11 +44,11 @@ To assign a national animal ID to an animal that does not have a national animal
 
 To assign a national animal ID to an animal that has an electronic ear tag, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `OK` and select the animal ID using the arrow keys △ ▽. Confirm with `OK`.
+2. Either scan the transponder of the animal without the national animal ID or select the animal from the list. To do this, confirm with `{{<T "Ok" >}}` and select the animal ID using the arrow keys △ ▽. Confirm with `{{<T "Ok" >}}`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `Link animal ID` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `{{<T "LinkAnimalID" >}}` and confirm with `{{<T "Ok" >}}`.
 
 4. Now scan the electronic ear tag.
 

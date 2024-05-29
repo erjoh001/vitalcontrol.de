@@ -16,17 +16,17 @@ Kun poistat eläimen tietueen, sitä ei voi enää käyttää arviointitarkoituk
 
 ## Rekisteröimätön {#unregister}
 
-Toiminto `Rekisteröimätön` mahdollistaa eläimen rekisteröinnin poistamisen, kun se siirretään pois. Toimi seuraavasti eläimen rekisteröinnin poistamiseksi:
+Toiminto `{{<T "Unregister" >}}` mahdollistaa eläimen rekisteröinnin poistamisen, kun se siirretään pois. Toimi seuraavasti eläimen rekisteröinnin poistamiseksi:
 
-1. Valitse VitalControl-laitteesi päävalikosta kohde &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-nappia.
+1. Valitse VitalControl-laitteesi päävalikosta kohde &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläin transponderilla tai valitse eläin listasta. Vahvista `OK`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `OK`:lla.
+2. Joko skannaa eläin transponderilla tai valitse eläin listasta. Vahvista `{{<T "Ok" >}}`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`:lla.
 
-3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Rekisteröimätön" /> `Rekisteröimätön` ja vahvista `OK`:lla.
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Rekisteröimätön" /> `{{<T "Unregister" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
 4. Toinen alivalikko avautuu, jossa voit tallentaa erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen.
 
-5. Käytä näppäintä `F3` `Rekisteröimätön` poistaaksesi eläimen rekisteröinnin määritetyillä asetuksilla.
+5. Käytä näppäintä `F3` `{{<T "Unregister" >}}` poistaaksesi eläimen rekisteröinnin määritetyillä asetuksilla.
 
 {{< tabpane >}}
 {{< tab header="Rekisteröimätön:" text=true disabled=true />}}

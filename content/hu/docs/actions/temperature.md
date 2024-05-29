@@ -27,11 +27,11 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 
 ### Előkészítő lépések
 
-1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Akciók` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy szkenneljen be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `OK` gombbal, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy szkenneljen be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `{{<T "Ok" >}}` gombbal, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü az állati akciókkal. Az <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" /> `Hőmérséklet` akció automatikusan ki van választva. Erősítse meg az `OK` gombbal.
+3. Megnyílik egy almenü az állati akciókkal. Az <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperature" /> `{{<T "Temperature" >}}` akció automatikusan ki van választva. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 
 4. Most végezze el a mérést. Amint a mérés befejeződött, a hőmérséklet kék, zöld, sárga vagy piros színnel lesz kiemelve, a beállított küszöbértéktől függően.
@@ -50,7 +50,7 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 
 1. Végezze el az előkészítő lépéseket.
 
-2. Használja az `F3` billentyűt <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Mentés" /> vagy erősítse meg `OK`-val az eredmény mentéséhez.
+2. Használja az `F3` billentyűt <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Mentés" /> vagy erősítse meg `{{<T "Ok" >}}`-val az eredmény mentéséhez.
 
     ![VitalControl: Menü Műveletek Eredmények mentése](../images/saveresults.png "Eredmények mentése")
 
@@ -58,9 +58,9 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 
 1. Végezze el az előkészítő lépéseket.
 
-2. Nyomja meg a középső felső `Be/Ki` gombot <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Felugró menü megnyitása" />.
+2. Nyomja meg a középső felső `On/Off` gombot <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Felugró menü megnyitása" />.
 
-3. Egy felugró menü nyílik meg, ahol kiválaszthatja a `Mérés ismétlése`, `Felvétel a figyelőlistára` vagy `Zseblámpa` menüpontokat. Használja a △ ▽ nyílgombokat a `Felvétel a figyelőlistára` kiválasztásához, majd nyomja meg a középső `OK` gombot vagy az `F3` gombot `OK`.
+3. Egy felugró menü nyílik meg, ahol kiválaszthatja a `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` vagy `{{<T "Flashlight" >}}` menüpontokat. Használja a △ ▽ nyílgombokat a `{{<T "AddToWatchList" >}}` kiválasztásához, majd nyomja meg a középső `{{<T "Ok" >}}` gombot vagy az `F3` gombot `{{<T "Ok" >}}`.
 
     ![VitalControl: Menü Műveletek Felvétel a figyelőlistára](../images/watchlist.png "Felvétel a figyelőlistára")
 
@@ -68,9 +68,9 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 
 1. Végezze el az előkészítő lépéseket.
 
-2. Nyomja meg a középső felső `Be/Ki` gombot <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Felugró menü megnyitása" />.
+2. Nyomja meg a középső felső `On/Off` gombot <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Felugró menü megnyitása" />.
 
-3. Egy felugró menü nyílik meg, ahol kiválaszthatja a `Mérés ismétlése`, `Felvétel a figyelőlistára` vagy `Zseblámpa` menüpontokat. Használja a △ ▽ nyílgombokat a `Zseblámpa` kiválasztásához, majd nyomja meg a középső `OK` gombot vagy az `F3` gombot `OK`.
+3. Egy felugró menü nyílik meg, ahol kiválaszthatja a `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` vagy `{{<T "Flashlight" >}}` menüpontokat. Használja a △ ▽ nyílgombokat a `{{<T "Flashlight" >}}` kiválasztásához, majd nyomja meg a középső `{{<T "Ok" >}}` gombot vagy az `F3` gombot `{{<T "Ok" >}}`.
 
     ![VitalControl: Menü Műveletek Zseblámpa be-ki](../images/light.png "Zseblámpa be-ki")
 
@@ -79,9 +79,9 @@ Ha a hőmérséklet a sárga tartományban ("emelkedett") vagy a piros tartomán
 1. Végezze el az előkészítő lépéseket.
 
 
-2. Nyomja meg a középső felső `Be/Ki` gombot <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
+2. Nyomja meg a középső felső `On/Off` gombot <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. Megnyílik egy felugró menü, amelyben kiválaszthatja a `Mérés ismétlése`, `Hozzáadás a figyelőlistához` vagy `Zseblámpa` menüpontokat. Használja a △ ▽ nyílgombokat a `Mérés ismétlése` kiválasztásához, majd nyomja meg a középső `OK` gombot vagy az `F3` gombot `OK`.
+3. Megnyílik egy felugró menü, amelyben kiválaszthatja a `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` vagy `{{<T "Flashlight" >}}` menüpontokat. Használja a △ ▽ nyílgombokat a `{{<T "RepeatMeasurement" >}}` kiválasztásához, majd nyomja meg a középső `{{<T "Ok" >}}` gombot vagy az `F3` gombot `{{<T "Ok" >}}`.
 
     ![VitalControl: Menü műveletek Fény be/ki](../images/repeat.png "Fény be/ki")
 

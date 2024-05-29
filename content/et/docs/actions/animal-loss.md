@@ -13,13 +13,13 @@ translationKey: actions/animal-loss
 
 ## Looma kadu {#animal-loss}
 
-Tegevus `looma kadu` võimaldab registreerida looma kadumist. Looma kadumise registreerimiseks toimi järgnevalt:
+Tegevus `{{<T "AnimalLoss" >}}` võimaldab registreerida looma kadumist. Looma kadumise registreerimiseks toimi järgnevalt:
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `Tegevused` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `{{<T "Actions" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Skaneeri loom transponderiga või vali loom nimekirjast. Kinnita valikuga `OK` ja vali loom nooleklahvidega △ ▽. Kinnita valikuga `OK`.
+2. Skaneeri loom transponderiga või vali loom nimekirjast. Kinnita valikuga `{{<T "Ok" >}}` ja vali loom nooleklahvidega △ ▽. Kinnita valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb alammenüü loomaga seotud tegevustega. Kasuta nooleklahve ◁ ▷ △ ▽ tegevuse <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Looma kadu" /> `looma kadu` valimiseks ja kinnita valikuga `OK`.
+3. Avaneb alammenüü loomaga seotud tegevustega. Kasuta nooleklahve ◁ ▷ △ ▽ tegevuse <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Looma kadu" /> `{{<T "AnimalLoss" >}}` valimiseks ja kinnita valikuga `{{<T "Ok" >}}`.
 
 4. Avaneb veel üks alammenüü, kus saad salvestada erinevaid seadeid. Kasuta nooleklahve △ ▽ soovitud seade valimiseks. Kasuta nooleklahve ◁ ▷ soovitud seade valimiseks.
 

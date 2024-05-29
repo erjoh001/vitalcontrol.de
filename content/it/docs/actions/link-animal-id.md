@@ -18,17 +18,17 @@ Questa azione non è abilitata di default! Attivala come descritto nelle [impost
 
 Per assegnare un ID animale nazionale a un animale che non ha un ID animale nazionale, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona il transponder dell'animale senza l'ID animale nazionale oppure seleziona l'animale dall'elenco. Per fare ciò, conferma con `OK` e seleziona l'ID animale utilizzando i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona il transponder dell'animale senza l'ID animale nazionale oppure seleziona l'animale dall'elenco. Per fare ciò, conferma con `{{<T "Ok" >}}` e seleziona l'ID animale utilizzando i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni per l'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Collega ID animale" /> `Collega ID animale` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni per l'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Collega ID animale" /> `{{<T "LinkAnimalID" >}}` e conferma con `{{<T "Ok" >}}`.
 
-4. Si apre un altro sottomenu con tutte le opzioni di impostazione per i dati dell'animale. L'opzione di impostazione `ID animale nazionale` è selezionata automaticamente. Conferma con `OK`.
+4. Si apre un altro sottomenu con tutte le opzioni di impostazione per i dati dell'animale. L'opzione di impostazione `{{<T "NationalAnimalID" >}}` è selezionata automaticamente. Conferma con `{{<T "Ok" >}}`.
 
-5. Usa i tasti freccia ◁ ▷ △ ▽ per impostare l'ID animale nazionale. Conferma di nuovo con `OK`.
+5. Usa i tasti freccia ◁ ▷ △ ▽ per impostare l'ID animale nazionale. Conferma di nuovo con `{{<T "Ok" >}}`.
 
-6. Salva le impostazioni e torna al menu principale &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `azioni` utilizzando il tasto `F3`.
+6. Salva le impostazioni e torna al menu principale &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` utilizzando il tasto `F3`.
 
 {{< tabpane >}}
 {{< tab header="Collega ID animale:" text=true disabled=true />}}
@@ -44,11 +44,11 @@ Per assegnare un ID animale nazionale a un animale che non ha un ID animale nazi
 
 Per assegnare un ID animale nazionale a un animale che ha un marchio auricolare elettronico, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona il trasponder dell'animale senza l'ID animale nazionale oppure seleziona l'animale dall'elenco. Per fare ciò, conferma con `OK` e seleziona l'ID animale utilizzando i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona il trasponder dell'animale senza l'ID animale nazionale oppure seleziona l'animale dall'elenco. Per fare ciò, conferma con `{{<T "Ok" >}}` e seleziona l'ID animale utilizzando i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni per l'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Collega ID animale" /> `Collega ID animale` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni per l'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Collega ID animale" /> `{{<T "LinkAnimalID" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. Ora scansiona il marchio auricolare elettronico.
 

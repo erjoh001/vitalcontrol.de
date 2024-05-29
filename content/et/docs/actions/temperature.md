@@ -27,11 +27,11 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
 ### Eelsammud
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `Tegevused` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `{{<T "Actions" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Skaneeri loom transponderiga või vali loom nimekirjast. Kinnita `OK`-ga ja vali loom nooleklahvidega △ ▽. Kinnita `OK`-ga.
+2. Skaneeri loom transponderiga või vali loom nimekirjast. Kinnita `{{<T "Ok" >}}`-ga ja vali loom nooleklahvidega △ ▽. Kinnita `{{<T "Ok" >}}`-ga.
 
-3. Avaneb alammenüü loomategevustega. Tegevus <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatuur" /> `Temperatuur` on automaatselt valitud. Kinnita `OK`-ga.
+3. Avaneb alammenüü loomategevustega. Tegevus <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatuur" /> `{{<T "Temperature" >}}` on automaatselt valitud. Kinnita `{{<T "Ok" >}}`-ga.
 
 4. Viige nüüd mõõtmine läbi. Niipea kui mõõtmine on lõpetatud, on temperatuur esile tõstetud sinises, rohelises, kollases või punases värvitoonis, olenevalt määratud lävest.
 
@@ -49,7 +49,7 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
 1. Viige lõpule eelnevad sammud.
 
-2. Kasutage `F3` klahvi <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> või kinnitage `OK`-ga tulemuse salvestamiseks.
+2. Kasutage `F3` klahvi <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> või kinnitage `{{<T "Ok" >}}`-ga tulemuse salvestamiseks.
 
     ![VitalControl: Menüütegevused Tulemuse salvestamine](../images/saveresults.png "Tulemuse salvestamine")
 
@@ -59,7 +59,7 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
 2. Vajutage keskmist ülemist `On/Off` nuppu <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. Avaneb hüpikmenüü, kus saate valida menüüpunktide `Korda mõõtmist`, `Lisa jälgimisnimekirja` või `Taskulamp`. Kasutage valiku `Lisa jälgimisnimekirja` tegemiseks nooleklahve △ ▽ ja vajutage keskset `OK` klahvi või `F3` klahvi `OK`.
+3. Avaneb hüpikmenüü, kus saate valida menüüpunktide `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` või `{{<T "Flashlight" >}}`. Kasutage valiku `{{<T "AddToWatchList" >}}` tegemiseks nooleklahve △ ▽ ja vajutage keskset `{{<T "Ok" >}}` klahvi või `F3` klahvi `{{<T "Ok" >}}`.
 
     ![VitalControl: Menüütegevused Lisa jälgimisnimekirja](../images/watchlist.png "Lisa jälgimisnimekirja")
 
@@ -69,7 +69,7 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
 2. Vajutage keskmist ülemist `On/Off` nuppu <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. Avaneb hüpikmenüü, kus saate valida menüüpunktide `Korda mõõtmist`, `Lisa jälgimisnimekirja` või `Taskulamp`. Kasutage valiku `Taskulamp` tegemiseks nooleklahve △ ▽ ja vajutage keskset `OK` klahvi või `F3` klahvi `OK`.
+3. Avaneb hüpikmenüü, kus saate valida menüüpunktide `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` või `{{<T "Flashlight" >}}`. Kasutage valiku `{{<T "Flashlight" >}}` tegemiseks nooleklahve △ ▽ ja vajutage keskset `{{<T "Ok" >}}` klahvi või `F3` klahvi `{{<T "Ok" >}}`.
 
     ![VitalControl: Menüütegevused Taskulambi sisse-välja lülitamine](../images/light.png "Taskulambi sisse-välja lülitamine")
 
@@ -77,9 +77,9 @@ Kui temperatuur on kollases ("tõusnud") või punases ("palavik") piirkonnas, pa
 
 1. Viige lõpule eelnevad sammud.
 
-2. Vajutage keskmist ülemist `Sees/Väljas` nuppu <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Ava hüpikaken" />.
+2. Vajutage keskmist ülemist `On/Off` nuppu <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Ava hüpikaken" />.
 
-3. Avaneb hüpikmenüü, kus saate valida menüüpunktide `Korda mõõtmist`, `Lisa jälgimisnimekirja` või `Taskulamp`. Kasutage valiku `Korda mõõtmist` valimiseks nooleklahve △ ▽ ja vajutage keskset `OK` nuppu või `F3` nuppu `OK`.
+3. Avaneb hüpikmenüü, kus saate valida menüüpunktide `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` või `{{<T "Flashlight" >}}`. Kasutage valiku `{{<T "RepeatMeasurement" >}}` valimiseks nooleklahve △ ▽ ja vajutage keskset `{{<T "Ok" >}}` nuppu või `F3` nuppu `{{<T "Ok" >}}`.
 
     ![VitalControl: Menüütegevused Tuli sisse välja](../images/repeat.png "Tuli sisse välja")
 

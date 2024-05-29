@@ -19,11 +19,11 @@ Riippuen lehmän alkutilanteesta, voit joko Umpeutus eläimen ja lisätä sen ku
 
 ### Umpeutus lehmä {#dry-off-a-cow}
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläimen transponderi ilman kansallista eläin-ID:tä tai valitse eläin listalta. Tee tämä vahvistamalla `OK` ja valitsemalla eläin-ID nuolinäppäimillä △ ▽. Vahvista `OK`.
+2. Joko skannaa eläimen transponderi ilman kansallista eläin-ID:tä tai valitse eläin listalta. Tee tämä vahvistamalla `{{<T "Ok" >}}` ja valitsemalla eläin-ID nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`.
 
-3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Umpeutus" /> `Umpeutus` ja vahvista `OK`.
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Umpeutus" /> `{{<T "DryOff" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 4. Eläin on onnistuneesti merkitty kuivatuksi.
 
@@ -39,11 +39,11 @@ Riippuen lehmän alkutilanteesta, voit joko Umpeutus eläimen ja lisätä sen ku
 
 ### Merkitse lypsetyksi {#mark-as-lactated}
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläimen transponderi ilman kansallista eläin-ID:tä tai valitse eläin listalta. Tee tämä vahvistamalla `OK` ja valitsemalla eläin-ID nuolinäppäimillä △ ▽. Vahvista `OK`.
+2. Joko skannaa eläimen transponderi ilman kansallista eläin-ID:tä tai valitse eläin listalta. Tee tämä vahvistamalla `{{<T "Ok" >}}` ja valitsemalla eläin-ID nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`.
 
-3. Eläimen toimintojen alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Umpeutus" /> `Umpeutus` ja vahvista `OK`.
+3. Eläimen toimintojen alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Umpeutus" /> `{{<T "DryOff" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 4. Eläin on merkitty onnistuneesti lypsetyksi.
 

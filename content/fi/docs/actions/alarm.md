@@ -13,17 +13,17 @@ translationKey: actions/alarm
 
 ## Hälytys {#alert}
 
-Toiminnolla `Hälytys` voit lisätä eläimiä hälytyslistalle tai poistaa niitä sieltä. Hälytyslista auttaa sinua löytämään huomiota herättävät eläimet nopeammin ja helpommin, mikä tekee päivittäisistä tarkastuksistasi helpompia. Toimiaksesi `Hälytys` toiminnolla, toimi seuraavasti:
+Toiminnolla `{{<T "Alarm" >}}` voit lisätä eläimiä hälytyslistalle tai poistaa niitä sieltä. Hälytyslista auttaa sinua löytämään huomiota herättävät eläimet nopeammin ja helpommin, mikä tekee päivittäisistä tarkastuksistasi helpompia. Toimiaksesi `{{<T "Alarm" >}}` toiminnolla, toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta `Toiminnat` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta `{{<T "Actions" >}}` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listalta. Vahvista `OK`-näppäimellä ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `OK`-näppäimellä.
+2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listalta. Vahvista `{{<T "Ok" >}}`-näppäimellä ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`-näppäimellä.
 
-3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Lisää hälytys" /> `Hälytys` toiminnon ja vahvista `OK`-näppäimellä.
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Lisää hälytys" /> `{{<T "Alarm" >}}` toiminnon ja vahvista `{{<T "Ok" >}}`-näppäimellä.
 
 4. Ilmoitus näkyy, että eläin on onnistuneesti lisätty hälytyslistalle ja eläimen näyttö otsikossa muuttuu. Symboli &nbsp;<img src="/icons/header/animal-in-alarm.svg" width="32" align="bottom" alt="Eläin hälytyksessä" /> osoittaa, että tämä eläin on hälytyslistalla.
 
-5. Voit poistaa eläimen hälytyslistalta uudelleen soveltamalla &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Poista hälytys" /> `Hälytys` toimintoa uudelleen. Lisäätkö vai poistatko eläimen hälytyslistalta käyttämällä `Hälytys` toimintoa, osoitetaan pienellä + tai - merkillä.
+5. Voit poistaa eläimen hälytyslistalta uudelleen soveltamalla &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Poista hälytys" /> `{{<T "Alarm" >}}` toimintoa uudelleen. Lisäätkö vai poistatko eläimen hälytyslistalta käyttämällä `{{<T "Alarm" >}}` toimintoa, osoitetaan pienellä + tai - merkillä.
 
 {{< tabpane >}}
 {{< tab header="Hälytys:" text=true disabled=true />}}

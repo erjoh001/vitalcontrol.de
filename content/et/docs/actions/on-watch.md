@@ -13,17 +13,17 @@ translationKey: actions/on-watch
 
 ## Valve all {#on-watch}
 
-Tegevusega `valve all` paned loomad valvele või eemaldad nad sealt. Valve nimekiri aitab sul kiiremini ja lihtsamini leida silmapaistvaid loomi, muutes sinu igapäevased kontrollid lihtsamaks. `Valve all` tegevuse rakendamiseks toimi järgnevalt:
+Tegevusega `{{<T "OnWatch" >}}` paned loomad valvele või eemaldad nad sealt. Valve nimekiri aitab sul kiiremini ja lihtsamini leida silmapaistvaid loomi, muutes sinu igapäevased kontrollid lihtsamaks. `{{<T "OnWatch" >}}` tegevuse rakendamiseks toimi järgnevalt:
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `Tegevused` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `{{<T "Actions" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Skaneeri loom transponderiga või vali loom nimekirjast. Kinnita `OK`-ga ja vali loom nooleklahvidega △ ▽. Kinnita `OK`-ga.
+2. Skaneeri loom transponderiga või vali loom nimekirjast. Kinnita `{{<T "Ok" >}}`-ga ja vali loom nooleklahvidega △ ▽. Kinnita `{{<T "Ok" >}}`-ga.
 
-3. Avaneb alammenüü loomade tegevustega. Kasuta nooleklahve ◁ ▷ △ ▽, et valida &nbsp;<img src="/icons/actions/on-watch.svg" width="35" align="bottom" alt="Valve all" /> `Valve all` tegevus ja kinnita `OK`-ga.
+3. Avaneb alammenüü loomade tegevustega. Kasuta nooleklahve ◁ ▷ △ ▽, et valida &nbsp;<img src="/icons/actions/on-watch.svg" width="35" align="bottom" alt="Valve all" /> `{{<T "OnWatch" >}}` tegevus ja kinnita `{{<T "Ok" >}}`-ga.
 
 4. Ilmub teavitus, et loom on edukalt lisatud valve nimekirja.
 
-5. Looma saab valve nimekirjast eemaldada, rakendades &nbsp;<img src="/icons/actions/on-watch-minus.svg" width="35" align="bottom" alt="Ei ole valve all" />  `Valve all` tegevust uuesti. Kas lisad või eemaldad looma valve nimekirjast `Valve all` tegevusega, näidatakse väikese ⊕ või ⊖ märgiga.
+5. Looma saab valve nimekirjast eemaldada, rakendades &nbsp;<img src="/icons/actions/on-watch-minus.svg" width="35" align="bottom" alt="Ei ole valve all" />  `{{<T "OnWatch" >}}` tegevust uuesti. Kas lisad või eemaldad looma valve nimekirjast `{{<T "OnWatch" >}}` tegevusega, näidatakse väikese ⊕ või ⊖ märgiga.
 
 {{< tabpane >}}
 {{< tab header="Valve all:" text=true disabled=true />}}

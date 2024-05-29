@@ -16,17 +16,17 @@ Amint törli az állat adatlapját, az többé nem áll rendelkezésre értékel
 
 ## Törlés {#unregister}
 
-A `Törlés` művelet lehetővé teszi egy állat törlését, amint az elmozdul. Az állat törléséhez kövesse az alábbi lépéseket:
+A `{{<T "Unregister" >}}` művelet lehetővé teszi egy állat törlését, amint az elmozdul. Az állat törléséhez kövesse az alábbi lépéseket:
 
-1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Műveletek` menüpontot és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` menüpontot és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy szkenneljen be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `OK` gombbal, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy szkenneljen be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `{{<T "Ok" >}}` gombbal, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü az állatműveletekkel. Használja a ◁ ▷ △ ▽ nyílgombokat a &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Unregister" /> `Törlés` művelet kiválasztásához, és erősítse meg az `OK` gombbal.
+3. Megnyílik egy almenü az állatműveletekkel. Használja a ◁ ▷ △ ▽ nyílgombokat a &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Unregister" /> `{{<T "Unregister" >}}` művelet kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Megnyílik egy másik almenü, ahol különböző beállításokat menthet. Használja a △ ▽ nyílgombokat a kívánt beállítási lehetőség kiválasztásához. Használja a ◁ ▷ nyílgombokat a kívánt beállítás kiválasztásához.
 
-5. Használja az `F3` `Törlés` gombot az állat törléséhez a megadott beállításokkal.
+5. Használja az `F3` `{{<T "Unregister" >}}` gombot az állat törléséhez a megadott beállításokkal.
 
 {{< tabpane >}}
 {{< tab header="Törlés:" text=true disabled=true />}}

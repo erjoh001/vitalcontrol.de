@@ -18,17 +18,17 @@ Tämä toiminto ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on kuv
 
 Määritä Kansallinen eläin ID eläimelle, jolla ei ole kansallista eläintunnusta, seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-painiketta.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Joko skannaa eläimen, jolla ei ole kansallista eläintunnusta, transponderi tai valitse eläin listalta. Tee tämä vahvistamalla `OK` ja valitsemalla eläintunnus nuolinäppäimillä △ ▽. Vahvista `OK`.
+2. Joko skannaa eläimen, jolla ei ole kansallista eläintunnusta, transponderi tai valitse eläin listalta. Tee tämä vahvistamalla `{{<T "Ok" >}}` ja valitsemalla eläintunnus nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`.
 
-3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Linkitä eläimen ID" /> `Linkitä eläimen ID` ja vahvista `OK`.
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Linkitä eläimen ID" /> `{{<T "LinkAnimalID" >}}` ja vahvista `{{<T "Ok" >}}`.
 
-4. Toinen alivalikko avautuu kaikilla asetusvaihtoehdoilla eläintietoja varten. Asetusvaihtoehto `Kansallinen eläin ID` on automaattisesti valittuna. Vahvista `OK`.
+4. Toinen alivalikko avautuu kaikilla asetusvaihtoehdoilla eläintietoja varten. Asetusvaihtoehto `{{<T "NationalAnimalID" >}}` on automaattisesti valittuna. Vahvista `{{<T "Ok" >}}`.
 
-5. Käytä nuolinäppäimiä ◁ ▷ △ ▽ asettaaksesi kansallisen eläintunnuksen. Vahvista uudelleen `OK`.
+5. Käytä nuolinäppäimiä ◁ ▷ △ ▽ asettaaksesi kansallisen eläintunnuksen. Vahvista uudelleen `{{<T "Ok" >}}`.
 
-6. Tallenna asetukset ja palaa päävalikkoon &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` käyttäen `F3`-näppäintä.
+6. Tallenna asetukset ja palaa päävalikkoon &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` käyttäen `F3`-näppäintä.
 
 {{< tabpane >}}
 {{< tab header="Linkitä eläimen ID:" text=true disabled=true />}}
@@ -44,11 +44,11 @@ Määritä Kansallinen eläin ID eläimelle, jolla ei ole kansallista eläintunn
 
 Eläimen kansallisen tunnuksen määrittämiseksi eläimelle, jolla on elektroninen korvamerkki, toimi seuraavasti:
 
-1. Valitse VitalControl-laitteen päävalikosta kohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteen päävalikosta kohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Joko skannaa eläimen transponderi, jolla ei ole kansallista eläintunnusta, tai valitse eläin listasta. Vahvista painamalla `OK` ja valitse eläintunnus käyttämällä nuolinäppäimiä △ ▽. Vahvista painamalla `OK`.
+2. Joko skannaa eläimen transponderi, jolla ei ole kansallista eläintunnusta, tai valitse eläin listasta. Vahvista painamalla `{{<T "Ok" >}}` ja valitse eläintunnus käyttämällä nuolinäppäimiä △ ▽. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Linkitä eläimen ID" />  `Linkitä eläimen ID` ja vahvista painamalla `OK`.
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Linkitä eläimen ID" />  `{{<T "LinkAnimalID" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 4. Skannaa nyt elektroninen korvamerkki.
 

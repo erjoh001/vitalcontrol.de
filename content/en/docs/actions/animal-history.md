@@ -17,15 +17,15 @@ The animal history gives you an overview of the data recorded so far and the dev
 
 To view the animal history, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `Actions` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `{{<T "Actions" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Either scan an animal using the transponder or select an animal from the list. Confirm with `{{<T "Ok" >}}` and select an animal with the arrow keys △ ▽. Confirm with `{{<T "Ok" >}}`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Animal history" /> `Animal history` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Animal history" /> `{{<T "AnimalHistory" >}}` and confirm with `{{<T "Ok" >}}`.
 
 4. The information that was set last is now displayed. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" /> to open the selection menu for the information pages.
 
-5. Use the arrow keys △ ▽ to select the desired information page. Confirm with the `F3` key or with the `OK` key.
+5. Use the arrow keys △ ▽ to select the desired information page. Confirm with the `F3` key or with the `{{<T "Ok" >}}` key.
 
 6. The selected information page will be presented to you.
 

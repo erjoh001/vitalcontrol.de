@@ -18,11 +18,11 @@ Questa azione non è abilitata di default! Attivala come descritto nelle [impost
 
 Con questa azione puoi scollegare un transponder che è già stato assegnato a un animale da questo animale.
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona l'animale con il transponder desiderato o seleziona l'animale con il transponder dall'elenco. Per fare ciò, conferma con `OK` e seleziona l'ID dell'animale utilizzando i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona l'animale con il transponder desiderato o seleziona l'animale con il transponder dall'elenco. Per fare ciò, conferma con `{{<T "Ok" >}}` e seleziona l'ID dell'animale utilizzando i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni per l'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Scollega transponder" /> `Scollega transponder` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni per l'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Scollega transponder" /> `{{<T "UnlinkTransponder" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. Il transponder è stato scollegato con successo dall'animale.
 

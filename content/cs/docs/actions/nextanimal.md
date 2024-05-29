@@ -13,13 +13,13 @@ draft: true
 ---
 ## Další zvíře {#next-animal}
 
-V rámci nabídky `akce` máte možnost kdykoli vybrat další zvíře, aniž byste museli opustit položku nabídky Akce. Chcete-li vybrat další zvíře, postupujte takto:
+V rámci nabídky `{{<T "Actions" >}}` máte možnost kdykoli vybrat další zvíře, aniž byste museli opustit položku nabídky Akce. Chcete-li vybrat další zvíře, postupujte takto:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku nabídky `akce` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku nabídky `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `OK` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `{{<T "Ok" >}}` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
-3. Otevře se podnabídka s akcemi pro zvíře. V dolní ovládací liště najdete položku nabídky `další zvíře`. Pro její provedení použijte klávesu `F3`.
+3. Otevře se podnabídka s akcemi pro zvíře. V dolní ovládací liště najdete položku nabídky Next animal. Pro její provedení použijte klávesu `F3`.
 
 4. Okno z kroku dva se automaticky znovu otevře a můžete vybrat další zvíře.
 

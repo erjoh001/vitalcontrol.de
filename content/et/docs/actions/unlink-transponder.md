@@ -18,11 +18,11 @@ See toiming ei ole vaikimisi lubatud! Aktiveerige see, nagu kirjeldatud [toiming
 
 Selle toiminguga saate loomalt eemaldada juba määratud transponderi.
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `toimingud` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `{{<T "Actions" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Skaneerige loom soovitud transponderiga või valige loom transponderiga nimekirjast. Selleks kinnitage `OK` ja valige looma ID nooltega △ ▽. Kinnitage `OK`.
+2. Skaneerige loom soovitud transponderiga või valige loom transponderiga nimekirjast. Selleks kinnitage `{{<T "Ok" >}}` ja valige looma ID nooltega △ ▽. Kinnitage `{{<T "Ok" >}}`.
 
-3. Avaneb alammenüü looma toimingutega. Kasutage nooli ◁ ▷ △ ▽ toimingu &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Eemalda transponderi link" /> `Eemalda transponderi link` valimiseks ja kinnitage `OK`.
+3. Avaneb alammenüü looma toimingutega. Kasutage nooli ◁ ▷ △ ▽ toimingu &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Eemalda transponderi link" /> `{{<T "UnlinkTransponder" >}}` valimiseks ja kinnitage `{{<T "Ok" >}}`.
 
 4. Transponder on edukalt loomalt eemaldatud.
 

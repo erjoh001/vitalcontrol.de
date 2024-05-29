@@ -13,13 +13,13 @@ translationKey: actions/animal-loss
 
 ## Állatveszteség {#animal-loss}
 
-Az `állatveszteség` művelet lehetővé teszi egy állatveszteség regisztrálását. Az állatveszteség regisztrálásához kövesse az alábbi lépéseket:
+Az `{{<T "AnimalLoss" >}}` művelet lehetővé teszi egy állatveszteség regisztrálását. Az állatveszteség regisztrálásához kövesse az alábbi lépéseket:
 
-1. A VitalControl készülék főképernyőjén válassza ki a menüpontot &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a menüpontot &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy olvassa be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `OK` gombbal, és válasszon egy állatot a nyíl billentyűkkel △ ▽. Erősítse meg az `OK` gombbal.
+2. Vagy olvassa be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `{{<T "Ok" >}}` gombbal, és válasszon egy állatot a nyíl billentyűkkel △ ▽. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy almenü nyílik meg az állatműveletekkel. Használja a nyíl billentyűket ◁ ▷ △ ▽ a <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Tierverlust" /> `állatveszteség` művelet kiválasztásához, és erősítse meg az `OK` gombbal.
+3. Egy almenü nyílik meg az állatműveletekkel. Használja a nyíl billentyűket ◁ ▷ △ ▽ a <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Tierverlust" /> `{{<T "AnimalLoss" >}}` művelet kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Egy másik almenü nyílik meg, ahol különböző beállításokat menthet. Használja a nyíl billentyűket △ ▽ a kívánt beállítási lehetőség kiválasztásához. Használja a nyíl billentyűket ◁ ▷ a kívánt beállítás kiválasztásához.
 

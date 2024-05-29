@@ -41,19 +41,19 @@ Iga tegevus on tähistatud sümboliga. Liiguta kursorit graafikul allpool oleva 
 
 ## Üldine protseduur
 
-Menüüs <img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `Tegevused` saate igal ajal valida järgmise looma, ilma et peaksite menüüpunkti Tegevused lahkuma. Järgmise looma valimiseks toimige järgmiselt:
+Menüüs <img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `{{<T "Actions" >}}` saate igal ajal valida järgmise looma, ilma et peaksite menüüpunkti Tegevused lahkuma. Järgmise looma valimiseks toimige järgmiselt:
 
-1. Valige põhiekraanil menüüpunkt <img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `Tegevused` oma VitalControl seadmes ja vajutage `OK` nuppu.
+1. Valige põhiekraanil menüüpunkt <img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `{{<T "Actions" >}}` oma VitalControl seadmes ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Skaneerige loom transponderi abil või valige loom nimekirjast. Kinnitage valik, vajutades `OK` ja valige loom noolenuppudega △ ▽. Kinnitage valikuga `OK`.
+2. Skaneerige loom transponderi abil või valige loom nimekirjast. Kinnitage valik, vajutades `{{<T "Ok" >}}` ja valige loom noolenuppudega △ ▽. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb alammenüü, kus leiate ikoone arvukate loomade tegevuste jaoks. Kasutage noolenuppe soovitud tegevuse valimiseks ja alustage tegevust, vajutades `OK` nuppu. Valitud tegevusest sõltuvalt ilmub üks või mitu ekraani või hüpikaken.
+3. Avaneb alammenüü, kus leiate ikoone arvukate loomade tegevuste jaoks. Kasutage noolenuppe soovitud tegevuse valimiseks ja alustage tegevust, vajutades `{{<T "Ok" >}}` nuppu. Valitud tegevusest sõltuvalt ilmub üks või mitu ekraani või hüpikaken.
 
 4. Soovi korral võite nüüd valida ja teostada teise tegevuse praegusele loomale.
 
-5. Pärast soovitud tegevuste teostamist loomale naaske sammu 2 juurde 'Looma valik'. Selleks vajutage vasakpoolset nuppu `F1` all vasakus nurgas asuva `Tagasi` sümboli all.
+5. Pärast soovitud tegevuste teostamist loomale naaske sammu 2 juurde 'Looma valik'. Selleks vajutage vasakpoolset nuppu `F1` all vasakus nurgas asuva `{{<T "Back" >}}` sümboli all.
 
-6. Sellest sammust avaneb automaatselt uuesti aken ja saate valida järgmise looma või naasta põhimenüüsse, vajutades `F1` nuppu `Tagasi` sümboli all.
+6. Sellest sammust avaneb automaatselt uuesti aken ja saate valida järgmise looma või naasta põhimenüüsse, vajutades `F1` nuppu `{{<T "Back" >}}` sümboli all.
 
 {{< tabpane >}}
 {{< tab header="Üldine protseduur:" text=true disabled=true />}}

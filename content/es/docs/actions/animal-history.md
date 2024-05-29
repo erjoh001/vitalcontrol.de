@@ -17,15 +17,15 @@ El Historial del animales te proporciona una visión general de los datos regist
 
 Para ver el historial del animal, procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem de menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" />  `Acciones` y presiona el botón `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem de menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" />  `{{<T "Actions" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Escanea un animal usando el transpondedor o selecciona un animal de la lista. Confirma con `OK` y selecciona un animal con las teclas de flecha △ ▽. Confirma con `OK`.
+2. Escanea un animal usando el transpondedor o selecciona un animal de la lista. Confirma con `{{<T "Ok" >}}` y selecciona un animal con las teclas de flecha △ ▽. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre un submenú con las acciones del animal. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar la acción <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Historial del animales" /> `Historial del animales` y confirma con `OK`.
+3. Se abre un submenú con las acciones del animal. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar la acción <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Historial del animales" /> `{{<T "AnimalHistory" >}}` y confirma con `{{<T "Ok" >}}`.
 
 4. Ahora se muestra la información que se configuró por última vez. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú de selección" /> para abrir el menú de selección de las páginas de información.
 
-5. Usa las teclas de flecha △ ▽ para seleccionar la página de información deseada. Confirma con la tecla `F3` o con la tecla `OK`.
+5. Usa las teclas de flecha △ ▽ para seleccionar la página de información deseada. Confirma con la tecla `F3` o con la tecla `{{<T "Ok" >}}`.
 
 6. Se te presentará la página de información seleccionada.
 

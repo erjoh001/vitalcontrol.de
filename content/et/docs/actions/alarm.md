@@ -13,17 +13,17 @@ translationKey: actions/alarm
 
 ## Häire {#alert}
 
-Tegevusega `Alarm` panete loomi alarmide nimekirja või eemaldate neid sealt. Alarmide nimekiri aitab teil märgata silmapaistvaid loomi kiiremini ja lihtsamini, muutes teie igapäevased kontrollid lihtsamaks. `Alarm` tegevuse rakendamiseks toimige järgmiselt:
+Tegevusega `{{<T "Alarm" >}}` panete loomi alarmide nimekirja või eemaldate neid sealt. Alarmide nimekiri aitab teil märgata silmapaistvaid loomi kiiremini ja lihtsamini, muutes teie igapäevased kontrollid lihtsamaks. `{{<T "Alarm" >}}` tegevuse rakendamiseks toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt `Tegevused` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt `{{<T "Actions" >}}` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Skaneerige loom transponderiga või valige loom nimekirjast. Kinnitage `OK`-ga ja valige loom nooleklahvidega △ ▽. Kinnitage `OK`-ga.
+2. Skaneerige loom transponderiga või valige loom nimekirjast. Kinnitage `{{<T "Ok" >}}`-ga ja valige loom nooleklahvidega △ ▽. Kinnitage `{{<T "Ok" >}}`-ga.
 
-3. Avaneb alammenüü loomaga seotud tegevustega. Kasutage nooleklahve ◁ ▷ △ ▽, et valida &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Lisa alarm" /> `Alarm` tegevus ja kinnitage `OK`-ga.
+3. Avaneb alammenüü loomaga seotud tegevustega. Kasutage nooleklahve ◁ ▷ △ ▽, et valida &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Lisa alarm" /> `{{<T "Alarm" >}}` tegevus ja kinnitage `{{<T "Ok" >}}`-ga.
 
 4. Ilmub teade, et loom on edukalt lisatud alarmide nimekirja ja looma kuvamine päises muutub. Sümbol &nbsp;<img src="/icons/header/animal-in-alarm.svg" width="32" align="bottom" alt="Loom häires" /> näitab, et see loom on alarmide nimekirjas.
 
-5. Looma saate alarmide nimekirjast eemaldada, rakendades &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Eemalda alarm" /> `Alarm` tegevust uuesti. Kas lisate või eemaldate looma alarmide nimekirjast `Alarm` tegevusega, näidatakse väikese + või - märgiga.
+5. Looma saate alarmide nimekirjast eemaldada, rakendades &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Eemalda alarm" /> `{{<T "Alarm" >}}` tegevust uuesti. Kas lisate või eemaldate looma alarmide nimekirjast `{{<T "Alarm" >}}` tegevusega, näidatakse väikese + või - märgiga.
 
 {{< tabpane >}}
 {{< tab header="Häire:" text=true disabled=true />}}

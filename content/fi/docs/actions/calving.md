@@ -17,6 +17,6 @@ Jos et tarvitse tätä toimintoa, voit poistaa sen käytöstä [toimintoasetukse
 
 ## Rekisteröi poikiminen {#register-a-calving}
 
-Kun olet syöttänyt toimintovalikon, valitse valikkokohta <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Poikiminen"  alt="Poikiminen"/> `Poikiminen` ja vahvista `OK`. Noudata ohjeita kohdassa [Poikimisen rekisteröinti](/fi/docs/new/calving/).
+Kun olet syöttänyt toimintovalikon, valitse valikkokohta <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Poikiminen"  alt="Poikiminen"/> `{{<T "Calving" >}}` ja vahvista `{{<T "Ok" >}}`. Noudata ohjeita kohdassa [Poikimisen rekisteröinti](/fi/docs/new/calving/).
 
    ![VitalControl: Valikko Toiminnot Poikiminen](../images/calving.png "Poikiminen")

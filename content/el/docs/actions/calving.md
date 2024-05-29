@@ -17,6 +17,6 @@ translationKey: actions/calving
 
 ## Καταχώρηση τοκετού {#register-a-calving}
 
-Μόλις εισέλθετε στο μενού δράσεων, επιλέξτε το στοιχείο μενού <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Τοκετός"  alt="Τοκετός"/> `Τοκετός` και επιβεβαιώστε με `OK`. Προχωρήστε όπως περιγράφεται στις οδηγίες [Καταχώρηση τοκετού](/el/docs/new/calving/).
+Μόλις εισέλθετε στο μενού δράσεων, επιλέξτε το στοιχείο μενού <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Τοκετός"  alt="Τοκετός"/> `{{<T "Calving" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`. Προχωρήστε όπως περιγράφεται στις οδηγίες [Καταχώρηση τοκετού](/el/docs/new/calving/).
 
    ![VitalControl: Μενού Δράσεις Τοκετός](../images/calving.png "Τοκετός")

@@ -17,15 +17,15 @@ L'histoire des animaux vous offre un aperçu des données enregistrées jusqu'à
 
 Pour consulter l'historique des animaux, procédez comme suit :
 
-1. Sélectionnez dans l'écran principal de votre appareil VitalControl l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `Action` et appuyez sur le bouton `OK`.
+1. Sélectionnez dans l'écran principal de votre appareil VitalControl l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `{{<T "Actions" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Scannez un animal avec le transpondeur ou sélectionnez un animal dans la liste. Confirmez avec `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
+2. Scannez un animal avec le transpondeur ou sélectionnez un animal dans la liste. Confirmez avec `{{<T "Ok" >}}` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un sous-menu avec les actions de l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Histoire des animaux" /> `Historique des animaux` et confirmez avec `OK`.
+3. Un sous-menu avec les actions de l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Histoire des animaux" /> `{{<T "AnimalHistory" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 4. Les informations qui ont été définies en dernier sont maintenant affichées. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" /> pour ouvrir le menu de sélection des pages d'information.
 
-5. Utilisez les touches fléchées △ ▽ pour sélectionner la page d'information désirée. Confirmez avec la touche `F3` ou avec la touche `OK`.
+5. Utilisez les touches fléchées △ ▽ pour sélectionner la page d'information désirée. Confirmez avec la touche `F3` ou avec la touche `{{<T "Ok" >}}`.
 
 6. La page d'information sélectionnée vous est présentée.
 

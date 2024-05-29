@@ -17,15 +17,15 @@ La storia degli animali ti offre una panoramica dei dati registrati finora e del
 
 Per visualizzare la storia degli animali, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `Azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma con `OK` e seleziona un animale con i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma con `{{<T "Ok" >}}` e seleziona un animale con i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Animal history" /> `Storia degli animali` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Animal history" /> `{{<T "AnimalHistory" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. Viene ora visualizzata l'informazione impostata l'ultima volta. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" /> per aprire il menu di selezione delle pagine informative.
 
-5. Usa i tasti freccia △ ▽ per selezionare la pagina informativa desiderata. Conferma con il tasto `F3` o con il tasto `OK`.
+5. Usa i tasti freccia △ ▽ per selezionare la pagina informativa desiderata. Conferma con il tasto `F3` o con il tasto `{{<T "Ok" >}}`.
 
 6. La pagina informativa selezionata verrà presentata.
 

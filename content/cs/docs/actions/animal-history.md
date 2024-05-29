@@ -17,19 +17,19 @@ Historie zvířat vám poskytuje přehled o dosud zaznamenaných datech a vývoj
 
 Pro zobrazení historie zvířat postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `Akce` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `OK` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `{{<T "Ok" >}}` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Animal history" /> `Historie zvířat` a potvrďte tlačítkem `OK`.
+3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Animal history" /> `{{<T "AnimalHistory" >}}` a potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 4. Nyní se zobrazí naposledy nastavené informace. Pomocí klávesy `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" /> otevřete výběrové menu pro informační stránky.
 
-5. Pomocí šipek △ ▽ vyberte požadovanou informační stránku. Potvrďte klávesou `F3` nebo tlačítkem `OK`.
+5. Pomocí šipek △ ▽ vyberte požadovanou informační stránku. Potvrďte klávesou `F3` nebo tlačítkem `{{<T "Ok" >}}`.
 
 6. Vybraná informační stránka bude zobrazena.
 
-7. Pomocí prostředního tlačítka `Zap/Vyp` <img src="/icons/footer/on-off.svg" width="18" align="bottom" alt="On/Off button" />&nbsp; přepínejte mezi zobrazením seznamu <img src="/icons/footer/list.svg" width="20" align="bottom" alt="Liste display" /> a grafem <img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Chart display" />&nbsp; .
+7. Pomocí prostředního tlačítka `On/Off` <img src="/icons/footer/on-off.svg" width="18" align="bottom" alt="On/Off button" />&nbsp; přepínejte mezi zobrazením seznamu <img src="/icons/footer/list.svg" width="20" align="bottom" alt="Liste display" /> a grafem <img src="/icons/footer/chart.svg" width="22" align="bottom" alt="Chart display" />&nbsp; .
 
 {{< tabpane >}}
 {{< tab header="Historie zvířete:" text=true disabled=true />}}

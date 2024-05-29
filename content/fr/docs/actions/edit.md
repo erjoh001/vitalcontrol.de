@@ -13,7 +13,7 @@ translationKey: actions/edit
 
 ## Modifier les données de l'animal {#edit-animal-data}
 
-L'action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Modifier" /> `Changer` vous permet de changer les données de l'animal sélectionné directement. Cette fonction facilite la correction des données de l'animal si, par exemple, il s'avère lors de l'inspection de l'animal que le sexe a été enregistré incorrectement. Vous pouvez modifier les données suivantes :
+L'action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Modifier" /> `{{<T "Edit" >}}` vous permet de changer les données de l'animal sélectionné directement. Cette fonction facilite la correction des données de l'animal si, par exemple, il s'avère lors de l'inspection de l'animal que le sexe a été enregistré incorrectement. Vous pouvez modifier les données suivantes :
 
 - Type d'animal
 - Sexe
@@ -28,17 +28,17 @@ L'action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Modif
 
 Pour modifier les données de l'animal, procédez comme suit :
 
-1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
+1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Soit scannez un animal à l'aide du transpondeur, soit sélectionnez un animal dans la liste. Confirmez avec `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
+2. Soit scannez un animal à l'aide du transpondeur, soit sélectionnez un animal dans la liste. Confirmez avec `{{<T "Ok" >}}` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Modifier" /> `Changer` et confirmez avec `OK`.
+3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Modifier" /> `{{<T "Edit" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 4. Une liste avec les données de l'animal s'ouvre. Utilisez les touches fléchées △ ▽ pour sélectionner l'option de changement désirée.
 
-5. Pour les données `Type d'animal`, `Sexe`, `Poids de naissance`, `Race`, `Lieu de séjour`, `Multiple` et `Déroulement du vêlage` utilisez les touches fléchées ◁ ▷ pour effectuer le changement désiré.
+5. Pour les données `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` et `{{<T "CalvingEase" >}}` utilisez les touches fléchées ◁ ▷ pour effectuer le changement désiré.
 
-6. Pour les données `ID` et `Date de naissance` sélectionnez-les avec les touches fléchées △ ▽ et confirmez avec `OK`. Utilisez les touches fléchées △ ▽ pour sélectionner le numéro correspondant et les touches fléchées ◁ ▷ pour naviguer dans les champs de numéros.
+6. Pour les données `{{<T "ID" >}}` et `{{<T "DateBirth" >}}` sélectionnez-les avec les touches fléchées △ ▽ et confirmez avec `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour sélectionner le numéro correspondant et les touches fléchées ◁ ▷ pour naviguer dans les champs de numéros.
 
 7. Enregistrez le changement avec la touche `F3`.
 

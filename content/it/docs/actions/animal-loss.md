@@ -13,13 +13,13 @@ translationKey: actions/animal-loss
 
 ## Perdita di animali {#animal-loss}
 
-L'azione `perdita di animali` ti permette di registrare una perdita di animali. Per registrare una perdita di animali, procedi come segue:
+L'azione `{{<T "AnimalLoss" >}}` ti permette di registrare una perdita di animali. Per registrare una perdita di animali, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `Azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma con `OK` e seleziona un animale con i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma con `{{<T "Ok" >}}` e seleziona un animale con i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni per l'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Perdita di animali" /> `perdita di animali` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni per l'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Perdita di animali" /> `{{<T "AnimalLoss" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. Si apre un altro sottomenu in cui puoi salvare varie impostazioni. Usa i tasti freccia △ ▽ per selezionare l'opzione di impostazione desiderata. Usa i tasti freccia ◁ ▷ per selezionare l'impostazione desiderata.
 

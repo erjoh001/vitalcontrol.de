@@ -27,11 +27,11 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
 ### Pasos preliminares
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `Acciones` y presiona el botón `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Acciones" /> `{{<T "Actions" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Escanea un animal usando el transpondedor o selecciona un animal de la lista. Confirma con `OK` y selecciona un animal con las teclas de flecha △ ▽. Confirma con `OK`.
+2. Escanea un animal usando el transpondedor o selecciona un animal de la lista. Confirma con `{{<T "Ok" >}}` y selecciona un animal con las teclas de flecha △ ▽. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre un submenú con las acciones del animal. La acción <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatura" /> `Temperatura` está automáticamente seleccionada. Confirma con `OK`.
+3. Se abre un submenú con las acciones del animal. La acción <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatura" /> `{{<T "Temperature" >}}` está automáticamente seleccionada. Confirma con `{{<T "Ok" >}}`.
 
 4. Ahora realice la medición. Tan pronto como se complete la medición, la temperatura se resalta en azul, verde, amarillo o rojo, dependiendo del umbral establecido.
 
@@ -49,7 +49,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
 1. Complete los pasos preliminares.
 
-2. Use la tecla `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Guardar" /> o confirme con `OK` para guardar el resultado.
+2. Use la tecla `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Guardar" /> o confirme con `{{<T "Ok" >}}` para guardar el resultado.
 
     ![VitalControl: Acciones del Menú Guardar resultados](../images/saveresults.png "Guardar resultados")
 
@@ -59,7 +59,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
 2. Presione el botón superior central `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Abrir popup" />.
 
-3. Se abre un menú emergente en el que puede seleccionar de los ítems del menú `Volver a medir`, `Añadir a lista de seguimiento` o `Linterna`. Use las teclas de flecha △ ▽ para seleccionar `Añadir a lista de seguimiento` y presione la tecla central `OK` o la tecla `F3` `OK`.
+3. Se abre un menú emergente en el que puede seleccionar de los ítems del menú `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` o `{{<T "Flashlight" >}}`. Use las teclas de flecha △ ▽ para seleccionar `{{<T "AddToWatchList" >}}` y presione la tecla central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Acciones del Menú Añadir a lista de seguimiento](../images/watchlist.png "Añadir a lista de seguimiento")
 
@@ -69,7 +69,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
 2. Presione el botón superior central `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Abrir popup" />.
 
-3. Se abre un menú emergente en el que puede seleccionar de los ítems del menú `Volver a medir`, `Añadir a lista de seguimiento` o `Linterna`. Use las teclas de flecha △ ▽ para seleccionar `Linterna` y presione la tecla central `OK` o la tecla `F3` `OK`.
+3. Se abre un menú emergente en el que puede seleccionar de los ítems del menú `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` o `{{<T "Flashlight" >}}`. Use las teclas de flecha △ ▽ para seleccionar `{{<T "Flashlight" >}}` y presione la tecla central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Acciones del Menú Encender y apagar linterna](../images/light.png "Encender y apagar linterna")
 
@@ -79,7 +79,7 @@ Si la temperatura está en el área amarilla ("elevada") o roja ("fiebre"), Vita
 
 2. Presiona el botón superior central `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. Se abre un menú emergente en el que puedes seleccionar entre los ítems del menú `Volver a medir`, `Agregar a lista de seguimiento` o `Linterna`. Usa las teclas de flecha △ ▽ para seleccionar `Volver a medir` y presiona la tecla central `OK` o la tecla `F3` `OK`.
+3. Se abre un menú emergente en el que puedes seleccionar entre los ítems del menú `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` o `{{<T "Flashlight" >}}`. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "RepeatMeasurement" >}}` y presiona la tecla central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Acciones del Menú Luz encendida/apagada](../images/repeat.png "Luz encendida/apagada")
 

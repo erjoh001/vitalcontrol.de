@@ -41,19 +41,19 @@ Each action is identified by a symbol. Move the mouse pointer over a symbol in t
 
 ## General procedure {#general-procedure}
 
-Within the menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` you can select the next animal at any time without having to leave the menu item Actions. To select the next animal, proceed as follows:
+Within the menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` you can select the next animal at any time without having to leave the menu item Actions. To select the next animal, proceed as follows:
 
-1. Select the menu item  <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` on the main screen of your VitalControl device and press the `OK` button.
+1. Select the menu item  <img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` on the main screen of your VitalControl device and press the `{{<T "Ok" >}}` button.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm by pressing `OK` and select an animal using the arrow buttons △ ▽. Confirm with `OK`.
+2. Either scan an animal using the transponder or select an animal from the list. Confirm by pressing `{{<T "Ok" >}}` and select an animal using the arrow buttons △ ▽. Confirm with `{{<T "Ok" >}}`.
 
-3. A submenu opens in which you will find icons for numerous animal actions. Use the arrow buttons to select the desired action and start the action by pressing the `OK` button. Depending on the action selected, one or more screens or a pop-up window will appear.
+3. A submenu opens in which you will find icons for numerous animal actions. Use the arrow buttons to select the desired action and start the action by pressing the `{{<T "Ok" >}}` button. Depending on the action selected, one or more screens or a pop-up window will appear.
 
 4. If desired, you can now select and execute another action for the current animal.
 
-5. After you have carried out the desired action(s) for the animal, return to step 2 'Animal selection'. To do this, press the left-hand button `F1` below the `Back` symbol in the bottom left-hand corner of the footer.
+5. After you have carried out the desired action(s) for the animal, return to step 2 'Animal selection'. To do this, press the left-hand button `F1` below the `{{<T "Back" >}} symbol in the bottom left-hand corner of the footer.
 
-6. The window from step two will open again automatically and you can select the next animal or return to the main menu by pressing the `F1` button below the `Back` symbol.
+6. The window from step two will open again automatically and you can select the next animal or return to the main menu by pressing the `F1` button below the `{{<T "Back" >}} symbol.
 
 {{< tabpane >}}
 {{< tab header="General procedure:" text=true disabled=true />}}

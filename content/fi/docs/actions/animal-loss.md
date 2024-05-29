@@ -13,13 +13,13 @@ translationKey: actions/animal-loss
 
 ## Eläinten menetys {#animal-loss}
 
-Toiminto `Eläinten menetys` mahdollistaa eläimen menetyksen rekisteröinnin. Eläimen menetyksen rekisteröimiseksi toimi seuraavasti:
+Toiminto `{{<T "AnimalLoss" >}}` mahdollistaa eläimen menetyksen rekisteröinnin. Eläimen menetyksen rekisteröimiseksi toimi seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta kohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-nappia.
+1. Valitse VitalControl-laitteesi päävalikosta kohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listalta. Vahvista `OK`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `OK`:lla.
+2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listalta. Vahvista `{{<T "Ok" >}}`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`:lla.
 
-3. Alivalikko, jossa on eläimen Toiminnat, avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Tierverlust" /> `Eläinten menetys` ja vahvista `OK`:lla.
+3. Alivalikko, jossa on eläimen Toiminnat, avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/animal-loss.svg" width="38" align="bottom" alt="Tierverlust" /> `{{<T "AnimalLoss" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
 4. Toinen alivalikko avautuu, jossa voit tallentaa erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen.
 

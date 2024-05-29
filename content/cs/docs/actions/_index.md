@@ -42,19 +42,19 @@ Každá akce je identifikována symbolem. Přesuňte ukazatel myši nad symbol v
 
 ## Obecný postup
 
-V rámci menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `Akce` můžete kdykoli vybrat další zvíře, aniž byste museli opustit položku menu Akce. Pro výběr dalšího zvířete postupujte následovně:
+V rámci menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` můžete kdykoli vybrat další zvíře, aniž byste museli opustit položku menu Akce. Pro výběr dalšího zvířete postupujte následovně:
 
-1. Vyberte položku menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `Akce` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
+1. Vyberte položku menu  <img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte stisknutím tlačítka `OK` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte stisknutím tlačítka `{{<T "Ok" >}}` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu, ve kterém najdete ikony pro různé akce se zvířaty. Pomocí šipek vyberte požadovanou akci a spusťte ji stisknutím tlačítka `OK`. V závislosti na vybrané akci se zobrazí jedna nebo více obrazovek nebo vyskakovací okno.
+3. Otevře se podmenu, ve kterém najdete ikony pro různé akce se zvířaty. Pomocí šipek vyberte požadovanou akci a spusťte ji stisknutím tlačítka `{{<T "Ok" >}}`. V závislosti na vybrané akci se zobrazí jedna nebo více obrazovek nebo vyskakovací okno.
 
 4. Pokud si přejete, můžete nyní vybrat a provést další akci pro aktuální zvíře.
 
-5. Po provedení požadované akce (akcí) pro zvíře se vraťte ke kroku 2 'Výběr zvířete'. K tomu stiskněte levé tlačítko `F1` pod symbolem `Zpět` v levém dolním rohu zápatí.
+5. Po provedení požadované akce (akcí) pro zvíře se vraťte ke kroku 2 'Výběr zvířete'. K tomu stiskněte levé tlačítko `F1` pod symbolem `{{<T "Back" >}}` v levém dolním rohu zápatí.
 
-6. Okno z kroku dva se automaticky znovu otevře a můžete vybrat další zvíře nebo se vrátit do hlavního menu stisknutím tlačítka `F1` pod symbolem `Zpět`.
+6. Okno z kroku dva se automaticky znovu otevře a můžete vybrat další zvíře nebo se vrátit do hlavního menu stisknutím tlačítka `F1` pod symbolem `{{<T "Back" >}}`.
 
 {{< tabpane >}}
 {{< tab header="Obecný postup:" text=true disabled=true />}}

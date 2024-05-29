@@ -18,17 +18,17 @@ See toiming ei ole vaikimisi lubatud! Aktiveeri see, nagu kirjeldatud [toimingut
 
 Rahvusliku looma ID määramiseks loomale, kellel seda veel ei ole, toimi järgnevalt:
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `toimingud` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `{{<T "Actions" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Skaneeri kas looma transponder, kellel puudub rahvuslik looma ID, või vali loom nimekirjast. Selleks kinnita `OK` ja vali looma ID nooleklahvide △ ▽ abil. Kinnita valik `OK` nupuga.
+2. Skaneeri kas looma transponder, kellel puudub rahvuslik looma ID, või vali loom nimekirjast. Selleks kinnita `{{<T "Ok" >}}` ja vali looma ID nooleklahvide △ ▽ abil. Kinnita valik `{{<T "Ok" >}}` nupuga.
 
-3. Avaneb alammenüü loomatoimingutega. Kasuta nooleklahve ◁ ▷ △ ▽ toimingu &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Looma ID sidumine" /> `Looma ID sidumine` valimiseks ja kinnita `OK` nupuga.
+3. Avaneb alammenüü loomatoimingutega. Kasuta nooleklahve ◁ ▷ △ ▽ toimingu &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Looma ID sidumine" /> `{{<T "LinkAnimalID" >}}` valimiseks ja kinnita `{{<T "Ok" >}}` nupuga.
 
-4. Avaneb veel üks alammenüü kõigi loomaandmete seadistamise võimalustega. Seadistusvõimalus `Rahvuslik looma ID` on automaatselt valitud. Kinnita `OK` nupuga.
+4. Avaneb veel üks alammenüü kõigi loomaandmete seadistamise võimalustega. Seadistusvõimalus `{{<T "NationalAnimalID" >}}` on automaatselt valitud. Kinnita `{{<T "Ok" >}}` nupuga.
 
-5. Kasuta nooleklahve ◁ ▷ △ ▽ rahvusliku looma ID seadmiseks. Kinnita uuesti `OK` nupuga.
+5. Kasuta nooleklahve ◁ ▷ △ ▽ rahvusliku looma ID seadmiseks. Kinnita uuesti `{{<T "Ok" >}}` nupuga.
 
-6. Salvesta seaded ja naase põhimenüüsse &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `toimingud` kasutades `F3` klahvi.
+6. Salvesta seaded ja naase põhimenüüsse &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `{{<T "Actions" >}}` kasutades `F3` klahvi.
 
 {{< tabpane >}}
 {{< tab header="Looma ID sidumine:" text=true disabled=true />}}
@@ -44,11 +44,11 @@ Rahvusliku looma ID määramiseks loomale, kellel seda veel ei ole, toimi järgn
 
 Loomale rahvusliku looma ID määramiseks, mis on varustatud elektroonilise kõrvamärgiga, toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `tegevused` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Skannige kas looma transponder, millel puudub rahvuslik looma ID, või valige loom nimekirjast. Selleks kinnitage `OK`-ga ja valige looma ID nooleklahvidega △ ▽. Kinnitage `OK`-ga.
+2. Skannige kas looma transponder, millel puudub rahvuslik looma ID, või valige loom nimekirjast. Selleks kinnitage `{{<T "Ok" >}}`-ga ja valige looma ID nooleklahvidega △ ▽. Kinnitage `{{<T "Ok" >}}`-ga.
 
-3. Avaneb alammenüü looma toimingutega. Kasutage nooleklahve ◁ ▷ △ ▽ toimingu &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `Looma ID sidumine` valimiseks ja kinnitage `OK`-ga.
+3. Avaneb alammenüü looma toimingutega. Kasutage nooleklahve ◁ ▷ △ ▽ toimingu &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `{{<T "LinkAnimalID" >}}` valimiseks ja kinnitage `{{<T "Ok" >}}`-ga.
 
 4. Skannige nüüd elektrooniline kõrvamärk.
 

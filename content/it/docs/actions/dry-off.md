@@ -19,11 +19,11 @@ A seconda dello stato iniziale della mucca, puoi asciugare l'animale e aggiunger
 
 ### Asciugare una mucca {#dry-off-a-cow}
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona il transponder dell'animale senza l'ID nazionale dell'animale oppure seleziona l'animale dalla lista. Per fare ciò, conferma con `OK` e seleziona l'ID dell'animale utilizzando i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona il transponder dell'animale senza l'ID nazionale dell'animale oppure seleziona l'animale dalla lista. Per fare ciò, conferma con `{{<T "Ok" >}}` e seleziona l'ID dell'animale utilizzando i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Asciugare" /> `Asciugare` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Asciugare" /> `{{<T "DryOff" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. L'animale è stato segnato con successo come asciutto.
 
@@ -39,12 +39,12 @@ A seconda dello stato iniziale della mucca, puoi asciugare l'animale e aggiunger
 
 ### Segnare come lattante {#mark-as-lactated}
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona il transponder dell'animale senza l'ID nazionale dell'animale oppure seleziona l'animale dalla lista. Per fare ciò, conferma con `OK` e seleziona l'ID dell'animale utilizzando i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona il transponder dell'animale senza l'ID nazionale dell'animale oppure seleziona l'animale dalla lista. Per fare ciò, conferma con `{{<T "Ok" >}}` e seleziona l'ID dell'animale utilizzando i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
 
-3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Asciugare" /> `Asciugare` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Asciugare" /> `{{<T "DryOff" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. L'animale è stato segnato con successo come lattato.
 

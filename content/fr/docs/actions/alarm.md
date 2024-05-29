@@ -13,17 +13,17 @@ translationKey: actions/alarm
 
 ## Alert {#alert}
 
-Avec l'action `Alarme`, vous pouvez ajouter des animaux à la liste d'alarme ou les en retirer. La liste d'alarme vous aide à trouver plus rapidement et facilement les animaux remarquables, rendant vos contrôles de routine quotidiens plus simples. Pour appliquer l'action `Alarme`, procédez comme suit :
+Avec l'action `{{<T "Alarm" >}}`, vous pouvez ajouter des animaux à la liste d'alarme ou les en retirer. La liste d'alarme vous aide à trouver plus rapidement et facilement les animaux remarquables, rendant vos contrôles de routine quotidiens plus simples. Pour appliquer l'action `{{<T "Alarm" >}}`, procédez comme suit :
 
-1. Sélectionnez dans l'écran principal de votre appareil VitalControl l'élément de menu `Action` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> et appuyez sur le bouton `OK`.
+1. Sélectionnez dans l'écran principal de votre appareil VitalControl l'élément de menu `{{<T "Actions" >}}` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Scannez un animal avec le transpondeur ou sélectionnez un animal dans la liste. Confirmez avec `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
+2. Scannez un animal avec le transpondeur ou sélectionnez un animal dans la liste. Confirmez avec `{{<T "Ok" >}}` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un sous-menu avec les actions pour les animaux s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Ajouter une alarme" /> `Alarme` et confirmez avec `OK`.
+3. Un sous-menu avec les actions pour les animaux s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Ajouter une alarme" /> `{{<T "Alarm" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 4. Un message apparaît indiquant que l'animal a été ajouté avec succès à la liste d'alarme et l'affichage de l'animal en tête change. Le symbole &nbsp;<img src="/icons/header/animal-in-alarm.svg" width="32" align="bottom" alt="Animal en alarme" /> indique que cet animal est sur la liste d'alarme.
 
-5. Vous pouvez retirer l'animal de la liste d'alarme en appliquant à nouveau l'action &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Retirer l'alarme" /> `Alarme`. Que vous ajoutiez ou retiriez l'animal de la liste d'alarme avec l'action `Alarme` est indiqué par un petit signe + ou -.
+5. Vous pouvez retirer l'animal de la liste d'alarme en appliquant à nouveau l'action &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Retirer l'alarme" /> `{{<T "Alarm" >}}`. Que vous ajoutiez ou retiriez l'animal de la liste d'alarme avec l'action `{{<T "Alarm" >}}` est indiqué par un petit signe + ou -.
 
 {{< tabpane >}}
 {{< tab header="Alerte :" text=true disabled=true />}}

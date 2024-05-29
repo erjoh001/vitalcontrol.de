@@ -18,11 +18,11 @@ See toiming ei ole vaikimisi lubatud! Aktiveeri see, nagu kirjeldatud [toimingut
 
 Selle toiminguga saad määrata transponderi loomale, kellele pole veel transponderit määratud.
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `Toiming` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toimingud" /> `{{<T "Actions" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Vali loendist soovitud loom. Selleks kinnita `OK` ja vali looma ID nooltega △ ▽. Kinnita `OK`.
+2. Vali loendist soovitud loom. Selleks kinnita `{{<T "Ok" >}}` ja vali looma ID nooltega △ ▽. Kinnita `{{<T "Ok" >}}`.
 
-3. Avaneb alammenüü looma toimingutega. Kasuta nooli ◁ ▷ △ ▽ toimingu &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Lingi transponder" /> `Lingi transponder` valimiseks ja kinnita `OK`.
+3. Avaneb alammenüü looma toimingutega. Kasuta nooli ◁ ▷ △ ▽ toimingu &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Lingi transponder" /> `{{<T "LinkTransponder" >}}` valimiseks ja kinnita `{{<T "Ok" >}}`.
 
 4. Skaneeri nüüd transponder, mida soovid loomale määrata.
 

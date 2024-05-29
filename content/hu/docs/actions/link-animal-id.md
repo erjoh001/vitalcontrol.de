@@ -18,17 +18,17 @@ Ez a művelet alapértelmezés szerint nincs engedélyezve! Aktiválja ezt a [m�
  
 Országos állat azonosító hozzárendeléséhez egy olyan állathoz, amelynek nincs országos állat azonosítója, kövesse az alábbi lépéseket:
 
-1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `műveletek` menüpontot és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` menüpontot és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy olvassa be az állat transzponderét, amelynek nincs országos állat azonosítója, vagy válassza ki az állatot a listából. Ehhez erősítse meg az `OK` gombbal, és válassza ki az állat azonosítóját a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy olvassa be az állat transzponderét, amelynek nincs országos állat azonosítója, vagy válassza ki az állatot a listából. Ehhez erősítse meg az `{{<T "Ok" >}}` gombbal, és válassza ki az állat azonosítóját a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü az állat műveleteivel. Használja a ◁ ▷ △ ▽ nyílgombokat a &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Link animal ID" /> `Állat azonosító összekapcsolása` művelet kiválasztásához, és erősítse meg az `OK` gombbal.
+3. Megnyílik egy almenü az állat műveleteivel. Használja a ◁ ▷ △ ▽ nyílgombokat a &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Link animal ID" /> `{{<T "LinkAnimalID" >}}` művelet kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Egy másik almenü nyílik meg az állat adataival kapcsolatos összes beállítási lehetőséggel. Az `Országos állat azonosító` beállítási lehetőség automatikusan ki van választva. Erősítse meg az `OK` gombbal.
+4. Egy másik almenü nyílik meg az állat adataival kapcsolatos összes beállítási lehetőséggel. Az `{{<T "NationalAnimalID" >}}` beállítási lehetőség automatikusan ki van választva. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-5. Használja a ◁ ▷ △ ▽ nyílgombokat az országos állat azonosító beállításához. Ismét erősítse meg az `OK` gombbal.
+5. Használja a ◁ ▷ △ ▽ nyílgombokat az országos állat azonosító beállításához. Ismét erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-6. Mentse a beállításokat, és térjen vissza a főmenübe &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `műveletek` az `F3` gomb használatával.
+6. Mentse a beállításokat, és térjen vissza a főmenübe &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` az `F3` gomb használatával.
 
 {{< tabpane >}}
 {{< tab header="Állat azonosító összekapcsolása:" text=true disabled=true />}}
@@ -44,11 +44,11 @@ Országos állat azonosító hozzárendeléséhez egy olyan állathoz, amelynek 
 
 Az állat nemzeti azonosítójának hozzárendeléséhez egy elektronikus fülcímkével rendelkező állathoz, kövesse az alábbi lépéseket:
 
-1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy olvassa be az állat transzponderét, amely nem rendelkezik nemzeti állat azonosítóval, vagy válassza ki az állatot a listából. Ehhez erősítse meg az `OK` gombbal, és válassza ki az állat azonosítóját a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy olvassa be az állat transzponderét, amely nem rendelkezik nemzeti állat azonosítóval, vagy válassza ki az állatot a listából. Ehhez erősítse meg az `{{<T "Ok" >}}` gombbal, és válassza ki az állat azonosítóját a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü az állat műveleteivel. Használja a ◁ ▷ △ ▽ nyílgombokat a &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `Link animal ID` művelet kiválasztásához, és erősítse meg az `OK` gombbal.
+3. Megnyílik egy almenü az állat műveleteivel. Használja a ◁ ▷ △ ▽ nyílgombokat a &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `{{<T "LinkAnimalID" >}}` művelet kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Most olvassa be az elektronikus fülcímkét.
 

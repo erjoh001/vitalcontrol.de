@@ -18,17 +18,17 @@ Cette action n'est pas activée par défaut ! Activez-la comme décrit dans [par
 
 Pour attribuer un ID animal national à un animal qui n'en possède pas, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Soit scannez le transpondeur de l'animal sans l'ID animal national, soit sélectionnez l'animal dans la liste. Pour ce faire, confirmez avec `OK` et sélectionnez l'ID de l'animal à l'aide des touches fléchées △ ▽. Confirmez avec `OK`.
+2. Soit scannez le transpondeur de l'animal sans l'ID animal national, soit sélectionnez l'animal dans la liste. Pour ce faire, confirmez avec `{{<T "Ok" >}}` et sélectionnez l'ID de l'animal à l'aide des touches fléchées △ ▽. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Lier l'ID animal" /> `Lier ID de l'animal` et confirmez avec `OK`.
+3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/link-nais-id.svg" width="35" align="bottom" alt="Lier l'ID animal" /> `{{<T "LinkAnimalID" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Un autre sous-menu s'ouvre avec toutes les options de réglage pour les données de l'animal. L'option de réglage `ID animal national` est automatiquement sélectionnée. Confirmez avec `OK`.
+4. Un autre sous-menu s'ouvre avec toutes les options de réglage pour les données de l'animal. L'option de réglage `{{<T "NationalAnimalID" >}}` est automatiquement sélectionnée. Confirmez avec `{{<T "Ok" >}}`.
 
-5. Utilisez les touches fléchées ◁ ▷ △ ▽ pour régler l'ID animal national. Confirmez à nouveau avec `OK`.
+5. Utilisez les touches fléchées ◁ ▷ △ ▽ pour régler l'ID animal national. Confirmez à nouveau avec `{{<T "Ok" >}}`.
 
-6. Sauvegardez les paramètres et retournez au menu principal &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` en utilisant la touche `F3`.
+6. Sauvegardez les paramètres et retournez au menu principal &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` en utilisant la touche `F3`.
 
 {{< tabpane >}}
 {{< tab header="Lier l'ID animal :" text=true disabled=true />}}
@@ -44,11 +44,11 @@ Pour attribuer un ID animal national à un animal qui n'en possède pas, procéd
 
 Pour attribuer un ID national à un animal qui possède une boucle d'oreille électronique, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Scannez soit le transpondeur de l'animal sans l'ID national soit sélectionnez l'animal dans la liste. Pour cela, confirmez avec `OK` et sélectionnez l'ID de l'animal en utilisant les touches fléchées △ ▽. Confirmez avec `OK`.
+2. Scannez soit le transpondeur de l'animal sans l'ID national soit sélectionnez l'animal dans la liste. Pour cela, confirmez avec `{{<T "Ok" >}}` et sélectionnez l'ID de l'animal en utilisant les touches fléchées △ ▽. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `Lier ID de l'animal` et confirmez avec `OK`.
+3. Un sous-menu avec les actions pour l'animal s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'action &nbsp;<img src="/icons/actions/scan-nais-id.svg" width="35" align="bottom" alt="Link animal ID" />  `{{<T "LinkAnimalID" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 4. Scannez maintenant la boucle d'oreille électronique.
 

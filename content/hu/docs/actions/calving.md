@@ -17,6 +17,6 @@ Ha nincs szüksége erre a funkcióra, kikapcsolhatja az [akció beállítások]
 
 ## Ellés regisztrálása {#register-a-calving}
 
-Amint belépett az akció menübe, válassza ki a <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `Ellés` menüpontot és erősítse meg `OK` gombbal. Folytassa az [Ellés regisztrálása](/hu/docs/new/calving/) útmutatóban leírtak szerint.
+Amint belépett az akció menübe, válassza ki a <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` menüpontot és erősítse meg `{{<T "Ok" >}}` gombbal. Folytassa az [Ellés regisztrálása](/hu/docs/new/calving/) útmutatóban leírtak szerint.
 
    ![VitalControl: Menü Akciók Ellés](../images/calving.png "Ellés")

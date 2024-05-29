@@ -27,11 +27,11 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 
 ### Předběžné kroky
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `Akce` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte `OK` a vyberte zvíře pomocí šipek △ ▽. Potvrďte `OK`.
+2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte `{{<T "Ok" >}}` a vyberte zvíře pomocí šipek △ ▽. Potvrďte `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi pro zvíře. Akce <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Teplota" /> `Teplota` je automaticky vybrána. Potvrďte `OK`.
+3. Otevře se podmenu s akcemi pro zvíře. Akce <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Teplota" /> `{{<T "Temperature" >}}` je automaticky vybrána. Potvrďte `{{<T "Ok" >}}`.
 
 
 4. Nyní proveďte měření. Jakmile je měření dokončeno, teplota je zvýrazněna modře, zeleně, žlutě nebo červeně, v závislosti na nastaveném prahu.
@@ -50,7 +50,7 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> nebo potvrďte `OK` pro uložení výsledku.
+2. Použijte klávesu `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> nebo potvrďte `{{<T "Ok" >}}` pro uložení výsledku.
 
     ![VitalControl: Menu Actions Save results](../images/saveresults.png "Save results")
 
@@ -58,9 +58,9 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 
 1. Dokončete předběžné kroky.
 
-2. Stiskněte prostřední horní tlačítko `Zap/Vyp` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
+2. Stiskněte prostřední horní tlačítko `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. Otevře se vyskakovací menu, ve kterém můžete vybrat z položek menu `Opakovat měření`, `Přidat na seznam sledovaných` nebo `Baterka`. Pomocí šipek △ ▽ vyberte `Přidat na seznam sledovaných` a stiskněte centrální klávesu `OK` nebo klávesu `F3` `OK`.
+3. Otevře se vyskakovací menu, ve kterém můžete vybrat z položek menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` nebo `{{<T "Flashlight" >}}`. Pomocí šipek △ ▽ vyberte `{{<T "AddToWatchList" >}}` a stiskněte centrální klávesu `{{<T "Ok" >}}` nebo klávesu `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Actions Put on watch list](../images/watchlist.png "Put on watch list")
 
@@ -68,9 +68,9 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 
 1. Dokončete předběžné kroky.
 
-2. Stiskněte prostřední horní tlačítko `Zap/Vyp` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
+2. Stiskněte prostřední horní tlačítko `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. Otevře se vyskakovací menu, ve kterém můžete vybrat z položek menu `Opakovat měření`, `Přidat na seznam sledovaných` nebo `Baterka`. Pomocí šipek △ ▽ vyberte `Baterka` a stiskněte centrální klávesu `OK` nebo klávesu `F3` `OK`.
+3. Otevře se vyskakovací menu, ve kterém můžete vybrat z položek menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` nebo `{{<T "Flashlight" >}}`. Pomocí šipek △ ▽ vyberte `{{<T "Flashlight" >}}` a stiskněte centrální klávesu `{{<T "Ok" >}}` nebo klávesu `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Actions Flashlight on off](../images/light.png "Flashlight on off")
 
@@ -79,9 +79,9 @@ Pokud je teplota v žluté oblasti ("zvýšená") nebo červené oblasti ("hore�
 1. Dokončete předběžné kroky.
 
 
-2. Stiskněte prostřední horní tlačítko `Zap/Vyp` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Otevřít popup" />.
+2. Stiskněte prostřední horní tlačítko `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Otevřít popup" />.
 
-3. Otevře se popup menu, ve kterém můžete vybrat z položek menu `Opakovat měření`, `Přidat do seznamu sledování` nebo `Svítilna`. Pomocí šipek △ ▽ vyberte `Opakovat měření` a stiskněte centrální tlačítko `OK` nebo tlačítko `F3` `OK`.
+3. Otevře se popup menu, ve kterém můžete vybrat z položek menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` nebo `{{<T "Flashlight" >}}`. Pomocí šipek △ ▽ vyberte `{{<T "RepeatMeasurement" >}}` a stiskněte centrální tlačítko `{{<T "Ok" >}}` nebo tlačítko `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Akce Světlo zapnuto vypnuto](../images/repeat.png "Světlo zapnuto vypnuto")
 

@@ -42,19 +42,19 @@ Ogni azione è identificata da un simbolo. Sposta il puntatore del mouse su un s
 
 ## Procedura generale
 
-All'interno del menu <img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `Azioni` puoi selezionare il prossimo animale in qualsiasi momento senza dover lasciare la voce di menu Azioni. Per selezionare il prossimo animale, procedi come segue:
+All'interno del menu <img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` puoi selezionare il prossimo animale in qualsiasi momento senza dover lasciare la voce di menu Azioni. Per selezionare il prossimo animale, procedi come segue:
 
-1. Seleziona la voce di menu <img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `Azioni` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
+1. Seleziona la voce di menu <img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma premendo `OK` e seleziona un animale utilizzando i pulsanti freccia △ ▽. Conferma con `OK`.
+2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma premendo `{{<T "Ok" >}}` e seleziona un animale utilizzando i pulsanti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu in cui troverai icone per numerose azioni sugli animali. Usa i pulsanti freccia per selezionare l'azione desiderata e avvia l'azione premendo il pulsante `OK`. A seconda dell'azione selezionata, appariranno una o più schermate o una finestra pop-up.
+3. Si apre un sottomenu in cui troverai icone per numerose azioni sugli animali. Usa i pulsanti freccia per selezionare l'azione desiderata e avvia l'azione premendo il pulsante `{{<T "Ok" >}}`. A seconda dell'azione selezionata, appariranno una o più schermate o una finestra pop-up.
 
 4. Se lo desideri, puoi ora selezionare ed eseguire un'altra azione per l'animale corrente.
 
-5. Dopo aver eseguito l'azione o le azioni desiderate per l'animale, torna al passaggio 2 'Selezione animale'. Per fare ciò, premi il pulsante sinistro `F1` sotto il simbolo `Indietro` nell'angolo in basso a sinistra del footer.
+5. Dopo aver eseguito l'azione o le azioni desiderate per l'animale, torna al passaggio 2 'Selezione animale'. Per fare ciò, premi il pulsante sinistro `F1` sotto il simbolo `{{<T "Back" >}}` nell'angolo in basso a sinistra del footer.
 
-6. La finestra del passaggio due si aprirà nuovamente automaticamente e potrai selezionare il prossimo animale o tornare al menu principale premendo il pulsante `F1` sotto il simbolo `Indietro`.
+6. La finestra del passaggio due si aprirà nuovamente automaticamente e potrai selezionare il prossimo animale o tornare al menu principale premendo il pulsante `F1` sotto il simbolo `{{<T "Back" >}}`.
 
 {{< tabpane >}}
 {{< tab header="Procedura generale:" text=true disabled=true />}}

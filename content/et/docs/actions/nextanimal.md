@@ -13,13 +13,13 @@ draft: true
 ---
 ## Järgmine loom {#next-animal}
 
-`actions` menüüs on teil võimalus igal ajal valida järgmine loom, ilma et peaksite lahkuma Tegevuste menüüpunktist. Järgmise looma valimiseks toimige järgnevalt:
+`{{<T "Actions" >}}` menüüs on teil võimalus igal ajal valida järgmine loom, ilma et peaksite lahkuma Tegevuste menüüpunktist. Järgmise looma valimiseks toimige järgnevalt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt `actions` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt `{{<T "Actions" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Skaneerige loom transponderi abil või valige loom nimekirjast. Selleks kinnitage `OK`-ga ja valige loom nooleklahvide △ ▽ abil. Kinnitage valik `OK`-ga.
+2. Skaneerige loom transponderi abil või valige loom nimekirjast. Selleks kinnitage `{{<T "Ok" >}}`-ga ja valige loom nooleklahvide △ ▽ abil. Kinnitage valik `{{<T "Ok" >}}`-ga.
 
-3. Avaneb alammenüü loomaga seotud tegevustega. Alumisel juhtpaneelil leiate menüüpunkti `next animal`. Selle käivitamiseks kasutage klahvi `F3`.
+3. Avaneb alammenüü loomaga seotud tegevustega. Alumisel juhtpaneelil leiate menüüpunkti Next animal. Selle käivitamiseks kasutage klahvi `F3`.
 
 4. Aknas, mis avanes teises sammus, avaneb automaatselt uuesti ja saate valida järgmise looma.
 

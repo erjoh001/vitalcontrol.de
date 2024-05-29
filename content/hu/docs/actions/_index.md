@@ -42,19 +42,19 @@ Minden műveletet egy szimbólum azonosít. Mozgassa az egérmutatót egy szimb�
 
 ## Általános eljárás
 
-A menüben <img src="/icons/actions.svg" width="40" align="bottom" alt="Műveletek" /> `Műveletek` bármikor kiválaszthatja a következő állatot anélkül, hogy el kellene hagynia a Műveletek menüpontot. Az állat kiválasztásához kövesse az alábbi lépéseket:
+A menüben <img src="/icons/actions.svg" width="40" align="bottom" alt="Műveletek" /> `{{<T "Actions" >}}` bármikor kiválaszthatja a következő állatot anélkül, hogy el kellene hagynia a Műveletek menüpontot. Az állat kiválasztásához kövesse az alábbi lépéseket:
 
-1. Válassza ki a főképernyőn a <img src="/icons/actions.svg" width="40" align="bottom" alt="Műveletek" /> `Műveletek` menüpontot a VitalControl készülékén, és nyomja meg az `OK` gombot.
+1. Válassza ki a főképernyőn a <img src="/icons/actions.svg" width="40" align="bottom" alt="Műveletek" /> `{{<T "Actions" >}}` menüpontot a VitalControl készülékén, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy szkenneljen be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `OK` gomb megnyomásával, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy szkenneljen be egy állatot a transzponder segítségével, vagy válasszon egy állatot a listából. Erősítse meg az `{{<T "Ok" >}}` gomb megnyomásával, és válasszon egy állatot a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü, amelyben számos állatművelet ikonja található. Használja a nyílgombokat a kívánt művelet kiválasztásához, és indítsa el a műveletet az `OK` gomb megnyomásával. A kiválasztott művelettől függően egy vagy több képernyő vagy egy felugró ablak jelenik meg.
+3. Megnyílik egy almenü, amelyben számos állatművelet ikonja található. Használja a nyílgombokat a kívánt művelet kiválasztásához, és indítsa el a műveletet az `{{<T "Ok" >}}` gomb megnyomásával. A kiválasztott művelettől függően egy vagy több képernyő vagy egy felugró ablak jelenik meg.
 
 4. Ha szeretné, most kiválaszthat és végrehajthat egy másik műveletet az aktuális állatra.
 
-5. Miután végrehajtotta a kívánt művelet(ek)et az állaton, térjen vissza a 2. lépéshez, az 'Állat kiválasztása' ponthoz. Ehhez nyomja meg a bal oldali `F1` gombot a `Vissza` szimbólum alatt a lábléc bal alsó sarkában.
+5. Miután végrehajtotta a kívánt művelet(ek)et az állaton, térjen vissza a 2. lépéshez, az 'Állat kiválasztása' ponthoz. Ehhez nyomja meg a bal oldali `F1` gombot a `{{<T "Back" >}}` szimbólum alatt a lábléc bal alsó sarkában.
 
-6. Az ablak a második lépéstől automatikusan újra megnyílik, és kiválaszthatja a következő állatot, vagy visszatérhet a főmenübe az `F1` gomb megnyomásával a `Vissza` szimbólum alatt.
+6. Az ablak a második lépéstől automatikusan újra megnyílik, és kiválaszthatja a következő állatot, vagy visszatérhet a főmenübe az `F1` gomb megnyomásával a `{{<T "Back" >}}` szimbólum alatt.
 
 {{< tabpane >}}
 {{< tab header="Általános eljárás:" text=true disabled=true />}}

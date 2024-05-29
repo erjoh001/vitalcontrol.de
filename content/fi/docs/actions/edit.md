@@ -13,7 +13,7 @@ translationKey: actions/edit
 
 ## Muokkaa eläintietoja {#edit-animal-data}
 
-Toiminto <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokkaa" /> `Muokkaa` mahdollistaa valitun eläimen tietojen suoran muuttamisen. Tämä toiminto helpottaa eläintietojen korjaamista, jos esimerkiksi eläintarkastuksen aikana huomataan, että sukupuoli on tallennettu väärin. Voit muuttaa seuraavia tietoja:
+Toiminto <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokkaa" /> `{{<T "Edit" >}}` mahdollistaa valitun eläimen tietojen suoran muuttamisen. Tämä toiminto helpottaa eläintietojen korjaamista, jos esimerkiksi eläintarkastuksen aikana huomataan, että sukupuoli on tallennettu väärin. Voit muuttaa seuraavia tietoja:
 
 - Eläinlaji
 - Sukupuoli
@@ -28,17 +28,17 @@ Toiminto <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokk
 
 Eläintietojen muuttamiseksi toimi seuraavasti:
 
-1. Valitse päävalikosta VitalControl-laitteellasi kohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-näppäintä.
+1. Valitse päävalikosta VitalControl-laitteellasi kohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Skannaa eläin transponderilla tai valitse eläin listasta. Vahvista `OK`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `OK`:lla.
+2. Skannaa eläin transponderilla tai valitse eläin listasta. Vahvista `{{<T "Ok" >}}`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`:lla.
 
-3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokkaa" /> `Muokkaa` ja vahvista `OK`:lla.
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokkaa" /> `{{<T "Edit" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
 4. Lista eläintiedoista avautuu. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi muutosvaihtoehdon.
 
-5. Tiedoille `Eläinlaji`, `Sukupuoli`, `Syntymäpaino`, `Rotu`, `Olinpaikka`, `Toistot` ja `Poikimavaikeus` käytä nuolinäppäimiä ◁ ▷ tehdäksesi haluamasi muutoksen.
+5. Tiedoille `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` käytä nuolinäppäimiä ◁ ▷ tehdäksesi haluamasi muutoksen.
 
-6. Tiedoille `ID` ja `Syntymäpäivä` valitse ne nuolinäppäimillä △ ▽ ja vahvista `OK`:lla. Käytä nuolinäppäimiä △ ▽ valitaksesi vastaavan numeron ja nuolinäppäimiä ◁ ▷ navigoidaksesi numerokentissä.
+6. Tiedoille `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` valitse ne nuolinäppäimillä △ ▽ ja vahvista `{{<T "Ok" >}}`:lla. Käytä nuolinäppäimiä △ ▽ valitaksesi vastaavan numeron ja nuolinäppäimiä ◁ ▷ navigoidaksesi numerokentissä.
 
 7. Tallenna muutos `F3`-näppäimellä.
 

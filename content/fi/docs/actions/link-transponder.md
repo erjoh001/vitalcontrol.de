@@ -18,11 +18,11 @@ Tämä Toiminnat ei ole oletusarvoisesti käytössä! Aktivoi tämä kuten on ku
 
 Tällä toiminnolla voit asettaa lähettimen eläimelle, jolle ei vielä ole määritetty lähetintä.
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `Toiminnat` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Valitse haluamasi eläin listalta. Tee tämä vahvistamalla `OK` ja valitsemalla eläimen ID nuolinäppäimillä △ ▽. Vahvista `OK`.
+2. Valitse haluamasi eläin listalta. Tee tämä vahvistamalla `{{<T "Ok" >}}` ja valitsemalla eläimen ID nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`.
 
-3. Alivalikko eläimen toiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Linkitä transponderi" /> `Linkitä transponderi` ja vahvista `OK`.
+3. Alivalikko eläimen toiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Linkitä transponderi" /> `{{<T "LinkTransponder" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 4. Skannaa nyt lähetin, jonka haluat asettaa eläimelle.
 

@@ -16,17 +16,17 @@ As soon as you delete the animal data record, it is no longer available for eval
 
 ## Unregister {#unregister}
 
-The action `Unregister` allows you to deregister an animal as soon as it is moved out. To deregister an animal, proceed as follows:
+The action `{{<T "Unregister" >}}` allows you to deregister an animal as soon as it is moved out. To deregister an animal, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Either scan an animal using the transponder or select an animal from the list. Confirm with `{{<T "Ok" >}}` and select an animal with the arrow keys △ ▽. Confirm with `{{<T "Ok" >}}`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Unregister" /> `Unregister` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ △ ▽ to select the action &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Unregister" /> `{{<T "Unregister" >}}` and confirm with `{{<T "Ok" >}}`.
 
 4. Another submenu opens in which you can save various settings. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
 
-5. Use the key `F3` `Unregister` to deregister the animal with the specified settings.
+5. Use the key `F3` `{{<T "Unregister" >}}` to deregister the animal with the specified settings.
 
 {{< tabpane >}}
 {{< tab header="Unregister:" text=true disabled=true />}}

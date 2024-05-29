@@ -17,6 +17,6 @@ translationKey: actions/calving
 
 ## Регистриране на телене {#register-a-calving}
 
-Щом влезете в менюто за действия, изберете пункта <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Телене"  alt="Телене"/> `Телене` и потвърдете с `OK`. Продължете както е описано в инструкциите [Регистрация на телене](/bg/docs/new/calving/).
+Щом влезете в менюто за действия, изберете пункта <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Телене"  alt="Телене"/> `{{<T "Calving" >}}` и потвърдете с `{{<T "Ok" >}}`. Продължете както е описано в инструкциите [Регистрация на телене](/bg/docs/new/calving/).
 
    ![VitalControl: Меню Действия Телене](../images/calving.png "Телене")

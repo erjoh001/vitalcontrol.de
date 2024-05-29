@@ -16,17 +16,17 @@ Jakmile odstraníte záznam o zvířeti, již není k dispozici pro účely hodn
 
 ## Odhlásit {#unregister}
 
-Akce `Odhlásit` vám umožňuje odhlásit zvíře, jakmile je přemístěno. Pro odhlášení zvířete postupujte následovně:
+Akce `{{<T "Unregister" >}}` vám umožňuje odhlásit zvíře, jakmile je přemístěno. Pro odhlášení zvířete postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `Akce` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře pomocí transpondéru nebo vyberte zvíře ze seznamu. Potvrďte `OK` a vyberte zvíře pomocí šipek △ ▽. Potvrďte `OK`.
+2. Buď naskenujte zvíře pomocí transpondéru nebo vyberte zvíře ze seznamu. Potvrďte `{{<T "Ok" >}}` a vyberte zvíře pomocí šipek △ ▽. Potvrďte `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Odhlásit" /> `Odhlásit` a potvrďte `OK`.
+3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Odhlásit" /> `{{<T "Unregister" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 4. Otevře se další podmenu, ve kterém můžete uložit různá nastavení. Pomocí šipek △ ▽ vyberte požadovanou možnost nastavení. Pomocí šipek ◁ ▷ vyberte požadované nastavení.
 
-5. Pomocí klávesy `F3` `Odhlásit` odhlásíte zvíře s uvedenými nastaveními.
+5. Pomocí klávesy `F3` `{{<T "Unregister" >}}` odhlásíte zvíře s uvedenými nastaveními.
 
 {{< tabpane >}}
 {{< tab header="Odhlásit:" text=true disabled=true />}}

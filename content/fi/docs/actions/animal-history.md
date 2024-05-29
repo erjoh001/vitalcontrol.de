@@ -17,15 +17,15 @@ Eläin historia antaa sinulle yleiskatsauksen tähän mennessä tallennetuista t
 
 Eläin historian tarkastelemiseksi toimi seuraavasti:
 
-1. Valitse päävalikosta VitalControl-laitteestasi kohdan &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" />  `Toiminnot` ja paina `OK`-nappia.
+1. Valitse päävalikosta VitalControl-laitteestasi kohdan &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" />  `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläin transponderilla tai valitse eläin listasta. Vahvista `OK`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `OK`:lla.
+2. Joko skannaa eläin transponderilla tai valitse eläin listasta. Vahvista `{{<T "Ok" >}}`:lla ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`:lla.
 
-3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Eläin historia" /> `Eläin historia` ja vahvista `OK`:lla.
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi toiminnon <img src="/icons/actions/history.svg" width="23" align="bottom" alt="Eläin historia" /> `{{<T "AnimalHistory" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
 4. Nyt näytetään viimeksi asetetut tiedot. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa valikko" /> avataksesi valintavalikon tietosivuille.
 
-5. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi tietosivu. Vahvista `F3`-näppäimellä tai `OK`-näppäimellä.
+5. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi tietosivu. Vahvista `F3`-näppäimellä tai `{{<T "Ok" >}}`-näppäimellä.
 
 6. Valittu tietosivu esitetään sinulle.
 

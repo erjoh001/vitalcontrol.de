@@ -27,11 +27,11 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
 ### Passi preliminari 
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `Azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma con `OK` e seleziona un animale con i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma con `{{<T "Ok" >}}` e seleziona un animale con i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni per l'animale. L'azione <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatura" /> `Temperatura` è selezionata automaticamente. Conferma con `OK`.
+3. Si apre un sottomenu con le azioni per l'animale. L'azione <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Temperatura" /> `{{<T "Temperature" >}}` è selezionata automaticamente. Conferma con `{{<T "Ok" >}}`.
 
 
 4. Ora esegui la misurazione. Non appena la misurazione è completata, la temperatura viene evidenziata in blu, verde, giallo o rosso, a seconda della soglia impostata.
@@ -50,7 +50,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
 1. Completa i passi preliminari.
 
-2. Usa il tasto `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Salva" /> o conferma con `OK` per salvare il risultato.
+2. Usa il tasto `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Salva" /> o conferma con `{{<T "Ok" >}}` per salvare il risultato.
 
     ![VitalControl: Menu Azioni Salva risultati](../images/saveresults.png "Salva risultati")
 
@@ -60,7 +60,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
 2. Premi il pulsante centrale superiore `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Apri popup" />.
 
-3. Si apre un menu popup in cui puoi selezionare tra le voci di menu `Ripeti misurazione`, `Aggiungi alla lista di controllo` o `Torcia`. Usa i tasti freccia △ ▽ per selezionare `Aggiungi alla lista di controllo` e premi il tasto centrale `OK` o il tasto `F3` `OK`.
+3. Si apre un menu popup in cui puoi selezionare tra le voci di menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` o `{{<T "Flashlight" >}}`. Usa i tasti freccia △ ▽ per selezionare `{{<T "AddToWatchList" >}}` e premi il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Azioni Metti nella lista di controllo](../images/watchlist.png "Metti nella lista di controllo")
 
@@ -70,7 +70,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
 2. Premi il pulsante centrale superiore `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Apri popup" />.
 
-3. Si apre un menu popup in cui puoi selezionare tra le voci di menu `Ripeti misurazione`, `Aggiungi alla lista di controllo` o `Torcia`. Usa i tasti freccia △ ▽ per selezionare `Torcia` e premi il tasto centrale `OK` o il tasto `F3` `OK`.
+3. Si apre un menu popup in cui puoi selezionare tra le voci di menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` o `{{<T "Flashlight" >}}`. Usa i tasti freccia △ ▽ per selezionare `{{<T "Flashlight" >}}` e premi il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Azioni Torcia accesa spenta](../images/light.png "Torcia accesa spenta")
 
@@ -81,7 +81,7 @@ Se la temperatura è nell'area gialla ("elevata") o nell'area rossa ("febbre"), 
 
 2. Premere il pulsante centrale superiore `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. Si apre un menu a comparsa in cui è possibile selezionare dagli elementi del menu `Ripeti misurazione`, `Aggiungi alla lista di controllo` o `Torcia`. Utilizzare i tasti freccia △ ▽ per selezionare `Ripeti misurazione` e premere il tasto centrale `OK` o il tasto `F3` `OK`.
+3. Si apre un menu a comparsa in cui è possibile selezionare dagli elementi del menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` o `{{<T "Flashlight" >}}`. Utilizzare i tasti freccia △ ▽ per selezionare `{{<T "RepeatMeasurement" >}}` e premere il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Azioni Luce accesa spenta](../images/repeat.png "Luce accesa spenta")
 

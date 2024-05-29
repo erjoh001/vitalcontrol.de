@@ -19,11 +19,11 @@ A tehén kezdeti állapotától függően vagy leszáríthatja az állatot és h
 
 ### Tehén leszárítása {#dry-off-a-cow}
 
-1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` menüpontot és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` menüpontot és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy olvassa be az állat transzponderét nemzeti állatazonosító nélkül, vagy válassza ki az állatot a listából. Ehhez erősítse meg az `OK` gombbal, és válassza ki az állatazonosítót a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy olvassa be az állat transzponderét nemzeti állatazonosító nélkül, vagy válassza ki az állatot a listából. Ehhez erősítse meg az `{{<T "Ok" >}}` gombbal, és válassza ki az állatazonosítót a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Megnyílik egy almenü az állati műveletekkel. Használja a ◁ ▷ △ ▽ nyílgombokat a <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Dry off" /> `Dry off` művelet kiválasztásához, és erősítse meg az `OK` gombbal.
+3. Megnyílik egy almenü az állati műveletekkel. Használja a ◁ ▷ △ ▽ nyílgombokat a <img src="/icons/actions/dryoff-plus.svg" width="35" align="bottom" alt="Dry off" /> `{{<T "DryOff" >}}` művelet kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat sikeresen meg lett jelölve szárazként.
 
@@ -39,12 +39,12 @@ A tehén kezdeti állapotától függően vagy leszáríthatja az állatot és h
 
 ### Megjelölés fejősként {#mark-as-lactated}
 
-1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `actions` menüpontot és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` menüpontot és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Vagy olvassa be az állat transzponderét nemzeti állatazonosító nélkül, vagy válassza ki az állatot a listából. Ehhez erősítse meg az `OK` gombbal, és válassza ki az állatazonosítót a △ ▽ nyílgombokkal. Erősítse meg az `OK` gombbal.
+2. Vagy olvassa be az állat transzponderét nemzeti állatazonosító nélkül, vagy válassza ki az állatot a listából. Ehhez erősítse meg az `{{<T "Ok" >}}` gombbal, és válassza ki az állatazonosítót a △ ▽ nyílgombokkal. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 
-3. Megnyílik egy almenü az állati műveletekkel. Használja a nyílbillentyűket ◁ ▷ △ ▽ az <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Szárítás" /> `Szárítás` művelet kiválasztásához, és erősítse meg az `OK` gombbal.
+3. Megnyílik egy almenü az állati műveletekkel. Használja a nyílbillentyűket ◁ ▷ △ ▽ az <img src="/icons/actions/dryoff-minus.svg" width="35" align="bottom" alt="Szárítás" /> `{{<T "DryOff" >}}` művelet kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat sikeresen meg lett jelölve, mint laktált.
 

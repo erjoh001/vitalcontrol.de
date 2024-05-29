@@ -12,19 +12,19 @@ translationKey: actions/weight
 ---
 
 ## Record weight {#record-weight}
-Use the &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weighing` action to save the weight of your animal individually. To do this, weigh your animals or estimate their weight and enter this value in the VitalControl device. This allows you to check the weight development of your animals and evaluate them individually.
+Use the &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `{{<T "Weighing" >}}` action to save the weight of your animal individually. To do this, weigh your animals or estimate their weight and enter this value in the VitalControl device. This allows you to check the weight development of your animals and evaluate them individually.
 
 {{% alert title="Hint" %}}
 If the average weight deviates very strongly in one direction (too high/too low), the value for the daily increase should be adjusted.
 {{% /alert %}}
 
-1. In the main screen of your VitalControl device, select the menu item  &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Actions` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item  &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Either scan an animal using the transponder or select an animal from the list. Confirm with `OK` and select an animal with the arrow keys △ ▽. Confirm with `OK`.
+2. Either scan an animal using the transponder or select an animal from the list. Confirm with `{{<T "Ok" >}}` and select an animal with the arrow keys △ ▽. Confirm with `{{<T "Ok" >}}`.
 
-3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `Weighing` and confirm with `OK`.
+3. A submenu with the animal actions opens. Use the arrow keys ◁ ▷ to select the action &nbsp;<img src="/icons/actions/weight.svg" width="20" align="bottom" alt="Weighing" /> `{{<T "Weighing" >}}` and confirm with `{{<T "Ok" >}}`.
 
-4. A menu opens with a weight specification. Increase or decrease this with the arrow keys △ ▽ and save the result with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or with the `OK` key.
+4. A menu opens with a weight specification. Increase or decrease this with the arrow keys △ ▽ and save the result with the `F3` key <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Save" /> or with the `{{<T "Ok" >}}` key.
 
 {{< tabpane >}}
 {{< tab header="Record weight:" text=true disabled=true />}}

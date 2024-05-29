@@ -13,17 +13,17 @@ translationKey: actions/alarm
 
 ## Upozornění {#alert}
 
-Pomocí akce `Alarm` můžete přidávat zvířata na seznam alarmů nebo je z něj odstraňovat. Seznam alarmů vám pomůže rychleji a snadněji najít nápadná zvířata, což usnadní vaše každodenní kontroly. Pro použití akce `Alarm` postupujte následovně:
+Pomocí akce `{{<T "Alarm" >}}` můžete přidávat zvířata na seznam alarmů nebo je z něj odstraňovat. Seznam alarmů vám pomůže rychleji a snadněji najít nápadná zvířata, což usnadní vaše každodenní kontroly. Pro použití akce `{{<T "Alarm" >}}` postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu `Actions` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu `{{<T "Actions" >}}` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `OK` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `{{<T "Ok" >}}` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Add alarm" /> akci `Alarm` a potvrďte tlačítkem `OK`.
+3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte &nbsp;<img src="/icons/actions/alarm.svg" width="35" align="bottom" alt="Add alarm" /> akci `{{<T "Alarm" >}}` a potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 4. Zobrazí se oznámení, že zvíře bylo úspěšně přidáno na seznam alarmů a zobrazení pro zvíře v záhlaví se změní. Symbol &nbsp;<img src="/icons/header/animal-in-alarm.svg" width="32" align="bottom" alt="Animal in alarm" /> označuje, že toto zvíře je na seznamu alarmů.
 
-5. Zvíře můžete ze seznamu alarmů opět odstranit použitím akce &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Remove alarm" /> `Alarm` znovu. Zda přidáváte nebo odstraňujete zvíře ze seznamu alarmů pomocí akce `Alarm`, je označeno malým znaménkem + nebo -.
+5. Zvíře můžete ze seznamu alarmů opět odstranit použitím akce &nbsp;<img src="/icons/actions/alarm-minus.svg" width="35" align="bottom" alt="Remove alarm" /> `{{<T "Alarm" >}}` znovu. Zda přidáváte nebo odstraňujete zvíře ze seznamu alarmů pomocí akce `{{<T "Alarm" >}}`, je označeno malým znaménkem + nebo -.
 
 {{< tabpane >}}
 {{< tab header="Alert:" text=true disabled=true />}}

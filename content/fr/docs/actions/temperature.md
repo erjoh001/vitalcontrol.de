@@ -27,11 +27,11 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
 ### Étapes préliminaires
 
-1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `Action` et appuyez sur le bouton `OK`.
+1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" /> `{{<T "Actions" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Soit scannez un animal à l'aide du transpondeur, soit sélectionnez un animal dans la liste. Confirmez avec `OK` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `OK`.
+2. Soit scannez un animal à l'aide du transpondeur, soit sélectionnez un animal dans la liste. Confirmez avec `{{<T "Ok" >}}` et sélectionnez un animal avec les touches fléchées △ ▽. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un sous-menu avec les actions de l'animal s'ouvre. L'action <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Température" /> `Température` est automatiquement sélectionnée. Confirmez avec `OK`.
+3. Un sous-menu avec les actions de l'animal s'ouvre. L'action <img src="/icons/actions/temperature.svg" width="10" align="bottom" alt="Température" /> `{{<T "Temperature" >}}` est automatiquement sélectionnée. Confirmez avec `{{<T "Ok" >}}`.
 
 4. Effectuez maintenant la mesure. Dès que la mesure est terminée, la température est mise en évidence en bleu, vert, jaune ou rouge, selon le seuil défini.
 
@@ -49,7 +49,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Enregistrer" /> ou confirmez avec `OK` pour enregistrer le résultat.
+2. Utilisez la touche `F3` <img src="/icons/footer/save.svg" width="25" align="bottom" alt="Enregistrer" /> ou confirmez avec `{{<T "Ok" >}}` pour enregistrer le résultat.
 
     ![VitalControl: Actions du menu Enregistrer les résultats](../images/saveresults.png "Enregistrer les résultats")
 
@@ -59,7 +59,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
 2. Appuyez sur le bouton supérieur central `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Ouvrir le popup" />.
 
-3. Un menu popup s'ouvre dans lequel vous pouvez choisir parmi les éléments de menu `Répéter la mesure`, `Ajouter à la liste de surveillance` ou `Lumière`. Utilisez les touches fléchées △ ▽ pour sélectionner `Ajouter à la liste de surveillance` et appuyez sur la touche centrale `OK` ou la touche `F3` `OK`.
+3. Un menu popup s'ouvre dans lequel vous pouvez choisir parmi les éléments de menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` ou `{{<T "Flashlight" >}}`. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "AddToWatchList" >}}` et appuyez sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Actions du menu Ajouter à la liste de surveillance](../images/watchlist.png "Ajouter à la liste de surveillance")
 
@@ -69,7 +69,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
 2. Appuyez sur le bouton supérieur central `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Ouvrir le popup" />.
 
-3. Un menu popup s'ouvre dans lequel vous pouvez choisir parmi les éléments de menu `Répéter la mesure`, `Ajouter à la liste de surveillance` ou `Lumière`. Utilisez les touches fléchées △ ▽ pour sélectionner `Lampe torche` et appuyez sur la touche centrale `OK` ou la touche `F3` `OK`.
+3. Un menu popup s'ouvre dans lequel vous pouvez choisir parmi les éléments de menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` ou `{{<T "Flashlight" >}}`. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Flashlight" >}}` et appuyez sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Actions du menu Allumer et éteindre la lampe torche](../images/light.png "Allumer et éteindre la lampe torche")
 
@@ -79,7 +79,7 @@ Si la température est dans la zone jaune ("élevée") ou rouge ("fièvre"), Vit
 
 2. Appuyez sur le bouton supérieur central `On/Off` <img src="/icons/footer/repeat_add_to_watch.svg" width="65" align="bottom" alt="Open popup" />.
 
-3. Un menu popup s'ouvre dans lequel vous pouvez sélectionner parmi les éléments de menu `Répéter la mesure`, `Ajouter à la liste de surveillance` ou `Lumière`. Utilisez les touches fléchées △ ▽ pour sélectionner `Refaire la mesure` et appuyez sur la touche centrale `OK` ou sur la touche `F3` `OK`.
+3. Un menu popup s'ouvre dans lequel vous pouvez sélectionner parmi les éléments de menu `{{<T "RepeatMeasurement" >}}`, `{{<T "AddToWatchList" >}}` ou `{{<T "Flashlight" >}}`. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RepeatMeasurement" >}}` et appuyez sur la touche centrale `{{<T "Ok" >}}` ou sur la touche `F3` `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Actions Light on off](../images/repeat.png "Light on off")
 

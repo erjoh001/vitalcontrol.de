@@ -13,17 +13,17 @@ translationKey: actions/on-watch
 
 ## On Watch {#on-watch}
 
-Toiminnolla `On Watch` voit lisätä eläimiä tarkkailulistalle tai poistaa ne sieltä. Tarkkailulista auttaa sinua löytämään huomiota herättävät eläimet nopeammin ja helpommin, mikä tekee päivittäisistä tarkastuksistasi helpompia. Toimiaksesi `On Watch` toiminnolla, toimi seuraavasti:
+Toiminnolla `{{<T "OnWatch" >}}` voit lisätä eläimiä tarkkailulistalle tai poistaa ne sieltä. Tarkkailulista auttaa sinua löytämään huomiota herättävät eläimet nopeammin ja helpommin, mikä tekee päivittäisistä tarkastuksistasi helpompia. Toimiaksesi `{{<T "OnWatch" >}}` toiminnolla, toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `Toiminnat` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnat" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listasta. Vahvista `OK`-näppäimellä ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `OK`-näppäimellä.
+2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listasta. Vahvista `{{<T "Ok" >}}`-näppäimellä ja valitse eläin nuolinäppäimillä △ ▽. Vahvista `{{<T "Ok" >}}`-näppäimellä.
 
-3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi &nbsp;<img src="/icons/actions/on-watch.svg" width="35" align="bottom" alt="On Watch" /> `On Watch` toiminnon ja vahvista `OK`-näppäimellä.
+3. Alivalikko eläintoiminnoille avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi &nbsp;<img src="/icons/actions/on-watch.svg" width="35" align="bottom" alt="On Watch" /> `{{<T "OnWatch" >}}` toiminnon ja vahvista `{{<T "Ok" >}}`-näppäimellä.
 
 4. Ilmoitus näkyy, että eläin on lisätty onnistuneesti tarkkailulistalle.
 
-5. Voit poistaa eläimen tarkkailulistalta uudelleen käyttämällä &nbsp;<img src="/icons/actions/on-watch-minus.svg" width="35" align="bottom" alt="Ei On Watch" />  `On Watch` toimintoa uudelleen. Lisäätkö vai poistatko eläimen tarkkailulistalta käyttämällä `On Watch` toimintoa, näkyy pienellä ⊕ tai ⊖ merkillä.
+5. Voit poistaa eläimen tarkkailulistalta uudelleen käyttämällä &nbsp;<img src="/icons/actions/on-watch-minus.svg" width="35" align="bottom" alt="Ei On Watch" />  `{{<T "OnWatch" >}}` toimintoa uudelleen. Lisäätkö vai poistatko eläimen tarkkailulistalta käyttämällä `{{<T "OnWatch" >}}` toimintoa, näkyy pienellä ⊕ tai ⊖ merkillä.
 
 {{< tabpane >}}
 {{< tab header="On Watch:" text=true disabled=true />}}

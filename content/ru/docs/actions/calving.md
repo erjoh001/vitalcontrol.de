@@ -17,6 +17,6 @@ translationKey: actions/calving
 
 ## Регистрация отела {#register-a-calving}
 
-Как только вы войдете в меню действий, выберите пункт меню <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Отел"  alt="Отел"/> `Отел` и подтвердите нажатием `OK`. Действуйте согласно инструкциям в разделе [Регистрация отела](/ru/docs/new/calving/).
+Как только вы войдете в меню действий, выберите пункт меню <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Отел"  alt="Отел"/> `{{<T "Calving" >}}` и подтвердите нажатием `{{<T "Ok" >}}`. Действуйте согласно инструкциям в разделе [Регистрация отела](/ru/docs/new/calving/).
 
    ![VitalControl: Меню Действия Отел](../images/calving.png "Отел")

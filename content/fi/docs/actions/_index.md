@@ -41,19 +41,19 @@ Jokainen toiminto tunnistetaan symbolilla. Siirrä hiiren osoitin alla olevan ku
 
 ## Yleinen menettely
 
-Valikossa <img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `Toiminnot` voit valita seuraavan eläimen milloin tahansa poistumatta Toiminnot-valikosta. Seuraavan eläimen valitsemiseksi toimi seuraavasti:
+Valikossa <img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `{{<T "Actions" >}}` voit valita seuraavan eläimen milloin tahansa poistumatta Toiminnot-valikosta. Seuraavan eläimen valitsemiseksi toimi seuraavasti:
 
-1. Valitse päävalikosta kohta <img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `Toiminnot` ja paina `OK`-nappia.
+1. Valitse päävalikosta kohta <img src="/icons/actions.svg" width="40" align="bottom" alt="Toiminnot" /> `{{<T "Actions" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listalta. Vahvista painamalla `OK` ja valitse eläin käyttämällä nuolinäppäimiä △ ▽. Vahvista painamalla `OK`.
+2. Joko skannaa eläin käyttäen transponderia tai valitse eläin listalta. Vahvista painamalla `{{<T "Ok" >}}` ja valitse eläin käyttämällä nuolinäppäimiä △ ▽. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Alavalikko avautuu, josta löydät kuvakkeita lukuisille eläintoiminnoille. Käytä nuolinäppäimiä toivotun toiminnon valitsemiseksi ja aloita toiminto painamalla `OK`-nappia. Valitusta toiminnosta riippuen näkyviin tulee yksi tai useampi näyttö tai ponnahdusikkuna.
+3. Alavalikko avautuu, josta löydät kuvakkeita lukuisille eläintoiminnoille. Käytä nuolinäppäimiä toivotun toiminnon valitsemiseksi ja aloita toiminto painamalla `{{<T "Ok" >}}`-nappia. Valitusta toiminnosta riippuen näkyviin tulee yksi tai useampi näyttö tai ponnahdusikkuna.
 
 4. Halutessasi voit nyt valita ja suorittaa toisen toiminnon nykyiselle eläimelle.
 
-5. Suoritettuasi halutut toiminnot eläimelle, palaa vaiheeseen 2 'Eläimen valinta'. Tee tämä painamalla vasemmanpuoleista nappia `F1` alaviitteen vasemmassa alakulmassa olevan `Takaisin`-symbolin alla.
+5. Suoritettuasi halutut toiminnot eläimelle, palaa vaiheeseen 2 'Eläimen valinta'. Tee tämä painamalla vasemmanpuoleista nappia `F1` alaviitteen vasemmassa alakulmassa olevan `{{<T "Back" >}}`-symbolin alla.
 
-6. Vaiheen kaksi ikkuna avautuu automaattisesti uudelleen ja voit valita seuraavan eläimen tai palata päävalikkoon painamalla `F1`-nappia `Takaisin`-symbolin alla.
+6. Vaiheen kaksi ikkuna avautuu automaattisesti uudelleen ja voit valita seuraavan eläimen tai palata päävalikkoon painamalla `F1`-nappia `{{<T "Back" >}}`-symbolin alla.
 
 {{< tabpane >}}
 {{< tab header="Yleinen menettely:" text=true disabled=true />}}

@@ -13,7 +13,7 @@ translationKey: actions/edit
 
 ## Upravit údaje o zvířeti {#edit-animal-data}
 
-Akce <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" /> `Upravit` vám umožňuje přímo změnit údaje o vybraném zvířeti. Tato funkce usnadňuje opravu údajů o zvířeti, pokud se například během kontroly zvířat ukáže, že pohlaví bylo uloženo nesprávně. Můžete změnit následující údaje:
+Akce <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" /> `{{<T "Edit" >}}` vám umožňuje přímo změnit údaje o vybraném zvířeti. Tato funkce usnadňuje opravu údajů o zvířeti, pokud se například během kontroly zvířat ukáže, že pohlaví bylo uloženo nesprávně. Můžete změnit následující údaje:
 
 - Typ zvířete
 - Pohlaví
@@ -28,17 +28,17 @@ Akce <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" 
 
 Pro změnu údajů o zvířeti postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `Akce` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `OK` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte zvíře pomocí transpondéru, nebo vyberte zvíře ze seznamu. Potvrďte tlačítkem `{{<T "Ok" >}}` a vyberte zvíře pomocí šipek △ ▽. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" /> `Upravit` a potvrďte tlačítkem `OK`.
+3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" /> `{{<T "Edit" >}}` a potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 4. Otevře se seznam s údaji o zvířeti. Pomocí šipek △ ▽ vyberte požadovanou možnost změny.
 
-5. Pro údaje `Typ zvířete`, `Pohlaví`, `Porodní hmotnost`, `Plemeno`, `Pobyt`, `Vícenásobné` a `Snadnost telení` použijte šipky ◁ ▷ k provedení požadované změny.
+5. Pro údaje `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` a `{{<T "CalvingEase" >}}` použijte šipky ◁ ▷ k provedení požadované změny.
 
-6. Pro údaje `ID` a `Datum narození` je vyberte pomocí šipek △ ▽ a potvrďte tlačítkem `OK`. Pomocí šipek △ ▽ vyberte odpovídající číslo a pomocí šipek ◁ ▷ se pohybujte v rámci číselných polí.
+6. Pro údaje `{{<T "ID" >}}` a `{{<T "DateBirth" >}}` je vyberte pomocí šipek △ ▽ a potvrďte tlačítkem `{{<T "Ok" >}}`. Pomocí šipek △ ▽ vyberte odpovídající číslo a pomocí šipek ◁ ▷ se pohybujte v rámci číselných polí.
 
 7. Změnu uložte tlačítkem `F3`.
 

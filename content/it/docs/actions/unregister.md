@@ -16,17 +16,17 @@ Non appena elimini il record dei dati dell'animale, non sarà più disponibile p
 
 ## Deregistrare {#unregister}
 
-L'azione `Deregistrare` ti permette di deregistrare un animale non appena viene spostato. Per deregistrare un animale, procedi come segue:
+L'azione `{{<T "Unregister" >}}` ti permette di deregistrare un animale non appena viene spostato. Per deregistrare un animale, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `Azioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Azioni" /> `{{<T "Actions" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma con `OK` e seleziona un animale con i tasti freccia △ ▽. Conferma con `OK`.
+2. Scansiona un animale utilizzando il transponder o seleziona un animale dall'elenco. Conferma con `{{<T "Ok" >}}` e seleziona un animale con i tasti freccia △ ▽. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Deregistrare" /> `Deregistrare` e conferma con `OK`.
+3. Si apre un sottomenu con le azioni dell'animale. Usa i tasti freccia ◁ ▷ △ ▽ per selezionare l'azione &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Deregistrare" /> `{{<T "Unregister" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. Si apre un altro sottomenu in cui puoi salvare varie impostazioni. Usa i tasti freccia △ ▽ per selezionare l'opzione di impostazione desiderata. Usa i tasti freccia ◁ ▷ per selezionare l'impostazione desiderata.
 
-5. Usa il tasto `F3` `Deregistrare` per deregistrare l'animale con le impostazioni specificate.
+5. Usa il tasto `F3` `{{<T "Unregister" >}}` per deregistrare l'animale con le impostazioni specificate.
 
 {{< tabpane >}}
 {{< tab header="Deregistrare:" text=true disabled=true />}}

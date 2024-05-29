@@ -18,11 +18,11 @@ Tato akce není ve výchozím nastavení povolena! Aktivujte ji, jak je popsáno
 
 Tuto akci můžete použít k odpojení transpondéru, který byl již přiřazen ke zvířeti, od tohoto zvířete.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `actions` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Akce" /> `{{<T "Actions" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Buď naskenujte zvíře s požadovaným transpondérem, nebo vyberte zvíře s transpondérem ze seznamu. Potvrďte tlačítkem `OK` a pomocí šipek △ ▽ vyberte ID zvířete. Potvrďte tlačítkem `OK`.
+2. Buď naskenujte zvíře s požadovaným transpondérem, nebo vyberte zvíře s transpondérem ze seznamu. Potvrďte tlačítkem `{{<T "Ok" >}}` a pomocí šipek △ ▽ vyberte ID zvířete. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
-3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Odpojit transpondér" /> `Odpojit transpondér` a potvrďte tlačítkem `OK`.
+3. Otevře se podmenu s akcemi pro zvíře. Pomocí šipek ◁ ▷ △ ▽ vyberte akci &nbsp;<img src="/icons/actions/unlink-transponder.svg" width="45" align="bottom" alt="Odpojit transpondér" /> `{{<T "UnlinkTransponder" >}}` a potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 4. Transpondér byl úspěšně odpojen od zvířete.
 

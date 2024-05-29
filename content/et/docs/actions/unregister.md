@@ -16,17 +16,17 @@ Niipea kui kustutate looma andmekirje, ei ole see enam hindamise eesmärgil kät
 
 ## Kustuta registrist {#unregister}
 
-Tegevus `Kustuta registrist` võimaldab looma registrist kustutada kohe, kui see välja viiakse. Looma registrist kustutamiseks toimige järgmiselt:
+Tegevus `{{<T "Unregister" >}}` võimaldab looma registrist kustutada kohe, kui see välja viiakse. Looma registrist kustutamiseks toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `Tegevused` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `{{<T "Actions" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Skaneerige loom transponderiga või valige loom nimekirjast. Kinnitage `OK` ja valige loom nooleklahvidega △ ▽. Kinnitage `OK`.
+2. Skaneerige loom transponderiga või valige loom nimekirjast. Kinnitage `{{<T "Ok" >}}` ja valige loom nooleklahvidega △ ▽. Kinnitage `{{<T "Ok" >}}`.
 
-3. Avaneb alammenüü loomategevustega. Kasutage nooleklahve ◁ ▷ △ ▽ tegevuse &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Kustuta registrist" /> `Kustuta registrist` valimiseks ja kinnitage `OK`.
+3. Avaneb alammenüü loomategevustega. Kasutage nooleklahve ◁ ▷ △ ▽ tegevuse &nbsp;<img src="/icons/actions/unregister.svg" width="33" align="bottom" alt="Kustuta registrist" /> `{{<T "Unregister" >}}` valimiseks ja kinnitage `{{<T "Ok" >}}`.
 
 4. Avaneb veel üks alammenüü, kus saate salvestada erinevaid seadeid. Kasutage nooleklahve △ ▽ soovitud seadevaliku valimiseks. Kasutage nooleklahve ◁ ▷ soovitud seade valimiseks.
 
-5. Kasutage klahvi `F3` `Kustuta registrist`, et loom määratud seadetega registrist kustutada.
+5. Kasutage klahvi `F3` `{{<T "Unregister" >}}`, et loom määratud seadetega registrist kustutada.
 
 {{< tabpane >}}
 {{< tab header="Kustuta registrist:" text=true disabled=true />}}

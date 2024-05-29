@@ -13,7 +13,7 @@ translationKey: actions/edit
 
 ## Muuda looma andmeid {#edit-animal-data}
 
-Tegevus <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muuda" /> `Muuda` võimaldab muuta valitud looma andmeid otse. See funktsioon lihtsustab looma andmete parandamist, näiteks kui loomakontrolli käigus selgub, et sugu on valesti salvestatud. Saad muuta järgmisi andmeid:
+Tegevus <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muuda" /> `{{<T "Edit" >}}` võimaldab muuta valitud looma andmeid otse. See funktsioon lihtsustab looma andmete parandamist, näiteks kui loomakontrolli käigus selgub, et sugu on valesti salvestatud. Saad muuta järgmisi andmeid:
 
 - Looma liik
 - Sugu
@@ -28,17 +28,17 @@ Tegevus <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muuda"
 
 Looma andmete muutmiseks toimi järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt  &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `Tegevused` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt  &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Tegevused" /> `{{<T "Actions" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Skaneeri loom transponderiga või vali loom nimekirjast. Kinnita `OK`-ga ja vali loom nooleklahvidega △ ▽. Kinnita `OK`-ga.
+2. Skaneeri loom transponderiga või vali loom nimekirjast. Kinnita `{{<T "Ok" >}}`-ga ja vali loom nooleklahvidega △ ▽. Kinnita `{{<T "Ok" >}}`-ga.
 
-3. Avaneb alammenüü loomategevustega. Kasuta nooleklahve ◁ ▷ △ ▽, et valida tegevus <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muuda" /> `Muuda` ja kinnita `OK`-ga.
+3. Avaneb alammenüü loomategevustega. Kasuta nooleklahve ◁ ▷ △ ▽, et valida tegevus <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muuda" /> `{{<T "Edit" >}}` ja kinnita `{{<T "Ok" >}}`-ga.
 
 4. Avaneb looma andmete loend. Kasuta nooleklahve △ ▽, et valida soovitud muudatus.
 
-5. Andmete `Looma liik`, `Sugu`, `Sünnikaal`, `Tõug`, `Asukoht`, `Mitmikud` ja `Poegimise lihtsus` puhul kasuta nooleklahve ◁ ▷ soovitud muudatuse tegemiseks.
+5. Andmete `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` puhul kasuta nooleklahve ◁ ▷ soovitud muudatuse tegemiseks.
 
-6. Andmete `ID` ja `Sünnikuupäev` puhul vali need nooleklahvidega △ ▽ ja kinnita `OK`-ga. Kasuta nooleklahve △ ▽ vastava numbri valimiseks ja nooleklahve ◁ ▷ numbri väljades navigeerimiseks.
+6. Andmete `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` puhul vali need nooleklahvidega △ ▽ ja kinnita `{{<T "Ok" >}}`-ga. Kasuta nooleklahve △ ▽ vastava numbri valimiseks ja nooleklahve ◁ ▷ numbri väljades navigeerimiseks.
 
 7. Salvesta muudatus klahviga `F3`.
 
