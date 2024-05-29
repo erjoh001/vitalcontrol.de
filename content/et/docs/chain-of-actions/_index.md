@@ -13,13 +13,13 @@ translationKey: action-chain
 ---
 ## Tegevuste ahel {#chain-of-actions}
 
-Tegevuste ahel võimaldab automaatselt sooritada mitmeid tegevusi looma jaoks üksteise järel. Näiteks võite valida tegevused `Temperatuuri mõõtmine` ja `Hinnang`. Kui te seejärel tegevuste ahelat rakendate, saate esmalt mõõta oma looma temperatuuri ja kohe seejärel salvestada hinnangu.
+Tegevuste ahel võimaldab automaatselt sooritada mitmeid tegevusi looma jaoks üksteise järel. Näiteks võite valida tegevused `{{<T "Temperature" >}}` ja `{{<T "Rating" >}}`. Kui te seejärel tegevuste ahelat rakendate, saate esmalt mõõta oma looma temperatuuri ja kohe seejärel salvestada hinnangu.
 
 ### Tegevuste ahela kasutamine {#use-chain-of-actions}
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Tegevuste ahel" />&nbsp; `Tegevuste ahel` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Tegevuste ahel" />&nbsp; `{{<T "ActionChain" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Skaneerige loom transponderi abil või kinnitage valik `OK`-ga ja kasutage nooleklahve △ ▽ ◁ ▷ soovitud looma ID sisestamiseks.
+2. Skaneerige loom transponderi abil või kinnitage valik `{{<T "Ok" >}}`-ga ja kasutage nooleklahve △ ▽ ◁ ▷ soovitud looma ID sisestamiseks.
 
 3. Tegevuste ahel viiakse nüüd täide. Niipea kui kõik tegevuste ahelas olevad tegevused on sooritatud, saab kohe valida järgmise looma.
 
@@ -35,13 +35,13 @@ Tegevuste ahel võimaldab automaatselt sooritada mitmeid tegevusi looma jaoks ü
 
 ### Tegevuste ahela seadistamine {#set-chain-of-actions}
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Tegevuste ahel" />&nbsp; `Tegevuste ahel` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Tegevuste ahel" />&nbsp; `{{<T "ActionChain" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Kasutage nuppu `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Tegevuste ahel" />&nbsp; (`seaded`).
+2. Kasutage nuppu `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Tegevuste ahel" />&nbsp; (`{{<T "Settings" >}}`).
 
 3. Ilmub ülekatte ekraan. Kasutage nooleklahve △ ▽ loetletud tegevuste 1 - 4 vahel valimiseks (saate järjest sooritada kuni neli tegevust). Kasutage nooleklahve ◁ ▷ soovitud tegevuse valimiseks vastava tegevuse jaoks. Salvestage seaded klahviga `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
-4. Kui soovite kogu tegevuste ahela lähtestada, valige alammenüüst suvand `Reset chain of actions`, kasutades nooleklahve △ ▽ ja kinnitage valikuga `OK`.
+4. Kui soovite kogu tegevuste ahela lähtestada, valige alammenüüst suvand `{{<T "ResetActionChain" >}}`, kasutades nooleklahve △ ▽ ja kinnitage valikuga `{{<T "Ok" >}}`.
 
     ![VitalControl: Menüü tegevuste ahel](images/setchainofactions.png "Seadista tegevuste ahel")
 

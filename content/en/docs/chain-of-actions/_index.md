@@ -13,13 +13,13 @@ translationKey: action-chain
 ---
 ## Chain of actions {#chain-of-actions}
 
-The action chain allows you to automatically carry out several actions for an animal one after the other. For example, you can select the actions `Measure temperature` and `Rating`. If you then carry out the chain of actions, you can take your animal's temperature first and record the rating immediately afterwards.
+The action chain allows you to automatically carry out several actions for an animal one after the other. For example, you can select the actions `{{<T "Temperature" >}}` and `{{<T "Rating" >}}`. If you then carry out the chain of actions, you can take your animal's temperature first and record the rating immediately afterwards.
 
 ### Use chain of actions {#use-chain-of-actions}
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Chain of actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `{{<T "ActionChain" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Either scan an animal using the transponder or confirm with `OK` and use the arrow keys △ ▽ ◁ ▷ to enter the desired animal ID.
+2. Either scan an animal using the transponder or confirm with `{{<T "Ok" >}}` and use the arrow keys △ ▽ ◁ ▷ to enter the desired animal ID.
 
 3. The chain of actions is now executed. As soon as all actions in the action chain have been carried out, the next animal can be selected directly.
 
@@ -35,13 +35,13 @@ The action chain allows you to automatically carry out several actions for an an
 
 ### Set chain of actions {#set-chain-of-actions}
 
-1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `Chain of Actions` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `{{<T "ActionChain" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. Use the button `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`settings`).
+2. Use the button `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Aktionskette" />&nbsp; (`{{<T "Settings" >}}`).
 
 3. An overlay screen pops up. Use the arrow keys △ ▽ to choose between the listed actions 1 - 4 (you can perform up to four actions in a row). Use the arrow keys ◁ ▷ to select the desired action for the respective action. Save the settings with the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
-4. If you want to reset the entire action chain, select the option `Reset chain of actions` in the submenu using the arrow keys △ ▽ and confirm with `OK`.
+4. If you want to reset the entire action chain, select the option `{{<T "ResetActionChain" >}}` in the submenu using the arrow keys △ ▽ and confirm with `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu chain of actions](images/setchainofactions.png "Set chain of actions")
 

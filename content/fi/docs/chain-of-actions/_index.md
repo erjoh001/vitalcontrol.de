@@ -13,13 +13,13 @@ translationKey: action-chain
 ---
 ## Toimintaketju {#chain-of-actions}
 
-Toimintaketju mahdollistaa useiden toimintojen automaattisen suorittamisen eläimelle peräkkäin. Voit esimerkiksi valita toiminnot `Mittaa lämpötila` ja `Arviointi`. Kun suoritat toimintaketjun, voit ensin mitata eläimesi lämpötilan ja kirjata arvioinnin välittömästi sen jälkeen.
+Toimintaketju mahdollistaa useiden toimintojen automaattisen suorittamisen eläimelle peräkkäin. Voit esimerkiksi valita toiminnot `{{<T "Temperature" >}}` ja `{{<T "Rating" >}}`. Kun suoritat toimintaketjun, voit ensin mitata eläimesi lämpötilan ja kirjata arvioinnin välittömästi sen jälkeen.
 
 ### Käytä toimintaketjua {#use-chain-of-actions}
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toimintaketju" />&nbsp; `Toimintaketju` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toimintaketju" />&nbsp; `{{<T "ActionChain" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Joko skannaa eläin transponderilla tai vahvista painamalla `OK` ja käytä nuolinäppäimiä △ ▽ ◁ ▷ syöttääksesi halutun eläin-ID:n.
+2. Joko skannaa eläin transponderilla tai vahvista painamalla `{{<T "Ok" >}}` ja käytä nuolinäppäimiä △ ▽ ◁ ▷ syöttääksesi halutun eläin-ID:n.
 
 3. Toimintaketju suoritetaan nyt. Kun kaikki toimintaketjun toiminnot on suoritettu, seuraava eläin voidaan valita suoraan.
 
@@ -35,13 +35,13 @@ Toimintaketju mahdollistaa useiden toimintojen automaattisen suorittamisen eläi
 
 ### Aseta toimintaketju {#set-chain-of-actions}
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toimintaketju" />&nbsp; `Toimintaketju` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Toimintaketju" />&nbsp; `{{<T "ActionChain" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Käytä nappia `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Toimintaketju" />&nbsp; (`asetukset`).
+2. Käytä nappia `F2` &nbsp;<img src="/icons/gear.svg" width="25" align="bottom" alt="Toimintaketju" />&nbsp; (`{{<T "Settings" >}}`).
 
 3. Ponnahdusikkuna avautuu. Käytä nuolinäppäimiä △ ▽ valitaksesi listatuista toiminnoista 1 - 4 (voit suorittaa jopa neljä toimintoa peräkkäin). Käytä nuolinäppäimiä ◁ ▷ valitaksesi halutun toiminnon kyseiselle toiminnolle. Tallenna asetukset `F1`-näppäimellä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
-4. Jos haluat nollata koko toimintoketjun, valitse alavalikosta vaihtoehto `Nollaa toimintoketju` käyttäen nuolinäppäimiä △ ▽ ja vahvista painamalla `OK`.
+4. Jos haluat nollata koko toimintoketjun, valitse alavalikosta vaihtoehto `{{<T "ResetActionChain" >}}` käyttäen nuolinäppäimiä △ ▽ ja vahvista painamalla `{{<T "Ok" >}}`.
 
     ![VitalControl: Toimintoketjun valikko](images/setchainofactions.png "Aseta toimintoketju")
 
