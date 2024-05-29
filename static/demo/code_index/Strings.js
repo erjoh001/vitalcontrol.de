@@ -3056,12 +3056,12 @@ C.AEd={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",25:"
 ,16:"For {1} dager siden",17:"{1} dni temu",18:"{1} dias atr\xE1s",19:"acum {1} zile"
 ,20:"{1} \u0434\u043D\u0435\u0439 \u043D\u0430\u0437\u0430\u0434",27:"{1} dni nazaj"
 ,21:"hace {1} d\xEDas",22:"f\xF6r {1} dagar sedan",23:"{1} g\xFCn \xF6nce",24:"{1} \u0434\u043D\u0456\u0432 \u0442\u043E\u043C\u0443"
-};C.AR4={1:"{1} od 4",2:"{1} \u043E\u0442 4",25:"1 od 4",4:"1 z 4",5:"1 af 4",0:
-"{1} of 4",6:"{1} van 4",7:"{1} neljast",8:"{1} / 4",9:"{1} de 4",10:"{1} von 4"
-,11:"{1} \u03B1\u03C0\u03CC 4",12:"1 a 4-b\u0151l",13:"1 di 4",15:"{1} no 4",26:
-"1 i\u0161 4",16:"{1} av 4",17:"1 z 4",18:"1 de 4",19:"1 din 4",20:"{1} \u0438\u0437 4"
-,27:"{1} od 4",21:"{1} de 4",22:"1 av 4",23:"{1} / 4",24:"{1} \u0456\u0437 4"};C.
-BkK={1:"Identifikacioni broj \u017Eivotinje je ve\u0107 povezan s ovom \u017Eivotinjom!\nPonovna "+
+};C.AR4={1:"{1} od 4",2:"{1} \u043E\u0442 4",25:"{1} od 4",4:"{1} z 4",5:"{1} af 4"
+,0:"{1} of 4",6:"{1} van 4",7:"{1} neljast",8:"{1} / 4",9:"{1} de 4",10:"{1} von 4"
+,11:"{1} \u03B1\u03C0\u03CC 4",12:"{1} a 4-b\u0151l",13:"{1} di 4",15:"{1} no 4"
+,26:"{1} i\u0161 4",16:"{1} av 4",17:"{1} z 4",18:"{1} de 4",19:"{1} din 4",20:"{1} \u0438\u0437 4"
+,27:"{1} od 4",21:"{1} de 4",22:"{1} av 4",23:"{1} / 4",24:"{1} \u0456\u0437 4"};
+C.BkK={1:"Identifikacioni broj \u017Eivotinje je ve\u0107 povezan s ovom \u017Eivotinjom!\nPonovna "+
 "dodjela ID-a nije mogu\u0107a!",2:"ID \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u0432\u0435\u0447\u0435 "+
 "\u0435 \u0441\u0432\u044A\u0440\u0437\u0430\u043D\u043E \u0441 \u0442\u043E\u0432\u0430 "+
 "\u0436\u0438\u0432\u043E\u0442\u043D\u043E!\n\u041F\u0440\u0435\u043D\u0430\u0437\u043D\u0430\u0447\u0430\u0432\u0430\u043D\u0435\u0442\u043E "+
@@ -6710,15 +6710,14 @@ BpZ={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,18:"Aten\xE7\xE3o!\n\nAo restaurar um backup, os dados atuais do seu animal "+"e dispositivo ser\xE3o sobrescritos!\nDeseja realmente prosseguir com "+
 "a restaura\xE7\xE3o dos dados?",19:"Aten\u021Bie!\n\nC\xE2nd restaura\u021Bi o copie de rezerv\u0103, datele "+
 "actuale ale animalului \u0219i ale dispozitivului vor fi suprascrise!\nDori\u021Bi "+
-"s\u0103 continua\u021Bi cu restaurarea datelor?",20:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435!\n\n\u041F\u0440\u0438 "+
-"\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0438 "+
-"\u0440\u0435\u0437\u0435\u0440\u0432\u043D\u043E\u0439 \u043A\u043E\u043F\u0438\u0438 "+
-"\u0442\u0435\u043A\u0443\u0449\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0435 "+
-"\u043E \u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0445 \u0438 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430\u0445 "+
-"\u0431\u0443\u0434\u0443\u0442 \u043F\u0435\u0440\u0435\u0437\u0430\u043F\u0438\u0441\u0430\u043D\u044B!\n\n\u0412\u044B "+
-"\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u043E "+
-"\u0445\u043E\u0442\u0438\u0442\u0435 \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C "+
-"\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 "+
+"s\u0103 continua\u021Bi cu restaurarea datelor?",20:"\u041F\u0440\u0438 \u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432~\u043B\u0435\u043D\u0438\u0438 "+
+"\u0440\u0435~\u0437\u0435\u0440\u0432~\u043D\u043E\u0439 \u043A\u043E\u043F\u0438\u0438 "+
+"\u0442\u0435~\u043A\u0443~\u0449\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0435 "+
+"\u043E \u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0445 \u0438 \u0443\u0441\u0442~\u0440\u043E\u0439\u0441\u0442\u0432\u0430\u0445 "+
+"\u0431\u0443\u0434\u0443\u0442 \u043F\u0435~\u0440\u0435\u0437\u0430~\u043F\u0438\u0441\u0430\u043D\u044B! "+
+"\u0412\u044B \u0434\u0435\u0439~\u0441\u0442\u0432~\u0438\u0442\u0435\u043B\u044C\u043D\u043E "+
+"\u0445\u043E\u0442\u0438\u0442\u0435 \u043F\u0440\u043E~\u0434\u043E\u043B~\u0436\u0438\u0442\u044C "+
+"\u0432\u043E\u0441\u0441\u0442\u0430~\u043D\u043E\u0432~\u043B\u0435\u043D\u0438\u0435 "+
 "\u0434\u0430\u043D\u043D\u044B\u0445?",27:"Pozor!\n\nOb obnovitvi varnostne kopije bodo trenutni podatki o \u017Eivalih "+
 "in napravi prepisani!\nRes \u017Eelite nadaljevati z obnovo podatkov?",21:"\xA1Atenci\xF3n!\nAl restaurar una copia de seguri~dad, sus datos ac~tuales "+
 "de ani~ma~les y dispositi~vos se sobrescri~bir\xE1n. \xBFRealmente de~sea "+"continuar con la restau~ra~ci\xF3n de datos?"
