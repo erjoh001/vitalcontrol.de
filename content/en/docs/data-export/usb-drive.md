@@ -13,11 +13,11 @@ translationKey: data-export/usb-drive
 
 ## Perform data export {#perform-data-export}
 
-1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
+1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `{{<T "Device" >}}` in the main screen of your VitalControl device.
 
-2. Invoke the submenu `Data management`, select the menu item `Animal data` and confirm with `OK`.
+2. Invoke the submenu `{{<T "DataManagement" >}}`, select the menu item `{{<T "AnimalData" >}}` and confirm with `{{<T "Ok" >}}`.
 
-3. Another submenu opens. Select the menu item `Export animal data (csv)` and confirm with `OK`.
+3. Another submenu opens. Select the menu item `{{<T "ExportAnimalData" >}}` and confirm with `{{<T "Ok" >}}`.
 
 4. You are now asked to insert an USB flash drive:
 

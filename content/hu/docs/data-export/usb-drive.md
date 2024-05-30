@@ -13,11 +13,11 @@ translationKey: data-export/usb-drive
 
 ## Adatok exportálása {#perform-data-export}	
 
-1. Nyissa meg a menüpontot &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Eszköz" /> `Eszköz` a VitalControl eszköz főképernyőjén.
+1. Nyissa meg a menüpontot &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Eszköz" /> `{{<T "Device" >}}` a VitalControl eszköz főképernyőjén.
 
-2. Hívja elő az `Adatkezelés` almenüt, válassza az `Állatadatok` menüpontot, és erősítse meg az `OK` gombbal.
+2. Hívja elő az `{{<T "DataManagement" >}}` almenüt, válassza az `{{<T "AnimalData" >}}` menüpontot, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg. Válassza az `Állatadatok exportálása (csv)` menüpontot, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg. Válassza az `{{<T "ExportAnimalData" >}}` menüpontot, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Most kérni fogja, hogy helyezzen be egy USB flash meghajtót:
 

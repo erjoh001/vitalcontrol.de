@@ -13,11 +13,11 @@ translationKey: data-export/usb-drive
 
 ## Viige läbi andmete eksport {#perform-data-export}	
 
-1. Avage menüüpunkt &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadme põhiekraanil.
+1. Avage menüüpunkt &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `{{<T "Device" >}}` oma VitalControl seadme põhiekraanil.
 
-2. Kutsuge esile alammenüü `Andmehaldus`, valige menüüpunkt `Looma andmed` ja kinnitage `OK`.
+2. Kutsuge esile alammenüü `{{<T "DataManagement" >}}`, valige menüüpunkt `{{<T "AnimalData" >}}` ja kinnitage `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü. Valige menüüpunkt `Ekspordi looma andmed (csv)` ja kinnitage `OK`.
+3. Avaneb veel üks alammenüü. Valige menüüpunkt `{{<T "ExportAnimalData" >}}` ja kinnitage `{{<T "Ok" >}}`.
 
 4. Teilt küsitakse nüüd USB mälupulga sisestamist:
 

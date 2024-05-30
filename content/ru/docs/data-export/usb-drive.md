@@ -13,9 +13,9 @@ translationKey: data-export/usb-drive
 
 ## Выполнение экспорта данных {#perform-data-export}	
  
-1. Откройте пункт меню &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Устройство" /> `Устройство` на главном экране вашего устройства VitalControl.
+1. Откройте пункт меню &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Устройство" /> `{{<T "Device" >}}` на главном экране вашего устройства VitalControl.
 
-2. Вызовите подменю `Управление данными`, выберите пункт меню `Экспорт данных о животных (csv)` и подтвердите нажатием `OK`. Вам будет предложено вставить USB-флешку:
+2. Вызовите подменю `{{<T "DataManagement" >}}`, выберите пункт меню `{{<T "AnimalData" >}}` и подтвердите нажатием `{{<T "Ok" >}}`. Вам будет предложено вставить USB-флешку:
 
    ![VitalControl: Путь меню экспорта данных](../images/data-export.png "Вызов экспорта данных")
 
@@ -27,7 +27,7 @@ translationKey: data-export/usb-drive
 
    ![VitalControl: сообщение об успешном экспорте данных](../images/success-data-export.png "Успешный экспорт данных")
 
-5. Экспорт данных теперь завершен. Вы найдете четыре созданных [файла экспорта](../export-files/) в папке `export-csv` на вашей USB-флешке.
+5. Экспорт данных теперь завершен. Вы найдете четыре созданных [файла экспорта](../export-files/) в папке `{{<T "ExportAnimalData" >}}` на вашей USB-флешке.
 
    ![USB-флешка с файлами экспорта VitalControl](../images/export-files.png "Файлы экспорта на USB-флешке")
 

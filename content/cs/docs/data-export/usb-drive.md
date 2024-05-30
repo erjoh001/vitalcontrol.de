@@ -13,11 +13,11 @@ translationKey: data-export/usb-drive
 
 ## Proveďte export dat {#perform-data-export}	
 
-1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
+1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `{{<T "Device" >}}` na hlavní obrazovce vašeho zařízení VitalControl.
 
-2. Vyvolejte podmenu `Správa dat`, vyberte položku menu `Data o zvířatech` a potvrďte `OK`.
+2. Vyvolejte podmenu `{{<T "DataManagement" >}}`, vyberte položku menu `{{<T "AnimalData" >}}` a potvrďte `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu. Vyberte položku menu `Export dat o zvířatech (csv)` a potvrďte `OK`.
+3. Otevře se další podmenu. Vyberte položku menu `{{<T "ExportAnimalData" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 4. Nyní budete vyzváni k vložení USB flash disku:
 

@@ -13,11 +13,11 @@ translationKey: data-export/usb-drive
 
 ## Suorita tietojen vienti {#perform-data-export}
 
-1. Avaa valikkokohta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` päävalikosta VitalControl-laitteellasi.
+1. Avaa valikkokohta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `{{<T "Device" >}}` päävalikosta VitalControl-laitteellasi.
 
-2. Kutsu esiin alivalikko `Tiedonhallinta`, valitse valikkokohta `Tietoa aliäimistä` ja vahvista valinta `OK`:lla.
+2. Kutsu esiin alivalikko `{{<T "DataManagement" >}}`, valitse valikkokohta `{{<T "AnimalData" >}}` ja vahvista valinta `{{<T "Ok" >}}`:lla.
 
-3. Toinen alivalikko avautuu. Valitse valikkokohta `Vie elaintiedot (csv)` ja vahvista `OK`.
+3. Toinen alivalikko avautuu. Valitse valikkokohta `{{<T "ExportAnimalData" >}}` ja vahvista `{{<T "Ok" >}}`.
 
    ![VitalControl: Valikkopolku tietojen vientiin](../images/data-export.png "Käynnistä tietojen vienti")
 

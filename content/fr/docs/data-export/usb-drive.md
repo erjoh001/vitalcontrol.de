@@ -13,9 +13,9 @@ translationKey: data-export/usb-drive
 
 ## Réaliser l'exportation des données {#perform-data-export}
 
-1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
+1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `{{<T "Device" >}}` dans l'écran principal de votre appareil VitalControl.
 
-2. Accédez au sous-menu `Gestion des données`, sélectionnez l'élément de menu `Exporter les données animales (csv)` et confirmez avec `OK`. Il vous sera alors demandé d'insérer une clé USB :
+2. Accédez au sous-menu `{{<T "DataManagement" >}}`, sélectionnez l'élément de menu `{{<T "AnimalData" >}}` et confirmez avec `{{<T "Ok" >}}`. Il vous sera alors demandé d'insérer une clé USB :
 
    ![VitalControl : Chemin du menu exportation des données](../images/data-export.png "Lancer l'exportation des données")
 
@@ -27,7 +27,7 @@ translationKey: data-export/usb-drive
 
    ![VitalControl : message de succès de l'exportation des données](../images/success-data-export.png "Succès de l'exportation des données")
 
-5. L'exportation des données est maintenant terminée. Vous trouverez les quatre fichiers d'exportation [fichiers d'exportation](../export-files/) dans le répertoire `export-csv` sur votre clé USB.
+5. L'exportation des données est maintenant terminée. Vous trouverez les quatre fichiers d'exportation [fichiers d'exportation](../export-files/) dans le répertoire `{{<T "ExportAnimalData" >}}` sur votre clé USB.
 
    ![Clé USB avec fichiers d'exportation VitalControl](../images/export-files.png "Fichiers d'exportation sur clé USB")
 
