@@ -11,11 +11,11 @@ description: >
 
 Per recuperare le informazioni sull'hardware del tuo dispositivo, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `device` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona l'elemento del menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `{{<T "Device" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu con diversi elementi del menu. Seleziona `info` e conferma con `OK`.
+2. Si apre un sottomenu con diversi elementi del menu. Seleziona `{{<T "Info" >}}` e conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un altro sottomenu. Seleziona `Hardware` e conferma con `OK`.
+3. Si apre un altro sottomenu. Seleziona `{{<T "Hardware" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. Le informazioni sull'hardware verranno ora visualizzate.
 

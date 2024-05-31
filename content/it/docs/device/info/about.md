@@ -12,11 +12,11 @@ translationKey: device/info/about
 
 Per recuperare le informazioni hardware del tuo dispositivo, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `device` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu con diverse voci di menu. Seleziona `info` e conferma con `OK`.
+2. Si apre un sottomenu con diverse voci di menu. Seleziona `{{<T "Info" >}}` e conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un altro sottomenu. Seleziona `Informazioni` e conferma con `OK`.
+3. Si apre un altro sottomenu. Seleziona `{{<T "About" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. Le informazioni del fornitore verranno ora visualizzate.
 

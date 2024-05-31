@@ -15,9 +15,9 @@ translationKey: device/temperature-measurement
 
 Zde můžete otestovat měření teploty vašeho zařízení, aniž byste uložili měření pro zvíře. Pro provedení testu postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Zařízení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu s několika položkami menu. Vyberte `Měření teploty` a potvrďte `OK`.
+2. Otevře se podmenu s několika položkami menu. Vyberte `{{<T "MeasurementsTemperature" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 3. Nyní proveďte měření.
 

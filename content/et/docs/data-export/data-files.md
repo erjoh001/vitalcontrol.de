@@ -47,13 +47,7 @@ Järgmised neli jaotist kirjeldavad üksikasjalikult iga eksporditud andmefaili:
 
 Iga loomaandmete tabeli rida esindab ühte VitalControl'is salvestatud looma. Näidiskujul loomaandmete tabel näeb välja järgmiselt:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
-276000312341001;1001;276000312341001;2023-07-03;F;
-276000312341002;1002;276000312341002;2023-07-04;F;40.8
-276000312341003;1003;276000312341003;2023-07-05;F;38.3
-…
-```
+{{% data-files/en %}}
 
 Järgnev tabel loetleb ja kirjeldab iga loomaandmete tabeli veergu:
 
@@ -62,9 +56,9 @@ Järgnev tabel loetleb ja kirjeldab iga loomaandmete tabeli veergu:
 | 1 | `National-ID-Animal` | Ametlik riiklik loomanumber      | 15 numbrit vastavalt [ISO1174/85][], võib olla märkimata  |
 | 2 | `Farm-ID-Animal`     | Majandamisnumber                 | 2 kuni 6 numbrit, tihti võrdne kaelarihmal oleva numbriga |
 | 3 | `Transponder-ID`     | Transponderi number              | võib puududa, võib olla identne riikliku loomanumbriga    |
-| 4 | `DateOfBirth`        | Sünnikuupäev                     | Formaat: `YYYY-MM-TT` (`Aasta-Kuu-Päev`)                  |
+| 4 | `DateOfBirth`        | Sünnikuupäev                     | Formaat: `YYYY-MM-TT` (`Year-Month-Day`)                  |
 | 5 | `Sex`                | Sugu                             | _Väärtused:_ `M`: isane, `F`: emane, `?`: teadmata        |
-| 6 | `BirthWeight-Kg`     | Sünnikaal                        | Ühik: `kilogramm`, võib olla märkimata / puuduv           |
+| 6 | `BirthWeight-Kg`     | Sünnikaal                        | Ühik: `kilogram`, võib olla märkimata / puuduv           |
 
 [ISO1174/85]: https://en.wikipedia.org/wiki/ISO_11784_and_ISO_11785
 
@@ -80,13 +74,7 @@ Vajadusel saate alla laadida ka pakutud näidisfaili [animals.csv][].
 
 Iga temperatuuriandmete tabeli rida esindab VitalControl seadmega teostatud looma kehatemperatuuri mõõtmist. Näidiskujul temperatuuritabel näeb välja järgmiselt:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Temperature-Celsius
-276000312341001;1001;276000312341001;2023-07-24;38.03
-276000312341002;1002;276000312341002;2023-07-24;40.12
-276000312341003;1003;276000312341003;2023-07-24;39.97
-…
-```
+{{% data-files/en_2 %}}
 
 Järgnev tabel loetleb ja kirjeldab iga veeru eksportfailis, mis sisaldab kehatemperatuuri väärtusi:
 
@@ -94,9 +82,9 @@ Järgnev tabel loetleb ja kirjeldab iga veeru eksportfailis, mis sisaldab kehate
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15-kohaline number mõõdetud loomale  | vastavalt [ISO1174/85][], võib olla salvestamata  |
 | 2 | `Farm-ID-Animal`      | Mõõdetud looma haldusnumber          | 2 kuni 6 numbrit, tihti võrdne kaelarihma numbriga|
-| 3 | `Date`                | Temperatuuri mõõtmise kuupäev        | Formaat: `YYYY-MM-TT` (`Aasta-Kuu-Päev`)         |
-| 4 | `Time`                | Temperatuuri mõõtmise aeg            | Formaat: `hh-mm-ss` (`tund:minut:sekund`)        |
-| 5 | `Temperature-Celsius` | Mõõdetud temperatuuri väärtus        | Ühik: `Celsius kraadi`                           |
+| 3 | `Date`                | Temperatuuri mõõtmise kuupäev        | Formaat: `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 4 | `Time`                | Temperatuuri mõõtmise aeg            | Formaat: `hh-mm-ss` (`hour:minute:second`)        |
+| 5 | `Temperature-Celsius` | Mõõdetud temperatuuri väärtus        | Ühik: `Grad Celsius`                           |
 
 Vajadusel saate alla laadida ka pakutud näidisfaili [temperatures.csv][]. Allpool olev joonis näitab seda andmefaili avatuna tabelarvutusprogrammis.
 
@@ -112,23 +100,17 @@ Vajadusel saate alla laadida ka pakutud näidisfaili [temperatures.csv][]. Allpo
 
 Iga kaalutabeli rida esindab ühte looma kaalumist VitalControl seadmega kaalu väärtuse salvestamiseks. Näidiskaalutabel näeb seega välja järgmine:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
-276000312341001;1001;276000312341001;2023-07-24;67.8
-276000312341002;1002;276000312341002;2023-07-24;F;40.4
-276000312341003;1003;276000312341003;2023-07-24;F;104.2
-…
-```
+{{% data-files/en_3 %}}
 
 Järgnev tabel loetleb ja kirjeldab loomade kaalude tabeli üksikuid veerge:
 
 |Veerg| Veeru nimi           | Kirjeldus                           | Kommentaarid                                    |
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
-| 1 | `Riiklik-ID-loom`     | 15-kohaline number kaalutud loomale | vastavalt [ISO1174/85][], võib olla salvestamata|
-| 2 | `Farmi-ID-loom`       | Kaalutud looma haldusnumber         | 2 kuni 6 numbrit, tihti võrdne kaelarihma numbriga |
-| 3 | `Kuupäev`             | Kaalumise kuupäev                   | Formaat: `YYYY-MM-TT` (`Aasta-Kuu-Päev`)        |
-| 4 | `Aeg`                 | Kaalumise aeg                       | Formaat: `hh-mm-ss` (`tund:minut:sekund`)       |
-| 5 | `Kaal-Kg`             | Kaalu väärtus                       | Ühik: `Kilogramm`                               |
+| 1 | `National-ID-Animal`     | 15-kohaline number kaalutud loomale | vastavalt [ISO1174/85][], võib olla salvestamata|
+| 2 | `Farm-ID-Animal`       | Kaalutud looma haldusnumber         | 2 kuni 6 numbrit, tihti võrdne kaelarihma numbriga |
+| 3 | `Date`             | Kaalumise kuupäev                   | Formaat: `YYYY-MM-TT` (`Year-Month-Day`)        |
+| 4 | `Time`                 | Kaalumise aeg                       | Formaat: `hh-mm-ss` (`hour:minute:second`)       |
+| 5 | `Weight-Kg`             | Kaalu väärtus                       | Ühik: `Kilogram`                               |
 
 Vajadusel saate alla laadida ka pakutud näidisfaili [weights.csv][]. Allpool olev joonis näitab seda eksportfaili avatuna tabelarvutusprogrammis.
 
@@ -144,26 +126,20 @@ Vajadusel saate alla laadida ka pakutud näidisfaili [weights.csv][]. Allpool ol
 
 Iga loomade hinnangute tabeli rida esindab visuaalset hinnangut looma hindamisel VitalControliga. Näidistabel looma hinnanguga on järgmine:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;ScoreCondition;ScoreFeedIntake;ScoreScours;ScoreRespiratory
-276000312341001;1001;276000312341001;2023-07-24;Green;Yellow;Yellow;Green
-276000312341002;1002;276000312341002;2023-07-24;Yellow;Yellow;Yellow;Red
-276000312341003;1003;276000312341003;2023-07-24;Green;None;None;None
-…
-```
+{{% data-files/en_4 %}}
 
 Järgnev tabel loetleb ja kirjeldab iga loomade hinnangute tabeli veergu:
 
 |Veerg| Veeru nimi           | Kirjeldus                               | Kommentaarid                                      |
 |:-:|-----------------------|-----------------------------------------|---------------------------------------------------|
-| 1 | `Riiklik-ID-loom`     | 15-kohaline number hinnatud loomale     | vastavalt [ISO1174/85][], võib olla salvestamata  |
-| 2 | `Farmi-ID-loom`       | Hinnatud looma haldusnumber             | 2 kuni 6 numbrit, tihti võrdne kaelarihma numbriga|
-| 3 | `Kuupäev`             | Hinnangu kuupäev                        | Formaat: `YYYY-MM-TT` (`Aasta-Kuu-Päev`)          |
-| 4 | `Aeg`                 | Hinnangu aeg                            | Formaat: `hh-mm-ss` (`tund:minut:sekund`)         |
-| 5 | `Üldseisundi skoor`   | Üldseisundi hinnang                     | _Hinnangud:_ `Punane`, `Kollane`, `Roheline`, `Puudub` |
-| 6 | `Söödavõtu skoor`     | Söödavõtu hinnang                       | _Hinnangud:_ `Punane`, `Kollane`, `Roheline`, `Puudub` |
-| 7 | `Kõhulahtisuse skoor` | Kõhulahtisuse seisundi hinnang          | _Hinnangud:_ `Punane`, `Kollane`, `Roheline`, `Puudub` |
-| 8 | `Hingamisteede skoor` | Hingamisteede haiguste seisundi hinnang | _Hinnangud:_ `Punane`, `Kollane`, `Roheline`, `Puudub` |
+| 1 | `National-ID-Animal`     | 15-kohaline number hinnatud loomale     | vastavalt [ISO1174/85][], võib olla salvestamata  |
+| 2 | `Farm-ID-Animal`       | Hinnatud looma haldusnumber             | 2 kuni 6 numbrit, tihti võrdne kaelarihma numbriga|
+| 3 | `Date`             | Hinnangu kuupäev                        | Formaat: `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 4 | `Time`                 | Hinnangu aeg                            | Formaat: `hh-mm-ss` (`hour:minute:second`)         |
+| 5 | `ScoreCondition`   | Üldseisundi hinnang                     | _Hinnangud:_ `Red`, `Yellow`, `Green`, `None` |
+| 6 | `ScoreFeedIntake`     | Söödavõtu hinnang                       | _Hinnangud:_ `Red`, `Yellow`, `Green`, `None` |
+| 7 | `ScoreScours` | Kõhulahtisuse seisundi hinnang          | _Hinnangud:_ `Red`, `Yellow`, `Green`, `None` |
+| 8 | `None` | Hingamisteede haiguste seisundi hinnang | _Hinnangud:_ `Red`, `Yellow`, `Green`, `None` |
 
 Vajadusel saate alla laadida ka pakutud näidisfaili [ratings.csv][]. Allpool olev joonis näitab seda faili avatuna tabelarvutusprogrammis.
 

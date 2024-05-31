@@ -15,11 +15,11 @@ translationKey: device/flashlight
 
 Zde můžete aktivovat nebo deaktivovat světlo na vašem zařízení VitalControl. Pokud světlo aktivujete, bude trvale svítit.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `Zařízení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `{{<T "Device" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu s několika položkami menu. Vyberte `Svítilna` a potvrďte stisknutím `OK` nebo použijte klávesu `F3` (Zapnuto).
+2. Otevře se podmenu s několika položkami menu. Vyberte `{{<T "Flashlight" >}}` a potvrďte stisknutím `{{<T "Ok" >}}` nebo použijte klávesu `F3` (Zapnuto).
 
-3. Světlo je nyní aktivováno. Toto nastavení je symbolizováno žlutým kruhem. Potvrďte znovu stisknutím `OK` nebo použijte klávesu `F3` (Vypnuto) pro deaktivaci světla.
+3. Světlo je nyní aktivováno. Toto nastavení je symbolizováno žlutým kruhem. Potvrďte znovu stisknutím `{{<T "Ok" >}}` nebo použijte klávesu `F3` (Vypnuto) pro deaktivaci světla.
 
    ![VitalControl: Menu Zařízení světlo](../images/light.png "Aktivace a deaktivace světla")
 

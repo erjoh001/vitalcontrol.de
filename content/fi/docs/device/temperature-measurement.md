@@ -15,9 +15,9 @@ translationKey: device/temperature-measurement
 
 Tässä voit testata laitteesi lämpötilan mittausta tallentamatta mittausta eläimelle. Suorita testi seuraavasti:
 
-1. VitalControl-laitteen päävalikossa valitse valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` ja paina `OK`-nappia.
+1. VitalControl-laitteen päävalikossa valitse valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `{{<T "Device" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alavalikko avautuu useilla valikkokohdilla. Valitse `Lämpötilan mittaus` ja vahvista painamalla `OK`.
+2. Alavalikko avautuu useilla valikkokohdilla. Valitse `{{<T "MeasurementsTemperature" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 3. Suorita nyt mittaus.
 

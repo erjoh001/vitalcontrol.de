@@ -14,15 +14,15 @@ translationKey: device/unregister-animals
 
 Poista eläimet VitalControl-laitteesi rekisteristä, jos ne ovat ylittäneet ikärajan tai niille ei ole määritetty transponderia. Toimi seuraavasti:
 
-1. Avaa päävalikko VitalControl-laitteestasi ja avaa valikko &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite`.
+1. Avaa päävalikko VitalControl-laitteestasi ja avaa valikko &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `{{<T "Device" >}}`.
 
-2. Alivalikko avautuu. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kohtaan `Tiedonhallinta` ja vahvista valinta `OK`.
+2. Alivalikko avautuu. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kohtaan `{{<T "DataManagement" >}}` ja vahvista valinta `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kohtaan `Tietoa eläimistä` ja vahvista valinta `OK`.
+3. Toinen alivalikko avautuu. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kohtaan `{{<T "AnimalData" >}}` ja vahvista valinta `{{<T "Ok" >}}`.
 
-4. Toinen alivalikko avautuu. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kohtaan `Poista elainten rekisteröninti:`.
+4. Toinen alivalikko avautuu. Käytä nuolinäppäimiä △ ▽ navigoidaksesi kohtaan `{{<T "UnregisterAnimals" >}}`.
 
-5. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluatko poistaa rekisteristä eläimet, jotka ovat `Yli 100 päivää vanhempi` tai joille `Ei Transponderia`. "Määrä"-kohdassa näet, kuinka monta eläintä poistetaan rekisteristä. Vahvista valintasi `OK`.
+5. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluatko poistaa rekisteristä eläimet, jotka ovat `{{<T "OlderThanNDays" >}}` tai joille `{{<T "NoTransponderAssigned" >}}`. "Määrä"-kohdassa näet, kuinka monta eläintä poistetaan rekisteristä. Vahvista valintasi `{{<T "Ok" >}}`.
 
 6. Vahvista turvallisuusilmoitus painamalla `F3`-näppäintä.
 

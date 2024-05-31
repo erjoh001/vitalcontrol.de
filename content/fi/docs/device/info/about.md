@@ -12,11 +12,11 @@ translationKey: device/info/about
 
 Noudattaaksesi laitteesi laitetietoja, toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `{{<T "Device" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alivalikko avautuu useilla valikkokohdilla. Valitse `Info` ja vahvista painamalla `OK`.
+2. Alivalikko avautuu useilla valikkokohdilla. Valitse `{{<T "Info" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu. Valitse `Lisätieto` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu. Valitse `{{<T "About" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 4. Myyjän tiedot näytetään nyt.
 

@@ -15,10 +15,10 @@ translationKey: device/flashlight
 
 Tässä voit aktivoida tai deaktivoida valon VitalControl-laitteessasi. Kun aktivoit valon, se palaa jatkuvasti.
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `{{<T "Device" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alavalikko avautuu useilla valikkokohdilla. Valitse `Valo` ja vahvista painamalla `OK` tai käytä `F3` (Päälle) -näppäintä.
+2. Alavalikko avautuu useilla valikkokohdilla. Valitse `{{<T "Flashlight" >}}` ja vahvista painamalla `{{<T "Ok" >}}` tai käytä `F3` (Päälle) -näppäintä.
 
-3. Valo on nyt aktivoitu. Tämä asetus on symbolisoitu keltaisella ympyrällä. Vahvista uudelleen painamalla `OK` tai käytä `F3` (Pois) -näppäintä valon deaktivoimiseksi.
+3. Valo on nyt aktivoitu. Tämä asetus on symbolisoitu keltaisella ympyrällä. Vahvista uudelleen painamalla `{{<T "Ok" >}}` tai käytä `F3` (Pois) -näppäintä valon deaktivoimiseksi.
 
    ![VitalControl: Valikko Laitevalo](../images/light.png "Aktivoi ja deaktivoi valo")

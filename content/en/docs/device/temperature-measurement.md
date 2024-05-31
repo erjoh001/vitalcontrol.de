@@ -15,9 +15,9 @@ translationKey: device/temperature-measurement
 
 Here you can test the temperature measurement of your device without saving the measurement for an animal. To carry out the test, proceed as follows:
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Device` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens with several menu items. Select `Temperature measurement` and confirm with `OK`.
+2. A submenu opens with several menu items. Select `{{<T "MeasurementsTemperature" >}}` and confirm with `{{<T "Ok" >}}`.
 
 3. Now carry out the measurement.
 

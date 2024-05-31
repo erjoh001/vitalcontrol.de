@@ -11,11 +11,11 @@ description: >
 
 Para recuperar el número de serie de su dispositivo, proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" />  `Dispositivo` y presione el botón `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" />  `{{<T "Device" >}}` y presione el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú con varios elementos de menú. Seleccione `Info` y confirme con `OK`.
+2. Se abre un submenú con varios elementos de menú. Seleccione `{{<T "Info" >}}` y confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú. Seleccione `número serial` y confirme con `OK`.
+3. Se abre otro submenú. Seleccione `{{<T "SerialNumber" >}}` y confirme con `{{<T "Ok" >}}`.
 
 4. Ahora se mostrará el número de serie.
 

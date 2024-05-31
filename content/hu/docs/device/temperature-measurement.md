@@ -15,9 +15,9 @@ translationKey: device/temperature-measurement
 
 Itt tesztelheti az eszköz hőmérséklet mérését anélkül, hogy az állat számára mentené a mérést. A teszt elvégzéséhez kövesse az alábbi lépéseket:
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/device.svg" width="25" align="bottom" alt="Eszköz" /> `Eszköz` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/device.svg" width="25" align="bottom" alt="Eszköz" /> `{{<T "Device" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg több menüponttal. Válassza a `Hőmérséklet mérés` lehetőséget, és erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg több menüponttal. Válassza a `{{<T "MeasurementsTemperature" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 3. Most végezze el a mérést.
 

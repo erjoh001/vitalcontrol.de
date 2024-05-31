@@ -47,13 +47,7 @@ Les quatre sections suivantes décrivent chacun des fichiers de données export�
 
 Chaque ligne du tableau de données des animaux représente un animal stocké sur le VitalControl. Un tableau de données des animaux exemplaire a donc l'apparence suivante :
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
-276000312341001;1001;276000312341001;2023-07-03;F;
-276000312341002;1002;276000312341002;2023-07-04;F;40.8
-276000312341003;1003;276000312341003;2023-07-05;F;38.3
-…
-```
+{{% data-files/en %}}
 
 Le tableau suivant liste et décrit chaque colonne du tableau de données des animaux :
 
@@ -62,9 +56,9 @@ Le tableau suivant liste et décrit chaque colonne du tableau de données des an
 | 1 | `National-ID-Animal` | Numéro officiel national de l'animal | 15 chiffres selon [ISO1174/85][], peut ne pas être enregistré |
 | 2 | `Farm-ID-Animal`     | Numéro de gestion               | 2 à 6 chiffres, souvent égal au numéro sur le collier     |
 | 3 | `Transponder-ID`     | Numéro de transpondeur          | peut manquer, peut être identique à l'ID national de l'animal |
-| 4 | `DateOfBirth`        | Date de naissance               | Format : `YYYY-MM-TT` (`Année-Mois-Jour`)                 |
+| 4 | `DateOfBirth`        | Date de naissance               | Format : `YYYY-MM-TT` (`Year-Month-Day`)                 |
 | 5 | `Sex`                | Sexe                            | _Valeurs :_ `M` : mâle, `F` : femelle, `?` : inconnu      |
-| 6 | `BirthWeight-Kg`     | Poids à la naissance            | Unité : `kilogramme`, peut ne pas être enregistré / manquant |
+| 6 | `BirthWeight-Kg`     | Poids à la naissance            | Unité : `kilogram`, peut ne pas être enregistré / manquant |
 
 [ISO1174/85]: https://en.wikipedia.org/wiki/ISO_11784_and_ISO_11785
 
@@ -80,13 +74,7 @@ Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni
 
 Chaque ligne du tableau de données de température représente une mesure de température corporelle effectuée sur un animal avec l'appareil VitalControl. Un tableau de température exemplaire a donc l'apparence suivante :
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Temperature-Celsius
-276000312341001;1001;276000312341001;2023-07-24;38.03
-276000312341002;1002;276000312341002;2023-07-24;40.12
-276000312341003;1003;276000312341003;2023-07-24;39.97
-…
-```
+{{% data-files/en_2 %}}
 
 Le tableau suivant liste et décrit chaque colonne du fichier d'exportation contenant les valeurs de température corporelle :
 
@@ -94,9 +82,9 @@ Le tableau suivant liste et décrit chaque colonne du fichier d'exportation cont
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | Numéro à 15 chiffres de l'animal mesuré   | selon [ISO1174/85][], peut ne pas être enregistré  |
 | 2 | `Farm-ID-Animal`      | Numéro de gestion de l'animal mesuré | 2 à 6 chiffres, souvent égal au numéro de collier     |
-| 3 | `Date`                | Date de la mesure de température      | Format : `AAAA-MM-JJ` (`Année-Mois-Jour`)          |
-| 4 | `Time`                | Heure de la mesure de température        | Format : `hh-mm-ss` (`heure:minute:seconde`)        |
-| 5 | `Temperature-Celsius` | Valeur de température mesurée           | Unité : `Degrés Celsius`                             |
+| 3 | `Date`                | Date de la mesure de température      | Format : `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 4 | `Time`                | Heure de la mesure de température        | Format : `hh-mm-ss` (`hour:minute:second`)        |
+| 5 | `Temperature-Celsius` | Valeur de température mesurée           | Unité : `Grad Celsius`                             |
 
 Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni [temperatures.csv][]. La figure ci-dessous montre ce fichier de données ouvert dans un programme de tableur.
 
@@ -112,13 +100,7 @@ Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni
 
 Chaque ligne du tableau de poids représente une pesée d'un animal utilisant l'appareil VitalControl pour enregistrer la valeur du poids. Un tableau de poids exemplaire a donc l'apparence suivante :
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
-276000312341001;1001;276000312341001;2023-07-24;67.8
-276000312341002;1002;276000312341002;2023-07-24;F;40.4
-276000312341003;1003;276000312341003;2023-07-24;F;104.2
-…
-```
+{{% data-files/en_3 %}}
 
 Le tableau suivant liste et décrit les colonnes individuelles du tableau contenant les poids des animaux :
 
@@ -126,9 +108,9 @@ Le tableau suivant liste et décrit les colonnes individuelles du tableau conten
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | Numéro à 15 chiffres de l'animal pesé   | selon [ISO1174/85][], peut ne pas être enregistré |
 | 2 | `Farm-ID-Animal`      | Numéro de gestion de l'animal pesé | 2 à 6 chiffres, souvent égal au numéro de collier    |
-| 3 | `Date`                | Date de la pesée                    | Format : `AAAA-MM-JJ` (`Année-Mois-Jour`)         |
-| 4 | `Time`                | Heure de la pesée                    | Format : `hh-mm-ss` (`heure:minute:seconde`)       |
-| 5 | `Weight-Kg`           | Valeur du poids                        | Unité : `Kilogramme`                                |
+| 3 | `Date`                | Date de la pesée                    | Format : `YYYY-MM-TT` (`Year-Month-Day`)         |
+| 4 | `Time`                | Heure de la pesée                    | Format : `hh-mm-ss` (`hour:minute:second`)       |
+| 5 | `Weight-Kg`           | Valeur du poids                        | Unité : `Kilogram`                                |
 
 Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni [weights.csv][]. La figure ci-dessous montre ce fichier d'exportation ouvert dans un programme de tableur.
 
@@ -144,13 +126,7 @@ Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni
 
 Chaque ligne du tableau des évaluations des animaux représente l'évaluation visuelle d'une évaluation d'animal effectuée avec VitalControl. Un tableau exemplaire avec évaluation des animaux a l'apparence suivante :
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;ScoreCondition;ScoreFeedIntake;ScoreScours;ScoreRespiratory
-276000312341001;1001;276000312341001;2023-07-24;Green;Yellow;Yellow;Green
-276000312341002;1002;276000312341002;2023-07-24;Yellow;Yellow;Yellow;Red
-276000312341003;1003;276000312341003;2023-07-24;Green;None;None;None
-…
-```
+{{% data-files/en_4 %}}
 
 Le tableau suivant liste et décrit chaque colonne du tableau des évaluations des animaux :
 
@@ -158,12 +134,12 @@ Le tableau suivant liste et décrit chaque colonne du tableau des évaluations d
 |:-:|-----------------------|-------------------------------------------|-----------------------------------------------------|
 | 1 | `National-ID-Animal`  | Numéro à 15 chiffres de l'animal évalué   | selon [ISO1174/85][], peut ne pas être enregistré   |
 | 2 | `Farm-ID-Animal`      | Numéro de gestion de l'animal évalué      | 2 à 6 chiffres, souvent égal au numéro de collier   |
-| 3 | `Date`                | Date de l'évaluation                      | Format : `AAAA-MM-JJ` (`Année-Mois-Jour`)           |
-| 4 | `Time`                | Heure de l'évaluation                     | Format : `hh-mm-ss` (`heure:minute:seconde`)        |
-| 5 | `ScoreCondition`      | Évaluation de l'état général              | _Évaluations :_ `Rouge`, `Jaune`, `Vert`, `Aucun`   |
-| 6 | `ScoreFeedIntake`     | Évaluation de la prise alimentaire        | _Évaluations :_ `Rouge`, `Jaune`, `Vert`, `Aucun`   |
-| 7 | `ScoreScours`         | Évaluation de l'état concernant `Scours`  | _Évaluations :_ `Rouge`, `Jaune`, `Vert`, `Aucun`   |
-| 8 | `ScoreRespiratory`    | Évaluation de l'état des `Maladies respiratoires` | _Évaluations :_ `Rouge`, `Jaune`, `Vert`, `Aucun` |
+| 3 | `Date`                | Date de l'évaluation                      | Format : `YYYY-MM-TT` (`Year-Month-Day`)           |
+| 4 | `Time`                | Heure de l'évaluation                     | Format : `hh-mm-ss` (`hour:minute:second`)        |
+| 5 | `ScoreCondition`      | Évaluation de l'état général              | _Évaluations :_ `Red`, `Yellow`, `Green`, `None`   |
+| 6 | `ScoreFeedIntake`     | Évaluation de la prise alimentaire        | _Évaluations :_ `Red`, `Yellow`, `Green`, `None`   |
+| 7 | `ScoreScours`         | Évaluation de l'état concernant `Scours`  | _Évaluations :_ `Red`, `Yellow`, `Green`, `None`   |
+| 8 | `ScoreRespiratory`    | Évaluation de l'état des `Respiratory diseases` | _Évaluations :_ `Red`, `Yellow`, `Green`, `None` |
 
 Si nécessaire, vous pouvez également télécharger le fichier d'exemple fourni [ratings.csv][]. L'image ci-dessous montre ce fichier ouvert dans un programme de tableur.
 

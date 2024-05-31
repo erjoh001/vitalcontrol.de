@@ -11,11 +11,11 @@ description: >
 
 Seadme seerianumbri hankimiseks toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `Seade` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `{{<T "Device" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü mitme menüüpunktiga. Valige `Info` ja kinnitage `OK`-ga.
+2. Avaneb alammenüü mitme menüüpunktiga. Valige `{{<T "Info" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-3. Avaneb veel üks alammenüü. Valige `seerianumber` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü. Valige `{{<T "SerialNumber" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
 4. Seerianumber kuvatakse nüüd.
 

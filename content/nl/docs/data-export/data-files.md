@@ -47,13 +47,7 @@ De volgende vier secties beschrijven elk van de geëxporteerde gegevensbestanden
 
 Elke rij van de dierendatatabel vertegenwoordigt één dier opgeslagen op de VitalControl. Een voorbeeldige dierendatatabel ziet er dus als volgt uit:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
-276000312341001;1001;276000312341001;2023-07-03;F;
-276000312341002;1002;276000312341002;2023-07-04;F;40.8
-276000312341003;1003;276000312341003;2023-07-05;F;38.3
-…
-```
+{{% data-files/en %}}
 
 De volgende tabel lijst en beschrijft elke kolom van de dierendatatabel:
 
@@ -80,13 +74,7 @@ Indien nodig, kunt u ook het voorbeeldbestand [animals.csv][] downloaden.
 
 Elke regel van de temperatuurdatatabel vertegenwoordigt een lichaamstemperatuurmeting uitgevoerd op een dier met VitalControl-apparaat. Een voorbeeldige temperatuurtabel ziet er dus als volgt uit:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Datum;Tijd;Temperatuur-Celsius
-276000312341001;1001;276000312341001;2023-07-24;38.03
-276000312341002;1002;276000312341002;2023-07-24;40.12
-276000312341003;1003;276000312341003;2023-07-24;39.97
-…
-```
+{{% data-files/en_2 %}}
 
 De volgende tabel geeft een lijst en beschrijving van elke kolom in het exportbestand met de lichaamstemperatuurwaarden:
 
@@ -112,13 +100,7 @@ Indien nodig, kunt u ook het voorbeeldbestand [temperatures.csv][] downloaden. D
 
 Elke regel van de gewichtstabel vertegenwoordigt één weging van een dier met behulp van het VitalControl-apparaat voor het registreren van de gewichtswaarde. Een voorbeeldige gewichtstabel ziet er dus als volgt uit:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Datum;Tijd;Gewicht-Kg
-276000312341001;1001;276000312341001;2023-07-24;67.8
-276000312341002;1002;276000312341002;2023-07-24;F;40.4
-276000312341003;1003;276000312341003;2023-07-24;F;104.2
-…
-```
+{{% data-files/en_3 %}}
 
 De volgende tabel geeft een lijst en beschrijving van de individuele kolommen van de tabel met de gewichten van dieren:
 
@@ -144,13 +126,7 @@ Indien nodig, kunt u ook het voorbeeldbestand [weights.csv][] downloaden. De afb
 
 Elke rij van de tabel met dierbeoordelingen vertegenwoordigt de visuele beoordeling van een dierenevaluatie uitgevoerd met VitalControl. Een voorbeeldtabel met dierbeoordeling ziet er als volgt uit:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;ScoreCondition;ScoreFeedIntake;ScoreScours;ScoreRespiratory
-276000312341001;1001;276000312341001;2023-07-24;Green;Yellow;Yellow;Green
-276000312341002;1002;276000312341002;2023-07-24;Yellow;Yellow;Yellow;Red
-276000312341003;1003;276000312341003;2023-07-24;Green;None;None;None
-…
-```
+{{% data-files/en_4 %}}
 
 De volgende tabel geeft een lijst en beschrijving van elke kolom van de tabel met dierbeoordelingen:
 

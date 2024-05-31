@@ -15,9 +15,9 @@ translationKey: device/temperature-measurement
 
 Siin saad testida oma seadme temperatuuri mõõtmist ilma mõõtmist looma jaoks salvestamata. Testi läbiviimiseks toimi järgnevalt:
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Seade` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü mitme menüüpunktiga. Vali `Temperatuuri mõõtmine` ja kinnita `OK`-ga.
+2. Avaneb alammenüü mitme menüüpunktiga. Vali `{{<T "MeasurementsTemperature" >}}` ja kinnita `{{<T "Ok" >}}`-ga.
 
 3. Nüüd vii mõõtmine läbi.
 

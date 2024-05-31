@@ -15,11 +15,11 @@ translationKey: device/flashlight
 
 Itt aktiválhatja vagy deaktiválhatja a fényt a VitalControl készülékén. Ha aktiválja a fényt, az folyamatosan világít.
 
-1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Készülék` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg több menüponttal. Válassza a `Zseblámpa` lehetőséget, és erősítse meg az `OK` gombbal, vagy használja az `F3` (Be) gombot.
+2. Egy almenü nyílik meg több menüponttal. Válassza a `{{<T "Flashlight" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal, vagy használja az `F3` (Be) gombot.
 
-3. A fény most aktiválva van. Ezt a beállítást egy sárga kör szimbolizálja. Erősítse meg újra az `OK` gombbal, vagy használja az `F3` (Ki) gombot a fény deaktiválásához.
+3. A fény most aktiválva van. Ezt a beállítást egy sárga kör szimbolizálja. Erősítse meg újra az `{{<T "Ok" >}}` gombbal, vagy használja az `F3` (Ki) gombot a fény deaktiválásához.
 
    ![VitalControl: Menü Készülék fény](../images/light.png "Fény aktiválása és deaktiválása")
 

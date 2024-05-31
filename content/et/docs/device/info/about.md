@@ -12,11 +12,11 @@ translationKey: device/info/about
 
 Seadme riistvarateabe hankimiseks toimi järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Seade" /> `seade` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Seade" /> `{{<T "Device" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü mitme menüüpunktiga. Vali `info` ja kinnita `OK`-ga.
+2. Avaneb alammenüü mitme menüüpunktiga. Vali `{{<T "Info" >}}` ja kinnita `{{<T "Ok" >}}`-ga.
 
-3. Avaneb veel üks alammenüü. Vali `Info` ja kinnita `OK`-ga.
+3. Avaneb veel üks alammenüü. Vali `{{<T "About" >}}` ja kinnita `{{<T "Ok" >}}`-ga.
 
 4. Nüüd kuvatakse tootja teave.
 

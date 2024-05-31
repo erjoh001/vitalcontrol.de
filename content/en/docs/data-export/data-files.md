@@ -47,13 +47,7 @@ The following four sections describe each of the exported data files in detail:
 
 Each row of the animal data table represents one animal stored on the VitalControl. An exemplary animal data table thus has the following appearance:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
-276000312341001;1001;276000312341001;2023-07-03;F;
-276000312341002;1002;276000312341002;2023-07-04;F;40.8
-276000312341003;1003;276000312341003;2023-07-05;F;38.3
-…
-```
+{{% data-files/en %}}
 
 The following table lists and describes each column of the animal data table:
 
@@ -80,14 +74,9 @@ If needed, you can also download the provided sample file [animals.csv][].
 
 Each line of the temperature data table represents a body temperature measurement performed on an animal with VitalControl device. An exemplary temperature table thus has the following appearance:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Temperature-Celsius
-276000312341001;1001;276000312341001;2023-07-24;38.03
-276000312341002;1002;276000312341002;2023-07-24;40.12
-276000312341003;1003;276000312341003;2023-07-24;39.97
-…
-```
+{{% data-files/en_2 %}}
 
+a
 The following table lists and describes each column of the export file containing the body temperature values:
 
 |Column| Name of column     | Description                          | Comments                                         |
@@ -112,13 +101,7 @@ If needed, you can also download the provided sample file [temperatures.csv][]. 
 
 Each line of the weight table represents one weighing of an animal using the VitalControl device for recording the weight value. An exemplary weight table thus has the following appearance:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
-276000312341001;1001;276000312341001;2023-07-24;67.8
-276000312341002;1002;276000312341002;2023-07-24;F;40.4
-276000312341003;1003;276000312341003;2023-07-24;F;104.2
-…
-```
+{{% data-files/en_3 %}}
 
 The following table lists and describes the individual columns of the table containing the animal weights:
 
@@ -144,13 +127,7 @@ If needed, you can also download the provided sample file [weights.csv][]. The f
 
 Each row of the animal ratings table represents the visual rating of an an animal evaluation performed with VitalControl. An exemplary table with animal rating has the following appearance:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;ScoreCondition;ScoreFeedIntake;ScoreScours;ScoreRespiratory
-276000312341001;1001;276000312341001;2023-07-24;Green;Yellow;Yellow;Green
-276000312341002;1002;276000312341002;2023-07-24;Yellow;Yellow;Yellow;Red
-276000312341003;1003;276000312341003;2023-07-24;Green;None;None;None
-…
-```
+{{% data-files/en_4 %}}
 
 The following table lists and describes each column of the animal ratings table:
 

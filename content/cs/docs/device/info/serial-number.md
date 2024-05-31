@@ -11,11 +11,11 @@ description: >
 
 Chcete-li získat sériové číslo svého zařízení, postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `Zařízení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `{{<T "Device" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu s několika položkami menu. Vyberte `Info` a potvrďte `OK`.
+2. Otevře se podmenu s několika položkami menu. Vyberte `{{<T "Info" >}}` a potvrďte `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu. Vyberte `sériové číslo` a potvrďte `OK`.
+3. Otevře se další podmenu. Vyberte `{{<T "SerialNumber" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 4. Nyní se zobrazí sériové číslo.
 

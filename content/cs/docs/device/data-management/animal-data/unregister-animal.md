@@ -14,15 +14,15 @@ translationKey: device/unregister-animals
  
 Odregistrujte zvířata z vašeho VitalControl, která buď překročila věkový limit, nebo jim nebyl přiřazen transpondér. Postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl otevřete menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Zařízení`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl otevřete menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `{{<T "Device" >}}`.
 
-2. Otevře se podmenu. Pomocí šipek △ ▽ přejděte na položku `správa dat` a potvrďte `OK`.
+2. Otevře se podmenu. Pomocí šipek △ ▽ přejděte na položku `{{<T "DataManagement" >}}` a potvrďte `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu. Pomocí šipek △ ▽ přejděte na položku `data o zvířatech` a potvrďte `OK`.
+3. Otevře se další podmenu. Pomocí šipek △ ▽ přejděte na položku `{{<T "AnimalData" >}}` a potvrďte `{{<T "Ok" >}}`.
 
-4. Otevře se další podmenu. Pomocí šipek △ ▽ přejděte na položku `odregistrovat zvířata:`.
+4. Otevře se další podmenu. Pomocí šipek △ ▽ přejděte na položku `{{<T "UnregisterAnimals" >}}`.
 
-5. Pomocí šipek ◁ ▷ vyberte, zda chcete odregistrovat zvířata `starší než 100 dní` nebo `bez přiřazeného transpondéru`. Položka "Počet" vám ukáže, kolik zvířat bude odregistrováno. Potvrďte svůj výběr `OK`.
+5. Pomocí šipek ◁ ▷ vyberte, zda chcete odregistrovat zvířata `{{<T "OlderThanNDays" >}}` nebo `{{<T "NoTransponderAssigned" >}}`. Položka "Počet" vám ukáže, kolik zvířat bude odregistrováno. Potvrďte svůj výběr `{{<T "Ok" >}}`.
 
 6. Potvrďte bezpečnostní pop-up tlačítkem `F3`.
 

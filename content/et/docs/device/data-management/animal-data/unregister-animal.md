@@ -14,15 +14,15 @@ translationKey: device/unregister-animals
 
 Eemaldage loomad oma VitalControlist, kes on kas ületanud vanusepiiri või kellele ei ole määratud transponderit. Toimige järgnevalt:
 
-1. Avage oma VitalControl seadme põhiekraanil menüü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Seade`.
+1. Avage oma VitalControl seadme põhiekraanil menüü &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `{{<T "Device" >}}`.
 
-2. Avaneb alammenüü. Kasutage navigeerimiseks noolenuppe △ ▽, liikuge `andmehaldus` kirje juurde ja kinnitage valik `OK`-ga.
+2. Avaneb alammenüü. Kasutage navigeerimiseks noolenuppe △ ▽, liikuge `{{<T "DataManagement" >}}` kirje juurde ja kinnitage valik `{{<T "Ok" >}}`-ga.
 
-3. Avaneb veel üks alammenüü. Kasutage navigeerimiseks noolenuppe △ ▽, liikuge `loomade andmed` kirje juurde ja kinnitage valik `OK`-ga.
+3. Avaneb veel üks alammenüü. Kasutage navigeerimiseks noolenuppe △ ▽, liikuge `{{<T "AnimalData" >}}` kirje juurde ja kinnitage valik `{{<T "Ok" >}}`-ga.
 
-4. Avaneb veel üks alammenüü. Kasutage navigeerimiseks noolenuppe △ ▽, liikuge kirje `registrist kustuta loomad:` juurde.
+4. Avaneb veel üks alammenüü. Kasutage navigeerimiseks noolenuppe △ ▽, liikuge kirje `{{<T "UnregisterAnimals" >}}` juurde.
 
-5. Kasutage valiku tegemiseks noolenuppe ◁ ▷, et valida, kas soovite eemaldada loomad, kes on `vanemad kui 100 päeva` või `kellele pole määratud transponderit`. Kirje "Kogus" näitab, mitu looma kustutatakse. Kinnitage oma valik `OK`-ga.
+5. Kasutage valiku tegemiseks noolenuppe ◁ ▷, et valida, kas soovite eemaldada loomad, kes on `{{<T "OlderThanNDays" >}}` või `{{<T "NoTransponderAssigned" >}}`. Kirje "Kogus" näitab, mitu looma kustutatakse. Kinnitage oma valik `{{<T "Ok" >}}`-ga.
 
 6. Kinnitage turvahüpikaken nupuga `F3`.
 

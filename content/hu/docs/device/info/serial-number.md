@@ -11,11 +11,11 @@ description: >
 
 A készülék sorozatszámának lekéréséhez kövesse az alábbi lépéseket:
 
-1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `Készülék` menüpontot, majd nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `{{<T "Device" >}}` menüpontot, majd nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg több menüponttal. Válassza az `Info` lehetőséget, és erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg több menüponttal. Válassza az `{{<T "Info" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg. Válassza a `sorozatszám` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg. Válassza a `{{<T "SerialNumber" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Most megjelenik a sorozatszám.
 

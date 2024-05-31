@@ -47,13 +47,7 @@ Následující čtyři sekce podrobně popisují každý z exportovaných datov�
 
 Každý řádek tabulky dat o zvířatech představuje jedno zvíře uložené na VitalControl. Ukázková tabulka dat o zvířatech má tedy následující vzhled:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Transponder-ID;DateOfBirth;Sex;BirthWeight-Kg
-276000312341001;1001;276000312341001;2023-07-03;F;
-276000312341002;1002;276000312341002;2023-07-04;F;40.8
-276000312341003;1003;276000312341003;2023-07-05;F;38.3
-…
-```
+{{% data-files/en %}}
 
 Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky dat o zvířatech:
 
@@ -62,7 +56,7 @@ Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky dat o zví
 | 1 | `National-ID-Animal`     | Oficiální národní číslo zvířete    | 15 číslic podle [ISO1174/85][], může být nezaznamenáno     |
 | 2 | `Farm-ID-Animal`         | Správní číslo                      | 2 až 6 číslic, často shodné s číslem na obojku             |
 | 3 | `Transponder-ID`         | Číslo transpondéru                 | může chybět, může být shodné s národním číslem zvířete     |
-| 4 | `DateOfBirth`            | Datum narození                     | Formát: `YYYY-MM-TT` (`Rok-Měsíc-Den`)                     |
+| 4 | `DateOfBirth`            | Datum narození                     | Formát: `YYYY-MM-TT` (`Year-Month-Day`)                     |
 | 5 | `Sex`                    | Pohlaví                            | _Hodnoty:_ `M`: samec, `F`: samice, `?`: neznámé           |
 | 6 | `BirthWeight-Kg`         | Porodní hmotnost                   | Jednotka: `kilogram`, může být nezaznamenáno / chybí       |
 
@@ -80,13 +74,7 @@ Pokud je potřeba, můžete si také stáhnout poskytnutý vzorový soubor [anim
 
 Každý řádek tabulky dat o teplotě představuje měření tělesné teploty provedené na zvířeti pomocí zařízení VitalControl. Ukázková tabulka teplot má tedy následující vzhled:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Temperature-Celsius
-276000312341001;1001;276000312341001;2023-07-24;38.03
-276000312341002;1002;276000312341002;2023-07-24;40.12
-276000312341003;1003;276000312341003;2023-07-24;39.97
-…
-```
+{{% data-files/en_2 %}}
 
 Následující tabulka uvádí a popisuje každý sloupec exportního souboru obsahujícího hodnoty tělesné teploty:
 
@@ -94,9 +82,9 @@ Následující tabulka uvádí a popisuje každý sloupec exportního souboru ob
 |:-:|-----------------------|--------------------------------------|--------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15místné číslo měřeného zvířete       | podle [ISO1174/85][], možná není zaznamenáno     |
 | 2 | `Farm-ID-Animal`      | Správní číslo měřeného zvířete        | 2 až 6 číslic, často shodné s číslem obojku      |
-| 3 | `Date`                | Datum měření teploty                  | Formát: `YYYY-MM-TT` (`Rok-Měsíc-Den`)           |
-| 4 | `Time`                | Uhrzeit der Temperaturmessung         | Formát: `hh-mm-ss` (`hodina:minuta:vteřina`)     |
-| 5 | `Temperature-Celsius` | Naměřená hodnota teploty              | Jednotka: `Stupeň Celsia`                        |
+| 3 | `Date`                | Datum měření teploty                  | Formát: `YYYY-MM-TT` (`Year-Month-Day`)           |
+| 4 | `Time`                | Uhrzeit der Temperaturmessung         | Formát: `hh-mm-ss` (`hour:minute:second`)     |
+| 5 | `Temperature-Celsius` | Naměřená hodnota teploty              | Jednotka: `Grad Celsius`                        |
 
 Pokud je to potřeba, můžete si také stáhnout poskytnutý vzorový soubor [temperatures.csv][]. Obrázek níže ukazuje tento datový soubor otevřený v tabulkovém programu.
 
@@ -112,13 +100,7 @@ Pokud je to potřeba, můžete si také stáhnout poskytnutý vzorový soubor [t
 
 Každý řádek tabulky hmotnosti představuje jedno vážení zvířete pomocí zařízení VitalControl pro zaznamenávání hodnoty hmotnosti. Ukázková tabulka hmotnosti má tedy následující vzhled:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;Weight-Kg
-276000312341001;1001;276000312341001;2023-07-24;67.8
-276000312341002;1002;276000312341002;2023-07-24;F;40.4
-276000312341003;1003;276000312341003;2023-07-24;F;104.2
-…
-```
+{{% data-files/en_3 %}}
 
 Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky obsahující hmotnosti zvířat:
 
@@ -126,8 +108,8 @@ Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky obsahujíc
 |:-:|-----------------------|-------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15místné číslo váženého zvířete      | podle [ISO1174/85][], možná není zaznamenáno    |
 | 2 | `Farm-ID-Animal`      | Správní číslo váženého zvířete       | 2 až 6 číslic, často shodné s číslem obojku     |
-| 3 | `Date`                | Datum vážení                        | Formát: `YYYY-MM-TT` (`Rok-Měsíc-Den`)          |
-| 4 | `Time`                | Čas vážení                          | Formát: `hh-mm-ss` (`hodina:minuta:vteřina`)    |
+| 3 | `Date`                | Datum vážení                        | Formát: `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 4 | `Time`                | Čas vážení                          | Formát: `hh-mm-ss` (`hour:minute:second`)    |
 | 5 | `Weight-Kg`           | Hodnota hmotnosti                   | Jednotka: `Kilogram`                            |
 
 Pokud je to potřeba, můžete si také stáhnout poskytnutý vzorový soubor [weights.csv][]. Následující obrázek ukazuje tento exportní soubor otevřený v tabulkovém programu.
@@ -144,13 +126,7 @@ Pokud je to potřeba, můžete si také stáhnout poskytnutý vzorový soubor [w
 
 Každý řádek tabulky hodnocení zvířat představuje vizuální hodnocení zvířete provedené pomocí VitalControl. Ukázková tabulka s hodnocením zvířat má následující vzhled:
 
-```csv
-National-ID-Animal;Farm-ID-Animal;Date;Time;ScoreCondition;ScoreFeedIntake;ScoreScours;ScoreRespiratory
-276000312341001;1001;276000312341001;2023-07-24;Green;Yellow;Yellow;Green
-276000312341002;1002;276000312341002;2023-07-24;Yellow;Yellow;Yellow;Red
-276000312341003;1003;276000312341003;2023-07-24;Green;None;None;None
-…
-```
+{{% data-files/en_4 %}}
 
 Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky hodnocení zvířat:
 
@@ -159,12 +135,12 @@ Následující tabulka uvádí a popisuje jednotlivé sloupce tabulky hodnocení
 |:-:|-----------------------|-----------------------------------------|-------------------------------------------------|
 | 1 | `National-ID-Animal`  | 15místné číslo hodnoceného zvířete      | podle [ISO1174/85][], možná nezaznamenáno       |
 | 2 | `Farm-ID-Animal`      | Správní číslo hodnoceného zvířete       | 2 až 6 číslic, často shodné s číslem obojku     |
-| 3 | `Date`                | Datum hodnocení                         | Formát: `YYYY-MM-TT` (`Rok-Měsíc-Den`)          |
-| 4 | `Time`                | Čas hodnocení                           | Formát: `hh-mm-ss` (`hodina:minuta:vteřina`)    |
-| 5 | `ScoreCondition`      | Hodnocení celkového stavu               | _Hodnocení:_ `Červená`, `Žlutá`, `Zelená`, `Žádná` |
-| 6 | `ScoreFeedIntake`     | Hodnocení příjmu krmiva                 | _Hodnocení:_ `Červená`, `Žlutá`, `Zelená`, `Žádná` |
-| 7 | `ScoreScours`         | Hodnocení stavu týkajícího se `Průjmu`  | _Hodnocení:_ `Červená`, `Žlutá`, `Zelená`, `Žádná` |
-| 8 | `ScoreRespiratory`    | Hodnocení stavu `Respiračních onemocnění` | _Hodnocení:_ `Červená`, `Žlutá`, `Zelená`, `Žádná` |
+| 3 | `Date`                | Datum hodnocení                         | Formát: `YYYY-MM-TT` (`Year-Month-Day`)          |
+| 4 | `Time`                | Čas hodnocení                           | Formát: `hh-mm-ss` (`hour:minute:second`)    |
+| 5 | `ScoreCondition`      | Hodnocení celkového stavu               | _Hodnocení:_ `Red`, `Yellow`, `Green`, `None` |
+| 6 | `ScoreFeedIntake`     | Hodnocení příjmu krmiva                 | _Hodnocení:_ `Red`, `Yellow`, `Green`, `None` |
+| 7 | `ScoreScours`         | Hodnocení stavu týkajícího se `Scours`  | _Hodnocení:_ `Red`, `Yellow`, `Green`, `None` |
+| 8 | `ScoreRespiratory`    | Hodnocení stavu `Respiratory diseases` | _Hodnocení:_ `Red`, `Yellow`, `Green`, `None` |
 
 Pokud je to nutné, můžete si také stáhnout poskytnutý vzorový soubor [ratings.csv][]. Obrázek níže ukazuje tento soubor otevřený v tabulkovém programu.
 

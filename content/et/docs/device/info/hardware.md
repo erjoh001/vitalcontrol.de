@@ -11,11 +11,11 @@ description: >
 
 Seadme riistvara teabe hankimiseks toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `device` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" />  `{{<T "Device" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü mitme menüüpunktiga. Valige `info` ja kinnitage `OK`-ga.
+2. Avaneb alammenüü mitme menüüpunktiga. Valige `{{<T "Info" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-3. Avaneb veel üks alammenüü. Valige `Hardware` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü. Valige `{{<T "Hardware" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
 4. Riistvara teave kuvatakse nüüd.
 
