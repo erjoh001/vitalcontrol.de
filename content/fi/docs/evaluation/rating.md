@@ -22,9 +22,9 @@ Tässä arvioinnissa näet seuraavat tiedot piirakkakaaviona:
 
 Suorittaaksesi arvioinnin, toimi seuraavasti:
 
-1. Laitteesi päänäytössä korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `Arviointi`. Vahvista `OK`.
+1. Laitteesi päänäytössä korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `{{<T "Evaluation" >}}`. Vahvista `{{<T "Ok" >}}`.
 
-2. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen `Paino`, `Lämpötila`, `Luokitus` ja `Kuolleisuus` välillä. Valitse kuvake <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Arvostelu" />&nbsp; `Arvostelu` ja vahvista `OK`.
+2. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}` välillä. Valitse kuvake <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Arvostelu" />&nbsp; `{{<T "Rating" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 3. Laite alkaa nyt laskea menestysmuuttujia.
 

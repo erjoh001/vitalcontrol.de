@@ -40,11 +40,11 @@ V tomto vyhodnocení můžete vidět následující informace týkající se vá
 
 Pro provedení hodnocení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Potvrďte stisknutím `OK`.
+1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `Weight`, `Temperature`, `Rating` a `Mortality`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` a potvrďte stisknutím `OK`.
+2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` a `{{<T "Mortality" >}}`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Nyní se zobrazí možnosti hodnocení pro sekci Weight. Vyberte možnost hodnocení &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Today's weighing` a potvrďte stisknutím `OK`. Zařízení nyní začne vypočítávat proměnné úspěchu.
+3. Nyní se zobrazí možnosti hodnocení pro sekci Weight. Vyberte možnost hodnocení &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `{{<T "WeighingToday" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. Zařízení nyní začne vypočítávat proměnné úspěchu.
 
 4. Po dokončení výpočtu můžete zobrazit výše uvedené proměnné úspěchu. Pomocí šipek △ ▽ se pohybujte v zobrazeném menu.
 
@@ -57,11 +57,11 @@ V tomto hodnocení můžete zobrazit následující informace:
 
 Pro provedení hodnocení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Potvrďte stisknutím `OK`.
+1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `Weight`, `Temperature`, `Rating` a `Mortality`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` a potvrďte stisknutím `OK`.
+2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` a `{{<T "Mortality" >}}`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Nyní se zobrazí možnosti hodnocení pro sekci Weight. Vyberte &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Birth weights` a potvrďte stisknutím `OK`. Zařízení nyní začne vypočítávat proměnné úspěchu.
+3. Nyní se zobrazí možnosti hodnocení pro sekci Weight. Vyberte &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `{{<T "BirthWeights" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. Zařízení nyní začne vypočítávat proměnné úspěchu.
 
 4. Po dokončení výpočtu můžete zobrazit výše uvedené proměnné úspěchu. Pomocí šipek △ ▽ se pohybujte v zobrazeném menu.
 
@@ -78,11 +78,11 @@ V tomto hodnocení můžete vidět následující informace týkající se všec
 
 Pro provedení hodnocení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hodnocení" />&nbsp; `Hodnocení`. Potvrďte stisknutím `OK`.
+1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hodnocení" />&nbsp; `{{<T "Rating" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `Hmotnost`, `Teplota`, `Hodnocení` a `Úmrtnost`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Hmotnost" />&nbsp; `Hmotnost` a potvrďte stisknutím `OK`.
+2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` a `{{<T "Mortality" >}}`. Vyberte &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Hmotnost" />&nbsp; `{{<T "Weight" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Nyní se zobrazí možnosti hodnocení pro sekci hmotnosti. Vyberte &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Vývoj hmotnosti" />&nbsp; `Vývoj hmotnosti` a potvrďte stisknutím `OK`. Zařízení nyní začne vypočítávat proměnné úspěchu.
+3. Nyní se zobrazí možnosti hodnocení pro sekci hmotnosti. Vyberte &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Vývoj hmotnosti" />&nbsp; `{{<T "WeightDevelopment" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. Zařízení nyní začne vypočítávat proměnné úspěchu.
 
 4. Po dokončení výpočtu můžete zobrazit výše uvedené proměnné úspěchu. Pomocí šipek △ ▽ se pohybujte v zobrazeném menu.
 

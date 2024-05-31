@@ -22,9 +22,9 @@ V tomto vyhodnocení můžete vidět následující informace:
 
 Pro provedení vyhodnocení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Vyhodnotit" />&nbsp; `Vyhodnotit`. Potvrďte stisknutím `OK`.
+1. Na hlavní obrazovce vašeho zařízení zvýrazněte ikonu &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Vyhodnotit" />&nbsp; `{{<T "Evaluation" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `Hmotnost`, `Teplota`, `Hodnocení` a `Úmrtnost`. Vyberte &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Vyhodnotit teplotu" />&nbsp; `Teplota` a potvrďte stisknutím `OK`.
+2. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ ◁ ▷ vybírat mezi položkami menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` a `{{<T "Mortality" >}}`. Vyberte &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Vyhodnotit teplotu" />&nbsp; `{{<T "Temperature" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 3. Zařízení nyní začne počítat proměnné úspěchu.
 

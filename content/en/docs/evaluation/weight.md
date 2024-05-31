@@ -39,11 +39,11 @@ In this evaluation you can see the following information related to the weighing
 
 To perform the evaluation, proceed as follows:
 
-1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` and `{{<T "Mortality" >}}`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` and confirm with `{{<T "Ok" >}}`.
 
-3. The evaluation options for the Weight section now appear. Select the evaluation option &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Today's weighing` and confirm with `OK`. The device now begins to calculate the success variables.
+3. The evaluation options for the Weight section now appear. Select the evaluation option &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `{{<T "WeighingToday" >}}` and confirm with `{{<T "Ok" >}}`. The device now begins to calculate the success variables.
 
 4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
 
@@ -56,11 +56,11 @@ In this evaluation you can view the following information:
 
 To perform the evaluation, proceed as follows:
 
-1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` and `{{<T "Mortality" >}}`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` and confirm with `{{<T "Ok" >}}`.
 
-3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Birth weights` and confirm with `OK`. The device now starts to calculate the success variables.
+3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `{{<T "BirthWeights" >}}` and confirm with `{{<T "Ok" >}}`. The device now starts to calculate the success variables.
 
 4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
 
@@ -76,11 +76,11 @@ In this evaluation you can see the following information related to all weighing
 
 To perform the evaluation, proceed as follows:
 
-1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Weight` and confirm with `OK`.
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` and `{{<T "Mortality" >}}`. Select &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` and confirm with `{{<T "Ok" >}}`.
 
-3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Weight development" />&nbsp; `Weight development` and confirm with `OK`. The device now starts to calculate the success variables.
+3. Now the evaluation options for the weight section appear. Select &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Weight development" />&nbsp; `{{<T "WeightDevelopment" >}}` and confirm with `{{<T "Ok" >}}`. The device now starts to calculate the success variables.
 
 4. When the calculation is complete, you can view the above-mentioned success variables. Use the arrow keys △ ▽ to navigate through the displayed menu.
 

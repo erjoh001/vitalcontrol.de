@@ -17,9 +17,9 @@ Az állatszűrőket nem használhatja a veszteségi arány elemzésében. A borj
 Ebben az értékelésben megtekintheti a veszteségi arányait történeti formában. A veszteségi arány százalékban van megadva, és zöld, sárga és piros kategóriákra van osztva. A tárolt százalékok gyárilag beállítottak, a zöld terület 0 és 4 % között van, a sárga terület 4 és 8 % között van, a piros terület pedig 8 % feletti halálozási arányt jelent.
 Az értékelés elvégzéséhez kövesse az alábbi lépéseket:
 
-1. A készülék főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Értékelés" />&nbsp; `Értékelés`. Erősítse meg `OK`-val.
+1. A készülék főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Értékelés" />&nbsp; `{{<T "Rating" >}}`. Erősítse meg `{{<T "Ok" >}}`-val.
 
-2. Egy másik almenü nyílik meg, amelyben a △ ▽ ◁ ▷ nyílgombokkal választhat a `Súly`, `Hőmérséklet`, `Értékelés` és `Halálozás` menüpontok között. Válassza ki &nbsp;<img src="/icons/evaluation/calflosses.svg" width="60" align="bottom" alt="Halálozás" />&nbsp; `Halálozás` és erősítse meg `OK`-val.
+2. Egy másik almenü nyílik meg, amelyben a △ ▽ ◁ ▷ nyílgombokkal választhat a `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` és `{{<T "Mortality" >}}` menüpontok között. Válassza ki &nbsp;<img src="/icons/evaluation/calflosses.svg" width="60" align="bottom" alt="Halálozás" />&nbsp; `{{<T "Mortality" >}}` és erősítse meg `{{<T "Ok" >}}`-val.
 
 3. A készülék most elkezdi kiszámítani a siker változóit.
 

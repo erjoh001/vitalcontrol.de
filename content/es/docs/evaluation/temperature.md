@@ -22,9 +22,9 @@ En esta evaluación puedes ver la siguiente información:
 
 Para realizar la evaluación, procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo resalta el icono &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluar" />&nbsp; `Evaluación`. Confirma con `OK`.
+1. En la pantalla principal de tu dispositivo resalta el icono &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluar" />&nbsp; `{{<T "Rating" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-2. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ ◁ ▷ para elegir entre los elementos del menú `Peso`, `Temperatura`, `Evaluación` y `Mortalidad`. Selecciona &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Evaluar temperatura" />&nbsp; `Temperatura` y confirma con `OK`.
+2. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ ◁ ▷ para elegir entre los elementos del menú `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` y `{{<T "Mortality" >}}`. Selecciona &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Evaluar temperatura" />&nbsp; `{{<T "Temperature" >}}` y confirma con `{{<T "Ok" >}}`.
 
 3. El dispositivo ahora comienza a calcular las variables de éxito.
 

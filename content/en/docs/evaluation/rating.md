@@ -22,9 +22,9 @@ In this evaluation you can see the following information as a pie chart:
 
 To perform the evaluation, proceed as follows:
 
-1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Evaluate`. Confirm with `OK`.
+1. In the main screen of your device highlight the icon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `Weight`, `Temperature`, `Rating` and `Mortality`. Select the icon <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Rating" />&nbsp; `Rating` and confirm with `OK`.
+2. Another submenu opens in which you can use the arrow keys △ ▽ ◁ ▷ to choose between the menu items `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` and `{{<T "Mortality" >}}`. Select the icon <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Rating" />&nbsp; `{{<T "Rating" >}}` and confirm with `{{<T "Ok" >}}`.
 
 3. The device now starts to calculate the success variables.
 

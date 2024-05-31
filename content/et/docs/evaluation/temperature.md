@@ -22,9 +22,9 @@ Selles hindamises näete järgmist teavet:
 
 Hindamise teostamiseks toimige järgmiselt:
 
-1. Seadme põhiekraanil tõstke esile ikoon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hinda" />&nbsp; `Hinda`. Kinnitage `OK`.
+1. Seadme põhiekraanil tõstke esile ikoon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hinda" />&nbsp; `{{<T "Evaluation" >}}`. Kinnitage `{{<T "Ok" >}}`.
 
-2. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ ◁ ▷ abil valida menüüpunktide `Kaal`, `Temperatuur`, `Hinnang` ja `Suremus` vahel. Valige &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Hinda temperatuuri" />&nbsp; `Temperatuur` ja kinnitage `OK`.
+2. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ ◁ ▷ abil valida menüüpunktide `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}` vahel. Valige &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Hinda temperatuuri" />&nbsp; `{{<T "Temperature" >}}` ja kinnitage `{{<T "Ok" >}}`.
 
 3. Seade hakkab nüüd edukuse muutujaid arvutama.
 

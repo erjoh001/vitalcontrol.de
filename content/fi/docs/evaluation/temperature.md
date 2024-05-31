@@ -22,9 +22,9 @@ Tässä arvioinnissa voit nähdä seuraavat tiedot:
 
 Suorita arviointi seuraavasti:
 
-1. Laitteesi päänäytössä korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `Arviointi`. Vahvista painamalla `OK`.
+1. Laitteesi päänäytössä korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `{{<T "Evaluation" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-2. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen `Paino`, `Lämpötila`, `Luokitus` ja `Kuolleisuus` välillä. Valitse &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Arvioi lämpötila" />&nbsp; `Lämpötila` ja vahvista painamalla `OK`.
+2. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}` välillä. Valitse &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Arvioi lämpötila" />&nbsp; `{{<T "Temperature" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 3. Laite alkaa nyt laskea menestysmuuttujia.
 

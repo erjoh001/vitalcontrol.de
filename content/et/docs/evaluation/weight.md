@@ -39,11 +39,11 @@ Selles hindamises näete järgmist teavet viimase 6 tunni kaalumiste kohta:
 
 Hindamise teostamiseks toimige järgmiselt:
 
-1. Seadme põhiekraanil tõstke esile ikoon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hinnake" />&nbsp; `Hinnake`. Kinnitage valikuga `OK`.
+1. Seadme põhiekraanil tõstke esile ikoon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hinnake" />&nbsp; `{{<T "Evaluation" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-2. Avaneb veel üks alammenüü, kus saate nooleklahvidega △ ▽ ◁ ▷ valida menüüpunktide `Kaal`, `Temperatuur`, `Hinnang` ja `Suremus` vahel. Valige &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Kaal" />&nbsp; `Kaal` ja kinnitage valikuga `OK`.
+2. Avaneb veel üks alammenüü, kus saate nooleklahvidega △ ▽ ◁ ▷ valida menüüpunktide `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}` vahel. Valige &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Kaal" />&nbsp; `{{<T "Weight" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Nüüd ilmuvad kaalu jaotise hindamisvalikud. Valige hindamisvalik &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Tänane kaalumine" />&nbsp; `Tänane kaalumine` ja kinnitage valikuga `OK`. Seade hakkab nüüd edukuse muutujaid arvutama.
+3. Nüüd ilmuvad kaalu jaotise hindamisvalikud. Valige hindamisvalik &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Tänane kaalumine" />&nbsp; `{{<T "WeighingToday" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`. Seade hakkab nüüd edukuse muutujaid arvutama.
 
 4. Kui arvutus on lõppenud, saate vaadata eelpool mainitud edukuse muutujaid. Kasutage nooleklahve △ ▽, et liikuda kuvatud menüüs.
 
@@ -56,11 +56,11 @@ Selles hindamises saate vaadata järgmist teavet:
 
 Hindamise teostamiseks toimige järgmiselt:
 
-1. Seadme põhiekraanil tõstke esile ikoon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hinnake" />&nbsp; `Hinnake`. Kinnitage valikuga `OK`.
+1. Seadme põhiekraanil tõstke esile ikoon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hinnake" />&nbsp; `{{<T "Evaluation" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-2. Avaneb veel üks alammenüü, kus saate nooleklahvidega △ ▽ ◁ ▷ valida menüüpunktide `Kaal`, `Temperatuur`, `Hinnang` ja `Suremus` vahel. Valige &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Kaal" />&nbsp; `Kaal` ja kinnitage valikuga `OK`.
+2. Avaneb veel üks alammenüü, kus saate nooleklahvidega △ ▽ ◁ ▷ valida menüüpunktide `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}` vahel. Valige &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Kaal" />&nbsp; `{{<T "Weight" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Nüüd ilmuvad kaalu jaotise hindamisvalikud. Valige &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Sünnikaalud" />&nbsp; `Sünnikaalud` ja kinnitage valikuga `OK`. Seade hakkab nüüd edukuse muutujaid arvutama.
+3. Nüüd ilmuvad kaalu jaotise hindamisvalikud. Valige &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Sünnikaalud" />&nbsp; `{{<T "BirthWeights" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`. Seade hakkab nüüd edukuse muutujaid arvutama.
 
 4. Kui arvutus on lõppenud, saate vaadata eelpool mainitud edukuse muutujaid. Kasutage nooleklahve △ ▽, et liikuda kuvatud menüüs.
 
@@ -76,11 +76,11 @@ Selles hindamises näete järgmist teavet kõigi kaalumiste kohta:
 
 Hindamise teostamiseks toimige järgmiselt:
 
-1. Seadme põhiekraanil tõstke esile ikoon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hinda" />&nbsp; `Hinda`. Kinnitage `OK`.
+1. Seadme põhiekraanil tõstke esile ikoon &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Hinda" />&nbsp; `{{<T "Evaluation" >}}`. Kinnitage `{{<T "Ok" >}}`.
 
-2. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ ◁ ▷ abil valida menüüpunktide `Kaal`, `Temperatuur`, `Hinnang` ja `Suremus` vahel. Valige &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Kaal" />&nbsp; `Kaal` ja kinnitage `OK`.
+2. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ ◁ ▷ abil valida menüüpunktide `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}` vahel. Valige &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Kaal" />&nbsp; `{{<T "Weight" >}}` ja kinnitage `{{<T "Ok" >}}`.
 
-3. Nüüd ilmuvad kaalu jaotise hindamisvalikud. Valige &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Kaalu areng" />&nbsp; `Kaalu areng` ja kinnitage `OK`. Seade hakkab nüüd edukuse näitajaid arvutama.
+3. Nüüd ilmuvad kaalu jaotise hindamisvalikud. Valige &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Kaalu areng" />&nbsp; `{{<T "WeightDevelopment" >}}` ja kinnitage `{{<T "Ok" >}}`. Seade hakkab nüüd edukuse näitajaid arvutama.
 
 4. Kui arvutus on lõpetatud, saate ülalmainitud edukuse näitajaid vaadata. Kasutage kuvatud menüüs navigeerimiseks nooleklahve △ ▽.
 

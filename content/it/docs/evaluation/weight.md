@@ -40,11 +40,11 @@ In questa valutazione puoi vedere le seguenti informazioni relative alle pesatur
 
 Per eseguire la valutazione, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo evidenzia l'icona &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Valuta`. Conferma con `OK`.
+1. Nella schermata principale del tuo dispositivo evidenzia l'icona &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-2. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ ◁ ▷ per scegliere tra le voci di menu `Peso`, `Temperatura`, `Valutazione` e `Mortalità`. Seleziona &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Peso` e conferma con `OK`.
+2. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ ◁ ▷ per scegliere tra le voci di menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` e `{{<T "Mortality" >}}`. Seleziona &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` e conferma con `{{<T "Ok" >}}`.
 
-3. Ora appaiono le opzioni di valutazione per la sezione Peso. Seleziona l'opzione di valutazione &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Pesata di oggi` e conferma con `OK`. Il dispositivo inizia ora a calcolare le variabili di successo.
+3. Ora appaiono le opzioni di valutazione per la sezione Peso. Seleziona l'opzione di valutazione &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `{{<T "WeighingToday" >}}` e conferma con `{{<T "Ok" >}}`. Il dispositivo inizia ora a calcolare le variabili di successo.
 
 4. Quando il calcolo è completato, puoi visualizzare le variabili di successo sopra menzionate. Usa i tasti freccia △ ▽ per navigare nel menu visualizzato.
 
@@ -57,11 +57,11 @@ In questa valutazione puoi visualizzare le seguenti informazioni:
 
 Per eseguire la valutazione, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo evidenzia l'icona &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Valuta`. Conferma con `OK`.
+1. Nella schermata principale del tuo dispositivo evidenzia l'icona &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-2. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ ◁ ▷ per scegliere tra le voci di menu `Peso`, `Temperatura`, `Valutazione` e `Mortalità`. Seleziona &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Peso` e conferma con `OK`.
+2. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ ◁ ▷ per scegliere tra le voci di menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` e `{{<T "Mortality" >}}`. Seleziona &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` e conferma con `{{<T "Ok" >}}`.
 
-3. Ora appaiono le opzioni di valutazione per la sezione peso. Seleziona &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Pesi alla nascita` e conferma con `OK`. Il dispositivo inizia ora a calcolare le variabili di successo.
+3. Ora appaiono le opzioni di valutazione per la sezione peso. Seleziona &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `{{<T "BirthWeights" >}}` e conferma con `{{<T "Ok" >}}`. Il dispositivo inizia ora a calcolare le variabili di successo.
 
 4. Quando il calcolo è completato, puoi visualizzare le variabili di successo sopra menzionate. Usa i tasti freccia △ ▽ per navigare nel menu visualizzato.
 
@@ -78,11 +78,11 @@ In questa valutazione puoi vedere le seguenti informazioni relative a tutte le p
 
 Per eseguire la valutazione, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo evidenzia l'icona &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Valuta`. Conferma con `OK`.
+1. Nella schermata principale del tuo dispositivo evidenzia l'icona &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Evaluation" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-2. Si apre un altro sottomenu in cui puoi utilizzare i tasti freccia △ ▽ ◁ ▷ per scegliere tra le voci di menu `Peso`, `Temperatura`, `Valutazione` e `Mortalità`. Seleziona &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Peso` e conferma con `OK`.
+2. Si apre un altro sottomenu in cui puoi utilizzare i tasti freccia △ ▽ ◁ ▷ per scegliere tra le voci di menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` e `{{<T "Mortality" >}}`. Seleziona &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` e conferma con `{{<T "Ok" >}}`.
 
-3. Ora appaiono le opzioni di valutazione per la sezione del peso. Seleziona &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Weight development" />&nbsp; `Sviluppo del peso` e conferma con `OK`. Il dispositivo inizia ora a calcolare le variabili di successo.
+3. Ora appaiono le opzioni di valutazione per la sezione del peso. Seleziona &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Weight development" />&nbsp; `{{<T "WeightDevelopment" >}}` e conferma con `{{<T "Ok" >}}`. Il dispositivo inizia ora a calcolare le variabili di successo.
 
 4. Quando il calcolo è completato, puoi visualizzare le variabili di successo sopra menzionate. Usa i tasti freccia △ ▽ per navigare nel menu visualizzato.
 

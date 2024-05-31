@@ -39,11 +39,11 @@ Ebben az értékelésben a következő információkat láthatja az elmúlt 6 ó
 
 Az értékelés elvégzéséhez járjon el az alábbiak szerint:
 
-1. A készülék főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Értékelés`. Erősítse meg az `OK` gombbal.
+1. A készülék főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-2. Egy másik almenü nyílik meg, amelyben a △ ▽ ◁ ▷ nyílgombokkal választhat a `Súly`, `Hőmérséklet`, `Értékelés` és `Halálozás` menüpontok között. Válassza ki a &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Súly` menüpontot, és erősítse meg az `OK` gombbal.
+2. Egy másik almenü nyílik meg, amelyben a △ ▽ ◁ ▷ nyílgombokkal választhat a `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` és `{{<T "Mortality" >}}` menüpontok között. Válassza ki a &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` menüpontot, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Most megjelennek a Súly szekció értékelési lehetőségei. Válassza ki az értékelési lehetőséget &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Mai mérés` és erősítse meg az `OK` gombbal. A készülék most elkezdi kiszámítani a siker változókat.
+3. Most megjelennek a Súly szekció értékelési lehetőségei. Válassza ki az értékelési lehetőséget &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `{{<T "WeighingToday" >}}` és erősítse meg az `{{<T "Ok" >}}` gombbal. A készülék most elkezdi kiszámítani a siker változókat.
 
 4. Amikor a számítás befejeződött, megtekintheti a fent említett siker változókat. Használja a △ ▽ nyílgombokat a megjelenített menüben való navigáláshoz.
 
@@ -56,11 +56,11 @@ Ebben az értékelésben a következő információkat tekintheti meg:
 
 Az értékelés elvégzéséhez járjon el az alábbiak szerint:
 
-1. A készülék főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Értékelés`. Erősítse meg az `OK` gombbal.
+1. A készülék főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-2. Egy másik almenü nyílik meg, amelyben a △ ▽ ◁ ▷ nyílgombokkal választhat a `Súly`, `Hőmérséklet`, `Értékelés` és `Halálozás` menüpontok között. Válassza ki a &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Súly` menüpontot, és erősítse meg az `OK` gombbal.
+2. Egy másik almenü nyílik meg, amelyben a △ ▽ ◁ ▷ nyílgombokkal választhat a `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` és `{{<T "Mortality" >}}` menüpontok között. Válassza ki a &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` menüpontot, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Most megjelennek a súly szekció értékelési lehetőségei. Válassza ki a &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Születési súlyok` és erősítse meg az `OK` gombbal. A készülék most elkezdi kiszámítani a siker változókat.
+3. Most megjelennek a súly szekció értékelési lehetőségei. Válassza ki a &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `{{<T "BirthWeights" >}}` és erősítse meg az `{{<T "Ok" >}}` gombbal. A készülék most elkezdi kiszámítani a siker változókat.
 
 4. Amikor a számítás befejeződött, megtekintheti a fent említett siker változókat. Használja a △ ▽ nyílgombokat a megjelenített menüben való navigáláshoz.
 
@@ -77,11 +77,11 @@ Ebben az értékelésben a következő információkat láthatja az összes mér
 
 Az értékelés elvégzéséhez kövesse az alábbi lépéseket:
 
-1. A készülék főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Értékelés" />&nbsp; `Értékelés`. Erősítse meg az `OK` gombbal.
+1. A készülék főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Értékelés" />&nbsp; `{{<T "Rating" >}}`. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-2. Egy másik almenü nyílik meg, amelyben a nyílbillentyűk △ ▽ ◁ ▷ segítségével választhat a `Súly`, `Hőmérséklet`, `Értékelés` és `Halálozás` menüpontok között. Válassza ki &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Súly" />&nbsp; `Súly` és erősítse meg az `OK` gombbal.
+2. Egy másik almenü nyílik meg, amelyben a nyílbillentyűk △ ▽ ◁ ▷ segítségével választhat a `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` és `{{<T "Mortality" >}}` menüpontok között. Válassza ki &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Súly" />&nbsp; `{{<T "Weight" >}}` és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Most megjelennek a súly szekció értékelési lehetőségei. Válassza ki &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Súlyfejlődés" />&nbsp; `Súlyfejlődés` és erősítse meg az `OK` gombbal. A készülék most elkezdi kiszámítani a siker változókat.
+3. Most megjelennek a súly szekció értékelési lehetőségei. Válassza ki &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Súlyfejlődés" />&nbsp; `{{<T "WeightDevelopment" >}}` és erősítse meg az `{{<T "Ok" >}}` gombbal. A készülék most elkezdi kiszámítani a siker változókat.
 
 4. Amikor a számítás befejeződött, megtekintheti a fent említett siker változókat. Használja a nyílbillentyűket △ ▽ a megjelenített menüben való navigáláshoz.
 

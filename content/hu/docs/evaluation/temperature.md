@@ -22,9 +22,9 @@ Ebben az értékelésben a következő információkat láthatja:
 
 Az értékelés elvégzéséhez kövesse az alábbi lépéseket:
 
-1. Az eszköz főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Értékelés" />&nbsp; `Értékelés`. Erősítse meg az `OK` gombbal.
+1. Az eszköz főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Értékelés" />&nbsp; `{{<T "Rating" >}}`. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-2. Egy másik almenü nyílik meg, amelyben a nyílbillentyűk △ ▽ ◁ ▷ segítségével választhat a `Súly`, `Hőmérséklet`, `Értékelés` és `Halálozás` menüpontok között. Válassza ki a &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Hőmérséklet értékelése" />&nbsp; `Hőmérséklet` menüpontot, és erősítse meg az `OK` gombbal.
+2. Egy másik almenü nyílik meg, amelyben a nyílbillentyűk △ ▽ ◁ ▷ segítségével választhat a `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` és `{{<T "Mortality" >}}` menüpontok között. Válassza ki a &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Hőmérséklet értékelése" />&nbsp; `{{<T "Temperature" >}}` menüpontot, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 3. Az eszköz most elkezdi kiszámítani a sikerességi változókat.
 

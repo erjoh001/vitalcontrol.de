@@ -39,11 +39,11 @@ Tässä arvioinnissa näet seuraavat tiedot viimeisen 6 tunnin punnituksista:
 
 Suorittaaksesi arvioinnin, toimi seuraavasti:
 
-1. Laitteesi päävalikossa korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `Arviointi`. Vahvista painamalla `OK`.
+1. Laitteesi päävalikossa korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `{{<T "Evaluation" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-2. Toinen alavalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen välillä `Paino`, `Lämpötila`, `Luokitus` ja `Kuolleisuus`. Valitse &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Paino" />&nbsp; `Paino` ja vahvista painamalla `OK`.
+2. Toinen alavalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen välillä `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}`. Valitse &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Paino" />&nbsp; `{{<T "Weight" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Painon luokitusvaihtoehdot nyt näkyvät. Valitse luokitusvaihtoehto &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Tämän päivän punnitus" />&nbsp; `Tämän päivän punnitus` ja vahvista painamalla `OK`. Laite alkaa nyt laskea menestysmuuttujia.
+3. Painon luokitusvaihtoehdot nyt näkyvät. Valitse luokitusvaihtoehto &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Tämän päivän punnitus" />&nbsp; `{{<T "WeighingToday" >}}` ja vahvista painamalla `{{<T "Ok" >}}`. Laite alkaa nyt laskea menestysmuuttujia.
 
 4. Kun laskenta on valmis, voit tarkastella mainittuja menestysmuuttujia. Käytä nuolinäppäimiä △ ▽ navigoidaksesi näytetyssä valikossa.
 
@@ -56,11 +56,11 @@ Tässä arvioinnissa voit tarkastella seuraavia tietoja:
 
 Suorittaaksesi arvioinnin, toimi seuraavasti:
 
-1. Laitteesi päävalikossa korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `Arviointi`. Vahvista painamalla `OK`.
+1. Laitteesi päävalikossa korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `{{<T "Evaluation" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-2. Toinen alavalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen välillä `Paino`, `Lämpötila`, `Luokitus` ja `Kuolleisuus`. Valitse &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Paino" />&nbsp; `Paino` ja vahvista painamalla `OK`.
+2. Toinen alavalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen välillä `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}`. Valitse &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Paino" />&nbsp; `{{<T "Weight" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Nyt painon luokitusvaihtoehdot näkyvät. Valitse &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Syntymäpainot" />&nbsp; `Syntymäpainot` ja vahvista painamalla `OK`. Laite alkaa nyt laskea menestysmuuttujia.
+3. Nyt painon luokitusvaihtoehdot näkyvät. Valitse &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Syntymäpainot" />&nbsp; `{{<T "BirthWeights" >}}` ja vahvista painamalla `{{<T "Ok" >}}`. Laite alkaa nyt laskea menestysmuuttujia.
 
 4. Kun laskenta on valmis, voit tarkastella mainittuja menestysmuuttujia. Käytä nuolinäppäimiä △ ▽ navigoidaksesi näytetyssä valikossa.
 
@@ -76,11 +76,11 @@ Tässä arvioinnissa näet seuraavat tiedot kaikista punnituksista:
 
 Suorita luokitus seuraavasti:
 
-1. Laitteesi päävalikossa korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `Arviointi`. Vahvista painamalla `OK`.
+1. Laitteesi päävalikossa korosta kuvake &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Arvioi" />&nbsp; `{{<T "Evaluation" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-2. Avautuu toinen alivalikko, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen `Paino`, `Lämpötila`, `luokitus` ja `Kuolleisuus` välillä. Valitse &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Paino" />&nbsp; `Paino` ja vahvista painamalla `OK`.
+2. Avautuu toinen alivalikko, jossa voit käyttää nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi valikkojen `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` ja `{{<T "Mortality" >}}` välillä. Valitse &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Paino" />&nbsp; `{{<T "Weight" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Nyt näkyviin tulevat paino-osion luokitusvaihtoehdot. Valitse &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Painon kehitys" />&nbsp; `Painon kehitys` ja vahvista painamalla `OK`. Laite alkaa nyt laskea menestystekijöitä.
+3. Nyt näkyviin tulevat paino-osion luokitusvaihtoehdot. Valitse &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Painon kehitys" />&nbsp; `{{<T "WeightDevelopment" >}}` ja vahvista painamalla `{{<T "Ok" >}}`. Laite alkaa nyt laskea menestystekijöitä.
 
 4. Kun laskenta on valmis, voit tarkastella yllä mainittuja menestystekijöitä. Käytä nuolinäppäimiä △ ▽ navigoidaksesi näytetyssä valikossa.
 

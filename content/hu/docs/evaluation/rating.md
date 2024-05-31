@@ -22,9 +22,9 @@ Ebben az értékelésben a következő információkat láthatja kördiagramkén
 
 Az értékelés végrehajtásához kövesse az alábbi lépéseket:
 
-1. Az eszköz főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Értékelés" />&nbsp; `Értékelés`. Erősítse meg az `OK` gombbal.
+1. Az eszköz főképernyőjén emelje ki az ikont &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Értékelés" />&nbsp; `{{<T "Rating" >}}`. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-2. Egy másik almenü nyílik meg, amelyben a △ ▽ ◁ ▷ nyílgombokkal választhat a `Súly`, `Hőmérséklet`, `Értékelés` és `Halálozás` menüpontok között. Válassza ki az ikont <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Értékelés" />&nbsp; `Értékelés` és erősítse meg az `OK` gombbal.
+2. Egy másik almenü nyílik meg, amelyben a △ ▽ ◁ ▷ nyílgombokkal választhat a `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` és `{{<T "Mortality" >}}` menüpontok között. Válassza ki az ikont <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Értékelés" />&nbsp; `{{<T "Rating" >}}` és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 3. Az eszköz most elkezdi kiszámítani a siker változókat.
 

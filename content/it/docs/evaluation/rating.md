@@ -22,9 +22,9 @@ In questa valutazione puoi vedere le seguenti informazioni come un grafico a tor
 
 Per eseguire la valutazione, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo evidenzia l'icona &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Valutare" />&nbsp; `Valutare`. Conferma con `OK`.
+1. Nella schermata principale del tuo dispositivo evidenzia l'icona &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Valutare" />&nbsp; `{{<T "Evaluation" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-2. Si apre un altro sottomenu in cui puoi utilizzare i tasti freccia △ ▽ ◁ ▷ per scegliere tra le voci di menu `Peso`, `Temperatura`, `Valutazione` e `Mortalità`. Seleziona l'icona <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Valutazione" />&nbsp; `Valutazione` e conferma con `OK`.
+2. Si apre un altro sottomenu in cui puoi utilizzare i tasti freccia △ ▽ ◁ ▷ per scegliere tra le voci di menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` e `{{<T "Mortality" >}}`. Seleziona l'icona <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Valutazione" />&nbsp; `{{<T "Rating" >}}` e conferma con `{{<T "Ok" >}}`.
 
 3. Il dispositivo ora inizia a calcolare le variabili di successo.
 

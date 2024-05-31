@@ -39,11 +39,11 @@ maphilight: true
 
 За да извършите оценката, процедирайте по следния начин:
 
-1. На главния екран на вашето устройство подчертайте иконата &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Оценка`. Потвърдете с `OK`.
+1. На главния екран на вашето устройство подчертайте иконата &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Потвърдете с `{{<T "Ok" >}}`.
 
-2. Отваря се друго подменю, в което можете да използвате стрелките △ ▽ ◁ ▷ за избор между менюто `Тегло`, `Температура`, `Оценка` и `Смъртност`. Изберете &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Тегло` и потвърдете с `OK`.
+2. Отваря се друго подменю, в което можете да използвате стрелките △ ▽ ◁ ▷ за избор между менюто `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` и `{{<T "Mortality" >}}`. Изберете &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` и потвърдете с `{{<T "Ok" >}}`.
 
-3. Сега се появяват опциите за оценка за секцията Тегло. Изберете опцията за оценка &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `Днешно теглене` и потвърдете с `OK`. Устройството започва да изчислява променливите за успех.
+3. Сега се появяват опциите за оценка за секцията Тегло. Изберете опцията за оценка &nbsp;<img src="/icons/evaluation/weighingtoday.svg" width="50" align="bottom" alt="Today's weighing" />&nbsp; `{{<T "WeighingToday" >}}` и потвърдете с `{{<T "Ok" >}}`. Устройството започва да изчислява променливите за успех.
 
 4. Когато изчислението приключи, можете да видите посочените променливи за успех. Използвайте стрелките △ ▽ за навигация през показаното меню.
 
@@ -56,11 +56,11 @@ maphilight: true
 
 За да извършите оценката, процедирайте по следния начин:
 
-1. На главния екран на вашето устройство подчертайте иконата &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `Оценка`. Потвърдете с `OK`.
+1. На главния екран на вашето устройство подчертайте иконата &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Evaluate" />&nbsp; `{{<T "Rating" >}}`. Потвърдете с `{{<T "Ok" >}}`.
 
-2. Отваря се друго подменю, в което можете да използвате стрелките △ ▽ ◁ ▷ за избор между менюто `Тегло`, `Температура`, `Оценка` и `Смъртност`. Изберете &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `Тегло` и потвърдете с `OK`.
+2. Отваря се друго подменю, в което можете да използвате стрелките △ ▽ ◁ ▷ за избор между менюто `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` и `{{<T "Mortality" >}}`. Изберете &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Weight" />&nbsp; `{{<T "Weight" >}}` и потвърдете с `{{<T "Ok" >}}`.
 
-3. Сега се появяват опциите за оценка за секцията Тегло. Изберете &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `Раждаеми тегла` и потвърдете с `OK`. Устройството започва да изчислява променливите за успех.
+3. Сега се появяват опциите за оценка за секцията Тегло. Изберете &nbsp;<img src="/icons/evaluation/birthweights.svg" width="60" align="bottom" alt="Birth weights" />&nbsp; `{{<T "BirthWeights" >}}` и потвърдете с `{{<T "Ok" >}}`. Устройството започва да изчислява променливите за успех.
 
 4. Когато изчислението приключи, можете да видите посочените променливи за успех. Използвайте стрелките △ ▽ за навигация през показаното меню.
 
@@ -76,11 +76,11 @@ maphilight: true
 
 За да извършите оценката, процедирайте по следния начин:
 
-1. На главния екран на устройството си подчертайте иконата &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Оценка" />&nbsp; `Оценка`. Потвърдете с `OK`.
+1. На главния екран на устройството си подчертайте иконата &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Оценка" />&nbsp; `{{<T "Rating" >}}`. Потвърдете с `{{<T "Ok" >}}`.
 
-2. Отваря се друго подменю, в което можете да използвате стрелките △ ▽ ◁ ▷ за избор между менюто `Тегло`, `Температура`, `Оценка` и `Смъртност`. Изберете &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Тегло" />&nbsp; `Тегло` и потвърдете с `OK`.
+2. Отваря се друго подменю, в което можете да използвате стрелките △ ▽ ◁ ▷ за избор между менюто `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` и `{{<T "Mortality" >}}`. Изберете &nbsp;<img src="/icons/evaluation/weight.svg" width="40" align="bottom" alt="Тегло" />&nbsp; `{{<T "Weight" >}}` и потвърдете с `{{<T "Ok" >}}`.
 
-3. Сега се появяват опциите за оценка на раздела за тегло. Изберете &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Развитие на теглото" />&nbsp; `Развитие на теглото` и потвърдете с `OK`. Устройството започва да изчислява показателите за успех.
+3. Сега се появяват опциите за оценка на раздела за тегло. Изберете &nbsp;<img src="/icons/evaluation/weightdevelopment.svg" width="55" align="bottom" alt="Развитие на теглото" />&nbsp; `{{<T "WeightDevelopment" >}}` и потвърдете с `{{<T "Ok" >}}`. Устройството започва да изчислява показателите за успех.
 
 4. След като изчислението приключи, можете да видите посочените по-горе показатели за успех. Използвайте стрелките △ ▽ за навигация през показаното меню.
 

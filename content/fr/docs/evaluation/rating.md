@@ -22,9 +22,9 @@ Dans cette évaluation, vous pouvez voir les informations suivantes sous forme d
 
 Pour effectuer l'évaluation, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluer" />&nbsp; `Évaluation`. Confirmez avec `OK`.
+1. Sur l'écran principal de votre appareil, mettez en surbrillance l'icône &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Évaluer" />&nbsp; `{{<T "Rating" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `Poids`, `Température`, `Évaluation` et `Taux de perte`. Sélectionnez l'icône <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Notation" />&nbsp; `Évaluation` et confirmez avec `OK`.
+2. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ ◁ ▷ pour choisir entre les éléments de menu `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` et `{{<T "Mortality" >}}`. Sélectionnez l'icône <img src="/icons/evaluation/rating.svg" width="55" align="bottom" alt="Notation" />&nbsp; `{{<T "Rating" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 3. L'appareil commence maintenant à calculer les variables de succès.
 

@@ -22,9 +22,9 @@ translationKey: evaluation/temperature
 
 За да извършите оценката, процедирайте както следва:
 
-1. На главния екран на вашето устройство подчертайте иконата &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Оценка" />&nbsp; `Оценка`. Потвърдете с `OK`.
+1. На главния екран на вашето устройство подчертайте иконата &nbsp;<img src="/icons/main/evaluation.svg" width="50" align="bottom" alt="Оценка" />&nbsp; `{{<T "Rating" >}}`. Потвърдете с `{{<T "Ok" >}}`.
 
-2. Отваря се друго подменю, в което можете да използвате стрелките △ ▽ ◁ ▷ за избор между менюто `Тегло`, `Температура`, `Оценка` и `Смъртност`. Изберете &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Оценка на температурата" />&nbsp; `Температура` и потвърдете с `OK`.
+2. Отваря се друго подменю, в което можете да използвате стрелките △ ▽ ◁ ▷ за избор между менюто `{{<T "Weight" >}}`, `{{<T "Temperature" >}}`, `{{<T "Rating" >}}` и `{{<T "Mortality" >}}`. Изберете &nbsp;<img src="/icons/evaluation/temperature.svg" width="60" align="bottom" alt="Оценка на температурата" />&nbsp; `{{<T "Temperature" >}}` и потвърдете с `{{<T "Ok" >}}`.
 
 3. Устройството сега започва да изчислява показателите за успех.
 
