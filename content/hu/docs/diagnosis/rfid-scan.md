@@ -14,9 +14,9 @@ A 'Hatótávolság teszt' menü használatával meghatározhatja, hogy a VitalCo
 
 ## Hatótávolság teszt végrehajtása {#perform-range-test}
 
-1. Nyissa meg a &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
+1. Nyissa meg a &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `{{<T "Device" >}}` menüpontot a VitalControl eszköz főképernyőjén.
 
-1. Hívja elő a `Szerviz` almenüt, válassza ki a `Hatótávolság teszt` menüpontot, és erősítse meg `OK` gombbal. Most egy animált szkennelési képernyő jelenik meg.
+1. Hívja elő a `{{<T "Service" >}}` almenüt, válassza ki a `{{<T "RangeTest" >}}` menüpontot, és erősítse meg `{{<T "Ok" >}}` gombbal. Most egy animált szkennelési képernyő jelenik meg.
 
     ![VitalControl: Menüútvonal Hatótávolság teszt RFID szkenner](../images/rangetest.png "Hatótávolság teszt RFID szkenner")
 

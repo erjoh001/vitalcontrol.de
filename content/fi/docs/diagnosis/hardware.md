@@ -13,9 +13,9 @@ Jos laitteessasi ilmenee toimintahäiriö, sinun tulisi ensin suorittaa laitteis
 
 ## Tarkista laitteesi laitteisto {#check-the-hardware-of-your-device}
 
-1. Avaa valikkokohta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` VitalControl-laitteesi päävalikosta.
+1. Avaa valikkokohta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `{{<T "Device" >}}` VitalControl-laitteesi päävalikosta.
 
-1. Kutsu alavalikko `Huolto`, valitse valikkokohta `Tarkista laiteajurit` ja vahvista `OK`.
+1. Kutsu alavalikko `{{<T "Service" >}}`, valitse valikkokohta `{{<T "CheckDeviceDrivers" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 Laite listaa nyt kaikki laitteen laitteistokomponentit yhdessä niiden tilan kanssa. Ihanteellisesti kaikkien listattujen komponenttien tulisi näyttää vihreä piste oikealla puolella; tämä merkitsee toimivaa komponenttia. Jos komponentille näytetään punainen piste, tämä osoittaa, että kyseinen komponentti on viallinen. Tässä tapauksessa laite on palautettava valmistajalle huoltoon.
 

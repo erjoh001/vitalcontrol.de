@@ -14,9 +14,9 @@ Menüü 'Ulatuse test' abil saate kindlaks teha, kas VitalControl seade suudab l
 
 ## Ulatuse testi sooritamine {#perform-range-test}
 
-1. Avage peamenüüs &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadmes.
+1. Avage peamenüüs &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `{{<T "Device" >}}` oma VitalControl seadmes.
 
-1. Kutsuge esile alammenüü `Teenindus`, valige menüüpunkt `Ulatuse test` ja kinnitage `OK`. Nüüd kuvatakse animeeritud skaneerimisekraan.
+1. Kutsuge esile alammenüü `{{<T "Service" >}}`, valige menüüpunkt `{{<T "RangeTest" >}}` ja kinnitage `{{<T "Ok" >}}`. Nüüd kuvatakse animeeritud skaneerimisekraan.
 
     ![VitalControl: Menüütee ulatuse test RFID skanner](../images/rangetest.png "RFID skanneri ulatuse test")
 

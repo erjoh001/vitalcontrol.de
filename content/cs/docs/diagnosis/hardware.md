@@ -13,9 +13,9 @@ Pokud dojde k poruše vašeho zařízení, měli byste nejprve provést kontrolu
 
 ## Zkontrolujte hardware vašeho zařízení {#check-the-hardware-of-your-device}
 
-1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
+1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `{{<T "Device" >}}` na hlavní obrazovce vašeho zařízení VitalControl.
 
-1. Vyvolejte podmenu `Servis`, vyberte položku menu `Zkontrolovat ovladače zařízení` a potvrďte `OK`.
+1. Vyvolejte podmenu `{{<T "Service" >}}`, vyberte položku menu `{{<T "CheckDeviceDrivers" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 Zařízení nyní zobrazí všechny hardwarové komponenty zařízení spolu s jejich stavem. Ideálně by všechny uvedené komponenty měly mít na pravé straně zelenou tečku; to signalizuje funkční komponentu. Pokud je u komponenty zobrazena červená tečka, znamená to, že odpovídající komponenta je vadná. V tomto případě musí být zařízení vráceno výrobci k servisu.
 

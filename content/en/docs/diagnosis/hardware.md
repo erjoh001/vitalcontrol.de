@@ -13,9 +13,9 @@ If there is a malfunction on your device, you should first perform a hardware ch
 
 ## Check the hardware of your device {#check-the-hardware-of-your-device}
 
-1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `Device` in the main screen of your VitalControl device.
+1. Open the menu item &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `{{<T "Device" >}}` in the main screen of your VitalControl device.
 
-1. Invoke the submenu `Service`, select the menu item `Check device drivers` and confirm with `OK`.
+1. Invoke the submenu `{{<T "Service" >}}`, select the menu item `{{<T "CheckDeviceDrivers" >}}` and confirm with `{{<T "Ok" >}}`.
 
 The device now lists all hardware components of the device, together with their status. Ideally, all components listed should show a green dot on the far right; this signals a functioning component. If a red dot is shown for a component, this indicates that the corresponding component is defective. In this case, the device must be returned to the manufacturer for service.
 

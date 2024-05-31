@@ -14,9 +14,9 @@ En utilisant le menu 'Test de portée', vous pouvez déterminer si l'appareil Vi
 
 ## Effectuer un test de portée {#perform-range-test}
 
-1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
+1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `{{<T "Device" >}}` dans l'écran principal de votre appareil VitalControl.
 
-1. Invoquez le sous-menu `Service`, sélectionnez l'élément de menu `Test de portée` et confirmez avec `OK`. Un écran de scan animé est maintenant affiché.
+1. Invoquez le sous-menu `{{<T "Service" >}}`, sélectionnez l'élément de menu `{{<T "RangeTest" >}}` et confirmez avec `{{<T "Ok" >}}`. Un écran de scan animé est maintenant affiché.
 
     ![VitalControl : Chemin du menu Test de portée du scanner RFID](../images/rangetest.png "Test de portée du scanner RFID")
 

@@ -13,9 +13,9 @@ Kui teie seadmel esineb rike, peaksite esmalt tegema riistvarakontrolli, et selg
 
 ## Kontrollige oma seadme riistvara {#check-the-hardware-of-your-device}
 
-1. Avage menüüpunkt &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadme põhiekraanil.
+1. Avage menüüpunkt &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Seade" /> `{{<T "Device" >}}` oma VitalControl seadme põhiekraanil.
 
-1. Kutsuge esile alammenüü `Teenindus`, valige menüüpunkt `Kontrolli seadme draivereid` ja kinnitage `OK`.
+1. Kutsuge esile alammenüü `{{<T "Service" >}}`, valige menüüpunkt `{{<T "CheckDeviceDrivers" >}}` ja kinnitage `{{<T "Ok" >}}`.
 
 Seade loetleb nüüd kõik seadme riistvarakomponendid koos nende olekuga. Ideaalis peaks kõik loetletud komponendid näitama paremal pool rohelist täppi; see näitab toimivat komponenti. Kui komponendil kuvatakse punane täpp, näitab see, et vastav komponent on defektne. Sellisel juhul tuleb seade tagastada tootjale hoolduseks.
 

@@ -14,9 +14,9 @@ Utilizzando il menu 'Test di portata' è possibile determinare se il dispositivo
 
 ## Eseguire il test di portata {#perform-range-test}
 
-1. Apri l'elemento del menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` nella schermata principale del tuo dispositivo VitalControl.
+1. Apri l'elemento del menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `{{<T "Device" >}}` nella schermata principale del tuo dispositivo VitalControl.
 
-1. Richiama il sottomenu `Servizio`, seleziona l'elemento del menu `Test di portata` e conferma con `OK`. Ora viene visualizzata una schermata di scansione animata.
+1. Richiama il sottomenu `{{<T "Service" >}}`, seleziona l'elemento del menu `{{<T "RangeTest" >}}` e conferma con `{{<T "Ok" >}}`. Ora viene visualizzata una schermata di scansione animata.
 
     ![VitalControl: Percorso del menu Test di portata scanner RFID](../images/rangetest.png "Test di portata scanner RFID")
 

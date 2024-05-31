@@ -13,9 +13,9 @@ Si votre appareil présente un dysfonctionnement, vous devriez d'abord effectuer
 
 ## Vérifiez le matériel de votre appareil {#check-the-hardware-of-your-device}
 
-1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
+1. Ouvrez l'élément de menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Appareil" /> `{{<T "Device" >}}` dans l'écran principal de votre appareil VitalControl.
 
-1. Invoquez le sous-menu `Service`, sélectionnez l'élément de menu `Vérifier les pilotes de l'appareil` et confirmez avec `OK`.
+1. Invoquez le sous-menu `{{<T "Service" >}}`, sélectionnez l'élément de menu `{{<T "CheckDeviceDrivers" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 L'appareil liste maintenant tous les composants matériels de l'appareil, accompagnés de leur statut. Idéalement, tous les composants listés devraient afficher un point vert à l'extrême droite ; cela signale un composant fonctionnel. Si un point rouge est affiché pour un composant, cela indique que le composant correspondant est défectueux. Dans ce cas, l'appareil doit être renvoyé au fabricant pour service.
 

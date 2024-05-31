@@ -14,9 +14,9 @@ Käyttämällä valikkoa 'Aluetesti' voit määrittää, pystyykö VitalControl-
 
 ## Suorita Aluetesti {#perform-range-test}
 
-1. Avaa päävalikosta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `Laite` -valikkokohta VitalControl-laitteellasi.
+1. Avaa päävalikosta &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Laite" /> `{{<T "Device" >}}` -valikkokohta VitalControl-laitteellasi.
 
-1. Kutsu alavalikko `Huolto`, valitse valikkokohta `Aluetesti` ja vahvista `OK`. Nyt näytölle ilmestyy animoitu skannausrunko.
+1. Kutsu alavalikko `{{<T "Service" >}}`, valitse valikkokohta `{{<T "RangeTest" >}}` ja vahvista `{{<T "Ok" >}}`. Nyt näytölle ilmestyy animoitu skannausrunko.
 
     ![VitalControl: Valikkopolku Aluetesti RFID-skannerille](../images/rangetest.png "Aluetesti RFID-skannerille")
 

@@ -13,9 +13,9 @@ Ha a készülékén meghibásodás lép fel, először végezzen hardverellenőr
 
 ## Ellenőrizze a készülék hardverét {#check-the-hardware-of-your-device}
 
-1. Nyissa meg a főképernyőn a &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Készülék" /> `Készülék` menüpontot a VitalControl készülékén.
+1. Nyissa meg a főképernyőn a &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Készülék" /> `{{<T "Device" >}}` menüpontot a VitalControl készülékén.
 
-1. Hívja elő a `Szerviz` almenüt, válassza ki a `Készülékmeghajtók ellenőrzése` menüpontot, és erősítse meg `OK`-val.
+1. Hívja elő a `{{<T "Service" >}}` almenüt, válassza ki a `{{<T "CheckDeviceDrivers" >}}` menüpontot, és erősítse meg `{{<T "Ok" >}}`-val.
 
 A készülék most felsorolja az összes hardverkomponenst és azok állapotát. Ideális esetben az összes felsorolt komponens mellett egy zöld pontnak kell megjelennie a jobb oldalon; ez jelzi a működő komponenst. Ha egy komponens mellett piros pont jelenik meg, az azt jelzi, hogy az adott komponens hibás. Ebben az esetben a készüléket vissza kell küldeni a gyártónak szervizelésre.
 

@@ -14,9 +14,9 @@ Pomocí menu 'Test dosahu' můžete zjistit, zda zařízení VitalControl doká�
 
 ## Proveďte test dosahu {#perform-range-test}
 
-1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
+1. Otevřete položku menu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Zařízení" /> `{{<T "Device" >}}` na hlavní obrazovce vašeho zařízení VitalControl.
 
-1. Vyvolejte podmenu `Servis`, vyberte položku menu `Test dosahu` a potvrďte `OK`. Nyní se zobrazí animovaná obrazovka skenování.
+1. Vyvolejte podmenu `{{<T "Service" >}}`, vyberte položku menu `{{<T "RangeTest" >}}` a potvrďte `{{<T "Ok" >}}`. Nyní se zobrazí animovaná obrazovka skenování.
 
     ![VitalControl: Cesta menu Test dosahu RFID skeneru](../images/rangetest.png "Test dosahu RFID skeneru")
 

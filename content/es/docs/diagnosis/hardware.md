@@ -13,9 +13,9 @@ Si hay un mal funcionamiento en tu dispositivo, primero deberías realizar una c
 
 ## Comprueba el hardware de tu dispositivo {#check-the-hardware-of-your-device}
 
-1. Abre el ítem del menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de tu dispositivo VitalControl.
+1. Abre el ítem del menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `{{<T "Device" >}}` en la pantalla principal de tu dispositivo VitalControl.
 
-1. Invoca el submenú `Servicio`, selecciona el ítem del menú `Verificar controladores del dispositivo` y confirma con `OK`.
+1. Invoca el submenú `{{<T "Service" >}}`, selecciona el ítem del menú `{{<T "CheckDeviceDrivers" >}}` y confirma con `{{<T "Ok" >}}`.
 
 El dispositivo ahora lista todos los componentes de hardware del dispositivo, junto con su estado. Idealmente, todos los componentes listados deberían mostrar un punto verde en el extremo derecho; esto señala un componente funcionando correctamente. Si se muestra un punto rojo para un componente, esto indica que el componente correspondiente está defectuoso. En este caso, el dispositivo debe ser devuelto al fabricante para servicio.
 

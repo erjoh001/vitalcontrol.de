@@ -14,9 +14,9 @@ Utilizando el menú 'Prueba de alcance', puedes determinar si el dispositivo Vit
 
 ## Realizar prueba de alcance {#perform-range-test}
 
-1. Abre el elemento del menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de tu dispositivo VitalControl.
+1. Abre el elemento del menú &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Dispositivo" /> `{{<T "Device" >}}` en la pantalla principal de tu dispositivo VitalControl.
 
-1. Invoca el submenú `Servicio`, selecciona el elemento del menú `Prueba de alcance` y confirma con `OK`. Ahora se muestra una pantalla de escaneo animada.
+1. Invoca el submenú `{{<T "Service" >}}`, selecciona el elemento del menú `{{<T "RangeTest" >}}` y confirma con `{{<T "Ok" >}}`. Ahora se muestra una pantalla de escaneo animada.
 
     ![VitalControl: Camino del menú Prueba de alcance escáner RFID](../images/rangetest.png "Prueba de alcance escáner RFID")
 
