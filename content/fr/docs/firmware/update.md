@@ -34,13 +34,13 @@ La sauvegarde des données est une mesure de précaution recommandée. Toutes le
 
 ## Effectuer la mise à jour du micrologiciel {#perform-firmware-update}
 
-1. Ouvrez l'élément de menu `Appareil` sur l'écran principal de votre appareil VitalControl.
+1. Ouvrez l'élément de menu `{{<T "Device" >}}` sur l'écran principal de votre appareil VitalControl.
 
-1. Accédez au sous-menu `Service`, sélectionnez l'option `Mise à jour du micrologiciel` et validez avec `OK`. Vous serez alors invité à insérer la clé USB que vous avez préalablement préparée :
+1. Accédez au sous-menu `{{<T "Service" >}}`, sélectionnez l'option `{{<T "FirmwareUpdate" >}}` et validez avec `{{<T "Ok" >}}`. Vous serez alors invité à insérer la clé USB que vous avez préalablement préparée :
 
     ![VitalControl: chemin du menu mise à jour du micrologiciel](../images/firmware-update.png "Mise à jour du micrologiciel")
 
-1. Insérez la clé USB (connecteur C) dans le port situé en bas de l'appareil et confirmez avec `OK`.
+1. Insérez la clé USB (connecteur C) dans le port situé en bas de l'appareil et confirmez avec `{{<T "Ok" >}}`.
 
     ![VitalControl: Insérer la clé USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insérer la clé USB")
 

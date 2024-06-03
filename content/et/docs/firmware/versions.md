@@ -10,9 +10,9 @@ description: >
 
 ## Määra oma seadme paigaldatud püsivara versioonid {#determine-firmware-versions-installed-on-your-device}
 
-1. Ava menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Seade" /> `Seade` oma VitalControl seadme põhiekraanil.
+1. Ava menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Seade" /> `{{<T "Device" >}}` oma VitalControl seadme põhiekraanil.
 
-2. Kutsu esile alammenüü `Info`, vali menüüpunkt `Tarkvara` ja kinnita `OK`. Avaneb hüpikaken, mis loetleb hetkel seadmesse paigaldatud tarkvaraversioonid:
+2. Kutsu esile alammenüü `{{<T "Info" >}}`, vali menüüpunkt `{{<T "Software" >}}` ja kinnita `{{<T "Ok" >}}`. Avaneb hüpikaken, mis loetleb hetkel seadmesse paigaldatud tarkvaraversioonid:
 
 ![VitalControl: määra püsivara versioonid](../images/firmware-versions.png "Kuva püsivara versioonid")
 

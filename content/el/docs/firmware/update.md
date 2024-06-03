@@ -33,13 +33,13 @@ description: >
 
 ## Εκτελέστε την ενημέρωση firmware {#perform-firmware-update}
 
-1. Ανοίξτε το στοιχείο μενού `Συσκευή` στην κύρια οθόνη της συσκευής σας VitalControl.
+1. Ανοίξτε το στοιχείο μενού `{{<T "Device" >}}` στην κύρια οθόνη της συσκευής σας VitalControl.
 
-1. Καλέστε το υπομενού `Υπηρεσία`, επιλέξτε το στοιχείο μενού `Ενημέρωση Firmware` και επιβεβαιώστε με `OK`. Τώρα θα σας ζητηθεί να εισάγετε το USB flash drive που έχετε ήδη προετοιμάσει:
+1. Καλέστε το υπομενού `{{<T "Service" >}}`, επιλέξτε το στοιχείο μενού `{{<T "FirmwareUpdate" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`. Τώρα θα σας ζητηθεί να εισάγετε το USB flash drive που έχετε ήδη προετοιμάσει:
 
 ![VitalControl: menu path firmware update](../images/firmware-update.png "Firmware update")
 
-1. Εισάγετε το USB flash drive (C plug) στην υποδοχή στο κάτω μέρος της συσκευής και επιβεβαιώστε με `OK`.
+1. Εισάγετε το USB flash drive (C plug) στην υποδοχή στο κάτω μέρος της συσκευής και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
     ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
 

@@ -10,9 +10,9 @@ description: >
 
 ## Zjištění verzí firmwaru nainstalovaných na vašem zařízení {#determine-firmware-versions-installed-on-your-device}
 
-1. Otevřete položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
+1. Otevřete položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `{{<T "Device" >}}` na hlavní obrazovce vašeho zařízení VitalControl.
 
-2. Vyvolejte podmenu `Info`, vyberte položku menu `Software` a potvrďte stisknutím `OK`. Otevře se vyskakovací okno, které zobrazí aktuálně nainstalované verze softwaru na vašem zařízení:
+2. Vyvolejte podmenu `{{<T "Info" >}}`, vyberte položku menu `{{<T "Software" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. Otevře se vyskakovací okno, které zobrazí aktuálně nainstalované verze softwaru na vašem zařízení:
 
 ![VitalControl: zjištění verzí firmwaru](../images/firmware-versions.png "Zobrazení verzí firmwaru")
 

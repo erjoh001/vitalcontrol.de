@@ -33,13 +33,13 @@ Andmete varukoopia on soovitatav ettevaatusabinõu. Kõik olemasolevad looma- ja
 
 ## Viige läbi püsivara uuendus {#perform-firmware-update}
 
-1. Avage oma VitalControl seadme põhiekraanil menüüpunkt `Seade`.
+1. Avage oma VitalControl seadme põhiekraanil menüüpunkt `{{<T "Device" >}}`.
 
-1. Kutsuge esile alammenüü `Teenindus`, valige menüüpunkt `Püsivara uuendus` ja kinnitage valikuga `OK`. Nüüd palutakse teil sisestada juba ettevalmistatud USB mälupulk:
+1. Kutsuge esile alammenüü `{{<T "Service" >}}`, valige menüüpunkt `{{<T "FirmwareUpdate" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`. Nüüd palutakse teil sisestada juba ettevalmistatud USB mälupulk:
 
 ![VitalControl: menüü tee tarkvarauuenduseni](../images/firmware-update.png "Tarkvarauuendus")
 
-1. Sisesta USB mälupulk (C pistik) seadme alumises otsas olevasse ühenduspesasse ja kinnita valikuga `OK`.
+1. Sisesta USB mälupulk (C pistik) seadme alumises otsas olevasse ühenduspesasse ja kinnita valikuga `{{<T "Ok" >}}`.
 
     ![VitalControl: Sisesta USB mälupulk](/images/firmware/update/plug-in-dual-usb-stick.svg "Sisesta USB mälupulk")
 

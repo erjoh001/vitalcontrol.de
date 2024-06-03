@@ -33,13 +33,13 @@ Záloha dat je doporučené preventivní opatření. Všechna stávající data 
 
 ## Provedení aktualizace firmwaru {#perform-firmware-update}
 
-1. Otevřete položku menu `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
+1. Otevřete položku menu `{{<T "Device" >}}` na hlavní obrazovce vašeho zařízení VitalControl.
 
-1. Vyvolejte podmenu `Servis`, vyberte položku menu `Aktualizace firmwaru` a potvrďte stisknutím `OK`. Nyní budete vyzváni k vložení již připraveného USB flash disku:
+1. Vyvolejte podmenu `{{<T "Service" >}}`, vyberte položku menu `{{<T "FirmwareUpdate" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. Nyní budete vyzváni k vložení již připraveného USB flash disku:
 
 ![VitalControl: menu path firmware update](../images/firmware-update.png "Aktualizace firmwaru")
 
-1. Vložte USB flash disk (konektor C) do konektoru na spodní straně zařízení a potvrďte stisknutím `OK`.
+1. Vložte USB flash disk (konektor C) do konektoru na spodní straně zařízení a potvrďte stisknutím `{{<T "Ok" >}}`.
 
     ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Vložte USB flash disk")
 

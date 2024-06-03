@@ -10,9 +10,9 @@ description: >
 
 ## Telepített firmware verziók meghatározása az eszközön {#determine-firmware-versions-installed-on-your-device}
 
-1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
+1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` menüpontot a VitalControl eszköz főképernyőjén.
 
-2. Hívja elő az `Info` almenüt, válassza ki a `Szoftver` menüpontot, és erősítse meg az `OK` gombbal. Egy felugró ablak jelenik meg, amely felsorolja az eszközön jelenleg telepített szoftver verziókat:
+2. Hívja elő az `{{<T "Info" >}}` almenüt, válassza ki a `{{<T "Software" >}}` menüpontot, és erősítse meg az `{{<T "Ok" >}}` gombbal. Egy felugró ablak jelenik meg, amely felsorolja az eszközön jelenleg telepített szoftver verziókat:
 
 ![VitalControl: firmware verziók meghatározása](../images/firmware-versions.png "Firmware verziók megjelenítése")
 

@@ -33,13 +33,13 @@ Az adatmentés egy ajánlott óvintézkedés. Az összes meglévő állat- és e
 
 ## Firmware frissítés végrehajtása {#perform-firmware-update}
 
-1. Nyissa meg a `Device` menüpontot a VitalControl eszköz főképernyőjén.
+1. Nyissa meg a `{{<T "Device" >}}` menüpontot a VitalControl eszköz főképernyőjén.
 
-1. Hívja elő a `Service` almenüt, válassza ki a `Firmware update` menüpontot, és erősítse meg `OK` gombbal. Most kérni fogja, hogy helyezze be az előkészített USB flash meghajtót:
+1. Hívja elő a `{{<T "Service" >}}` almenüt, válassza ki a `{{<T "FirmwareUpdate" >}}` menüpontot, és erősítse meg `{{<T "Ok" >}}` gombbal. Most kérni fogja, hogy helyezze be az előkészített USB flash meghajtót:
 
 ![VitalControl: menu path firmware update](../images/firmware-update.png "Firmware update")
 
-1. Helyezze be az USB flash meghajtót (C csatlakozó) a készülék alján található csatlakozóba, és erősítse meg az `OK` gombbal.
+1. Helyezze be az USB flash meghajtót (C csatlakozó) a készülék alján található csatlakozóba, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
     ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
 

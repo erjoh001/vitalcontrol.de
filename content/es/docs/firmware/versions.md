@@ -10,9 +10,9 @@ description: >
 
 ## Determinar las versiones de firmware instaladas en su dispositivo {#determine-firmware-versions-installed-on-your-device}
 
-1. Abra el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
+1. Abra el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" /> `{{<T "Device" >}}` en la pantalla principal de su dispositivo VitalControl.
 
-2. Invoque el submenú `Info`, seleccione el elemento del menú `Software` y confirme con `OK`. Se abrirá una ventana emergente que lista las versiones de software actualmente instaladas en su dispositivo:
+2. Invoque el submenú `{{<T "Info" >}}`, seleccione el elemento del menú `{{<T "Software" >}}` y confirme con `{{<T "Ok" >}}`. Se abrirá una ventana emergente que lista las versiones de software actualmente instaladas en su dispositivo:
 
 ![VitalControl: determinar versiones de firmware](../images/firmware-versions.png "Mostrar versiones de firmware")
 

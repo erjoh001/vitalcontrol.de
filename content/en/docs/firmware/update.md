@@ -33,13 +33,13 @@ The data backup is a recommended precautionary measure. All existing animal and 
 
 ## Perform firmware update {#perform-firmware-update}
 
-1. Open the menu item `Device` in the main screen of your VitalControl device.
+1. Open the menu item `{{<T "Device" >}}` in the main screen of your VitalControl device.
 
-1. Invoke the submenu `Service`, select the menu item `Firmware update` and confirm with `OK`. You are now asked to insert the USB flash drive you prepared already:
+1. Invoke the submenu `{{<T "Service" >}}`, select the menu item `{{<T "FirmwareUpdate" >}}` and confirm with `{{<T "Ok" >}}`. You are now asked to insert the USB flash drive you prepared already:
 
     ![VitalControl: menu path firmware update](../images/firmware-update.png "Firmware update")
 
-1. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `OK`.
+1. Insert the USB flash drive (C plug) into the connector at the bottom of the device and confirm with `{{<T "Ok" >}}`.
 
     ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
 

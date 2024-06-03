@@ -33,13 +33,13 @@ La copia de seguridad de datos es una medida de precaución recomendada. Todos l
 
 ## Realizar la actualización de firmware {#perform-firmware-update}
 
-1. Abra el elemento del menú `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
+1. Abra el elemento del menú `{{<T "Device" >}}` en la pantalla principal de su dispositivo VitalControl.
 
-1. Invoque el submenú `Servicio`, seleccione el elemento del menú `Actualización de firmware` y confirme con `OK`. Ahora se le pedirá que inserte la memoria USB que ya preparó:
+1. Invoque el submenú `{{<T "Service" >}}`, seleccione el elemento del menú `{{<T "FirmwareUpdate" >}}` y confirme con `{{<T "Ok" >}}`. Ahora se le pedirá que inserte la memoria USB que ya preparó:
 
 ![VitalControl: ruta del menú para actualización de firmware](../images/firmware-update.png "Actualización de firmware")
 
-1. Inserte la memoria USB (conector tipo C) en el conector en la parte inferior del dispositivo y confirme con `OK`.
+1. Inserte la memoria USB (conector tipo C) en el conector en la parte inferior del dispositivo y confirme con `{{<T "Ok" >}}`.
 
     ![VitalControl: Insertar memoria USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insertar memoria USB")
 

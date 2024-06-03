@@ -33,13 +33,13 @@ Tietovarmuuskopio on suositeltava varotoimenpide. Kaikki olemassa olevat eläin-
 
 ## Suorita laiteohjelmiston päivitys {#perform-firmware-update}
 
-1. Avaa päävalikosta `Laite`-valikkokohta VitalControl-laitteessasi.
+1. Avaa päävalikosta `{{<T "Device" >}}`-valikkokohta VitalControl-laitteessasi.
 
-1. Kutsu alavalikko `Huolto`, valitse valikkokohta `Laiteohjelmiston päivitys` ja vahvista `OK`. Sinua pyydetään nyt asettamaan valmistelemaasi USB-muistitikkua:
+1. Kutsu alavalikko `{{<T "Service" >}}`, valitse valikkokohta `{{<T "FirmwareUpdate" >}}` ja vahvista `{{<T "Ok" >}}`. Sinua pyydetään nyt asettamaan valmistelemaasi USB-muistitikkua:
 
 ![VitalControl: menu path firmware update](../images/firmware-update.png "Firmware update")
 
-1. Aseta USB-muistitikku (C-liitin) laitteen alaosassa olevaan liittimeen ja vahvista `OK`.
+1. Aseta USB-muistitikku (C-liitin) laitteen alaosassa olevaan liittimeen ja vahvista `{{<T "Ok" >}}`.
 
     ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
 

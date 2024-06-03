@@ -33,13 +33,13 @@ Il backup dei dati è una misura precauzionale raccomandata. Tutti i dati degli 
 
 ## Eseguire l'aggiornamento del firmware {#perform-firmware-update}
 
-1. Apri la voce di menu `Dispositivo` nella schermata principale del tuo dispositivo VitalControl.
+1. Apri la voce di menu `{{<T "Device" >}}` nella schermata principale del tuo dispositivo VitalControl.
 
-1. Richiama il sottomenu `Servizio`, seleziona la voce di menu `Aggiornamento firmware` e conferma con `OK`. Ora ti verrà chiesto di inserire la chiavetta USB che hai già preparato:
+1. Richiama il sottomenu `{{<T "Service" >}}`, seleziona la voce di menu `{{<T "FirmwareUpdate" >}}` e conferma con `{{<T "Ok" >}}`. Ora ti verrà chiesto di inserire la chiavetta USB che hai già preparato:
 
 ![VitalControl: menu path firmware update](../images/firmware-update.png "Aggiornamento firmware")
 
-1. Inserire l'unità flash USB (connettore C) nel connettore situato nella parte inferiore del dispositivo e confermare con `OK`.
+1. Inserire l'unità flash USB (connettore C) nel connettore situato nella parte inferiore del dispositivo e confermare con `{{<T "Ok" >}}`.
 
     ![VitalControl: Insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Inserire l'unità flash USB")
 

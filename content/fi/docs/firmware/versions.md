@@ -10,9 +10,9 @@ description: >
 
 ## Määritä laitteeseesi asennetut laiteohjelmistoversiot {#determine-firmware-versions-installed-on-your-device}
 
-1. Avaa valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `Laite` VitalControl-laitteesi päävalikosta.
+1. Avaa valikkokohta <img src="/icons/device.svg" width="25" align="bottom" alt="Laite" /> `{{<T "Device" >}}` VitalControl-laitteesi päävalikosta.
 
-2. Käynnistä alavalikko `Info`, valitse valikkokohta `Ohjelma` ja vahvista `OK`. Avautuu ponnahdusikkuna, joka näyttää laitteeseesi asennetut ohjelmistoversiot:
+2. Käynnistä alavalikko `{{<T "Info" >}}`, valitse valikkokohta `{{<T "Software" >}}` ja vahvista `{{<T "Ok" >}}`. Avautuu ponnahdusikkuna, joka näyttää laitteeseesi asennetut ohjelmistoversiot:
 
 ![VitalControl: määritä laiteohjelmistoversiot](../images/firmware-versions.png "Näytä laiteohjelmistoversiot")
 
