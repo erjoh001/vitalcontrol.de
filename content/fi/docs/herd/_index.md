@@ -25,7 +25,7 @@ Lauma-valikossa voit tarkastella koko laumaasi, etsiä yksittäisiä eläimiä j
 
 ### Valmisteluvaiheet {#preparatory-steps}
 
-1. Valitse VitalControl-laitteesi päävalikosta kohta <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Lauma" /> `Karja` ja paina `OK`-nappia.
+1. Valitse VitalControl-laitteesi päävalikosta kohta <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Lauma" /> `{{<T "Herd" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
 2. Laumasi yleiskatsaus avautuu.
 
@@ -35,7 +35,7 @@ Lauma-valikossa voit tarkastella koko laumaasi, etsiä yksittäisiä eläimiä j
 
 1. Suorita valmisteluvaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa tietokategoriat, joita voidaan näyttää laumalistassa. Käytä nuolinäppäimiä △ ▽ korostaaksesi riviä `Eläintiedot: sukupuoli + tyyppi` tai `Eläintiedot: N0 korvamerkki` ja valitse tämä kategoria painamalla keskellä olevaa `OK`-nappia tai `F3`-näppäintä `OK`. Kaksi valintavaihtoehtoa eroavat tietopalkin näytössä.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa tietokategoriat, joita voidaan näyttää laumalistassa. Käytä nuolinäppäimiä △ ▽ korostaaksesi riviä `{{<T "AnimalDataGenderType" >}}` tai `{{<T "AnimalDataEartag" >}}` ja valitse tämä kategoria painamalla keskellä olevaa `{{<T "Ok" >}}`-nappia tai `F3`-näppäintä `{{<T "Ok" >}}`. Kaksi valintavaihtoehtoa eroavat tietopalkin näytössä.
 
 3. Eläintiedot näytetään nyt laumalistasi sisältönä.
 
@@ -51,7 +51,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
 1. Suorita valmisteluvaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa tietokategoriat, jotka voidaan näyttää laumalistassa. Käytä nuolinäppäimiä △ ▽ korostaaksesi rivin `Lämpötila` ja valitse tämä kategoria painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa tietokategoriat, jotka voidaan näyttää laumalistassa. Käytä nuolinäppäimiä △ ▽ korostaaksesi rivin `{{<T "Temperature" >}}` ja valitse tämä kategoria painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
 3. Lämpötilatiedot näytetään nyt laumalistan sisältönä.
 
@@ -63,7 +63,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
 1. Suorita valmisteluvaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa tietokategoriat, jotka voidaan näyttää laumalistassa. Käytä nuolinäppäimiä △ ▽ korostaaksesi rivin `Luokitus` ja valitse tämä kategoria painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa tietokategoriat, jotka voidaan näyttää laumalistassa. Käytä nuolinäppäimiä △ ▽ korostaaksesi rivin `{{<T "Rating" >}}` ja valitse tämä kategoria painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
 3. Arvostelutiedot näytetään nyt laumalistan sisältönä.
 
@@ -75,7 +75,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
 1. Suorita valmisteluvaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa tietokategoriat, jotka voidaan näyttää laumalistassa. Käytä nuolinäppäimiä △ ▽ korostaaksesi rivin `Paino` ja valitse tämä kategoria painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa tietokategoriat, jotka voidaan näyttää laumalistassa. Käytä nuolinäppäimiä △ ▽ korostaaksesi rivin `{{<T "Weight" >}}` ja valitse tämä kategoria painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
 3. Painotiedot näytetään nyt laumalistan sisältönä.
 
@@ -87,9 +87,9 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
 1. Suorita valmisteluvaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa erilaisia vaihtoehtoja. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Etsi eläin` ja kutsu hakutoiminto käyttöön painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`. Vaihtoehtoisesti voit käyttää `On/Off`-näppäintä <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> heti ensimmäisen vaiheen jälkeen.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa erilaisia vaihtoehtoja. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "SearchAnimal" >}}` ja kutsu hakutoiminto käyttöön painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`. Vaihtoehtoisesti voit käyttää `On/Off`-näppäintä <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> heti ensimmäisen vaiheen jälkeen.
 
-3. Käytä nuolinäppäimiä △ ▽ ◁ ▷ syöttääksesi haluamasi eläimen numeron ja vahvista painamalla `OK`.
+3. Käytä nuolinäppäimiä △ ▽ ◁ ▷ syöttääksesi haluamasi eläimen numeron ja vahvista painamalla `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Herd](images/search.png "Etsi eläin")
 
@@ -97,7 +97,7 @@ Oletuksena eläintiedot näytetään ensin. Vain kun olet esimerkiksi näyttäny
 
 1. Suorita valmisteluvaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; kutsuaksesi esiin ponnahdusvalikon, joka listaa eri vaihtoehtoja. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Aseta suodatin` ja kutsu suodatintoiminto esiin painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; kutsuaksesi esiin ponnahdusvalikon, joka listaa eri vaihtoehtoja. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "SetFilter" >}}` ja kutsu suodatintoiminto esiin painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
 3. Tietoa suodattimen käytöstä löytyy [täältä]({{< relref "../filter/" >}}).
 
@@ -109,7 +109,7 @@ Sinulla on aina mahdollisuus kutsua esiin eläimen toimintovalikko.
 
 1. Suorita valmisteluvaiheet.
 
-2. Valitse eläin listalta nuolinäppäimillä △ ▽ ja vahvista `OK`:lla.
+2. Valitse eläin listalta nuolinäppäimillä △ ▽ ja vahvista `{{<T "Ok" >}}`:lla.
 
 3. Toimintovalikko on nyt avoinna. Tietoa tämän käytöstä löytyy [täältä](../actions).
 

@@ -25,7 +25,7 @@ Dentro del ítem del menú Rebaño, puedes ver todo tu rebaño, buscar animales 
 
 ### Pasos preparatorios {#preparatory-steps}
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Rebaño" /> `Rebaño` y presiona el botón `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Rebaño" /> `{{<T "Herd" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
 2. Se abrirá tu vista general del rebaño.
 
@@ -35,7 +35,7 @@ Dentro del ítem del menú Rebaño, puedes ver todo tu rebaño, buscar animales 
 
 1. Completa los pasos preparatorios.
 
-2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir popup" />&nbsp; para invocar un menú emergente que lista las categorías de información que pueden mostrarse para la lista del rebaño. Usa las teclas de flecha △ ▽ para resaltar la línea `Datos del animal: sexo + tipo` o `Datos del animal: N0 etiqueta de oreja` y selecciona esta categoría presionando el botón central `OK` o la tecla `F3` `OK`. Las dos opciones de selección difieren en la visualización de la barra de información.
+2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir popup" />&nbsp; para invocar un menú emergente que lista las categorías de información que pueden mostrarse para la lista del rebaño. Usa las teclas de flecha △ ▽ para resaltar la línea `{{<T "AnimalDataGenderType" >}}` o `{{<T "AnimalDataEartag" >}}` y selecciona esta categoría presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`. Las dos opciones de selección difieren en la visualización de la barra de información.
 
 3. Los datos del animal ahora se mostrarán como contenido de la lista del rebaño.
 
@@ -51,7 +51,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
 1. Completa los pasos preparatorios.
 
-2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; para invocar un menú emergente que lista las categorías de información que se pueden mostrar para la lista del rebaño. Usa las teclas de flecha △ ▽ para resaltar la línea `Temperatura` y selecciona esta categoría presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; para invocar un menú emergente que lista las categorías de información que se pueden mostrar para la lista del rebaño. Usa las teclas de flecha △ ▽ para resaltar la línea `{{<T "Temperature" >}}` y selecciona esta categoría presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
 3. Los datos de temperatura ahora se mostrarán como contenido de la lista del rebaño.
 
@@ -63,7 +63,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
 1. Completa los pasos preparatorios.
 
-2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; para invocar un menú emergente que lista las categorías de información que se pueden mostrar para la lista del rebaño. Usa las teclas de flecha △ ▽ para resaltar la línea `Evaluación` y selecciona esta categoría presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; para invocar un menú emergente que lista las categorías de información que se pueden mostrar para la lista del rebaño. Usa las teclas de flecha △ ▽ para resaltar la línea `{{<T "Rating" >}}` y selecciona esta categoría presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
 3. Los datos de calificación ahora se mostrarán como contenido de la lista del rebaño.
 
@@ -75,7 +75,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
 1. Completa los pasos preparatorios.
 
-2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; para invocar un menú emergente que lista las categorías de información que se pueden mostrar para la lista del rebaño. Usa las teclas de flecha △ ▽ para resaltar la línea `Peso` y selecciona esta categoría presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; para invocar un menú emergente que lista las categorías de información que se pueden mostrar para la lista del rebaño. Usa las teclas de flecha △ ▽ para resaltar la línea `{{<T "Weight" >}}` y selecciona esta categoría presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
 3. Los datos de peso ahora se mostrarán como contenido de la lista del rebaño.
 
@@ -87,9 +87,9 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
 1. Completa los pasos preparatorios.
 
-2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la función `Buscar animal` e invoca la función de búsqueda presionando la tecla central `OK` o la tecla `F3` `OK`. Alternativamente, puedes usar el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> inmediatamente después del primer paso.
+2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la función `{{<T "SearchAnimal" >}}` e invoca la función de búsqueda presionando la tecla central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`. Alternativamente, puedes usar el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> inmediatamente después del primer paso.
 
-3. Utiliza las teclas de flecha △ ▽ ◁ ▷ para ingresar el número del animal deseado y confirma con `OK`.
+3. Utiliza las teclas de flecha △ ▽ ◁ ▷ para ingresar el número del animal deseado y confirma con `{{<T "Ok" >}}`.
 
     ![VitalControl: Menú de Hato](images/search.png "Buscar animal")
 
@@ -97,7 +97,7 @@ Por defecto, los datos del animal se muestran primero. Solo cuando tienes el pes
 
 1. Completa los pasos preparatorios.
 
-2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la función `Establecer filtro` e invoca la función de filtro presionando la tecla central `OK` o la tecla `F3` `OK`.
+2. Utiliza la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la función `{{<T "SetFilter" >}}` e invoca la función de filtro presionando la tecla central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
 3. Cómo aplicar el filtro se puede encontrar [aquí]({{< relref "../filter/" >}}).
 
@@ -109,7 +109,7 @@ Siempre tienes la opción de llamar al menú de acciones para un animal.
 
 1. Completa los pasos preparatorios.
 
-2. Selecciona un animal de la lista con las teclas de flecha △ ▽ y confirma con `OK`.
+2. Selecciona un animal de la lista con las teclas de flecha △ ▽ y confirma con `{{<T "Ok" >}}`.
 
 3. El menú de acciones ahora está abierto. Cómo usar esto se puede encontrar [aquí](../actions).
 

@@ -25,7 +25,7 @@ Dans l'élément de menu Troupeau, vous pouvez voir l'ensemble de votre troupeau
 
 ### Étapes préparatoires {#preparatory-steps}
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Troupeau" /> `Troupeau` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Troupeau" /> `{{<T "Herd" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
 2. Votre aperçu du troupeau s'ouvre.
 
@@ -35,7 +35,7 @@ Dans l'élément de menu Troupeau, vous pouvez voir l'ensemble de votre troupeau
 
 1. Complétez les étapes préparatoires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les catégories d'informations qui peuvent être affichées pour la liste du troupeau. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la ligne `Données animales : sexe + type` ou `Données animales : N0 boucle d'oreille` et sélectionnez cette catégorie en appuyant sur le bouton central `OK` ou la touche `F3` `OK`. Les deux options de sélection diffèrent dans l'affichage de la barre d'informations.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les catégories d'informations qui peuvent être affichées pour la liste du troupeau. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la ligne `{{<T "AnimalDataGenderType" >}}` ou `{{<T "AnimalDataEartag" >}}` et sélectionnez cette catégorie en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`. Les deux options de sélection diffèrent dans l'affichage de la barre d'informations.
 
 3. Les données animales seront maintenant affichées comme contenu de la liste du troupeau.
 
@@ -51,7 +51,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
 1. Complétez les étapes préparatoires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les catégories d'informations pouvant être affichées pour la liste du troupeau. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la ligne `Température` et sélectionnez cette catégorie en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les catégories d'informations pouvant être affichées pour la liste du troupeau. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la ligne `{{<T "Temperature" >}}` et sélectionnez cette catégorie en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
 3. Les données de température seront maintenant affichées comme contenu de la liste du troupeau.
 
@@ -63,7 +63,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
 1. Complétez les étapes préparatoires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les catégories d'informations pouvant être affichées pour la liste du troupeau. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la ligne `Évaluation` et sélectionnez cette catégorie en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les catégories d'informations pouvant être affichées pour la liste du troupeau. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la ligne `{{<T "Rating" >}}` et sélectionnez cette catégorie en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
 3. Les données d'évaluation seront maintenant affichées comme contenu de la liste du troupeau.
 
@@ -75,7 +75,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
 1. Complétez les étapes préparatoires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les catégories d'informations pouvant être affichées pour la liste du troupeau. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la ligne `Poids` et sélectionnez cette catégorie en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste les catégories d'informations pouvant être affichées pour la liste du troupeau. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la ligne `{{<T "Weight" >}}` et sélectionnez cette catégorie en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
 3. Les données de poids seront maintenant affichées comme contenu de la liste du troupeau.
 
@@ -87,9 +87,9 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
 1. Complétez les étapes préparatoires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste diverses options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `Rechercher animal` et invoquez la fonction de recherche en appuyant sur le bouton central `OK` ou la touche `F3` `OK`. Alternativement, vous pouvez utiliser le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> immédiatement après la première étape.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste diverses options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `{{<T "SearchAnimal" >}}` et invoquez la fonction de recherche en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`. Alternativement, vous pouvez utiliser le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> immédiatement après la première étape.
 
-3. Utilisez les touches fléchées △ ▽ ◁ ▷ pour entrer le numéro de l'animal désiré et confirmez avec `OK`.
+3. Utilisez les touches fléchées △ ▽ ◁ ▷ pour entrer le numéro de l'animal désiré et confirmez avec `{{<T "Ok" >}}`.
 
     ![VitalControl : Menu Troupeau](images/search.png "Rechercher animal")
 
@@ -97,7 +97,7 @@ Par défaut, les données animales sont affichées en premier. Ce n'est que lors
 
 1. Complétez les étapes préparatoires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir popup" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `Définir le filtre` et invoquez la fonction de filtrage en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir popup" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `{{<T "SetFilter" >}}` et invoquez la fonction de filtrage en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
 3. Comment appliquer le filtre peut être trouvé [ici]({{< relref "../filter/" >}}).
 
@@ -109,7 +109,7 @@ Vous avez toujours la possibilité d'appeler le menu d'action pour un animal.
 
 1. Complétez les étapes préparatoires.
 
-2. Sélectionnez un animal dans la liste avec les touches fléchées △ ▽ et confirmez avec `OK`.
+2. Sélectionnez un animal dans la liste avec les touches fléchées △ ▽ et confirmez avec `{{<T "Ok" >}}`.
 
 3. Le menu d'action est maintenant ouvert. Comment utiliser cela peut être trouvé [ici](../actions).
 

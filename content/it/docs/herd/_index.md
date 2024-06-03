@@ -25,7 +25,7 @@ All'interno della voce di menu Mandria, puoi visualizzare l'intera mandria, cerc
 
 ### Passi preparatori {#preparatory-steps}
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Mandria" /> `Mandria` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Mandria" /> `{{<T "Herd" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
 2. Si apre la panoramica della tua mandria.
 
@@ -35,7 +35,7 @@ All'interno della voce di menu Mandria, puoi visualizzare l'intera mandria, cerc
 
 1. Completa i passi preparatori.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Apri popup" />&nbsp; per richiamare un menu popup che elenca le categorie di informazioni che possono essere visualizzate per l'elenco della mandria. Usa i tasti freccia △ ▽ per evidenziare la linea `Dati degli animali: sesso + tipo` o `Dati degli animali: N0 marca auricolare` e seleziona questa categoria premendo il pulsante centrale `OK` o il tasto `F3` `OK`. Le due opzioni di selezione differiscono nella visualizzazione della barra delle informazioni.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Apri popup" />&nbsp; per richiamare un menu popup che elenca le categorie di informazioni che possono essere visualizzate per l'elenco della mandria. Usa i tasti freccia △ ▽ per evidenziare la linea `{{<T "AnimalDataGenderType" >}}` o `{{<T "AnimalDataEartag" >}}` e seleziona questa categoria premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`. Le due opzioni di selezione differiscono nella visualizzazione della barra delle informazioni.
 
 3. I dati degli animali verranno ora visualizzati come contenuto dell'elenco della mandria.
 
@@ -52,7 +52,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 1. Completa i passi preparatori.
 
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le categorie di informazioni che possono essere visualizzate per l'elenco del gregge. Usa i tasti freccia △ ▽ per evidenziare la linea `Temperatura` e seleziona questa categoria premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le categorie di informazioni che possono essere visualizzate per l'elenco del gregge. Usa i tasti freccia △ ▽ per evidenziare la linea `{{<T "Temperature" >}}` e seleziona questa categoria premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
 3. I dati della temperatura verranno ora visualizzati come contenuto dell'elenco del gregge.
 
@@ -64,7 +64,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
 1. Completa i passaggi preparatori.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le categorie di informazioni che possono essere visualizzate per l'elenco del gregge. Usa i tasti freccia △ ▽ per evidenziare la linea `Valutazione` e seleziona questa categoria premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le categorie di informazioni che possono essere visualizzate per l'elenco del gregge. Usa i tasti freccia △ ▽ per evidenziare la linea `{{<T "Rating" >}}` e seleziona questa categoria premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
 3. I dati della valutazione verranno ora visualizzati come contenuto dell'elenco del gregge.
 
@@ -76,7 +76,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
 1. Completa i passaggi preparatori.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le categorie di informazioni che possono essere visualizzate per l'elenco del gregge. Usa i tasti freccia △ ▽ per evidenziare la linea `Peso` e seleziona questa categoria premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le categorie di informazioni che possono essere visualizzate per l'elenco del gregge. Usa i tasti freccia △ ▽ per evidenziare la linea `{{<T "Weight" >}}` e seleziona questa categoria premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
 3. I dati del peso verranno ora visualizzati come contenuto dell'elenco del gregge.
 
@@ -88,10 +88,10 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
 1. Completa i passaggi preparatori.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare la funzione `Cerca animale` e richiamare la funzione di ricerca premendo il tasto centrale `OK` o il tasto `F3` `OK`. In alternativa, puoi usare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> immediatamente dopo il primo passaggio.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare la funzione `{{<T "SearchAnimal" >}}` e richiamare la funzione di ricerca premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`. In alternativa, puoi usare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> immediatamente dopo il primo passaggio.
 
 
-3. Usa i tasti freccia △ ▽ ◁ ▷ per inserire il numero dell'animale desiderato e conferma con `OK`.
+3. Usa i tasti freccia △ ▽ ◁ ▷ per inserire il numero dell'animale desiderato e conferma con `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Herd](images/search.png "Cerca animale")
 
@@ -99,7 +99,7 @@ Per impostazione predefinita, i dati degli animali vengono visualizzati per prim
 
 1. Completa i passaggi preparatori.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Apri popup" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare la funzione `Imposta filtro` e invoca la funzione filtro premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Apri popup" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare la funzione `{{<T "SetFilter" >}}` e invoca la funzione filtro premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
 3. Come applicare il filtro può essere trovato [qui]({{< relref "../filter/" >}}).
 
@@ -111,7 +111,7 @@ Hai sempre la possibilità di richiamare il menu azioni per un animale.
 
 1. Completa i passaggi preparatori.
 
-2. Seleziona un animale dall'elenco con i tasti freccia △ ▽ e conferma con `OK`.
+2. Seleziona un animale dall'elenco con i tasti freccia △ ▽ e conferma con `{{<T "Ok" >}}`.
 
 3. Il menu azioni è ora aperto. Come utilizzarlo può essere trovato [qui](../actions).
 

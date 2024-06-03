@@ -25,7 +25,7 @@ V rámci položky menu Stádo můžete zobrazit celé své stádo, vyhledávat j
 
 ### Přípravné kroky {#preparatory-steps}
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Stádo" /> `Stádo` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Stádo" /> `{{<T "Herd" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
 2. Otevře se přehled vašeho stáda.
 
@@ -35,7 +35,7 @@ V rámci položky menu Stádo můžete zobrazit celé své stádo, vyhledávat j
 
 1. Dokončete přípravné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Otevřít popup" />&nbsp; k vyvolání popup menu, které uvádí kategorie informací, které lze zobrazit pro seznam stáda. Pomocí šipek △ ▽ zvýrazněte řádek `Údaje o zvířatech: pohlaví + typ` nebo `Údaje o zvířatech: N0 ušní známka` a vyberte tuto kategorii stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`. Tyto dvě možnosti výběru se liší v zobrazení informačního pruhu.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Otevřít popup" />&nbsp; k vyvolání popup menu, které uvádí kategorie informací, které lze zobrazit pro seznam stáda. Pomocí šipek △ ▽ zvýrazněte řádek `{{<T "AnimalDataGenderType" >}}` nebo `{{<T "AnimalDataEartag" >}}` a vyberte tuto kategorii stisknutím centrálního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`. Tyto dvě možnosti výběru se liší v zobrazení informačního pruhu.
 
 3. Údaje o zvířatech budou nyní zobrazeny jako obsah seznamu stáda.
 
@@ -52,7 +52,7 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 1. Dokončete přípravné kroky.
 
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí kategorie informací, které lze zobrazit pro seznam stáda. Použijte šipky △ ▽ k zvýraznění řádku `Teplota` a vyberte tuto kategorii stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí kategorie informací, které lze zobrazit pro seznam stáda. Použijte šipky △ ▽ k zvýraznění řádku `{{<T "Temperature" >}}` a vyberte tuto kategorii stisknutím centrálního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
 3. Data o teplotě budou nyní zobrazena jako obsah seznamu stáda.
 
@@ -64,7 +64,7 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 
 1. Dokončete přípravné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí kategorie informací, které lze zobrazit pro seznam stáda. Použijte šipky △ ▽ k zvýraznění řádku `Hodnocení` a vyberte tuto kategorii stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí kategorie informací, které lze zobrazit pro seznam stáda. Použijte šipky △ ▽ k zvýraznění řádku `{{<T "Rating" >}}` a vyberte tuto kategorii stisknutím centrálního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
 3. Data o hodnocení budou nyní zobrazena jako obsah seznamu stáda.
 
@@ -76,7 +76,7 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 
 1. Dokončete přípravné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí kategorie informací, které lze zobrazit pro seznam stáda. Použijte šipky △ ▽ k zvýraznění řádku `Hmotnost` a vyberte tuto kategorii stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí kategorie informací, které lze zobrazit pro seznam stáda. Použijte šipky △ ▽ k zvýraznění řádku `{{<T "Weight" >}}` a vyberte tuto kategorii stisknutím centrálního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
 3. Data o hmotnosti budou nyní zobrazena jako obsah seznamu stáda.
 
@@ -88,10 +88,10 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
  
 1. Dokončete přípravné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí různé možnosti. Použijte šipky △ ▽ k zvýraznění funkce `Vyhledat zvíře` a vyvolejte vyhledávací funkci stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`. Alternativně můžete použít tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ihned po kroku jedna.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí různé možnosti. Použijte šipky △ ▽ k zvýraznění funkce `{{<T "SearchAnimal" >}}` a vyvolejte vyhledávací funkci stisknutím centrálního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`. Alternativně můžete použít tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ihned po kroku jedna.
 
 
-3. Pomocí šipek △ ▽ ◁ ▷ zadejte požadované číslo zvířete a potvrďte stisknutím `OK`.
+3. Pomocí šipek △ ▽ ◁ ▷ zadejte požadované číslo zvířete a potvrďte stisknutím `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Stádo](images/search.png "Vyhledat zvíře")
 
@@ -99,7 +99,7 @@ Ve výchozím nastavení se nejprve zobrazují údaje o zvířatech. Pouze když
 
 1. Dokončete přípravné kroky.
 
-2. Pomocí klávesy `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Otevřít popup" />&nbsp; vyvolejte popup menu, které obsahuje různé možnosti. Pomocí šipek △ ▽ zvýrazněte funkci `Nastavit filtr` a vyvolejte funkci filtru stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Pomocí klávesy `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Otevřít popup" />&nbsp; vyvolejte popup menu, které obsahuje různé možnosti. Pomocí šipek △ ▽ zvýrazněte funkci `{{<T "SetFilter" >}}` a vyvolejte funkci filtru stisknutím centrálního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
 3. Jak aplikovat filtr naleznete [zde]({{< relref "../filter/" >}}).
 
@@ -111,7 +111,7 @@ Vždy máte možnost vyvolat akční menu pro zvíře.
 
 1. Dokončete přípravné kroky.
 
-2. Vyberte zvíře ze seznamu pomocí šipek △ ▽ a potvrďte stisknutím `OK`.
+2. Vyberte zvíře ze seznamu pomocí šipek △ ▽ a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 3. Akční menu je nyní otevřeno. Jak jej použít naleznete [zde](../actions).
 

@@ -25,7 +25,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
 ### Preparatory steps {#preparatory-steps}
 
-1. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herd" /> `Herd` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/herd.svg" width="60" align="bottom" alt="Herd" /> `{{<T "Herd" >}}` and press the `{{<T "Ok" >}}` button.
 
 2. Your herd overview opens.
 
@@ -35,7 +35,7 @@ Within the Herd menu item, you can view your entire herd, search for individual 
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `Animal data: sex + type` or `Animal data: N0 eartag` and select this category by pressing the central `OK` button or the `F3` key `OK`. The two selection options differ in the display of the information bar.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `{{<T "AnimalDataGenderType" >}}` or `{{<T "AnimalDataEartag" >}}` and select this category by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`. The two selection options differ in the display of the information bar.
 
 3. Animal data will now be displayed as content of the herd list.
 
@@ -51,7 +51,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `Temperature` and select this category by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `{{<T "Temperature" >}}` and select this category by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
 3. Temperature data will now be displayed as content of the herd list.
 
@@ -63,7 +63,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `Rating` and select this category by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `{{<T "Rating" >}}` and select this category by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
 3. Rating data will now be displayed as content of the herd list.
 
@@ -75,7 +75,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `Weight` and select this category by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the information categories that can be displayed for the herd list. Use the arrow keys △ ▽ to highlight the line `{{<T "Weight" >}}` and select this category by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
 3. Weight data will now be displayed as content of the herd list.
 
@@ -87,9 +87,9 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `Search animal` and invoke the search function by pressing the central `OK` key or the `F3` key `OK`. Alternatively, you can use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> immediately after step one.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `{{<T "SearchAnimal" >}}` and invoke the search function by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`. Alternatively, you can use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> immediately after step one.
 
-3. Use the arrow keys △ ▽ ◁ ▷ to enter the desired animal number and confirm with `OK`.
+3. Use the arrow keys △ ▽ ◁ ▷ to enter the desired animal number and confirm with `{{<T "Ok" >}}`.
 
     ![VitalControl: Menu Herd](images/search.png "Search animal")
 
@@ -97,7 +97,7 @@ By default, the animal data is displayed first. Only when you have the weight di
 
 1. Complete the preparatory steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `Set filter` and invoke the filter function by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `{{<T "SetFilter" >}}` and invoke the filter function by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
 3. How to apply the filter can be found [here]({{< relref "../filter/" >}}).
 
@@ -109,7 +109,7 @@ You always have the option to call up the action menu for an animal.
 
 1. Complete the preparatory steps.
 
-2. Select an animal from the list with the arrow keys △ ▽ and confirm with `OK`.
+2. Select an animal from the list with the arrow keys △ ▽ and confirm with `{{<T "Ok" >}}`.
 
 3. The action menu is now open. How to use this can be found [here](../actions).
 
