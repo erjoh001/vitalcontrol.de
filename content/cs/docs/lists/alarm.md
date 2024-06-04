@@ -38,10 +38,10 @@ Seznam alarmů je strukturován následovně:
 
 ### Předběžné kroky {#preliminary-steps}
 
-1. Vyberte položku menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Seznamy" /> `Seznamy` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
+1. Vyberte položku menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Seznamy" /> `{{<T "Lists" >}}` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `{{<T "Ok" >}}`.
 
 
-2. Otevře se podnabídka, ve které jsou zobrazeny různé ikony seznamu. Zvýrazněte ikonu <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Alarm` a potvrďte stisknutím `OK`.
+2. Otevře se podnabídka, ve které jsou zobrazeny různé ikony seznamu. Zvýrazněte ikonu <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `{{<T "Alarm" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 3. Seznam alarmů je nyní otevřen.
 
@@ -51,11 +51,11 @@ Seznam alarmů je strukturován následovně:
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Plná akční nabídka` a vyberte akci stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která uvádí možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "ActionMenu" >}}` a vyberte akci stisknutím centrální klávesy `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete hledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Nabídka `Akce` se otevře automaticky. Manipulaci s akcemi naleznete [zde](/cs/docs/actions/).
+4. Nabídka `{{<T "Actions" >}}` se otevře automaticky. Manipulaci s akcemi naleznete [zde](/cs/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Akční nabídka")
 
@@ -63,9 +63,9 @@ Seznam alarmů je strukturován následovně:
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Data zvířete` a vyberte akci stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která uvádí možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "AnimalData" >}}` a vyberte akci stisknutím centrální klávesy `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete hledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Data zvířete budou nyní zobrazena.
 
@@ -75,9 +75,9 @@ Seznam alarmů je strukturován následovně:
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Změřte teplotu` a vyberte akci stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "TempTaking" >}}` a vyberte akci stisknutím centrální klávesy `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete hledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Funkce [Změřte teplotu](/cs/docs/actions/measure-temperature/#measure-fever) se nyní automaticky spustí.
 
@@ -87,9 +87,9 @@ Seznam alarmů je strukturován následovně:
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Ohodnoťte zvíře` a vyberte akci stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "RateAnimal" >}}` a vyberte akci stisknutím centrální klávesy `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete hledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Funkce [Ohodnoťte zvíře](/cs/docs/actions/rating/#rate-your-animals) se nyní automaticky spustí.
 
@@ -99,10 +99,10 @@ Seznam alarmů je strukturován následovně:
  
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Vymažte alarm` a vyberte akci stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "ClearAlarm" >}}` a vyberte akci stisknutím centrální klávesy `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
 
-3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Zvíře je nyní odstraněno ze seznamu alarmů.
 
@@ -112,9 +112,9 @@ Seznam alarmů je strukturován následovně:
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Přepnout stav sledování` a vyberte akci stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "ToggleWatchStatus" >}}` a vyberte akci stisknutím centrální klávesy `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu alarmů použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Zvíře je nyní přidáno nebo odstraněno ze seznamu sledování v závislosti na jeho počátečním stavu.
 
@@ -124,9 +124,9 @@ Seznam alarmů je strukturován následovně:
  
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí různé možnosti. Pomocí šipek △ ▽ zvýrazněte funkci `Hledat zvíře` a vyvolejte funkci hledání stisknutím centrální klávesy `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovacího menu, které uvádí různé možnosti. Pomocí šipek △ ▽ zvýrazněte funkci `{{<T "SearchAnimal" >}}` a vyvolejte funkci hledání stisknutím centrální klávesy `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. Pomocí šipek △ ▽ ◁ ▷ vyberte požadované ID zvířete. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. Pomocí šipek △ ▽ ◁ ▷ vyberte požadované ID zvířete. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Search animal")
 
@@ -134,7 +134,7 @@ Seznam alarmů je strukturován následovně:
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání kontextového menu, které obsahuje různé možnosti. Pomocí šipek △ ▽ zvýrazněte funkci `Nastavit filtr` a vyvolejte funkci filtru stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání kontextového menu, které obsahuje různé možnosti. Pomocí šipek △ ▽ zvýrazněte funkci `{{<T "SetFilter" >}}` a vyvolejte funkci filtru stisknutím centrálního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
 3. Nastavte požadovaný filtr. Jak používat filtr najdete [zde](../../filter/#applying-filters).
 

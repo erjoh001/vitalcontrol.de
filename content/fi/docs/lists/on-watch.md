@@ -42,11 +42,11 @@ Hälytyslista on järjestetty seuraavasti:
 
 ### Alustavat vaiheet {#preliminary-steps}
 
-1. Valitse päävalikosta <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Listat` -valikko VitalControl-laitteessasi ja paina `OK`-nappia.
+1. Valitse päävalikosta <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` -valikko VitalControl-laitteessasi ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alavalikko avautuu, jossa näkyy erilaisia listoja. Valitse lista &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `On Watch`. Vahvista valinta `OK`-napilla.
+2. Alavalikko avautuu, jossa näkyy erilaisia listoja. Valitse lista &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `{{<T "OnWatch" >}}`. Vahvista valinta `{{<T "Ok" >}}`-napilla.
 
-3. Lista `On Watch` on nyt avoinna.
+3. Lista `{{<T "OnWatch" >}}` on nyt avoinna.
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Alustavat vaiheet")
 
@@ -54,9 +54,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot kun painat `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Poista eläin tarkkailulistalta` ja valitse tämä vaihtoehto painamalla keskimmäistä `OK`-nappia tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot kun painat `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "RemoveFromWatchList" >}}` ja valitse tämä vaihtoehto painamalla keskimmäistä `{{<T "Ok" >}}`-nappia tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Tarkkailulistalla, käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista `OK`-napilla. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-nappia <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`-napilla.
+3. Tarkkailulistalla, käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista `{{<T "Ok" >}}`-napilla. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-nappia <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `{{<T "Ok" >}}`-napilla.
 
 4. Eläin on nyt poistettu tarkkailulistalta.
 
@@ -66,9 +66,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot kun painat `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Vaihda hälytysken tila` ja valitse tämä vaihtoehto painamalla keskimmäistä `OK`-nappia tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot kun painat `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "ToggleAlarmStatus" >}}` ja valitse tämä vaihtoehto painamalla keskimmäistä `{{<T "Ok" >}}`-nappia tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Tarkkailulistalla, käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista `OK`-napilla. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-nappia <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`-napilla.
+3. Tarkkailulistalla, käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista `{{<T "Ok" >}}`-napilla. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-nappia <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `{{<T "Ok" >}}`-napilla.
 
 4. Eläin lisätään tai poistetaan hälytyslistalta sen alkuperäisen tilan mukaan.
 

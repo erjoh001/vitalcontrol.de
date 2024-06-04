@@ -35,10 +35,10 @@ Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](
 
 ### Előzetes lépések {#preliminary-steps}
 
-1. Válassza ki a <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `Lists` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
+1. Válassza ki a <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
 
-2. Megnyílik egy almenü, amelyben különböző listák jelennek meg. Válassza a `Friss tehenek` listát <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző listák jelennek meg. Válassza a `{{<T "FreshCows" >}}` listát <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 3. A friss tehenek listája most megnyílt.
 
@@ -48,9 +48,9 @@ Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja a lehetséges műveleteket az `OK` gomb megnyomásakor. Használja a nyílbillentyűket △ ▽ a `Riasztási állapot váltása` művelet kiemeléséhez, és válassza ezt az opciót a középső `OK` gomb vagy az `F3` gomb `OK` megnyomásával.
+2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja a lehetséges műveleteket az `{{<T "Ok" >}}` gomb megnyomásakor. Használja a nyílbillentyűket △ ▽ a `{{<T "ToggleAlarmStatus" >}}` művelet kiemeléséhez, és válassza ezt az opciót a középső `{{<T "Ok" >}}` gomb vagy az `F3` gomb `{{<T "Ok" >}}` megnyomásával.
 
-3. A friss tehenek listájában használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. A friss tehenek listájában használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatívaként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat most hozzáadódik vagy eltávolításra kerül a riasztási listáról az eredeti állapotától függően.
 
@@ -60,9 +60,9 @@ Néhány műveletet ugyanúgy kell végrehajtani, mint a [riasztási listában](
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja a lehetséges műveleteket az `OK` gomb megnyomásakor. Használja a nyílbillentyűket △ ▽ a `Figyelési állapot váltása` művelet kiemeléséhez, és válassza ezt az opciót a középső `OK` gomb vagy az `F3` gomb `OK` megnyomásával.
+2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja a lehetséges műveleteket az `{{<T "Ok" >}}` gomb megnyomásakor. Használja a nyílbillentyűket △ ▽ a `{{<T "ToggleWatchStatus" >}}` művelet kiemeléséhez, és válassza ezt az opciót a középső `{{<T "Ok" >}}` gomb vagy az `F3` gomb `{{<T "Ok" >}}` megnyomásával.
 
-3. A friss tehenek listájában használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. A friss tehenek listájában használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatívaként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat most hozzáadódik vagy eltávolításra kerül a figyelési listáról az eredeti állapotától függően.
 
@@ -74,10 +74,10 @@ Ha ez a funkció aktiválva van, a száraz tehén listán elrejtésre kerülnek 
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; egy felugró menü megjelenítéséhez, amely különböző opciókat listáz. Használja a nyílbillentyűket △ ▽ az `Elrejtés mért tehenek` opció kiemeléséhez, és kapcsolja be ezt az opciót a középső `OK` gomb vagy az `F3` billentyű `OK` megnyomásával.
+2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; egy felugró menü megjelenítéséhez, amely különböző opciókat listáz. Használja a nyílbillentyűket △ ▽ az `{{<T "HideMeasuredCows" >}}` opció kiemeléséhez, és kapcsolja be ezt az opciót a középső `{{<T "Ok" >}}` gomb vagy az `F3` billentyű `{{<T "Ok" >}}` megnyomásával.
 
-3. A friss tehenek listáján belül használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg `OK`-val. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg `OK`-val.
+3. A friss tehenek listáján belül használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg `{{<T "Ok" >}}`-val. Alternatívaként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg `{{<T "Ok" >}}`-val.
 
-4. Az `elrejtés mért` funkció most aktiválva van. Az aktiválást a négyzet bejelölése jelzi.
+4. Az `{{<T "HideMeasuredCows" >}}` funkció most aktiválva van. Az aktiválást a négyzet bejelölése jelzi.
 
 ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Hide measured cows")

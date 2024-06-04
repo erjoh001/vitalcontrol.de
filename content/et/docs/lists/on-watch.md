@@ -42,11 +42,11 @@ Häirenimekiri on struktureeritud järgmiselt:
 
 ### Eelsammud {#preliminary-steps}
 
-1. Valige põhiekraanil <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Listid` menüüpunkt ja vajutage `OK` nuppu.
+1. Valige põhiekraanil <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` menüüpunkt ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid listisid. Valige list &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `Valvel`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid listisid. Valige list &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `{{<T "OnWatch" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. List `Valvel` on nüüd avatud.
+3. List `{{<T "OnWatch" >}}` on nüüd avatud.
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Eelsammud")
 
@@ -54,9 +54,9 @@ Häirenimekiri on struktureeritud järgmiselt:
 
 1. Täitke eelsammud.
 
-2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `OK` nupu vajutamisel. Kasutage nooleklahve △ ▽, et esile tõsta tegevus `Eemalda valvelistist` ja valige see võimalus vajutades keskset `OK` nuppu või `F3` klahvi `OK`.
+2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `{{<T "Ok" >}}` nupu vajutamisel. Kasutage nooleklahve △ ▽, et esile tõsta tegevus `{{<T "RemoveFromWatchList" >}}` ja valige see võimalus vajutades keskset `{{<T "Ok" >}}` nuppu või `F3` klahvi `{{<T "Ok" >}}`.
 
-3. Valvelistis kasutage nooleklahve △ ▽, et valida soovitud loom ja kinnitage valikuga `OK`. Alternatiivina võite looma otsida. Kasutage `Sees/Väljas` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasutage nooleklahve ◁ ▷ △ ▽, et valida soovitud numbrid. Lõpuks kinnitage valikuga `OK`.
+3. Valvelistis kasutage nooleklahve △ ▽, et valida soovitud loom ja kinnitage valikuga `{{<T "Ok" >}}`. Alternatiivina võite looma otsida. Kasutage `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasutage nooleklahve ◁ ▷ △ ▽, et valida soovitud numbrid. Lõpuks kinnitage valikuga `{{<T "Ok" >}}`.
 
 4. Loom on nüüd valvelistist eemaldatud.
 
@@ -66,9 +66,9 @@ Häirenimekiri on struktureeritud järgmiselt:
 
 1. Täitke eelsammud.
 
-2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `OK` nupu vajutamisel. Kasutage nooleklahve △ ▽, et esile tõsta tegevus `Lülita häire olekut` ja valige see võimalus vajutades keskset `OK` nuppu või `F3` klahvi `OK`.
+2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `{{<T "Ok" >}}` nupu vajutamisel. Kasutage nooleklahve △ ▽, et esile tõsta tegevus `{{<T "ToggleAlarmStatus" >}}` ja valige see võimalus vajutades keskset `{{<T "Ok" >}}` nuppu või `F3` klahvi `{{<T "Ok" >}}`.
 
-3. Valvelistis kasutage nooleklahve △ ▽, et valida soovitud loom ja kinnitage valikuga `OK`. Alternatiivina võite looma otsida. Kasutage `Sees/Väljas` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasutage nooleklahve ◁ ▷ △ ▽, et valida soovitud numbrid. Lõpuks kinnitage valikuga `OK`.
+3. Valvelistis kasutage nooleklahve △ ▽, et valida soovitud loom ja kinnitage valikuga `{{<T "Ok" >}}`. Alternatiivina võite looma otsida. Kasutage `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasutage nooleklahve ◁ ▷ △ ▽, et valida soovitud numbrid. Lõpuks kinnitage valikuga `{{<T "Ok" >}}`.
 
 4. Loom lisatakse või eemaldatakse häireloendist sõltuvalt tema algsest seisundist.
 

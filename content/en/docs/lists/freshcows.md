@@ -35,9 +35,9 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 ### Preliminary Steps {#preliminary-steps}
 
-1. Select the <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Select the <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` menu item in the main screen of your VitalControl device and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various lists are displayed. Select the `Fresh cows` list <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Confirm with `OK`.
+2. A submenu opens in which various lists are displayed. Select the `{{<T "FreshCows" >}}` list <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Confirm with `{{<T "Ok" >}}`.
 
 3. The fresh cows list is now open.
 
@@ -47,9 +47,9 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle alarm status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "ToggleAlarmStatus" >}}` and select this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The animal is now added or removed from the alert list depending on its initial status.
 
@@ -59,9 +59,9 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle watch status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "ToggleWatchStatus" >}}` and select this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The animal is now added or removed from the on watch list depending on its initial status.
 
@@ -73,10 +73,10 @@ If this function is activated, the animals for which a temperature measurement h
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the option `Hide  measured cows` and toggle this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the option `{{<T "HideMeasuredCows" >}}` and toggle this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the fresh cows list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
-4. The function `hide measured` is now activated. Activation is indicated by ticking the box.
+4. The function `{{<T "HideMeasuredCows" >}}` is now activated. Activation is indicated by ticking the box.
 
    ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Hide measured cows")

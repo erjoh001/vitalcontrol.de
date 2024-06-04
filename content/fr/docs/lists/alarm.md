@@ -38,9 +38,9 @@ La liste des alarmes est structurée comme suit :
 
 ### Étapes préliminaires {#preliminary-steps}
 
-1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" /> `Listes` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
+1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" /> `{{<T "Lists" >}}` sur l'écran principal de votre appareil VitalControl et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel diverses icônes de liste sont affichées. Mettez en surbrillance l'icône <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Alarme` et confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel diverses icônes de liste sont affichées. Mettez en surbrillance l'icône <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `{{<T "Alarm" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 3. La liste des alarmes est maintenant ouverte.
 
@@ -50,11 +50,11 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Menu d'action` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "ActionMenu" >}}` et sélectionnez l'action en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
-4. Le menu `Actions` s'ouvrira automatiquement. La gestion des actions peut être trouvée [ici](/fr/docs/actions/).
+4. Le menu `{{<T "Actions" >}}` s'ouvrira automatiquement. La gestion des actions peut être trouvée [ici](/fr/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Menu d'action")
 
@@ -62,9 +62,9 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Données de l'animal` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles lors de l'appui sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "AnimalData" >}}` et sélectionnez l'action en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Recherche" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 4. Les données de l'animal seront maintenant affichées.
 
@@ -74,9 +74,9 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Mesure de la température` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "TempTaking" >}}` et sélectionnez l'action en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 4. La fonction [Mesurer la température](/fr/docs/actions/measure-temperature/#measure-fever) est maintenant lancée automatiquement.
 
@@ -86,9 +86,9 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Évaluer l'animal` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "RateAnimal" >}}` et sélectionnez l'action en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 4. La fonction [Évaluer l'animal](/fr/docs/actions/rating/#rate-your-animals) est maintenant lancée automatiquement.
 
@@ -98,9 +98,9 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Réinitialisation de l'alarme` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "ClearAlarm" >}}` et sélectionnez l'action en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal souhaité et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres souhaités. Enfin, confirmez avec `OK`.
+3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal souhaité et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres souhaités. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 4. L'animal est maintenant retiré de la liste des alarmes.
 
@@ -110,9 +110,9 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `revenir sur statue suivi` et sélectionnez l'action en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "ToggleWatchStatus" >}}` et sélectionnez l'action en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal souhaité et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres souhaités. Enfin, confirmez avec `OK`.
+3. Dans la liste des alarmes, utilisez les touches fléchées △ ▽ pour sélectionner l'animal souhaité et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres souhaités. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 4. L'animal est maintenant ajouté ou retiré de la liste de surveillance selon son statut initial.
 
@@ -122,9 +122,9 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu popup qui liste diverses options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `Rechercher un animal` et invoquez la fonction de recherche en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu popup qui liste diverses options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `{{<T "SearchAnimal" >}}` et invoquez la fonction de recherche en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Utilisez les touches fléchées △ ▽ ◁ ▷ pour sélectionner l'ID de l'animal souhaité. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres souhaités. Enfin, confirmez avec `OK`.
+3. Utilisez les touches fléchées △ ▽ ◁ ▷ pour sélectionner l'ID de l'animal souhaité. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres souhaités. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Rechercher un animal")
 
@@ -132,7 +132,7 @@ La liste des alarmes est structurée comme suit :
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `Définir un filtre` et invoquez la fonction de filtrage en appuyant sur la touche centrale `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le menu popup" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance la fonction `{{<T "SetFilter" >}}` et invoquez la fonction de filtrage en appuyant sur la touche centrale `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
 3. Définissez le filtre souhaité. Vous pouvez trouver comment utiliser le filtre [ici](../../filter/#applying-filters).
 

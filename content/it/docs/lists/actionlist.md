@@ -30,9 +30,9 @@ Alcune azioni devono essere eseguite nello stesso modo dell'[elenco allarmi](../
 
 ### Passaggi preliminari {#preliminary-steps}
 
-1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Liste" /> `Liste` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
+1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Liste" /> `{{<T "Lists" >}}` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzate varie icone di elenco. Evidenzia l'icona <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Elenco azioni" /> `Elenco azioni` e conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie icone di elenco. Evidenzia l'icona <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Elenco azioni" /> `{{<T "ActionList" >}}` e conferma con `{{<T "Ok" >}}`.
 
 3. L'elenco delle azioni è ora aperto.
 
@@ -42,9 +42,9 @@ Alcune azioni devono essere eseguite nello stesso modo dell'[elenco allarmi](../
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Apri popup" />&nbsp; per richiamare un menu popup che elenca le azioni possibili premendo il tasto `OK`. Usa i tasti freccia △ ▽ per evidenziare l'azione `Pesa animali` e seleziona questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Apri popup" />&nbsp; per richiamare un menu popup che elenca le azioni possibili premendo il tasto `{{<T "Ok" >}}`. Usa i tasti freccia △ ▽ per evidenziare l'azione `{{<T "WeighAnimal" >}}` e seleziona questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. Nell'elenco delle azioni, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Cerca" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. Nell'elenco delle azioni, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Cerca" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 
 4. Il menu [pesare animali](../../actions/record-weight/) si aprirà automaticamente.
@@ -55,9 +55,9 @@ Alcune azioni devono essere eseguite nello stesso modo dell'[elenco allarmi](../
 
 1. Completare i passaggi preliminari.
 
-2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `Catena di azioni` e selezionare questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `{{<T "ActionChain" >}}` e selezionare questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco delle azioni, utilizzare i tasti freccia △ ▽ per selezionare l'animale desiderato e confermare con `OK`. In alternativa, è possibile cercare un animale. Utilizzare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e utilizzare i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine confermare con `OK`.
+3. All'interno dell'elenco delle azioni, utilizzare i tasti freccia △ ▽ per selezionare l'animale desiderato e confermare con `{{<T "Ok" >}}`. In alternativa, è possibile cercare un animale. Utilizzare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e utilizzare i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine confermare con `{{<T "Ok" >}}`.
 
 4. La funzione [catena di azioni](../../chain-of-actions) si aprirà automaticamente.
 
@@ -69,9 +69,9 @@ Questa funzione viene utilizzata per aggiungere un transponder al record dei dat
 
 1. Completare i passaggi preliminari.
 
-2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `Collegare transponder` e selezionare questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `{{<T "LinkTransponder" >}}` e selezionare questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco delle azioni, utilizzare i tasti freccia △ ▽ per selezionare l'animale desiderato e confermare con `OK`. In alternativa, è possibile cercare un animale. Utilizzare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e utilizzare i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine confermare con `OK`.
+3. All'interno dell'elenco delle azioni, utilizzare i tasti freccia △ ▽ per selezionare l'animale desiderato e confermare con `{{<T "Ok" >}}`. In alternativa, è possibile cercare un animale. Utilizzare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e utilizzare i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine confermare con `{{<T "Ok" >}}`.
 
 4. Ora scansionare il transponder dell'animale corrispondente.
 
@@ -83,8 +83,8 @@ Se questa funzione è attivata, gli animali per i quali è stata eseguita un'azi
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Azioni" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare l'opzione `Nascondi dopo l'azione` e attiva/disattiva questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Azioni" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare l'opzione `{{<T "HideAfterAction" >}}` e attiva/disattiva questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. La funzione `Nascondi dopo l'azione` è ora abilitata/disabilitata. L'attivazione è indicata da un segno di spunta all'interno della casella.
+3. La funzione `{{<T "HideAfterAction" >}}` è ora abilitata/disabilitata. L'attivazione è indicata da un segno di spunta all'interno della casella.
 
    ![VitalControl Liste Lista delle azioni](../images/hideafteraction.png "Nascondi dopo l'azione")

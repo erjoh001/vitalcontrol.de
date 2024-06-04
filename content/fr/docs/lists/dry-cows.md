@@ -30,9 +30,9 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 ### Étapes préliminaires {#preliminary-steps}
 
-1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" /> `Listes` dans l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
+1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listes" /> `{{<T "Lists" >}}` dans l'écran principal de votre appareil VitalControl et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel différentes listes sont affichées. Mettez en surbrillance l'icône <img src="/icons/lists/drycows.svg" width="40" align="bottom" alt="Vaches taries" /> `Vaches taries`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel différentes listes sont affichées. Mettez en surbrillance l'icône <img src="/icons/lists/drycows.svg" width="40" align="bottom" alt="Vaches taries" /> `{{<T "DryCows" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
 3. La liste des vaches taries est maintenant ouverte.
 
@@ -42,15 +42,15 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Vêlage` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ouvrir le popup" />&nbsp; pour invoquer un menu popup qui liste les actions possibles en appuyant sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "Calving" >}}` et sélectionnez cette option en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des actions, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Confirmez finalement avec `OK`.
+3. Dans la liste des actions, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Confirmez finalement avec `{{<T "Ok" >}}`.
 
-4. Il vous sera maintenant demandé de scanner le transpondeur de l'animal mère. Alternativement, vous pouvez également confirmer avec `OK` et entrer l'ID de l'animal avec les touches fléchées △ ▽ ◁ ▷.
+4. Il vous sera maintenant demandé de scanner le transpondeur de l'animal mère. Alternativement, vous pouvez également confirmer avec `{{<T "Ok" >}}` et entrer l'ID de l'animal avec les touches fléchées △ ▽ ◁ ▷.
 
-5. Scannez maintenant le transpondeur du veau ou passez cette étape avec la touche `F3` `ESC` si le veau n'a pas encore de transpondeur. Vous pourrez plus tard lui attribuer cela en utilisant l'action &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> [`Lier le transpondeur`](../../actions/link-transponder).
+5. Scannez maintenant le transpondeur du veau ou passez cette étape avec la touche `F3` `ESC` si le veau n'a pas encore de transpondeur. Vous pourrez plus tard lui attribuer cela en utilisant l'action &nbsp;<img src="/icons/actions/link-transponder.svg" width="35" align="bottom" alt="Link transponder" /> [`{{<T "LinkTransponder" >}}`](../../actions/link-transponder).
 
-6. Un autre menu de paramètres s'ouvre dans lequel vous pouvez enregistrer divers détails sur le nouveau veau. Utilisez les touches fléchées △ ▽ pour sélectionner l'option de paramètre appropriée. Pour les options de paramètres `Type d'animal`, `Sexe`, `Poids de naissance`, `Race`, `Lieu de séjour`, `Multiple` et `Déroulement du vêlage` utilisez les touches fléchées △ ▽ pour sélectionner le paramètre désiré. Pour les options de paramètres `N° de la boucle`, `ID` et `Date de naissance` sélectionnez l'option de paramètre correspondante et confirmez avec `OK`. Utilisez maintenant les touches fléchées △ ▽ ◁ ▷ pour sélectionner les chiffres désirés.
+6. Un autre menu de paramètres s'ouvre dans lequel vous pouvez enregistrer divers détails sur le nouveau veau. Utilisez les touches fléchées △ ▽ pour sélectionner l'option de paramètre appropriée. Pour les options de paramètres `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` et `{{<T "CalvingEase" >}}` utilisez les touches fléchées △ ▽ pour sélectionner le paramètre désiré. Pour les options de paramètres `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` et `{{<T "DateBirth" >}}` sélectionnez l'option de paramètre correspondante et confirmez avec `{{<T "Ok" >}}`. Utilisez maintenant les touches fléchées △ ▽ ◁ ▷ pour sélectionner les chiffres désirés.
 
 7. Sauvegardez les paramètres avec la touche `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 

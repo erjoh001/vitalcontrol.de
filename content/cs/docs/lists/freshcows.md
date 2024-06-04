@@ -35,10 +35,10 @@ Některé akce je třeba provést stejným způsobem jako v [seznamu alarmů](..
 
 ### Předběžné kroky {#preliminary-steps}
 
-1. Vyberte položku menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Seznamy" /> `Seznamy` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
+1. Vyberte položku menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Seznamy" /> `{{<T "Lists" >}}` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `{{<T "Ok" >}}`.
 
 
-2. Otevře se podnabídka, ve které se zobrazí různé seznamy. Vyberte seznam `Čerstvé krávy` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Potvrďte tlačítkem `OK`.
+2. Otevře se podnabídka, ve které se zobrazí různé seznamy. Vyberte seznam `{{<T "FreshCows" >}}` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 3. Seznam čerstvých krav je nyní otevřen.
 
@@ -48,9 +48,9 @@ Některé akce je třeba provést stejným způsobem jako v [seznamu alarmů](..
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Přepnout stav alarmu` a vyberte tuto možnost stisknutím středního tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která uvádí možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "ToggleAlarmStatus" >}}` a vyberte tuto možnost stisknutím středního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu čerstvých krav použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte tlačítkem `OK`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte tlačítkem `OK`.
+3. V seznamu čerstvých krav použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte tlačítkem `{{<T "Ok" >}}`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 4. Zvíře je nyní přidáno nebo odstraněno ze seznamu alarmů v závislosti na jeho počátečním stavu.
 
@@ -60,9 +60,9 @@ Některé akce je třeba provést stejným způsobem jako v [seznamu alarmů](..
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která uvádí možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Přepnout stav sledování` a vyberte tuto možnost stisknutím středního tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která uvádí možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "ToggleWatchStatus" >}}` a vyberte tuto možnost stisknutím středního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu čerstvých krav použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte tlačítkem `OK`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte tlačítkem `OK`.
+3. V seznamu čerstvých krav použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte tlačítkem `{{<T "Ok" >}}`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte tlačítkem `{{<T "Ok" >}}`.
 
 4. Zvíře je nyní přidáno nebo odstraněno ze seznamu sledování v závislosti na jeho počátečním stavu.
 
@@ -75,10 +75,10 @@ Pokud je tato funkce aktivována, zvířata, u kterých bylo provedeno měření
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; k vyvolání vyskakovacího menu, které obsahuje různé možnosti. Použijte šipky △ ▽ k zvýraznění možnosti `Skrýt měřené krávy` a tuto možnost přepněte stisknutím centrálního tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; k vyvolání vyskakovacího menu, které obsahuje různé možnosti. Použijte šipky △ ▽ k zvýraznění možnosti `{{<T "HideMeasuredCows" >}}` a tuto možnost přepněte stisknutím centrálního tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu čerstvých krav použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete hledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a použijte šipky ◁ ▷ △ ▽ k výběru požadovaných číslic. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu čerstvých krav použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete hledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a použijte šipky ◁ ▷ △ ▽ k výběru požadovaných číslic. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Funkce `skrýt měřené` je nyní aktivována. Aktivace je indikována zaškrtnutím políčka.
+4. Funkce `{{<T "HideMeasuredCows" >}}` je nyní aktivována. Aktivace je indikována zaškrtnutím políčka.
 
    ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Hide measured cows")

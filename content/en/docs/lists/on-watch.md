@@ -42,11 +42,11 @@ The alarm list is structured as follows:
 
 ### Preliminary Steps {#preliminary-steps}
 
-1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` menu item in the main screen of your VitalControl device and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various lists are displayed. Select the list &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `On watch`. Confirm with `OK`.
+2. A submenu opens in which various lists are displayed. Select the list &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `{{<T "OnWatch" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3. The list `On watch` is now open.
+3. The list `{{<T "OnWatch" >}}` is now open.
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Preliminary Steps")
 
@@ -54,9 +54,9 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Remove from watch list` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "RemoveFromWatchList" >}}` and select this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The animal is now removed from the watch list.
 
@@ -66,9 +66,9 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle alarm status` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "ToggleAlarmStatus" >}}` and select this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the on watch list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The animal is now added or removed from the alarm list depending on its initial status.
 

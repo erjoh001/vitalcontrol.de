@@ -38,9 +38,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 ### Alustavat askeleet {#preliminary-steps}
 
-1. Valitse <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listat" /> `Listat` -valikko päävalikosta VitalControl-laitteellasi ja paina `OK` -nappia.
+1. Valitse <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listat" /> `{{<T "Lists" >}}` -valikko päävalikosta VitalControl-laitteellasi ja paina `{{<T "Ok" >}}` -nappia.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia listakuvakkeita. Korosta kuvake <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Hälytys` ja vahvista valinta painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia listakuvakkeita. Korosta kuvake <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `{{<T "Alarm" >}}` ja vahvista valinta painamalla `{{<T "Ok" >}}`.
 
 3. Hälytyslista on nyt avoinna.
 
@@ -50,11 +50,11 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat askeleet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Toimintovalikko` ja valitse toiminto painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "ActionMenu" >}}` ja valitse toiminto painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista painamalla `OK`. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `OK`.
+3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista painamalla `{{<T "Ok" >}}`. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `{{<T "Ok" >}}`.
 
-4. `Toiminnot`-valikko avautuu automaattisesti. Toimintojen käsittely löytyy [täältä](/fi/docs/actions/).
+4. `{{<T "Actions" >}}`-valikko avautuu automaattisesti. Toimintojen käsittely löytyy [täältä](/fi/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Toimintovalikko")
 
@@ -62,9 +62,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat askeleet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Tieto eläimistä` ja valitse toiminto painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "AnimalData" >}}` ja valitse toiminto painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista painamalla `OK`. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `OK`.
+3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista painamalla `{{<T "Ok" >}}`. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `{{<T "Ok" >}}`.
 
 4. Tieto eläimistä näytetään nyt.
 
@@ -74,9 +74,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Mittaa lämpötila` ja valitse toiminto painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "TempTaking" >}}` ja valitse toiminto painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista `OK`:lla. Voit myös etsiä eläintä. Käytä `On/Off`-näppäintä <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`:lla.
+3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista `{{<T "Ok" >}}`:lla. Voit myös etsiä eläintä. Käytä `On/Off`-näppäintä <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `{{<T "Ok" >}}`:lla.
 
 4. [Mittaa lämpötila](/fi/docs/actions/measure-temperature/#measure-fever) -toiminto käynnistyy nyt automaattisesti.
 
@@ -86,9 +86,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Arvioi eläin` ja valitse toiminto painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "RateAnimal" >}}` ja valitse toiminto painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista `OK`:lla. Voit myös etsiä eläintä. Käytä `On/Off`-näppäintä <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`:lla.
+3. Hälytyslistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista `{{<T "Ok" >}}`:lla. Voit myös etsiä eläintä. Käytä `On/Off`-näppäintä <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `{{<T "Ok" >}}`:lla.
 
 4. [Arvioi eläin](/fi/docs/actions/rating/#rate-your-animals) -toiminto käynnistyy nyt automaattisesti.
 
@@ -98,9 +98,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Tyhjennä hälytys` ja valitse toiminto painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "ClearAlarm" >}}` ja valitse toiminto painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Valitse hälytyslistalta haluamasi eläin nuolinäppäimillä △ ▽ ja vahvista valinta `OK`-painikkeella. Voit myös etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valitse haluamasi numerot nuolinäppäimillä ◁ ▷ △ ▽. Lopuksi vahvista valinta `OK`-painikkeella.
+3. Valitse hälytyslistalta haluamasi eläin nuolinäppäimillä △ ▽ ja vahvista valinta `{{<T "Ok" >}}`-painikkeella. Voit myös etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valitse haluamasi numerot nuolinäppäimillä ◁ ▷ △ ▽. Lopuksi vahvista valinta `{{<T "Ok" >}}`-painikkeella.
 
 4. Eläin on nyt poistettu hälytyslistalta.
 
@@ -110,9 +110,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Vaihda suerantatila` ja valitse toiminto painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "ToggleWatchStatus" >}}` ja valitse toiminto painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Valitse hälytyslistalta haluamasi eläin nuolinäppäimillä △ ▽ ja vahvista valinta `OK`-painikkeella. Voit myös etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valitse haluamasi numerot nuolinäppäimillä ◁ ▷ △ ▽. Lopuksi vahvista valinta `OK`-painikkeella.
+3. Valitse hälytyslistalta haluamasi eläin nuolinäppäimillä △ ▽ ja vahvista valinta `{{<T "Ok" >}}`-painikkeella. Voit myös etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valitse haluamasi numerot nuolinäppäimillä ◁ ▷ △ ▽. Lopuksi vahvista valinta `{{<T "Ok" >}}`-painikkeella.
 
 4. Eläin on nyt lisätty tai poistettu vahtilistalta riippuen sen alkuperäisestä tilasta.
 
@@ -122,9 +122,9 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa eri vaihtoehdot. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Etsi eläin` ja käynnistä etsintätoiminto painamalla keskimmäistä `OK`-näppäintä tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka listaa eri vaihtoehdot. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "SearchAnimal" >}}` ja käynnistä etsintätoiminto painamalla keskimmäistä `{{<T "Ok" >}}`-näppäintä tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Käytä nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi haluamasi eläimen tunnuksen. Voit myös etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valitse haluamasi numerot nuolinäppäimillä ◁ ▷ △ ▽. Lopuksi vahvista valinta `OK`.
+3. Käytä nuolinäppäimiä △ ▽ ◁ ▷ valitaksesi haluamasi eläimen tunnuksen. Voit myös etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valitse haluamasi numerot nuolinäppäimillä ◁ ▷ △ ▽. Lopuksi vahvista valinta `{{<T "Ok" >}}`.
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Etsi eläin")
 
@@ -132,7 +132,7 @@ Hälytyslista on järjestetty seuraavasti:
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3` näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa eri vaihtoehtoja. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Aseta suodatin` ja kutsu suodatintoiminto painamalla keskimmäistä `OK` näppäintä tai `F3` näppäintä `OK`.
+2. Käytä `F3` näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa eri vaihtoehtoja. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "SetFilter" >}}` ja kutsu suodatintoiminto painamalla keskimmäistä `{{<T "Ok" >}}` näppäintä tai `F3` näppäintä `{{<T "Ok" >}}`.
 
 3. Aseta haluamasi suodatin. Ohjeet suodattimen käyttöön löydät [täältä](../../filter/).
 

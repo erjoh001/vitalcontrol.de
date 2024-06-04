@@ -42,11 +42,11 @@ La lista di allarme è strutturata come segue:
 
 ### Passaggi Preliminari {#preliminary-steps}
 
-1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Liste` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
+1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzate varie liste. Seleziona la lista &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `In osservazione`. Conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie liste. Seleziona la lista &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `{{<T "OnWatch" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-3. La lista `In osservazione` è ora aperta.
+3. La lista `{{<T "OnWatch" >}}` è ora aperta.
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Preliminary Steps")
 
@@ -54,9 +54,9 @@ La lista di allarme è strutturata come segue:
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Usa i tasti freccia △ ▽ per evidenziare l'azione `Rimuovere dalla lista di osservazione` e seleziona questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Usa i tasti freccia △ ▽ per evidenziare l'azione `{{<T "RemoveFromWatchList" >}}` e seleziona questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno della lista in osservazione, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno della lista in osservazione, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 4. L'animale è ora rimosso dalla lista di osservazione.
 
@@ -66,9 +66,9 @@ La lista di allarme è strutturata come segue:
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Usa i tasti freccia △ ▽ per evidenziare l'azione `Attivare/disattivare lo stato di allarme` e seleziona questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Usa i tasti freccia △ ▽ per evidenziare l'azione `{{<T "ToggleAlarmStatus" >}}` e seleziona questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno della lista in osservazione, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno della lista in osservazione, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 
 4. L'animale viene ora aggiunto o rimosso dalla lista degli allarmi a seconda del suo stato iniziale.

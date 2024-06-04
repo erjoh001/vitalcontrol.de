@@ -35,9 +35,9 @@ Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco degli a
 
 ### Passaggi Preliminari {#preliminary-steps}
 
-1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `Lists` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
+1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzati vari elenchi. Seleziona l'elenco `Mucche fresche` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzati vari elenchi. Seleziona l'elenco `{{<T "FreshCows" >}}` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Conferma con `{{<T "Ok" >}}`.
 
 3. L'elenco delle mucche fresche è ora aperto.
 
@@ -47,9 +47,9 @@ Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco degli a
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le azioni possibili quando si preme il tasto `OK`. Usa i tasti freccia △ ▽ per evidenziare l'azione `Attivare/disattivare lo stato di allarme` e seleziona questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le azioni possibili quando si preme il tasto `{{<T "Ok" >}}`. Usa i tasti freccia △ ▽ per evidenziare l'azione `{{<T "ToggleAlarmStatus" >}}` e seleziona questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco delle mucche fresche, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno dell'elenco delle mucche fresche, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 4. L'animale è ora aggiunto o rimosso dall'elenco degli allarmi a seconda del suo stato iniziale.
 
@@ -59,9 +59,9 @@ Alcune azioni devono essere eseguite nello stesso modo come nell'[elenco degli a
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le azioni possibili quando si preme il tasto `OK`. Usa i tasti freccia △ ▽ per evidenziare l'azione `Attivare/disattivare lo stato di sorveglianza` e seleziona questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le azioni possibili quando si preme il tasto `{{<T "Ok" >}}`. Usa i tasti freccia △ ▽ per evidenziare l'azione `{{<T "ToggleWatchStatus" >}}` e seleziona questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco delle mucche fresche, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno dell'elenco delle mucche fresche, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 4. L'animale è ora aggiunto o rimosso dall'elenco di sorveglianza a seconda del suo stato iniziale.
 
@@ -74,10 +74,10 @@ Se questa funzione è attivata, gli animali per i quali è stata effettuata una 
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare l'opzione `Nascondi vacche misurate` e attiva/disattiva questa opzione premendo il pulsante centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare l'opzione `{{<T "HideMeasuredCows" >}}` e attiva/disattiva questa opzione premendo il pulsante centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno della lista delle vacche fresche, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno della lista delle vacche fresche, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
-4. La funzione `nascondi misurate` è ora attivata. L'attivazione è indicata dalla spunta nella casella.
+4. La funzione `{{<T "HideMeasuredCows" >}}` è ora attivata. L'attivazione è indicata dalla spunta nella casella.
 
    ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Hide measured cows")

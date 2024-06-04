@@ -30,9 +30,9 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 ### Preliminary Steps {#preliminary-steps}
 
-1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" />  `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" />  `{{<T "Lists" >}}` menu item in the main screen of your VitalControl device and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various list icons are displayed. Highlight the icon <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Action list" /> `Action list` and confirm with `OK`.
+2. A submenu opens in which various list icons are displayed. Highlight the icon <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Action list" /> `{{<T "ActionList" >}}` and confirm with `{{<T "Ok" >}}`.
 
 3. The action list is now open.
 
@@ -42,9 +42,9 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Weigh animals` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "WeighAnimal" >}}` and select this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The [weigh animals](../../actions/record-weight/) menu will open automatically.
 
@@ -54,9 +54,9 @@ Some actions are to be carried out in the same way as in the [alarm list](../ala
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Chain of action` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "ActionChain" >}}` and select this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The [action chain](../../chain-of-actions) function will open automatically.
 
@@ -68,9 +68,9 @@ This function is used to add a transponder to the data record of animals that ha
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Link transponder` and select this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "LinkTransponder" >}}` and select this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the action list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. Now scan in the transponder of the corresponding animal.
 
@@ -82,8 +82,8 @@ If this function is activated, the animals for which an action has been performe
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the option `Hide after action` and toggle this option by pressing the central `OK` button or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the option `{{<T "HideAfterAction" >}}` and toggle this option by pressing the central `{{<T "Ok" >}}` button or the `F3` key `{{<T "Ok" >}}`.
 
-3. The `Hide after action` function is now enabled/disabled. Activation is indicated via a check mark inside the box.
+3. The `{{<T "HideAfterAction" >}}` function is now enabled/disabled. Activation is indicated via a check mark inside the box.
 
    ![VitalControl Lists Action list](../images/hideafteraction.png "Hide after action")

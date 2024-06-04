@@ -30,9 +30,9 @@ Mõned tegevused tuleb teha samamoodi nagu [häirete nimekirjas](../alarm). Neid
 
 ### Eelsammud {#preliminary-steps}
 
-1. Valige peamenüüs <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Nimekirjad" />  `Nimekirjad` menüüpunkt ja vajutage `OK` nuppu.
+1. Valige peamenüüs <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Nimekirjad" />  `{{<T "Lists" >}}` menüüpunkt ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad nimekirja ikoonid. Tõstke esile ikoon <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Tegevuste nimekiri" /> `Tegevuste nimekiri` ja kinnitage `OK` nupuga.
+2. Avaneb alammenüü, kus kuvatakse erinevad nimekirja ikoonid. Tõstke esile ikoon <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Tegevuste nimekiri" /> `{{<T "ActionList" >}}` ja kinnitage `{{<T "Ok" >}}` nupuga.
 
 3. Tegevuste nimekiri on nüüd avatud.
 
@@ -42,9 +42,9 @@ Mõned tegevused tuleb teha samamoodi nagu [häirete nimekirjas](../alarm). Neid
 
 1. Täitke eelsammud.
 
-2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused `OK` nupu vajutamisel. Kasutage nooleklahve △ ▽, et esile tõsta tegevus `Kaaluge loomi` ja valige see võimalus vajutades keskset `OK` nuppu või `F3` klahvi `OK`.
+2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused `{{<T "Ok" >}}` nupu vajutamisel. Kasutage nooleklahve △ ▽, et esile tõsta tegevus `{{<T "WeighAnimal" >}}` ja valige see võimalus vajutades keskset `{{<T "Ok" >}}` nuppu või `F3` klahvi `{{<T "Ok" >}}`.
 
-3. Tegevuste nimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage `OK` nupuga. Alternatiivina võite otsida looma. Kasutage `Sees/Väljas` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Otsi" /> ja kasutage nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage `OK`.
+3. Tegevuste nimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage `{{<T "Ok" >}}` nupuga. Alternatiivina võite otsida looma. Kasutage `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Otsi" /> ja kasutage nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage `{{<T "Ok" >}}`.
 
 4. [Loomade kaalumise](../../actions/record-weight/) menüü avaneb automaatselt.
 
@@ -54,9 +54,9 @@ Mõned tegevused tuleb teha samamoodi nagu [häirete nimekirjas](../alarm). Neid
 
 1. Viige lõpule eelnevad sammud.
 
-2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused `OK` nupu vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `Tegevuste jada` esiletõstmiseks ja valige see võimalus keskse `OK` nupu või `F3` klahvi `OK` abil.
+2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused `{{<T "Ok" >}}` nupu vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `{{<T "ActionChain" >}}` esiletõstmiseks ja valige see võimalus keskse `{{<T "Ok" >}}` nupu või `F3` klahvi `{{<T "Ok" >}}` abil.
 
-3. Tegevuste loendis kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage `OK`-ga. Alternatiivina võite looma otsida. Kasutage `Sees/Väljas` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Otsing" /> ja valige nooleklahvidega ◁ ▷ △ ▽ soovitud numbrid. Lõpuks kinnitage `OK`-ga.
+3. Tegevuste loendis kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage `{{<T "Ok" >}}`-ga. Alternatiivina võite looma otsida. Kasutage `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Otsing" /> ja valige nooleklahvidega ◁ ▷ △ ▽ soovitud numbrid. Lõpuks kinnitage `{{<T "Ok" >}}`-ga.
 
 4. [Tegevuste jada](../../chain-of-actions) funktsioon avaneb automaatselt.
 
@@ -68,9 +68,9 @@ Seda funktsiooni kasutatakse transponderi lisamiseks loomade andmekirjele, kelle
 
 1. Viige lõpule eelnevad sammud.
 
-2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused `OK` nupu vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `Ühenda transponder` esiletõstmiseks ja valige see võimalus keskse `OK` nupu või `F3` klahvi `OK` abil.
+2. Kasutage `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused `{{<T "Ok" >}}` nupu vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `{{<T "LinkTransponder" >}}` esiletõstmiseks ja valige see võimalus keskse `{{<T "Ok" >}}` nupu või `F3` klahvi `{{<T "Ok" >}}` abil.
 
-3. Tegevuste loendis kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage `OK`-ga. Alternatiivina võite looma otsida. Kasutage `Sees/Väljas` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Otsing" /> ja valige nooleklahvidega ◁ ▷ △ ▽ soovitud numbrid. Lõpuks kinnitage `OK`-ga.
+3. Tegevuste loendis kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage `{{<T "Ok" >}}`-ga. Alternatiivina võite looma otsida. Kasutage `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Otsing" /> ja valige nooleklahvidega ◁ ▷ △ ▽ soovitud numbrid. Lõpuks kinnitage `{{<T "Ok" >}}`-ga.
 
 4. Skaneerige nüüd vastava looma transponder.
 
@@ -82,8 +82,8 @@ Kui see funktsioon on aktiveeritud, peidetakse loomad, kellele on tegevus tehtud
 
 1. Täida eelnevad sammud.
 
-2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb erinevaid valikuid. Kasuta nooleklahve △ ▽, et esile tõsta valik `Peida pärast tegevust` ja lülita see valik sisse/välja vajutades keskset `OK` nuppu või `F3` klahvi `OK`.
+2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb erinevaid valikuid. Kasuta nooleklahve △ ▽, et esile tõsta valik `{{<T "HideAfterAction" >}}` ja lülita see valik sisse/välja vajutades keskset `{{<T "Ok" >}}` nuppu või `F3` klahvi `{{<T "Ok" >}}`.
 
-3. `Peida pärast tegevust` funktsioon on nüüd sisse/välja lülitatud. Aktiveerimist näitab märkeruut.
+3. `{{<T "HideAfterAction" >}}` funktsioon on nüüd sisse/välja lülitatud. Aktiveerimist näitab märkeruut.
 
    ![VitalControl Lists Action list](../images/hideafteraction.png "Peida pärast tegevust")

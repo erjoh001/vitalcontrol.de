@@ -42,11 +42,11 @@ La lista de alarmas está estructurada de la siguiente manera:
 
 ### Pasos Preliminares {#preliminary-steps}
 
-1. Seleccione el elemento del menú <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listas" /> `Listas` en la pantalla principal de su dispositivo VitalControl y presione el botón `OK`.
+1. Seleccione el elemento del menú <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listas" /> `{{<T "Lists" >}}` en la pantalla principal de su dispositivo VitalControl y presione el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias listas. Seleccione la lista &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="Lista 'En vigilancia'" /> `En seguimiento`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varias listas. Seleccione la lista &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="Lista 'En vigilancia'" /> `{{<T "OnWatch" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. La lista `En seguimiento` ahora está abierta.
+3. La lista `{{<T "OnWatch" >}}` ahora está abierta.
 
    ![Listas de VitalControl Lista En vigilancia](../images/firststeps2.png "Pasos Preliminares")
 
@@ -54,9 +54,9 @@ La lista de alarmas está estructurada de la siguiente manera:
 
 1. Complete los pasos preliminares.
 
-2. Utilice la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `OK`. Use las teclas de flecha △ ▽ para resaltar la acción `Quitar de la lista de seguimiento` y seleccione esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Utilice la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `{{<T "Ok" >}}`. Use las teclas de flecha △ ▽ para resaltar la acción `{{<T "RemoveFromWatchList" >}}` y seleccione esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. Dentro de la lista en vigilancia, use las teclas de flecha △ ▽ para seleccionar el animal deseado y confirme con `OK`. Alternativamente, puede buscar un animal. Use el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y use las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirme con `OK`.
+3. Dentro de la lista en vigilancia, use las teclas de flecha △ ▽ para seleccionar el animal deseado y confirme con `{{<T "Ok" >}}`. Alternativamente, puede buscar un animal. Use el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y use las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirme con `{{<T "Ok" >}}`.
 
 4. El animal ahora se ha eliminado de la lista de vigilancia.
 
@@ -66,9 +66,9 @@ La lista de alarmas está estructurada de la siguiente manera:
 
 1. Complete los pasos preliminares.
 
-2. Utilice la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `OK`. Use las teclas de flecha △ ▽ para resaltar la acción `Cambiar estado alarma` y seleccione esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Utilice la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `{{<T "Ok" >}}`. Use las teclas de flecha △ ▽ para resaltar la acción `{{<T "ToggleAlarmStatus" >}}` y seleccione esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. Dentro de la lista en vigilancia, use las teclas de flecha △ ▽ para seleccionar el animal deseado y confirme con `OK`. Alternativamente, puede buscar un animal. Use el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y use las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirme con `OK`.
+3. Dentro de la lista en vigilancia, use las teclas de flecha △ ▽ para seleccionar el animal deseado y confirme con `{{<T "Ok" >}}`. Alternativamente, puede buscar un animal. Use el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y use las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirme con `{{<T "Ok" >}}`.
 
 4. El animal ahora se añade o se elimina de la lista de alarmas dependiendo de su estado inicial.
 

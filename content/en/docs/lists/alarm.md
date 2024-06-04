@@ -38,9 +38,9 @@ The alarm list is structured as follows:
 
 ### Preliminary Steps {#preliminary-steps}
 
-1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Lists` menu item in the main screen of your VitalControl device and press the `OK` button.
+1. Select the <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` menu item in the main screen of your VitalControl device and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various list icons are displayed. Highlight the icon <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Alarm` and confirm with `OK`.
+2. A submenu opens in which various list icons are displayed. Highlight the icon <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `{{<T "Alarm" >}}` and confirm with `{{<T "Ok" >}}`.
 
 3. The alarm list is now open.
 
@@ -50,11 +50,11 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Full action menu` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "ActionMenu" >}}` and select the action by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
-4. The `Actions` menu will open automatically. The handling of the actions can be found [here](/en/docs/actions/).
+4. The `{{<T "Actions" >}}` menu will open automatically. The handling of the actions can be found [here](/en/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
@@ -62,9 +62,9 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Animal data` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "AnimalData" >}}` and select the action by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The animal data will now be displayed.
 
@@ -74,9 +74,9 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Take Temperature` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "TempTaking" >}}` and select the action by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The [Measure temperature](/en/docs/actions/measure-temperature/#measure-fever) function is now started automatically.
 
@@ -86,9 +86,9 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Rate animal` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "RateAnimal" >}}` and select the action by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The [Rate animal](/en/docs/actions/rating/#rate-your-animals) function is now started automatically.
 
@@ -98,9 +98,9 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Clear alarm` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "ClearAlarm" >}}` and select the action by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The animal is now removed from the alarm list.
 
@@ -110,9 +110,9 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `OK` key. Use the arrow keys △ ▽ to highlight the action `Toggle watch status` and select the action by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists the possible actions when pressing `{{<T "Ok" >}}` key. Use the arrow keys △ ▽ to highlight the action `{{<T "ToggleWatchStatus" >}}` and select the action by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
-3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `OK`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Within the alarm list, use the arrow keys △ ▽ to select the desired animal and confirm with `{{<T "Ok" >}}`. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
 4. The animal is now added or removed from the watch list depending on its initial status.
 
@@ -122,9 +122,9 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `Search animal` and invoke the search function by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `{{<T "SearchAnimal" >}}` and invoke the search function by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
-3. Use the arrow keys △ ▽ ◁ ▷ to select the desired animal ID. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `OK`.
+3. Use the arrow keys △ ▽ ◁ ▷ to select the desired animal ID. Alternatively, you can search for an animal. Use the `On/Off` button <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> and use the arrow keys ◁ ▷ △ ▽ to select the desired digits. Finally confirm with `{{<T "Ok" >}}`.
 
    ![VitalControl Lists Alarmlist](../images/searchanimal.png "Search animal")
 
@@ -132,7 +132,7 @@ The alarm list is structured as follows:
 
 1. Complete the preliminary steps.
 
-2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `Set filter` and invoke the filter function by pressing the central `OK` key or the `F3` key `OK`.
+2. Use the `F3` key &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; to invoke a popup menu that lists various options. Use the arrow keys △ ▽ to highlight the function `{{<T "SetFilter" >}}` and invoke the filter function by pressing the central `{{<T "Ok" >}}` key or the `F3` key `{{<T "Ok" >}}`.
 
 3. Set the desired filter. You can find how to use the filter [here](../../filter/#applying-filters).
 

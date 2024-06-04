@@ -38,10 +38,10 @@ A riasztási lista a következőképpen van felépítve:
 
 ### Előkészítő lépések {#preliminary-steps}
 
-1. Válassza ki a <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listák" /> `Listák` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
+1. Válassza ki a <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listák" /> `{{<T "Lists" >}}` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
 
-2. Megnyílik egy almenü, amelyben különböző listaikonok jelennek meg. Jelölje ki az <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Riasztás` ikont, és erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző listaikonok jelennek meg. Jelölje ki az <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `{{<T "Alarm" >}}` ikont, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 3. A riasztási lista most megnyílt.
 
@@ -51,11 +51,11 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előkészítő lépéseket.
 
-2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megnyitásához, amely felsorolja a lehetséges műveleteket az `OK` gomb megnyomásakor. Használja a nyílgombokat △ ▽ a `Teljes műveleti menü` művelet kijelöléséhez, és válassza ki a műveletet a középső `OK` gomb vagy az `F3` gomb `OK` megnyomásával.
+2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megnyitásához, amely felsorolja a lehetséges műveleteket az `{{<T "Ok" >}}` gomb megnyomásakor. Használja a nyílgombokat △ ▽ a `{{<T "ActionMenu" >}}` művelet kijelöléséhez, és válassza ki a műveletet a középső `{{<T "Ok" >}}` gomb vagy az `F3` gomb `{{<T "Ok" >}}` megnyomásával.
 
-3. A riasztási listában használja a nyílgombokat △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílgombokat ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. A riasztási listában használja a nyílgombokat △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatívaként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílgombokat ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Az `Műveletek` menü automatikusan megnyílik. A műveletek kezeléséről [itt](/hu/docs/actions/) található információ.
+4. Az `{{<T "Actions" >}}` menü automatikusan megnyílik. A műveletek kezeléséről [itt](/hu/docs/actions/) található információ.
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Műveleti menü")
 
@@ -63,9 +63,9 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előkészítő lépéseket.
 
-2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megnyitásához, amely felsorolja a lehetséges műveleteket az `OK` gomb megnyomásakor. Használja a nyílgombokat △ ▽ az `Állat adatok` művelet kijelöléséhez, és válassza ki a műveletet a középső `OK` gomb vagy az `F3` gomb `OK` megnyomásával.
+2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megnyitásához, amely felsorolja a lehetséges műveleteket az `{{<T "Ok" >}}` gomb megnyomásakor. Használja a nyílgombokat △ ▽ az `{{<T "AnimalData" >}}` művelet kijelöléséhez, és válassza ki a műveletet a középső `{{<T "Ok" >}}` gomb vagy az `F3` gomb `{{<T "Ok" >}}` megnyomásával.
 
-3. A riasztási listában használja a nyílgombokat △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílgombokat ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. A riasztási listában használja a nyílgombokat △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatívaként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílgombokat ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat adatai most megjelennek.
 
@@ -75,9 +75,9 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja az `OK` billentyű megnyomásakor elérhető műveleteket. Használja a nyílbillentyűket △ ▽ a `Hőmérséklet mérése` művelet kiemeléséhez, és válassza ki a műveletet a középső `OK` billentyű vagy az `F3` billentyű `OK` megnyomásával.
+2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja az `{{<T "Ok" >}}` billentyű megnyomásakor elérhető műveleteket. Használja a nyílbillentyűket △ ▽ a `{{<T "TempTaking" >}}` művelet kiemeléséhez, és válassza ki a műveletet a középső `{{<T "Ok" >}}` billentyű vagy az `F3` billentyű `{{<T "Ok" >}}` megnyomásával.
 
-3. A riasztási listában használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatív megoldásként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. A riasztási listában használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatív megoldásként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. A [Hőmérséklet mérése](/hu/docs/actions/measure-temperature/#measure-fever) funkció most automatikusan elindul.
 
@@ -87,9 +87,9 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja az `OK` billentyű megnyomásakor elérhető műveleteket. Használja a nyílbillentyűket △ ▽ az `Állat értékelése` művelet kiemeléséhez, és válassza ki a műveletet a középső `OK` billentyű vagy az `F3` billentyű `OK` megnyomásával.
+2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja az `{{<T "Ok" >}}` billentyű megnyomásakor elérhető műveleteket. Használja a nyílbillentyűket △ ▽ az `{{<T "RateAnimal" >}}` művelet kiemeléséhez, és válassza ki a műveletet a középső `{{<T "Ok" >}}` billentyű vagy az `F3` billentyű `{{<T "Ok" >}}` megnyomásával.
 
-3. A riasztási listában használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatív megoldásként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. A riasztási listában használja a nyílbillentyűket △ ▽ a kívánt állat kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatív megoldásként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> és használja a nyílbillentyűket ◁ ▷ △ ▽ a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az [Állat értékelése](/hu/docs/actions/rating/#rate-your-animals) funkció most automatikusan elindul.
 
@@ -99,10 +99,10 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja az `OK` billentyű megnyomásakor elérhető műveleteket. Használja a nyílbillentyűket △ ▽ a `Riasztás törlése` művelet kiemeléséhez, és válassza ki a műveletet a középső `OK` billentyű vagy az `F3` billentyű `OK` megnyomásával.
+2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja az `{{<T "Ok" >}}` billentyű megnyomásakor elérhető műveleteket. Használja a nyílbillentyűket △ ▽ a `{{<T "ClearAlarm" >}}` művelet kiemeléséhez, és válassza ki a műveletet a középső `{{<T "Ok" >}}` billentyű vagy az `F3` billentyű `{{<T "Ok" >}}` megnyomásával.
 
 
-3. Az ébresztési listában használja a △ ▽ nyílbillentyűket a kívánt állat kiválasztásához, majd erősítse meg az `OK` gombbal. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Keresés" /> és használja a ◁ ▷ △ ▽ nyílbillentyűket a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. Az ébresztési listában használja a △ ▽ nyílbillentyűket a kívánt állat kiválasztásához, majd erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatívaként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Keresés" /> és használja a ◁ ▷ △ ▽ nyílbillentyűket a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat most eltávolításra került az ébresztési listából.
 
@@ -112,9 +112,9 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Felugró menü megnyitása" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja a lehetséges műveleteket az `OK` gomb megnyomásakor. Használja a △ ▽ nyílbillentyűket a `Figyelési állapot váltása` művelet kiemeléséhez, majd válassza ki a műveletet a középső `OK` gomb vagy az `F3` gomb `OK` megnyomásával.
+2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Felugró menü megnyitása" />&nbsp; egy felugró menü megjelenítéséhez, amely felsorolja a lehetséges műveleteket az `{{<T "Ok" >}}` gomb megnyomásakor. Használja a △ ▽ nyílbillentyűket a `{{<T "ToggleWatchStatus" >}}` művelet kiemeléséhez, majd válassza ki a műveletet a középső `{{<T "Ok" >}}` gomb vagy az `F3` gomb `{{<T "Ok" >}}` megnyomásával.
 
-3. Az ébresztési listában használja a △ ▽ nyílbillentyűket a kívánt állat kiválasztásához, majd erősítse meg az `OK` gombbal. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Keresés" /> és használja a ◁ ▷ △ ▽ nyílbillentyűket a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. Az ébresztési listában használja a △ ▽ nyílbillentyűket a kívánt állat kiválasztásához, majd erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatívaként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Keresés" /> és használja a ◁ ▷ △ ▽ nyílbillentyűket a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat most hozzáadásra vagy eltávolításra került a figyelési listából az eredeti állapotától függően.
 
@@ -124,9 +124,9 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Felugró menü megnyitása" />&nbsp; egy felugró menü megjelenítéséhez, amely különböző opciókat sorol fel. Használja a △ ▽ nyílbillentyűket a `Állat keresése` funkció kiemeléséhez, majd indítsa el a keresési funkciót a középső `OK` gomb vagy az `F3` gomb `OK` megnyomásával.
+2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Felugró menü megnyitása" />&nbsp; egy felugró menü megjelenítéséhez, amely különböző opciókat sorol fel. Használja a △ ▽ nyílbillentyűket a `{{<T "SearchAnimal" >}}` funkció kiemeléséhez, majd indítsa el a keresési funkciót a középső `{{<T "Ok" >}}` gomb vagy az `F3` gomb `{{<T "Ok" >}}` megnyomásával.
 
-3. Használja a △ ▽ ◁ ▷ nyílbillentyűket a kívánt állat azonosítójának kiválasztásához. Alternatívaként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Keresés" /> és használja a ◁ ▷ △ ▽ nyílbillentyűket a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. Használja a △ ▽ ◁ ▷ nyílbillentyűket a kívánt állat azonosítójának kiválasztásához. Alternatívaként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Keresés" /> és használja a ◁ ▷ △ ▽ nyílbillentyűket a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Állat keresése")
 
@@ -134,7 +134,7 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Felugró menü megnyitása" />&nbsp; egy felugró menü megjelenítéséhez, amely különböző opciókat sorol fel. Használja a nyílbillentyűket △ ▽ a `Szűrő beállítása` funkció kiemeléséhez, és a szűrő funkció aktiválásához nyomja meg a középső `OK` gombot vagy az `F3` `OK` gombot.
+2. Használja az `F3` billentyűt &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Felugró menü megnyitása" />&nbsp; egy felugró menü megjelenítéséhez, amely különböző opciókat sorol fel. Használja a nyílbillentyűket △ ▽ a `{{<T "SetFilter" >}}` funkció kiemeléséhez, és a szűrő funkció aktiválásához nyomja meg a középső `{{<T "Ok" >}}` gombot vagy az `F3` `{{<T "Ok" >}}` gombot.
 
 3. Állítsa be a kívánt szűrőt. A szűrő használatáról [itt](../../filter/#applying-filters) talál információt.
 

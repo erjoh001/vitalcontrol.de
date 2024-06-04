@@ -35,9 +35,9 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 ### Étapes préliminaires {#preliminary-steps}
 
-1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Listes" /> `Listes` dans l'écran principal de votre appareil VitalControl et appuyez sur le bouton `OK`.
+1. Sélectionnez l'élément de menu <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Listes" /> `{{<T "Lists" >}}` dans l'écran principal de votre appareil VitalControl et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel diverses listes sont affichées. Sélectionnez la liste `Vaches fraîches` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel diverses listes sont affichées. Sélectionnez la liste `{{<T "FreshCows" >}}` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Confirmez avec `{{<T "Ok" >}}`.
 
 3. La liste des vaches fraîches est maintenant ouverte.
 
@@ -47,9 +47,9 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `Modifier statut de l'alarme` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "ToggleAlarmStatus" >}}` et sélectionnez cette option en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 4. L'animal est maintenant ajouté ou retiré de la liste d'alerte selon son statut initial.
 
@@ -59,9 +59,9 @@ Certaines actions doivent être effectuées de la même manière que dans la [li
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `OK`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `revenir sur statute 'suivi'` et sélectionnez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; pour invoquer un menu contextuel qui liste les actions possibles lors de l'appui sur la touche `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'action `{{<T "ToggleWatchStatus" >}}` et sélectionnez cette option en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 4. L'animal est maintenant ajouté ou retiré de la liste de surveillance selon son statut initial.
 
@@ -73,10 +73,10 @@ Si cette fonction est activée, les animaux pour lesquels une mesure de tempéra
 
 1. Complétez les étapes préliminaires.
 
-2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'option `Masquer anim. mesurés` et activez cette option en appuyant sur le bouton central `OK` ou la touche `F3` `OK`.
+2. Utilisez la touche `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; pour invoquer un menu popup qui liste différentes options. Utilisez les touches fléchées △ ▽ pour mettre en surbrillance l'option `{{<T "HideMeasuredCows" >}}` et activez cette option en appuyant sur le bouton central `{{<T "Ok" >}}` ou la touche `F3` `{{<T "Ok" >}}`.
 
-3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `OK`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+3. Dans la liste des vaches fraîches, utilisez les touches fléchées △ ▽ pour sélectionner l'animal désiré et confirmez avec `{{<T "Ok" >}}`. Alternativement, vous pouvez rechercher un animal. Utilisez le bouton `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> et utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner les chiffres désirés. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
-4. La fonction `Masquer anim. mesurés` est maintenant activée. L'activation est indiquée par une case cochée.
+4. La fonction `{{<T "HideMeasuredCows" >}}` est maintenant activée. L'activation est indiquée par une case cochée.
 
 ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Hide measured cows")

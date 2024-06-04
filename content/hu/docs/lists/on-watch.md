@@ -42,11 +42,11 @@ A riasztási lista a következőképpen van felépítve:
 
 ### Előzetes lépések {#preliminary-steps}
 
-1. Válassza ki a <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Listák` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `OK` gombot.
+1. Válassza ki a <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` menüpontot a VitalControl készülék főképernyőjén, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző listák jelennek meg. Válassza ki a &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `Megfigyelés alatt` listát. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző listák jelennek meg. Válassza ki a &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `{{<T "OnWatch" >}}` listát. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. A `Megfigyelés alatt` lista most megnyílik.
+3. A `{{<T "OnWatch" >}}` lista most megnyílik.
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Előzetes lépések")
 
@@ -54,9 +54,9 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megnyitásához, amely felsorolja az `OK` gomb megnyomásakor elérhető műveleteket. Használja a △ ▽ nyílgombokat a `Eltávolítás a megfigyelési listáról` művelet kiemeléséhez, és válassza ezt az opciót a középső `OK` gomb vagy az `F3` gomb `OK` megnyomásával.
+2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megnyitásához, amely felsorolja az `{{<T "Ok" >}}` gomb megnyomásakor elérhető műveleteket. Használja a △ ▽ nyílgombokat a `{{<T "RemoveFromWatchList" >}}` művelet kiemeléséhez, és válassza ezt az opciót a középső `{{<T "Ok" >}}` gomb vagy az `F3` gomb `{{<T "Ok" >}}` megnyomásával.
 
-3. A megfigyelési listán belül használja a △ ▽ nyílgombokat a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatív megoldásként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />, és használja a ◁ ▷ △ ▽ nyílgombokat a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. A megfigyelési listán belül használja a △ ▽ nyílgombokat a kívánt állat kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatív megoldásként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />, és használja a ◁ ▷ △ ▽ nyílgombokat a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat most eltávolításra került a megfigyelési listáról.
 
@@ -66,9 +66,9 @@ A riasztási lista a következőképpen van felépítve:
 
 1. Végezze el az előzetes lépéseket.
 
-2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megnyitásához, amely felsorolja az `OK` gomb megnyomásakor elérhető műveleteket. Használja a △ ▽ nyílgombokat a `Riasztási állapot váltása` művelet kiemeléséhez, és válassza ezt az opciót a középső `OK` gomb vagy az `F3` gomb `OK` megnyomásával.
+2. Használja az `F3` gombot &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; egy felugró menü megnyitásához, amely felsorolja az `{{<T "Ok" >}}` gomb megnyomásakor elérhető műveleteket. Használja a △ ▽ nyílgombokat a `{{<T "ToggleAlarmStatus" >}}` művelet kiemeléséhez, és válassza ezt az opciót a középső `{{<T "Ok" >}}` gomb vagy az `F3` gomb `{{<T "Ok" >}}` megnyomásával.
 
-3. A megfigyelési listán belül használja a △ ▽ nyílgombokat a kívánt állat kiválasztásához, és erősítse meg az `OK` gombbal. Alternatív megoldásként kereshet egy állatot. Használja a `Be/Ki` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />, és használja a ◁ ▷ △ ▽ nyílgombokat a kívánt számjegyek kiválasztásához. Végül erősítse meg az `OK` gombbal.
+3. A megfigyelési listán belül használja a △ ▽ nyílgombokat a kívánt állat kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Alternatív megoldásként kereshet egy állatot. Használja a `On/Off` gombot <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" />, és használja a ◁ ▷ △ ▽ nyílgombokat a kívánt számjegyek kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 
 4. Az állat most hozzáadódik vagy eltávolításra kerül a riasztási listáról az eredeti állapotától függően.

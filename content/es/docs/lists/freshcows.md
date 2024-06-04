@@ -35,9 +35,9 @@ Algunas acciones se llevan a cabo de la misma manera que en la [lista de alarmas
 
 ### Pasos preliminares {#preliminary-steps}
 
-1. Selecciona el elemento del menú <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Listas" /> `Listas` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `OK`.
+1. Selecciona el elemento del menú <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Listas" /> `{{<T "Lists" >}}` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias listas. Selecciona la lista de `Vacas frescas` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Vacas frescas" />. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varias listas. Selecciona la lista de `{{<T "FreshCows" >}}` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Vacas frescas" />. Confirma con `{{<T "Ok" >}}`.
 
 3. La lista de vacas frescas está ahora abierta.
 
@@ -47,9 +47,9 @@ Algunas acciones se llevan a cabo de la misma manera que en la [lista de alarmas
 
 1. Completa los pasos preliminares.
 
-2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las acciones posibles al presionar la tecla `OK`. Usa las teclas de flecha △ ▽ para resaltar la acción `Cambiar estado alarma` y selecciona esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las acciones posibles al presionar la tecla `{{<T "Ok" >}}`. Usa las teclas de flecha △ ▽ para resaltar la acción `{{<T "ToggleAlarmStatus" >}}` y selecciona esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. Dentro de la lista de vacas frescas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
+3. Dentro de la lista de vacas frescas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `{{<T "Ok" >}}`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `{{<T "Ok" >}}`.
 
 4. El animal ahora se añade o se elimina de la lista de alertas dependiendo de su estado inicial.
 
@@ -59,9 +59,9 @@ Algunas acciones se llevan a cabo de la misma manera que en la [lista de alarmas
 
 1. Completa los pasos preliminares.
 
-2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las acciones posibles al presionar la tecla `OK`. Usa las teclas de flecha △ ▽ para resaltar la acción `Cambiar estado de seguimiento` y selecciona esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las acciones posibles al presionar la tecla `{{<T "Ok" >}}`. Usa las teclas de flecha △ ▽ para resaltar la acción `{{<T "ToggleWatchStatus" >}}` y selecciona esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. Dentro de la lista de vacas frescas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
+3. Dentro de la lista de vacas frescas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `{{<T "Ok" >}}`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `{{<T "Ok" >}}`.
 
 4. El animal ahora se añade o se elimina de la lista de vigilancia dependiendo de su estado inicial.
 
@@ -73,10 +73,10 @@ Si esta función está activada, los animales a los que se les ha realizado una 
 
 1. Completa los pasos preliminares.
 
-2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la opción `Ocultar vacas medidas` y activa esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la opción `{{<T "HideMeasuredCows" >}}` y activa esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. Dentro de la lista de vacas frescas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
+3. Dentro de la lista de vacas frescas, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `{{<T "Ok" >}}`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `{{<T "Ok" >}}`.
 
-4. La función `ocultar medidas` ahora está activada. La activación se indica marcando la casilla.
+4. La función `{{<T "HideMeasuredCows" >}}` ahora está activada. La activación se indica marcando la casilla.
 
    ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Ocultar vacas medidas")

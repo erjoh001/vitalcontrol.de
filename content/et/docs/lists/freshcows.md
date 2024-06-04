@@ -35,9 +35,9 @@ Mõned toimingud viiakse läbi samamoodi nagu [häirete nimekirjas](../alarm). N
 
 ### Eelsammud {#preliminary-steps}
 
-1. Valige peamenüüs oma VitalControl seadmel <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Nimekirjad" /> `Nimekirjad` menüüpunkt ja vajutage `OK` nuppu.
+1. Valige peamenüüs oma VitalControl seadmel <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Nimekirjad" /> `{{<T "Lists" >}}` menüüpunkt ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid nimekirju. Valige nimekiri `Värsked lehmad` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid nimekirju. Valige nimekiri `{{<T "FreshCows" >}}` <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Kinnitage valikuga `{{<T "Ok" >}}`.
 
 3. Värskete lehmade nimekiri on nüüd avatud.
 
@@ -47,9 +47,9 @@ Mõned toimingud viiakse läbi samamoodi nagu [häirete nimekirjas](../alarm). N
 
 1. Täitke eelnevad sammud.
 
-2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused klahvi `OK` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `Lülita häire olekut` esiletõstmiseks ja valige see võimalus vajutades keskset `OK` nuppu või klahvi `F3` `OK`.
+2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused klahvi `{{<T "Ok" >}}` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `{{<T "ToggleAlarmStatus" >}}` esiletõstmiseks ja valige see võimalus vajutades keskset `{{<T "Ok" >}}` nuppu või klahvi `F3` `{{<T "Ok" >}}`.
 
-3. Värskete lehmade nimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage valikuga `OK`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasutage nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage valikuga `OK`.
+3. Värskete lehmade nimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage valikuga `{{<T "Ok" >}}`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasutage nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage valikuga `{{<T "Ok" >}}`.
 
 4. Loom lisatakse või eemaldatakse häirete nimekirjast sõltuvalt tema algsest olekust.
 
@@ -59,9 +59,9 @@ Mõned toimingud viiakse läbi samamoodi nagu [häirete nimekirjas](../alarm). N
 
 1. Täitke eelnevad sammud.
 
-2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused klahvi `OK` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `Lülita jälgimisolekut` esiletõstmiseks ja valige see võimalus vajutades keskset `OK` nuppu või klahvi `F3` `OK`.
+2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused klahvi `{{<T "Ok" >}}` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `{{<T "ToggleWatchStatus" >}}` esiletõstmiseks ja valige see võimalus vajutades keskset `{{<T "Ok" >}}` nuppu või klahvi `F3` `{{<T "Ok" >}}`.
 
-3. Värskete lehmade nimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage valikuga `OK`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasutage nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage valikuga `OK`.
+3. Värskete lehmade nimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage valikuga `{{<T "Ok" >}}`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasutage nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage valikuga `{{<T "Ok" >}}`.
 
 4. Loom lisatakse või eemaldatakse jälgimisnimekirjast sõltuvalt tema algsest olekust.
 
@@ -73,10 +73,10 @@ Kui see funktsioon on aktiveeritud, peidetakse kuivade lehmade nimekirjast looma
 
 1. Täida eelnevad sammud.
 
-2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb erinevaid valikuid. Kasuta nooleklahve △ ▽ valiku `Peida mõõdetud lehmad` esiletõstmiseks ja lülita see valik sisse keskse `OK` nupu või `F3` klahvi `OK` abil.
+2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Actions" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb erinevaid valikuid. Kasuta nooleklahve △ ▽ valiku `{{<T "HideMeasuredCows" >}}` esiletõstmiseks ja lülita see valik sisse keskse `{{<T "Ok" >}}` nupu või `F3` klahvi `{{<T "Ok" >}}` abil.
 
-3. Värskete lehmade nimekirjas kasuta nooleklahve △ ▽ soovitud looma valimiseks ja kinnita `OK`-ga. Alternatiivina võid looma otsida. Kasuta `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja vali nooleklahvidega ◁ ▷ △ ▽ soovitud numbrid. Lõpuks kinnita `OK`-ga.
+3. Värskete lehmade nimekirjas kasuta nooleklahve △ ▽ soovitud looma valimiseks ja kinnita `{{<T "Ok" >}}`-ga. Alternatiivina võid looma otsida. Kasuta `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja vali nooleklahvidega ◁ ▷ △ ▽ soovitud numbrid. Lõpuks kinnita `{{<T "Ok" >}}`-ga.
 
-4. Funktsioon `peida mõõdetud` on nüüd aktiveeritud. Aktiveerimist näitab kastikese märkimine.
+4. Funktsioon `{{<T "HideMeasuredCows" >}}` on nüüd aktiveeritud. Aktiveerimist näitab kastikese märkimine.
 
 ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Hide measured cows")

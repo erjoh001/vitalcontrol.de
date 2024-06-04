@@ -29,9 +29,9 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
 ### Alustavat vaiheet {#preliminary-steps}
 
-1. Valitse päävalikosta <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listat" />  `Listat` -valikko ja paina `OK`-painiketta.
+1. Valitse päävalikosta <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listat" />  `{{<T "Lists" >}}` -valikko ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Avautuu alivalikko, jossa näkyy erilaisia listakuvakkeita. Korosta kuvake <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Toimintolista" /> `Toimintolista` ja vahvista painamalla `OK`.
+2. Avautuu alivalikko, jossa näkyy erilaisia listakuvakkeita. Korosta kuvake <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Toimintolista" /> `{{<T "ActionList" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 3. Toimintolista on nyt avoinna.
 
@@ -41,9 +41,9 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Punnitse eläin` ja valitse tämä vaihtoehto painamalla keskimmäistä `OK`-painiketta tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "WeighAnimal" >}}` ja valitse tämä vaihtoehto painamalla keskimmäistä `{{<T "Ok" >}}`-painiketta tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Toimintolistalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista painamalla `OK`. Vaihtoehtoisesti voit etsiä eläimen. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Etsi" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `OK`.
+3. Toimintolistalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista painamalla `{{<T "Ok" >}}`. Vaihtoehtoisesti voit etsiä eläimen. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Etsi" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `{{<T "Ok" >}}`.
 
 4. [Punnitse eläin](../../actions/record-weight/) -valikko avautuu automaattisesti.
 
@@ -53,9 +53,9 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Toimintaketju` ja valitse tämä vaihtoehto painamalla keskimmäistä `OK`-painiketta tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "ActionChain" >}}` ja valitse tämä vaihtoehto painamalla keskimmäistä `{{<T "Ok" >}}`-painiketta tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Toimintalistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista valinta `OK`:lla. Vaihtoehtoisesti voit etsiä eläimen. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`:lla.
+3. Toimintalistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista valinta `{{<T "Ok" >}}`:lla. Vaihtoehtoisesti voit etsiä eläimen. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `{{<T "Ok" >}}`:lla.
 
 4. [Toimintaketju](../../chain-of-actions) -toiminto avautuu automaattisesti.
 
@@ -67,9 +67,9 @@ Tätä toimintoa käytetään lisäämään lähetin niiden eläinten tietueesee
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Linkitä transponderi` ja valitse tämä vaihtoehto painamalla keskimmäistä `OK`-painiketta tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Avaa ponnahdusikkuna" />&nbsp; avataksesi ponnahdusvalikon, joka listaa mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "LinkTransponder" >}}` ja valitse tämä vaihtoehto painamalla keskimmäistä `{{<T "Ok" >}}`-painiketta tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Toimintalistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista valinta `OK`:lla. Vaihtoehtoisesti voit etsiä eläimen. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`:lla.
+3. Toimintalistassa käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläimen ja vahvista valinta `{{<T "Ok" >}}`:lla. Vaihtoehtoisesti voit etsiä eläimen. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `{{<T "Ok" >}}`:lla.
 
 4. Skannaa nyt vastaavan eläimen lähetin.
 
@@ -81,8 +81,8 @@ Jos tämä toiminto on aktivoitu, eläimet, joille toimenpide on suoritettu, pii
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3` näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Toiminnot" />&nbsp; avataksesi ponnahdusvalikon, joka listaa eri vaihtoehdot. Käytä nuolinäppäimiä △ ▽ korostaaksesi vaihtoehdon `Piilota toiminnon jälkeen` ja vaihda tämä asetus painamalla keskellä olevaa `OK` painiketta tai `F3` näppäintä `OK`.
+2. Käytä `F3` näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Toiminnot" />&nbsp; avataksesi ponnahdusvalikon, joka listaa eri vaihtoehdot. Käytä nuolinäppäimiä △ ▽ korostaaksesi vaihtoehdon `{{<T "HideAfterAction" >}}` ja vaihda tämä asetus painamalla keskellä olevaa `{{<T "Ok" >}}` painiketta tai `F3` näppäintä `{{<T "Ok" >}}`.
 
-3. `Piilota toiminnon jälkeen` -toiminto on nyt otettu käyttöön/poistettu käytöstä. Aktivointi osoitetaan rastilla ruudussa.
+3. `{{<T "HideAfterAction" >}}` -toiminto on nyt otettu käyttöön/poistettu käytöstä. Aktivointi osoitetaan rastilla ruudussa.
 
    ![VitalControl Listat Toimintolista](../images/hideafteraction.png "Piilota toiminnon jälkeen")

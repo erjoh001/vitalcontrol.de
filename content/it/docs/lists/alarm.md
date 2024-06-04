@@ -38,10 +38,10 @@ L'elenco degli allarmi è strutturato come segue:
 
 ### Passi preliminari {#preliminary-steps}
 
-1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Liste" /> `Liste` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `OK`.
+1. Seleziona l'elemento del menu <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Liste" /> `{{<T "Lists" >}}` nella schermata principale del tuo dispositivo VitalControl e premi il pulsante `{{<T "Ok" >}}`.
 
 
-2. Si apre un sottomenu in cui vengono visualizzate varie icone di elenco. Evidenzia l'icona <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Allarme` e conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie icone di elenco. Evidenzia l'icona <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `{{<T "Alarm" >}}` e conferma con `{{<T "Ok" >}}`.
 
 3. L'elenco degli allarmi è ora aperto.
 
@@ -51,11 +51,11 @@ L'elenco degli allarmi è strutturato come segue:
 
 1. Completa i passi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Usa i tasti freccia △ ▽ per evidenziare l'azione `Menu azioni completo` e seleziona l'azione premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Usa i tasti freccia △ ▽ per evidenziare l'azione `{{<T "ActionMenu" >}}` e seleziona l'azione premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco degli allarmi, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno dell'elenco degli allarmi, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
-4. Il menu `Azioni` si aprirà automaticamente. La gestione delle azioni può essere trovata [qui](/it/docs/actions/).
+4. Il menu `{{<T "Actions" >}}` si aprirà automaticamente. La gestione delle azioni può essere trovata [qui](/it/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Menu azioni")
 
@@ -63,9 +63,9 @@ L'elenco degli allarmi è strutturato come segue:
 
 1. Completa i passi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Usa i tasti freccia △ ▽ per evidenziare l'azione `Dati dell'animale` e seleziona l'azione premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Usa i tasti freccia △ ▽ per evidenziare l'azione `{{<T "AnimalData" >}}` e seleziona l'azione premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco degli allarmi, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno dell'elenco degli allarmi, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 4. I dati dell'animale saranno ora visualizzati.
 
@@ -75,9 +75,9 @@ L'elenco degli allarmi è strutturato come segue:
 
 1. Completare i passaggi preliminari.
 
-2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `Misurare la temperatura` e selezionare l'azione premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `{{<T "TempTaking" >}}` e selezionare l'azione premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco degli allarmi, utilizzare i tasti freccia △ ▽ per selezionare l'animale desiderato e confermare con `OK`. In alternativa, è possibile cercare un animale. Utilizzare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e utilizzare i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, confermare con `OK`.
+3. All'interno dell'elenco degli allarmi, utilizzare i tasti freccia △ ▽ per selezionare l'animale desiderato e confermare con `{{<T "Ok" >}}`. In alternativa, è possibile cercare un animale. Utilizzare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e utilizzare i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, confermare con `{{<T "Ok" >}}`.
 
 4. La funzione [Misurare la temperatura](/it/docs/actions/measure-temperature/#measure-fever) viene ora avviata automaticamente.
 
@@ -87,9 +87,9 @@ L'elenco degli allarmi è strutturato come segue:
 
 1. Completare i passaggi preliminari.
 
-2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `Valutare l'animale` e selezionare l'azione premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `{{<T "RateAnimal" >}}` e selezionare l'azione premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco degli allarmi, utilizzare i tasti freccia △ ▽ per selezionare l'animale desiderato e confermare con `OK`. In alternativa, è possibile cercare un animale. Utilizzare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e utilizzare i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, confermare con `OK`.
+3. All'interno dell'elenco degli allarmi, utilizzare i tasti freccia △ ▽ per selezionare l'animale desiderato e confermare con `{{<T "Ok" >}}`. In alternativa, è possibile cercare un animale. Utilizzare il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e utilizzare i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, confermare con `{{<T "Ok" >}}`.
 
 4. La funzione [Valutare l'animale](/it/docs/actions/rating/#rate-your-animals) viene ora avviata automaticamente.
 
@@ -99,9 +99,9 @@ L'elenco degli allarmi è strutturato come segue:
 
 1. Completare i passaggi preliminari.
 
-2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `Cancellare l'allarme` e selezionare l'azione premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Utilizzare il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Utilizzare i tasti freccia △ ▽ per evidenziare l'azione `{{<T "ClearAlarm" >}}` e selezionare l'azione premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco degli allarmi, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno dell'elenco degli allarmi, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 4. L'animale è ora rimosso dall'elenco degli allarmi.
 
@@ -111,9 +111,9 @@ L'elenco degli allarmi è strutturato come segue:
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `OK`. Usa i tasti freccia △ ▽ per evidenziare l'azione `Attiva/disattiva stato di sorveglianza` e seleziona l'azione premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca le possibili azioni quando si preme il tasto `{{<T "Ok" >}}`. Usa i tasti freccia △ ▽ per evidenziare l'azione `{{<T "ToggleWatchStatus" >}}` e seleziona l'azione premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. All'interno dell'elenco degli allarmi, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `OK`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. All'interno dell'elenco degli allarmi, usa i tasti freccia △ ▽ per selezionare l'animale desiderato e conferma con `{{<T "Ok" >}}`. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 4. L'animale è ora aggiunto o rimosso dall'elenco di sorveglianza a seconda del suo stato iniziale.
 
@@ -123,9 +123,9 @@ L'elenco degli allarmi è strutturato come segue:
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare la funzione `Cerca animale` e richiama la funzione di ricerca premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare la funzione `{{<T "SearchAnimal" >}}` e richiama la funzione di ricerca premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
-3. Usa i tasti freccia △ ▽ ◁ ▷ per selezionare l'ID animale desiderato. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `OK`.
+3. Usa i tasti freccia △ ▽ ◁ ▷ per selezionare l'ID animale desiderato. In alternativa, puoi cercare un animale. Usa il pulsante `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> e usa i tasti freccia ◁ ▷ △ ▽ per selezionare le cifre desiderate. Infine, conferma con `{{<T "Ok" >}}`.
 
 
    ![VitalControl Lists Alarmlist](../images/searchanimal.png "Cerca animale")
@@ -134,7 +134,7 @@ L'elenco degli allarmi è strutturato come segue:
 
 1. Completa i passaggi preliminari.
 
-2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Apri popup" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare la funzione `Imposta filtro` e richiamare la funzione filtro premendo il tasto centrale `OK` o il tasto `F3` `OK`.
+2. Usa il tasto `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Apri popup" />&nbsp; per richiamare un menu popup che elenca varie opzioni. Usa i tasti freccia △ ▽ per evidenziare la funzione `{{<T "SetFilter" >}}` e richiamare la funzione filtro premendo il tasto centrale `{{<T "Ok" >}}` o il tasto `F3` `{{<T "Ok" >}}`.
 
 3. Imposta il filtro desiderato. Puoi trovare come usare il filtro [qui](../../filter/#applying-filters).
 

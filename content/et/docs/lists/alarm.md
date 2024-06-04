@@ -38,9 +38,9 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 ### Eelsammud {#preliminary-steps}
 
-1. Vali <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Nimekirjad" /> `Nimekirjad` menüüpunkt oma VitalControl seadme põhiekraanil ja vajuta `OK` nuppu.
+1. Vali <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Nimekirjad" /> `{{<T "Lists" >}}` menüüpunkt oma VitalControl seadme põhiekraanil ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid loendi ikoone. Tõsta esile ikoon <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `Alarm` ja kinnita valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid loendi ikoone. Tõsta esile ikoon <img src="/icons/lists/alarmlist.svg" width="30" align="bottom" alt="Alarm" /> `{{<T "Alarm" >}}` ja kinnita valikuga `{{<T "Ok" >}}`.
 
 3. Äratusnimekiri on nüüd avatud.
 
@@ -50,11 +50,11 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 1. Viige lõpule esialgsed sammud.
 
-2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused klahvi `OK` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `Täielik tegevusmenüü` esiletõstmiseks ja valige tegevus keskse `OK` klahvi või klahvi `F3` `OK` abil.
+2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused klahvi `{{<T "Ok" >}}` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `{{<T "ActionMenu" >}}` esiletõstmiseks ja valige tegevus keskse `{{<T "Ok" >}}` klahvi või klahvi `F3` `{{<T "Ok" >}}` abil.
 
-3. Äratusnimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage valikuga `OK`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage valikuga `OK`.
+3. Äratusnimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage valikuga `{{<T "Ok" >}}`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage valikuga `{{<T "Ok" >}}`.
 
-4. `Tegevuste` menüü avaneb automaatselt. Tegevuste käsitlemist leiate [siit](/et/docs/actions/).
+4. `{{<T "Actions" >}}` menüü avaneb automaatselt. Tegevuste käsitlemist leiate [siit](/et/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Tegevusmenüü")
 
@@ -62,9 +62,9 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 1. Viige lõpule esialgsed sammud.
 
-2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused klahvi `OK` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `Looma andmed` esiletõstmiseks ja valige tegevus keskse `OK` klahvi või klahvi `F3` `OK` abil.
+2. Kasutage klahvi `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; hüpikmenüü kutsumiseks, mis loetleb võimalikud tegevused klahvi `{{<T "Ok" >}}` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `{{<T "AnimalData" >}}` esiletõstmiseks ja valige tegevus keskse `{{<T "Ok" >}}` klahvi või klahvi `F3` `{{<T "Ok" >}}` abil.
 
-3. Äratusnimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage valikuga `OK`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage valikuga `OK`.
+3. Äratusnimekirjas kasutage nooleklahve △ ▽ soovitud looma valimiseks ja kinnitage valikuga `{{<T "Ok" >}}`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja nooleklahve ◁ ▷ △ ▽ soovitud numbrite valimiseks. Lõpuks kinnitage valikuga `{{<T "Ok" >}}`.
 
 4. Looma andmed kuvatakse nüüd.
 
@@ -74,9 +74,9 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 1. Täida eelnevad sammud.
 
-2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `OK` klahvi vajutamisel. Kasuta nooleklahve △ ▽, et esile tõsta tegevus `Võta temperatuur` ja vali tegevus vajutades keskmist `OK` klahvi või `F3` klahvi `OK`.
+2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `{{<T "Ok" >}}` klahvi vajutamisel. Kasuta nooleklahve △ ▽, et esile tõsta tegevus `{{<T "TempTaking" >}}` ja vali tegevus vajutades keskmist `{{<T "Ok" >}}` klahvi või `F3` klahvi `{{<T "Ok" >}}`.
 
-3. Alarmide nimekirjas kasuta nooleklahve △ ▽, et valida soovitud loom ja kinnita valikuga `OK`. Alternatiivselt võid otsida looma. Kasuta `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasuta nooleklahve ◁ ▷ △ ▽, et valida soovitud numbrid. Lõpuks kinnita valikuga `OK`.
+3. Alarmide nimekirjas kasuta nooleklahve △ ▽, et valida soovitud loom ja kinnita valikuga `{{<T "Ok" >}}`. Alternatiivselt võid otsida looma. Kasuta `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasuta nooleklahve ◁ ▷ △ ▽, et valida soovitud numbrid. Lõpuks kinnita valikuga `{{<T "Ok" >}}`.
 
 4. Funktsioon [Mõõda temperatuuri](/et/docs/actions/measure-temperature/#measure-fever) käivitub nüüd automaatselt.
 
@@ -86,9 +86,9 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 1. Täida eelnevad sammud.
 
-2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `OK` klahvi vajutamisel. Kasuta nooleklahve △ ▽, et esile tõsta tegevus `Hinda looma` ja vali tegevus vajutades keskmist `OK` klahvi või `F3` klahvi `OK`.
+2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `{{<T "Ok" >}}` klahvi vajutamisel. Kasuta nooleklahve △ ▽, et esile tõsta tegevus `{{<T "RateAnimal" >}}` ja vali tegevus vajutades keskmist `{{<T "Ok" >}}` klahvi või `F3` klahvi `{{<T "Ok" >}}`.
 
-3. Alarmide nimekirjas kasuta nooleklahve △ ▽, et valida soovitud loom ja kinnita valikuga `OK`. Alternatiivselt võid otsida looma. Kasuta `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasuta nooleklahve ◁ ▷ △ ▽, et valida soovitud numbrid. Lõpuks kinnita valikuga `OK`.
+3. Alarmide nimekirjas kasuta nooleklahve △ ▽, et valida soovitud loom ja kinnita valikuga `{{<T "Ok" >}}`. Alternatiivselt võid otsida looma. Kasuta `On/Off` nuppu <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja kasuta nooleklahve ◁ ▷ △ ▽, et valida soovitud numbrid. Lõpuks kinnita valikuga `{{<T "Ok" >}}`.
 
 4. Funktsioon [Hinda looma](/et/docs/actions/rating/#rate-your-animals) käivitub nüüd automaatselt.
 
@@ -98,9 +98,9 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 1. Täida eelnevad sammud.
 
-2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `OK` klahvi vajutamisel. Kasuta nooleklahve △ ▽, et esile tõsta tegevus `Kustuta alarm` ja vali tegevus vajutades keskmist `OK` klahvi või `F3` klahvi `OK`.
+2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; et kutsuda esile hüpikmenüü, mis loetleb võimalikud tegevused `{{<T "Ok" >}}` klahvi vajutamisel. Kasuta nooleklahve △ ▽, et esile tõsta tegevus `{{<T "ClearAlarm" >}}` ja vali tegevus vajutades keskmist `{{<T "Ok" >}}` klahvi või `F3` klahvi `{{<T "Ok" >}}`.
 
-3. Äratusnimekirjas kasutage soovitud looma valimiseks nooleklahve △ ▽ ja kinnitage valik nupuga `OK`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valige soovitud numbrid nooleklahvidega ◁ ▷ △ ▽. Lõpuks kinnitage valik nupuga `OK`.
+3. Äratusnimekirjas kasutage soovitud looma valimiseks nooleklahve △ ▽ ja kinnitage valik nupuga `{{<T "Ok" >}}`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valige soovitud numbrid nooleklahvidega ◁ ▷ △ ▽. Lõpuks kinnitage valik nupuga `{{<T "Ok" >}}`.
 
 4. Loom on nüüd äratusnimekirjast eemaldatud.
 
@@ -110,9 +110,9 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 1. Täitke eelnevad sammud.
 
-2. Kasutage nuppu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; hüpikmenüü esilekutsumiseks, mis loetleb võimalikud tegevused nupu `OK` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `Lülita jälgimisstaatus` esiletõstmiseks ja valige tegevus keskmise nupuga `OK` või nupuga `F3` `OK`.
+2. Kasutage nuppu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; hüpikmenüü esilekutsumiseks, mis loetleb võimalikud tegevused nupu `{{<T "Ok" >}}` vajutamisel. Kasutage nooleklahve △ ▽ tegevuse `{{<T "ToggleWatchStatus" >}}` esiletõstmiseks ja valige tegevus keskmise nupuga `{{<T "Ok" >}}` või nupuga `F3` `{{<T "Ok" >}}`.
 
-3. Äratusnimekirjas kasutage soovitud looma valimiseks nooleklahve △ ▽ ja kinnitage valik nupuga `OK`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valige soovitud numbrid nooleklahvidega ◁ ▷ △ ▽. Lõpuks kinnitage valik nupuga `OK`.
+3. Äratusnimekirjas kasutage soovitud looma valimiseks nooleklahve △ ▽ ja kinnitage valik nupuga `{{<T "Ok" >}}`. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valige soovitud numbrid nooleklahvidega ◁ ▷ △ ▽. Lõpuks kinnitage valik nupuga `{{<T "Ok" >}}`.
 
 4. Loom lisatakse või eemaldatakse jälgimisnimekirjast olenevalt tema algsest staatusest.
 
@@ -122,9 +122,9 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 1. Täitke eelnevad sammud.
 
-2. Kasutage nuppu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; hüpikmenüü esilekutsumiseks, mis loetleb erinevaid valikuid. Kasutage nooleklahve △ ▽ funktsiooni `Otsi looma` esiletõstmiseks ja otsingufunktsiooni käivitamiseks vajutage keskmist nuppu `OK` või nuppu `F3` `OK`.
+2. Kasutage nuppu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; hüpikmenüü esilekutsumiseks, mis loetleb erinevaid valikuid. Kasutage nooleklahve △ ▽ funktsiooni `{{<T "SearchAnimal" >}}` esiletõstmiseks ja otsingufunktsiooni käivitamiseks vajutage keskmist nuppu `{{<T "Ok" >}}` või nuppu `F3` `{{<T "Ok" >}}`.
 
-3. Kasutage soovitud looma ID valimiseks nooleklahve △ ▽ ◁ ▷. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valige soovitud numbrid nooleklahvidega ◁ ▷ △ ▽. Lõpuks kinnitage valik nupuga `OK`.
+3. Kasutage soovitud looma ID valimiseks nooleklahve △ ▽ ◁ ▷. Alternatiivselt võite looma otsida. Kasutage nuppu `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja valige soovitud numbrid nooleklahvidega ◁ ▷ △ ▽. Lõpuks kinnitage valik nupuga `{{<T "Ok" >}}`.
 
 ![VitalControl Lists Alarmlist](../images/searchanimal.png "Otsi looma")
 
@@ -132,7 +132,7 @@ Häirete nimekiri on struktureeritud järgmiselt:
 
 1. Täida eelnevad sammud.
 
-2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; hüpikmenüü esilekutsumiseks, mis loetleb erinevaid valikuid. Kasuta nooleklahve △ ▽ funktsiooni `Seadista filter` esiletõstmiseks ja filtri funktsiooni käivitamiseks vajuta keskset `OK` klahvi või `F3` klahvi `OK`.
+2. Kasuta `F3` klahvi &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Ava hüpikaken" />&nbsp; hüpikmenüü esilekutsumiseks, mis loetleb erinevaid valikuid. Kasuta nooleklahve △ ▽ funktsiooni `{{<T "SetFilter" >}}` esiletõstmiseks ja filtri funktsiooni käivitamiseks vajuta keskset `{{<T "Ok" >}}` klahvi või `F3` klahvi `{{<T "Ok" >}}`.
 
 3. Seadista soovitud filter. Kuidas filtrit kasutada, leiad [siit](../../filter/#applying-filters).
 

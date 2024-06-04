@@ -35,9 +35,9 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
 ### Alustavat vaiheet {#preliminary-steps}
 
-1. Valitse <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Listat" /> `Listat` -valikkokohta VitalControl-laitteesi päävalikosta ja paina `OK` -painiketta.
+1. Valitse <img src="/icons/main/lists.svg" width="25" align="bottom" alt="Listat" /> `{{<T "Lists" >}}` -valikkokohta VitalControl-laitteesi päävalikosta ja paina `{{<T "Ok" >}}` -painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia listoja. Valitse `Tunnutettavat lehmät` -lista <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Vahvista valinta painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia listoja. Valitse `{{<T "FreshCows" >}}` -lista <img src="/icons/lists/freshcows.svg" width="30" align="bottom" alt="Fresh-cows" />. Vahvista valinta painamalla `{{<T "Ok" >}}`.
 
 3. Tunnutettavat lehmät -lista on nyt avoinna.
 
@@ -47,9 +47,9 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka näyttää mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Vaihda hälytyksen tila` ja valitse tämä vaihtoehto painamalla keskimmäistä `OK`-painiketta tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka näyttää mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "ToggleAlarmStatus" >}}` ja valitse tämä vaihtoehto painamalla keskimmäistä `{{<T "Ok" >}}`-painiketta tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Tuoreiden lehmien listalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista valinta painamalla `OK`. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista valinta painamalla `OK`.
+3. Tuoreiden lehmien listalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista valinta painamalla `{{<T "Ok" >}}`. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista valinta painamalla `{{<T "Ok" >}}`.
 
 4. Eläin on nyt lisätty tai poistettu hälytyslistalta sen alkuperäisen tilan mukaan.
 
@@ -59,9 +59,9 @@ Jotkut toiminnot suoritetaan samalla tavalla kuin [hälytyslistassa](../alarm). 
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka näyttää mahdolliset toiminnot painettaessa `OK`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `Vaihda seurantatila` ja valitse tämä vaihtoehto painamalla keskimmäistä `OK`-painiketta tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; avataksesi ponnahdusvalikon, joka näyttää mahdolliset toiminnot painettaessa `{{<T "Ok" >}}`-näppäintä. Käytä nuolinäppäimiä △ ▽ korostaaksesi toiminnon `{{<T "ToggleWatchStatus" >}}` ja valitse tämä vaihtoehto painamalla keskimmäistä `{{<T "Ok" >}}`-painiketta tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Tuoreiden lehmien listalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista valinta painamalla `OK`. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista valinta painamalla `OK`.
+3. Tuoreiden lehmien listalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista valinta painamalla `{{<T "Ok" >}}`. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista valinta painamalla `{{<T "Ok" >}}`.
 
 4. Eläin on nyt lisätty tai poistettu tarkkailulistalta sen alkuperäisen tilan mukaan.
 
@@ -73,10 +73,10 @@ Jos tämä toiminto on aktivoitu, kuivalistalta piilotetaan ne eläimet, joille 
 
 1. Suorita alustavat vaiheet.
 
-2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Toiminnot" />&nbsp; avataksesi ponnahdusvalikon, joka listaa eri vaihtoehdot. Käytä nuolinäppäimiä △ ▽ korostaaksesi vaihtoehdon `Piilota mitatut lehmät` ja vaihda tämä asetus painamalla keskimmäistä `OK`-painiketta tai `F3`-näppäintä `OK`.
+2. Käytä `F3`-näppäintä &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Toiminnot" />&nbsp; avataksesi ponnahdusvalikon, joka listaa eri vaihtoehdot. Käytä nuolinäppäimiä △ ▽ korostaaksesi vaihtoehdon `{{<T "HideMeasuredCows" >}}` ja vaihda tämä asetus painamalla keskimmäistä `{{<T "Ok" >}}`-painiketta tai `F3`-näppäintä `{{<T "Ok" >}}`.
 
-3. Tuoreiden lehmien listalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista `OK`:lla. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`:lla.
+3. Tuoreiden lehmien listalla käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi eläin ja vahvista `{{<T "Ok" >}}`:lla. Vaihtoehtoisesti voit etsiä eläintä. Käytä `On/Off`-painiketta <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Haku" /> ja käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi haluamasi numerot. Lopuksi vahvista `{{<T "Ok" >}}`:lla.
 
-4. Toiminto `piilota mitatut` on nyt aktivoitu. Aktivointi osoitetaan ruutua rastittamalla.
+4. Toiminto `{{<T "HideMeasuredCows" >}}` on nyt aktivoitu. Aktivointi osoitetaan ruutua rastittamalla.
 
    ![VitalControl Lists Fresh cows list](../images/hidemeasuredcows.png "Piilota mitatut lehmät")

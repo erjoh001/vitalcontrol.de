@@ -30,9 +30,9 @@ Algunas acciones se deben realizar de la misma manera que en la [lista de alarma
 
 ### Pasos preliminares {#preliminary-steps}
 
-1. Selecciona el elemento del menú <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listas" />  `Listas` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `OK`.
+1. Selecciona el elemento del menú <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Listas" />  `{{<T "Lists" >}}` en la pantalla principal de tu dispositivo VitalControl y presiona el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios iconos de listas. Destaca el icono <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Lista de acciones" /> `Lista de accion` y confirma con `OK`.
+2. Se abre un submenú en el que se muestran varios iconos de listas. Destaca el icono <img src="/icons/lists/actionlist.svg" width="30" align="bottom" alt="Lista de acciones" /> `{{<T "ActionList" >}}` y confirma con `{{<T "Ok" >}}`.
 
 3. La lista de acciones ahora está abierta.
 
@@ -42,9 +42,9 @@ Algunas acciones se deben realizar de la misma manera que en la [lista de alarma
 
 1. Completa los pasos preliminares.
 
-2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir popup" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `OK`. Usa las teclas de flecha △ ▽ para destacar la acción `Pesaje de animal` y selecciona esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir popup" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `{{<T "Ok" >}}`. Usa las teclas de flecha △ ▽ para destacar la acción `{{<T "WeighAnimal" >}}` y selecciona esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. Dentro de la lista de acciones, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
+3. Dentro de la lista de acciones, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `{{<T "Ok" >}}`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `{{<T "Ok" >}}`.
 
 4. El menú [pesaje de animal](/es/docs/actions/record-weight/) se abrirá automáticamente.
 
@@ -54,9 +54,9 @@ Algunas acciones se deben realizar de la misma manera que en la [lista de alarma
 
 1. Completa los pasos preliminares.
 
-2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `OK`. Usa las teclas de flecha △ ▽ para resaltar la acción `Cadena de acciones` y selecciona esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `{{<T "Ok" >}}`. Usa las teclas de flecha △ ▽ para resaltar la acción `{{<T "ActionChain" >}}` y selecciona esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. Dentro de la lista de acciones, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
+3. Dentro de la lista de acciones, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `{{<T "Ok" >}}`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `{{<T "Ok" >}}`.
 
 4. La función [cadena de acciones](../../chain-of-actions) se abrirá automáticamente.
 
@@ -68,9 +68,9 @@ Esta función se utiliza para añadir un transpondedor al registro de datos de a
 
 1. Completa los pasos preliminares.
 
-2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `OK`. Usa las teclas de flecha △ ▽ para resaltar la acción `Vincular transpondedor` y selecciona esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Abrir menú emergente" />&nbsp; para invocar un menú emergente que lista las posibles acciones al presionar la tecla `{{<T "Ok" >}}`. Usa las teclas de flecha △ ▽ para resaltar la acción `{{<T "LinkTransponder" >}}` y selecciona esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. Dentro de la lista de acciones, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `OK`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `OK`.
+3. Dentro de la lista de acciones, usa las teclas de flecha △ ▽ para seleccionar el animal deseado y confirma con `{{<T "Ok" >}}`. Alternativamente, puedes buscar un animal. Usa el botón `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Buscar" /> y usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar los dígitos deseados. Finalmente confirma con `{{<T "Ok" >}}`.
 
 4. Ahora escanea el transpondedor del animal correspondiente.
 
@@ -82,8 +82,8 @@ Si esta función está activada, los animales para los cuales se ha realizado un
 
 1. Completa los pasos preliminares.
 
-2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Acciones" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la opción `Ocultar después de la acción` y activa o desactiva esta opción presionando el botón central `OK` o la tecla `F3` `OK`.
+2. Usa la tecla `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Acciones" />&nbsp; para invocar un menú emergente que lista varias opciones. Usa las teclas de flecha △ ▽ para resaltar la opción `{{<T "HideAfterAction" >}}` y activa o desactiva esta opción presionando el botón central `{{<T "Ok" >}}` o la tecla `F3` `{{<T "Ok" >}}`.
 
-3. La función `Ocultar después de la acción` ahora está habilitada/deshabilitada. La activación se indica mediante una marca de verificación dentro del cuadro.
+3. La función `{{<T "HideAfterAction" >}}` ahora está habilitada/deshabilitada. La activación se indica mediante una marca de verificación dentro del cuadro.
 
    ![Listas de Control Vital Lista de acciones](../images/hideafteraction.png "Ocultar después de la acción")

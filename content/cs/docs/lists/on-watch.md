@@ -42,11 +42,11 @@ Seznam alarmů je strukturován následovně:
 
 ### Předběžné kroky {#preliminary-steps}
 
-1. Vyberte položku nabídky <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `Seznamy` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `OK`.
+1. Vyberte položku nabídky <img src="/icons/main/lists.svg" width="28" align="bottom" alt="Lists" /> `{{<T "Lists" >}}` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podnabídka, ve které jsou zobrazeny různé seznamy. Vyberte seznam &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `Na hlídce`. Potvrďte stisknutím `OK`.
+2. Otevře se podnabídka, ve které jsou zobrazeny různé seznamy. Vyberte seznam &nbsp;<img src="/icons/lists/onwatch.svg" width="28" align="bottom" alt="List 'On watch'" /> `{{<T "OnWatch" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Seznam `Na hlídce` je nyní otevřen.
+3. Seznam `{{<T "OnWatch" >}}` je nyní otevřen.
 
    ![VitalControl Lists On watch list](../images/firststeps2.png "Předběžné kroky")
 
@@ -54,9 +54,9 @@ Seznam alarmů je strukturován následovně:
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která zobrazuje možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Odebrat ze seznamu hlídání` a vyberte tuto možnost stisknutím středového tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která zobrazuje možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "RemoveFromWatchList" >}}` a vyberte tuto možnost stisknutím středového tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu na hlídce použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu na hlídce použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Zvíře je nyní odebráno ze seznamu hlídání.
 
@@ -66,9 +66,9 @@ Seznam alarmů je strukturován následovně:
 
 1. Dokončete předběžné kroky.
 
-2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která zobrazuje možné akce při stisknutí klávesy `OK`. Pomocí šipek △ ▽ zvýrazněte akci `Přepnout stav alarmu` a vyberte tuto možnost stisknutím středového tlačítka `OK` nebo klávesy `F3` `OK`.
+2. Použijte klávesu `F3` &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Open popup" />&nbsp; k vyvolání vyskakovací nabídky, která zobrazuje možné akce při stisknutí klávesy `{{<T "Ok" >}}`. Pomocí šipek △ ▽ zvýrazněte akci `{{<T "ToggleAlarmStatus" >}}` a vyberte tuto možnost stisknutím středového tlačítka `{{<T "Ok" >}}` nebo klávesy `F3` `{{<T "Ok" >}}`.
 
-3. V seznamu na hlídce použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `OK`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `Zap/Vyp` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `OK`.
+3. V seznamu na hlídce použijte šipky △ ▽ k výběru požadovaného zvířete a potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete vyhledat zvíře. Použijte tlačítko `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> a pomocí šipek ◁ ▷ △ ▽ vyberte požadované číslice. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 
 4. Zvíře je nyní přidáno nebo odstraněno ze seznamu alarmů v závislosti na jeho počátečním stavu.
