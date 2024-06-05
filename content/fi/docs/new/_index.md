@@ -7,7 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-Päävalikon kohdan <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `Uusi` kautta pääset alavalikkoon, jossa on esitetty 5 alakohtaa valittavaksi:
+Päävalikon kohdan <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `{{<T "New" >}}` kautta pääset alavalikkoon, jossa on esitetty 5 alakohtaa valittavaksi:
 
 <img src="images/neuen.png" alt="VitalControl Uusi" title="Uusi" usemap="#workmap" class="maphilight" />
 

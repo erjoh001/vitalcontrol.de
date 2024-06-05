@@ -15,17 +15,17 @@ translationKey: new/animal
 
 Uue looma loomiseks toimi järgnevalt:
 
-1. Oma VitalControl seadme põhiekraanil vali menüüpunkt <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uus loom" /> `Uus` ja vajuta `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil vali menüüpunkt <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uus loom" /> `{{<T "New" >}}` ja vajuta `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü. Kasuta nooleklahve ◁ ▷ △ ▽, et valida menüüpunkt <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uus loom" /> `Uus loom` ja kinnita valik `OK`-ga.
+2. Avaneb alammenüü. Kasuta nooleklahve ◁ ▷ △ ▽, et valida menüüpunkt <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uus loom" /> `{{<T "NewAnimal" >}}` ja kinnita valik `{{<T "Ok" >}}`-ga.
 
 3. Skaneeri looma transponder või kasuta `F3` ESC klahvi, et jätkata ilma skaneeritud transponderita. Seda funktsiooni saab kasutada, kui loomal ei ole veel transponderit. Saad selle hiljem skaneerida ja loomale määrata.
 
 4. Avaneb veel üks alammenüü, kus saad salvestada looma kohta käivat teavet. Kasuta nooleklahve △ ▽, et valida soovitud seadistuse punkt.
 
-5. Seadistuste `Looma tüüp`,`Sugu` ,`Sünnikaal`, `Tõug`, `Asukoht`, `Kaksikud` ja `Sünnituse lihtsus` jaoks kasuta nooleklahve ◁ ▷, et valida soovitud seadistus.
+5. Seadistuste `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}` jaoks kasuta nooleklahve ◁ ▷, et valida soovitud seadistus.
 
-6. Seadistuste `riiklik looma ID`, `ID` ja `sünnikuupäev` jaoks kasuta nooleklahve △ ▽, et valida soovitud seadistuse variant ja kinnita `OK`-ga. Kasuta nooleklahve △ ▽◁ ▷, et valida soovitud numbrid. Lõpuks kinnita `OK`-ga.
+6. Seadistuste `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` jaoks kasuta nooleklahve △ ▽, et valida soovitud seadistuse variant ja kinnita `{{<T "Ok" >}}`-ga. Kasuta nooleklahve △ ▽◁ ▷, et valida soovitud numbrid. Lõpuks kinnita `{{<T "Ok" >}}`-ga.
 
 7. Salvesta seadistused ja loo uus loom `F3` klahviga &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 

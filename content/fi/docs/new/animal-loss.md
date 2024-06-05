@@ -14,22 +14,22 @@ translationKey: new/animal-loss
 ## Rekisteröi eläimen menetys {#record-the-loss-of-an-animal}
  
 {{% alert title="Vihje" %}}
-Tämän valikkokohdan eläimen menetystoimintoa käytetään pääasiassa kuolleiden vasikoiden/karitsojen kirjaamiseen. Asetusvaihtoehdot on mukautettu sen mukaisesti eivätkä ne ole identtisiä valikon `Toiminnot` -> `Poista rekisteristä` tai `Eläinten menetys` asetuskohtien kanssa.
+Tämän valikkokohdan eläimen menetystoimintoa käytetään pääasiassa kuolleiden vasikoiden/karitsojen kirjaamiseen. Asetusvaihtoehdot on mukautettu sen mukaisesti eivätkä ne ole identtisiä valikon `{{<T "Actions" >}}` -> `{{<T "Unregister" >}}` tai `{{<T "AnimalLoss" >}}` asetuskohtien kanssa.
 {{% /alert %}}
 
 Eläimen menetyksen kirjaamiseksi toimi seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta kohta <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `Uusi` ja paina `OK`-nappia.
+1. Valitse VitalControl-laitteesi päävalikosta kohta <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `{{<T "New" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/stillbirth.svg" width="40" align="bottom" alt="Eläimen menetys" /> `Eläinten menetys` ja vahvista `OK`-näppäimellä.
+2. Alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/stillbirth.svg" width="40" align="bottom" alt="Eläimen menetys" /> `{{<T "AnimalLoss" >}}` ja vahvista `{{<T "Ok" >}}`-näppäimellä.
 
-3. Skannaa joko emäeläimen transponderi tai käytä `OK`-nappia. Syötä emäeläimen tunnus käyttäen nuolinäppäimiä ◁ ▷ △ ▽ ja vahvista `OK`-näppäimellä.
+3. Skannaa joko emäeläimen transponderi tai käytä `{{<T "Ok" >}}`-nappia. Syötä emäeläimen tunnus käyttäen nuolinäppäimiä ◁ ▷ △ ▽ ja vahvista `{{<T "Ok" >}}`-näppäimellä.
 
 4. Toinen alivalikko avautuu, jossa voit tallentaa tietoja eläimestä. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetuskohteen.
 
-5. Asetuksille `Eläinlaji`,`Sukupuoli`, `Syntymäpaino`, `Rotu`, `Olinpaikka`, `Toistot` ja `Poikimavaikeus`, käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen.
+5. Asetuksille `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}`, käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen.
 
-6. Asetukselle `Syntymäaika` käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon ja vahvista `OK`-näppäimellä. Käytä nuolinäppäimiä △ ▽◁ ▷ valitaksesi haluamasi numerot. Lopuksi vahvista `OK`-näppäimellä.
+6. Asetukselle `{{<T "DateBirth" >}}` käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon ja vahvista `{{<T "Ok" >}}`-näppäimellä. Käytä nuolinäppäimiä △ ▽◁ ▷ valitaksesi haluamasi numerot. Lopuksi vahvista `{{<T "Ok" >}}`-näppäimellä.
 
 7. Tallenna asetukset ja luo uusi eläin `F3`-näppäimellä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna" />&nbsp;.
 

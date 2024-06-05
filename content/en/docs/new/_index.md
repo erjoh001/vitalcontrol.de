@@ -7,7 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-Via the main menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` you get to a submenu, where 5 subitems are presented for selection:
+Via the main menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `{{<T "New" >}}` you get to a submenu, where 5 subitems are presented for selection:
 
 <img src="images/neuen.png" alt="VitalControl New" title="New" usemap="#workmap" class="maphilight" />
 

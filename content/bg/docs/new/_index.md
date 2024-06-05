@@ -7,7 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-Чрез основния пункт в менюто <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Ново животно" /> `Нов` влизате в подменю, където се представят 5 подпункта за избор:
+Чрез основния пункт в менюто <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Ново животно" /> `{{<T "New" >}}` влизате в подменю, където се представят 5 подпункта за избор:
 
 <img src="images/neuen.png" alt="VitalControl Нов" title="Нов" usemap="#workmap" class="maphilight" />
 

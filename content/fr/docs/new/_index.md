@@ -7,7 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-Via l'élément du menu principal <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nouvel animal" /> `Nouveau`, vous accédez à un sous-menu, où 5 sous-éléments sont présentés pour sélection :
+Via l'élément du menu principal <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nouvel animal" /> `{{<T "New" >}}`, vous accédez à un sous-menu, où 5 sous-éléments sont présentés pour sélection :
 
 <img src="images/neuen.png" alt="VitalControl Nouveau" title="Nouveau" usemap="#workmap" class="maphilight" />
 

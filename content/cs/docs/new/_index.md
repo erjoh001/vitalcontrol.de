@@ -7,7 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-Přes hlavní položku menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nové zvíře" /> `Nový` se dostanete do podmenu, kde je k výběru 5 podpoložek:
+Přes hlavní položku menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nové zvíře" /> `{{<T "New" >}}` se dostanete do podmenu, kde je k výběru 5 podpoložek:
 
 <img src="images/neuen.png" alt="VitalControl Nový" title="Nový" usemap="#workmap" class="maphilight" />
 

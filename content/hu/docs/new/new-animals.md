@@ -21,17 +21,17 @@ Ezt a funkciót akkor használhatja, ha egymást követő transzponderrel és eg
 
 Több új állat létrehozásához kövesse az alábbi lépéseket:
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Új állat" /> `Új` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Új állat" /> `{{<T "New" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg. Használja a ◁ ▷ △ ▽ nyílgombokat a <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Új állatok" /> `Új állatok` menüpont kiválasztásához, és erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg. Használja a ◁ ▷ △ ▽ nyílgombokat a <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Új állatok" /> `{{<T "NewAnimals" >}}` menüpont kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 3. Vagy szkennelje be az állat transzponderét, vagy használja az `F3` ESC gombot a szkennelés nélküli folytatáshoz. Ezt a funkciót akkor használhatja, ha az állatnak még nincs transzpondere. Ezt később is beolvashatja és hozzárendelheti az állathoz.
 
 4. Egy másik almenü nyílik meg, ahol elmentheti az állatokra vonatkozó információkat. Használja a △ ▽ nyílgombokat a kívánt beállítási elem kiválasztásához.
 
-5. Az `állat típusa`, `Nem`, `Születési súly`, `Fajta`, `Tartózkodási hely` és `Létrehozandó szám` beállításokhoz használja a ◁ ▷ nyílgombokat a kívánt beállítás kiválasztásához. A `Létrehozandó szám` beállítással meghatározhatja, hogy hány új állatot szeretne egyszerre létrehozni.
+5. Az `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}` és `{{<T "NumberNewAnimals" >}}` beállításokhoz használja a ◁ ▷ nyílgombokat a kívánt beállítás kiválasztásához. A `{{<T "NumberNewAnimals" >}}` beállítással meghatározhatja, hogy hány új állatot szeretne egyszerre létrehozni.
 
-6. A `nemzeti állat azonosító` és az `első állat azonosítója` beállításokhoz használja a △ ▽ nyílgombokat a kívánt beállítási lehetőség kiválasztásához, és erősítse meg az `OK` gombbal. Használja a △ ▽◁ ▷ nyílgombokat a kívánt számok kiválasztásához. Végül erősítse meg az `OK` gombbal.
+6. A `{{<T "NationalAnimalID" >}}` és az `{{<T "IDFirstAnimal" >}}` beállításokhoz használja a △ ▽ nyílgombokat a kívánt beállítási lehetőség kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal. Használja a △ ▽◁ ▷ nyílgombokat a kívánt számok kiválasztásához. Végül erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 7. Mentse a beállításokat, és hozza létre az új állatot az `F3` billentyűvel &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 

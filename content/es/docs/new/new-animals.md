@@ -21,17 +21,17 @@ Puedes usar esta función si deseas registrar animales con un transpondedor cons
 
 Para crear varios nuevos animales, procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el elemento del menú <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nuevo animal" /> `Nuevo` y presiona el botón `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el elemento del menú <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nuevo animal" /> `{{<T "New" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el elemento del menú <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Nuevos animales" /> `Nuevos animales` y confirma con `OK`.
+2. Se abre un submenú. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el elemento del menú <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Nuevos animales" /> `{{<T "NewAnimals" >}}` y confirma con `{{<T "Ok" >}}`.
 
 3. O bien escanea el transpondedor del animal o usa la tecla `F3` ESC para continuar sin un transpondedor escaneado. Puedes usar esta función si el animal aún no tiene un transpondedor. Puedes escanearlo más tarde y asignarlo al animal.
 
 4. Se abre otro submenú en el que puedes guardar la información sobre los animales. Usa las teclas de flecha △ ▽ para seleccionar el elemento de configuración deseado.
 
-5. Para las configuraciones `Tipo de ganado`, `Sexo`, `Peso al nacer`, `Raza`, `Desarrollo de peso` y `Número de animales nuevos` usa las teclas de flecha ◁ ▷ para seleccionar la configuración deseada. Con el `Número a crear` determinas cuántos nuevos animales quieres crear de una vez.
+5. Para las configuraciones `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}` y `{{<T "NumberNewAnimals" >}}` usa las teclas de flecha ◁ ▷ para seleccionar la configuración deseada. Con el `{{<T "NumberNewAnimals" >}}` determinas cuántos nuevos animales quieres crear de una vez.
 
-6. Para las configuraciones `ID nacional de animal` y `ID del primer animal` usa las teclas de flecha △ ▽ para seleccionar la opción de configuración deseada y confirma con `OK`. Usa las teclas de flecha △ ▽◁ ▷ para seleccionar los números deseados. Finalmente, confirma con `OK`.
+6. Para las configuraciones `{{<T "NationalAnimalID" >}}` y `{{<T "IDFirstAnimal" >}}` usa las teclas de flecha △ ▽ para seleccionar la opción de configuración deseada y confirma con `{{<T "Ok" >}}`. Usa las teclas de flecha △ ▽◁ ▷ para seleccionar los números deseados. Finalmente, confirma con `{{<T "Ok" >}}`.
 
 7. Guarde la configuración y cree el nuevo animal con la tecla `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
 

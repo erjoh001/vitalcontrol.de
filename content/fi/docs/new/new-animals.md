@@ -21,17 +21,17 @@ Voit käyttää tätä toimintoa, jos haluat rekisteröidä eläimiä peräkkäi
 
 Uusien eläinten luomiseksi toimi seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta valikkokohta <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `Uusi` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteesi päävalikosta valikkokohta <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `{{<T "New" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Uudet eläimet" /> `Uudet eläimet` ja vahvista painamalla `OK`.
+2. Alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Uudet eläimet" /> `{{<T "NewAnimals" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 3. Joko skannaa eläimen transponderi tai käytä `F3` ESC-näppäintä jatkaaksesi ilman skannattua transponderia. Voit käyttää tätä toimintoa, jos eläimellä ei vielä ole transponderia. Voit skannata sen myöhemmin ja liittää sen eläimeen.
 
 4. Toinen alivalikko avautuu, jossa voit tallentaa tietoja eläimistä. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetuskohteen.
 
-5. Asetuksille `Eläinlaji`,`Sukupuoli` ,`Syntymäpaino`, `Rotu`, `Olinpaikka` ja `Luotava numero` käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen. `Luotava numero`-asetuksella määrität, kuinka monta uutta eläintä haluat luoda kerralla.
+5. Asetuksille `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}` ja `{{<T "NumberNewAnimals" >}}` käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen. `{{<T "NumberNewAnimals" >}}`-asetuksella määrität, kuinka monta uutta eläintä haluat luoda kerralla.
 
-6. Asetuksille `kansallinen eläin-ID`ja `ensimmäisen eläimen ID` käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon ja vahvista painamalla `OK`. Käytä nuolinäppäimiä △ ▽◁ ▷ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `OK`.
+6. Asetuksille `{{<T "NationalAnimalID" >}}`ja `{{<T "IDFirstAnimal" >}}` käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon ja vahvista painamalla `{{<T "Ok" >}}`. Käytä nuolinäppäimiä △ ▽◁ ▷ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `{{<T "Ok" >}}`.
 
 7. Tallenna asetukset ja luo uusi eläin `F3` näppäimellä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 

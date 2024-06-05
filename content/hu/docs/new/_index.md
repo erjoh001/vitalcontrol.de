@@ -7,7 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-A főmenü <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Új állat" /> `Új` elemén keresztül egy almenübe jutunk, ahol 5 alpontelem választható:
+A főmenü <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Új állat" /> `{{<T "New" >}}` elemén keresztül egy almenübe jutunk, ahol 5 alpontelem választható:
 
 <img src="images/neuen.png" alt="VitalControl Új" title="Új" usemap="#workmap" class="maphilight" />
 

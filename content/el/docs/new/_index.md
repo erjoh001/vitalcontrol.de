@@ -7,7 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-Μέσω του κύριου στοιχείου μενού <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Νέο ζώο" /> `Νέο` προχωράτε σε ένα υπομενού, όπου παρουσιάζονται 5 υποστοιχεία για επιλογή:
+Μέσω του κύριου στοιχείου μενού <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Νέο ζώο" /> `{{<T "New" >}}` προχωράτε σε ένα υπομενού, όπου παρουσιάζονται 5 υποστοιχεία για επιλογή:
 
 <img src="images/neuen.png" alt="VitalControl Νέο" title="Νέο" usemap="#workmap" class="maphilight" />
 

@@ -21,17 +21,17 @@ Tuto funkci můžete použít, pokud chcete zaregistrovat zvířata s po sobě j
 
 Pro vytvoření několika nových zvířat postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nové zvíře" /> `Nové` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nové zvíře" /> `{{<T "New" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu. Pomocí šipek ◁ ▷ △ ▽ vyberte položku menu <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Nová zvířata" /> `Nová zvířata` a potvrďte stisknutím `OK`.
+2. Otevře se podmenu. Pomocí šipek ◁ ▷ △ ▽ vyberte položku menu <img src="/icons/main/new-animals.svg" width="45" align="bottom" alt="Nová zvířata" /> `{{<T "NewAnimals" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 3. Buď naskenujte transpondér zvířete, nebo použijte klávesu `F3` ESC pro pokračování bez naskenovaného transpondéru. Tuto funkci můžete použít, pokud zvíře ještě nemá transpondér. Můžete jej naskenovat později a přiřadit ke zvířeti.
 
 4. Otevře se další podmenu, ve kterém můžete uložit informace o zvířatech. Pomocí šipek △ ▽ vyberte požadovanou položku nastavení.
 
-5. Pro nastavení `typ zvířete`, `Pohlaví`, `Porodní hmotnost`, `Plemeno`, `Pobyt` a `Počet k vytvoření` použijte šipky ◁ ▷ k výběru požadovaného nastavení. Pomocí `Počet k vytvoření` určíte, kolik nových zvířat chcete najednou vytvořit.
+5. Pro nastavení `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}` a `{{<T "NumberNewAnimals" >}}` použijte šipky ◁ ▷ k výběru požadovaného nastavení. Pomocí `{{<T "NumberNewAnimals" >}}` určíte, kolik nových zvířat chcete najednou vytvořit.
 
-6. Pro nastavení `národní ID zvířete` a `ID prvního zvířete` použijte šipky △ ▽ k výběru požadované možnosti nastavení a potvrďte stisknutím `OK`. Pomocí šipek △ ▽◁ ▷ vyberte požadovaná čísla. Nakonec potvrďte stisknutím `OK`.
+6. Pro nastavení `{{<T "NationalAnimalID" >}}` a `{{<T "IDFirstAnimal" >}}` použijte šipky △ ▽ k výběru požadované možnosti nastavení a potvrďte stisknutím `{{<T "Ok" >}}`. Pomocí šipek △ ▽◁ ▷ vyberte požadovaná čísla. Nakonec potvrďte stisknutím `{{<T "Ok" >}}`.
 
 
 7. Uložte nastavení a vytvořte nové zvíře pomocí klávesy `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.

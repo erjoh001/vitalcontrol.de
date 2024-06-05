@@ -15,17 +15,17 @@ translationKey: new/calving
 
 Pour enregistrer un vêlage, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nouvel animal" /> `Nouveau` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Nouvel animal" /> `{{<T "New" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'élément de menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Vêlage" /> `Vêlage` et confirmez avec `OK`.
+2. Un sous-menu s'ouvre. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'élément de menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Vêlage" /> `{{<T "Calving" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-3. Entrez l'ID de la mère, soit en scannant le transpondeur de la mère soit en appuyant sur le bouton `OK` et en entrant l'ID de la mère à l'aide des touches fléchées ◁ ▷ △ ▽ et en confirmant avec `OK`. Scannez maintenant le transpondeur du veau nouveau-né ou utilisez la touche `F3` `ESC` pour continuer sans scanner. Utilisez cette fonction si le veau n'a pas encore de transpondeur. Vous pourrez scanner un transpondeur plus tard une fois qu'il aura été attaché à l'animal.
+3. Entrez l'ID de la mère, soit en scannant le transpondeur de la mère soit en appuyant sur le bouton `{{<T "Ok" >}}` et en entrant l'ID de la mère à l'aide des touches fléchées ◁ ▷ △ ▽ et en confirmant avec `{{<T "Ok" >}}`. Scannez maintenant le transpondeur du veau nouveau-né ou utilisez la touche `F3` `ESC` pour continuer sans scanner. Utilisez cette fonction si le veau n'a pas encore de transpondeur. Vous pourrez scanner un transpondeur plus tard une fois qu'il aura été attaché à l'animal.
 
 4. Un autre sous-menu s'ouvre dans lequel vous pouvez enregistrer des informations sur le veau. Utilisez les touches fléchées △ ▽ pour sélectionner l'élément de réglage désiré.
 
-5. Pour les réglages `Type d'animal`, `Sexe`, `Poids de naissance`, `Race`, `Lieu de séjour`, `Multiples` et `Déroulement du vêlage`, utilisez les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
+5. Pour les réglages `{{<T "TypeAnimal" >}}`, `{{<T "Sex" >}}`, `{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` et `{{<T "CalvingEase" >}}`, utilisez les touches fléchées ◁ ▷ pour sélectionner le réglage désiré.
 
-6. Pour les réglages `N° de la boucle`, `ID` et `Date de naissance` utilisez les touches fléchées △ ▽ pour sélectionner l'option de réglage désirée et confirmez avec `OK`. Utilisez les touches fléchées △ ▽◁ ▷ pour sélectionner les chiffres désirés. Enfin, confirmez avec `OK`.
+6. Pour les réglages `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` et `{{<T "DateBirth" >}}` utilisez les touches fléchées △ ▽ pour sélectionner l'option de réglage désirée et confirmez avec `{{<T "Ok" >}}`. Utilisez les touches fléchées △ ▽◁ ▷ pour sélectionner les chiffres désirés. Enfin, confirmez avec `{{<T "Ok" >}}`.
 
 7. Sauvegardez les réglages et créez le nouvel animal avec la touche `F3` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sauvegarder et retourner" />&nbsp;.
 

@@ -17,20 +17,20 @@ With the help of mass registration, you can capture a large number of animals in
 
 1. Connect the barcode scanner to the VitalControl using the cable.
 
-2. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `New` and press the `OK` button.
+2. On the main screen of your VitalControl device, select the menu item <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="New animal" /> `{{<T "New" >}}` and press the `{{<T "Ok" >}}` button.
 
-3. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" /> `Bulk recording` and confirm with `OK`.
+3. A submenu opens. Use the arrow keys ◁ ▷ △ ▽ to select the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" /> `{{<T "BulkRecording" >}}` and confirm with `{{<T "Ok" >}}`.
 
 4. Another submenu opens, which contains one field for the animal' s ear tag number and another field for the animal's date of birth. First scan the barcode for the ear tag number. The border of the field changes from red to green. Then scan the date of birth. The border briefly turns green before both borders appear red again. The counter beneath the passport symbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> at the top of the screen is increased from 0 to 1. The first animal has been saved. Continue and scan the other cattle passports. After each passport scanned, the counter beneath on the passport symbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> increases by one. The counter beneath the herd symbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="Animal group"  title="Animal group" /> also increases by one. 
 
 {{% alert title="Hint" %}}
-The counter beneath the passport symbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> shows how many passes you have scanned in one go without leaving the `Bulk recording` screen. The counter beneath the herd symbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="New animal" /> shows how many passports you have scanned in total. This counter does not reset to zero if you leave the `Bulk recording` screen. The number is equivalent to your entries in the menu item ['Purchases'](../new-on-farm/purchased-animals/).
+The counter beneath the passport symbol <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> shows how many passes you have scanned in one go without leaving the `{{<T "BulkRecording" >}}` screen. The counter beneath the herd symbol <img src="/icons/header/group.svg" width="35" align="bottom" alt="New animal" /> shows how many passports you have scanned in total. This counter does not reset to zero if you leave the `{{<T "BulkRecording" >}}` screen. The number is equivalent to your entries in the menu item ['Purchases'](../new-on-farm/purchased-animals/).
 {{% /alert %}}
 
    ![VitalControl: Menu 'New - Bulk recording'](../images/bulk-recording.png "Bulk recording")
 
 {{% alert title="Hint" %}}
-You have further setting options within the `Bulk recording` menu item. These are explained below. As preparatory steps, always first access the menu item `Bulk-recording` and then proceed as in the instructions.
+You have further setting options within the `{{<T "BulkRecording" >}}` menu item. These are explained below. As preparatory steps, always first access the menu item `{{<T "BulkRecording" >}}` and then proceed as in the instructions.
 {{% /alert %}}
 
 {{% alert title="Hint" %}}
@@ -43,40 +43,40 @@ With this setting option you can determine whether the date of birth must be spe
 
 1. Use the <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings menu" /> `On/Off` button to open the settings menu.
 
-2. Use the arrow keys △ ▽ to select the setting option `Birth date mandatory` and confirm with `OK`.
+2. Use the arrow keys △ ▽ to select the setting option `{{<T "BirthDateMandatory" >}}` and confirm with `{{<T "Ok" >}}`.
 
 3. The yellow circle symbolizes that the function is activated. A gray circle symbolizes that the function is deactivated.
 
-4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `Bulk-recording`.
+4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `{{<T "BulkRecording" >}}`.
 
    ![VitalControl: Menu New Birth date mandatory](../images/birthdate.png "Birth date mandatory")
 
 ### Default values {#default-values}
 
-Within the `Default values` settings menu you set standards that apply to each animal you create. The process of creating with the barcode scanner remains unchanged as described above. You have the option of setting the type of livestock, gender, breed and whereabouts. To set the `Default values`, proceed as follows:
+Within the `{{<T "DefaultValues" >}}` settings menu you set standards that apply to each animal you create. The process of creating with the barcode scanner remains unchanged as described above. You have the option of setting the type of livestock, gender, breed and whereabouts. To set the `{{<T "DefaultValues" >}}`, proceed as follows:
 
 1. Use the <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings menu" /> `On/Off` button to open the settings menu.
 
-2. Use the arrow keys △ ▽ to select the menu item `Default values` and confirm with `OK`.
+2. Use the arrow keys △ ▽ to select the menu item `{{<T "DefaultValues" >}}` and confirm with `{{<T "Ok" >}}`.
 
 3. A submenu opens with the different setting options. Use the arrow keys △ ▽ to select the desired setting option. Use the arrow keys ◁ ▷ to select the desired setting.
 
-4. Save the settings and use the `F1` key&nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `Bulk recording` .
+4. Save the settings and use the `F1` key&nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `{{<T "BulkRecording" >}}` .
 
    ![VitalControl: Menu New Default values](../images/defaultvalues.png "Default values")
 
 ### Recorded values {#recorded-values}
 
-Within the `Recorded values` settings menu, you can specify which values ​​should be captured in addition to the ear tag number and date of birth. You can choose between `Breed`, `Sex`, `Whereabouts`, `Current weight`, `Birth weight` and `Type of animal`. As soon as you set at least one value, the process changes during scanning. First scan the ear tag number and the date of birth. Then use the direction keys △ ▽ to select the values ​​to be set and set the values. Then save your entries with the `F3` key. Only then is the animal created! To set the values ​​to be recorded, proceed as follows:
+Within the `{{<T "RecordedValues" >}}` settings menu, you can specify which values ​​should be captured in addition to the ear tag number and date of birth. You can choose between `{{<T "Breed" >}}`, `{{<T "Sex" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "CurrentWeight" >}}`, `{{<T "BirthWeight" >}}` and `{{<T "TypeAnimal" >}}`. As soon as you set at least one value, the process changes during scanning. First scan the ear tag number and the date of birth. Then use the direction keys △ ▽ to select the values ​​to be set and set the values. Then save your entries with the `F3` key. Only then is the animal created! To set the values ​​to be recorded, proceed as follows:
 
 1. Use the <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings menu" /> `On/Off` button to open the settings menu.
 
-2. Use the arrow keys △ ▽ to select the menu item `recorded values` and confirm with `OK`.
+2. Use the arrow keys △ ▽ to select the menu item `{{<T "RecordedValues" >}}` and confirm with `{{<T "Ok" >}}`.
 
-3. Select the desired value to be recorded with the arrow keys △ ▽ and confirm with `OK`. A yellow circle appears. If you want to deactivate the value to be recorded, confirm again with `OK`. The yellow circle disappears.
+3. Select the desired value to be recorded with the arrow keys △ ▽ and confirm with `{{<T "Ok" >}}`. A yellow circle appears. If you want to deactivate the value to be recorded, confirm again with `{{<T "Ok" >}}`. The yellow circle disappears.
 
-4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `Bulk recording`.
+4. Save the settings and use the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> to return to the menu item <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `{{<T "BulkRecording" >}}`.
 
-5. If you would like to deactivate all the values ​​to be recorded again, select the `Enable all + reset order` setting option in the menu item `Recorded values` and confirm with `OK`.
+5. If you would like to deactivate all the values ​​to be recorded again, select the `{{<T "EnableAllResetOrder" >}}` setting option in the menu item `{{<T "RecordedValues" >}}` and confirm with `{{<T "Ok" >}}`.
 
    ![VitalControl: Menu New Record values](../images/recordvalues.png "Record values")

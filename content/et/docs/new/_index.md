@@ -7,7 +7,7 @@ weight: 50
 no_list: true
 maphilight: true
 ---
-Peamenüü punkti <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uus loom" /> `Uus` kaudu pääsete alammenüüsse, kus on esitatud 5 alamvalikut:
+Peamenüü punkti <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uus loom" /> `{{<T "New" >}}` kaudu pääsete alammenüüsse, kus on esitatud 5 alamvalikut:
 
 <img src="images/neuen.png" alt="VitalControl Uus" title="Uus" usemap="#workmap" class="maphilight" />
 

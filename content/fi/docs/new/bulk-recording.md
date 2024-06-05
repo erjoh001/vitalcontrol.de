@@ -17,20 +17,20 @@ Massarekisteröinnin avulla voit tallentaa suuren määrän eläimiä lyhyessä 
 
 1. Yhdistä viivakoodinlukija VitalControl-laitteeseen kaapelilla.
 
-2. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `Uusi` ja paina `OK`-nappia.
+2. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `{{<T "New" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-3. Alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Uoukkotallennus" /> `Uoukkotallennus` ja vahvista `OK`-näppäimellä.
+3. Alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Uoukkotallennus" /> `{{<T "BulkRecording" >}}` ja vahvista `{{<T "Ok" >}}`-näppäimellä.
 
 4. Toinen alivalikko avautuu, jossa on yksi kenttä eläimen korvamerkin numerolle ja toinen kenttä eläimen syntymäajalle. Skannaa ensin korvamerkin numero. Kentän reunus vaihtuu punaisesta vihreäksi. Skannaa sitten syntymäaika. Reunus muuttuu hetkellisesti vihreäksi ennen kuin molemmat reunukset näkyvät jälleen punaisina. Laskuri passikuvakkeen <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Eläinpassit" title="Eläinpassit" /> alla ruudun yläosassa kasvaa 0:sta 1:een. Ensimmäinen eläin on tallennettu. Jatka ja skannaa muut naudan passit. Jokaisen skannatun passin jälkeen passikuvakkeen <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Eläinpassit" title="Eläinpassit" /> alla oleva laskuri kasvaa yhdellä. Lauman kuvakkeen <img src="/icons/header/group.svg" width="35" align="bottom" alt="Eläinryhmä"  title="Eläinryhmä" /> alla oleva laskuri kasvaa myös yhdellä.
 
 {{% alert title="Vihje" %}}
-Passikuvakkeen alla oleva laskuri <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> näyttää, kuinka monta passia olet skannannut kerralla poistumatta `Uoukkotallennus` -näytöltä. Lauman kuvakkeen alla oleva laskuri <img src="/icons/header/group.svg" width="35" align="bottom" alt="New animal" /> näyttää, kuinka monta passia olet yhteensä skannannut. Tämä laskuri ei nollaudu, jos poistut `Uoukkotallennus` -näytöltä. Numero vastaa kirjauksiasi valikossa ['Ostot'](../new-on-farm/purchased-animals/).
+Passikuvakkeen alla oleva laskuri <img src="/icons/header/animal-passports.svg" width="25" align="bottom" alt="Animal passports" title="Animal passports" /> näyttää, kuinka monta passia olet skannannut kerralla poistumatta `{{<T "BulkRecording" >}}` -näytöltä. Lauman kuvakkeen alla oleva laskuri <img src="/icons/header/group.svg" width="35" align="bottom" alt="New animal" /> näyttää, kuinka monta passia olet yhteensä skannannut. Tämä laskuri ei nollaudu, jos poistut `{{<T "BulkRecording" >}}` -näytöltä. Numero vastaa kirjauksiasi valikossa ['Ostot'](../new-on-farm/purchased-animals/).
 {{% /alert %}}
 
    ![VitalControl: Valikko 'Uusi - Bulk recording'](../images/bulk-recording.png "Bulk recording")
 
 {{% alert title="Vihje" %}}
-Sinulla on lisää asetusvaihtoehtoja `Uoukkotallennus` -valikossa. Nämä selitetään alla. Valmistautumisvaiheina, käy ensin `Uoukkotallennus` -valikossa ja toimi ohjeiden mukaisesti.
+Sinulla on lisää asetusvaihtoehtoja `{{<T "BulkRecording" >}}` -valikossa. Nämä selitetään alla. Valmistautumisvaiheina, käy ensin `{{<T "BulkRecording" >}}` -valikossa ja toimi ohjeiden mukaisesti.
 {{% /alert %}}
 
 {{% alert title="Vihje" %}}
@@ -43,40 +43,40 @@ Tällä asetusvaihtoehdolla voit määrittää, onko eläintä luotaessa ilmoite
 
 1. Käytä <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings menu" /> `On/Off` -painiketta avataksesi asetusvalikon.
 
-2. Käytä nuolinäppäimiä △ ▽ valitaksesi asetusvaihtoehdon `Syntymäaika pakollinen` ja vahvista `OK`.
+2. Käytä nuolinäppäimiä △ ▽ valitaksesi asetusvaihtoehdon `{{<T "BirthDateMandatory" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 3. Keltainen ympyrä symboloi, että toiminto on aktivoitu. Harmaa ympyrä symboloi, että toiminto on deaktivoitu.
 
-4. Tallenna asetukset ja käytä `F1` -näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> palataksesi valikkoon <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `Uoukkotallennus`.
+4. Tallenna asetukset ja käytä `F1` -näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> palataksesi valikkoon <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Bulk recording" />&nbsp; `{{<T "BulkRecording" >}}`.
 
 ![VitalControl: Menu Uusi Syntymäaika pakollinen](../images/birthdate.png "Syntymäaika pakollinen")
 
 ### Oletusarvot {#default-values}
 
-`Oletusarvot`-asetusvalikossa asetat standardit, jotka koskevat jokaista luomaasi eläintä. Viivakoodinlukijalla luomisprosessi pysyy muuttumattomana kuten yllä kuvattu. Voit asettaa eläimen tyypin, sukupuolen, rodun ja olinpaikan. Asettaaksesi `Oletusarvot`, toimi seuraavasti:
+`{{<T "DefaultValues" >}}`-asetusvalikossa asetat standardit, jotka koskevat jokaista luomaasi eläintä. Viivakoodinlukijalla luomisprosessi pysyy muuttumattomana kuten yllä kuvattu. Voit asettaa eläimen tyypin, sukupuolen, rodun ja olinpaikan. Asettaaksesi `{{<T "DefaultValues" >}}`, toimi seuraavasti:
 
-1. Käytä <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetusvalikko" /> `Päälle/Pois`-painiketta avataksesi asetusvalikon.
+1. Käytä <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetusvalikko" /> `On/Off`-painiketta avataksesi asetusvalikon.
 
-2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohteen `Oletusarvot` ja vahvista `OK`.
+2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohteen `{{<T "DefaultValues" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 3. Alivalikko avautuu eri asetusvaihtoehtoineen. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen.
 
-4. Tallenna asetukset ja käytä `F1`-näppäintä&nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" /> palataksesi valikkokohtaan <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Erärekisteröinti" />&nbsp; `Uoukkotallennus`.
+4. Tallenna asetukset ja käytä `F1`-näppäintä&nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" /> palataksesi valikkokohtaan <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Erärekisteröinti" />&nbsp; `{{<T "BulkRecording" >}}`.
 
    ![VitalControl: Menu Uusi Oletusarvot](../images/defaultvalues.png "Oletusarvot")
 
 ### Tallennetut arvot {#recorded-values}
 
-`Tallennetut arvot`-asetusvalikossa voit määrittää, mitkä arvot tulee tallentaa korvamerkin numeron ja syntymäajan lisäksi. Voit valita `Rotu`, `Sukupuoli`, `Olinpaikka`, `Nykyisen painon`, `Syntymäpainon` ja `Eläinlaji` välillä. Heti kun asetat ainakin yhden arvon, prosessi muuttuu skannauksen aikana. Skannaa ensin korvamerkin numero ja syntymäaika. Käytä sitten suuntanäppäimiä △ ▽ valitaksesi asetettavat arvot ja aseta arvot. Tallenna sitten tietosi `F3`-näppäimellä. Vasta sitten eläin luodaan! Asettaaksesi tallennettavat arvot, toimi seuraavasti:
+`{{<T "RecordedValues" >}}`-asetusvalikossa voit määrittää, mitkä arvot tulee tallentaa korvamerkin numeron ja syntymäajan lisäksi. Voit valita `{{<T "Breed" >}}`, `{{<T "Sex" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "CurrentWeight" >}}`, `{{<T "BirthWeight" >}}` ja `{{<T "TypeAnimal" >}}` välillä. Heti kun asetat ainakin yhden arvon, prosessi muuttuu skannauksen aikana. Skannaa ensin korvamerkin numero ja syntymäaika. Käytä sitten suuntanäppäimiä △ ▽ valitaksesi asetettavat arvot ja aseta arvot. Tallenna sitten tietosi `F3`-näppäimellä. Vasta sitten eläin luodaan! Asettaaksesi tallennettavat arvot, toimi seuraavasti:
 
-1. Käytä <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetusvalikko" /> `Päälle/Pois`-painiketta avataksesi asetusvalikon.
+1. Käytä <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetusvalikko" /> `On/Off`-painiketta avataksesi asetusvalikon.
 
-2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohteen `Tallennetut arvot` ja vahvista `OK`.
+2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohteen `{{<T "RecordedValues" >}}` ja vahvista `{{<T "Ok" >}}`.
 
-3. Valitse tallennettava arvo nuolinäppäimillä △ ▽ ja vahvista painamalla `OK`. Keltainen ympyrä ilmestyy. Jos haluat poistaa tallennettavan arvon käytöstä, vahvista uudelleen painamalla `OK`. Keltainen ympyrä katoaa.
+3. Valitse tallennettava arvo nuolinäppäimillä △ ▽ ja vahvista painamalla `{{<T "Ok" >}}`. Keltainen ympyrä ilmestyy. Jos haluat poistaa tallennettavan arvon käytöstä, vahvista uudelleen painamalla `{{<T "Ok" >}}`. Keltainen ympyrä katoaa.
 
-4. Tallenna asetukset ja palaa valikkokohtaan käyttämällä `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" /> `Erärekisteröinti` <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Erärekisteröinti" />&nbsp;.
+4. Tallenna asetukset ja palaa valikkokohtaan käyttämällä `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" /> `{{<T "BulkRecording" >}}` <img src="/icons/main/barcode-scan.svg" width="35" align="bottom" alt="Erärekisteröinti" />&nbsp;.
 
-5. Jos haluat poistaa kaikki tallennettavat arvot käytöstä uudelleen, valitse valikkokohdasta `Tallennetut arvot` asetusvaihtoehto `Poista kaikki arvot käytöstä` ja vahvista painamalla `OK`.
+5. Jos haluat poistaa kaikki tallennettavat arvot käytöstä uudelleen, valitse valikkokohdasta `{{<T "RecordedValues" >}}` asetusvaihtoehto `{{<T "RecordedValues" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
    ![VitalControl: Valikko Uudet tallennusarvot](../images/recordvalues.png "Tallenna arvot")

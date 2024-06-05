@@ -15,17 +15,17 @@ translationKey: new/calving
 
 Vasikan rekisteröimiseksi toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `Uusi` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-animal.svg" width="35" align="bottom" alt="Uusi eläin" /> `{{<T "New" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="poikiminen" /> `Poikiminen` ja vahvista painamalla `OK`.
+2. Alivalikko avautuu. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="poikiminen" /> `{{<T "Calving" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Anna emän tunnus joko skannaamalla emän transponderi tai painamalla `OK`-nappia ja syöttämällä emän tunnus käyttäen nuolinäppäimiä ◁ ▷ △ ▽ ja vahvista painamalla `OK`. Skannaa nyt vastasyntyneen vasikan transponderi tai käytä `F3`-näppäintä `ESC` jatkaaksesi ilman skannausta. Käytä tätä toimintoa, jos vasikalla ei vielä ole transponderia. Voit skannata transponderin myöhemmin, kun se on kiinnitetty eläimeen.
+3. Anna emän tunnus joko skannaamalla emän transponderi tai painamalla `{{<T "Ok" >}}`-nappia ja syöttämällä emän tunnus käyttäen nuolinäppäimiä ◁ ▷ △ ▽ ja vahvista painamalla `{{<T "Ok" >}}`. Skannaa nyt vastasyntyneen vasikan transponderi tai käytä `F3`-näppäintä `ESC` jatkaaksesi ilman skannausta. Käytä tätä toimintoa, jos vasikalla ei vielä ole transponderia. Voit skannata transponderin myöhemmin, kun se on kiinnitetty eläimeen.
 
 4. Toinen alivalikko avautuu, jossa voit tallentaa tietoja vasikasta. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetuskohteen.
 
-5. Asetuksille `Eläinlaji`,`Sukupuoli` ,`Syntymäpaino`, `Rotu`, `Olinpaikka`, `Toistot` ja `Poikimavaikeus`, käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen.
+5. Asetuksille `{{<T "TypeAnimal" >}}`,`{{<T "Sex" >}}` ,`{{<T "BirthWeight" >}}`, `{{<T "Breed" >}}`, `{{<T "Whereabouts" >}}`, `{{<T "Multiples" >}}` ja `{{<T "CalvingEase" >}}`, käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi asetuksen.
 
-6. Asetuksille `Kansallinen eläin ID`, `ID` ja `Syntymäoäivä` käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon ja vahvista painamalla `OK`. Käytä nuolinäppäimiä △ ▽◁ ▷ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `OK`.
+6. Asetuksille `{{<T "NationalAnimalID" >}}`, `{{<T "ID" >}}` ja `{{<T "DateBirth" >}}` käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi asetusvaihtoehdon ja vahvista painamalla `{{<T "Ok" >}}`. Käytä nuolinäppäimiä △ ▽◁ ▷ valitaksesi haluamasi numerot. Lopuksi vahvista painamalla `{{<T "Ok" >}}`.
 
 7. Tallenna asetukset ja luo uusi eläin `F3`-näppäimellä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
