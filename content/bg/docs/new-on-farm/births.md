@@ -19,17 +19,17 @@ translationKey: new-on-farm/births
 За експорт на данни ви е необходим включеният USB стик. Свържете USB стика с адаптера USB-C към вашето устройство VitalControl преди да следвате инструкциите.
 {{% /alert %}}
 
-1. На главния екран на вашето устройство VitalControl изберете менюто <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ново на фермата" /> `Ново на фермата` и натиснете бутона `OK`.
+1. На главния екран на вашето устройство VitalControl изберете менюто <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ново на фермата" /> `{{<T "NewOnFarm" >}}` и натиснете бутона `{{<T "Ok" >}}`.
 
-2. Отваря се подменю, в което можете да избирате между <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Ново на фермата, без транспондер" /> `Ново на фермата, без транспондер`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Купени животни" /> `Купени животни`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Без национален номер на животното" /> `Без национален номер на животното`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Раждания" /> `Раждания` и <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Без присвоен транспондер" /> `Без присвоен транспондер`. Използвайте стрелките ◁ ▷ △ ▽ за да изберете менюто <img src="/icons/main/births.svg" width="40" align="bottom" alt="Раждания" /> `Раждания` и потвърдете с `OK`.
+2. Отваря се подменю, в което можете да избирате между <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Ново на фермата, без транспондер" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Купени животни" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Без национален номер на животното" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Раждания" /> `{{<T "Births" >}}` и <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Без присвоен транспондер" /> `{{<T "NoTransponderAssigned" >}}`. Използвайте стрелките ◁ ▷ △ ▽ за да изберете менюто <img src="/icons/main/births.svg" width="40" align="bottom" alt="Раждания" /> `{{<T "Births" >}}` и потвърдете с `{{<T "Ok" >}}`.
 
 3. Отваря се списък с всички ваши раждания.
 
-4. Използвайте клавиша `F3` `Експортиране на списъка с раждания`. Отваря се подменю.
+4. Използвайте клавиша `F3` `{{<T "ExportListBirths" >}}`. Отваря се подменю.
 
-5. Използвайте стрелките △ ▽ за да изберете менюто `Експортиране на csv списък на ражданията` и потвърдете с `OK`.
+5. Използвайте стрелките △ ▽ за да изберете менюто `{{<T "ExportListBirths" >}}` и потвърдете с `{{<T "Ok" >}}`.
 
-6. Списъкът сега е запазен като CSV файл на вашия USB стик. Всички животни от списъка `Раждания` са изтрити.
+6. Списъкът сега е запазен като CSV файл на вашия USB стик. Всички животни от списъка `{{<T "Births" >}}` са изтрити.
 
     ![VitalControl: Меню Ново на фермата Раждания](../images/births.png "Раждания")
 
@@ -44,14 +44,14 @@ translationKey: new-on-farm/births
 - [Редактиране](#edit-data-of-birth-notice) на известие
 
 {{% alert title="Съвет" %}}
-Някои действия са идентични с действията в списъка `Закупени животни`. Следвайте връзките към стъпка по стъпка инструкциите. Винаги първо отваряйте списъка `Раждания`, както е описано в инструкциите по-горе.
+Някои действия са идентични с действията в списъка `{{<T "PurchasedAnimals" >}}`. Следвайте връзките към стъпка по стъпка инструкциите. Винаги първо отваряйте списъка `{{<T "Births" >}}`, както е описано в инструкциите по-горе.
 {{% /alert %}}
 
 ### Промяна между изглед списък и изглед на отделно животно {#change-between-list-view-and-single-animal-view}
 
-1. Използвайте бутона <img src="/icons/gear.svg" width="25" align="bottom" alt="Зъбно колело" /> `Вкл/Изкл`.
+1. Използвайте бутона <img src="/icons/gear.svg" width="25" align="bottom" alt="Зъбно колело" /> `On /Off`.
 
-2. Използвайте стрелките ◁ ▷ за избор между `изглед списък` и `изглед животно`.
+2. Използвайте стрелките ◁ ▷ за избор между `{{<T "ListView" >}}` и `{{<T "SingleAnimalView" >}}`.
 
 3. Запазете настройката си с клавиша `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Запази и излез" />&nbsp;. В изглед списък, използвайте стрелките ◁ ▷ за превключване между животните.
 
@@ -63,7 +63,7 @@ translationKey: new-on-farm/births
 Редактирането на данни за животното е възможно само в изглед списък!
 {{% /alert %}}
 
-1. Използвайте стрелките △ ▽ за избор на животното, което искате да редактирате, и потвърдете с `OK`.
+1. Използвайте стрелките △ ▽ за избор на животното, което искате да редактирате, и потвърдете с `{{<T "Ok" >}}`.
 
 2. Отваря се подменю, в което можете да регулирате различни настройки. За стъпка по стъпка инструкции кликнете [тук](/bg/docs/new/calving/#register-a-calving).
 

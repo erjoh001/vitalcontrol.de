@@ -19,13 +19,13 @@ Tässä luettelossa löydät kaikki eläimet, jotka olet luonut joukkotallennuks
 Tietojen viemiseen tarvitset mukana tulevan UBS-tikun. Yhdistä USB-tikku USB-C-sovittimella VitalControl-laitteeseesi ennen ohjeiden noudattamista.
 {{% /alert %}}
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uutta tilalla" /> `Uutta tilalla` ja paina `OK`-painiketta.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uutta tilalla" /> `{{<T "NewOnFarm" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Avautuu alivalikko, jossa voit valita välillä <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Uutta tilalla, ei transponderia" /> `Uutta tilalla, ei transponderia`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Osetettuja eläimiä" /> `Osetettuja eläimiä`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Ei eläintunnusta" /> `Ei eläintunnusta`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Syntymät" /> `Syntymät` ja <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Ei transponderia" /> `Ei transponderia`. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Osetettuja eläimiä" /> `Osetettuja eläimiä` ja vahvista `OK`.
+2. Avautuu alivalikko, jossa voit valita välillä <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Uutta tilalla, ei transponderia" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Osetettuja eläimiä" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Ei eläintunnusta" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Syntymät" /> `{{<T "Births" >}}` ja <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Ei transponderia" /> `{{<T "NoTransponderAssigned" >}}`. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Osetettuja eläimiä" /> `{{<T "PurchasedAnimals" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 3. Avautuu luettelo ostoksistasi, jotka olet rekisteröinyt joukkotallennusvalikon kautta.
 
-4. Käytä `F2`-näppäintä `CSV-vienti`.
+4. Käytä `F2`-näppäintä `{{<T "CSVExport" >}}`.
 
 5. CSV-viestilista tallennetaan nyt USB-tikullesi.
 
@@ -33,13 +33,13 @@ Tietojen viemiseen tarvitset mukana tulevan UBS-tikun. Yhdistä USB-tikku USB-C-
 
 ## Vaihtoehdot: Poista kaikki ilmoitukset viennin jälkeen {#options-delete-all-notices-after-export}
 
-Tällä vaihtoehdolla voit asettaa, poistetaanko kaikki viestit `Osetettuja eläimiä` -listalta CSV-tiedoston viennin jälkeen. Käytä tätä vaihtoehtoa vain, jos olet varma, että et enää tarvitse viestejä!
+Tällä vaihtoehdolla voit asettaa, poistetaanko kaikki viestit `{{<T "PurchasedAnimals" >}}` -listalta CSV-tiedoston viennin jälkeen. Käytä tätä vaihtoehtoa vain, jos olet varma, että et enää tarvitse viestejä!
 
 1. Käytä `F3`-näppäintä. Alivalikko avautuu.
 
-2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `Poista kaikki ilmoitukset viennin jälkeen` ja vahvista `OK`:lla.
+2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `{{<T "DeleteAllNoticesAfterExport" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
-3. Ruutu on nyt merkitty rastilla. Vaihtoehto on aktivoitu. Vahvista uudelleen 'OK':lla poistaaksesi vaihtoehdon.
+3. Ruutu on nyt merkitty rastilla. Vaihtoehto on aktivoitu. Vahvista uudelleen `{{<T "Ok" >}}`:lla poistaaksesi vaihtoehdon.
 
     ![VitalControl: Ostettujen eläinten lista, csv-vienti](../images/delete-all.png "Poista kaikki ilmoitukset viennin jälkeen")    
 
@@ -54,7 +54,7 @@ Lisäksi vientitiedoston luomisen lisäksi sinulla on seuraavat vaihtoehdot:
 - [Muokkaa merkintää](#edit-data-of-purchased-animal)
 
 {{% alert title="Vinkki" %}}
-Avaa aina ensin `Osetettuja eläimiä` -lista kuten yllä olevissa ohjeissa on kuvattu.
+Avaa aina ensin `{{<T "PurchasedAnimals" >}}` -lista kuten yllä olevissa ohjeissa on kuvattu.
 {{% /alert %}}
 
 ### Poista transponderin linkitvs {#unlink-transponder}
@@ -63,7 +63,7 @@ Voit käyttää tätä toimintoa poistaaksesi lähettimen eläimestä.
 
 1. Käytä `F3`-näppäintä. Alivalikko avautuu.
 
-2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `Poista transponderin linkitvs` ja vahvista `OK`:lla.
+2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `{{<T "UnlinkTransponder" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
 3. Lähetin on onnistuneesti irrotettu.
 
@@ -71,11 +71,11 @@ Voit käyttää tätä toimintoa poistaaksesi lähettimen eläimestä.
 
 ### Tyhjennä kaikki ostoilmoitukset {#clear-all-purchase-notices}
 
-Tällä toiminnolla voit poistaa kaikki eläimet `Osetettuja eläimiä` -listalta luomatta ensin vientitiedostoa.
+Tällä toiminnolla voit poistaa kaikki eläimet `{{<T "PurchasedAnimals" >}}` -listalta luomatta ensin vientitiedostoa.
 
 1. Käytä `F3`-näppäintä. Alivalikko avautuu.
 
-2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `Tyhjennä kaikki ostoilmoitukset` ja vahvista `OK`:lla.
+2. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `{{<T "ClearAllPurchaseNotices" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
 3. Ostoilmoitukset on onnistuneesti poistettu.
 
@@ -89,7 +89,7 @@ Eläimen ja siihen liittyvän ostohuomautuksen poistaminen tapahtuu seuraavasti:
 
 2. Paina `F3`-näppäintä. Alivalikko avautuu.
 
-3. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `Poista eläin + ilmoituks` ja vahvista `OK`.
+3. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `{{<T "UnregisterAnimalAndBirthNotice >}}` ja vahvista `{{<T "Ok" >}}`.
 
 4. Eläin ja pääsyviesti on poistettu onnistuneesti.
 
@@ -103,7 +103,7 @@ Eläimen ostohuomautuksen poistaminen listalta tapahtuu seuraavasti:
 
 2. Paina `F3`-näppäintä. Alivalikko avautuu.
 
-3. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `Tyhjennä ostoilmoitus` ja vahvista `OK`.
+3. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `{{<T "ClearPurchaseNotice" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 4. Valitun eläimen ostohuomautus on poistettu onnistuneesti.
 
@@ -115,6 +115,6 @@ Ostoslistan eläimen tietojen muokkaaminen tapahtuu seuraavasti:
 
 1. Käytä nuolinäppäimiä △ ▽ valitaksesi muokattavan eläimen.
 
-2. Paina `OK`-painiketta. Alivalikko eläimen tiedoilla avautuu. Tietojen muokkaamisesta voit lukea [täältä](/fi/docs/actions/edit/).
+2. Paina `{{<T "Ok" >}}`-painiketta. Alivalikko eläimen tiedoilla avautuu. Tietojen muokkaamisesta voit lukea [täältä](/fi/docs/actions/edit/).
 
 ![VitalControl: Lista ostetuista eläimistä, Muokkaa eläimen tietoja](../images/edit.png "Muokkaa ostetun eläimen tietoja")

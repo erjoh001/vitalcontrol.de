@@ -19,17 +19,17 @@ Tässä luettelossa voit tarkastella syntyneitä, muokata niitä ja luoda vienti
 Tietojen viemiseen tarvitset mukana tulevan UBS-tikun. Yhdistä USB-tikku USB-C-sovittimella VitalControl-laitteeseesi ennen ohjeiden seuraamista.
 {{% /alert %}}
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uusi tilalla" /> `Uusi tilalla` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uusi tilalla" /> `{{<T "NewOnFarm" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alavalikko avautuu, jossa voit valita kohteiden <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Uusi tilalla, ei transponderia" /> `Uusi tilalla, ei transponderia`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ostettuja eläimet" /> `Ostettuja eläimet`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Ei eläintunnusta" /> `Ei eläintunnusta`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Syntymät" /> `Syntymät` ja <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Ei Transponderia" /> `Ei Transponderia` välillä. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/births.svg" width="40" align="bottom" alt="Syntymät" /> `Syntymät` ja vahvista painamalla `OK`.
+2. Alavalikko avautuu, jossa voit valita kohteiden <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Uusi tilalla, ei transponderia" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ostettuja eläimet" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Ei eläintunnusta" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Syntymät" /> `{{<T "Births" >}}` ja <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Ei Transponderia" /> `{{<T "NoTransponderAssigned" >}}` välillä. Käytä nuolinäppäimiä ◁ ▷ △ ▽ valitaksesi valikkokohdan <img src="/icons/main/births.svg" width="40" align="bottom" alt="Syntymät" /> `{{<T "Births" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 3. Avautuu lista kaikista syntymistäsi.
 
-4. Käytä `F3`-näppäintä `CSV-vienti syntymälista`. Alavalikko avautuu.
+4. Käytä `F3`-näppäintä `{{<T "ExportListBirths" >}}`. Alavalikko avautuu.
 
-5. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `Vie syntymäluettelo` ja vahvista painamalla `OK`.
+5. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `{{<T "ExportListBirths" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-6. Lista tallennetaan nyt CSV-tiedostona USB-tikullesi. Kaikki `Syntymät`-listan eläimet poistetaan.
+6. Lista tallennetaan nyt CSV-tiedostona USB-tikullesi. Kaikki `{{<T "Births" >}}`-listan eläimet poistetaan.
 
     ![VitalControl: Valikko Uusi tilalla Syntymät](../images/births.png "Syntymät")
 
@@ -44,14 +44,14 @@ Lisäksi vientitiedoston luomiseen, sinulla on seuraavat vaihtoehdot:
 - [Muokkaa](#edit-data-of-birth-notice) ilmoitusta
 
 {{% alert title="Vinkki" %}}
-Jotkut toiminnot ovat identtisiä `Ostettuja eläimet` -listan toimintoihin. Seuraa linkkejä vaiheittaisiin ohjeisiin. Avaa aina ensin `Syntymät`-lista kuten yllä olevissa ohjeissa on kuvattu.
+Jotkut toiminnot ovat identtisiä `{{<T "PurchasedAnimals" >}}` -listan toimintoihin. Seuraa linkkejä vaiheittaisiin ohjeisiin. Avaa aina ensin `{{<T "Births" >}}`-lista kuten yllä olevissa ohjeissa on kuvattu.
 {{% /alert %}}
 
 ### Vaihda listanäkymä ja yksittäisen eläinnäkymän välillä {#change-between-list-view-and-single-animal-view}
 
-1. Käytä <img src="/icons/gear.svg" width="25" align="bottom" alt="Vaihde" /> `Päälle/Pois` -painiketta.
+1. Käytä <img src="/icons/gear.svg" width="25" align="bottom" alt="Vaihde" /> `On /Off` -painiketta.
 
-2. Käytä nuolinäppäimiä ◁ ▷ valitaksesi `listanäkymä` ja `Yhden eläimen näkymä` välillä.
+2. Käytä nuolinäppäimiä ◁ ▷ valitaksesi `{{<T "ListView" >}}` ja `{{<T "SingleAnimalView" >}}` välillä.
 
 3. Tallenna asetuksesi `F1`-näppäimellä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;. Listanäkymässä käytä nuolinäppäimiä ◁ ▷ vaihtaaksesi eläinten välillä.
 
@@ -63,7 +63,7 @@ Jotkut toiminnot ovat identtisiä `Ostettuja eläimet` -listan toimintoihin. Seu
 Eläintietojen muokkaaminen on mahdollista vain listanäkymässä!
 {{% /alert %}}
 
-1. Käytä nuolinäppäimiä △ ▽ valitaksesi muokattavan eläimen ja vahvista `OK`.
+1. Käytä nuolinäppäimiä △ ▽ valitaksesi muokattavan eläimen ja vahvista `{{<T "Ok" >}}`.
 
 2. Alivalikko avautuu, jossa voit säätää erilaisia asetuksia. Vaiheittaisiin ohjeisiin pääset klikkaamalla [tästä](/fi/docs/new/calving/).
 

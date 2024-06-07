@@ -19,17 +19,17 @@ V tomto seznamu můžete zobrazit svá narození, upravit je a vytvořit exportn
 Pro export dat potřebujete přiložený UBS stick. Připojte USB stick s USB-C adaptérem k vašemu zařízení VitalControl předtím, než budete pokračovat podle pokynů.
 {{% /alert %}}
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nové na farmě" /> `Nové na farmě` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nové na farmě" /> `{{<T "NewOnFarm" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém si můžete vybrat mezi <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nové na farmě, bez transpondéru" /> `Nové na farmě, bez transpondéru`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zakoupená zvířata" /> `Zakoupená zvířata`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Bez národního ID zvířete" /> `Bez národního ID zvířete`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Narození" /> `Narození` a <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Bez transpondéru" /> `Bez transpondéru`. Pomocí šipek ◁ ▷ △ ▽ vyberte položku menu <img src="/icons/main/births.svg" width="40" align="bottom" alt="Narození" /> `Narození` a potvrďte `OK`.
+2. Otevře se podmenu, ve kterém si můžete vybrat mezi <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nové na farmě, bez transpondéru" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zakoupená zvířata" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Bez národního ID zvířete" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Narození" /> `{{<T "Births" >}}` a <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Bez transpondéru" /> `{{<T "NoTransponderAssigned" >}}`. Pomocí šipek ◁ ▷ △ ▽ vyberte položku menu <img src="/icons/main/births.svg" width="40" align="bottom" alt="Narození" /> `{{<T "Births" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 3. Otevře se seznam všech vašich narození.
 
-4. Použijte klávesu `F3` `Exportovat seznam narození`. Otevře se podmenu.
+4. Použijte klávesu `F3` `{{<T "ExportListBirths" >}}`. Otevře se podmenu.
 
-5. Pomocí šipek △ ▽ vyberte položku menu `Exportovat csv seznam narození` a potvrďte `OK`.
+5. Pomocí šipek △ ▽ vyberte položku menu `{{<T "ExportListBirths" >}}` a potvrďte `{{<T "Ok" >}}`.
 
-6. Seznam je nyní uložen jako CSV soubor na vašem USB sticku. Všechna zvířata ze seznamu `Narození` jsou smazána.
+6. Seznam je nyní uložen jako CSV soubor na vašem USB sticku. Všechna zvířata ze seznamu `{{<T "Births" >}}` jsou smazána.
 
     ![VitalControl: Menu Nové na farmě Narození](../images/births.png "Narození")
 
@@ -44,14 +44,14 @@ Kromě vytvoření exportního souboru máte následující možnosti:
 - [Upravit](#edit-data-of-birth-notice) oznámení
 
 {{% alert title="Tip" %}}
-Některé akce jsou totožné s akcemi v seznamu `Zakoupená zvířata`. Postupujte podle odkazů na podrobné pokyny. Vždy nejprve otevřete seznam `Narození`, jak je popsáno v pokynech výše.
+Některé akce jsou totožné s akcemi v seznamu `{{<T "PurchasedAnimals" >}}`. Postupujte podle odkazů na podrobné pokyny. Vždy nejprve otevřete seznam `{{<T "Births" >}}`, jak je popsáno v pokynech výše.
 {{% /alert %}}
 
 ### Přepnout mezi zobrazením seznamu a zobrazením jednotlivých zvířat {#change-between-list-view-and-single-animal-view}
 
-1. Použijte tlačítko <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `Zap/Vyp`.
+1. Použijte tlačítko <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `On /Off`.
 
-2. Použijte šipky ◁ ▷ k výběru mezi `zobrazením seznamu` a `zobrazením zvířat`.
+2. Použijte šipky ◁ ▷ k výběru mezi `{{<T "ListView" >}}` a `{{<T "SingleAnimalView" >}}`.
 
 3. Uložte své nastavení klávesou `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;. V rámci zobrazení seznamu použijte šipky ◁ ▷ k přepínání mezi zvířaty.
 
@@ -63,7 +63,7 @@ Některé akce jsou totožné s akcemi v seznamu `Zakoupená zvířata`. Postupu
 Úprava údajů o zvířeti je možná pouze v zobrazení seznamu!
 {{% /alert %}}
 
-1. Použijte šipky △ ▽ k výběru zvířete, které chcete upravit, a potvrďte `OK`.
+1. Použijte šipky △ ▽ k výběru zvířete, které chcete upravit, a potvrďte `{{<T "Ok" >}}`.
 
 2. Otevře se podmenu, ve kterém můžete upravit různá nastavení. Pro podrobné pokyny klikněte [zde](/cs/docs/new/calving/#register-a-calving).
 

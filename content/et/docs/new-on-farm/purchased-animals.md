@@ -19,13 +19,13 @@ Selles nimekirjas leiate kõik loomad, mille olete loonud hulgisisestuse kaudu. 
 Andmete eksportimiseks on vajalik kaasasolev UBS mälupulk. Ühendage USB mälupulk USB-C adapteri abil oma VitalControl seadmega enne juhiste järgimist.
 {{% /alert %}}
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uus farmis" /> `Uus farmis` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uus farmis" /> `{{<T "NewOnFarm" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus saate valida vahel <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Uus farmis, ilma transponderita" /> `Uus farmis, ilma transponderita`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ostetud loomad" /> `Ostetud loomad`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Riiklikku loomanumbrit pole määratud" /> `Riiklikku loomanumbrit pole määratud`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Sünnid" /> `Sünnid` ja <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Transponderit pole määratud" /> `Transponderit pole määratud`. Kasutage nooleklahve ◁ ▷ △ ▽ menüüpunkti <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ostetud loomad" /> `ostetud loomad` valimiseks ja kinnitage `OK`-ga.
+2. Avaneb alammenüü, kus saate valida vahel <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Uus farmis, ilma transponderita" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ostetud loomad" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Riiklikku loomanumbrit pole määratud" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Sünnid" /> `{{<T "Births" >}}` ja <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Transponderit pole määratud" /> `{{<T "NoTransponderAssigned" >}}`. Kasutage nooleklahve ◁ ▷ △ ▽ menüüpunkti <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ostetud loomad" /> `{{<T "PurchasedAnimals" >}}` valimiseks ja kinnitage `{{<T "Ok" >}}`-ga.
 
 3. Avaneb nimekiri teie ostudest, mille olete registreerinud hulgisisestuse menüüpunkti kaudu.
 
-4. Kasutage `F2` klahvi `CSV eksport`.
+4. Kasutage `F2` klahvi `{{<T "CSVExport" >}}`.
 
 5. CSV sõnumite nimekiri salvestatakse nüüd teie USB mälupulgale.
 
@@ -33,13 +33,13 @@ Andmete eksportimiseks on vajalik kaasasolev UBS mälupulk. Ühendage USB mälup
 
 ## Valikud: Kustuta kõik teated pärast eksportimist {#options-delete-all-notices-after-export}
 
-Selle valikuga saate määrata, kas kõik sõnumid `Ostetud loomade` nimekirjas tuleks pärast CSV-faili eksportimist kustutada. Kasutage seda valikut ainult juhul, kui olete kindel, et te ei vaja enam sõnumeid!
+Selle valikuga saate määrata, kas kõik sõnumid `{{<T "PurchasedAnimals" >}}` nimekirjas tuleks pärast CSV-faili eksportimist kustutada. Kasutage seda valikut ainult juhul, kui olete kindel, et te ei vaja enam sõnumeid!
 
 1. Kasutage klahvi `F3`. Avaneb alammenüü.
 
-2. Kasutage nooleklahve △ ▽ menüüpunkti `Kustuta kõik teated pärast eksportimist` valimiseks ja kinnitage `OK`-ga.
+2. Kasutage nooleklahve △ ▽ menüüpunkti `{{<T "DeleteAllNoticesAfterExport" >}}` valimiseks ja kinnitage `{{<T "Ok" >}}`-ga.
 
-3. Kast on nüüd märgitud linnukesega. Valik on aktiveeritud. Kinnitage uuesti 'OK' abil valiku deaktiveerimiseks.
+3. Kast on nüüd märgitud linnukesega. Valik on aktiveeritud. Kinnitage uuesti `{{<T "Ok" >}}` abil valiku deaktiveerimiseks.
 
     ![VitalControl: Ostetud loomade nimekiri, csv eksport](../images/delete-all.png "Kustuta kõik teated pärast eksportimist")
 
@@ -54,7 +54,7 @@ Lisaks ekspordifaili loomisele on teil järgmised valikud:
 - [Muuda märget](#edit-data-of-purchased-animal)
 
 {{% alert title="Vihje" %}}
-Avage alati esmalt `ostetud loomade` nimekiri, nagu eespool kirjeldatud.
+Avage alati esmalt `{{<T "PurchasedAnimals" >}}` nimekiri, nagu eespool kirjeldatud.
 {{% /alert %}}
 
 ### Eemalda transponder {#unlink-transponder}
@@ -63,7 +63,7 @@ Selle funktsiooni abil saate loomalt transponderi eemaldada.
 
 1. Kasutage klahvi `F3`. Avaneb alammenüü.
 
-2. Kasutage nooleklahve △ ▽ menüüpunkti `eemalda transponder` valimiseks ja kinnitage `OK`-ga.
+2. Kasutage nooleklahve △ ▽ menüüpunkti `{{<T "UnlinkTransponder" >}}` valimiseks ja kinnitage `{{<T "Ok" >}}`-ga.
 
 3. Transponder on edukalt eemaldatud.
 
@@ -71,11 +71,11 @@ Selle funktsiooni abil saate loomalt transponderi eemaldada.
 
 ### Kustuta kõik ostuteated {#clear-all-purchase-notices}
 
-Selle funktsiooni abil saate kõik loomad `Ostetud loomade` nimekirjast kustutada, ilma et peaksite esmalt looma eksportfaili.
+Selle funktsiooni abil saate kõik loomad `{{<T "PurchasedAnimals" >}}` nimekirjast kustutada, ilma et peaksite esmalt looma eksportfaili.
 
 1. Kasutage klahvi `F3`. Avaneb alammenüü.
 
-2. Kasutage nooleklahve △ ▽ menüüpunkti `Kustuta kõik ostuteated` valimiseks ja kinnitage `OK`-ga.
+2. Kasutage nooleklahve △ ▽ menüüpunkti `{{<T "ClearAllPurchaseNotices" >}}` valimiseks ja kinnitage `{{<T "Ok" >}}`-ga.
 
 3. Ostuteated on edukalt kustutatud.
 
@@ -89,7 +89,7 @@ Looma ja vastava ostuteate kustutamiseks toimi järgmiselt:
 
 2. Kasuta `F3` klahvi. Avaneb alammenüü.
 
-3. Kasuta nooleklahve △ ▽ menüüpunkti `Kustuta loom + teade` valimiseks ja kinnita `OK`-ga.
+3. Kasuta nooleklahve △ ▽ menüüpunkti `{{<T "UnregisterAnimalAndBirthNotice >}}` valimiseks ja kinnita `{{<T "Ok" >}}`-ga.
 
 4. Loom ja juurdepääsuteade on edukalt kustutatud.
 
@@ -103,7 +103,7 @@ Looma ostuteate nimekirjast kustutamiseks toimi järgmiselt:
 
 2. Kasuta `F3` klahvi. Avaneb alammenüü.
 
-3. Kasuta nooleklahve △ ▽ menüüpunkti `Tühjenda ostuteade` valimiseks ja kinnita `OK`-ga.
+3. Kasuta nooleklahve △ ▽ menüüpunkti `{{<T "ClearPurchaseNotice" >}}` valimiseks ja kinnita `{{<T "Ok" >}}`-ga.
 
 4. Valitud looma ostuteade on edukalt kustutatud.
 
@@ -115,6 +115,6 @@ Ostunimekirjas oleva looma andmete muutmiseks toimi järgmiselt:
 
 1. Kasuta nooleklahve △ ▽ looma valimiseks, kelle andmeid soovid muuta.
 
-2. Kasuta `OK` nuppu. Avaneb alammenüü looma andmetega. Kuidas neid muuta, saad teada [siit](/et/docs/actions/edit/#edit-animal-data).
+2. Kasuta `{{<T "Ok" >}}` nuppu. Avaneb alammenüü looma andmetega. Kuidas neid muuta, saad teada [siit](/et/docs/actions/edit/#edit-animal-data).
 
     ![VitalControl: Ostetud loomade nimekiri, Muuda looma andmeid](../images/edit.png "Muuda ostetud looma andmeid")

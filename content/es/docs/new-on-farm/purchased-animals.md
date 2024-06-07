@@ -19,13 +19,13 @@ En esta lista encontrarás todos los animales que has creado mediante el registr
 Para exportar datos necesitas el USB incluido. Conecta el USB con el adaptador USB-C a tu dispositivo VitalControl antes de seguir las instrucciones.
 {{% /alert %}}
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nuevo en la granja" /> `Nuevo en la granja` y presiona el botón `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nuevo en la granja" /> `{{<T "NewOnFarm" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que puedes elegir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="New on farm, no transponder" /> `Nuevo en la granja, sin transpondedor`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `Animales comprados`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="No national animal ID" /> `Ningún ID de animal asignado`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Births" /> `Nacimientos` y <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="No transponder assigned" /> `Ningún transpondedor asignado`. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el ítem del menú <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animales comprados" /> `animales comprados` y confirma con `OK`.
+2. Se abre un submenú en el que puedes elegir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="New on farm, no transponder" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Purchased animals" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="No national animal ID" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Births" /> `{{<T "Births" >}}` y <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="No transponder assigned" /> `{{<T "NoTransponderAssigned" >}}`. Usa las teclas de flecha ◁ ▷ △ ▽ para seleccionar el ítem del menú <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animales comprados" /> `{{<T "PurchasedAnimals" >}}` y confirma con `{{<T "Ok" >}}`.
 
 3. Se abre una lista con tus compras que has registrado mediante el ítem del menú de registro masivo.
 
-4. Usa la tecla `F2` `Exportar CSV`.
+4. Usa la tecla `F2` `{{<T "CSVExport" >}}`.
 
 5. La lista de mensajes CSV ahora se guarda en tu USB stick.
 
@@ -33,13 +33,13 @@ Para exportar datos necesitas el USB incluido. Conecta el USB con el adaptador U
 
 ## Opciones: Eliminar todos los avisos después de la exportación {#options-delete-all-notices-after-export}
 
-Con esta opción, puedes configurar si todos los mensajes dentro de la lista `Animales comprados` deben ser eliminados después de que el archivo CSV haya sido exportado. ¡Solo usa esta opción si estás seguro de que ya no necesitas los mensajes!
+Con esta opción, puedes configurar si todos los mensajes dentro de la lista `{{<T "PurchasedAnimals" >}}` deben ser eliminados después de que el archivo CSV haya sido exportado. ¡Solo usa esta opción si estás seguro de que ya no necesitas los mensajes!
 
 1. Usa la tecla `F3`. Se abre un submenú.
 
-2. Usa las teclas de flecha △ ▽ para seleccionar el ítem del menú `Eliminar todos los avisos después de la exportación` y confirma con `OK`.
+2. Usa las teclas de flecha △ ▽ para seleccionar el ítem del menú `{{<T "DeleteAllNoticesAfterExport" >}}` y confirma con `{{<T "Ok" >}}`.
 
-3. La casilla ahora está marcada con una marca. La opción está activada. Confirma de nuevo con `OK` para desactivar la opción.
+3. La casilla ahora está marcada con una marca. La opción está activada. Confirma de nuevo con `{{<T "Ok" >}}` para desactivar la opción.
 
 ![VitalControl: Lista de animales comprados, exportación csv](../images/delete-all.png "Eliminar todos los avisos después de la exportación")
 
@@ -54,7 +54,7 @@ Además de crear el archivo de exportación, tienes las siguientes opciones:
 - [Editar una marca](#edit-data-of-purchased-animal)
 
 {{% alert title="Consejo" %}}
-Siempre abre primero la lista de `animales comprados` como se describe en las instrucciones anteriores.
+Siempre abre primero la lista de `{{<T "PurchasedAnimals" >}}` como se describe en las instrucciones anteriores.
 {{% /alert %}}
 
 ### Desvincular transpondedor {#unlink-transponder}
@@ -63,7 +63,7 @@ Puedes usar esta función para remover el transpondedor de un animal.
 
 1. Usa la tecla `F3`. Se abre un submenú.
 
-2. Usa las teclas de flecha △ ▽ para seleccionar el ítem del menú `desvincular transpondedor` y confirma con `OK`.
+2. Usa las teclas de flecha △ ▽ para seleccionar el ítem del menú `{{<T "UnlinkTransponder" >}}` y confirma con `{{<T "Ok" >}}`.
 
 3. El transpondedor ha sido desvinculado con éxito.
 
@@ -71,11 +71,11 @@ Puedes usar esta función para remover el transpondedor de un animal.
 
 ### Borrar todos los avisos de compra {#clear-all-purchase-notices}
 
-Con esta función puedes eliminar todos los animales de la lista `Animales comprados` sin necesidad de crear un archivo de exportación primero.
+Con esta función puedes eliminar todos los animales de la lista `{{<T "PurchasedAnimals" >}}` sin necesidad de crear un archivo de exportación primero.
 
 1. Usa la tecla `F3`. Se abre un submenú.
 
-2. Usa las teclas de flecha △ ▽ para seleccionar el ítem del menú `Borrar todos los avisos de compra` y confirma con `OK`.
+2. Usa las teclas de flecha △ ▽ para seleccionar el ítem del menú `{{<T "ClearAllPurchaseNotices" >}}` y confirma con `{{<T "Ok" >}}`.
 
 3. Los avisos de compra han sido eliminados con éxito.
 
@@ -89,7 +89,7 @@ Para eliminar un animal y su correspondiente aviso de compra, proceda de la sigu
 
 2. Utilice la tecla `F3`. Se abre un submenú.
 
-3. Utilice las teclas de flecha △ ▽ para seleccionar el ítem del menú `Borrar animal + notification` y confirme con `OK`.
+3. Utilice las teclas de flecha △ ▽ para seleccionar el ítem del menú `{{<T "UnregisterAnimalAndBirthNotice >}}` y confirme con `{{<T "Ok" >}}`.
 
 4. El animal y el mensaje de acceso han sido eliminados con éxito.
 
@@ -103,7 +103,7 @@ Para eliminar el aviso de compra de un animal de la lista, proceda de la siguien
 
 2. Utilice la tecla `F3`. Se abre un submenú.
 
-3. Utilice las teclas de flecha △ ▽ para seleccionar el ítem del menú `Borrar aviso de compra` y confirme con `OK`.
+3. Utilice las teclas de flecha △ ▽ para seleccionar el ítem del menú `{{<T "ClearPurchaseNotice" >}}` y confirme con `{{<T "Ok" >}}`.
 
 4. El aviso de compra del animal seleccionado ha sido eliminado con éxito.
 
@@ -115,6 +115,6 @@ Para editar los datos de un animal en la lista de compras, proceda de la siguien
 
 1. Utilice las teclas de flecha △ ▽ para seleccionar el animal que desea editar.
 
-2. Utilice el botón `OK`. Se abre un submenú con los datos del animal. Puede encontrar cómo editar estos [aquí](/es/docs/actions/edit/#edit-animal-data).
+2. Utilice el botón `{{<T "Ok" >}}`. Se abre un submenú con los datos del animal. Puede encontrar cómo editar estos [aquí](/es/docs/actions/edit/#edit-animal-data).
 
 ![VitalControl: Lista de animales comprados, editar datos del animal](../images/edit.png "Editar datos del animal comprado")

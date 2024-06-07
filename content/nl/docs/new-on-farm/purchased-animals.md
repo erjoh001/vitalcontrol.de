@@ -39,7 +39,7 @@ Met deze optie kunt u instellen of alle berichten binnen de lijst `Gekochte dier
 
 2. Gebruik de pijltoetsen △ ▽ om het menu-item `Verwijder alle meldingen na export` te selecteren en bevestig met `OK`.
 
-3. Het vakje is nu gemarkeerd met een vinkje. De optie is geactiveerd. Bevestig opnieuw met 'OK' om de optie te deactiveren.
+3. Het vakje is nu gemarkeerd met een vinkje. De optie is geactiveerd. Bevestig opnieuw met `OK` om de optie te deactiveren.
 
     ![VitalControl: Lijst van gekochte dieren, csv export](../images/delete-all.png "Verwijder alle meldingen na export")
 

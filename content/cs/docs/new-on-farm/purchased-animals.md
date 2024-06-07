@@ -19,13 +19,13 @@ V tomto seznamu najdete všechna zvířata, která jste vytvořili prostřednict
 Pro export dat potřebujete přiložený UBS stick. Před pokračováním podle pokynů připojte USB stick s USB-C adaptérem k vašemu zařízení VitalControl.
 {{% /alert %}}
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nové na farmě" /> `Nové na farmě` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nové na farmě" /> `{{<T "NewOnFarm" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém si můžete vybrat mezi <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nové na farmě, bez transpondéru" /> `Nové na farmě, bez transpondéru`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zakoupená zvířata" /> `Zakoupená zvířata`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Bez národního ID zvířete" /> `Bez národního ID zvířete`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Porody" /> `Porody` a <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Bez transpondéru" /> `Bez transpondéru`. Pomocí šipek ◁ ▷ △ ▽ vyberte položku menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zakoupená zvířata" /> `zakoupená zvířata` a potvrďte `OK`.
+2. Otevře se podmenu, ve kterém si můžete vybrat mezi <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nové na farmě, bez transpondéru" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zakoupená zvířata" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Bez národního ID zvířete" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Porody" /> `{{<T "Births" >}}` a <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Bez transpondéru" /> `{{<T "NoTransponderAssigned" >}}`. Pomocí šipek ◁ ▷ △ ▽ vyberte položku menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Zakoupená zvířata" /> `{{<T "PurchasedAnimals" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 3. Otevře se seznam s vašimi nákupy, které jste zaregistrovali prostřednictvím položky menu hromadného záznamu.
 
-4. Použijte klávesu `F2` `CSV export`.
+4. Použijte klávesu `F2` `{{<T "CSVExport" >}}`.
 
 5. Seznam zpráv CSV je nyní uložen na vašem USB sticku.
 
@@ -34,13 +34,13 @@ Pro export dat potřebujete přiložený UBS stick. Před pokračováním podle 
 
 ## Možnosti: Smazat všechny oznámení po exportu {#options-delete-all-notices-after-export}
 
-S touto možností můžete nastavit, zda by měla být všechna oznámení v seznamu `Zakoupená zvířata` smazána po exportu CSV souboru. Použijte tuto možnost pouze tehdy, pokud jste si jisti, že již oznámení nepotřebujete!
+S touto možností můžete nastavit, zda by měla být všechna oznámení v seznamu `{{<T "PurchasedAnimals" >}}` smazána po exportu CSV souboru. Použijte tuto možnost pouze tehdy, pokud jste si jisti, že již oznámení nepotřebujete!
 
 1. Použijte klávesu `F3`. Otevře se podmenu.
 
-2. Použijte šipky △ ▽ k výběru položky menu `Smazat všechny oznámení po exportu` a potvrďte `OK`.
+2. Použijte šipky △ ▽ k výběru položky menu `{{<T "DeleteAllNoticesAfterExport" >}}` a potvrďte `{{<T "Ok" >}}`.
 
-3. Pole je nyní označeno zaškrtnutím. Možnost je aktivována. Potvrďte znovu 'OK' pro deaktivaci možnosti. 
+3. Pole je nyní označeno zaškrtnutím. Možnost je aktivována. Potvrďte znovu `{{<T "Ok" >}}` pro deaktivaci možnosti. 
 
     ![VitalControl: List of purchased animals, csv export](../images/delete-all.png "Smazat všechny oznámení po exportu")    
 
@@ -55,7 +55,7 @@ Kromě vytvoření exportního souboru máte následující možnosti:
 - [Upravit značku](#edit-data-of-purchased-animal)
 
 {{% alert title="Tip" %}}
-Vždy nejprve otevřete seznam `zakoupená zvířata` podle pokynů výše.
+Vždy nejprve otevřete seznam `{{<T "PurchasedAnimals" >}}` podle pokynů výše.
 {{% /alert %}}
 
 ### Odpojit transpondér {#unlink-transponder}
@@ -64,7 +64,7 @@ Tuto funkci můžete použít k odstranění transpondéru ze zvířete.
 
 1. Použijte klávesu `F3`. Otevře se podmenu.
 
-2. Použijte šipky △ ▽ k výběru položky menu `odpojit transpondér` a potvrďte `OK`.
+2. Použijte šipky △ ▽ k výběru položky menu `{{<T "UnlinkTransponder" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 3. Transpondér byl úspěšně odpojen.
 
@@ -72,11 +72,11 @@ Tuto funkci můžete použít k odstranění transpondéru ze zvířete.
 
 ### Vymazat všechna oznámení o nákupu {#clear-all-purchase-notices}
 
-Tuto funkci můžete použít k vymazání všech zvířat ze seznamu `Zakoupená zvířata` bez nutnosti nejprve vytvořit exportní soubor.
+Tuto funkci můžete použít k vymazání všech zvířat ze seznamu `{{<T "PurchasedAnimals" >}}` bez nutnosti nejprve vytvořit exportní soubor.
 
 1. Použijte klávesu `F3`. Otevře se podmenu.
 
-2. Použijte šipky △ ▽ k výběru položky menu `Vymazat všechna oznámení o nákupu` a potvrďte `OK`.
+2. Použijte šipky △ ▽ k výběru položky menu `{{<T "ClearAllPurchaseNotices" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 3. Oznámení o nákupu byla úspěšně vymazána.
 
@@ -90,7 +90,7 @@ Chcete-li smazat zvíře a odpovídající oznámení o nákupu, postupujte nás
 
 2. Použijte klávesu `F3`. Otevře se podnabídka.
 
-3. Pomocí šipek △ ▽ vyberte položku nabídky `Smazat zvíře + oznámení` a potvrďte `OK`.
+3. Pomocí šipek △ ▽ vyberte položku nabídky `{{<T "UnregisterAnimalAndBirthNotice >}}` a potvrďte `{{<T "Ok" >}}`.
 
 4. Zvíře a přístupová zpráva byly úspěšně smazány.
 
@@ -104,7 +104,7 @@ Chcete-li smazat oznámení o nákupu zvířete ze seznamu, postupujte následov
 
 2. Použijte klávesu `F3`. Otevře se podnabídka.
 
-3. Pomocí šipek △ ▽ vyberte položku nabídky `Vymazat oznámení o nákupu` a potvrďte `OK`.
+3. Pomocí šipek △ ▽ vyberte položku nabídky `{{<T "ClearPurchaseNotice" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 4. Oznámení o nákupu vybraného zvířete bylo úspěšně smazáno.
 
@@ -116,6 +116,6 @@ Chcete-li upravit údaje o zvířeti v seznamu nákupů, postupujte následovně
 
 1. Pomocí šipek △ ▽ vyberte zvíře, které chcete upravit.
 
-2. Použijte tlačítko `OK`. Otevře se podnabídka s údaji o zvířeti. Jak tyto údaje upravit, zjistíte [zde](/cs/docs/actions/edit/#edit-animal-data).
+2. Použijte tlačítko `{{<T "Ok" >}}`. Otevře se podnabídka s údaji o zvířeti. Jak tyto údaje upravit, zjistíte [zde](/cs/docs/actions/edit/#edit-animal-data).
 
 ![VitalControl: List of purchased animals, Edit animal data](../images/edit.png "Edit data of purchased animal")

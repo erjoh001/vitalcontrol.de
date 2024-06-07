@@ -19,13 +19,13 @@ Ebben a listában megtalálja az összes állatot, amelyet tömeges rögzítés 
 Az adatok exportálásához szüksége van a mellékelt UBS stickre. Csatlakoztassa az USB sticket az USB-C adapterrel a VitalControl készülékéhez, mielőtt követné az utasításokat.
 {{% /alert %}}
 
-1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Új a farmon" /> `Új a farmon` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Új a farmon" /> `{{<T "NewOnFarm" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg, ahol választhat a következők közül: <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Új a farmon, transzponder nélkül" /> `Új a farmon, transzponder nélkül`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Vásárolt állatok" /> `Vásárolt állatok`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Nincs nemzeti állatazonosító" /> `Nincs nemzeti állatazonosító`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Születések" /> `Születések` és <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Nincs transzponder" /> `Nincs transzponder`. Használja a nyílbillentyűket ◁ ▷ △ ▽ a <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Vásárolt állatok" /> `vásárolt állatok` menüpont kiválasztásához, és erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg, ahol választhat a következők közül: <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Új a farmon, transzponder nélkül" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Vásárolt állatok" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Nincs nemzeti állatazonosító" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Születések" /> `{{<T "Births" >}}` és <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Nincs transzponder" /> `{{<T "NoTransponderAssigned" >}}`. Használja a nyílbillentyűket ◁ ▷ △ ▽ a <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Vásárolt állatok" /> `{{<T "PurchasedAnimals" >}}` menüpont kiválasztásához, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 3. Megnyílik egy lista azokról a vásárlásokról, amelyeket a tömeges rögzítés menüpontban regisztrált.
 
-4. Használja az `F2` gombot `CSV export`.
+4. Használja az `F2` gombot `{{<T "CSVExport" >}}`.
 
 5. A CSV üzenetlista most elmentésre kerül az USB stickre.
 
@@ -33,13 +33,13 @@ Az adatok exportálásához szüksége van a mellékelt UBS stickre. Csatlakozta
 
 ## Opciók: Minden értesítés törlése exportálás után {#options-delete-all-notices-after-export}
 
-Ezzel az opcióval beállíthatja, hogy a `Vásárolt állatok` listában lévő összes üzenet törlődjön-e a CSV fájl exportálása után. Csak akkor használja ezt az opciót, ha biztos benne, hogy már nincs szüksége az üzenetekre!
+Ezzel az opcióval beállíthatja, hogy a `{{<T "PurchasedAnimals" >}}` listában lévő összes üzenet törlődjön-e a CSV fájl exportálása után. Csak akkor használja ezt az opciót, ha biztos benne, hogy már nincs szüksége az üzenetekre!
 
 1. Használja az `F3` billentyűt. Megnyílik egy almenü.
 
-2. Használja a nyílbillentyűket △ ▽ a `Minden értesítés törlése exportálás után` menüpont kiválasztásához, és erősítse meg `OK`-val.
+2. Használja a nyílbillentyűket △ ▽ a `{{<T "DeleteAllNoticesAfterExport" >}}` menüpont kiválasztásához, és erősítse meg `{{<T "Ok" >}}`-val.
 
-3. A négyzet most egy pipával van megjelölve. Az opció aktiválva van. Erősítse meg újra 'OK'-val az opció deaktiválásához.
+3. A négyzet most egy pipával van megjelölve. Az opció aktiválva van. Erősítse meg újra `{{<T "Ok" >}}`-val az opció deaktiválásához.
 
     ![VitalControl: List of purchased animals, csv export](../images/delete-all.png "Minden értesítés törlése exportálás után")    
 
@@ -54,7 +54,7 @@ Az export fájl létrehozása mellett a következő lehetőségek állnak rendel
 - [Jelölés szerkesztése](#edit-data-of-purchased-animal)
 
 {{% alert title="Tipp" %}}
-Mindig először nyissa meg a `vásárolt állatok` listát a fent leírtak szerint.
+Mindig először nyissa meg a `{{<T "PurchasedAnimals" >}}` listát a fent leírtak szerint.
 {{% /alert %}}
 
 ### Transzponder leválasztása {#unlink-transponder}
@@ -63,7 +63,7 @@ Ezzel a funkcióval eltávolíthatja a transzpondert egy állatról.
 
 1. Használja az `F3` billentyűt. Megnyílik egy almenü.
 
-2. Használja a nyílbillentyűket △ ▽ a `transzponder leválasztása` menüpont kiválasztásához, és erősítse meg `OK`-val.
+2. Használja a nyílbillentyűket △ ▽ a `{{<T "UnlinkTransponder" >}}` menüpont kiválasztásához, és erősítse meg `{{<T "Ok" >}}`-val.
 
 3. A transzponder sikeresen leválasztva.
 
@@ -71,11 +71,11 @@ Ezzel a funkcióval eltávolíthatja a transzpondert egy állatról.
 
 ### Minden vásárlási értesítés törlése {#clear-all-purchase-notices}
 
-Ezzel a funkcióval törölheti az összes állatot a `Vásárolt állatok` listából anélkül, hogy először export fájlt kellene létrehoznia.
+Ezzel a funkcióval törölheti az összes állatot a `{{<T "PurchasedAnimals" >}}` listából anélkül, hogy először export fájlt kellene létrehoznia.
 
 1. Használja az `F3` billentyűt. Megnyílik egy almenü.
 
-2. Használja a nyílbillentyűket △ ▽ a `Minden vásárlási értesítés törlése` menüpont kiválasztásához, és erősítse meg `OK`-val.
+2. Használja a nyílbillentyűket △ ▽ a `{{<T "ClearAllPurchaseNotices" >}}` menüpont kiválasztásához, és erősítse meg `{{<T "Ok" >}}`-val.
 
 3. A vásárlási értesítések sikeresen törölve.
 
@@ -89,7 +89,7 @@ Az állat és a hozzá tartozó vásárlási értesítés törléséhez kövesse
 
 2. Használja az `F3` billentyűt. Egy almenü nyílik meg.
 
-3. Használja a △ ▽ nyílbillentyűket a `Állat + értesítés törlése` menüpont kiválasztásához, majd erősítse meg az `OK` gombbal.
+3. Használja a △ ▽ nyílbillentyűket a `{{<T "UnregisterAnimalAndBirthNotice >}}` menüpont kiválasztásához, majd erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat és a hozzá tartozó értesítés sikeresen törölve lett.
 
@@ -103,7 +103,7 @@ Az állat vásárlási értesítésének törléséhez a listából kövesse az 
 
 2. Használja az `F3` billentyűt. Egy almenü nyílik meg.
 
-3. Használja a △ ▽ nyílbillentyűket a `Vásárlási értesítés törlése` menüpont kiválasztásához, majd erősítse meg az `OK` gombbal.
+3. Használja a △ ▽ nyílbillentyűket a `{{<T "ClearPurchaseNotice" >}}` menüpont kiválasztásához, majd erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. A kiválasztott állat vásárlási értesítése sikeresen törölve lett.
 
@@ -115,6 +115,6 @@ Az állat adatainak szerkesztéséhez a vásárlási listában kövesse az aláb
 
 1. Használja a △ ▽ nyílbillentyűket a szerkeszteni kívánt állat kiválasztásához.
 
-2. Használja az `OK` gombot. Egy almenü nyílik meg az állat adataival. Az adatok szerkesztésének módját [itt](/hu/docs/actions/edit/#edit-animal-data) találja.
+2. Használja az `{{<T "Ok" >}}` gombot. Egy almenü nyílik meg az állat adataival. Az adatok szerkesztésének módját [itt](/hu/docs/actions/edit/#edit-animal-data) találja.
 
 ![VitalControl: List of purchased animals, Edit animal data](../images/edit.png "Edit data of purchased animal")

@@ -19,17 +19,17 @@ translationKey: new-on-farm/births
 Για την εξαγωγή δεδομένων χρειάζεστε το συμπεριλαμβανόμενο USB stick. Συνδέστε το USB stick με τον προσαρμογέα USB-C στη συσκευή σας VitalControl πριν ακολουθήσετε τις οδηγίες.
 {{% /alert %}}
 
-1. Στην κύρια οθόνη της συσκευής σας VitalControl, επιλέξτε το στοιχείο μενού <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Νέο στη φάρμα" /> `Νέο στη φάρμα` και πατήστε το κουμπί `OK`.
+1. Στην κύρια οθόνη της συσκευής σας VitalControl, επιλέξτε το στοιχείο μενού <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Νέο στη φάρμα" /> `{{<T "NewOnFarm" >}}` και πατήστε το κουμπί `{{<T "Ok" >}}`.
 
-2. Ανοίγει ένα υπομενού στο οποίο μπορείτε να επιλέξετε ανάμεσα σε <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Νέο στη φάρμα, χωρίς transponder" /> `Νέο στη φάρμα, χωρίς transponder`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Αγορασμένα ζώα" /> `Αγορασμένα ζώα`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Χωρίς εθνικό αριθμό ταυτότητας ζώου" /> `Χωρίς εθνικό αριθμό ταυτότητας ζώου`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Γεννήσεις" /> `Γεννήσεις` και <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Χωρίς εκχωρημένο transponder" /> `Χωρίς εκχωρημένο transponder`. Χρησιμοποιήστε τα βελάκια ◁ ▷ △ ▽ για να επιλέξετε το στοιχείο μενού <img src="/icons/main/births.svg" width="40" align="bottom" alt="Γεννήσεις" /> `Γεννήσεις` και επιβεβαιώστε με `OK`.
+2. Ανοίγει ένα υπομενού στο οποίο μπορείτε να επιλέξετε ανάμεσα σε <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Νέο στη φάρμα, χωρίς transponder" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Αγορασμένα ζώα" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Χωρίς εθνικό αριθμό ταυτότητας ζώου" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Γεννήσεις" /> `{{<T "Births" >}}` και <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Χωρίς εκχωρημένο transponder" /> `{{<T "NoTransponderAssigned" >}}`. Χρησιμοποιήστε τα βελάκια ◁ ▷ △ ▽ για να επιλέξετε το στοιχείο μενού <img src="/icons/main/births.svg" width="40" align="bottom" alt="Γεννήσεις" /> `{{<T "Births" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
 3. Ανοίγει μια λίστα με όλες τις γεννήσεις σας.
 
-4. Χρησιμοποιήστε το κλειδί `F3` `Εξαγωγή λίστας γεννήσεων`. Ανοίγει ένα υπομενού.
+4. Χρησιμοποιήστε το κλειδί `F3` `{{<T "ExportListBirths" >}}`. Ανοίγει ένα υπομενού.
 
-5. Χρησιμοποιήστε τα βελάκια △ ▽ για να επιλέξετε το στοιχείο μενού `Εξαγωγή λίστας csv των γεννήσεων` και επιβεβαιώστε με `OK`.
+5. Χρησιμοποιήστε τα βελάκια △ ▽ για να επιλέξετε το στοιχείο μενού `{{<T "ExportListBirths" >}}` και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
-6. Η λίστα αποθηκεύεται τώρα ως αρχείο CSV στο USB stick σας. Όλα τα ζώα από τη λίστα `Γεννήσεις` διαγράφονται.
+6. Η λίστα αποθηκεύεται τώρα ως αρχείο CSV στο USB stick σας. Όλα τα ζώα από τη λίστα `{{<T "Births" >}}` διαγράφονται.
 
     ![VitalControl: Μενού Νέο στη φάρμα Γεννήσεις](../images/births.png "Γεννήσεις")
 
@@ -44,14 +44,14 @@ translationKey: new-on-farm/births
 - [Επεξεργασία](#edit-data-of-birth-notice) μιας ειδοποίησης
 
 {{% alert title="Συμβουλή" %}}
-Ορισμένες ενέργειες είναι ίδιες με τις ενέργειες στη λίστα `Αγορασμένα ζώα`. Ακολουθήστε τους συνδέσμους για οδηγίες βήμα προς βήμα. Πάντα ανοίξτε πρώτα τη λίστα `Γεννήσεων` όπως περιγράφεται στις παραπάνω οδηγίες.
+Ορισμένες ενέργειες είναι ίδιες με τις ενέργειες στη λίστα `{{<T "PurchasedAnimals" >}}`. Ακολουθήστε τους συνδέσμους για οδηγίες βήμα προς βήμα. Πάντα ανοίξτε πρώτα τη λίστα `{{<T "Births" >}}` όπως περιγράφεται στις παραπάνω οδηγίες.
 {{% /alert %}}
 
 ### Αλλαγή μεταξύ προβολής λίστας και προβολής μεμονωμένου ζώου {#change-between-list-view-and-single-animal-view}
 
-1. Χρησιμοποιήστε το κουμπί <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `On/Off`.
+1. Χρησιμοποιήστε το κουμπί <img src="/icons/gear.svg" width="25" align="bottom" alt="Gear" /> `On /Off`.
 
-2. Χρησιμοποιήστε τα πλήκτρα βέλους ◁ ▷ για να επιλέξετε μεταξύ `προβολής λίστας` και `προβολής ζώου`.
+2. Χρησιμοποιήστε τα πλήκτρα βέλους ◁ ▷ για να επιλέξετε μεταξύ `{{<T "ListView" >}}` και `{{<T "SingleAnimalView" >}}`.
 
 3. Αποθηκεύστε τη ρύθμισή σας με το πλήκτρο `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;. Μέσα στην προβολή λίστας, χρησιμοποιήστε τα πλήκτρα βέλους ◁ ▷ για να μεταβείτε μεταξύ των ζώων.
 
@@ -63,7 +63,7 @@ translationKey: new-on-farm/births
 Η επεξεργασία των δεδομένων του ζώου είναι δυνατή μόνο στην προβολή λίστας!
 {{% /alert %}}
 
-1. Χρησιμοποιήστε τα πλήκτρα βέλους △ ▽ για να επιλέξετε το ζώο που θέλετε να επεξεργαστείτε και επιβεβαιώστε με `OK`.
+1. Χρησιμοποιήστε τα πλήκτρα βέλους △ ▽ για να επιλέξετε το ζώο που θέλετε να επεξεργαστείτε και επιβεβαιώστε με `{{<T "Ok" >}}`.
 
 2. Ανοίγει ένα υπομενού στο οποίο μπορείτε να προσαρμόσετε διάφορες ρυθμίσεις. Για οδηγίες βήμα προς βήμα κάντε κλικ [εδώ](/el/docs/new/calving/#register-a-calving).
 

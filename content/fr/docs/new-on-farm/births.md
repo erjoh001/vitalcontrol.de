@@ -19,17 +19,17 @@ Dans cette liste, vous pouvez voir vos naissances, les modifier et créer un fic
 Pour exporter des données, vous avez besoin de la clé USB incluse. Connectez la clé USB avec l'adaptateur USB-C à votre appareil VitalControl avant de suivre les instructions.
 {{% /alert %}}
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nouveau à la ferme" /> `Arrivées` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nouveau à la ferme" /> `{{<T "NewOnFarm" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel vous pouvez choisir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nouveau à la ferme, sans transpondeur" /> `Arrivées, pas de transpondeur`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animaux achetés" /> `Animaux achetés`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Pas de numéro national d'identification animale" /> `Aucun ID d'animal attribué`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Naissances" /> `Naissances` et <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Pas de transpondeur attribué" /> `Aucun transpondeur attribué`. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'élément de menu <img src="/icons/main/births.svg" width="40" align="bottom" alt="Naissances" /> `Naissances` et confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel vous pouvez choisir entre <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Nouveau à la ferme, sans transpondeur" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Animaux achetés" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Pas de numéro national d'identification animale" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Naissances" /> `{{<T "Births" >}}` et <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Pas de transpondeur attribué" /> `{{<T "NoTransponderAssigned" >}}`. Utilisez les touches fléchées ◁ ▷ △ ▽ pour sélectionner l'élément de menu <img src="/icons/main/births.svg" width="40" align="bottom" alt="Naissances" /> `{{<T "Births" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 3. Une liste avec toutes vos naissances s'ouvre.
 
-4. Utilisez la touche `F3` `Exporter CSV liste de naissances`. Un sous-menu s'ouvre.
+4. Utilisez la touche `F3` `{{<T "ExportListBirths" >}}`. Un sous-menu s'ouvre.
 
-5. Utilisez les touches fléchées △ ▽ pour sélectionner l'élément de menu `Exporter la liste csv des naissances` et confirmez avec `OK`.
+5. Utilisez les touches fléchées △ ▽ pour sélectionner l'élément de menu `{{<T "ExportListBirths" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-6. La liste est maintenant enregistrée sous forme de fichier CSV sur votre clé USB. Tous les animaux de la liste `Naissances` sont supprimés.
+6. La liste est maintenant enregistrée sous forme de fichier CSV sur votre clé USB. Tous les animaux de la liste `{{<T "Births" >}}` sont supprimés.
 
     ![VitalControl: Menu Nouveau à la ferme Naissances](../images/births.png "Naissances")
 
@@ -44,14 +44,14 @@ En plus de créer le fichier d'exportation, vous disposez des options suivantes 
 - [Modifier](#edit-data-of-birth-notice) un avis
 
 {{% alert title="Conseil" %}}
-Certaines actions sont identiques aux actions dans la liste `Animaux achetés`. Suivez les liens vers les instructions étape par étape. Ouvrez toujours la liste `Naissances` en premier comme décrit dans les instructions ci-dessus.
+Certaines actions sont identiques aux actions dans la liste `{{<T "PurchasedAnimals" >}}`. Suivez les liens vers les instructions étape par étape. Ouvrez toujours la liste `{{<T "Births" >}}` en premier comme décrit dans les instructions ci-dessus.
 {{% /alert %}}
 
 ### Changer entre la vue liste et la vue animal unique {#change-between-list-view-and-single-animal-view}
 
-1. Utilisez le bouton <img src="/icons/gear.svg" width="25" align="bottom" alt="Engrenage" /> `On/Off`.
+1. Utilisez le bouton <img src="/icons/gear.svg" width="25" align="bottom" alt="Engrenage" /> `On /Off`.
 
-2. Utilisez les touches fléchées ◁ ▷ pour choisir entre `vue liste` et `vue animal`.
+2. Utilisez les touches fléchées ◁ ▷ pour choisir entre `{{<T "ListView" >}}` et `{{<T "SingleAnimalView" >}}`.
 
 3. Enregistrez votre paramètre avec la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;. Dans la vue liste, utilisez les touches fléchées ◁ ▷ pour passer d'un animal à l'autre.
 
@@ -63,7 +63,7 @@ Certaines actions sont identiques aux actions dans la liste `Animaux achetés`. 
 La modification des données de l'animal est uniquement possible dans la vue liste !
 {{% /alert %}}
 
-1. Utilisez les touches fléchées △ ▽ pour sélectionner l'animal que vous souhaitez modifier et confirmez avec `OK`.
+1. Utilisez les touches fléchées △ ▽ pour sélectionner l'animal que vous souhaitez modifier et confirmez avec `{{<T "Ok" >}}`.
 
 2. Un sous-menu s'ouvre dans lequel vous pouvez ajuster divers paramètres. Pour des instructions étape par étape, cliquez [ici](/fr/docs/new/calving/#register-a-calving).
 

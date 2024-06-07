@@ -19,17 +19,17 @@ Selles nimekirjas saate vaadata oma sünniregistreid, neid muuta ja luua ekspord
 Andmete eksportimiseks on vajalik kaasasolev UBS mälupulk. Ühendage USB mälupulk USB-C adapteri abil oma VitalControl seadmega enne juhiste järgimist.
 {{% /alert %}}
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uus farmis" /> `Uus farmis` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Uus farmis" /> `{{<T "NewOnFarm" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus saate valida vahel <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Uus farmis, transponderita" /> `Uus farmis, transponderita`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ostetud loomad" /> `Ostetud loomad`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Riiklikku looma ID pole" /> `Riiklikku looma ID pole määratud`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Sünnid" /> `Sünnid` ja <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Transponderit pole määratud" /> `Transponderit pole määratud`. Kasutage menüüpunkti <img src="/icons/main/births.svg" width="40" align="bottom" alt="Sünnid" /> `Sünnid` valimiseks nooleklahve ◁ ▷ △ ▽ ja kinnitage `OK`-ga.
+2. Avaneb alammenüü, kus saate valida vahel <img src="/icons/registration/new-on-farm-no-transponder.svg" width="50" align="bottom" alt="Uus farmis, transponderita" /> `{{<T "NewOnFarmNoTransponder" >}}`, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Ostetud loomad" /> `{{<T "PurchasedAnimals" >}}`, <img src="/icons/registration/no-eartag-number.svg" width="30" align="bottom" alt="Riiklikku looma ID pole" /> `{{<T "NoAnimalIDAssigned" >}}`, <img src="/icons/main/births.svg" width="40" align="bottom" alt="Sünnid" /> `{{<T "Births" >}}` ja <img src="/icons/registration/no-transponder.svg" width="30" align="bottom" alt="Transponderit pole määratud" /> `{{<T "NoTransponderAssigned" >}}`. Kasutage menüüpunkti <img src="/icons/main/births.svg" width="40" align="bottom" alt="Sünnid" /> `{{<T "Births" >}}` valimiseks nooleklahve ◁ ▷ △ ▽ ja kinnitage `{{<T "Ok" >}}`-ga.
 
 3. Avaneb nimekiri kõigist teie sünniregistritest.
 
-4. Kasutage `F3` klahvi `Ekspordi sünninimekiri`. Avaneb alammenüü.
+4. Kasutage `F3` klahvi `{{<T "ExportListBirths" >}}`. Avaneb alammenüü.
 
-5. Kasutage menüüpunkti `Ekspordi sünnide CSV nimekiri` valimiseks nooleklahve △ ▽ ja kinnitage `OK`-ga.
+5. Kasutage menüüpunkti `{{<T "ExportListBirths" >}}` valimiseks nooleklahve △ ▽ ja kinnitage `{{<T "Ok" >}}`-ga.
 
-6. Nimekiri salvestatakse nüüd CSV-failina teie USB mälupulgale. Kõik loomad `Sünnid` nimekirjast kustutatakse.
+6. Nimekiri salvestatakse nüüd CSV-failina teie USB mälupulgale. Kõik loomad `{{<T "Births" >}}` nimekirjast kustutatakse.
 
     ![VitalControl: Menüü Uus farmis Sünnid](../images/births.png "Sünnid")
 
@@ -44,14 +44,14 @@ Lisaks ekspordifaili loomisele on teil järgmised valikud:
 - [Muuda](#edit-data-of-birth-notice) teadet
 
 {{% alert title="Vihje" %}}
-Mõned toimingud on identilised `Ostetud loomad` loendis olevate toimingutega. Järgige linke samm-sammult juhistele. Avage alati esmalt `Sünnid` loend, nagu juhistes kirjeldatud.
+Mõned toimingud on identilised `{{<T "PurchasedAnimals" >}}` loendis olevate toimingutega. Järgige linke samm-sammult juhistele. Avage alati esmalt `{{<T "Births" >}}` loend, nagu juhistes kirjeldatud.
 {{% /alert %}}
 
 ### Muuda loendi vaadet ja üksiku looma vaadet {#change-between-list-view-and-single-animal-view}
 
-1. Kasutage <img src="/icons/gear.svg" width="25" align="bottom" alt="Hammasratas" /> `Sees/Väljas` nuppu.
+1. Kasutage <img src="/icons/gear.svg" width="25" align="bottom" alt="Hammasratas" /> `On /Off` nuppu.
 
-2. Kasutage nooleklahve ◁ ▷, et valida `loendi vaade` ja `looma vaade`.
+2. Kasutage nooleklahve ◁ ▷, et valida `{{<T "ListView" >}}` ja `{{<T "SingleAnimalView" >}}`.
 
 3. Salvestage oma seadistus `F1` klahviga &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;. Loendi vaates kasutage loomade vahel lülitumiseks nooleklahve ◁ ▷.
 
@@ -63,7 +63,7 @@ Mõned toimingud on identilised `Ostetud loomad` loendis olevate toimingutega. J
 Looma andmeid on võimalik muuta ainult loendi vaates!
 {{% /alert %}}
 
-1. Kasutage nooleklahve △ ▽ valitud looma valimiseks ja kinnitage `OK`-ga.
+1. Kasutage nooleklahve △ ▽ valitud looma valimiseks ja kinnitage `{{<T "Ok" >}}`-ga.
 
 2. Avaneb alammenüü, kus saate erinevaid seadeid kohandada. Samm-sammuliste juhiste jaoks klõpsake [siin](/et/docs/new/calving/#register-a-calving).
 
