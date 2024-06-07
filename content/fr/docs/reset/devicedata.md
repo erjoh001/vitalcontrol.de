@@ -10,11 +10,11 @@ categories: [Réinitialisation]
 ---
 ## Réinitialisation de toutes les données de l'appareil {#resetting-all-device-data}
 
-1. Ouvrez l'élément de menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Appareil` dans l'écran principal de votre appareil VitalControl.
+1. Ouvrez l'élément de menu <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` dans l'écran principal de votre appareil VitalControl.
 
-1. Accédez au sous-menu `Gestion des données`, naviguez jusqu'à l'entrée de menu `Réinitialisation d'usine`. Sélectionnez l'option `Données de l'appareil uniquement` dans ce menu.
+1. Accédez au sous-menu `{{<T "DataManagement" >}}`, naviguez jusqu'à l'entrée de menu `{{<T "FactoryReset" >}}`. Sélectionnez l'option `{{<T "DeviceDataOnly" >}}` dans ce menu.
 
-1. Appuyez sur le bouton `OK` pour déclencher la réinitialisation de toutes les données de l'appareil. Un pop-up avec une question de sécurité apparaît. Confirmez avec `Oui` ici.
+1. Appuyez sur le bouton `{{<T "Ok" >}}` pour déclencher la réinitialisation de toutes les données de l'appareil. Un pop-up avec une question de sécurité apparaît. Confirmez avec `{{<T "Ja" >}}` ici.
 
 1. Les données de l'appareil sont réinitialisées et un message de succès apparaît. Un menu de démarrage apparaît, entrez votre langue, date et heure ici.
 

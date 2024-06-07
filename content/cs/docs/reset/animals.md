@@ -9,16 +9,16 @@ categories: [Reset]
 ---
 ## Vymazání všech údajů o zvířatech ze zařízení {#erasing-all-animal-data-from-device}
 
-1. Otevřete položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `Zařízení` na hlavní obrazovce vašeho zařízení VitalControl.
+1. Otevřete položku menu <img src="/icons/device.svg" width="25" align="bottom" alt="Zařízení" /> `{{<T "Device" >}}` na hlavní obrazovce vašeho zařízení VitalControl.
 
-1. Vyvolejte podmenu `Správa dat`, přejděte na položku menu `Obnovení továrního nastavení`. V tomto menu vyberte možnost `Pouze údaje o zvířatech`.
+1. Vyvolejte podmenu `{{<T "DataManagement" >}}`, přejděte na položku menu `{{<T "FactoryReset" >}}`. V tomto menu vyberte možnost `{{<T "AnimalDataOnly" >}}`.
 
-1. Stiskněte tlačítko `OK` pro spuštění vymazání zvířat. Nyní se objeví vyskakovací okno s bezpečnostní otázkou. Potvrďte zde `Ano`.
+1. Stiskněte tlačítko `{{<T "Ok" >}}` pro spuštění vymazání zvířat. Nyní se objeví vyskakovací okno s bezpečnostní otázkou. Potvrďte zde `{{<T "Ja" >}}`.
 
 1. Údaje o zvířatech jsou vymazány a objeví se zpráva o úspěchu.
 
    ![VitalControl: Cesta menu Smazat všechna zvířata ze zařízení](../images/eraseanimals.png "Smazat všechna zvířata")
 
-1. Všechny údaje o zvířatech jsou nyní vymazány ze zařízení VitalControl. Úspěšnost vymazání můžete zkontrolovat prostřednictvím položky menu `Stádo` v hlavním menu:
+1. Všechny údaje o zvířatech jsou nyní vymazány ze zařízení VitalControl. Úspěšnost vymazání můžete zkontrolovat prostřednictvím položky menu `{{<T "Herd" >}}` v hlavním menu:
 
    ![VitalControl: Hlavní položka menu 'Stádo', žádná zvířata nejsou registrována](../images/no-animals.png "Žádná zvířata nejsou registrována")

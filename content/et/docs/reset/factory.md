@@ -9,11 +9,11 @@ translationKey: reset/factory
 ---
 ## Tehase lähtestamise teostamine {#performing-a-factory-reset}
 
-1. Avage menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Seade` oma VitalControl seadme põhiekraanil.
+1. Avage menüüpunkt <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` oma VitalControl seadme põhiekraanil.
 
-1. Kutsuge esile alammenüü `Andmehaldus`, liikuge menüüpunkti `Tehase lähtestamine`. Jätke valik `Kõik seadme andmed` muutmata.
+1. Kutsuge esile alammenüü `{{<T "DataManagement" >}}`, liikuge menüüpunkti `{{<T "FactoryReset" >}}`. Jätke valik `All device and animal data` muutmata.
 
-1. Vajutage `OK` nuppu, et käivitada tehase lähtestamine. Nüüd ilmub hüpikaken turvaküsimusega. Kinnitage siin `Jah`.
+1. Vajutage `{{<T "Ok" >}}` nuppu, et käivitada tehase lähtestamine. Nüüd ilmub hüpikaken turvaküsimusega. Kinnitage siin `{{<T "Yes" >}}`.
 
 1. Seaded on nüüd lähtestatud tehase vaikeseadetele. Ilmub käivitusmenüü, sisestage seal oma keel, kuupäev ja kellaaeg.
 

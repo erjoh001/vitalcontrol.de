@@ -10,11 +10,11 @@ categories: [Nollaus]
 ---
 ## Kaikkien laitteen tietojen nollaus {#resetting-all-device-data}
 
-1. Avaa päävalikosta kohde <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Laite` VitalControl-laitteessasi.
+1. Avaa päävalikosta kohde <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` VitalControl-laitteessasi.
 
-1. Avaa alavalikko `Tietojen hallinta`, siirry valikkokohtaan `Tehdasasetusten palautus`. Valitse tästä valikosta vaihtoehto `Vain laitetiedot`.
+1. Avaa alavalikko `{{<T "DataManagement" >}}`, siirry valikkokohtaan `{{<T "FactoryReset" >}}`. Valitse tästä valikosta vaihtoehto `{{<T "DeviceDataOnly" >}}`.
 
-1. Paina `OK`-painiketta käynnistääksesi kaikkien laitteen tietojen nollauksen. Nyt ilmestyy ponnahdusikkuna, jossa on turvallisuuskysymys. Vahvista valitsemalla `Kyllä`.
+1. Paina `{{<T "Ok" >}}`-painiketta käynnistääksesi kaikkien laitteen tietojen nollauksen. Nyt ilmestyy ponnahdusikkuna, jossa on turvallisuuskysymys. Vahvista valitsemalla `{{<T "Ja" >}}`.
 
 1. Laitteen tiedot nollataan ja onnistumisviesti ilmestyy. Käynnistysvalikko ilmestyy, syötä siihen kieli, päivämäärä ja aika.
 

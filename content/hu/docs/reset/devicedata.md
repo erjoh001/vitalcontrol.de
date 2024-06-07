@@ -10,11 +10,11 @@ categories: [Reset]
 ---
 ## Az összes eszközadat visszaállítása {#resetting-all-device-data}
 
-1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
+1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` menüpontot a VitalControl eszköz főképernyőjén.
 
-1. Hívja elő az `Adatkezelés` almenüt, navigáljon a `Gyári beállítások visszaállítása` menüponthoz. Válassza az `Csak eszközadatok` opciót ebben a menüben.
+1. Hívja elő az `{{<T "DataManagement" >}}` almenüt, navigáljon a `{{<T "FactoryReset" >}}` menüponthoz. Válassza az `{{<T "DeviceDataOnly" >}}` opciót ebben a menüben.
 
-1. Nyomja meg az `OK` gombot az összes eszközadat visszaállításának elindításához. Most megjelenik egy biztonsági kérdést tartalmazó felugró ablak. Erősítse meg itt az `Igen` választ.
+1. Nyomja meg az `{{<T "Ok" >}}` gombot az összes eszközadat visszaállításának elindításához. Most megjelenik egy biztonsági kérdést tartalmazó felugró ablak. Erősítse meg itt az `{{<T "Ja" >}}` választ.
 
 1. Az eszközadatok visszaállításra kerülnek, és egy sikerüzenet jelenik meg. Megjelenik egy indítómenü, ahol adja meg a nyelvet, a dátumot és az időt.
 

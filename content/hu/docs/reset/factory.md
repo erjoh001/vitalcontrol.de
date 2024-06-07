@@ -9,11 +9,11 @@ translationKey: reset/factory
 ---
 ## Gyári visszaállítás végrehajtása {#performing-a-factory-reset}
 
-1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `Eszköz` menüpontot a VitalControl eszköz főképernyőjén.
+1. Nyissa meg a <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` menüpontot a VitalControl eszköz főképernyőjén.
 
-1. Hívja elő az `Adatkezelés` almenüt, navigáljon a `Gyári visszaállítás` menüponthoz. Hagyja változatlanul a javasolt `Minden eszközadat` opciót.
+1. Hívja elő az `{{<T "DataManagement" >}}` almenüt, navigáljon a `{{<T "FactoryReset" >}}` menüponthoz. Hagyja változatlanul a javasolt `All device and animal data` opciót.
 
-1. Nyomja meg az `OK` gombot a gyári visszaállítás elindításához. Most megjelenik egy biztonsági kérdést tartalmazó felugró ablak. Erősítse meg itt az `Igen` gombbal.
+1. Nyomja meg az `{{<T "Ok" >}}` gombot a gyári visszaállítás elindításához. Most megjelenik egy biztonsági kérdést tartalmazó felugró ablak. Erősítse meg itt az `{{<T "Yes" >}}` gombbal.
 
 1. A beállítások most visszaálltak a gyári alapértelmezésekre. Megjelenik egy indítómenü, itt adja meg a nyelvet, a dátumot és az időt.
 

@@ -9,11 +9,11 @@ translationKey: reset/factory
 ---
 ## Realizando un restablecimiento de fábrica {#performing-a-factory-reset}
 
-1. Abra el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" /> `Dispositivo` en la pantalla principal de su dispositivo VitalControl.
+1. Abra el elemento del menú <img src="/icons/device.svg" width="25" align="bottom" alt="Dispositivo" /> `{{<T "Device" >}}` en la pantalla principal de su dispositivo VitalControl.
 
-1. Invoque el submenú `Gestión de datos`, navegue hasta la entrada del menú `Restablecer ajustes fábrica`. Deje la opción sugerida `Todos los datos del dispositivo` sin cambios.
+1. Invoque el submenú `{{<T "DataManagement" >}}`, navegue hasta la entrada del menú `{{<T "FactoryReset" >}}`. Deje la opción sugerida `All device and animal data` sin cambios.
 
-1. Presione el botón `OK` para activar el restablecimiento de fábrica. Ahora aparece un pop-up con una pregunta de seguridad. Confirme con `Sí` aquí.
+1. Presione el botón `{{<T "Ok" >}}` para activar el restablecimiento de fábrica. Ahora aparece un pop-up con una pregunta de seguridad. Confirme con `{{<T "Yes" >}}` aquí.
 
 1. Los ajustes se restablecen a los valores de fábrica ahora. Aparece un menú de inicio, ingrese su idioma, fecha y hora allí.
 
