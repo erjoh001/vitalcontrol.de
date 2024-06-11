@@ -14,11 +14,11 @@ translationKey: settings/device
 ## Vypnutí zařízení po {#shutdown-device-after}
 Chcete-li nastavit dobu nečinnosti, po které se zařízení vypne, postupujte následovně.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé možnosti nastavení. Pomocí šipek △ ▽ vyberte `Zařízení`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé možnosti nastavení. Pomocí šipek △ ▽ vyberte `{{<T "Device" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Vypnutí zařízení po`, `Úvodní obrazovka`, `Demonstrativní režim`, `Jas displeje`, `Vibrace při stisku klávesy` a `Monitor zdrojů`. Vyberte `Vypnutí zařízení po`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` a `{{<T "ResourceMonitor" >}}`. Vyberte `{{<T "ShutdownAfter" >}}`.
 
 4. Pomocí šipek ◁ ▷ nastavte požadovanou dobu v minutách.
 
@@ -28,11 +28,11 @@ Chcete-li nastavit dobu nečinnosti, po které se zařízení vypne, postupujte 
 
 Chcete-li nastavit úvodní obrazovku, postupujte následovně.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé možnosti nastavení. Pomocí šipek △ ▽ vyberte `Zařízení`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé možnosti nastavení. Pomocí šipek △ ▽ vyberte `{{<T "Device" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Vypnutí zařízení po`, `Úvodní obrazovka`, `Demonstrativní režim`, `Jas displeje`, `Vibrace při stisku klávesy` a `Monitor zdrojů`. Vyberte `Úvodní obrazovka`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` a `{{<T "ResourceMonitor" >}}`. Vyberte `{{<T "StartupScreen" >}}`.
 
 4. Pomocí šipek ◁ ▷ nastavte požadovanou úvodní obrazovku.
 
@@ -43,11 +43,11 @@ Chcete-li nastavit úvodní obrazovku, postupujte následovně.
 Pokud je vybrán demonstrační režim, zařízení simuluje měření teploty a zobrazuje náhodně generovanou teplotu jako naměřenou hodnotu. Tento režim se používá pro demonstraci zařízení, pokud nejsou k dispozici žádná zvířata pro měření. Chcete-li deaktivovat nebo aktivovat demonstrační režim zařízení, postupujte následovně:
 
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Zařízení`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "Device" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Vypnout zařízení po`, `Úvodní obrazovka`, `Demonstrační režim`, `Jas displeje`, `Vibrace při stisku klávesy` a `Monitor zdrojů`. Vyberte `Demonstrační režim`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` a `{{<T "ResourceMonitor" >}}`. Vyberte `{{<T "DemoMode" >}}`.
 
 4. Pomocí šipek ◁ ▷ aktivujte nebo deaktivujte demonstrační režim.
 
@@ -57,11 +57,11 @@ Pokud je vybrán demonstrační režim, zařízení simuluje měření teploty a
 
 Pro nastavení jasu displeje postupujte následovně.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Zařízení`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "Device" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Vypnout zařízení po`, `Úvodní obrazovka`, `Demonstrační režim`, `Jas displeje`, `Vibrace při stisku klávesy` a `Monitor zdrojů`. Vyberte `Jas displeje`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` a `{{<T "ResourceMonitor" >}}`. Vyberte `{{<T "BrightnessDisplay" >}}`.
 
 4. Pomocí šipek ◁ ▷ nastavte jas displeje.
 
@@ -71,11 +71,11 @@ Pro nastavení jasu displeje postupujte následovně.
 
 Pro deaktivaci nebo aktivaci vibrace při stisku klávesy zařízení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Zařízení`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "Device" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Vypnout zařízení po`, `Úvodní obrazovka`, `Demonstrační režim`, `Jas displeje`, `Vibrace při stisku klávesy` a `Monitor zdrojů`. Vyberte `Vibrace při stisku klávesy`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` a `{{<T "ResourceMonitor" >}}`. Vyberte `{{<T "VibrationOnKeypressEnabled" >}}`.
 
 
 4. Použijte šipky ◁ ▷ k aktivaci nebo deaktivaci vibrací při stisku klávesy.
@@ -86,14 +86,14 @@ Pro deaktivaci nebo aktivaci vibrace při stisku klávesy zařízení postupujte
 
 Pro deaktivaci nebo aktivaci monitoru prostředků zařízení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Použijte šipky △ ▽ k výběru `Zařízení`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Použijte šipky △ ▽ k výběru `{{<T "Device" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Vypnout zařízení po`, `Úvodní obrazovka`, `Demonstrativní režim`, `Jas displeje`, `Vibrace při stisku klávesy` a `Monitor prostředků`. Vyberte `Monitor prostředků`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` a `{{<T "ResourceMonitor" >}}`. Vyberte `{{<T "ResourceMonitor" >}}`.
 
 4. Použijte šipky ◁ ▷ k aktivaci nebo deaktivaci monitoru prostředků.
 
     ![VitalControl: Menu nastavení Monitor prostředků](../images/resourcemonitor.png "Monitor prostředků")
 
-Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` stisknutím tlačítka `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` stisknutím tlačítka `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.

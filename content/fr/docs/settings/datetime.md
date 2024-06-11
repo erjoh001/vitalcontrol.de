@@ -18,13 +18,13 @@ Assurez-vous que la date et l'heure sont correctement réglées. Sinon, les horo
 
 Pour régler la date sur votre appareil, suivez ces étapes :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'option de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'option de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Date et heure`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "DateTime" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `Date` et `L'heure`. Sélectionnez le champ de réglage `Date`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `{{<T "Date" >}}` et `{{<T "Time" >}}`. Sélectionnez le champ de réglage `{{<T "Date" >}}`.
 
-4. Appuyez sur la touche `OK` ou utilisez la touche `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Modifier" /> pour passer en mode réglage. Vous pouvez maintenant régler le jour à l'aide des touches fléchées △ ▽. Le bouton `F3` 🡆 vous amène au réglage du mois. Alternativement, vous pouvez confirmer avec `OK`. Utilisez ici aussi les touches fléchées △ ▽. Cliquez à nouveau sur `F3` 🡆 pour passer au réglage de l'année. Utilisez également les touches fléchées △ ▽ pour ajuster l'année. Confirmez avec `Ok` dès que la date est correctement réglée.
+4. Appuyez sur la touche `{{<T "Ok" >}}` ou utilisez la touche `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Modifier" /> pour passer en mode réglage. Vous pouvez maintenant régler le jour à l'aide des touches fléchées △ ▽. Le bouton `F3` 🡆 vous amène au réglage du mois. Alternativement, vous pouvez confirmer avec `{{<T "Ok" >}}`. Utilisez ici aussi les touches fléchées △ ▽. Cliquez à nouveau sur `F3` 🡆 pour passer au réglage de l'année. Utilisez également les touches fléchées △ ▽ pour ajuster l'année. Confirmez avec `{{<T "Ok" >}}` dès que la date est correctement réglée.
 
     ![VitalControl : réglages du menu date](../images/date.png "Pour régler la date")
 
@@ -32,14 +32,14 @@ Pour régler la date sur votre appareil, suivez ces étapes :
 
 Pour régler l'heure sur votre appareil, suivez ces étapes :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'option de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'option de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Date et heure`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "DateTime" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `Date` et `L'heure`. Sélectionnez le champ de réglage `L'heure`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `{{<T "Date" >}}` et `{{<T "Time" >}}`. Sélectionnez le champ de réglage `{{<T "Time" >}}`.
 
-4. Appuyez sur la touche `OK` ou utilisez la touche `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> pour passer en mode réglage. Vous pouvez maintenant régler le jour en utilisant les touches fléchées △ ▽. Le bouton `F3` 🡆 vous amène au réglage des minutes. Alternativement, vous pouvez confirmer avec `OK`. Utilisez maintenant les touches fléchées △ ▽ pour ajuster les minutes. Une fois l'heure correctement réglée, confirmez avec `Ok`.
+4. Appuyez sur la touche `{{<T "Ok" >}}` ou utilisez la touche `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> pour passer en mode réglage. Vous pouvez maintenant régler le jour en utilisant les touches fléchées △ ▽. Le bouton `F3` 🡆 vous amène au réglage des minutes. Alternativement, vous pouvez confirmer avec `{{<T "Ok" >}}`. Utilisez maintenant les touches fléchées △ ▽ pour ajuster les minutes. Une fois l'heure correctement réglée, confirmez avec `{{<T "Ok" >}}`.
 
     ![VitalControl: réglages du menu horaire](../images/time.png "Pour régler l'heure")
 
-Enregistrez les paramètres et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Paramètres` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Enregistrez les paramètres et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Ok" >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

@@ -15,13 +15,13 @@ translationKey: settings/unlink-transponder
 
 Ezzel a beállítással megadhatja, hogyan legyen hozzárendelve az állat azonosítója, amint eltávolítja a transzpondert az állatról. Ez a beállítás használható például akkor, ha az Urban Alma Pro etetővel való szinkronizálás megtörtént, és az állat azonosítók a VitalControl-on most már megfelelnek az állatok nyakörv számának. Amint eltávolítja a nyakörvet és leválasztja a transzpondert, megadhatja, hogy az állat azonosítója mostantól a fülcímke számából származik. Ez lehetővé teszi, hogy gyorsan azonosítsa az állatot az istállóban nyakörv nélkül.
 
-1. Nyissa meg a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüt a VitalControl készülék főképernyőjén.
+1. Nyissa meg a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüt a VitalControl készülék főképernyőjén.
 
-2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyíl gombokat a `transzponder leválasztása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyíl gombokat a `{{<T "UnlinkTransponder" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Most használja a ◁ ▷ nyíl gombokat a kívánt beállítás kiválasztásához. Választhat a `nincs változás` vagy a `fülcímke számából származtatás` között.
+3. Most használja a ◁ ▷ nyíl gombokat a kívánt beállítás kiválasztásához. Választhat a `{{<T "NoChange" >}}` vagy a `{{<T "DerivationEarTagNo" >}}` között.
 
-4. A `fülcímke számából származtatás` beállítási lehetőség további beállításokat tesz lehetővé. Lásd [itt](/hu/docs/settings/animal-registration/#digit-of-the-new-id). 
+4. A `{{<T "DerivationEarTagNo" >}}` beállítási lehetőség további beállításokat tesz lehetővé. Lásd [itt](/hu/docs/settings/animal-registration/#digit-of-the-new-id). 
 
    ![VitalControl: Menü Beállítások Transzponder leválasztása](../images/unlink-transponder.png "Transzponder leválasztása")
    

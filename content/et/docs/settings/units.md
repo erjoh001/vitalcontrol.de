@@ -15,11 +15,11 @@ translationKey: settings/units
 
 Temperatuuri ühiku seadmiseks oma seadmes toimige järgnevalt.
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Valige jaotis `Ühikud`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Valige jaotis `{{<T "Units" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada kahe seadevälja vahel `Temperatuuri ühik` ja `Massi ühik`. Valige `Temperatuuri ühik`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada kahe seadevälja vahel `{{<T "Unit_Temperature" >}}` ja `{{<T "Unit_Mass" >}}`. Valige `{{<T "Unit_Temperature" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷ soovitud temperatuuri ühiku valimiseks.
 
@@ -29,14 +29,14 @@ Temperatuuri ühiku seadmiseks oma seadmes toimige järgnevalt.
 
 Massi ühiku seadmiseks oma seadmes toimige järgnevalt.
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Valige jaotis `Ühikud`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Valige jaotis `{{<T "Units" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada kahe seadevälja vahel `Temperatuuri ühik` ja `Massi ühik`. Valige `Massi ühik`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada kahe seadevälja vahel `{{<T "Unit_Temperature" >}}` ja `{{<T "Unit_Mass" >}}`. Valige `{{<T "Unit_Mass" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷ soovitud massi ühiku valimiseks.
 
     ![VitalControl: menüü seaded massi ühik](../images/mass.png "Massi ühik")
 
-Salvestage seaded ja kasutage `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> et naasta peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded`.
+Salvestage seaded ja kasutage `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> et naasta peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}`.

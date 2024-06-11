@@ -17,10 +17,10 @@ L'inserimento del numero aziendale è attualmente di interesse solo per gli agri
 
 Per impostare il numero aziendale sul tuo dispositivo, procedi come segue:
 
-1. Apri la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` nella schermata principale del tuo dispositivo VitalControl.
+1. Apri la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `{{<T "Settings" >}}` nella schermata principale del tuo dispositivo VitalControl.
 
-2. Richiama il sottomenu `Numero azienda agricola`. Apparirà una maschera di input in cui puoi impostare comodamente il tuo numero aziendale. Prima, usa i tasti freccia per navigare all'estrema sinistra del campo di input e seleziona il tuo paese. Successivamente, usa i tasti freccia per inserire il tuo numero aziendale a dodici cifre.
+2. Richiama il sottomenu `{{<T "PremisesIDNumber" >}}`. Apparirà una maschera di input in cui puoi impostare comodamente il tuo numero aziendale. Prima, usa i tasti freccia per navigare all'estrema sinistra del campo di input e seleziona il tuo paese. Successivamente, usa i tasti freccia per inserire il tuo numero aziendale a dodici cifre.
 
    ![VitalControl: Percorso del menu per impostare il numero aziendale](../images/farm-number.png "Impostazione del numero aziendale")
 
-3. Conferma con `OK` non appena hai inserito correttamente la sequenza di 12 cifre. Il tuo numero aziendale è ora memorizzato permanentemente sul dispositivo.
+3. Conferma con `{{<T "Ok" >}}` non appena hai inserito correttamente la sequenza di 12 cifre. Il tuo numero aziendale è ora memorizzato permanentemente sul dispositivo.

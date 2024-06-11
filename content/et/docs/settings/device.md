@@ -14,11 +14,11 @@ translationKey: settings/device
 ## Lülita seade välja pärast {#shutdown-device-after}
 Seadistamaks aega, mis kulub tegevusetuseni, mil seade lülitub välja, toimige järgnevalt.
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid sätteid. Kasutage nooleklahve △ ▽, et valida `Seade`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid sätteid. Kasutage nooleklahve △ ▽, et valida `{{<T "Device" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `Lülita seade välja pärast`, `Käivitusekraan`, `Demonstratsioonirežiim`, `Ekraani heledus`, `Vibratsioon klahvivajutusel` ja `Ressursimonitor`. Valige `Lülita seade välja pärast`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valige `{{<T "ShutdownAfter" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷ soovitud kestuse minutites seadmiseks.
 
@@ -28,11 +28,11 @@ Seadistamaks aega, mis kulub tegevusetuseni, mil seade lülitub välja, toimige 
 
 Käivitusekraani seadistamiseks toimige järgnevalt.
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid sätteid. Kasutage nooleklahve △ ▽, et valida `Seade`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid sätteid. Kasutage nooleklahve △ ▽, et valida `{{<T "Device" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `Lülita seade välja pärast`, `Käivitusekraan`, `Demonstratsioonirežiim`, `Ekraani heledus`, `Vibratsioon klahvivajutusel` ja `Ressursimonitor`. Valige `Käivitusekraan`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valige `{{<T "StartupScreen" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷ soovitud käivitusekraani seadmiseks.
 
@@ -42,11 +42,11 @@ Käivitusekraani seadistamiseks toimige järgnevalt.
 
 Kui valitud on esitlusrežiim, simuleerib seade temperatuurimõõtmisi ja kuvab juhuslikult genereeritud temperatuuri mõõdetud väärtusena. See režiim on kasutusel seadme demonstreerimiseks, kui mõõtmiseks pole saadaval loomi. Seadme esitlusrežiimi deaktiveerimiseks või aktiveerimiseks toimige järgnevalt:
 
-1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `Seade`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `{{<T "Device" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `Seadme väljalülitamine pärast`, `Käivitusekraan`, `Demonstratsioonirežiim`, `Ekraani heledus`, `Klahvivajutuse vibratsioon` ja `Ressursimonitor`. Valige `Demonstratsioonirežiim`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valige `{{<T "DemoMode" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷, et aktiveerida või deaktiveerida esitlusrežiim.
 
@@ -56,11 +56,11 @@ Kui valitud on esitlusrežiim, simuleerib seade temperatuurimõõtmisi ja kuvab 
 
 Ekraani heleduse seadmiseks toimige järgmiselt.
 
-1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `Seade`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `{{<T "Device" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `Seadme väljalülitamine pärast`, `Käivitusekraan`, `Demonstratsioonirežiim`, `Ekraani heledus`, `Klahvivajutuse vibratsioon` ja `Ressursimonitor`. Valige `Ekraani heledus`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valige `{{<T "BrightnessDisplay" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷, et seada ekraani heledus.
 
@@ -70,11 +70,11 @@ Ekraani heleduse seadmiseks toimige järgmiselt.
 
 Seadme klahvivajutuse vibratsiooni deaktiveerimiseks või aktiveerimiseks toimige järgmiselt:
 
-1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `Seade`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `{{<T "Device" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `Seadme väljalülitamine pärast`, `Käivitusekraan`, `Demonstratsioonirežiim`, `Ekraani heledus`, `Klahvivajutuse vibratsioon` ja `Ressursimonitor`. Valige `Klahvivajutuse vibratsioon`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel nagu `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valige `{{<T "VibrationOnKeypressEnabled" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷, et aktiveerida või deaktiveerida klõpsamisel vibratsioon.
 
@@ -84,14 +84,14 @@ Seadme klahvivajutuse vibratsiooni deaktiveerimiseks või aktiveerimiseks toimig
 
 Seadme vibratsiooni ressursimonitori deaktiveerimiseks või aktiveerimiseks toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `Seade`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `{{<T "Device" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahve △ ▽ kasutades liikuda seadistusväljade vahel `Seadme väljalülitamine pärast`, `Käivitusekraan`, `Demonstratsioonirežiim`, `Ekraani heledus`, `Vibratsioon klõpsamisel` ja `Ressursimonitor`. Valige `Ressursimonitor`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahve △ ▽ kasutades liikuda seadistusväljade vahel `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valige `{{<T "ResourceMonitor" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷, et aktiveerida või deaktiveerida ressursimonitor.
 
     ![VitalControl: Menüü seaded Ressursimonitor](../images/resourcemonitor.png "Ressursimonitor")
 
-Salvestage seaded ja naaske peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
+Salvestage seaded ja naaske peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.

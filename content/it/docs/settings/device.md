@@ -14,11 +14,11 @@ translationKey: settings/device
 ## Spegnimento del dispositivo dopo {#shutdown-device-after}
 Per impostare il periodo di inattività fino allo spegnimento del dispositivo, procedi come segue.
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `{{<T "Settings" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `Dispositivo`. Conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `{{<T "Device" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `Spegnimento del dispositivo dopo`, `Schermata di avvio`, `Modalità dimostrazione`, `Luminosità del display`, `Vibrazione alla pressione dei tasti` e `Monitor delle risorse`. Seleziona `Spegnimento del dispositivo dopo`.
+3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` e `{{<T "ResourceMonitor" >}}`. Seleziona `{{<T "ShutdownAfter" >}}`.
 
 4. Usa i tasti freccia ◁ ▷ per impostare la durata desiderata in minuti.
 
@@ -28,11 +28,11 @@ Per impostare il periodo di inattività fino allo spegnimento del dispositivo, p
 
 Per impostare la schermata di avvio, procedi come segue.
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `{{<T "Settings" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `Dispositivo`. Conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `{{<T "Device" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `Spegnimento del dispositivo dopo`, `Schermata di avvio`, `Modalità dimostrazione`, `Luminosità del display`, `Vibrazione alla pressione dei tasti` e `Monitor delle risorse`. Seleziona `Schermata di avvio`.
+3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` e `{{<T "ResourceMonitor" >}}`. Seleziona `{{<T "StartupScreen" >}}`.
 
 4. Usa i tasti freccia ◁ ▷ per impostare la schermata di avvio desiderata.
 
@@ -43,11 +43,11 @@ Per impostare la schermata di avvio, procedi come segue.
 Se viene selezionata la modalità presentazione, il dispositivo simula le misurazioni della temperatura e visualizza una temperatura generata casualmente come valore misurato. Questa modalità viene utilizzata per la dimostrazione del dispositivo se non sono disponibili animali per una misurazione. Per disattivare o attivare la modalità presentazione del dispositivo, procedi come segue:
 
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `{{<T "Settings" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `Dispositivo`. Conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `{{<T "Device" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `Spegni dispositivo dopo`, `Schermata iniziale`, `Modalità dimostrazione`, `Luminosità display`, `Vibrazione alla pressione dei tasti` e `Monitor risorse`. Seleziona `Modalità dimostrazione`.
+3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` e `{{<T "ResourceMonitor" >}}`. Seleziona `{{<T "DemoMode" >}}`.
 
 4. Usa i tasti freccia ◁ ▷ per attivare o disattivare la modalità presentazione.
 
@@ -57,11 +57,11 @@ Se viene selezionata la modalità presentazione, il dispositivo simula le misura
 
 Per impostare la luminosità del display procedi come segue.
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `{{<T "Settings" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `Dispositivo`. Conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `{{<T "Device" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `Spegni dispositivo dopo`, `Schermata iniziale`, `Modalità dimostrazione`, `Luminosità display`, `Vibrazione alla pressione dei tasti` e `Monitor risorse`. Seleziona `Luminosità display`.
+3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` e `{{<T "ResourceMonitor" >}}`. Seleziona `{{<T "BrightnessDisplay" >}}`.
 
 4. Usa i tasti freccia ◁ ▷ per impostare la luminosità del display.
 
@@ -71,11 +71,11 @@ Per impostare la luminosità del display procedi come segue.
 
 Per disattivare o attivare la vibrazione alla pressione dei tasti del dispositivo, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `{{<T "Settings" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `Dispositivo`. Conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `{{<T "Device" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `Spegni dispositivo dopo`, `Schermata iniziale`, `Modalità dimostrazione`, `Luminosità display`, `Vibrazione alla pressione dei tasti` e `Monitor risorse`. Seleziona `Vibrazione alla pressione dei tasti`.
+3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` e `{{<T "ResourceMonitor" >}}`. Seleziona `{{<T "VibrationOnKeypressEnabled" >}}`.
 
 
 4. Usa i tasti freccia ◁ ▷ per attivare o disattivare la vibrazione alla pressione dei tasti.
@@ -86,14 +86,14 @@ Per disattivare o attivare la vibrazione alla pressione dei tasti del dispositiv
 
 Per disattivare o attivare il monitor delle risorse del dispositivo, procedi come segue:
 
-1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` e premi il pulsante `OK`.
+1. Nella schermata principale del tuo dispositivo VitalControl, seleziona la voce di menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `{{<T "Settings" >}}` e premi il pulsante `{{<T "Ok" >}}`.
 
-2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `Dispositivo`. Conferma con `OK`.
+2. Si apre un sottomenu in cui vengono visualizzate varie impostazioni. Usa i tasti freccia △ ▽ per selezionare `{{<T "Device" >}}`. Conferma con `{{<T "Ok" >}}`.
 
-3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `Spegnimento dispositivo dopo`, `Schermata di avvio`, `Modalità dimostrazione`, `Luminosità display`, `Vibrazione alla pressione dei tasti` e `Monitor delle risorse`. Seleziona `Monitor delle risorse`.
+3. Si apre un altro sottomenu in cui puoi usare i tasti freccia △ ▽ per passare tra i campi di impostazione per `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` e `{{<T "ResourceMonitor" >}}`. Seleziona `{{<T "ResourceMonitor" >}}`.
 
 4. Usa i tasti freccia ◁ ▷ per attivare o disattivare il monitor delle risorse.
 
     ![VitalControl: Menu impostazioni Monitor delle risorse](../images/resourcemonitor.png "Monitor delle risorse")
 
-Salva le impostazioni e torna al menu principale <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `Impostazioni` premendo il tasto `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salva e torna" />&nbsp;.
+Salva le impostazioni e torna al menu principale <img src="/icons/gear.svg" width="25" align="bottom" alt="Impostazioni" /> `{{<T "Settings" >}}` premendo il tasto `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salva e torna" />&nbsp;.

@@ -16,18 +16,18 @@ translationKey: settings/new-animals
 
 Tässä määrität, mikä paino tallennetaan ja säilytetään luotaessa uusia eläimiä tilallasi. Tallennetun painon asettamiseksi laitteellasi toimi seuraavasti.
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit vaihtaa asetusalueiden välillä `Oletusarvot`, `Autom rekisteröinti` ja `Tehtävä korvamerkin numero` käyttämällä nuolinäppäimiä △ ▽. Valitse `Oletusarvot` ja vahvista `OK`-näppäimellä.
+3. Toinen alivalikko avautuu, jossa voit vaihtaa asetusalueiden välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}` käyttämällä nuolinäppäimiä △ ▽. Valitse `{{<T "DefaultValues" >}}` ja vahvista `{{<T "Ok" >}}`-näppäimellä.
 
-4. `Tallennettu paino(t)`-alue valitaan automaattisesti. Käytä nuolinäppäimiä ◁ ▷ valitaksesi tallennettavan painon.
+4. `{{<T "WeightRecorded" >}}`-alue valitaan automaattisesti. Käytä nuolinäppäimiä ◁ ▷ valitaksesi tallennettavan painon.
 
     ![VitalControl: valikkoasetukset Aseta tallennettu paino](../images/recordweights.png "Aseta tallennettu paino")
 
 {{% alert title="Vihje" %}}
- Valitse `ei mitään`, jos: eläimet luodaan automaattisesti taustalla (transponderiskannauksen kautta), tilalla ei ole käytettävissä vaakaa eikä arvioituja arvoja haluta, syntymäpainot ovat tuntemattomia.
+ Valitse `{{<T "None" >}}`, jos: eläimet luodaan automaattisesti taustalla (transponderiskannauksen kautta), tilalla ei ole käytettävissä vaakaa eikä arvioituja arvoja haluta, syntymäpainot ovat tuntemattomia.
 {{% /alert %}}
 
 ### Aseta ikä rekisteröinnin yhteydessä {#set-age-at-registration}
@@ -37,13 +37,13 @@ Tässä syötetyn iän perusteella laite laskee ehdotetun syntymäajan manuaalis
 
 Aseta ikä luomishetkellä laitteellasi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Avautuu alivalikko, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Avautuu alivalikko, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Oletusarvot`, `Autom rekisteröinti` ja `Korvamerkin numero`. Valitse `Oletusarvot` ja vahvista `OK`:lla.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "DefaultValues" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi `Ikä (uusi vasikka/lammas)`.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "AgeRegistration" >}}`.
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi iän luomishetkellä.
 
@@ -53,13 +53,13 @@ Aseta ikä luomishetkellä laitteellasi seuraavasti:
 
 Tässä määrität, mikä sukupuoli ehdotetaan (manuaalinen luonti) tai otetaan automaattisesti käyttöön (taustalla tapahtuva luonti). Määritelläksesi sukupuolen eläimen rekisteröinnissä laitteellasi, toimi seuraavasti.
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Avautuu alivalikko, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Avautuu alivalikko, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Oletusarvot`, `Autom rekisteröinti` ja `Korvamerkin numero`. Valitse `Oletusarvot` ja vahvista `OK`:lla.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "DefaultValues" >}}` ja vahvista `{{<T "Ok" >}}`:lla.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi `Sukupuoli`.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Sex" >}}`.
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi sukupuolen luomishetkellä.
 
@@ -69,13 +69,13 @@ Tässä määrität, mikä sukupuoli ehdotetaan (manuaalinen luonti) tai otetaan
 
 Tässä määrität, minkä tyyppinen eläin kirjataan luotaessa uusia eläimiä tilallesi. Määritelläksesi eläimen tyypin sen luomishetkellä laitteellasi, toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Oletusarvot`, `Autom rekisteröinti` ja `Tehtävä korvamerkin numero`. Valitse `Oletusarvot` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "DefaultValues" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi `Eläinlaji`.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "TypeAnimal" >}}`.
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi eläimen tyypin luotaessa.
 
@@ -85,13 +85,13 @@ Tässä määrität, minkä tyyppinen eläin kirjataan luotaessa uusia eläimiä
 
 Tässä määrität, mikä karjan rotu tallennetaan uusia eläimiä luotaessa tilallesi. Määritelläksesi rodun luotaessa laitteellasi, toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Oletusarvot`, `Autom rekisteröinti` ja `Tehtävä korvamerkin numero`. Valitse `Oletusarvot` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "DefaultValues" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rotu`.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Breed" >}}`.
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi rodun luotaessa.
 
@@ -101,19 +101,19 @@ Tässä määrität, mikä karjan rotu tallennetaan uusia eläimiä luotaessa ti
 
 Tässä määrität, mitkä olinpaikat annetaan eläimille uusia maatilan eläimiä luotaessa. Määritelläksesi maatilan eläimen olinpaikan sen luomishetkellä laitteellasi, toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alavalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden välillä `Oletusarvot`, `Autom rekisteröinti` ja `Tehtävä korvamerkin numero`. Valitse `Oletusarvot` ja vahvista painamalla `OK`.
+3. Toinen alavalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "DefaultValues" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi `Olinpaikka`.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Whereabouts" >}}`.
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi olinpaikan luotaessa.
 
     ![VitalControl: valikkoasetukset olinpaikka](../images/whereabout.png "olinpaikka")
 
-Tallenna asetukset ja palaa päävalikkoon `Asetukset` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+Tallenna asetukset ja palaa päävalikkoon `{{<T "Settings" >}}` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
 ## Autom rekisteröinti {#auto-registration}
 
@@ -125,13 +125,13 @@ Kun käyttäjä vahvistaa eläinten luomisen, näyttöön tulee syöttöruutu, j
 
 Määritelläksesi käyttäytymisen, kun käyttäjän eläin luodaan automaattisesti laitteellasi, toimi seuraavasti:
 
-1. VitalControl-laitteesi päänäytössä valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päänäytössä valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alavalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alavalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alavalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden välillä `Oletusarvot`, `Autom rekisteröinti` ja `Tehtävä korvamerkin numero`. Valitse `Autom rekisteröinti` ja vahvista painamalla `OK`.
+3. Toinen alavalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "AutoRegistration" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Asetuskenttä `Autom rekisteröinti` valitaan automaattisesti. Käytä nuolinäppäimiä ◁ ▷ määrittääksesi laitteen käyttäytymisen uusia eläimiä luotaessa.
+4. Asetuskenttä `{{<T "AutoRegistration" >}}` valitaan automaattisesti. Käytä nuolinäppäimiä ◁ ▷ määrittääksesi laitteen käyttäytymisen uusia eläimiä luotaessa.
 
 ![VitalControl: valikkoasetukset Autom rekisteröinti](../images/autoregistration.png "Autom rekisteröinti")
 
@@ -145,37 +145,37 @@ Valitse "Peräkkäinen" vaihtoehto, jos käyttämäsi karsinanumero eläimen vis
 
 Määritelläksesi eläimen tunnuksen määrittämisen luodessasi tilaeläintä laitteellasi, toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Oletusarvot`, `Autom rekisteröinti` ja `Tehtävä korvamerkin numero`. Valitse `Autom rekisteröinti` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "AutoRegistration" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi `Eläimen numeron antaminen`.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "AssignmentIDs" >}}`.
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi työeläimen tunnuksen määrittämisen luodessasi.
 
-6. Jos valitset asetuksen `Peräkkäinen`, sinulla on mahdollisuus määrittää `Transponderin numeron johtaminen`. Käytä nuolinäppäimiä △ ▽ valitaksesi `Transponderin numeron johtaminen` -alueen ja vahvista painamalla `OK`. Navigoi alueella käyttämällä nuolinäppäimiä ◁ ▷. Nyt voit valita numeron käyttämällä nuolinäppäimiä △ ▽. Laite käyttää nyt automaattisesti tätä numeroa aloittaakseen jatkuvan laskennan siitä. Lisäksi voit asettaa, lasketaanko numerot jatkuvasti kasvavasti vai jatkuvasti vähenevästi. Tee tämä käyttämällä nuolinäppäimiä ◁ ▷ siirtyäksesi 9/1-symboliin. Käytä nuolinäppäimiä △ ▽ vaihtaaksesi jatkuvasti kasvavan tai jatkuvasti vähenevän laskennan välillä. Tallenna asetukset käyttämällä `F1` tai `OK` -näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+6. Jos valitset asetuksen `{{<T "Consecutive >}}`, sinulla on mahdollisuus määrittää `{{<T "NextAnimalID" >}}`. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "NextAnimalID" >}}` -alueen ja vahvista painamalla `{{<T "Ok" >}}`. Navigoi alueella käyttämällä nuolinäppäimiä ◁ ▷. Nyt voit valita numeron käyttämällä nuolinäppäimiä △ ▽. Laite käyttää nyt automaattisesti tätä numeroa aloittaakseen jatkuvan laskennan siitä. Lisäksi voit asettaa, lasketaanko numerot jatkuvasti kasvavasti vai jatkuvasti vähenevästi. Tee tämä käyttämällä nuolinäppäimiä ◁ ▷ siirtyäksesi 9/1-symboliin. Käytä nuolinäppäimiä △ ▽ vaihtaaksesi jatkuvasti kasvavan tai jatkuvasti vähenevän laskennan välillä. Tallenna asetukset käyttämällä `F1` tai `{{<T "Ok" >}}` -näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
 ![VitalControl: valikkoasetukset eläimen tunnisteen määritys](../images/assignmentanimalid2.png "Eläimen tunnisteen määritys")
 
 ![VitalControl: valikkoasetukset eläimen tunnisteen määritys](../images/assignmentanimalid3.png "eläimen tunnisteen määritys")
 
 {{% alert title = "Vihje" %}}
-Vain käytettäessä vaihtoehtoa `Peräkkäinen`: jos olet asettanut käyttämään erillisiä numerosarjoja uroksille ja naaraille korvamerkin numeron määrittämisessä, seuraava eläinnumero tallennetaan kullekin uroksille, naaraalle ja tuntemattoman sukupuolen eläimille. Symboli eläinnumeron vasemmalla puolella osoittaa, mihin seuraavaa eläinnumeroa käytetään: joko urokselle ♀ tai naaraalle ♂ tai tuntemattoman sukupuolen eläimille ♀♂?
+Vain käytettäessä vaihtoehtoa `{{<T "Consecutive >}}`: jos olet asettanut käyttämään erillisiä numerosarjoja uroksille ja naaraille korvamerkin numeron määrittämisessä, seuraava eläinnumero tallennetaan kullekin uroksille, naaraalle ja tuntemattoman sukupuolen eläimille. Symboli eläinnumeron vasemmalla puolella osoittaa, mihin seuraavaa eläinnumeroa käytetään: joko urokselle ♀ tai naaraalle ♂ tai tuntemattoman sukupuolen eläimille ♀♂?
 {{% /alert %}}
 
 ### Uuden tunnisteen numero {#digit-of-the-new-id}
 
 Tässä määrität, kuinka pitkä navetan numero, joka johdetaan lähetysnumeron perusteella, on uudelle eläimelle tilallasi. Mahdollinen arvoalue on 2-6 numeroa. Määritä uuden tilaeläimen tunnisteen pituus laitteellasi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-näppäintä.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alivalikko avautuu, jossa näytetään erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näytetään erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Oletusarvot`, `Autom rekisteröinti` ja `Tehtävä korvamerkin numero`. Valitse `Autom rekisteröinti` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "AutoRegistration" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi `Uusi ID-numero`.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "AssignmentIDs" >}}`.
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi uuden työeläimen tunnisteen numeron luotaessa.
 
@@ -192,34 +192,34 @@ karsinanumeron päivitykseen.
 
 Aseta siirtymä oikealle eläimen kohdalla laitteellasi seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-näppäintä.
+1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden `Oletusarvot`, `Autom rekisteröinti` ja `Tehtävä korvamerkin numero` välillä. Valitse `Autom rekisteröinti` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}` välillä. Valitse `{{<T "AutoRegistration" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi `Oikea siirtymä`.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "OffsetRight" >}}`.
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi työskentelevän eläimen oikean siirtymäalueen luomisen yhteydessä.
 
     ![VitalControl: valikkoasetukset oikea siirtymä](../images/rightoffset.png "oikea siirtymä")
 
-Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
 ## Tehtävä korvamerkin numero {#assignment-ear-tag-number}
 
 Tässä määrität, käytetäänkö yhtä vai kahta numerosarjaa korvamerkin numeron määrittämisessä eläinten manuaalisen uudelleenrekisteröinnin yhteydessä. Määritelläksesi maatilaeläimen korvamerkin numeron määrityksen laitteellasi, toimi seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-näppäintä.
+1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-näppäintä.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Rekisteröinti`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "RegistrationAnimals" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Oletusarvot`, `Autom rekisteröinti` ja `tehtävä korvamerkin numero`. Valitse `tehtävä korvamerkin numero` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valitse `{{<T "AssignmentEartagNr" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 4. Käytä nuolinäppäimiä ◁ ▷ määrittääksesi työeläimen korvamerkin numeron luotaessa.
 
     ![VitalControl: valikkoasetukset Korvamerkin numero](../images/assignmenteartagnumber.png "Korvamerkin numero")
 
-Tallenna asetukset ja palaa päävalikkoon `Rekisteröinti` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+Tallenna asetukset ja palaa päävalikkoon `{{<T "RegistrationAnimals" >}}` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
-Tallenna asetukset ja palaa päävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+Tallenna asetukset ja palaa päävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.

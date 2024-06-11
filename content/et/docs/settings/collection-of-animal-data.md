@@ -51,31 +51,31 @@ Punane väli näitab "kritiliselt madalat kaalutõusu" piirkonda. Kollane väli 
 
 Igapäevase kaalutõusu läviväärtuste kohandamiseks toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `Andmete hankimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `{{<T "DataAcquisition" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Kaalusalvestus`, `Loomade hindamine` ja `Värskete lehmade kontrollperiood`. Valige `Kaalusalvestus` ja kinnitage valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valige `{{<T "WeightRecording" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-4. Automaatselt valitakse eelistusväli `Igapäevane kaalutõus`. Kasutage nooleklahve ◁ ▷, et valida soovitud loomaliik. Kinnitage valikuga `OK`. Alternatiivina võite kasutada pliiatsiikooni koos <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `F3` klahviga, et otse minna punase ja kollase ala muutmisele.
+4. Automaatselt valitakse eelistusväli `{{<T "DailyWeightGain" >}}`. Kasutage nooleklahve ◁ ▷, et valida soovitud loomaliik. Kinnitage valikuga `{{<T "Ok" >}}`. Alternatiivina võite kasutada pliiatsiikooni koos <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `F3` klahviga, et otse minna punase ja kollase ala muutmisele.
 
 5. Kasutage nooleklahve △ ▽, et valida soovitud "suurem kui" või "võrdne" g/päevas suurenemine punases ja kollases alas. Kasutage klahve `F2`/`F3` 🡄 🡆 või nooleklahve ◁ ▷, et vahetada punase ja kollase ala vahel.
 
-6. Kui olete seadistanud soovitud "suurem kui" või "võrdne" g/päevas suurenemise, kasutage `F1` klahvi <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Exit" /> või kinnitage valikuga `OK`, et naasta `Igapäevase kaalutõusu` juurde.
+6. Kui olete seadistanud soovitud "suurem kui" või "võrdne" g/päevas suurenemise, kasutage `F1` klahvi <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Exit" /> või kinnitage valikuga `{{<T "Ok" >}}`, et naasta `{{<T "DailyWeightGain" >}}` juurde.
 
     ![VitalControl: menüü seaded igapäevase kaalutõusu jaoks](../images/dailyweightgain.png "Igapäevane kaalutõus")
 
 ### Sünnikaal {#birth-weight}
 
-Seade kasutab siin seadetes salvestatud sünnikaalu vaikimisi väärtusena, kui luuakse uusi loomi. Selleks, et saaksite kiiremini valida äsja sündinud looma individuaalse sünnikaalu, võib teil olla vajalik kohandada seda vaikimisi väärtust oma farmis. `Sünnikaalu` väärtuse kohandamiseks toimige järgmiselt:
+Seade kasutab siin seadetes salvestatud sünnikaalu vaikimisi väärtusena, kui luuakse uusi loomi. Selleks, et saaksite kiiremini valida äsja sündinud looma individuaalse sünnikaalu, võib teil olla vajalik kohandada seda vaikimisi väärtust oma farmis. `{{<T "BirthWeight" >}}` väärtuse kohandamiseks toimige järgmiselt:
 
-1. Valige oma VitalControl seadme põhiekraanil menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Valige oma VitalControl seadme põhiekraanil menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `Andmete hankimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `{{<T "DataAcquisition" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvidega △ ▽ vahetada seadistusvälju `Kaalumise salvestamine`, `Looma hindamine` ja `Värskete lehmade kontrollperiood`. Valige `Kaalumise salvestamine` ja kinnitage valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvidega △ ▽ vahetada seadistusvälju `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valige `{{<T "WeightRecording" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-4. Kasutage nooleklahve △ ▽, et valida seadistusväli `Sünnikaal` ja nooleklahve ◁ ▷, et määrata soovitud sünnikaal. Seade kasutab nüüd siin määratletud sünnikaalu standardina uute loomade loomisel. Uue sündinud looma individuaalne sünnikaal saab seejärel kiiremini valitud.
+4. Kasutage nooleklahve △ ▽, et valida seadistusväli `{{<T "BirthWeight" >}}` ja nooleklahve ◁ ▷, et määrata soovitud sünnikaal. Seade kasutab nüüd siin määratletud sünnikaalu standardina uute loomade loomisel. Uue sündinud looma individuaalne sünnikaal saab seejärel kiiremini valitud.
 
     ![VitalControl: menüü seaded sünnikaal](../images/birthweight.png "Sünnikaal")
 
@@ -98,15 +98,15 @@ Kui te ei soovi seda kohandust teha või kui loote loomi automaatselt [taustal](
 Looma [kaalumisel](../../actions/record-weight/) kasutatakse määratletud päevast tõusu soovitatud kaaluväärtuse arvutamisel looma kaalumisel. Kui soovitatud kaaluväärtus on enamiku kaalutavate loomade jaoks liiga madal või liiga kõrge, peaksite määratletud väärtust vastavalt alandama või tõstma, et kaaluväärtuse kohandamiseks nooleklahvidega kuluvat aega lühendada.
 {{% /alert %}}
 
-Looma ligikaudse kaalu arvutamiseks kasutatava `keskmise päevase kaalutõusu` seadmiseks toimige järgmiselt.
+Looma ligikaudse kaalu arvutamiseks kasutatava `{{<T "AverageDailyWeightGain" >}}` seadmiseks toimige järgmiselt.
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `Andmete hankimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `{{<T "DataAcquisition" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Kaalusisestus`, `Looma hindamine` ja `Kontrollperiood värsketel lehmadel`. Valige `Kaalusisestus` ja kinnitage valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valige `{{<T "WeightRecording" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-4. Kasutage nooleklahve △ ▽, et valida seadistusväli `Keskmine päevane kaalutõus`. Kasutage nooleklahve ◁ ▷, et määrata soovitud keskmine päevane tõus g/päevas. Seade kasutab nüüd siin määratletud keskmist päevast tõusu loomade eeldatava päevase tõusu standardina.
+4. Kasutage nooleklahve △ ▽, et valida seadistusväli `{{<T "AverageDailyWeightGain" >}}`. Kasutage nooleklahve ◁ ▷, et määrata soovitud keskmine päevane tõus g/päevas. Seade kasutab nüüd siin määratletud keskmist päevast tõusu loomade eeldatava päevase tõusu standardina.
 
     ![VitalControl: menüü seaded keskmine päevane kaalutõus](../images/averagedailyweightgain.png "Keskmine päevane kaalutõus")
 
@@ -127,18 +127,18 @@ Allpool olev tabel näitab kaalu registreerimise täpsust sõltuvalt kaaluvahemi
 
 Maksimaalse täpsuse seadmiseks loomade kaalu registreerimisel oma seadmega toimige järgmiselt:
 
-1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `Andmete kogumine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `{{<T "DataAcquisition" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Kaalumise salvestamine`, `Looma hindamine` ja `Värskete lehmade kontrollperiood`. Valige `Kaalumise salvestamine` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valige `{{<T "WeightRecording" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-4. Kasutage nooleklahve △ ▽, et valida seadistusväli `Maksimaalne täpsus`. Kasutage nooleklahve ◁ ▷, et määrata soovitud maksimaalne täpsus. Kaalu salvestamise täpsus seadmel järgib nüüd kehtestatud seadistust.
+4. Kasutage nooleklahve △ ▽, et valida seadistusväli `{{<T "MaximumPrecision" >}}`. Kasutage nooleklahve ◁ ▷, et määrata soovitud maksimaalne täpsus. Kaalu salvestamise täpsus seadmel järgib nüüd kehtestatud seadistust.
 
     ![VitalControl: menüütee seaded maksimaalne täpsus kaalu salvestamisel](../images/precisionweightrecording.png "Määrake kaalu salvestamise maksimaalne täpsus.")
 
 <br>
-Salvestage seaded ja naaske peamenüüsse `Andmete kogumine`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Salvestage seaded ja naaske peamenüüsse `{{<T "DataAcquisition" >}}`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
 ## Looma hindamise režiim {#mode-of-animal-rating}
 
@@ -146,13 +146,13 @@ Salvestage seaded ja naaske peamenüüsse `Andmete kogumine`, vajutades `F1` kla
 Lihtsas režiimis küsitakse looma hindamisel ainult üldist seisundit (roheline/kollane/punane). Laiendatud hindamisel küsitakse 4 hindamiskategooriat: üldine seisund, söödatarbimine, kõhulahtisus ja hingamisteede haigused.
 {{% /alert %}}
 
-Looma `Hindamise` seadistamiseks oma seadmel toimige järgnevalt.
+Looma `{{<T "AnimalRatings" >}}` seadistamiseks oma seadmel toimige järgnevalt.
 
-1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Peamenüüs oma VitalControl seadmel valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `Andmete kogumine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `{{<T "DataAcquisition" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Kaalumise salvestamine`, `Looma hindamine` ja `Värskete lehmade kontrollperiood`. Valige `Looma hindamine` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valige `{{<T "RatingAnimals" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
 4. Kasutage nooleklahve ◁ ▷, et seadistada soovitud loomade hinnang.
 
@@ -166,11 +166,11 @@ Värskete lehmade haldamisel peetakse parimaks praktikaks loomade igapäevast ko
 
 Värskete lehmade kontrollperioodi pikkuse seadmiseks toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `Andmete hankimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽, et valida `{{<T "DataAcquisition" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada seadistusväljade vahel `Kaalumise salvestamine`, `Looma hinnang` ja `Värskete lehmade kontrollperiood`. Valige `Värskete lehmade kontrollperiood` ja kinnitage valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada seadistusväljade vahel `{{<T "WeightRecording" >}}`, `{{<T "AnimalRatings" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valige `{{<T "ControlPeriodFreshCows" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
 4. Kasutage nooleklahve ◁ ▷, et seadistada soovitud kontrollperioodi kestus päevades pärast poegimist.
 
@@ -178,4 +178,4 @@ Värskete lehmade kontrollperioodi pikkuse seadmiseks toimige järgmiselt:
 
 <br>
 
-Salvestage seaded ja naaske peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
+Salvestage seaded ja naaske peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.

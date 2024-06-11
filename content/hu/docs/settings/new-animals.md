@@ -16,18 +16,18 @@ translationKey: settings/new-animals
 
 Itt határozhatja meg, hogy mely súlyt rögzítik és mentik el új állatok létrehozásakor a farmján. A rögzített súly beállításához az eszközén, kövesse az alábbi lépéseket.
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `Állatok regisztrációja` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Alapértelmezett értékek` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "DefaultValues" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. A `Rögzített súly(ok)` terület automatikusan kiválasztásra kerül. Használja a ◁ ▷ nyílgombokat a rögzítendő súly kiválasztásához.
+4. A `{{<T "WeightRecorded" >}}` terület automatikusan kiválasztásra kerül. Használja a ◁ ▷ nyílgombokat a rögzítendő súly kiválasztásához.
 
     ![VitalControl: menü beállítások Rögzített súly(ok) beállítása](../images/recordweights.png "Rögzített súly(ok) beállítása")
 
 {{% alert title="Tipp" %}}
- Válassza a `nincs` lehetőséget, ha: az állatok automatikusan jönnek létre a háttérben (transzponder szkennelés révén), nincs mérleg a farmon és nem kíván becsült értékeket, az újszülött súlyok ismeretlenek.
+ Válassza a `{{<T "None" >}}` lehetőséget, ha: az állatok automatikusan jönnek létre a háttérben (transzponder szkennelés révén), nincs mérleg a farmon és nem kíván becsült értékeket, az újszülött súlyok ismeretlenek.
 {{% /alert %}}
 
 ### Regisztrációkor megadott életkor beállítása {#set-age-at-registration}
@@ -37,13 +37,13 @@ Az itt megadott életkor alapján az eszköz kiszámítja a születési dátumot
 
 Az életkor beállítása a létrehozáskor az eszközön a következőképpen történik:
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Alapértelmezett értékek` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "DefaultValues" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílgombokat az `Életkor regisztráláskor` kiválasztásához.
+4. Használja a △ ▽ nyílgombokat az `{{<T "AgeRegistration" >}}` kiválasztásához.
 
 5. Használja a ◁ ▷ nyílgombokat az életkor beállításához a létrehozáskor.
 
@@ -53,13 +53,13 @@ Az életkor beállítása a létrehozáskor az eszközön a következőképpen t
 
 Itt határozza meg, hogy melyik nem javasolt (kézi létrehozás) vagy automatikusan elfogadott (háttérben történő létrehozás). Az állat regisztrálásakor a nem meghatározásához az eszközön a következőképpen járjon el.
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Alapértelmezett értékek` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "DefaultValues" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílgombokat a `Nem` kiválasztásához.
+4. Használja a △ ▽ nyílgombokat a `{{<T "Sex" >}}` kiválasztásához.
 
 5. Használja a ◁ ▷ nyílgombokat a nem beállításához a létrehozáskor.
 
@@ -69,14 +69,14 @@ Itt határozza meg, hogy melyik nem javasolt (kézi létrehozás) vagy automatik
 
 Itt határozza meg, hogy milyen típusú állatot rögzítenek új állatok létrehozásakor a farmján. Az állat típusának meghatározásához az eszközön a következőképpen járjon el:
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
 
-2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílbillentyűket az `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílbillentyűket az `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílbillentyűkkel válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Alapértelmezett értékek` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílbillentyűkkel válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "DefaultValues" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílbillentyűket az `Állat típusa` kiválasztásához.
+4. Használja a △ ▽ nyílbillentyűket az `{{<T "TypeAnimal" >}}` kiválasztásához.
 
 5. Használja a ◁ ▷ nyílbillentyűket az állat típusának beállításához a létrehozáskor.
 
@@ -86,13 +86,13 @@ Itt határozza meg, hogy milyen típusú állatot rögzítenek új állatok lét
 
 Itt határozhatja meg, hogy az új állatok létrehozásakor melyik fajta kerül rögzítésre a gazdaságában. A fajta meghatározásához a készüléken a következőképpen járjon el:
 
-1. A VitalControl készülék főképernyőjén válassza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílbillentyűket az `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílbillentyűket az `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílbillentyűkkel válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Alapértelmezett értékek` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílbillentyűkkel válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "DefaultValues" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílbillentyűket a `Fajta` kiválasztásához.
+4. Használja a △ ▽ nyílbillentyűket a `{{<T "Breed" >}}` kiválasztásához.
 
 5. Használja a ◁ ▷ nyílbillentyűket a fajta beállításához a létrehozáskor.
 
@@ -102,20 +102,20 @@ Itt határozhatja meg, hogy az új állatok létrehozásakor melyik fajta kerül
 
 Itt határozhatja meg, hogy az új gazdasági állatok létrehozásakor melyik tartózkodási hely kerül hozzárendelésre. A gazdasági állat tartózkodási helyének meghatározásához a készüléken a következőképpen járjon el:
 
-1. A VitalControl készülék főképernyőjén válassza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílbillentyűket az `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílbillentyűket az `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 
-3. Egy másik almenü nyílik meg, amelyben a nyílbillentyűkkel △ ▽ válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Alapértelmezett értékek` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a nyílbillentyűkkel △ ▽ válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "DefaultValues" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a nyílbillentyűket △ ▽ a `Tartózkodási hely` kiválasztásához.
+4. Használja a nyílbillentyűket △ ▽ a `{{<T "Whereabouts" >}}` kiválasztásához.
 
 5. Használja a nyílbillentyűket ◁ ▷ a tartózkodási hely beállításához létrehozáskor.
 
     ![VitalControl: menü beállítások tartózkodási hely](../images/whereabout.png "tartózkodási hely")
 
-Mentse a beállításokat, és térjen vissza a `Beállítások` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
+Mentse a beállításokat, és térjen vissza a `{{<T "Settings" >}}` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 
 ## Automatikus regisztráció {#auto-registration}
 
@@ -127,13 +127,13 @@ Amikor a felhasználó megerősíti az állatok létrehozását, megjelenik egy 
 
 Az eszközön az állatok automatikus létrehozásának viselkedésének meghatározásához kövesse az alábbi lépéseket:
 
-1. A VitalControl eszköz főképernyőjén válassza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a nyílbillentyűket △ ▽ az `Állatok regisztrációja` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a nyílbillentyűket △ ▽ az `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a nyílbillentyűkkel △ ▽ válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Automatikus regisztráció` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a nyílbillentyűkkel △ ▽ válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "AutoRegistration" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Az `Automatikus regisztráció` beállítási mező automatikusan kiválasztásra kerül. Használja a nyílbillentyűket ◁ ▷ az eszköz viselkedésének meghatározásához új állatok létrehozásakor.
+4. Az `{{<T "AutoRegistration" >}}` beállítási mező automatikusan kiválasztásra kerül. Használja a nyílbillentyűket ◁ ▷ az eszköz viselkedésének meghatározásához új állatok létrehozásakor.
 
 ![VitalControl: menü beállítások automatikus regisztráció](../images/autoregistration.png "automatikus regisztráció")
 
@@ -147,37 +147,37 @@ Válassza a "Folyamatos" opciót, ha az állat vizuális azonosítására haszn�
 
 Az állat azonosító hozzárendelésének meghatározásához az eszközén az alábbi lépéseket kövesse:
 
-1. A VitalControl eszköz főképernyőjén válassza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Automatikus regisztráció` lehetőséget és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "AutoRegistration" >}}` lehetőséget és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílgombokat az `Állat azonosító hozzárendelése` kiválasztásához.
+4. Használja a △ ▽ nyílgombokat az `{{<T "AssignmentIDs" >}}` kiválasztásához.
 
 5. Használja a ◁ ▷ nyílgombokat az állat azonosító hozzárendelésének beállításához az állat létrehozásakor.
 
-6. Ha a `Folyamatos` beállítást választja, lehetősége van megadni a `Következő állat azonosítót`. Használja a △ ▽ nyílgombokat a `Következő állat azonosító` terület kiválasztásához és erősítse meg az `OK` gombbal. Navigáljon a területen belül a ◁ ▷ nyílgombokkal. Most választhat egy számot a △ ▽ nyílgombokkal. Az eszköz most automatikusan ezt a számot használja a folyamatos számlálás megkezdéséhez. Továbbá beállíthatja, hogy a számok folyamatosan növekvő vagy folyamatosan csökkenő sorrendben legyenek számolva. Ehhez használja a ◁ ▷ nyílgombokat a 9/1 szimbólumhoz való eljutáshoz. Használja a △ ▽ nyílgombokat a folyamatosan növekvő vagy folyamatosan csökkenő számlálás közötti váltáshoz. Mentse a beállításokat az `F1` vagy `OK` gombbal &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
+6. Ha a `{{<T "Consecutive >}}` beállítást választja, lehetősége van megadni a `{{<T "NextAnimalID" >}}`. Használja a △ ▽ nyílgombokat a `{{<T "NextAnimalID" >}}` terület kiválasztásához és erősítse meg az `{{<T "Ok" >}}` gombbal. Navigáljon a területen belül a ◁ ▷ nyílgombokkal. Most választhat egy számot a △ ▽ nyílgombokkal. Az eszköz most automatikusan ezt a számot használja a folyamatos számlálás megkezdéséhez. Továbbá beállíthatja, hogy a számok folyamatosan növekvő vagy folyamatosan csökkenő sorrendben legyenek számolva. Ehhez használja a ◁ ▷ nyílgombokat a 9/1 szimbólumhoz való eljutáshoz. Használja a △ ▽ nyílgombokat a folyamatosan növekvő vagy folyamatosan csökkenő számlálás közötti váltáshoz. Mentse a beállításokat az `F1` vagy `{{<T "Ok" >}}` gombbal &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 
 ![VitalControl: menü beállítások állat azonosító hozzárendelése](../images/assignmentanimalid2.png "Állat azonosító hozzárendelése")
 
 ![VitalControl: menü beállítások állat azonosító hozzárendelése](../images/assignmentanimalid3.png "Állat azonosító hozzárendelése")
 
 {{% alert title = "Tipp" %}}
-Csak a `Consecutive` opció használatakor: ha külön szám tartományokat állított be hím és nőstény állatok számára a fülcímke számának hozzárendelésekor, akkor egy következő állatszámot tárolnak mind a hím, mind a nőstény, mind az ismeretlen nemű állatok számára. Az állatszám bal oldalán elhelyezett szimbólum jelzi, hogy a következő állatszám mire vonatkozik: hím ♀, nőstény ♂ vagy ismeretlen nemű állatok ♀♂?
+Csak a `{{<T "Consecutive" >}}` opció használatakor: ha külön szám tartományokat állított be hím és nőstény állatok számára a fülcímke számának hozzárendelésekor, akkor egy következő állatszámot tárolnak mind a hím, mind a nőstény, mind az ismeretlen nemű állatok számára. Az állatszám bal oldalán elhelyezett szimbólum jelzi, hogy a következő állatszám mire vonatkozik: hím ♀, nőstény ♂ vagy ismeretlen nemű állatok ♀♂?
 {{% /alert %}}
 
 ### Az új azonosító számjegye {#digit-of-the-new-id}
 
 Itt határozhatja meg, hogy az új állat számára a transzponder számból származó istálló szám milyen hosszúságú legyen a gazdaságában. Az értéktartomány 2-től 6 számjegyig terjed. Az új gazdasági állat azonosítójának hosszának meghatározásához az eszközén a következőképpen járjon el:
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különféle beállítások jelennek meg. Használja a △ ▽ nyílgombokat az `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különféle beállítások jelennek meg. Használja a △ ▽ nyílgombokat az `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Automatikus regisztráció` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "AutoRegistration" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílgombokat az `Állat azonosító hozzárendelése` kiválasztásához.
+4. Használja a △ ▽ nyílgombokat az `{{<T "AssignmentIDs" >}}` kiválasztásához.
 
 5. Használja a ◁ ▷ nyílgombokat az új munkás állat azonosítójának számjegyének beállításához.
 
@@ -193,35 +193,35 @@ A beállított paraméterek hatásának grafikus szemléltetéséhez egy tizenö
 
 Az állat jobb oldalán lévő eltolás beállításához az eszközén, kövesse az alábbi lépéseket:
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat az `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat az `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza az `Automatikus regisztráció` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza az `{{<T "AutoRegistration" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílgombokat a `Jobb eltolás` kiválasztásához.
+4. Használja a △ ▽ nyílgombokat a `{{<T "OffsetRight" >}}` kiválasztásához.
 
 5. Használja a ◁ ▷ nyílgombokat a munkavégző állat jobb eltolási területének beállításához.
 
     ![VitalControl: menü beállítások jobb eltolás](../images/rightoffset.png "jobb eltolás")
 
-Mentse a beállításokat, és térjen vissza a főmenübe <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
+Mentse a beállításokat, és térjen vissza a főmenübe <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 
 ## Fülcímke szám hozzárendelése {#assignment-ear-tag-number}
 
 Itt határozza meg, hogy egy vagy két számtartományt használ-e az állatok kézi újraregisztrálása során a fülcímke szám hozzárendeléséhez. Az állat fülcímke számának hozzárendelésének meghatározásához az eszközén, kövesse az alábbi lépéseket:
 
-1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl eszköz főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílbillentyűket az `Állatok regisztrálása` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílbillentyűket az `{{<T "RegistrationAnimals" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílbillentyűkkel válthat a `Alapértelmezett értékek`, `Automatikus regisztráció` és `Fülcímke szám hozzárendelése` beállítási mezők között. Válassza a `Fülcímke szám hozzárendelése` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílbillentyűkkel válthat a `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` és `{{<T "AssignmentEartagNr" >}}` beállítási mezők között. Válassza a `{{<T "AssignmentEartagNr" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Használja a ◁ ▷ nyílbillentyűket a fülcímke szám hozzárendeléséhez a munkavégző állathoz létrehozáskor.
 
     ![VitalControl: menü beállítások Fülcímke szám hozzárendelése](../images/assignmenteartagnumber.png "Fülcímke szám hozzárendelése")
 
-Mentse a beállításokat, és térjen vissza az `Állatok regisztrálása` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
+Mentse a beállításokat, és térjen vissza az `{{<T "RegistrationAnimals" >}}` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 
-Mentse a beállításokat, és térjen vissza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
+Mentse a beállításokat, és térjen vissza a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.

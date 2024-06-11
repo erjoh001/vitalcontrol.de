@@ -51,32 +51,32 @@ A piros mező a "kritikusan alacsony súlygyarapodás" területét mutatja. A s�
 
 A napi súlygyarapodás értékeléséhez szükséges küszöbértékek beállításához kövesse az alábbi lépéseket:
 
-1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `Adatgyűjtés` kiválasztásához. Erősítse meg `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `{{<T "DataAcquisition" >}}` kiválasztásához. Erősítse meg `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Súlyfelvétel`, `Állatok értékelése` és `Friss tehenek ellenőrzési időszaka` beállítási mezők között. Válassza a `Súlyfelvétel` lehetőséget, és erősítse meg `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` és `{{<T "ControlPeriodFreshCows" >}}` beállítási mezők között. Válassza a `{{<T "WeightRecording" >}}` lehetőséget, és erősítse meg `{{<T "Ok" >}}` gombbal.
 
-4. Az `Napi súlygyarapodás` beállítási mező automatikusan kiválasztásra kerül. Használja a ◁ ▷ nyílgombokat a kívánt állatfaj kiválasztásához. Erősítse meg `OK` gombbal. Alternatívaként használhatja a ceruza ikont a <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Szerkesztés" /> `F3` gombbal, hogy közvetlenül a piros és sárga területek szerkesztéséhez ugorjon.
+4. Az `{{<T "DailyWeightGain" >}}` beállítási mező automatikusan kiválasztásra kerül. Használja a ◁ ▷ nyílgombokat a kívánt állatfaj kiválasztásához. Erősítse meg `{{<T "Ok" >}}` gombbal. Alternatívaként használhatja a ceruza ikont a <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Szerkesztés" /> `F3` gombbal, hogy közvetlenül a piros és sárga területek szerkesztéséhez ugorjon.
 
 5. Használja a △ ▽ nyílgombokat a kívánt "nagyobb mint" vagy "egyenlő" g/nap növekedés kiválasztásához a piros és sárga területen. Használja az `F2`/`F3` 🡄 🡆 gombokat vagy a ◁ ▷ nyílgombokat a piros és sárga területek közötti váltáshoz.
 
-6. Miután beállította a kívánt "nagyobb mint" vagy "egyenlő" g/nap növekedést, használja az `F1` gombot <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Kilépés" /> vagy erősítse meg `OK` gombbal, hogy visszatérjen az `Napi súlygyarapodás` mezőbe.
+6. Miután beállította a kívánt "nagyobb mint" vagy "egyenlő" g/nap növekedést, használja az `F1` gombot <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Kilépés" /> vagy erősítse meg `{{<T "Ok" >}}` gombbal, hogy visszatérjen az `{{<T "DailyWeightGain" >}}` mezőbe.
 
     ![VitalControl: napi súlygyarapodás beállítások menü](../images/dailyweightgain.png "Napi súlygyarapodás")
 
 ### Születési súly {#birth-weight}
 
-A készülék a beállításokban tárolt születési súlyt használja alapértelmezett értékként új állatok létrehozásakor. Annak érdekében, hogy az újonnan született állat egyedi születési súlyát gyorsabban ki lehessen választani, szükség lehet az alapértelmezett érték beállítására a gazdaság számára. A `születési súly` értékének beállításához kövesse az alábbi lépéseket:
+A készülék a beállításokban tárolt születési súlyt használja alapértelmezett értékként új állatok létrehozásakor. Annak érdekében, hogy az újonnan született állat egyedi születési súlyát gyorsabban ki lehessen választani, szükség lehet az alapértelmezett érték beállítására a gazdaság számára. A `{{<T "BirthWeight" >}}` értékének beállításához kövesse az alábbi lépéseket:
 
 
-1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `Adatgyűjtés` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `{{<T "DataAcquisition" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Súlyfelvétel`, `Állat értékelése` és `Friss tehenek ellenőrzési időszaka` beállítási mezők között. Válassza a `Súlyfelvétel` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` és `{{<T "ControlPeriodFreshCows" >}}` beállítási mezők között. Válassza a `{{<T "WeightRecording" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílgombokat a `Születési súly` beállítási mező kiválasztásához, és használja a ◁ ▷ nyílgombokat a kívánt születési súly beállításához. A készülék mostantól az itt meghatározott születési súlyt használja alapértelmezettként új állatok létrehozásakor. Az újszülött állat egyedi születési súlya ezután gyorsabban kiválasztható.
+4. Használja a △ ▽ nyílgombokat a `{{<T "BirthWeight" >}}` beállítási mező kiválasztásához, és használja a ◁ ▷ nyílgombokat a kívánt születési súly beállításához. A készülék mostantól az itt meghatározott születési súlyt használja alapértelmezettként új állatok létrehozásakor. Az újszülött állat egyedi születési súlya ezután gyorsabban kiválasztható.
 
     ![VitalControl: menü beállítások születési súly](../images/birthweight.png "Születési súly")
 
@@ -100,15 +100,15 @@ Amikor egy állatot [lemér](../../actions/record-weight/), a meghatározott nap
 {{% /alert %}}
 
 
-Az állat hozzávetőleges súlyának kiszámításához használt `napi átlagos súlygyarapodás` beállításához kövesse az alábbi lépéseket.
+Az állat hozzávetőleges súlyának kiszámításához használt `{{<T "AverageDailyWeightGain" >}}` beállításához kövesse az alábbi lépéseket.
 
-1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `Adatgyűjtés` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `{{<T "DataAcquisition" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Súlyfelvétel`, `Állat értékelése` és `Friss tehenek ellenőrzési időszaka` beállítási mezők között. Válassza a `Súlyfelvétel` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` és `{{<T "ControlPeriodFreshCows" >}}` beállítási mezők között. Válassza a `{{<T "WeightRecording" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílgombokat az `Átlagos napi súlygyarapodás` beállítási mező kiválasztásához. Használja a ◁ ▷ nyílgombokat a kívánt napi átlagos növekedés g/nap beállításához. A készülék mostantól az itt meghatározott napi átlagos gyarapodást használja az állatok várható napi gyarapodásának alapértelmezett értékeként.
+4. Használja a △ ▽ nyílgombokat az `{{<T "AverageDailyWeightGain" >}}` beállítási mező kiválasztásához. Használja a ◁ ▷ nyílgombokat a kívánt napi átlagos növekedés g/nap beállításához. A készülék mostantól az itt meghatározott napi átlagos gyarapodást használja az állatok várható napi gyarapodásának alapértelmezett értékeként.
 
     ![VitalControl: menü beállítások átlagos napi súlygyarapodás](../images/averagedailyweightgain.png "Átlagos napi súlygyarapodás")
 
@@ -130,18 +130,18 @@ Az alábbi táblázat bemutatja a súlyfelvétel pontosságát a súlytartomány
 Az állatok súlyának rögzítésekor a maximális pontosság beállításához kövesse az alábbi lépéseket:
 
 
-1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `Adatgyűjtés` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat a `{{<T "DataAcquisition" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Súlyfelvétel`, `Állat értékelése` és `Friss tehenek ellenőrzési időszaka` beállítási mezők között. Válassza a `Súlyfelvétel` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` és `{{<T "ControlPeriodFreshCows" >}}` beállítási mezők között. Válassza a `{{<T "WeightRecording" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-4. Használja a △ ▽ nyílgombokat a `Maximális pontosság` beállítási mező kiválasztásához. Használja a ◁ ▷ nyílgombokat a kívánt maximális pontosság beállításához. A készülék súlyfelvételének pontossága mostantól a megadott beállítást követi.
+4. Használja a △ ▽ nyílgombokat a `{{<T "MaximumPrecision" >}}` beállítási mező kiválasztásához. Használja a ◁ ▷ nyílgombokat a kívánt maximális pontosság beállításához. A készülék súlyfelvételének pontossága mostantól a megadott beállítást követi.
 
     ![VitalControl: menüútvonal beállítások maximális pontosság súlyfelvétel](../images/precisionweightrecording.png "A súlyfelvétel maximális pontosságának megadása.")
 
 <br>
-Mentse a beállításokat, és térjen vissza az `Adatgyűjtés` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
+Mentse a beállításokat, és térjen vissza az `{{<T "DataAcquisition" >}}` főmenübe az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
 
 ## Állatértékelési mód {#mode-of-animal-rating}
 
@@ -149,13 +149,13 @@ Mentse a beállításokat, és térjen vissza az `Adatgyűjtés` főmenübe az `
 Egyszerű módban az állatértékelés során csak az általános állapotot kérdezik le (zöld/sárga/piros). A kiterjesztett értékelés során 4 értékelési kategóriát kérdeznek le: általános állapot, takarmányfogyasztás, hasmenés és légzőszervi betegség.
 {{% /alert %}}
 
-Az `Állatok értékelése` beállításához a készülékén járjon el az alábbiak szerint.
+Az `{{<T "RatingAnimals" >}}` beállításához a készülékén járjon el az alábbiak szerint.
 
-1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Beállítások` menüpontot, és nyomja meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válassza ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` menüpontot, és nyomja meg az `{{<T "Ok" >}}` gombot.
 
-2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat az `Adatgyűjtés` kiválasztásához. Erősítse meg az `OK` gombbal.
+2. Megnyílik egy almenü, amelyben különböző beállítások jelennek meg. Használja a △ ▽ nyílgombokat az `{{<T "DataAcquisition" >}}` kiválasztásához. Erősítse meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `Súlyfelvétel`, `Állat értékelése` és `Friss tehenek ellenőrzési időszaka` beállítási mezők között. Válassza az `Állat értékelése` lehetőséget, és erősítse meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthat a `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` és `{{<T "ControlPeriodFreshCows" >}}` beállítási mezők között. Válassza az `{{<T "RatingAnimals" >}}` lehetőséget, és erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 
 4. Használja a ◁ ▷ nyílgombokat az állatok kívánt értékelésének beállításához.
@@ -170,11 +170,11 @@ A friss tehenek kezelésekor a legjobb gyakorlatok közé tartozik az állatok n
 
 Az ellenőrzési időszak hosszának beállításához a friss teheneid számára kövesd az alábbi lépéseket:
 
-1. A VitalControl készülék főképernyőjén válaszd ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, és nyomd meg az `OK` gombot.
+1. A VitalControl készülék főképernyőjén válaszd ki a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, és nyomd meg az `{{<T "Ok" >}}` gombot.
 
-2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használd a △ ▽ nyílgombokat a `Adatgyűjtés` kiválasztásához. Erősítsd meg az `OK` gombbal.
+2. Egy almenü nyílik meg, amelyben különböző beállítások jelennek meg. Használd a △ ▽ nyílgombokat a `{{<T "DataAcquisition" >}}` kiválasztásához. Erősítsd meg az `{{<T "Ok" >}}` gombbal.
 
-3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthatsz a `Súlyfelvétel`, `Állatok értékelése` és `Friss tehenek ellenőrzési időszaka` beállítási mezők között. Válaszd a `Friss tehenek ellenőrzési időszaka` lehetőséget, és erősítsd meg az `OK` gombbal.
+3. Egy másik almenü nyílik meg, amelyben a △ ▽ nyílgombokkal válthatsz a `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` és `{{<T "ControlPeriodFreshCows" >}}` beállítási mezők között. Válaszd a `{{<T "ControlPeriodFreshCows" >}}` lehetőséget, és erősítsd meg az `{{<T "Ok" >}}` gombbal.
 
 4. Használd a ◁ ▷ nyílgombokat az ellenőrzési időszak kívánt hosszának beállításához a szülés utáni napokban.
 
@@ -182,4 +182,4 @@ Az ellenőrzési időszak hosszának beállításához a friss teheneid számár
 
 <br>
 
-Mentsd el a beállításokat, és térj vissza a főmenübe <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.
+Mentsd el a beállításokat, és térj vissza a főmenübe <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` az `F1` gomb megnyomásával &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Mentés és visszatérés" />&nbsp;.

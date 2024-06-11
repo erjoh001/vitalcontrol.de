@@ -18,17 +18,17 @@ Los valores umbral para la temperatura corporal se almacenan aquí individualmen
 
 Para configurar los umbrales y rangos de temperatura en tu dispositivo procede de la siguiente manera:
 
-1. Desde la pantalla principal de tu dispositivo VitalControl, selecciona <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuraciones" /> `Ajustes` y presiona el botón `OK`.
+1. Desde la pantalla principal de tu dispositivo VitalControl, selecciona <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuraciones" /> `{{<T "Settings" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `Temperatura`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "Temperature" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los dos campos de configuración para `Valores umbrales`, `Hipotermia` y `Iluminación del ano`. Selecciona el campo de configuración de `Valores umbrales`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los dos campos de configuración para `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` y `{{<T "AnusSpotlighting" >}}`. Selecciona el campo de configuración de `{{<T "Thresholds" >}}`.
 
 4. Usa las teclas de flecha ◁ ▷ para seleccionar el umbral deseado.
 
 5. Usa el símbolo de la pluma con el <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Editar" /> tecla `F3` para establecer el valor del umbral de las áreas amarilla y roja. Usa las flechas △ ▽ para establecer la temperatura "mayor que" o "igual a". Usa las teclas `F2`/`F3` 🡄 🡆 o las flechas ◁ ▷ para seleccionar entre los rangos amarillo y rojo.
 
-6. Una vez que hayas establecido la temperatura "mayor que" o "igual a" deseada, usa la flecha de regreso con la tecla `F1` para volver al valor de `Umbral`.
+6. Una vez que hayas establecido la temperatura "mayor que" o "igual a" deseada, usa la flecha de regreso con la tecla `F1` para volver al valor de `{{<T "Thresholds" >}}`.
 
     ![VitalControl: configuraciones de menú umbral y rangos de temperatura](../images/threshold.png "Umbrales y Rangos de Temperatura")
 
@@ -39,11 +39,11 @@ Aquí estableces la temperatura medida a partir de la cual ocurre una temperatur
 
 Para configurar el valor umbral para la temperatura baja, procede de la siguiente manera:
 
-1. Desde la pantalla principal de tu dispositivo VitalControl, selecciona <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presiona el botón `OK`.
+1. Desde la pantalla principal de tu dispositivo VitalControl, selecciona <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `Temperatura`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "Temperature" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los dos campos de configuración para `Valores umbrales`, `Hipotermia` y `Iluminación del ano`. Selecciona el campo de configuración de `Hipotermia`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los dos campos de configuración para `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` y `{{<T "AnusSpotlighting" >}}`. Selecciona el campo de configuración de `{{<T "Undertemperature" >}}`.
 
 4. Usa las teclas de flecha ◁ ▷ para seleccionar el valor umbral deseado para la temperatura baja.
 
@@ -54,16 +54,16 @@ Para configurar el valor umbral para la temperatura baja, procede de la siguient
 Aquí puedes configurar si la luz debe activarse o desactivarse automáticamente durante la medición de fiebre.
 {{% /alert %}}
 
-Para desactivar o activar el foco anal durante la acción de `Temperatura`, procede de la siguiente manera:
+Para desactivar o activar el foco anal durante la acción de `{{<T "Temperature" >}}`, procede de la siguiente manera:
 
-1. Desde la pantalla principal de tu dispositivo VitalControl, selecciona <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presiona el botón `OK`.
+1. Desde la pantalla principal de tu dispositivo VitalControl, selecciona <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presiona el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `Temperatura`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "Temperature" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los dos campos de configuración para ``Valores umbrales`, `Hipotermia` y `Iluminación del ano`. Selecciona el campo de configuración de `Iluminación del ano`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los dos campos de configuración para ``{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` y `{{<T "AnusSpotlighting" >}}`. Selecciona el campo de configuración de `{{<T "AnusSpotlighting" >}}`.
 
 4. Usa las teclas de flecha ◁ ▷ para desactivar o activar el foco anal.
 
     ![VitalControl: configuraciones del menú foco anal](../images/anusspotlight.png "Foco anal")
 
-Guarda la configuración y regresa al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
+Guarda la configuración y regresa al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.

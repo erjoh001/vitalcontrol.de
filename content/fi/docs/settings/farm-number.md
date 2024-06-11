@@ -18,10 +18,10 @@ Maatilan numeron syöttäminen koskee tällä hetkellä vain saksalaisia viljeli
 
 Maatilasi numeron asettamiseksi laitteeseesi, toimi seuraavasti:
 
-1. Avaa valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` VitalControl-laitteesi päävalikosta.
+1. Avaa valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` VitalControl-laitteesi päävalikosta.
 
-2. Kutsu alavalikko `Maatilan numero`. Näkyviin tulee syöttömaski, jossa voit kätevästi asettaa maatilasi numeron. Aloita käyttämällä nuolinäppäimiä navigoidaksesi syöttökentän vasempaan reunaan ja valitse maasi. Tämän jälkeen käytä nuolinäppäimiä syöttääksesi kaksitoistamerkkisen maatilasi numeron.
+2. Kutsu alavalikko `{{<T "PremisesIDNumber" >}}`. Näkyviin tulee syöttömaski, jossa voit kätevästi asettaa maatilasi numeron. Aloita käyttämällä nuolinäppäimiä navigoidaksesi syöttökentän vasempaan reunaan ja valitse maasi. Tämän jälkeen käytä nuolinäppäimiä syöttääksesi kaksitoistamerkkisen maatilasi numeron.
 
    ![VitalControl: Valikkopolku maatilasi numeron asettamiseksi](../images/farm-number.png "Maatilasi numeron asettaminen")
 
-3. Vahvista `OK`:lla heti kun olet syöttänyt 12-numeroisen järjestyksen oikein. Maatilasi numero on nyt pysyvästi tallennettu laitteeseen.
+3. Vahvista `{{<T "Ok" >}}`:lla heti kun olet syöttänyt 12-numeroisen järjestyksen oikein. Maatilasi numero on nyt pysyvästi tallennettu laitteeseen.

@@ -18,17 +18,17 @@ Kehon lämpötilan kynnysarvot tallennetaan täällä erikseen eläinlajeille va
 
 Laitteesi kynnysarvojen ja lämpötila-alueiden asettaminen tapahtuu seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteesi päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Lämpötila`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Temperature" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi kahden asetusalueen `Kynnysarvot`, `Alilämpö` ja `Mittauskohteen valo` välillä. Valitse `Kynnysarvot`-asetuskenttä.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi kahden asetusalueen `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` ja `{{<T "AnusSpotlighting" >}}` välillä. Valitse `{{<T "Thresholds" >}}`-asetuskenttä.
 
 4. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi kynnysarvon.
 
 5. Käytä kynäsymbolia <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokkaa" /> `F3`-näppäintä asettaaksesi keltaisen ja punaisen alueen kynnysarvon. Käytä nuolia △ ▽ asettaaksesi halutun "suurempi kuin" tai "yhtä suuri kuin" lämpötilan. Käytä näppäimiä `F2`/`F3` 🡄 🡆 tai nuolinäppäimiä ◁ ▷ valitaksesi keltaisen ja punaisen alueen välillä.
 
-6. Kun olet asettanut halutun "suurempi kuin" tai "yhtä suuri kuin" lämpötilan, käytä takaisin-nuolta `F1`-näppäimellä palataksesi takaisin `Kynnysarvo`-arvoon.
+6. Kun olet asettanut halutun "suurempi kuin" tai "yhtä suuri kuin" lämpötilan, käytä takaisin-nuolta `F1`-näppäimellä palataksesi takaisin `{{<T "Thresholds" >}}`-arvoon.
 
     ![VitalControl: valikkoasetukset kynnysarvot & lämpötila-alueet](../images/threshold.png "Kynnysarvot & Lämpötila-alueet")
 
@@ -39,11 +39,11 @@ Tässä asetat mitatun lämpötilan, josta Alilämpö ilmenee. Kuumeen mittaukse
 
 Toimi seuraavasti asettaaksesi kynnysarvon Alilämpölle:
 
-1. Valitse VitalControl-laitteesi päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-nappia.
+1. Valitse VitalControl-laitteesi päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Lämpötila`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Temperature" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi kahden asetusalueen, `Kynnysarvot`, `Alilämpö` ja `Peräsuolen valokeila`, välillä. Valitse `Alilämpö`-asetusalue.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi kahden asetusalueen, `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` ja `{{<T "AnusSpotlighting" >}}`, välillä. Valitse `{{<T "Undertemperature" >}}`-asetusalue.
 
 4. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi kynnysarvo Alilämpölle.
 
@@ -54,16 +54,16 @@ Toimi seuraavasti asettaaksesi kynnysarvon Alilämpölle:
 Tässä voit asettaa, tuleeko valon olla automaattisesti päällä tai pois päältä kuumeen mittauksen aikana.
 {{% /alert %}}
 
-Toimi seuraavasti ottaaksesi käyttöön tai poistaaksesi käytöstä peräsuolen valokeilan `Lämpötila`-toiminnon aikana:
+Toimi seuraavasti ottaaksesi käyttöön tai poistaaksesi käytöstä peräsuolen valokeilan `{{<T "Temperature" >}}`-toiminnon aikana:
 
-1. Valitse VitalControl-laitteesi päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-nappia.
+1. Valitse VitalControl-laitteesi päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Lämpötila`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Temperature" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi kahden asetusalueen, `Kynnysarvot`, `Alilämpö` ja `Peräsuolen valokeila`, välillä. Valitse `Peräsuolen valokeila`-asetusalue.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi kahden asetusalueen, `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` ja `{{<T "AnusSpotlighting" >}}`, välillä. Valitse `{{<T "AnusSpotlighting" >}}`-asetusalue.
 
 4. Käytä nuolinäppäimiä ◁ ▷ ottaaksesi käyttöön tai poistaaksesi käytöstä peräsuolen valokeilan.
 
     ![VitalControl: valikkoasetukset peräsuolen valokeila](../images/anusspotlight.png "Peräsuolen valokeila")
 
-Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.

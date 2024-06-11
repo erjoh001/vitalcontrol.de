@@ -14,7 +14,7 @@ translationKey: settings/language
  
 Oma VitalControl seadme keele seadistamiseks toimi järgnevalt:
 
-1. `Vali` peamenüüst <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` oma VitalControl seadmel ja vajuta `OK`.
+1. `{{<T "Select" >}}` peamenüüst <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` oma VitalControl seadmel ja vajuta `{{<T "Ok" >}}`.
 
 1. Avaneb alammenüü, kus kuvatakse ülaosas praegune keel. Kasuta nooleklahve ◁ ▷ soovitud keele valimiseks. Kasutusjuhendi keel muutub kohe, kui valite teise keele.
 

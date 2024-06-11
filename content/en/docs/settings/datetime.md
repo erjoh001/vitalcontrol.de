@@ -18,13 +18,13 @@ Make sure the date and time are set correctly. Otherwise, the timestamps of the 
 
 To set the date on your device, follow these steps:
 
-1. On the main screen of your VitalControl device, select the menu option <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu option <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Date & Time`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `{{<T "DateTime" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Date` and `Time`. Select the `Date` settings field.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `{{<T "Date" >}}` and `{{<T "Time" >}}`. Select the `{{<T "Date" >}}` settings field.
 
-4. Press `OK` key or use `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> key to switch to setting mode. Now you can set the day using the arrow keys △ ▽. The button `F3` 🡆 takes you to the month setting. Alternatively, you can confirm with `OK`. Use the arrow keys △ ▽ here as well. Click `F3` 🡆 again to go to year setting. Now use the arrow keys △ ▽ for adjustment of year. Confirm with `Ok` as soon as the date is set correctly.
+4. Press `{{<T "Ok" >}}` key or use `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> key to switch to setting mode. Now you can set the day using the arrow keys △ ▽. The button `F3` 🡆 takes you to the month setting. Alternatively, you can confirm with `{{<T "Ok" >}}`. Use the arrow keys △ ▽ here as well. Click `F3` 🡆 again to go to year setting. Now use the arrow keys △ ▽ for adjustment of year. Confirm with `{{<T "Ok" >}}` as soon as the date is set correctly.
 
     ![VitalControl: menu settings date](../images/date.png "To set the date")
 
@@ -32,14 +32,14 @@ To set the date on your device, follow these steps:
 
 To set the time on your device, follow these steps:
 
-1. On the main screen of your VitalControl device, select the menu option <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
+1. On the main screen of your VitalControl device, select the menu option <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Date & Time`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `{{<T "DateTime" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `Date` and `Time`. Select the `Date` settings field.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the two setting fields for `{{<T "Date" >}}` and `{{<T "Time" >}}`. Select the `{{<T "Date" >}}` settings field.
 
-4. Press `OK` key or use `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> key to switch to setting mode. Now you can set the day using the arrow keys △ ▽. The button `F3` 🡆  takes you to the minute setting. Alternatively, you can confirm with `OK`. Now use the arrow keys △ ▽ for adjustment of minutes. Once the time is set correctly, confirm with `Ok`.
+4. Press `{{<T "Ok" >}}` key or use `F3` <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> key to switch to setting mode. Now you can set the day using the arrow keys △ ▽. The button `F3` 🡆  takes you to the minute setting. Alternatively, you can confirm with `{{<T "Ok" >}}`. Now use the arrow keys △ ▽ for adjustment of minutes. Once the time is set correctly, confirm with `{{<T "Ok" >}}`.
 
     ![VitalControl: menu settings time](../images/time.png "To set the time")
 
-Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

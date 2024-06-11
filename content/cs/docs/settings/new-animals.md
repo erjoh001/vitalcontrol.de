@@ -16,18 +16,18 @@ translationKey: settings/new-animals
 
 Zde definujete, která hmotnost je zaznamenána a uložena při vytváření nových zvířat na vaší farmě. Pro nastavení zaznamenané hmotnosti na vašem zařízení postupujte následovně.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Výchozí hodnoty` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "DefaultValues" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Oblast `Zaznamenaná hmotnost` je automaticky vybrána. Pomocí šipek ◁ ▷ vyberte hmotnost, která má být zaznamenána.
+4. Oblast `{{<T "WeightRecorded" >}}` je automaticky vybrána. Pomocí šipek ◁ ▷ vyberte hmotnost, která má být zaznamenána.
 
     ![VitalControl: menu settings Set recorded weight(s)](../images/recordweights.png "Nastavení zaznamenané hmotnosti")
 
 {{% alert title="Tip" %}}
- Vyberte `žádná`, pokud: zvířata jsou vytvářena automaticky na pozadí (přes skenování transpondéru), na farmě není k dispozici váha a nejsou požadovány odhadované hodnoty, porodní hmotnosti nejsou známy.
+ Vyberte `{{<T "None" >}}`, pokud: zvířata jsou vytvářena automaticky na pozadí (přes skenování transpondéru), na farmě není k dispozici váha a nejsou požadovány odhadované hodnoty, porodní hmotnosti nejsou známy.
 {{% /alert %}}
 
 ### Nastavení věku při registraci {#set-age-at-registration}
@@ -37,13 +37,13 @@ Na základě zde zadaného věku zařízení vypočítá datum narození, které
 
 K nastavení věku při vytvoření na vašem zařízení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Výchozí hodnoty` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "DefaultValues" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte `Věk při registraci`.
+4. Pomocí šipek △ ▽ vyberte `{{<T "AgeRegistration" >}}`.
 
 5. Pomocí šipek ◁ ▷ nastavte věk při vytvoření.
 
@@ -53,13 +53,13 @@ K nastavení věku při vytvoření na vašem zařízení postupujte následovn�
 
 Zde definujete, které pohlaví je navrženo (ruční vytvoření) nebo automaticky převzato (vytvoření na pozadí). Pro definování pohlaví při registraci zvířete na vašem zařízení postupujte následovně.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Výchozí hodnoty` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "DefaultValues" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte `Pohlaví`.
+4. Pomocí šipek △ ▽ vyberte `{{<T "Sex" >}}`.
 
 5. Pomocí šipek ◁ ▷ nastavte pohlaví při vytvoření.
 
@@ -69,14 +69,14 @@ Zde definujete, které pohlaví je navrženo (ruční vytvoření) nebo automati
 
 Zde definujete, který typ zvířete je zaznamenán při vytváření nových zvířat na vaší farmě. Pro definování typu zvířete při jeho vytvoření na vašem zařízení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Výchozí hodnoty` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "DefaultValues" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte `Typ zvířete`.
+4. Pomocí šipek △ ▽ vyberte `{{<T "TypeAnimal" >}}`.
 
 5. Pomocí šipek ◁ ▷ nastavte typ zvířete při vytváření.
 
@@ -86,13 +86,13 @@ Zde definujete, který typ zvířete je zaznamenán při vytváření nových zv
 
 Zde definujete, které plemeno hospodářských zvířat je zaznamenáno při vytváření nových zvířat na vaší farmě. Chcete-li definovat plemeno při vytváření na vašem zařízení, postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Výchozí hodnoty` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "DefaultValues" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte `Plemeno`.
+4. Pomocí šipek △ ▽ vyberte `{{<T "Breed" >}}`.
 
 5. Pomocí šipek ◁ ▷ nastavte plemeno při vytváření.
 
@@ -102,20 +102,20 @@ Zde definujete, které plemeno hospodářských zvířat je zaznamenáno při vy
 
 Zde definujete, které umístění je přiřazeno zvířatům při vytváření nových hospodářských zvířat. Chcete-li definovat umístění hospodářského zvířete při jeho vytváření na vašem zařízení, postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Výchozí hodnoty` a potvrďte `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "DefaultValues" >}}` a potvrďte `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte `Poloha`.
+4. Pomocí šipek △ ▽ vyberte `{{<T "Whereabouts" >}}`.
 
 5. Pomocí šipek ◁ ▷ nastavte polohu při vytváření.
 
     ![VitalControl: nastavení menu poloha](../images/whereabout.png "poloha")
 
-Uložte nastavení a vraťte se do hlavního menu `Nastavení` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+Uložte nastavení a vraťte se do hlavního menu `{{<T "Settings" >}}` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
 ## Automatická registrace {#auto-registration}
 
@@ -127,13 +127,13 @@ Když uživatel potvrdí vytvoření zvířat, zobrazí se vstupní obrazovka, n
 
 Chcete-li definovat chování při automatickém vytváření uživatelských zvířat na vašem zařízení, postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém se zobrazí různá nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte `OK`.
+2. Otevře se podmenu, ve kterém se zobrazí různá nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Automatická registrace` a potvrďte `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "AutoRegistration" >}}` a potvrďte `{{<T "Ok" >}}`.
 
-4. Pole předvoleb `Automatická registrace` je vybráno automaticky. Pomocí šipek ◁ ▷ určete chování zařízení při vytváření nových zvířat.
+4. Pole předvoleb `{{<T "AutoRegistration" >}}` je vybráno automaticky. Pomocí šipek ◁ ▷ určete chování zařízení při vytváření nových zvířat.
 
 
 
@@ -149,37 +149,37 @@ Vyberte možnost "Po sobě jdoucí", pokud je číslo stání, které používá
 
 Pro definování přiřazení ID zvířete při vytváření farmářského zvířete na vašem zařízení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Automatická registrace` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "AutoRegistration" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte `Přiřazení ID zvířete`.
+4. Pomocí šipek △ ▽ vyberte `{{<T "AssignmentIDs" >}}`.
 
 5. Pomocí šipek ◁ ▷ nastavte přiřazení ID zvířete pracovního zvířete při vytváření.
 
-6. Pokud vyberete nastavení `Po sobě jdoucí`, máte možnost specifikovat `Další ID zvířete`. Pomocí šipek △ ▽ vyberte oblast `Další ID zvířete` a potvrďte stisknutím `OK`. V rámci oblasti navigujte pomocí šipek ◁ ▷. Nyní můžete pomocí šipek △ ▽ vybrat číslo. Zařízení nyní automaticky použije toto číslo pro zahájení nepřetržitého počítání odtud. Dále můžete nastavit, zda mají být čísla počítána nepřetržitě vzestupně nebo nepřetržitě sestupně. K tomu použijte šipky ◁ ▷ k přechodu na symbol 9/1. Pomocí šipek △ ▽ přepínejte mezi nepřetržitým vzestupným nebo nepřetržitým sestupným počítáním. Uložte nastavení pomocí klávesy `F1` nebo `OK` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+6. Pokud vyberete nastavení `{{<T "Consecutive >}}`, máte možnost specifikovat `{{<T "NextAnimalID" >}}`. Pomocí šipek △ ▽ vyberte oblast `{{<T "NextAnimalID" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. V rámci oblasti navigujte pomocí šipek ◁ ▷. Nyní můžete pomocí šipek △ ▽ vybrat číslo. Zařízení nyní automaticky použije toto číslo pro zahájení nepřetržitého počítání odtud. Dále můžete nastavit, zda mají být čísla počítána nepřetržitě vzestupně nebo nepřetržitě sestupně. K tomu použijte šipky ◁ ▷ k přechodu na symbol 9/1. Pomocí šipek △ ▽ přepínejte mezi nepřetržitým vzestupným nebo nepřetržitým sestupným počítáním. Uložte nastavení pomocí klávesy `F1` nebo `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
 ![VitalControl: menu nastavení přiřazení ID zvířete](../images/assignmentanimalid2.png "Přiřazení ID zvířete")
 
 ![VitalControl: menu nastavení přiřazení ID zvířete](../images/assignmentanimalid3.png "přiřazení ID zvířete")
 
 {{% alert title = "Tip" %}}
-Pouze při použití možnosti `Po sobě jdoucí`: pokud jste nastavili použití samostatných číselných rozsahů pro samčí a samičí zvířata při přiřazování čísla ušní známky, je uloženo další číslo zvířete pro každé z nich: samčí, samičí a zvířata neznámého pohlaví. Symbol umístěný vlevo od čísla zvířete označuje, pro co je další číslo zvířete použito: buď pro samčí ♀ nebo pro samičí ♂ nebo pro zvířata neznámého pohlaví ♀♂?
+Pouze při použití možnosti `{{<T "Consecutive >}}`: pokud jste nastavili použití samostatných číselných rozsahů pro samčí a samičí zvířata při přiřazování čísla ušní známky, je uloženo další číslo zvířete pro každé z nich: samčí, samičí a zvířata neznámého pohlaví. Symbol umístěný vlevo od čísla zvířete označuje, pro co je další číslo zvířete použito: buď pro samčí ♀ nebo pro samičí ♂ nebo pro zvířata neznámého pohlaví ♀♂?
 {{% /alert %}}
 
 ### Číslice nového ID {#digit-of-the-new-id}
 
 Zde definujete, jakou délku má mít číslo stáje odvozené z čísla transpondéru pro nové zvíře ve vaší farmě. Možný rozsah hodnot je od 2 do 6 číslic. Pro definování délky nového ID hospodářského zvířete na vašem zařízení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Automatická registrace` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "AutoRegistration" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte `Přiřazení ID zvířete`.
+4. Pomocí šipek △ ▽ vyberte `{{<T "AssignmentIDs" >}}`.
 
 5. Pomocí šipek ◁ ▷ nastavte číslici nového ID pracovního zvířete při vytváření.
 
@@ -196,35 +196,35 @@ Pro grafické znázornění účinku nastavených parametrů je pod řádkem pro
 
 Pro nastavení offsetu napravo od zvířete na vašem zařízení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Automatická registrace` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "AutoRegistration" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte `Pravý offset`.
+4. Pomocí šipek △ ▽ vyberte `{{<T "OffsetRight" >}}`.
 
 5. Pomocí šipek ◁ ▷ nastavte pravou offsetovou oblast pracovního zvířete při vytváření.
 
     ![VitalControl: nastavení menu pravý offset](../images/rightoffset.png "pravý offset")
 
-Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
 ## Přiřazení čísla ušní známky {#assignment-ear-tag-number}
 
 Zde definujete, zda se při přiřazování čísla ušní známky během ručního přeregistrace zvířat používá jeden nebo dva číselné rozsahy. Pro definování přiřazení čísla ušní známky hospodářského zvířete na vašem zařízení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte klávesu `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte klávesu `{{<T "Ok" >}}`.
 
 
-2. Otevře se podnabídka, ve které jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Registrace zvířat`. Potvrďte stisknutím `OK`.
+2. Otevře se podnabídka, ve které jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "RegistrationAnimals" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podnabídka, ve které můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `Výchozí hodnoty`, `Automatická registrace` a `Přiřazení čísla ušní známky`. Vyberte `Přiřazení čísla ušní známky` a potvrďte stisknutím `OK`.
+3. Otevře se další podnabídka, ve které můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` a `{{<T "AssignmentEartagNr" >}}`. Vyberte `{{<T "AssignmentEartagNr" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Pomocí šipek ◁ ▷ přiřaďte číslo ušní známky pracovního zvířete při vytváření.
 
     ![VitalControl: nastavení menu Přiřazení čísla ušní známky](../images/assignmenteartagnumber.png "Přiřazení čísla ušní známky")
 
-Uložte nastavení a vraťte se do hlavního menu `Registrace zvířat` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+Uložte nastavení a vraťte se do hlavního menu `{{<T "RegistrationAnimals" >}}` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
-Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.

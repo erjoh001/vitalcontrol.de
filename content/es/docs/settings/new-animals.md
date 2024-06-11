@@ -16,18 +16,18 @@ translationKey: settings/new-animals
 
 Aquí defines qué peso se registra y guarda al crear nuevos animales en tu granja. Para configurar el peso registrado en tu dispositivo, procede de la siguiente manera.
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presiona la tecla `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presiona la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `Registrar animales`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Valores por defecto`, `Autoregistro` y `Asignación de número de la marca auricular`. Selecciona `Valores por defecto` y confirma con `OK`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Selecciona `{{<T "DefaultValues" >}}` y confirma con `{{<T "Ok" >}}`.
 
-4. El área de `Peso(s) registrado(s)` se selecciona automáticamente. Usa las teclas de flecha ◁ ▷ para seleccionar el peso a capturar.
+4. El área de `{{<T "WeightRecorded" >}}` se selecciona automáticamente. Usa las teclas de flecha ◁ ▷ para seleccionar el peso a capturar.
 
     ![VitalControl: ajustes del menú Configurar peso(s) registrado(s)](../images/recordweights.png "Configurar peso(s) registrado(s)")
 
 {{% alert title="Consejo" %}}
- Selecciona `ninguno` si: los animales se crean automáticamente en segundo plano (mediante escaneo de transpondedor), no hay una báscula disponible en la granja y no se desean valores estimados, los pesos al nacer son desconocidos.
+ Selecciona `{{<T "None" >}}` si: los animales se crean automáticamente en segundo plano (mediante escaneo de transpondedor), no hay una báscula disponible en la granja y no se desean valores estimados, los pesos al nacer son desconocidos.
 {{% /alert %}}
 
 ### Configurar edad al registrarse {#set-age-at-registration}
@@ -37,13 +37,13 @@ Basado en la edad ingresada aquí, el dispositivo calcula la fecha de nacimiento
 
 Para configurar la edad al crear en su dispositivo, proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presione la tecla `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presione la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios ajustes. Utilice las teclas de flecha △ ▽ para seleccionar `Registrar animales`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varios ajustes. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Valores por defecto`, `Autoregistro` y `Asignación de número de la marca auricular`. Seleccione `Valores por defecto` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Seleccione `{{<T "DefaultValues" >}}` y confirme con `{{<T "Ok" >}}`.
 
-4. Utilice las teclas de flecha △ ▽ para seleccionar la `Edad (ternero/cordero)`.
+4. Utilice las teclas de flecha △ ▽ para seleccionar la `{{<T "AgeRegistration" >}}`.
 
 5. Utilice las teclas de flecha ◁ ▷ para establecer la edad al crear.
 
@@ -54,13 +54,13 @@ Para configurar la edad al crear en su dispositivo, proceda de la siguiente mane
 Aquí define qué sexo se sugiere (creación manual) o se adopta automáticamente (creación en el
 fondo). Para definir el sexo al registrar un animal en su dispositivo, proceda de la siguiente manera.
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presione la tecla `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presione la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios ajustes. Utilice las teclas de flecha △ ▽ para seleccionar `Registrar animales`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varios ajustes. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Valores por defecto`, `Autoregistro` y `Asignación de número de la marca auricular`. Seleccione `Valores por defecto` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Seleccione `{{<T "DefaultValues" >}}` y confirme con `{{<T "Ok" >}}`.
 
-4. Utilice las teclas de flecha △ ▽ para seleccionar el `Sexo`.
+4. Utilice las teclas de flecha △ ▽ para seleccionar el `{{<T "Sex" >}}`.
 
 5. Utilice las teclas de flecha ◁ ▷ para establecer el sexo al crear.
 
@@ -70,13 +70,13 @@ fondo). Para definir el sexo al registrar un animal en su dispositivo, proceda d
 
 Aquí define qué tipo de animal se registra al crear nuevos animales en su granja. Para definir el tipo de animal al crearlo en su dispositivo, proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presione la tecla `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presione la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios ajustes. Utiliza las flechas △ ▽ para seleccionar `Registrar animales`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varios ajustes. Utiliza las flechas △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las flechas △ ▽ para alternar entre los campos de ajuste para `Valores por defecto`, `Autoregistro` y `Asignación de número de arete`. Selecciona `Valores por defecto` y confirma con `OK`.
+3. Se abre otro submenú en el que puedes usar las flechas △ ▽ para alternar entre los campos de ajuste para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Selecciona `{{<T "DefaultValues" >}}` y confirma con `{{<T "Ok" >}}`.
 
-4. Utiliza las flechas △ ▽ para seleccionar el `Tipo de ganado`.
+4. Utiliza las flechas △ ▽ para seleccionar el `{{<T "TypeAnimal" >}}`.
 
 5. Utiliza las flechas ◁ ▷ para establecer el tipo de animal al crear.
 
@@ -86,13 +86,13 @@ Aquí define qué tipo de animal se registra al crear nuevos animales en su gran
 
 Aquí defines qué raza del ganado se registra al crear nuevos animales en tu granja. Para definir la raza al crear en tu dispositivo, procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Ajustes" /> `Ajustes` y presiona la tecla `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Ajustes" /> `{{<T "Settings" >}}` y presiona la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios ajustes. Utiliza las flechas △ ▽ para seleccionar `Registrar animales`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varios ajustes. Utiliza las flechas △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las flechas △ ▽ para alternar entre los campos de ajuste para `Valores por defecto`, `Autoregistro` y `Asignación de número de arete`. Selecciona `Valores por defecto` y confirma con `OK`.
+3. Se abre otro submenú en el que puedes usar las flechas △ ▽ para alternar entre los campos de ajuste para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Selecciona `{{<T "DefaultValues" >}}` y confirma con `{{<T "Ok" >}}`.
 
-4. Utiliza las flechas △ ▽ para seleccionar `Raza`.
+4. Utiliza las flechas △ ▽ para seleccionar `{{<T "Breed" >}}`.
 
 5. Utiliza las flechas ◁ ▷ para establecer la raza al crear.
 
@@ -102,19 +102,19 @@ Aquí defines qué raza del ganado se registra al crear nuevos animales en tu gr
 
 Aquí defines qué ubicaciones se asignan a los animales al crear nuevos animales de granja. Para definir la ubicación del animal de granja cuando se crea en tu dispositivo, procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Ajustes" /> `Ajustes` y presiona la tecla `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Ajustes" /> `{{<T "Settings" >}}` y presiona la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios ajustes. Utiliza las flechas △ ▽ para seleccionar `Registrar animales`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varios ajustes. Utiliza las flechas △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para cambiar entre los campos de configuración para `Valores por defecto`, `Autoregistro` y `Número de etiqueta de oreja`. Selecciona `Valores por defecto` y confirma con `OK`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para cambiar entre los campos de configuración para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Selecciona `{{<T "DefaultValues" >}}` y confirma con `{{<T "Ok" >}}`.
 
-4. Usa las teclas de flecha △ ▽ para seleccionar `Desarrollo de peso`.
+4. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "Whereabouts" >}}`.
 
 5. Usa las teclas de flecha ◁ ▷ para establecer el paradero al crear.
 
     ![VitalControl: ajustes del menú paradero](../images/whereabout.png "paradero")
 
-Guarda los ajustes y regresa al menú principal `Ajustes` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
+Guarda los ajustes y regresa al menú principal `{{<T "Settings" >}}` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
 
 ## Autoregistro {#auto-registration}
 
@@ -126,13 +126,13 @@ Cuando el usuario confirma la creación de animales, aparece una pantalla de ent
 
 Para definir el comportamiento cuando el animal del usuario se crea automáticamente en tu dispositivo, procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Ajustes" /> `Ajustes` y presiona la tecla `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Ajustes" /> `{{<T "Settings" >}}` y presiona la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios ajustes. Usa las teclas de flecha △ ▽ para seleccionar `Registrar animales`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varios ajustes. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para cambiar entre los campos de configuración para `Valores por defecto`, `Autoregistro` y `Número de etiqueta de oreja`. Selecciona `Autoregistro` y confirma con `OK`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para cambiar entre los campos de configuración para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Selecciona `{{<T "AutoRegistration" >}}` y confirma con `{{<T "Ok" >}}`.
 
-4. El campo de preferencia `Autoregistro` se selecciona automáticamente. Usa las teclas de flecha ◁ ▷ para determinar el comportamiento del dispositivo al crear nuevos animales.
+4. El campo de preferencia `{{<T "AutoRegistration" >}}` se selecciona automáticamente. Usa las teclas de flecha ◁ ▷ para determinar el comportamiento del dispositivo al crear nuevos animales.
 
 ![VitalControl: configuración del menú Autoregistro](../images/autoregistration.png "Autoregistro")
 
@@ -146,37 +146,37 @@ Selecciona la opción "Consecutivo" si el número de establo que usas para la id
 
 Para definir la asignación de la ID de animal al crear el animal de granja en tu dispositivo, procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Ajustes` y presiona la tecla `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `{{<T "Settings" >}}` y presiona la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `Registrar animales`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Valores por defecto`, `Autoregistro` y `Asignación del número de la marca auricular`. Selecciona `Autoregistro` y confirma con `OK`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Selecciona `{{<T "AutoRegistration" >}}` y confirma con `{{<T "Ok" >}}`.
 
-4. Usa las teclas de flecha △ ▽ para seleccionar `Asignación de ID de animal`.
+4. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "AssignmentIDs" >}}`.
 
 5. Usa las teclas de flecha ◁ ▷ para establecer la asignación de la ID de animal del animal de trabajo al crear.
 
-6. Si seleccionas la configuración `Consecutivo`, tienes la opción de especificar la `Derivación del No de tranpondedor`. Usa las teclas de flecha △ ▽ para seleccionar el área de `Derivación del No de tranpondedor` y confirma con `OK`. Navega dentro del área usando las teclas de flecha ◁ ▷. Ahora puedes seleccionar un número usando las teclas de flecha △ ▽. El dispositivo ahora usará automáticamente este número para comenzar el conteo continuo desde allí. Además, puedes configurar si los números deben contarse de manera continuamente creciente o continuamente decreciente. Para hacerlo, usa las teclas de flecha ◁ ▷ para ir al símbolo 9/1. Usa las teclas de flecha △ ▽ para alternar entre contar de manera continuamente creciente o continuamente decreciente. Guarda la configuración usando la tecla `F1` o `OK` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
+6. Si seleccionas la configuración `{{<T "Consecutive >}}`, tienes la opción de especificar la `{{<T "NextAnimalID" >}}`. Usa las teclas de flecha △ ▽ para seleccionar el área de `{{<T "NextAnimalID" >}}` y confirma con `{{<T "Ok" >}}`. Navega dentro del área usando las teclas de flecha ◁ ▷. Ahora puedes seleccionar un número usando las teclas de flecha △ ▽. El dispositivo ahora usará automáticamente este número para comenzar el conteo continuo desde allí. Además, puedes configurar si los números deben contarse de manera continuamente creciente o continuamente decreciente. Para hacerlo, usa las teclas de flecha ◁ ▷ para ir al símbolo 9/1. Usa las teclas de flecha △ ▽ para alternar entre contar de manera continuamente creciente o continuamente decreciente. Guarda la configuración usando la tecla `F1` o `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
 
 ![VitalControl: configuración del menú asignación de ID de animal](../images/assignmentanimalid2.png "Asignación de ID de animal")
 
 ![VitalControl: configuración del menú asignación de ID de animal](../images/assignmentanimalid3.png "asignación de ID de animal")
 
 {{% alert title = "Consejo" %}}
-Solo al usar la opción `Consecutivo`: si has configurado usar rangos de números separados para animales machos y hembras al asignar el número de etiqueta de oreja, se almacena un número de animal siguiente para cada uno de machos, hembras y animales de sexo desconocido. Un símbolo colocado a la izquierda del número de animal indica para qué se usa el siguiente número de animal: ¿para macho ♀ o para hembra ♂ o para animales de sexo desconocido ♀♂?
+Solo al usar la opción `{{<T "Consecutive >}}`: si has configurado usar rangos de números separados para animales machos y hembras al asignar el número de etiqueta de oreja, se almacena un número de animal siguiente para cada uno de machos, hembras y animales de sexo desconocido. Un símbolo colocado a la izquierda del número de animal indica para qué se usa el siguiente número de animal: ¿para macho ♀ o para hembra ♂ o para animales de sexo desconocido ♀♂?
 {{% /alert %}}
 
 ### Dígito del nuevo ID {#digit-of-the-new-id}
 
 Aquí defines la longitud que tiene un número de granero derivado del número de transpondedor para un nuevo animal en tu granja. El rango de valores posible es de 2 a 6 dígitos. Para definir la longitud del nuevo ID del animal de granja en tu dispositivo procede de la siguiente manera:
 
-1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Ajustes` y presiona la tecla `OK`.
+1. En la pantalla principal de tu dispositivo VitalControl, selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `{{<T "Settings" >}}` y presiona la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `Registrar animales`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Valores por defecto`, `Autoregistro` y `Asignación del número de la marca auricular`. Selecciona `Autoregistro` y confirma con `OK`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Selecciona `{{<T "AutoRegistration" >}}` y confirma con `{{<T "Ok" >}}`.
 
-4. Usa las teclas de flecha △ ▽ para seleccionar `Digitos de ID nueva`.
+4. Usa las teclas de flecha △ ▽ para seleccionar `{{<T "AssignmentIDs" >}}`.
 
 5. Usa las teclas de flecha ◁ ▷ para establecer el dígito del nuevo ID del animal de trabajo al crear.
 
@@ -192,34 +192,34 @@ Para ilustrar gráficamente el efecto de los parámetros establecidos, se muestr
 
 Para configurar el desplazamiento a la derecha del animal en su dispositivo, proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Configuración` y presione la tecla `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `{{<T "Settings" >}}` y presione la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios ajustes. Utilice las teclas de flecha △ ▽ para seleccionar `Registrar animales`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varios ajustes. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de ajuste para `Valores por defecto`, `Autoregistro` y `Asignación del número de la marca auricular`. Seleccione `Autoregistro` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de ajuste para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Seleccione `{{<T "AutoRegistration" >}}` y confirme con `{{<T "Ok" >}}`.
 
-4. Utilice las teclas de flecha △ ▽ para seleccionar `Compensación derecha`.
+4. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "OffsetRight" >}}`.
 
 5. Utilice las teclas de flecha ◁ ▷ para establecer el área de desplazamiento derecho del animal de trabajo al crear.
 
     ![VitalControl: ajustes del menú desplazamiento derecho](../images/rightoffset.png "desplazamiento derecho")
 
-Guarde los ajustes y regrese al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Configuración` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
+Guarde los ajustes y regrese al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `{{<T "Settings" >}}` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
 
 ## Asignación del número de la marca auricular {#assignment-ear-tag-number}
 
 Aquí define si se utilizan uno o dos rangos de números al asignar el número de etiqueta de oreja en el curso del re-registro manual de animales. Para definir la asignación del número de etiqueta de oreja del animal de granja en su dispositivo, proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Ajustes` y presione la tecla `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `{{<T "Settings" >}}` y presione la tecla `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varios ajustes. Utiliza las teclas de flecha △ ▽ para seleccionar `Registrar animales`. Confirma con `OK`.
+2. Se abre un submenú en el que se muestran varios ajustes. Utiliza las teclas de flecha △ ▽ para seleccionar `{{<T "RegistrationAnimals" >}}`. Confirma con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los campos de ajuste para `Valores por defecto`, `Autoregistro` y `Asignación del número de la marca auricular`. Selecciona `Asignación del número de la marca auricular` y confirma con `OK`.
+3. Se abre otro submenú en el que puedes usar las teclas de flecha △ ▽ para alternar entre los campos de ajuste para `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` y `{{<T "AssignmentEartagNr" >}}`. Selecciona `{{<T "AssignmentEartagNr" >}}` y confirma con `{{<T "Ok" >}}`.
 
 4. Utiliza las teclas de flecha ◁ ▷ para asignar el número de arete al animal de trabajo al crear.
 
     ![VitalControl: ajustes del menú Asignación del número de la marca auricular](../images/assignmenteartagnumber.png "Asignación del número de la marca auricular")
 
-Guarda los ajustes y regresa al menú principal `Registrar animales` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
+Guarda los ajustes y regresa al menú principal `{{<T "RegistrationAnimals" >}}` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
 
-Guarda los ajustes y regresa al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Ajustes" /> `Ajustes` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
+Guarda los ajustes y regresa al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Ajustes" /> `{{<T "Settings" >}}` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.

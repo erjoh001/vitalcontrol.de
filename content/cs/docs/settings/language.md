@@ -14,7 +14,7 @@ translationKey: settings/language
 
 Pro nastavení jazyka na vašem zařízení VitalControl postupujte následovně:
 
-1. `Vyberte` položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte `OK`.
+1. `{{<T "Select" >}}` položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` na hlavní obrazovce vašeho zařízení VitalControl a stiskněte `{{<T "Ok" >}}`.
 
 1. Otevře se podmenu, které nahoře zobrazuje aktuální jazyk. Pomocí šipek ◁ ▷ vyberte požadovaný jazyk. Jazyk uživatelského rozhraní se změní okamžitě při výběru jiného jazyka.
 

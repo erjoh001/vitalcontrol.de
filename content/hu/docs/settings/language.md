@@ -14,7 +14,7 @@ translationKey: settings/language
 
 A VitalControl készülék nyelvének beállításához kövesse az alábbi lépéseket:
 
-1. `Válassza ki` a főképernyőn a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `Beállítások` menüpontot, majd nyomja meg az `OK` gombot.
+1. `{{<T "Select" >}}` a főképernyőn a <img src="/icons/gear.svg" width="25" align="bottom" alt="Beállítások" /> `{{<T "Settings" >}}` menüpontot, majd nyomja meg az `{{<T "Ok" >}}` gombot.
 
 1. Egy almenü nyílik meg, amely a jelenlegi nyelvet mutatja a tetején. Használja a ◁ ▷ nyílgombokat a kívánt nyelv kiválasztásához. A felhasználói útmutató nyelve azonnal megváltozik, amint másik nyelvet választ.
 

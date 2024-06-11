@@ -51,17 +51,17 @@ Punainen kenttä osoittaa "kriittisen alhaisen painonnousun" alueen. Keltainen k
 
 Päivittäisen painonnousun kynnysarvojen säätämiseksi toimi seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta kohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-nappia.
+1. Valitse VitalControl-laitteesi päävalikosta kohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Avautuu alivalikko, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Tiedonkeruu`. Vahvista painamalla `OK`.
+2. Avautuu alivalikko, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "DataAcquisition" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Painon tallennus`, `Eläinten luokitus` ja `Valvontajakso tuoreet lehmät`. Valitse `Painon tallennus` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valitse `{{<T "WeightRecording" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. `Päiväkasvu` -asetuskenttä valitaan automaattisesti. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi eläinlaji. Vahvista painamalla `OK`. Vaihtoehtoisesti voit käyttää kynäkuvaketta <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokkaa" /> `F3`-näppäintä hypätäksesi suoraan punaisen ja keltaisen alueen muokkaukseen.
+4. `{{<T "DailyWeightGain" >}}` -asetuskenttä valitaan automaattisesti. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi eläinlaji. Vahvista painamalla `{{<T "Ok" >}}`. Vaihtoehtoisesti voit käyttää kynäkuvaketta <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Muokkaa" /> `F3`-näppäintä hypätäksesi suoraan punaisen ja keltaisen alueen muokkaukseen.
 
 5. Käytä nuolinäppäimiä △ ▽ valitaksesi haluamasi "suurempi kuin" tai "yhtä suuri kuin" g/päivä -lisäys punaisella ja keltaisella alueella. Käytä näppäimiä `F2`/`F3` 🡄 🡆 tai nuolinäppäimiä ◁ ▷ valitaksesi punaisen ja keltaisen alueen välillä.
 
-6. Kun olet asettanut haluamasi "suurempi kuin" tai "yhtä suuri kuin" g/päivä -lisäyksen, käytä `F1`-näppäintä <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Poistu" /> tai vahvista painamalla `OK` palataksesi takaisin `Painon tallennus`.
+6. Kun olet asettanut haluamasi "suurempi kuin" tai "yhtä suuri kuin" g/päivä -lisäyksen, käytä `{{<T "DataAcquisition" >}}`-näppäintä <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Poistu" /> tai vahvista painamalla `{{<T "Ok" >}}` palataksesi takaisin `{{<T "WeightRecording" >}}`.
 
     ![VitalControl: valikkoasetukset päivittäinen painonnousu](../images/dailyweightgain.png "Päivittäinen painonnousu")
 
@@ -69,13 +69,13 @@ Päivittäisen painonnousun kynnysarvojen säätämiseksi toimi seuraavasti:
 
 Laite käyttää tässä asetuksissa tallennettua syntymäpainoa oletusarvona uusia eläimiä luotaessa. Jotta voisit valita nopeammin vastasyntyneen eläimen yksilöllisen syntymäpainon, saatat tarvita tämän oletusarvon säätämistä tilallesi. Syntymäpainon arvon säätämiseksi toimi seuraavasti:
 
-1. Valitse päävalikosta VitalControl-laitteessasi kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Asetukset` ja paina `OK`-painiketta.
+1. Valitse päävalikosta VitalControl-laitteessasi kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Tiedonkeruu`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "DataAcquisition" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Painon tallennus`, `Eläinten luokitus` ja `Valvontajakso tuoreet lehmät`. Valitse `Painon tallennus` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valitse `{{<T "WeightRecording" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi asetuskentän `Syntymäpaino` ja käytä nuolinäppäimiä ◁ ▷ asettaaksesi halutun syntymäpainon. Laite käyttää tässä määriteltyä syntymäpainoa oletuksena uusia eläimiä luotaessa. Uuden syntyneen eläimen yksilöllinen syntymäpaino voidaan sitten valita nopeammin.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi asetuskentän `{{<T "Ok" >}}` ja käytä nuolinäppäimiä ◁ ▷ asettaaksesi halutun syntymäpainon. Laite käyttää tässä määriteltyä syntymäpainoa oletuksena uusia eläimiä luotaessa. Uuden syntyneen eläimen yksilöllinen syntymäpaino voidaan sitten valita nopeammin.
 
     ![VitalControl: valikkoasetukset syntymäpaino](../images/birthweight.png "Syntymäpaino")
 
@@ -98,15 +98,15 @@ Jos et halua tehdä tätä säätöä tai jos luot eläimiä automaattisesti [ta
 Eläintä [painottaessa](../../actions/record-weight/) käytetään määriteltyä päivittäistä lisäystä laskettaessa ehdotettua painoarvoa eläimen punnituksen aikana. Jos ehdotettu painoarvo on liian alhainen tai korkea useimmille punnittaville eläimille, sinun tulisi säätää määriteltyä arvoa alaspäin tai ylöspäin vastaavasti, jotta painoarvon säätämiseen käytetty aika lyhenee.
 {{% /alert %}}
 
-Aseta `keskimääräinen päivittäinen painonnousu`, jota käytetään eläimen arvioidun painon laskennassa seuraavasti.
+Aseta `{{<T "BirthWeight" >}}`, jota käytetään eläimen arvioidun painon laskennassa seuraavasti.
 
-1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Asetukset` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Avautuu alivalikko, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Tiedonkeruu`. Vahvista valinta painamalla `OK`.
+2. Avautuu alivalikko, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "DataAcquisition" >}}`. Vahvista valinta painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Painon tallennus`, `Eläinten luokitus` ja `Valvontajakso tuoreet lehmät`. Valitse `Painon tallennus` ja vahvista `OK`-painikkeella.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valitse `{{<T "WeightRecording" >}}` ja vahvista `{{<T "Ok" >}}`-painikkeella.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi asetuskentän `Ka päiväkasvu`. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi halutun keskimääräisen päivittäisen lisäyksen g/päivä. Laite käyttää tässä määriteltyä keskimääräistä päivittäistä nousua eläinten odotetun päivittäisen nousun standardina.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi asetuskentän `{{<T "Ok" >}}`. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi halutun keskimääräisen päivittäisen lisäyksen g/päivä. Laite käyttää tässä määriteltyä keskimääräistä päivittäistä nousua eläinten odotetun päivittäisen nousun standardina.
 
     ![VitalControl: valikkoasetukset keskimääräinen päivittäinen painonnousu](../images/averagedailyweightgain.png "Keskimääräinen päivittäinen painonnousu")
 
@@ -127,17 +127,17 @@ Alla oleva taulukko näyttää painon tallennuksen tarkkuuden painoalueesta ja *
 
 Aseta maksimitarkkuus eläinten painon tallennuksessa laitteellasi seuraavasti:
 
-1. Päävalikossa VitalControl-laitteessasi valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-painiketta.
+1. Päävalikossa VitalControl-laitteessasi valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Tiedonkeruu`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "DataAcquisition" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Painon tallennus`, `Eläinten luokitus` ja `Valvontajakso tuoreet lehmät`. Valitse `Painon tallennus` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valitse `{{<T "WeightRecording" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
-4. Käytä nuolinäppäimiä △ ▽ valitaksesi asetuskentän `Maksimaalinen tarkkuus`. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi halutun maksimitarkkuuden. Laitteen painon tallennuksen tarkkuus noudattaa nyt määrättyä asetusta.
+4. Käytä nuolinäppäimiä △ ▽ valitaksesi asetuskentän `{{<T "Ok" >}}`. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi halutun maksimitarkkuuden. Laitteen painon tallennuksen tarkkuus noudattaa nyt määrättyä asetusta.
 
     ![VitalControl: valikkopolku asetukset maksimaalinen tarkkuus painon tallennus](../images/precisionweightrecording.png "Määritä painon tallennuksen maksimaalinen tarkkuus.")
 
-Tallenna asetukset ja palaa ylävalikkoon `Tiedonkeruu` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+Tallenna asetukset ja palaa ylävalikkoon `{{<T "DataAcquisition" >}}` painamalla `{{<T "DataAcquisition" >}}`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
 ## Eläimen arvioinnin tila {#mode-of-animal-rating}
 
@@ -145,13 +145,13 @@ Tallenna asetukset ja palaa ylävalikkoon `Tiedonkeruu` painamalla `F1`-näppäi
 Yksinkertaisessa tilassa kysytään eläimen arvioinnin aikana vain yleiskunto (vihreä/keltainen/punainen). Laajennetussa arvioinnissa kysytään neljä arviointikategoriaa: yleiskunto, rehun kulutus, ripuli ja hengityssairaus.
 {{% /alert %}}
 
-Asettaaksesi `Eläimen arvioinnin` laitteellasi, toimi seuraavasti.
+Asettaaksesi `{{<T "Settings" >}}` laitteellasi, toimi seuraavasti.
 
-1. Päävalikossa VitalControl-laitteessasi valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-painiketta.
+1. Päävalikossa VitalControl-laitteessasi valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Tiedonkeruu`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "DataAcquisition" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Painon tallennus`, `Eläinten luokitus` ja `Valvontajakso tuoreet lehmät`. Valitse `Eläinten luokitus` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "ControlPeriodFreshCows" >}}`. Valitse `{{<T "RatingAnimals" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 4. Käytä ◁ ▷ nuolinäppäimiä asettaaksesi haluamasi eläinten arvioinnin.
 
@@ -165,14 +165,14 @@ Tuoreiden lehmien hallinnassa pidetään parhaana käytäntönä tarkistaa eläi
 
 Aseta tuoreiden lehmiesi valvontajakson pituus seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteesi päävalikosta kohde <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Tiedonkeruu`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "DataAcquisition" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `Painon tallennus`, `Eläinten luokitus` ja `Tuoreiden lehmien valvontajakso`. Valitse `Valvontajakso tuoreet lehmät` ja vahvista painamalla `OK`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskenttien välillä `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` ja `{{<T "AnimalRatings" >}}`. Valitse `{{<T "ControlPeriodFreshCows" >}}` ja vahvista painamalla `{{<T "Ok" >}}`.
 
 4. Käytä ◁ ▷ nuolinäppäimiä asettaaksesi haluamasi valvontajakson keston päivinä synnytyksen jälkeen.
 
     ![VitalControl: menu settings control period fresh cows](../images/controlperiodfreshcows.png "Tuoreiden lehmien valvontajakso")
 
-Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` painamalla `{{<T "DataAcquisition" >}}`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.

@@ -14,11 +14,11 @@ translationKey: settings/device
 ## Sammuta laite tämän jälkeen {#shutdown-device-after}
 Asettaaksesi ajanjakson, jonka jälkeen laite kytkeytyy pois päältä toimettomuuden jälkeen, toimi seuraavasti.
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Laite`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Device" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden välillä `Sammuta laite tämän jälkeen`, `Aloitusnäyttö`, `Demotila`, `Kirkkhaus`, `Tärinä painalluksella` ja `Resurssien valvonta`. Valitse `Sammuta laite tämän jälkeen`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden välillä `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valitse `{{<T "ShutdownAfter" >}}`.
 
 4. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi halutun keston minuuteissa.
 
@@ -28,11 +28,11 @@ Asettaaksesi ajanjakson, jonka jälkeen laite kytkeytyy pois päältä toimettom
 
 Asettaaksesi käynnistysnäytön, toimi seuraavasti.
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Laite`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Device" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden välillä `Sammuta laite tämän jälkeen`, `Aloitusnäyttö`, `Demotila`, `Kirkkhaus`, `Tärinä painalluksella` ja `Resurssien valvonta`. Valitse `Aloitusnäyttö`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetusalueiden välillä `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valitse `{{<T "StartupScreen" >}}`.
 
 4. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi halutun käynnistysnäytön.
 
@@ -42,11 +42,11 @@ Asettaaksesi käynnistysnäytön, toimi seuraavasti.
 
 Jos Demotila on valittu, laite simuloituu lämpötilamittauksia ja näyttää satunnaisesti generoidun lämpötilan mitattuna arvona. Tätä tilaa käytetään laitteen esittelyyn, jos eläimiä ei ole saatavilla mittaukseen. Poistaaksesi tai ottaaksesi käyttöön laitteen Demotilan, toimi seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta kuvake <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Asetukset` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteesi päävalikosta kuvake <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Laite`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Device" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskohtien välillä `Sammuta laite`, `Aloitusnäyttö`, `Demotila`, `Kirkkhaus`, `Värinä näppäimen painalluksessa` ja `Resurssien valvonta`. Valitse `Demotila`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskohtien välillä `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valitse `{{<T "DemoMode" >}}`.
 
 4. Käytä nuolinäppäimiä ◁ ▷ aktivoidaksesi tai deaktivoidaksesi Demotilan.
 
@@ -56,11 +56,11 @@ Jos Demotila on valittu, laite simuloituu lämpötilamittauksia ja näyttää sa
 
 Näytön kirkkauden säätämiseksi toimi seuraavasti.
 
-1. Valitse VitalControl-laitteesi päävalikosta kuvake <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Asetukset` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteesi päävalikosta kuvake <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Laite`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Device" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskohtien välillä `Sammuta laite`, `Aloitusnäyttö`, `Demotila`, `Kirkkhaus`, `Värinä näppäimen painalluksessa` ja `Resurssien valvonta`. Valitse `Kirkkhaus`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskohtien välillä `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valitse `{{<T "BrightnessDisplay" >}}`.
 
 4. Käytä nuolinäppäimiä ◁ ▷ säätääksesi näytön kirkkautta.
 
@@ -70,11 +70,11 @@ Näytön kirkkauden säätämiseksi toimi seuraavasti.
 
 Laitteen näppäimen painalluksen värinän aktivoimiseksi tai deaktivoimiseksi toimi seuraavasti:
 
-1. Valitse VitalControl-laitteesi päävalikosta kuvake <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Asetukset` ja paina `OK`-painiketta.
+1. Valitse VitalControl-laitteesi päävalikosta kuvake <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-painiketta.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Laite`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Device" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskohtien välillä `Sammuta laite`, `Aloitusnäyttö`, `Demotila`, `Kirkkhaus`, `Värinä näppäimen painalluksessa` ja `Resurssien valvonta`. Valitse `Värinä näppäimen painalluksessa`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskohtien välillä `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valitse `{{<T "VibrationOnKeypressEnabled" >}}`.
 
 4. Käytä nuolinäppäimiä ◁ ▷ aktivoidaksesi tai deaktivoidaksesi näppäimistön värinän.
 
@@ -84,14 +84,14 @@ Laitteen näppäimen painalluksen värinän aktivoimiseksi tai deaktivoimiseksi 
 
 Laitteen värinäResurssien valvontan deaktivoimiseksi tai aktivoimiseksi toimi seuraavasti:
 
-1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` ja paina `OK`-nappia.
+1. VitalControl-laitteesi päävalikossa valitse valikkokohta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` ja paina `{{<T "Ok" >}}`-nappia.
 
-2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `Laite`. Vahvista painamalla `OK`.
+2. Alivalikko avautuu, jossa näkyy erilaisia asetuksia. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "Device" >}}`. Vahvista painamalla `{{<T "Ok" >}}`.
 
-3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskohtien välillä `Sammuta laite`, `Aloitusnäyttö`, `Demonstraatiotila`, `Kirkkhaus`, `Näppäimistön värinä` ja `Resurssien valvonta`. Valitse `Resurssien valvonta`.
+3. Toinen alivalikko avautuu, jossa voit käyttää nuolinäppäimiä △ ▽ vaihtaaksesi asetuskohtien välillä `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` ja `{{<T "ResourceMonitor" >}}`. Valitse `{{<T "ResourceMonitor" >}}`.
 
 4. Käytä nuolinäppäimiä ◁ ▷ aktivoidaksesi tai deaktivoidaksesi Resurssien valvontan.
 
     ![VitalControl: Valikkoasetukset Resurssien valvonta](../images/resourcemonitor.png "Resurssien valvonta")
 
-Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+Tallenna asetukset ja palaa ylävalikkoon <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Settings" >}}` painamalla `F1`-näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.

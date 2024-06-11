@@ -51,32 +51,32 @@ Následující grafika uvádí dostupná nastavení týkající se záznamu hmot
 
 Pro úpravu prahových hodnot pro hodnocení denního přírůstku hmotnosti postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Získávání dat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "DataAcquisition" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi nastaveními pro `Záznam hmotnosti`, `Hodnocení zvířat` a `Kontrolní období čerstvých krav`. Vyberte `Záznam hmotnosti` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi nastaveními pro `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` a `{{<T "ControlPeriodFreshCows" >}}`. Vyberte `{{<T "WeightRecording" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pole předvoleb `Denní přírůstek hmotnosti` je automaticky vybráno. Pomocí šipek ◁ ▷ vyberte požadovaný druh zvířete. Potvrďte stisknutím `OK`. Alternativně můžete použít ikonu tužky s klávesou <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" /> `F3` pro přímý přechod k úpravě červených a žlutých oblastí.
+4. Pole předvoleb `{{<T "DailyWeightGain" >}}` je automaticky vybráno. Pomocí šipek ◁ ▷ vyberte požadovaný druh zvířete. Potvrďte stisknutím `{{<T "Ok" >}}`. Alternativně můžete použít ikonu tužky s klávesou <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" /> `F3` pro přímý přechod k úpravě červených a žlutých oblastí.
 
 5. Pomocí šipek △ ▽ vyberte požadovaný "větší než" nebo "rovný" nárůst g/den v červené a žluté oblasti. Pomocí kláves `F2`/`F3` 🡄 🡆 nebo šipek ◁ ▷ přepínejte mezi červenou a žlutou oblastí.
 
-6. Jakmile nastavíte požadovaný "větší než" nebo "rovný" nárůst g/den, použijte klávesu `F1` <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Ukončit" /> nebo potvrďte stisknutím `OK` pro návrat k `Denní přírůstek hmotnosti`.
+6. Jakmile nastavíte požadovaný "větší než" nebo "rovný" nárůst g/den, použijte klávesu `F1` <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Ukončit" /> nebo potvrďte stisknutím `{{<T "Ok" >}}` pro návrat k `{{<T "DailyWeightGain" >}}`.
 
     ![VitalControl: menu nastavení denního přírůstku hmotnosti](../images/dailyweightgain.png "Denní přírůstek hmotnosti")
 
 ### Porodní hmotnost {#birth-weight}
 
-Zařízení používá porodní hmotnost uloženou zde v nastaveních jako výchozí hodnotu při vytváření nových zvířat. Aby bylo možné rychleji vybrat individuální porodní hmotnost nově narozeného zvířete, možná budete muset upravit tuto výchozí hodnotu pro vaši farmu. Pro úpravu hodnoty `porodní hmotnosti` postupujte následovně:
+Zařízení používá porodní hmotnost uloženou zde v nastaveních jako výchozí hodnotu při vytváření nových zvířat. Aby bylo možné rychleji vybrat individuální porodní hmotnost nově narozeného zvířete, možná budete muset upravit tuto výchozí hodnotu pro vaši farmu. Pro úpravu hodnoty `{{<T "BirthWeight" >}}` postupujte následovně:
 
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Získávání dat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "DataAcquisition" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi nastaveními pro `Záznam hmotnosti`, `Hodnocení zvířete` a `Kontrolní období čerstvých krav`. Vyberte `Záznam hmotnosti` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi nastaveními pro `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` a `{{<T "ControlPeriodFreshCows" >}}`. Vyberte `{{<T "WeightRecording" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte pole nastavení `Porodní hmotnost` a pomocí šipek ◁ ▷ nastavte požadovanou porodní hmotnost. Zařízení nyní používá zde definovanou porodní hmotnost jako standard při vytváření nových zvířat. Individuální porodní hmotnost novorozeného zvířete lze poté vybrat rychleji.
+4. Pomocí šipek △ ▽ vyberte pole nastavení `{{<T "BirthWeight" >}}` a pomocí šipek ◁ ▷ nastavte požadovanou porodní hmotnost. Zařízení nyní používá zde definovanou porodní hmotnost jako standard při vytváření nových zvířat. Individuální porodní hmotnost novorozeného zvířete lze poté vybrat rychleji.
 
     ![VitalControl: menu nastavení porodní hmotnosti](../images/birthweight.png "Porodní hmotnost")
 
@@ -100,15 +100,15 @@ Při [vážení](../../actions/record-weight/) zvířete se pro výpočet navrho
 {{% /alert %}}
 
 
-Pro nastavení `průměrného denního přírůstku hmotnosti` použitého při výpočtu přibližné hmotnosti zvířete postupujte následovně.
+Pro nastavení `{{<T "AverageDailyWeightGain" >}}` použitého při výpočtu přibližné hmotnosti zvířete postupujte následovně.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Získávání dat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "DataAcquisition" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `Záznam hmotnosti`, `Hodnocení zvířete` a `Kontrolní období čerstvých krav`. Vyberte `Záznam hmotnosti` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` a `{{<T "ControlPeriodFreshCows" >}}`. Vyberte `{{<T "WeightRecording" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte pole nastavení `Průměrný denní přírůstek hmotnosti`. Pomocí šipek ◁ ▷ nastavte požadovaný průměrný denní přírůstek g/den. Zařízení nyní používá zde definovaný průměrný denní přírůstek jako standard pro očekávaný denní přírůstek zvířat.
+4. Pomocí šipek △ ▽ vyberte pole nastavení `{{<T "AverageDailyWeightGain" >}}`. Pomocí šipek ◁ ▷ nastavte požadovaný průměrný denní přírůstek g/den. Zařízení nyní používá zde definovaný průměrný denní přírůstek jako standard pro očekávaný denní přírůstek zvířat.
 
     ![VitalControl: menu settings average daily weight gain](../images/averagedailyweightgain.png "Průměrný denní přírůstek hmotnosti")
 
@@ -130,18 +130,18 @@ Tabulka níže ukazuje přesnost záznamu hmotnosti v závislosti na rozsahu hmo
 Pro nastavení maximální přesnosti při záznamu hmotnosti zvířat pomocí vašeho zařízení postupujte následovně:
 
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Získávání dat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "DataAcquisition" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `Záznam hmotnosti`, `Hodnocení zvířat` a `Kontrolní období čerstvých krav`. Vyberte `Záznam hmotnosti` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` a `{{<T "ControlPeriodFreshCows" >}}`. Vyberte `{{<T "WeightRecording" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
-4. Pomocí šipek △ ▽ vyberte pole nastavení `Maximální přesnost`. Pomocí šipek ◁ ▷ nastavte požadovanou maximální přesnost. Přesnost záznamu hmotnosti na zařízení nyní odpovídá stanovenému nastavení.
+4. Pomocí šipek △ ▽ vyberte pole nastavení `{{<T "MaximumPrecision" >}}`. Pomocí šipek ◁ ▷ nastavte požadovanou maximální přesnost. Přesnost záznamu hmotnosti na zařízení nyní odpovídá stanovenému nastavení.
 
     ![VitalControl: menu cesta nastavení maximální přesnost záznamu hmotnosti](../images/precisionweightrecording.png "Stanovte maximální přesnost záznamu hmotnosti.")
 
 <br>
-Uložte nastavení a vraťte se do hlavního menu `Získávání dat` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+Uložte nastavení a vraťte se do hlavního menu `{{<T "DataAcquisition" >}}` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
 ## Režim hodnocení zvířat {#mode-of-animal-rating}
 
@@ -149,13 +149,13 @@ Uložte nastavení a vraťte se do hlavního menu `Získávání dat` stisknutí
 V jednoduchém režimu se při hodnocení zvířat dotazuje pouze na celkový stav (zelená/žlutá/červená). V rozšířeném hodnocení se dotazují 4 kategorie hodnocení: celkový stav, spotřeba krmiva, průjem a respirační onemocnění.
 {{% /alert %}}
 
-Pro nastavení `Hodnocení zvířat` na vašem zařízení postupujte následovně.
+Pro nastavení `{{<T "RatingAnimals" >}}` na vašem zařízení postupujte následovně.
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Získávání dat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "DataAcquisition" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `Záznam hmotnosti`, `Hodnocení zvířat` a `Kontrolní období čerstvých krav`. Vyberte `Hodnocení zvířat` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi poli nastavení pro `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` a `{{<T "ControlPeriodFreshCows" >}}`. Vyberte `{{<T "RatingAnimals" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 
 4. Použijte klávesy se šipkami ◁ ▷ k nastavení požadovaného hodnocení zvířat.
@@ -170,11 +170,11 @@ Při správě čerstvých krav se považuje za nejlepší praxi kontrolovat zví
 
 Pro nastavení délky kontrolního období pro vaše čerstvé krávy postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte položku menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Použijte klávesy se šipkami △ ▽ k výběru `Získávání dat`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Použijte klávesy se šipkami △ ▽ k výběru `{{<T "DataAcquisition" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí kláves se šipkami △ ▽ přepínat mezi poli nastavení `Záznam hmotnosti`, `Hodnocení zvířat` a `Kontrolní období čerstvých krav`. Vyberte `Kontrolní období čerstvých krav` a potvrďte stisknutím `OK`.
+3. Otevře se další podmenu, ve kterém můžete pomocí kláves se šipkami △ ▽ přepínat mezi poli nastavení `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` a `{{<T "ControlPeriodFreshCows" >}}`. Vyberte `{{<T "ControlPeriodFreshCows" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`.
 
 4. Použijte klávesy se šipkami ◁ ▷ k nastavení požadované délky kontrolního období ve dnech po porodu.
 
@@ -182,4 +182,4 @@ Pro nastavení délky kontrolního období pro vaše čerstvé krávy postupujte
 
 <br>
 
-Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` stisknutím klávesy `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.

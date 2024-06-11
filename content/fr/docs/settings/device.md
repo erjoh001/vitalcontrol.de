@@ -14,11 +14,11 @@ translationKey: settings/device
 ## Éteindre l'appareil après {#shutdown-device-after}
 Pour régler la période d'inactivité jusqu'à ce que l'appareil s'éteigne, procédez comme suit.
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Appareil`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Device" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `Éteindre l'appareil après`, `Écran d'accueil`, `Mode de présentation`, `Luminosité de l'écran`, `Vibration touche` et `Suivi des ressources`. Sélectionnez `Éteindre l'appareil après`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` et `{{<T "ResourceMonitor" >}}`. Sélectionnez `{{<T "ShutdownAfter" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour régler la durée souhaitée en minutes.
 
@@ -28,11 +28,11 @@ Pour régler la période d'inactivité jusqu'à ce que l'appareil s'éteigne, pr
 
 Pour régler l'écran de démarrage, procédez comme suit.
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Appareil`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Device" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `Éteindre l'appareil après`, `Écran d'accueil`, `Mode de présentation`, `Luminosité de l'écran`, `Vibration touche` et `Suivi des ressources`. Sélectionnez `Écran d'accueil`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` et `{{<T "ResourceMonitor" >}}`. Sélectionnez `{{<T "StartupScreen" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour régler l'écran de démarrage souhaité.
 
@@ -42,11 +42,11 @@ Pour régler l'écran de démarrage, procédez comme suit.
 
 Si le mode de présentation est sélectionné, l'appareil simule les mesures de température et affiche une température générée aléatoirement comme valeur mesurée. Ce mode est utilisé pour la démonstration de l'appareil si aucun animal n'est disponible pour une mesure. Pour désactiver ou activer le mode de présentation de l'appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Appareil`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Device" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `Éteindre l'appareil après`, `Écran d'accueil`, `Mode de présentation`, `Luminosité de l'écran`, `Vibration touche` et `Suivi des ressources`. Sélectionnez `Mode de présentation`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` et `{{<T "ResourceMonitor" >}}`. Sélectionnez `{{<T "DemoMode" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour activer ou désactiver le mode de présentation.
 
@@ -56,11 +56,11 @@ Si le mode de présentation est sélectionné, l'appareil simule les mesures de 
 
 Pour régler la luminosité de l'écran, procédez comme suit.
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Appareil`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Device" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `Éteindre l'appareil après`, `Écran d'accueil`, `Mode de présentation`, `Luminosité de l'écran`, `Vibration touche` et `Suivi des ressources`. Sélectionnez `Luminosité de l'écran`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` et `{{<T "ResourceMonitor" >}}`. Sélectionnez `{{<T "BrightnessDisplay" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour régler la luminosité de l'écran.
 
@@ -70,11 +70,11 @@ Pour régler la luminosité de l'écran, procédez comme suit.
 
 Pour désactiver ou activer la vibration à la pression des touches de l'appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Appareil`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Device" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `Éteindre l'appareil après`, `Écran d'accueil`, `Mode de présentation`, `Luminosité de l'écran`, `Vibration touche` et `Suivi des ressources`. Sélectionnez `Vibration touche`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` et `{{<T "ResourceMonitor" >}}`. Sélectionnez `{{<T "VibrationOnKeypressEnabled" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour activer ou désactiver la vibration à la pression des touches.
 
@@ -84,15 +84,15 @@ Pour désactiver ou activer la vibration à la pression des touches de l'apparei
 
 Pour désactiver ou activer le moniteur de ressources de vibration de l'appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers réglages sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Appareil`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers réglages sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Device" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `Éteindre l'appareil après`, `Écran d'accueil`, `Mode de présentation`, `Luminosité de l'écran`, `Vibration touche` et `Suivi des ressources`. Sélectionnez `Suivi des ressources`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `{{<T "ShutdownAfter" >}}`, `{{<T "StartupScreen" >}}`, `{{<T "DemoMode" >}}`, `{{<T "BrightnessDisplay" >}}`, `{{<T "VibrationOnKeypressEnabled" >}}` et `{{<T "ResourceMonitor" >}}`. Sélectionnez `{{<T "ResourceMonitor" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour activer ou désactiver le moniteur de ressources.
 
     ![VitalControl : Réglages du menu Moniteur de ressources](../images/resourcemonitor.png "Moniteur de ressources")
 
 
-Sauvegardez les réglages et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sauvegarder et retourner" />&nbsp;.
+Sauvegardez les réglages et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sauvegarder et retourner" />&nbsp;.

@@ -14,13 +14,13 @@ translationKey: settings/language
 
 Para configurar el idioma de tu dispositivo VitalControl, procede de la siguiente manera:
 
-1. Selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuraciones" /> `Ajustes` en la pantalla principal de tu dispositivo VitalControl y presiona `OK`.
+1. Selecciona el ítem del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuraciones" /> `{{<T "Select" >}}` en la pantalla principal de tu dispositivo VitalControl y presiona `{{<T "Settings" >}}`.
 
 1. Se abre un submenú mostrando el idioma actual en la parte superior. Usa las teclas de flecha ◁ ▷ para seleccionar el idioma deseado. El idioma de las instrucciones del usuario cambia al instante conforme seleccionas otro idioma.
 
    ![VitalControl: Ruta del menú Configuración de idioma](../images/select-lang.png "Configurando tu idioma")
 
-1. Presiona la tecla `F1` en la parte superior izquierda &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" /> dos veces para volver al menú principal.
+1. Presiona la tecla `{{<T "Ok" >}}` en la parte superior izquierda &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" /> dos veces para volver al menú principal.
 
 El idioma en tu dispositivo VitalControl ahora está configurado y almacenado permanentemente.
 

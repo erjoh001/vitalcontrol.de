@@ -17,11 +17,11 @@ Talunumbri sisestamine on hetkel oluline ainult Saksamaa põllumeestele. Teiste 
 
 Et seadistada ettevõtte number oma seadmel, toimi järgnevalt:
 
-1. Ava menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` oma VitalControl seadme põhiekraanil.
+1. Ava menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` oma VitalControl seadme põhiekraanil.
 
-2. Kutsu esile alammenüü `Talunumber`. Ilmub sisestusmask, kus saad mugavalt oma talunumbrit seadistada. Kõigepealt kasuta nooleklahve, et liikuda sisestusvälja vasakusse äärde ja vali oma riik. Seejärel sisesta nooleklahvide abil oma kaheteistkohaline talunumber.
+2. Kutsu esile alammenüü `{{<T "PremisesIDNumber" >}}`. Ilmub sisestusmask, kus saad mugavalt oma talunumbrit seadistada. Kõigepealt kasuta nooleklahve, et liikuda sisestusvälja vasakusse äärde ja vali oma riik. Seejärel sisesta nooleklahvide abil oma kaheteistkohaline talunumber.
 
    ![VitalControl: Menüütee oma talunumbri seadistamiseks](../images/farm-number.png "Oma talunumbri seadistamine")
 
-3. Kinnita `OK`-ga, kui oled 12-kohalise numbrijada õigesti sisestanud. Sinu talunumber on nüüd seadmes püsivalt salvestatud.
+3. Kinnita `{{<T "Ok" >}}`-ga, kui oled 12-kohalise numbrijada õigesti sisestanud. Sinu talunumber on nüüd seadmes püsivalt salvestatud.
 

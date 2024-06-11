@@ -51,31 +51,31 @@ El campo rojo muestra el área de "aumento de peso críticamente bajo". El campo
 
 Para ajustar los valores umbral para la evaluación del aumento diario de peso, proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Ajustes` y presione el botón `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `{{<T "Settings" >}}` y presione el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `Recoleccion de datós`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "DataAcquisition" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Registro de peso`, `Evaluación de animales` y `Período de control de vacas`. Seleccione `Registro de peso` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` y `{{<T "ControlPeriodFreshCows" >}}`. Seleccione `{{<T "WeightRecording" >}}` y confirme con `{{<T "Ok" >}}`.
 
-4. El campo de preferencia `Ganancia diaria` se selecciona automáticamente. Utilice las teclas de flecha ◁ ▷ para seleccionar la especie animal deseada. Confirme con `OK`. Alternativamente, puede usar el icono de lápiz con <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Editar" /> la tecla `F3` para saltar directamente a la edición de las áreas roja y amarilla.
+4. El campo de preferencia `{{<T "DailyWeightGain" >}}` se selecciona automáticamente. Utilice las teclas de flecha ◁ ▷ para seleccionar la especie animal deseada. Confirme con `{{<T "Ok" >}}`. Alternativamente, puede usar el icono de lápiz con <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Editar" /> la tecla `F3` para saltar directamente a la edición de las áreas roja y amarilla.
 
 5. Utilice las teclas de flecha △ ▽ para seleccionar el aumento deseado "mayor que" o "igual a" g/día en las áreas roja y amarilla. Use las teclas `F2`/`F3` 🡄 🡆 o las teclas de flecha ◁ ▷ para seleccionar entre las áreas roja y amarilla.
 
-6. Una vez que haya establecido el aumento deseado "mayor que" o "igual a" g/día, use la tecla `F1` <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Salir" /> o confirme con `OK` para volver a `Ganancia diaria`.
+6. Una vez que haya establecido el aumento deseado "mayor que" o "igual a" g/día, use la tecla `F1` <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Salir" /> o confirme con `{{<T "Ok" >}}` para volver a `{{<T "DailyWeightGain" >}}`.
 
     ![VitalControl: configuraciones del menú aumento diario de peso](../images/dailyweightgain.png "Aumento diario de peso")
 
 ### Peso al nacer {#birth-weight}
 
-El dispositivo utiliza el peso al nacer almacenado aquí en la configuración como el valor predeterminado cuando se crean nuevos animales. Para poder seleccionar más rápidamente el peso al nacer individual de un animal recién nacido, puede necesitar ajustar este valor predeterminado para su granja. Para ajustar el valor del `peso al nacer`, proceda de la siguiente manera:
+El dispositivo utiliza el peso al nacer almacenado aquí en la configuración como el valor predeterminado cuando se crean nuevos animales. Para poder seleccionar más rápidamente el peso al nacer individual de un animal recién nacido, puede necesitar ajustar este valor predeterminado para su granja. Para ajustar el valor del `{{<T "BirthWeight" >}}`, proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presione el botón `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presione el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `Recoleccion de datós`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "DataAcquisition" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Registro de peso`, `Evaluación de animales` y `Período de control de vacas`. Seleccione `Registro de peso` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` y `{{<T "ControlPeriodFreshCows" >}}`. Seleccione `{{<T "WeightRecording" >}}` y confirme con `{{<T "Ok" >}}`.
 
-4. Utilice las teclas de flecha △ ▽ para seleccionar el campo de configuración `Peso al nacer` y use las teclas de flecha ◁ ▷ para establecer el peso al nacer deseado. El dispositivo ahora utiliza el peso al nacer definido aquí como estándar al crear nuevos animales. El peso al nacer individual de un animal recién nacido puede entonces seleccionarse más rápidamente.
+4. Utilice las teclas de flecha △ ▽ para seleccionar el campo de configuración `{{<T "BirthWeight" >}}` y use las teclas de flecha ◁ ▷ para establecer el peso al nacer deseado. El dispositivo ahora utiliza el peso al nacer definido aquí como estándar al crear nuevos animales. El peso al nacer individual de un animal recién nacido puede entonces seleccionarse más rápidamente.
 
     ![VitalControl: configuración del menú peso al nacer](../images/birthweight.png "Peso al nacer")
 
@@ -98,15 +98,15 @@ Si no desea hacer este ajuste o si crea animales automáticamente [en segundo pl
 Cuando [se pesa](../../actions/record-weight/) a un animal, el aumento diario definido se utiliza para el cálculo del valor de peso sugerido durante el pesaje del animal. Si el valor de peso sugerido es demasiado bajo o demasiado alto para la mayoría de los animales a pesar, debería ajustar el valor definido hacia abajo o hacia arriba, respectivamente, para acortar el tiempo necesario para ajustar el valor del peso con las teclas de flecha.
 {{% /alert %}}
 
-Para configurar la `ganancia diaria promedio de peso` utilizada en el cálculo del peso aproximado de un animal, proceda de la siguiente manera.
+Para configurar la `{{<T "AverageDailyWeightGain" >}}` utilizada en el cálculo del peso aproximado de un animal, proceda de la siguiente manera.
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presione el botón `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presione el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `Recoleccion de datós`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "DataAcquisition" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Registro de peso`, `Evaluación del animal` y `Período de control de vacas`. Seleccione `Registro de peso` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` y `{{<T "ControlPeriodFreshCows" >}}`. Seleccione `{{<T "WeightRecording" >}}` y confirme con `{{<T "Ok" >}}`.
 
-4. Utilice las teclas de flecha △ ▽ para seleccionar el campo de configuración `Ganancia diaria promedio`. Utilice las teclas de flecha ◁ ▷ para establecer el aumento diario promedio deseado en g/día. El dispositivo ahora utiliza la ganancia diaria promedio definida aquí como estándar para la ganancia diaria esperada de los animales.
+4. Utilice las teclas de flecha △ ▽ para seleccionar el campo de configuración `{{<T "AverageDailyWeightGain" >}}`. Utilice las teclas de flecha ◁ ▷ para establecer el aumento diario promedio deseado en g/día. El dispositivo ahora utiliza la ganancia diaria promedio definida aquí como estándar para la ganancia diaria esperada de los animales.
 
     ![VitalControl: configuraciones del menú ganancia diaria promedio de peso](../images/averagedailyweightgain.png "Ganancia diaria promedio de peso")
 
@@ -127,18 +127,18 @@ La tabla a continuación muestra la precisión del registro de peso dependiendo 
 
 Para configurar la máxima precisión al registrar pesos de animales con su dispositivo, proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presione el botón `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presione el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `Recoleccion de datós`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "DataAcquisition" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Registro de peso`, `Evaluación de animales` y `Período de control vacas`. Seleccione `Registro de peso` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` y `{{<T "ControlPeriodFreshCows" >}}`. Seleccione `{{<T "WeightRecording" >}}` y confirme con `{{<T "Ok" >}}`.
 
-4. Utilice las teclas de flecha △ ▽ para seleccionar el campo de configuración `Precisión máxima`. Utilice las teclas de flecha ◁ ▷ para establecer la máxima precisión deseada. La precisión del registro de peso en el dispositivo ahora sigue la configuración estipulada.
+4. Utilice las teclas de flecha △ ▽ para seleccionar el campo de configuración `{{<T "MaximumPrecision" >}}`. Utilice las teclas de flecha ◁ ▷ para establecer la máxima precisión deseada. La precisión del registro de peso en el dispositivo ahora sigue la configuración estipulada.
 
     ![VitalControl: ruta del menú configuraciones máxima precisión registro de peso](../images/precisionweightrecording.png "Estipular máxima precisión del registro de peso.")
 
 <br>
-Guarde las configuraciones y regrese al menú principal `Recoleccion de datós` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
+Guarde las configuraciones y regrese al menú principal `{{<T "DataAcquisition" >}}` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
 
 ## Modo de evaluación de animales {#mode-of-animal-rating}
 
@@ -146,13 +146,13 @@ Guarde las configuraciones y regrese al menú principal `Recoleccion de datós` 
 En el modo simple, solo se consulta el estado general durante la evaluación del animal (verde/amarillo/rojo). En la evaluación extendida, se consultan 4 categorías de evaluación: estado general, consumo de alimento, diarrea y enfermedad respiratoria.
 {{% /alert %}}
 
-Para configurar la `Evaluación de animales` en su dispositivo, proceda de la siguiente manera.
+Para configurar la `{{<T "RatingAnimals" >}}` en su dispositivo, proceda de la siguiente manera.
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Ajustes` y presione el botón `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` y presione el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `Recoleccion de datós`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "DataAcquisition" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Registro de peso`, `Evaluación de animales` y `Período de control vacas`. Seleccione `Evaluación de animales` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` y `{{<T "ControlPeriodFreshCows" >}}`. Seleccione `{{<T "RatingAnimals" >}}` y confirme con `{{<T "Ok" >}}`.
 
 4. Utilice las teclas de flecha ◁ ▷ para establecer la calificación deseada de los animales.
 
@@ -166,11 +166,11 @@ Al manejar vacas, se considera una rutina de mejores prácticas revisar a los an
 
 Para configurar la longitud del período de control para sus vacas proceda de la siguiente manera:
 
-1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Ajustes` y presione el botón `OK`.
+1. En la pantalla principal de su dispositivo VitalControl, seleccione el elemento del menú <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `{{<T "Settings" >}}` y presione el botón `{{<T "Ok" >}}`.
 
-2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `Recoleccion de datós`. Confirme con `OK`.
+2. Se abre un submenú en el que se muestran varias configuraciones. Utilice las teclas de flecha △ ▽ para seleccionar `{{<T "DataAcquisition" >}}`. Confirme con `{{<T "Ok" >}}`.
 
-3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `Registro de peso`, `Calificación de animal` y `Período de control vacas`. Seleccione `Período de control vacas` y confirme con `OK`.
+3. Se abre otro submenú en el que puede usar las teclas de flecha △ ▽ para alternar entre los campos de configuración para `{{<T "WeightRecording" >}}`, `{{<T "AnimalRatings" >}}` y `{{<T "ControlPeriodFreshCows" >}}`. Seleccione `{{<T "ControlPeriodFreshCows" >}}` y confirme con `{{<T "Ok" >}}`.
 
 4. Utilice las teclas de flecha ◁ ▷ para establecer la duración deseada del período de control en días post parto.
 
@@ -178,4 +178,4 @@ Para configurar la longitud del período de control para sus vacas proceda de la
 
 <br>
 
-Guarde la configuración y regrese al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `Configuración` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.
+Guarde la configuración y regrese al menú principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Configuración" /> `{{<T "Settings" >}}` presionando la tecla `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y regresar" />&nbsp;.

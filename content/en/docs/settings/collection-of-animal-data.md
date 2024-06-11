@@ -51,31 +51,31 @@ The red field shows the "critical too low weight gain" area. The yellow field sh
 
 In order to adjust the threshold values for the assessment of the daily weight gain, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `{{<T "DataAcquisition" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animals` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` and `{{<T "ControlPeriodFreshCows" >}}`. Select `{{<T "WeightRecording" >}}`and confirm with `{{<T "Ok" >}}`.
 
-4. The `Daily weight gain` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `OK`. Alternatively, you can use the pencil icon with the <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `F3` key to jump directly to editing the red and yellow areas.
+4. The `{{<T "DailyWeightGain" >}}` preference field is automatically selected. Use the arrow keys ◁ ▷ to select the desired animal species. Confirm with `{{<T "Ok" >}}`. Alternatively, you can use the pencil icon with the <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Edit" /> `F3` key to jump directly to editing the red and yellow areas.
 
 5. Use the arrow keys △ ▽ to select the desired "greater than" or "equal to" g/day increase in the red and yellow area. Use the keys `F2`/`F3` 🡄 🡆 or the arrow keys ◁ ▷ to select between the red and yellow areas.
 
-6. Once you have set the desired "greater than" or "equal to" g/day increase, use the `F1` key <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Exit" /> or confirm with `OK` to jump back to `Daily weight gain`.
+6. Once you have set the desired "greater than" or "equal to" g/day increase, use the `F1` key <img src="/icons/footer/exit.svg" width="25" align="bottom" alt="Exit" /> or confirm with `{{<T "Ok" >}}` to jump back to `{{<T "DailyWeightGain" >}}`.
 
     ![VitalControl: menu settings daily weight gain](../images/dailyweightgain.png "Daily weight gain")
 
 ### Birth weight {#birth-weight}
 
-The device uses the birth weight stored here in the settings as the default value when creating new animals. In order to be able to select the individual birth weight of a newly born animal more quickly, you may need to adjust this default value for your farm. To adjust the value for the `birth weight`, proceed as follows:
+The device uses the birth weight stored here in the settings as the default value when creating new animals. In order to be able to select the individual birth weight of a newly born animal more quickly, you may need to adjust this default value for your farm. To adjust the value for the `{{<T "BirthWeight" >}}`, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `{{<T "DataAcquisition" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` and `{{<T "ControlPeriodFreshCows" >}}`. Select `{{<T "WeightRecording" >}}`and confirm with `{{<T "Ok" >}}`.
 
-4. Use the arrow keys △ ▽ to select the setting field `Birth weight` and use the arrow keys ◁ ▷ to set the desired birth weight. The device now uses the birth weight defined here as the standard when creating new animals. The individual birth weight of a newborn animal can then be selected more quickly.
+4. Use the arrow keys △ ▽ to select the setting field `{{<T "BirthWeight" >}}` and use the arrow keys ◁ ▷ to set the desired birth weight. The device now uses the birth weight defined here as the standard when creating new animals. The individual birth weight of a newborn animal can then be selected more quickly.
 
     ![VitalControl: menu settings birth weight](../images/birthweight.png "Birth weight")
 
@@ -98,15 +98,15 @@ If you do not want to make this adjustment or if you create animals automaticall
 When [weighing](../../actions/record-weight/) an animal, the defined daily increase is used for the calculation of the suggested weight value during animal weighing. If the suggested weight value is too low or too high for the majority of the animals to be weighed, you should adjust the defined value downwards or upwards, respectively, to shorten the time needed for adjusting the weight value with the arrow keys.
 {{% /alert %}}
 
-To set the `average daily weight gain` used in the calculation of the approximate weight of an animal proceed as follows.
+To set the `{{<T "AverageDailyWeightGain" >}}` used in the calculation of the approximate weight of an animal proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `{{<T "DataAcquisition" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` and `{{<T "ControlPeriodFreshCows" >}}`. Select `{{<T "WeightRecording" >}}`and confirm with `{{<T "Ok" >}}`.
 
-4. Use the arrow keys △ ▽ to select the setting field `Average daily weight gain`. Use the arrow keys ◁ ▷ to set the desired average daily increase g/day. The device now uses the average daily gain defined here as the standard for the expected daily gain of the animals.
+4. Use the arrow keys △ ▽ to select the setting field `{{<T "AverageDailyWeightGain" >}}`. Use the arrow keys ◁ ▷ to set the desired average daily increase g/day. The device now uses the average daily gain defined here as the standard for the expected daily gain of the animals.
 
     ![VitalControl: menu settings average daily weight gain](../images/averagedailyweightgain.png "Average daily weight gain")
 
@@ -127,18 +127,18 @@ The table below shows the precision of weight recording depending on the weight 
 
 To set the maximum accuracy when recording animal weights with your device, proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button..
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` button..
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `{{<T "DataAcquisition" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Weight recording`and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` and `{{<T "ControlPeriodFreshCows" >}}`. Select `{{<T "WeightRecording" >}}`and confirm with `{{<T "Ok" >}}`.
 
-4. Use the arrow keys △ ▽ to select the setting field `Maximum precision`. Use the arrow keys ◁ ▷ to set the desired maximum precision. Precision of weight recording on the device now follows the stipulated setting.
+4. Use the arrow keys △ ▽ to select the setting field `{{<T "MaximumPrecision" >}}`. Use the arrow keys ◁ ▷ to set the desired maximum precision. Precision of weight recording on the device now follows the stipulated setting.
 
     ![VitalControl: menu path settings maximum precision weight recording](../images/precisionweightrecording.png "Stipulate maximum precision of weight recording.")
 
 <br>
-Save the settings and return to the top menu `Data acquisition` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Save the settings and return to the top menu `{{<T "DataAcquisition" >}}` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
 ## Mode of animal rating {#mode-of-animal-rating}
 
@@ -146,13 +146,13 @@ Save the settings and return to the top menu `Data acquisition` by pressing the 
 In the simple mode, only the general condition is queried during the animal evaluation (green/yellow/red). In the extended evaluation, 4 evaluation categories are queried: general condition, feed consumption, diarrhea and respiratory disease.
 {{% /alert %}}
 
-To set the `Rating of animals` on your device proceed as follows.
+To set the `{{<T "RatingAnimals" >}}` on your device proceed as follows.
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `{{<T "DataAcquisition" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Rating of animal`and confirm with `OK`.
+3. Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` and `{{<T "ControlPeriodFreshCows" >}}`. Select `{{<T "RatingAnimals" >}}`and confirm with `{{<T "Ok" >}}`.
 
 4. Use the ◁ ▷ arrow keys to set the desired rating of animals.
 
@@ -166,11 +166,11 @@ When managing fresh cows, checking the animals daily for several days after birt
 
 To set the length of the Control period for your fresh cows proceed as follows:
 
-1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` and press the `OK` button.
+1. In the main screen of your VitalControl device, select the menu item <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` and press the `{{<T "Ok" >}}` button.
 
-2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `Data acquisition`. Confirm with `OK`.
+2. A submenu opens in which various settings are displayed. Use the arrow keys △ ▽ to select `{{<T "DataAcquisition" >}}`. Confirm with `{{<T "Ok" >}}`.
 
-3.  Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `Weight recording`, `Rating of animal` and `Control period fresh cows`. Select `Control period fresh cows`and confirm with `OK`.
+3.  Another submenu opens in which you can use the arrow keys △ ▽ to switch between the setting fields for `{{<T "WeightRecording" >}}`, `{{<T "RatingAnimals" >}}` and `{{<T "ControlPeriodFreshCows" >}}`. Select `{{<T "ControlPeriodFreshCows" >}}`and confirm with `{{<T "Ok" >}}`.
 
 4. Use the ◁ ▷ arrow keys to set the desired duration of the control period in days post partum.
 
@@ -178,4 +178,4 @@ To set the length of the Control period for your fresh cows proceed as follows:
 
 <br>
 
-Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Settings` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Save the settings and return to the top menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` by pressing the `F1` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

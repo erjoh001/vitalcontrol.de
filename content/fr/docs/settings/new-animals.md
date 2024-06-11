@@ -16,18 +16,18 @@ translationKey: settings/new-animals
 
 Ici, vous définissez quel poids est enregistré et sauvegardé lors de la création de nouveaux animaux sur votre ferme. Pour définir le poids enregistré sur votre appareil, procédez comme suit.
 
-1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `Valeurs standards`, `Enregister animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Valeurs standards` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "DefaultValues" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. La zone `Poids enregistré(s)` est automatiquement sélectionnée. Utilisez les touches fléchées ◁ ▷ pour sélectionner le poids à capturer.
+4. La zone `{{<T "WeightRecorded" >}}` est automatiquement sélectionnée. Utilisez les touches fléchées ◁ ▷ pour sélectionner le poids à capturer.
 
     ![VitalControl : paramètres du menu Définir le(s) poids enregistré(s)](../images/recordweights.png "Définir le(s) poids enregistré(s)")
 
 {{% alert title="Conseil" %}}
- Sélectionnez `aucun` si : les animaux sont créés automatiquement en arrière-plan (via scan de transpondeur), aucune balance n'est disponible dans la ferme et aucune valeur estimée n'est souhaitée, les poids de naissance sont inconnus.
+ Sélectionnez `{{<T "None" >}}` si : les animaux sont créés automatiquement en arrière-plan (via scan de transpondeur), aucune balance n'est disponible dans la ferme et aucune valeur estimée n'est souhaitée, les poids de naissance sont inconnus.
 {{% /alert %}}
 
 ### Définir l'âge à l'enregistrement {#set-age-at-registration}
@@ -37,13 +37,13 @@ Basé sur l'âge entré ici, l'appareil calcule la date de naissance qui est sug
 
 Pour définir l'âge à la création sur votre appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Valeurs standards` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "DefaultValues" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Utilisez les touches fléchées △ ▽ pour sélectionner l'`Âge (Nouveau jeune animal)`.
+4. Utilisez les touches fléchées △ ▽ pour sélectionner l'`{{<T "AgeRegistration" >}}`.
 
 5. Utilisez les touches fléchées ◁ ▷ pour définir l'âge à la création.
 
@@ -54,13 +54,13 @@ Pour définir l'âge à la création sur votre appareil, procédez comme suit :
 Ici, vous définissez quel sexe est suggéré (création manuelle) ou adopté automatiquement (création en
 arrière-plan). Pour définir le sexe lors de l'enregistrement d'un animal sur votre appareil, procédez comme suit.
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Régalges` et appuyez sur la touche `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Valeurs standards` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "DefaultValues" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Utilisez les touches fléchées △ ▽ pour sélectionner le `Sexe`.
+4. Utilisez les touches fléchées △ ▽ pour sélectionner le `{{<T "Sex" >}}`.
 
 5. Utilisez les touches fléchées ◁ ▷ pour définir le sexe lors de la création.
 
@@ -70,13 +70,13 @@ arrière-plan). Pour définir le sexe lors de l'enregistrement d'un animal sur v
 
 Ici, vous définissez quel type d'animal est enregistré lors de la création de nouveaux animaux dans votre ferme. Pour définir le type d'animal lors de sa création sur votre appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Valeurs standard` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "DefaultValues" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Utilisez les touches fléchées △ ▽ pour sélectionner le `Type d'animal`.
+4. Utilisez les touches fléchées △ ▽ pour sélectionner le `{{<T "TypeAnimal" >}}`.
 
 5. Utilisez les touches fléchées ◁ ▷ pour définir le type d'animal lors de la création.
 
@@ -86,13 +86,13 @@ Ici, vous définissez quel type d'animal est enregistré lors de la création de
 
 Ici, vous définissez quelle race du bétail est enregistrée lors de la création de nouveaux animaux sur votre ferme. Pour définir la race lors de la création sur votre appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Valeurs standards` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "DefaultValues" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Utilisez les touches fléchées △ ▽ pour sélectionner `Race`.
+4. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Breed" >}}`.
 
 5. Utilisez les touches fléchées ◁ ▷ pour définir la race lors de la création.
 
@@ -102,19 +102,19 @@ Ici, vous définissez quelle race du bétail est enregistrée lors de la créati
 
 Ici, vous définissez quels lieux de détention sont attribués aux animaux lors de la création de nouveaux animaux de ferme. Pour définir le lieu de détention de l'animal de ferme lors de sa création sur votre appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les champs de réglage pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Valeurs standards` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les champs de réglage pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "DefaultValues" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Utilisez les touches fléchées △ ▽ pour sélectionner `Lieu de séjour`.
+4. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Whereabouts" >}}`.
 
 5. Utilisez les touches fléchées ◁ ▷ pour définir le lieu lors de la création.
 
     ![VitalControl : paramètres du menu lieu](../images/whereabout.png "lieu")
 
-Enregistrez les paramètres et retournez au menu principal `Réglages` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
+Enregistrez les paramètres et retournez au menu principal `{{<T "Settings" >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
 
 ## Enregistrement automatique {#auto-registration}
 
@@ -126,13 +126,13 @@ Lorsque l'utilisateur confirme la création d'animaux, un écran de saisie appar
 
 Pour définir le comportement lorsque l'animal de l'utilisateur est créé automatiquement sur votre appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les champs de réglage pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N°Numéro de boucle auriculaire`. Sélectionnez `Enregistrement automatique` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les champs de réglage pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "AutoRegistration" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Le champ de préférence `Enregistrer animaux automatiques` est sélectionné automatiquement. Utilisez les touches fléchées ◁ ▷ pour déterminer le comportement de l'appareil lors de la création de nouveaux animaux.
+4. Le champ de préférence `{{<T "AutoRegistration" >}}` est sélectionné automatiquement. Utilisez les touches fléchées ◁ ▷ pour déterminer le comportement de l'appareil lors de la création de nouveaux animaux.
 
 ![VitalControl : paramètres du menu enregistrement automatique](../images/autoregistration.png "enregistrement automatique")
 
@@ -146,37 +146,37 @@ Sélectionnez l'option "Consécutif" si le numéro de box que vous utilisez pour
 
 Pour définir l'attribution de l'ID animal lors de la création de l'animal de ferme sur votre appareil, procédez comme suit :
 
-1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Enregistrer animaux automatiques` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "AutoRegistration" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Utilisez les touches fléchées △ ▽ pour sélectionner `Attribution du N° d'animal`.
+4. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "AssignmentIDs" >}}`.
 
 5. Utilisez les touches fléchées ◁ ▷ pour régler l'attribution de l'ID animal de l'animal de travail lors de la création.
 
-6. Si vous sélectionnez le paramètre `Consécutif`, vous avez la possibilité de spécifier le `Prochain n° d'animal`. Utilisez les touches fléchées △ ▽ pour sélectionner la zone `Prochain n° d'animal` et confirmez avec `OK`. Naviguez dans la zone en utilisant les touches fléchées ◁ ▷. Vous pouvez maintenant sélectionner un numéro en utilisant les touches fléchées △ ▽. L'appareil utilisera désormais automatiquement ce numéro pour commencer le décompte continu à partir de là. De plus, vous pouvez définir si les numéros doivent être comptés en augmentation continue ou en diminution continue. Pour ce faire, utilisez les touches fléchées ◁ ▷ pour aller au symbole 9/1. Utilisez les touches fléchées △ ▽ pour basculer entre compter en augmentation continue ou en diminution continue. Sauvegardez les paramètres en utilisant la touche `F1` ou `OK` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sauvegarder et retourner" />&nbsp;.
+6. Si vous sélectionnez le paramètre `{{<T "Consecutive >}}`, vous avez la possibilité de spécifier le `{{<T "NextAnimalID" >}}`. Utilisez les touches fléchées △ ▽ pour sélectionner la zone `{{<T "NextAnimalID" >}}` et confirmez avec `{{<T "Ok" >}}`. Naviguez dans la zone en utilisant les touches fléchées ◁ ▷. Vous pouvez maintenant sélectionner un numéro en utilisant les touches fléchées △ ▽. L'appareil utilisera désormais automatiquement ce numéro pour commencer le décompte continu à partir de là. De plus, vous pouvez définir si les numéros doivent être comptés en augmentation continue ou en diminution continue. Pour ce faire, utilisez les touches fléchées ◁ ▷ pour aller au symbole 9/1. Utilisez les touches fléchées △ ▽ pour basculer entre compter en augmentation continue ou en diminution continue. Sauvegardez les paramètres en utilisant la touche `F1` ou `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sauvegarder et retourner" />&nbsp;.
 
 ![VitalControl : paramètres du menu attribution d'identifiant animal](../images/assignmentanimalid2.png "Attribution identifiant animal")
 
 ![VitalControl : paramètres du menu attribution d'identifiant animal](../images/assignmentanimalid3.png "attribution identifiant animal")
 
 {{% alert title = "Astuce" %}}
-Uniquement lorsque vous utilisez l'option `Consecutive` : si vous avez configuré l'utilisation de plages de numéros séparées pour les animaux mâles et femelles lors de l'attribution du numéro de boucle auriculaire, un numéro d'animal suivant est enregistré pour chacun des mâles, des femelles et des animaux de sexe inconnu. Un symbole placé à gauche du numéro de l'animal indique à quoi le prochain numéro d'animal est utilisé : soit pour mâle ♀, soit pour femelle ♂, soit pour animaux de sexe inconnu ♀♂ ?
+Uniquement lorsque vous utilisez l'option `{{<T "Consecutive" >}}` : si vous avez configuré l'utilisation de plages de numéros séparées pour les animaux mâles et femelles lors de l'attribution du numéro de boucle auriculaire, un numéro d'animal suivant est enregistré pour chacun des mâles, des femelles et des animaux de sexe inconnu. Un symbole placé à gauche du numéro de l'animal indique à quoi le prochain numéro d'animal est utilisé : soit pour mâle ♀, soit pour femelle ♂, soit pour animaux de sexe inconnu ♀♂ ?
 {{% /alert %}}
 
 ### Chiffre du nouvel identifiant {#digit-of-the-new-id}
 
 Ici, vous définissez quelle longueur un numéro de grange dérivé du numéro de transpondeur a pour un nouvel animal dans votre ferme. La plage de valeurs possible va de 2 à 6 chiffres. Pour définir la longueur du nouvel identifiant de l'animal de ferme sur votre appareil, procédez comme suit :
 
-1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Dans l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Enregistrer animaux automatiques` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "AutoRegistration" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Utilisez les touches fléchées △ ▽ pour sélectionner `Chiffres du nouvel ID`.
+4. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "AssignmentIDs" >}}`.
 
 5. Utilisez les touches fléchées ◁ ▷ pour régler le chiffre du nouvel identifiant de l'animal de travail lors de la création.
 
@@ -193,34 +193,34 @@ immédiatement une mise à jour du numéro de box dérivé.
 
 Pour régler le décalage à droite de l'animal sur votre appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Enregistrer animaux automatiques` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de réglage pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "AutoRegistration" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
-4. Utilisez les touches fléchées △ ▽ pour sélectionner `Offset droit`.
+4. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "OffsetRight" >}}`.
 
 5. Utilisez les touches fléchées ◁ ▷ pour régler la zone de décalage droit de l'animal de travail lors de la création.
 
     ![VitalControl : paramètres du menu décalage droit](../images/rightoffset.png "décalage droit")
 
-Enregistrez les paramètres et revenez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
+Enregistrez les paramètres et revenez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
 
 ## Attribution numéro de boucle d'oreille {#assignment-ear-tag-number}
 
 Ici, vous définissez si une ou deux plages de numéros sont utilisées lors de l'attribution du numéro de boucle d'oreille dans le cadre de la réinscription manuelle des animaux. Pour définir l'attribution du numéro de boucle d'oreille de l'animal de ferme sur votre appareil, procédez comme suit :
 
-1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur la touche `OK`.
+1. Sur l'écran principal de votre appareil VitalControl, sélectionnez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur la touche `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Enregistrer d'animaux`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "RegistrationAnimals" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `Valeurs standards`, `Enregistrer animaux automatiques` et `Attribution d'un N° de boucle auriculaire`. Sélectionnez `Attribution d'un N° de boucle auriculaire` et confirmez avec `OK`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les champs de paramètres pour `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` et `{{<T "AssignmentEartagNr" >}}`. Sélectionnez `{{<T "AssignmentEartagNr" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour attribuer le numéro de boucle à l'animal de travail lors de la création.
 
     ![VitalControl: réglages du menu Attribution numéro de boucle](../images/assignmenteartagnumber.png "Attribution numéro de boucle")
 
-Enregistrez les paramètres et retournez au menu principal `Enregistrement des animaux` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
+Enregistrez les paramètres et retournez au menu principal `{{<T "RegistrationAnimals >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
 
-Enregistrez les paramètres et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Paramètres` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
+Enregistrez les paramètres et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.

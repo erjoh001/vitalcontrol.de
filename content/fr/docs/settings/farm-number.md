@@ -17,10 +17,10 @@ La saisie du numéro de ferme concerne actuellement uniquement les agriculteurs 
 
 Pour configurer le numéro de l'entreprise sur votre appareil, procédez comme suit :
 
-1. Ouvrez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` dans l'écran principal de votre appareil VitalControl.
+1. Ouvrez l'élément de menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` dans l'écran principal de votre appareil VitalControl.
 
-2. Invoquez le sous-menu `Exploitation`. Un masque de saisie apparaît dans lequel vous pouvez facilement définir votre numéro de ferme. Tout d'abord, utilisez les touches fléchées pour naviguer jusqu'à l'extrême gauche du champ de saisie et sélectionnez votre pays. Ensuite, utilisez les touches fléchées pour entrer votre numéro de ferme à douze chiffres.
+2. Invoquez le sous-menu `{{<T "PremisesIDNumber" >}}`. Un masque de saisie apparaît dans lequel vous pouvez facilement définir votre numéro de ferme. Tout d'abord, utilisez les touches fléchées pour naviguer jusqu'à l'extrême gauche du champ de saisie et sélectionnez votre pays. Ensuite, utilisez les touches fléchées pour entrer votre numéro de ferme à douze chiffres.
 
    ![VitalControl : Chemin du menu pour définir votre numéro de ferme](../images/farm-number.png "Définir votre numéro de ferme")
 
-3. Confirmez avec `OK` dès que vous avez correctement entré la séquence de 12 chiffres. Votre numéro de ferme est maintenant enregistré de manière permanente sur l'appareil.
+3. Confirmez avec `{{<T "Ok" >}}` dès que vous avez correctement entré la séquence de 12 chiffres. Votre numéro de ferme est maintenant enregistré de manière permanente sur l'appareil.

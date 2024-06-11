@@ -16,18 +16,18 @@ translationKey: settings/new-animals
 
 Siin määratlete, milline kaal registreeritakse ja salvestatakse, kui loote uusi loomi oma farmis. Registreeritud kaalu seadmiseks oma seadmes toimige järgmiselt.
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `Loomade registreerimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `{{<T "RegistrationAnimals" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvidega △ ▽ vahetada seadistusväljade vahel `Vaikimisi väärtused`, `Automaatregistreerimine` ja `Kõrvamärgi number`. Valige `Vaikimisi väärtused` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvidega △ ▽ vahetada seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "DefaultValues" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-4. Automaatselt valitakse ala `Registreeritud kaalud`. Kasutage nooleklahve ◁ ▷, et valida registreeritav kaal.
+4. Automaatselt valitakse ala `{{<T "WeightRecorded" >}}`. Kasutage nooleklahve ◁ ▷, et valida registreeritav kaal.
 
     ![VitalControl: menüü seaded Määra registreeritud kaalud](../images/recordweights.png "Määra registreeritud kaalud")
 
 {{% alert title="Vihje" %}}
- Valige `puudub`, kui: loomad luuakse automaatselt taustal (transponderi skaneerimise teel), farmis ei ole saadaval kaalu ja hinnangulisi väärtusi ei soovita, sünnikaalud on teadmata.
+ Valige `{{<T "None" >}}`, kui: loomad luuakse automaatselt taustal (transponderi skaneerimise teel), farmis ei ole saadaval kaalu ja hinnangulisi väärtusi ei soovita, sünnikaalud on teadmata.
 {{% /alert %}}
 
 ### Määra registreerimise vanus {#set-age-at-registration}
@@ -37,13 +37,13 @@ Siin sisestatud vanuse põhjal arvutab seade sünnikuupäeva, mis pakutakse käs
 
 Looma loomise vanuse seadmiseks oma seadmel toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽ valikuks `Loomade registreerimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽ valikuks `{{<T "RegistrationAnimals" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Vaikimisi väärtused`, `Automaatne registreerimine` ja `Kõrvamärgi number`. Valige `Vaikimisi väärtused` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "DefaultValues" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-4. Kasutage nooleklahve △ ▽ valikuks `Vanus registreerimisel`.
+4. Kasutage nooleklahve △ ▽ valikuks `{{<T "AgeRegistration" >}}`.
 
 5. Kasutage nooleklahve ◁ ▷ loomise vanuse seadmiseks.
 
@@ -53,13 +53,13 @@ Looma loomise vanuse seadmiseks oma seadmel toimige järgmiselt:
 
 Siin määratlete, millist sugu pakutakse (käsitsi loomine) või võetakse automaatselt (taustal loomine). Looma soo määramiseks oma seadmel toimige järgmiselt.
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽ valikuks `Loomade registreerimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽ valikuks `{{<T "RegistrationAnimals" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Vaikimisi väärtused`, `Automaatne registreerimine` ja `Kõrvamärgi number`. Valige `Vaikimisi väärtused` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "DefaultValues" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-4. Kasutage nooleklahve △ ▽ valikuks `Sugu`.
+4. Kasutage nooleklahve △ ▽ valikuks `{{<T "Sex" >}}`.
 
 5. Kasutage nooleklahve ◁ ▷ soo seadmiseks loomisel.
 
@@ -69,13 +69,13 @@ Siin määratlete, millist sugu pakutakse (käsitsi loomine) või võetakse auto
 
 Siin määratlete, millist looma tüüpi salvestatakse uute loomade loomisel teie farmis. Looma tüübi määramiseks oma seadmel toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽ valiku `Loomade registreerimine` valimiseks. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽ valiku `{{<T "RegistrationAnimals" >}}` valimiseks. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Vaikimisi väärtused`, `Automaatne registreerimine` ja `Kõrvamärgi number`. Valige `Vaikimisi väärtused` ja kinnitage valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "DefaultValues" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-4. Kasutage nooleklahve △ ▽ valiku `Looma tüüp` valimiseks.
+4. Kasutage nooleklahve △ ▽ valiku `{{<T "TypeAnimal" >}}` valimiseks.
 
 5. Kasutage nooleklahve ◁ ▷ looma tüübi seadmiseks loomise ajal.
 
@@ -85,13 +85,13 @@ Siin määratlete, millist looma tüüpi salvestatakse uute loomade loomisel tei
 
 Siin määrate, millist karilooma tõugu registreeritakse uute loomade loomisel teie farmis. Tõu määramiseks loomise ajal oma seadmel toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽ valiku `Loomade registreerimine` valimiseks. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽ valiku `{{<T "RegistrationAnimals" >}}` valimiseks. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Vaikimisi väärtused`, `Automaatne registreerimine` ja `Kõrvamärgi number`. Valige `Vaikimisi väärtused` ja kinnitage valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "DefaultValues" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-4. Kasutage nooleklahve △ ▽ valiku `Tõug` valimiseks.
+4. Kasutage nooleklahve △ ▽ valiku `{{<T "Breed" >}}` valimiseks.
 
 5. Kasutage nooleklahve ◁ ▷ tõu seadmiseks loomise ajal.
 
@@ -101,19 +101,19 @@ Siin määrate, millist karilooma tõugu registreeritakse uute loomade loomisel 
 
 Siin määrate, millised asukohad määratakse loomadele uute farmiloomade loomisel. Farmilooma asukoha määramiseks loomise ajal oma seadmel toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽ valiku `Loomade registreerimine` valimiseks. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽ valiku `{{<T "RegistrationAnimals" >}}` valimiseks. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada seadistusvaldkondade vahel nagu `Vaikimisi väärtused`, `Automaatregistreerimine` ja `Märgistamise kõrvanumbri määramine`. Valige `Vaikimisi väärtused` ja kinnitage valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada seadistusvaldkondade vahel nagu `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "DefaultValues" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-4. Kasutage nooleklahve △ ▽, et valida `Asukoht`.
+4. Kasutage nooleklahve △ ▽, et valida `{{<T "Whereabouts" >}}`.
 
 5. Kasutage nooleklahve ◁ ▷, et määrata loomise asukoht.
 
     ![VitalControl: menüü seaded asukoht](../images/whereabout.png "asukoht")
 
-Salvestage seaded ja naaske peamenüüsse `Seaded`, vajutades klahvi `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
+Salvestage seaded ja naaske peamenüüsse `{{<T "Settings" >}}`, vajutades klahvi `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
 ## Automaatregistreerimine {#auto-registration}
 
@@ -125,13 +125,13 @@ Kui kasutaja kinnitab loomade loomise, ilmub sisestusekraan, kus kasutaja saab s
 
 Selleks, et määratleda käitumist, kui kasutaja loom loob automaatselt teie seadmes, toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage klahvi `OK`.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage klahvi `{{<T "Ok" >}}`.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `Loomade registreerimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `{{<T "RegistrationAnimals" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada seadistusvaldkondade vahel nagu `Vaikimisi väärtused`, `Automaatregistreerimine` ja `Märgistamise kõrvanumbri määramine`. Valige `Automaatregistreerimine` ja kinnitage valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada seadistusvaldkondade vahel nagu `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "AutoRegistration" >}}` ja kinnitage valikuga `{{<T "Ok" >}}`.
 
-4. Eelistusväli `Automaatregistreerimine` valitakse automaatselt. Kasutage nooleklahve ◁ ▷, et määrata seadme käitumine uute loomade loomisel.
+4. Eelistusväli `{{<T "AutoRegistration" >}}` valitakse automaatselt. Kasutage nooleklahve ◁ ▷, et määrata seadme käitumine uute loomade loomisel.
 
 ![VitalControl: menüü seaded automaatregistreerimine](../images/autoregistration.png "automaatregistreerimine")
 
@@ -145,37 +145,37 @@ Valige "Järjestikune" valik, kui kasutate looma visuaalseks identifitseerimisek
 
 Looma ID määramiseks looma loomisel oma seadmes toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `Loomade registreerimine`. Kinnitage `OK`-ga.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `{{<T "RegistrationAnimals" >}}`. Kinnitage `{{<T "Ok" >}}`-ga.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Vaikimisi väärtused`, `Automaatregistreerimine` ja `Kõrvamärgi numbri määramine`. Valige `Automaatregistreerimine` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "AutoRegistration" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-4. Kasutage nooleklahve △ ▽, et valida `Looma ID määramine`.
+4. Kasutage nooleklahve △ ▽, et valida `{{<T "AssignmentIDs" >}}`.
 
 5. Kasutage nooleklahve ◁ ▷, et seada töötava looma looma ID määramine loomise ajal.
 
-6. Kui valite seade `Järjestikune`, on teil võimalus määrata `Järgmine looma ID`. Kasutage nooleklahve △ ▽, et valida `Järgmine looma ID` ala ja kinnitage `OK`-ga. Liikuge alal nooleklahvide ◁ ▷ abil. Nüüd saate nooleklahvide △ ▽ abil valida numbri. Seade kasutab seda numbrit nüüd automaatselt järjestikuse loendamise alustamiseks. Lisaks saate määrata, kas numbreid loendatakse pidevalt suurenev või pidevalt vähenev. Selleks kasutage nooleklahve ◁ ▷, et minna 9/1 sümbolile. Kasutage nooleklahve △ ▽, et vahetada pidevalt suureneva või pidevalt väheneva loendamise vahel. Salvestage seaded kasutades `F1` või `OK` nuppu &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
+6. Kui valite seade `{{<T "Consecutive >}}`, on teil võimalus määrata `{{<T "NextAnimalID" >}}`. Kasutage nooleklahve △ ▽, et valida `{{<T "NextAnimalID" >}}` ala ja kinnitage `{{<T "Ok" >}}`-ga. Liikuge alal nooleklahvide ◁ ▷ abil. Nüüd saate nooleklahvide △ ▽ abil valida numbri. Seade kasutab seda numbrit nüüd automaatselt järjestikuse loendamise alustamiseks. Lisaks saate määrata, kas numbreid loendatakse pidevalt suurenev või pidevalt vähenev. Selleks kasutage nooleklahve ◁ ▷, et minna 9/1 sümbolile. Kasutage nooleklahve △ ▽, et vahetada pidevalt suureneva või pidevalt väheneva loendamise vahel. Salvestage seaded kasutades `F1` või `{{<T "Ok" >}}` nuppu &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
 ![VitalControl: menüü seaded määramine looma ID](../images/assignmentanimalid2.png "Määramine looma ID")
 
 ![VitalControl: menüü seaded määramine looma ID](../images/assignmentanimalid3.png "määramine looma ID")
 
 {{% alert title = "Vihje" %}}
-Ainult valiku `Järjestikune` kasutamisel: kui olete seadistanud eraldi numbrite vahemikud isaste ja emaste loomade kõrvamärgi numbri määramiseks, salvestatakse järgmine loomanumber igaühe jaoks - isased, emased ja teadmata soost loomad. Sümbol, mis on asetatud loomanumbri vasakule küljele, näitab, mille jaoks järgmist loomanumbrit kasutatakse: kas isastele ♀, emastele ♂ või teadmata soost loomadele ♀♂?
+Ainult valiku `{{<T "Consecutive >}}` kasutamisel: kui olete seadistanud eraldi numbrite vahemikud isaste ja emaste loomade kõrvamärgi numbri määramiseks, salvestatakse järgmine loomanumber igaühe jaoks - isased, emased ja teadmata soost loomad. Sümbol, mis on asetatud loomanumbri vasakule küljele, näitab, mille jaoks järgmist loomanumbrit kasutatakse: kas isastele ♀, emastele ♂ või teadmata soost loomadele ♀♂?
 {{% /alert %}}
 
 ### Uue ID number {#digit-of-the-new-id}
 
 Siin määratlete, milline on teie farmis uue looma transpondernumbrist tuletatud laudanumbri pikkus. Võimalik väärtuste vahemik on 2 kuni 6 numbrit. Uue farmilooma ID pikkuse määramiseks oma seadmel toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `Loomade registreerimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevad seaded. Kasutage nooleklahve △ ▽, et valida `{{<T "RegistrationAnimals" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada seadistusväljade vahel `Vaikimisi väärtused`, `Automaatregistreerimine` ja `Kõrvamärgi numbri määramine`. Valige `Automaatregistreerimine` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil vahetada seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "AutoRegistration" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-4. Kasutage nooleklahve △ ▽, et valida `Määramine looma ID`.
+4. Kasutage nooleklahve △ ▽, et valida `{{<T "AssignmentIDs" >}}`.
 
 5. Kasutage nooleklahve ◁ ▷, et seadistada töötava looma uue ID number loomisel.
 
@@ -192,34 +192,34 @@ lauta numbriga uuenduse.
 
 Looma paremale nihke seadmiseks oma seadmel toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽ valikuks `Loomade registreerimine`. Kinnitage valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasutage nooleklahve △ ▽ valikuks `{{<T "RegistrationAnimals" >}}`. Kinnitage valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Vaikimisi väärtused`, `Automaatne registreerimine` ja `Kõrvamärgi numbri määramine`. Valige `Automaatne registreerimine` ja kinnitage `OK`-ga.
+3. Avaneb veel üks alammenüü, kus saate nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Valige `{{<T "AutoRegistration" >}}` ja kinnitage `{{<T "Ok" >}}`-ga.
 
-4. Kasutage nooleklahve △ ▽ valikuks `Parem nihe`.
+4. Kasutage nooleklahve △ ▽ valikuks `{{<T "OffsetRight" >}}`.
 
 5. Kasutage nooleklahve ◁ ▷ töötava looma parema nihkeala seadmiseks loomise ajal.
 
     ![VitalControl: menüü seaded parem nihe](../images/rightoffset.png "parem nihe")
 
-Salvestage seaded ja naaske peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
+Salvestage seaded ja naaske peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}`, vajutades `F1` klahvi &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
 ## Kõrvamärgi numbri määramine {#assignment-ear-tag-number}
 
 Siin määratlete, kas kõrvamärgi numbri määramisel kasutatakse ühte või kahte numbrivahemikku loomade käsitsi ümberregistreerimise käigus. Farmilooma kõrvamärgi numbri määramiseks oma seadmel toimige järgmiselt:
 
-1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded` ja vajutage `OK` nuppu.
+1. Oma VitalControl seadme põhiekraanil valige menüüpunkt <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}` ja vajutage `{{<T "Ok" >}}` nuppu.
 
-2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasuta nooleklahve △ ▽, et valida `Loomade registreerimine`. Kinnita valikuga `OK`.
+2. Avaneb alammenüü, kus kuvatakse erinevaid seadeid. Kasuta nooleklahve △ ▽, et valida `{{<T "RegistrationAnimals" >}}`. Kinnita valikuga `{{<T "Ok" >}}`.
 
-3. Avaneb veel üks alammenüü, kus saad nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `Vaikimisi väärtused`, `Automaatregistreerimine` ja `Kõrvamärgi number`. Vali `Kõrvamärgi number` ja kinnita valikuga `OK`.
+3. Avaneb veel üks alammenüü, kus saad nooleklahvide △ ▽ abil liikuda seadistusväljade vahel `{{<T "DefaultValues" >}}`, `{{<T "AutoRegistration" >}}` ja `{{<T "AssignmentEartagNr" >}}`. Vali `{{<T "AssignmentEartagNr" >}}` ja kinnita valikuga `{{<T "Ok" >}}`.
 
 4. Kasuta nooleklahve ◁ ▷, et määrata töötava looma kõrvamärgi number loomisel.
 
     ![VitalControl: menüü seaded Kõrvamärgi number](../images/assignmenteartagnumber.png "Kõrvamärgi number")
 
-Salvesta seaded ja naase peamenüüsse `Loomade registreerimine`, vajutades klahvi `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
+Salvesta seaded ja naase peamenüüsse `{{<T "RegistrationAnimals" >}}`, vajutades klahvi `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
-Salvesta seaded ja naase peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `Seaded`, vajutades klahvi `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
+Salvesta seaded ja naase peamenüüsse <img src="/icons/gear.svg" width="25" align="bottom" alt="Seaded" /> `{{<T "Settings" >}}`, vajutades klahvi `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.

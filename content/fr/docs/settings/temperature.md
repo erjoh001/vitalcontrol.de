@@ -18,17 +18,17 @@ Les valeurs seuils pour la température corporelle sont stockées ici individuel
 
 Pour définir les seuils et plages de température sur votre appareil, procédez comme suit :
 
-1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Température`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Temperature" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les deux champs de réglage pour `Seuil`, `Hypothermie` et `Eclairage de l'anus`. Sélectionnez le champ de réglage `Seuil`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour naviguer entre les deux champs de réglage pour `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` et `{{<T "AnusSpotlighting" >}}`. Sélectionnez le champ de réglage `{{<T "Thresholds" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour sélectionner le seuil désiré.
 
 5. Utilisez le symbole du stylo avec <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Éditer" /> la touche `F3` pour régler la valeur du seuil des zones jaune et rouge. Utilisez les flèches △ ▽ pour régler la température "supérieure à" ou "égale à". Utilisez les touches `F2`/`F3` 🡄 🡆 ou les touches fléchées ◁ ▷ pour sélectionner entre les plages jaune et rouge.
 
-6. Une fois que vous avez réglé la température "supérieure à" ou "égale à", utilisez la flèche de retour avec la touche `F1` pour revenir à la valeur du `Seuil`.
+6. Une fois que vous avez réglé la température "supérieure à" ou "égale à", utilisez la flèche de retour avec la touche `F1` pour revenir à la valeur du `{{<T "Thresholds" >}}`.
 
     ![VitalControl : réglages du menu seuil & plages de température](../images/threshold.png "Seuil & Plages de température")
 
@@ -39,11 +39,11 @@ Ici, vous définissez la température mesurée à partir de laquelle une sous-te
 
 Pour définir la valeur seuil pour la sous-température, procédez comme suit :
 
-1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Température`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Temperature" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `Seuil`, `Hypothermie` et `Eclairage de l'anus`. Sélectionnez le champ de réglage `Hypothermie`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` et `{{<T "AnusSpotlighting" >}}`. Sélectionnez le champ de réglage `{{<T "Undertemperature" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour sélectionner la valeur seuil désirée pour la sous-température.
 
@@ -54,16 +54,16 @@ Pour définir la valeur seuil pour la sous-température, procédez comme suit :
 Ici, vous pouvez régler si la lumière doit être activée ou désactivée automatiquement lors de la mesure de la fièvre.
 {{% /alert %}}
 
-Pour désactiver ou activer le projecteur anal pendant l'action `Température`, procédez comme suit :
+Pour désactiver ou activer le projecteur anal pendant l'action `{{<T "Temperature" >}}`, procédez comme suit :
 
-1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Réglages` et appuyez sur le bouton `OK`.
+1. Depuis l'écran principal de votre appareil VitalControl, sélectionnez <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` et appuyez sur le bouton `{{<T "Ok" >}}`.
 
-2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `Température`. Confirmez avec `OK`.
+2. Un sous-menu s'ouvre dans lequel divers paramètres sont affichés. Utilisez les touches fléchées △ ▽ pour sélectionner `{{<T "Temperature" >}}`. Confirmez avec `{{<T "Ok" >}}`.
 
-3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `Seuil`, `Hypothermie` et `Eclairage de l'anus`. Sélectionnez le champ de réglage `Eclairage de l'anus`.
+3. Un autre sous-menu s'ouvre dans lequel vous pouvez utiliser les touches fléchées △ ▽ pour passer entre les deux champs de réglage pour `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` et `{{<T "AnusSpotlighting" >}}`. Sélectionnez le champ de réglage `{{<T "AnusSpotlighting" >}}`.
 
 4. Utilisez les touches fléchées ◁ ▷ pour désactiver ou activer le projecteur anal.
 
     ![VitalControl : réglages du menu projecteur anal](../images/anusspotlight.png "Projecteur anal")
 
-Enregistrez les paramètres et revenez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `Paramètres` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+Enregistrez les paramètres et revenez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.

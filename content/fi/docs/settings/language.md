@@ -14,9 +14,9 @@ translationKey: settings/language
 
 VitalControl-laitteesi kielen asettamiseksi toimi seuraavasti:
 
-1. Valitse päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `Asetukset` VitalControl-laitteellasi ja paina `OK`.
+1. Valitse päävalikosta <img src="/icons/gear.svg" width="25" align="bottom" alt="Asetukset" /> `{{<T "Select" >}}` VitalControl-laitteellasi ja paina `{{<T "Settings" >}}`.
 
-2. Alivalikko avautuu, jossa nykyinen `kieli` näkyy yläosassa. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi kielen. Käyttöohjeen kieli muuttuu lennossa, kun valitset toisen kielen.
+2. Alivalikko avautuu, jossa nykyinen `{{<T "Ok" >}}` näkyy yläosassa. Käytä nuolinäppäimiä ◁ ▷ valitaksesi haluamasi kielen. Käyttöohjeen kieli muuttuu lennossa, kun valitset toisen kielen.
 
    ![VitalControl: Valikkopolku Kieliasetukset](../images/select-lang.png "Kielen asettaminen")
 

@@ -18,17 +18,17 @@ Prahové hodnoty pro tělesnou teplotu jsou zde uloženy individuálně pro druh
 
 Chcete-li nastavit prahové hodnoty a teplotní rozsahy na vašem zařízení, postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Teplota`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "Temperature" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi dvěma nastaveními pro `Prahové hodnoty`, `Podchlazení` a `Anus spotlight`. Vyberte pole nastavení `Prahové hodnoty`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi dvěma nastaveními pro `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` a `{{<T "AnusSpotlighting" >}}`. Vyberte pole nastavení `{{<T "Thresholds" >}}`.
 
 4. Pomocí šipek ◁ ▷ vyberte požadovanou prahovou hodnotu.
 
 5. Pomocí symbolu pera s <img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Upravit" /> klávesou `F3` nastavte prahovou hodnotu žluté a červené oblasti. Pomocí šipek △ ▽ nastavte požadovanou teplotu "větší než" nebo "rovno". Pomocí kláves `F2`/`F3` 🡄 🡆 nebo šipek ◁ ▷ vyberte mezi žlutými a červenými rozsahy.
 
-6. Jakmile nastavíte požadovanou teplotu "větší než" nebo "rovno", použijte zpětnou šipku s klávesou `F1` k návratu na hodnotu `Prahové hodnoty`.
+6. Jakmile nastavíte požadovanou teplotu "větší než" nebo "rovno", použijte zpětnou šipku s klávesou `F1` k návratu na hodnotu `{{<T "Thresholds" >}}`.
 
     ![VitalControl: menu nastavení prahových hodnot a teplotních rozsahů](../images/threshold.png "Prahové hodnoty a teplotní rozsahy")
 
@@ -39,11 +39,11 @@ Zde nastavíte naměřenou teplotu, od které dochází k podchlazení. Během m
 
 Pro nastavení prahové hodnoty pro podchlazení postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Teplota`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "Temperature" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi dvěma nastaveními `Prahové hodnoty`, `Podchlazení` a `Anální světlo`. Vyberte pole nastavení `Podchlazení`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi dvěma nastaveními `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` a `{{<T "AnusSpotlighting" >}}`. Vyberte pole nastavení `{{<T "Undertemperature" >}}`.
 
 4. Pomocí šipek ◁ ▷ vyberte požadovanou prahovou hodnotu pro podchlazení.
 
@@ -54,18 +54,18 @@ Pro nastavení prahové hodnoty pro podchlazení postupujte následovně:
 Zde můžete nastavit, zda má být světlo automaticky aktivováno nebo deaktivováno během měření horečky.
 {{% /alert %}}
 
-Pro deaktivaci nebo aktivaci análního světla během akce `Teplota` postupujte následovně:
+Pro deaktivaci nebo aktivaci análního světla během akce `{{<T "Temperature" >}}` postupujte následovně:
 
-1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` a stiskněte tlačítko `OK`.
+1. Na hlavní obrazovce vašeho zařízení VitalControl vyberte <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` a stiskněte tlačítko `{{<T "Ok" >}}`.
 
-2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `Teplota`. Potvrďte stisknutím `OK`.
+2. Otevře se podmenu, ve kterém jsou zobrazeny různé nastavení. Pomocí šipek △ ▽ vyberte `{{<T "Temperature" >}}`. Potvrďte stisknutím `{{<T "Ok" >}}`.
 
-3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi dvěma nastaveními `Prahové hodnoty`, `Podchlazení` a `Anální světlo`. Vyberte pole nastavení `Anální světlo`.
+3. Otevře se další podmenu, ve kterém můžete pomocí šipek △ ▽ přepínat mezi dvěma nastaveními `{{<T "Thresholds" >}}`, `{{<T "Undertemperature" >}}` a `{{<T "AnusSpotlighting" >}}`. Vyberte pole nastavení `{{<T "AnusSpotlighting" >}}`.
 
 4. Pomocí šipek ◁ ▷ deaktivujte nebo aktivujte anální světlo.
 
     ![VitalControl: menu nastavení análního světla](../images/anusspotlight.png "Anální světlo")
 
-Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `Nastavení` stisknutím tlačítka `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+Uložte nastavení a vraťte se do hlavního menu <img src="/icons/gear.svg" width="25" align="bottom" alt="Nastavení" /> `{{<T "Settings" >}}` stisknutím tlačítka `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
 
