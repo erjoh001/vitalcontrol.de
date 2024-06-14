@@ -1,11 +1,458 @@
 ---
-_build:
-  render: never
-  list: never
-  publishResources: false
-  cascade:
-  _build:
-    list: false
-    render: true
-title: Demo VitalControl
+title: Urban VitalControl
 ---
+
+{{< blocks/cover title="Urban VitalControl" image_anchor="top" height="full" >}}
+<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
+  Lær mere <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="docs/">
+  Dokumentation<i class="fa-solid fa-book ms-2 "></i>
+</a>
+<p class="lead mt-5">Sundhedsstyring på højeste niveau!</p>
+{{< blocks/link-down color="info" >}}
+{{< /blocks/cover >}}
+
+{{% blocks/lead color="primary" %}}
+
+**Reducer** papirarbejdet<br/> 
+
+**Forøg** din **dyresundhed**
+
+Hav **alt** ved **hånden** <br/> 
+
+Med kun **én enhed** <br/>   
+{{% /blocks/lead %}}
+
+
+{{< blocks/section color="dark" type="row" >}}
+{{% blocks/feature3 icon="fa-flag" title="16 Sprog" %}}
+<br>
+<div id="carouselLanguagesAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; margin-left: auto; margin-right: auto; background-color: #403f4c">
+    <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="1" aria-label="English"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="2" aria-label="Dutch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="3" aria-label="Finish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="4" aria-label="French"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="5" aria-label="Russian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="6" aria-label="Spanish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="7" aria-label="Bosnian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="8" aria-label="Bulgarian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="9" aria-label="Chinese"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="10" aria-label="Czech"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="11" aria-label="Norwegian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="12" aria-label="Greek"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="13" aria-label="Turkish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="14" aria-label="Ukrainian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="15" aria-label="Estonian"></button>
+    </div> 
+<div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="position-relative text-center">
+        <h3>Tysk</h3>
+      </div>
+      <img src="/images/homescreen/german.png" alt="German">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Hollandsk</h3>
+      </div>
+      <img src="/images/homescreen/dutch.png" alt="Dutch">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Engelsk</h3>
+      </div>
+      <img src="/images/homescreen/english.png" alt="English">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Finsk</h3>
+      </div>
+      <img src="/images/homescreen/finnish.png" alt="Finnish">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Fransk</h3>
+      </div>
+      <img src="/images/homescreen/french.png" alt="French">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Russisk</h3>
+      </div>
+    <img src="/images/homescreen/russian.png" alt="Russian">
+    </div>  
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Spansk</h3>
+      </div>
+    <img src="/images/homescreen/spanish.png" alt="Spanish">
+    </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Bosnisk</h3>
+        </div>
+      <img src="/images/homescreen/bosnian.png" alt="Bosnian">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Bulgarsk</h3>
+        </div>
+      <img src="/images/homescreen/bulgarian.png" alt="Bulgarian">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Kinesisk</h3>
+        </div>
+      <img src="/images/homescreen/chinese.png" alt="Chinese">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Tjekkisk</h3>
+        </div>
+      <img src="/images/homescreen/czech.png" alt="Czech">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Norsk</h3>
+        </div>
+      <img src="/images/homescreen/norwegian.png" alt="Norwegian">
+      </div>
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Græsk</h3>
+        </div>
+      <img src="/images/homescreen/greek.png" alt="Greek">
+      </div>      
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Tyrkisk</h3>
+        </div>
+      <img src="/images/homescreen/turkish.png" alt="Turkish">
+      </div> 
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Ukrainsk</h3>
+        </div>
+      <img src="/images/homescreen/ukrainian.png" alt="Ukrainian">
+      </div> 
+      <div class="carousel-item">
+        <div class="position-relative text-center">
+          <h3>Estisk</h3>
+        </div>
+      <img src="/images/homescreen/estonian.png" alt="Estonian">
+      </div> 
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Forrige</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Næste</span>
+  </button>
+</div>
+
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-temperature-quarter" title="14 Handlinger" %}}
+<br>
+<div id="carouselActionsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; margin-left: auto; margin-right: auto; background-color: #403f4c">
+    <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Temperatur"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="1" aria-label="Vejning"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="2" aria-label="Bedømmelse"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="3" aria-label="Handlingernes kæde"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="4" aria-label="Alarm"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="5" aria-label="På vagt"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="6" aria-label="Dyrets historie"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="7" aria-label="Rediger"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="8" aria-label="Afmeld"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="9" aria-label="Dyretab"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="10" aria-label="Link transponder"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="11" aria-label="Fjern transponder"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="12" aria-label="Link dyre-ID"></button>
+    <button type="button" data-bs-target="#carouselActionsIndicators" data-bs-slide-to="13" aria-label="Link elektronisk dyre-ID"></button>
+  </div>
+<div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="position-relative text-center">
+        <h3>Temperatur</h3>
+      </div>
+      <img src="images/actions/temperature.png" alt="Temperature">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Vejning</h3>
+      </div>
+      <img src="images/actions/weighing.png" alt="Weighing">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Bedømmelse</h3>
+      </div>
+      <img src="images/actions/rating.png" alt="Rating">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Handlingernes kæde</h3>
+      </div>
+      <img src="images/actions/chain_of_actions.png" alt="Chain of actions">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Alarm</h3>
+      </div>
+      <img src="images/actions/alarm.png" alt="Alarm">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>På vagt</h3>
+      </div>
+      <img src="images/actions/on_watch.png" alt="On watch">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Dyrets historie</h3>
+      </div>
+      <img src="images/actions/animal_history.png" alt="Animal´s history">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Rediger</h3>
+      </div>
+      <img src="images/actions/edit.png" alt="Edit">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Afmeld</h3>
+      <img src="images/actions/unregister.png" alt="Unregister">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Dyretab</h3>
+      </div>
+      <img src="images/actions/animal_loss.png" alt="Animal loss">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Link transponder</h3>
+      </div>
+      <img src="images/actions/link_transponder.png" alt="Link transponder">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Fjern transponder</h3>
+      </div>
+      <img src="images/actions/unlink_transponder.png" alt="Unlink transponder">
+    </div>      
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Link dyre-ID</h3>
+      </div>
+      <img src="images/actions/link_animal_ID.png" alt="Link animal ID">
+    </div>   
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Link dyre-ID</h3>
+      </div>
+      <img src="images/actions/link_animal_ID2.png" alt="Link animal ID">
+    </div>             
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselActionsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Forrige</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselActionsAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Næste</span>
+  </button>
+</div>
+
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-table-list" title="5 Lister" %}}
+<br>
+<div id="carouselListsAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; background-color: #403f4c; margin-left: auto; margin-right: auto;">
+    <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Alarm"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Under observation"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Handling"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="Friske køer"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="4" aria-label="Tørre køer"></button>
+  </div>
+<div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="position-relative text-center">
+        <h3>Alarm</h3>
+      </div>
+      <img src="images/lists/alarm.png" alt="Alarm">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Under observation</h3>
+      </div>
+      <img src="images/lists/on_watch.png" alt="Under observation">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Handling liste</h3>
+      </div>      
+      <img src="images/lists/action_list.png" alt="Handling liste">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Friske køer</h3>
+      </div>
+      <img src="images/lists/fresh_cows.png" alt="Friske køer">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Tørre køer</h3>
+      </div>
+    <img src="images/lists/dry_cows.png" alt="Tørre køer">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselListsAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Forrige</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselListsAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Næste</span>
+  </button>
+</div>
+
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-chart-line" title="4 Evalueringer" %}}
+<br>
+<div id="carouselEvaluationAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; background-color: #403f4c; margin-left: auto; margin-right: auto;">
+    <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Evaluering vægt"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="1" aria-label="Evaluering temperatur"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="2" aria-label="Evaluering vurdering"></button>
+    <button type="button" data-bs-target="#carouselListsIndicators" data-bs-slide-to="3" aria-label="Evaluering dødelighed"></button>
+  </div>
+<div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="position-relative text-center">
+        <h3>Vægt</h3>
+      </div> 
+      <img src="images/evaluation/weight.png" alt="Evaluering vægt">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Temperatur</h3>
+      </div> 
+      <img src="images/evaluation/temperature.png" alt="Evaluering temperatur">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Vurdering</h3>
+      </div> 
+      <img src="images/evaluation/rating.png" alt="Evaluering vurdering">
+    </div>
+    <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Dødelighed</h3>
+      </div> 
+      <img src="images/evaluation/mortality.png" alt="Evaluering dødelighed">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselEvaluationAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Forrige</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselEvaluationAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Næste</span>
+  </button>
+</div>
+
+{{% /blocks/feature3 %}}
+{{< /blocks/section >}}
+
+{{% blocks/lead color="primary" %}}
+
+Egnet til flere **typer af dyr** i forskellige **aldre**
+
+{{% /blocks/lead %}}
+
+{{< blocks/section color="white" type="row" >}}
+{{% blocks/feature icon="empty" title="Kalve" %}}
+<br>
+<img src="/icons/animals/calf.svg" width="180" align="bottom" alt="Kalve" />
+<br>
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="empty" title="Køer" %}}
+<br>
+<img src="/icons/animals/cow.svg" width="180" align="bottom" alt="Køer" />
+<br>
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="empty" title="Lam" %}}
+<br>
+<img src="/icons/animals/lamb.svg" width="180" align="bottom" alt="Lam" />
+<br>
+{{% /blocks/feature %}}
+
+{{< /blocks/section >}}
+
+{{% blocks/lead color="primary" %}}
+
+Vores **højdepunkter** for dig
+
+{{% /blocks/lead %}}
+
+{{< blocks/section color="dark" type="row" >}}
+{{% blocks/feature3 icon="empty" title="Registrer <br> dine fødsler" %}}
+<br>
+<img src="images/calving.png" alt="fødsler" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Overvåg <br> dine nykælvede køer" %}}
+<br>
+<img src="images/fresh_cows.png" alt="Nykælvede-køer" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Scan dyre<br>pas" %}}
+<br>
+<img src="images/scan.png" alt="Masse-registrering" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="empty" title="Rapporter dine <br> køb nemt" %}}
+<br>
+<img src="images/purchased.png" alt="Købt" />
+<br>
+{{% /blocks/feature3 %}}
+
+{{< /blocks/section >}}
+
+{{% blocks/lead color = "secondary" %}}
+Urban på sociale netværk
+
+{{% /blocks/lead %}}
+
+{{% blocks/section color = "white" type = "row"%}}
+
+{{% blocks/feature3 icon="fa-brands fa-instagram" title="Instagram" url="https://www.instagram.com/urban_fuetterungstechnik/" url_text="Følg"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-brands fa-youtube" title="YouTube" url="https://www.youtube.com/user/calffeeding" url_text="Tag et kig"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-brands fa-facebook" title="Facebook" url="https://www.facebook.com/urbanonline" url_text="Følg"%}}
+{{% /blocks/feature3 %}}
+
+{{% blocks/feature3 icon="fa-light fa-image" title="Fotos" url="https://www.flickr.com/photos/urbanonline/" url_text="Samle indtryk"%}}
+{{% /blocks/feature3 %}}
+
+{{< /blocks/section >}}
