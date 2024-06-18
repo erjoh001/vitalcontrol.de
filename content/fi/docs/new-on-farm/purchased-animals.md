@@ -89,7 +89,7 @@ Eläimen ja siihen liittyvän ostohuomautuksen poistaminen tapahtuu seuraavasti:
 
 2. Paina `F3`-näppäintä. Alivalikko avautuu.
 
-3. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `{{<T "UnregisterAnimalAndBirthNotice >}}` ja vahvista `{{<T "Ok" >}}`.
+3. Käytä nuolinäppäimiä △ ▽ valitaksesi valikkokohdan `{{<T "UnregisterAnimalAndBirthNotice" >}}` ja vahvista `{{<T "Ok" >}}`.
 
 4. Eläin ja pääsyviesti on poistettu onnistuneesti.
 

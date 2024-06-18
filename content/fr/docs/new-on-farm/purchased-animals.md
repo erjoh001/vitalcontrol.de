@@ -89,7 +89,7 @@ Pour supprimer un animal et son avis d'achat correspondant, procédez comme suit
 
 2. Utilisez la touche `F3`. Un sous-menu s'ouvre.
 
-3. Utilisez les touches fléchées △ ▽ pour sélectionner l'option de menu `{{<T "UnregisterAnimalAndBirthNotice >}}` et confirmez avec `{{<T "Ok" >}}`.
+3. Utilisez les touches fléchées △ ▽ pour sélectionner l'option de menu `{{<T "UnregisterAnimalAndBirthNotice" >}}` et confirmez avec `{{<T "Ok" >}}`.
 
 4. L'animal et le message d'accès ont été supprimés avec succès.
 

@@ -156,14 +156,14 @@ Cihazınızda çiftlik hayvanı oluştururken hayvan kimliğinin atanmasını ta
 
 5. Oluşturma sırasında çalışma hayvanının hayvan kimliğinin atanmasını ayarlamak için ok tuşlarını ◁ ▷ kullanın.
 
-6. `{{<T "Consecutive >}}` ayarını seçerseniz, `{{<T "NextAnimalID" >}}` belirleme seçeneğiniz olur. `{{<T "NextAnimalID" >}}` alanını seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. Alan içinde gezinmek için ok tuşlarını ◁ ▷ kullanın. Şimdi ok tuşlarını △ ▽ kullanarak bir numara seçebilirsiniz. Cihaz artık bu numarayı otomatik olarak kullanarak sürekli sayımı buradan başlatacaktır. Ayrıca, numaraların sürekli artan mı yoksa sürekli azalan mı sayılacağını ayarlayabilirsiniz. Bunu yapmak için ok tuşlarını ◁ ▷ kullanarak 9/1 sembolüne gidin. Ok tuşlarını △ ▽ kullanarak sürekli artan veya sürekli azalan sayım arasında geçiş yapın. Ayarları `F1` veya `{{<T "Ok" >}}` tuşu &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Kaydet ve geri dön" />&nbsp; kullanarak kaydedin.
+6. `{{<T "Consecutive" >}}` ayarını seçerseniz, `{{<T "NextAnimalID" >}}` belirleme seçeneğiniz olur. `{{<T "NextAnimalID" >}}` alanını seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. Alan içinde gezinmek için ok tuşlarını ◁ ▷ kullanın. Şimdi ok tuşlarını △ ▽ kullanarak bir numara seçebilirsiniz. Cihaz artık bu numarayı otomatik olarak kullanarak sürekli sayımı buradan başlatacaktır. Ayrıca, numaraların sürekli artan mı yoksa sürekli azalan mı sayılacağını ayarlayabilirsiniz. Bunu yapmak için ok tuşlarını ◁ ▷ kullanarak 9/1 sembolüne gidin. Ok tuşlarını △ ▽ kullanarak sürekli artan veya sürekli azalan sayım arasında geçiş yapın. Ayarları `F1` veya `{{<T "Ok" >}}` tuşu &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Kaydet ve geri dön" />&nbsp; kullanarak kaydedin.
 
     ![VitalControl: menü ayarları hayvan kimliği atama](../images/assignmentanimalid2.png "Hayvan kimliği atama")
 
     ![VitalControl: menü ayarları hayvan kimliği atama](../images/assignmentanimalid3.png "hayvan kimliği atama")
 
 {{% alert title = "İpucu" %}}
-Sadece `{{<T "Consecutive >}}` seçeneğini kullanırken: kulak küpesi numarasını atarken erkek ve dişi hayvanlar için ayrı numara aralıkları kullanmayı ayarladıysanız, erkek, dişi ve cinsiyeti bilinmeyen hayvanlar için bir sonraki hayvan numarası saklanır. Hayvan numarasının soluna yerleştirilen bir sembol, bir sonraki hayvan numarasının ne için kullanıldığını gösterir: erkek ♀, dişi ♂ veya cinsiyeti bilinmeyen hayvanlar ♀♂?
+Sadece `{{<T "Consecutive" >}}` seçeneğini kullanırken: kulak küpesi numarasını atarken erkek ve dişi hayvanlar için ayrı numara aralıkları kullanmayı ayarladıysanız, erkek, dişi ve cinsiyeti bilinmeyen hayvanlar için bir sonraki hayvan numarası saklanır. Hayvan numarasının soluna yerleştirilen bir sembol, bir sonraki hayvan numarasının ne için kullanıldığını gösterir: erkek ♀, dişi ♂ veya cinsiyeti bilinmeyen hayvanlar ♀♂?
 {{% /alert %}}
 
 ### Yeni Kimliğin Basamağı {#digit-of-the-new-id}

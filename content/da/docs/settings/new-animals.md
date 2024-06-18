@@ -157,14 +157,14 @@ For at definere tildelingen af dyre-ID'et ved oprettelse af gårddyr på din enh
 
 5. Brug piletasterne ◁ ▷ til at indstille tildelingen af dyrets ID ved oprettelse.
 
-6. Hvis du vælger indstillingen `{{<T "Consecutive >}}`, har du mulighed for at angive `{{<T "NextAnimalID" >}}`. Brug piletasterne △ ▽ til at vælge området `{{<T "NextAnimalID" >}}` og bekræft med `{{<T "Ok" >}}`. Naviger inden for området ved hjælp af piletasterne ◁ ▷. Nu kan du vælge et nummer ved hjælp af piletasterne △ ▽. Enheden vil nu automatisk bruge dette nummer til at starte den kontinuerlige tælling derfra. Desuden kan du indstille, om numrene skal tælles kontinuerligt stigende eller kontinuerligt faldende. For at gøre dette skal du bruge piletasterne ◁ ▷ til at gå til 9/1-symbolet. Brug piletasterne △ ▽ til at skifte mellem at tælle kontinuerligt stigende eller kontinuerligt faldende. Gem indstillingerne ved hjælp af `F1` eller `{{<T "Ok" >}}`-tasten &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Gem og vend tilbage" />&nbsp;.
+6. Hvis du vælger indstillingen `{{<T "Consecutive" >}}`, har du mulighed for at angive `{{<T "NextAnimalID" >}}`. Brug piletasterne △ ▽ til at vælge området `{{<T "NextAnimalID" >}}` og bekræft med `{{<T "Ok" >}}`. Naviger inden for området ved hjælp af piletasterne ◁ ▷. Nu kan du vælge et nummer ved hjælp af piletasterne △ ▽. Enheden vil nu automatisk bruge dette nummer til at starte den kontinuerlige tælling derfra. Desuden kan du indstille, om numrene skal tælles kontinuerligt stigende eller kontinuerligt faldende. For at gøre dette skal du bruge piletasterne ◁ ▷ til at gå til 9/1-symbolet. Brug piletasterne △ ▽ til at skifte mellem at tælle kontinuerligt stigende eller kontinuerligt faldende. Gem indstillingerne ved hjælp af `F1` eller `{{<T "Ok" >}}`-tasten &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Gem og vend tilbage" />&nbsp;.
 
     ![VitalControl: menuindstillinger tildeling af dyre-ID](../images/assignmentanimalid2.png "Tildeling af dyre-ID")
 
     ![VitalControl: menuindstillinger tildeling af dyre-ID](../images/assignmentanimalid3.png "tildeling af dyre-ID")
 
 {{% alert title = "Hint" %}}
-Kun ved brug af indstillingen `{{<T "Consecutive >}}`: hvis du har indstillet til at bruge separate nummerområder for han- og hundyr ved tildeling af øremærkenummeret, gemmes et næste dyrenummer for hver af han-, hun- og dyr af ukendt køn. Et symbol placeret til venstre for dyrenummeret angiver, hvad det næste dyrenummer bruges til: enten for han ♀ eller for hun ♂ eller for dyr af ukendt køn ♀♂?
+Kun ved brug af indstillingen `{{<T "Consecutive" >}}`: hvis du har indstillet til at bruge separate nummerområder for han- og hundyr ved tildeling af øremærkenummeret, gemmes et næste dyrenummer for hver af han-, hun- og dyr af ukendt køn. Et symbol placeret til venstre for dyrenummeret angiver, hvad det næste dyrenummer bruges til: enten for han ♀ eller for hun ♂ eller for dyr af ukendt køn ♀♂?
 {{% /alert %}}
 
 ### Ciffer for det nye ID {#digit-of-the-new-id}

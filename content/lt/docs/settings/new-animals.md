@@ -155,14 +155,14 @@ Norėdami nustatyti gyvūno ID priskyrimą kuriant ūkio gyvūną jūsų įrengi
 
 5. Naudokite rodyklių klavišus ◁ ▷, kad nustatytumėte darbo gyvūno ID priskyrimą kuriant.
 
-6. Jei pasirinksite nustatymą `{{<T "Consecutive >}}`, turėsite galimybę nurodyti `{{<T "NextAnimalID" >}}`. Naudokite rodyklių klavišus △ ▽, kad pasirinktumėte `{{<T "NextAnimalID" >}}` sritį ir patvirtinkite su `{{<T "Ok" >}}`. Naršykite srityje naudodami rodyklių klavišus ◁ ▷. Dabar galite pasirinkti numerį naudodami rodyklių klavišus △ ▽. Prietaisas dabar automatiškai naudos šį numerį, kad pradėtų nuolatinį skaičiavimą nuo ten. Be to, galite nustatyti, ar numeriai turi būti skaičiuojami nuolat didėjantys ar nuolat mažėjantys. Norėdami tai padaryti, naudokite rodyklių klavišus ◁ ▷, kad pereitumėte prie 9/1 simbolio. Naudokite rodyklių klavišus △ ▽, kad perjungtumėte tarp nuolatinio didėjimo ar nuolatinio mažėjimo skaičiavimo. Išsaugokite nustatymus naudodami `F1` arba `{{<T "Ok" >}}` klavišą &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+6. Jei pasirinksite nustatymą `{{<T "Consecutive" >}}`, turėsite galimybę nurodyti `{{<T "NextAnimalID" >}}`. Naudokite rodyklių klavišus △ ▽, kad pasirinktumėte `{{<T "NextAnimalID" >}}` sritį ir patvirtinkite su `{{<T "Ok" >}}`. Naršykite srityje naudodami rodyklių klavišus ◁ ▷. Dabar galite pasirinkti numerį naudodami rodyklių klavišus △ ▽. Prietaisas dabar automatiškai naudos šį numerį, kad pradėtų nuolatinį skaičiavimą nuo ten. Be to, galite nustatyti, ar numeriai turi būti skaičiuojami nuolat didėjantys ar nuolat mažėjantys. Norėdami tai padaryti, naudokite rodyklių klavišus ◁ ▷, kad pereitumėte prie 9/1 simbolio. Naudokite rodyklių klavišus △ ▽, kad perjungtumėte tarp nuolatinio didėjimo ar nuolatinio mažėjimo skaičiavimo. Išsaugokite nustatymus naudodami `F1` arba `{{<T "Ok" >}}` klavišą &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
     ![VitalControl: meniu nustatymai gyvūno ID priskyrimas](../images/assignmentanimalid2.png "Gyvūno ID priskyrimas")
 
     ![VitalControl: meniu nustatymai gyvūno ID priskyrimas](../images/assignmentanimalid3.png "Gyvūno ID priskyrimas")
 
 {{% alert title = "Patarimas" %}}
-Tik naudojant parinktį `{{<T "Consecutive >}}`: jei nustatėte naudoti atskirus numerių diapazonus vyrams ir moterims gyvūnams, kai priskiriate ausų žymės numerį, kiekvienam vyrui, moteriai ir nežinomos lyties gyvūnams saugomas kitas gyvūno numeris. Simbolis, esantis kairėje gyvūno numerio, nurodo, kam naudojamas kitas gyvūno numeris: arba vyrams ♀, arba moterims ♂, arba nežinomos lyties gyvūnams ♀♂?
+Tik naudojant parinktį `{{<T "Consecutive" >}}`: jei nustatėte naudoti atskirus numerių diapazonus vyrams ir moterims gyvūnams, kai priskiriate ausų žymės numerį, kiekvienam vyrui, moteriai ir nežinomos lyties gyvūnams saugomas kitas gyvūno numeris. Simbolis, esantis kairėje gyvūno numerio, nurodo, kam naudojamas kitas gyvūno numeris: arba vyrams ♀, arba moterims ♂, arba nežinomos lyties gyvūnams ♀♂?
 {{% /alert %}}
 
 ### Naujo ID skaitmuo {#digit-of-the-new-id}

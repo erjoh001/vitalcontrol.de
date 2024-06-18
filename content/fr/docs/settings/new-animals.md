@@ -156,7 +156,7 @@ Pour définir l'attribution de l'ID animal lors de la création de l'animal de f
 
 5. Utilisez les touches fléchées ◁ ▷ pour régler l'attribution de l'ID animal de l'animal de travail lors de la création.
 
-6. Si vous sélectionnez le paramètre `{{<T "Consecutive >}}`, vous avez la possibilité de spécifier le `{{<T "NextAnimalID" >}}`. Utilisez les touches fléchées △ ▽ pour sélectionner la zone `{{<T "NextAnimalID" >}}` et confirmez avec `{{<T "Ok" >}}`. Naviguez dans la zone en utilisant les touches fléchées ◁ ▷. Vous pouvez maintenant sélectionner un numéro en utilisant les touches fléchées △ ▽. L'appareil utilisera désormais automatiquement ce numéro pour commencer le décompte continu à partir de là. De plus, vous pouvez définir si les numéros doivent être comptés en augmentation continue ou en diminution continue. Pour ce faire, utilisez les touches fléchées ◁ ▷ pour aller au symbole 9/1. Utilisez les touches fléchées △ ▽ pour basculer entre compter en augmentation continue ou en diminution continue. Sauvegardez les paramètres en utilisant la touche `F1` ou `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sauvegarder et retourner" />&nbsp;.
+6. Si vous sélectionnez le paramètre `{{<T "Consecutive" >}}`, vous avez la possibilité de spécifier le `{{<T "NextAnimalID" >}}`. Utilisez les touches fléchées △ ▽ pour sélectionner la zone `{{<T "NextAnimalID" >}}` et confirmez avec `{{<T "Ok" >}}`. Naviguez dans la zone en utilisant les touches fléchées ◁ ▷. Vous pouvez maintenant sélectionner un numéro en utilisant les touches fléchées △ ▽. L'appareil utilisera désormais automatiquement ce numéro pour commencer le décompte continu à partir de là. De plus, vous pouvez définir si les numéros doivent être comptés en augmentation continue ou en diminution continue. Pour ce faire, utilisez les touches fléchées ◁ ▷ pour aller au symbole 9/1. Utilisez les touches fléchées △ ▽ pour basculer entre compter en augmentation continue ou en diminution continue. Sauvegardez les paramètres en utilisant la touche `F1` ou `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Sauvegarder et retourner" />&nbsp;.
 
 ![VitalControl : paramètres du menu attribution d'identifiant animal](../images/assignmentanimalid2.png "Attribution identifiant animal")
 
@@ -221,6 +221,6 @@ Ici, vous définissez si une ou deux plages de numéros sont utilisées lors de 
 
     ![VitalControl: réglages du menu Attribution numéro de boucle](../images/assignmenteartagnumber.png "Attribution numéro de boucle")
 
-Enregistrez les paramètres et retournez au menu principal `{{<T "RegistrationAnimals >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
+Enregistrez les paramètres et retournez au menu principal `{{<T "RegistrationAnimals" >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.
 
 Enregistrez les paramètres et retournez au menu principal <img src="/icons/gear.svg" width="25" align="bottom" alt="Paramètres" /> `{{<T "Settings" >}}` en appuyant sur la touche `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Enregistrer et retourner" />&nbsp;.

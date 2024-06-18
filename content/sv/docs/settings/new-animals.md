@@ -156,14 +156,14 @@ För att definiera tilldelningen av djur-ID när du skapar gårdsdjuret på din 
 
 5. Använd piltangenterna ◁ ▷ för att ställa in tilldelningen av djur-ID för arbetsdjuret vid skapande.
 
-6. Om du väljer inställningen `{{<T "Consecutive >}}`, har du möjlighet att ange `{{<T "NextAnimalID" >}}`. Använd piltangenterna △ ▽ för att välja området `{{<T "NextAnimalID" >}}` och bekräfta med `{{<T "Ok" >}}`. Navigera inom området med piltangenterna ◁ ▷. Nu kan du välja ett nummer med piltangenterna △ ▽. Enheten kommer nu automatiskt att använda detta nummer för att starta den kontinuerliga räkningen därifrån. Dessutom kan du ställa in om numren ska räknas kontinuerligt ökande eller kontinuerligt minskande. För att göra detta, använd piltangenterna ◁ ▷ för att gå till 9/1-symbolen. Använd piltangenterna △ ▽ för att växla mellan att räkna kontinuerligt ökande eller kontinuerligt minskande. Spara inställningarna med `F1` eller `{{<T "Ok" >}}`-knappen &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Spara och återvänd" />&nbsp;.
+6. Om du väljer inställningen `{{<T "Consecutive" >}}`, har du möjlighet att ange `{{<T "NextAnimalID" >}}`. Använd piltangenterna △ ▽ för att välja området `{{<T "NextAnimalID" >}}` och bekräfta med `{{<T "Ok" >}}`. Navigera inom området med piltangenterna ◁ ▷. Nu kan du välja ett nummer med piltangenterna △ ▽. Enheten kommer nu automatiskt att använda detta nummer för att starta den kontinuerliga räkningen därifrån. Dessutom kan du ställa in om numren ska räknas kontinuerligt ökande eller kontinuerligt minskande. För att göra detta, använd piltangenterna ◁ ▷ för att gå till 9/1-symbolen. Använd piltangenterna △ ▽ för att växla mellan att räkna kontinuerligt ökande eller kontinuerligt minskande. Spara inställningarna med `F1` eller `{{<T "Ok" >}}`-knappen &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Spara och återvänd" />&nbsp;.
 
     ![VitalControl: menyinställningar tilldelning djur-ID](../images/assignmentanimalid2.png "Tilldelning djur-ID")
 
     ![VitalControl: menyinställningar tilldelning djur-ID](../images/assignmentanimalid3.png "tilldelning djur-ID")
 
 {{% alert title = "Tips" %}}
-Endast vid användning av alternativet `{{<T "Consecutive >}}`: om du har ställt in att använda separata nummerintervall för han- och hondjur vid tilldelning av öronmärkets nummer, lagras ett nästa djurnummer för vardera han-, hondjur och djur av okänt kön. En symbol placerad till vänster om djurnumret indikerar vad nästa djurnummer används för: antingen för hanar ♀ eller för honor ♂ eller för djur av okänt kön ♀♂?
+Endast vid användning av alternativet `{{<T "Consecutive" >}}`: om du har ställt in att använda separata nummerintervall för han- och hondjur vid tilldelning av öronmärkets nummer, lagras ett nästa djurnummer för vardera han-, hondjur och djur av okänt kön. En symbol placerad till vänster om djurnumret indikerar vad nästa djurnummer används för: antingen för hanar ♀ eller för honor ♂ eller för djur av okänt kön ♀♂?
 {{% /alert %}}
 
 ### Siffra för det nya ID:t {#digit-of-the-new-id}

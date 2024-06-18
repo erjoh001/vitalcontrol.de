@@ -155,14 +155,14 @@ Määritelläksesi eläimen tunnuksen määrittämisen luodessasi tilaeläintä 
 
 5. Käytä nuolinäppäimiä ◁ ▷ asettaaksesi työeläimen tunnuksen määrittämisen luodessasi.
 
-6. Jos valitset asetuksen `{{<T "Consecutive >}}`, sinulla on mahdollisuus määrittää `{{<T "NextAnimalID" >}}`. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "NextAnimalID" >}}` -alueen ja vahvista painamalla `{{<T "Ok" >}}`. Navigoi alueella käyttämällä nuolinäppäimiä ◁ ▷. Nyt voit valita numeron käyttämällä nuolinäppäimiä △ ▽. Laite käyttää nyt automaattisesti tätä numeroa aloittaakseen jatkuvan laskennan siitä. Lisäksi voit asettaa, lasketaanko numerot jatkuvasti kasvavasti vai jatkuvasti vähenevästi. Tee tämä käyttämällä nuolinäppäimiä ◁ ▷ siirtyäksesi 9/1-symboliin. Käytä nuolinäppäimiä △ ▽ vaihtaaksesi jatkuvasti kasvavan tai jatkuvasti vähenevän laskennan välillä. Tallenna asetukset käyttämällä `F1` tai `{{<T "Ok" >}}` -näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
+6. Jos valitset asetuksen `{{<T "Consecutive" >}}`, sinulla on mahdollisuus määrittää `{{<T "NextAnimalID" >}}`. Käytä nuolinäppäimiä △ ▽ valitaksesi `{{<T "NextAnimalID" >}}` -alueen ja vahvista painamalla `{{<T "Ok" >}}`. Navigoi alueella käyttämällä nuolinäppäimiä ◁ ▷. Nyt voit valita numeron käyttämällä nuolinäppäimiä △ ▽. Laite käyttää nyt automaattisesti tätä numeroa aloittaakseen jatkuvan laskennan siitä. Lisäksi voit asettaa, lasketaanko numerot jatkuvasti kasvavasti vai jatkuvasti vähenevästi. Tee tämä käyttämällä nuolinäppäimiä ◁ ▷ siirtyäksesi 9/1-symboliin. Käytä nuolinäppäimiä △ ▽ vaihtaaksesi jatkuvasti kasvavan tai jatkuvasti vähenevän laskennan välillä. Tallenna asetukset käyttämällä `F1` tai `{{<T "Ok" >}}` -näppäintä &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Tallenna ja palaa" />&nbsp;.
 
 ![VitalControl: valikkoasetukset eläimen tunnisteen määritys](../images/assignmentanimalid2.png "Eläimen tunnisteen määritys")
 
 ![VitalControl: valikkoasetukset eläimen tunnisteen määritys](../images/assignmentanimalid3.png "eläimen tunnisteen määritys")
 
 {{% alert title = "Vihje" %}}
-Vain käytettäessä vaihtoehtoa `{{<T "Consecutive >}}`: jos olet asettanut käyttämään erillisiä numerosarjoja uroksille ja naaraille korvamerkin numeron määrittämisessä, seuraava eläinnumero tallennetaan kullekin uroksille, naaraalle ja tuntemattoman sukupuolen eläimille. Symboli eläinnumeron vasemmalla puolella osoittaa, mihin seuraavaa eläinnumeroa käytetään: joko urokselle ♀ tai naaraalle ♂ tai tuntemattoman sukupuolen eläimille ♀♂?
+Vain käytettäessä vaihtoehtoa `{{<T "Consecutive" >}}`: jos olet asettanut käyttämään erillisiä numerosarjoja uroksille ja naaraille korvamerkin numeron määrittämisessä, seuraava eläinnumero tallennetaan kullekin uroksille, naaraalle ja tuntemattoman sukupuolen eläimille. Symboli eläinnumeron vasemmalla puolella osoittaa, mihin seuraavaa eläinnumeroa käytetään: joko urokselle ♀ tai naaraalle ♂ tai tuntemattoman sukupuolen eläimille ♀♂?
 {{% /alert %}}
 
 ### Uuden tunnisteen numero {#digit-of-the-new-id}

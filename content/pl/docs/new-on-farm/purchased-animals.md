@@ -91,7 +91,7 @@ Aby usunąć zwierzę i odpowiadające mu powiadomienie o zakupie, postępuj w n
 
 2. Użyj klawisza `F3`. Otworzy się submenu.
 
-3. Użyj klawiszy strzałek △ ▽, aby wybrać element menu `{{<T "UnregisterAnimalAndBirthNotice >}}` i potwierdź `{{<T "Ok" >}}`.
+3. Użyj klawiszy strzałek △ ▽, aby wybrać element menu `{{<T "UnregisterAnimalAndBirthNotice" >}}` i potwierdź `{{<T "Ok" >}}`.
 
 4. Zwierzę i wiadomość dostępu zostały pomyślnie usunięte.
 

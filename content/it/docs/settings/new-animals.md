@@ -157,14 +157,14 @@ Per definire l'assegnazione dell'ID animale quando crei l'animale della fattoria
 
 5. Usa i tasti freccia ◁ ▷ per impostare l'assegnazione dell'ID animale dell'animale da lavoro durante la creazione.
 
-6. Se selezioni l'impostazione `{{<T "Consecutive >}}`, hai la possibilità di specificare il `{{<T "NextAnimalID" >}}`. Usa i tasti freccia △ ▽ per selezionare l'area `{{<T "NextAnimalID" >}}` e conferma con `{{<T "Ok" >}}`. Naviga all'interno dell'area utilizzando i tasti freccia ◁ ▷. Ora puoi selezionare un numero utilizzando i tasti freccia △ ▽. Il dispositivo utilizzerà automaticamente questo numero per iniziare il conteggio continuo da lì. Inoltre, puoi impostare se i numeri devono essere contati in modo continuo crescente o continuo decrescente. Per fare ciò, usa i tasti freccia ◁ ▷ per andare al simbolo 9/1. Usa i tasti freccia △ ▽ per alternare tra il conteggio continuo crescente o continuo decrescente. Salva le impostazioni utilizzando il tasto `F1` o `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salva e torna" />&nbsp;.
+6. Se selezioni l'impostazione `{{<T "Consecutive" >}}`, hai la possibilità di specificare il `{{<T "NextAnimalID" >}}`. Usa i tasti freccia △ ▽ per selezionare l'area `{{<T "NextAnimalID" >}}` e conferma con `{{<T "Ok" >}}`. Naviga all'interno dell'area utilizzando i tasti freccia ◁ ▷. Ora puoi selezionare un numero utilizzando i tasti freccia △ ▽. Il dispositivo utilizzerà automaticamente questo numero per iniziare il conteggio continuo da lì. Inoltre, puoi impostare se i numeri devono essere contati in modo continuo crescente o continuo decrescente. Per fare ciò, usa i tasti freccia ◁ ▷ per andare al simbolo 9/1. Usa i tasti freccia △ ▽ per alternare tra il conteggio continuo crescente o continuo decrescente. Salva le impostazioni utilizzando il tasto `F1` o `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salva e torna" />&nbsp;.
 
 ![VitalControl: menu impostazioni assegnazione ID animale](../images/assignmentanimalid2.png "Assegnazione ID animale")
 
 ![VitalControl: menu impostazioni assegnazione ID animale](../images/assignmentanimalid3.png "assegnazione ID animale")
 
 {{% alert title = "Suggerimento" %}}
-Solo quando si utilizza l'opzione `{{<T "Consecutive >}}`: se hai impostato di utilizzare intervalli di numeri separati per animali maschi e femmine durante l'assegnazione del numero di marca auricolare, un numero di animale successivo viene memorizzato per ciascuno di maschio, femmina e animali di sesso sconosciuto. Un simbolo posto a sinistra del numero dell'animale indica per cosa viene utilizzato il numero dell'animale successivo: per maschio ♀ o per femmina ♂ o per animali di sesso sconosciuto ♀♂?
+Solo quando si utilizza l'opzione `{{<T "Consecutive" >}}`: se hai impostato di utilizzare intervalli di numeri separati per animali maschi e femmine durante l'assegnazione del numero di marca auricolare, un numero di animale successivo viene memorizzato per ciascuno di maschio, femmina e animali di sesso sconosciuto. Un simbolo posto a sinistra del numero dell'animale indica per cosa viene utilizzato il numero dell'animale successivo: per maschio ♀ o per femmina ♂ o per animali di sesso sconosciuto ♀♂?
 {{% /alert %}}
 
 ### Cifra del nuovo ID {#digit-of-the-new-id}

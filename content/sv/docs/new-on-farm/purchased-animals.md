@@ -90,7 +90,7 @@ För att radera ett djur och dess motsvarande köpeanmälan, gör följande:
 
 2. Använd `F3`-tangenten. En undermeny öppnas.
 
-3. Använd piltangenterna △ ▽ för att välja menyalternativet `{{<T "UnregisterAnimalAndBirthNotice >}}` och bekräfta med `{{<T "Ok" >}}`.
+3. Använd piltangenterna △ ▽ för att välja menyalternativet `{{<T "UnregisterAnimalAndBirthNotice" >}}` och bekräfta med `{{<T "Ok" >}}`.
 
 4. Djuret och åtkomstmeddelandet har raderats framgångsrikt.
 

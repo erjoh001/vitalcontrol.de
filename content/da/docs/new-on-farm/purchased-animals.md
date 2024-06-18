@@ -90,7 +90,7 @@ For at slette et dyr og dets tilsvarende købsmeddelelse, skal du gøre følgend
 
 2. Brug `F3` tasten. En undermenu åbnes.
 
-3. Brug piletasterne △ ▽ til at vælge menupunktet `{{<T "UnregisterAnimalAndBirthNotice >}}` og bekræft med `{{<T "Ok" >}}`.
+3. Brug piletasterne △ ▽ til at vælge menupunktet `{{<T "UnregisterAnimalAndBirthNotice" >}}` og bekræft med `{{<T "Ok" >}}`.
 
 4. Dyret og adgangsmeddelelsen er blevet slettet med succes.
 

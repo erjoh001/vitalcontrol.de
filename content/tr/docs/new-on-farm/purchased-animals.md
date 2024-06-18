@@ -90,7 +90,7 @@ Bir hayvanı ve ilgili satın alma bildirimini silmek için şu adımları izley
 
 2. `F3` tuşunu kullanın. Bir alt menü açılır.
 
-3. `{{<T "UnregisterAnimalAndBirthNotice >}}` menü öğesini seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın.
+3. `{{<T "UnregisterAnimalAndBirthNotice" >}}` menü öğesini seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın.
 
 4. Hayvan ve erişim mesajı başarıyla silindi.
 

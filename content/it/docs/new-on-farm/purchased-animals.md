@@ -89,7 +89,7 @@ Per eliminare un animale e il corrispondente avviso di acquisto, procedi come se
 
 2. Usa il tasto `F3`. Si apre un sottomenu.
 
-3. Usa i tasti freccia △ ▽ per selezionare la voce di menu `{{<T "UnregisterAnimalAndBirthNotice >}}` e conferma con `{{<T "Ok" >}}`.
+3. Usa i tasti freccia △ ▽ per selezionare la voce di menu `{{<T "UnregisterAnimalAndBirthNotice" >}}` e conferma con `{{<T "Ok" >}}`.
 
 4. L'animale e il messaggio di accesso sono stati eliminati con successo.
 

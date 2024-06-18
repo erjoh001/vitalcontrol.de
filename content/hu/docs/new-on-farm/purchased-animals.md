@@ -89,7 +89,7 @@ Az állat és a hozzá tartozó vásárlási értesítés törléséhez kövesse
 
 2. Használja az `F3` billentyűt. Egy almenü nyílik meg.
 
-3. Használja a △ ▽ nyílbillentyűket a `{{<T "UnregisterAnimalAndBirthNotice >}}` menüpont kiválasztásához, majd erősítse meg az `{{<T "Ok" >}}` gombbal.
+3. Használja a △ ▽ nyílbillentyűket a `{{<T "UnregisterAnimalAndBirthNotice" >}}` menüpont kiválasztásához, majd erősítse meg az `{{<T "Ok" >}}` gombbal.
 
 4. Az állat és a hozzá tartozó értesítés sikeresen törölve lett.
 

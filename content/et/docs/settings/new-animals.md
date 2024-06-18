@@ -155,14 +155,14 @@ Looma ID määramiseks looma loomisel oma seadmes toimige järgmiselt:
 
 5. Kasutage nooleklahve ◁ ▷, et seada töötava looma looma ID määramine loomise ajal.
 
-6. Kui valite seade `{{<T "Consecutive >}}`, on teil võimalus määrata `{{<T "NextAnimalID" >}}`. Kasutage nooleklahve △ ▽, et valida `{{<T "NextAnimalID" >}}` ala ja kinnitage `{{<T "Ok" >}}`-ga. Liikuge alal nooleklahvide ◁ ▷ abil. Nüüd saate nooleklahvide △ ▽ abil valida numbri. Seade kasutab seda numbrit nüüd automaatselt järjestikuse loendamise alustamiseks. Lisaks saate määrata, kas numbreid loendatakse pidevalt suurenev või pidevalt vähenev. Selleks kasutage nooleklahve ◁ ▷, et minna 9/1 sümbolile. Kasutage nooleklahve △ ▽, et vahetada pidevalt suureneva või pidevalt väheneva loendamise vahel. Salvestage seaded kasutades `F1` või `{{<T "Ok" >}}` nuppu &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
+6. Kui valite seade `{{<T "Consecutive" >}}`, on teil võimalus määrata `{{<T "NextAnimalID" >}}`. Kasutage nooleklahve △ ▽, et valida `{{<T "NextAnimalID" >}}` ala ja kinnitage `{{<T "Ok" >}}`-ga. Liikuge alal nooleklahvide ◁ ▷ abil. Nüüd saate nooleklahvide △ ▽ abil valida numbri. Seade kasutab seda numbrit nüüd automaatselt järjestikuse loendamise alustamiseks. Lisaks saate määrata, kas numbreid loendatakse pidevalt suurenev või pidevalt vähenev. Selleks kasutage nooleklahve ◁ ▷, et minna 9/1 sümbolile. Kasutage nooleklahve △ ▽, et vahetada pidevalt suureneva või pidevalt väheneva loendamise vahel. Salvestage seaded kasutades `F1` või `{{<T "Ok" >}}` nuppu &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvesta ja naase" />&nbsp;.
 
 ![VitalControl: menüü seaded määramine looma ID](../images/assignmentanimalid2.png "Määramine looma ID")
 
 ![VitalControl: menüü seaded määramine looma ID](../images/assignmentanimalid3.png "määramine looma ID")
 
 {{% alert title = "Vihje" %}}
-Ainult valiku `{{<T "Consecutive >}}` kasutamisel: kui olete seadistanud eraldi numbrite vahemikud isaste ja emaste loomade kõrvamärgi numbri määramiseks, salvestatakse järgmine loomanumber igaühe jaoks - isased, emased ja teadmata soost loomad. Sümbol, mis on asetatud loomanumbri vasakule küljele, näitab, mille jaoks järgmist loomanumbrit kasutatakse: kas isastele ♀, emastele ♂ või teadmata soost loomadele ♀♂?
+Ainult valiku `{{<T "Consecutive" >}}` kasutamisel: kui olete seadistanud eraldi numbrite vahemikud isaste ja emaste loomade kõrvamärgi numbri määramiseks, salvestatakse järgmine loomanumber igaühe jaoks - isased, emased ja teadmata soost loomad. Sümbol, mis on asetatud loomanumbri vasakule küljele, näitab, mille jaoks järgmist loomanumbrit kasutatakse: kas isastele ♀, emastele ♂ või teadmata soost loomadele ♀♂?
 {{% /alert %}}
 
 ### Uue ID number {#digit-of-the-new-id}

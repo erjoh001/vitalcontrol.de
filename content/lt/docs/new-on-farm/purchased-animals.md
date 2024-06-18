@@ -90,7 +90,7 @@ Norėdami ištrinti gyvūną ir atitinkamą pirkimo pranešimą, atlikite šiuos
 
 2. Naudokite `F3` klavišą. Atsidaro submeniu.
 
-3. Naudokite rodyklių klavišus △ ▽, kad pasirinktumėte meniu punktą `{{<T "UnregisterAnimalAndBirthNotice >}}` ir patvirtinkite su `{{<T "Ok" >}}`.
+3. Naudokite rodyklių klavišus △ ▽, kad pasirinktumėte meniu punktą `{{<T "UnregisterAnimalAndBirthNotice" >}}` ir patvirtinkite su `{{<T "Ok" >}}`.
 
 4. Gyvūnas ir prieigos pranešimas buvo sėkmingai ištrinti.
 

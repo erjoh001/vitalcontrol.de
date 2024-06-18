@@ -90,7 +90,7 @@ Chcete-li smazat zvíře a odpovídající oznámení o nákupu, postupujte nás
 
 2. Použijte klávesu `F3`. Otevře se podnabídka.
 
-3. Pomocí šipek △ ▽ vyberte položku nabídky `{{<T "UnregisterAnimalAndBirthNotice >}}` a potvrďte `{{<T "Ok" >}}`.
+3. Pomocí šipek △ ▽ vyberte položku nabídky `{{<T "UnregisterAnimalAndBirthNotice" >}}` a potvrďte `{{<T "Ok" >}}`.
 
 4. Zvíře a přístupová zpráva byly úspěšně smazány.
 

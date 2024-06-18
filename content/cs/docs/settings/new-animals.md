@@ -159,14 +159,14 @@ Pro definování přiřazení ID zvířete při vytváření farmářského zví
 
 5. Pomocí šipek ◁ ▷ nastavte přiřazení ID zvířete pracovního zvířete při vytváření.
 
-6. Pokud vyberete nastavení `{{<T "Consecutive >}}`, máte možnost specifikovat `{{<T "NextAnimalID" >}}`. Pomocí šipek △ ▽ vyberte oblast `{{<T "NextAnimalID" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. V rámci oblasti navigujte pomocí šipek ◁ ▷. Nyní můžete pomocí šipek △ ▽ vybrat číslo. Zařízení nyní automaticky použije toto číslo pro zahájení nepřetržitého počítání odtud. Dále můžete nastavit, zda mají být čísla počítána nepřetržitě vzestupně nebo nepřetržitě sestupně. K tomu použijte šipky ◁ ▷ k přechodu na symbol 9/1. Pomocí šipek △ ▽ přepínejte mezi nepřetržitým vzestupným nebo nepřetržitým sestupným počítáním. Uložte nastavení pomocí klávesy `F1` nebo `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
+6. Pokud vyberete nastavení `{{<T "Consecutive" >}}`, máte možnost specifikovat `{{<T "NextAnimalID" >}}`. Pomocí šipek △ ▽ vyberte oblast `{{<T "NextAnimalID" >}}` a potvrďte stisknutím `{{<T "Ok" >}}`. V rámci oblasti navigujte pomocí šipek ◁ ▷. Nyní můžete pomocí šipek △ ▽ vybrat číslo. Zařízení nyní automaticky použije toto číslo pro zahájení nepřetržitého počítání odtud. Dále můžete nastavit, zda mají být čísla počítána nepřetržitě vzestupně nebo nepřetržitě sestupně. K tomu použijte šipky ◁ ▷ k přechodu na symbol 9/1. Pomocí šipek △ ▽ přepínejte mezi nepřetržitým vzestupným nebo nepřetržitým sestupným počítáním. Uložte nastavení pomocí klávesy `F1` nebo `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Uložit a vrátit se" />&nbsp;.
 
 ![VitalControl: menu nastavení přiřazení ID zvířete](../images/assignmentanimalid2.png "Přiřazení ID zvířete")
 
 ![VitalControl: menu nastavení přiřazení ID zvířete](../images/assignmentanimalid3.png "přiřazení ID zvířete")
 
 {{% alert title = "Tip" %}}
-Pouze při použití možnosti `{{<T "Consecutive >}}`: pokud jste nastavili použití samostatných číselných rozsahů pro samčí a samičí zvířata při přiřazování čísla ušní známky, je uloženo další číslo zvířete pro každé z nich: samčí, samičí a zvířata neznámého pohlaví. Symbol umístěný vlevo od čísla zvířete označuje, pro co je další číslo zvířete použito: buď pro samčí ♀ nebo pro samičí ♂ nebo pro zvířata neznámého pohlaví ♀♂?
+Pouze při použití možnosti `{{<T "Consecutive" >}}`: pokud jste nastavili použití samostatných číselných rozsahů pro samčí a samičí zvířata při přiřazování čísla ušní známky, je uloženo další číslo zvířete pro každé z nich: samčí, samičí a zvířata neznámého pohlaví. Symbol umístěný vlevo od čísla zvířete označuje, pro co je další číslo zvířete použito: buď pro samčí ♀ nebo pro samičí ♂ nebo pro zvířata neznámého pohlaví ♀♂?
 {{% /alert %}}
 
 ### Číslice nového ID {#digit-of-the-new-id}

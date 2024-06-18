@@ -89,7 +89,7 @@ To delete an animal and its corresponding purchase notice, proceed as follows:
 
 2. Use the `F3` key. A submenu opens.
 
-3. Use the arrow keys △ ▽ to select the menu item `{{<T "UnregisterAnimalAndBirthNotice >}}` and confirm with `{{<T "Ok" >}}`.
+3. Use the arrow keys △ ▽ to select the menu item `{{<T "UnregisterAnimalAndBirthNotice" >}}` and confirm with `{{<T "Ok" >}}`.
 
 4. The animal and the access message have been successfully deleted.
 

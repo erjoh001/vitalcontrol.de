@@ -156,14 +156,14 @@ Para definir la asignación de la ID de animal al crear el animal de granja en t
 
 5. Usa las teclas de flecha ◁ ▷ para establecer la asignación de la ID de animal del animal de trabajo al crear.
 
-6. Si seleccionas la configuración `{{<T "Consecutive >}}`, tienes la opción de especificar la `{{<T "NextAnimalID" >}}`. Usa las teclas de flecha △ ▽ para seleccionar el área de `{{<T "NextAnimalID" >}}` y confirma con `{{<T "Ok" >}}`. Navega dentro del área usando las teclas de flecha ◁ ▷. Ahora puedes seleccionar un número usando las teclas de flecha △ ▽. El dispositivo ahora usará automáticamente este número para comenzar el conteo continuo desde allí. Además, puedes configurar si los números deben contarse de manera continuamente creciente o continuamente decreciente. Para hacerlo, usa las teclas de flecha ◁ ▷ para ir al símbolo 9/1. Usa las teclas de flecha △ ▽ para alternar entre contar de manera continuamente creciente o continuamente decreciente. Guarda la configuración usando la tecla `F1` o `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
+6. Si seleccionas la configuración `{{<T "Consecutive" >}}`, tienes la opción de especificar la `{{<T "NextAnimalID" >}}`. Usa las teclas de flecha △ ▽ para seleccionar el área de `{{<T "NextAnimalID" >}}` y confirma con `{{<T "Ok" >}}`. Navega dentro del área usando las teclas de flecha ◁ ▷. Ahora puedes seleccionar un número usando las teclas de flecha △ ▽. El dispositivo ahora usará automáticamente este número para comenzar el conteo continuo desde allí. Además, puedes configurar si los números deben contarse de manera continuamente creciente o continuamente decreciente. Para hacerlo, usa las teclas de flecha ◁ ▷ para ir al símbolo 9/1. Usa las teclas de flecha △ ▽ para alternar entre contar de manera continuamente creciente o continuamente decreciente. Guarda la configuración usando la tecla `F1` o `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Guardar y volver" />&nbsp;.
 
 ![VitalControl: configuración del menú asignación de ID de animal](../images/assignmentanimalid2.png "Asignación de ID de animal")
 
 ![VitalControl: configuración del menú asignación de ID de animal](../images/assignmentanimalid3.png "asignación de ID de animal")
 
 {{% alert title = "Consejo" %}}
-Solo al usar la opción `{{<T "Consecutive >}}`: si has configurado usar rangos de números separados para animales machos y hembras al asignar el número de etiqueta de oreja, se almacena un número de animal siguiente para cada uno de machos, hembras y animales de sexo desconocido. Un símbolo colocado a la izquierda del número de animal indica para qué se usa el siguiente número de animal: ¿para macho ♀ o para hembra ♂ o para animales de sexo desconocido ♀♂?
+Solo al usar la opción `{{<T "Consecutive" >}}`: si has configurado usar rangos de números separados para animales machos y hembras al asignar el número de etiqueta de oreja, se almacena un número de animal siguiente para cada uno de machos, hembras y animales de sexo desconocido. Un símbolo colocado a la izquierda del número de animal indica para qué se usa el siguiente número de animal: ¿para macho ♀ o para hembra ♂ o para animales de sexo desconocido ♀♂?
 {{% /alert %}}
 
 ### Dígito del nuevo ID {#digit-of-the-new-id}

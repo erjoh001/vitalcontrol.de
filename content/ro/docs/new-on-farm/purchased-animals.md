@@ -90,7 +90,7 @@ Pentru a șterge un animal și notificarea de achiziție corespunzătoare, proce
 
 2. Utilizați tasta `F3`. Se deschide un submeniu.
 
-3. Utilizați tastele săgeată △ ▽ pentru a selecta elementul de meniu `{{<T "UnregisterAnimalAndBirthNotice >}}` și confirmați cu `{{<T "Ok" >}}`.
+3. Utilizați tastele săgeată △ ▽ pentru a selecta elementul de meniu `{{<T "UnregisterAnimalAndBirthNotice" >}}` și confirmați cu `{{<T "Ok" >}}`.
 
 4. Animalul și mesajul de acces au fost șterse cu succes.
 

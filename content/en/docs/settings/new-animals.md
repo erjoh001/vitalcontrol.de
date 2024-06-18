@@ -156,14 +156,14 @@ To define the assignment of the animal ID when creating the farm animal on your 
 
 5. Use the arrow keys ◁ ▷ to set the assignment of the animal ID of the working animal when creating.
 
-6. If you select the setting `{{<T "Consecutive >}}`, you have the option of specifying the `{{<T "NextAnimalID" >}}`. Use the arrow keys △ ▽ to select the `{{<T "NextAnimalID" >}}` area and confirm with `{{<T "Ok" >}}`. Navigate within the area using the arrow keys ◁ ▷. Now you can select a number using the arrow keys △ ▽. The device will now automatically use this number to start the continuous count from there. Furthermore, you can set whether the numbers are to be counted continuously increasing or continuously decreasing. To do this, use the arrow keys ◁ ▷ to go to the 9/1 symbol. Use the arrow keys △ ▽ to toggle between counting continuously increasing or continuously decreasing. Save the settings using the `F1` or `{{<T "Ok" >}}` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
+6. If you select the setting `{{<T "Consecutive" >}}`, you have the option of specifying the `{{<T "NextAnimalID" >}}`. Use the arrow keys △ ▽ to select the `{{<T "NextAnimalID" >}}` area and confirm with `{{<T "Ok" >}}`. Navigate within the area using the arrow keys ◁ ▷. Now you can select a number using the arrow keys △ ▽. The device will now automatically use this number to start the continuous count from there. Furthermore, you can set whether the numbers are to be counted continuously increasing or continuously decreasing. To do this, use the arrow keys ◁ ▷ to go to the 9/1 symbol. Use the arrow keys △ ▽ to toggle between counting continuously increasing or continuously decreasing. Save the settings using the `F1` or `{{<T "Ok" >}}` key &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" />&nbsp;.
 
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid2.png "Assignment animal ID")
 
     ![VitalControl: menu settings assignment animal ID](../images/assignmentanimalid3.png "assignment animal ID")
 
 {{% alert title = "Hint" %}}
-Only when using the option `{{<T "Consecutive >}}`: if you have set to use separate number ranges for male and female animals when assigning the ear tag number, a next animal number is stored for each of male, female and animals of unknown sex. A symbol placed to the left of the animal number indicates what the next animal number is used for: either for male ♀ or for female ♂ or for animals of unknown sex ♀♂?
+Only when using the option `{{<T "Consecutive" >}}`: if you have set to use separate number ranges for male and female animals when assigning the ear tag number, a next animal number is stored for each of male, female and animals of unknown sex. A symbol placed to the left of the animal number indicates what the next animal number is used for: either for male ♀ or for female ♂ or for animals of unknown sex ♀♂?
 {{% /alert %}}
 
 ### Digit of the new ID {#digit-of-the-new-id}

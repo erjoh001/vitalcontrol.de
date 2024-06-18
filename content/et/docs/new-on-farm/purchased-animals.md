@@ -89,7 +89,7 @@ Looma ja vastava ostuteate kustutamiseks toimi järgmiselt:
 
 2. Kasuta `F3` klahvi. Avaneb alammenüü.
 
-3. Kasuta nooleklahve △ ▽ menüüpunkti `{{<T "UnregisterAnimalAndBirthNotice >}}` valimiseks ja kinnita `{{<T "Ok" >}}`-ga.
+3. Kasuta nooleklahve △ ▽ menüüpunkti `{{<T "UnregisterAnimalAndBirthNotice" >}}` valimiseks ja kinnita `{{<T "Ok" >}}`-ga.
 
 4. Loom ja juurdepääsuteade on edukalt kustutatud.
 

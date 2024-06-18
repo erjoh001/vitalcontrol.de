@@ -156,14 +156,14 @@ Pentru a defini atribuirea ID-ului animalului la crearea animalului de fermă pe
 
 5. Folosiți tastele săgeată ◁ ▷ pentru a seta atribuirea ID-ului animalului de lucru la creare.
 
-6. Dacă selectați setarea `{{<T "Consecutive >}}`, aveți opțiunea de a specifica `{{<T "NextAnimalID" >}}`. Folosiți tastele săgeată △ ▽ pentru a selecta zona `{{<T "NextAnimalID" >}}` și confirmați cu `{{<T "Ok" >}}`. Navigați în cadrul zonei folosind tastele săgeată ◁ ▷. Acum puteți selecta un număr folosind tastele săgeată △ ▽. Dispozitivul va folosi automat acest număr pentru a începe numărătoarea continuă de acolo. În plus, puteți seta dacă numerele trebuie să fie numărate continuu crescător sau continuu descrescător. Pentru a face acest lucru, folosiți tastele săgeată ◁ ▷ pentru a merge la simbolul 9/1. Folosiți tastele săgeată △ ▽ pentru a comuta între numărarea continuu crescătoare sau continuu descrescătoare. Salvați setările folosind tasta `F1` sau `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvați și reveniți" />&nbsp;.
+6. Dacă selectați setarea `{{<T "Consecutive" >}}`, aveți opțiunea de a specifica `{{<T "NextAnimalID" >}}`. Folosiți tastele săgeată △ ▽ pentru a selecta zona `{{<T "NextAnimalID" >}}` și confirmați cu `{{<T "Ok" >}}`. Navigați în cadrul zonei folosind tastele săgeată ◁ ▷. Acum puteți selecta un număr folosind tastele săgeată △ ▽. Dispozitivul va folosi automat acest număr pentru a începe numărătoarea continuă de acolo. În plus, puteți seta dacă numerele trebuie să fie numărate continuu crescător sau continuu descrescător. Pentru a face acest lucru, folosiți tastele săgeată ◁ ▷ pentru a merge la simbolul 9/1. Folosiți tastele săgeată △ ▽ pentru a comuta între numărarea continuu crescătoare sau continuu descrescătoare. Salvați setările folosind tasta `F1` sau `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Salvați și reveniți" />&nbsp;.
 
     ![VitalControl: setări meniu atribuirea ID-ului animalului](../images/assignmentanimalid2.png "Atribuirea ID-ului animalului")
 
     ![VitalControl: setări meniu atribuirea ID-ului animalului](../images/assignmentanimalid3.png "Atribuirea ID-ului animalului")
 
 {{% alert title = "Sfat" %}}
-Doar atunci când folosiți opțiunea `{{<T "Consecutive >}}`: dacă ați setat să folosiți intervale de numere separate pentru animale de sex masculin și feminin la atribuirea numărului de crotal, un număr de animal următor este stocat pentru fiecare dintre animalele de sex masculin, feminin și de sex necunoscut. Un simbol plasat în stânga numărului animalului indică pentru ce este folosit numărul următor al animalului: fie pentru mascul ♀, fie pentru femelă ♂, fie pentru animale de sex necunoscut ♀♂?
+Doar atunci când folosiți opțiunea `{{<T "Consecutive" >}}`: dacă ați setat să folosiți intervale de numere separate pentru animale de sex masculin și feminin la atribuirea numărului de crotal, un număr de animal următor este stocat pentru fiecare dintre animalele de sex masculin, feminin și de sex necunoscut. Un simbol plasat în stânga numărului animalului indică pentru ce este folosit numărul următor al animalului: fie pentru mascul ♀, fie pentru femelă ♂, fie pentru animale de sex necunoscut ♀♂?
 {{% /alert %}}
 
 ### Cifra noului ID {#digit-of-the-new-id}

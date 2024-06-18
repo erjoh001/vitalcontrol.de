@@ -156,14 +156,14 @@ Aby zdefiniować przypisanie identyfikatora zwierzęcia podczas tworzenia zwierz
 
 5. Użyj klawiszy strzałek ◁ ▷, aby ustawić przypisanie identyfikatora zwierzęcia dla zwierzęcia roboczego podczas tworzenia.
 
-6. Jeśli wybierzesz ustawienie `{{<T "Consecutive >}}`, masz możliwość określenia `{{<T "NextAnimalID" >}}`. Użyj klawiszy strzałek △ ▽, aby wybrać obszar `{{<T "NextAnimalID" >}}` i potwierdź za pomocą `{{<T "Ok" >}}`. Nawiguj w obrębie obszaru za pomocą klawiszy strzałek ◁ ▷. Teraz możesz wybrać numer za pomocą klawiszy strzałek △ ▽. Urządzenie automatycznie użyje tego numeru, aby rozpocząć ciągłe liczenie od tego miejsca. Ponadto możesz ustawić, czy numery mają być liczone ciągle rosnąco, czy ciągle malejąco. Aby to zrobić, użyj klawiszy strzałek ◁ ▷, aby przejść do symbolu 9/1. Użyj klawiszy strzałek △ ▽, aby przełączać się między liczeniem ciągle rosnącym a ciągle malejącym. Zapisz ustawienia za pomocą klawisza `F1` lub `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Zapisz i wróć" />&nbsp;.
+6. Jeśli wybierzesz ustawienie `{{<T "Consecutive" >}}`, masz możliwość określenia `{{<T "NextAnimalID" >}}`. Użyj klawiszy strzałek △ ▽, aby wybrać obszar `{{<T "NextAnimalID" >}}` i potwierdź za pomocą `{{<T "Ok" >}}`. Nawiguj w obrębie obszaru za pomocą klawiszy strzałek ◁ ▷. Teraz możesz wybrać numer za pomocą klawiszy strzałek △ ▽. Urządzenie automatycznie użyje tego numeru, aby rozpocząć ciągłe liczenie od tego miejsca. Ponadto możesz ustawić, czy numery mają być liczone ciągle rosnąco, czy ciągle malejąco. Aby to zrobić, użyj klawiszy strzałek ◁ ▷, aby przejść do symbolu 9/1. Użyj klawiszy strzałek △ ▽, aby przełączać się między liczeniem ciągle rosnącym a ciągle malejącym. Zapisz ustawienia za pomocą klawisza `F1` lub `{{<T "Ok" >}}` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Zapisz i wróć" />&nbsp;.
 
     ![VitalControl: menu ustawienia przypisania identyfikatora zwierzęcia](../images/assignmentanimalid2.png "Przypisanie identyfikatora zwierzęcia")
 
     ![VitalControl: menu ustawienia przypisania identyfikatora zwierzęcia](../images/assignmentanimalid3.png "Przypisanie identyfikatora zwierzęcia")
 
 {{% alert title = "Wskazówka" %}}
-Tylko przy użyciu opcji `{{<T "Consecutive >}}`: jeśli ustawiłeś używanie oddzielnych zakresów numerów dla samców i samic podczas przypisywania numeru kolczyka, przechowywany jest kolejny numer zwierzęcia dla każdego z samców, samic i zwierząt o nieznanej płci. Symbol umieszczony po lewej stronie numeru zwierzęcia wskazuje, do czego używany jest kolejny numer zwierzęcia: dla samców ♀, dla samic ♂ lub dla zwierząt o nieznanej płci ♀♂?
+Tylko przy użyciu opcji `{{<T "Consecutive" >}}`: jeśli ustawiłeś używanie oddzielnych zakresów numerów dla samców i samic podczas przypisywania numeru kolczyka, przechowywany jest kolejny numer zwierzęcia dla każdego z samców, samic i zwierząt o nieznanej płci. Symbol umieszczony po lewej stronie numeru zwierzęcia wskazuje, do czego używany jest kolejny numer zwierzęcia: dla samców ♀, dla samic ♂ lub dla zwierząt o nieznanej płci ♀♂?
 {{% /alert %}}
 
 ### Cyfra nowego ID {#digit-of-the-new-id}
