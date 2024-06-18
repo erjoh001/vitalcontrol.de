@@ -62,4 +62,4 @@ Der Menüpunkt `Abschlussaktionen bei OK:` informiert Sie darüber, dass das Tra
 
 ## Weitere Menüpunkte {#further-menu-items}
 
-Weiterhin haben Sie die Möglichkeit in dem Popup zwischen `Einstellungen`, `Tier suchen` und `Filter setzen` auszuwählen. Navigieren Sie mit den Pfeiltasten △ ▽ zu dem jeweiligen Menüpunkt und bestätigen Sie mit `OK`. Die Informationen für den Menüpunkt `Einstellungen` finden Sie [hier](/docs/einstellungen/zuordnung-transponder/set-maximum-age-of-purchased-calves), für `Filter setzen` [hier](/docs/filter/) und für `Tier suchen` verfahren Sie wie in `Zukäufe, kein Transponder` Schritt 3. 
+Weiterhin haben Sie die Möglichkeit in dem Popup zwischen `Einstellungen`, `Tier suchen` und `Filter setzen` auszuwählen. Navigieren Sie mit den Pfeiltasten △ ▽ zu dem jeweiligen Menüpunkt und bestätigen Sie mit `OK`. Die Informationen für den Menüpunkt `Einstellungen` finden Sie [hier](/docs/einstellungen/zuordnung-transponder/#set-maximum-age-of-purchased-calves), für `Filter setzen` [hier](/docs/filter/) und für `Tier suchen` verfahren Sie wie in `Zukäufe, kein Transponder` Schritt 3. 

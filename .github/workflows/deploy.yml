@@ -59,7 +59,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
       - name: Remove output 'print' (prevents broken links)
-        run: sed -i '56d' config/_default/hugo.yml
+        run: sed -i '45d' config/_default/hugo.yml
 
       - name: Rebuild site for link checking
         run: hugo --minify --cleanDestinationDir

@@ -6,5 +6,5 @@ main:
     url: /demo/
     weight: 42
   - name: Micrologiciel
-    url: /docs/micrologiciel/
+    url: /docs/firmware/
     weight: 42

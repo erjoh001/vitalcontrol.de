@@ -58,7 +58,7 @@ Einige Aktionen sind genauso auszuführen wie in der [Alarmliste](../alarm/). Di
 
 3. Wählen Sie innerhalb der Aktionsliste mit den Pfeiltasten △ ▽ das gewünschte Tier aus und bestätigen Sie mit `OK`. Alternativ können Sie ein Tier suchen. Verwenden Sie die `An/Aus` Taste <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Lupe" /> und nutzen Sie die Pfeiltasten ◁ ▷ △ ▽ um die gewünschten Ziffern auszuwählen. Bestätigen Sie abschließend mit `OK`.
 
-4. Die Aktion [Tier wiegen](../../actions/wiegung/) wird nun automatisch gestartet.
+4. Die Aktion [Tier wiegen](../../aktionen/wiegung/) wird nun automatisch gestartet.
 
    ![VitalControl Listen Aktionsliste](../bilder/tierwiegen.png "Tier wiegen")
 

@@ -3,7 +3,6 @@ title: "Paramètres de l'appareil"
 linkTitle: "Appareil"
 date: 2023-07-28T13:25:28+02:00
 weight: 50
-slug: appareil
 description: >
  Ici, vous pouvez ajuster divers paramètres de l'appareil.
 date: 2023-07-26

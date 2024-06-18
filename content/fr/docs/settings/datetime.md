@@ -4,7 +4,6 @@ linkTitle: "Date & Heure"
 weight: 15
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: dateheure
 description: >
   Ici, vous réglez la date et l'heure.
 categories: [Paramètres]

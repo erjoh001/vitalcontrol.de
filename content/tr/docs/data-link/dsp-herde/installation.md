@@ -25,8 +25,8 @@ Teknolojiyi kurmak için şu adımları izleyin:
 
 1. Sol kenar çubuğunda birçok ayar kategorisinin listelendiği bir açılır pencere `Ayarlar` açılır. `Servis` kategorisini ➊ açın ve `Teknoloji` alt kategorisini ➋ seçin.
 
-1. Sağ ana alanın üst kısmında, tanımlanmış tüm teknoloji parametre setlerinin listelendiği bir açılır menü görünür. Kurulmuş teknolojilerin sayısı sağda gösterilir. ![Software Herde: Yeni teknoloji parametre seti oluştur](../icons/new.png "Herde: Teknoloji Bağlantısı Oluştur") `Yeni teknoloji parametre seti oluştur` ➌ düğmesine tıklayın.
-
+1. Sağ ana alanın üst kısmında, tanımlanmış tüm teknoloji parametre setlerinin listelendiği bir açılır menü görünür. Kurulmuş teknolojilerin sayısı sağda gösterilir. ![Software Herde: Yeni teknoloji parametre seti oluştur](/icons/new.png "Herde: Teknoloji Bağlantısı Oluştur") `Yeni teknoloji parametre seti oluştur` ➌ düğmesine tıklayın.
+ 
 ![Software Herde: settings screen for technology](../screenshots/settings-technology.png "Herde: Settings for Technology")
 
 1. Başka bir açılır pencere açılır. **Bağlantı adı** olarak `VitalControl` ve **Teknoloji Türü** olarak `Urban VitalControl (Gen 2)` girin ve ardından `Kabul et` düğmesine tıklayın.

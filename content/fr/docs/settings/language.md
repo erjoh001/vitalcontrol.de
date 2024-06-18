@@ -3,7 +3,6 @@ title: Paramètres de langue
 linkTitle: Langue
 date: 2023-07-28T13:25:28+02:00
 draft: false
-slug: langue
 weight: 10
 description: >
   Définissez et enregistrez de manière permanente la langue de l'interface utilisateur sur votre appareil VitalControl.
