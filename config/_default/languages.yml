@@ -96,11 +96,11 @@ ru:
   contentDir: content/ru
   weight: 125
 sl:
-  languageName: Svenska
+  languageName: Slovenščina
   contentDir: content/sl
   weight: 125
 sv:
-  languageName: Slovenščina
+  languageName: Svenska
   contentDir: content/sv
   weight: 128
 tr:
