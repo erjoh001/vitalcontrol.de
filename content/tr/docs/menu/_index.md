@@ -3,7 +3,7 @@ title: Grafik kullanıcı arayüzünün menü yapısı
 linkTitle: Menü ağacı
 date: 2023-09-15T12:45:53+02:00
 draft: false
-url: /en/docs/menu-tree
+url: /tr/docs/menu-tree
 weight: -10
 description: >
   VitalControl cihazının etkileşimli menü ağacını gösterir.

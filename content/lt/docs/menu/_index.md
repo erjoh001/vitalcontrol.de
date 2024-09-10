@@ -3,7 +3,7 @@ title: Grafinės vartotojo sąsajos meniu struktūra
 linkTitle: Meniu medis
 date: 2023-09-15T12:45:53+02:00
 draft: false
-url: /en/docs/menu-tree
+url: /lt/docs/menu-tree
 weight: -10
 description: >
   Rodo interaktyvų VitalControl įrenginio meniu medį.

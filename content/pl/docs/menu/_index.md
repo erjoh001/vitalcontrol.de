@@ -3,7 +3,7 @@ title: Struktura menu graficznego interfejsu użytkownika
 linkTitle: Drzewo menu
 date: 2023-09-15T12:45:53+02:00
 draft: false
-url: /en/docs/menu-tree
+url: /pl/docs/menu-tree
 weight: -10
 description: >
   Pokazuje interaktywne drzewo menu urządzenia VitalControl.

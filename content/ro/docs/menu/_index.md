@@ -3,7 +3,7 @@ title: Structura meniului interfeței grafice
 linkTitle: Arborele meniului
 date: 2023-09-15T12:45:53+02:00
 draft: false
-url: /en/docs/menu-tree
+url: /ro/docs/menu-tree
 weight: -10
 description: >
   Afișează arborele de meniu interactiv al dispozitivului VitalControl.
