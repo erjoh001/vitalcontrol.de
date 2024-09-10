@@ -6,8 +6,8 @@ weight: 20
 description: >
  Évaluez vos données stockées dans la section Température.
 date: 2023-07-26
-categories: [Évaluation]
-tags: [Évaluation, Température]
+catégories: [Évaluation]
+étiquettes: [Évaluation, Température]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Conseil" %}}

@@ -6,7 +6,7 @@ draft: false
 description: >
   Synchronisez les animaux stockés sur l'appareil VitalControl avec les animaux enregistrés sur le distributeur automatique et transférez les valeurs mesurées enregistrées avec l'appareil VitalControl vers le distributeur pour des fins d'évaluation et une meilleure visualisation.
 weight: 20
-categories: [Échange de données, Alma Pro]
+catégories: [Échange de données, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Ouvrir le port USB

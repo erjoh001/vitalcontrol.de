@@ -6,8 +6,8 @@ weight: 100
 description: >
  Désinscrire un animal
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Désinscription]
+catégories: [Actions]
+étiquettes: [Actions, Désinscription]
 translationKey: actions/unregister
 ---
 {{% alert title="Attention" color="warning" %}}

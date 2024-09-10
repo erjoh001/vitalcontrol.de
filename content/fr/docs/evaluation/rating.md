@@ -6,8 +6,8 @@ weight: 30
 description: >
  Évaluez vos données stockées dans la section de notation.
 date: 2023-07-26
-categories: [Évaluation]
-tags: [Évaluation, Notation]
+catégories: [Évaluation]
+étiquettes: [Évaluation, Notation]
 translationKey: evaluation/rating
 ---
 {{% alert title="Conseil" %}}

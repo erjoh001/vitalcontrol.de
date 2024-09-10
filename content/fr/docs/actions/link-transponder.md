@@ -6,8 +6,8 @@ weight: 102
 description: >
  Assigner un transpondeur à un animal
 date: 2023-07-26
-categories: [Transpondeur]
-tags: [Transpondeur]
+catégories: [Transpondeur]
+étiquettes: [Transpondeur]
 translationKey: actions/transponder
 ---
 {{% alert title="Attention" color="warning" %}}

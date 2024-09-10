@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Voir les informations importantes sur votre troupeau.
-categories: [Troupeau]
-tags: [Troupeau, Température, Poids, Classement, Données animales]
+catégories: [Troupeau]
+étiquettes: [Troupeau, Température, Poids, Classement, Données animales]
 translationKey: herd
 ---
 ## Troupeau {#herd}

@@ -6,8 +6,8 @@ weight: 50
 description: >
  Ici, vous pouvez ajuster divers paramètres de l'appareil.
 date: 2023-07-26
-categories: [paramètres]
-tags: [paramètres, appareil]
+catégories: [paramètres]
+étiquettes: [paramètres, appareil]
 translationKey: settings/device
 ---
 ## Éteindre l'appareil après {#shutdown-device-after}

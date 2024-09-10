@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Exécutez des sauvegardes de données, exportez vos données et réinitialisez l'appareil
 date: 2023-07-26
-categories: [Appareil, Exportation de données]
-tags: [Appareil, Exportation de données]
+catégories: [Appareil, Exportation de données]
+étiquettes: [Appareil, Exportation de données]
 translationKey: device/data-management
 no_list: true
 maphilight: true

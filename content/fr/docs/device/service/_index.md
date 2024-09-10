@@ -7,8 +7,8 @@ slug: service
 description: >
   Vérifiez vos pilotes de périphérique, mettez à jour votre firmware et effectuez un test de portée
 date: 2223-27-26
-categories: [Appareil]
-tags: [Appareil]
+catégories: [Appareil]
+étiquettes: [Appareil]
 translationKey: device/service
 no_list: true
 maphilight: true

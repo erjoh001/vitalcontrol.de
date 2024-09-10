@@ -6,8 +6,8 @@ weight: 40
 description: >
  Évaluez vos données stockées dans la section mortalité.
 date: 2023-07-26
-categories: [Évaluation]
-tags: [Évaluation, Mortalité]
+catégories: [Évaluation]
+étiquettes: [Évaluation, Mortalité]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Conseil" %}}

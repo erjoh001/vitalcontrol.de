@@ -6,8 +6,8 @@ weight: 70
 description: >
  Mettez des animaux sur la liste de surveillance ou retirez-les.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, en surveillance]
+catégories: [Actions]
+étiquettes: [Actions, en surveillance]
 translationKey: actions/on-watch
 ---
 

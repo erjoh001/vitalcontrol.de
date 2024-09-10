@@ -3,8 +3,8 @@ title: Numéro de ferme
 linkTitle: Numéro de ferme
 date: 2023-07-26
 weight: 80
-categories: [Paramètres]
-tags: [Paramètres, Numéro de ferme]
+catégories: [Paramètres]
+étiquettes: [Paramètres, Numéro de ferme]
 description: >
   Enregistrez de manière permanente votre identifiant national de ferme à douze chiffres sur l'appareil VitalControl.
 translationKey: settings/farm-number

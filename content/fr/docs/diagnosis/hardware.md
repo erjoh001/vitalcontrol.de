@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Vérifiez les composants matériels de votre appareil VitalControl, surtout si vous suspectez un défaut matériel.
-categories: [Diagnostic, Matériel]
+catégories: [Diagnostic, Matériel]
 weight: 10
 ---
 Si votre appareil présente un dysfonctionnement, vous devriez d'abord effectuer une vérification matérielle pour clarifier si l'un des composants matériels est défectueux.

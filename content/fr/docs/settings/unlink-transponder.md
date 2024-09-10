@@ -8,7 +8,7 @@ description: >
   Spécifiez comment l'ID de l'animal sera attribué après que le transpondeur a été détaché.
 date: 2023-07-26
 Kategorien: [Paramètres]
-Tags: [Paramètres, Transpondeur, AnimalID]
+étiquettes: [Paramètres, Transpondeur, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Détacher le Transpondeur {#unlink-transponder}

@@ -6,8 +6,8 @@ weight: 110
 description: >
  Détacher le lien du transpondeur à un animal
 date: 2023-07-26
-categories: [Transpondeur]
-tags: [Transpondeur]
+catégories: [Transpondeur]
+étiquettes: [Transpondeur]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Attention" color="warning" %}}

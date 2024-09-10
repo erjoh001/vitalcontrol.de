@@ -5,8 +5,8 @@ weight: 50
 description: >
  Comment appliquer un filtre sur une liste d'animaux afin d'afficher uniquement un sous-ensemble des animaux présents sur l'appareil.
 date: 2023-07-26
-categories: [Filtre]
-tags: [Filtre]
+catégories: [Filtre]
+étiquettes: [Filtre]
 translationKey: filter
 ---
 ## Application des filtres {#applying-filters}

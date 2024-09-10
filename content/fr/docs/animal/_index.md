@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Consultez des informations importantes liées à chaque animal individuellement.
-Categories: [Animal]
-tags: [Animal, Température, Taille, Données sur les animaux]
+catégories: [Animal]
+étiquettes: [Animal, Température, Taille, Données sur les animaux]
 translationKey: animal/animal
 ---
 ## Animal {#animal}

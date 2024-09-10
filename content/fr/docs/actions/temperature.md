@@ -6,8 +6,8 @@ weight: 10
 description: >
   Mesurer la fièvre chez vos animaux.
 date: 2023-07-26
-Categories: [Actions]
-tags: [Actions, fièvre, température]
+catégories: [Actions]
+étiquettes: [Actions, fièvre, température]
 translationKey: actions/temperature
 ---
 

@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Comment enregistrer un nouveau vêlage en utilisant l'appareil VitalControl.
-categories: [Vêlage]
-tags: [Vêlage]
+catégories: [Vêlage]
+étiquettes: [Vêlage]
 translationKey: new/calving
 ---
 ## Enregistrer un vêlage {#register-a-calving}

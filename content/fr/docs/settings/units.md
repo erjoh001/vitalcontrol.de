@@ -6,8 +6,8 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 description: >
  Ici, vous sélectionnez les unités pour la température et la masse.
-categories: [settings]
-tags: [settings, units]
+catégories: [settings]
+étiquettes: [settings, units]
 translationKey: settings/units
 ---
 ## Définir l'unité de température {#set-temperature-unit}

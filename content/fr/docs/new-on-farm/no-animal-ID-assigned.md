@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Ici, vous pouvez voir tous les animaux auxquels aucun identifiant national d'animal n'a encore été attribué et leur attribuer un identifiant national d'animal.
-categories: [Nouveau à la ferme]
-tags: [Nouveau à la ferme]
+catégories: [Nouveau à la ferme]
+étiquettes: [Nouveau à la ferme]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Aucun identifiant national d'animal attribué {#no-national-animal-id-assigned}

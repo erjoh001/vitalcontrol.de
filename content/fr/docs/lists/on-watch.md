@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Consultez votre liste de surveillance.
-categories: [Listes]
-tags: [Listes, en surveillance]
+catégories: [Listes]
+étiquettes: [Listes, en surveillance]
 translationKey: lists/on-watch
 ---
 ## Liste de surveillance {#on-watch-list}

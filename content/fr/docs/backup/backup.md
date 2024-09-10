@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Au moyen d'une sauvegarde de données, un fichier de sauvegarde est créé contenant l'ensemble des données stockées sur l'appareil VitalControl.
-categories: [Sauvegarde de données]
-tags: [fichier de sauvegarde, clé USB]
+catégories: [Sauvegarde de données]
+étiquettes: [fichier de sauvegarde, clé USB]
 translationKey: backup
 ---
 {{% usb-drive/fr "Afin de réaliser une sauvegarde de données pour votre appareil," %}}

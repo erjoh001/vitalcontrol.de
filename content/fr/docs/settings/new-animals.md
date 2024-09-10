@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Ici, vous pouvez ajuster plusieurs normes préétablies concernant l'enregistrement de nouveaux animaux aux exigences de votre ferme.
-categories: [paramètres]
-tags: [paramètres, Valeurs par défaut]
+catégories: [paramètres]
+étiquettes: [paramètres, Valeurs par défaut]
 translationKey: settings/new-animals
 ---
 ## Définir les valeurs par défaut {#set-default-values}

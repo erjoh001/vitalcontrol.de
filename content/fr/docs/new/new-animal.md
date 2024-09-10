@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   Comment enregistrer un nouvel animal en utilisant l'appareil VitalControl.
-categories: [Nouvel animal]
-tags: [Enregistrer des animaux]
+catégories: [Nouvel animal]
+étiquettes: [Enregistrer des animaux]
 translationKey: new/animal
 ---
 ## Créer un nouvel animal {#create-a-new-animal}

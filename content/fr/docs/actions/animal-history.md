@@ -6,8 +6,8 @@ weight: 80
 description: >
  Consultez l'historique d'un animal.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Histoire des animaux]
+catégories: [Actions]
+étiquettes: [Actions, Histoire des animaux]
 translationKey: actions/animalshistory
 ---
 

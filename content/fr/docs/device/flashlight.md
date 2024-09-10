@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Activez ou désactivez la lumière sur votre appareil VitalControl
 date: 2023-07-26
-categories: [Appareil]
-tags: [Appareil]
+catégories: [Appareil]
+étiquettes: [Appareil]
 translationKey: device/flashlight
 ---
 ## Activer et désactiver la lumière {#activate-and-deactivate-light}

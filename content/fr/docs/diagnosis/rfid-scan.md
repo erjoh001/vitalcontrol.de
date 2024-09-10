@@ -3,7 +3,7 @@ title: "Scan RFID : test de portée et diagnostic des transpondeurs"
 linkTitle: Scan RFID
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnostic, Scan RFID]
+catégories: [Diagnostic, Scan RFID]
 description: >
   Vérifiez la portée de votre scanner RFID ou affichez le protocole de lecture et les numéros stockés sur des transpondeurs inconnus.
 translationKey: diagnosis/rfid-scan

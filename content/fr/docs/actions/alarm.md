@@ -6,8 +6,8 @@ weight: 60
 description: >
  Ajouter et retirer des animaux de la liste d'alarme.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Alarme]
+catégories: [Actions]
+étiquettes: [Actions, Alarme]
 translationKey: actions/alarm
 ---
 

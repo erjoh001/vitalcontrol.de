@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Définir l'attribution du transpondeur sur votre appareil VitalControl.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Âge maximum, âge maximum des veaux achetés, Attribution ID animal]
+catégories: [settings]
+étiquettes: [settings, Âge maximum, âge maximum des veaux achetés, Attribution ID animal]
 translationKey: settings/link-transponder
 ---
 ## Définir l'âge maximum des veaux achetés {#set-maximum-age-of-purchased-calves}

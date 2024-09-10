@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Définissez les paramètres de température pour l'application de votre appareil VitalControl
-categories: [paramètres]
-tags: [paramètres, température, seuil, projecteur anal]
+catégories: [paramètres]
+étiquettes: [paramètres, température, seuil, projecteur anal]
 translationKey: settings/temperature
 ---
 ## Définir les seuils et plages de température {#set-the-threshold--temperature-ranges}

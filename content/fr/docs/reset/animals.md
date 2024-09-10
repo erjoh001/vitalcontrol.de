@@ -4,7 +4,7 @@ linkTitle: "Données animales"
 date: 2017-01-02
 description: >
   Apprenez à supprimer tous les animaux et leurs données de votre appareil VitalControl.
-categories: [Réinitialisation]
+catégories: [Réinitialisation]
 ---
 ## Effacement de toutes les données animales de l'appareil {#erasing-all-animal-data-from-device}
 

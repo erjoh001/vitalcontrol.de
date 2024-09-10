@@ -6,8 +6,8 @@ weight: 90
 description: >
  Modifier les données de l'animal sélectionné.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, données animales, modifier]
+catégories: [Actions]
+étiquettes: [Actions, données animales, modifier]
 translationKey: actions/edit
 ---
 

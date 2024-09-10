@@ -6,8 +6,8 @@ slug: animal-loss
 description: >
  Register an animal loss.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, animal-loss]
+catégories: [Actions]
+étiquettes: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
 

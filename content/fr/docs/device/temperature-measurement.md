@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Testez la mesure de température de votre appareil
 date: 2023-07-26
-categories: [Appareil]
-tags: [Appareil]
+catégories: [Appareil]
+étiquettes: [Appareil]
 translationKey: device/temperature-measurement
 ---
 ## Tester la mesure de température {#test-temperature-measurement}

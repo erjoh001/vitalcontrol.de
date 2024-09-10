@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Stockage des paramètres pertinents pour la collecte de données animales
-categories: [paramètres]
-tags: [paramètres, acquisition de données]
+catégories: [paramètres]
+étiquettes: [paramètres, acquisition de données]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

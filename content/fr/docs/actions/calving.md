@@ -6,8 +6,8 @@ weight: 115
 description: >
   Enregistrer un vêlage
 date: 2023-07-26
-categories: [Veaux]
-tags: [Veaux]
+catégories: [Veaux]
+étiquettes: [Veaux]
 translationKey: actions/calving
 ---
 {{% alert title="Astuce" %}}

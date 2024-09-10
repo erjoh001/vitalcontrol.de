@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Utilisez le scanner de codes-barres pour enregistrer une variété d'animaux.
-categories: [Enregistrement en masse]
-tags: [Enregistrement en masse]
+catégories: [Enregistrement en masse]
+étiquettes: [Enregistrement en masse]
 translationKey: new/bulk-recording
 ---
 ## Enregistrement en masse {#bulk-recording}

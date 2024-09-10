@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Exporter des fichiers de données CVS contenant des données animales et des valeurs de mesure stockées sur l'appareil VitalControl vers une clé USB.
-categories: [Exportation de données]
-tags: [Fichiers CSV, Clé USB]
+catégories: [Exportation de données]
+étiquettes: [Fichiers CSV, Clé USB]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/fr "Afin de réaliser une exportation des données de votre appareil," %}}

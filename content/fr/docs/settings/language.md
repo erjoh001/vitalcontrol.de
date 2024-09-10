@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Définissez et enregistrez de manière permanente la langue de l'interface utilisateur sur votre appareil VitalControl.
-categories: [Paramètres]
-tags: [Paramètres, Langue]
+catégories: [Paramètres]
+étiquettes: [Paramètres, Langue]
 translationKey: settings/language
 ---
 ## Définir votre langue {#setting-your-language}

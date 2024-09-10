@@ -6,7 +6,7 @@ draft: false
 description: >
   Avant d'utiliser le VitalControl pour la première fois, vous devez l'activer une fois dans les paramètres du distributeur Alma Pro.
 weight: 10
-categories: [Alma Pro]
+catégories: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Consultez votre liste d'alarmes.
-categories: [Listes]
-tags: [Listes, alarme]
+catégories: [Listes]
+étiquettes: [Listes, alarme]
 translationKey: lists/alarm
 ---
 ## Liste des alarmes {#alarm-list}

@@ -7,7 +7,7 @@ draft: false
 description: >
  Désinscrire les animaux de votre VitalControl.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Désinscription]
+étiquettes: [Animaldata, Désinscription]
 translationKey: device/unregister-animals
 ---
 ## Désinscrire les animaux {#unregister-animals}

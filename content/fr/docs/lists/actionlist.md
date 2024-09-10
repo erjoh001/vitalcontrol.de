@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Consultez votre liste d'actions.
-categories: [Listes]
-tags: [Listes, Action]
+catégories: [Listes]
+étiquettes: [Listes, Action]
 translationKey: lists/action
 ---
 ## Liste des actions {#action-list}

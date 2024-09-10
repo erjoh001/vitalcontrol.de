@@ -6,8 +6,8 @@ weight: 115
 description: >
  Sécher une vache ou l'ajouter à la liste des vaches fraîches
 date: 2023-07-26
-categories: [Sécher]
-tags: [Sécher]
+catégories: [Sécher]
+étiquettes: [Sécher]
 translationKey: actions/dry-cows
 ---
 

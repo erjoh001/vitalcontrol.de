@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Apprenez à réinitialiser tous les paramètres de l'appareil VitalControl.
-categories: [Réinitialisation]
+catégories: [Réinitialisation]
 ---
 ## Réinitialisation de toutes les données de l'appareil {#resetting-all-device-data}
 

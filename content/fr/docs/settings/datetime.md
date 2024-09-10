@@ -6,8 +6,8 @@ date: 2023-07-28T13:25:28+02:00
 draft: false
 description: >
   Ici, vous réglez la date et l'heure.
-categories: [Paramètres]
-tags: [Paramètres, Date & Heure]
+catégories: [Paramètres]
+étiquettes: [Paramètres, Date & Heure]
 translationKey: settings/datetime
 ---
 ## Pour régler la date {#to-set-the-date}

@@ -6,7 +6,7 @@ draft: false
 description: >
   Synchronisez les animaux stockés sur l'appareil VitalControl avec les animaux gérés par le logiciel *Herde* et transférez les valeurs mesurées enregistrées avec l'appareil VitalControl vers le logiciel *Herde*.
 weight: 20
-categories: [Échange de données, DSP Herde]
+catégories: [Échange de données, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Suivez les étapes ci-dessous pour synchroniser les données entre le logiciel `Herde` et l'appareil VitalControl :

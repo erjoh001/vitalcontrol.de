@@ -7,8 +7,8 @@ url: /fr/docs/menu-tree
 weight: -10
 description: >
   Montre l'arborescence interactive des menus de l'appareil VitalControl.
-Categories: [Menu]
-tags: [Menu principal, Actions]
+catégories: [Menu]
+étiquettes: [Menu principal, Actions]
 translationKey: menu-tree
 no_list: true
 ---

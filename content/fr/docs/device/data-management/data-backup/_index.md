@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Exécuter des sauvegardes de données
 date: 2023-07-26
-categories: [Appareil, Exportation de données]
-tags: [Appareil, Exportation de données]
+catégories: [Appareil, Exportation de données]
+étiquettes: [Appareil, Exportation de données]
 translationKey: device/save-data
 no_list: true
 maphilight: true

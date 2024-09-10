@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Consultez votre liste de vaches taries.
-categories: [Listes]
-tags: [Listes, vache tarie]
+catégories: [Listes]
+étiquettes: [Listes, vache tarie]
 translationKey: lists/dry-cows
 ---
 ## Liste des vaches taries {#dry-cows-list}

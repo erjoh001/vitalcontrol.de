@@ -6,8 +6,8 @@ weight: 30
 description: >
  Évaluez vos animaux.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Évaluation]
+catégories: [Actions]
+étiquettes: [Actions, Évaluation]
 translationKey: actions/animal-rating
 ---
 

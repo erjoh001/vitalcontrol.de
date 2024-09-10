@@ -7,8 +7,8 @@ slug: info
 description: >
   Afficher les informations importantes sur le logiciel et le matériel
 date: 2023-07-26
-categories: [Appareil]
-tags: [Appareil]
+catégories: [Appareil]
+étiquettes: [Appareil]
 translationKey: device/info
 no_list: true
 maphilight: true

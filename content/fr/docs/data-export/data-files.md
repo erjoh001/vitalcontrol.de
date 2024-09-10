@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Description de la structure et du contenu des quatre fichiers de données créés lors de l'exportation.
-categories: [Exportation de données]
-tags: [fichiers d'exportation, températures, poids, évaluations]
+catégories: [Exportation de données]
+étiquettes: [fichiers d'exportation, températures, poids, évaluations]
 slug: export-files
 translationKey: data-export/data-files
 ---

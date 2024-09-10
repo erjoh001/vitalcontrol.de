@@ -7,8 +7,8 @@ weight: 120
 description: >
  Enregistrer les aspects importants des soins aux nouveau-nés.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, soins aux nouveau-nés]
+catégories: [Actions]
+étiquettes: [Actions, soins aux nouveau-nés]
 translationKey: actions/newborn-care
 ---
 

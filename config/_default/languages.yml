@@ -53,6 +53,9 @@ fi:
 fr:
   languageName: French
   contentDir: content/fr
+  taxonomies:
+    étiquette: étiquettes
+    catégorie: catégories
   weight: 80
 hr:
   languageName: Hrvatski
