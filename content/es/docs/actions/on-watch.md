@@ -6,8 +6,8 @@ weight: 70
 description: >
  Coloca animales en la lista de vigilancia o retíralos de ella.
 date: 2023-07-26
-categories: [Acciones]
-tags: [Acciones, En seguimiento]
+categorías: [Acciones]
+etiquetas: [Acciones, En seguimiento]
 translationKey: actions/on-watch
 ---
 

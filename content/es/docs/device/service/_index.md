@@ -7,8 +7,8 @@ slug: service
 description: >
   Verifica los controladores de tu dispositivo, actualiza tu firmware y realiza una prueba de alcance
 date: 2223-27-26
-categories: [Dispositivo]
-tags: [Dispositivo]
+categorías: [Dispositivo]
+etiquetas: [Dispositivo]
 translationKey: device/service
 no_list: true
 maphilight: true

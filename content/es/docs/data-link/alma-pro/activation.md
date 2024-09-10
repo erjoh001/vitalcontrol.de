@@ -6,7 +6,7 @@ draft: false
 description: >
   Antes de usar el VitalControl por primera vez, debes activarlo una vez en la configuración del alimentador Alma Pro.
 weight: 10
-categories: [Alma Pro]
+categorías: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

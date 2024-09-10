@@ -6,8 +6,8 @@ weight: 100
 description: >
  Anular registro a un animal
 date: 2023-07-26
-categories: [Acciones]
-tags: [Acciones, Anular registro]
+categorías: [Acciones]
+etiquetas: [Acciones, Anular registro]
 translationKey: actions/unregister
 ---
 {{% alert title="Advertencia" color="warning" %}}

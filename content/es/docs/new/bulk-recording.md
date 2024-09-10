@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Utiliza el escáner de códigos de barras para registrar una variedad de animales.
-categories: [Registro-masivo]
-tags: [Registro-masivo]
+categorías: [Registro-masivo]
+etiquetas: [Registro-masivo]
 translationKey: new/bulk-recording
 ---
 ## Registro granel {#bulk-recording}

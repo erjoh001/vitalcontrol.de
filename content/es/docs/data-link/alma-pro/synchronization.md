@@ -6,7 +6,7 @@ draft: false
 description: >
   Sincroniza los animales almacenados en el dispositivo VitalControl con los animales registrados en el alimentador automático y transfiere los valores medidos registrados con el dispositivo VitalControl al alimentador para fines de evaluación y mejor visualización.
 weight: 20
-categories: [Intercambio de datos, Alma Pro]
+categorías: [Intercambio de datos, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Abrir puerto USB

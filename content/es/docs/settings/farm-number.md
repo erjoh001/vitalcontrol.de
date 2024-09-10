@@ -3,8 +3,8 @@ title: Número de granja
 linkTitle: Número de granja
 date: 2023-07-26
 weight: 80
-categories: [Configuraciones]
-tags: [Configuraciones, Número de granja]
+categorías: [Configuraciones]
+etiquetas: [Configuraciones, Número de granja]
 description: >
   Guarda permanentemente tu identificación nacional de granja de doce dígitos en el dispositivo VitalControl.
 translationKey: settings/farm-number

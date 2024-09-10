@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Aquí puedes ver tus nacimientos y crear un archivo de exportación.
-categories: [Nacimientos]
-tags: [Nacimientos]
+categorías: [Nacimientos]
+etiquetas: [Nacimientos]
 translationKey: new-on-farm/births
 ---
 ## Nacimientos {#births}

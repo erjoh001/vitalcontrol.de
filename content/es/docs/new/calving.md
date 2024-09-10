@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Cómo registrar un nuevo parto usando el dispositivo VitalControl.
-categories: [Calving]
-tags: [Calving]
+categorías: [Calving]
+etiquetas: [Calving]
 translationKey: new/calving
 ---
 ## Registrar un parto {#register-a-calving}

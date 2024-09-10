@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Cómo crear múltiples nuevos animales en el dispositivo VitalControl usando una sola acción.
-categories: [Nuevos animales]
-tags: [Nuevos animales]
+categorías: [Nuevos animales]
+etiquetas: [Nuevos animales]
 translationKey: new/animals
 ---
 ## Crear varios nuevos animales {#create-several-new-animals}

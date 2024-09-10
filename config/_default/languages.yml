@@ -42,6 +42,9 @@ es:
   languageName: Español
   contentDir: content/es
   title: Urban GmbH
+  taxonomies:
+    etiqueta: etiquetas
+    categoría: categorías
   weight: 60
 fi:
   languageName: Suomalainen

@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Facilita el control de tus vacas recién paridas.
-categories: [Listas]
-tags: [Listas, vaca recién parida]
+categorías: [Listas]
+etiquetas: [Listas, vaca recién parida]
 translationKey: lists/fresh-cows
 ---
 ### Lista de vacas recién paridas {#fresh-cows-list}

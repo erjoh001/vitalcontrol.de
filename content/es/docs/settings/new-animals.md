@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Aquí puedes ajustar varios estándares preestablecidos de fábrica sobre el registro de nuevos animales a los requisitos de tu granja.
-categories: [settings]
-tags: [settings, Default values]
+categorías: [settings]
+etiquetas: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Establecer Valores por defecto {#set-default-values}

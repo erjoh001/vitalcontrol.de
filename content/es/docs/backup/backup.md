@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Mediante una copia de seguridad de datos, se crea un archivo de respaldo que contiene todos los datos almacenados en el dispositivo VitalControl.
-categories: [Copia de seguridad de datos]
-tags: [archivo de respaldo, unidad flash USB]
+categorías: [Copia de seguridad de datos]
+etiquetas: [archivo de respaldo, unidad flash USB]
 translationKey: backup
 ---
 {{% usb-drive/es "Para realizar una copia de seguridad de datos para su dispositivo," %}}

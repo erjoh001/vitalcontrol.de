@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Consulta tu lista de vacas secas.
-categories: [Listas]
-tags: [Listas, vaca seca]
+categorías: [Listas]
+etiquetas: [Listas, vaca seca]
 translationKey: lists/dry-cows
 ---
 ## Lista de vacas secas {#dry-cows-list}

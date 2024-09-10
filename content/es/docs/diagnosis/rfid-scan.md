@@ -3,7 +3,7 @@ title: "Escaneo RFID: prueba de alcance y diagnóstico de transpondedores"
 linkTitle: Escaneo RFID
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnóstico, Escaneo RFID]
+categorías: [Diagnóstico, Escaneo RFID]
 description: >
   Verifica el alcance de tu escáner RFID o muestra el protocolo de lectura y los números almacenados en transpondedores desconocidos.
 translationKey: diagnosis/rfid-scan

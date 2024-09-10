@@ -6,8 +6,8 @@ weight: 60
 description: >
  Añade y elimina animales de la lista de alarma.
 date: 2023-07-26
-categories: [Acciones]
-tags: [Acciones, Alarma]
+categorías: [Acciones]
+etiquetas: [Acciones, Alarma]
 translationKey: actions/alarm
 ---
 

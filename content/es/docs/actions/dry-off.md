@@ -6,8 +6,8 @@ weight: 115
 description: >
  Secar una vaca o añadirla a la lista de vacas frescas
 date: 2023-07-26
-categories: [Secar]
-tags: [Secar]
+categorías: [Secar]
+etiquetas: [Secar]
 translationKey: actions/dry-cows
 ---
 

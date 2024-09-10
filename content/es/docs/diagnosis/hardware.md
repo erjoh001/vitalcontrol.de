@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Comprueba los componentes de hardware de tu dispositivo VitalControl, especialmente si sospechas de un defecto de hardware.
-categories: [Diagnóstico, Hardware]
+categorías: [Diagnóstico, Hardware]
 weight: 10
 ---
 Si hay un mal funcionamiento en tu dispositivo, primero deberías realizar una comprobación de hardware para aclarar si alguno de los componentes de hardware está defectuoso.

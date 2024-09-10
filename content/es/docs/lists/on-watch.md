@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Consulta tu lista de vigilancia.
-categories: [Listas]
-tags: [Listas, en vigilancia]
+categorías: [Listas]
+etiquetas: [Listas, en vigilancia]
 translationKey: lists/on-watch
 ---
 ## En lista de vigilancia {#on-watch-list}

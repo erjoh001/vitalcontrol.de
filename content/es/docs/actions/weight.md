@@ -6,8 +6,8 @@ weight: 20
 description: >
   Registra el peso de tus animales.
 date: 2023-07-26
-categories: [Acciones]
-tags: [Acciones, peso]
+categorías: [Acciones]
+etiquetas: [Acciones, peso]
 translationKey: actions/weight
 ---
 

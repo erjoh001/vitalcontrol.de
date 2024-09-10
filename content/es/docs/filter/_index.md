@@ -5,8 +5,8 @@ weight: 50
 description: >
  Cómo aplicar un filtro en una lista de animales para mostrar solo un subconjunto de los animales presentes en el dispositivo.
 date: 2023-07-26
-categories: [Filtro]
-tags: [Filtro]
+categorías: [Filtro]
+etiquetas: [Filtro]
 translationKey: filter
 ---
 ## Aplicando filtros {#applying-filters}

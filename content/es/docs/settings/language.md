@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Configura y almacena permanentemente el idioma de la interfaz de usuario en tu dispositivo VitalControl.
-categories: [Configuraciones]
-tags: [Configuraciones, Idioma]
+categorías: [Configuraciones]
+etiquetas: [Configuraciones, Idioma]
 translationKey: settings/language
 ---
 ## Configurando tu idioma {#setting-your-language}

@@ -7,8 +7,8 @@ weight: 120
 description: >
  Registra aspectos importantes del cuidado del recién nacido.
 date: 2023-07-26
-categories: [Acciones]
-tags: [Acciones, cuidado del recién nacido]
+categorías: [Acciones]
+etiquetas: [Acciones, cuidado del recién nacido]
 translationKey: actions/newborn-care
 ---
 

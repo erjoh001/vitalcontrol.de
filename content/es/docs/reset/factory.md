@@ -4,7 +4,7 @@ linkTitle: "Restablecimiento de fábrica"
 date: 2017-01-03
 description: >
   Restaurando los valores predeterminados en su dispositivo VitalControl mediante un restablecimiento de fábrica.
-categories: [Reset]
+categorías: [Reset]
 translationKey: reset/factory
 ---
 ## Realizando un restablecimiento de fábrica {#performing-a-factory-reset}

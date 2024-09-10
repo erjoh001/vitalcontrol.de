@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Almacenamiento de configuraciones relevantes para la recolección de datos de animales
-categories: [configuraciones]
-tags: [configuraciones, Recoleccion de datós]
+categorías: [configuraciones]
+etiquetas: [configuraciones, Recoleccion de datós]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

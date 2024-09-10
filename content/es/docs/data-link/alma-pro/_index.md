@@ -6,6 +6,6 @@ draft: false
 description: >
   Importa todos los animales desde el alimentador al dispositivo VitalControl y transfiere las temperaturas registradas, pesos y evaluaciones de los animales al alimentador.
 weight: 20
-categories: [Alma Pro]
+categorías: [Alma Pro]
 translationKey: alma-pro
 ---

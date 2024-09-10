@@ -6,8 +6,8 @@ weight: 115
 description: >
  Asignar un ID nacional de animal a un animal que no tiene un ID nacional de animal
 date: 2023-07-26
-categories: [ID nacional de animal]
-tags: [ID nacional de animal]
+categorías: [ID nacional de animal]
+etiquetas: [ID nacional de animal]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Advertencia" color="warning" %}}

@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Realiza copias de seguridad de los datos, exporta tus datos y reinicia el dispositivo
 date: 2023-07-26
-categories: [Dispositivo, Exportación de datos]
-tags: [Dispositivo, Exportación de datos]
+categorías: [Dispositivo, Exportación de datos]
+etiquetas: [Dispositivo, Exportación de datos]
 translationKey: device/data-management
 no_list: true
 maphilight: true

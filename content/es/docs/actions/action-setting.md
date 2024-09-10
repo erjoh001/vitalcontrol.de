@@ -6,8 +6,8 @@ weight: 120
 description: >
  Configura los elementos del menú para el menú de Acciones y establece la cadena de acciones
 date: 2023-07-26
-categories: [Acciones, Cadena de Acciones]
-tags: [Acciones, Cadena de acciones]
+categorías: [Acciones, Cadena de Acciones]
+etiquetas: [Acciones, Cadena de acciones]
 translationKey: actions/setting
 ---
 ## Elementos del menú {#menu-items}

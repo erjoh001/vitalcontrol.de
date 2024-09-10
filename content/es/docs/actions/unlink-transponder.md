@@ -6,8 +6,8 @@ weight: 110
 description: >
  Eliminar el enlace del transpondedor a un animal
 date: 2023-07-26
-categories: [Transpondedor]
-tags: [Transpondedor]
+categorías: [Transpondedor]
+etiquetas: [Transpondedor]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Advertencia" color="warning" %}}

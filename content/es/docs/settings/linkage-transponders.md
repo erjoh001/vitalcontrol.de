@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Establece la asignación del transpondedor en tu dispositivo VitalControl.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Edad máxima, Comprados terneros edad maximá, Asignación ID animal]
+categorías: [settings]
+etiquetas: [settings, Edad máxima, Comprados terneros edad maximá, Asignación ID animal]
 translationKey: settings/link-transponder
 ---
 ## Establecer la Comprados terneros edad maximá {#set-maximum-age-of-purchased-calves}

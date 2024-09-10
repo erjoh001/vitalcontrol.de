@@ -4,7 +4,7 @@ linkTitle: "Datos de animales"
 date: 2017-01-02
 description: >
   Aprende cómo eliminar todos los animales y sus datos de tu dispositivo VitalControl.
-categories: [Reset]
+categorías: [Reset]
 ---
 ## Borrando todos los datos de animales del dispositivo {#erasing-all-animal-data-from-device}
 

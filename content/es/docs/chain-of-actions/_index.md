@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Realizar múltiples acciones animales de manera consecutiva
-categories: [Cadena de acciones]
-tags: [Cadena de acciones, Acciones]
+categorías: [Cadena de acciones]
+etiquetas: [Cadena de acciones, Acciones]
 translationKey: action-chain
 ---
 ## Cadena de acciones {#chain-of-actions}

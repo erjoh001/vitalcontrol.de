@@ -7,8 +7,8 @@ slug: device
 description: >
  Aquí puedes ajustar varias configuraciones del dispositivo.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+categorías: [settings]
+etiquetas: [settings, device]
 translationKey: settings/device
 ---
 ## Apagar dispositivo después de {#shutdown-device-after}

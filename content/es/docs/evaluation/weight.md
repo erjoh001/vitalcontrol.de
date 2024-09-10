@@ -6,8 +6,8 @@ weight: 10
 description: >
  Evalúa tus datos almacenados en la sección de Peso.
 date: 2023-07-26
-categories: [Evaluación]
-tags: [Evaluación, peso]
+categorías: [Evaluación]
+etiquetas: [Evaluación, peso]
 translationKey: evaluation/weight
 maphilight: true
 ---

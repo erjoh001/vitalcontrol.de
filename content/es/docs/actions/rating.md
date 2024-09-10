@@ -6,8 +6,8 @@ weight: 30
 description: >
  Califica tus animales.
 date: 2023-07-26
-categories: [Acciones]
-tags: [Acciones, Calificación]
+categorías: [Acciones]
+etiquetas: [Acciones, Calificación]
 translationKey: actions/animal-rating
 ---
 

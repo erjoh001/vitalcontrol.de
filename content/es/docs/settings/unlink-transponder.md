@@ -8,7 +8,7 @@ description: >
   Especifique cómo se asignará la identificación del animal después de que el transpondedor haya sido desvinculado.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+etiquetas: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Desvincular Transpondedor {#unlink-transponder}

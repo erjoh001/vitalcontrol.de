@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Aquí puedes ver todos los animales que aún no tienen asignado un transpondedor y asignarles uno.
-categories: [Nuevo en la granja, ID nacional del animal]
-tags: [Nuevo en la granja, ID nacional del animal]
+categorías: [Nuevo en la granja, ID nacional del animal]
+etiquetas: [Nuevo en la granja, ID nacional del animal]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Sin transpondedor asignado {#no-transponder-assigned}

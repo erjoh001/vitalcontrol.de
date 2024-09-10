@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Ver información importante sobre tu rebaño.
-categories: [Rebaño]
-tags: [Rebaño, Temperatura, Peso, Calificación, Datos del animal]
+categorías: [Rebaño]
+etiquetas: [Rebaño, Temperatura, Peso, Calificación, Datos del animal]
 translationKey: herd
 ---
 ## Rebaño {#herd}

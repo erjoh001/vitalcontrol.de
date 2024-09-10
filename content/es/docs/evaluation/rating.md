@@ -6,8 +6,8 @@ weight: 30
 description: >
  Evalúa tus datos almacenados en la sección de calificación.
 date: 2023-07-26
-categories: [Evaluación]
-tags: [Evaluación, Calificación]
+categorías: [Evaluación]
+etiquetas: [Evaluación, Calificación]
 translationKey: evaluation/rating
 ---
 {{% alert title="Consejo" %}}

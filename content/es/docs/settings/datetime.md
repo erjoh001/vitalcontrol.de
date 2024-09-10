@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Aquí, configuras la fecha y la hora.
-categories: [Configuraciones]
-tags: [Configuraciones, Fecha y Hora]
+categorías: [Configuraciones]
+etiquetas: [Configuraciones, Fecha y Hora]
 translationKey: settings/datetime
 ---
 ## Para configurar la fecha {#to-set-the-date}

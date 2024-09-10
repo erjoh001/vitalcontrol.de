@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Realizar respaldos de datos
 date: 2023-07-26
-categories: [Dispositivo, Exportación de datos]
-tags: [Dispositivo, Exportación de datos]
+categorías: [Dispositivo, Exportación de datos]
+etiquetas: [Dispositivo, Exportación de datos]
 translationKey: device/save-data
 no_list: true
 maphilight: true

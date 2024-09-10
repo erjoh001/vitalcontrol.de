@@ -6,8 +6,8 @@ weight: 50
 description: >
  Aplicando y configurando la cadena de acciones.
 date: 2023-07-26
-categories: [Acciones]
-tags: [Acciones, cadena de acciones]
+categorías: [Acciones]
+etiquetas: [Acciones, cadena de acciones]
 manualLink: /es/docs/chain-of-actions/
 ---
 <script>

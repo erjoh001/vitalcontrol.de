@@ -6,8 +6,8 @@ weight: 80
 description: >
  Ver el historial de un animal.
 date: 2023-07-26
-categories: [Acciones]
-tags: [Acciones, Historial del animales]
+categorías: [Acciones]
+etiquetas: [Acciones, Historial del animales]
 translationKey: actions/animalshistory
 ---
 
