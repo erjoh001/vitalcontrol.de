@@ -6,8 +6,8 @@ weight: 100
 description: >
  Отмена регистрации животного
 date: 2023-07-26
-categories: [Действия]
-tags: [Действия, Отменить регистрацию]
+категории: [Действия]
+теги: [Действия, Отменить регистрацию]
 translationKey: actions/unregister
 ---
 {{% alert title="Внимание" color="warning" %}}

@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Проверьте ваш список сухостойных коров.
-categories: [Списки]
-tags: [Списки, сухостойная корова]
+категории: [Списки]
+теги: [Списки, сухостойная корова]
 translationKey: lists/dry-cows
 ---
 ## Список сухостойных коров {#dry-cows-list}

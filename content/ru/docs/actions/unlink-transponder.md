@@ -6,8 +6,8 @@ weight: 110
 description: >
  Отвязать транспондер от животного
 date: 2023-07-26
-categories: [Транспондер]
-tags: [Транспондер]
+категории: [Транспондер]
+теги: [Транспондер]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Внимание" color="warning" %}}

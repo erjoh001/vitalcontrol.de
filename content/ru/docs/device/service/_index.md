@@ -7,8 +7,8 @@ slug: service
 description: >
   Проверьте драйверы устройства, обновите прошивку и выполните тест дальности
 date: 2223-27-26
-categories: [Устройство]
-tags: [Устройство]
+категории: [Устройство]
+теги: [Устройство]
 translationKey: device/service
 no_list: true
 maphilight: true

@@ -6,8 +6,8 @@ weight: 10
 description: >
  Выберите следующее животное в пункте меню Действия.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions]
+категории: [Actions]
+теги: [Actions]
 translationKey: actions/next-animal
 draft: true
 ---

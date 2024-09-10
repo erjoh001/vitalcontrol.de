@@ -6,8 +6,8 @@ weight: 20
 description: >
  Оцените свои сохраненные данные в разделе Температура.
 date: 2023-07-26
-categories: [Оценка]
-tags: [Оценка, Температура]
+категории: [Оценка]
+теги: [Оценка, Температура]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Подсказка" %}}

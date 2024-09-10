@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Тестируйте измерение температуры вашего устройства
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+категории: [Device]
+теги: [Device]
 translationKey: device/temperature-measurement
 ---
 ## Тестирование измерения температуры {#test-temperature-measurement}

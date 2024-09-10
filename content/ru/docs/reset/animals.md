@@ -4,7 +4,7 @@ linkTitle: "Данные о животных"
 date: 2017-01-02
 description: >
   Узнайте, как удалить всех животных и их данные с вашего устройства VitalControl.
-categories: [Reset]
+категории: [Reset]
 ---
 ## Удаление всех данных о животных с устройства {#erasing-all-animal-data-from-device}
 

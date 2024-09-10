@@ -6,6 +6,6 @@ draft: false
 description: >
   Импортируйте всех животных из кормушки в устройство VitalControl и передайте записанные температуры, вес и оценки животных обратно в кормушку.
 weight: 20
-categories: [Alma Pro]
+категории: [Alma Pro]
 translationKey: alma-pro
 ---

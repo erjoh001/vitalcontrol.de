@@ -6,8 +6,8 @@ weight: 40
 description: >
  Оцените ваши сохраненные данные в разделе смертности.
 date: 2023-07-26
-categories: [Оценка]
-tags: [Оценка, Смертность]
+категории: [Оценка]
+теги: [Оценка, Смертность]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Подсказка" %}}

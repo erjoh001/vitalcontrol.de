@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Используйте сканер штрих-кодов для записи различных животных.
-categories: [Массовая запись]
-tags: [Массовая запись]
+категории: [Массовая запись]
+теги: [Массовая запись]
 translationKey: new/bulk-recording
 ---
 ## Массовая запись {#bulk-recording}

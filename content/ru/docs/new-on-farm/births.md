@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Здесь вы можете просмотреть ваши рождения и создать файл экспорта.
-categories: [Рождения]
-tags: [Рождения]
+категории: [Рождения]
+теги: [Рождения]
 translationKey: new-on-farm/births
 ---
 ## Рождения {#births}

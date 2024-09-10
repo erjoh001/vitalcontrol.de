@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Облегчите контроль за свежеотельными коровами.
-categories: [Списки]
-tags: [Списки, свежеотельные коровы]
+категории: [Списки]
+теги: [Списки, свежеотельные коровы]
 translationKey: lists/fresh-cows
 ---
 ### Список свежеотельных коров {#fresh-cows-list}

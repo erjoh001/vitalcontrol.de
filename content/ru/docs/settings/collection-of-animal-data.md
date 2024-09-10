@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Хранение соответствующих настроек для сбора данных о животных
-categories: [settings]
-tags: [settings, data acquisition]
+категории: [settings]
+теги: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

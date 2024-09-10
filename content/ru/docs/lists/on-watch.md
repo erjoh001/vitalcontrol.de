@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Проверьте ваш список наблюдения.
-categories: [Списки]
-tags: [Списки, наблюдение]
+категории: [Списки]
+теги: [Списки, наблюдение]
 translationKey: lists/on-watch
 ---
 ## Список наблюдения {#on-watch-list}

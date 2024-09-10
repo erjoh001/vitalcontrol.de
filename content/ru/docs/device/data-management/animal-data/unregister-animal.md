@@ -7,7 +7,7 @@ draft: false
 description: >
  Отмените регистрацию животных в вашем VitalControl.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+теги: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Отмена регистрации животных {#unregister-animals}

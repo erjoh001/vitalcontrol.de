@@ -6,8 +6,8 @@ weight: 80
 description: >
  Просмотр истории животного.
 date: 2023-07-26
-categories: [Действия]
-tags: [Действия, История животного]
+категории: [Действия]
+теги: [Действия, История животного]
 translationKey: actions/animalshistory
 ---
 

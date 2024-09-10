@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Выполнение нескольких действий с животными подряд
-categories: [Цепочка действий]
-tags: [Цепочка действий, Действия]
+категории: [Цепочка действий]
+теги: [Цепочка действий, Действия]
 translationKey: action-chain
 ---
 ## Цепочка действий {#chain-of-actions}

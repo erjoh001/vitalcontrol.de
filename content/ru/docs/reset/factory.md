@@ -4,7 +4,7 @@ linkTitle: "Сброс до заводских настроек"
 date: 2017-01-03
 description: >
   Восстановление заводских настроек вашего устройства VitalControl путем выполнения сброса до заводских настроек.
-categories: [Сброс]
+категории: [Сброс]
 translationKey: reset/factory
 ---
 ## Выполнение сброса до заводских настроек {#performing-a-factory-reset}

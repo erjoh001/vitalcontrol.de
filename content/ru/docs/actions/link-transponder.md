@@ -6,8 +6,8 @@ weight: 102
 description: >
  Назначение транспондера животному
 date: 2023-07-26
-categories: [Транспондер]
-tags: [Транспондер]
+категории: [Транспондер]
+теги: [Транспондер]
 translationKey: actions/transponder
 ---
 {{% alert title="Внимание" color="warning" %}}

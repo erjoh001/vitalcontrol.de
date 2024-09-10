@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Как зарегистрировать новый отел с помощью устройства VitalControl.
-categories: [Отел]
-tags: [Отел]
+категории: [Отел]
+теги: [Отел]
 translationKey: new/calving
 ---
 ## Регистрация отела {#register-a-calving}

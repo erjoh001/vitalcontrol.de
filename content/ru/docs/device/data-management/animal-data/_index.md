@@ -7,8 +7,8 @@ slug: animal-data
 description: >
  Экспорт данных о животных
 date: 2023-07-26
-categories: [Устройство, Экспорт данных]
-tags: [Устройство, Экспорт данных]
+категории: [Устройство, Экспорт данных]
+теги: [Устройство, Экспорт данных]
 translationKey: device/animal-data
 no_list: true
 maphilight: true

@@ -101,6 +101,9 @@ ru:
   languageName: Русский
   contentDir: content/ru
   weight: 125
+  taxonomies:
+    тег: теги
+    категория: категории
 sl:
   languageName: Slovenščina
   contentDir: content/sl

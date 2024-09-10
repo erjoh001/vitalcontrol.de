@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Здесь вы можете назначить транспондер новым животным, у которых еще нет транспондера.
-categories: [Новые на ферме, транспондер]
-tags: [Новые на ферме, транспондер]
+категории: [Новые на ферме, транспондер]
+теги: [Новые на ферме, транспондер]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Новые на ферме, без транспондера {#new-on-farm-no-transponder}

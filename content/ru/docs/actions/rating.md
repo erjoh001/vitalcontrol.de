@@ -6,8 +6,8 @@ weight: 30
 description: >
  Оцените ваших животных.
 date: 2023-07-26
-categories: [Действия]
-tags: [Действия, Оценка]
+категории: [Действия]
+теги: [Действия, Оценка]
 translationKey: actions/animal-rating
 ---
 

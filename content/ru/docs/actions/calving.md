@@ -6,8 +6,8 @@ weight: 115
 description: >
  Регистрация отела
 date: 2023-07-26
-categories: [Отел]
-tags: [Отел]
+категории: [Отел]
+теги: [Отел]
 translationKey: actions/calving
 ---
 {{% alert title="Подсказка" %}}

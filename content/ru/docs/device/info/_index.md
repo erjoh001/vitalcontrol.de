@@ -7,8 +7,8 @@ slug: info
 description: >
   Просмотр важной информации о программном и аппаратном обеспечении
 date: 2023-07-26
-categories: [Устройство]
-tags: [Устройство]
+категории: [Устройство]
+теги: [Устройство]
 translationKey: device/info
 no_list: true
 maphilight: true

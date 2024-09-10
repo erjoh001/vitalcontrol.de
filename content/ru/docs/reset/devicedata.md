@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Узнайте, как сбросить все настройки устройства VitalControl.
-categories: [Сброс]
+категории: [Сброс]
 ---
 ## Сброс всех данных устройства {#resetting-all-device-data}
 

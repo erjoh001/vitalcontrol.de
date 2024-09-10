@@ -6,8 +6,8 @@ weight: 20
 description: >
   Запишите вес ваших животных.
 date: 2023-07-26
-categories: [Действия]
-tags: [Действия, вес]
+категории: [Действия]
+теги: [Действия, вес]
 translationKey: actions/weight
 ---
 

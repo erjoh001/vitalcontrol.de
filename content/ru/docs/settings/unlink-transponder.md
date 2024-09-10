@@ -8,7 +8,7 @@ description: >
   Укажите, как будет присваиваться идентификационный номер животного после отсоединения транспондера.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+теги: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Отсоединение транспондера {#unlink-transponder}

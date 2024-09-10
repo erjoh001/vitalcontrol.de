@@ -6,6 +6,6 @@ draft: false
 description: >
   Записывайте температуры, вес и данные о здоровье с помощью устройства VitalControl и импортируйте записанные данные в программное обеспечение *Herde*.
 weight: 30
-categories: [DSP Herde]
+категории: [DSP Herde]
 translationKey: DSPherde
 ---

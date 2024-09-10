@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Ознакомьтесь со своим списком тревог.
-categories: [Списки]
-tags: [Списки, тревога]
+категории: [Списки]
+теги: [Списки, тревога]
 translationKey: lists/alarm
 ---
 ## Список тревог {#alarm-list}

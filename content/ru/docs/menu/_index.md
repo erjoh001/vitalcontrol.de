@@ -7,8 +7,8 @@ url: /ru/docs/menu-tree
 weight: -10
 description: >
   Показывает интерактивное дерево меню устройства VitalControl.
-Categories: [Меню]
-tags: [Главное меню, Действия]
+категории: [Меню]
+теги: [Главное меню, Действия]
 translationKey: menu-tree
 no_list: true
 ---
