@@ -7,7 +7,7 @@ draft: false
 slug: units
 description: >
  Hier selecteert u eenheden voor temperatuur en massa.
-categories: [instellingen]
+categorieën: [instellingen]
 tags: [instellingen, eenheden]
 translationKey: settings/units
 ---

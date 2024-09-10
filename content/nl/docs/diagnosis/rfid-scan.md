@@ -3,7 +3,7 @@ title: "RFID-scan: bereiktest en diagnose van transponders"
 linkTitle: RFID-scan
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnose, RFID-scan]
+categorieën: [Diagnose, RFID-scan]
 description: >
   Controleer het bereik van uw RFID-scanner of toon het leesprotocol en de nummers opgeslagen op onbekende transponders.
 translationKey: diagnosis/rfid-scan

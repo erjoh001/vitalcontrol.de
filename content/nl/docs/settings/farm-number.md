@@ -3,7 +3,7 @@ title: Bedrijf
 linkTitle: Bedrijf
 date: 2023-07-26
 weight: 80
-categories: [Instellingen]
+categorieën: [Instellingen]
 tags: [Instellingen, Boerderijnummer]
 description: >
   Sla uw officiële twaalfcijferige nationale boerderij-ID permanent op op het VitalControl-apparaat.

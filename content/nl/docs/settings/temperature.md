@@ -7,7 +7,7 @@ draft: false
 slug: temperature
 description: >
  Stel de temperatuurinstellingen in voor de toepassing van uw VitalControl-apparaat
-categories: [instellingen]
+categorieën: [instellingen]
 tags: [instellingen, temperatuur, drempelwaarde, anus spotlight]
 translationKey: settings/temperature
 ---

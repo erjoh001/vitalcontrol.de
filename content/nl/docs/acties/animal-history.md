@@ -6,7 +6,7 @@ weight: 80
 description: >
  Bekijk de geschiedenis van een dier.
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties, Dierengeschiedenis]
 translationKey: actions/animalshistory
 ---

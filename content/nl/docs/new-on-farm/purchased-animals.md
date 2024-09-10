@@ -7,7 +7,7 @@ draft: false
 slug: purchased-animals
 description: >
   Hier kunt u uw huidige aankopen bekijken en de gegevens exporteren.
-categories: [Nieuw op de boerderij]
+categorieën: [Nieuw op de boerderij]
 tags: [Nieuw op de boerderij]
 translationKey: new-on-farm/new-on-farm
 ---

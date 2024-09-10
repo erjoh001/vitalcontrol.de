@@ -6,7 +6,7 @@ weight: 110
 description: >
   Registreer een dierverlies.
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties, dier-verlies]
 translationKey: actions/animal-loss
 ---

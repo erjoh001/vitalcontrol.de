@@ -7,7 +7,7 @@ draft: false
 slug: herd
 description: >
  Bekijk belangrijke informatie over uw kudde.
-categories: [Kudde]
+categorieën: [Kudde]
 tags: [Kudde, Temperatuur, Gewicht, Beoordeling, Diergegevens]
 translationKey: herd
 ---

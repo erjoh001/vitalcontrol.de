@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Leer hoe u alle apparaatinstellingen van het VitalControl-apparaat kunt resetten.
-categories: [Reset]
+categorieën: [Reset]
 ---
 ## Alle apparaatgegevens resetten {#resetting-all-device-data}
 

@@ -6,7 +6,7 @@ weight: 20
 description: >
   Evalueer uw opgeslagen gegevens in het gedeelte Temperatuur.
 date: 2023-07-26
-categories: [Evaluatie]
+categorieën: [Evaluatie]
 tags: [Evaluatie, Temperatuur]
 translationKey: evaluation/temperature
 ---

@@ -5,7 +5,7 @@ date: 2023-07-20
 weight: 20
 description: >
   Door middel van een gegevensback-up wordt een back-upbestand gemaakt dat alle gegevens bevat die zijn opgeslagen op het VitalControl-apparaat.
-categories: [Gegevensback-up]
+categorieën: [Gegevensback-up]
 tags: [back-upbestand, USB-flashstation]
 translationKey: backup
 ---

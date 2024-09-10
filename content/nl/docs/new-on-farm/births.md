@@ -7,7 +7,7 @@ draft: false
 slug: births
 description: >
   Hier kunt u uw geboortes bekijken en een exportbestand aanmaken.
-categories: [Geboortes]
+categorieën: [Geboortes]
 tags: [Geboortes]
 translationKey: new-on-farm/births
 ---

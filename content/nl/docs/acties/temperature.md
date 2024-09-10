@@ -6,7 +6,7 @@ weight: 10
 description: >
   Meet koorts bij uw dieren.
 date: 2023-07-26
-Categories: [Actions]
+categorieën: [Actions]
 tags: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---

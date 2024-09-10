@@ -7,7 +7,7 @@ draft: false
 slug: alarm
 description: >
   Bekijk uw alarmlijst.
-categories: [Lijsten]
+categorieën: [Lijsten]
 tags: [Lijsten, alarm]
 translationKey: lists/alarm
 ---

@@ -6,7 +6,7 @@ weight: 10
 description: >
   Evalueer uw opgeslagen gegevens in de sectie Gewicht.
 date: 2023-07-26
-categories: [Evaluatie]
+categorieën: [Evaluatie]
 tags: [Evaluatie, gewicht]
 translationKey: evaluation/weight
 maphilight: true

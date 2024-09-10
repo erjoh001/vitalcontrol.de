@@ -7,7 +7,7 @@ draft: false
 slug: calving
 description: >
   Hoe een nieuwe kalving registreren met het VitalControl-apparaat.
-categories: [Kalving]
+categorieën: [Kalving]
 tags: [Kalving]
 translationKey: new/calving
 ---

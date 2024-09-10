@@ -6,6 +6,6 @@ draft: false
 description: >
   Registreer temperaturen, gewichten en gezondheidsgegevens eenvoudig met het VitalControl-apparaat en importeer de opgenomen gegevens in de *Herde* software.
 weight: 30
-categories: [DSP Herde]
+categorieën: [DSP Herde]
 translationKey: DSPherde
 ---

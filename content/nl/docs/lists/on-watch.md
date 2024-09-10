@@ -7,7 +7,7 @@ draft: false
 slug: on-watch
 description: >
  Bekijk uw lijst met geobserveerde dieren.
-categories: [Lijsten]
+categorieën: [Lijsten]
 tags: [Lijsten, geobserveerd]
 translationKey: lists/on-watch
 ---

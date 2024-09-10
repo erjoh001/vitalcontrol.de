@@ -7,7 +7,7 @@ draft: false
 slug: animal-registration
 description: >
   Hier kunt u verschillende fabrieksinstellingen aanpassen met betrekking tot de registratie van nieuwe dieren naar de eisen van uw boerderij.
-categories: [settings]
+categorieën: [settings]
 tags: [settings, Default values]
 translationKey: settings/new-animals
 ---

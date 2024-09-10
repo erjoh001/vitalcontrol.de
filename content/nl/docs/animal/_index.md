@@ -7,7 +7,7 @@ draft: false
 slug: animal
 description: >
  Bekijk belangrijke informatie gerelateerd aan individuele dieren.
-Categories: [Dier]
+categorieën: [Dier]
 tags: [Dier, Temperatuur, Hoogte, Diergegevens]
 translationKey: animal/animal
 ---

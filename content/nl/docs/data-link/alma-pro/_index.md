@@ -6,6 +6,6 @@ draft: false
 description: >
   Importeer alle dieren van de voederautomaat naar het VitalControl-apparaat en draag opgenomen temperaturen, gewichten en dierbeoordelingen over naar de voederautomaat.
 weight: 20
-categories: [Alma Pro]
+categorieën: [Alma Pro]
 translationKey: alma-pro
 ---

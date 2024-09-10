@@ -7,7 +7,7 @@ slug: service
 description: >
   Controleer uw apparaatstuurprogramma's, update uw firmware en voer een bereiktest uit
 date: 2223-27-26
-categories: [Apparaat]
+categorieën: [Apparaat]
 tags: [Apparaat]
 translationKey: device/service
 no_list: true

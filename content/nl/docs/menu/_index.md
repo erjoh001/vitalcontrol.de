@@ -7,7 +7,7 @@ url: /nl/docs/menustructuur
 weight: -10
 description: >
   Toont de interactieve menuboom van het VitalControl-apparaat.
-Categories: [Menu]
+categorieën: [Menu]
 tags: [Hoofdmenu, Acties]
 translationKey: menu-tree
 no_list: true

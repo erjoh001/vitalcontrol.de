@@ -7,7 +7,7 @@ draft: false
 slug: chain-of-actions
 description: >
  Voer meerdere dierenacties achtereenvolgens uit
-categories: [Keten van acties]
+categorieën: [Keten van acties]
 tags: [Keten van acties, Acties]
 translationKey: action-chain
 ---

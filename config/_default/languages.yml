@@ -80,6 +80,9 @@ lv:
 nl:
   languageName: Nederlands
   contentDir: content/nl
+  taxonomies:
+    tag: tags
+    categorie: categorieën
   weight: 100
 no:
   languageName: Norsk

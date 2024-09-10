@@ -6,7 +6,7 @@ weight: 60
 description: >
  Dieren toevoegen en verwijderen van de alarmlijst.
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties, Alarm]
 translationKey: actions/alarm
 ---

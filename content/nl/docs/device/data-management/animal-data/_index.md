@@ -7,7 +7,7 @@ slug: animal-data
 description: >
  Exporteer uw dierdata
 date: 2023-07-26
-categories: [Apparaat, Data export]
+categorieën: [Apparaat, Data export]
 tags: [Apparaat, Data export]
 translationKey: device/animal-data
 no_list: true

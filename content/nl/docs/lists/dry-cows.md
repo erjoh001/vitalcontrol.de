@@ -7,7 +7,7 @@ draft: false
 slug: dry-cows
 description: >
  Bekijk uw lijst met droge koeien.
-categories: [Lijsten]
+categorieën: [Lijsten]
 tags: [Lijsten, droge koe]
 translationKey: lists/dry-cows
 ---

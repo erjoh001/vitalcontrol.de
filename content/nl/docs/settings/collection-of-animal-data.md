@@ -7,7 +7,7 @@ draft: false
 slug: data-acquisition
 description: >
  Gegevensopslag voor relevante instellingen voor het verzamelen van dierengegevens
-categories: [instellingen]
+categorieën: [instellingen]
 tags: [instellingen, gegevensacquisitie]
 translationKey: settings/data-acquisition
 maphilight: true

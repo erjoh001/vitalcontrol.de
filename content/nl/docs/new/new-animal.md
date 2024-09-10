@@ -7,7 +7,7 @@ draft: false
 slug: animal
 description: >
   Hoe een nieuw dier te registreren met het VitalControl-apparaat.
-categories: [Nieuw dier]
+categorieën: [Nieuw dier]
 tags: [Dieren registreren]
 translationKey: new/animal
 ---

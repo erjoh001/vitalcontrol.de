@@ -7,7 +7,7 @@ slug: data-management
 description: >
  Voer gegevensback-ups uit, exporteer uw gegevens en reset het apparaat
 date: 2023-07-26
-categories: [Apparaat, Gegevensexport]
+categorieën: [Apparaat, Gegevensexport]
 tags: [Apparaat, Gegevensexport]
 translationKey: device/data-management
 no_list: true

@@ -6,7 +6,7 @@ weight: 115
 description: >
  Droog een koe of voeg haar toe aan de lijst met verse koeien
 date: 2023-07-26
-categories: [Droog zetten]
+categorieën: [Droog zetten]
 tags: [Droog zetten]
 translationKey: actions/dry-cows
 ---

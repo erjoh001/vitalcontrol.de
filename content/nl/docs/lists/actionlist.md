@@ -7,7 +7,7 @@ draft: false
 slug: actions
 description: >
  Bekijk uw actielijst.
-categories: [Lijsten]
+categorieën: [Lijsten]
 tags: [Lijsten, Actie]
 translationKey: lists/action
 ---

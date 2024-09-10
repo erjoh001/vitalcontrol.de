@@ -5,7 +5,7 @@ weight: 50
 description: >
  Hoe een filter toe te passen op een dierenlijst om alleen een subset van de dieren die aanwezig zijn op het apparaat weer te geven.
 date: 2023-07-26
-categories: [Filter]
+categorieën: [Filter]
 tags: [Filter]
 translationKey: filter
 ---

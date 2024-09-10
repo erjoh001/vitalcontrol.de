@@ -6,7 +6,7 @@ weight: 110
 description: >
  Transponderkoppeling aan een dier verwijderen
 date: 2023-07-26
-categories: [Transponder]
+categorieën: [Transponder]
 tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---

@@ -6,7 +6,7 @@ weight: 40
 description: >
   Evalueer uw opgeslagen gegevens in het sterftegedeelte.
 date: 2023-07-26
-categories: [Evaluatie]
+categorieën: [Evaluatie]
 tags: [Evaluatie, Sterfte]
 translationKey: evaluation/mortality
 ---

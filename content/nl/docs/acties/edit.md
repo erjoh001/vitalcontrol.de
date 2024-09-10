@@ -6,7 +6,7 @@ weight: 90
 description: >
  Gegevens van het geselecteerde dier bewerken.
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties, diergegevens, bewerken]
 translationKey: actions/edit
 ---

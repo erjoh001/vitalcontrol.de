@@ -4,7 +4,7 @@ linkTitle: "Fabrieksreset"
 date: 2017-01-03
 description: >
   Standaardwaarden herstellen op uw VitalControl-apparaat door een fabrieksreset uit te voeren.
-categories: [Reset]
+categorieën: [Reset]
 translationKey: reset/factory
 ---
 ## Een fabrieksreset uitvoeren {#performing-a-factory-reset}

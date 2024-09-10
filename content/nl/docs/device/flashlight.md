@@ -7,7 +7,7 @@ slug: flashlight
 description: >
   Zet het licht op uw VitalControl-apparaat aan of uit
 date: 2023-07-26
-categories: [Apparaat]
+categorieën: [Apparaat]
 tags: [Apparaat]
 translationKey: device/flashlight
 ---

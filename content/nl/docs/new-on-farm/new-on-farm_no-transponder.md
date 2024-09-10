@@ -7,7 +7,7 @@ draft: false
 slug: new-no-transponder
 description: >
   Hier wijs je een transponder toe aan nieuwe dieren zonder transponder.
-categories: [Nieuw op bedrijf, transponder]
+categorieën: [Nieuw op bedrijf, transponder]
 tags: [Nieuw op bedrijf, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---

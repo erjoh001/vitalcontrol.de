@@ -6,7 +6,7 @@ weight: 102
 description: >
  Een transponder toewijzen aan een dier
 date: 2023-07-26
-categories: [Transponder]
+categorieën: [Transponder]
 tags: [Transponder]
 translationKey: actions/transponder
 ---

@@ -7,7 +7,7 @@ draft: false
 slug: animal-loss
 description: >
   Hoe u het verlies van een dier registreert met het VitalControl-apparaat.
-categories: [Animal-loss]
+categorieën: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---

@@ -6,7 +6,7 @@ weight: 30
 description: >
   Evalueer uw opgeslagen gegevens in het beoordelingsgedeelte.
 date: 2023-07-26
-categories: [Evaluatie]
+categorieën: [Evaluatie]
 tags: [Evaluatie, Beoordeling]
 translationKey: evaluation/rating
 ---

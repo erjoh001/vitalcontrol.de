@@ -7,7 +7,7 @@ draft: false
 slug: datetime
 description: >
   Hier stelt u de datum en tijd in.
-categories: [Instellingen]
+categorieën: [Instellingen]
 tags: [Instellingen, Datum & Tijd]
 translationKey: settings/datetime
 ---

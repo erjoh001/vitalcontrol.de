@@ -7,7 +7,7 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Hier kunt u alle dieren bekijken die nog geen nationaal dier-ID hebben toegewezen gekregen en een nationaal dier-ID toewijzen.
-categories: [Nieuw op boerderij]
+categorieën: [Nieuw op boerderij]
 tags: [Nieuw op boerderij]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---

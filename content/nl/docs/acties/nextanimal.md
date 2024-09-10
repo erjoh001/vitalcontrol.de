@@ -6,7 +6,7 @@ weight: 10
 description: >
  Selecteer het volgende dier binnen het menu-item Acties.
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties]
 translationKey: actions/next-animal
 draft: true

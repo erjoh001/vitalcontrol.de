@@ -7,7 +7,7 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Hier kunt u alle dieren bekijken die nog geen transponder toegewezen hebben gekregen en een transponder aan hen toewijzen.
-categories: [Nieuw op de boerderij, Nationaal dier-ID]
+categorieën: [Nieuw op de boerderij, Nationaal dier-ID]
 tags: [Nieuw op de boerderij, Nationaal dier-ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---

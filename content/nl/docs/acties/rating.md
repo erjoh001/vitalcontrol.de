@@ -6,7 +6,7 @@ weight: 30
 description: >
  Beoordeel uw dieren.
 date: 2023-07-26
-categories: [Actions]
+categorieën: [Actions]
 tags: [Actions, Rating]
 translationKey: actions/animal-rating
 ---

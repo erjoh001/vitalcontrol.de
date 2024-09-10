@@ -4,7 +4,7 @@ linkTitle: "Dierengegevens"
 date: 2017-01-02
 description: >
   Leer hoe je alle dieren en hun gegevens kunt verwijderen van je VitalControl-apparaat.
-categories: [Reset]
+categorieën: [Reset]
 ---
 ## Alle dierengegevens van apparaat wissen {#erasing-all-animal-data-from-device}
 

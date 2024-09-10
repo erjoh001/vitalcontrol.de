@@ -7,7 +7,7 @@ slug: temperature-measurement
 description: >
  Test de temperatuurmeting van je apparaat
 date: 2023-07-26
-categories: [Apparaat]
+categorieën: [Apparaat]
 tags: [Apparaat]
 translationKey: device/temperature-measurement
 ---

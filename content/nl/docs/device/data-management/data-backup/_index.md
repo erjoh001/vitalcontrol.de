@@ -7,7 +7,7 @@ slug: data-backup
 description: >
  Voer gegevensback-ups uit
 date: 2023-07-26
-categories: [Apparaat, Gegevensexport]
+categorieën: [Apparaat, Gegevensexport]
 tags: [Apparaat, Gegevensexport]
 translationKey: device/save-data
 no_list: true

@@ -6,7 +6,7 @@ weight: 100
 description: >
  Dier afmelden
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties, Afmelden]
 translationKey: actions/unregister
 ---

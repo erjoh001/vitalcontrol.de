@@ -7,7 +7,7 @@ weight: 120
 description: >
   Registreer belangrijke aspecten van de zorg voor pasgeborenen.
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties, zorg voor pasgeborenen]
 translationKey: actions/newborn-care
 ---

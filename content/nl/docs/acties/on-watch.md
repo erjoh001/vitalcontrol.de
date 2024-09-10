@@ -6,7 +6,7 @@ weight: 70
 description: >
  Dieren op de lijst 'in de gaten houden' plaatsen of verwijderen.
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties, in de gaten houden]
 translationKey: actions/on-watch
 ---

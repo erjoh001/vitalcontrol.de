@@ -6,7 +6,7 @@ weight: 115
 description: >
  Wijs een nationaal dier-ID toe aan een dier dat geen nationaal dier-ID heeft
 date: 2023-07-26
-categories: [Nationaal dier-ID]
+categorieën: [Nationaal dier-ID]
 tags: [Nationaal dier-ID]
 translationKey: actions/national-animal-id
 ---

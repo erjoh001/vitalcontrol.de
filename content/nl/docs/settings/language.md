@@ -6,7 +6,7 @@ draft: false
 weight: 10
 description: >
   Stel de taal van de gebruikersinterface op uw VitalControl-apparaat in en sla deze permanent op.
-categories: [Instellingen]
+categorieën: [Instellingen]
 tags: [Instellingen, Taal]
 translationKey: settings/language
 ---

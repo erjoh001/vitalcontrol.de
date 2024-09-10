@@ -5,7 +5,7 @@ date: 2023-07-20
 weight: 30
 description: >
   Beschrijving van de structuur en inhoud van de vier gegevensbestanden die tijdens de export worden aangemaakt.
-categories: [Data export]
+categorieën: [Data export]
 tags: [exportbestanden, temperaturen, gewichten, beoordelingen]
 slug: export-bestanden
 translationKey: data-export/data-files

@@ -6,7 +6,7 @@ weight: 115
 description: >
   Registreer een kalving
 date: 2023-07-26
-categories: [Kalven]
+categorieën: [Kalven]
 tags: [Kalven]
 translationKey: actions/calving
 ---

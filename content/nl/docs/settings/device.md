@@ -7,7 +7,7 @@ slug: device
 description: >
  Hier kunt u verschillende apparaatinstellingen aanpassen.
 date: 2023-07-26
-categories: [instellingen]
+categorieën: [instellingen]
 tags: [instellingen, apparaat]
 translationKey: settings/device
 ---

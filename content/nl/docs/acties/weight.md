@@ -6,7 +6,7 @@ weight: 20
 description: >
   Registreer het gewicht van uw dieren.
 date: 2023-07-26
-categories: [Acties]
+categorieën: [Acties]
 tags: [Acties, gewicht]
 translationKey: actions/weight
 ---

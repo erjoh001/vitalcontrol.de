@@ -7,7 +7,7 @@ draft: false
 slug: fresh-cows
 description: >
   Faciliteer de controle van uw verse koeien.
-categories: [Lijsten]
+categorieën: [Lijsten]
 tags: [Lijsten, verse koe]
 translationKey: lists/fresh-cows
 ---

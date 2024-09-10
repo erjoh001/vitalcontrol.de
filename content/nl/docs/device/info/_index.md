@@ -7,7 +7,7 @@ slug: info
 description: >
   Bekijk belangrijke software- en hardware-informatie
 date: 2023-07-26
-categories: [Apparaat]
+categorieën: [Apparaat]
 tags: [Apparaat]
 translationKey: device/info
 no_list: true

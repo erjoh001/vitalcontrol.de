@@ -7,7 +7,7 @@ privacy_policy: https://www.urbanonline.de/en/privacy-policy
 taxonomy:
   # set taxonomyCloud: [] to hide taxonomy clouds
   taxonomyCloud:
-    - categories
+    - categorieën
     - tags
   # If used, must have same length as taxonomyCloud
   taxonomyCloudTitle:
@@ -15,5 +15,5 @@ taxonomy:
     - "Tagwolk"
   # set taxonomyPageHeader: [] to hide taxonomies on the page headers
   taxonomyPageHeader:
-    - categories
+    - categorieën
     - tags

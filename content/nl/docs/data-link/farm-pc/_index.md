@@ -5,7 +5,7 @@ date: 2023-07-19
 weight: 15
 description: >
  Exporteer diergegevens en meetwaarden vanuit het VitalControl-apparaat naar verschillende CVS-bestanden
-categories: [Data export]
+categorieën: [Data export]
 translationKey: farmPC
 ---
 Ga als volgt te werk om gegevens van VitalControl naar een opslagapparaat van uw PC te exporteren:

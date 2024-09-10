@@ -7,7 +7,7 @@ slug: transponder-linkage
 description: >
   Stel de toewijzing van de transponder in op uw VitalControl-apparaat.
 date: 2023-07-26
-categories: [instellingen]
+categorieën: [instellingen]
 tags: [instellingen, Maximale leeftijd, maximale leeftijd gekochte kalveren, Toewijzing dier-ID]
 translationKey: settings/link-transponder
 ---

@@ -7,7 +7,7 @@ draft: false
 slug: bulk-recording
 description: >
   Gebruik de barcodescanner om een verscheidenheid aan dieren te registreren.
-categories: [Bulk-recording]
+categorieën: [Bulk-recording]
 tags: [Bulk-recording]
 translationKey: new/bulk-recording
 ---

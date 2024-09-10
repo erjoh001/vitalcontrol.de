@@ -5,7 +5,7 @@ date: 2023-07-20
 weight: 10
 description: >
   Exporteer CVS-gegevensbestanden met dierengegevens en meetwaarden opgeslagen op het VitalControl-apparaat naar een USB-stick.
-categories: [Gegevensexport]
+categorieën: [Gegevensexport]
 tags: [CSV-bestanden, USB-stick]
 translationKey: data-export/usb-drive
 ---

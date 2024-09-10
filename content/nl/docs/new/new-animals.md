@@ -7,7 +7,7 @@ draft: false
 slug: animals
 description: >
   Hoe u meerdere nieuwe dieren tegelijkertijd kunt aanmaken op het VitalControl-apparaat met één enkele actie.
-categories: [Nieuwe dieren]
+categorieën: [Nieuwe dieren]
 tags: [Nieuwe dieren]
 translationKey: new/animals
 ---

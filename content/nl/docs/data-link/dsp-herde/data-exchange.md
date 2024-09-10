@@ -6,7 +6,7 @@ draft: false
 description: >
   Synchroniseer de dieren opgeslagen op het VitalControl-apparaat met dieren beheerd door *Herde* software en draag gemeten waarden over die zijn opgenomen met het VitalControl-apparaat naar *Herde* software.
 weight: 20
-categories: [Gegevensuitwisseling, DSP Herde]
+categorieën: [Gegevensuitwisseling, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Volg de onderstaande stappen om gegevens te synchroniseren tussen de software `Herde` en het VitalControl-apparaat:

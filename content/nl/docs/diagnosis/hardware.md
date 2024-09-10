@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Controleer de hardwarecomponenten van uw VitalControl-apparaat, vooral als u een hardwaredefect vermoedt.
-categories: [Diagnose, Hardware]
+categorieën: [Diagnose, Hardware]
 weight: 10
 ---
 Als er een storing is aan uw apparaat, moet u eerst een hardwarecontrole uitvoeren om te verduidelijken of een van de hardwarecomponenten defect is.
