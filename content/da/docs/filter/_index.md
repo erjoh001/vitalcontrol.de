@@ -5,7 +5,7 @@ weight: 50
 description: >
  Hvordan man anvender et filter på en dyreliste for kun at vise et delmængde af de dyr, der er til stede på enheden.
 date: 2023-07-26
-categories: [Filter]
+kategorier: [Filter]
 tags: [Filter]
 translationKey: filter
 ---

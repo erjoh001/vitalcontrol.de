@@ -7,7 +7,7 @@ draft: false
 slug: units
 description: >
  Her vælger du enheder for temperatur og masse.
-categories: [settings]
+kategorier: [settings]
 tags: [settings, units]
 translationKey: settings/units
 ---

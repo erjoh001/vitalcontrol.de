@@ -6,7 +6,7 @@ weight: 80
 description: >
  Se en dyrehistorik.
 date: 2023-07-26
-categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger, Dyrehistorik]
 translationKey: actions/animalshistory
 ---

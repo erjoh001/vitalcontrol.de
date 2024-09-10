@@ -6,7 +6,7 @@ weight: 50
 description: >
  Anvendelse og opsætning af handlingskæden.
 date: 2023-07-26
-categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger, handlingskæde]
 manualLink: /en/docs/chain-of-actions/
 ---

@@ -7,7 +7,7 @@ draft: false
 slug: fresh-cows
 description: >
   Faciliter kontrollen af dine nykælvere.
-categories: [Lister]
+kategorier: [Lister]
 tags: [Lister, nykælver]
 translationKey: lists/fresh-cows
 ---

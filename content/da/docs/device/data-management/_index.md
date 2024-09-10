@@ -7,7 +7,7 @@ slug: data-management
 description: >
  Kør databackups, eksporter dine data og nulstil enheden
 date: 2023-07-26
-categories: [Enhed, Dataeksport]
+kategorier: [Enhed, Dataeksport]
 tags: [Enhed, Dataeksport]
 translationKey: device/data-management
 no_list: true

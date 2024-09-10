@@ -7,7 +7,7 @@ draft: false
 slug: calving
 description: >
   Hvordan man registrerer en ny kælvning ved hjælp af VitalControl-enheden.
-categories: [Kælvning]
+kategorier: [Kælvning]
 tags: [Kælvning]
 translationKey: new/calving
 ---

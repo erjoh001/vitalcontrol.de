@@ -6,7 +6,7 @@ weight: 110
 description: >
  Registrer et dyretab.
 date: 2023-07-26
-categories: [Actions]
+kategorier: [Actions]
 tags: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---

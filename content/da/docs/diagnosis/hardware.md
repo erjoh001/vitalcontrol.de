@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Kontroller hardwarekomponenterne på din VitalControl-enhed, især hvis du mistænker en hardwarefejl.
-categories: [Diagnose, Hardware]
+kategorier: [Diagnose, Hardware]
 weight: 10
 ---
 Hvis der er en funktionsfejl på din enhed, bør du først udføre en hardwarekontrol for at afklare, om nogen af hardwarekomponenterne er defekte.

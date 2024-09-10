@@ -7,7 +7,7 @@ draft: false
 slug: dry-cows
 description: >
  Tjek din liste over goldkøer.
-categories: [Lister]
+kategorier: [Lister]
 tags: [Lister, goldko]
 translationKey: lists/dry-cows
 ---

@@ -5,7 +5,7 @@ date: 2017-01-02
 weight: 30
 description: >
   Lær hvordan du sletter alle dyr og deres data fra din VitalControl-enhed.
-categories: [Reset]
+kategorier: [Reset]
 ---
 ## Sletning af alle dyredata fra enheden {#erasing-all-animal-data-from-device}
 

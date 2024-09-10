@@ -6,7 +6,7 @@ weight: 30
 description: >
  Bedøm dine dyr.
 date: 2023-07-26
-categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger, Bedømmelse]
 translationKey: actions/animal-rating
 ---

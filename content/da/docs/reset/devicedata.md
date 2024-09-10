@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Lær hvordan du nulstiller alle enhedsindstillinger på VitalControl-enheden.
-categories: [Nulstilling]
+kategorier: [Nulstilling]
 ---
 ## Nulstilling af alle enhedsdata {#resetting-all-device-data}
 

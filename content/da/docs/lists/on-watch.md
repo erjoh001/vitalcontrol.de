@@ -7,7 +7,7 @@ draft: false
 slug: on-watch
 description: >
  Tjek din overvågningsliste.
-categories: [Lister]
+kategorier: [Lister]
 tags: [Lister, på overvågning]
 translationKey: lists/on-watch
 ---

@@ -6,7 +6,7 @@ weight: 115
 description: >
  Tør en ko af eller tilføj hende til listen over friske køer
 date: 2023-07-26
-categories: [Tør af]
+kategorier: [Tør af]
 tags: [Tør af]
 translationKey: actions/dry-cows
 ---

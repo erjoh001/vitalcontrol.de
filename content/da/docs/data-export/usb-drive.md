@@ -5,7 +5,7 @@ date: 2023-07-20
 weight: 10
 description: >
   Eksporter CVS-datafiler, der indeholder dyredata og måleværdier gemt på VitalControl-enheden, til et USB-flashdrev.
-categories: [Dataeksport]
+kategorier: [Dataeksport]
 tags: [CSV-filer, USB-flashdrev]
 translationKey: data-export/usb-drive
 ---

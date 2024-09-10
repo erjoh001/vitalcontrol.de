@@ -6,7 +6,7 @@ weight: 115
 description: >
  Registrer en kælvning
 date: 2023-07-26
-categories: [Kælvning]
+kategorier: [Kælvning]
 tags: [Kælvning]
 translationKey: actions/calving
 ---

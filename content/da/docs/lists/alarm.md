@@ -7,7 +7,7 @@ draft: false
 slug: alarm
 description: >
   Tjek din alarm liste.
-categories: [Lister]
+kategorier: [Lister]
 tags: [Lister, alarm]
 translationKey: lists/alarm
 ---

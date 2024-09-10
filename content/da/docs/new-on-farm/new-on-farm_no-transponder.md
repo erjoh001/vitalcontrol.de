@@ -7,7 +7,7 @@ draft: false
 slug: new-no-transponder
 description: >
   Her tildeler du en transponder til nye dyr uden en transponder.
-categories: [Ny på gården, transponder]
+kategorier: [Ny på gården, transponder]
 tags: [Ny på gården, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---

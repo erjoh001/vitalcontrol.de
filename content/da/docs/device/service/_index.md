@@ -7,7 +7,7 @@ slug: service
 description: >
   Tjek dine enhedsdrivere, opdater din firmware og udfør en rækkeviddetest
 date: 2223-27-26
-categories: [Device]
+kategorier: [Device]
 tags: [Device]
 translationKey: device/service
 no_list: true

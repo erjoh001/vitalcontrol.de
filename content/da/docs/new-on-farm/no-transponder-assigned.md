@@ -7,7 +7,7 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Her kan du se alle dyr, der endnu ikke har fået tildelt en transponder, og tildele dem en transponder.
-categories: [Ny på gården, Nationalt dyre-ID]
+kategorier: [Ny på gården, Nationalt dyre-ID]
 tags: [Ny på gården, Nationalt dyre-ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---

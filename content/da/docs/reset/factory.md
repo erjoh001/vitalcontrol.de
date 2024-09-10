@@ -5,7 +5,7 @@ date: 2017-01-03
 weight: 20
 description: >
   Gendannelse af standardværdier på din VitalControl-enhed ved at udføre en fabriksnulstilling.
-categories: [Reset]
+kategorier: [Reset]
 translationKey: reset/factory
 ---
 ## Udførelse af en fabriksnulstilling {#performing-a-factory-reset}

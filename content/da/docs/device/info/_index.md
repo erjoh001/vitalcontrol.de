@@ -7,7 +7,7 @@ slug: info
 description: >
   Se vigtig software- og hardwareinformation
 date: 2023-07-26
-categories: [Device]
+kategorier: [Device]
 tags: [Device]
 translationKey: device/info
 no_list: true

@@ -7,7 +7,7 @@ draft: false
 slug: animal
 description: >
  Se vigtige oplysninger relateret til individuelle dyr.
-Categories: [Dyr]
+kategorier: [Dyr]
 tags: [Dyr, Temperatur, Højde, Dyredata]
 translationKey: animal/animal
 ---

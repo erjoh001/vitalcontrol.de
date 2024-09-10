@@ -7,7 +7,7 @@ draft: false
 slug: animal
 description: >
   Hvordan man registrerer et nyt dyr ved hjælp af VitalControl-enheden.
-categories: [Nyt dyr]
+kategorier: [Nyt dyr]
 tags: [Registrer dyr]
 translationKey: new/animal
 ---

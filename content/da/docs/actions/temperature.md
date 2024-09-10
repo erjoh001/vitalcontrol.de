@@ -6,7 +6,7 @@ weight: 10
 description: >
   Mål feber hos dine dyr.
 date: 2023-07-26
-Categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger, feber, temperatur]
 translationKey: actions/temperature
 ---

@@ -6,7 +6,7 @@ weight: 110
 description: >
  Fjern transponderlinket til et dyr
 date: 2023-07-26
-categories: [Transponder]
+kategorier: [Transponder]
 tags: [Transponder]
 translationKey: actions/transponder-unlink
 ---

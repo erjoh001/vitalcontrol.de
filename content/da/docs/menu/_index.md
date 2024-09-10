@@ -3,11 +3,11 @@ title: Menu struktur af grafisk brugergrænseflade
 linkTitle: Menu træ
 date: 2023-09-15T12:45:53+02:00
 draft: false
-url: /en/docs/menu-tree
+url: /da/docs/menu-tree
 weight: -10
 description: >
   Viser den interaktive menustruktur af VitalControl-enheden.
-Categories: [Menu]
+kategorier: [Menu]
 tags: [Hovedmenu, Handlinger]
 translationKey: menu-tree
 no_list: true

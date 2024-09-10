@@ -7,7 +7,7 @@ draft: false
 slug: data-acquisition
 description: >
  Opbevaring af relevante indstillinger for dyredataindsamling
-categories: [settings]
+kategorier: [settings]
 tags: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true

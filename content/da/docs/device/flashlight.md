@@ -7,7 +7,7 @@ slug: flashlight
 description: >
   Tænd eller sluk lyset på din VitalControl-enhed
 date: 2023-07-26
-categories: [Enhed]
+kategorier: [Enhed]
 tags: [Enhed]
 translationKey: device/flashlight
 ---

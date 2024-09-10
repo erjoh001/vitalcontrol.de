@@ -6,7 +6,7 @@ weight: 70
 description: >
  Sæt dyr på overvågningslisten eller fjern dem.
 date: 2023-07-26
-categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger, på overvågning]
 translationKey: actions/on-watch
 ---

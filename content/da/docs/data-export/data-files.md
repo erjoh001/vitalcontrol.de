@@ -5,7 +5,7 @@ date: 2023-07-20
 weight: 30
 description: >
   Beskrivelse af strukturen og indholdet af de fire datafiler, der oprettes under eksporten.
-categories: [Dataeksport]
+kategorier: [Dataeksport]
 tags: [eksportfiler, temperaturer, vægte, vurderinger]
 slug: export-files
 translationKey: data-export/data-files

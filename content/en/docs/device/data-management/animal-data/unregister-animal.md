@@ -6,8 +6,8 @@ weight: 30
 draft: false
 description: >
  Deregister animals from your VitalControl.
-Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+Kategorien: [Animal data]
+Tags: [Animal data, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Unregister animals {#unregister-animals}

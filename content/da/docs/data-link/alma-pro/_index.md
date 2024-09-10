@@ -6,6 +6,6 @@ draft: false
 description: >
   Importer alle dyr fra fodermaskinen til VitalControl-enheden og overfør registrerede temperaturer, vægte og dyrebedømmelser til fodermaskinen.
 weight: 20
-categories: [Alma Pro]
+kategorier: [Alma Pro]
 translationKey: alma-pro
 ---

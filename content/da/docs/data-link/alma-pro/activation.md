@@ -6,7 +6,7 @@ draft: false
 description: >
   Før du bruger VitalControl for første gang, skal du aktivere den én gang i indstillingerne for Alma Pro fodermaskinen.
 weight: 10
-categories: [Alma Pro]
+kategorier: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

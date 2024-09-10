@@ -6,7 +6,7 @@ weight: 30
 description: >
  Evaluér dine lagrede data i vurderingssektionen.
 date: 2023-07-26
-categories: [Evaluering]
+kategorier: [Evaluering]
 tags: [Evaluering, Vurdering]
 translationKey: evaluation/rating
 ---

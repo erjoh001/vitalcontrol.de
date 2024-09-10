@@ -6,7 +6,7 @@ weight: 20
 description: >
  Evaluer dine gemte data i Temperatur sektionen.
 date: 2023-07-26
-categories: [Evaluation]
+kategorier: [Evaluation]
 tags: [Evaluation, Temperature]
 translationKey: evaluation/temperature
 ---

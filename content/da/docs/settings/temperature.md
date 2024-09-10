@@ -7,7 +7,7 @@ draft: false
 slug: temperature
 description: >
  Indstil temperaturindstillingerne for anvendelsen af din VitalControl-enhed
-categories: [settings]
+kategorier: [settings]
 tags: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---

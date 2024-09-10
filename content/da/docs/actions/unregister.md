@@ -6,7 +6,7 @@ weight: 100
 description: >
  Afmeld et dyr
 date: 2023-07-26
-categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger, Afmeld]
 translationKey: actions/unregister
 ---

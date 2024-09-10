@@ -6,7 +6,7 @@ weight: 120
 description: >
  Indstil menupunkterne for Handlingsmenuen og indstil rækken af handlinger
 date: 2023-07-26
-categories: [Handlinger, Række af handlinger]
+kategorier: [Handlinger, Række af handlinger]
 tags: [Handlinger, Række af handlinger]
 translationKey: actions/setting
 ---

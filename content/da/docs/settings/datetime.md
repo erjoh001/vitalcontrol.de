@@ -7,7 +7,7 @@ draft: false
 slug: datetime
 description: >
   Her indstiller du dato og tid.
-categories: [Indstillinger]
+kategorier: [Indstillinger]
 tags: [Indstillinger, Dato & Tid]
 translationKey: settings/datetime
 ---

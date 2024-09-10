@@ -7,7 +7,7 @@ weight: 120
 description: >
  Registrer vigtige aspekter af nyfødtpleje.
 date: 2023-07-26
-categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger, nyfødtpleje]
 translationKey: actions/newborn-care
 ---

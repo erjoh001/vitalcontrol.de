@@ -7,7 +7,7 @@ draft: false
 slug: actions
 description: >
  Tjek din handlingsliste.
-categories: [Lister]
+kategorier: [Lister]
 tags: [Lister, Handling]
 translationKey: lists/action
 ---

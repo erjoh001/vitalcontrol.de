@@ -7,7 +7,7 @@ slug: device
 description: >
  Her kan du justere forskellige enhedsindstillinger.
 date: 2023-07-26
-categories: [settings]
+kategorier: [settings]
 tags: [settings, device]
 translationKey: settings/device
 ---

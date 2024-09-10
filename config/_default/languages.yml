@@ -29,6 +29,9 @@ cs:
 da:
   languageName: Dansk
   contentDir: content/da
+  taxonomies:
+    tag: tags
+    kategori: kategorier
   weight: 45
 et:
   languageName: Eesti
@@ -98,6 +101,9 @@ pl:
 pt:
   languageName: Português
   contentDir: content/pt
+  taxonomies:
+    etiqueta: etiquetas
+    categoria: categorias
   weight: 122
 ro:
   languageName: Română

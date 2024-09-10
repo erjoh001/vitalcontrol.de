@@ -7,7 +7,7 @@ draft: false
 slug: animal-registration
 description: >
   Her kan du justere flere fabriksindstillede standarder vedrørende registrering af nye dyr til kravene på din gård.
-categories: [settings]
+kategorier: [settings]
 tags: [settings, Default values]
 translationKey: settings/new-animals
 ---

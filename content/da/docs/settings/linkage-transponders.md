@@ -7,7 +7,7 @@ slug: transponder-linkage
 description: >
   Indstil tildelingen af transponderen på din VitalControl-enhed.
 date: 2023-07-26
-categories: [settings]
+kategorier: [settings]
 tags: [settings, Maksimal alder, maksimal alder for købte kalve, Tildeling af dyre-ID]
 translationKey: settings/link-transponder
 ---

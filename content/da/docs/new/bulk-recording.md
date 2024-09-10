@@ -7,7 +7,7 @@ draft: false
 slug: bulk-recording
 description: >
   Brug stregkodescanneren til at registrere en række dyr.
-categories: [Bulk-recording]
+kategorier: [Bulk-recording]
 tags: [Bulk-recording]
 translationKey: new/bulk-recording
 ---

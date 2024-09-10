@@ -7,7 +7,7 @@ draft: false
 slug: births
 description: >
   Her kan du se dine fødsler og oprette en eksportfil.
-categories: [Fødsler]
+kategorier: [Fødsler]
 tags: [Fødsler]
 translationKey: new-on-farm/births
 ---

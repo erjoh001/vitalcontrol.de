@@ -6,7 +6,7 @@ weight: 10
 description: >
  Vælg det næste dyr i menuen Handlinger.
 date: 2023-07-26
-categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger]
 translationKey: actions/next-animal
 draft: true

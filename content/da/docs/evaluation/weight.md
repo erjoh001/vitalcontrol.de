@@ -6,7 +6,7 @@ weight: 10
 description: >
  Evaluer dine lagrede data i Vægt sektionen.
 date: 2023-07-26
-categories: [Evaluation]
+kategorier: [Evaluation]
 tags: [Evaluation, weight]
 translationKey: evaluation/weight
 maphilight: true

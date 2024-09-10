@@ -6,7 +6,7 @@ draft: false
 weight: 10
 description: >
   Indstil og gem permanent sproget for brugergrænsefladen på din VitalControl-enhed.
-categories: [Indstillinger]
+kategorier: [Indstillinger]
 tags: [Indstillinger, Sprog]
 translationKey: settings/language
 ---

@@ -7,7 +7,7 @@ slug: temperature-measurement
 description: >
  Test din enheds temperaturmåling
 date: 2023-07-26
-categories: [Device]
+kategorier: [Device]
 tags: [Device]
 translationKey: device/temperature-measurement
 ---

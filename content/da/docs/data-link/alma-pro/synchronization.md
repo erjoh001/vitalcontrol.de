@@ -6,7 +6,7 @@ draft: false
 description: >
   Synkroniser dyrene gemt på VitalControl-enheden med dyr registreret på den automatiske fodermaskine og overfør målte værdier registreret med VitalControl-enheden til fodermaskinen til evalueringsformål og bedre visualisering.
 weight: 20
-categories: [Dataudveksling, Alma Pro]
+kategorier: [Dataudveksling, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Åbn USB-port

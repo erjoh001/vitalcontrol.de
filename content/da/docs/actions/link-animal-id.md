@@ -6,7 +6,7 @@ weight: 115
 description: >
  Tildel et nationalt dyre-ID til et dyr, der ikke har et nationalt dyre-ID
 date: 2023-07-26
-categories: [Nationalt dyre-ID]
+kategorier: [Nationalt dyre-ID]
 tags: [Nationalt dyre-ID]
 translationKey: actions/national-animal-id
 ---

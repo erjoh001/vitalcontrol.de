@@ -3,7 +3,7 @@ title: "RFID scan: rækkeviddetest og diagnose af transpondere"
 linkTitle: RFID scan
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnosis, RFID Scan]
+kategorier: [Diagnosis, RFID Scan]
 description: >
   Tjek rækkevidden af din RFID-scanner eller vis læseprotokollen og numrene gemt på ukendte transpondere.
 translationKey: diagnosis/rfid-scan

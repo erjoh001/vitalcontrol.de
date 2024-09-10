@@ -7,7 +7,7 @@ draft: false
 slug: animals
 description: >
   Hvordan man opretter flere nye dyr på VitalControl-enheden ved hjælp af en enkelt handling.
-categories: [Nye dyr]
+kategorier: [Nye dyr]
 tags: [Nye dyr]
 translationKey: new/animals
 ---

@@ -7,7 +7,7 @@ draft: false
 slug: purchased-animals
 description: >
   Her kan du se dine nuværende køb og eksportere dataene.
-categories: [Ny på gården]
+kategorier: [Ny på gården]
 tags: [Ny på gården]
 translationKey: new-on-farm/new-on-farm
 ---

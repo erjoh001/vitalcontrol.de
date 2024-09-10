@@ -6,7 +6,7 @@ weight: 20
 description: >
   Registrer vægten af dine dyr.
 date: 2023-07-26
-categories: [Handlinger]
+kategorier: [Handlinger]
 tags: [Handlinger, vægt]
 translationKey: actions/weight
 ---

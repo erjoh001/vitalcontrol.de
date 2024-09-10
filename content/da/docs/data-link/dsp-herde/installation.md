@@ -6,7 +6,7 @@ draft: false
 description: >
   Definer synkroniseringsparametrene for dataudveksling mellem softwaren *Herde* og VitalControl-enheden.
 weight: 10
-categories: [DSP Herde]
+kategorier: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 Før den første [dataudveksling](../data-exchange/), skal teknologikoblingen til VitalControl-enheden oprettes og opsættes én gang.

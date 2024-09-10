@@ -5,7 +5,7 @@ date: 2023-07-20
 weight: 20
 description: >
   Ved hjælp af en databackup oprettes en backupfil, som indeholder alle data, der er gemt på VitalControl-enheden.
-categories: [Databackup]
+kategorier: [Databackup]
 tags: [backupfil, USB-flashdrev]
 translationKey: backup
 ---

@@ -7,7 +7,7 @@ slug: animal-data
 description: >
  Eksporter dine dyredata
 date: 2023-07-26
-categories: [Enhed, Dataeksport]
+kategorier: [Enhed, Dataeksport]
 tags: [Enhed, Dataeksport]
 translationKey: device/animal-data
 no_list: true

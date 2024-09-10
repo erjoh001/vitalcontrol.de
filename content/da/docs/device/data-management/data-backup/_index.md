@@ -7,7 +7,7 @@ slug: data-backup
 description: >
  Kør databackups
 date: 2023-07-26
-categories: [Enhed, Dataeksport]
+kategorier: [Enhed, Dataeksport]
 tags: [Enhed, Dataeksport]
 translationKey: device/save-data
 no_list: true

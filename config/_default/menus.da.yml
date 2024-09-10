@@ -1,7 +1,10 @@
 main:
-  - name: Hjemmeside VitalControl (på engelsk)
-    url: ../en/
-    weight: 10
-  - name: Dokumentation (på engelsk)
-    url: ../en/docs/
-    weight: 20
+  - name: Menustruktur
+    url: /docs/menu-tree/
+    weight: 30
+  - name: Demo-applikation
+    url: /demo/
+    weight: 40
+  - name: Firmware
+    url: /docs/firmware/
+    weight: 50

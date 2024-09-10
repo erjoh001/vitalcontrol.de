@@ -6,7 +6,7 @@ weight: 40
 description: >
  Evaluér dine lagrede data i dødelighedssektionen.
 date: 2023-07-26
-categories: [Evaluation]
+kategorier: [Evaluation]
 tags: [Evaluation, Mortality]
 translationKey: evaluation/mortality
 ---

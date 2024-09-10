@@ -3,7 +3,7 @@ title: Farm number
 linkTitle: Farm number
 date: 2023-07-26
 weight: 80
-categories: [Settings]
+kategorier: [Settings]
 tags: [Settings, Farm number]
 description: >
   Permanently save your official twelve digit national farm ID on VitalControl device.

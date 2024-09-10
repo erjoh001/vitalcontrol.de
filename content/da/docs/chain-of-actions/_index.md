@@ -7,7 +7,7 @@ draft: false
 slug: chain-of-actions
 description: >
  Udfør flere dyrehandlinger efter hinanden
-categories: [Kæde af handlinger]
+kategorier: [Kæde af handlinger]
 tags: [Kæde af handlinger, Handlinger]
 translationKey: action-chain
 ---

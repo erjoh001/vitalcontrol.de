@@ -6,7 +6,7 @@ weight: 60
 description: >
  Tilføj og fjern dyr fra alarmlisten.
 date: 2023-07-26
-categories: [Actions]
+kategorier: [Actions]
 tags: [Actions, Alarm]
 translationKey: actions/alarm
 ---

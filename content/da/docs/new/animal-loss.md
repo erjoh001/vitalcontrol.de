@@ -7,7 +7,7 @@ draft: false
 slug: animal-loss
 description: >
   Hvordan man registrerer tabet af et dyr ved hjælp af VitalControl-enheden.
-categories: [Animal-loss]
+kategorier: [Animal-loss]
 tags: [Animal-loss]
 translationKey: new/animal-loss
 ---

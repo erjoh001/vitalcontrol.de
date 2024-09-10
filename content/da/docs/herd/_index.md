@@ -7,7 +7,7 @@ draft: false
 slug: herd
 description: >
  Se vigtige oplysninger om din besætning.
-categories: [Besætning]
+kategorier: [Besætning]
 tags: [Besætning, Temperatur, Vægt, Bedømmelse, Dyredata]
 translationKey: herd
 ---
