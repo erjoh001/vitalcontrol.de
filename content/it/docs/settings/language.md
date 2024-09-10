@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Imposta e memorizza permanentemente la lingua dell'interfaccia utente sul tuo dispositivo VitalControl.
-categories: [Impostazioni]
-tags: [Impostazioni, Lingua]
+categorie: [Impostazioni]
+etichette: [Impostazioni, Lingua]
 translationKey: settings/language
 ---
 ## Impostare la tua lingua {#setting-your-language}

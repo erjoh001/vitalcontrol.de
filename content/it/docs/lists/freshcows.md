@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Facilita il controllo delle tue vacche fresche.
-categories: [Lists]
-tags: [Lists, fresh cow]
+categorie: [Lists]
+etichette: [Lists, fresh cow]
 translationKey: lists/fresh-cows
 ---
 ### Elenco delle vacche fresche {#fresh-cows-list}

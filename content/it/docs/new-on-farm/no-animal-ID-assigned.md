@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Qui puoi visualizzare tutti gli animali a cui non è ancora stato assegnato un ID animale nazionale e assegnare un ID animale nazionale.
-categories: [Nuovo in fattoria]
-tags: [Nuovo in fattoria]
+categorie: [Nuovo in fattoria]
+etichette: [Nuovo in fattoria]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Nessun ID animale nazionale assegnato {#no-national-animal-id-assigned}

@@ -6,8 +6,8 @@ weight: 10
 description: >
  Seleziona il prossimo animale all'interno della voce di menu Azioni.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions]
+categorie: [Actions]
+etichette: [Actions]
 translationKey: actions/next-animal
 draft: true
 ---

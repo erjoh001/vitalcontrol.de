@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Qui puoi visualizzare i tuoi acquisti attuali ed esportare i dati.
-categories: [Nuovo in fattoria]
-tags: [Nuovo in fattoria]
+categorie: [Nuovo in fattoria]
+etichette: [Nuovo in fattoria]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Animali acquistati {#purchased-animals}

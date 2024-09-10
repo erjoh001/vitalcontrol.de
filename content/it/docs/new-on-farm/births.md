@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Qui puoi vedere le tue nascite e creare un file di esportazione.
-categories: [Nascite]
-tags: [Nascite]
+categorie: [Nascite]
+etichette: [Nascite]
 translationKey: new-on-farm/births
 ---
 ## Nascite {#births}

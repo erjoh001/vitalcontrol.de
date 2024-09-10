@@ -7,8 +7,8 @@ slug: service
 description: >
   Controlla i driver del tuo dispositivo, aggiorna il firmware ed esegui un test di portata
 date: 2223-27-26
-categories: [Device]
-tags: [Device]
+categorie: [Device]
+etichette: [Device]
 translationKey: device/service
 no_list: true
 maphilight: true

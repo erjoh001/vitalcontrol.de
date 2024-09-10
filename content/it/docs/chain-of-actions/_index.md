@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Eseguire più azioni sugli animali in successione
-categories: [Catena di azioni]
-tags: [Catena di azioni, Azioni]
+categorie: [Catena di azioni]
+etichette: [Catena di azioni, Azioni]
 translationKey: action-chain
 ---
 ## Catena di azioni {#chain-of-actions}

@@ -3,8 +3,8 @@ title: Numero azienda agricola
 linkTitle: Numero azienda agricola
 date: 2023-07-26
 weight: 80
-categories: [Impostazioni]
-tags: [Impostazioni, Numero azienda agricola]
+categorie: [Impostazioni]
+etichette: [Impostazioni, Numero azienda agricola]
 description: >
   Salva permanentemente il tuo ID aziendale nazionale ufficiale a dodici cifre sul dispositivo VitalControl.
 translationKey: settings/farm-number

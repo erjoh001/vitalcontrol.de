@@ -6,8 +6,8 @@ weight: 115
 description: >
  Registra un parto
 date: 2023-07-26
-categories: [Parto]
-tags: [Parto]
+categorie: [Parto]
+etichette: [Parto]
 translationKey: actions/calving
 ---
 {{% alert title="Suggerimento" %}}

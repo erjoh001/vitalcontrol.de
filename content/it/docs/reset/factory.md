@@ -5,7 +5,7 @@ date: 2017-01-03
 weight: 20
 description: >
   Ripristinare i valori predefiniti sul tuo dispositivo VitalControl eseguendo un ripristino di fabbrica.
-categories: [Reset]
+categorie: [Reset]
 translationKey: reset/factory
 ---
 ## Eseguire un ripristino di fabbrica {#performing-a-factory-reset}

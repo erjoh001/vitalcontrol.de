@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Imposta l'assegnazione del transponder sul tuo dispositivo VitalControl.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Età massima, età massima dei vitelli acquistati, Assegnazione ID animale]
+categorie: [settings]
+etichette: [settings, Età massima, età massima dei vitelli acquistati, Assegnazione ID animale]
 translationKey: settings/link-transponder
 ---
 ## Imposta l'età massima dei vitelli acquistati {#set-maximum-age-of-purchased-calves}

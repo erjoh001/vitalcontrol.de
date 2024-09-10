@@ -6,8 +6,8 @@ weight: 110
 description: >
  Rimuovi il collegamento del transponder a un animale
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+categorie: [Transponder]
+etichette: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Avviso" color="warning" %}}

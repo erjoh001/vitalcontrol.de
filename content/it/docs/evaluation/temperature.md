@@ -6,8 +6,8 @@ weight: 20
 description: >
  Valuta i tuoi dati memorizzati nella sezione Temperatura.
 date: 2023-07-26
-categories: [Valutazione]
-tags: [Valutazione, Temperatura]
+categorie: [Valutazione]
+etichette: [Valutazione, Temperatura]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Suggerimento" %}}

@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Esporta i file di dati CVS contenenti i dati degli animali e i valori di misurazione memorizzati sul dispositivo VitalControl su una chiavetta USB.
-categories: [Esportazione dei dati]
-tags: [File CSV, Chiavetta USB]
+categorie: [Esportazione dei dati]
+etichette: [File CSV, Chiavetta USB]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/it "Per eseguire un'esportazione dei dati del dispositivo," %}}

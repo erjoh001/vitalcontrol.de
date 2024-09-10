@@ -7,8 +7,8 @@ slug: info
 description: >
   Visualizza informazioni importanti su software e hardware
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+categorie: [Device]
+etichette: [Device]
 translationKey: device/info
 no_list: true
 maphilight: true

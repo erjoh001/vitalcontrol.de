@@ -6,8 +6,8 @@ weight: 40
 description: >
  Valuta i tuoi dati memorizzati nella sezione mortalità.
 date: 2023-07-26
-categories: [Evaluation]
-tags: [Evaluation, Mortality]
+categorie: [Evaluation]
+etichette: [Evaluation, Mortality]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Suggerimento" %}}

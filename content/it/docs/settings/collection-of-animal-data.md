@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Conservazione delle impostazioni rilevanti per la raccolta dei dati sugli animali
-categories: [settings]
-tags: [settings, data acquisition]
+categorie: [settings]
+etichette: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

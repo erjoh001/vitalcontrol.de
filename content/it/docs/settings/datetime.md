@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Qui, imposti la data e l'ora.
-categories: [Impostazioni]
-tags: [Impostazioni, Data & Ora]
+categorie: [Impostazioni]
+etichette: [Impostazioni, Data & Ora]
 translationKey: settings/datetime
 ---
 ## Per impostare la data {#to-set-the-date}

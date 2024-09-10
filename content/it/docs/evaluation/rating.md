@@ -6,8 +6,8 @@ weight: 30
 description: >
  Valuta i tuoi dati memorizzati nella sezione valutazione.
 date: 2023-07-26
-categories: [Valutazione]
-tags: [Valutazione, Valutazione]
+categorie: [Valutazione]
+etichette: [Valutazione, Valutazione]
 translationKey: evaluation/rating
 ---
 {{% alert title="Suggerimento" %}}

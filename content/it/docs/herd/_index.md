@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Visualizza informazioni importanti sulla tua mandria.
-categories: [Mandria]
-tags: [Mandria, Temperatura, Peso, Valutazione, Dati degli animali]
+categorie: [Mandria]
+etichette: [Mandria, Temperatura, Peso, Valutazione, Dati degli animali]
 translationKey: herd
 ---
 ## Mandria {#herd}

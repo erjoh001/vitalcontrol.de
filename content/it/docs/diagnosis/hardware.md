@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Verifica i componenti hardware del tuo dispositivo VitalControl, soprattutto se sospetti un difetto hardware.
-categories: [Diagnosi, Hardware]
+categorie: [Diagnosi, Hardware]
 weight: 10
 ---
 Se c'è un malfunzionamento sul tuo dispositivo, dovresti prima eseguire un controllo hardware per chiarire se uno dei componenti hardware è difettoso.

@@ -6,8 +6,8 @@ weight: 30
 description: >
  Valuta i tuoi animali.
 date: 2023-07-26
-categories: [Azioni]
-tags: [Azioni, Valutazione]
+categorie: [Azioni]
+etichette: [Azioni, Valutazione]
 translationKey: actions/animal-rating
 ---
 

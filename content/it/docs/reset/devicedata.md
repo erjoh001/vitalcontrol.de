@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Scopri come ripristinare tutte le impostazioni del dispositivo VitalControl.
-categories: [Reset]
+categorie: [Reset]
 ---
 ## Ripristino di tutti i dati del dispositivo {#resetting-all-device-data}
 

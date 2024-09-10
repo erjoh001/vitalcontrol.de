@@ -6,8 +6,8 @@ weight: 110
 description: >
  Registra una perdita di animali.
 date: 2023-07-26
-categories: [Azioni]
-tags: [Azioni, perdita-di-animali]
+categorie: [Azioni]
+etichette: [Azioni, perdita-di-animali]
 translationKey: actions/animal-loss
 ---
 

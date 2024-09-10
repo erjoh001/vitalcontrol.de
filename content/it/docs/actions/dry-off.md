@@ -6,8 +6,8 @@ weight: 115
 description: >
  Asciugare una mucca o aggiungerla alla lista delle mucche fresche
 date: 2023-07-26
-categories: [Asciugare]
-tags: [Asciugare]
+categorie: [Asciugare]
+etichette: [Asciugare]
 translationKey: actions/dry-cows
 ---
 

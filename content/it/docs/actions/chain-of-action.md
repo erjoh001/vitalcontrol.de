@@ -6,8 +6,8 @@ weight: 50
 description: >
  Applicare e impostare la catena di azione.
 date: 2023-07-26
-categories: [Azioni]
-tags: [Azioni, catena di azione]
+categorie: [Azioni]
+etichette: [Azioni, catena di azione]
 manualLink: /it/docs/chain-of-actions/
 ---
 <script>

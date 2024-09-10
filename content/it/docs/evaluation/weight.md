@@ -6,8 +6,8 @@ weight: 10
 description: >
  Valuta i tuoi dati memorizzati nella sezione Peso.
 date: 2023-07-26
-categories: [Valutazione]
-tags: [Valutazione, peso]
+categorie: [Valutazione]
+etichette: [Valutazione, peso]
 translationKey: evaluation/weight
 maphilight: true
 ---

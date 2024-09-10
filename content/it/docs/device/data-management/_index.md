@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Esegui backup dei dati, esporta i tuoi dati e ripristina il dispositivo
 date: 2023-07-26
-categories: [Dispositivo, Esportazione dati]
-tags: [Dispositivo, Esportazione dati]
+categorie: [Dispositivo, Esportazione dati]
+etichette: [Dispositivo, Esportazione dati]
 translationKey: device/data-management
 no_list: true
 maphilight: true

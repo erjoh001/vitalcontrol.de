@@ -6,8 +6,8 @@ weight: 100
 description: >
  Deregistrare un animale
 date: 2023-07-26
-categories: [Azioni]
-tags: [Azioni, Deregistrare]
+categorie: [Azioni]
+etichette: [Azioni, Deregistrare]
 translationKey: actions/unregister
 ---
 {{% alert title="Avviso" color="warning" %}}

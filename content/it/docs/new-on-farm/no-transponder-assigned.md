@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Qui puoi visualizzare tutti gli animali a cui non è ancora stato assegnato un transponder e assegnare loro un transponder.
-categories: [Nuovo in fattoria, ID animale nazionale]
-tags: [Nuovo in fattoria, ID animale nazionale]
+categorie: [Nuovo in fattoria, ID animale nazionale]
+etichette: [Nuovo in fattoria, ID animale nazionale]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Nessun transponder assegnato {#no-transponder-assigned}

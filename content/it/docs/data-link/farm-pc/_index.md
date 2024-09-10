@@ -5,7 +5,7 @@ date: 2023-07-19
 weight: 15
 description: >
  Esporta i dati sugli animali e i valori di misurazione dal dispositivo VitalControl in diversi file CVS
-categories: [Esportazione dati]
+categorie: [Esportazione dati]
 translationKey: farmPC
 ---
 Procedi come segue per esportare i dati da VitalControl a un dispositivo di archiviazione di massa del tuo PC:

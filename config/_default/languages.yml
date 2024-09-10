@@ -68,6 +68,9 @@ hu:
 it:
   languageName: Italiano
   contentDir: content/it
+  taxonomies:
+    etichetta: etichette
+    categoria: categorie
   weight: 93
 lt:
   languageName: Lietuviškas

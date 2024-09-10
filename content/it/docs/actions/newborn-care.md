@@ -7,8 +7,8 @@ weight: 120
 description: >
  Registra aspetti importanti della cura del neonato.
 date: 2023-07-26
-categories: [Azioni]
-tags: [Azioni, cura del neonato]
+categorie: [Azioni]
+etichette: [Azioni, cura del neonato]
 translationKey: actions/newborn-care
 ---
 

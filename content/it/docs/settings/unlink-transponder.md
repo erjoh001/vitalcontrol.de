@@ -8,7 +8,7 @@ description: >
   Specifica come verrà assegnato l'ID animale dopo che il transponder è stato rimosso.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+etichette: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Scollega Transponder {#unlink-transponder}

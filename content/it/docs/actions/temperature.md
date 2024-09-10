@@ -6,8 +6,8 @@ weight: 10
 description: >
   Misurare la febbre nei tuoi animali.
 date: 2023-07-26
-Categories: [Azioni]
-tags: [Azioni, febbre, temperatura]
+categorie: [Azioni]
+etichette: [Azioni, febbre, temperatura]
 translationKey: actions/temperature
 ---
 

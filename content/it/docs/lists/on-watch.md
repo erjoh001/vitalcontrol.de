@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Controlla la tua lista di controllo.
-categories: [Liste]
-tags: [Liste, in controllo]
+categorie: [Liste]
+etichette: [Liste, in controllo]
 translationKey: lists/on-watch
 ---
 ## Nella lista di controllo {#on-watch-list}

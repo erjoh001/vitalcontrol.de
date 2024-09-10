@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Accendere o spegnere la luce sul dispositivo VitalControl
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+categorie: [Device]
+etichette: [Device]
 translationKey: device/flashlight
 ---
 ## Attivare e disattivare la luce {#activate-and-deactivate-light}

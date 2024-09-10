@@ -7,8 +7,8 @@ slug: animal-data
 description: >
  Esporta i tuoi dati sugli animali
 date: 2023-07-26
-categories: [Dispositivo, Esportazione dati]
-tags: [Dispositivo, Esportazione dati]
+categorie: [Dispositivo, Esportazione dati]
+etichette: [Dispositivo, Esportazione dati]
 translationKey: device/animal-data
 no_list: true
 maphilight: true

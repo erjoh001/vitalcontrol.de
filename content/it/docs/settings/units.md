@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Qui selezioni le unità per temperatura e massa.
-categories: [settings]
-tags: [settings, units]
+categorie: [settings]
+etichette: [settings, units]
 translationKey: settings/units
 ---
 ## Impostare l'unità di temperatura {#set-temperature-unit}

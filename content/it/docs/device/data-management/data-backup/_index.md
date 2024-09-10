@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Esegui backup dei dati
 date: 2023-07-26
-categories: [Dispositivo, Esportazione dati]
-tags: [Dispositivo, Esportazione dati]
+categorie: [Dispositivo, Esportazione dati]
+etichette: [Dispositivo, Esportazione dati]
 translationKey: device/save-data
 no_list: true
 maphilight: true

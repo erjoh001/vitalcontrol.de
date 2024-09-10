@@ -6,8 +6,8 @@ weight: 80
 description: >
  Visualizza la storia di un animale.
 date: 2023-07-26
-categories: [Azioni]
-tags: [Azioni, Storia degli animali]
+categorie: [Azioni]
+etichette: [Azioni, Storia degli animali]
 translationKey: actions/animalshistory
 ---
 

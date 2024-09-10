@@ -6,8 +6,8 @@ weight: 70
 description: >
  Metti gli animali nella lista di osservazione o rimuovili.
 date: 2023-07-26
-categories: [Azioni]
-tags: [Azioni, in osservazione]
+categorie: [Azioni]
+etichette: [Azioni, in osservazione]
 translationKey: actions/on-watch
 ---
 

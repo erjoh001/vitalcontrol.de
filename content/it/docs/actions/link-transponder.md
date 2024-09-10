@@ -6,8 +6,8 @@ weight: 102
 description: >
  Assegna un transponder a un animale
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+categorie: [Transponder]
+etichette: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Warning" color="warning" %}}

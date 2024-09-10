@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Utilizza lo scanner di codici a barre per registrare una varietà di animali.
-categories: [Registrazione di massa]
-tags: [Registrazione di massa]
+categorie: [Registrazione di massa]
+etichette: [Registrazione di massa]
 translationKey: new/bulk-recording
 ---
 ## Registrazione di massa {#bulk-recording}

@@ -7,8 +7,8 @@ slug: device
 description: >
  Qui puoi regolare varie impostazioni del dispositivo.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+categorie: [settings]
+etichette: [settings, device]
 translationKey: settings/device
 ---
 ## Spegnimento del dispositivo dopo {#shutdown-device-after}

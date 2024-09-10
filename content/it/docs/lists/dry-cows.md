@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Controlla il tuo elenco di vacche asciutte.
-categories: [Liste]
-tags: [Liste, vacca asciutta]
+categorie: [Liste]
+etichette: [Liste, vacca asciutta]
 translationKey: lists/dry-cows
 ---
 ## Elenco vacche asciutte {#dry-cows-list}

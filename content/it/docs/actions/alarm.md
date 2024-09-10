@@ -6,8 +6,8 @@ weight: 60
 description: >
  Aggiungi e rimuovi animali dalla lista di allarme.
 date: 2023-07-26
-categories: [Azioni]
-tags: [Azioni, Allarme]
+categorie: [Azioni]
+etichette: [Azioni, Allarme]
 translationKey: actions/alarm
 ---
 

@@ -6,8 +6,8 @@ weight: 120
 description: >
  Imposta gli elementi del menu per il menu Azioni e imposta la catena di azioni
 date: 2023-07-26
-categories: [Azioni, Catena di Azioni]
-tags: [Azioni, Catena di azioni]
+categorie: [Azioni, Catena di Azioni]
+etichette: [Azioni, Catena di azioni]
 translationKey: actions/settings
 ---
 ## Elementi del menu {#menu-items}

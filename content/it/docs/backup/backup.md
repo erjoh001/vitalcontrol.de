@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Tramite un backup dei dati, viene creato un file di backup che contiene tutti i dati memorizzati sul dispositivo VitalControl.
-categories: [Backup dei dati]
-tags: [file di backup, chiavetta USB]
+categorie: [Backup dei dati]
+etichette: [file di backup, chiavetta USB]
 translationKey: backup
 ---
 {{% usb-drive/it "Per eseguire un backup dei dati del tuo dispositivo," %}}
