@@ -1,10 +1,10 @@
 main:
-  - name: Struktura menu
+  - name: Menü yapısı
     url: /docs/menu-tree/
     weight: 30
-  - name: Aplikacja demonstracyjna
+  - name: Demo uygulaması
     url: /demo/
     weight: 40
-  - name: Firmware
+  - name: Ürün Yazılımı
     url: /docs/firmware/
     weight: 50

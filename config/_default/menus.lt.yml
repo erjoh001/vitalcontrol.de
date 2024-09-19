@@ -1,10 +1,10 @@
 main:
-  - name: Struktura menu
+  - name: Struktūros meniu
     url: /docs/menu-tree/
     weight: 30
-  - name: Aplikacja demonstracyjna
+  - name: Demonstracinė programa
     url: /demo/
     weight: 40
-  - name: Firmware
+  - name: Programinė įranga
     url: /docs/firmware/
     weight: 50
