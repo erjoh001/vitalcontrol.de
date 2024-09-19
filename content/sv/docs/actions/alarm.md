@@ -6,8 +6,8 @@ weight: 60
 description: >
  Lägg till och ta bort djur från larmlistan.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Alarm]
+Kategorier: [Actions]
+Taggar: [Actions, Alarm]
 translationKey: actions/alarm
 ---
 

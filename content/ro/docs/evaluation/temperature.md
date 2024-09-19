@@ -6,8 +6,8 @@ weight: 20
 description: >
  Evaluează datele stocate în secțiunea Temperatură.
 date: 2023-07-26
-categories: [Evaluare]
-tags: [Evaluare, Temperatură]
+categorii: [Evaluare]
+etichete: [Evaluare, Temperatură]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Hint" %}}

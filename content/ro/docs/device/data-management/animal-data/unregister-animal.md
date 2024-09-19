@@ -7,7 +7,7 @@ draft: false
 description: >
  Deregistrează animalele din VitalControl-ul tău.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+etichete: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Deregistrează animale {#unregister-animals}

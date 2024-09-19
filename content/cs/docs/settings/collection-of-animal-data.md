@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Ukládání relevantních nastavení pro sběr dat o zvířatech
-categories: [nastavení]
-tags: [nastavení, získávání dat]
+kategorie: [nastavení]
+štítky: [nastavení, získávání dat]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

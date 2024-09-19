@@ -6,8 +6,8 @@ weight: 90
 description: >
  Vali loom ja muuda tema andmeid.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, looma andmed, muuda]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, looma andmed, muuda]
 translationKey: actions/edit
 ---
 

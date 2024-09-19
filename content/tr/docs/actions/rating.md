@@ -6,8 +6,8 @@ weight: 30
 description: >
  Hayvanlarınızı derecelendirin.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Rating]
+Kategoriler: [Actions]
+Etiketler: [Actions, Rating]
 translationKey: actions/animal-rating
 ---
 

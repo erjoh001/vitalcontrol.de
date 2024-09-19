@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Naučte se, jak resetovat všechna nastavení zařízení VitalControl.
-categories: [Reset]
+kategorie: [Reset]
 ---
 ## Resetování všech dat zařízení {#resetting-all-device-data}
 

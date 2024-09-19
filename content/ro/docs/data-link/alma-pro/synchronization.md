@@ -6,7 +6,7 @@ draft: false
 description: >
   Sincronizați animalele stocate pe dispozitivul VitalControl cu animalele înregistrate pe hrănitorul automat și transferați valorile măsurate înregistrate cu dispozitivul VitalControl către hrănitor pentru evaluare și o mai bună vizualizare.
 weight: 20
-categories: [Schimb de date, Alma Pro]
+categorii: [Schimb de date, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Deschideți portul USB

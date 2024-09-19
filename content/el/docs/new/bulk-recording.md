@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Χρησιμοποιήστε το σαρωτή γραμμωτού κώδικα για να καταγράψετε ποικιλία ζώων.
-categories: [Μαζική-καταγραφή]
-tags: [Μαζική-καταγραφή]
+κατηγορίες: [Μαζική-καταγραφή]
+ετικέτες: [Μαζική-καταγραφή]
 translationKey: new/bulk-recording
 ---
 ## Μαζική-καταγραφή {#bulk-recording}

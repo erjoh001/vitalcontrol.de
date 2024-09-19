@@ -6,8 +6,8 @@ weight: 60
 description: >
  Přidání a odstranění zvířat ze seznamu alarmů.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Alarm]
+kategorie: [Actions]
+štítky: [Actions, Alarm]
 translationKey: actions/alarm
 ---
 

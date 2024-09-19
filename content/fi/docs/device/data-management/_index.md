@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Suorita tietojen varmuuskopiot, vie tietosi ja nollaa laite
 date: 2023-07-26
-categories: [Laite, Tietojen vienti]
-tags: [Laite, Tietojen vienti]
+luokat: [Laite, Tietojen vienti]
+tagit: [Laite, Tietojen vienti]
 translationKey: device/data-management
 no_list: true
 maphilight: true

@@ -6,8 +6,8 @@ weight: 70
 description: >
  Įtraukite gyvūnus į stebėjimo sąrašą arba pašalinkite juos.
 date: 2023-07-26
-categories: [Veiksmai]
-tags: [Veiksmai, stebėjime]
+kategorijos: [Veiksmai]
+Žymos: [Veiksmai, stebėjime]
 translationKey: actions/on-watch
 ---
 

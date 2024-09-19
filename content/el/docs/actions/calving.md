@@ -6,8 +6,8 @@ weight: 115
 description: >
  Καταχώρηση τοκετού
 date: 2023-07-26
-categories: [Τοκετός]
-tags: [Τοκετός]
+κατηγορίες: [Τοκετός]
+ετικέτες: [Τοκετός]
 translationKey: actions/calving
 ---
 {{% alert title="Συμβουλή" %}}

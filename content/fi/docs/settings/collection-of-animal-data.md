@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Eläintietojen keruuseen liittyvien asetusten tallennus
-categories: [settings]
-tags: [settings, data acquisition]
+luokat: [settings]
+tagit: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

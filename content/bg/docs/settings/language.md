@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Задайте и запазете постоянно езика на потребителския интерфейс на вашето устройство VitalControl.
-categories: [Настройки]
-tags: [Настройки, Език]
+категории: [Настройки]
+тагове: [Настройки, Език]
 translationKey: settings/language
 ---
 ## Настройка на вашия език {#setting-your-language}

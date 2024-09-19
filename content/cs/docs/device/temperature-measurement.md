@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Otestujte měření teploty vašeho zařízení
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategorie: [Device]
+štítky: [Device]
 translationKey: device/temperature-measurement
 ---
 ## Test měření teploty {#test-temperature-measurement}

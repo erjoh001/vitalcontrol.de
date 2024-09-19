@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Peržiūrėkite svarbią informaciją apie savo bandą.
-categories: [Banda]
-tags: [Banda, Temperatūra, Svoris, Įvertinimas, Gyvūnų duomenys]
+kategorijos: [Banda]
+Žymos: [Banda, Temperatūra, Svoris, Įvertinimas, Gyvūnų duomenys]
 translationKey: herd
 ---
 ## Banda {#herd}

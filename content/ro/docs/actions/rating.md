@@ -6,8 +6,8 @@ weight: 30
 description: >
  Evaluează-ți animalele.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Rating]
+categorii: [Actions]
+etichete: [Actions, Rating]
 translationKey: actions/animal-rating
 ---
 

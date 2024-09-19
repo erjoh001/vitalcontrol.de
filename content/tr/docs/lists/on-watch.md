@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  İzleme listenizi kontrol edin.
-categories: [Listeler]
-tags: [Listeler, izleme]
+Kategoriler: [Listeler]
+Etiketler: [Listeler, izleme]
 translationKey: lists/on-watch
 ---
 ## İzleme listesinde {#on-watch-list}

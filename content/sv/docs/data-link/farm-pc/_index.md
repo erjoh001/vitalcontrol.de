@@ -5,7 +5,7 @@ date: 2023-07-19
 weight: 15
 description: >
  Exportera djurdata och mätvärden från VitalControl-enheten till flera CVS-filer
-categories: [Data export]
+Kategorier: [Data export]
 translationKey: farmPC
 ---
 Följ dessa steg för att exportera data från VitalControl till en masslagringsenhet på din PC:

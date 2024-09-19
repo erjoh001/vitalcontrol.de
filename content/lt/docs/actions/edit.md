@@ -6,8 +6,8 @@ weight: 90
 description: >
  Redaguoti pasirinkto gyvūno duomenis.
 date: 2023-07-26
-categories: [Veiksmai]
-tags: [Veiksmai, gyvūno duomenys, redaguoti]
+kategorijos: [Veiksmai]
+Žymos: [Veiksmai, gyvūno duomenys, redaguoti]
 translationKey: actions/edit
 ---
 

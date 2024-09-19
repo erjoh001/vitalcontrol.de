@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Här väljer du enheter för temperatur och massa.
-categories: [settings]
-tags: [settings, units]
+Kategorier: [settings]
+Taggar: [settings, units]
 translationKey: settings/units
 ---
 ## Ställ in temperaturenhet {#set-temperature-unit}

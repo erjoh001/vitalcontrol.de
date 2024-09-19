@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Patikrinkite savo prietaiso temperatūros matavimą
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategorijos: [Device]
+Žymos: [Device]
 translationKey: device/temperature-measurement
 ---
 ## Patikrinkite temperatūros matavimą {#test-temperature-measurement}

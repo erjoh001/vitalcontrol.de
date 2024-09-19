@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Az állati adatgyűjtéshez szükséges beállítások tárolása
-categories: [settings]
-tags: [settings, data acquisition]
+kategóriák: [settings]
+címkék: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

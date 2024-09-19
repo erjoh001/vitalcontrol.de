@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Włączanie i wyłączanie światła w urządzeniu VitalControl
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategorie: [Device]
+tagi: [Device]
 translationKey: device/flashlight
 ---
 ## Aktywacja i dezaktywacja światła {#activate-and-deactivate-light}

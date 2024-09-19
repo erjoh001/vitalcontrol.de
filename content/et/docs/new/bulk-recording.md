@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Kasuta vöötkoodi skannerit mitmesuguste loomade registreerimiseks.
-categories: [Hulgi-registreerimine]
-tags: [Hulgi-registreerimine]
+kategooriad: [Hulgi-registreerimine]
+Sildid: [Hulgi-registreerimine]
 translationKey: new/bulk-recording
 ---
 ## Hulgi-registreerimine {#bulk-recording}

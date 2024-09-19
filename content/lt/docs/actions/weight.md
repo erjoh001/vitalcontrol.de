@@ -6,8 +6,8 @@ weight: 20
 description: >
   Užregistruokite savo gyvūnų svorį.
 date: 2023-07-26
-categories: [Veiksmai]
-tags: [Veiksmai, svoris]
+kategorijos: [Veiksmai]
+Žymos: [Veiksmai, svoris]
 translationKey: actions/weight
 ---
 

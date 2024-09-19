@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Tarkista tarkkailulistasi.
-categories: [Listat]
-tags: [Listat, On Watch]
+luokat: [Listat]
+tagit: [Listat, On Watch]
 translationKey: lists/on-watch
 ---
 ## Tarkkailulistalla {#on-watch-list}

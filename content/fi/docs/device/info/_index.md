@@ -7,8 +7,8 @@ slug: info
 description: >
   Näytä tärkeät ohjelmisto- ja laitetiedot
 date: 2023-07-26
-categories: [Laite]
-tags: [Laite]
+luokat: [Laite]
+tagit: [Laite]
 translationKey: device/info
 no_list: true
 maphilight: true

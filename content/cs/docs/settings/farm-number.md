@@ -3,8 +3,8 @@ title: Číslo farmy
 linkTitle: Číslo farmy
 date: 2023-07-26
 weight: 80
-categories: [Nastavení]
-tags: [Nastavení, Číslo farmy]
+kategorie: [Nastavení]
+štítky: [Nastavení, Číslo farmy]
 description: >
   Trvale uložte své oficiální dvanáctimístné národní ID farmy na zařízení VitalControl.
 translationKey: settings/farm-number

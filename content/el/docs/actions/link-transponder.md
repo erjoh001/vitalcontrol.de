@@ -6,8 +6,8 @@ weight: 102
 description: >
  Ανάθεση διαμετακομιστή σε ένα ζώο
 date: 2023-07-26
-categories: [Διαμετακομιστής]
-tags: [Διαμετακομιστής]
+κατηγορίες: [Διαμετακομιστής]
+ετικέτες: [Διαμετακομιστής]
 translationKey: actions/transponder
 ---
 {{% alert title="Προειδοποίηση" color="warning" %}}

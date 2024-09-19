@@ -6,8 +6,8 @@ weight: 102
 description: >
   Aseta lähetin eläimelle
 date: 2023-07-26
-categories: [Lähetin]
-tags: [Lähetin]
+luokat: [Lähetin]
+tagit: [Lähetin]
 translationKey: actions/transponder
 ---
 {{% alert title="Varoitus" color="warning" %}}

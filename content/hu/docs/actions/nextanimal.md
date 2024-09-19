@@ -6,8 +6,8 @@ weight: 10
 description: >
  Válassza ki a következő állatot az Akciók menüpontban.
 date: 2023-07-26
-categories: [Akciók]
-tags: [Akciók]
+kategóriák: [Akciók]
+címkék: [Akciók]
 translationKey: actions/next-animal
 draft: true
 ---

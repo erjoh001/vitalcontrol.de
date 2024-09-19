@@ -6,8 +6,8 @@ weight: 80
 description: >
  Bir hayvanın geçmişini görüntüleyin.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Animal history]
+Kategoriler: [Actions]
+Etiketler: [Actions, Animal history]
 translationKey: actions/animalshistory
 ---
 

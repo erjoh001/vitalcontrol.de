@@ -6,8 +6,8 @@ weight: 120
 description: >
  Ustaw elementy menu dla menu Akcji i ustaw łańcuch akcji
 date: 2023-07-26
-categories: [Akcje, Łańcuch Akcji]
-tags: [Akcje, Łańcuch akcji]
+kategorie: [Akcje, Łańcuch Akcji]
+tagi: [Akcje, Łańcuch akcji]
 translationKey: actions/setting
 ---
 ## Elementy menu {#menu-items}

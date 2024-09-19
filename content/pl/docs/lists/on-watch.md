@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Sprawdź swoją listę obserwacyjną.
-categories: [Listy]
-tags: [Listy, na obserwacji]
+kategorie: [Listy]
+tagi: [Listy, na obserwacji]
 translationKey: lists/on-watch
 ---
 ## Na liście obserwacyjnej {#on-watch-list}

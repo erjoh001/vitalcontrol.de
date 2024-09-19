@@ -6,7 +6,7 @@ draft: false
 description: >
   Definirea parametrilor de sincronizare pentru schimbul de date între software-ul *Herde* și dispozitivul VitalControl.
 weight: 10
-categories: [DSP Herde]
+categorii: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 Înainte de primul [schimb de date](../data-exchange/), cuplarea tehnologiei la dispozitivul VitalControl trebuie creată și configurată o singură dată.

@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Ustaw i trwale zapisz język interfejsu użytkownika na swoim urządzeniu VitalControl.
-categories: [Ustawienia]
-tags: [Ustawienia, Język]
+kategorie: [Ustawienia]
+tagi: [Ustawienia, Język]
 translationKey: settings/language
 ---
 ## Ustawianie języka {#setting-your-language}

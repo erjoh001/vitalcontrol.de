@@ -7,8 +7,8 @@ slug: service
 description: >
   Verificați driverele dispozitivului, actualizați firmware-ul și efectuați un test de rază
 date: 2223-27-26
-categories: [Device]
-tags: [Device]
+categorii: [Device]
+etichete: [Device]
 translationKey: device/service
 no_list: true
 maphilight: true

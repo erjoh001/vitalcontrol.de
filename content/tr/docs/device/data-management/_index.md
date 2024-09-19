@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Verilerinizi yedekleyin, dışa aktarın ve cihazı sıfırlayın
 date: 2023-07-26
-categories: [Cihaz, Veri dışa aktarma]
-tags: [Cihaz, Veri dışa aktarma]
+Kategoriler: [Cihaz, Veri dışa aktarma]
+Etiketler: [Cihaz, Veri dışa aktarma]
 translationKey: device/data-management
 no_list: true
 maphilight: true

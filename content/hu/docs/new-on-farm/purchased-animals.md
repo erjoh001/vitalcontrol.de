@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Itt megtekintheti aktuális vásárlásait és exportálhatja az adatokat.
-categories: [Új a farmon]
-tags: [Új a farmon]
+kategóriák: [Új a farmon]
+címkék: [Új a farmon]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Vásárolt állatok {#purchased-animals}

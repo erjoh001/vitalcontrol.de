@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Zobacz ważne informacje dotyczące poszczególnych zwierząt.
-Categories: [Zwierzę]
-tags: [Zwierzę, Temperatura, Wzrost, Dane zwierząt]
+kategorie: [Zwierzę]
+tagi: [Zwierzę, Temperatura, Wzrost, Dane zwierząt]
 translationKey: animal/animal
 ---
 ## Zwierzę {#animal}

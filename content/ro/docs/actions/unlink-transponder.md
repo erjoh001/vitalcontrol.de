@@ -6,8 +6,8 @@ weight: 110
 description: >
  Elimină legătura transponderului cu un animal
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+categorii: [Transponder]
+etichete: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Avertisment" color="warning" %}}

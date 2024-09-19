@@ -6,7 +6,7 @@ draft: false
 description: >
   Συγχρονίστε τα ζώα που αποθηκεύονται στη συσκευή VitalControl με τα ζώα που διαχειρίζεται το λογισμικό *Herde* και μεταφέρετε τις μετρημένες τιμές που καταγράφονται με τη συσκευή VitalControl στο λογισμικό *Herde*.
 weight: 20
-categories: [Ανταλλαγή δεδομένων, DSP Herde]
+κατηγορίες: [Ανταλλαγή δεδομένων, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Ακολουθήστε τα παρακάτω βήματα για να συγχρονίσετε δεδομένα μεταξύ του λογισμικού `Herde` και της συσκευής VitalControl:

@@ -6,8 +6,8 @@ weight: 115
 description: >
  Rekisteröi poikiminen
 date: 2023-07-26
-categories: [Poikiminen]
-tags: [Poikiminen]
+luokat: [Poikiminen]
+tagit: [Poikiminen]
 translationKey: actions/calving
 ---
 {{% alert title="Vihje" %}}

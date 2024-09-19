@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Aseta lämpötila-asetukset VitalControl-laitteesi sovellukselle
-categories: [settings]
-tags: [settings, temperature, threshold, Mittauskohteen valo]
+luokat: [settings]
+tagit: [settings, temperature, threshold, Mittauskohteen valo]
 translationKey: settings/temperature
 ---
 ## Aseta kynnysarvot ja lämpötila-alueet {#set-the-threshold--temperature-ranges}

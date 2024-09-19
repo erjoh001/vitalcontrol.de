@@ -6,6 +6,6 @@ draft: false
 description: >
   Importați toate animalele din hrănitor în dispozitivul VitalControl și transferați temperaturile înregistrate, greutățile și evaluările animalelor în hrănitor.
 weight: 20
-categories: [Alma Pro]
+categorii: [Alma Pro]
 translationKey: alma-pro
 ---

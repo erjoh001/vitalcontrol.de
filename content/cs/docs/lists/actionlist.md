@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Podívejte se na svůj seznam akcí.
-categories: [Seznamy]
-tags: [Seznamy, Akce]
+kategorie: [Seznamy]
+štítky: [Seznamy, Akce]
 translationKey: lists/action
 ---
 ## Seznam akcí {#action-list}

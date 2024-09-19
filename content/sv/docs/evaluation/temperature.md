@@ -6,8 +6,8 @@ weight: 20
 description: >
  Utvärdera dina sparade data i avsnittet Temperatur.
 date: 2023-07-26
-categories: [Utvärdering]
-tags: [Utvärdering, Temperatur]
+Kategorier: [Utvärdering]
+Taggar: [Utvärdering, Temperatur]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Tips" %}}

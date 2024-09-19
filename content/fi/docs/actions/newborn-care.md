@@ -7,8 +7,8 @@ weight: 120
 description: >
  Kirjaa vastasyntyneen hoidon tärkeitä näkökohtia.
 date: 2023-07-26
-categories: [Toiminnot]
-tags: [Toiminnot, vastasyntyneen hoito]
+luokat: [Toiminnot]
+tagit: [Toiminnot, vastasyntyneen hoito]
 translationKey: actions/newborn-care
 ---
 

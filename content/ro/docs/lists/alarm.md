@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Verifică lista ta de alarme.
-categories: [Lists]
-tags: [Lists, alarm]
+categorii: [Lists]
+etichete: [Lists, alarm]
 translationKey: lists/alarm
 ---
 ## Lista de alarme {#alarm-list}

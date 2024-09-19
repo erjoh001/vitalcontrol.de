@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Siin saate valida temperatuuri ja massi ühikud.
-categories: [settings]
-tags: [settings, units]
+kategooriad: [settings]
+Sildid: [settings, units]
 translationKey: settings/units
 ---
 ## Määra temperatuuri ühik {#set-temperature-unit}

@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Įjungti arba išjungti šviesą jūsų VitalControl įrenginyje
 date: 2023-07-26
-categories: [Įrenginys]
-tags: [Įrenginys]
+kategorijos: [Įrenginys]
+Žymos: [Įrenginys]
 translationKey: device/flashlight
 ---
 ## Įjungti ir išjungti šviesą {#activate-and-deactivate-light}

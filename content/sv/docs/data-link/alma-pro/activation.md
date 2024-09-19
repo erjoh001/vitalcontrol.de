@@ -6,7 +6,7 @@ draft: false
 description: >
   Innan du använder VitalControl för första gången måste du aktivera den en gång i inställningarna för Alma Pro-mataren.
 weight: 10
-categories: [Alma Pro]
+Kategorier: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

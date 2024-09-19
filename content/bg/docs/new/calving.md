@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Как да регистрирате ново телене с устройството VitalControl.
-categories: [Телене]
-tags: [Телене]
+категории: [Телене]
+тагове: [Телене]
 translationKey: new/calving
 ---
 ## Регистриране на телене {#register-a-calving}

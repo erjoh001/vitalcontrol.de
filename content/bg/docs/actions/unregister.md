@@ -6,8 +6,8 @@ weight: 100
 description: >
  Отписване на животно
 date: 2023-07-26
-categories: [Действия]
-tags: [Действия, Отписване]
+категории: [Действия]
+тагове: [Действия, Отписване]
 translationKey: actions/unregister
 ---
 {{% alert title="Предупреждение" color="warning" %}}

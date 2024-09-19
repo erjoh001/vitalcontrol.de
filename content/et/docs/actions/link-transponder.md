@@ -6,8 +6,8 @@ weight: 102
 description: >
  Määra transponder loomale
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+kategooriad: [Transponder]
+Sildid: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Hoiatus" color="warning" %}}

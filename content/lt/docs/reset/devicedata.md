@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Sužinokite, kaip atstatyti visus VitalControl įrenginio nustatymus.
-categories: [Reset]
+kategorijos: [Reset]
 ---
 ## Visų įrenginio duomenų atstatymas {#resetting-all-device-data}
 

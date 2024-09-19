@@ -6,7 +6,7 @@ draft: false
 description: >
   Sinchronizuokite gyvūnus, saugomus VitalControl įrenginyje, su gyvūnais, valdomais *Herde* programine įranga, ir perduokite matavimo duomenis, užfiksuotus VitalControl įrenginyje, į *Herde* programinę įrangą.
 weight: 20
-categories: [Duomenų mainai, DSP Herde]
+kategorijos: [Duomenų mainai, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Vykdykite toliau nurodytus veiksmus, kad sinchronizuotumėte duomenis tarp `Herde` programinės įrangos ir VitalControl įrenginio:

@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Taze ineklerinizi kontrol etmeyi kolaylaştırın.
-categories: [Listeler]
-tags: [Listeler, taze inek]
+Kategoriler: [Listeler]
+Etiketler: [Listeler, taze inek]
 translationKey: lists/fresh-cows
 ---
 ### Taze inekler listesi {#fresh-cows-list}

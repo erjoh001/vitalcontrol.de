@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Jak zarejestrować nowe wycielenie za pomocą urządzenia VitalControl.
-categories: [Wycielenie]
-tags: [Wycielenie]
+kategorie: [Wycielenie]
+tagi: [Wycielenie]
 translationKey: new/calving
 ---
 ## Rejestracja wycielenia {#register-a-calving}

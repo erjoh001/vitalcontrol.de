@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   VitalControl cihazında tek bir işlemle birden fazla yeni hayvan nasıl oluşturulur.
-categories: [Yeni hayvanlar]
-tags: [Yeni hayvanlar]
+Kategoriler: [Yeni hayvanlar]
+Etiketler: [Yeni hayvanlar]
 translationKey: new/animals
 ---
 ## Birkaç yeni hayvan oluşturma {#create-several-new-animals}

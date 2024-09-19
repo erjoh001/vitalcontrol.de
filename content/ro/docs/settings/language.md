@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Setează și stochează permanent limba interfeței utilizatorului pe dispozitivul tău VitalControl.
-categories: [Setări]
-tags: [Setări, Limbă]
+categorii: [Setări]
+etichete: [Setări, Limbă]
 translationKey: settings/language
 ---
 ## Setarea limbii tale {#setting-your-language}

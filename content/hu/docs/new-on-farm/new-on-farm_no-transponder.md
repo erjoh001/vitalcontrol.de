@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Itt rendelhet transzpondert az új állatokhoz, amelyeknek még nincs transzponderük.
-categories: [Új a farmon, transzponder]
-tags: [Új a farmon, transzponder]
+kategóriák: [Új a farmon, transzponder]
+címkék: [Új a farmon, transzponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Új a farmon, nincs transzponder {#new-on-farm-no-transponder}

@@ -8,7 +8,7 @@ description: >
   Specificați cum va fi atribuit ID-ul animalului după ce transponderul a fost detașat.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+etichete: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Deconectare Transponder {#unlink-transponder}

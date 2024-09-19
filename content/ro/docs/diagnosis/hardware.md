@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Verificați componentele hardware ale dispozitivului dvs. VitalControl, mai ales dacă suspectați un defect hardware.
-categories: [Diagnosis, Hardware]
+categorii: [Diagnosis, Hardware]
 weight: 10
 ---
 Dacă există o defecțiune la dispozitivul dvs., ar trebui să efectuați mai întâi o verificare hardware pentru a clarifica dacă vreuna dintre componentele hardware este defectă.

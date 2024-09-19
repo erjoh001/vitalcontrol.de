@@ -6,8 +6,8 @@ weight: 30
 description: >
  Vyhodnoťte svá uložená data v sekci hodnocení.
 date: 2023-07-26
-categories: [Vyhodnocení]
-tags: [Vyhodnocení, Hodnocení]
+kategorie: [Vyhodnocení]
+štítky: [Vyhodnocení, Hodnocení]
 translationKey: evaluation/rating
 ---
 {{% alert title="Tip" %}}

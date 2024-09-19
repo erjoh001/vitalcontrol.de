@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Uygulamanızın VitalControl cihazı için sıcaklık ayarlarını yapın
-categories: [settings]
-tags: [settings, temperature, threshold, anus spotlight]
+Kategoriler: [settings]
+Etiketler: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
 ## Eşik ve sıcaklık aralıklarını ayarlayın {#set-the-threshold--temperature-ranges}

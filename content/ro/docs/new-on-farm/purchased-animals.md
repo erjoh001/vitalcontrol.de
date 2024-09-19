@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Aici puteți vizualiza achizițiile curente și exporta datele.
-categories: [Nou pe fermă]
-tags: [Nou pe fermă]
+categorii: [Nou pe fermă]
+etichete: [Nou pe fermă]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Animale achiziționate {#purchased-animals}

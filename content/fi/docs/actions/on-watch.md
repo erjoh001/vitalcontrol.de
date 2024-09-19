@@ -6,8 +6,8 @@ weight: 70
 description: >
  Aseta eläimet tarkkailulistalle tai poista ne sieltä.
 date: 2023-07-26
-categories: [Toiminnat]
-tags: [Toiminnat, On Watch]
+luokat: [Toiminnat]
+tagit: [Toiminnat, On Watch]
 translationKey: actions/on-watch
 ---
 

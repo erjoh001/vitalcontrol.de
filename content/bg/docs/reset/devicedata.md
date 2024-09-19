@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Научете как да нулирате всички настройки на устройството VitalControl.
-categories: [Reset]
+категории: [Reset]
 ---
 ## Нулиране на всички данни на устройството {#resetting-all-device-data}
 

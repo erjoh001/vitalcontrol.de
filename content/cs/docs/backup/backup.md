@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Pomocí zálohy dat se vytvoří záložní soubor, který obsahuje všechna data uložená na zařízení VitalControl.
-categories: [Záloha dat]
-tags: [záložní soubor, USB flash disk]
+kategorie: [Záloha dat]
+štítky: [záložní soubor, USB flash disk]
 translationKey: backup
 ---
 {{% usb-drive/cs "Pro provedení zálohy dat pro vaše zařízení," %}}

@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Testaa laitteesi lämpötilan mittausta
 date: 2023-07-26
-categories: [Laite]
-tags: [Laite]
+luokat: [Laite]
+tagit: [Laite]
 translationKey: device/temperature-measurement
 ---
 ## Testaa lämpötilan mittausta {#test-temperature-measurement}

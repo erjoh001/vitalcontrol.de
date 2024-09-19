@@ -6,8 +6,8 @@ weight: 90
 description: >
  A kiválasztott állat adatainak szerkesztése.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, állatadatok, szerkesztés]
+kategóriák: [Actions]
+címkék: [Actions, állatadatok, szerkesztés]
 translationKey: actions/edit
 ---
 

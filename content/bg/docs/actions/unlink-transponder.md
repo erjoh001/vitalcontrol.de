@@ -6,8 +6,8 @@ weight: 110
 description: >
  Откачане на връзката на транспондер към животно
 date: 2023-07-26
-categories: [Транспондер]
-tags: [Транспондер]
+категории: [Транспондер]
+тагове: [Транспондер]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Внимание" color="warning" %}}

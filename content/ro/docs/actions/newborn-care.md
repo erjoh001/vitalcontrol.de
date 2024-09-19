@@ -7,8 +7,8 @@ weight: 120
 description: >
  Înregistrați aspectele importante ale îngrijirii nou-născutului.
 date: 2023-07-26
-categories: [Acțiuni]
-tags: [Acțiuni, îngrijirea nou-născutului]
+categorii: [Acțiuni]
+etichete: [Acțiuni, îngrijirea nou-născutului]
 translationKey: actions/newborn-care
 ---
 

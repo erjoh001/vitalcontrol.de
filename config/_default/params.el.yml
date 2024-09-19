@@ -7,13 +7,13 @@ privacy_policy: https://www.urbanonline.de/en/privacy-policy
 taxonomy:
   # set taxonomyCloud: [] to hide taxonomy clouds
   taxonomyCloud:
-    - categories
-    - tags
+    - κατηγορίες
+    - ετικέτες
   # If used, must have same length as taxonomyCloud
   taxonomyCloudTitle:
     - "Κατηγορίες"
     - "Σύννεφο ετικετών"
   # set taxonomyPageHeader: [] to hide taxonomies on the page headers
   taxonomyPageHeader:
-    - categories
-    - tags
+    - κατηγορίες
+    - ετικέτες

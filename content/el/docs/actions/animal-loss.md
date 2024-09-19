@@ -6,8 +6,8 @@ weight: 110
 description: >
  Καταχώρηση απώλειας ζώου.
 date: 2023-07-26
-categories: [Ενέργειες]
-tags: [Ενέργειες, animal-loss]
+κατηγορίες: [Ενέργειες]
+ετικέτες: [Ενέργειες, animal-loss]
 translationKey: actions/animal-loss
 ---
 

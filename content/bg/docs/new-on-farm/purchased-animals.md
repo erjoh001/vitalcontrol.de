@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Тук можете да прегледате текущите си покупки и да експортирате данните.
-categories: [Ново във фермата]
-tags: [Ново във фермата]
+категории: [Ново във фермата]
+тагове: [Ново във фермата]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Купени животни {#purchased-animals}

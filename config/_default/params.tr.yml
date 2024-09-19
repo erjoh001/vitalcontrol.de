@@ -1,0 +1,19 @@
+title: Urban VitalControl
+description: Sağlık yönetimi 2.0
+time_format_default: 02.01.2006
+time_format_blog: 02.01.2006
+copyright: Urban GmbH & Co.KG
+privacy_policy: https://www.urbanonline.de/en/privacy-policy
+taxonomy:
+  # set taxonomyCloud: [] to hide taxonomy clouds
+  taxonomyCloud:
+    - kategoriler 
+    - etiketler
+  # If used, must have same length as taxonomyCloud
+  taxonomyCloudTitle:
+    - "Kategoriler"
+    - "Etiket bulutu"
+  # set taxonomyPageHeader: [] to hide taxonomies on the page headers
+  taxonomyPageHeader:
+    - kategoriler
+    - etiketler

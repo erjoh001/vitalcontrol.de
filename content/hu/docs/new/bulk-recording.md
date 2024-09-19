@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Használja a vonalkódolvasót különféle állatok rögzítéséhez.
-categories: [Tömeges rögzítés]
-tags: [Tömeges rögzítés]
+kategóriák: [Tömeges rögzítés]
+címkék: [Tömeges rögzítés]
 translationKey: new/bulk-recording
 ---
 ## Tömeges rögzítés {#bulk-recording}

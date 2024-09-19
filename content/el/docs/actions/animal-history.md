@@ -6,8 +6,8 @@ weight: 80
 description: >
  Προβολή του ιστορικού ενός ζώου.
 date: 2023-07-26
-categories: [Ενέργειες]
-tags: [Ενέργειες, Ιστορικό Ζώου]
+κατηγορίες: [Ενέργειες]
+ετικέτες: [Ενέργειες, Ιστορικό Ζώου]
 translationKey: actions/animalshistory
 ---
 

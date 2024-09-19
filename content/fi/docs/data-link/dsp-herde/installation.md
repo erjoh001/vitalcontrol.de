@@ -6,7 +6,7 @@ draft: false
 description: >
   Määritä synkronointiparametrit tiedonvaihtoon *Herde*-ohjelmiston ja VitalControl-laitteen välillä.
 weight: 10
-categories: [DSP Herde]
+luokat: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 Ennen ensimmäistä [tiedonvaihtoa](../data-exchange/), teknologian kytkentä VitalControl-laitteeseen on luotava ja asetettava kerran.

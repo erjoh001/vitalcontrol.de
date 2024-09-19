@@ -6,7 +6,7 @@ draft: false
 description: >
   Enne VitalControl esmakordset kasutamist peate selle üks kord Alma Pro söötja seadetes aktiveerima.
 weight: 10
-categories: [Alma Pro]
+kategooriad: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

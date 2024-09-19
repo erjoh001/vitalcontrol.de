@@ -5,7 +5,7 @@ date: 2017-01-03
 weight: 20
 description: >
   Återställ standardvärden på din VitalControl-enhet genom att utföra en fabriksåterställning.
-categories: [Återställning]
+Kategorier: [Återställning]
 translationKey: reset/factory
 ---
 ## Utföra en fabriksåterställning {#performing-a-factory-reset}

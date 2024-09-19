@@ -6,8 +6,8 @@ weight: 90
 description: >
  Upravit údaje o vybraném zvířeti.
 date: 2023-07-26
-categories: [Akce]
-tags: [Akce, údaje o zvířeti, upravit]
+kategorie: [Akce]
+štítky: [Akce, údaje o zvířeti, upravit]
 translationKey: actions/edit
 ---
 

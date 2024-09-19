@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Vaata oma tegevuste nimekirja.
-categories: [Nimekirjad]
-tags: [Nimekirjad, Tegevus]
+kategooriad: [Nimekirjad]
+Sildid: [Nimekirjad, Tegevus]
 translationKey: lists/action
 ---
 ## Tegevuste nimekiri {#action-list}

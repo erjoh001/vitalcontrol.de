@@ -6,8 +6,8 @@ weight: 115
 description: >
  Регистриране на телене
 date: 2023-07-26
-categories: [Телене]
-tags: [Телене]
+категории: [Телене]
+тагове: [Телене]
 translationKey: actions/calving
 ---
 {{% alert title="Съвет" %}}

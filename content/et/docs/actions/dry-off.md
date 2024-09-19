@@ -6,8 +6,8 @@ weight: 115
 description: >
  Kuivata lehm või lisa ta värskete lehmade nimekirja
 date: 2023-07-26
-categories: [Kuivatamine]
-tags: [Kuivatamine]
+kategooriad: [Kuivatamine]
+Sildid: [Kuivatamine]
 translationKey: actions/dry-cows
 ---
 

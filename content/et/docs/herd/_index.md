@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Vaata olulist informatsiooni oma karja kohta.
-categories: [Kari]
-tags: [Kari, Temperatuur, Kaal, Hinnang, Looma andmed]
+kategooriad: [Kari]
+Sildid: [Kari, Temperatuur, Kaal, Hinnang, Looma andmed]
 translationKey: herd
 ---
 ## Kari {#herd}

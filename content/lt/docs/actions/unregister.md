@@ -6,8 +6,8 @@ weight: 100
 description: >
  Išregistruoti gyvūną
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Unregister]
+kategorijos: [Actions]
+Žymos: [Actions, Unregister]
 translationKey: actions/unregister
 ---
 {{% alert title="Įspėjimas" color="warning" %}}

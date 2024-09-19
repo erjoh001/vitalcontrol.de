@@ -6,8 +6,8 @@ weight: 110
 description: >
  Állatveszteség regisztrálása.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, animal-loss]
+kategóriák: [Actions]
+címkék: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
 

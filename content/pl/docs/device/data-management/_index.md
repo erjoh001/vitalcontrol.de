@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Twórz kopie zapasowe danych, eksportuj swoje dane i resetuj urządzenie
 date: 2023-07-26
-categories: [Urządzenie, Eksport danych]
-tags: [Urządzenie, Eksport danych]
+kategorie: [Urządzenie, Eksport danych]
+tagi: [Urządzenie, Eksport danych]
 translationKey: device/data-management
 no_list: true
 maphilight: true

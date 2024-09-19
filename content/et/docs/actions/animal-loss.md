@@ -6,8 +6,8 @@ weight: 110
 description: >
  Registreeri looma kadu.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, looma-kadu]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, looma-kadu]
 translationKey: actions/animal-loss
 ---
 

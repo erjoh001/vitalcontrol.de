@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Realizați backup-uri de date
 date: 2023-07-26
-categories: [Dispozitiv, Export de date]
-tags: [Dispozitiv, Export de date]
+categorii: [Dispozitiv, Export de date]
+etichete: [Dispozitiv, Export de date]
 translationKey: device/save-data
 no_list: true
 maphilight: true

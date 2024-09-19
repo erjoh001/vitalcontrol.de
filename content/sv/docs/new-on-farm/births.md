@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Här kan du se dina födslar och skapa en exportfil.
-categories: [Födslar]
-tags: [Födslar]
+Kategorier: [Födslar]
+Taggar: [Födslar]
 translationKey: new-on-farm/births
 ---
 ## Födslar {#births}

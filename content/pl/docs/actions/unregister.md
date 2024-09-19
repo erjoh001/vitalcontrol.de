@@ -6,8 +6,8 @@ weight: 100
 description: >
  Wyrejestrowanie zwierzęcia
 date: 2023-07-26
-categories: [Działania]
-tags: [Działania, Wyrejestrowanie]
+kategorie: [Działania]
+tagi: [Działania, Wyrejestrowanie]
 translationKey: actions/unregister
 ---
 {{% alert title="Ostrzeżenie" color="warning" %}}

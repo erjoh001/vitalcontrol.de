@@ -7,8 +7,8 @@ url: /sv/docs/menu-tree
 weight: -10
 description: >
   Visar det interaktiva menyträdet för VitalControl-enheten.
-Categories: [Meny]
-tags: [Huvudmeny, Åtgärder]
+Kategorier: [Meny]
+Taggar: [Huvudmeny, Åtgärder]
 translationKey: menu-tree
 no_list: true
 ---

@@ -6,8 +6,8 @@ weight: 60
 description: >
  Adăugați și eliminați animale din lista de alarmă.
 date: 2023-07-26
-categories: [Acțiuni]
-tags: [Acțiuni, Alarmă]
+categorii: [Acțiuni]
+etichete: [Acțiuni, Alarmă]
 translationKey: actions/alarm
 ---
 

@@ -3,8 +3,8 @@ title: Ūkio numeris
 linkTitle: Ūkio numeris
 date: 2023-07-26
 weight: 80
-categories: [Nustatymai]
-tags: [Nustatymai, Ūkio numeris]
+kategorijos: [Nustatymai]
+Žymos: [Nustatymai, Ūkio numeris]
 description: >
   Nuolat išsaugokite savo oficialų dvylikos skaitmenų nacionalinį ūkio ID VitalControl įrenginyje.
 translationKey: settings/farm-number

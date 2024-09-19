@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Keturių duomenų failų, sukurtų eksporto metu, struktūros ir turinio aprašymas.
-categories: [Duomenų eksportas]
-tags: [eksporto failai, temperatūros, svoriai, įvertinimai]
+kategorijos: [Duomenų eksportas]
+Žymos: [eksporto failai, temperatūros, svoriai, įvertinimai]
 slug: export-files
 translationKey: data-export/data-files
 ---

@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Aici puteți ajusta mai multe standarde setate din fabrică referitoare la înregistrarea noilor animale conform cerințelor fermei dvs.
-categories: [settings]
-tags: [settings, Default values]
+categorii: [settings]
+etichete: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Setare valori implicite {#set-default-values}

@@ -6,8 +6,8 @@ weight: 30
 description: >
  Arvioi eläimesi.
 date: 2023-07-26
-categories: [Toiminnat]
-tags: [Toiminnat, Luokitus]
+luokat: [Toiminnat]
+tagit: [Toiminnat, Luokitus]
 translationKey: actions/animal-rating
 ---
 

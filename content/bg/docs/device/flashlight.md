@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Включете или изключете светлината на вашето устройство VitalControl
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+категории: [Device]
+тагове: [Device]
 translationKey: device/flashlight
 ---
 ## Активиране и деактивиране на светлината {#activate-and-deactivate-light}

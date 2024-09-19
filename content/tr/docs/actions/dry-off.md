@@ -6,8 +6,8 @@ weight: 115
 description: >
  Bir ineği kurutun veya onu taze inekler listesine ekleyin
 date: 2023-07-26
-categories: [Kurutma]
-tags: [Kurutma]
+Kategoriler: [Kurutma]
+Etiketler: [Kurutma]
 translationKey: actions/dry-cows
 ---
 

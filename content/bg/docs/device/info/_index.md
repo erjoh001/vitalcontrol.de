@@ -7,8 +7,8 @@ slug: info
 description: >
   Вижте важна информация за софтуера и хардуера
 date: 2023-07-26
-categories: [Устройство]
-tags: [Устройство]
+категории: [Устройство]
+тагове: [Устройство]
 translationKey: device/info
 no_list: true
 maphilight: true

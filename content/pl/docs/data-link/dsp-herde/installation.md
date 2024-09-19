@@ -6,7 +6,7 @@ draft: false
 description: >
   Zdefiniuj parametry synchronizacji dla wymiany danych między oprogramowaniem *Herde* a urządzeniem VitalControl.
 weight: 10
-categories: [DSP Herde]
+kategorie: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 Przed pierwszą [wymianą danych](../data-exchange/), należy utworzyć i skonfigurować połączenie technologiczne z urządzeniem VitalControl.

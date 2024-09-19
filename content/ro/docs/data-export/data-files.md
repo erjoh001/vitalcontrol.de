@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Descrierea structurii și conținutului celor patru fișiere de date create în timpul exportului.
-categories: [Export de date]
-tags: [fișiere de export, temperaturi, greutăți, evaluări]
+categorii: [Export de date]
+etichete: [fișiere de export, temperaturi, greutăți, evaluări]
 slug: export-files
 translationKey: data-export/data-files
 ---

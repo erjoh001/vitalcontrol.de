@@ -8,7 +8,7 @@ description: >
   Καθορίστε πώς θα ανατεθεί το αναγνωριστικό του ζώου αφού αποσυνδεθεί ο διαμετακομιστής.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+ετικέτες: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Αποσύνδεση Διαμετακομιστή {#unlink-transponder}

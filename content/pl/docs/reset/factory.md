@@ -5,7 +5,7 @@ date: 2017-01-03
 weight: 20
 description: >
   Przywracanie wartości domyślnych na urządzeniu VitalControl poprzez wykonanie resetu fabrycznego.
-categories: [Reset]
+kategorie: [Reset]
 translationKey: reset/factory
 ---
 ## Wykonywanie resetu fabrycznego {#performing-a-factory-reset}

@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Visa viktig information om din hjord.
-categories: [Herd]
-tags: [Herd, Temperatur, Vikt, Betyg, Djurdata]
+Kategorier: [Herd]
+Taggar: [Herd, Temperatur, Vikt, Betyg, Djurdata]
 translationKey: herd
 ---
 ## Herd {#herd}

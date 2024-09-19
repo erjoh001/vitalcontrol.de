@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Vizualizați informații importante legate de animale individuale.
-Categories: [Animal]
-tags: [Animal, Temperature, Height, Animal data]
+categorii: [Animal]
+etichete: [Animal, Temperature, Height, Animal data]
 translationKey: animal/animal
 ---
 ## Animal {#animal}

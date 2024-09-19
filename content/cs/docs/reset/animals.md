@@ -5,7 +5,7 @@ date: 2017-01-02
 weight: 30
 description: >
   Naučte se, jak smazat všechna zvířata a jejich údaje z vašeho zařízení VitalControl.
-categories: [Reset]
+kategorie: [Reset]
 ---
 ## Vymazání všech údajů o zvířatech ze zařízení {#erasing-all-animal-data-from-device}
 

@@ -3,8 +3,8 @@ title: Gårdsnummer
 linkTitle: Gårdsnummer
 date: 2023-07-26
 weight: 80
-categories: [Inställningar]
-tags: [Inställningar, Gårdsnummer]
+Kategorier: [Inställningar]
+Taggar: [Inställningar, Gårdsnummer]
 description: >
   Spara ditt officiella tolv-siffriga nationella gårds-ID permanent på VitalControl-enheten.
 translationKey: settings/farm-number

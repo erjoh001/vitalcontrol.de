@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Vaata oma põhikarja loendit.
-categories: [Loendid]
-tags: [Loendid, põhikari]
+kategooriad: [Loendid]
+Sildid: [Loendid, põhikari]
 translationKey: lists/dry-cows
 ---
 ## Põhikarja loend {#dry-cows-list}

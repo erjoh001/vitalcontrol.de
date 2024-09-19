@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Siin saate kohandada mitmeid tehaseseadistatud standardeid, mis puudutavad uute loomade registreerimist teie farmi nõuetele vastavalt.
-categories: [settings]
-tags: [settings, Default values]
+kategooriad: [settings]
+Sildid: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Määra vaikimisi väärtused {#set-default-values}

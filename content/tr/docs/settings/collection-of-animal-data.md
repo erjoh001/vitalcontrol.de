@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Hayvan veri toplama için ilgili ayarların saklanması
-categories: [settings]
-tags: [settings, data acquisition]
+Kategoriler: [settings]
+Etiketler: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

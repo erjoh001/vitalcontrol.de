@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Ställ in temperaturinställningarna för din VitalControl-enhet
-categories: [settings]
-tags: [settings, temperature, threshold, anus spotlight]
+Kategorier: [settings]
+Taggar: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
 ## Ställ in tröskel- och temperaturområden {#set-the-threshold--temperature-ranges}

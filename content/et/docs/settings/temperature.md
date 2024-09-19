@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Seadista oma VitalControl seadme rakenduse temperatuuri seaded
-categories: [settings]
-tags: [settings, temperature, threshold, anus spotlight]
+kategooriad: [settings]
+Sildid: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
 ## Määra läveväärtused ja temperatuurivahemikud {#set-the-threshold--temperature-ranges}

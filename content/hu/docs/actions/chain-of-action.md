@@ -6,8 +6,8 @@ weight: 50
 description: >
  Az akciólánc alkalmazása és beállítása.
 date: 2023-07-26
-categories: [Akciók]
-tags: [Akciók, akciólánc]
+kategóriák: [Akciók]
+címkék: [Akciók, akciólánc]
 manualLink: /hu/docs/chain-of-actions/
 ---
 <script>

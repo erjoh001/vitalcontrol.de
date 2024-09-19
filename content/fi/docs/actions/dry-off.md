@@ -6,8 +6,8 @@ weight: 115
 description: >
  Umpeutus lehmä tai lisää se tuoreiden lehmien listaan
 date: 2023-07-26
-categories: [Umpeutus]
-tags: [Umpeutus]
+luokat: [Umpeutus]
+tagit: [Umpeutus]
 translationKey: actions/dry-cows
 ---
 

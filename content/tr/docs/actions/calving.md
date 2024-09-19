@@ -6,8 +6,8 @@ weight: 115
 description: >
  Buzağılama kaydı
 date: 2023-07-26
-categories: [Buzağılama]
-tags: [Buzağılama]
+Kategoriler: [Buzağılama]
+Etiketler: [Buzağılama]
 translationKey: actions/calving
 ---
 {{% alert title="İpucu" %}}

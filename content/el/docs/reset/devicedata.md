@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Μάθετε πώς να επαναφέρετε όλες τις ρυθμίσεις της συσκευής VitalControl.
-categories: [Επαναφορά]
+κατηγορίες: [Επαναφορά]
 ---
 ## Επαναφορά όλων των δεδομένων συσκευής {#resetting-all-device-data}
 

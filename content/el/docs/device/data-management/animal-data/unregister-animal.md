@@ -7,7 +7,7 @@ draft: false
 description: >
  Καταργήστε την εγγραφή ζώων από το VitalControl σας.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+ετικέτες: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Κατάργηση εγγραφής ζώων {#unregister-animals}

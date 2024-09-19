@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Tutaj możesz zobaczyć swoje porody i utworzyć plik eksportu.
-categories: [Porody]
-tags: [Porody]
+kategorie: [Porody]
+tagi: [Porody]
 translationKey: new-on-farm/births
 ---
 ## Porody {#births}

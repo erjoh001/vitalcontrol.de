@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Kolla in din lista över sinlagda kor.
-categories: [Lists]
-tags: [Lists, dry cow]
+Kategorier: [Lists]
+Taggar: [Lists, dry cow]
 translationKey: lists/dry-cows
 ---
 ## Lista över sinlagda kor {#dry-cows-list}

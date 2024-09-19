@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Burada, tarih ve saati ayarlarsınız.
-categories: [Ayarlar]
-tags: [Ayarlar, Tarih ve Saat]
+Kategoriler: [Ayarlar]
+Etiketler: [Ayarlar, Tarih ve Saat]
 translationKey: settings/datetime
 ---
 ## Tarihi ayarlamak için {#to-set-the-date}

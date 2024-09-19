@@ -6,7 +6,7 @@ draft: false
 description: >
   *Herde* yazılımı ile VitalControl cihazı arasındaki veri alışverişi için senkronizasyon parametrelerini tanımlayın.
 weight: 10
-categories: [DSP Herde]
+Kategoriler: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 İlk [veri alışverişinden](../data-exchange/) önce, VitalControl cihazına teknoloji bağlantısı oluşturulmalı ve bir kez kurulmalıdır.

@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   VitalControl cihazınızda kullanıcı arayüzünün dilini ayarlayın ve kalıcı olarak saklayın.
-categories: [Ayarlar]
-tags: [Ayarlar, Dil]
+Kategoriler: [Ayarlar]
+Etiketler: [Ayarlar, Dil]
 translationKey: settings/language
 ---
 ## Dilinizi ayarlama {#setting-your-language}

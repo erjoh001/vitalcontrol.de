@@ -7,8 +7,8 @@ draft: false
 slug: animal-loss
 description: >
   Hogyan regisztráljuk egy állat elvesztését a VitalControl eszközzel.
-categories: [Állatveszteség]
-tags: [Állatveszteség]
+kategóriák: [Állatveszteség]
+címkék: [Állatveszteség]
 translationKey: new/animal-loss
 ---
 ## Állatveszteség rögzítése {#record-the-loss-of-an-animal}

@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   Kuinka rekisteröidä uusi eläin käyttäen VitalControl-laitetta.
-categories: [Uusi eläin]
-tags: [Rekisteröi eläimiä]
+luokat: [Uusi eläin]
+tagit: [Rekisteröi eläimiä]
 translationKey: new/animal
 ---
 ## Luo uusi eläin {#create-a-new-animal}

@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Tesztelje az eszköz hőmérséklet mérését
 date: 2023-07-26
-categories: [Eszköz]
-tags: [Eszköz]
+kategóriák: [Eszköz]
+címkék: [Eszköz]
 translationKey: device/temperature-measurement
 ---
 ## Hőmérséklet mérés tesztelése {#test-temperature-measurement}

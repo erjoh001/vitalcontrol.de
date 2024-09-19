@@ -8,7 +8,7 @@ description: >
   Určete, jak bude přiřazeno ID zvířete po odpojení transpondéru.
 date: 2023-07-26
 Kategorien: [Nastavení]
-Tags: [Nastavení, Transpondér, ID zvířete]
+štítky: [Nastavení, Transpondér, ID zvířete]
 translationKey: settings/unlink-transponder
 ---
 ## Odpojit transpondér {#unlink-transponder}

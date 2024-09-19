@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Patikrinkite savo pavojaus sąrašą.
-categories: [Sąrašai]
-tags: [Sąrašai, pavojaus]
+kategorijos: [Sąrašai]
+Žymos: [Sąrašai, pavojaus]
 translationKey: lists/alarm
 ---
 ## Pavojaus sąrašas {#alarm-list}

@@ -6,8 +6,8 @@ weight: 115
 description: >
  Nusausinti karvę arba pridėti ją į šviežių karvių sąrašą
 date: 2023-07-26
-categories: [Nusausinti]
-tags: [Nusausinti]
+kategorijos: [Nusausinti]
+Žymos: [Nusausinti]
 translationKey: actions/dry-cows
 ---
 

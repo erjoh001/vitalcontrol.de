@@ -7,7 +7,7 @@ draft: false
 description: >
  Állatok regisztrációjának megszüntetése a VitalControl rendszerben.
 Kategorien: [Állatadatok]
-Tags: [Állatadatok, Regisztráció megszüntetése]
+címkék: [Állatadatok, Regisztráció megszüntetése]
 translationKey: device/unregister-animals
 ---
 ## Állat regisztrációjának megszüntetése {#unregister-animals}

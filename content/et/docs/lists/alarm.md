@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Vaata oma häirete nimekirja.
-categories: [Nimekirjad]
-tags: [Nimekirjad, häire]
+kategooriad: [Nimekirjad]
+Sildid: [Nimekirjad, häire]
 translationKey: lists/alarm
 ---
 ## Häirete nimekiri {#alarm-list}

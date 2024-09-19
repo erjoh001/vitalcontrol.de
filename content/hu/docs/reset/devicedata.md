@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Tanulja meg, hogyan állíthatja vissza a VitalControl eszköz összes beállítását.
-categories: [Reset]
+kategóriák: [Reset]
 ---
 ## Az összes eszközadat visszaállítása {#resetting-all-device-data}
 

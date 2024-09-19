@@ -6,8 +6,8 @@ weight: 110
 description: >
  Eemalda loomalt transponderi link
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+kategooriad: [Transponder]
+Sildid: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Hoiatus" color="warning" %}}

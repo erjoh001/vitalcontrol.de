@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Εδώ επιλέγετε μονάδες για τη θερμοκρασία και τη μάζα.
-categories: [settings]
-tags: [settings, units]
+κατηγορίες: [settings]
+ετικέτες: [settings, units]
 translationKey: settings/units
 ---
 ## Ρύθμιση μονάδας θερμοκρασίας {#set-temperature-unit}

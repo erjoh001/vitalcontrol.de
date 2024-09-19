@@ -6,8 +6,8 @@ weight: 10
 description: >
  Arvioi tallennetut tietosi Paino-osiossa.
 date: 2023-07-26
-categories: [luokitus]
-tags: [luokitus, paino]
+luokat: [luokitus]
+tagit: [luokitus, paino]
 translationKey: evaluation/weight
 maphilight: true
 ---

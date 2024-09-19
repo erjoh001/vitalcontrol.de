@@ -8,7 +8,7 @@ description: >
   Określ, jak identyfikator zwierzęcia będzie przypisany po odłączeniu transpondera.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+tagi: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Odłącz Transponder {#unlink-transponder}

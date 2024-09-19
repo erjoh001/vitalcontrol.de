@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Birden fazla hayvan eylemini ardışık olarak gerçekleştirin
-categories: [Eylem Zinciri]
-tags: [Eylem Zinciri, Eylemler]
+Kategoriler: [Eylem Zinciri]
+Etiketler: [Eylem Zinciri, Eylemler]
 translationKey: action-chain
 ---
 ## Eylem Zinciri {#chain-of-actions}

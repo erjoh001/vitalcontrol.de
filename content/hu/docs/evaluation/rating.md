@@ -6,8 +6,8 @@ weight: 30
 description: >
  Értékelje a tárolt adatokat az értékelési szakaszban.
 date: 2023-07-26
-categories: [Értékelés]
-tags: [Értékelés, Értékelés]
+kategóriák: [Értékelés]
+címkék: [Értékelés, Értékelés]
 translationKey: evaluation/rating
 ---
 {{% alert title="Tipp" %}}

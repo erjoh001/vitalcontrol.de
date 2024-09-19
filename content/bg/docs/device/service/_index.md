@@ -7,8 +7,8 @@ slug: service
 description: >
   Проверете драйверите на устройството си, актуализирайте фърмуера и извършете тест на обхвата
 date: 2223-27-26
-categories: [Устройство]
-tags: [Устройство]
+категории: [Устройство]
+тагове: [Устройство]
 translationKey: device/service
 no_list: true
 maphilight: true

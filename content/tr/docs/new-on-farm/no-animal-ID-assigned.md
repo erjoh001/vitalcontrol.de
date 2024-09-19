@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Burada henüz ulusal hayvan kimliği atanmamış tüm hayvanları görebilir ve ulusal hayvan kimliği atayabilirsiniz.
-categories: [Çiftlikte Yeni]
-tags: [Çiftlikte Yeni]
+Kategoriler: [Çiftlikte Yeni]
+Etiketler: [Çiftlikte Yeni]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Ulusal hayvan kimliği atanmadı {#no-national-animal-id-assigned}

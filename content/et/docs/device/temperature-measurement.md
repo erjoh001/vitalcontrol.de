@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Testi oma seadme temperatuuri mõõtmist
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategooriad: [Device]
+Sildid: [Device]
 translationKey: device/temperature-measurement
 ---
 ## Testi temperatuuri mõõtmist {#test-temperature-measurement}

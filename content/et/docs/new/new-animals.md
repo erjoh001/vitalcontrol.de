@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Kuidas luua VitalControl seadmel korraga mitu uut looma.
-categories: [Uued loomad]
-tags: [Uued loomad]
+kategooriad: [Uued loomad]
+Sildid: [Uued loomad]
 translationKey: new/animals
 ---
 ## Loo mitu uut looma {#create-several-new-animals}

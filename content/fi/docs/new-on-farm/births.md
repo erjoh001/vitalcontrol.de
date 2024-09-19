@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Täältä voit tarkastella syntyneitä ja luoda vientitiedoston.
-categories: [Syntymät]
-tags: [Syntymät]
+luokat: [Syntymät]
+tagit: [Syntymät]
 translationKey: new-on-farm/births
 ---
 ## Syntymät {#births}

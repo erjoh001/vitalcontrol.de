@@ -6,8 +6,8 @@ weight: 20
 description: >
   Salvesta oma loomade kaal.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, kaal]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, kaal]
 translationKey: actions/weight
 ---
 

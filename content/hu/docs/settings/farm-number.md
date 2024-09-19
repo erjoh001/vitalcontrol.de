@@ -3,8 +3,8 @@ title: Gazdasági szám
 linkTitle: Gazdasági szám
 date: 2023-07-26
 weight: 80
-categories: [Beállítások]
-tags: [Beállítások, Gazdasági szám]
+kategóriák: [Beállítások]
+címkék: [Beállítások, Gazdasági szám]
 description: >
   Mentse el véglegesen a hivatalos tizenkét számjegyű nemzeti gazdasági azonosítóját a VitalControl eszközön.
 translationKey: settings/farm-number

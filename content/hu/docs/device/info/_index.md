@@ -7,8 +7,8 @@ slug: info
 description: >
   Nézze meg a fontos szoftver- és hardverinformációkat
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategóriák: [Device]
+címkék: [Device]
 translationKey: device/info
 no_list: true
 maphilight: true

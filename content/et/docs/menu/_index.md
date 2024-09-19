@@ -7,8 +7,8 @@ url: /et/docs/menu-tree
 weight: -10
 description: >
   Näitab VitalControl seadme interaktiivset menüüpuud.
-Categories: [Menu]
-tags: [Põhimenüü, Tegevused]
+kategooriad: [Menu]
+Sildid: [Põhimenüü, Tegevused]
 translationKey: menu-tree
 no_list: true
 ---

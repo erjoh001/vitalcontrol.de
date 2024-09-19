@@ -7,8 +7,8 @@ url: /hu/docs/menu-tree
 weight: -10
 description: >
   A VitalControl eszköz interaktív menüfáját mutatja.
-Categories: [Menü]
-tags: [Főmenü, Műveletek]
+kategóriák: [Menü]
+címkék: [Főmenü, Műveletek]
 translationKey: menu-tree
 no_list: true
 ---

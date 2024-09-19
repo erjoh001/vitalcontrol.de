@@ -3,7 +3,7 @@ title: "RFID nuskaitymas: diapazono testas ir transponderių diagnostika"
 linkTitle: RFID nuskaitymas
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnostika, RFID nuskaitymas]
+kategorijos: [Diagnostika, RFID nuskaitymas]
 description: >
   Patikrinkite savo RFID skaitytuvo diapazoną arba parodykite nuskaitymo protokolą ir nežinomų transponderių saugomus numerius.
 translationKey: diagnosis/rfid-scan

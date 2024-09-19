@@ -6,8 +6,8 @@ weight: 100
 description: >
  Odhlásit zvíře
 date: 2023-07-26
-categories: [Akce]
-tags: [Akce, Odhlásit]
+kategorie: [Akce]
+štítky: [Akce, Odhlásit]
 translationKey: actions/unregister
 ---
 {{% alert title="Varování" color="warning" %}}

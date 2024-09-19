@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Testați măsurarea temperaturii dispozitivului dvs.
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+categorii: [Device]
+etichete: [Device]
 translationKey: device/temperature-measurement
 ---
 ## Testați măsurarea temperaturii {#test-temperature-measurement}

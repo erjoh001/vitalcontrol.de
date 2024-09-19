@@ -6,8 +6,8 @@ weight: 115
 description: >
  Przypisz krajowy identyfikator zwierzęcia do zwierzęcia, które nie ma krajowego identyfikatora zwierzęcia
 date: 2023-07-26
-categories: [Krajowy identyfikator zwierzęcia]
-tags: [Krajowy identyfikator zwierzęcia]
+kategorie: [Krajowy identyfikator zwierzęcia]
+tagi: [Krajowy identyfikator zwierzęcia]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Ostrzeżenie" color="warning" %}}

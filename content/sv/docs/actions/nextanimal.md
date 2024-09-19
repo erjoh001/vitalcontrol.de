@@ -6,8 +6,8 @@ weight: 10
 description: >
  Välj nästa djur inom menyalternativet Åtgärder.
 date: 2023-07-26
-categories: [Åtgärder]
-tags: [Åtgärder]
+Kategorier: [Åtgärder]
+Taggar: [Åtgärder]
 translationKey: actions/next-animal
 draft: true
 ---

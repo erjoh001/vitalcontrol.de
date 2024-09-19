@@ -6,6 +6,6 @@ draft: false
 description: >
   Tuo kaikki eläimet juottajalta VitalControl-laitteeseen ja siirrä tallennetut lämpötilat, painot ja eläinarviot juottajalle.
 weight: 20
-categories: [Alma Pro]
+luokat: [Alma Pro]
 translationKey: alma-pro
 ---

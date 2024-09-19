@@ -6,8 +6,8 @@ weight: 20
 description: >
  Įvertinkite savo saugomus duomenis Temperatūros skyriuje.
 date: 2023-07-26
-categories: [Įvertinimas]
-tags: [Įvertinimas, Temperatūra]
+kategorijos: [Įvertinimas]
+Žymos: [Įvertinimas, Temperatūra]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Patarimas" %}}

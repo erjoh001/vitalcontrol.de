@@ -6,7 +6,7 @@ draft: false
 description: >
   Przed pierwszym użyciem VitalControl należy go jednorazowo aktywować w ustawieniach podajnika Alma Pro.
 weight: 10
-categories: [Alma Pro]
+kategorie: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

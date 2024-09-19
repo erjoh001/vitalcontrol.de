@@ -6,8 +6,8 @@ weight: 10
 description: >
  Evaluează datele stocate în secțiunea Greutate.
 date: 2023-07-26
-categories: [Evaluare]
-tags: [Evaluare, greutate]
+categorii: [Evaluare]
+etichete: [Evaluare, greutate]
 translationKey: evaluation/weight
 maphilight: true
 ---

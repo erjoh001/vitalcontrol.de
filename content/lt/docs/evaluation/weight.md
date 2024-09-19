@@ -6,8 +6,8 @@ weight: 10
 description: >
  Įvertinkite savo saugomus duomenis Svorio skyriuje.
 date: 2023-07-26
-categories: [Įvertinimas]
-tags: [Įvertinimas, svoris]
+kategorijos: [Įvertinimas]
+Žymos: [Įvertinimas, svoris]
 translationKey: evaluation/weight
 maphilight: true
 ---

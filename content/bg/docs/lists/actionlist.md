@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Проверете вашия списък с действия.
-categories: [Списъци]
-tags: [Списъци, Действие]
+категории: [Списъци]
+тагове: [Списъци, Действие]
 translationKey: lists/action
 ---
 ## Списък с действия {#action-list}

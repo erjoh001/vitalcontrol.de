@@ -4,7 +4,7 @@ linkTitle: "Gyári visszaállítás"
 date: 2017-01-03
 description: >
   Az alapértelmezett értékek visszaállítása a VitalControl eszközön gyári visszaállítással.
-categories: [Visszaállítás]
+kategóriák: [Visszaállítás]
 translationKey: reset/factory
 ---
 ## Gyári visszaállítás végrehajtása {#performing-a-factory-reset}

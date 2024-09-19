@@ -3,7 +3,7 @@ title: "Skanowanie RFID: test zasięgu i diagnostyka transponderów"
 linkTitle: RFID scan
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnosis, RFID Scan]
+kategorie: [Diagnosis, RFID Scan]
 description: >
   Sprawdź zasięg swojego skanera RFID lub wyświetl protokół odczytu i numery zapisane na nieznanych transponderach.
 translationKey: diagnosis/rfid-scan

@@ -6,7 +6,7 @@ draft: false
 description: >
   Prieš pirmą kartą naudojant VitalControl, jį reikia vieną kartą aktyvuoti Alma Pro šėryklos nustatymuose.
 weight: 10
-categories: [Alma Pro]
+kategorijos: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

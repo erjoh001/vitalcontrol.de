@@ -6,8 +6,8 @@ weight: 10
 description: >
   Měření horečky u vašich zvířat.
 date: 2023-07-26
-Categories: [Akce]
-tags: [Akce, horečka, teplota]
+kategorie: [Akce]
+štítky: [Akce, horečka, teplota]
 translationKey: actions/temperature
 ---
 

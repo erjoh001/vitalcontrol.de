@@ -7,8 +7,8 @@ slug: animal-data
 description: >
  Exportujte svá data o zvířatech
 date: 2023-07-26
-categories: [Zařízení, Export dat]
-tags: [Zařízení, Export dat]
+kategorie: [Zařízení, Export dat]
+štítky: [Zařízení, Export dat]
 translationKey: device/animal-data
 no_list: true
 maphilight: true

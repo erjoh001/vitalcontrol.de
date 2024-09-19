@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Siin saate määrata transponderi uutele loomadele, kellel seda veel ei ole.
-categories: [Uus farmis, transponder]
-tags: [Uus farmis, transponder]
+kategooriad: [Uus farmis, transponder]
+Sildid: [Uus farmis, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Uus farmis, transponderta {#new-on-farm-no-transponder}

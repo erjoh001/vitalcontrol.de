@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Duomenų atsarginės kopijos pagalba sukuriamas atsarginės kopijos failas, kuriame yra visi duomenys, saugomi VitalControl įrenginyje.
-categories: [Duomenų atsarginė kopija]
-tags: [atsarginės kopijos failas, USB atmintinė]
+kategorijos: [Duomenų atsarginė kopija]
+Žymos: [atsarginės kopijos failas, USB atmintinė]
 translationKey: backup
 ---
 {{% usb-drive/lt "Norėdami atlikti įrenginio duomenų atsarginę kopiją," %}}

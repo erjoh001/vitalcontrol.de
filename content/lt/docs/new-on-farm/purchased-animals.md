@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Čia galite peržiūrėti savo dabartinius pirkimus ir eksportuoti duomenis.
-categories: [Nauja ūkyje]
-tags: [Nauja ūkyje]
+kategorijos: [Nauja ūkyje]
+Žymos: [Nauja ūkyje]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Įsigyti gyvūnai {#purchased-animals}

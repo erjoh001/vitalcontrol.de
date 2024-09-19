@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Kuidas registreerida uut vasikat kasutades VitalControl seadet.
-categories: [Calving]
-tags: [Calving]
+kategooriad: [Calving]
+Sildid: [Calving]
 translationKey: new/calving
 ---
 ## Vasika registreerimine {#register-a-calving}

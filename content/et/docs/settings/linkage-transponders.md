@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Määra oma VitalControl seadmel transponderi seostamine.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
+kategooriad: [settings]
+Sildid: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
 translationKey: settings/link-transponder
 ---
 ## Määra ostetud vasikate maksimaalne vanus {#set-maximum-age-of-purchased-calves}

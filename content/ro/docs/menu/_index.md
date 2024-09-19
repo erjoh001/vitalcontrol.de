@@ -7,8 +7,8 @@ url: /ro/docs/menu-tree
 weight: -10
 description: >
   Afișează arborele de meniu interactiv al dispozitivului VitalControl.
-Categories: [Meniu]
-tags: [Meniu principal, Acțiuni]
+categorii: [Meniu]
+etichete: [Meniu principal, Acțiuni]
 translationKey: menu-tree
 no_list: true
 ---

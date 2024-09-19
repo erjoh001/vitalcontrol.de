@@ -3,8 +3,8 @@ title: Talunumber
 linkTitle: Talunumber
 date: 2023-07-26
 weight: 80
-categories: [Seaded]
-tags: [Seaded, Talunumber]
+kategooriad: [Seaded]
+Sildid: [Seaded, Talunumber]
 description: >
   Salvesta oma ametlik kaheteistkohaline riiklik talunumber püsivalt VitalControl seadmesse.
 translationKey: settings/farm-number

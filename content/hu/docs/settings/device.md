@@ -7,8 +7,8 @@ slug: device
 description: >
  Itt különböző eszközbeállításokat állíthat be.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+kategóriák: [settings]
+címkék: [settings, device]
 translationKey: settings/device
 ---
 ## Eszköz kikapcsolása után {#shutdown-device-after}

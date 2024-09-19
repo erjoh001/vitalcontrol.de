@@ -6,8 +6,8 @@ weight: 80
 description: >
  Zobrazit historii zvířete.
 date: 2023-07-26
-categories: [Akce]
-tags: [Akce, Historie zvířat]
+kategorie: [Akce]
+štítky: [Akce, Historie zvířat]
 translationKey: actions/animalshistory
 ---
  

@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Zde můžete zobrazit všechna zvířata, kterým ještě nebyl přiřazen transpondér, a přiřadit jim transpondér.
-categories: [Nové na farmě, Národní identifikace zvířat]
-tags: [Nové na farmě, Národní identifikace zvířat]
+kategorie: [Nové na farmě, Národní identifikace zvířat]
+štítky: [Nové na farmě, Národní identifikace zvířat]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Bez přiřazeného transpondéru {#no-transponder-assigned}

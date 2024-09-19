@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Könnyítse meg a friss tehenek ellenőrzését.
-categories: [Lists]
-tags: [Lists, fresh cow]
+kategóriák: [Lists]
+címkék: [Lists, fresh cow]
 translationKey: lists/fresh-cows
 ---
 ### Friss tehenek listája {#fresh-cows-list}

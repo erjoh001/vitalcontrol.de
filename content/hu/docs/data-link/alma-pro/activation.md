@@ -6,7 +6,7 @@ draft: false
 description: >
   Mielőtt először használná a VitalControl-t, egyszer aktiválnia kell az Alma Pro etető beállításaiban.
 weight: 10
-categories: [Alma Pro]
+kategóriák: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

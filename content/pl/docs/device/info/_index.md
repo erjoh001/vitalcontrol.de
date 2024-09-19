@@ -7,8 +7,8 @@ slug: info
 description: >
   Zobacz ważne informacje o oprogramowaniu i sprzęcie
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategorie: [Device]
+tagi: [Device]
 translationKey: device/info
 no_list: true
 maphilight: true

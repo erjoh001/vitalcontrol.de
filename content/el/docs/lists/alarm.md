@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Δείτε τη λίστα συναγερμών σας.
-categories: [Λίστες]
-tags: [Λίστες, συναγερμός]
+κατηγορίες: [Λίστες]
+ετικέτες: [Λίστες, συναγερμός]
 translationKey: lists/alarm
 ---
 ## Λίστα Συναγερμών {#alarm-list}

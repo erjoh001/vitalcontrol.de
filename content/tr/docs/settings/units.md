@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Burada sıcaklık ve kütle için birimleri seçersiniz.
-categories: [settings]
-tags: [settings, units]
+Kategoriler: [settings]
+Etiketler: [settings, units]
 translationKey: settings/units
 ---
 ## Sıcaklık birimini ayarlama {#set-temperature-unit}

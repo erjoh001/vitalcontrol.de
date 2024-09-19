@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Adatmentések futtatása
 date: 2023-07-26
-categories: [Eszköz, Adat exportálás]
-tags: [Eszköz, Adat exportálás]
+kategóriák: [Eszköz, Adat exportálás]
+címkék: [Eszköz, Adat exportálás]
 translationKey: device/save-data
 no_list: true
 maphilight: true

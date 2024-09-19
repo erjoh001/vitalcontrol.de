@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Prin intermediul unui backup de date, se creează un fișier de backup care conține toate datele stocate pe dispozitivul VitalControl.
-categories: [Backup de date]
-tags: [fișier de backup, unitate flash USB]
+categorii: [Backup de date]
+etichete: [fișier de backup, unitate flash USB]
 translationKey: backup
 ---
 {{% usb-drive/ro "Pentru a efectua un backup de date pentru dispozitivul dvs.," %}}

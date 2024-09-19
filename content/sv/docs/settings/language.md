@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Ställ in och lagra språket för användargränssnittet permanent på din VitalControl-enhet.
-categories: [Inställningar]
-tags: [Inställningar, Språk]
+Kategorier: [Inställningar]
+Taggar: [Inställningar, Språk]
 translationKey: settings/language
 ---
 ## Ställa in ditt språk {#setting-your-language}

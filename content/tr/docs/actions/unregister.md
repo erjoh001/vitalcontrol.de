@@ -6,8 +6,8 @@ weight: 100
 description: >
  Hayvan kaydını sil
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Unregister]
+Kategoriler: [Actions]
+Etiketler: [Actions, Unregister]
 translationKey: actions/unregister
 ---
 {{% alert title="Uyarı" color="warning" %}}

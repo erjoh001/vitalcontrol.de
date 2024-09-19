@@ -6,7 +6,7 @@ draft: false
 description: >
   Synkronisera djuren lagrade på VitalControl-enheten med djur registrerade på den automatiska mataren och överför uppmätta värden registrerade med VitalControl-enheten till mataren för utvärderingsändamål och bättre visualisering.
 weight: 20
-categories: [Datautbyte, Alma Pro]
+Kategorier: [Datautbyte, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Öppna USB-porten

@@ -6,7 +6,7 @@ draft: false
 description: >
   VitalControl cihazında depolanan hayvanları otomatik yemlikte kayıtlı hayvanlarla senkronize edin ve VitalControl cihazı ile kaydedilen ölçüm değerlerini değerlendirme amaçlı ve daha iyi görselleştirme için yemliğe aktarın.
 weight: 20
-categories: [Veri değişimi, Alma Pro]
+Kategoriler: [Veri değişimi, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## USB portunu açın

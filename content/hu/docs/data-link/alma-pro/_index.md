@@ -6,6 +6,6 @@ draft: false
 description: >
   Az összes állat importálása az etetőből a VitalControl eszközre, valamint a rögzített hőmérsékletek, súlyok és állatértékelések átvitele az etetőbe.
 weight: 20
-categories: [Alma Pro]
+kategóriák: [Alma Pro]
 translationKey: alma-pro
 ---

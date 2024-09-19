@@ -6,8 +6,8 @@ weight: 115
 description: >
  Määritä Kansallinen eläin ID eläimelle, jolla ei ole kansallista eläintunnusta
 date: 2023-07-26
-categories: [Kansallinen eläin ID]
-tags: [Kansallinen eläin ID]
+luokat: [Kansallinen eläin ID]
+tagit: [Kansallinen eläin ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Varoitus" color="warning" %}}

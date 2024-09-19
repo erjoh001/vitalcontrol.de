@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Podívejte se na svůj sledovaný seznam.
-categories: [Seznamy]
-tags: [Seznamy, sledování]
+kategorie: [Seznamy]
+štítky: [Seznamy, sledování]
 translationKey: lists/on-watch
 ---
 ## Na sledovaném seznamu {#on-watch-list}

@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Nastavte přiřazení transpondéru na vašem zařízení VitalControl.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maximální věk, maximální věk nakoupených telat, Přiřazení ID zvířete]
+kategorie: [settings]
+štítky: [settings, Maximální věk, maximální věk nakoupených telat, Přiřazení ID zvířete]
 translationKey: settings/link-transponder
 ---
 ## Nastavení maximálního věku nakoupených telat {#set-maximum-age-of-purchased-calves}

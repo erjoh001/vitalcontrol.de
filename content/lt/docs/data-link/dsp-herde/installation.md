@@ -6,7 +6,7 @@ draft: false
 description: >
   Apibrėžkite sinchronizavimo parametrus duomenų mainams tarp programinės įrangos *Herde* ir VitalControl įrenginio.
 weight: 10
-categories: [DSP Herde]
+kategorijos: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 Prieš pirmąjį [duomenų mainą](../data-exchange/), reikia sukurti ir nustatyti technologijos sujungimą su VitalControl įrenginiu.

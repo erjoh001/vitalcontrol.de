@@ -7,8 +7,8 @@ draft: false
 slug: animal-loss
 description: >
   Πώς να καταχωρίσετε την απώλεια ενός ζώου χρησιμοποιώντας τη συσκευή VitalControl.
-categories: [Animal-loss]
-tags: [Animal-loss]
+κατηγορίες: [Animal-loss]
+ετικέτες: [Animal-loss]
 translationKey: new/animal-loss
 ---
 ## Καταγραφή της απώλειας ενός ζώου {#record-the-loss-of-an-animal}

@@ -6,8 +6,8 @@ weight: 70
 description: >
  Umístěte zvířata na seznam sledovaných nebo je z něj odstraňte.
 date: 2023-07-26
-categories: [Akce]
-tags: [Akce, na sledování]
+kategorie: [Akce]
+štítky: [Akce, na sledování]
 translationKey: actions/on-watch
 ---
 

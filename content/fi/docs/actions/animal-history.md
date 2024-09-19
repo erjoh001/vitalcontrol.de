@@ -6,8 +6,8 @@ weight: 80
 description: >
  Näytä eläimen historia.
 date: 2023-07-26
-categories: [Toiminnot]
-tags: [Toiminnot, Eläin historia]
+luokat: [Toiminnot]
+tagit: [Toiminnot, Eläin historia]
 translationKey: actions/animalshistory
 ---
 

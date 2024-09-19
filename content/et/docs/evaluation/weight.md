@@ -6,8 +6,8 @@ weight: 10
 description: >
  Hinda oma salvestatud andmeid Kaalu sektsioonis.
 date: 2023-07-26
-categories: [Hindamine]
-tags: [Hindamine, kaal]
+kategooriad: [Hindamine]
+Sildid: [Hindamine, kaal]
 translationKey: evaluation/weight
 maphilight: true
 ---

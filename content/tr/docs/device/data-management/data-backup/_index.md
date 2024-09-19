@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Veri yedeklemeleri çalıştır
 date: 2023-07-26
-categories: [Cihaz, Veri dışa aktarma]
-tags: [Cihaz, Veri dışa aktarma]
+Kategoriler: [Cihaz, Veri dışa aktarma]
+Etiketler: [Cihaz, Veri dışa aktarma]
 translationKey: device/save-data
 no_list: true
 maphilight: true

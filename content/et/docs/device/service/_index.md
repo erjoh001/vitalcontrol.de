@@ -7,8 +7,8 @@ slug: service
 description: >
   Kontrollige oma seadme draivereid, uuendage oma püsivara ja tehke ulatuse test
 date: 2223-27-26
-categories: [Seade]
-tags: [Seade]
+kategooriad: [Seade]
+Sildid: [Seade]
 translationKey: device/service
 no_list: true
 maphilight: true

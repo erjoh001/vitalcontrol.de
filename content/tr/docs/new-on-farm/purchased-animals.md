@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Burada mevcut satın alımlarınızı görüntüleyebilir ve verileri dışa aktarabilirsiniz.
-categories: [Çiftlikte Yeni]
-tags: [Çiftlikte Yeni]
+Kategoriler: [Çiftlikte Yeni]
+Etiketler: [Çiftlikte Yeni]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Satın Alınan Hayvanlar {#purchased-animals}

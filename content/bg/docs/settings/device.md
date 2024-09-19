@@ -7,8 +7,8 @@ slug: device
 description: >
  Тук можете да регулирате различни настройки на устройството.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+категории: [settings]
+тагове: [settings, device]
 translationKey: settings/device
 ---
 ## Изключване на устройството след {#shutdown-device-after}

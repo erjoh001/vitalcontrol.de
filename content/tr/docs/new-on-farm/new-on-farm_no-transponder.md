@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Burada transponderi olmayan yeni hayvanlara bir transponder atarsınız.
-categories: [Çiftlikte yeni, transponder]
-tags: [Çiftlikte yeni, transponder]
+Kategoriler: [Çiftlikte yeni, transponder]
+Etiketler: [Çiftlikte yeni, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Çiftlikte yeni, transponder yok {#new-on-farm-no-transponder}

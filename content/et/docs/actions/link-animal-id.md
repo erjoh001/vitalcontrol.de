@@ -6,8 +6,8 @@ weight: 115
 description: >
  Määra loomale rahvuslik looma ID, kui tal seda veel ei ole
 date: 2023-07-26
-categories: [Rahvuslik looma ID]
-tags: [Rahvuslik looma ID]
+kategooriad: [Rahvuslik looma ID]
+Sildid: [Rahvuslik looma ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Hoiatus" color="warning" %}}

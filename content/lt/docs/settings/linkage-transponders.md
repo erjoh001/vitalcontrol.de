@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Nustatykite transponderio priskyrimą savo VitalControl įrenginyje.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maksimalus amžius, įsigytų veršelių maksimalus amžius, Gyvūno ID priskyrimas]
+kategorijos: [settings]
+Žymos: [settings, Maksimalus amžius, įsigytų veršelių maksimalus amžius, Gyvūno ID priskyrimas]
 translationKey: settings/link-transponder
 ---
 ## Nustatyti įsigytų veršelių maksimalų amžių {#set-maximum-age-of-purchased-calves}

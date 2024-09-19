@@ -6,8 +6,8 @@ weight: 20
 description: >
  Arvioi tallennetut tietosi Lämpötila-osiossa.
 date: 2023-07-26
-categories: [Arviointi]
-tags: [Arviointi, Lämpötila]
+luokat: [Arviointi]
+tagit: [Arviointi, Lämpötila]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Vihje" %}}

@@ -6,8 +6,8 @@ weight: 102
 description: >
  Присвояване на транспондер на животно
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+категории: [Transponder]
+тагове: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Внимание" color="warning" %}}

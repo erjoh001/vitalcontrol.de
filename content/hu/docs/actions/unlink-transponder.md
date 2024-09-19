@@ -6,8 +6,8 @@ weight: 110
 description: >
  Az állathoz rendelt transzponder leválasztása
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+kategóriák: [Transponder]
+címkék: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Figyelem" color="warning" %}}

@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Użyj skanera kodów kreskowych, aby zarejestrować różne zwierzęta.
-categories: [Rejestracja masowa]
-tags: [Rejestracja masowa]
+kategorie: [Rejestracja masowa]
+tagi: [Rejestracja masowa]
 translationKey: new/bulk-recording
 ---
 ## Rejestracja masowa {#bulk-recording}

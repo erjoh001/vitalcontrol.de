@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Ρυθμίστε και αποθηκεύστε μόνιμα τη γλώσσα του χρήστη στη συσκευή σας VitalControl.
-categories: [Ρυθμίσεις]
-tags: [Ρυθμίσεις, Γλώσσα]
+κατηγορίες: [Ρυθμίσεις]
+ετικέτες: [Ρυθμίσεις, Γλώσσα]
 translationKey: settings/language
 ---
 ## Ρύθμιση της γλώσσας σας {#setting-your-language}

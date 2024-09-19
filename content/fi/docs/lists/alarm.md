@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Tutustu hälytyslistaasi.
-categories: [Listat]
-tags: [Listat, hälytys]
+luokat: [Listat]
+tagit: [Listat, hälytys]
 translationKey: lists/alarm
 ---
 ## Hälytyslista {#alarm-list}

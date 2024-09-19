@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Provádění záloh dat
 date: 2023-07-26
-categories: [Zařízení, Export dat]
-tags: [Zařízení, Export dat]
+kategorie: [Zařízení, Export dat]
+štítky: [Zařízení, Export dat]
 translationKey: device/save-data
 no_list: true
 maphilight: true

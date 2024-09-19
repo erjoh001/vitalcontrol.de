@@ -6,6 +6,6 @@ draft: false
 description: >
   Rögzítse a hőmérsékleteket, súlyokat és egészségügyi adatokat könnyedén a VitalControl eszközzel, és importálja a rögzített adatokat a *Herde* szoftverbe.
 weight: 30
-categories: [DSP Herde]
+kategóriák: [DSP Herde]
 translationKey: DSPherde
 ---

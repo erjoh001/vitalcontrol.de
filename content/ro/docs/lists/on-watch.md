@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Verifică lista ta de urmărire.
-categories: [Liste]
-tags: [Liste, pe urmărire]
+categorii: [Liste]
+etichete: [Liste, pe urmărire]
 translationKey: lists/on-watch
 ---
 ## Pe lista de urmărire {#on-watch-list}

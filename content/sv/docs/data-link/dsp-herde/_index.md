@@ -6,6 +6,6 @@ draft: false
 description: >
   Registrera temperaturer, vikter och hälsodata enkelt med VitalControl-enheten och importera de registrerade uppgifterna till *Herde*-programvaran.
 weight: 30
-categories: [DSP Herde]
+Kategorier: [DSP Herde]
 translationKey: DSPherde
 ---

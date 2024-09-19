@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Här kan du se alla djur som ännu inte har tilldelats ett nationellt djur-ID och tilldela ett nationellt djur-ID.
-categories: [Nytt på gården]
-tags: [Nytt på gården]
+Kategorier: [Nytt på gården]
+Taggar: [Nytt på gården]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Inget nationellt djur-ID tilldelat {#no-national-animal-id-assigned}

@@ -6,8 +6,8 @@ weight: 20
 description: >
   Registrera vikten på dina djur.
 date: 2023-07-26
-categories: [Åtgärder]
-tags: [Åtgärder, vikt]
+Kategorier: [Åtgärder]
+Taggar: [Åtgärder, vikt]
 translationKey: actions/weight
 ---
 

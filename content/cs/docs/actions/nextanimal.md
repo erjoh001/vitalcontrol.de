@@ -6,8 +6,8 @@ weight: 10
 description: >
  Vyberte další zvíře v položce nabídky Akce.
 date: 2023-07-26
-categories: [Akce]
-tags: [Akce]
+kategorie: [Akce]
+štítky: [Akce]
 translationKey: actions/next-animal
 draft: true
 ---

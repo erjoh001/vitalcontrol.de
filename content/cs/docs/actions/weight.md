@@ -6,8 +6,8 @@ weight: 20
 description: >
   Zaznamenejte hmotnost vašich zvířat.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, weight]
+kategorie: [Actions]
+štítky: [Actions, weight]
 translationKey: actions/weight
 ---
 

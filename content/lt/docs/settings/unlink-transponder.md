@@ -8,7 +8,7 @@ description: >
   Nurodykite, kaip bus priskirtas gyvūno ID po to, kai transponderis bus atjungtas.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+Žymos: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Atjungti transponderį {#unlink-transponder}

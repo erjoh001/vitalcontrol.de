@@ -4,7 +4,7 @@ linkTitle: "Tehdasasetusten palautus"
 date: 2017-01-03
 description: >
   Palauta oletusarvot VitalControl-laitteeseesi suorittamalla tehdasasetusten palautus.
-categories: [Reset]
+luokat: [Reset]
 translationKey: reset/factory
 ---
 ## Tehdasasetusten palauttaminen {#performing-a-factory-reset}

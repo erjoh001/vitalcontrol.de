@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   Πώς να εγγράψετε ένα νέο ζώο χρησιμοποιώντας τη συσκευή VitalControl.
-categories: [Νέο ζώο]
-tags: [Εγγραφή ζώων]
+κατηγορίες: [Νέο ζώο]
+ετικέτες: [Εγγραφή ζώων]
 translationKey: new/animal
 ---
 ## Δημιουργία νέου ζώου {#create-a-new-animal}

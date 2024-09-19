@@ -6,6 +6,6 @@ draft: false
 description: >
   Zaznamenávejte teploty, hmotnosti a zdravotní údaje snadno pomocí zařízení VitalControl a importujte zaznamenaná data do softwaru *Herde*.
 weight: 30
-categories: [DSP Herde]
+kategorie: [DSP Herde]
 translationKey: DSPherde
 ---

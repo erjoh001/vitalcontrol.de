@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Siin saate vaadata oma praeguseid oste ja eksportida andmeid.
-categories: [Uus farmis]
-tags: [Uus farmis]
+kategooriad: [Uus farmis]
+Sildid: [Uus farmis]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Ostetud loomad {#purchased-animals}

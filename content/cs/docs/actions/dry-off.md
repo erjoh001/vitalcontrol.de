@@ -6,8 +6,8 @@ weight: 115
 description: >
  Osušit krávu nebo ji přidat na seznam čerstvých krav
 date: 2023-07-26
-categories: [Osušit]
-tags: [Osušit]
+kategorie: [Osušit]
+štítky: [Osušit]
 translationKey: actions/dry-cows
 ---
 

@@ -6,8 +6,8 @@ weight: 40
 description: >
  Hinda oma salvestatud andmeid suremuse osas.
 date: 2023-07-26
-categories: [Hindamine]
-tags: [Hindamine, Suremus]
+kategooriad: [Hindamine]
+Sildid: [Hindamine, Suremus]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Vihje" %}}

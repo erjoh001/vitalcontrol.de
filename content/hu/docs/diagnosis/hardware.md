@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Ellenőrizze a VitalControl készülék hardverkomponenseit, különösen, ha hardverhibára gyanakszik.
-categories: [Diagnózis, Hardver]
+kategóriák: [Diagnózis, Hardver]
 weight: 10
 ---
 Ha a készülékén meghibásodás lép fel, először végezzen hardverellenőrzést annak tisztázására, hogy valamelyik hardverkomponens hibás-e.

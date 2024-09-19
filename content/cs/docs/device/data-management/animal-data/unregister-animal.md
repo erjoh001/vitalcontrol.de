@@ -7,7 +7,7 @@ draft: false
 description: >
  Odregistrujte zvířata z vašeho VitalControl.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+štítky: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Odregistrovat zvířata {#unregister-animals}

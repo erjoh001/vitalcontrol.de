@@ -6,8 +6,8 @@ weight: 60
 description: >
  Loomade lisamine ja eemaldamine alarmide nimekirjast.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, Alarm]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, Alarm]
 translationKey: actions/alarm
 ---
 

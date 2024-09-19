@@ -7,8 +7,8 @@ draft: false
 slug: animal-loss
 description: >
   Kaip užregistruoti gyvūno praradimą naudojant VitalControl įrenginį.
-categories: [Animal-loss]
-tags: [Animal-loss]
+kategorijos: [Animal-loss]
+Žymos: [Animal-loss]
 translationKey: new/animal-loss
 ---
 ## Užregistruoti gyvūno praradimą {#record-the-loss-of-an-animal}

@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Andmete varundamise teel luuakse varundusfail, mis sisaldab kõiki VitalControl seadmes talletatud andmeid.
-categories: [Andmete varundamine]
-tags: [varundusfail, USB mälupulk]
+kategooriad: [Andmete varundamine]
+Sildid: [varundusfail, USB mälupulk]
 translationKey: backup
 ---
 {{% usb-drive/et "Selleks, et teostada oma seadmele andmete varundamist," %}}

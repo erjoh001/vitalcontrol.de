@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Efectuați mai multe acțiuni pentru animale consecutiv
-categories: [Lanț de acțiuni]
-tags: [Lanț de acțiuni, Acțiuni]
+categorii: [Lanț de acțiuni]
+etichete: [Lanț de acțiuni, Acțiuni]
 translationKey: action-chain
 ---
 ## Lanț de acțiuni {#chain-of-actions}

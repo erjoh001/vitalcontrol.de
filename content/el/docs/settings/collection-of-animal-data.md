@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Αποθήκευση σχετικών ρυθμίσεων για τη συλλογή δεδομένων ζώων
-categories: [settings]
-tags: [settings, data acquisition]
+κατηγορίες: [settings]
+ετικέτες: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

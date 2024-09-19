@@ -6,8 +6,8 @@ weight: 110
 description: >
  Rekisteröi Eläinten menetys.
 date: 2023-07-26
-categories: [Toiminnat]
-tags: [Toiminnat, animal-loss]
+luokat: [Toiminnat]
+tagit: [Toiminnat, animal-loss]
 translationKey: actions/animal-loss
 ---
 

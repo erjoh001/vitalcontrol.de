@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Ułatw kontrolę swoich świeżych krów.
-categories: [Lists]
-tags: [Lists, fresh cow]
+kategorie: [Lists]
+tagi: [Lists, fresh cow]
 translationKey: lists/fresh-cows
 ---
 ### Lista świeżych krów {#fresh-cows-list}

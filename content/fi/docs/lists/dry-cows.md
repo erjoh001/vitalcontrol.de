@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Tarkista pohjalehmiesi lista.
-categories: [Listat]
-tags: [Listat, pohjalehmä]
+luokat: [Listat]
+tagit: [Listat, pohjalehmä]
 translationKey: lists/dry-cows
 ---
 ## Pohjalehmien lista {#dry-cows-list}

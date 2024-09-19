@@ -6,7 +6,7 @@ draft: false
 description: >
   VitalControl cihazında depolanan hayvanları *Herde* yazılımı ile yönetilen hayvanlarla senkronize edin ve VitalControl cihazı ile kaydedilen ölçüm değerlerini *Herde* yazılımına aktarın.
 weight: 20
-categories: [Veri alışverişi, DSP Herde]
+Kategoriler: [Veri alışverişi, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Aşağıdaki adımları izleyerek `Herde` yazılımı ile VitalControl cihazı arasında veri senkronizasyonu yapın:

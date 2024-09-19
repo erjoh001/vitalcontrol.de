@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Ελέγξτε τη λίστα παρακολούθησης σας.
-categories: [Λίστες]
-tags: [Λίστες, παρακολούθηση]
+κατηγορίες: [Λίστες]
+ετικέτες: [Λίστες, παρακολούθηση]
 translationKey: lists/on-watch
 ---
 ## Στη λίστα παρακολούθησης {#on-watch-list}

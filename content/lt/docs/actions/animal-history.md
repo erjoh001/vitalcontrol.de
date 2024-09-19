@@ -6,8 +6,8 @@ weight: 80
 description: >
  Peržiūrėkite gyvūno istoriją.
 date: 2023-07-26
-categories: [Veiksmai]
-tags: [Veiksmai, Gyvūnų istorija]
+kategorijos: [Veiksmai]
+Žymos: [Veiksmai, Gyvūnų istorija]
 translationKey: actions/animalshistory
 ---
 

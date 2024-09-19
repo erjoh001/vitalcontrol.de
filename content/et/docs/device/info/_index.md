@@ -7,8 +7,8 @@ slug: info
 description: >
   Vaata olulist tarkvara ja riistvara informatsiooni
 date: 2023-07-26
-categories: [Seade]
-tags: [Seade]
+kategooriad: [Seade]
+Sildid: [Seade]
 translationKey: device/info
 no_list: true
 maphilight: true

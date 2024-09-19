@@ -6,8 +6,8 @@ weight: 30
 description: >
  Oceń swoje przechowywane dane w sekcji oceny.
 date: 2023-07-26
-categories: [Ocena]
-tags: [Ocena, Ocena]
+kategorie: [Ocena]
+tagi: [Ocena, Ocena]
 translationKey: evaluation/rating
 ---
 {{% alert title="Wskazówka" %}}

@@ -6,8 +6,8 @@ weight: 10
 description: >
  Értékelje a tárolt adatokat a Súly szakaszban.
 date: 2023-07-26
-categories: [Értékelés]
-tags: [Értékelés, súly]
+kategóriák: [Értékelés]
+címkék: [Értékelés, súly]
 translationKey: evaluation/weight
 maphilight: true
 ---

@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Täältä voit tarkastella kaikkia eläimiä, joille ei ole vielä määritetty lähetintä, ja määrittää niille lähetin.
-categories: [Uusi tilalla, Kansallinen eläin-ID]
-tags: [Uusi tilalla, Kansallinen eläin-ID]
+luokat: [Uusi tilalla, Kansallinen eläin-ID]
+tagit: [Uusi tilalla, Kansallinen eläin-ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Ei Transponderia {#no-transponder-assigned}

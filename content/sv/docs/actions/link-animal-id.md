@@ -6,8 +6,8 @@ weight: 115
 description: >
  Tilldela ett nationellt djur-ID till ett djur som inte har ett nationellt djur-ID
 date: 2023-07-26
-categories: [Nationellt djur-ID]
-tags: [Nationellt djur-ID]
+Kategorier: [Nationellt djur-ID]
+Taggar: [Nationellt djur-ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Varning" color="warning" %}}

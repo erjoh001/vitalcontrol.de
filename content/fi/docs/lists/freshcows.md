@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Helpottaa tuoreiden lehmiesi hallintaa.
-categories: [Listat]
-tags: [Listat, tuore lehmä]
+luokat: [Listat]
+tagit: [Listat, tuore lehmä]
 translationKey: lists/fresh-cows
 ---
 ### Tuoreiden lehmien lista {#fresh-cows-list}

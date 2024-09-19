@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Ställ in tilldelningen av transpondern på din VitalControl-enhet.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maximal ålder, maximal ålder för inköpta kalvar, Tilldelning djur-ID]
+Kategorier: [settings]
+Taggar: [settings, Maximal ålder, maximal ålder för inköpta kalvar, Tilldelning djur-ID]
 translationKey: settings/link-transponder
 ---
 ## Ställ in maximal ålder för inköpta kalvar {#set-maximum-age-of-purchased-calves}

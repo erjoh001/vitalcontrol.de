@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Aici selectați unități pentru temperatură și masă.
-categories: [settings]
-tags: [settings, units]
+categorii: [settings]
+etichete: [settings, units]
 translationKey: settings/units
 ---
 ## Setează unitatea de temperatură {#set-temperature-unit}

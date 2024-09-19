@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Exportați fișierele de date CVS care conțin date despre animale și valori de măsurare stocate pe dispozitivul VitalControl pe un stick USB.
-categories: [Exportul datelor]
-tags: [Fișiere CSV, Stick USB]
+categorii: [Exportul datelor]
+etichete: [Fișiere CSV, Stick USB]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/en "Pentru a efectua un export al datelor dispozitivului," %}}

@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Tutaj możesz zobaczyć wszystkie zwierzęta, którym nie przypisano jeszcze krajowego identyfikatora zwierzęcia i przypisać krajowy identyfikator zwierzęcia.
-categories: [Nowe na farmie]
-tags: [Nowe na farmie]
+kategorie: [Nowe na farmie]
+tagi: [Nowe na farmie]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Brak przypisanego krajowego identyfikatora zwierzęcia {#no-national-animal-id-assigned}

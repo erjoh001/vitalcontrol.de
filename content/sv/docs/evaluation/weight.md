@@ -6,8 +6,8 @@ weight: 10
 description: >
  Utvärdera dina lagrade data i Vikt-sektionen.
 date: 2023-07-26
-categories: [Utvärdering]
-tags: [Utvärdering, vikt]
+Kategorier: [Utvärdering]
+Taggar: [Utvärdering, vikt]
 translationKey: evaluation/weight
 maphilight: true
 ---

@@ -3,7 +3,7 @@ title: "RFID szkennelés: hatótávolság teszt és transzponderek diagnosztiká
 linkTitle: RFID szkennelés
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnosztika, RFID Szkennelés]
+kategóriák: [Diagnosztika, RFID Szkennelés]
 description: >
   Ellenőrizze RFID szkennerének hatótávolságát, vagy mutassa meg az olvasási protokollt és az ismeretlen transzpondereken tárolt számokat.
 translationKey: diagnosis/rfid-scan

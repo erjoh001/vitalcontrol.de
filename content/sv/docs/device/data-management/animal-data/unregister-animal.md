@@ -7,7 +7,7 @@ draft: false
 description: >
  Avregistrera djur från din VitalControl.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+Taggar: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Avregistrera djur {#unregister-animals}

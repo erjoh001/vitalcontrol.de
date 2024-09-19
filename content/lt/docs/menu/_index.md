@@ -7,8 +7,8 @@ url: /lt/docs/menu-tree
 weight: -10
 description: >
   Rodo interaktyvų VitalControl įrenginio meniu medį.
-Categories: [Meniu]
-tags: [Pagrindinis meniu, Veiksmai]
+kategorijos: [Meniu]
+Žymos: [Pagrindinis meniu, Veiksmai]
 translationKey: menu-tree
 no_list: true
 ---

@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Patikrinkite savo sausų karvių sąrašą.
-categories: [Lists]
-tags: [Lists, dry cow]
+kategorijos: [Lists]
+Žymos: [Lists, dry cow]
 translationKey: lists/dry-cows
 ---
 ## Sausų karvių sąrašas {#dry-cows-list}

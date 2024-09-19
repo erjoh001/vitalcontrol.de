@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Testa din enhets temperaturmätning
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+Kategorier: [Device]
+Taggar: [Device]
 translationKey: device/temperature-measurement
 ---
 ## Testa temperaturmätning {#test-temperature-measurement}

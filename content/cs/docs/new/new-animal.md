@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   Jak zaregistrovat nové zvíře pomocí zařízení VitalControl.
-categories: [Nové zvíře]
-tags: [Registrace zvířat]
+kategorie: [Nové zvíře]
+štítky: [Registrace zvířat]
 translationKey: new/animal
 ---
 ## Vytvoření nového zvířete {#create-a-new-animal}

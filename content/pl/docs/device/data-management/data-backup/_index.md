@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Tworzenie kopii zapasowych danych
 date: 2023-07-26
-categories: [Urządzenie, Eksport danych]
-tags: [Urządzenie, Eksport danych]
+kategorie: [Urządzenie, Eksport danych]
+tagi: [Urządzenie, Eksport danych]
 translationKey: device/save-data
 no_list: true
 maphilight: true

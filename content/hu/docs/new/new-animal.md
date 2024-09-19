@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   Hogyan regisztráljunk egy új állatot a VitalControl eszközzel.
-categories: [Új állat]
-tags: [Állatok regisztrálása]
+kategóriák: [Új állat]
+címkék: [Állatok regisztrálása]
 translationKey: new/animal
 ---
 ## Új állat létrehozása {#create-a-new-animal}

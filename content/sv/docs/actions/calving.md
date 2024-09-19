@@ -6,8 +6,8 @@ weight: 115
 description: >
  Registrera en kalvning
 date: 2023-07-26
-categories: [Kalvning]
-tags: [Kalvning]
+Kategorier: [Kalvning]
+Taggar: [Kalvning]
 translationKey: actions/calving
 ---
 {{% alert title="Tips" %}}

@@ -6,7 +6,7 @@ draft: false
 description: >
   Sinchronizuokite gyvūnus, saugomus VitalControl įrenginyje, su gyvūnais, registruotais automatiniame šėrykloje, ir perduokite išmatuotas vertes, užregistruotas su VitalControl įrenginiu, į šėryklą vertinimo tikslais ir geresniam vizualizavimui.
 weight: 20
-categories: [Duomenų mainai, Alma Pro]
+kategorijos: [Duomenų mainai, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Atidarykite USB prievadą

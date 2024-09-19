@@ -3,7 +3,7 @@ title: "Scanare RFID: test de rază și diagnosticare a transponderelor"
 linkTitle: RFID scan
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnosis, RFID Scan]
+categorii: [Diagnosis, RFID Scan]
 description: >
   Verificați raza de acțiune a scannerului RFID sau afișați protocolul de citire și numerele stocate pe transpondere necunoscute.
 translationKey: diagnosis/rfid-scan

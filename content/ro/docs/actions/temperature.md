@@ -6,8 +6,8 @@ weight: 10
 description: >
   Măsoară febra la animalele tale.
 date: 2023-07-26
-Categories: [Acțiuni]
-tags: [Acțiuni, febră, temperatură]
+categorii: [Acțiuni]
+etichete: [Acțiuni, febră, temperatură]
 translationKey: actions/temperature
 ---
 

@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Kuinka rekisteröidä uusi poikiminen käyttäen VitalControl-laitetta.
-categories: [Calving]
-tags: [Calving]
+luokat: [Calving]
+tagit: [Calving]
 translationKey: new/calving
 ---
 ## Rekisteröi poikiminen {#register-a-calving}

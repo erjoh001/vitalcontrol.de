@@ -6,8 +6,8 @@ weight: 102
 description: >
  Transzponder hozzárendelése egy állathoz
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+kategóriák: [Transponder]
+címkék: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Figyelem" color="warning" %}}

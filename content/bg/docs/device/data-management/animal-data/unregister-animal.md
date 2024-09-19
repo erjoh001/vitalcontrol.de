@@ -7,7 +7,7 @@ draft: false
 description: >
  Отписване на животни от вашето VitalControl.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+тагове: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Отписване на животни {#unregister-animals}

@@ -5,7 +5,7 @@ date: 2017-01-03
 weight: 20
 description: >
   Restaurarea valorilor implicite pe dispozitivul dvs. VitalControl prin efectuarea unei resetări din fabrică.
-categories: [Resetare]
+categorii: [Resetare]
 translationKey: reset/factory
 ---
 ## Efectuarea unei resetări din fabrică {#performing-a-factory-reset}

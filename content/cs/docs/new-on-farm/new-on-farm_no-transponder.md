@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Zde přiřadíte transpondér novým zvířatům bez transpondéru.
-categories: [Nový na farmě, transpondér]
-tags: [Nový na farmě, transpondér]
+kategorie: [Nový na farmě, transpondér]
+štítky: [Nový na farmě, transpondér]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Nový na farmě, bez transpondéru {#new-on-farm-no-transponder}

@@ -6,8 +6,8 @@ weight: 80
 description: >
  Visa en djurs historik.
 date: 2023-07-26
-categories: [Åtgärder]
-tags: [Åtgärder, Djurhistorik]
+Kategorier: [Åtgärder]
+Taggar: [Åtgärder, Djurhistorik]
 translationKey: actions/animalshistory
 ---
 

@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Andmete varundamine, andmete eksportimine ja seadme lähtestamine
 date: 2023-07-26
-categories: [Seade, Andmete eksport]
-tags: [Seade, Andmete eksport]
+kategooriad: [Seade, Andmete eksport]
+Sildid: [Seade, Andmete eksport]
 translationKey: device/data-management
 no_list: true
 maphilight: true

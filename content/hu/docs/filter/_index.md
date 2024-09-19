@@ -5,8 +5,8 @@ weight: 50
 description: >
  Hogyan alkalmazzunk szűrőt egy állatlistán annak érdekében, hogy csak az eszközön lévő állatok egy részhalmazát jelenítsük meg.
 date: 2023-07-26
-categories: [Szűrő]
-tags: [Szűrő]
+kategóriák: [Szűrő]
+címkék: [Szűrő]
 translationKey: filter
 ---
 ## Szűrők alkalmazása {#applying-filters}

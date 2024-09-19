@@ -6,8 +6,8 @@ weight: 20
 description: >
   Rögzítse állatai súlyát.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, weight]
+kategóriák: [Actions]
+címkék: [Actions, weight]
 translationKey: actions/weight
 ---
 

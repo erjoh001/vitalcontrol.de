@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Nézze meg a riasztási listáját.
-categories: [Lists]
-tags: [Lists, alarm]
+kategóriák: [Lists]
+címkék: [Lists, alarm]
 translationKey: lists/alarm
 ---
 ## Riasztási lista {#alarm-list}

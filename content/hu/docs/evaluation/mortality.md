@@ -6,8 +6,8 @@ weight: 40
 description: >
  Értékelje a tárolt adatokat a halálozási szakaszban.
 date: 2023-07-26
-categories: [Értékelés]
-tags: [Értékelés, Halálozás]
+kategóriák: [Értékelés]
+címkék: [Értékelés, Halálozás]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Tipp" %}}

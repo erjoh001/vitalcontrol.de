@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Aici puteți vedea nașterile și crea un fișier de export.
-categories: [Nașteri]
-tags: [Nașteri]
+categorii: [Nașteri]
+etichete: [Nașteri]
 translationKey: new-on-farm/births
 ---
 ## Nașteri {#births}

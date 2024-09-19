@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Siin saate vaadata kõiki loomi, kellele ei ole veel määratud riiklikku loomanumbrit, ja määrata riikliku loomanumbri.
-categories: [Uus farmis]
-tags: [Uus farmis]
+kategooriad: [Uus farmis]
+Sildid: [Uus farmis]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Riiklikku loomanumbrit pole määratud {#no-national-animal-id-assigned}

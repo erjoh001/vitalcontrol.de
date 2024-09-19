@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Atlikite duomenų atsargines kopijas, eksportuokite savo duomenis ir atstatykite įrenginį
 date: 2023-07-26
-categories: [Įrenginys, Duomenų eksportas]
-tags: [Įrenginys, Duomenų eksportas]
+kategorijos: [Įrenginys, Duomenų eksportas]
+Žymos: [Įrenginys, Duomenų eksportas]
 translationKey: device/data-management
 no_list: true
 maphilight: true

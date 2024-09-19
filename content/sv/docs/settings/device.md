@@ -7,8 +7,8 @@ slug: device
 description: >
  Här kan du justera olika enhetsinställningar.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+Kategorier: [settings]
+Taggar: [settings, device]
 translationKey: settings/device
 ---
 ## Stäng av enheten efter {#shutdown-device-after}

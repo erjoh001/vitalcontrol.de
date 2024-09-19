@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Tutustu toimintolistaasi.
-categories: [Listat]
-tags: [Listat, Toiminta]
+luokat: [Listat]
+tagit: [Listat, Toiminta]
 translationKey: lists/action
 ---
 ## Toimintolista {#action-list}

@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Zobacz ważne informacje o swoim stadzie.
-categories: [Stado]
-tags: [Stado, Temperatura, Waga, Ocena, Dane zwierząt]
+kategorie: [Stado]
+tagi: [Stado, Temperatura, Waga, Ocena, Dane zwierząt]
 translationKey: herd
 ---
 ## Stado {#herd}

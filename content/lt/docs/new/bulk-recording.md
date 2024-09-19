@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Naudokite brūkšninių kodų skaitytuvą, kad užregistruotumėte įvairius gyvūnus.
-categories: [Masinė registracija]
-tags: [Masinė registracija]
+kategorijos: [Masinė registracija]
+Žymos: [Masinė registracija]
 translationKey: new/bulk-recording
 ---
 ## Masinė registracija {#bulk-recording}

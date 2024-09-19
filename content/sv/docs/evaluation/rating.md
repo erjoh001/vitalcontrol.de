@@ -6,8 +6,8 @@ weight: 30
 description: >
  Utvärdera dina sparade data i betygssektionen.
 date: 2023-07-26
-categories: [Utvärdering]
-tags: [Utvärdering, Betyg]
+Kategorier: [Utvärdering]
+Taggar: [Utvärdering, Betyg]
 translationKey: evaluation/rating
 ---
 {{% alert title="Tips" %}}

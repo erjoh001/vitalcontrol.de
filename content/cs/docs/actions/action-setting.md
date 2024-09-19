@@ -6,8 +6,8 @@ weight: 120
 description: >
  Nastavte položky menu pro menu Akce a nastavte řetězec akcí
 date: 2023-07-26
-categories: [Akce, Řetězec akcí]
-tags: [Akce, Řetězec akcí]
+kategorie: [Akce, Řetězec akcí]
+štítky: [Akce, Řetězec akcí]
 translationKey: actions/settings
 ---
 ## Položky menu {#menu-items}

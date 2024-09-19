@@ -6,8 +6,8 @@ weight: 80
 description: >
  Tekintse meg egy állat történetét.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Állattörténet]
+kategóriák: [Actions]
+címkék: [Actions, Állattörténet]
 translationKey: actions/animalshistory
 ---
 

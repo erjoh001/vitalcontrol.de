@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Atitinkamų nustatymų saugojimas gyvūnų duomenų rinkimui
-categories: [settings]
-tags: [settings, data acquisition]
+kategorijos: [settings]
+Žymos: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

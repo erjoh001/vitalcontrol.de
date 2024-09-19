@@ -6,8 +6,8 @@ weight: 60
 description: >
  Lisää ja poista eläimiä hälytyslistalta.
 date: 2023-07-26
-categories: [Toiminnat]
-tags: [Toiminnat, Hälytys]
+luokat: [Toiminnat]
+tagit: [Toiminnat, Hälytys]
 translationKey: actions/alarm
 ---
 

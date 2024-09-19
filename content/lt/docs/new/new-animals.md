@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Kaip sukurti kelis naujus gyvūnus VitalControl įrenginyje naudojant vieną veiksmą.
-categories: [Nauji gyvūnai]
-tags: [Nauji gyvūnai]
+kategorijos: [Nauji gyvūnai]
+Žymos: [Nauji gyvūnai]
 translationKey: new/animals
 ---
 ## Sukurti kelis naujus gyvūnus {#create-several-new-animals}

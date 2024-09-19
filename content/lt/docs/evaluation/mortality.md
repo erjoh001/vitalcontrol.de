@@ -6,8 +6,8 @@ weight: 40
 description: >
  Įvertinkite savo saugomus duomenis mirtingumo skyriuje.
 date: 2023-07-26
-categories: [Įvertinimas]
-tags: [Įvertinimas, Mirtingumas]
+kategorijos: [Įvertinimas]
+Žymos: [Įvertinimas, Mirtingumas]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Patarimas" %}}

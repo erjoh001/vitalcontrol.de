@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Ενεργοποίηση ή απενεργοποίηση του φωτός στη συσκευή σας VitalControl
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+κατηγορίες: [Device]
+ετικέτες: [Device]
 translationKey: device/flashlight
 ---
 ## Ενεργοποίηση και απενεργοποίηση φωτός {#activate-and-deactivate-light}

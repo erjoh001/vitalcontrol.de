@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Atlikite kelis gyvūnų veiksmus iš eilės
-categories: [Veiksmų grandinė]
-tags: [Veiksmų grandinė, Veiksmai]
+kategorijos: [Veiksmų grandinė]
+Žymos: [Veiksmų grandinė, Veiksmai]
 translationKey: action-chain
 ---
 ## Veiksmų grandinė {#chain-of-actions}

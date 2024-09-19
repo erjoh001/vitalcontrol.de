@@ -8,7 +8,7 @@ description: >
   Määrake, kuidas looma ID määratakse pärast transponderi eemaldamist.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+Sildid: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Eemalda transponder {#unlink-transponder}

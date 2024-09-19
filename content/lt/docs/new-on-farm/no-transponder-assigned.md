@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Čia galite peržiūrėti visus gyvūnus, kuriems dar nepriskirtas transponderis, ir priskirti jiems transponderį.
-categories: [Naujas ūkyje, Nacionalinis gyvūnų ID]
-tags: [Naujas ūkyje, Nacionalinis gyvūnų ID]
+kategorijos: [Naujas ūkyje, Nacionalinis gyvūnų ID]
+Žymos: [Naujas ūkyje, Nacionalinis gyvūnų ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Nepriskirtas transponderis {#no-transponder-assigned}

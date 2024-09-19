@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Πώς να καταχωρίσετε έναν νέο τοκετό χρησιμοποιώντας τη συσκευή VitalControl.
-categories: [Calving]
-tags: [Calving]
+κατηγορίες: [Calving]
+ετικέτες: [Calving]
 translationKey: new/calving
 ---
 ## Εγγραφή ενός τοκετού {#register-a-calving}

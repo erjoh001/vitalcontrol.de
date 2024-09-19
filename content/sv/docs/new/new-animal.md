@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   Hur man registrerar ett nytt djur med hjälp av VitalControl-enheten.
-categories: [Nytt djur]
-tags: [Registrera djur]
+Kategorier: [Nytt djur]
+Taggar: [Registrera djur]
 translationKey: new/animal
 ---
 ## Skapa ett nytt djur {#create-a-new-animal}

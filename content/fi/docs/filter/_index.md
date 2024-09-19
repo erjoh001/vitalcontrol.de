@@ -5,8 +5,8 @@ weight: 50
 description: >
  Kuinka soveltaa suodatinta eläinlistalla näyttääksesi vain osan laitteessa olevista eläimistä.
 date: 2023-07-26
-categories: [Suodatin]
-tags: [Suodatin]
+luokat: [Suodatin]
+tagit: [Suodatin]
 translationKey: filter
 ---
 ## Suodattimien käyttö {#applying-filters}

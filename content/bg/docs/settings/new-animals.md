@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Тук можете да настроите няколко фабрично зададени стандарта относно регистрацията на нови животни според изискванията на вашата ферма.
-categories: [settings]
-tags: [settings, Default values]
+категории: [settings]
+тагове: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Задаване на стандартни стойности {#set-default-values}

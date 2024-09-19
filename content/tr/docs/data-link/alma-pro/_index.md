@@ -6,6 +6,6 @@ draft: false
 description: >
   Tüm hayvanları besleyiciden VitalControl cihazına aktarın ve kaydedilen sıcaklıkları, ağırlıkları ve hayvan değerlendirmelerini besleyiciye aktarın.
 weight: 20
-categories: [Alma Pro]
+Kategoriler: [Alma Pro]
 translationKey: alma-pro
 ---

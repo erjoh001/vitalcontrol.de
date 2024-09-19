@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Az adatmentés segítségével egy biztonsági mentési fájl jön létre, amely tartalmazza a VitalControl eszközön tárolt összes adatot.
-categories: [Adatmentés]
-tags: [mentési fájl, USB flash meghajtó]
+kategóriák: [Adatmentés]
+címkék: [mentési fájl, USB flash meghajtó]
 translationKey: backup
 ---
 {{% usb-drive/hu "Az eszköz adatmentésének végrehajtásához," %}}

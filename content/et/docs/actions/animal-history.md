@@ -6,8 +6,8 @@ weight: 80
 description: >
  Vaata looma ajalugu.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, Looma ajalugu]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, Looma ajalugu]
 translationKey: actions/animalshistory
 ---
 

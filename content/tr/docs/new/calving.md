@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   VitalControl cihazını kullanarak yeni bir buzağılama nasıl kaydedilir.
-categories: [Buzağılama]
-tags: [Buzağılama]
+Kategoriler: [Buzağılama]
+Etiketler: [Buzağılama]
 translationKey: new/calving
 ---
 ## Bir buzağılama kaydet {#register-a-calving}

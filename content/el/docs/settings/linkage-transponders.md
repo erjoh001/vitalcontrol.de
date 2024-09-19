@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Ορίστε την ανάθεση του τρανσπόντερ στη συσκευή σας VitalControl.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Μέγιστη ηλικία, μέγιστη ηλικία αγορασμένων μοσχαριών, Ανάθεση αναγνωριστικού ζώου]
+κατηγορίες: [settings]
+ετικέτες: [settings, Μέγιστη ηλικία, μέγιστη ηλικία αγορασμένων μοσχαριών, Ανάθεση αναγνωριστικού ζώου]
 translationKey: settings/link-transponder
 ---
 ## Ορισμός μέγιστης ηλικίας αγορασμένων μοσχαριών {#set-maximum-age-of-purchased-calves}

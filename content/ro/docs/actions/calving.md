@@ -6,8 +6,8 @@ weight: 115
 description: >
  Înregistrare fătare
 date: 2023-07-26
-categories: [Fătare]
-tags: [Fătare]
+categorii: [Fătare]
+etichete: [Fătare]
 translationKey: actions/calving
 ---
 {{% alert title="Sugestie" %}}

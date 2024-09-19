@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Kolla in din bevakningslista.
-categories: [Listor]
-tags: [Listor, på bevakning]
+Kategorier: [Listor]
+Taggar: [Listor, på bevakning]
 translationKey: lists/on-watch
 ---
 ## På bevakningslista {#on-watch-list}

@@ -6,8 +6,8 @@ weight: 110
 description: >
  Înregistrează o pierdere de animal.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, animal-loss]
+categorii: [Actions]
+etichete: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
 

@@ -6,8 +6,8 @@ weight: 110
 description: >
  Bir hayvana bağlı olan transponder bağlantısını kaldırın
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+Kategoriler: [Transponder]
+Etiketler: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Uyarı" color="warning" %}}

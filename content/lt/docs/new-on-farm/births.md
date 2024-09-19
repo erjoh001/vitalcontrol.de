@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Čia galite peržiūrėti savo gimimus ir sukurti eksporto failą.
-categories: [Gimimai]
-tags: [Gimimai]
+kategorijos: [Gimimai]
+Žymos: [Gimimai]
 translationKey: new-on-farm/births
 ---
 ## Gimimai {#births}

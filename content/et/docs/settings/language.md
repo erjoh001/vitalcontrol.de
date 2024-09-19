@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Määra ja salvesta püsivalt oma VitalControl seadme kasutajaliidese keel.
-categories: [Seaded]
-tags: [Seaded, Keel]
+kategooriad: [Seaded]
+Sildid: [Seaded, Keel]
 translationKey: settings/language
 ---
 ## Keele seadistamine {#setting-your-language}

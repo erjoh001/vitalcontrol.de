@@ -4,7 +4,7 @@ linkTitle: "Eläintiedot"
 date: 2017-01-02
 description: >
   Opi, kuinka poistaa kaikki eläimet ja niiden tiedot VitalControl-laitteestasi.
-categories: [Reset]
+luokat: [Reset]
 ---
 ## Kaikkien eläintietojen poistaminen laitteesta {#erasing-all-animal-data-from-device}
 

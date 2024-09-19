@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Jak utworzyć wiele nowych zwierząt na urządzeniu VitalControl za pomocą jednej akcji.
-categories: [Nowe zwierzęta]
-tags: [Nowe zwierzęta]
+kategorie: [Nowe zwierzęta]
+tagi: [Nowe zwierzęta]
 translationKey: new/animals
 ---
 ## Utwórz kilka nowych zwierząt {#create-several-new-animals}

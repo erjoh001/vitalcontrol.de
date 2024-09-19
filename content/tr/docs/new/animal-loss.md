@@ -7,8 +7,8 @@ draft: false
 slug: animal-loss
 description: >
   VitalControl cihazını kullanarak bir hayvan kaybının nasıl kaydedileceği.
-categories: [Animal-loss]
-tags: [Animal-loss]
+Kategoriler: [Animal-loss]
+Etiketler: [Animal-loss]
 translationKey: new/animal-loss
 ---
 ## Bir hayvan kaybını kaydetme {#record-the-loss-of-an-animal}

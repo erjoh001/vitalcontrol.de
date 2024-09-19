@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   Kuidas registreerida uut looma kasutades VitalControl seadet.
-categories: [Uus loom]
-tags: [Loomade registreerimine]
+kategooriad: [Uus loom]
+Sildid: [Loomade registreerimine]
 translationKey: new/animal
 ---
 ## Loo uus loom {#create-a-new-animal}

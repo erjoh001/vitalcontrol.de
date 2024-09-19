@@ -5,8 +5,8 @@ weight: 50
 description: >
  Jak použít filtr na seznam zvířat, aby se zobrazila pouze podmnožina zvířat přítomných na zařízení.
 date: 2023-07-26
-categories: [Filter]
-tags: [Filter]
+kategorie: [Filter]
+štítky: [Filter]
 translationKey: filter
 ---
 ## Použití filtrů {#applying-filters}

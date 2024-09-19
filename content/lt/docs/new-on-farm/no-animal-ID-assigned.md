@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Čia galite peržiūrėti visus gyvūnus, kuriems dar nebuvo priskirtas nacionalinis gyvūno ID, ir priskirti nacionalinį gyvūno ID.
-categories: [Naujas ūkyje]
-tags: [Naujas ūkyje]
+kategorijos: [Naujas ūkyje]
+Žymos: [Naujas ūkyje]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Nėra priskirto nacionalinio gyvūno ID {#no-national-animal-id-assigned}

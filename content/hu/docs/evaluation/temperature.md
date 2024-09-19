@@ -6,8 +6,8 @@ weight: 20
 description: >
  Értékelje a tárolt adatokat a Hőmérséklet szakaszban.
 date: 2023-07-26
-categories: [Értékelés]
-tags: [Értékelés, Hőmérséklet]
+kategóriák: [Értékelés]
+címkék: [Értékelés, Hőmérséklet]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Tipp" %}}

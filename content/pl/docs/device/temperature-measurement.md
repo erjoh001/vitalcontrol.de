@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Przetestuj pomiar temperatury swojego urządzenia
 date: 2023-07-26
-categories: [Urządzenie]
-tags: [Urządzenie]
+kategorie: [Urządzenie]
+tagi: [Urządzenie]
 translationKey: device/temperature-measurement
 ---
 ## Test pomiaru temperatury {#test-temperature-measurement}

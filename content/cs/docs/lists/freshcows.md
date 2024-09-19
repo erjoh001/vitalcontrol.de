@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Usnadněte kontrolu vašich čerstvých krav.
-categories: [Seznamy]
-tags: [Seznamy, čerstvá kráva]
+kategorie: [Seznamy]
+štítky: [Seznamy, čerstvá kráva]
 translationKey: lists/fresh-cows
 ---
 ### Seznam čerstvých krav {#fresh-cows-list}

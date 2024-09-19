@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Hogyan lehet több új állatot létrehozni a VitalControl eszközön egyetlen művelettel.
-categories: [Új állatok]
-tags: [Új állatok]
+kategóriák: [Új állatok]
+címkék: [Új állatok]
 translationKey: new/animals
 ---
 ## Több új állat létrehozása {#create-several-new-animals}

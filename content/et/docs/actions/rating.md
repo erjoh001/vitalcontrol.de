@@ -6,8 +6,8 @@ weight: 30
 description: >
  Hinda oma loomi.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, Hinnang]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, Hinnang]
 translationKey: actions/animal-rating
 ---
 

@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Čia galite pritaikyti kelis gamyklinius standartus, susijusius su naujų gyvūnų registracija, pagal jūsų ūkio reikalavimus.
-categories: [settings]
-tags: [settings, Default values]
+kategorijos: [settings]
+Žymos: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Nustatyti numatytąsias vertes {#set-default-values}

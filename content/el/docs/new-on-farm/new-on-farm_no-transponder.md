@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Εδώ αναθέτετε έναν διαμετακομιστή σε νέα ζώα χωρίς διαμετακομιστή.
-categories: [Νέο στη φάρμα, διαμετακομιστής]
-tags: [Νέο στη φάρμα, διαμετακομιστής]
+κατηγορίες: [Νέο στη φάρμα, διαμετακομιστής]
+ετικέτες: [Νέο στη φάρμα, διαμετακομιστής]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Νέο στη φάρμα, χωρίς διαμετακομιστή {#new-on-farm-no-transponder}

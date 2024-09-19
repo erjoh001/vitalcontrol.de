@@ -22,10 +22,16 @@ bg:
   languageName: Български
   contentDir: content/bg
   weight: 35
+  taxonomies:
+    етикет: тагове
+    категория: категории
 cs:
   languageName: Čeština
   contentDir: content/cs
   weight: 40
+  taxonomies:
+    značka: štítky
+    kategorie: kategorie
 da:
   languageName: Dansk
   contentDir: content/da
@@ -37,10 +43,16 @@ et:
   languageName: Eesti
   contentDir: content/et
   weight: 50
+  taxonomies:
+    silt: sildid
+    kategooria: kategooriad
 el:
   languageName: Ελληνικά
   contentDir: content/el
   weight: 55
+  taxonomies:
+    ετικέτα: ετικέτες
+    κατηγορία: κατηγορίες
 es:
   languageName: Español
   contentDir: content/es
@@ -53,6 +65,9 @@ fi:
   languageName: Suomalainen
   contentDir: content/fi
   weight: 125
+  taxonomies:
+    tagi: tagit
+    luokka: luokat  
 fr:
   languageName: French
   contentDir: content/fr
@@ -68,6 +83,9 @@ hu:
   languageName: Magyar
   contentDir: content/hu
   weight: 90
+  taxonomies:
+    címke: címkék
+    kategória: kategóriák  
 it:
   languageName: Italiano
   contentDir: content/it
@@ -79,6 +97,9 @@ lt:
   languageName: Lietuviškas
   contentDir: content/lt
   weight: 94
+  taxonomies:
+    žyma: žymos
+    kategorija: kategorijos  
 lv:
   languageName: Latviešu
   contentDir: content/lv
@@ -98,6 +119,9 @@ pl:
   languageName: Polski
   contentDir: content/pl
   weight: 120
+  taxonomies:
+    znacznik: tagi
+    kategoria: kategorie
 pt:
   languageName: Português
   contentDir: content/pt
@@ -109,6 +133,9 @@ ro:
   languageName: Română
   contentDir: content/ro
   weight: 123
+  taxonomies:
+    etichetă: etichete
+    categorie: categorii  
 ru:
   languageName: Русский
   contentDir: content/ru
@@ -124,10 +151,16 @@ sv:
   languageName: Svenska
   contentDir: content/sv
   weight: 128
+  taxonomies:
+    tagg: taggar
+    kategori: kategorier
 tr:
   languageName: Türkçe
   contentDir: content/tr
   weight: 130
+  taxonomies:
+    etiket: Etiketler
+    Kategori: Kategoriler
 uk:
   languageName: Український
   contentDir: content/uk

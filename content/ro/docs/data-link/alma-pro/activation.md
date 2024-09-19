@@ -6,7 +6,7 @@ draft: false
 description: >
   Înainte de a utiliza VitalControl pentru prima dată, trebuie să-l activați o dată în setările hrănitorului Alma Pro.
 weight: 10
-categories: [Alma Pro]
+categorii: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

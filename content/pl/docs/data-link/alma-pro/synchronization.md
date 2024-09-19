@@ -6,7 +6,7 @@ draft: false
 description: >
   Synchronizuj zwierzęta przechowywane na urządzeniu VitalControl ze zwierzętami zarejestrowanymi na automatycznym karmniku i przenieś zmierzone wartości zarejestrowane za pomocą urządzenia VitalControl do karmnika w celu oceny i lepszej wizualizacji.
 weight: 20
-categories: [Wymiana danych, Alma Pro]
+kategorie: [Wymiana danych, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Otwórz port USB

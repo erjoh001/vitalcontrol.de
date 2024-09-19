@@ -6,8 +6,8 @@ weight: 100
 description: >
  Looma registrist kustutamine
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, Kustuta registrist]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, Kustuta registrist]
 translationKey: actions/unregister
 ---
 {{% alert title="Hoiatus" color="warning" %}}

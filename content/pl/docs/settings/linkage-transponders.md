@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Ustaw przypisanie transpondera na swoim urządzeniu VitalControl.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maksymalny wiek, maksymalny wiek zakupionych cieląt, Przypisanie ID zwierzęcia]
+kategorie: [settings]
+tagi: [settings, Maksymalny wiek, maksymalny wiek zakupionych cieląt, Przypisanie ID zwierzęcia]
 translationKey: settings/link-transponder
 ---
 ## Ustaw maksymalny wiek zakupionych cieląt {#set-maximum-age-of-purchased-calves}

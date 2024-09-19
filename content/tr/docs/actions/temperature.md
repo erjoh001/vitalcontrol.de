@@ -6,8 +6,8 @@ weight: 10
 description: >
   Hayvanlarınızda ateşi ölçün.
 date: 2023-07-26
-Categories: [Actions]
-tags: [Actions, fever, temperature]
+Kategoriler: [Actions]
+Etiketler: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 

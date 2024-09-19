@@ -6,7 +6,7 @@ draft: false
 description: >
   Sünkroniseerige VitalControl seadmes olevad loomad *Herde* tarkvaras hallatavate loomadega ja edastage VitalControl seadmega mõõdetud väärtused *Herde* tarkvarasse.
 weight: 20
-categories: [Andmevahetus, DSP Herde]
+kategooriad: [Andmevahetus, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Järgige alltoodud samme, et sünkroniseerida andmeid tarkvara `Herde` ja VitalControl seadme vahel:

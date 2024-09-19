@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Sprawdź listę swoich krów zasuszonych.
-categories: [Listy]
-tags: [Listy, krowa zasuszona]
+kategorie: [Listy]
+tagi: [Listy, krowa zasuszona]
 translationKey: lists/dry-cows
 ---
 ## Lista krów zasuszonych {#dry-cows-list}

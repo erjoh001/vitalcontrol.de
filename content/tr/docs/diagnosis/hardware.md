@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   VitalControl cihazınızın donanım bileşenlerini kontrol edin, özellikle bir donanım arızası şüphesi varsa.
-categories: [Teşhis, Donanım]
+Kategoriler: [Teşhis, Donanım]
 weight: 10
 ---
 Cihazınızda bir arıza varsa, öncelikle herhangi bir donanım bileşeninin arızalı olup olmadığını netleştirmek için bir donanım kontrolü yapmalısınız.

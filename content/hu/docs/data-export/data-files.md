@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Az export során létrehozott négy adatfájl szerkezetének és tartalmának leírása.
-categories: [Adat exportálás]
-tags: [export fájlok, hőmérsékletek, súlyok, értékelések]
+kategóriák: [Adat exportálás]
+címkék: [export fájlok, hőmérsékletek, súlyok, értékelések]
 slug: export-files
 translationKey: data-export/data-files
 ---

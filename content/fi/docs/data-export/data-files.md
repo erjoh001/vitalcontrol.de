@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Kuvaus neljän vientiyhteydessä luodun tietotiedoston rakenteesta ja sisällöstä.
-categories: [Tietojen vienti]
-tags: [vientitiedostot, lämpötilat, painot, arvioinnit]
+luokat: [Tietojen vienti]
+tagit: [vientitiedostot, lämpötilat, painot, arvioinnit]
 slug: export-files
 translationKey: data-export/data-files
 ---

@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Andmete varundamine
 date: 2023-07-26
-categories: [Seade, Andmete eksport]
-tags: [Seade, Andmete eksport]
+kategooriad: [Seade, Andmete eksport]
+Sildid: [Seade, Andmete eksport]
 translationKey: device/save-data
 no_list: true
 maphilight: true

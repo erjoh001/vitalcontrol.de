@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Állatadatokat és mérési értékeket tartalmazó CVS adatfájlok exportálása a VitalControl eszközről egy USB flash meghajtóra.
-categories: [Adatok exportálása]
-tags: [CSV fájlok, USB flash meghajtó]
+kategóriák: [Adatok exportálása]
+címkék: [CSV fájlok, USB flash meghajtó]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/hu "Az eszköz adatainak exportálásához," %}}

@@ -6,8 +6,8 @@ weight: 110
 description: >
  Odstranit propojení transpondéru se zvířetem
 date: 2023-07-26
-categories: [Transpondér]
-tags: [Transpondér]
+kategorie: [Transpondér]
+štítky: [Transpondér]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Varování" color="warning" %}}

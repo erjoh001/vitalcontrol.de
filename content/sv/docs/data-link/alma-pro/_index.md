@@ -6,6 +6,6 @@ draft: false
 description: >
   Importera alla djur från mataren till VitalControl-enheten och överför registrerade temperaturer, vikter och djurbetyg till mataren.
 weight: 20
-categories: [Alma Pro]
+Kategorier: [Alma Pro]
 translationKey: alma-pro
 ---

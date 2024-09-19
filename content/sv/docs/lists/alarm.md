@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Kolla in din larmlista.
-categories: [Lists]
-tags: [Lists, alarm]
+Kategorier: [Lists]
+Taggar: [Lists, alarm]
 translationKey: lists/alarm
 ---
 ## Larm lista {#alarm-list}

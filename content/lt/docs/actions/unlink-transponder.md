@@ -6,8 +6,8 @@ weight: 110
 description: >
  Pašalinti transponderio ryšį su gyvūnu
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+kategorijos: [Transponder]
+Žymos: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Įspėjimas" color="warning" %}}

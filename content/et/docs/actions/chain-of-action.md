@@ -6,8 +6,8 @@ weight: 50
 description: >
  Rakendamine ja tegevuste ahela seadistamine.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, tegevuste ahel]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, tegevuste ahel]
 manualLink: /et/docs/chain-of-actions/
 ---
 <script>

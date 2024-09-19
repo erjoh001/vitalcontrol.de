@@ -6,7 +6,7 @@ draft: false
 description: >
   Преди да използвате VitalControl за първи път, трябва да го активирате веднъж в настройките на хранилката Alma Pro.
 weight: 10
-categories: [Alma Pro]
+категории: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

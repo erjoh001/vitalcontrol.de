@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Wykonaj kolejne działania na zwierzętach
-categories: [Łańcuch działań]
-tags: [Łańcuch działań, Działania]
+kategorie: [Łańcuch działań]
+tagi: [Łańcuch działań, Działania]
 translationKey: action-chain
 ---
 ## Łańcuch działań {#chain-of-actions}

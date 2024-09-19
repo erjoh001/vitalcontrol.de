@@ -7,8 +7,8 @@ weight: 120
 description: >
  Yenidoğan bakımının önemli yönlerini kaydedin.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, newborn care]
+Kategoriler: [Actions]
+Etiketler: [Actions, newborn care]
 translationKey: actions/newborn-care
 ---
 

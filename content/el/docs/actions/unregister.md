@@ -6,8 +6,8 @@ weight: 100
 description: >
  Κατάργηση εγγραφής ζώου
 date: 2023-07-26
-categories: [Ενέργειες]
-tags: [Ενέργειες, Κατάργηση εγγραφής]
+κατηγορίες: [Ενέργειες]
+ετικέτες: [Ενέργειες, Κατάργηση εγγραφής]
 translationKey: actions/unregister
 ---
 {{% alert title="Προειδοποίηση" color="warning" %}}

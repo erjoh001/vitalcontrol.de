@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   VitalControl cihazının tüm ayarlarını nasıl sıfırlayacağınızı öğrenin.
-categories: [Reset]
+Kategoriler: [Reset]
 ---
 ## Tüm cihaz verilerinin sıfırlanması {#resetting-all-device-data}
 

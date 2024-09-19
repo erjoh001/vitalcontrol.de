@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Hogyan regisztráljunk egy új ellést a VitalControl eszközzel.
-categories: [Ellés]
-tags: [Ellés]
+kategóriák: [Ellés]
+címkék: [Ellés]
 translationKey: new/calving
 ---
 ## Ellés regisztrálása {#register-a-calving}

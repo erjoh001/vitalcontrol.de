@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Visa viktig information relaterad till enskilda djur.
-Categories: [Djur]
-tags: [Djur, Temperatur, Höjd, Djurdatan]
+Kategorier: [Djur]
+Taggar: [Djur, Temperatur, Höjd, Djurdatan]
 translationKey: animal/animal
 ---
 ## Djur {#animal}

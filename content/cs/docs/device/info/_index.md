@@ -7,8 +7,8 @@ slug: info
 description: >
   Zobrazte důležité informace o softwaru a hardwaru
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategorie: [Device]
+štítky: [Device]
 translationKey: device/info
 no_list: true
 maphilight: true

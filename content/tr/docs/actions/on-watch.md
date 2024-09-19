@@ -6,8 +6,8 @@ weight: 70
 description: >
  Hayvanları izleme listesine ekleyin veya çıkarın.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, on watch]
+Kategoriler: [Actions]
+Etiketler: [Actions, on watch]
 translationKey: actions/on-watch
 ---
 

@@ -6,8 +6,8 @@ weight: 20
 description: >
  Sıcaklık bölümünde depolanan verilerinizi değerlendirin.
 date: 2023-07-26
-categories: [Değerlendirme]
-tags: [Değerlendirme, Sıcaklık]
+Kategoriler: [Değerlendirme]
+Etiketler: [Değerlendirme, Sıcaklık]
 translationKey: evaluation/temperature
 ---
 {{% alert title="İpucu" %}}

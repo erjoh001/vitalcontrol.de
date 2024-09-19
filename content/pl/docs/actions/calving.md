@@ -6,8 +6,8 @@ weight: 115
 description: >
  Zarejestruj wycielenie
 date: 2023-07-26
-categories: [Wycielenie]
-tags: [Wycielenie]
+kategorie: [Wycielenie]
+tagi: [Wycielenie]
 translationKey: actions/calving
 ---
 {{% alert title="Wskazówka" %}}

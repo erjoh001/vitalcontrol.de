@@ -6,8 +6,8 @@ weight: 40
 description: >
  Evaluează datele stocate în secțiunea de mortalitate.
 date: 2023-07-26
-categories: [Evaluation]
-tags: [Evaluation, Mortality]
+categorii: [Evaluation]
+etichete: [Evaluation, Mortality]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Hint" %}}

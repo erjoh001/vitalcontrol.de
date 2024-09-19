@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Kytke VitalControl-laitteesi valo päälle tai pois
 date: 2023-07-26
-categories: [Laite]
-tags: [Laite]
+luokat: [Laite]
+tagit: [Laite]
 translationKey: device/flashlight
 ---
 ## Valon aktivointi ja deaktivointi {#activate-and-deactivate-light}

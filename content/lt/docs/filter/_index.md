@@ -5,8 +5,8 @@ weight: 50
 description: >
  Kaip taikyti filtrą gyvūnų sąraše, kad būtų rodomas tik dalis įrenginyje esančių gyvūnų.
 date: 2023-07-26
-categories: [Filtras]
-tags: [Filtras]
+kategorijos: [Filtras]
+Žymos: [Filtras]
 translationKey: filter
 ---
 ## Filtrų taikymas {#applying-filters}

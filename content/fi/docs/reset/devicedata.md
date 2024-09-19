@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Opi, kuinka nollata kaikki VitalControl-laitteen asetukset.
-categories: [Nollaus]
+luokat: [Nollaus]
 ---
 ## Kaikkien laitteen tietojen nollaus {#resetting-all-device-data}
 

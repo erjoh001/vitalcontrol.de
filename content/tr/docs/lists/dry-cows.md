@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Kuru inekler listenizi kontrol edin.
-categories: [Listeler]
-tags: [Listeler, kuru inek]
+Kategoriler: [Listeler]
+Etiketler: [Listeler, kuru inek]
 translationKey: lists/dry-cows
 ---
 ## Kuru inekler listesi {#dry-cows-list}

@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Suorita tietojen varmuuskopiot
 date: 2023-07-26
-categories: [Laite, Tiedon vienti]
-tags: [Laite, Tiedon vienti]
+luokat: [Laite, Tiedon vienti]
+tagit: [Laite, Tiedon vienti]
 translationKey: device/save-data
 no_list: true
 maphilight: true

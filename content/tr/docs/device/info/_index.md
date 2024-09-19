@@ -7,8 +7,8 @@ slug: info
 description: >
   Önemli yazılım ve donanım bilgilerini görüntüleyin
 date: 2023-07-26
-categories: [Cihaz]
-tags: [Cihaz]
+Kategoriler: [Cihaz]
+Etiketler: [Cihaz]
 translationKey: device/info
 no_list: true
 maphilight: true

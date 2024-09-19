@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Εδώ μπορείτε να δείτε τις τρέχουσες αγορές σας και να εξάγετε τα δεδομένα.
-categories: [Νέο στη φάρμα]
-tags: [Νέο στη φάρμα]
+κατηγορίες: [Νέο στη φάρμα]
+ετικέτες: [Νέο στη φάρμα]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Αγορασμένα ζώα {#purchased-animals}

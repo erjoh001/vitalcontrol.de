@@ -6,8 +6,8 @@ weight: 10
 description: >
  Επιλέξτε το επόμενο ζώο από το στοιχείο μενού Δράσεις.
 date: 2023-07-26
-categories: [Δράσεις]
-tags: [Δράσεις]
+κατηγορίες: [Δράσεις]
+ετικέτες: [Δράσεις]
 translationKey: actions/next-animal
 draft: true
 ---

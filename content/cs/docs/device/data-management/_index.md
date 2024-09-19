@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Zálohování dat, export dat a reset zařízení
 date: 2023-07-26
-categories: [Zařízení, Export dat]
-tags: [Zařízení, Export dat]
+kategorie: [Zařízení, Export dat]
+štítky: [Zařízení, Export dat]
 translationKey: device/data-management
 no_list: true
 maphilight: true

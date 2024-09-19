@@ -6,7 +6,7 @@ draft: false
 description: >
   Szinkronizálja a VitalControl eszközön tárolt állatokat az automata etetőn regisztrált állatokkal, és továbbítsa a VitalControl eszközzel rögzített mért értékeket az etetőhöz értékelési célokra és jobb megjelenítés érdekében.
 weight: 20
-categories: [Adatcsere, Alma Pro]
+kategóriák: [Adatcsere, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Nyissa meg az USB portot

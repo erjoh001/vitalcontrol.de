@@ -6,8 +6,8 @@ weight: 115
 description: >
  Torka av en ko eller lägg till henne i listan över nykalvade kor
 date: 2023-07-26
-categories: [Torka av]
-tags: [Torka av]
+Kategorier: [Torka av]
+Taggar: [Torka av]
 translationKey: actions/dry-cows
 ---
 

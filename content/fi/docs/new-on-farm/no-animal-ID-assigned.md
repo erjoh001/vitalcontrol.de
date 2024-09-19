@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Täällä voit tarkastella kaikkia eläimiä, joille ei ole vielä määritetty kansallista eläinnumeroa, ja määrittää kansallisen eläinnumeron.
-categories: [Uusi tilalla]
-tags: [Uusi tilalla]
+luokat: [Uusi tilalla]
+tagit: [Uusi tilalla]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Ei eläintunnusta {#no-national-animal-id-assigned}

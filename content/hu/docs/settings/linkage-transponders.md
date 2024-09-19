@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Állítsa be a transzponder hozzárendelését a VitalControl készülékén.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
+kategóriák: [settings]
+címkék: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
 translationKey: settings/link-transponder
 ---
 ## Vásárolt borjak maximális életkorának beállítása {#set-maximum-age-of-purchased-calves}

@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Aici puteți vizualiza toate animalele cărora nu li s-a atribuit încă un ID național de animal și puteți atribui un ID național de animal.
-categories: [Nou pe fermă]
-tags: [Nou pe fermă]
+categorii: [Nou pe fermă]
+etichete: [Nou pe fermă]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Niciun ID național de animal atribuit {#no-national-animal-id-assigned}

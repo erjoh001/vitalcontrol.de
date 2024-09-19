@@ -7,8 +7,8 @@ slug: animal-data
 description: >
  Vie eläintietosi
 date: 2023-07-26
-categories: [Laite, Tietojen vienti]
-tags: [Laite, Tietojen vienti]
+luokat: [Laite, Tietojen vienti]
+tagit: [Laite, Tietojen vienti]
 translationKey: device/animal-data
 no_list: true
 maphilight: true

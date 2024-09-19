@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Vie CVS-tiedostoja, jotka sisältävät eläintietoja ja mittausarvoja VitalControl-laitteesta USB-muistitikulle.
-categories: [Tietojen vienti]
-tags: [CSV-tiedostot, USB-muistitikku]
+luokat: [Tietojen vienti]
+tagit: [CSV-tiedostot, USB-muistitikku]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/fi "Jotta voit viedä laitteesi tiedot," %}}

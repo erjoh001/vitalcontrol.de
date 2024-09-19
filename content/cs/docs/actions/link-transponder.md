@@ -6,8 +6,8 @@ weight: 102
 description: >
  Přiřaďte transponder zvířeti
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+kategorie: [Transponder]
+štítky: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Varování" color="warning" %}}

@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Použijte čtečku čárových kódů k zaznamenání různých zvířat.
-categories: [Hromadný záznam]
-tags: [Hromadný záznam]
+kategorie: [Hromadný záznam]
+štítky: [Hromadný záznam]
 translationKey: new/bulk-recording
 ---
 ## Hromadný záznam {#bulk-recording}

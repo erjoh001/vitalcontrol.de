@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Fontos információk megtekintése a nyájáról.
-categories: [Nyáj]
-tags: [Nyáj, Hőmérséklet, Súly, Értékelés, Állat adatok]
+kategóriák: [Nyáj]
+címkék: [Nyáj, Hőmérséklet, Súly, Értékelés, Állat adatok]
 translationKey: herd
 ---
 ## Nyáj {#herd}

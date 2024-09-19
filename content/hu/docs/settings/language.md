@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Állítsa be és tárolja véglegesen a felhasználói felület nyelvét a VitalControl készülékén.
-categories: [Beállítások]
-tags: [Beállítások, Nyelv]
+kategóriák: [Beállítások]
+címkék: [Beállítások, Nyelv]
 translationKey: settings/language
 ---
 ## Nyelv beállítása {#setting-your-language}

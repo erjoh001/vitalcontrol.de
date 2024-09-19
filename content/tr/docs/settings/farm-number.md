@@ -3,8 +3,8 @@ title: Çiftlik numarası
 linkTitle: Çiftlik numarası
 date: 2023-07-26
 weight: 80
-categories: [Ayarlar]
-tags: [Ayarlar, Çiftlik numarası]
+Kategoriler: [Ayarlar]
+Etiketler: [Ayarlar, Çiftlik numarası]
 description: >
   Resmi on iki haneli ulusal çiftlik kimliğinizi VitalControl cihazında kalıcı olarak saklayın.
 translationKey: settings/farm-number

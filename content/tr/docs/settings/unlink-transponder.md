@@ -8,7 +8,7 @@ description: >
   Transponder çıkarıldıktan sonra hayvan kimliğinin nasıl atanacağını belirtin.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+Etiketler: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Transponder Bağlantısını Kes {#unlink-transponder}

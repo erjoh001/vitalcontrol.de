@@ -5,7 +5,7 @@ date: 2017-01-02
 weight: 30
 description: >
   Dowiedz się, jak usunąć wszystkie zwierzęta i ich dane z urządzenia VitalControl.
-categories: [Reset]
+kategorie: [Reset]
 ---
 ## Usuwanie wszystkich danych o zwierzętach z urządzenia {#erasing-all-animal-data-from-device}
 

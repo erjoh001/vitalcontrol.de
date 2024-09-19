@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Nastavte a trvale uložte jazyk uživatelského rozhraní na vašem zařízení VitalControl.
-categories: [Nastavení]
-tags: [Nastavení, Jazyk]
+kategorie: [Nastavení]
+štítky: [Nastavení, Jazyk]
 translationKey: settings/language
 ---
 ## Nastavení jazyka {#setting-your-language}

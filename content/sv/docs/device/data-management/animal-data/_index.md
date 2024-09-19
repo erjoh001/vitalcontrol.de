@@ -7,8 +7,8 @@ slug: animal-data
 description: >
  Exportera din djurdata
 date: 2023-07-26
-categories: [Enhet, Dataexport]
-tags: [Enhet, Dataexport]
+Kategorier: [Enhet, Dataexport]
+Taggar: [Enhet, Dataexport]
 translationKey: device/animal-data
 no_list: true
 maphilight: true

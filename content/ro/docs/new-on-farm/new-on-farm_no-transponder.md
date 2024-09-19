@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Aici atribuiți un transponder animalelor noi fără transponder.
-categories: [Nou în fermă, transponder]
-tags: [Nou în fermă, transponder]
+categorii: [Nou în fermă, transponder]
+etichete: [Nou în fermă, transponder]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Nou în fermă, fără transponder {#new-on-farm-no-transponder}

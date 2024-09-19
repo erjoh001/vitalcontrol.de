@@ -6,6 +6,6 @@ draft: false
 description: >
   Lengvai įrašykite temperatūras, svorius ir sveikatos duomenis su VitalControl įrenginiu ir importuokite įrašytus duomenis į *Herde* programinę įrangą.
 weight: 30
-categories: [DSP Herde]
+kategorijos: [DSP Herde]
 translationKey: DSPherde
 ---

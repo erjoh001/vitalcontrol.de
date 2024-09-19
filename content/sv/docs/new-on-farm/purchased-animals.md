@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Här kan du se dina aktuella inköp och exportera data.
-categories: [Nytt på gården]
-tags: [Nytt på gården]
+Kategorier: [Nytt på gården]
+Taggar: [Nytt på gården]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Inköpta djur {#purchased-animals}

@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Zkontrolujte hardwarové komponenty vašeho zařízení VitalControl, zejména pokud máte podezření na hardwarovou závadu.
-categories: [Diagnostika, Hardware]
+kategorie: [Diagnostika, Hardware]
 weight: 10
 ---
 Pokud dojde k poruše vašeho zařízení, měli byste nejprve provést kontrolu hardwaru, abyste zjistili, zda není některá z hardwarových komponent vadná.

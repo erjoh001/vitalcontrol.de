@@ -5,7 +5,7 @@ date: 2017-01-02
 weight: 30
 description: >
   VitalControl cihazınızdan tüm hayvanları ve verilerini nasıl sileceğinizi öğrenin.
-categories: [Reset]
+Kategoriler: [Reset]
 ---
 ## Cihazdan tüm hayvan verilerini silme {#erasing-all-animal-data-from-device}
 

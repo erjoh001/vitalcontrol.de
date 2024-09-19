@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Εκτέλεση πολλαπλών ενεργειών σε ζώα διαδοχικά
-categories: [Αλυσίδα ενεργειών]
-tags: [Αλυσίδα ενεργειών, Ενέργειες]
+κατηγορίες: [Αλυσίδα ενεργειών]
+ετικέτες: [Αλυσίδα ενεργειών, Ενέργειες]
 translationKey: action-chain
 ---
 ## Αλυσίδα ενεργειών {#chain-of-actions}

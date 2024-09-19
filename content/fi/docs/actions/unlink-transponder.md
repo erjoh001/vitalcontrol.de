@@ -6,8 +6,8 @@ weight: 110
 description: >
  Poista transponderin linkki eläimeen
 date: 2023-07-26
-categories: [Transponderi]
-tags: [Transponderi]
+luokat: [Transponderi]
+tagit: [Transponderi]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Varoitus" color="warning" %}}

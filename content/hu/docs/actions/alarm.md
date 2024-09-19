@@ -6,8 +6,8 @@ weight: 60
 description: >
  Állatok hozzáadása és eltávolítása a riasztási listáról.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Alarm]
+kategóriák: [Actions]
+címkék: [Actions, Alarm]
 translationKey: actions/alarm
 ---
 

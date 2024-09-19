@@ -7,8 +7,8 @@ slug: device
 description: >
  Burada çeşitli cihaz ayarlarını yapabilirsiniz.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+Kategoriler: [settings]
+Etiketler: [settings, device]
 translationKey: settings/device
 ---
 ## Cihazı kapatma süresi {#shutdown-device-after}

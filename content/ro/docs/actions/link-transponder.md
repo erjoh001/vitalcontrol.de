@@ -6,8 +6,8 @@ weight: 102
 description: >
  Asignează un transponder unui animal
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+categorii: [Transponder]
+etichete: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Warning" color="warning" %}}

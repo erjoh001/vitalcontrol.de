@@ -6,8 +6,8 @@ weight: 20
 description: >
   Înregistrează greutatea animalelor tale.
 date: 2023-07-26
-categories: [Acțiuni]
-tags: [Acțiuni, greutate]
+categorii: [Acțiuni]
+etichete: [Acțiuni, greutate]
 translationKey: actions/weight
 ---
 

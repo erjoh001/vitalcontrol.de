@@ -7,8 +7,8 @@ slug: service
 description: >
   Sprawdź sterowniki urządzeń, zaktualizuj oprogramowanie układowe i przeprowadź test zasięgu
 date: 2223-27-26
-categories: [Urządzenie]
-tags: [Urządzenie]
+kategorie: [Urządzenie]
+tagi: [Urządzenie]
 translationKey: device/service
 no_list: true
 maphilight: true

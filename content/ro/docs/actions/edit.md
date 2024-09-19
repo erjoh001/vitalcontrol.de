@@ -6,8 +6,8 @@ weight: 90
 description: >
  Editare date ale animalului selectat.
 date: 2023-07-26
-categories: [Acțiuni]
-tags: [Acțiuni, date animal, editare]
+categorii: [Acțiuni]
+etichete: [Acțiuni, date animal, editare]
 translationKey: actions/edit
 ---
 

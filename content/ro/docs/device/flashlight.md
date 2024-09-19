@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Porniți sau opriți lumina pe dispozitivul dvs. VitalControl
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+categorii: [Device]
+etichete: [Device]
 translationKey: device/flashlight
 ---
 ## Activați și dezactivați lumina {#activate-and-deactivate-light}

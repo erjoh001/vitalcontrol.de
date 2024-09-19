@@ -7,8 +7,8 @@ slug: animal-data
 description: >
  Εξαγωγή των δεδομένων των ζώων σας
 date: 2023-07-26
-categories: [Συσκευή, Εξαγωγή Δεδομένων]
-tags: [Συσκευή, Εξαγωγή Δεδομένων]
+κατηγορίες: [Συσκευή, Εξαγωγή Δεδομένων]
+ετικέτες: [Συσκευή, Εξαγωγή Δεδομένων]
 translationKey: device/animal-data
 no_list: true
 maphilight: true

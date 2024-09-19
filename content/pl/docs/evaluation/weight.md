@@ -6,8 +6,8 @@ weight: 10
 description: >
  Oceń swoje przechowywane dane w sekcji Waga.
 date: 2023-07-26
-categories: [Ocena]
-tags: [Ocena, waga]
+kategorie: [Ocena]
+tagi: [Ocena, waga]
 translationKey: evaluation/weight
 maphilight: true
 ---

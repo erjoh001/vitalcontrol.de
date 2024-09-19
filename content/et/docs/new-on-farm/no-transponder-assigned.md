@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Siin saate vaadata kõiki loomi, kellele ei ole veel määratud transponderit, ja määrata neile transponder.
-categories: [Uus farmis, Riiklik looma ID]
-tags: [Uus farmis, Riiklik looma ID]
+kategooriad: [Uus farmis, Riiklik looma ID]
+Sildid: [Uus farmis, Riiklik looma ID]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Transponder määramata {#no-transponder-assigned}

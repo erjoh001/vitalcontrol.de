@@ -6,8 +6,8 @@ weight: 40
 description: >
  Arvioi tallennettuja tietojasi kuolleisuusosiossa.
 date: 2023-07-26
-categories: [Arviointi]
-tags: [Arviointi, Kuolleisuus]
+luokat: [Arviointi]
+tagit: [Arviointi, Kuolleisuus]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Vihje" %}}

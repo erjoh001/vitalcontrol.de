@@ -7,8 +7,8 @@ url: /cs/docs/menu-tree
 weight: -10
 description: >
   Zobrazuje interaktivní strom menu zařízení VitalControl.
-Categories: [Menu]
-tags: [Hlavní menu, Akce]
+kategorie: [Menu]
+štítky: [Hlavní menu, Akce]
 translationKey: menu-tree
 no_list: true
 ---

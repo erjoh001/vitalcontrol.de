@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Beskrivning av strukturen och innehållet i de fyra datafilerna som skapas under exporten.
-categories: [Dataexport]
-tags: [exportfiler, temperaturer, vikter, betyg]
+Kategorier: [Dataexport]
+Taggar: [exportfiler, temperaturer, vikter, betyg]
 slug: export-files
 translationKey: data-export/data-files
 ---

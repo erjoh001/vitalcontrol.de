@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Setează atribuirea transponderului pe dispozitivul tău VitalControl.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
+categorii: [settings]
+etichete: [settings, Maximum age, maximum age of purchased calves, Assignment animal ID]
 translationKey: settings/link-transponder
 ---
 ## Setează vârsta maximă a vițeilor achiziționați {#set-maximum-age-of-purchased-calves}

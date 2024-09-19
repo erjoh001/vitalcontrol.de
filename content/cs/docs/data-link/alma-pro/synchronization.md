@@ -6,7 +6,7 @@ draft: false
 description: >
   Synchronizujte zvířata uložená na zařízení VitalControl se zvířaty registrovanými na automatickém krmítku a přeneste naměřené hodnoty zaznamenané zařízením VitalControl do krmítka pro účely vyhodnocení a lepší vizualizace.
 weight: 20
-categories: [Výměna dat, Alma Pro]
+kategorie: [Výměna dat, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Otevřete USB port

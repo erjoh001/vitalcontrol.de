@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Näytä tärkeää tietoa yksittäisistä eläimistä.
-Categories: [Eläin]
-tags: [Eläin, Lämpötila, Korkeus, Eläintiedot]
+luokat: [Eläin]
+tagit: [Eläin, Lämpötila, Korkeus, Eläintiedot]
 translationKey: animal/animal
 ---
 ## Eläin {#animal}

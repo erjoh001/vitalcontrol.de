@@ -6,8 +6,8 @@ weight: 70
 description: >
  Állatok megfigyelési listára helyezése vagy eltávolítása.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, on watch]
+kategóriák: [Actions]
+címkék: [Actions, on watch]
 translationKey: actions/on-watch
 ---
 

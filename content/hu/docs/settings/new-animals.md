@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Itt állíthatja be az új állatok regisztrációjára vonatkozó gyári alapbeállításokat a farmja igényeihez.
-categories: [settings]
-tags: [settings, Default values]
+kategóriák: [settings]
+címkék: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Alapértelmezett értékek beállítása {#set-default-values}

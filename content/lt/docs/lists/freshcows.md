@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Palengvinkite savo šviežių karvių kontrolę.
-categories: [Sąrašai]
-tags: [Sąrašai, šviežia karvė]
+kategorijos: [Sąrašai]
+Žymos: [Sąrašai, šviežia karvė]
 translationKey: lists/fresh-cows
 ---
 ### Šviežių karvių sąrašas {#fresh-cows-list}

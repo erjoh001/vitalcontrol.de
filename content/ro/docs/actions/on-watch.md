@@ -6,8 +6,8 @@ weight: 70
 description: >
  Puneți animalele pe lista de supraveghere sau eliminați-le.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, on watch]
+categorii: [Actions]
+etichete: [Actions, on watch]
 translationKey: actions/on-watch
 ---
 

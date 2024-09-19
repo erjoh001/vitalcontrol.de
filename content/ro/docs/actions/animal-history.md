@@ -6,8 +6,8 @@ weight: 80
 description: >
  Vizualizați istoricul unui animal.
 date: 2023-07-26
-categories: [Acțiuni]
-tags: [Acțiuni, Istoricul animalului]
+categorii: [Acțiuni]
+etichete: [Acțiuni, Istoricul animalului]
 translationKey: actions/animalshistory
 ---
 

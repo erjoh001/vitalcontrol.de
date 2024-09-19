@@ -6,8 +6,8 @@ weight: 40
 description: >
  Ölüm oranı bölümünde saklanan verilerinizi değerlendirin.
 date: 2023-07-26
-categories: [Değerlendirme]
-tags: [Değerlendirme, Ölüm Oranı]
+Kategoriler: [Değerlendirme]
+Etiketler: [Değerlendirme, Ölüm Oranı]
 translationKey: evaluation/mortality
 ---
 {{% alert title="İpucu" %}}

@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Använd streckkodsläsaren för att registrera en mängd djur.
-categories: [Massregistrering]
-tags: [Massregistrering]
+Kategorier: [Massregistrering]
+Taggar: [Massregistrering]
 translationKey: new/bulk-recording
 ---
 ## Massregistrering {#bulk-recording}

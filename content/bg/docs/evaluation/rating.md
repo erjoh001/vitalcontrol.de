@@ -6,8 +6,8 @@ weight: 30
 description: >
  Оценете вашите съхранени данни в секцията за рейтинг.
 date: 2023-07-26
-categories: [Оценка]
-tags: [Оценка, Рейтинг]
+категории: [Оценка]
+тагове: [Оценка, Рейтинг]
 translationKey: evaluation/rating
 ---
 {{% alert title="Съвет" %}}

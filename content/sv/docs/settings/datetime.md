@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Här ställer du in datum och tid.
-categories: [Inställningar]
-tags: [Inställningar, Datum & Tid]
+Kategorier: [Inställningar]
+Taggar: [Inställningar, Datum & Tid]
 translationKey: settings/datetime
 ---
 ## För att ställa in datumet {#to-set-the-date}

@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Kontrollige oma VitalControl seadme riistvarakomponente, eriti kui kahtlustate riistvaraviga.
-categories: [Diagnoos, Riistvara]
+kategooriad: [Diagnoos, Riistvara]
 weight: 10
 ---
 Kui teie seadmel esineb rike, peaksite esmalt tegema riistvarakontrolli, et selgitada, kas mõni riistvarakomponent on defektne.

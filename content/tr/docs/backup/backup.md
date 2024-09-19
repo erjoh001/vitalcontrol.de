@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Bir veri yedeklemesi yoluyla, VitalControl cihazında depolanan tüm verileri içeren bir yedekleme dosyası oluşturulur.
-categories: [Veri yedekleme]
-tags: [yedekleme dosyası, USB flash sürücü]
+Kategoriler: [Veri yedekleme]
+Etiketler: [yedekleme dosyası, USB flash sürücü]
 translationKey: backup
 ---
 {{% usb-drive/en "Cihazınız için veri yedeklemesi yapmak üzere," %}}

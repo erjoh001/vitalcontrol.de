@@ -6,8 +6,8 @@ weight: 10
 description: >
  Αξιολογήστε τα αποθηκευμένα σας δεδομένα στην ενότητα Βάρος.
 date: 2023-07-26
-categories: [Αξιολόγηση]
-tags: [Αξιολόγηση, βάρος]
+κατηγορίες: [Αξιολόγηση]
+ετικέτες: [Αξιολόγηση, βάρος]
 translationKey: evaluation/weight
 maphilight: true
 ---

@@ -6,8 +6,8 @@ weight: 30
 description: >
  Įvertinkite savo saugomus duomenis reitingo skyriuje.
 date: 2023-07-26
-categories: [Įvertinimas]
-tags: [Įvertinimas, Reitingas]
+kategorijos: [Įvertinimas]
+Žymos: [Įvertinimas, Reitingas]
 translationKey: evaluation/rating
 ---
 {{% alert title="Patarimas" %}}

@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Itt megtekintheti az összes olyan állatot, amelyhez még nem rendeltek transzpondert, és hozzárendelhet egy transzpondert.
-categories: [Új a farmon, Nemzeti állatazonosító]
-tags: [Új a farmon, Nemzeti állatazonosító]
+kategóriák: [Új a farmon, Nemzeti állatazonosító]
+címkék: [Új a farmon, Nemzeti állatazonosító]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Nincs transzponder hozzárendelve {#no-transponder-assigned}

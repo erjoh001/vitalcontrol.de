@@ -6,8 +6,8 @@ weight: 10
 description: >
  Selectați următorul animal din meniul Acțiuni.
 date: 2023-07-26
-categories: [Acțiuni]
-tags: [Acțiuni]
+categorii: [Acțiuni]
+etichete: [Acțiuni]
 translationKey: actions/next-animal
 draft: true
 ---

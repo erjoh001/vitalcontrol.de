@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Utför flera djuråtgärder efter varandra
-categories: [Kedja av åtgärder]
-tags: [Kedja av åtgärder, Åtgärder]
+Kategorier: [Kedja av åtgärder]
+Taggar: [Kedja av åtgärder, Åtgärder]
 translationKey: action-chain
 ---
 ## Kedja av åtgärder {#chain-of-actions}

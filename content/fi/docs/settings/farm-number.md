@@ -4,8 +4,8 @@ linkTitle: Maatilan numero
 date: 2023-07-26
 weight: 80
 slug: farm-number
-categories: [Asetukset]
-tags: [Asetukset, Maatilan numero]
+luokat: [Asetukset]
+tagit: [Asetukset, Maatilan numero]
 description: >
   Tallenna virallinen kaksitoistamerkkinen kansallinen maatilatunnus pysyvästi VitalControl-laitteeseesi.
 translationKey: settings/farm-number

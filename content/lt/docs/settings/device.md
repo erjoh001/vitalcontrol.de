@@ -7,8 +7,8 @@ slug: device
 description: >
  Čia galite sureguliuoti įvairius įrenginio nustatymus.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+kategorijos: [settings]
+Žymos: [settings, device]
 translationKey: settings/device
 ---
 ## Išjungti įrenginį po {#shutdown-device-after}

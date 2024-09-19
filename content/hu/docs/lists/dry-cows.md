@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Nézze meg a száraz tehenek listáját.
-categories: [Lists]
-tags: [Lists, dry cow]
+kategóriák: [Lists]
+címkék: [Lists, dry cow]
 translationKey: lists/dry-cows
 ---
 ## Száraz tehenek listája {#dry-cows-list}

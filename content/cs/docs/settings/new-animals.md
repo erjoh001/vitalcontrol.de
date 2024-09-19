@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Zde můžete přizpůsobit několik továrně nastavených standardů týkajících se registrace nových zvířat požadavkům vaší farmy.
-categories: [settings]
-tags: [settings, Default values]
+kategorie: [settings]
+štítky: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Nastavení výchozích hodnot {#set-default-values}

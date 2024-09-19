@@ -5,7 +5,7 @@ date: 2017-01-02
 weight: 30
 description: >
   Lär dig hur du raderar alla djur och deras data från din VitalControl-enhet.
-categories: [Återställ]
+Kategorier: [Återställ]
 ---
 ## Radera all djurdata från enheten {#erasing-all-animal-data-from-device}
 

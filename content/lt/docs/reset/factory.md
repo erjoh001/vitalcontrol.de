@@ -5,7 +5,7 @@ date: 2017-01-03
 weight: 20
 description: >
   Atkurti numatytąsias vertes jūsų VitalControl įrenginyje atliekant gamyklinį atstatymą.
-categories: [Atstatymas]
+kategorijos: [Atstatymas]
 translationKey: reset/factory
 ---
 ## Gamyklinio atstatymo atlikimas {#performing-a-factory-reset}

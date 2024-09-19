@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Genom en databas säkerhetskopia skapas en säkerhetskopieringsfil som innehåller all data som lagras på VitalControl-enheten.
-categories: [Databas säkerhetskopia]
-tags: [säkerhetskopieringsfil, USB-minne]
+Kategorier: [Databas säkerhetskopia]
+Taggar: [säkerhetskopieringsfil, USB-minne]
 translationKey: backup
 ---
 {{% usb-drive/en "För att utföra en databas säkerhetskopia för din enhet," %}}

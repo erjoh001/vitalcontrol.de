@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Kaip užregistruoti naują veršiavimąsi naudojant VitalControl įrenginį.
-categories: [Veršiavimasis]
-tags: [Veršiavimasis]
+kategorijos: [Veršiavimasis]
+Žymos: [Veršiavimasis]
 translationKey: new/calving
 ---
 ## Veršiavimosi registracija {#register-a-calving}

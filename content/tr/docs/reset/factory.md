@@ -5,7 +5,7 @@ date: 2017-01-03
 weight: 20
 description: >
   VitalControl cihazınızda fabrika ayarlarına dönerek varsayılan değerleri geri yükleme.
-categories: [Sıfırlama]
+Kategoriler: [Sıfırlama]
 translationKey: reset/factory
 ---
 ## Fabrika ayarlarına sıfırlama işlemi {#performing-a-factory-reset}

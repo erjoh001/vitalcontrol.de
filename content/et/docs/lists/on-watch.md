@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Vaata oma jälgimisnimekirja.
-categories: [Nimekirjad]
-tags: [Nimekirjad, jälgimisel]
+kategooriad: [Nimekirjad]
+Sildid: [Nimekirjad, jälgimisel]
 translationKey: lists/on-watch
 ---
 ## Jälgimisnimekirjas {#on-watch-list}

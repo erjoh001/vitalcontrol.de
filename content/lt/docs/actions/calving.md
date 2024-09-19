@@ -6,8 +6,8 @@ weight: 115
 description: >
  Registruoti veršiavimąsi
 date: 2023-07-26
-categories: [Veršiavimasis]
-tags: [Veršiavimasis]
+kategorijos: [Veršiavimasis]
+Žymos: [Veršiavimasis]
 translationKey: actions/calving
 ---
 {{% alert title="Patarimas" %}}

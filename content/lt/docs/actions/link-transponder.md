@@ -6,8 +6,8 @@ weight: 102
 description: >
  Priskirti transponderį gyvūnui
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+kategorijos: [Transponder]
+Žymos: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Įspėjimas" color="warning" %}}

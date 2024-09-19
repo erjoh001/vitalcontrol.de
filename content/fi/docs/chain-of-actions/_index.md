@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Suorita useita eläintoimintoja peräkkäin
-categories: [Toimintaketju]
-tags: [Toimintaketju, Toiminnot]
+luokat: [Toimintaketju]
+tagit: [Toimintaketju, Toiminnot]
 translationKey: action-chain
 ---
 ## Toimintaketju {#chain-of-actions}

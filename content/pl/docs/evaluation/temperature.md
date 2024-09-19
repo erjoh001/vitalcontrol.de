@@ -6,8 +6,8 @@ weight: 20
 description: >
  Oceń swoje zapisane dane w sekcji Temperatura.
 date: 2023-07-26
-categories: [Ocena]
-tags: [Ocena, Temperatura]
+kategorie: [Ocena]
+tagi: [Ocena, Temperatura]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Wskazówka" %}}

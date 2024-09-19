@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   VitalControl cihazınızda transponder atamasını ayarlayın.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Maksimum yaş, satın alınan buzağıların maksimum yaşı, Hayvan kimliği ataması]
+Kategoriler: [settings]
+Etiketler: [settings, Maksimum yaş, satın alınan buzağıların maksimum yaşı, Hayvan kimliği ataması]
 translationKey: settings/link-transponder
 ---
 ## Satın alınan buzağıların maksimum yaşını ayarlayın {#set-maximum-age-of-purchased-calves}

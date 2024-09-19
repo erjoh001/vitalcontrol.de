@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Aici, setați data și ora.
-categories: [Setări]
-tags: [Setări, Data & Ora]
+categorii: [Setări]
+etichete: [Setări, Data & Ora]
 translationKey: settings/datetime
 ---
 ## Pentru a seta data {#to-set-the-date}

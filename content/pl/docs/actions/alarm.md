@@ -6,8 +6,8 @@ weight: 60
 description: >
  Dodaj i usuń zwierzęta z listy alarmowej.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Alarm]
+kategorie: [Actions]
+tagi: [Actions, Alarm]
 translationKey: actions/alarm
 ---
 

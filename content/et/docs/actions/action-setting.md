@@ -6,8 +6,8 @@ weight: 120
 description: >
  Määra tegevusmenüü elemendid ja tegevuste jada
 date: 2023-07-26
-categories: [Tegevused, Tegevuste jada]
-tags: [Tegevused, Tegevuste jada]
+kategooriad: [Tegevused, Tegevuste jada]
+Sildid: [Tegevused, Tegevuste jada]
 translationKey: actions/setting
 ---
 ## Menüüelemendid {#menu-items}

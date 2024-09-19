@@ -7,7 +7,7 @@ draft: false
 description: >
  Hayvanları VitalControl'den kaydını silin.
 Kategorien: [Hayvanverisi]
-Tags: [Hayvanverisi, Kayıt Silme]
+Etiketler: [Hayvanverisi, Kayıt Silme]
 translationKey: device/unregister-animals
 ---
 ## Hayvan kaydını sil {#unregister-animals}

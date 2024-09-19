@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Siin saate seadistada kuupäeva ja kellaaja.
-categories: [Seaded]
-tags: [Seaded, Kuupäev ja kellaaeg]
+kategooriad: [Seaded]
+Sildid: [Seaded, Kuupäev ja kellaaeg]
 translationKey: settings/datetime
 ---
 ## Kuupäeva seadistamiseks {#to-set-the-date}

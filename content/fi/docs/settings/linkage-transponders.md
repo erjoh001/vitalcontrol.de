@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Aseta transponderin määritys VitalControl-laitteessasi.
 date: 2023-07-26
-categories: [asetukset]
-tags: [asetukset, ostetut vasiktat enimmäisikä, ostetut vasiktat enimmäisikä, Eäimen numeron antaminen]
+luokat: [asetukset]
+tagit: [asetukset, ostetut vasiktat enimmäisikä, ostetut vasiktat enimmäisikä, Eäimen numeron antaminen]
 translationKey: settings/link-transponder
 ---
 ## Aseta ostetut vasiktat enimmäisikä {#set-maximum-age-of-purchased-calves}

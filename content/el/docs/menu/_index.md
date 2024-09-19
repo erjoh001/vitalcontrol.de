@@ -7,8 +7,8 @@ url: /el/docs/menu-tree
 weight: -10
 description: >
   Εμφανίζει το διαδραστικό δέντρο μενού της συσκευής VitalControl.
-Categories: [Μενού]
-tags: [Κύριο μενού, Ενέργειες]
+κατηγορίες: [Μενού]
+ετικέτες: [Κύριο μενού, Ενέργειες]
 translationKey: menu-tree
 no_list: true
 ---

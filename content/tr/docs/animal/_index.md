@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Bireysel hayvanlarla ilgili önemli bilgileri görüntüleyin.
-Categories: [Hayvan]
-tags: [Hayvan, Sıcaklık, Boy, Hayvan verileri]
+Kategoriler: [Hayvan]
+Etiketler: [Hayvan, Sıcaklık, Boy, Hayvan verileri]
 translationKey: animal/animal
 ---
 ## Hayvan {#animal}

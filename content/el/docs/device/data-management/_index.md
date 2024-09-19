@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Διεξαγωγή αντιγράφων ασφαλείας δεδομένων, εξαγωγή δεδομένων και επαναφορά της συσκευής
 date: 2023-07-26
-categories: [Συσκευή, Εξαγωγή δεδομένων]
-tags: [Συσκευή, Εξαγωγή δεδομένων]
+κατηγορίες: [Συσκευή, Εξαγωγή δεδομένων]
+ετικέτες: [Συσκευή, Εξαγωγή δεδομένων]
 translationKey: device/data-management
 no_list: true
 maphilight: true

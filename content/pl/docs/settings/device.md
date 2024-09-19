@@ -7,8 +7,8 @@ slug: device
 description: >
  Tutaj możesz dostosować różne ustawienia urządzenia.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+kategorie: [settings]
+tagi: [settings, device]
 translationKey: settings/device
 ---
 ## Wyłącz urządzenie po {#shutdown-device-after}

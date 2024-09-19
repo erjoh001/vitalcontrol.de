@@ -6,8 +6,8 @@ weight: 90
 description: >
  Muokkaa valitun eläimen tietoja.
 date: 2023-07-26
-categories: [Toiminnat]
-tags: [Toiminnat, eläintiedot, muokkaa]
+luokat: [Toiminnat]
+tagit: [Toiminnat, eläintiedot, muokkaa]
 translationKey: actions/edit
 ---
 

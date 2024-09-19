@@ -5,7 +5,7 @@ date: 2023-07-19
 weight: 15
 description: >
  Export dat o zvířatech a hodnot měření z zařízení VitalControl do několika CVS souborů
-categories: [Export dat]
+kategorie: [Export dat]
 translationKey: farmPC
 ---
 Postupujte následovně pro export dat z VitalControl do paměťového zařízení vašeho PC:

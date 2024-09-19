@@ -6,7 +6,7 @@ draft: false
 description: >
   Határozza meg az adatok szinkronizálási paramétereit a *Herde* szoftver és a VitalControl eszköz közötti adatcsere érdekében.
 weight: 10
-categories: [DSP Herde]
+kategóriák: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 Az első [adatcsere](../data-exchange/) előtt létre kell hozni és be kell állítani a technológiai kapcsolatot a VitalControl eszközzel.

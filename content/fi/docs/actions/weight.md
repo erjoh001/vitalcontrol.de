@@ -6,8 +6,8 @@ weight: 20
 description: >
   Kirjaa eläintesi paino.
 date: 2023-07-26
-categories: [Toiminnot]
-tags: [Toiminnot, paino]
+luokat: [Toiminnot]
+tagit: [Toiminnot, paino]
 translationKey: actions/weight
 ---
 

@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Patikrinkite savo veiksmų sąrašą.
-categories: [Lists]
-tags: [Lists, Action]
+kategorijos: [Lists]
+Žymos: [Lists, Action]
 translationKey: lists/action
 ---
 ## Veiksmų sąrašas {#action-list}

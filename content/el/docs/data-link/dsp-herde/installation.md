@@ -6,7 +6,7 @@ draft: false
 description: >
   Ορίστε τις παραμέτρους συγχρονισμού για την ανταλλαγή δεδομένων μεταξύ του λογισμικού *Herde* και της συσκευής VitalControl.
 weight: 10
-categories: [DSP Herde]
+κατηγορίες: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 Πριν από την πρώτη [ανταλλαγή δεδομένων](../data-exchange/), πρέπει να δημιουργηθεί και να ρυθμιστεί μία φορά η τεχνολογική σύνδεση με τη συσκευή VitalControl.

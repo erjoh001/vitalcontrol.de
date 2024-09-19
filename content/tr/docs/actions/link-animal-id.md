@@ -6,8 +6,8 @@ weight: 115
 description: >
  Ulusal hayvan kimliği olmayan bir hayvana ulusal hayvan kimliği atayın
 date: 2023-07-26
-categories: [Ulusal hayvan kimliği]
-tags: [Ulusal hayvan kimliği]
+Kategoriler: [Ulusal hayvan kimliği]
+Etiketler: [Ulusal hayvan kimliği]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Uyarı" color="warning" %}}

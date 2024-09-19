@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Patikrinkite savo VitalControl įrenginio aparatinės įrangos komponentus, ypač jei įtariate aparatinės įrangos gedimą.
-categories: [Diagnostika, Aparatinė įranga]
+kategorijos: [Diagnostika, Aparatinė įranga]
 weight: 10
 ---
 Jei jūsų įrenginyje yra gedimas, pirmiausia turėtumėte atlikti aparatinės įrangos patikrinimą, kad išsiaiškintumėte, ar kuris nors iš aparatinės įrangos komponentų nėra sugedęs.

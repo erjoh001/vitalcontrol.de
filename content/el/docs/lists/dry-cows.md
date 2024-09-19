@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Δείτε τη λίστα των ξηρών αγελάδων σας.
-categories: [Λίστες]
-tags: [Λίστες, ξηρή αγελάδα]
+κατηγορίες: [Λίστες]
+ετικέτες: [Λίστες, ξηρή αγελάδα]
 translationKey: lists/dry-cows
 ---
 ## Λίστα ξηρών αγελάδων {#dry-cows-list}

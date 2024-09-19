@@ -6,8 +6,8 @@ weight: 115
 description: >
  Registreeri poegimine
 date: 2023-07-26
-categories: [Poegimine]
-tags: [Poegimine]
+kategooriad: [Poegimine]
+Sildid: [Poegimine]
 translationKey: actions/calving
 ---
 {{% alert title="Vihje" %}}

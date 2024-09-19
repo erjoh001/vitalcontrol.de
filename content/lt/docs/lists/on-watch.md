@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Patikrinkite savo stebimų sąrašą.
-categories: [Sąrašai]
-tags: [Sąrašai, stebimi]
+kategorijos: [Sąrašai]
+Žymos: [Sąrašai, stebimi]
 translationKey: lists/on-watch
 ---
 ## Stebimų sąrašas {#on-watch-list}

@@ -6,8 +6,8 @@ weight: 10
 description: >
  Valitse seuraava eläin Toiminnot-valikosta.
 date: 2023-07-26
-categories: [Toiminnot]
-tags: [Toiminnot]
+luokat: [Toiminnot]
+tagit: [Toiminnot]
 translationKey: actions/next-animal
 draft: true
 ---

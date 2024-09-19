@@ -6,8 +6,8 @@ weight: 115
 description: >
  Ellés regisztrálása
 date: 2023-07-26
-categories: [Ellés]
-tags: [Ellés]
+kategóriák: [Ellés]
+címkék: [Ellés]
 translationKey: actions/calving
 ---
 {{% alert title="Tipp" %}}

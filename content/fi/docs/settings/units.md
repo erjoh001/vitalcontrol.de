@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Tässä voit valita lämpötilan ja massan yksiköt.
-categories: [asetukset]
-tags: [asetukset, yksiköt]
+luokat: [asetukset]
+tagit: [asetukset, yksiköt]
 translationKey: settings/units
 ---
 ## Aseta Lämpötilayksik {#set-temperature-unit}

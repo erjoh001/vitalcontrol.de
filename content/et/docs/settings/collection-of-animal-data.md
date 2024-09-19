@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Loomade andmete kogumiseks vajalike seadistuste salvestamine
-categories: [settings]
-tags: [settings, data acquisition]
+kategooriad: [settings]
+Sildid: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

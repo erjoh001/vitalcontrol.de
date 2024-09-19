@@ -6,6 +6,6 @@ draft: false
 description: >
   Importuokite visus gyvūnus iš šėryklos į VitalControl įrenginį ir perduokite užregistruotas temperatūras, svorius ir gyvūnų įvertinimus į šėryklą.
 weight: 20
-categories: [Alma Pro]
+kategorijos: [Alma Pro]
 translationKey: alma-pro
 ---

@@ -6,8 +6,8 @@ weight: 30
 description: >
  Įvertinkite savo gyvūnus.
 date: 2023-07-26
-categories: [Veiksmai]
-tags: [Veiksmai, Įvertinimas]
+kategorijos: [Veiksmai]
+Žymos: [Veiksmai, Įvertinimas]
 translationKey: actions/animal-rating
 ---
 

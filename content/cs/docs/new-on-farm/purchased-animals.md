@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Zde můžete zobrazit své aktuální nákupy a exportovat data.
-categories: [Nové na farmě]
-tags: [Nové na farmě]
+kategorie: [Nové na farmě]
+štítky: [Nové na farmě]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Zakoupená zvířata {#purchased-animals}

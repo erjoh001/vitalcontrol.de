@@ -7,8 +7,8 @@ slug: transponder-linkage
 description: >
   Задайте присвояването на транспондера на вашето устройство VitalControl.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, Максимална възраст, максимална възраст на закупените телета, Присвояване на ID на животно]
+категории: [settings]
+тагове: [settings, Максимална възраст, максимална възраст на закупените телета, Присвояване на ID на животно]
 translationKey: settings/link-transponder
 ---
 ## Задаване на максимална възраст на закупените телета {#set-maximum-age-of-purchased-calves}

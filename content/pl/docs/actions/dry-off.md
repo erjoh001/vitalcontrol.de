@@ -6,8 +6,8 @@ weight: 115
 description: >
  Osusz krowę lub dodaj ją do listy świeżych krów
 date: 2023-07-26
-categories: [Osusz]
-tags: [Osusz]
+kategorie: [Osusz]
+tagi: [Osusz]
 translationKey: actions/dry-cows
 ---
 

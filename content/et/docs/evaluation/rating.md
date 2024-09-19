@@ -6,8 +6,8 @@ weight: 30
 description: >
  Hinda oma salvestatud andmeid reitingu sektsioonis.
 date: 2023-07-26
-categories: [Hindamine]
-tags: [Hindamine, Reiting]
+kategooriad: [Hindamine]
+Sildid: [Hindamine, Reiting]
 translationKey: evaluation/rating
 ---
 {{% alert title="Vihje" %}}

@@ -4,7 +4,7 @@ linkTitle: "Επαναφορά εργοστασίου"
 date: 2017-01-03
 description: >
   Επαναφορά των προεπιλεγμένων τιμών στη συσκευή σας VitalControl εκτελώντας μια επαναφορά εργοστασίου.
-categories: [Reset]
+κατηγορίες: [Reset]
 translationKey: reset/factory
 ---
 ## Εκτέλεση επαναφοράς εργοστασίου {#performing-a-factory-reset}

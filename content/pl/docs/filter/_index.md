@@ -5,8 +5,8 @@ weight: 50
 description: >
  Jak zastosować filtr na liście zwierząt, aby wyświetlić tylko podzbiór zwierząt obecnych na urządzeniu.
 date: 2023-07-26
-categories: [Filter]
-tags: [Filter]
+kategorie: [Filter]
+tagi: [Filter]
 translationKey: filter
 ---
 ## Zastosowanie filtrów {#applying-filters}

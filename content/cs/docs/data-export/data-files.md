@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Popis struktury a obsahu čtyř datových souborů vytvořených během exportu.
-categories: [Export dat]
-tags: [exportní soubory, teploty, hmotnosti, hodnocení]
+kategorie: [Export dat]
+štítky: [exportní soubory, teploty, hmotnosti, hodnocení]
 slug: export-files
 translationKey: data-export/data-files
 ---

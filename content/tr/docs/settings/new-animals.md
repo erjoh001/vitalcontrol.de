@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Burada, çiftliğinizin gereksinimlerine göre yeni hayvanların kaydına ilişkin fabrika ayarlarını ayarlayabilirsiniz.
-categories: [settings]
-tags: [settings, Varsayılan değerler]
+Kategoriler: [settings]
+Etiketler: [settings, Varsayılan değerler]
 translationKey: settings/new-animals
 ---
 ## Varsayılan değerleri ayarla {#set-default-values}

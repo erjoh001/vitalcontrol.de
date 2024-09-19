@@ -6,7 +6,7 @@ draft: false
 description: >
   Sincronizați animalele stocate pe dispozitivul VitalControl cu animalele gestionate de software-ul *Herde* și transferați valorile măsurate înregistrate cu dispozitivul VitalControl în software-ul *Herde*.
 weight: 20
-categories: [Schimb de date, DSP Herde]
+categorii: [Schimb de date, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Urmați pașii de mai jos pentru a sincroniza datele între software-ul `Herde` și dispozitivul VitalControl:

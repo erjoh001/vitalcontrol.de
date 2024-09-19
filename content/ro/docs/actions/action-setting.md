@@ -6,8 +6,8 @@ weight: 120
 description: >
  Setează elementele de meniu pentru meniul Acțiuni și stabilește lanțul de acțiuni
 date: 2023-07-26
-categories: [Acțiuni, Lanț de Acțiuni]
-tags: [Acțiuni, Lanț de acțiuni]
+categorii: [Acțiuni, Lanț de Acțiuni]
+etichete: [Acțiuni, Lanț de acțiuni]
 translationKey: actions/setting
 ---
 ## Elemente de meniu {#menu-items}

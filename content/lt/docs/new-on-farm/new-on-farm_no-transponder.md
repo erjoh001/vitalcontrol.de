@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Čia priskiriate transponderį naujiems gyvūnams be transponderio.
-categories: [Naujas ūkyje, transponderis]
-tags: [Naujas ūkyje, transponderis]
+kategorijos: [Naujas ūkyje, transponderis]
+Žymos: [Naujas ūkyje, transponderis]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Naujas ūkyje, be transponderio {#new-on-farm-no-transponder}

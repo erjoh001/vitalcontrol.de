@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Управление на резервни копия, експортиране на данни и рестартиране на устройството
 date: 2023-07-26
-categories: [Устройство, Експорт на данни]
-tags: [Устройство, Експорт на данни]
+категории: [Устройство, Експорт на данни]
+тагове: [Устройство, Експорт на данни]
 translationKey: device/data-management
 no_list: true
 maphilight: true

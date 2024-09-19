@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Tarkista VitalControl-laitteesi laitteistokomponentit, erityisesti jos epäilet laitteistovikaa.
-categories: [Diagnostiikka, Laitteisto]
+luokat: [Diagnostiikka, Laitteisto]
 weight: 10
 ---
 Jos laitteessasi ilmenee toimintahäiriö, sinun tulisi ensin suorittaa laitteiston tarkistus selvittääksesi, onko jokin laitteiston komponenteista viallinen.

@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Εξαγωγή αρχείων δεδομένων CVS που περιέχουν δεδομένα ζώων και τιμές μετρήσεων αποθηκευμένα στη συσκευή VitalControl σε USB flash drive.
-categories: [Εξαγωγή δεδομένων]
-tags: [Αρχεία CSV, USB flash drive]
+κατηγορίες: [Εξαγωγή δεδομένων]
+ετικέτες: [Αρχεία CSV, USB flash drive]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/el "Για να πραγματοποιήσετε εξαγωγή των δεδομένων της συσκευής σας," %}}

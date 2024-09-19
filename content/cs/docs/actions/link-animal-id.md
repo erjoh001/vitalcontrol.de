@@ -6,8 +6,8 @@ weight: 115
 description: >
  Přiřaďte národní ID zvířete zvířeti, které nemá národní ID zvířete
 date: 2023-07-26
-categories: [Národní ID zvířete]
-tags: [Národní ID zvířete]
+kategorie: [Národní ID zvířete]
+štítky: [Národní ID zvířete]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Varování" color="warning" %}}

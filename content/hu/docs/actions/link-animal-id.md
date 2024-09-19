@@ -6,8 +6,8 @@ weight: 115
 description: >
  Országos állat azonosító hozzárendelése egy olyan állathoz, amelynek nincs országos állat azonosítója
 date: 2023-07-26
-categories: [Országos állat azonosító]
-tags: [Országos állat azonosító]
+kategóriák: [Országos állat azonosító]
+címkék: [Országos állat azonosító]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Figyelmeztetés" color="warning" %}}

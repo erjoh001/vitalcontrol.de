@@ -4,7 +4,7 @@ linkTitle: "Loomade andmed"
 date: 2017-01-02
 description: >
   Õpi, kuidas kustutada kõik loomad ja nende andmed oma VitalControl seadmest.
-categories: [Reset]
+kategooriad: [Reset]
 ---
 ## Kõigi loomade andmete kustutamine seadmest {#erasing-all-animal-data-from-device}
 

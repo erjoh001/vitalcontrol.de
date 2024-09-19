@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Nézze meg az akciólistáját.
-categories: [Lists]
-tags: [Lists, Action]
+kategóriák: [Lists]
+címkék: [Lists, Action]
 translationKey: lists/action
 ---
 ## Akciólista {#action-list}

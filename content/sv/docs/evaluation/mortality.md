@@ -6,8 +6,8 @@ weight: 40
 description: >
  Utvärdera dina sparade data i dödlighetssektionen.
 date: 2023-07-26
-categories: [Utvärdering]
-tags: [Utvärdering, Dödlighet]
+Kategorier: [Utvärdering]
+Taggar: [Utvärdering, Dödlighet]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Tips" %}}

@@ -7,8 +7,8 @@ slug: info
 description: >
   Δείτε σημαντικές πληροφορίες λογισμικού και υλικού
 date: 2023-07-26
-categories: [Συσκευή]
-tags: [Συσκευή]
+κατηγορίες: [Συσκευή]
+ετικέτες: [Συσκευή]
 translationKey: device/info
 no_list: true
 maphilight: true

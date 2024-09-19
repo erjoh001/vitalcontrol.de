@@ -6,8 +6,8 @@ weight: 30
 description: >
  Değerlendirme bölümünde saklanan verilerinizi değerlendirin.
 date: 2023-07-26
-categories: [Değerlendirme]
-tags: [Değerlendirme, Puanlama]
+Kategoriler: [Değerlendirme]
+Etiketler: [Değerlendirme, Puanlama]
 translationKey: evaluation/rating
 ---
 {{% alert title="İpucu" %}}

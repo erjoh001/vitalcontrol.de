@@ -6,6 +6,6 @@ draft: false
 description: >
   Impordi kõik loomad söötjast VitalControl seadmesse ja edasta salvestatud temperatuurid, kaalud ning loomade hinnangud tagasi söötjasse.
 weight: 20
-categories: [Alma Pro]
+kategooriad: [Alma Pro]
 translationKey: alma-pro
 ---

@@ -6,8 +6,8 @@ weight: 10
 description: >
   Mät feber hos dina djur.
 date: 2023-07-26
-Categories: [Åtgärder]
-tags: [Åtgärder, feber, temperatur]
+Kategorier: [Åtgärder]
+Taggar: [Åtgärder, feber, temperatur]
 translationKey: actions/temperature
 ---
 

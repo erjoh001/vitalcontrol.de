@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Vaata olulist informatsiooni üksikute loomade kohta.
-Categories: [Loom]
-tags: [Loom, Temperatuur, Kõrgus, Looma andmed]
+kategooriad: [Loom]
+Sildid: [Loom, Temperatuur, Kõrgus, Looma andmed]
 translationKey: animal/animal
 ---
 ## Loom {#animal}

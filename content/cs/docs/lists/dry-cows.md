@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Podívejte se na seznam vašich suchých krav.
-categories: [Seznamy]
-tags: [Seznamy, suchá kráva]
+kategorie: [Seznamy]
+štítky: [Seznamy, suchá kráva]
 translationKey: lists/dry-cows
 ---
 ## Seznam suchých krav {#dry-cows-list}

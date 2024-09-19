@@ -6,8 +6,8 @@ weight: 70
 description: >
  Sätt djur på bevakningslistan eller ta bort dem.
 date: 2023-07-26
-categories: [Åtgärder]
-tags: [Åtgärder, under bevakning]
+Kategorier: [Åtgärder]
+Taggar: [Åtgärder, under bevakning]
 translationKey: actions/on-watch
 ---
 

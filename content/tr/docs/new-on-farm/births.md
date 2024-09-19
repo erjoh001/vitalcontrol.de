@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Burada doğumlarınızı görebilir ve bir dışa aktarma dosyası oluşturabilirsiniz.
-categories: [Doğumlar]
-tags: [Doğumlar]
+Kategoriler: [Doğumlar]
+Etiketler: [Doğumlar]
 translationKey: new-on-farm/births
 ---
 ## Doğumlar {#births}

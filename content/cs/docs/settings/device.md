@@ -7,8 +7,8 @@ slug: device
 description: >
  Zde můžete upravit různá nastavení zařízení.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+kategorie: [settings]
+štítky: [settings, device]
 translationKey: settings/device
 ---
 ## Vypnutí zařízení po {#shutdown-device-after}

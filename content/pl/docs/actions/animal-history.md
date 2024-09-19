@@ -6,8 +6,8 @@ weight: 80
 description: >
  Zobacz historię zwierzęcia.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Historia zwierząt]
+kategorie: [Actions]
+tagi: [Actions, Historia zwierząt]
 translationKey: actions/animalshistory
 ---
 

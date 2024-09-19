@@ -6,8 +6,8 @@ weight: 10
 description: >
  Ağırlık bölümünde depolanan verilerinizi değerlendirin.
 date: 2023-07-26
-categories: [Değerlendirme]
-tags: [Değerlendirme, ağırlık]
+Kategoriler: [Değerlendirme]
+Etiketler: [Değerlendirme, ağırlık]
 translationKey: evaluation/weight
 maphilight: true
 ---

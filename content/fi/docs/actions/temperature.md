@@ -6,8 +6,8 @@ weight: 10
 description: >
   Mittaa kuume eläimilläsi.
 date: 2023-07-26
-Categories: [Toiminnot]
-tags: [Toiminnot, kuume, lämpötila]
+luokat: [Toiminnot]
+tagit: [Toiminnot, kuume, lämpötila]
 translationKey: actions/temperature
 ---
 

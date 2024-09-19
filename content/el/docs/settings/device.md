@@ -7,8 +7,8 @@ slug: device
 description: >
  Εδώ μπορείτε να προσαρμόσετε διάφορες ρυθμίσεις της συσκευής.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+κατηγορίες: [settings]
+ετικέτες: [settings, device]
 translationKey: settings/device
 ---
 ## Απενεργοποίηση συσκευής μετά από {#shutdown-device-after}

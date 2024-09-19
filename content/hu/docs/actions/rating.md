@@ -6,8 +6,8 @@ weight: 30
 description: >
  Értékeld az állataidat.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Rating]
+kategóriák: [Actions]
+címkék: [Actions, Rating]
 translationKey: actions/animal-rating
 ---
 

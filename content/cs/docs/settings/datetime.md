@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Zde nastavíte datum a čas.
-categories: [Nastavení]
-tags: [Nastavení, Datum a čas]
+kategorie: [Nastavení]
+štítky: [Nastavení, Datum a čas]
 translationKey: settings/datetime
 ---
 ## Nastavení data {#to-set-the-date}

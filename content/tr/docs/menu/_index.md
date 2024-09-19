@@ -7,8 +7,8 @@ url: /tr/docs/menu-tree
 weight: -10
 description: >
   VitalControl cihazının etkileşimli menü ağacını gösterir.
-Categories: [Menu]
-tags: [Ana menü, Eylemler]
+Kategoriler: [Menu]
+Etiketler: [Ana menü, Eylemler]
 translationKey: menu-tree
 no_list: true
 ---

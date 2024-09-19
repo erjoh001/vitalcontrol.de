@@ -7,7 +7,7 @@ draft: false
 description: >
  Poista eläimet rekisteristäsi VitalControl-laitteesta.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+tagit: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Poista eläimet rekisteristä {#unregister-animals}

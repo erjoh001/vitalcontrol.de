@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Eksportuokite CVS duomenų failus, kuriuose yra gyvūnų duomenys ir matavimo vertės, saugomos VitalControl įrenginyje, į USB atmintinę.
-categories: [Duomenų eksportavimas]
-tags: [CSV failai, USB atmintinė]
+kategorijos: [Duomenų eksportavimas]
+Žymos: [CSV failai, USB atmintinė]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/en "Norėdami atlikti įrenginio duomenų eksportavimą," %}}

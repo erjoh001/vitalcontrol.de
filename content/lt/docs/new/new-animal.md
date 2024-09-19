@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   Kaip užregistruoti naują gyvūną naudojant VitalControl įrenginį.
-categories: [Naujas gyvūnas]
-tags: [Registruoti gyvūnus]
+kategorijos: [Naujas gyvūnas]
+Žymos: [Registruoti gyvūnus]
 translationKey: new/animal
 ---
 ## Sukurti naują gyvūną {#create-a-new-animal}

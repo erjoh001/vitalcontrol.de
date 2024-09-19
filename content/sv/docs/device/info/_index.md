@@ -7,8 +7,8 @@ slug: info
 description: >
   Visa viktig program- och hårdvaruinformation
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+Kategorier: [Device]
+Taggar: [Device]
 translationKey: device/info
 no_list: true
 maphilight: true

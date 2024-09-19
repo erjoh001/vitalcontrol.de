@@ -3,7 +3,7 @@ title: "RFID skaneerimine: ulatuse test ja transponderite diagnostika"
 linkTitle: RFID skaneerimine
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnostika, RFID skaneerimine]
+kategooriad: [Diagnostika, RFID skaneerimine]
 description: >
   Kontrollige oma RFID-skanneri ulatust või näidake tundmatute transponderite lugemisprotokolli ja salvestatud numbreid.
 translationKey: diagnosis/rfid-scan

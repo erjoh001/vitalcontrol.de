@@ -6,8 +6,8 @@ weight: 90
 description: >
  Edytuj dane wybranego zwierzęcia.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, dane zwierzęcia, edytuj]
+kategorie: [Actions]
+tagi: [Actions, dane zwierzęcia, edytuj]
 translationKey: actions/edit
 ---
 

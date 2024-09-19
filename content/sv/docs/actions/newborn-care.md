@@ -7,8 +7,8 @@ weight: 120
 description: >
  Registrera viktiga aspekter av nyföddvård.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, newborn care]
+Kategorier: [Actions]
+Taggar: [Actions, newborn care]
 translationKey: actions/newborn-care
 ---
 

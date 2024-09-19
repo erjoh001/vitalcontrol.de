@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Täällä voit asettaa Päivän ja ajan.
-categories: [Asetukset]
-tags: [Asetukset, Päivä ja aika]
+luokat: [Asetukset]
+tagit: [Asetukset, Päivä ja aika]
 translationKey: settings/datetime
 ---
 ## Päivä asettaminen {#to-set-the-date}

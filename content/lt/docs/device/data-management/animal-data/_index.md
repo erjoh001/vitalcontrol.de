@@ -7,8 +7,8 @@ slug: animal-data
 description: >
  Eksportuokite savo gyvūnų duomenis
 date: 2023-07-26
-categories: [Įrenginys, Duomenų eksportas]
-tags: [Įrenginys, Duomenų eksportas]
+kategorijos: [Įrenginys, Duomenų eksportas]
+Žymos: [Įrenginys, Duomenų eksportas]
 translationKey: device/animal-data
 no_list: true
 maphilight: true

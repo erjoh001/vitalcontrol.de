@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Zobrazte důležité informace týkající se jednotlivých zvířat.
-Categories: [Zvíře]
-tags: [Zvíře, Teplota, Výška, Data o zvířatech]
+kategorie: [Zvíře]
+štítky: [Zvíře, Teplota, Výška, Data o zvířatech]
 translationKey: animal/animal
 ---
 ## Zvíře {#animal}

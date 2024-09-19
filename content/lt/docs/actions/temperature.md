@@ -6,8 +6,8 @@ weight: 10
 description: >
   Matuoti karščiavimą jūsų gyvūnams.
 date: 2023-07-26
-Categories: [Actions]
-tags: [Actions, fever, temperature]
+kategorijos: [Actions]
+Žymos: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 

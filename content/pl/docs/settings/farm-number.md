@@ -3,8 +3,8 @@ title: Numer gospodarstwa
 linkTitle: Numer gospodarstwa
 date: 2023-07-26
 weight: 80
-categories: [Settings]
-tags: [Settings, Farm number]
+kategorie: [Settings]
+tagi: [Settings, Farm number]
 description: >
   Trwale zapisz swój oficjalny dwunastocyfrowy krajowy identyfikator gospodarstwa na urządzeniu VitalControl.
 translationKey: settings/farm-number

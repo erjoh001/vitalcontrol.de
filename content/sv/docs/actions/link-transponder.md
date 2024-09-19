@@ -6,8 +6,8 @@ weight: 102
 description: >
  Tilldela en transponder till ett djur
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+Kategorier: [Transponder]
+Taggar: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Varning" color="warning" %}}

@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Тествайте измерването на температурата на вашето устройство
 date: 2023-07-26
-categories: [Устройство]
-tags: [Устройство]
+категории: [Устройство]
+тагове: [Устройство]
 translationKey: device/temperature-measurement
 ---
 ## Тестване на измерването на температурата {#test-temperature-measurement}

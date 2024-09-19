@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Burada henüz bir transponder atanmamış tüm hayvanları görebilir ve onlara bir transponder atayabilirsiniz.
-categories: [Çiftlikte yeni, Ulusal hayvan kimliği]
-tags: [Çiftlikte yeni, Ulusal hayvan kimliği]
+Kategoriler: [Çiftlikte yeni, Ulusal hayvan kimliği]
+Etiketler: [Çiftlikte yeni, Ulusal hayvan kimliği]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Transponder atanmamış {#no-transponder-assigned}

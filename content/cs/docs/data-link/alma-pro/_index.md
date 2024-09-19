@@ -6,6 +6,6 @@ draft: false
 description: >
   Importujte všechna zvířata z krmítka do zařízení VitalControl a přeneste zaznamenané teploty, hmotnosti a hodnocení zvířat do krmítka.
 weight: 20
-categories: [Alma Pro]
+kategorie: [Alma Pro]
 translationKey: alma-pro
 ---

@@ -6,8 +6,8 @@ weight: 30
 description: >
  Evaluează datele stocate în secțiunea de rating.
 date: 2023-07-26
-categories: [Evaluare]
-tags: [Evaluare, Rating]
+categorii: [Evaluare]
+etichete: [Evaluare, Rating]
 translationKey: evaluation/rating
 ---
 {{% alert title="Hint" %}}

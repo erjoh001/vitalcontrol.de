@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Εδώ, ρυθμίζετε την ημερομηνία και την ώρα.
-categories: [Ρυθμίσεις]
-tags: [Ρυθμίσεις, Ημερομηνία & Ώρα]
+κατηγορίες: [Ρυθμίσεις]
+ετικέτες: [Ρυθμίσεις, Ημερομηνία & Ώρα]
 translationKey: settings/datetime
 ---
 ## Για να ρυθμίσετε την ημερομηνία {#to-set-the-date}

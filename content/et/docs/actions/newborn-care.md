@@ -7,8 +7,8 @@ weight: 120
 description: >
  Vastsündinu hoolduse oluliste aspektide registreerimine.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, vastsündinu hooldus]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, vastsündinu hooldus]
 translationKey: actions/newborn-care
 ---
 

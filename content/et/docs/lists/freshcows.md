@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Lihtsusta oma värskete lehmade kontrolli.
-categories: [Nimekirjad]
-tags: [Nimekirjad, värske lehm]
+kategooriad: [Nimekirjad]
+Sildid: [Nimekirjad, värske lehm]
 translationKey: lists/fresh-cows
 ---
 ### Värskete lehmade nimekiri {#fresh-cows-list}

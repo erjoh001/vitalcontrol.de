@@ -4,7 +4,7 @@ linkTitle: "Фабричен рестарт"
 date: 2017-01-03
 description: >
   Възстановяване на стандартните стойности на вашето устройство VitalControl чрез извършване на фабричен рестарт.
-categories: [Reset]
+категории: [Reset]
 translationKey: reset/factory
 ---
 ## Извършване на фабричен рестарт {#performing-a-factory-reset}

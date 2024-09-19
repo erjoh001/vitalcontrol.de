@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Itt választhatja ki a hőmérséklet és a tömeg egységeit.
-categories: [settings]
-tags: [settings, units]
+kategóriák: [settings]
+címkék: [settings, units]
 translationKey: settings/units
 ---
 ## Hőmérsékleti egység beállítása {#set-temperature-unit}

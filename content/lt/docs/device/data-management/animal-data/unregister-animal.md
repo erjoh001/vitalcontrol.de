@@ -7,7 +7,7 @@ draft: false
 description: >
  Išregistruokite gyvūnus iš savo VitalControl.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+Žymos: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Išregistruoti gyvūnus {#unregister-animals}

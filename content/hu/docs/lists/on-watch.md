@@ -7,8 +7,8 @@ draft: false
 slug: on-watch
 description: >
  Nézze meg a megfigyelési listáját.
-categories: [Lists]
-tags: [Lists, megfigyelés alatt]
+kategóriák: [Lists]
+címkék: [Lists, megfigyelés alatt]
 translationKey: lists/on-watch
 ---
 ## Megfigyelési lista {#on-watch-list}

@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Hur man skapar flera nya djur på VitalControl-enheten med en enda åtgärd.
-categories: [Nya djur]
-tags: [Nya djur]
+Kategorier: [Nya djur]
+Taggar: [Nya djur]
 translationKey: new/animals
 ---
 ## Skapa flera nya djur {#create-several-new-animals}

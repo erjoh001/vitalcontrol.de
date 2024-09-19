@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Utilizați scannerul de coduri de bare pentru a înregistra o varietate de animale.
-categories: [Înregistrare în masă]
-tags: [Înregistrare în masă]
+categorii: [Înregistrare în masă]
+etichete: [Înregistrare în masă]
 translationKey: new/bulk-recording
 ---
 ## Înregistrare în masă {#bulk-recording}

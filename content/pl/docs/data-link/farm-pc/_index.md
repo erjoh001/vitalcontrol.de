@@ -5,7 +5,7 @@ date: 2023-07-19
 weight: 15
 description: >
  Eksportuj dane zwierząt i wartości pomiarów z urządzenia VitalControl do kilku plików CVS
-categories: [Eksport danych]
+kategorie: [Eksport danych]
 translationKey: farmPC
 ---
 Postępuj zgodnie z poniższymi krokami, aby wyeksportować dane z VitalControl do urządzenia pamięci masowej w Twoim komputerze:

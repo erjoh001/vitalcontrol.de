@@ -6,8 +6,8 @@ weight: 10
 description: >
   Mierzenie gorączki u zwierząt.
 date: 2023-07-26
-Categories: [Działania]
-tags: [Działania, gorączka, temperatura]
+kategorie: [Działania]
+tagi: [Działania, gorączka, temperatura]
 translationKey: actions/temperature
 ---
 

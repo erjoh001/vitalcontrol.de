@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Тук настройвате датата и часа.
-categories: [Настройки]
-tags: [Настройки, Дата и час]
+категории: [Настройки]
+тагове: [Настройки, Дата и час]
 translationKey: settings/datetime
 ---
 ## За настройка на датата {#to-set-the-date}

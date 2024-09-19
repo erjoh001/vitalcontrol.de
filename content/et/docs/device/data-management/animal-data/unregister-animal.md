@@ -7,7 +7,7 @@ draft: false
 description: >
  Loomade eemaldamine teie VitalControlist.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+Sildid: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Looma registrist kustutamine {#unregister-animals}

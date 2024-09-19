@@ -3,7 +3,7 @@ title: "RFID-skanning: räckviddstest och diagnos av transpondrar"
 linkTitle: RFID-skanning
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnos, RFID-skanning]
+Kategorier: [Diagnos, RFID-skanning]
 description: >
   Kontrollera räckvidden för din RFID-skanner eller visa läsprotokollet och numren som lagras på okända transpondrar.
 translationKey: diagnosis/rfid-scan

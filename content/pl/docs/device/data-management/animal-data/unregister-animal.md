@@ -7,7 +7,7 @@ draft: false
 description: >
  Wyrejestrowanie zwierząt z Twojego VitalControl.
 Kategorien: [Animaldata]
-Tags: [Animaldata, Unregister]
+tagi: [Animaldata, Unregister]
 translationKey: device/unregister-animals
 ---
 ## Wyrejestrowanie zwierząt {#unregister-animals}

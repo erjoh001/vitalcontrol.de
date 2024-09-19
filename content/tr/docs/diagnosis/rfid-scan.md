@@ -3,7 +3,7 @@ title: "RFID tarama: transponderların menzil testi ve teşhisi"
 linkTitle: RFID tarama
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Teşhis, RFID Tarama]
+Kategoriler: [Teşhis, RFID Tarama]
 description: >
   RFID tarayıcınızın menzilini kontrol edin veya okuma protokolünü ve bilinmeyen transponderlarda saklanan numaraları gösterin.
 translationKey: diagnosis/rfid-scan

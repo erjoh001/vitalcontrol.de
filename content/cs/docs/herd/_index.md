@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Zobrazte důležité informace o vašem stádu.
-categories: [Stádo]
-tags: [Stádo, Teplota, Hmotnost, Hodnocení, Údaje o zvířatech]
+kategorie: [Stádo]
+štítky: [Stádo, Teplota, Hmotnost, Hodnocení, Údaje o zvířatech]
 translationKey: herd
 ---
 ## Stádo {#herd}

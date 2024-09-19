@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Πώς να δημιουργήσετε πολλαπλά νέα ζώα στη συσκευή VitalControl χρησιμοποιώντας μία μόνο ενέργεια.
-categories: [Νέα ζώα]
-tags: [Νέα ζώα]
+κατηγορίες: [Νέα ζώα]
+ετικέτες: [Νέα ζώα]
 translationKey: new/animals
 ---
 ## Δημιουργία πολλών νέων ζώων {#create-several-new-animals}

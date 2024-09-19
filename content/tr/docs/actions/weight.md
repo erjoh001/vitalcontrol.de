@@ -6,8 +6,8 @@ weight: 20
 description: >
   Hayvanlarınızın ağırlığını kaydedin.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, weight]
+Kategoriler: [Actions]
+Etiketler: [Actions, weight]
 translationKey: actions/weight
 ---
 

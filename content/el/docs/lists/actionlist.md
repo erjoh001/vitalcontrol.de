@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Δείτε τη λίστα δράσεων σας.
-categories: [Λίστες]
-tags: [Λίστες, Δράση]
+κατηγορίες: [Λίστες]
+ετικέτες: [Λίστες, Δράση]
 translationKey: lists/action
 ---
 ## Λίστα Δράσεων {#action-list}

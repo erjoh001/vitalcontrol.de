@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Käytä viivakoodinlukijaa erilaisten eläinten rekisteröimiseen.
-categories: [Uoukkotallennus]
-tags: [Uoukkotallennus]
+luokat: [Uoukkotallennus]
+tagit: [Uoukkotallennus]
 translationKey: new/Uoukkotallennus
 ---
 ## Uoukkotallennus {#bulk-recording}

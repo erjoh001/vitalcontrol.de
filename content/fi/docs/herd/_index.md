@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Näytä tärkeää tietoa laumastasi.
-categories: [Lauma]
-tags: [Lauma, Lämpötila, Paino, Luokitus, Eläintiedot]
+luokat: [Lauma]
+tagit: [Lauma, Lämpötila, Paino, Luokitus, Eläintiedot]
 translationKey: herd
 ---
 ## Lauma {#herd}

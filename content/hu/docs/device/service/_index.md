@@ -7,8 +7,8 @@ slug: service
 description: >
   Ellenőrizze az eszközmeghajtókat, frissítse a firmware-t és végezzen hatótávolság-tesztet
 date: 2223-27-26
-categories: [Eszköz]
-tags: [Eszköz]
+kategóriák: [Eszköz]
+címkék: [Eszköz]
 translationKey: device/service
 no_list: true
 maphilight: true

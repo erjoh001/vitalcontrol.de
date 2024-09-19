@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Vizualizați informații importante despre turma dvs.
-categories: [Herd]
-tags: [Herd, Temperature, Weight, Rating, Animal data]
+categorii: [Herd]
+etichete: [Herd, Temperature, Weight, Rating, Animal data]
 translationKey: herd
 ---
 ## Turmă {#herd}

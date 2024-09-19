@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Több állati akció egymás utáni végrehajtása
-categories: [Akciólánc]
-tags: [Akciólánc, Akciók]
+kategóriák: [Akciólánc]
+címkék: [Akciólánc, Akciók]
 translationKey: action-chain
 --- 
 ## Akciólánc {#chain-of-actions}

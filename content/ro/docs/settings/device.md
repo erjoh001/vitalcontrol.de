@@ -7,8 +7,8 @@ slug: device
 description: >
  Aici puteți ajusta diverse setări ale dispozitivului.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+categorii: [settings]
+etichete: [settings, device]
 translationKey: settings/device
 ---
 ## Oprire dispozitiv după {#shutdown-device-after}

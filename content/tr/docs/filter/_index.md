@@ -5,8 +5,8 @@ weight: 50
 description: >
  Cihazda bulunan hayvanların yalnızca bir alt kümesini görüntülemek için bir hayvan listesine nasıl filtre uygulanacağı.
 date: 2023-07-26
-categories: [Filter]
-tags: [Filter]
+Kategoriler: [Filter]
+Etiketler: [Filter]
 translationKey: filter
 ---
 ## Filtreleri uygulama {#applying-filters}

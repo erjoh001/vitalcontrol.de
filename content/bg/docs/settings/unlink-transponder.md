@@ -8,7 +8,7 @@ description: >
   Определете как ще бъде присвоен идентификационният номер на животното, след като транспондерът бъде откачен.
 date: 2023-07-26
 Kategorien: [Settings]
-Tags: [Settings, Transponder, AnimalID]
+тагове: [Settings, Transponder, AnimalID]
 translationKey: settings/unlink-transponder
 ---
 ## Откачане на транспондер {#unlink-transponder}

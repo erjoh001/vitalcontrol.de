@@ -7,8 +7,8 @@ url: /fi/docs/menu-tree
 weight: -10
 description: >
   Näyttää VitalControl-laitteen interaktiivisen valikkopuun.
-Categories: [Menu]
-tags: [Päävalikko, Toiminnot]
+luokat: [Menu]
+tagit: [Päävalikko, Toiminnot]
 translationKey: menu-tree
 no_list: true
 ---

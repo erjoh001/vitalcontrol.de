@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 20
 description: >
   Za pomocą kopii zapasowej danych tworzony jest plik kopii zapasowej, który zawiera wszystkie dane przechowywane na urządzeniu VitalControl.
-categories: [Kopia zapasowa danych]
-tags: [plik kopii zapasowej, pendrive USB]
+kategorie: [Kopia zapasowa danych]
+tagi: [plik kopii zapasowej, pendrive USB]
 translationKey: backup
 ---
 {{% usb-drive/en "Aby wykonać kopię zapasową danych dla swojego urządzenia," %}}

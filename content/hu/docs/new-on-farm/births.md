@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Itt megtekintheti a születéseket és létrehozhat egy export fájlt.
-categories: [Születések]
-tags: [Születések]
+kategóriák: [Születések]
+címkék: [Születések]
 translationKey: new-on-farm/births
 ---
 ## Születések {#births}

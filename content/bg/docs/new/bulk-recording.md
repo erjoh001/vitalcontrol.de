@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Използвайте скенер за баркодове за регистрация на различни животни.
-categories: [Масово-регистриране]
-tags: [Масово-регистриране]
+категории: [Масово-регистриране]
+тагове: [Масово-регистриране]
 translationKey: new/bulk-recording
 ---
 ## Масово-регистриране {#bulk-recording}

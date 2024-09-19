@@ -5,8 +5,8 @@ weight: 50
 description: >
  Cum să aplici un filtru pe o listă de animale pentru a afișa doar un subset al animalelor prezente pe dispozitiv.
 date: 2023-07-26
-categories: [Filter]
-tags: [Filter]
+categorii: [Filter]
+etichete: [Filter]
 translationKey: filter
 ---
 ## Aplicarea filtrelor {#applying-filters}

@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Εδώ μπορείτε να δείτε τις γεννήσεις σας και να δημιουργήσετε ένα αρχείο εξαγωγής.
-categories: [Γεννήσεις]
-tags: [Γεννήσεις]
+κατηγορίες: [Γεννήσεις]
+ετικέτες: [Γεννήσεις]
 translationKey: new-on-farm/births
 ---
 ## Γεννήσεις {#births}

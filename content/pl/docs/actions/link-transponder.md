@@ -6,8 +6,8 @@ weight: 102
 description: >
  Przypisz transponder do zwierzęcia
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+kategorie: [Transponder]
+tagi: [Transponder]
 translationKey: actions/transponder
 ---
 {{% alert title="Warning" color="warning" %}}

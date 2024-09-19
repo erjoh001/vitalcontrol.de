@@ -6,8 +6,8 @@ weight: 20
 description: >
   Καταγράψτε το βάρος των ζώων σας.
 date: 2023-07-26
-categories: [Ενέργειες]
-tags: [Ενέργειες, βάρος]
+κατηγορίες: [Ενέργειες]
+ετικέτες: [Ενέργειες, βάρος]
 translationKey: actions/weight
 ---
 

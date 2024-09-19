@@ -7,8 +7,8 @@ slug: service
 description: >
   Cihaz sürücülerinizi kontrol edin, donanım yazılımınızı güncelleyin ve menzil testi yapın
 date: 2223-27-26
-categories: [Cihaz]
-tags: [Cihaz]
+Kategoriler: [Cihaz]
+Etiketler: [Cihaz]
 translationKey: device/service
 no_list: true
 maphilight: true

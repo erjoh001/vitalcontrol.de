@@ -6,6 +6,6 @@ draft: false
 description: >
   Salvesta temperatuure, kaalusid ja terviseandmeid hõlpsalt VitalControl seadmega ning impordi salvestatud andmed *Herde* tarkvarasse.
 weight: 30
-categories: [DSP Herde]
+kategooriad: [DSP Herde]
 translationKey: DSPherde
 ---

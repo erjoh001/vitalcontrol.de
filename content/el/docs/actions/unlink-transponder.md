@@ -6,8 +6,8 @@ weight: 110
 description: >
  Αφαιρέστε τον σύνδεσμο διαμεταγωγέα σε ένα ζώο
 date: 2023-07-26
-categories: [Διαμεταγωγέας]
-tags: [Διαμεταγωγέας]
+κατηγορίες: [Διαμεταγωγέας]
+ετικέτες: [Διαμεταγωγέας]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Προειδοποίηση" color="warning" %}}

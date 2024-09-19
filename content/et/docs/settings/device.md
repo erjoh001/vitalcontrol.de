@@ -7,8 +7,8 @@ slug: device
 description: >
  Siin saate kohandada erinevaid seadme sätteid.
 date: 2023-07-26
-categories: [settings]
-tags: [settings, device]
+kategooriad: [settings]
+Sildid: [settings, device]
 translationKey: settings/device
 ---
 ## Lülita seade välja pärast {#shutdown-device-after}

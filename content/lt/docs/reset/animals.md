@@ -5,7 +5,7 @@ date: 2017-01-02
 weight: 30
 description: >
   Sužinokite, kaip ištrinti visus gyvūnus ir jų duomenis iš savo VitalControl įrenginio.
-categories: [Reset]
+kategorijos: [Reset]
 ---
 ## Visų gyvūnų duomenų ištrynimas iš įrenginio {#erasing-all-animal-data-from-device}
 

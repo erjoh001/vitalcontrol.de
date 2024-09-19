@@ -6,8 +6,8 @@ weight: 10
 description: >
  Оценете вашите съхранени данни в секцията за Тегло.
 date: 2023-07-26
-categories: [Оценка]
-tags: [Оценка, тегло]
+категории: [Оценка]
+тагове: [Оценка, тегло]
 translationKey: evaluation/weight
 maphilight: true
 ---

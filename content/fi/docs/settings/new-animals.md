@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Täällä voit mukauttaa useita tehdasasetuksia uusien eläinten rekisteröinnin vaatimuksiin tilallasi.
-categories: [asetukset]
-tags: [asetukset, Oletusarvot]
+luokat: [asetukset]
+tagit: [asetukset, Oletusarvot]
 translationKey: settings/new-animals
 ---
 ## Aseta oletusarvot {#set-default-values}

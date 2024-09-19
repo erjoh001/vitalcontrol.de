@@ -6,8 +6,8 @@ weight: 100
 description: >
  Poista eläimen rekisteröinti
 date: 2023-07-26
-categories: [Toiminnat]
-tags: [Toiminnat, Rekisteröimätön]
+luokat: [Toiminnat]
+tagit: [Toiminnat, Rekisteröimätön]
 translationKey: actions/unregister
 ---
 {{% alert title="Varoitus" color="warning" %}}

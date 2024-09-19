@@ -7,8 +7,8 @@ draft: false
 slug: purchased-animals
 description: >
   Täältä voit tarkastella nykyisiä ostoksiasi ja viedä tiedot.
-categories: [Uutta tilalla]
-tags: [Uutta tilalla]
+luokat: [Uutta tilalla]
+tagit: [Uutta tilalla]
 translationKey: new-on-farm/new-on-farm
 ---
 ## Osetettuja eläimiä {#purchased-animals}

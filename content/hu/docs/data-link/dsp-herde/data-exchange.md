@@ -6,7 +6,7 @@ draft: false
 description: >
   Szinkronizálja a VitalControl eszközön tárolt állatokat a *Herde* szoftverrel kezelt állatokkal, és továbbítsa a VitalControl eszközzel rögzített mért értékeket a *Herde* szoftverbe.
 weight: 20
-categories: [Adatcsere, DSP Herde]
+kategóriák: [Adatcsere, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Kövesse az alábbi lépéseket az adatok szinkronizálásához a `Herde` szoftver és a VitalControl eszköz között:

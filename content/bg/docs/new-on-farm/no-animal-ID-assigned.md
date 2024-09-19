@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Тук можете да видите всички животни, на които все още не е присвоен национален идентификационен номер на животно и да присвоите такъв.
-categories: [Нови на фермата]
-tags: [Нови на фермата]
+категории: [Нови на фермата]
+тагове: [Нови на фермата]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Не е присвоен национален идентификационен номер на животно {#no-national-animal-id-assigned}

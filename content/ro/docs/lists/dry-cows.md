@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Verifică lista vacilor tale uscate.
-categories: [Liste]
-tags: [Liste, vacă uscată]
+categorii: [Liste]
+etichete: [Liste, vacă uscată]
 translationKey: lists/dry-cows
 ---
 ## Lista vacilor uscate {#dry-cows-list}

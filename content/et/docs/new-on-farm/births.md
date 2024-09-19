@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Siin saate vaadata oma sünniregistreid ja luua ekspordifaili.
-categories: [Sünnid]
-tags: [Sünnid]
+kategooriad: [Sünnid]
+Sildid: [Sünnid]
 translationKey: new-on-farm/births
 ---
 ## Sünnid {#births}

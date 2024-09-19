@@ -6,8 +6,8 @@ weight: 110
 description: >
  Ta bort transponderlänken till ett djur
 date: 2023-07-26
-categories: [Transponder]
-tags: [Transponder]
+Kategorier: [Transponder]
+Taggar: [Transponder]
 translationKey: actions/transponder-unlink
 ---
 {{% alert title="Varning" color="warning" %}}

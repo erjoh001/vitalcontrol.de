@@ -6,8 +6,8 @@ weight: 70
 description: >
  Pane loomad valvele või eemalda nad sealt.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused, valve all]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, valve all]
 translationKey: actions/on-watch
 ---
 

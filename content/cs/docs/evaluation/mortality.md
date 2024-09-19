@@ -6,8 +6,8 @@ weight: 40
 description: >
  Vyhodnoťte svá uložená data v sekci úmrtnosti.
 date: 2023-07-26
-categories: [Hodnocení]
-tags: [Hodnocení, Úmrtnost]
+kategorie: [Hodnocení]
+štítky: [Hodnocení, Úmrtnost]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Tip" %}}

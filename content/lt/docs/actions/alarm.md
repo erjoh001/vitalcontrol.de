@@ -6,8 +6,8 @@ weight: 60
 description: >
  Pridėti ir pašalinti gyvūnus iš signalizacijos sąrašo.
 date: 2023-07-26
-categories: [Veiksmai]
-tags: [Veiksmai, Signalizacija]
+kategorijos: [Veiksmai]
+Žymos: [Veiksmai, Signalizacija]
 translationKey: actions/alarm
 ---
 

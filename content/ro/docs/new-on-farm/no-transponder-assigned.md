@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Aici puteți vizualiza toate animalele cărora nu li s-a atribuit încă un transponder și le puteți atribui un transponder.
-categories: [Nou pe fermă, ID național animal]
-tags: [Nou pe fermă, ID național animal]
+categorii: [Nou pe fermă, ID național animal]
+etichete: [Nou pe fermă, ID național animal]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Fără transponder atribuit {#no-transponder-assigned}

@@ -3,7 +3,7 @@ title: "RFID sken: test dosahu a diagnostika transpondérů"
 linkTitle: RFID sken
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnostika, RFID Sken]
+kategorie: [Diagnostika, RFID Sken]
 description: >
   Zkontrolujte dosah vašeho RFID skeneru nebo zobrazte čtecí protokol a čísla uložená na neznámých transpondérech.
 translationKey: diagnosis/rfid-scan

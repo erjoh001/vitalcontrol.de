@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Sprawdź komponenty sprzętowe swojego urządzenia VitalControl, szczególnie jeśli podejrzewasz usterkę sprzętową.
-categories: [Diagnoza, Sprzęt]
+kategorie: [Diagnoza, Sprzęt]
 weight: 10
 ---
 Jeśli na Twoim urządzeniu występuje usterka, najpierw powinieneś przeprowadzić kontrolę sprzętu, aby sprawdzić, czy którykolwiek z komponentów sprzętowych jest uszkodzony.

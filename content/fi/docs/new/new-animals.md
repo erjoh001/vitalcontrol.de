@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Kuinka luoda useita uudet eläimet VitalControl-laitteella yhdellä toimenpiteellä.
-categories: [Uudet eläimet]
-tags: [Uudet eläimet]
+luokat: [Uudet eläimet]
+tagit: [Uudet eläimet]
 translationKey: new/animals
 ---
 ## Luo useita uudet eläimet {#create-several-new-animals}

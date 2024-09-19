@@ -8,7 +8,7 @@ description: >
   Ange hur djur-ID ska tilldelas efter att transpondern har tagits bort.
 date: 2023-07-26
 Kategorien: [Inställningar]
-Tags: [Inställningar, Transponder, DjurID]
+Taggar: [Inställningar, Transponder, DjurID]
 translationKey: settings/unlink-transponder
 ---
 ## Avlänka Transponder {#unlink-transponder}

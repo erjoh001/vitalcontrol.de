@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Provádění více akcí zvířete po sobě
-categories: [Řetězec akcí]
-tags: [Řetězec akcí, Akce]
+kategorie: [Řetězec akcí]
+štítky: [Řetězec akcí, Akce]
 translationKey: action-chain
 ---
 ## Řetězec akcí {#chain-of-actions}

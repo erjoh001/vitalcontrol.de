@@ -6,8 +6,8 @@ weight: 30
 description: >
  Ohodnoťte svá zvířata.
 date: 2023-07-26
-categories: [Akce]
-tags: [Akce, Hodnocení]
+kategorie: [Akce]
+štítky: [Akce, Hodnocení]
 translationKey: actions/animal-rating
 ---
 

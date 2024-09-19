@@ -6,8 +6,8 @@ weight: 110
 description: >
  Užregistruokite gyvūno praradimą.
 date: 2023-07-26
-categories: [Veiksmai]
-tags: [Veiksmai, gyvūno-praradimas]
+kategorijos: [Veiksmai]
+Žymos: [Veiksmai, gyvūno-praradimas]
 translationKey: actions/animal-loss
 ---
 

@@ -6,7 +6,7 @@ draft: false
 description: >
   Määrake andmevahetuse sünkroniseerimisparameetrid tarkvara *Herde* ja seadme VitalControl vahel.
 weight: 10
-categories: [DSP Herde]
+kategooriad: [DSP Herde]
 translationKey: DSPherde/installation
 ---
 Enne esimest [andmevahetust](../data-exchange/), tuleb tehnoloogia ühendus VitalControl seadmega luua ja seadistada.

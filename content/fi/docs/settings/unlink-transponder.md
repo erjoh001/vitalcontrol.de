@@ -8,7 +8,7 @@ description: >
   Määritä, miten eläimen tunnus määritetään, kun lähetin on irrotettu.
 date: 2023-07-26
 Kategorien: [Asetukset]
-Tags: [Asetukset, Lähetin, EläimenID]
+tagit: [Asetukset, Lähetin, EläimenID]
 translationKey: settings/unlink-transponder
 ---
 ## Poista transponderin linkitys {#unlink-transponder}

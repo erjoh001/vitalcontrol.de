@@ -5,8 +5,8 @@ weight: 50
 description: >
  Hur man applicerar ett filter på en djurlista för att visa endast en delmängd av djuren som finns på enheten.
 date: 2023-07-26
-categories: [Filter]
-tags: [Filter]
+Kategorier: [Filter]
+Taggar: [Filter]
 translationKey: filter
 ---
 ## Applicera filter {#applying-filters}

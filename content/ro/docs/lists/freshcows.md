@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Facilitează controlul vacilor tale proaspete.
-categories: [Lists]
-tags: [Lists, fresh cow]
+categorii: [Lists]
+etichete: [Lists, fresh cow]
 translationKey: lists/fresh-cows
 ---
 ### Lista vacilor proaspete {#fresh-cows-list}

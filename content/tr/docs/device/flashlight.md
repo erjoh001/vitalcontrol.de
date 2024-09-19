@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   VitalControl cihazınızdaki ışığı açın veya kapatın
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+Kategoriler: [Device]
+Etiketler: [Device]
 translationKey: device/flashlight
 ---
 ## Işığı etkinleştirme ve devre dışı bırakma {#activate-and-deactivate-light}

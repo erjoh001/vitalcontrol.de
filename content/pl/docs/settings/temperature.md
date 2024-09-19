@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Ustawienia temperatury dla urządzenia VitalControl
-categories: [settings]
-tags: [settings, temperature, threshold, anus spotlight]
+kategorie: [settings]
+tagi: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
 ## Ustaw progi i zakresy temperatur {#set-the-threshold--temperature-ranges}

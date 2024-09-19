@@ -3,7 +3,7 @@ title: "RFID-skannaus: Aluetesti ja transponderien diagnostiikka"
 linkTitle: RFID-skannaus
 date: 2023-08-07T10:09:46+02:00
 draft: false
-categories: [Diagnostiikka, RFID-skannaus]
+luokat: [Diagnostiikka, RFID-skannaus]
 description: >
   Tarkista RFID-skannerisi kantama tai näytä lukuprotokolla ja tuntemattomien transponderien tallennetut numerot.
 translationKey: diagnosis/rfid-scan

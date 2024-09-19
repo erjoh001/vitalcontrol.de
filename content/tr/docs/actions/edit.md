@@ -6,8 +6,8 @@ weight: 90
 description: >
  Seçilen hayvanın verilerini düzenleyin.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, hayvan verileri, düzenle]
+Kategoriler: [Actions]
+Etiketler: [Actions, hayvan verileri, düzenle]
 translationKey: actions/edit
 ---
 

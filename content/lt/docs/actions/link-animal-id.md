@@ -6,8 +6,8 @@ weight: 115
 description: >
  Priskirti nacionalinį gyvūno ID gyvūnui, kuris neturi nacionalinio gyvūno ID
 date: 2023-07-26
-categories: [Nacionalinis gyvūno ID]
-tags: [Nacionalinis gyvūno ID]
+kategorijos: [Nacionalinis gyvūno ID]
+Žymos: [Nacionalinis gyvūno ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Įspėjimas" color="warning" %}}

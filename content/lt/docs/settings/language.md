@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Nustatykite ir nuolat išsaugokite vartotojo sąsajos kalbą savo VitalControl įrenginyje.
-categories: [Nustatymai]
-tags: [Nustatymai, Kalba]
+kategorijos: [Nustatymai]
+Žymos: [Nustatymai, Kalba]
 translationKey: settings/language
 ---
 ## Kalbos nustatymas {#setting-your-language}

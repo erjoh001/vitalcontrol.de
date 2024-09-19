@@ -7,8 +7,8 @@ slug: info
 description: >
   Peržiūrėkite svarbią programinės ir techninės įrangos informaciją
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategorijos: [Device]
+Žymos: [Device]
 translationKey: device/info
 no_list: true
 maphilight: true

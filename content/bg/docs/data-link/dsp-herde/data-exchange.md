@@ -6,7 +6,7 @@ draft: false
 description: >
   Синхронизирайте животните, съхранени в устройството VitalControl, с животните, управлявани от софтуера *Herde*, и прехвърлете измерените стойности, записани с устройството VitalControl, към софтуера *Herde*.
 weight: 20
-categories: [Обмен на данни, DSP Herde]
+категории: [Обмен на данни, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Следвайте стъпките по-долу за синхронизиране на данни между софтуера `Herde` и устройството VitalControl:

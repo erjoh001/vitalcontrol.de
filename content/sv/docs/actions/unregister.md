@@ -6,8 +6,8 @@ weight: 100
 description: >
  Avregistrera ett djur
 date: 2023-07-26
-categories: [Åtgärder]
-tags: [Åtgärder, Avregistrera]
+Kategorier: [Åtgärder]
+Taggar: [Åtgärder, Avregistrera]
 translationKey: actions/unregister
 ---
 {{% alert title="Varning" color="warning" %}}

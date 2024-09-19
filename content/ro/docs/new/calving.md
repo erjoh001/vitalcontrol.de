@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Cum să înregistrezi o nouă fătare folosind dispozitivul VitalControl.
-categories: [Fătare]
-tags: [Fătare]
+categorii: [Fătare]
+etichete: [Fătare]
 translationKey: new/calving
 ---
 ## Înregistrează o fătare {#register-a-calving}

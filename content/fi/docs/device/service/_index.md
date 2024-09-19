@@ -7,8 +7,8 @@ slug: service
 description: >
   Tarkista laitteesi ajurit, päivitä laiteohjelmistosi ja suorita kantomatkan testaus
 date: 2223-27-26
-categories: [Laite]
-tags: [Laite]
+luokat: [Laite]
+tagit: [Laite]
 translationKey: device/service
 no_list: true
 maphilight: true

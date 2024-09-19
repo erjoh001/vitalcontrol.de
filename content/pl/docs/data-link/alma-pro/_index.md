@@ -6,6 +6,6 @@ draft: false
 description: >
   Importuj wszystkie zwierzęta z karmnika do urządzenia VitalControl i przenieś zarejestrowane temperatury, wagi i oceny zwierząt do karmnika.
 weight: 20
-categories: [Alma Pro]
+kategorie: [Alma Pro]
 translationKey: alma-pro
 ---

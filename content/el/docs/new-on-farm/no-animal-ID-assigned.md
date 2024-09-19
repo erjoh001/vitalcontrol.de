@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Εδώ μπορείτε να δείτε όλα τα ζώα που δεν έχουν ακόμη ανατεθεί εθνικός αριθμός ταυτότητας ζώου και να αναθέσετε έναν εθνικό αριθμό ταυτότητας ζώου.
-categories: [Νέο στη φάρμα]
-tags: [Νέο στη φάρμα]
+κατηγορίες: [Νέο στη φάρμα]
+ετικέτες: [Νέο στη φάρμα]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Δεν έχει ανατεθεί εθνικός αριθμός ταυτότητας ζώου {#no-national-animal-id-assigned}

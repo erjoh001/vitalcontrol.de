@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Zde můžete zobrazit všechna zvířata, kterým dosud nebylo přiřazeno národní ID zvířete, a přiřadit jim národní ID zvířete.
-categories: [Nové na farmě]
-tags: [Nové na farmě]
+kategorie: [Nové na farmě]
+štítky: [Nové na farmě]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Není přiřazeno národní ID zvířete {#no-national-animal-id-assigned}

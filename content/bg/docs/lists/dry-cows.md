@@ -7,8 +7,8 @@ draft: false
 slug: dry-cows
 description: >
  Проверете вашия списък на сухите крави.
-categories: [Списъци]
-tags: [Списъци, суха крава]
+категории: [Списъци]
+тагове: [Списъци, суха крава]
 translationKey: lists/dry-cows
 ---
 ## Списък на сухите крави {#dry-cows-list}

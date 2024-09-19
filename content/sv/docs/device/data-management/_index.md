@@ -7,8 +7,8 @@ slug: data-management
 description: >
  Utför datorsäkerhetskopior, exportera dina data och återställ enheten
 date: 2023-07-26
-categories: [Enhet, Dataexport]
-tags: [Enhet, Dataexport]
+Kategorier: [Enhet, Dataexport]
+Taggar: [Enhet, Dataexport]
 translationKey: device/data-management
 no_list: true
 maphilight: true

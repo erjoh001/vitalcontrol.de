@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
   VitalControl cihazını kullanarak yeni bir hayvan nasıl kaydedilir.
-categories: [Yeni hayvan]
-tags: [Hayvan kaydı]
+Kategoriler: [Yeni hayvan]
+Etiketler: [Hayvan kaydı]
 translationKey: new/animal
 ---
 ## Yeni bir hayvan oluşturma {#create-a-new-animal}

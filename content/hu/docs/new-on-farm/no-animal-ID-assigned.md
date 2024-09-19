@@ -7,8 +7,8 @@ draft: false
 slug: no-national-animal-ID-assigned
 description: >
  Itt megtekintheti az összes olyan állatot, amelyhez még nem rendeltek nemzeti állatazonosítót, és hozzárendelhet egy nemzeti állatazonosítót.
-categories: [Új a farmon]
-tags: [Új a farmon]
+kategóriák: [Új a farmon]
+címkék: [Új a farmon]
 translationKey: new-on-farm/no-animal-ID-assigned
 ---
 ## Nincs nemzeti állatazonosító hozzárendelve {#no-national-animal-id-assigned}

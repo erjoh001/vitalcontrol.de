@@ -7,8 +7,8 @@ draft: false
 slug: animal-loss
 description: >
   Kuidas registreerida looma kadumist VitalControl seadmega.
-categories: [Animal-loss]
-tags: [Animal-loss]
+kategooriad: [Animal-loss]
+Sildid: [Animal-loss]
 translationKey: new/animal-loss
 ---
 ## Looma kadumise registreerimine {#record-the-loss-of-an-animal}

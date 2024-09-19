@@ -5,7 +5,7 @@ date: 2017-01-03
 weight: 20
 description: >
   Obnovení výchozích hodnot na vašem zařízení VitalControl provedením továrního resetu.
-categories: [Reset]
+kategorie: [Reset]
 translationKey: reset/factory
 ---
 ## Provedení továrního resetu {#performing-a-factory-reset}

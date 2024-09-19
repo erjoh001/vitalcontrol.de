@@ -7,8 +7,8 @@ slug: service
 description: >
   Ελέγξτε τους οδηγούς της συσκευής σας, ενημερώστε το firmware σας και εκτελέστε έναν έλεγχο εμβέλειας
 date: 2223-27-26
-categories: [Συσκευή]
-tags: [Συσκευή]
+κατηγορίες: [Συσκευή]
+ετικέτες: [Συσκευή]
 translationKey: device/service
 no_list: true
 maphilight: true

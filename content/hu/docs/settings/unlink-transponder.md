@@ -8,7 +8,7 @@ description: >
   Adja meg, hogyan lesz hozzárendelve az állat azonosítója, miután a transzpondert leválasztották.
 date: 2023-07-26
 Kategorien: [Beállítások]
-Tags: [Beállítások, Transzponder, ÁllatID]
+címkék: [Beállítások, Transzponder, ÁllatID]
 translationKey: settings/unlink-transponder
 ---
 ## Transzponder leválasztása {#unlink-transponder}

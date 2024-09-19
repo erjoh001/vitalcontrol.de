@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Tekintse meg az egyes állatokkal kapcsolatos fontos információkat.
-Categories: [Állat]
-tags: [Állat, Hőmérséklet, Magasság, Állat adatok]
+kategóriák: [Állat]
+címkék: [Állat, Hőmérséklet, Magasság, Állat adatok]
 translationKey: animal/animal
 ---
 ## Állat {#animal}

@@ -5,7 +5,7 @@ date: 2023-07-19
 weight: 15
 description: >
  Állat- és mérési adatok exportálása a VitalControl eszközről több CSV fájlba
-categories: [Adatok exportálása]
+kategóriák: [Adatok exportálása]
 translationKey: farmPC
 ---
 Járjon el az alábbiak szerint, hogy adatokat exportáljon a VitalControl eszközről a számítógépének tömegtároló eszközére:

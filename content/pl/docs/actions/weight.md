@@ -6,8 +6,8 @@ weight: 20
 description: >
   Zapisz wagę swoich zwierząt.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, weight]
+kategorie: [Actions]
+tagi: [Actions, weight]
 translationKey: actions/weight
 ---
 

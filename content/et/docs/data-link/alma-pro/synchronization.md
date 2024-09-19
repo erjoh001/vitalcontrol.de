@@ -6,7 +6,7 @@ draft: false
 description: >
   Sünkroniseeri VitalControl seadmes olevad loomad automaatse söötjaga registreeritud loomadega ja kanna VitalControl seadmega mõõdetud väärtused söötjale hindamise eesmärgil ja paremaks visualiseerimiseks üle.
 weight: 20
-categories: [Andmevahetus, Alma Pro]
+kategooriad: [Andmevahetus, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
 ## Ava USB port

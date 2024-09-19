@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Jak zaregistrovat nové telení pomocí zařízení VitalControl.
-categories: [Telení]
-tags: [Telení]
+kategorie: [Telení]
+štítky: [Telení]
 translationKey: new/calving
 ---
 ## Registrace telení {#register-a-calving}

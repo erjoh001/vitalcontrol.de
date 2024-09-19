@@ -6,8 +6,8 @@ weight: 10
 description: >
  Eylemler menü öğesi içinde sonraki hayvanı seçin.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions]
+Kategoriler: [Actions]
+Etiketler: [Actions]
 translationKey: actions/next-animal
 draft: true
 ---

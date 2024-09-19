@@ -4,7 +4,7 @@ linkTitle: "Tehase lähtestamine"
 date: 2017-01-03
 description: >
   Vaikimisi väärtuste taastamine teie VitalControl seadmel tehase lähtestamise teel.
-categories: [Reset]
+kategooriad: [Reset]
 translationKey: reset/factory
 ---
 ## Tehase lähtestamise teostamine {#performing-a-factory-reset}

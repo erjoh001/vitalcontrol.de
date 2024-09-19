@@ -6,8 +6,8 @@ weight: 120
 description: >
  Ställ in menyalternativen för Åtgärdsmenyn och ställ in åtgärdskedjan
 date: 2023-07-26
-categories: [Åtgärder, Åtgärdskedja]
-tags: [Åtgärder, Åtgärdskedja]
+Kategorier: [Åtgärder, Åtgärdskedja]
+Taggar: [Åtgärder, Åtgärdskedja]
 translationKey: actions/setting
 ---
 ## Menyalternativ {#menu-items}

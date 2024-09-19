@@ -6,8 +6,8 @@ weight: 30
 description: >
  Arvioi tallennetut tietosi arvosteluosiossa.
 date: 2023-07-26
-categories: [Arviointi]
-tags: [Arviointi, Arvostelu]
+luokat: [Arviointi]
+tagit: [Arviointi, Arvostelu]
 translationKey: evaluation/rating
 ---
 {{% alert title="Vihje" %}}

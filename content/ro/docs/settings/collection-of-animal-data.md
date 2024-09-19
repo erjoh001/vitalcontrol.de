@@ -7,8 +7,8 @@ draft: false
 slug: data-acquisition
 description: >
  Stocarea setărilor relevante pentru colectarea datelor despre animale
-categories: [settings]
-tags: [settings, data acquisition]
+categorii: [settings]
+etichete: [settings, data acquisition]
 translationKey: settings/data-acquisition
 maphilight: true
 ---

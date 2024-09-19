@@ -6,8 +6,8 @@ weight: 50
 description: >
  Aplicarea și setarea lanțului de acțiuni.
 date: 2023-07-26
-categories: [Acțiuni]
-tags: [Acțiuni, lanț de acțiuni]
+categorii: [Acțiuni]
+etichete: [Acțiuni, lanț de acțiuni]
 manualLink: /en/docs/chain-of-actions/
 ---
 <script>

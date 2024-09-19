@@ -7,8 +7,8 @@ draft: false
 slug: animal-loss
 description: >
   Как да регистрирате загубата на животно с устройството VitalControl.
-categories: [Animal-loss]
-tags: [Animal-loss]
+категории: [Animal-loss]
+тагове: [Animal-loss]
 translationKey: new/animal-loss
 ---
 ## Регистриране на загуба на животно {#record-the-loss-of-an-animal}

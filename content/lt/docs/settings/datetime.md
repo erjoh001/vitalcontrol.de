@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Čia nustatote datą ir laiką.
-categories: [Nustatymai]
-tags: [Nustatymai, Data ir laikas]
+kategorijos: [Nustatymai]
+Žymos: [Nustatymai, Data ir laikas]
 translationKey: settings/datetime
 ---
 ## Nustatyti datą {#to-set-the-date}

@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Kirjeldus nelja ekspordi käigus loodud andmefaili struktuuri ja sisu kohta.
-categories: [Andmete eksport]
-tags: [ekspordifailid, temperatuurid, kaalud, hinnangud]
+kategooriad: [Andmete eksport]
+Sildid: [ekspordifailid, temperatuurid, kaalud, hinnangud]
 slug: export-files
 translationKey: data-export/data-files
 ---

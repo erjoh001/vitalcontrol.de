@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Улеснете контрола на вашите новотелни крави.
-categories: [Списъци]
-tags: [Списъци, новотелна крава]
+категории: [Списъци]
+тагове: [Списъци, новотелна крава]
 translationKey: lists/fresh-cows
 ---
 ### Списък с новотелни крави {#fresh-cows-list}

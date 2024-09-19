@@ -6,8 +6,8 @@ weight: 110
 description: >
  Registrera en djurförlust.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, animal-loss]
+Kategorier: [Actions]
+Taggar: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
 

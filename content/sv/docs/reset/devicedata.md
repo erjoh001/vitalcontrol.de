@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Lär dig hur du återställer alla enhetsinställningar på VitalControl-enheten.
-categories: [Återställning]
+Kategorier: [Återställning]
 ---
 ## Återställning av all enhetsdata {#resetting-all-device-data}
 

@@ -6,7 +6,7 @@ draft: false
 description: >
   Před prvním použitím VitalControl je nutné jej jednorázově aktivovat v nastavení krmítka Alma Pro.
 weight: 10
-categories: [Alma Pro]
+kategorie: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

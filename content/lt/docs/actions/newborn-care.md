@@ -7,8 +7,8 @@ weight: 120
 description: >
  Užfiksuokite svarbius naujagimio priežiūros aspektus.
 date: 2023-07-26
-categories: [Veiksmai]
-tags: [Veiksmai, naujagimio priežiūra]
+kategorijos: [Veiksmai]
+Žymos: [Veiksmai, naujagimio priežiūra]
 translationKey: actions/newborn-care
 ---
 

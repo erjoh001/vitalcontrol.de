@@ -7,8 +7,8 @@ draft: false
 slug: datetime
 description: >
   Itt állíthatja be a dátumot és az időt.
-categories: [Beállítások]
-tags: [Beállítások, Dátum és idő]
+kategóriák: [Beállítások]
+címkék: [Beállítások, Dátum és idő]
 translationKey: settings/datetime
 ---
 ## A dátum beállítása {#to-set-the-date}

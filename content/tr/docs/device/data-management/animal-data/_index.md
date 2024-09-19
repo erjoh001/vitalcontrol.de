@@ -7,8 +7,8 @@ slug: animal-data
 description: >
  Hayvan verilerinizi dışa aktarın
 date: 2023-07-26
-categories: [Cihaz, Veri dışa aktarma]
-tags: [Cihaz, Veri dışa aktarma]
+Kategoriler: [Cihaz, Veri dışa aktarma]
+Etiketler: [Cihaz, Veri dışa aktarma]
 translationKey: device/animal-data
 no_list: true
 maphilight: true

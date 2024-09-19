@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Lülita oma VitalControl seadme valgus sisse või välja
 date: 2023-07-26
-categories: [Seade]
-tags: [Seade]
+kategooriad: [Seade]
+Sildid: [Seade]
 translationKey: device/flashlight
 ---
 ## Aktiveeri ja deaktiveeri valgus {#activate-and-deactivate-light}

@@ -7,8 +7,8 @@ slug: service
 description: >
   Patikrinkite savo įrenginio tvarkykles, atnaujinkite programinę įrangą ir atlikite diapazono testą
 date: 2223-27-26
-categories: [Įrenginys]
-tags: [Įrenginys]
+kategorijos: [Įrenginys]
+Žymos: [Įrenginys]
 translationKey: device/service
 no_list: true
 maphilight: true

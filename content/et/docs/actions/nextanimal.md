@@ -6,8 +6,8 @@ weight: 10
 description: >
  Valige menüüpunktist Tegevused järgmine loom.
 date: 2023-07-26
-categories: [Tegevused]
-tags: [Tegevused]
+kategooriad: [Tegevused]
+Sildid: [Tegevused]
 translationKey: actions/next-animal
 draft: true
 ---

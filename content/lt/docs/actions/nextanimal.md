@@ -6,8 +6,8 @@ weight: 10
 description: >
  Pasirinkite kitą gyvūną veiksmų meniu punkte.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions]
+kategorijos: [Actions]
+Žymos: [Actions]
 translationKey: actions/next-animal
 draft: true
 ---

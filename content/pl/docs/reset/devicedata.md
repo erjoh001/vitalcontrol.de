@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Dowiedz się, jak zresetować wszystkie ustawienia urządzenia VitalControl.
-categories: [Reset]
+kategorie: [Reset]
 ---
 ## Resetowanie wszystkich danych urządzenia {#resetting-all-device-data}
 

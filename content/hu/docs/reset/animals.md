@@ -4,7 +4,7 @@ linkTitle: "Állat adatok"
 date: 2017-01-02
 description: >
   Tanulja meg, hogyan törölheti az összes állatot és azok adatait a VitalControl eszközéről.
-categories: [Reset]
+kategóriák: [Reset]
 ---
 ## Az összes állat adatainak törlése az eszközről {#erasing-all-animal-data-from-device}
 

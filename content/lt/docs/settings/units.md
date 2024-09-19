@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Čia galite pasirinkti temperatūros ir masės vienetus.
-categories: [settings]
-tags: [settings, units]
+kategorijos: [settings]
+Žymos: [settings, units]
 translationKey: settings/units
 ---
 ## Nustatyti temperatūros vienetą {#set-temperature-unit}

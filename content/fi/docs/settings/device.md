@@ -7,8 +7,8 @@ slug: device
 description: >
  Täällä voit säätää erilaisia laiteasetuksia.
 date: 2023-07-26
-categories: [asetukset]
-tags: [asetukset, laite]
+luokat: [asetukset]
+tagit: [asetukset, laite]
 translationKey: settings/device
 ---
 ## Sammuta laite tämän jälkeen {#shutdown-device-after}

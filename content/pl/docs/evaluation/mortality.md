@@ -6,8 +6,8 @@ weight: 40
 description: >
  Oceń swoje przechowywane dane w sekcji śmiertelności.
 date: 2023-07-26
-categories: [Ocena]
-tags: [Ocena, Śmiertelność]
+kategorie: [Ocena]
+tagi: [Ocena, Śmiertelność]
 translationKey: evaluation/mortality
 ---
 {{% alert title="Wskazówka" %}}

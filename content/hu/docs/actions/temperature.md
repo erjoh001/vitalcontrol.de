@@ -6,8 +6,8 @@ weight: 10
 description: >
   Mérje meg állatai lázát.
 date: 2023-07-26
-Categories: [Actions]
-tags: [Actions, fever, temperature]
+kategóriák: [Actions]
+címkék: [Actions, fever, temperature]
 translationKey: actions/temperature
 ---
 

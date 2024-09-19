@@ -7,8 +7,8 @@ draft: false
 slug: calving
 description: >
   Hur man registrerar en ny kalvning med hjälp av VitalControl-enheten.
-categories: [Kalvning]
-tags: [Kalvning]
+Kategorier: [Kalvning]
+Taggar: [Kalvning]
 translationKey: new/calving
 ---
 ## Registrera en kalvning {#register-a-calving}

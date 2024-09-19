@@ -7,8 +7,8 @@ draft: false
 slug: chain-of-actions
 description: >
  Mitme loomategevuse järjestikune sooritamine
-categories: [Tegevuste ahel]
-tags: [Tegevuste ahel, Tegevused]
+kategooriad: [Tegevuste ahel]
+sildid: [Tegevuste ahel, Tegevused]
 translationKey: action-chain
 ---
 ## Tegevuste ahel {#chain-of-actions}

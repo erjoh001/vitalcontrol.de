@@ -7,8 +7,8 @@ draft: false
 slug: animal-loss
 description: >
   Kuinka rekisteröidä eläimen menetys käyttäen VitalControl-laitetta.
-categories: [Animal-loss]
-tags: [Animal-loss]
+luokat: [Animal-loss]
+tagit: [Animal-loss]
 translationKey: new/animal-loss
 ---
 ## Rekisteröi eläimen menetys {#record-the-loss-of-an-animal}

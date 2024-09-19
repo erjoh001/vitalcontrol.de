@@ -6,8 +6,8 @@ weight: 100
 description: >
  Állat törlése
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Unregister]
+kategóriák: [Actions]
+címkék: [Actions, Unregister]
 translationKey: actions/unregister
 ---
 {{% alert title="Figyelem" color="warning" %}}

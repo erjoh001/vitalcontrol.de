@@ -7,8 +7,8 @@ slug: service
 description: >
   Zkontrolujte ovladače zařízení, aktualizujte firmware a proveďte test dosahu
 date: 2223-27-26
-categories: [Zařízení]
-tags: [Zařízení]
+kategorie: [Zařízení]
+štítky: [Zařízení]
 translationKey: device/service
 no_list: true
 maphilight: true

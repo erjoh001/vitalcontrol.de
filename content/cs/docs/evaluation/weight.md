@@ -6,8 +6,8 @@ weight: 10
 description: >
  Vyhodnoťte svá uložená data v sekci Hmotnost.
 date: 2023-07-26
-categories: [Vyhodnocení]
-tags: [Vyhodnocení, hmotnost]
+kategorie: [Vyhodnocení]
+štítky: [Vyhodnocení, hmotnost]
 translationKey: evaluation/weight
 maphilight: true
 ---

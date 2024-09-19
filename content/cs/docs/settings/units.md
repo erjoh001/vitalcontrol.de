@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Zde vyberete jednotky pro teplotu a hmotnost.
-categories: [settings]
-tags: [settings, units]
+kategorie: [settings]
+štítky: [settings, units]
 translationKey: settings/units
 ---
 ## Nastavení jednotky teploty {#set-temperature-unit}

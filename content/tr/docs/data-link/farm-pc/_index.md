@@ -5,7 +5,7 @@ date: 2023-07-19
 weight: 15
 description: >
  VitalControl cihazından hayvan verilerini ve ölçüm değerlerini çeşitli CVS dosyalarına aktarın
-categories: [Veri aktarımı]
+Kategoriler: [Veri aktarımı]
 translationKey: farmPC
 ---
 VitalControl'dan bilgisayarınızın bir kütle depolama cihazına veri aktarmak için aşağıdaki adımları izleyin:

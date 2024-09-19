@@ -6,8 +6,8 @@ weight: 115
 description: >
  Szárítsa le a tehenet vagy adja hozzá a friss tehenek listájához
 date: 2023-07-26
-categories: [Szárítás]
-tags: [Szárítás]
+kategóriák: [Szárítás]
+címkék: [Szárítás]
 translationKey: actions/dry-cows
 ---
 

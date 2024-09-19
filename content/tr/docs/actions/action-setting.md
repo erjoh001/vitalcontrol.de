@@ -6,8 +6,8 @@ weight: 120
 description: >
  Eylem menüsü için menü öğelerini ayarlayın ve eylem zincirini ayarlayın
 date: 2023-07-26
-categories: [Eylemler, Eylem Zinciri]
-tags: [Eylemler, Eylem zinciri]
+Kategoriler: [Eylemler, Eylem Zinciri]
+Etiketler: [Eylemler, Eylem zinciri]
 translationKey: actions/setting
 ---
 ## Menü öğeleri {#menu-items}

@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Kapcsolja be vagy ki a fényt a VitalControl készülékén
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+kategóriák: [Device]
+címkék: [Device]
 translationKey: device/flashlight
 ---
 ## Fény aktiválása és deaktiválása {#activate-and-deactivate-light}

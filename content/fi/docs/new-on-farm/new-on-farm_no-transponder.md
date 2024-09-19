@@ -7,8 +7,8 @@ draft: false
 slug: new-no-transponder
 description: >
   Tässä voit liittää tunnistimen uusille eläimille, joilla ei vielä ole tunnistinta.
-categories: [Uusi tilalla, tunnistin]
-tags: [Uusi tilalla, tunnistin]
+luokat: [Uusi tilalla, tunnistin]
+tagit: [Uusi tilalla, tunnistin]
 translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Uusi tilalla, ei transponderia {#new-on-farm-no-transponder}

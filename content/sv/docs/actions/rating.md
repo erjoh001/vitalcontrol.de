@@ -6,8 +6,8 @@ weight: 30
 description: >
  Betygsätt dina djur.
 date: 2023-07-26
-categories: [Åtgärder]
-tags: [Åtgärder, Betyg]
+Kategorier: [Åtgärder]
+Taggar: [Åtgärder, Betyg]
 translationKey: actions/animal-rating
 ---
 

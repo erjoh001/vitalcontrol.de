@@ -7,8 +7,8 @@ weight: 120
 description: >
  Zaznamenejte důležité aspekty péče o novorozence.
 date: 2023-07-26
-categories: [Akce]
-tags: [Akce, péče o novorozence]
+kategorie: [Akce]
+štítky: [Akce, péče o novorozence]
 translationKey: actions/newborn-care
 ---
 

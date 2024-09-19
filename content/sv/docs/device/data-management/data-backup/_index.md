@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Utför databackuper
 date: 2023-07-26
-categories: [Enhet, Dataexport]
-tags: [Enhet, Dataexport]
+Kategorier: [Enhet, Dataexport]
+Taggar: [Enhet, Dataexport]
 translationKey: device/save-data
 no_list: true
 maphilight: true

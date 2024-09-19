@@ -4,7 +4,7 @@ linkTitle: "Δεδομένα ζώων"
 date: 2017-01-02
 description: >
   Μάθετε πώς να διαγράφετε όλα τα ζώα και τα δεδομένα τους από τη συσκευή σας VitalControl.
-categories: [Reset]
+κατηγορίες: [Reset]
 ---
 ## Διαγραφή όλων των δεδομένων ζώων από τη συσκευή {#erasing-all-animal-data-from-device}
 

@@ -6,6 +6,6 @@ draft: false
 description: >
   Καταγράψτε εύκολα θερμοκρασίες, βάρη και δεδομένα υγείας με τη συσκευή VitalControl και εισάγετε τα καταγεγραμμένα δεδομένα στο λογισμικό *Herde*.
 weight: 30
-categories: [DSP Herde]
+κατηγορίες: [DSP Herde]
 translationKey: DSPherde
 ---

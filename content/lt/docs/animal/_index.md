@@ -7,8 +7,8 @@ draft: false
 slug: animal
 description: >
  Peržiūrėkite svarbią informaciją, susijusią su atskirais gyvūnais.
-Categories: [Animal]
-tags: [Animal, Temperature, Height, Animal data]
+kategorijos: [Animal]
+Žymos: [Animal, Temperature, Height, Animal data]
 translationKey: animal/animal
 ---
 ## Gyvūnas {#animal}

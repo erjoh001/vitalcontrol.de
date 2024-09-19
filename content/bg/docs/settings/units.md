@@ -7,8 +7,8 @@ draft: false
 slug: units
 description: >
  Тук избирате мерни единици за температура и маса.
-categories: [settings]
-tags: [settings, units]
+категории: [settings]
+тагове: [settings, units]
 translationKey: settings/units
 ---
 ## Задаване на мерна единица за температура {#set-temperature-unit}

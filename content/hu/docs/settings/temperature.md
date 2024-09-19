@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Állítsa be a hőmérsékleti beállításokat a VitalControl készülékéhez
-categories: [settings]
-tags: [settings, temperature, threshold, anus spotlight]
+kategóriák: [settings]
+címkék: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
 ## Küszöbértékek és hőmérsékleti tartományok beállítása {#set-the-threshold--temperature-ranges}

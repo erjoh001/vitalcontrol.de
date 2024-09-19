@@ -7,8 +7,8 @@ slug: flashlight
 description: >
   Zapněte nebo vypněte světlo na vašem zařízení VitalControl
 date: 2023-07-26
-categories: [Zařízení]
-tags: [Zařízení]
+kategorie: [Zařízení]
+štítky: [Zařízení]
 translationKey: device/flashlight
 ---
 ## Aktivace a deaktivace světla {#activate-and-deactivate-light}

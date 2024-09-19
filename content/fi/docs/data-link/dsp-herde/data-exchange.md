@@ -6,7 +6,7 @@ draft: false
 description: >
   Synkronoi VitalControl-laitteella tallennetut eläimet *Herde*-ohjelmistossa hallittavien eläinten kanssa ja siirrä VitalControl-laitteella mitatut arvot *Herde*-ohjelmistoon.
 weight: 20
-categories: [Tietojen vaihto, DSP Herde]
+luokat: [Tietojen vaihto, DSP Herde]
 translationKey: DSPherde/data-exchange
 ---
 Noudata alla olevia ohjeita synkronoidaksesi tietoja `Herde`-ohjelmiston ja VitalControl-laitteen välillä:

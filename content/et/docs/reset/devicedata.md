@@ -6,7 +6,7 @@ slug: device-data
 date: 2024-05-14
 description: >
   Õppige, kuidas lähtestada kõik VitalControl seadme seaded.
-categories: [Lähtestamine]
+kategooriad: [Lähtestamine]
 ---
 ## Kõigi seadme andmete lähtestamine {#resetting-all-device-data}
 

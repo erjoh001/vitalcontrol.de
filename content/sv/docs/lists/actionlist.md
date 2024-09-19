@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Kolla in din åtgärdslista.
-categories: [Lists]
-tags: [Lists, Action]
+Kategorier: [Lists]
+Taggar: [Lists, Action]
 translationKey: lists/action
 ---
 ## Åtgärdslista {#action-list}

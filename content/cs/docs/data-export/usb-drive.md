@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Exportujte soubory CVS obsahující data o zvířatech a hodnoty měření uložené na zařízení VitalControl na USB flash disk.
-categories: [Export dat]
-tags: [CSV soubory, USB flash disk]
+kategorie: [Export dat]
+štítky: [CSV soubory, USB flash disk]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/cs "Pro provedení exportu dat vašeho zařízení," %}}

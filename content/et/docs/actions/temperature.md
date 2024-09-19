@@ -6,8 +6,8 @@ weight: 10
 description: >
   Mõõda oma loomade palavikku.
 date: 2023-07-26
-Categories: [Tegevused]
-tags: [Tegevused, palavik, temperatuur]
+kategooriad: [Tegevused]
+Sildid: [Tegevused, palavik, temperatuur]
 translationKey: actions/temperature
 ---
 

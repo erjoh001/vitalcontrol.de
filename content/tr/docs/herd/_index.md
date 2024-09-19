@@ -7,8 +7,8 @@ draft: false
 slug: herd
 description: >
  Sürünüz hakkında önemli bilgileri görüntüleyin.
-categories: [Sürü]
-tags: [Sürü, Sıcaklık, Ağırlık, Derecelendirme, Hayvan verileri]
+Kategoriler: [Sürü]
+Etiketler: [Sürü, Sıcaklık, Ağırlık, Derecelendirme, Hayvan verileri]
 translationKey: herd
 ---
 ## Sürü {#herd}

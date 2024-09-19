@@ -5,8 +5,8 @@ weight: 50
 description: >
  Kuidas rakendada loomade nimekirjale filtrit, et kuvada ainult seadmes olevate loomade alamhulk.
 date: 2023-07-26
-categories: [Filter]
-tags: [Filter]
+kategooriad: [Filter]
+Sildid: [Filter]
 translationKey: filter
 ---
 ## Filtreerimine {#applying-filters}

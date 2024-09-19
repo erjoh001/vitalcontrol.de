@@ -6,8 +6,8 @@ draft: false
 weight: 10
 description: >
   Aseta ja tallenna pysyvästi käyttöliittymän kieli VitalControl-laitteellasi.
-categories: [Asetukset]
-tags: [Asetukset, Kieli]
+luokat: [Asetukset]
+tagit: [Asetukset, Kieli]
 translationKey: settings/language
 ---
 ## Kielen asettaminen {#setting-your-language}

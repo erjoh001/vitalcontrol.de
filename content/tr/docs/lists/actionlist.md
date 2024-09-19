@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Eylem listenizi kontrol edin.
-categories: [Listeler]
-tags: [Listeler, Eylem]
+Kategoriler: [Listeler]
+Etiketler: [Listeler, Eylem]
 translationKey: lists/action
 ---
 ## Eylem listesi {#action-list}

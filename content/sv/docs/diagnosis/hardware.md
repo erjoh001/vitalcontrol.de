@@ -6,7 +6,7 @@ draft: false
 translationKey: diagnosis/hardware
 description: >
   Kontrollera hårdvarukomponenterna på din VitalControl-enhet, särskilt om du misstänker ett hårdvarufel.
-categories: [Diagnos, Hårdvara]
+Kategorier: [Diagnos, Hårdvara]
 weight: 10
 ---
 Om det finns ett fel på din enhet bör du först utföra en hårdvarukontroll för att klargöra om någon av hårdvarukomponenterna är defekt.

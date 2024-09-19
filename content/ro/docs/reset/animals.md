@@ -5,7 +5,7 @@ date: 2017-01-02
 weight: 30
 description: >
   Aflați cum să ștergeți toate animalele și datele lor de pe dispozitivul dvs. VitalControl.
-categories: [Resetare]
+categorii: [Resetare]
 ---
 ## Ștergerea tuturor datelor despre animale de pe dispozitiv {#erasing-all-animal-data-from-device}
 

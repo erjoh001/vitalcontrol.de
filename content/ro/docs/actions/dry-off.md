@@ -6,8 +6,8 @@ weight: 115
 description: >
  Uscarea unei vaci sau adăugarea ei pe lista vacilor proaspete
 date: 2023-07-26
-categories: [Uscare]
-tags: [Uscare]
+categorii: [Uscare]
+etichete: [Uscare]
 translationKey: actions/dry-cows
 ---
 

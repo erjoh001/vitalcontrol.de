@@ -3,8 +3,8 @@ title: Număr fermă
 linkTitle: Număr fermă
 date: 2023-07-26
 weight: 80
-categories: [Setări]
-tags: [Setări, Număr fermă]
+categorii: [Setări]
+etichete: [Setări, Număr fermă]
 description: >
   Salvați permanent ID-ul național oficial de fermă de douăsprezece cifre pe dispozitivul VitalControl.
 translationKey: settings/farm-number

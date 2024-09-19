@@ -6,6 +6,6 @@ draft: false
 description: >
   Εισαγωγή όλων των ζώων από το ταϊστρά στη συσκευή VitalControl και μεταφορά καταγεγραμμένων θερμοκρασιών, βαρών και αξιολογήσεων ζώων στο ταϊστρά.
 weight: 20
-categories: [Alma Pro]
+κατηγορίες: [Alma Pro]
 translationKey: alma-pro
 ---

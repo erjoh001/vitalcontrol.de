@@ -6,8 +6,8 @@ weight: 60
 description: >
  Hayvanları alarm listesine ekleyin ve çıkarın.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, Alarm]
+Kategoriler: [Actions]
+Etiketler: [Actions, Alarm]
 translationKey: actions/alarm
 ---
 

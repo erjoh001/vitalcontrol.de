@@ -6,8 +6,8 @@ weight: 30
 description: >
  Αξιολογήστε τα ζώα σας.
 date: 2023-07-26
-categories: [Ενέργειες]
-tags: [Ενέργειες, Αξιολόγηση]
+κατηγορίες: [Ενέργειες]
+ετικέτες: [Ενέργειες, Αξιολόγηση]
 translationKey: actions/animal-rating
 ---
 

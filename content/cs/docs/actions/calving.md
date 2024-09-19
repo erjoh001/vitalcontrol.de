@@ -6,8 +6,8 @@ weight: 115
 description: >
  Registrace telení
 date: 2023-07-26
-categories: [Telení]
-tags: [Telení]
+kategorie: [Telení]
+štítky: [Telení]
 translationKey: actions/calving
 ---
 {{% alert title="Tip" %}}

@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 30
 description: >
   Dışa aktarma sırasında oluşturulan dört veri dosyasının yapısının ve içeriğinin açıklaması.
-categories: [Veri dışa aktarma]
-tags: [dışa aktarma dosyaları, sıcaklıklar, ağırlıklar, derecelendirmeler]
+Kategoriler: [Veri dışa aktarma]
+Etiketler: [dışa aktarma dosyaları, sıcaklıklar, ağırlıklar, derecelendirmeler]
 slug: export-files
 translationKey: data-export/data-files
 ---

@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Podívejte se na svůj seznam alarmů.
-categories: [Seznamy]
-tags: [Seznamy, alarm]
+kategorie: [Seznamy]
+štítky: [Seznamy, alarm]
 translationKey: lists/alarm
 ---
 ## Seznam alarmů {#alarm-list}

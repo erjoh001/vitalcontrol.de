@@ -7,8 +7,8 @@ draft: false
 slug: animal-registration
 description: >
   Εδώ μπορείτε να προσαρμόσετε διάφορες προκαθορισμένες ρυθμίσεις σχετικά με την εγγραφή νέων ζώων στις απαιτήσεις της φάρμας σας.
-categories: [settings]
-tags: [settings, Default values]
+κατηγορίες: [settings]
+ετικέτες: [settings, Default values]
 translationKey: settings/new-animals
 ---
 ## Ορισμός προεπιλεγμένων τιμών {#set-default-values}

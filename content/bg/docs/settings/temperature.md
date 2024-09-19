@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Настройте температурните настройки за приложението на вашето устройство VitalControl
-categories: [settings]
-tags: [settings, temperature, threshold, anus spotlight]
+категории: [settings]
+тагове: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
 ## Задайте праговете и температурните диапазони {#set-the-threshold--temperature-ranges}

@@ -6,6 +6,6 @@ draft: false
 description: >
   Импортирайте всички животни от хранилката в устройството VitalControl и прехвърлете записаните температури, тегла и оценки на животните обратно в хранилката.
 weight: 20
-categories: [Alma Pro]
+категории: [Alma Pro]
 translationKey: alma-pro
 ---

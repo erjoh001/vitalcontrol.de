@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Διευκολύνετε τον έλεγχο των φρέσκων αγελάδων σας.
-categories: [Λίστες]
-tags: [Λίστες, φρέσκια αγελάδα]
+κατηγορίες: [Λίστες]
+ετικέτες: [Λίστες, φρέσκια αγελάδα]
 translationKey: lists/fresh-cows
 ---
 ### Λίστα φρέσκων αγελάδων {#fresh-cows-list}

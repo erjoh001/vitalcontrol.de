@@ -7,8 +7,8 @@ draft: false
 slug: actions
 description: >
  Verifică lista ta de acțiuni.
-categories: [Lists]
-tags: [Lists, Action]
+categorii: [Lists]
+etichete: [Lists, Action]
 translationKey: lists/action
 ---
 ## Listă de acțiuni {#action-list}

@@ -7,8 +7,8 @@ slug: service
 description: >
   Kontrollera dina enhetsdrivrutiner, uppdatera din firmware och utför ett räckviddstest
 date: 2223-27-26
-categories: [Device]
-tags: [Device]
+Kategorier: [Device]
+Taggar: [Device]
 translationKey: device/service
 no_list: true
 maphilight: true

@@ -6,8 +6,8 @@ weight: 120
 description: >
  Nustatykite meniu elementus Veiksmų meniu ir nustatykite veiksmų grandinę
 date: 2023-07-26
-categories: [Veiksmai, Veiksmų grandinė]
-tags: [Veiksmai, Veiksmų grandinė]
+kategorijos: [Veiksmai, Veiksmų grandinė]
+Žymos: [Veiksmai, Veiksmų grandinė]
 translationKey: actions/setting
 ---
 ## Meniu elementai {#menu-items}

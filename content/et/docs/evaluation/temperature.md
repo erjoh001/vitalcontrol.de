@@ -6,8 +6,8 @@ weight: 20
 description: >
  Hinda oma salvestatud andmeid Temperatuuri sektsioonis.
 date: 2023-07-26
-categories: [Hindamine]
-tags: [Hindamine, Temperatuur]
+kategooriad: [Hindamine]
+Sildid: [Hindamine, Temperatuur]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Vihje" %}}

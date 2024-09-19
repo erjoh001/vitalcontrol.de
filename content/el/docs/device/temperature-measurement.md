@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Δοκιμάστε τη μέτρηση θερμοκρασίας της συσκευής σας
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+κατηγορίες: [Device]
+ετικέτες: [Device]
 translationKey: device/temperature-measurement
 ---
 ## Δοκιμή μέτρησης θερμοκρασίας {#test-temperature-measurement}

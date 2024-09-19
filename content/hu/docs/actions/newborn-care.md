@@ -7,8 +7,8 @@ weight: 120
 description: >
  Fontos szempontok rögzítése az újszülött gondozásában.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, újszülött gondozása]
+kategóriák: [Actions]
+címkék: [Actions, újszülött gondozása]
 translationKey: actions/newborn-care
 ---
 

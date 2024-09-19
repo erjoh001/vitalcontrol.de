@@ -6,7 +6,7 @@ draft: false
 description: >
   VitalControl'u ilk kez kullanmadan önce, Alma Pro yemlik ayarlarında bir kez etkinleştirmeniz gerekir.
 weight: 10
-categories: [Alma Pro]
+Kategoriler: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

@@ -5,7 +5,7 @@ date: 2023-07-19
 weight: 15
 description: >
  Loomade andmete ja mõõtmisväärtuste eksportimine VitalControl seadmest mitmesse CVS-faili
-categories: [Andmete eksport]
+kategooriad: [Andmete eksport]
 translationKey: farmPC
 ---
 Järgige järgmisi samme, et eksportida andmeid VitalControl seadmest massmäluseadmesse arvutis:

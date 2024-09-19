@@ -7,8 +7,8 @@ slug: temperature-measurement
 description: >
  Cihazınızın sıcaklık ölçümünü test edin
 date: 2023-07-26
-categories: [Device]
-tags: [Device]
+Kategoriler: [Device]
+Etiketler: [Device]
 translationKey: device/temperature-measurement
 ---
 ## Sıcaklık ölçümünü test et {#test-temperature-measurement}

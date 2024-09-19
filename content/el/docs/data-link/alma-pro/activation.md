@@ -6,7 +6,7 @@ draft: false
 description: >
   Πριν χρησιμοποιήσετε το VitalControl για πρώτη φορά, πρέπει να το ενεργοποιήσετε μία φορά στις ρυθμίσεις του ταΐστρα Alma Pro.
 weight: 10
-categories: [Alma Pro]
+κατηγορίες: [Alma Pro]
 translationKey: alma-pro/activation
 ---
 

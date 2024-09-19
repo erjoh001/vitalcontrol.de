@@ -7,8 +7,8 @@ draft: false
 slug: animals
 description: >
   Jak vytvořit více nových zvířat na zařízení VitalControl pomocí jedné akce.
-categories: [Nová zvířata]
-tags: [Nová zvířata]
+kategorie: [Nová zvířata]
+štítky: [Nová zvířata]
 translationKey: new/animals
 ---
 ## Vytvoření několika nových zvířat {#create-several-new-animals}

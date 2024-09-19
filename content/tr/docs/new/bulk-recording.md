@@ -7,8 +7,8 @@ draft: false
 slug: bulk-recording
 description: >
   Çeşitli hayvanları kaydetmek için barkod tarayıcıyı kullanın.
-categories: [Toplu kayıt]
-tags: [Toplu kayıt]
+Kategoriler: [Toplu kayıt]
+Etiketler: [Toplu kayıt]
 translationKey: new/bulk-recording
 ---
 ## Toplu kayıt {#bulk-recording}

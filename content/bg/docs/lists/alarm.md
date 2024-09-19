@@ -7,8 +7,8 @@ draft: false
 slug: alarm
 description: >
   Разгледайте вашия списък с аларми.
-categories: [Списъци]
-tags: [Списъци, аларма]
+категории: [Списъци]
+тагове: [Списъци, аларма]
 translationKey: lists/alarm
 ---
 ## Списък с аларми {#alarm-list}

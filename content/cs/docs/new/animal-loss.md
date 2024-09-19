@@ -7,8 +7,8 @@ draft: false
 slug: animal-loss
 description: >
   Jak zaregistrovat ztrátu zvířete pomocí zařízení VitalControl.
-categories: [Animal-loss]
-tags: [Animal-loss]
+kategorie: [Animal-loss]
+štítky: [Animal-loss]
 translationKey: new/animal-loss
 ---
 ## Záznam ztráty zvířete {#record-the-loss-of-an-animal}

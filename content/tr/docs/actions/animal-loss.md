@@ -6,8 +6,8 @@ weight: 110
 description: >
  Bir hayvan kaybını kaydedin.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, animal-loss]
+Kategoriler: [Actions]
+Etiketler: [Actions, animal-loss]
 translationKey: actions/animal-loss
 ---
 

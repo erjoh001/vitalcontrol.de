@@ -7,8 +7,8 @@ draft: false
 slug: fresh-cows
 description: >
   Underlätta kontrollen av dina nykalvade kor.
-categories: [Lists]
-tags: [Lists, fresh cow]
+Kategorier: [Lists]
+Taggar: [Lists, fresh cow]
 translationKey: lists/fresh-cows
 ---
 ### Lista över nykalvade kor {#fresh-cows-list}

@@ -7,8 +7,8 @@ draft: false
 slug: births
 description: >
   Zde můžete vidět svá narození a vytvořit exportní soubor.
-categories: [Narození]
-tags: [Narození]
+kategorie: [Narození]
+štítky: [Narození]
 translationKey: new-on-farm/births
 ---
 ## Narození {#births}

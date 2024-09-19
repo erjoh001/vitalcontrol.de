@@ -7,8 +7,8 @@ weight: 120
 description: >
  Zapisz ważne aspekty opieki nad noworodkiem.
 date: 2023-07-26
-categories: [Actions]
-tags: [Actions, newborn care]
+kategorie: [Actions]
+tagi: [Actions, newborn care]
 translationKey: actions/newborn-care
 ---
 

@@ -6,8 +6,8 @@ weight: 115
 description: >
  Atribuiți un ID național unui animal care nu are un ID național
 date: 2023-07-26
-categories: [National animal ID]
-tags: [National animal ID]
+categorii: [National animal ID]
+etichete: [National animal ID]
 translationKey: actions/national-animal-id
 ---
 {{% alert title="Warning" color="warning" %}}

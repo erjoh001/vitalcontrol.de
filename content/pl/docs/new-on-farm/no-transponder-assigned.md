@@ -7,8 +7,8 @@ draft: false
 slug: no-transponder-assigned
 description: >
  Tutaj możesz zobaczyć wszystkie zwierzęta, którym nie przypisano jeszcze transpondera i przypisać im transponder.
-categories: [Nowe na farmie, Krajowy identyfikator zwierząt]
-tags: [Nowe na farmie, Krajowy identyfikator zwierząt]
+kategorie: [Nowe na farmie, Krajowy identyfikator zwierząt]
+tagi: [Nowe na farmie, Krajowy identyfikator zwierząt]
 translationKey: new-on-farm/no-transponder-assigned
 ---
 ## Brak przypisanego transpondera {#no-transponder-assigned}

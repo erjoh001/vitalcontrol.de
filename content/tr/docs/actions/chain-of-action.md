@@ -6,8 +6,8 @@ weight: 50
 description: >
  Eylem zincirini uygulamak ve ayarlamak.
 date: 2023-07-26
-categories: [Eylemler]
-tags: [Eylemler, eylem zinciri]
+Kategoriler: [Eylemler]
+Etiketler: [Eylemler, eylem zinciri]
 manualLink: /en/docs/chain-of-actions/
 ---
 <script>

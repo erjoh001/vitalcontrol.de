@@ -7,8 +7,8 @@ draft: false
 slug: temperature
 description: >
  Nustatykite temperatūros nustatymus savo VitalControl įrenginiui
-categories: [settings]
-tags: [settings, temperature, threshold, anus spotlight]
+kategorijos: [settings]
+Žymos: [settings, temperature, threshold, anus spotlight]
 translationKey: settings/temperature
 ---
 ## Nustatykite slenkstį ir temperatūros diapazonus {#set-the-threshold--temperature-ranges}

@@ -6,8 +6,8 @@ weight: 70
 description: >
  Umieść zwierzęta na liście obserwacyjnej lub usuń je z niej.
 date: 2023-07-26
-categories: [Akcje]
-tags: [Akcje, na obserwacji]
+kategorie: [Akcje]
+tagi: [Akcje, na obserwacji]
 translationKey: actions/on-watch
 ---
 

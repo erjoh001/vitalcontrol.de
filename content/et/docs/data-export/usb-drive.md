@@ -5,8 +5,8 @@ date: 2023-07-20
 weight: 10
 description: >
   Ekspordi CVS andmefailid, mis sisaldavad loomade andmeid ja mõõtmistulemusi, mis on salvestatud VitalControl seadmesse, USB mälupulgale.
-categories: [Andmete eksport]
-tags: [CSV failid, USB mälupulk]
+kategooriad: [Andmete eksport]
+Sildid: [CSV failid, USB mälupulk]
 translationKey: data-export/usb-drive
 ---
 {{% usb-drive/et "Selleks, et teostada oma seadme andmete eksporti," %}}

@@ -6,8 +6,8 @@ weight: 20
 description: >
  Vyhodnoťte svá uložená data v sekci Teplota.
 date: 2023-07-26
-categories: [Vyhodnocení]
-tags: [Vyhodnocení, Teplota]
+kategorie: [Vyhodnocení]
+štítky: [Vyhodnocení, Teplota]
 translationKey: evaluation/temperature
 ---
 {{% alert title="Tip" %}}

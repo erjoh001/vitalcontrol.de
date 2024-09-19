@@ -7,8 +7,8 @@ slug: data-backup
 description: >
  Vykdyti duomenų atsargines kopijas
 date: 2023-07-26
-categories: [Įrenginys, Duomenų eksportas]
-tags: [Įrenginys, Duomenų eksportas]
+kategorijos: [Įrenginys, Duomenų eksportas]
+Žymos: [Įrenginys, Duomenų eksportas]
 translationKey: device/save-data
 no_list: true
 maphilight: true

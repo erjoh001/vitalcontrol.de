@@ -6,8 +6,8 @@ weight: 110
 description: >
  Zaregistrujte ztrátu zvířete.
 date: 2023-07-26
-categories: [Akce]
-tags: [Akce, ztráta zvířete]
+kategorie: [Akce]
+štítky: [Akce, ztráta zvířete]
 translationKey: actions/animal-loss
 ---
 

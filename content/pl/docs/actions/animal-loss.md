@@ -6,8 +6,8 @@ weight: 110
 description: >
  Zarejestruj utratę zwierzęcia.
 date: 2023-07-26
-categories: [Akcje]
-tags: [Akcje, utrata-zwierzęcia]
+kategorie: [Akcje]
+tagi: [Akcje, utrata-zwierzęcia]
 translationKey: actions/animal-loss
 ---
 
