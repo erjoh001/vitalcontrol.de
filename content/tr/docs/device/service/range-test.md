@@ -6,5 +6,5 @@ weight: 30
 draft: false
 description: >
  Menzil testi yapma talimatlarını burada bulabilirsiniz
-manualLink: /en/docs/diagnosis/rfid-scan/
+manualLink: /tr/docs/diagnosis/rfid-scan/
 ---

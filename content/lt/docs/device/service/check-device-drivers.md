@@ -6,5 +6,5 @@ weight: 10
 draft: false
 description: >
  Instrukcijas, kaip patikrinti savo įrenginio tvarkykles, galite rasti čia
-manualLink: /en/docs/diagnosis/hardware/
+manualLink: /lt/docs/diagnosis/hardware/
 ---

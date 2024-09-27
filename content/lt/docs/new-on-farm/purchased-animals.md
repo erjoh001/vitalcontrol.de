@@ -116,6 +116,6 @@ Norėdami redaguoti gyvūno duomenis pirkimų sąraše, atlikite šiuos veiksmus
 
 1. Naudokite rodyklių klavišus △ ▽, kad pasirinktumėte gyvūną, kurį norite redaguoti.
 
-2. Naudokite `{{<T "Ok" >}}` mygtuką. Atsidaro submeniu su gyvūno duomenimis. Kaip redaguoti šiuos duomenis, galite sužinoti [čia](/en/docs/actions/edit/#edit-animal-data).
+2. Naudokite `{{<T "Ok" >}}` mygtuką. Atsidaro submeniu su gyvūno duomenimis. Kaip redaguoti šiuos duomenis, galite sužinoti [čia](/lt/docs/actions/edit/#edit-animal-data).
 
     ![VitalControl: Įsigytų gyvūnų sąrašas, Redaguoti gyvūno duomenis](../images/edit.png "Redaguoti įsigyto gyvūno duomenis")

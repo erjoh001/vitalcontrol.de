@@ -17,6 +17,6 @@ Dacă nu aveți nevoie de această funcție, o puteți dezactiva în meniul [set
 
 ## Înregistrare fătare {#register-a-calving}
 
-De îndată ce ați intrat în meniul de acțiuni, selectați elementul de meniu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Fătare" alt="Fătare"/> `{{<T "Calving" >}}` și confirmați cu `{{<T "Ok" >}}`. Procedați conform instrucțiunilor din [Înregistrarea unei fătări](/en/docs/new/calving/).
+De îndată ce ați intrat în meniul de acțiuni, selectați elementul de meniu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Fătare" alt="Fătare"/> `{{<T "Calving" >}}` și confirmați cu `{{<T "Ok" >}}`. Procedați conform instrucțiunilor din [Înregistrarea unei fătări](/ro/docs/new/calving/).
 
    ![VitalControl: Meniu Acțiuni Fătare](../images/calving.png "Fătare")

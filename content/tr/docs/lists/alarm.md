@@ -55,7 +55,7 @@ Alarm listesi şu şekilde yapılandırılmıştır:
 
 3. Alarm listesi içinde, istenen hayvanı seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. Alternatif olarak, bir hayvan arayabilirsiniz. `On/Off` düğmesini kullanın <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ve istenen rakamları seçmek için ok tuşlarını ◁ ▷ △ ▽ kullanın. Son olarak `{{<T "Ok" >}}` ile onaylayın.
 
-4. `{{<T "Actions" >}}` menüsü otomatik olarak açılacaktır. Eylemlerin nasıl kullanılacağı [burada](/en/docs/actions/) bulunabilir.
+4. `{{<T "Actions" >}}` menüsü otomatik olarak açılacaktır. Eylemlerin nasıl kullanılacağı [burada](/tr/docs/actions/) bulunabilir.
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Eylem menüsü")
 
@@ -79,7 +79,7 @@ Alarm listesi şu şekilde yapılandırılmıştır:
 
 3. Alarm listesi içinde, istenen hayvanı seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. Alternatif olarak, bir hayvan arayabilirsiniz. `On/Off` düğmesini <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> kullanın ve istenen rakamları seçmek için ok tuşlarını ◁ ▷ △ ▽ kullanın. Son olarak `{{<T "Ok" >}}` ile onaylayın.
 
-4. [Sıcaklık ölçümü](/en/docs/actions/measure-temperature/#measure-fever) işlevi şimdi otomatik olarak başlatılacak.
+4. [Sıcaklık ölçümü](/tr/docs/actions/measure-temperature/#measure-fever) işlevi şimdi otomatik olarak başlatılacak.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Sıcaklık ölçümü")
 
@@ -91,7 +91,7 @@ Alarm listesi şu şekilde yapılandırılmıştır:
 
 3. Alarm listesi içinde, istenen hayvanı seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. Alternatif olarak, bir hayvan arayabilirsiniz. `On/Off` düğmesini <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> kullanın ve istenen rakamları seçmek için ok tuşlarını ◁ ▷ △ ▽ kullanın. Son olarak `{{<T "Ok" >}}` ile onaylayın.
 
-4. [Hayvanı değerlendirme](/en/docs/actions/rating/#rate-your-animals) işlevi şimdi otomatik olarak başlatılacak.
+4. [Hayvanı değerlendirme](/tr/docs/actions/rating/#rate-your-animals) işlevi şimdi otomatik olarak başlatılacak.
 
 
    ![VitalControl Listeleri Alarm Listesi](../images/rateanimal.png "Hayvanı değerlendir")

@@ -81,4 +81,4 @@ Poți folosi acțiunile suplimentare anterioare pentru a seta ce acțiuni doreș
 
  ## Alte elemente de meniu {#further-menu-items}
 
-Ai, de asemenea, opțiunea de a selecta între `{{<T "SearchAnimal" >}}` și `{{<T "SetFilter" >}}` în pop-up. Folosește butoanele săgeată △ ▽ pentru a naviga la elementul de meniu respectiv și confirmă cu `{{<T "Ok" >}}`. Informațiile pentru `{{<T "SetFilter" >}}` [aici](/en/docs/filter/) și pentru `{{<T "SearchAnimal" >}}` procedează ca în `{{<T "NoAnimalIDAssigned" >}}` pasul 4.
+Ai, de asemenea, opțiunea de a selecta între `{{<T "SearchAnimal" >}}` și `{{<T "SetFilter" >}}` în pop-up. Folosește butoanele săgeată △ ▽ pentru a naviga la elementul de meniu respectiv și confirmă cu `{{<T "Ok" >}}`. Informațiile pentru `{{<T "SetFilter" >}}` [aici](/ro/docs/filter/) și pentru `{{<T "SearchAnimal" >}}` procedează ca în `{{<T "NoAnimalIDAssigned" >}}` pasul 4.

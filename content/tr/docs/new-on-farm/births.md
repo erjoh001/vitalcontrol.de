@@ -65,6 +65,6 @@ Hayvan verilerini düzenlemek sadece liste görünümünde mümkündür!
 
 1. Düzenlemek istediğiniz hayvanı seçmek için ok tuşlarını △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın.
 
-2. Çeşitli ayarları yapabileceğiniz bir alt menü açılır. Adım adım talimatlar için [buraya](/en/docs/new/calving/#register-a-calving) tıklayın.
+2. Çeşitli ayarları yapabileceğiniz bir alt menü açılır. Adım adım talimatlar için [buraya](/tr/docs/new/calving/#register-a-calving) tıklayın.
 
     ![VitalControl: Menü Yeni çiftlikte Doğumlar](../images/edit2.png "Bir doğum bildirimini düzenle")

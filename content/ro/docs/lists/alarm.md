@@ -55,7 +55,7 @@ Lista de alarme este structurată astfel:
 
 3. În cadrul listei de alarme, utilizați tastele săgeată △ ▽ pentru a selecta animalul dorit și confirmați cu `{{<T "Ok" >}}`. Alternativ, puteți căuta un animal. Utilizați butonul `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> și utilizați tastele săgeată ◁ ▷ △ ▽ pentru a selecta cifrele dorite. În final, confirmați cu `{{<T "Ok" >}}`.
 
-4. Meniul `{{<T "Actions" >}}` se va deschide automat. Gestionarea acțiunilor poate fi găsită [aici](/en/docs/actions/).
+4. Meniul `{{<T "Actions" >}}` se va deschide automat. Gestionarea acțiunilor poate fi găsită [aici](/ro/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
@@ -79,7 +79,7 @@ Lista de alarme este structurată astfel:
 
 3. În lista de alarme, folosiți tastele săgeată △ ▽ pentru a selecta animalul dorit și confirmați cu `{{<T "Ok" >}}`. Alternativ, puteți căuta un animal. Folosiți butonul `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> și folosiți tastele săgeată ◁ ▷ △ ▽ pentru a selecta cifrele dorite. În final, confirmați cu `{{<T "Ok" >}}`.
 
-4. Funcția [Măsoară temperatura](/en/docs/actions/measure-temperature/#measure-fever) este acum pornită automat.
+4. Funcția [Măsoară temperatura](/ro/docs/actions/measure-temperature/#measure-fever) este acum pornită automat.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Măsoară temperatura")
 
@@ -91,7 +91,7 @@ Lista de alarme este structurată astfel:
 
 3. În lista de alarme, folosiți tastele săgeată △ ▽ pentru a selecta animalul dorit și confirmați cu `{{<T "Ok" >}}`. Alternativ, puteți căuta un animal. Folosiți butonul `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> și folosiți tastele săgeată ◁ ▷ △ ▽ pentru a selecta cifrele dorite. În final, confirmați cu `{{<T "Ok" >}}`.
 
-4. Funcția [Evaluează animalul](/en/docs/actions/rating/#rate-your-animals) este acum pornită automat.
+4. Funcția [Evaluează animalul](/ro/docs/actions/rating/#rate-your-animals) este acum pornită automat.
 
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Rate animal")

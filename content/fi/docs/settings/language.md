@@ -67,7 +67,7 @@ VitalControlin laiteohjelmisto sisältää käännökset seuraaville kielille:
 [![VitalControl: Päävalikko bulgariaksi valittuna](/images/homescreen/bulgarian.png "Päävalikko Bulgaria")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Bosnia" lang="bs" %}}
-[![VitalControl: Päävalikko bosniaksi valittuna](/images/homescreen/bosnian.png "Päävalikko Bosnia")](/bs/demo/ "Demo app VitalControl (BS)")
+[![VitalControl: Päävalikko bosniaksi valittuna](/images/homescreen/bosnian.png "Päävalikko Bosnia")](/fi/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Viro" lang="et" %}}
 [![VitalControl: Päävalikko viroksi valittuna](/images/homescreen/estonian.png "Päävalikko Viro")](/et/demo/ "Demo app VitalControl (ET)")

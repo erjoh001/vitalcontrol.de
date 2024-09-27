@@ -1,0 +1,10 @@
+main:
+  - name: Menu de estrutura
+    url: /docs/menu-tree/
+    weight: 30
+  - name: Aplicação de demonstração
+    url: /demo/
+    weight: 40
+  - name: Firmware
+    url: /docs/firmware/
+    weight: 50

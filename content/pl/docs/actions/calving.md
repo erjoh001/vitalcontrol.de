@@ -17,7 +17,7 @@ Jeśli nie potrzebujesz tej funkcji, możesz ją dezaktywować w menu [ustawieni
 
 ## Zarejestruj wycielenie {#register-a-calving}
 
-Gdy tylko wejdziesz do menu akcji, wybierz pozycję menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` i potwierdź `{{<T "Ok" >}}`. Postępuj zgodnie z instrukcjami [Rejestracja wycielenia](/en/docs/new/calving/).
+Gdy tylko wejdziesz do menu akcji, wybierz pozycję menu <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` i potwierdź `{{<T "Ok" >}}`. Postępuj zgodnie z instrukcjami [Rejestracja wycielenia](/pl/docs/new/calving/).
 
    ![VitalControl: Menu Akcje Wycielenie](../images/calving.png "Wycielenie")
 

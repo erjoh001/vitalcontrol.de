@@ -81,4 +81,4 @@ Kulak küpesi numarasını atamadan önce hangi işlemleri yapmak istediğinizi 
 
  ## Diğer menü öğeleri {#further-menu-items}
 
-Ayrıca açılır pencerede `{{<T "SearchAnimal" >}}` ve `{{<T "SetFilter" >}}` arasında seçim yapma seçeneğiniz de vardır. İlgili menü öğesine gitmek için ok düğmelerini △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. `{{<T "SetFilter" >}}` için bilgi [burada](/en/docs/filter/) ve `{{<T "SearchAnimal" >}}` için `{{<T "NoAnimalIDAssigned" >}}` adım 4'teki gibi devam edin.
+Ayrıca açılır pencerede `{{<T "SearchAnimal" >}}` ve `{{<T "SetFilter" >}}` arasında seçim yapma seçeneğiniz de vardır. İlgili menü öğesine gitmek için ok düğmelerini △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. `{{<T "SetFilter" >}}` için bilgi [burada](/tr/docs/filter/) ve `{{<T "SearchAnimal" >}}` için `{{<T "NoAnimalIDAssigned" >}}` adım 4'teki gibi devam edin.

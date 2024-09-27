@@ -21,7 +21,7 @@ Puteți utiliza această setare pentru a specifica cum ar trebui să fie atribui
 
 3. Acum utilizați butoanele săgeată ◁ ▷ pentru a selecta setarea dorită. Puteți alege între `{{<T "NoChange" >}}` sau `{{<T "DerivationEarTagNo" >}}`.
 
-4. Opțiunea de setare `{{<T "DerivationEarTagNo" >}}` vă permite să faceți setări suplimentare. Vedeți [aici](/en/docs/settings/animal-registration/#digit-of-the-new-id). 
+4. Opțiunea de setare `{{<T "DerivationEarTagNo" >}}` vă permite să faceți setări suplimentare. Vedeți [aici](/ro/docs/settings/animal-registration/#digit-of-the-new-id). 
 
    ![VitalControl: Menu Settings Unlink transponder](../images/unlink-transponder.png "Unlink transponder")
    

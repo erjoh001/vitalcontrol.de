@@ -3,8 +3,8 @@ title: Acțiuni
 linkTitle: Acțiuni
 description: Efectuați diferite acțiuni ale animalelor
 weight: 30
-manualLink: /en/docs/actions/
+manualLink: /ro/docs/actions/
 ---
 <script>
-  window.location.href = "/en/docs/actions/";
+  window.location.href = "/ro/docs/actions/";
 </script>

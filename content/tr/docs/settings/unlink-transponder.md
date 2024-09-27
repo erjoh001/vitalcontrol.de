@@ -21,7 +21,7 @@ Transponder'ı hayvandan çıkardığınızda hayvan kimliğinin nasıl atanaca�
 
 3. Şimdi istediğiniz ayarı seçmek için ok düğmelerini ◁ ▷ kullanın. `{{<T "NoChange" >}}` veya `{{<T "DerivationEarTagNo" >}}` arasında seçim yapabilirsiniz.
 
-4. `{{<T "DerivationEarTagNo" >}}` ayar seçeneği, ek ayarlar yapmanıza olanak tanır. Daha fazla bilgi için [buraya](/en/docs/settings/animal-registration/#digit-of-the-new-id) bakın.
+4. `{{<T "DerivationEarTagNo" >}}` ayar seçeneği, ek ayarlar yapmanıza olanak tanır. Daha fazla bilgi için [buraya](/tr/docs/settings/animal-registration/#digit-of-the-new-id) bakın.
 
    ![VitalControl: Menü Ayarları Transponder Bağlantısını Kes](../images/unlink-transponder.png "Transponder Bağlantısını Kes")
    

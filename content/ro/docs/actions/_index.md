@@ -15,25 +15,25 @@ maphilight: true
 <img src="images/menu2.png" alt="Acțiuni VitalControl" title="Acțiuni" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="3,100,60,165" alt="Temperatură" title="Măsurați febra la animalele dvs.&#10;Click mouse: deschideți documentația" href="/en/docs/actions/measure-temperature/">
-  <area shape="rect" coords="60,100,118,165" alt="Cântărire" title="Înregistrați greutatea animalelor dvs.&#10;Click mouse: deschideți documentația" href="/en/docs/actions/record-weight/">
-  <area shape="rect" coords="118,100,174,165" alt="Evaluare" title="Evaluați animalele dvs.&#10;Click mouse: deschideți documentația" href="/en/docs/actions/rating/">
-  <area shape="rect" coords="174,100,230,165" alt="Lanț de acțiuni" title="Aplicarea și setarea lanțului de acțiuni&#10;Click mouse: deschideți documentația" href="/en/docs/chain-of-actions/">
-   <area shape="rect" coords="3,165,60,225" alt="Fătare" title="Înregistrați o fătare&#10;Click mouse: deschideți documentația" href="/en/docs/actions/calving/">
-   <area shape="rect" coords="60,165,120,225" alt="Încetare lactație" title="Încetați lactația unei vaci sau adăugați-o pe lista vacilor proaspete&#10;Click mouse: deschideți documentația" href="/en/docs/actions/dry-off/">
-   <area shape="rect" coords="120,165,175,225" alt="Alarmă" title="Adăugați și eliminați animale din lista de alarme&#10;Click mouse: deschideți documentația" href="/en/docs/actions/alarm/">
-   <area shape="rect" coords="175,165,230,225" alt="Supraveghere" title="Puneți animalele pe lista de supraveghere sau eliminați-le&#10;Click mouse: deschideți documentația" href="/en/docs/actions/on-watch/">
-   <area shape="rect" coords="3,225,60,280" alt="Istoric animal" title="Vizualizați istoricul unui animal&#10;Click mouse: deschideți documentația" href="/en/docs/actions/animal-history/">
-   <area shape="rect" coords="60,225,120,280" alt="Editare" title="Editați datele animalului selectat&#10;Click mouse: deschideți documentația" href="/en/docs/actions/edit/">
-   <area shape="rect" coords="120,225,175,280" alt="Dezregistrare" title="Dezregistrați un animal&#10;Click mouse: deschideți documentația" href="/en/docs/actions/unregister/">
-   <area shape="rect" coords="175,225,230,280" alt="Pierdere animal" title="Înregistrați pierderea unui animal&#10;Click mouse: deschideți documentația" href="/en/docs/actions/animal-loss/">
-   <area shape="rect" coords="3,280,60,337" alt="Asociere transponder" title="Asociați un transponder unui animal&#10;Click mouse: deschideți documentația" href="/en/docs/actions/link-transponder/">
-   <area shape="rect" coords="55,280,120,337" alt="Dezlegare transponder" title="Eliminați legătura transponderului cu un animal&#10;Click mouse: deschideți documentația" href="/en/docs/actions/unlink-transponder/">
-   <area shape="rect" coords="120,280,175,337" alt="Asociere manuală ID animal" title="Asociați un ID național unui animal care nu are un ID național&#10;Click mouse: deschideți documentația" href="/en/docs/actions/link-animal-id/#link-animal-id">
-   <area shape="rect" coords="175,280,230,337" alt="Asociere ID animal cu scanare" title="Asociați un ID național unui animal care nu are un ID național&#10;Click mouse: deschideți documentația" href="/en/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
+  <area shape="rect" coords="3,100,60,165" alt="Temperatură" title="Măsurați febra la animalele dvs.&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/measure-temperature/">
+  <area shape="rect" coords="60,100,118,165" alt="Cântărire" title="Înregistrați greutatea animalelor dvs.&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/record-weight/">
+  <area shape="rect" coords="118,100,174,165" alt="Evaluare" title="Evaluați animalele dvs.&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/rating/">
+  <area shape="rect" coords="174,100,230,165" alt="Lanț de acțiuni" title="Aplicarea și setarea lanțului de acțiuni&#10;Click mouse: deschideți documentația" href="/ro/docs/chain-of-actions/">
+   <area shape="rect" coords="3,165,60,225" alt="Fătare" title="Înregistrați o fătare&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/calving/">
+   <area shape="rect" coords="60,165,120,225" alt="Încetare lactație" title="Încetați lactația unei vaci sau adăugați-o pe lista vacilor proaspete&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/dry-off/">
+   <area shape="rect" coords="120,165,175,225" alt="Alarmă" title="Adăugați și eliminați animale din lista de alarme&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/alarm/">
+   <area shape="rect" coords="175,165,230,225" alt="Supraveghere" title="Puneți animalele pe lista de supraveghere sau eliminați-le&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/on-watch/">
+   <area shape="rect" coords="3,225,60,280" alt="Istoric animal" title="Vizualizați istoricul unui animal&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/animal-history/">
+   <area shape="rect" coords="60,225,120,280" alt="Editare" title="Editați datele animalului selectat&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/edit/">
+   <area shape="rect" coords="120,225,175,280" alt="Dezregistrare" title="Dezregistrați un animal&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/unregister/">
+   <area shape="rect" coords="175,225,230,280" alt="Pierdere animal" title="Înregistrați pierderea unui animal&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/animal-loss/">
+   <area shape="rect" coords="3,280,60,337" alt="Asociere transponder" title="Asociați un transponder unui animal&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/link-transponder/">
+   <area shape="rect" coords="55,280,120,337" alt="Dezlegare transponder" title="Eliminați legătura transponderului cu un animal&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/unlink-transponder/">
+   <area shape="rect" coords="120,280,175,337" alt="Asociere manuală ID animal" title="Asociați un ID național unui animal care nu are un ID național&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/link-animal-id/#link-animal-id">
+   <area shape="rect" coords="175,280,230,337" alt="Asociere ID animal cu scanare" title="Asociați un ID național unui animal care nu are un ID național&#10;Click mouse: deschideți documentația" href="/ro/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-   <area shape="rect" coords="100,340,140,375" alt="Setări" title="Accesați setările&#10;Click mouse: către documentație" href="/en/docs/actions/setting/">
+   <area shape="rect" coords="100,340,140,375" alt="Setări" title="Accesați setările&#10;Click mouse: către documentație" href="/ro/docs/actions/setting/">
 </map>
 
 {{% alert title="Sfat" %}}

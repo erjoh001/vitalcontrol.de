@@ -23,7 +23,7 @@ Følgende grafik viser de tilgængelige indstillinger vedrørende registrering a
   <area shape="rect" coords="3,80,239,160" alt="Dyrevurderingsmetode" title="Indstil dyrevurderingsmetoden&#10;Museklik: åbn dokumentation" href="#mode-of-animal-rating">
   <area shape="rect" coords="3,160,239,240" alt="Kontrolperiode for nykælvere" title="Indstil længden af kontrolperioden for nykælvere&#10;Museklik: åbn dokumentation" href="#control-period-of-fresh-cows">
 
-  <area shape="rect" coords="2,282,125,318" alt="Tilbage" title="Hop et niveau tilbage" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="Tilbage" title="Hop et niveau tilbage" href="/da/docs/settings/">
 </map>
 
 {{% alert title="Hint" %}}

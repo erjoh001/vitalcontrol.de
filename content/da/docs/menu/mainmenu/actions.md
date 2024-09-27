@@ -3,8 +3,8 @@ title: Handlinger
 linkTitle: Handlinger
 description: Udfør forskellige dyrehandlinger
 weight: 30
-manualLink: /en/docs/actions/
+manualLink: /da/docs/actions/
 ---
 <script>
-  window.location.href = "/en/docs/actions/";
+  window.location.href = "/da/docs/actions/";
 </script>

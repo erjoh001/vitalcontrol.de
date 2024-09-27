@@ -6,9 +6,9 @@ weight: 10
 draft: false
 description: >
  Yazılım sürümünüzü görüntüleme talimatlarını burada bulabilirsiniz
-manualLink: /en/docs/firmware/versions/
+manualLink: /tr/docs/firmware/versions/
 ---
 <script>
-  window.location.href = "/en/docs/firmware/versions/";
+  window.location.href = "/tr/docs/firmware/versions/";
 </script>
 

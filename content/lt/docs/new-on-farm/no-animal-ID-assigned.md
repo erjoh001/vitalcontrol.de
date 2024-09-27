@@ -82,5 +82,5 @@ Galite naudoti ankstesnius papildomus veiksmus, kad nustatytumėte, kokius veiks
 
  ## Kiti meniu punktai {#further-menu-items}
 
-Taip pat turite galimybę pasirinkti tarp `{{<T "SearchAnimal" >}}` ir `{{<T "SetFilter" >}}` iššokančiame lange. Naudokite rodyklių mygtukus △ ▽, kad pereitumėte prie atitinkamo meniu punkto ir patvirtinkite su `{{<T "Ok" >}}`. Informaciją apie `{{<T "SetFilter" >}}` rasite [čia](/en/docs/filter/) ir apie `{{<T "SearchAnimal" >}}` vykdykite kaip `{{<T "NoAnimalIDAssigned" >}}` 4 žingsnyje.
+Taip pat turite galimybę pasirinkti tarp `{{<T "SearchAnimal" >}}` ir `{{<T "SetFilter" >}}` iššokančiame lange. Naudokite rodyklių mygtukus △ ▽, kad pereitumėte prie atitinkamo meniu punkto ir patvirtinkite su `{{<T "Ok" >}}`. Informaciją apie `{{<T "SetFilter" >}}` rasite [čia](/lt/docs/filter/) ir apie `{{<T "SearchAnimal" >}}` vykdykite kaip `{{<T "NoAnimalIDAssigned" >}}` 4 žingsnyje.
 

@@ -3,8 +3,8 @@ title: Nou
 linkTitle: Nou
 description: Cum să înregistrezi animale noi pe dispozitivul VitalControl
 weight: 10
-manualLink: /en/docs/new/
+manualLink: /ro/docs/new/
 ---
 <script>
-  window.location.href = "/en/docs/new/";
+  window.location.href = "/ro/docs/new/";
 </script>

@@ -1,0 +1,10 @@
+main:
+  - name: Menü felépítése
+    url: /docs/menu-tree/
+    weight: 30
+  - name: Demo alkalmazás
+    url: /demo/
+    weight: 40
+  - name: Firmware
+    url: /docs/firmware/
+    weight: 50

@@ -8,8 +8,8 @@ description: >
 date: 2023-07-26
 kategorier: [Handlinger]
 tags: [Handlinger, handlingskæde]
-manualLink: /en/docs/chain-of-actions/
+manualLink: /da/docs/chain-of-actions/
 ---
 <script>
-  window.location.href = "/en/docs/chain-of-actions/";
+  window.location.href = "/da/docs/chain-of-actions/";
 </script>

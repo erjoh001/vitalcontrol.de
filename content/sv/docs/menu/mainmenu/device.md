@@ -3,8 +3,8 @@ title: Enhet
 linkTitle: Enhet
 description: Enhets- och processinställningar för din VitalControl-enhet
 weight: 90
-manualLink: /en/docs/device/
+manualLink: /sv/docs/device/
 ---
 <script>
-  window.location.href = "/en/docs/device/";
+  window.location.href = "/sv/docs/device/";
 </script>

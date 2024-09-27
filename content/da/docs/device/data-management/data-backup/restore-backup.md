@@ -6,8 +6,8 @@ weight: 20
 draft: false
 description: >
  Instruktionerne for at gendanne en backup kan findes her
-manualLink: /en/docs/backup/restore/
+manualLink: /da/docs/backup/restore/
 ---
 <script>
-  window.location.href = "/en/docs/backup/restore/";
+  window.location.href = "/da/docs/backup/restore/";
 </script>

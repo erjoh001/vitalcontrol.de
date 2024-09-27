@@ -3,8 +3,8 @@ title: Indstillinger
 linkTitle: Indstillinger
 description: Enheds- og procesindstillinger for din VitalControl-enhed
 weight: 100
-manualLink: /en/docs/settings/
+manualLink: /da/docs/settings/
 ---
 <script>
-  window.location.href = "/en/docs/settings/";
+  window.location.href = "/da/docs/settings/";
 </script>

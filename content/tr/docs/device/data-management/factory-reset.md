@@ -6,8 +6,8 @@ weight: 40
 draft: false
 description: >
  Tüm cihaz ve hayvan verilerini sıfırlama bilgileri ve talimatları burada bulunabilir
-manualLink: /en/docs/reset/
+manualLink: /tr/docs/reset/
 ---
 <script>
-  window.location.href = "/en/docs/reset/";
+  window.location.href = "/tr/docs/reset/";
 </script>

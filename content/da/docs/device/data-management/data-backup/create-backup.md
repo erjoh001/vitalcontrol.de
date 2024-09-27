@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instruktionerne til at oprette en backup kan findes her
-manualLink: /en/docs/backup/backup/
+manualLink: /da/docs/backup/backup/
 ---
 <script>
-  window.location.href = "/en/docs/backup/backup/";
+  window.location.href = "/da/docs/backup/backup/";
 </script>

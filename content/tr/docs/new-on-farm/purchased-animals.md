@@ -116,6 +116,6 @@ Satın alma listesindeki bir hayvanın verilerini düzenlemek için şu adımlar
 
 1. Düzenlemek istediğiniz hayvanı seçmek için ok tuşlarını △ ▽ kullanın.
 
-2. `{{<T "Ok" >}}` düğmesini kullanın. Hayvan verileriyle ilgili bir alt menü açılır. Bunları nasıl düzenleyeceğinizi [buradan](/en/docs/actions/edit/#edit-animal-data) öğrenebilirsiniz.
+2. `{{<T "Ok" >}}` düğmesini kullanın. Hayvan verileriyle ilgili bir alt menü açılır. Bunları nasıl düzenleyeceğinizi [buradan](/tr/docs/actions/edit/#edit-animal-data) öğrenebilirsiniz.
 
     ![VitalControl: Satın alınan hayvanların listesi, Hayvan verilerini düzenle](../images/edit.png "Satın alınan hayvanın verilerini düzenle")

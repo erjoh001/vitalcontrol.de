@@ -6,8 +6,8 @@ weight: 40
 draft: false
 description: >
  Visa informacija ir instrukcijos, kaip atstatyti įrenginį ir gyvūnų duomenis, yra čia
-manualLink: /en/docs/reset/
+manualLink: /lt/docs/reset/
 ---
 <script>
-  window.location.href = "/en/docs/reset/";
+  window.location.href = "/lt/docs/reset/";
 </script>

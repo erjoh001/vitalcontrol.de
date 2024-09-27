@@ -6,5 +6,5 @@ weight: 20
 draft: false
 description: >
  Firmware'inizi güncelleme talimatlarını burada bulabilirsiniz
-manualLink: /en/docs/firmware/update/
+manualLink: /tr/docs/firmware/update/
 ---

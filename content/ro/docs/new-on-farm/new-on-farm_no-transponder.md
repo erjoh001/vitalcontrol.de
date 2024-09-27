@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Nou în fermă, fără transponder {#new-on-farm-no-transponder}
 
-În această listă veți găsi toate animalele nou create cu o vârstă maximă de X zile care nu au fost încă atribuite unui transponder. Puteți seta vârsta maximă [aici](/en/docs/settings/animal-registration/#set-default-values). Odată ce ați colectat un transponder de la aceste animale, puteți căuta ID-ul corespunzător al animalului în listă și scana transponderul asociat. Transponderul este apoi atribuit automat animalului și animalul este șters din listă. Pentru a atribui un transponder, procedați după cum urmează:
+În această listă veți găsi toate animalele nou create cu o vârstă maximă de X zile care nu au fost încă atribuite unui transponder. Puteți seta vârsta maximă [aici](/ro/docs/settings/animal-registration/#set-default-values). Odată ce ați colectat un transponder de la aceste animale, puteți căuta ID-ul corespunzător al animalului în listă și scana transponderul asociat. Transponderul este apoi atribuit automat animalului și animalul este șters din listă. Pentru a atribui un transponder, procedați după cum urmează:
 
 1. În ecranul principal al dispozitivului dvs. VitalControl, selectați elementul de meniu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nou în fermă" /> `{{<T "NewOnFarm" >}}` și apăsați butonul `{{<T "Ok" >}}`.
 
@@ -62,4 +62,4 @@ Elementul de meniu `{{<T "Ok" >}}` vă informează că atribuirea unui transpond
 
  ## Alte elemente de meniu {#further-menu-items}
 
-Aveți, de asemenea, opțiunea de a selecta între `{{<T "NewOnFarmNoTransponder" >}}`, `{{<T "Settings" >}}` și `{{<T "SetFilter" >}}` în pop-up. Folosiți butoanele săgeată △ ▽ pentru a naviga la elementul de meniu respectiv și confirmați cu `{{<T "Ok" >}}`. Informațiile pentru elementul de meniu `{{<T "NewOnFarmNoTransponder" >}}` pot fi găsite [aici](/en/docs/settings/animal-registration/#set-default-values), pentru `{{<T "SetFilter" >}}` [aici](/en/docs/filter/) și pentru `{{<T "Settings" >}}` procedați ca în pasul `{{<T "Ok" >}}` 3.
+Aveți, de asemenea, opțiunea de a selecta între `{{<T "NewOnFarmNoTransponder" >}}`, `{{<T "Settings" >}}` și `{{<T "SetFilter" >}}` în pop-up. Folosiți butoanele săgeată △ ▽ pentru a naviga la elementul de meniu respectiv și confirmați cu `{{<T "Ok" >}}`. Informațiile pentru elementul de meniu `{{<T "NewOnFarmNoTransponder" >}}` pot fi găsite [aici](/ro/docs/settings/animal-registration/#set-default-values), pentru `{{<T "SetFilter" >}}` [aici](/ro/docs/filter/) și pentru `{{<T "Settings" >}}` procedați ca în pasul `{{<T "Ok" >}}` 3.

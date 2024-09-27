@@ -55,7 +55,7 @@ Pavojaus sąrašas yra struktūrizuotas taip:
 
 3. Aliarmų sąraše naudokite rodyklių klavišus △ ▽ norėdami pasirinkti norimą gyvūną ir patvirtinkite su `{{<T "Ok" >}}`. Alternatyviai, galite ieškoti gyvūno. Naudokite `On/Off` mygtuką <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> ir naudokite rodyklių klavišus ◁ ▷ △ ▽ norėdami pasirinkti norimus skaitmenis. Galiausiai patvirtinkite su `{{<T "Ok" >}}`.
 
-4. `{{<T "Actions" >}}` meniu atsidarys automatiškai. Veiksmų valdymą galite rasti [čia](/en/docs/actions/).
+4. `{{<T "Actions" >}}` meniu atsidarys automatiškai. Veiksmų valdymą galite rasti [čia](/lt/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
@@ -80,7 +80,7 @@ Pavojaus sąrašas yra struktūrizuotas taip:
 
 3. Signalų sąraše naudokite rodyklių klavišus △ ▽ norėdami pasirinkti norimą gyvūną ir patvirtinkite su `{{<T "Ok" >}}`. Arba galite ieškoti gyvūno. Naudokite `Įjungti/Išjungti` mygtuką <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Ieškoti" /> ir naudokite rodyklių klavišus ◁ ▷ △ ▽ norėdami pasirinkti norimus skaitmenis. Galiausiai patvirtinkite su `{{<T "Ok" >}}`.
 
-4. Funkcija [Matuoti temperatūrą](/en/docs/actions/measure-temperature/#measure-fever) dabar pradedama automatiškai.
+4. Funkcija [Matuoti temperatūrą](/lt/docs/actions/measure-temperature/#measure-fever) dabar pradedama automatiškai.
 
    ![VitalControl Sąrašai Alarmlist](../images/temperature.png "Matuoti temperatūrą")
 
@@ -92,7 +92,7 @@ Pavojaus sąrašas yra struktūrizuotas taip:
 
 3. Signalų sąraše naudokite rodyklių klavišus △ ▽ norėdami pasirinkti norimą gyvūną ir patvirtinkite su `{{<T "Ok" >}}`. Arba galite ieškoti gyvūno. Naudokite `Įjungti/Išjungti` mygtuką <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Ieškoti" /> ir naudokite rodyklių klavišus ◁ ▷ △ ▽ norėdami pasirinkti norimus skaitmenis. Galiausiai patvirtinkite su `{{<T "Ok" >}}`.
 
-4. Funkcija [Vertinti gyvūną](/en/docs/actions/rating/#rate-your-animals) dabar pradedama automatiškai.
+4. Funkcija [Vertinti gyvūną](/lt/docs/actions/rating/#rate-your-animals) dabar pradedama automatiškai.
 
 ![VitalControl Lists Alarmlist](../images/rateanimal.png "Įvertinti gyvūną")
 

@@ -8,8 +8,8 @@ description: >
 date: 2023-07-26
 kategorijos: [Veiksmai]
 Žymos: [Veiksmai, veiksmų grandinė]
-manualLink: /en/docs/chain-of-actions/
+manualLink: /lt/docs/chain-of-actions/
 ---
 <script>
-  window.location.href = "/en/docs/chain-of-actions/";
+  window.location.href = "/lt/docs/chain-of-actions/";
 </script>

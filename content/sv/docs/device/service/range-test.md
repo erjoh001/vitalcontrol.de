@@ -6,5 +6,5 @@ weight: 30
 draft: false
 description: >
  Instruktionerna för att utföra ett räckviddstest finns här
-manualLink: /en/docs/diagnosis/rfid-scan/
+manualLink: /sv/docs/diagnosis/rfid-scan/
 ---

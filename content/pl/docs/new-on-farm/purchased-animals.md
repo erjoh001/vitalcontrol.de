@@ -117,6 +117,6 @@ Aby edytować dane zwierzęcia na liście zakupów, postępuj w następujący sp
 
 1. Użyj klawiszy strzałek △ ▽, aby wybrać zwierzę, które chcesz edytować.
 
-2. Użyj przycisku `{{<T "Ok" >}}`. Otworzy się submenu z danymi zwierzęcia. Możesz dowiedzieć się, jak je edytować [tutaj](/en/docs/actions/edit/#edit-animal-data).
+2. Użyj przycisku `{{<T "Ok" >}}`. Otworzy się submenu z danymi zwierzęcia. Możesz dowiedzieć się, jak je edytować [tutaj](/pl/docs/actions/edit/#edit-animal-data).
 
 ![VitalControl: Lista zakupionych zwierząt, Edytuj dane zwierzęcia](../images/edit.png "Edytuj dane zakupionego zwierzęcia")

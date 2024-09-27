@@ -67,7 +67,7 @@ VitalControl yazılımı aşağıdaki diller için çeviriler içerir:
 [![VitalControl: Bulgarca dil seçili ana menü](/images/homescreen/bulgarian.png "Ana menü Bulgarca")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Bosnian" lang="bs" %}}
-[![VitalControl: Boşnakça dil seçili ana menü](/images/homescreen/bosnian.png "Ana menü Boşnakça")](/bs/demo/ "Demo app VitalControl (BS)")
+[![VitalControl: Boşnakça dil seçili ana menü](/images/homescreen/bosnian.png "Ana menü Boşnakça")](/tr/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Estonian" lang="et" %}}
 [![VitalControl: Estonca dil seçili ana menü](/images/homescreen/estonian.png "Ana menü Estonca")](/et/demo/ "Demo app VitalControl (ET)")

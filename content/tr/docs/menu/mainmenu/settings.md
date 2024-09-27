@@ -3,8 +3,8 @@ title: Ayarlar
 linkTitle: Ayarlar
 description: VitalControl cihazınız için cihaz ve süreç ayarları
 weight: 100
-manualLink: /en/docs/settings/
+manualLink: /tr/docs/settings/
 ---
 <script>
-  window.location.href = "/en/docs/settings/";
+  window.location.href = "/tr/docs/settings/";
 </script>

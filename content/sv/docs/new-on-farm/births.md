@@ -65,6 +65,6 @@ Redigering av djurdata är endast möjlig i listvyn!
 
 1. Använd piltangenterna △ ▽ för att välja det djur du vill redigera och bekräfta med `{{<T "Ok" >}}`.
 
-2. En undermeny öppnas där du kan justera olika inställningar. För steg-för-steg-instruktioner klicka [här](/en/docs/new/calving/#register-a-calving).
+2. En undermeny öppnas där du kan justera olika inställningar. För steg-för-steg-instruktioner klicka [här](/sv/docs/new/calving/#register-a-calving).
 
     ![VitalControl: Menu New on farm Births](../images/edit2.png "Redigera en födelseanmälan")

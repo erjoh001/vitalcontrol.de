@@ -8,8 +8,8 @@ description: >
 date: 2023-07-26
 categorii: [Acțiuni]
 etichete: [Acțiuni, lanț de acțiuni]
-manualLink: /en/docs/chain-of-actions/
+manualLink: /ro/docs/chain-of-actions/
 ---
 <script>
-  window.location.href = "/en/docs/chain-of-actions/";
+  window.location.href = "/ro/docs/chain-of-actions/";
 </script>

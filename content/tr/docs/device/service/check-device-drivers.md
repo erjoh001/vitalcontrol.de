@@ -6,5 +6,5 @@ weight: 10
 draft: false
 description: >
  Cihaz sürücülerinizi kontrol etme talimatlarını burada bulabilirsiniz
-manualLink: /en/docs/diagnosis/hardware/
+manualLink: /tr/docs/diagnosis/hardware/
 ---

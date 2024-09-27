@@ -6,8 +6,8 @@ weight: 40
 draft: false
 description: >
  Wszystkie informacje i instrukcje dotyczące resetowania urządzenia i danych zwierząt można znaleźć tutaj
-manualLink: /en/docs/reset/
+manualLink: /pl/docs/reset/
 ---
 <script>
-  window.location.href = "/en/docs/reset/";
+  window.location.href = "/pl/docs/reset/";
 </script>

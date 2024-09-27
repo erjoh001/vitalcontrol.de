@@ -16,9 +16,9 @@ maphilight: true
 <img src="backup.png" alt="VitalControl Managementul datelor" title="Managementul datelor" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="2,40,238,80" alt="Creează backup" title="Instrucțiunile pentru crearea unui backup pot fi găsite aici&#10;Click mouse: deschide documentația" href="/en/docs/backup/backup/">
+  <area shape="rect" coords="2,40,238,80" alt="Creează backup" title="Instrucțiunile pentru crearea unui backup pot fi găsite aici&#10;Click mouse: deschide documentația" href="/ro/docs/backup/backup/">
 
-  <area shape="rect" coords="2,80,238,120" alt="Restaurează backup" title="Instrucțiunile pentru restaurarea unui backup pot fi găsite aici&#10;Click mouse: deschide documentația" href="/en/docs/backup/restore/">
+  <area shape="rect" coords="2,80,238,120" alt="Restaurează backup" title="Instrucțiunile pentru restaurarea unui backup pot fi găsite aici&#10;Click mouse: deschide documentația" href="/ro/docs/backup/restore/">
 
-  <area shape="rect" coords="2,282,120,319" alt="Înapoi" title="Reveniți un nivel înapoi&#10;Click mouse: deschide documentația" href="/en/docs/device/data-management/">
+  <area shape="rect" coords="2,282,120,319" alt="Înapoi" title="Reveniți un nivel înapoi&#10;Click mouse: deschide documentația" href="/ro/docs/device/data-management/">
 </map>

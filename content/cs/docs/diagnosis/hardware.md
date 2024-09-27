@@ -22,5 +22,5 @@ Zařízení nyní zobrazí všechny hardwarové komponenty zařízení spolu s j
    ![VitalControl: Cesta menu Kontrola hardwarových komponent](../images/device-check.png "Kontrola hardwaru")
 
 {{% alert title="POZNÁMKA" %}}
-Pokud je stav všech komponent zobrazen jako neporušený (zelené tečky) a zařízení stále nefunguje správně, může se jednat o softwarovou závadu. V tomto případě kontaktujte svého místního prodejce nebo [servisní linku](https://www.urbanonline.de/cs/contact) výrobce.
+Pokud je stav všech komponent zobrazen jako neporušený (zelené tečky) a zařízení stále nefunguje správně, může se jednat o softwarovou závadu. V tomto případě kontaktujte svého místního prodejce nebo [servisní linku](https://www.urbanonline.de/en/contact) výrobce.
 {{% /alert %}}

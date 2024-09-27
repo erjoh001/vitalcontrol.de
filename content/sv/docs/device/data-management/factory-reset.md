@@ -6,8 +6,8 @@ weight: 40
 draft: false
 description: >
  All information och instruktioner för att återställa enheten och djurdata finns här
-manualLink: /en/docs/reset/
+manualLink: /sv/docs/reset/
 ---
 <script>
-  window.location.href = "/en/docs/reset/";
+  window.location.href = "/sv/docs/reset/";
 </script>

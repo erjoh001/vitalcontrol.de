@@ -12,14 +12,14 @@ Via hovedmenuens punkt <img src="/icons/main/new-animal.svg" width="35" align="b
 <img src="images/neuen.png" alt="VitalControl Ny" title="Ny" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="3,40,116,160" alt="Nyt dyr" title="Sådan registrerer du et nyt dyr ved hjælp af VitalControl-enheden&#10;Musseklik: åben dokumentation" href="/en/docs/new/animal/">
-  <area shape="rect" coords="3,160,116,280" alt="Kælvning" title="Sådan registrerer du en ny kælvning ved hjælp af VitalControl-enheden&#10;Musseklik: åben dokumentation" href="/en/docs/new/calving/">
-  <area shape="rect" coords="3,280,116,399" alt="Dyretab" title="Sådan registrerer du tabet af et dyr ved hjælp af VitalControl-enheden&#10;Musseklik: åben dokumentation" href="/en/docs/new/animal-loss/">
+  <area shape="rect" coords="3,40,116,160" alt="Nyt dyr" title="Sådan registrerer du et nyt dyr ved hjælp af VitalControl-enheden&#10;Musseklik: åben dokumentation" href="/da/docs/new/animal/">
+  <area shape="rect" coords="3,160,116,280" alt="Kælvning" title="Sådan registrerer du en ny kælvning ved hjælp af VitalControl-enheden&#10;Musseklik: åben dokumentation" href="/da/docs/new/calving/">
+  <area shape="rect" coords="3,280,116,399" alt="Dyretab" title="Sådan registrerer du tabet af et dyr ved hjælp af VitalControl-enheden&#10;Musseklik: åben dokumentation" href="/da/docs/new/animal-loss/">
 
-  <area shape="rect" coords="116,40,230,160" alt="Nye dyr" title="Sådan opretter du flere nye dyr på VitalControl-enheden ved hjælp af en enkelt handling&#10;Musseklik: åben dokumentation" href="/en/docs/new/animals/">
-  <area shape="rect" coords="116,160,230,280" alt="Masseoptagelse" title="Brug stregkodescanneren til at registrere en række dyr&#10;Musseklik: åben dokumentation" href="/en/docs/new/bulk-recording/">
+  <area shape="rect" coords="116,40,230,160" alt="Nye dyr" title="Sådan opretter du flere nye dyr på VitalControl-enheden ved hjælp af en enkelt handling&#10;Musseklik: åben dokumentation" href="/da/docs/new/animals/">
+  <area shape="rect" coords="116,160,230,280" alt="Masseoptagelse" title="Brug stregkodescanneren til at registrere en række dyr&#10;Musseklik: åben dokumentation" href="/da/docs/new/bulk-recording/">
 
-  <area shape="rect" coords="1,401,100,439" alt="Tilbage" title="Hop et niveau tilbage&#10;Musseklik: til dokumentationen" href="/en/docs/menu/mainmenu/">
+  <area shape="rect" coords="1,401,100,439" alt="Tilbage" title="Hop et niveau tilbage&#10;Musseklik: til dokumentationen" href="/da/docs/menu/mainmenu/">
 </map>
 
 {{% alert title="Tip" %}}

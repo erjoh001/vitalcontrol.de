@@ -116,7 +116,7 @@ Pentru a edita datele unui animal din lista de achiziții, procedați după cum 
 
 1. Utilizați tastele săgeată △ ▽ pentru a selecta animalul pe care doriți să-l editați.
 
-2. Utilizați butonul `{{<T "Ok" >}}`. Se deschide un submeniu cu datele animalului. Puteți afla cum să editați aceste date [aici](/en/docs/actions/edit/#edit-animal-data).
+2. Utilizați butonul `{{<T "Ok" >}}`. Se deschide un submeniu cu datele animalului. Puteți afla cum să editați aceste date [aici](/ro/docs/actions/edit/#edit-animal-data).
 
 
     ![VitalControl: Lista animalelor achiziționate, Editare date animal](../images/edit.png "Editare date ale animalului achiziționat")

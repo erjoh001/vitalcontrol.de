@@ -6,8 +6,8 @@ weight: 30
 draft: false
 description: >
  Visa informacija ir instrukcijos, kaip eksportuoti gyvūnų duomenis, yra čia
-manualLink: /en/docs/data-export/usb-drive/
+manualLink: /lt/docs/data-export/usb-drive/
 ---
 <script>
-  window.location.href = "/en/docs/data-export/usb-drive/";
+  window.location.href = "/lt/docs/data-export/usb-drive/";
 </script>

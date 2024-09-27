@@ -6,5 +6,5 @@ weight: 30
 draft: false
 description: >
  Instrucțiunile pentru efectuarea unui test de rază pot fi găsite aici
-manualLink: /en/docs/diagnosis/rfid-scan/
+manualLink: /ro/docs/diagnosis/rfid-scan/
 ---

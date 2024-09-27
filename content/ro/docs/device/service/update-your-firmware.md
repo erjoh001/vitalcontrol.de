@@ -6,5 +6,5 @@ weight: 20
 draft: false
 description: >
  Instrucțiunile pentru actualizarea firmware-ului pot fi găsite aici
-manualLink: /en/docs/firmware/update/
+manualLink: /ro/docs/firmware/update/
 ---

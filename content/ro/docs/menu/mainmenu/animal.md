@@ -3,8 +3,8 @@ title: Animal
 linkTitle: Animal
 description: Vizualizați informații importante legate de animalele individuale
 weight: 60
-manualLink: /en/docs/animal/
+manualLink: /ro/docs/animal/
 ---
 <script>
-  window.location.href = "/en/docs/animal/";
+  window.location.href = "/ro/docs/animal/";
 </script>

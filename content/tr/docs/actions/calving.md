@@ -17,6 +17,6 @@ Bu işlevi kullanmanıza gerek yoksa, [eylem ayarları](../setting/) menüsünde
 
 ## Bir buzağılama kaydı {#register-a-calving}
 
-Eylem menüsüne girdikten sonra, <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` menü öğesini seçin ve `{{<T "Ok" >}}` ile onaylayın. [Buzağılama kaydı](/en/docs/new/calving/) talimatlarında açıklandığı gibi devam edin.
+Eylem menüsüne girdikten sonra, <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` menü öğesini seçin ve `{{<T "Ok" >}}` ile onaylayın. [Buzağılama kaydı](/tr/docs/new/calving/) talimatlarında açıklandığı gibi devam edin.
 
    ![VitalControl: Menü Eylemleri Buzağılama](../images/calving.png "Buzağılama")

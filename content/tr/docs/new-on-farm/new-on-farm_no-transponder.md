@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Çiftlikte yeni, transponder yok {#new-on-farm-no-transponder}
 
-Bu listede, henüz bir transponder atanmamış, maksimum X günlük yaştaki tüm yeni oluşturulmuş hayvanları bulacaksınız. Maksimum yaşı [buradan](/en/docs/settings/animal-registration/#set-default-values) ayarlayabilirsiniz. Bu hayvanlardan bir transponder topladıktan sonra, listede ilgili hayvan kimliğini arayabilir ve ilgili transponderi tarayabilirsiniz. Transponder daha sonra otomatik olarak hayvana atanır ve hayvan listeden silinir. Bir transponder atamak için şu adımları izleyin:
+Bu listede, henüz bir transponder atanmamış, maksimum X günlük yaştaki tüm yeni oluşturulmuş hayvanları bulacaksınız. Maksimum yaşı [buradan](/tr/docs/settings/animal-registration/#set-default-values) ayarlayabilirsiniz. Bu hayvanlardan bir transponder topladıktan sonra, listede ilgili hayvan kimliğini arayabilir ve ilgili transponderi tarayabilirsiniz. Transponder daha sonra otomatik olarak hayvana atanır ve hayvan listeden silinir. Bir transponder atamak için şu adımları izleyin:
 
 1. VitalControl cihazınızın ana ekranında, <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Çiftlikte yeni" /> `{{<T "NewOnFarm" >}}` menü öğesini seçin ve `{{<T "Ok" >}}` düğmesine basın.
 
@@ -61,4 +61,4 @@ Menü öğesi `{{<T "Ok" >}}`, bir hayvan seçimini menü öğesinde `{{<T "Ok" 
 
 ## Diğer menü öğeleri {#further-menu-items}
 
-Ayrıca açılır pencerede `{{<T "NewOnFarmNoTransponder" >}}`, `{{<T "Settings" >}}` ve `{{<T "SetFilter" >}}` arasında seçim yapma seçeneğiniz de vardır. İlgili menü öğesine gitmek için ok düğmelerini △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. Menü öğesi `{{<T "NewOnFarmNoTransponder" >}}` için bilgileri [burada](/en/docs/settings/animal-registration/#set-default-values), `{{<T "SetFilter" >}}` için [burada](/en/docs/filter/) ve `{{<T "Settings" >}}` için `{{<T "Ok" >}}` adım 3'te olduğu gibi devam edin.
+Ayrıca açılır pencerede `{{<T "NewOnFarmNoTransponder" >}}`, `{{<T "Settings" >}}` ve `{{<T "SetFilter" >}}` arasında seçim yapma seçeneğiniz de vardır. İlgili menü öğesine gitmek için ok düğmelerini △ ▽ kullanın ve `{{<T "Ok" >}}` ile onaylayın. Menü öğesi `{{<T "NewOnFarmNoTransponder" >}}` için bilgileri [burada](/tr/docs/settings/animal-registration/#set-default-values), `{{<T "SetFilter" >}}` için [burada](/tr/docs/filter/) ve `{{<T "Settings" >}}` için `{{<T "Ok" >}}` adım 3'te olduğu gibi devam edin.

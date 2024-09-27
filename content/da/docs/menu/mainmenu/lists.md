@@ -3,8 +3,8 @@ title: Lister
 linkTitle: Lister
 description: Tjek listerne over dine dyr
 weight: 70
-manualLink: /en/docs/lists/
+manualLink: /da/docs/lists/
 ---
 <script>
-  window.location.href = "/en/docs/lists/";
+  window.location.href = "/da/docs/lists/";
 </script>

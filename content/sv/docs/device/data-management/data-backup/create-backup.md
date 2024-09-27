@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instruktionerna för att skapa en säkerhetskopia finns här
-manualLink: /en/docs/backup/backup/
+manualLink: /sv/docs/backup/backup/
 ---
 <script>
-  window.location.href = "/en/docs/backup/backup/";
+  window.location.href = "/sv/docs/backup/backup/";
 </script>

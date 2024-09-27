@@ -3,8 +3,8 @@ title: Dispozitiv
 linkTitle: Dispozitiv
 description: Setări de dispozitiv și proces pentru dispozitivul tău VitalControl
 weight: 90
-manualLink: /en/docs/device/
+manualLink: /ro/docs/device/
 ---
 <script>
-  window.location.href = "/en/docs/device/";
+  window.location.href = "/ro/docs/device/";
 </script>

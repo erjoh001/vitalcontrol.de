@@ -67,7 +67,7 @@ VitalControl programinė įranga turi vertimus šioms kalboms:
 [![VitalControl: Pagrindinis meniu su pasirinkta bulgarų kalba](/images/homescreen/bulgarian.png "Pagrindinis meniu Bulgarų")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Bosnian" lang="bs" %}}
-[![VitalControl: Pagrindinis meniu su pasirinkta bosnių kalba](/images/homescreen/bosnian.png "Pagrindinis meniu Bosnių")](/bs/demo/ "Demo app VitalControl (BS)")
+[![VitalControl: Pagrindinis meniu su pasirinkta bosnių kalba](/images/homescreen/bosnian.png "Pagrindinis meniu Bosnių")](/lt/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Estonian" lang="et" %}}
 [![VitalControl: Pagrindinis meniu su pasirinkta estų kalba](/images/homescreen/estonian.png "Pagrindinis meniu Estų")](/et/demo/ "Demo app VitalControl (ET)")

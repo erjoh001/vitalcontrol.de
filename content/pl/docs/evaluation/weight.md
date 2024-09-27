@@ -22,12 +22,12 @@ Jeśli klikniesz na element menu, zostaniesz przekierowany do opisu odpowiedniej
 <img src="../images/imagemap.png" alt="Ocena VitalControl" title="Waga" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Dzisiejsze ważenie" title="Oceń wartości wagi swoich zwierząt zarejestrowane za pomocą VitalControl w bieżącym dniu&#10;Kliknięcie myszą: do dokumentacji" href="/en/docs/evaluation/weight/#todays-weighings">
-   <area shape="rect" coords="116,40,238,160" alt="Wagi urodzeniowe" title="Oceń swoje przechowywane wagi urodzeniowe&#10;Kliknięcie myszą: do dokumentacji" href="/en/docs/evaluation/weight/#birth-weights">
-   <area shape="rect" coords="3,160,116,279" alt="Rozwój wagi" title="Oceń rozwój wagi swoich zwierząt&#10;Kliknięcie myszą: do dokumentacji" href="/en/docs/evaluation/weight/#weight-development">
+   <area shape="rect" coords="3,40,116,160" alt="Dzisiejsze ważenie" title="Oceń wartości wagi swoich zwierząt zarejestrowane za pomocą VitalControl w bieżącym dniu&#10;Kliknięcie myszą: do dokumentacji" href="/pl/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Wagi urodzeniowe" title="Oceń swoje przechowywane wagi urodzeniowe&#10;Kliknięcie myszą: do dokumentacji" href="/pl/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Rozwój wagi" title="Oceń rozwój wagi swoich zwierząt&#10;Kliknięcie myszą: do dokumentacji" href="/pl/docs/evaluation/weight/#weight-development">
 
-   <area shape="rect" coords="150,282,238,319" alt="Filtr" title="Ustaw filtr&#10;Kliknięcie myszą: do dokumentacji" href="/en/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="Wstecz" title="Cofnij się o jeden poziom&#10;Kliknięcie myszą: do dokumentacji" href="/en/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="Filtr" title="Ustaw filtr&#10;Kliknięcie myszą: do dokumentacji" href="/pl/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Wstecz" title="Cofnij się o jeden poziom&#10;Kliknięcie myszą: do dokumentacji" href="/pl/docs/evaluation/">
 </map>
 
 ## Dzisiejsze ważenia {#todays-weighings}

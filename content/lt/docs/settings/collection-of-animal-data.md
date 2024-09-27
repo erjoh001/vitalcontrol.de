@@ -23,7 +23,7 @@ maphilight: true
   <area shape="rect" coords="3,80,239,160" alt="Gyvūnų vertinimo režimas" title="Nustatyti gyvūnų vertinimo režimą&#10;Pelės paspaudimas: atidaryti dokumentaciją" href="#mode-of-animal-rating">
   <area shape="rect" coords="3,160,239,240" alt="Šviežių karvių kontrolės laikotarpio ilgis" title="Nustatyti šviežių karvių kontrolės laikotarpio ilgį&#10;Pelės paspaudimas: atidaryti dokumentaciją" href="#control-period-of-fresh-cows">
 
-  <area shape="rect" coords="2,282,125,318" alt="Atgal" title="Grįžti vienu lygiu atgal" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="Atgal" title="Grįžti vienu lygiu atgal" href="/lt/docs/settings/">
 </map>
 
 {{% alert title="Patarimas" %}}

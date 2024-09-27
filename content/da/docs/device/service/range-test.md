@@ -6,5 +6,5 @@ weight: 30
 draft: false
 description: >
  Instruktionerne til at udføre en rækkeviddetest kan findes her
-manualLink: /en/docs/diagnosis/rfid-scan/
+manualLink: /da/docs/diagnosis/rfid-scan/
 ---

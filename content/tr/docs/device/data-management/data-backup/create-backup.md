@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Yedek oluşturma talimatlarını burada bulabilirsiniz
-manualLink: /en/docs/backup/backup/
+manualLink: /tr/docs/backup/backup/
 ---
 <script>
-  window.location.href = "/en/docs/backup/backup/";
+  window.location.href = "/tr/docs/backup/backup/";
 </script>

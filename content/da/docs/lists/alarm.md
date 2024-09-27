@@ -55,7 +55,7 @@ Alarm listen er struktureret som følger:
 
 3. Inden for alarmlisten, brug piletasterne △ ▽ for at vælge det ønskede dyr og bekræft med `{{<T "Ok" >}}`. Alternativt kan du søge efter et dyr. Brug `On/Off` knappen <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> og brug piletasterne ◁ ▷ △ ▽ for at vælge de ønskede cifre. Bekræft til sidst med `{{<T "Ok" >}}`.
 
-4. `{{<T "Actions" >}}` menuen åbnes automatisk. Håndteringen af handlingerne kan findes [her](/en/docs/actions/).
+4. `{{<T "Actions" >}}` menuen åbnes automatisk. Håndteringen af handlingerne kan findes [her](/da/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Handlingsmenu")
 
@@ -80,7 +80,7 @@ Alarm listen er struktureret som følger:
 
 3. Inden for alarmlisten skal du bruge piletasterne △ ▽ for at vælge det ønskede dyr og bekræfte med `{{<T "Ok" >}}`. Alternativt kan du søge efter et dyr. Brug `On/Off` knappen <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> og brug piletasterne ◁ ▷ △ ▽ for at vælge de ønskede cifre. Bekræft til sidst med `{{<T "Ok" >}}`.
 
-4. Funktionen [Mål temperatur](/en/docs/actions/measure-temperature/#measure-fever) starter nu automatisk.
+4. Funktionen [Mål temperatur](/da/docs/actions/measure-temperature/#measure-fever) starter nu automatisk.
 
    ![VitalControl Lister Alarmliste](../images/temperature.png "Tag temperatur")
 
@@ -92,7 +92,7 @@ Alarm listen er struktureret som følger:
 
 3. Inden for alarmlisten skal du bruge piletasterne △ ▽ for at vælge det ønskede dyr og bekræfte med `{{<T "Ok" >}}`. Alternativt kan du søge efter et dyr. Brug `On/Off` knappen <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> og brug piletasterne ◁ ▷ △ ▽ for at vælge de ønskede cifre. Bekræft til sidst med `{{<T "Ok" >}}`.
 
-4. Funktionen [Bedøm dyr](/en/docs/actions/rating/#rate-your-animals) starter nu automatisk.
+4. Funktionen [Bedøm dyr](/da/docs/actions/rating/#rate-your-animals) starter nu automatisk.
 
 ![VitalControl Lists Alarmlist](../images/rateanimal.png "Rate animal")
 

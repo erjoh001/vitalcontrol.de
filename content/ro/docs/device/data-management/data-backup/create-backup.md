@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instrucțiunile pentru crearea unui backup pot fi găsite aici
-manualLink: /en/docs/backup/backup/
+manualLink: /ro/docs/backup/backup/
 ---
 <script>
-  window.location.href = "/en/docs/backup/backup/";
+  window.location.href = "/ro/docs/backup/backup/";
 </script>

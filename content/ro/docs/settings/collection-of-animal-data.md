@@ -23,7 +23,7 @@ Graficul următor listează setările disponibile referitoare la înregistrarea 
   <area shape="rect" coords="3,80,239,160" alt="Modul de evaluare a animalelor" title="Setează modul de evaluare a animalelor&#10;Click mouse: deschide documentația" href="#mode-of-animal-rating">
   <area shape="rect" coords="3,160,239,240" alt="Perioada de control pentru vacile proaspete" title="Setează durata perioadei de control pentru vacile proaspete&#10;Click mouse: deschide documentația" href="#control-period-of-fresh-cows">
 
-  <area shape="rect" coords="2,282,125,318" alt="Înapoi" title="Reveniți un nivel înapoi" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="Înapoi" title="Reveniți un nivel înapoi" href="/ro/docs/settings/">
 </map>
 
 {{% alert title="Sfat" %}}

@@ -23,7 +23,7 @@ Poniższa grafika przedstawia dostępne ustawienia dotyczące rejestrowania dany
   <area shape="rect" coords="3,80,239,160" alt="Tryb oceny zwierząt" title="Ustaw tryb oceny zwierząt&#10;Kliknięcie myszą: otwórz dokumentację" href="#mode-of-animal-rating">
   <area shape="rect" coords="3,160,239,240" alt="Okres kontrolny świeżych krów" title="Ustaw długość okresu kontrolnego dla świeżych krów&#10;Kliknięcie myszą: otwórz dokumentację" href="#control-period-of-fresh-cows">
 
-  <area shape="rect" coords="2,282,125,318" alt="Wstecz" title="Cofnij się o jeden poziom" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="Wstecz" title="Cofnij się o jeden poziom" href="/pl/docs/settings/">
 </map>
 
 {{% alert title="Wskazówka" %}}

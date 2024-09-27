@@ -116,6 +116,6 @@ For at redigere dataene for et dyr på købslisten, skal du gøre følgende:
 
 1. Brug piletasterne △ ▽ til at vælge det dyr, du vil redigere.
 
-2. Brug `{{<T "Ok" >}}` knappen. En undermenu med dyrets data åbnes. Du kan finde ud af, hvordan du redigerer disse [her](/en/docs/actions/edit/#edit-animal-data).
+2. Brug `{{<T "Ok" >}}` knappen. En undermenu med dyrets data åbnes. Du kan finde ud af, hvordan du redigerer disse [her](/da/docs/actions/edit/#edit-animal-data).
 
 ![VitalControl: Liste over købte dyr, Rediger dyredata](../images/edit.png "Rediger data for købt dyr")

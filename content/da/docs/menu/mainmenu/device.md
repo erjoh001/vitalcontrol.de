@@ -3,8 +3,8 @@ title: Enhed
 linkTitle: Enhed
 description: Enheds- og procesindstillinger for din VitalControl-enhed
 weight: 90
-manualLink: /en/docs/device/
+manualLink: /da/docs/device/
 ---
 <script>
-  window.location.href = "/en/docs/device/";
+  window.location.href = "/da/docs/device/";
 </script>

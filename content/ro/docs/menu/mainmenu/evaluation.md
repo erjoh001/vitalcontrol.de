@@ -3,8 +3,8 @@ title: Evaluare
 linkTitle: Evaluare
 description: Evaluează datele stocate
 weight: 80
-manualLink: /en/docs/evaluation/
+manualLink: /ro/docs/evaluation/
 ---
 <script>
-  window.location.href = "/en/docs/evaluation/";
+  window.location.href = "/ro/docs/evaluation/";
 </script>

@@ -6,8 +6,8 @@ weight: 40
 draft: false
 description: >
  Toate informațiile și instrucțiunile pentru resetarea dispozitivului și a datelor despre animale pot fi găsite aici
-manualLink: /en/docs/reset/
+manualLink: /ro/docs/reset/
 ---
 <script>
-  window.location.href = "/en/docs/reset/";
+  window.location.href = "/ro/docs/reset/";
 </script>
