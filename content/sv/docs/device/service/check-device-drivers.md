@@ -6,5 +6,5 @@ weight: 10
 draft: false
 description: >
  Instruktionerna för att kontrollera dina enhetsdrivrutiner finns här
-manualLink: /en/docs/diagnosis/hardware/
+manualLink: /sv/docs/diagnosis/hardware/
 ---

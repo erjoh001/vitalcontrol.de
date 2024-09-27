@@ -38,6 +38,6 @@ translationKey: actions/setting
 
 3. Se deschide un submeniu. Utilizați tastele săgeată △ ▽ pentru a selecta elementul de meniu &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `{{<T "ActionChain" >}}` și confirmați cu `{{<T "Ok" >}}`.
 
-4. Instrucțiuni suplimentare pot fi găsite [aici](/en/docs/chain-of-actions/#set-chain-of-actions).
+4. Instrucțiuni suplimentare pot fi găsite [aici](/ro/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Menu Actions Chain of Actions](../images/chainofactions.png "Chain of Actions")

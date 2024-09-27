@@ -67,7 +67,7 @@ Firmware-ul VitalControl conține traduceri pentru următoarele limbi:
 [![VitalControl: Meniul principal cu limba bulgară selectată](/images/homescreen/bulgarian.png "Meniul principal Bulgară")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Bosnian" lang="bs" %}}
-[![VitalControl: Meniul principal cu limba bosniacă selectată](/images/homescreen/bosnian.png "Meniul principal Bosniacă")](/bs/demo/ "Demo app VitalControl (BS)")
+[![VitalControl: Meniul principal cu limba bosniacă selectată](/images/homescreen/bosnian.png "Meniul principal Bosniacă")](/ro/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Estonian" lang="et" %}}
 [![VitalControl: Meniul principal cu limba estoniană selectată](/images/homescreen/estonian.png "Meniul principal Estoniană")](/et/demo/ "Demo app VitalControl (ET)")

@@ -6,9 +6,9 @@ weight: 10
 draft: false
 description: >
  Instrukcje dotyczące sprawdzania wersji oprogramowania można znaleźć tutaj
-manualLink: /en/docs/firmware/versions/
+manualLink: /pl/docs/firmware/versions/
 ---
 <script>
-  window.location.href = "/en/docs/firmware/versions/";
+  window.location.href = "/pl/docs/firmware/versions/";
 </script>
 

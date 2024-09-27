@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instrukcijas, kaip peržiūrėti savo programinės įrangos versiją, galite rasti čia
-manualLink: /en/docs/firmware/versions/
+manualLink: /lt/docs/firmware/versions/
 ---
 <script>
-  window.location.href = "/en/docs/firmware/versions/";
+  window.location.href = "/lt/docs/firmware/versions/";
 </script>

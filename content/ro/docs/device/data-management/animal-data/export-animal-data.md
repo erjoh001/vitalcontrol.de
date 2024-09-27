@@ -6,8 +6,8 @@ weight: 30
 draft: false
 description: >
  Toate informațiile și instrucțiunile pentru exportul datelor despre animale pot fi găsite aici
-manualLink: /en/docs/data-export/usb-drive/
+manualLink: /ro/docs/data-export/usb-drive/
 ---
 <script>
-  window.location.href = "/en/docs/data-export/usb-drive/";
+  window.location.href = "/ro/docs/data-export/usb-drive/";
 </script>

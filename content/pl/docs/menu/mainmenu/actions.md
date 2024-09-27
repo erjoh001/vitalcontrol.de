@@ -3,8 +3,8 @@ title: Akcje
 linkTitle: Akcje
 description: Wykonywanie różnych działań zwierząt
 weight: 30
-manualLink: /en/docs/actions/
+manualLink: /pl/docs/actions/
 ---
 <script>
-  window.location.href = "/en/docs/actions/";
+  window.location.href = "/pl/docs/actions/";
 </script>

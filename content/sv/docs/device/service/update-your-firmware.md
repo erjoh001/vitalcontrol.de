@@ -6,5 +6,5 @@ weight: 20
 draft: false
 description: >
  Instruktionerna för att uppdatera din firmware finns här
-manualLink: /en/docs/firmware/update/
+manualLink: /sv/docs/firmware/update/
 ---

@@ -23,7 +23,7 @@ Aşağıdaki grafik, hayvan verilerinin kaydedilmesiyle ilgili mevcut ayarları 
   <area shape="rect" coords="3,80,239,160" alt="Hayvan değerlendirme modu" title="Hayvan değerlendirme modunu ayarla&#10;Fare tıklaması: belgeleri aç" href="#mode-of-animal-rating">
   <area shape="rect" coords="3,160,239,240" alt="Taze inekler için kontrol süresi" title="Taze inekler için kontrol süresini ayarla&#10;Fare tıklaması: belgeleri aç" href="#control-period-of-fresh-cows">
 
-  <area shape="rect" coords="2,282,125,318" alt="Geri" title="Bir seviye geri git" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="Geri" title="Bir seviye geri git" href="/tr/docs/settings/">
 </map>
 
 {{% alert title="İpucu" %}}

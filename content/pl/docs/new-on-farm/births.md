@@ -65,6 +65,6 @@ Edycja danych zwierzęcia jest możliwa tylko w widoku listy!
 
 1. Użyj klawiszy strzałek △ ▽, aby wybrać zwierzę, które chcesz edytować i potwierdź `{{<T "Ok" >}}`.
 
-2. Otworzy się submenu, w którym możesz dostosować różne ustawienia. Aby uzyskać instrukcje krok po kroku, kliknij [tutaj](/en/docs/new/calving/#register-a-calving).
+2. Otworzy się submenu, w którym możesz dostosować różne ustawienia. Aby uzyskać instrukcje krok po kroku, kliknij [tutaj](/pl/docs/new/calving/#register-a-calving).
 
     ![VitalControl: Menu Nowe na farmie Narodziny](../images/edit2.png "Edytuj powiadomienie o narodzinach")

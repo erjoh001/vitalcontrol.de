@@ -3,8 +3,8 @@ title: Değerlendirme
 linkTitle: Değerlendirme
 description: Depolanan verilerinizi değerlendirin
 weight: 80
-manualLink: /en/docs/evaluation/
+manualLink: /tr/docs/evaluation/
 ---
 <script>
-  window.location.href = "/en/docs/evaluation/";
+  window.location.href = "/tr/docs/evaluation/";
 </script>

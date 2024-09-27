@@ -8,8 +8,8 @@ description: >
 date: 2023-07-26
 Kategoriler: [Eylemler]
 Etiketler: [Eylemler, eylem zinciri]
-manualLink: /en/docs/chain-of-actions/
+manualLink: /tr/docs/chain-of-actions/
 ---
 <script>
-  window.location.href = "/en/docs/chain-of-actions/";
+  window.location.href = "/tr/docs/chain-of-actions/";
 </script>

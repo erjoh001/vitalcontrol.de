@@ -67,7 +67,7 @@ VitalControl tarkvara sisaldab tõlkeid järgmistele keeltele:
 [![VitalControl: Põhimenüü bulgaaria keeles valitud](/images/homescreen/bulgarian.png "Põhimenüü bulgaaria keeles")](/bg/demo/ "Demo rakendus VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Bosnia" lang="bs" %}}
-[![VitalControl: Põhimenüü bosnia keeles valitud](/images/homescreen/bosnian.png "Põhimenüü bosnia keeles")](/bs/demo/ "Demo rakendus VitalControl (BS)")
+[![VitalControl: Põhimenüü bosnia keeles valitud](/images/homescreen/bosnian.png "Põhimenüü bosnia keeles")](/et/demo/ "Demo rakendus VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Eesti" lang="et" %}}
 [![VitalControl: Põhimenüü eesti keeles valitud](/images/homescreen/estonian.png "Põhimenüü eesti keeles")](/et/demo/ "Demo rakendus VitalControl (ET)")

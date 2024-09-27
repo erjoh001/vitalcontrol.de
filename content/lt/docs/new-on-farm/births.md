@@ -66,7 +66,7 @@ Gyvūno duomenų redagavimas galimas tik sąrašo vaizde!
 
 1. Naudokite rodyklių klavišus △ ▽, kad pasirinktumėte gyvūną, kurį norite redaguoti, ir patvirtinkite su `{{<T "Ok" >}}`.
 
-2. Atsidarys submeniu, kuriame galite koreguoti įvairius nustatymus. Norėdami gauti išsamias instrukcijas, spustelėkite [čia](/en/docs/new/calving/#register-a-calving).
+2. Atsidarys submeniu, kuriame galite koreguoti įvairius nustatymus. Norėdami gauti išsamias instrukcijas, spustelėkite [čia](/lt/docs/new/calving/#register-a-calving).
 
     ![VitalControl: Menu New on farm Births](../images/edit2.png "Redaguoti gimimo pranešimą")
     

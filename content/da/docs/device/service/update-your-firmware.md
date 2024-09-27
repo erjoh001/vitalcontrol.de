@@ -6,5 +6,5 @@ weight: 20
 draft: false
 description: >
  Instruktionerne til opdatering af din firmware kan findes her
-manualLink: /en/docs/firmware/update/
+manualLink: /da/docs/firmware/update/
 ---

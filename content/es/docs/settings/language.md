@@ -67,7 +67,7 @@ El firmware de VitalControl contiene traducciones para los siguientes idiomas:
 [![VitalControl: Menú principal con idioma búlgaro seleccionado](/images/homescreen/bulgarian.png "Menú principal Búlgaro")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Bosnio" lang="bs" %}}
-[![VitalControl: Menú principal con idioma bosnio seleccionado](/images/homescreen/bosnian.png "Menú principal Bosnio")](/bs/demo/ "Demo app VitalControl (BS)")
+[![VitalControl: Menú principal con idioma bosnio seleccionado](/images/homescreen/bosnian.png "Menú principal Bosnio")](/es/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Estonio" lang="et" %}}
 [![VitalControl: Menú principal con idioma estonio seleccionado](/images/homescreen/estonian.png "Menú principal Estonio")](/et/demo/ "Demo app VitalControl (ET)")

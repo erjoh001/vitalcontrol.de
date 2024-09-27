@@ -21,7 +21,7 @@ Możesz użyć tego ustawienia, aby określić, jak identyfikator zwierzęcia po
 
 3. Teraz użyj przycisków strzałek ◁ ▷, aby wybrać żądane ustawienie. Możesz wybrać między `{{<T "NoChange" >}}` a `{{<T "DerivationEarTagNo" >}}`.
 
-4. Opcja ustawienia `{{<T "DerivationEarTagNo" >}}` pozwala na dokonanie dalszych ustawień. Zobacz [tutaj](/en/docs/settings/animal-registration/#digit-of-the-new-id). 
+4. Opcja ustawienia `{{<T "DerivationEarTagNo" >}}` pozwala na dokonanie dalszych ustawień. Zobacz [tutaj](/pl/docs/settings/animal-registration/#digit-of-the-new-id). 
 
    ![VitalControl: Menu Settings Unlink transponder](../images/unlink-transponder.png "Unlink transponder")
    

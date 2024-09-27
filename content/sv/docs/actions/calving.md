@@ -17,7 +17,7 @@ Om du inte behöver denna funktion kan du inaktivera den i menyn [aktionsinstäl
 
 ## Registrera en kalvning {#register-a-calving}
 
-Så snart du har gått in i aktionsmenyn, välj menyalternativet <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` och bekräfta med `{{<T "Ok" >}}`. Fortsätt enligt beskrivningen i instruktionerna [Registrering av en kalvning](/en/docs/new/calving/).
+Så snart du har gått in i aktionsmenyn, välj menyalternativet <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` och bekräfta med `{{<T "Ok" >}}`. Fortsätt enligt beskrivningen i instruktionerna [Registrering av en kalvning](/sv/docs/new/calving/).
 
    ![VitalControl: Menyåtgärder Kalvning](../images/calving.png "Kalvning")
 

@@ -6,8 +6,8 @@ weight: 40
 draft: false
 description: >
  Alle oplysninger og instruktioner til nulstilling af enheden og dyredata kan findes her
-manualLink: /en/docs/reset/
+manualLink: /da/docs/reset/
 ---
 <script>
-  window.location.href = "/en/docs/reset/";
+  window.location.href = "/da/docs/reset/";
 </script>

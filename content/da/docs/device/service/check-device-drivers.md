@@ -6,5 +6,5 @@ weight: 10
 draft: false
 description: >
  Instruktionerne til at tjekke dine enhedsdrivere kan findes her
-manualLink: /en/docs/diagnosis/hardware/
+manualLink: /da/docs/diagnosis/hardware/
 ---

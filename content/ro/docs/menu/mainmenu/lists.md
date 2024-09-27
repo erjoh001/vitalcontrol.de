@@ -3,8 +3,8 @@ title: Liste
 linkTitle: Liste
 description: Verificați listele animalelor dvs.
 weight: 70
-manualLink: /en/docs/lists/
+manualLink: /ro/docs/lists/
 ---
 <script>
-  window.location.href = "/en/docs/lists/";
+  window.location.href = "/ro/docs/lists/";
 </script>

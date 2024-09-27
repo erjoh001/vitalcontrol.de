@@ -6,8 +6,8 @@ weight: 30
 draft: false
 description: >
  All information och instruktioner för att exportera djurdata finns här
-manualLink: /en/docs/data-export/usb-drive/
+manualLink: /sv/docs/data-export/usb-drive/
 ---
 <script>
-  window.location.href = "/en/docs/data-export/usb-drive/";
+  window.location.href = "/sv/docs/data-export/usb-drive/";
 </script>

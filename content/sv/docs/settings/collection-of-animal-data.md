@@ -23,7 +23,7 @@ Följande grafik listar de tillgängliga inställningarna för inspelning av dju
   <area shape="rect" coords="3,80,239,160" alt="Bedömningsläge för djur" title="Ställ in bedömningsläget för djur&#10;Mus klick: öppna dokumentation" href="#mode-of-animal-rating">
   <area shape="rect" coords="3,160,239,240" alt="Kontrollperiodens längd för nykalvade kor" title="Ställ in längden på kontrollperioden för nykalvade kor&#10;Mus klick: öppna dokumentation" href="#control-period-of-fresh-cows">
 
-  <area shape="rect" coords="2,282,125,318" alt="Tillbaka" title="Hoppa tillbaka en nivå" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="Tillbaka" title="Hoppa tillbaka en nivå" href="/sv/docs/settings/">
 </map>
 
 {{% alert title="Tips" %}}

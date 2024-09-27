@@ -18,6 +18,9 @@ bs:
   languageName: Bosanski
   contentDir: content/bs
   weight: 30
+  taxonomies:
+    nadimak: oznake
+    kategorija: kategorije  
 bg:
   languageName: Български
   contentDir: content/bg
@@ -79,6 +82,9 @@ hr:
   languageName: Hrvatski
   contentDir: content/hr
   weight: 95
+  taxonomies:
+    címke: címkék
+    kategória: kategóriák
 hu:
   languageName: Magyar
   contentDir: content/hu
@@ -115,6 +121,9 @@ no:
   languageName: Norsk
   contentDir: content/no
   weight: 110
+  taxonomies:
+    merke: tagger
+    kategori: kategorier
 pl:
   languageName: Polski
   contentDir: content/pl
@@ -147,6 +156,9 @@ sl:
   languageName: Slovenščina
   contentDir: content/sl
   weight: 125
+  taxonomies:
+    oznaka: oznake
+    kategorija: kategorije
 sv:
   languageName: Svenska
   contentDir: content/sv
@@ -165,6 +177,9 @@ uk:
   languageName: Український
   contentDir: content/uk
   weight: 150
+  taxonomies:
+    тег: теги
+    категорія: категорії
 zh:
   languageName: 正體字/繁體字
   languageCode: zh-TW

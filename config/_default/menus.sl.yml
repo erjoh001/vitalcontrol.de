@@ -1,0 +1,10 @@
+main:
+  - name: Meni Struktura
+    url: /docs/menu-tree/
+    weight: 30
+  - name: Demo aplikacija
+    url: /demo/
+    weight: 40
+  - name: Vdelana programska oprema
+    url: /docs/firmware/
+    weight: 50

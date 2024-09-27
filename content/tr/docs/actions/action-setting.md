@@ -39,7 +39,7 @@ Bu ayarlar menüsünde &nbsp;<img src="/icons/actions/action-chain.svg" width="3
 
 3. Bir alt menü açılır. Menü öğesini seçmek için ok tuşlarını △ ▽ kullanın &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `{{<T "ActionChain" >}}` ve `{{<T "Ok" >}}` ile onaylayın.
 
-4. Daha fazla talimat [burada](/en/docs/chain-of-actions/#set-chain-of-actions) bulunabilir.
+4. Daha fazla talimat [burada](/tr/docs/chain-of-actions/#set-chain-of-actions) bulunabilir.
 
     ![VitalControl: Menü Eylemler Eylem Zinciri](../images/chainofactions.png "Chain of Actions")
 

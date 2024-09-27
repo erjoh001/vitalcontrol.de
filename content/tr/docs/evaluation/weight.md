@@ -22,12 +22,12 @@ Bir menü öğesine tıklarsanız, ilgili işlevin açıklamasına yönlendirili
 <img src="../images/imagemap.png" alt="VitalControl Değerlendirme" title="Ağırlık" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Bugünün tartımları" title="VitalControl ile kaydedilen hayvanlarınızın bugünkü ağırlık değerlerini değerlendirin&#10;Fare tıklaması: belgeler" href="/en/docs/evaluation/weight/#todays-weighings">
-   <area shape="rect" coords="116,40,238,160" alt="Doğum ağırlıkları" title="Depolanan doğum ağırlıklarınızı değerlendirin&#10;Fare tıklaması: belgeler" href="/en/docs/evaluation/weight/#birth-weights">
-   <area shape="rect" coords="3,160,116,279" alt="Ağırlık gelişimi" title="Hayvanlarınızın ağırlık gelişimini değerlendirin&#10;Fare tıklaması: belgeler" href="/en/docs/evaluation/weight/#weight-development">
+   <area shape="rect" coords="3,40,116,160" alt="Bugünün tartımları" title="VitalControl ile kaydedilen hayvanlarınızın bugünkü ağırlık değerlerini değerlendirin&#10;Fare tıklaması: belgeler" href="/tr/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Doğum ağırlıkları" title="Depolanan doğum ağırlıklarınızı değerlendirin&#10;Fare tıklaması: belgeler" href="/tr/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Ağırlık gelişimi" title="Hayvanlarınızın ağırlık gelişimini değerlendirin&#10;Fare tıklaması: belgeler" href="/tr/docs/evaluation/weight/#weight-development">
 
-   <area shape="rect" coords="150,282,238,319" alt="Filtre" title="Bir filtre ayarlayın&#10;Fare tıklaması: belgeler" href="/en/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="Geri" title="Bir seviye geri git&#10;Fare tıklaması: belgeler" href="/en/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="Filtre" title="Bir filtre ayarlayın&#10;Fare tıklaması: belgeler" href="/tr/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Geri" title="Bir seviye geri git&#10;Fare tıklaması: belgeler" href="/tr/docs/evaluation/">
 </map>
 
 ## Bugünün tartımları {#todays-weighings}

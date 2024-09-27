@@ -6,8 +6,8 @@ weight: 20
 draft: false
 description: >
  Instrucțiunile pentru restaurarea unui backup pot fi găsite aici
-manualLink: /en/docs/backup/restore/
+manualLink: /ro/docs/backup/restore/
 ---
 <script>
-  window.location.href = "/en/docs/backup/restore/";
+  window.location.href = "/ro/docs/backup/restore/";
 </script>

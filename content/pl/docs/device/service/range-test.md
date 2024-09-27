@@ -6,5 +6,5 @@ weight: 30
 draft: false
 description: >
  Instrukcje dotyczące przeprowadzenia testu zasięgu można znaleźć tutaj
-manualLink: /en/docs/diagnosis/rfid-scan/
+manualLink: /pl/docs/diagnosis/rfid-scan/
 ---

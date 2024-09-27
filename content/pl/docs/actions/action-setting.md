@@ -38,6 +38,6 @@ W tym menu ustawień ustawiasz &nbsp;<img src="/icons/actions/action-chain.svg" 
 
 3. Otworzy się submenu. Użyj klawiszy strzałek △ ▽, aby wybrać pozycję menu &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `{{<T "ActionChain" >}}` i potwierdź przyciskiem `{{<T "Ok" >}}`.
 
-4. Dalsze instrukcje można znaleźć [tutaj](/en/docs/chain-of-actions/#set-chain-of-actions).
+4. Dalsze instrukcje można znaleźć [tutaj](/pl/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Menu Actions Chain of Actions](../images/chainofactions.png "Chain of Actions")

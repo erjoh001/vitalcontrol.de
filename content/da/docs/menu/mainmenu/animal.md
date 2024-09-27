@@ -3,8 +3,8 @@ title: Dyr
 linkTitle: Dyr
 description: Se vigtige oplysninger relateret til individuelle dyr
 weight: 60
-manualLink: /en/docs/animal/
+manualLink: /da/docs/animal/
 ---
 <script>
-  window.location.href = "/en/docs/animal/";
+  window.location.href = "/da/docs/animal/";
 </script>

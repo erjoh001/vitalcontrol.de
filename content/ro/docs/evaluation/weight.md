@@ -22,12 +22,12 @@ Dacă faci clic pe un element de meniu, vei fi redirecționat către o descriere
 <img src="../images/imagemap.png" alt="Evaluare VitalControl" title="Greutate" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Cântărirea de astăzi" title="Evaluează valorile greutății animalelor tale înregistrate cu VitalControl în ziua curentă&#10;Clic mouse: către documentație" href="/en/docs/evaluation/weight/#todays-weighings">
-   <area shape="rect" coords="116,40,238,160" alt="Greutăți la naștere" title="Evaluează greutățile la naștere stocate&#10;Clic mouse: către documentație" href="/en/docs/evaluation/weight/#birth-weights">
-   <area shape="rect" coords="3,160,116,279" alt="Dezvoltarea greutății" title="Evaluează dezvoltarea greutății animalelor tale&#10;Clic mouse: către documentație" href="/en/docs/evaluation/weight/#weight-development">
+   <area shape="rect" coords="3,40,116,160" alt="Cântărirea de astăzi" title="Evaluează valorile greutății animalelor tale înregistrate cu VitalControl în ziua curentă&#10;Clic mouse: către documentație" href="/ro/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Greutăți la naștere" title="Evaluează greutățile la naștere stocate&#10;Clic mouse: către documentație" href="/ro/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Dezvoltarea greutății" title="Evaluează dezvoltarea greutății animalelor tale&#10;Clic mouse: către documentație" href="/ro/docs/evaluation/weight/#weight-development">
 
-   <area shape="rect" coords="150,282,238,319" alt="Filtru" title="Setează un filtru&#10;Clic mouse: către documentație" href="/en/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="Înapoi" title="Salt înapoi un nivel&#10;Clic mouse: către documentație" href="/en/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="Filtru" title="Setează un filtru&#10;Clic mouse: către documentație" href="/ro/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Înapoi" title="Salt înapoi un nivel&#10;Clic mouse: către documentație" href="/ro/docs/evaluation/">
 </map>
 
 ## Cântărirea de astăzi {#todays-weighings}

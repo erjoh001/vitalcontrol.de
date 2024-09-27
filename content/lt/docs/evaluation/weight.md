@@ -22,12 +22,12 @@ Jei spustelėsite meniu elementą, būsite nukreipti į atitinkamos funkcijos ap
 <img src="../images/imagemap.png" alt="VitalControl Įvertinimas" title="Svoris" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Šiandienos svėrimai" title="Įvertinkite savo gyvūnų svorio reikšmes, užregistruotas su VitalControl šiandien&#10;Pelės spustelėjimas: į dokumentaciją" href="/en/docs/evaluation/weight/#todays-weighings">
-   <area shape="rect" coords="116,40,238,160" alt="Gimimo svoriai" title="Įvertinkite savo saugomus gimimo svorius&#10;Pelės spustelėjimas: į dokumentaciją" href="/en/docs/evaluation/weight/#birth-weights">
-   <area shape="rect" coords="3,160,116,279" alt="Svorio vystymasis" title="Įvertinkite savo gyvūnų svorio vystymąsi&#10;Pelės spustelėjimas: į dokumentaciją" href="/en/docs/evaluation/weight/#weight-development">
+   <area shape="rect" coords="3,40,116,160" alt="Šiandienos svėrimai" title="Įvertinkite savo gyvūnų svorio reikšmes, užregistruotas su VitalControl šiandien&#10;Pelės spustelėjimas: į dokumentaciją" href="/lt/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Gimimo svoriai" title="Įvertinkite savo saugomus gimimo svorius&#10;Pelės spustelėjimas: į dokumentaciją" href="/lt/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Svorio vystymasis" title="Įvertinkite savo gyvūnų svorio vystymąsi&#10;Pelės spustelėjimas: į dokumentaciją" href="/lt/docs/evaluation/weight/#weight-development">
 
-   <area shape="rect" coords="150,282,238,319" alt="Filtras" title="Nustatykite filtrą&#10;Pelės spustelėjimas: į dokumentaciją" href="/en/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="Atgal" title="Grįžkite vienu lygiu atgal&#10;Pelės spustelėjimas: į dokumentaciją" href="/en/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="Filtras" title="Nustatykite filtrą&#10;Pelės spustelėjimas: į dokumentaciją" href="/lt/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Atgal" title="Grįžkite vienu lygiu atgal&#10;Pelės spustelėjimas: į dokumentaciją" href="/lt/docs/evaluation/">
 </map>
 
 ## Šiandienos svėrimai {#todays-weighings}

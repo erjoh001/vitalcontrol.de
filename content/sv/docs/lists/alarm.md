@@ -55,7 +55,7 @@ Larmlistan är strukturerad enligt följande:
 
 3. Inom alarmlistan, använd piltangenterna △ ▽ för att välja önskat djur och bekräfta med `{{<T "Ok" >}}`. Alternativt kan du söka efter ett djur. Använd `On/Off`-knappen <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> och använd piltangenterna ◁ ▷ △ ▽ för att välja önskade siffror. Bekräfta slutligen med `{{<T "Ok" >}}`.
 
-4. Menyn `{{<T "Actions" >}}` öppnas automatiskt. Hanteringen av åtgärderna kan hittas [här](/en/docs/actions/).
+4. Menyn `{{<T "Actions" >}}` öppnas automatiskt. Hanteringen av åtgärderna kan hittas [här](/sv/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
@@ -80,7 +80,7 @@ Larmlistan är strukturerad enligt följande:
 
 3. Inom larmlistan, använd piltangenterna △ ▽ för att välja önskat djur och bekräfta med `{{<T "Ok" >}}`. Alternativt kan du söka efter ett djur. Använd `On/Off`-knappen <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Sök" /> och använd piltangenterna ◁ ▷ △ ▽ för att välja önskade siffror. Bekräfta slutligen med `{{<T "Ok" >}}`.
 
-4. Funktionen [Mät temperatur](/en/docs/actions/measure-temperature/#measure-fever) startas nu automatiskt.
+4. Funktionen [Mät temperatur](/sv/docs/actions/measure-temperature/#measure-fever) startas nu automatiskt.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Ta temperatur")
 
@@ -92,7 +92,7 @@ Larmlistan är strukturerad enligt följande:
 
 3. Inom larmlistan, använd piltangenterna △ ▽ för att välja önskat djur och bekräfta med `{{<T "Ok" >}}`. Alternativt kan du söka efter ett djur. Använd `On/Off`-knappen <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Sök" /> och använd piltangenterna ◁ ▷ △ ▽ för att välja önskade siffror. Bekräfta slutligen med `{{<T "Ok" >}}`.
 
-4. Funktionen [Betygsätt djur](/en/docs/actions/rating/#rate-your-animals) startas nu automatiskt.
+4. Funktionen [Betygsätt djur](/sv/docs/actions/rating/#rate-your-animals) startas nu automatiskt.
 
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Betygsätt djur")

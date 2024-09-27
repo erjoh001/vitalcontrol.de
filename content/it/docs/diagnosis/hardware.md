@@ -22,5 +22,5 @@ Il dispositivo ora elenca tutti i componenti hardware del dispositivo, insieme a
    ![VitalControl: Percorso del menu Verifica dei componenti hardware](../images/device-check.png "Verifica hardware")
 
 {{% alert title="NOTA" %}}
-Se lo stato di tutti i componenti è mostrato come integro (punti verdi) e c'è ancora un malfunzionamento del dispositivo, potrebbe trattarsi di un difetto software. In questo caso, contatta il tuo rivenditore locale o la [hotline di assistenza](https://www.urbanonline.de/it/contact) del produttore.
+Se lo stato di tutti i componenti è mostrato come integro (punti verdi) e c'è ancora un malfunzionamento del dispositivo, potrebbe trattarsi di un difetto software. In questo caso, contatta il tuo rivenditore locale o la [hotline di assistenza](https://www.urbanonline.de/en/contact) del produttore.
 {{% /alert %}}

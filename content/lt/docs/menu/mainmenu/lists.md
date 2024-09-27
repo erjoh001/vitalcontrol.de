@@ -3,8 +3,8 @@ title: Sąrašai
 linkTitle: Sąrašai
 description: Patikrinkite savo gyvūnų sąrašus
 weight: 70
-manualLink: /en/docs/lists/
+manualLink: /lt/docs/lists/
 ---
 <script>
-  window.location.href = "/en/docs/lists/";
+  window.location.href = "/lt/docs/lists/";
 </script>

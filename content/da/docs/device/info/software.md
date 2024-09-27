@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instruktionerne til at se din softwareversion kan findes her
-manualLink: /en/docs/firmware/versions/
+manualLink: /da/docs/firmware/versions/
 ---
 <script>
-  window.location.href = "/en/docs/firmware/versions/";
+  window.location.href = "/da/docs/firmware/versions/";
 </script>
