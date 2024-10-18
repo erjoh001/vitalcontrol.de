@@ -1,12 +1,11 @@
 ---
 title: Serwis
 linkTitle: Serwis
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Sprawdź sterowniki urządzeń, zaktualizuj oprogramowanie układowe i przeprowadź test zasięgu
-date: 2223-27-26
 kategorie: [Urządzenie]
 tagi: [Urządzenie]
 translationKey: device/service

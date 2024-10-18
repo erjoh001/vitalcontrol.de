@@ -1,12 +1,11 @@
 ---
 title: Szolgáltatás
 linkTitle: Szolgáltatás
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Ellenőrizze az eszközmeghajtókat, frissítse a firmware-t és végezzen hatótávolság-tesztet
-date: 2223-27-26
 kategóriák: [Eszköz]
 címkék: [Eszköz]
 translationKey: device/service

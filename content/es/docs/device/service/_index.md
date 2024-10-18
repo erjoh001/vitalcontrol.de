@@ -1,12 +1,11 @@
 ---
 title: Servicio
 linkTitle: Servicio
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Verifica los controladores de tu dispositivo, actualiza tu firmware y realiza una prueba de alcance
-date: 2223-27-26
 categorías: [Dispositivo]
 etiquetas: [Dispositivo]
 translationKey: device/service

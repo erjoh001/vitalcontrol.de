@@ -1,12 +1,11 @@
 ---
 title: Service
 linkTitle: Service
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Vérifiez vos pilotes de périphérique, mettez à jour votre firmware et effectuez un test de portée
-date: 2223-27-26
 catégories: [Appareil]
 étiquettes: [Appareil]
 translationKey: device/service

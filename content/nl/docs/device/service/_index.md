@@ -1,12 +1,11 @@
 ---
 title: Service
 linkTitle: Service
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Controleer uw apparaatstuurprogramma's, update uw firmware en voer een bereiktest uit
-date: 2223-27-26
 categorieën: [Apparaat]
 tags: [Apparaat]
 translationKey: device/service

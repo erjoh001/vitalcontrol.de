@@ -1,12 +1,11 @@
 ---
 title: Paslauga
 linkTitle: Paslauga
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Patikrinkite savo įrenginio tvarkykles, atnaujinkite programinę įrangą ir atlikite diapazono testą
-date: 2223-27-26
 kategorijos: [Įrenginys]
 Žymos: [Įrenginys]
 translationKey: device/service

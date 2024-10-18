@@ -1,12 +1,11 @@
 ---
 title: Servis
 linkTitle: Servis
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Cihaz sürücülerinizi kontrol edin, donanım yazılımınızı güncelleyin ve menzil testi yapın
-date: 2223-27-26
 Kategoriler: [Cihaz]
 Etiketler: [Cihaz]
 translationKey: device/service

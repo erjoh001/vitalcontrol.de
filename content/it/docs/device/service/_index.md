@@ -1,12 +1,11 @@
 ---
 title: Service
 linkTitle: Service
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Controlla i driver del tuo dispositivo, aggiorna il firmware ed esegui un test di portata
-date: 2223-27-26
 categorie: [Device]
 etichette: [Device]
 translationKey: device/service

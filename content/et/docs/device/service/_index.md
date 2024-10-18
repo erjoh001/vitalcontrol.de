@@ -1,12 +1,11 @@
 ---
 title: Teenus
 linkTitle: Teenus
-date: 2223-27-28T13:25:28+22:22
+date: 2023-07-26T13:25:28+22:22
 weight: 32
 slug: service
 description: >
   Kontrollige oma seadme draivereid, uuendage oma püsivara ja tehke ulatuse test
-date: 2223-27-26
 kategooriad: [Seade]
 Sildid: [Seade]
 translationKey: device/service
