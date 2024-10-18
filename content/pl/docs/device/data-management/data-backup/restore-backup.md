@@ -6,8 +6,8 @@ weight: 20
 draft: false
 description: >
  Instrukcje dotyczące przywracania kopii zapasowej można znaleźć tutaj
-manualLink: /en/docs/backup/restore/
+manualLink: /pl/docs/backup/restore/
 ---
 <script>
-  window.location.href = "/en/docs/backup/restore/";
+  window.location.href = "/pl/docs/backup/restore/";
 </script>

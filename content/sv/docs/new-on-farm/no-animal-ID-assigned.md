@@ -80,5 +80,5 @@ Du kan använda de tidigare ytterligare åtgärderna för att ställa in vilka �
 
  ## Ytterligare menyalternativ {#further-menu-items}
 
-Du har också möjlighet att välja mellan `{{<T "SearchAnimal" >}}` och `{{<T "SetFilter" >}}` i popupen. Använd piltangenterna △ ▽ för att navigera till respektive menyalternativ och bekräfta med `{{<T "Ok" >}}`. Informationen för `{{<T "SetFilter" >}}` [här](/en/docs/filter/) och för `{{<T "SearchAnimal" >}}` fortsätt som i `{{<T "NoAnimalIDAssigned" >}}` steg 4.
+Du har också möjlighet att välja mellan `{{<T "SearchAnimal" >}}` och `{{<T "SetFilter" >}}` i popupen. Använd piltangenterna △ ▽ för att navigera till respektive menyalternativ och bekräfta med `{{<T "Ok" >}}`. Informationen för `{{<T "SetFilter" >}}` [här](/sv/docs/filter/) och för `{{<T "SearchAnimal" >}}` fortsätt som i `{{<T "NoAnimalIDAssigned" >}}` steg 4.
 

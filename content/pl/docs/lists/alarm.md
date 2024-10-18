@@ -55,7 +55,7 @@ Lista alarmów jest zorganizowana w następujący sposób:
 
 3. W obrębie listy alarmów użyj klawiszy strzałek △ ▽, aby wybrać żądane zwierzę i potwierdź przyciskiem `{{<T "Ok" >}}`. Alternatywnie możesz wyszukać zwierzę. Użyj przycisku `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> i użyj klawiszy strzałek ◁ ▷ △ ▽, aby wybrać żądane cyfry. Na koniec potwierdź przyciskiem `{{<T "Ok" >}}`.
 
-4. Menu `{{<T "Actions" >}}` otworzy się automatycznie. Obsługę akcji można znaleźć [tutaj](/en/docs/actions/).
+4. Menu `{{<T "Actions" >}}` otworzy się automatycznie. Obsługę akcji można znaleźć [tutaj](/pl/docs/actions/).
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
@@ -79,7 +79,7 @@ Lista alarmów jest zorganizowana w następujący sposób:
 
 3. W liście alarmów użyj klawiszy strzałek △ ▽, aby wybrać żądane zwierzę i potwierdź klawiszem `{{<T "Ok" >}}`. Alternatywnie możesz wyszukać zwierzę. Użyj przycisku `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> i użyj klawiszy strzałek ◁ ▷ △ ▽, aby wybrać żądane cyfry. Na koniec potwierdź klawiszem `{{<T "Ok" >}}`.
 
-4. Funkcja [Zmierz temperaturę](/en/docs/actions/measure-temperature/#measure-fever) zostanie teraz automatycznie uruchomiona.
+4. Funkcja [Zmierz temperaturę](/pl/docs/actions/measure-temperature/#measure-fever) zostanie teraz automatycznie uruchomiona.
 
    ![VitalControl Lists Alarmlist](../images/temperature.png "Zmierz temperaturę")
 
@@ -91,7 +91,7 @@ Lista alarmów jest zorganizowana w następujący sposób:
 
 3. W liście alarmów użyj klawiszy strzałek △ ▽, aby wybrać żądane zwierzę i potwierdź klawiszem `{{<T "Ok" >}}`. Alternatywnie możesz wyszukać zwierzę. Użyj przycisku `On/Off` <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> i użyj klawiszy strzałek ◁ ▷ △ ▽, aby wybrać żądane cyfry. Na koniec potwierdź klawiszem `{{<T "Ok" >}}`.
 
-4. Funkcja [Oceń zwierzę](/en/docs/actions/rating/#rate-your-animals) zostanie teraz automatycznie uruchomiona.
+4. Funkcja [Oceń zwierzę](/pl/docs/actions/rating/#rate-your-animals) zostanie teraz automatycznie uruchomiona.
 
 
    ![VitalControl Lists Alarmlist](../images/rateanimal.png "Oceń zwierzę")

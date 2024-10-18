@@ -22,12 +22,12 @@ Hvis du klikker på et menupunkt, bliver du omdirigeret til en beskrivelse af de
 <img src="../images/imagemap.png" alt="VitalControl Evaluering" title="Vægt" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Dagens vejning" title="Evaluer vægtværdierne af dine dyr registreret med VitalControl på den aktuelle dag&#10;Museklik: til dokumentationen" href="/en/docs/evaluation/weight/#todays-weighings">
-   <area shape="rect" coords="116,40,238,160" alt="Fødselsvægte" title="Evaluer dine lagrede fødselsvægte&#10;Museklik: til dokumentationen" href="/en/docs/evaluation/weight/#birth-weights">
-   <area shape="rect" coords="3,160,116,279" alt="Vægtudvikling" title="Evaluer vægtudviklingen af dine dyr&#10;Museklik: til dokumentationen" href="/en/docs/evaluation/weight/#weight-development">
+   <area shape="rect" coords="3,40,116,160" alt="Dagens vejning" title="Evaluer vægtværdierne af dine dyr registreret med VitalControl på den aktuelle dag&#10;Museklik: til dokumentationen" href="/da/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Fødselsvægte" title="Evaluer dine lagrede fødselsvægte&#10;Museklik: til dokumentationen" href="/da/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Vægtudvikling" title="Evaluer vægtudviklingen af dine dyr&#10;Museklik: til dokumentationen" href="/da/docs/evaluation/weight/#weight-development">
 
-   <area shape="rect" coords="150,282,238,319" alt="Filter" title="Indstil et filter&#10;Museklik: til dokumentationen" href="/en/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="Tilbage" title="Hop tilbage et niveau&#10;Museklik: til dokumentationen" href="/en/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="Filter" title="Indstil et filter&#10;Museklik: til dokumentationen" href="/da/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Tilbage" title="Hop tilbage et niveau&#10;Museklik: til dokumentationen" href="/da/docs/evaluation/">
 </map>
 
 ## Dagens vejninger {#todays-weighings}

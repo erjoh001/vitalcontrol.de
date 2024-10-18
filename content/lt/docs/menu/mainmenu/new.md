@@ -3,8 +3,8 @@ title: Naujas
 linkTitle: Naujas
 description: Kaip registruoti naujus gyvūnus VitalControl įrenginyje
 weight: 10
-manualLink: /en/docs/new/
+manualLink: /lt/docs/new/
 ---
 <script>
-  window.location.href = "/en/docs/new/";
+  window.location.href = "/lt/docs/new/";
 </script>

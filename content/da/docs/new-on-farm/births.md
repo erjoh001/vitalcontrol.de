@@ -65,6 +65,6 @@ Redigering af dyredata er kun muligt i listevisningen!
 
 1. Brug piletasterne △ ▽ til at vælge det dyr, du vil redigere, og bekræft med `{{<T "Ok" >}}`.
 
-2. En undermenu åbnes, hvor du kan justere forskellige indstillinger. For trin-for-trin instruktioner klik [her](/en/docs/new/calving/#register-a-calving).
+2. En undermenu åbnes, hvor du kan justere forskellige indstillinger. For trin-for-trin instruktioner klik [her](/da/docs/new/calving/#register-a-calving).
 
     ![VitalControl: Menu New on farm Births](../images/edit2.png "Edit a birth notice")

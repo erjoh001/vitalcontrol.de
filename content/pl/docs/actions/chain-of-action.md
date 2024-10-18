@@ -8,8 +8,8 @@ description: >
 date: 2023-07-26
 kategorie: [Akcje]
 tagi: [Akcje, łańcuch akcji]
-manualLink: /en/docs/chain-of-actions/
+manualLink: /pl/docs/chain-of-actions/
 ---
 <script>
-  window.location.href = "/en/docs/chain-of-actions/";
+  window.location.href = "/pl/docs/chain-of-actions/";
 </script>

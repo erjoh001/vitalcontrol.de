@@ -6,5 +6,5 @@ weight: 30
 draft: false
 description: >
  Instrukcijas, kaip atlikti diapazono testą, galite rasti čia
-manualLink: /en/docs/diagnosis/rfid-scan/
+manualLink: /lt/docs/diagnosis/rfid-scan/
 ---

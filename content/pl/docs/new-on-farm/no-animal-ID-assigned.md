@@ -80,4 +80,4 @@ Możesz użyć poprzednich dodatkowych działań, aby ustawić, które działani
 
  ## Dalsze pozycje menu {#further-menu-items}
 
-Masz również możliwość wyboru między `{{<T "SearchAnimal" >}}` a `{{<T "SetFilter" >}}` w oknie popup. Użyj przycisków strzałek △ ▽, aby przejść do odpowiedniej pozycji menu i potwierdź `{{<T "Ok" >}}`. Informacje dotyczące `{{<T "SetFilter" >}}` [tutaj](/en/docs/filter/) oraz dla `{{<T "SearchAnimal" >}}` postępuj zgodnie z krokiem 4 w `{{<T "NoAnimalIDAssigned" >}}`.
+Masz również możliwość wyboru między `{{<T "SearchAnimal" >}}` a `{{<T "SetFilter" >}}` w oknie popup. Użyj przycisków strzałek △ ▽, aby przejść do odpowiedniej pozycji menu i potwierdź `{{<T "Ok" >}}`. Informacje dotyczące `{{<T "SetFilter" >}}` [tutaj](/pl/docs/filter/) oraz dla `{{<T "SearchAnimal" >}}` postępuj zgodnie z krokiem 4 w `{{<T "NoAnimalIDAssigned" >}}`.

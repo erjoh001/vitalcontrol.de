@@ -17,7 +17,7 @@ Hvis du ikke har brug for denne funktion, kan du deaktivere den i [handlingsinds
 
 ## Registrer en kælvning {#register-a-calving}
 
-Så snart du er kommet ind i handlingsmenuen, vælg menupunktet <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` og bekræft med `{{<T "Ok" >}}`. Fortsæt som beskrevet i instruktionerne [Registrering af en kælvning](/en/docs/new/calving/).
+Så snart du er kommet ind i handlingsmenuen, vælg menupunktet <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` og bekræft med `{{<T "Ok" >}}`. Fortsæt som beskrevet i instruktionerne [Registrering af en kælvning](/da/docs/new/calving/).
 
    ![VitalControl: Menu Actions Calving](../images/calving.png "Calving")
 

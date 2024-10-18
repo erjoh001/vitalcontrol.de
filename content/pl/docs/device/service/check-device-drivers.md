@@ -6,5 +6,5 @@ weight: 10
 draft: false
 description: >
  Instrukcje dotyczące sprawdzania sterowników urządzeń można znaleźć tutaj
-manualLink: /en/docs/diagnosis/hardware/
+manualLink: /pl/docs/diagnosis/hardware/
 ---

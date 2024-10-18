@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Nowe na farmie, brak transpondera {#new-on-farm-no-transponder}
 
-Na tej liście znajdziesz wszystkie nowo utworzone zwierzęta w wieku maksymalnie X dni, którym nie przypisano jeszcze transpondera. Możesz ustawić maksymalny wiek [tutaj](/en/docs/settings/animal-registration/#set-default-values). Gdy zbierzesz transponder od tych zwierząt, możesz wyszukać odpowiednie ID zwierzęcia na liście i zeskanować przypisany transponder. Transponder jest wtedy automatycznie przypisany do zwierzęcia, a zwierzę jest usuwane z listy. Aby przypisać transponder, postępuj w następujący sposób:
+Na tej liście znajdziesz wszystkie nowo utworzone zwierzęta w wieku maksymalnie X dni, którym nie przypisano jeszcze transpondera. Możesz ustawić maksymalny wiek [tutaj](/pl/docs/settings/animal-registration/#set-default-values). Gdy zbierzesz transponder od tych zwierząt, możesz wyszukać odpowiednie ID zwierzęcia na liście i zeskanować przypisany transponder. Transponder jest wtedy automatycznie przypisany do zwierzęcia, a zwierzę jest usuwane z listy. Aby przypisać transponder, postępuj w następujący sposób:
 
 1. Na głównym ekranie urządzenia VitalControl wybierz pozycję menu <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Nowe na farmie" /> `{{<T "NewOnFarm" >}}` i naciśnij przycisk `{{<T "Ok" >}}`.
 
@@ -61,4 +61,4 @@ Element menu `{{<T "Ok" >}}` informuje, że przypisanie transpondera zawsze będ
 
 ## Dalsze elementy menu {#further-menu-items}
 
-Masz również możliwość wyboru między `{{<T "NewOnFarmNoTransponder" >}}`, `{{<T "Settings" >}}` i `{{<T "SetFilter" >}}` w okienku popup. Użyj przycisków strzałek △ ▽, aby przejść do odpowiedniego elementu menu i potwierdź za pomocą `{{<T "Ok" >}}`. Informacje dotyczące elementu menu `{{<T "NewOnFarmNoTransponder" >}}` można znaleźć [tutaj](/en/docs/settings/animal-registration/#set-default-values), dla `{{<T "SetFilter" >}}` [tutaj](/en/docs/filter/) i dla `{{<T "Settings" >}}` postępuj jak w kroku 3 `{{<T "Ok" >}}`.
+Masz również możliwość wyboru między `{{<T "NewOnFarmNoTransponder" >}}`, `{{<T "Settings" >}}` i `{{<T "SetFilter" >}}` w okienku popup. Użyj przycisków strzałek △ ▽, aby przejść do odpowiedniego elementu menu i potwierdź za pomocą `{{<T "Ok" >}}`. Informacje dotyczące elementu menu `{{<T "NewOnFarmNoTransponder" >}}` można znaleźć [tutaj](/pl/docs/settings/animal-registration/#set-default-values), dla `{{<T "SetFilter" >}}` [tutaj](/pl/docs/filter/) i dla `{{<T "Settings" >}}` postępuj jak w kroku 3 `{{<T "Ok" >}}`.

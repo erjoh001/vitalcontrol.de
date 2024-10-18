@@ -6,8 +6,8 @@ weight: 20
 draft: false
 description: >
  Instruktionerna för att återställa en säkerhetskopia finns här
-manualLink: /en/docs/backup/restore/
+manualLink: /sv/docs/backup/restore/
 ---
 <script>
-  window.location.href = "/en/docs/backup/restore/";
+  window.location.href = "/sv/docs/backup/restore/";
 </script>

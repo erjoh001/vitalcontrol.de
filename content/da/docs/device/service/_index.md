@@ -19,9 +19,9 @@ Hvis du klikker på et menupunkt, bliver du omdirigeret til en beskrivelse af de
 <img src="menu.png" alt="VitalControl Service" title="Service" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="2,42,238,82" alt="Check device drivers" title="Instruktionerne til at tjekke dine enhedsdrivere kan findes her&#10;Museklik: åbn dokumentation" href="/en/docs/diagnosis/hardware/">
-  <area shape="rect" coords="2,82,238,122" alt="Firmware update" title="Instruktionerne til at opdatere din firmware kan findes her&#10;Museklik: åbn dokumentation" href="/en/docs/firmware/update/">
-  <area shape="rect" coords="2,122,238,162" alt="Range test" title="Instruktionerne til at udføre en rækkeviddetest kan findes her&#10;Museklik: åbn dokumentation" href="/en/docs/diagnosis/rfid-scan/">
+  <area shape="rect" coords="2,42,238,82" alt="Check device drivers" title="Instruktionerne til at tjekke dine enhedsdrivere kan findes her&#10;Museklik: åbn dokumentation" href="/da/docs/diagnosis/hardware/">
+  <area shape="rect" coords="2,82,238,122" alt="Firmware update" title="Instruktionerne til at opdatere din firmware kan findes her&#10;Museklik: åbn dokumentation" href="/da/docs/firmware/update/">
+  <area shape="rect" coords="2,122,238,162" alt="Range test" title="Instruktionerne til at udføre en rækkeviddetest kan findes her&#10;Museklik: åbn dokumentation" href="/da/docs/diagnosis/rfid-scan/">
 
-  <area shape="rect" coords="2,282,120,319" alt="Back" title="Hop tilbage på niveau&#10;Museklik: åbn dokumentation" href="/en/docs/device/">
+  <area shape="rect" coords="2,282,120,319" alt="Back" title="Hop tilbage på niveau&#10;Museklik: åbn dokumentation" href="/da/docs/device/">
 </map>

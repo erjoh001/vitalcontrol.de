@@ -6,5 +6,5 @@ weight: 20
 draft: false
 description: >
  Instrukcijas, kaip atnaujinti savo programinę įrangą, rasite čia
-manualLink: /en/docs/firmware/update/
+manualLink: /lt/docs/firmware/update/
 ---

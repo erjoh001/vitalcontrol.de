@@ -39,7 +39,7 @@ translationKey: actions/setting
 
 3. Atsidarys submeniu. Naudokite rodyklių klavišus △ ▽, kad pasirinktumėte meniu punktą &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `{{<T "ActionChain" >}}` ir patvirtinkite su `{{<T "Ok" >}}`.
 
-4. Tolimesnes instrukcijas rasite [čia](/en/docs/chain-of-actions/#set-chain-of-actions).
+4. Tolimesnes instrukcijas rasite [čia](/lt/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Meniu Veiksmų Grandinė](../images/chainofactions.png "Chain of Actions")
 

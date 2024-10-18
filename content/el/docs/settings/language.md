@@ -67,7 +67,7 @@ translationKey: settings/language
 [![VitalControl: Κύριο μενού με επιλεγμένη τη βουλγαρική γλώσσα](/images/homescreen/bulgarian.png "Κύριο μενού Βουλγαρικά")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Βοσνιακά" lang="bs" %}}
-[![VitalControl: Κύριο μενού με επιλεγμένη τη βοσνιακή γλώσσα](/images/homescreen/bosnian.png "Κύριο μενού Βοσνιακά")](/bs/demo/ "Demo app VitalControl (BS)")
+[![VitalControl: Κύριο μενού με επιλεγμένη τη βοσνιακή γλώσσα](/images/homescreen/bosnian.png "Κύριο μενού Βοσνιακά")](/el/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Εσθονικά" lang="et" %}}
 [![VitalControl: Κύριο μενού με επιλεγμένη την εσθονική γλώσσα](/images/homescreen/estonian.png "Κύριο μενού Εσθονικά")](/et/demo/ "Demo app VitalControl (ET)")

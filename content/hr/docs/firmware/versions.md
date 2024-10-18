@@ -1,0 +1,32 @@
+---
+title: "Najnovije verzije firmvera"
+linkTitle: "Najnovije verzije"
+date: 2023-07-18T12:47:29+02:00
+draft: false
+weight: 10
+description: >
+ Popis trenutnih verzija firmvera za uređaj VitalControl.
+---
+
+## Odredite verzije firmvera instalirane na vašem uređaju {#determine-firmware-versions-installed-on-your-device}
+
+1. Otvorite stavku izbornika <img src="/icons/device.svg" width="25" align="bottom" alt="Device" /> `{{<T "Device" >}}` na glavnom ekranu vašeg VitalControl uređaja.
+
+2. Pozovite podizbornik `{{<T "Info" >}}`, odaberite stavku izbornika `{{<T "Software" >}}` i potvrdite s `{{<T "Ok" >}}`. Otvorit će se skočni prozor koji prikazuje verzije softvera trenutno instalirane na vašem uređaju:
+
+![VitalControl: odredite verzije firmvera](../images/firmware-versions.png "Prikaz verzija firmvera")
+
+## Najnovije verzije firmvera: {#latest-firmware-versions}
+
+Sljedeća tablica prikazuje trenutne verzije firmvera:
+
+|                 | GUI-Firmware | Middleware  | Bootloader |
+|-----------------|:------------:|:-----------:|:----------:|
+| **Verzija**     | 0.9.9        | 0.9.9       | 1.0.6      |
+| **Datum**       | 20.03.2024   | 20.03.2024  | 15.03.2024 |
+| **Commit hash** | 1ad71d79     | 4d7f851     | 344bc50    |
+| **Commit №**    | 2076         | n/a         | n/a        |
+
+{{% alert title="Savjet" %}}
+Ako vam nedostaju novije značajke na vašem uređaju ili imate problema sa stabilnošću, preporučuje se [ažurirati](../update/) firmver na vašem uređaju na najnoviju objavljenu verziju.
+{{% /alert %}}

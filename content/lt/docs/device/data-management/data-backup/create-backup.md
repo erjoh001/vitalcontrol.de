@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instrukcijas, kaip sukurti atsarginę kopiją, galite rasti čia
-manualLink: /en/docs/backup/backup/
+manualLink: /lt/docs/backup/backup/
 ---
 <script>
-  window.location.href = "/en/docs/backup/backup/";
+  window.location.href = "/lt/docs/backup/backup/";
 </script>

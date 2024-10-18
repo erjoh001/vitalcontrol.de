@@ -6,8 +6,8 @@ weight: 20
 draft: false
 description: >
  Instrukcijas, kaip atkurti atsarginę kopiją, galite rasti čia
-manualLink: /en/docs/backup/restore/
+manualLink: /lt/docs/backup/restore/
 ---
 <script>
-  window.location.href = "/en/docs/backup/restore/";
+  window.location.href = "/lt/docs/backup/restore/";
 </script>

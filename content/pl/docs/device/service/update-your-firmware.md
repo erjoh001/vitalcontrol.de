@@ -6,5 +6,5 @@ weight: 20
 draft: false
 description: >
  Instrukcje dotyczące aktualizacji oprogramowania układowego można znaleźć tutaj
-manualLink: /en/docs/firmware/update/
+manualLink: /pl/docs/firmware/update/
 ---

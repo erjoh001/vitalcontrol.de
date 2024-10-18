@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### Naujas ūkyje, be transponderio {#new-on-farm-no-transponder}
 
-Šiame sąraše rasite visus naujai sukurtus gyvūnus, kurių amžius neviršija X dienų ir kuriems dar nepriskirtas transponderis. Maksimalų amžių galite nustatyti [čia](/en/docs/settings/animal-registration/#set-default-values). Surinkę transponderį iš šių gyvūnų, galite ieškoti atitinkamo gyvūno ID sąraše ir nuskaityti susijusį transponderį. Transponderis automatiškai priskiriamas gyvūnui ir gyvūnas pašalinamas iš sąrašo. Norėdami priskirti transponderį, atlikite šiuos veiksmus:
+Šiame sąraše rasite visus naujai sukurtus gyvūnus, kurių amžius neviršija X dienų ir kuriems dar nepriskirtas transponderis. Maksimalų amžių galite nustatyti [čia](/lt/docs/settings/animal-registration/#set-default-values). Surinkę transponderį iš šių gyvūnų, galite ieškoti atitinkamo gyvūno ID sąraše ir nuskaityti susijusį transponderį. Transponderis automatiškai priskiriamas gyvūnui ir gyvūnas pašalinamas iš sąrašo. Norėdami priskirti transponderį, atlikite šiuos veiksmus:
 
 1. Pagrindiniame savo VitalControl įrenginio ekrane pasirinkite meniu punktą <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="Naujas ūkyje" /> `{{<T "NewOnFarm" >}}` ir paspauskite `{{<T "Ok" >}}` mygtuką.
 
@@ -62,4 +62,4 @@ Meniu punktas `{{<T "Ok" >}}` informuoja jus, kad transponderio priskyrimas visa
 
  ## Kiti meniu punktai {#further-menu-items}
 
-Taip pat turite galimybę pasirinkti tarp `{{<T "NewOnFarmNoTransponder" >}}`, `{{<T "Settings" >}}` ir `{{<T "SetFilter" >}}` iššokančiame lange. Naudokite rodyklių mygtukus △ ▽, kad pereitumėte prie atitinkamo meniu punkto ir patvirtinkite su `{{<T "Ok" >}}`. Informaciją apie meniu punktą `{{<T "NewOnFarmNoTransponder" >}}` galite rasti [čia](/en/docs/settings/animal-registration/#set-default-values), apie `{{<T "SetFilter" >}}` [čia](/en/docs/filter/) ir apie `{{<T "Settings" >}}` elkitės kaip `{{<T "Ok" >}}` 3 žingsnyje.
+Taip pat turite galimybę pasirinkti tarp `{{<T "NewOnFarmNoTransponder" >}}`, `{{<T "Settings" >}}` ir `{{<T "SetFilter" >}}` iššokančiame lange. Naudokite rodyklių mygtukus △ ▽, kad pereitumėte prie atitinkamo meniu punkto ir patvirtinkite su `{{<T "Ok" >}}`. Informaciją apie meniu punktą `{{<T "NewOnFarmNoTransponder" >}}` galite rasti [čia](/lt/docs/settings/animal-registration/#set-default-values), apie `{{<T "SetFilter" >}}` [čia](/lt/docs/filter/) ir apie `{{<T "Settings" >}}` elkitės kaip `{{<T "Ok" >}}` 3 žingsnyje.

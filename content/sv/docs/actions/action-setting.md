@@ -38,6 +38,6 @@ I denna inställningsmeny ställer du in &nbsp;<img src="/icons/actions/action-c
 
 3. En undermeny öppnas. Använd piltangenterna △ ▽ för att välja menyalternativet &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `{{<T "ActionChain" >}}` och bekräfta med `{{<T "Ok" >}}`.
 
-4. Ytterligare instruktioner finns [här](/en/docs/chain-of-actions/#set-chain-of-actions).
+4. Ytterligare instruktioner finns [här](/sv/docs/chain-of-actions/#set-chain-of-actions).
 
     ![VitalControl: Menu Actions Chain of Actions](../images/chainofactions.png "Chain of Actions")

@@ -21,7 +21,7 @@ translationKey: settings/unlink-transponder
 
 3. Dabar naudokite rodyklių mygtukus ◁ ▷, kad pasirinktumėte norimą nustatymą. Galite pasirinkti tarp `{{<T "NoChange" >}}` arba `{{<T "DerivationEarTagNo" >}}`.
 
-4. Nustatymo parinktis `{{<T "DerivationEarTagNo" >}}` leidžia atlikti tolesnius nustatymus. Žiūrėkite [čia](/en/docs/settings/animal-registration/#digit-of-the-new-id). 
+4. Nustatymo parinktis `{{<T "DerivationEarTagNo" >}}` leidžia atlikti tolesnius nustatymus. Žiūrėkite [čia](/lt/docs/settings/animal-registration/#digit-of-the-new-id). 
 
    ![VitalControl: Meniu Nustatymai Atjungti transponderį](../images/unlink-transponder.png "Atjungti transponderį")
    

@@ -6,8 +6,8 @@ weight: 30
 draft: false
 description: >
  Hayvan verilerini dışa aktarma ile ilgili tüm bilgi ve talimatları burada bulabilirsiniz
-manualLink: /en/docs/data-export/usb-drive/
+manualLink: /tr/docs/data-export/usb-drive/
 ---
 <script>
-  window.location.href = "/en/docs/data-export/usb-drive/";
+  window.location.href = "/tr/docs/data-export/usb-drive/";
 </script>

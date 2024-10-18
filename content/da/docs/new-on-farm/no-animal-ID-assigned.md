@@ -82,4 +82,4 @@ Du kan bruge de tidligere yderligere handlinger til at indstille, hvilke handlin
 
  ## Yderligere menupunkter {#further-menu-items}
 
-Du har også mulighed for at vælge mellem `{{<T "SearchAnimal" >}}` og `{{<T "SetFilter" >}}` i pop-up'en. Brug pileknapperne △ ▽ for at navigere til det respektive menupunkt og bekræft med `{{<T "Ok" >}}`. Informationen for `{{<T "SetFilter" >}}` [her](/en/docs/filter/) og for `{{<T "SearchAnimal" >}}` fortsæt som i `{{<T "NoAnimalIDAssigned" >}}` trin 4.
+Du har også mulighed for at vælge mellem `{{<T "SearchAnimal" >}}` og `{{<T "SetFilter" >}}` i pop-up'en. Brug pileknapperne △ ▽ for at navigere til det respektive menupunkt og bekræft med `{{<T "Ok" >}}`. Informationen for `{{<T "SetFilter" >}}` [her](/da/docs/filter/) og for `{{<T "SearchAnimal" >}}` fortsæt som i `{{<T "NoAnimalIDAssigned" >}}` trin 4.

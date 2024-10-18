@@ -3,8 +3,8 @@ title: Nowy
 linkTitle: Nowy
 description: Jak zarejestrować nowe zwierzęta na urządzeniu VitalControl
 weight: 10
-manualLink: /en/docs/new/
+manualLink: /pl/docs/new/
 ---
 <script>
-  window.location.href = "/en/docs/new/";
+  window.location.href = "/pl/docs/new/";
 </script>

@@ -67,7 +67,7 @@ Oprogramowanie układowe VitalControl zawiera tłumaczenia na następujące jęz
 [![VitalControl: Główne menu z wybranym językiem bułgarskim](/images/homescreen/bulgarian.png "Główne menu Bułgarski")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Bosnian" lang="bs" %}}
-[![VitalControl: Główne menu z wybranym językiem bośniackim](/images/homescreen/bosnian.png "Główne menu Bośniacki")](/bs/demo/ "Demo app VitalControl (BS)")
+[![VitalControl: Główne menu z wybranym językiem bośniackim](/images/homescreen/bosnian.png "Główne menu Bośniacki")](/pl/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Estonian" lang="et" %}}
 [![VitalControl: Główne menu z wybranym językiem estońskim](/images/homescreen/estonian.png "Główne menu Estoński")](/et/demo/ "Demo app VitalControl (ET)")

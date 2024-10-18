@@ -6,8 +6,8 @@ weight: 20
 draft: false
 description: >
  Yedeklemeyi geri yükleme talimatlarını burada bulabilirsiniz
-manualLink: /en/docs/backup/restore/
+manualLink: /tr/docs/backup/restore/
 ---
 <script>
-  window.location.href = "/en/docs/backup/restore/";
+  window.location.href = "/tr/docs/backup/restore/";
 </script>

@@ -67,7 +67,7 @@ VitalControl-firmware innehåller översättningar för följande språk:
 [![VitalControl: Huvudmeny med bulgariska valt](/images/homescreen/bulgarian.png "Huvudmeny Bulgariska")](/bg/demo/ "Demo app VitalControl (BG)")
   {{% /tab %}}
   {{% tab header="Bosnian" lang="bs" %}}
-[![VitalControl: Huvudmeny med bosniska valt](/images/homescreen/bosnian.png "Huvudmeny Bosniska")](/bs/demo/ "Demo app VitalControl (BS)")
+[![VitalControl: Huvudmeny med bosniska valt](/images/homescreen/bosnian.png "Huvudmeny Bosniska")](/sv/demo/ "Demo app VitalControl (BS)")
   {{% /tab %}}
   {{% tab header="Estonian" lang="et" %}}
 [![VitalControl: Huvudmeny med estniska valt](/images/homescreen/estonian.png "Huvudmeny Estniska")](/et/demo/ "Demo app VitalControl (ET)")

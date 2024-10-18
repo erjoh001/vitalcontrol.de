@@ -22,12 +22,12 @@ Om du klickar på ett menyobjekt kommer du att omdirigeras till en beskrivning a
 <img src="../images/imagemap.png" alt="VitalControl Utvärdering" title="Vikt" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Dagens vägning" title="Utvärdera viktvärdena för dina djur som registrerats med VitalControl under den aktuella dagen&#10;Musklick: till dokumentationen" href="/en/docs/evaluation/weight/#todays-weighings">
-   <area shape="rect" coords="116,40,238,160" alt="Födelsevikter" title="Utvärdera dina lagrade födelsevikter&#10;Musklick: till dokumentationen" href="/en/docs/evaluation/weight/#birth-weights">
-   <area shape="rect" coords="3,160,116,279" alt="Viktutveckling" title="Utvärdera viktutvecklingen för dina djur&#10;Musklick: till dokumentationen" href="/en/docs/evaluation/weight/#weight-development">
+   <area shape="rect" coords="3,40,116,160" alt="Dagens vägning" title="Utvärdera viktvärdena för dina djur som registrerats med VitalControl under den aktuella dagen&#10;Musklick: till dokumentationen" href="/sv/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Födelsevikter" title="Utvärdera dina lagrade födelsevikter&#10;Musklick: till dokumentationen" href="/sv/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Viktutveckling" title="Utvärdera viktutvecklingen för dina djur&#10;Musklick: till dokumentationen" href="/sv/docs/evaluation/weight/#weight-development">
 
-   <area shape="rect" coords="150,282,238,319" alt="Filter" title="Ställ in ett filter&#10;Musklick: till dokumentationen" href="/en/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="Tillbaka" title="Hoppa tillbaka en nivå&#10;Musklick: till dokumentationen" href="/en/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="Filter" title="Ställ in ett filter&#10;Musklick: till dokumentationen" href="/sv/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Tillbaka" title="Hoppa tillbaka en nivå&#10;Musklick: till dokumentationen" href="/sv/docs/evaluation/">
 </map>
 
 ## Dagens vägningar {#todays-weighings}

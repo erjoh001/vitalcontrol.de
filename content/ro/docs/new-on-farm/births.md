@@ -66,7 +66,7 @@ Editarea datelor animalului este posibilă doar în vizualizarea listei!
 
 1. Utilizați tastele săgeată △ ▽ pentru a selecta animalul pe care doriți să-l editați și confirmați cu `{{<T "Ok" >}}`.
 
-2. Se deschide un submeniu în care puteți ajusta diverse setări. Pentru instrucțiuni pas cu pas, faceți clic [aici](/en/docs/new/calving/#register-a-calving).
+2. Se deschide un submeniu în care puteți ajusta diverse setări. Pentru instrucțiuni pas cu pas, faceți clic [aici](/ro/docs/new/calving/#register-a-calving).
 
     ![VitalControl: Meniu Nou la nașteri pe fermă](../images/edit2.png "Editează o notificare de naștere")
     

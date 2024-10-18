@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instrukcje dotyczące tworzenia kopii zapasowej można znaleźć tutaj
-manualLink: /en/docs/backup/backup/
+manualLink: /pl/docs/backup/backup/
 ---
 <script>
-  window.location.href = "/en/docs/backup/backup/";
+  window.location.href = "/pl/docs/backup/backup/";
 </script>

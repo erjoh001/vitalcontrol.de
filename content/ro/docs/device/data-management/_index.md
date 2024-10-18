@@ -20,11 +20,11 @@ Dacă faceți clic pe un element de meniu, veți fi redirecționat către o desc
 <img src="menu.png" alt="Gestionarea datelor VitalControl" title="Gestionarea datelor" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="2,40,238,80" alt="Backup de date" title="Instrucțiunile pentru crearea unui backup pot fi găsite aici&#10;Click mouse: deschide documentația" href="/en/docs/device/data-management/data-backup/">
+  <area shape="rect" coords="2,40,238,80" alt="Backup de date" title="Instrucțiunile pentru crearea unui backup pot fi găsite aici&#10;Click mouse: deschide documentația" href="/ro/docs/device/data-management/data-backup/">
 
-  <area shape="rect" coords="2,80,238,120" alt="Date despre animale" title="Instrucțiunile pentru restaurarea unui backup pot fi găsite aici&#10;Click mouse: deschide documentația" href="/en/docs/device/data-management/animal-data/">
+  <area shape="rect" coords="2,80,238,120" alt="Date despre animale" title="Instrucțiunile pentru restaurarea unui backup pot fi găsite aici&#10;Click mouse: deschide documentația" href="/ro/docs/device/data-management/animal-data/">
 
-  <area shape="rect" coords="2,120,238,200" alt="Resetare la setările din fabrică" title="Toate informațiile și instrucțiunile pentru resetarea dispozitivului și a datelor despre animale pot fi găsite aici&#10;Click mouse: deschide documentația" href="/en/docs/reset/">
+  <area shape="rect" coords="2,120,238,200" alt="Resetare la setările din fabrică" title="Toate informațiile și instrucțiunile pentru resetarea dispozitivului și a datelor despre animale pot fi găsite aici&#10;Click mouse: deschide documentația" href="/ro/docs/reset/">
 
-  <area shape="rect" coords="2,282,120,319" alt="Înapoi" title="Toate informațiile și instrucțiunile pentru exportul datelor despre animale pot fi găsite aici&#10;Click mouse: deschide documentația" href="/en/docs/device/">
+  <area shape="rect" coords="2,282,120,319" alt="Înapoi" title="Toate informațiile și instrucțiunile pentru exportul datelor despre animale pot fi găsite aici&#10;Click mouse: deschide documentația" href="/ro/docs/device/">
 </map>

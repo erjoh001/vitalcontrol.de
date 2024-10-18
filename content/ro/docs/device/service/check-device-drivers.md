@@ -6,5 +6,5 @@ weight: 10
 draft: false
 description: >
  Instrucțiunile pentru verificarea driverelor dispozitivului tău pot fi găsite aici
-manualLink: /en/docs/diagnosis/hardware/
+manualLink: /ro/docs/diagnosis/hardware/
 ---
