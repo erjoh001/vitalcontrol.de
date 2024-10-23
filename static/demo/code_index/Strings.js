@@ -4237,12 +4237,12 @@ C.AGp={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "\u043D\u0430 \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440 \u0437\u0430\u0432\u044A\u0440\u0448\u0438 "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E!\n\n\u041F\u0440\u0435\u043D\u0430\u0441\u043E\u0447\u0432\u0430\u043D\u0435 "+
 "\u043A\u044A\u043C \u0435\u043A\u0440\u0430\u043D \u201E\u0417\u0430\u043A\u0443\u043F\u0435\u043D\u0438 "+
-"\u0436\u0438\u0432\u043E\u0442\u043D\u0438\u201C \u0441\u0435\u0433\u0430?\n\n\u0422\u0430\u043C "+
+"\u0436\u0438\u0432\u043E\u0442\u043D\u0438\u201C \u0441\u0435\u0433\u0430?\n\u0422\u0430\u043C "+
 "\u043C\u043E\u0436\u0435\u0442\u0435 \u0434\u0430 \u0435\u043A\u0441\u043F\u043E\u0440\u0442\u0438\u0440\u0430\u0442\u0435 "+
 "CSV \u0444\u0430\u0439\u043B \u0437\u0430 \u0438\u043C\u043F\u043E\u0440\u0442\u0438\u0440\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u0438 \u0432 \u0441\u0438\u0441\u0442\u0435\u043C\u0430\u0442\u0430 "+
 "\u0437\u0430 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 "+"\u043D\u0430 \u0441\u0442\u0430\u0434\u043E\u0442\u043E."
-,25:"Dodjela transpondera uspje\u0161no zavr\u0161ena!\n\nPreusmjeriti sada "+"na zaslon \'Kupljene \u017Eivotinje\'?\n\nOndje mo\u017Eete izvesti CSV "+
+,25:"Dodjela transpondera uspje\u0161no zavr\u0161ena!\n\nPreusmjeriti sada "+"na zaslon \'Kupljene \u017Eivotinje\'?\nOndje mo\u017Eete izvesti CSV "+
 "datoteku za uvoz \u017Eivotinja u sustav upravljanja stada.",4:"P\u0159i\u0159azen\xED transpond\xE9r\u016F \xFAsp\u011B\u0161n\u011B dokon\u010Deno!\n\nP\u0159esm\u011Brovat "+
 "nyn\xED na obrazovku \'Zakoupen\xE1 zv\xED\u0159ata\'?\n\nZde m\u016F\u017Eete "+
 "exportovat soubor CSV pro import zv\xED\u0159at do syst\xE9mu spr\xE1vy "+"st\xE1da."
@@ -4251,49 +4251,49 @@ C.AGp={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,0:"Transponder assignment finished successfully!\n\nRedirect to screen \u2019Purchased "+
 "animals\u2019 now?\n\nThere you can export a CSV file for animal import "+"into herd management system."
 ,6:"Transponder toewijzing succesvol afgerond!\n\nDoorverwijzen naar het scherm "+
-"\'Gekochte dieren\' nu?\n\nDaar kunt u een CSV-bestand exporteren voor "+"dierimport in het kuddebeheersysteem."
-,7:"Transponderi m\xE4\xE4ramine l\xF5petatud edukalt!\n\nSuunata n\xFC\xFCd "+"ekraanile \"Ostetud loomad\"?\n\nSeal saate eksportida loomade importimise "+
-"CSV-faili karjahalduss\xFCsteemi.",9:"Affectation du transpondeur termin\xE9e avec succ\xE8s !\n\nRediriger maintenant "+
-"vers l\'\xE9cran \'Animaux achet\xE9s\' ?\n\nL\xE0, vous pouvez exporter "+"un fichier CSV pour l\'importation des animaux dans le syst\xE8me de gestion "+
+"\'Gekochte dieren\' nu?\nDaar kunt u een CSV-bestand exporteren voor dierimport "+
+"in het kuddebeheersysteem.",7:"Transponderi m\xE4\xE4ramine l\xF5petatud edukalt!\n\nSuunata n\xFC\xFCd "+
+"ekraanile \"Ostetud loomad\"?\n\nSeal saate eksportida loomade importimise "+"CSV-faili karjahalduss\xFCsteemi."
+,9:"Affectation du transpondeur termin\xE9e avec succ\xE8s !\nRediriger maintenant "+
+"vers l\'\xE9cran \'Animaux achet\xE9s\' ?\nL\xE0, vous pouvez exporter "+"un fichier CSV pour l\'importation des animaux dans le syst\xE8me de gestion "+
 "de troupeau.",10:"Zuordnung beendet!\n\nJetzt auf Bildschirm \u2019Zug\xE4nge\u2019 umleiten?\n\nDort "+
 "dann eine CSV-Datei f\xFCr die Zugangsmeldung bei HI-Tier oder f\xFCr "+"den Import in HERDE Mast erstellen!"
 ,11:"\u0397 \u03B1\u03BD\u03AC\u03B8\u03B5\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03B4\u03AD\u03BA\u03C4\u03B7-\u03C0\u03BF\u03BC\u03C0\u03BF\u03CD "+
 "\u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03B8\u03B7\u03BA\u03B5 "+"\u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03CE\u03C2!\n\n\u0391\u03BD\u03B1\u03BA\u03B1\u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7 "+
 "\u03C3\u03C4\u03B7\u03BD \u03BF\u03B8\u03CC\u03BD\u03B7 \"\u0391\u03B3\u03BF\u03C1\u03B1\u03C3\u03BC\u03AD\u03BD\u03B1 "+
-"\u03B6\u03CE\u03B1\" \u03C4\u03CE\u03C1\u03B1;\n\n\u0395\u03BA\u03B5\u03AF "+"\u03BC\u03C0\u03BF\u03C1\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1 \u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B5 "+
+"\u03B6\u03CE\u03B1\" \u03C4\u03CE\u03C1\u03B1;\n\u0395\u03BA\u03B5\u03AF "+"\u03BC\u03C0\u03BF\u03C1\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1 \u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B5 "+
 "\u03AD\u03BD\u03B1 \u03B1\u03C1\u03C7\u03B5\u03AF\u03BF CSV \u03B3\u03B9\u03B1 "+
 "\u03C4\u03B7\u03BD \u03B5\u03B9\u03C3\u03B1\u03B3\u03C9\u03B3\u03AE \u03B6\u03CE\u03C9\u03BD "+
 "\u03C3\u03C4\u03BF \u03C3\u03CD\u03C3\u03C4\u03B7\u03BC\u03B1 \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7\u03C2 "+
 "\u03BA\u03BF\u03C0\u03B1\u03B4\u03B9\u03BF\u03CD.",12:"A transzponder hozz\xE1rendel\xE9s sikeresen befejez\u0151d\xF6tt!\n\n\xC1tir\xE1ny\xEDt\xE1s "+
-"a \'Megv\xE1s\xE1rolt \xE1llatok\' k\xE9perny\u0151re most?\n\nOtt export\xE1lhat "+
+"a \'Megv\xE1s\xE1rolt \xE1llatok\' k\xE9perny\u0151re most?\nOtt export\xE1lhat "+
 "egy CSV f\xE1jlt az \xE1llatok behozatal\xE1hoz a ny\xE1jkezel\u0151 rendszerbe."
-,13:"Assegnazione del transponder completata con successo!\n\nReindirizzare "+"ora alla schermata \'Animali acquistati\'?\n\nL\xEC puoi esportare un "+
-"file CSV per l\'importazione degli animali nel sistema di gestione del "+"gregge."
-,15:"Transpondera pie\u0161\u0137ir\u0161ana veiksm\u012Bgi pabeigta!\n\nVai "+"tagad p\u0101radres\u0113t uz ekr\u0101nu \"Ieg\u0101d\u0101tie dz\u012Bvnieki\"?\n\nTur "+
+,13:"Assegnazione del transponder completata con successo!\n\nReindirizzare "+"ora alla schermata \'Animali acquistati\'?\nL\xEC puoi esportare un file "+
+"CSV per l\'importazione degli animali nel sistema di gestione del gregge.",15:"Transpondera pie\u0161\u0137ir\u0161ana veiksm\u012Bgi pabeigta!\n\nVai "+
+"tagad p\u0101radres\u0113t uz ekr\u0101nu \"Ieg\u0101d\u0101tie dz\u012Bvnieki\"?\nTur "+
 "j\u016Bs varat eksport\u0113t CSV failu dz\u012Bvnieku import\u0113\u0161anai "+
 "gan\u0101mpulka p\u0101rvald\u012Bbas sist\u0113m\u0101.",26:"Transponderio priskyrimas s\u0117kmingai baigtas!\n\nAr dabar peradresuoti "+
 "\u012F ekran\u0105 \"\u012Esigyti gyv\u016Bnai\"?\n\nTen gal\u0117site "+"eksportuoti CSV fail\u0105 gyv\u016Bn\u0173 importui \u012F bandos valdymo "+
 "sistem\u0105.",16:"Transponder-tildeling fullf\xF8rt med suksess!\n\nOmdiriger til skjermen "+
-"\'Kj\xF8pte dyr\' n\xE5?\n\nDer kan du eksportere en CSV-fil for import "+"av dyr inn i besetningsstyringssystemet."
+"\'Kj\xF8pte dyr\' n\xE5?\nDer kan du eksportere en CSV-fil for import "+"av dyr inn i besetningsstyringssystemet."
 ,17:"Przypisanie transpondera zako\u0144czone pomy\u015Blnie!\n\nPrzekierowa\u0107 "+
-"teraz do ekranu \"Zakupione zwierz\u0119ta\"?\n\nTam mo\u017Cesz wyeksportowa\u0107 "+
+"teraz do ekranu \"Zakupione zwierz\u0119ta\"?\nTam mo\u017Cesz wyeksportowa\u0107 "+
 "plik CSV do importu zwierz\u0105t do systemu zarz\u0105dzania stadem.",18:"Atribui\xE7\xE3o de transponder conclu\xEDda com sucesso!\n\nRedirecionar "+
-"para a tela \'Animais comprados\' agora?\n\nL\xE1 voc\xEA pode exportar "+"um arquivo CSV para importa\xE7\xE3o de animais no sistema de gest\xE3o "+
+"para a tela \'Animais comprados\' agora?\nL\xE1 voc\xEA pode exportar "+"um arquivo CSV para importa\xE7\xE3o de animais no sistema de gest\xE3o "+
 "de rebanho.",19:"Alocarea transponderului a fost finalizat\u0103 cu succes!\n\nRedirec\u021Bionare "+
-"c\u0103tre ecranul \'Animale achizi\u021Bionate\' acum?\n\nAcolo pute\u021Bi "+
-"exporta un fi\u0219ier CSV pentru importul animalelor \xEEn sistemul de "+"gestionare a turmei."
-,20:"\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044E "+
+"c\u0103tre ecranul \'Animale achizi\u021Bionate\' acum?\nAcolo pute\u021Bi "+"exporta un fi\u0219ier CSV pentru importul animalelor \xEEn sistemul de "+
+"gestionare a turmei.",20:"\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044E "+
 "\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430 "+"\u0443\u0441\u043F\u0435\u0448\u043D\u043E \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u043E!\n\n\u041F\u0435\u0440\u0435\u0439\u0442\u0438 "+
 "\u043D\u0430 \u044D\u043A\u0440\u0430\u043D \"\u041A\u0443\u043F\u043B\u0435\u043D\u043D\u044B\u0435 "+
-"\u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0435\" \u0441\u0435\u0439\u0447\u0430\u0441?\n\n\u0422\u0430\u043C "+
+"\u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0435\" \u0441\u0435\u0439\u0447\u0430\u0441?\n\u0422\u0430\u043C "+
 "\u0432\u044B \u043C\u043E\u0436\u0435\u0442\u0435 \u044D\u043A\u0441\u043F\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C "+
 "\u0444\u0430\u0439\u043B CSV \u0434\u043B\u044F \u0438\u043C\u043F\u043E\u0440\u0442\u0430 "+
 "\u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0445",27:"Dodelitev transponderja uspe\u0161no zaklju\u010Dena!\n\nPreusmeritev "+
-"na zaslon \'Kupljene \u017Eivali\' zdaj?\n\nTam lahko izvozite CSV datoteko "+"za uvoz \u017Eivali v sistem za upravljanje \u010Drede."
-,22:"S\xE4ndartilldelning slutf\xF6rd framg\xE5ngsrikt!\n\nOmdirigera till "+"sk\xE4rmen \u2019K\xF6pta djur\u2019 nu?\n\nD\xE4r kan du exportera en "+
-"CSV-fil f\xF6r att importera djur till systemet f\xF6r hjordhantering.",24:"\u041F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430 "+
+"na zaslon \'Kupljene \u017Eivali\' zdaj?\nTam lahko izvozite CSV datoteko "+"za uvoz \u017Eivali v sistem za upravljanje \u010Drede."
+,22:"S\xE4ndartilldelning slutf\xF6rd framg\xE5ngsrikt!\n\nOmdirigera till "+"sk\xE4rmen \u2019K\xF6pta djur\u2019 nu?\nD\xE4r kan du exportera en CSV-fil "+
+"f\xF6r att importera djur till systemet f\xF6r hjordhantering.",24:"\u041F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430 "+
 "\u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u043E!\n\n\u041F\u0435\u0440\u0435\u0439\u0442\u0438 "+
-"\u0437\u0430\u0440\u0430\u0437 \u043D\u0430 \u0435\u043A\u0440\u0430\u043D "+"\"\u041A\u0443\u043F\u043B\u0435\u043D\u0456 \u0442\u0432\u0430\u0440\u0438\u043D\u0438\"?\n\n\u0422\u0430\u043C "+
+"\u0437\u0430\u0440\u0430\u0437 \u043D\u0430 \u0435\u043A\u0440\u0430\u043D "+"\"\u041A\u0443\u043F\u043B\u0435\u043D\u0456 \u0442\u0432\u0430\u0440\u0438\u043D\u0438\"?\n\u0422\u0430\u043C "+
 "\u0432\u0438 \u0437\u043C\u043E\u0436\u0435\u0442\u0435 \u0435\u043A\u0441\u043F\u043E\u0440\u0442\u0443\u0432\u0430\u0442\u0438 "+
 "\u0444\u0430\u0439\u043B CSV \u0434\u043B\u044F \u0456\u043C\u043F\u043E\u0440\u0442\u0443 "+
 "\u0442\u0432\u0430\u0440\u0438\u043D \u0443 \u0441\u0438\u0441\u0442\u0435\u043C\u0443 "+
@@ -5985,8 +5985,8 @@ BpZ={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,17:"Synchronizowanie",18:"Sincronizando",19:"Sincronizare",20:"\u041F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u0434\u0430\u043D\u043D\u044B\u0445"
 ,27:"Sinhroniziranje",21:"Sincronizando",22:"Synkronisering",23:"Senkronize ediliyor"
 ,24:"\u041F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u0434\u0430\u043D\u0438\u0445"
-};C.AG3={4:"Teplota \xB0C",0:"\xB0C",8:"\xB0 C"};C.Bqk="\xB0F";C.TempMeasurement={
-1:"mjerenje temperature",2:"\u0422\u0435\u043C\u043F. \u0438\u0437\u043C\u0435\u0440\u0432\u0430\u043D\u0435"
+};C.AG3={0:"\xB0C",8:"\xB0 C"};C.Bqk="\xB0F";C.TempMeasurement={1:"mjerenje temperature"
+,2:"\u0422\u0435\u043C\u043F. \u0438\u0437\u043C\u0435\u0440\u0432\u0430\u043D\u0435"
 ,25:"Mjerenje temperature",4:"M\u011B\u0159en\xED teploty",5:"Temperaturm\xE5ling"
 ,0:"Temp. measurement",6:"Temperatuur meting",7:"Tempertuuri m\xF5\xF5t",8:"L\xE4mp\xF6tila mittaus"
 ,9:"Mesure de la temp.",10:"Temperaturmessung",11:"\u039C\u03B5\u03C4\u03C1\u03AE\u03C3\u03B7 \u03B8\u03B5\u03C1\u03BC\u03BF\u03BA\u03C1\u03B1\u03C3\u03AF\u03B1\u03C2"
@@ -6666,7 +6666,7 @@ BpZ={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,24:"\u0423\u0432\u0430\u0433\u0430!\n\u0422\u0432\u0430\u0440\u0438\u043D\u0430 "+
 "\u2116 {1} \u0432\u0436\u0435 \u0456\u0441\u043D\u0443\u0454"};C.Bq3={1:"Pa\u017Enja!\n\nPrilikom vra\u0107anja sigurnosne kopije, va\u0161i trenutni "+
 "podaci o \u017Eivotinjama i ure\u0111aju \u0107e biti prepisani!\nDa li "+"zaista \u017Eelite nastaviti s vra\u0107anjem podataka?"
-,2:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435!\n\n\u041A\u043E\u0433\u0430\u0442\u043E "+
+,2:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435!\n\u041A\u043E\u0433\u0430\u0442\u043E "+
 "\u0432\u044A\u0437\u0441\u0442\u0430\u043D\u043E\u0432\u044F\u0432\u0430\u0442\u0435 "+
 "\u0440\u0435\u0437\u0435\u0440\u0432\u043D\u043E \u043A\u043E\u043F\u0438\u0435, "+
 "\u0432\u0430\u0448\u0438\u0442\u0435 \u0442\u0435\u043A\u0443\u0449\u0438 "+"\u0434\u0430\u043D\u043D\u0438 \u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u0438 "+
@@ -6676,20 +6676,18 @@ BpZ={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0441 \u0432\u044A\u0437\u0441\u0442\u0430\u043D\u043E\u0432\u044F\u0432\u0430\u043D\u0435\u0442\u043E "+
 "\u043D\u0430 \u0434\u0430\u043D\u043D\u0438\u0442\u0435?",25:"Pa\u017Enja!\n\nPrilikom vra\u0107anja sigurnosne kopije, trenutni podaci "+
 "o \u017Eivotinjama i ure\u0111aju bit \u0107e prebrisani!\nZaista \u017Eelite "+
-"nastaviti s vra\u0107anjem podataka?",4:"Pozor!\n\nP\u0159i obnov\u011B z\xE1lohy budou va\u0161e aktu\xE1ln\xED "+
-"data o zv\xED\u0159atech a za\u0159\xEDzen\xED p\u0159eps\xE1na! Opravdu "+"chcete pokra\u010Dovat v obnov\u011B dat?"
-,5:"Advarsel!\n\nN\xE5r du gendanner en sikkerhedskopi, vil dine nuv\xE6rende "+
-"dyre- og enhedsdata blive overskrevet!\nVil du virkelig forts\xE6tte med "+"at gendanne data?"
-,0:"Attention!\n\nWhen restoring a backup, your current animal and device data "+
+"nastaviti s vra\u0107anjem podataka?",4:"Pozor!\nP\u0159i obnov\u011B z\xE1lohy budou va\u0161e aktu\xE1ln\xED data "+
+"o zv\xED\u0159atech a za\u0159\xEDzen\xED p\u0159eps\xE1na! Opravdu chcete "+"pokra\u010Dovat v obnov\u011B dat?"
+,5:"Advarsel!\nN\xE5r du gendanner en sikkerhedskopi, vil dine nuv\xE6rende "+"dyre- og enhedsdata blive overskrevet!\nVil du virkelig forts\xE6tte med "+
+"at gendanne data?",0:"Attention!\n\nWhen restoring a backup, your current animal and device data "+
 "wil be overwritten!\nReally proceed with data restore?",6:"Attentie\n\n Als je er nu een back Up komt, wordt het huidige dier overschreven"
-,7:"T\xE4helepanu!\n\nVarunduse taastamisel kirjutatakse \xFCle teie praegused "+
-"looma- ja seadmeandmed!\n\nKas soovite kindlasti andmete taastamisega j\xE4tkata?"
-,8:"Huomio!\n\nKun palautat varmuuskopion, nykyiset el\xE4in- ja laitetietosi "+
-"korvataan!\nJatketaanko tietojen palauttamista?",9:"Attention\xA0!\nLors de la restau~ration de la sauve~garde, vos don~n\xE9es "+
+,7:"T\xE4helepanu!\nVarunduse taastamisel kirjutatakse \xFCle teie praegused "+"looma- ja seadmeandmed!\n\nKas soovite kindlasti andmete taastamisega j\xE4tkata?"
+,8:"Huomio!\nKun palautat varmuuskopion, nykyiset el\xE4in- ja laitetietosi "+"korvataan!\nJatketaanko tietojen palauttamista?"
+,9:"Attention\xA0!\nLors de la restau~ration de la sauve~garde, vos don~n\xE9es "+
 "actuelles sur les animaux et les appareils seront remplac\xE9es\xA0! D\xE9~marrer "+
 "vraiment la restauration\xA0?",10:"Achtung!\nBeim Wiederher~stellen der Daten~sicherung werden ihre aktuellen "+
 "Tier- und Ger\xE4tedaten \xFCberschrieben!\nR\xFCcksicherung wirklich "+"starten?"
-,11:"\u03A0\u03C1\u03BF\u03C3\u03BF\u03C7\u03AE!\n\n\u039A\u03B1\u03C4\u03AC "+"\u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03BD\u03B1\u03C6\u03BF\u03C1\u03AC "+
+,11:"\u03A0\u03C1\u03BF\u03C3\u03BF\u03C7\u03AE!\n\u039A\u03B1\u03C4\u03AC "+"\u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03BD\u03B1\u03C6\u03BF\u03C1\u03AC "+
 "\u03B5\u03BD\u03CC\u03C2 \u03B1\u03BD\u03C4\u03B9\u03B3\u03C1\u03AC\u03C6\u03BF\u03C5 "+
 "\u03B1\u03C3\u03C6\u03B1\u03BB\u03B5\u03AF\u03B1\u03C2, \u03C4\u03B1 \u03C4\u03C1\u03AD\u03C7\u03BF\u03BD\u03C4\u03B1 "+
 "\u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C4\u03C9\u03BD \u03B6\u03CE\u03C9\u03BD "+
@@ -6697,18 +6695,19 @@ BpZ={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u03C3\u03B1\u03C2 \u03B8\u03B1 \u03B1\u03BD\u03C4\u03B9\u03BA\u03B1\u03C4\u03B1\u03C3\u03C4\u03B1\u03B8\u03BF\u03CD\u03BD!\n\u0398\u03AD\u03BB\u03B5\u03C4\u03B5 "+
 "\u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03AC \u03BD\u03B1 "+"\u03C0\u03C1\u03BF\u03C7\u03C9\u03C1\u03AE\u03C3\u03B5\u03C4\u03B5 \u03C3\u03C4\u03B7\u03BD "+
 "\u03B5\u03C0\u03B1\u03BD\u03B1\u03C6\u03BF\u03C1\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD;"
-,12:"Figyelem!\n\nAmikor egy biztons\xE1gi ment\xE9st \xE1ll\xEDt vissza, a "+"jelenlegi \xE1llat- \xE9s eszk\xF6zadatok fel\xFCl\xEDr\xE1sra ker\xFClnek!\nVal\xF3ban "+
-"folytatja az adatok vissza\xE1ll\xEDt\xE1s\xE1t?",13:"Attenzione!\n\nQuando si ripristina un backup, i dati attuali degli animali "+
+,12:"Figyelem!\nAmikor egy biztons\xE1gi ment\xE9st \xE1ll\xEDt vissza, a jelenlegi "+
+"\xE1llat- \xE9s eszk\xF6zadatok fel\xFCl\xEDr\xE1sra ker\xFClnek!\nVal\xF3ban "+
+"folytatja az adatok vissza\xE1ll\xEDt\xE1s\xE1t?",13:"Attenzione!\nQuando si ripristina un backup, i dati attuali degli animali "+
 "e del dispositivo verranno sovrascritti!\nProcedere realmente con il ripristino "+
 "dei dati?",15:"Uzman\u012Bbu!\n\nVeicot dubl\u0113juma atjauno\u0161anu, tiks p\u0101rrakst\u012Bti "+
 "pa\u0161reiz\u0113jie dz\u012Bvnieku un ier\u012Bces dati!\n\nVai tie\u0161\u0101m "+
-"v\u0113laties turpin\u0101t datu atjauno\u0161anu?",26:"D\u0117mesio!\n\nAtkuriant atsargin\u0119 kopij\u0105, dabartiniai gyv\u016Bn\u0173 "+
+"v\u0113laties turpin\u0101t datu atjauno\u0161anu?",26:"D\u0117mesio!\nAtkuriant atsargin\u0119 kopij\u0105, dabartiniai gyv\u016Bn\u0173 "+
 "ir \u012Frenginio duomenys bus perra\u0161yti! Ar tikrai norite t\u0119sti "+"duomen\u0173 atk\u016Brim\u0105?"
 ,16:"Oppmerksomhet!\n\nN\xE5r du gjenoppretter en sikkerhetskopi, vil dine "+"n\xE5v\xE6rende dyre- og enhetsdata bli overskrevet!\nVil du virkelig "+
-"fortsette med datagjenoppretting?",17:"Uwaga!\n\nPrzywracaj\u0105c kopi\u0119 zapasow\u0105, bie\u017C\u0105ce "+
+"fortsette med datagjenoppretting?",17:"Uwaga!\nPrzywracaj\u0105c kopi\u0119 zapasow\u0105, bie\u017C\u0105ce "+
 "dane o zwierz\u0119tach i urz\u0105dzeniach zostan\u0105 nadpisane!\nCzy "+"na pewno kontynuowa\u0107 przywracanie danych?"
 ,18:"Aten\xE7\xE3o!\n\nAo restaurar um backup, os dados atuais do seu animal "+"e dispositivo ser\xE3o sobrescritos!\nDeseja realmente prosseguir com "+
-"a restaura\xE7\xE3o dos dados?",19:"Aten\u021Bie!\n\nC\xE2nd restaura\u021Bi o copie de rezerv\u0103, datele "+
+"a restaura\xE7\xE3o dos dados?",19:"Aten\u021Bie!\nC\xE2nd restaura\u021Bi o copie de rezerv\u0103, datele "+
 "actuale ale animalului \u0219i ale dispozitivului vor fi suprascrise!\nDori\u021Bi "+
 "s\u0103 continua\u021Bi cu restaurarea datelor?",20:"\u041F\u0440\u0438 \u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432~\u043B\u0435\u043D\u0438\u0438 "+
 "\u0440\u0435~\u0437\u0435\u0440\u0432~\u043D\u043E\u0439 \u043A\u043E\u043F\u0438\u0438 "+
@@ -6721,8 +6720,9 @@ BpZ={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0434\u0430\u043D\u043D\u044B\u0445?",27:"Pozor!\n\nOb obnovitvi varnostne kopije bodo trenutni podatki o \u017Eivalih "+
 "in napravi prepisani!\nRes \u017Eelite nadaljevati z obnovo podatkov?",21:"\xA1Atenci\xF3n!\nAl restaurar una copia de seguri~dad, sus datos ac~tuales "+
 "de ani~ma~les y dispositi~vos se sobrescri~bir\xE1n. \xBFRealmente de~sea "+"continuar con la restau~ra~ci\xF3n de datos?"
-,22:"Uppm\xE4rksamhet!\n\nN\xE4r du \xE5terst\xE4ller en s\xE4kerhetskopia "+"kommer dina nuvarande djur- och enhetsdata att skrivas \xF6ver!\nVill "+
-"du verkligen forts\xE4tta med \xE5terst\xE4llningen av data?",23:"Dikkat!\n\nBir yede\u011Fi geri y\xFCklerken mevcut hayvan ve cihaz verilerinizin "+
+,22:"Uppm\xE4rksamhet!\nN\xE4r du \xE5terst\xE4ller en s\xE4kerhetskopia kommer "+
+"dina nuvarande djur- och enhetsdata att skrivas \xF6ver!\nVill du verkligen "+"forts\xE4tta med \xE5terst\xE4llningen av data?"
+,23:"Dikkat!\nBir yede\u011Fi geri y\xFCklerken mevcut hayvan ve cihaz verilerinizin "+
 "\xFCzerine yaz\u0131lacak!\nGer\xE7ekten veri geri y\xFCkleme i\u015Flemine "+"devam edilsin mi?"
 ,24:"\u0423\u0432\u0430\u0433\u0430!\n\n\u041F\u0440\u0438 \u0432\u0456\u0434\u043D\u043E\u0432\u043B\u0435\u043D\u043D\u0456 "+
 "\u0440\u0435\u0437\u0435\u0440\u0432\u043D\u043E\u0457 \u043A\u043E\u043F\u0456\u0457 "+
