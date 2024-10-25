@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3.0.0
         with:
-          hugo-version: '0.136.4'
+          hugo-version: '0.136.5'
           extended: true
 
       - name: Setup Go
@@ -65,6 +65,6 @@ jobs:
         run: hugo --minify --cleanDestinationDir
 
       - name: Hyperlink link checker
-        uses: untitaker/hyperlink@7d8bbd36edf09027ec6e35b875527f62d4d9030d # v0.1.35
+        uses: untitaker/hyperlink@8879ad73aa55333dda893eacdd88c62cd5bea076 # v0.1.40
         with:
           args: --sources content --check-anchors public
