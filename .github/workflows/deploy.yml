@@ -65,6 +65,6 @@ jobs:
         run: hugo --minify --cleanDestinationDir
 
       - name: Hyperlink link checker
-        uses: untitaker/hyperlink@8879ad73aa55333dda893eacdd88c62cd5bea076 # v0.1.40
+        uses: untitaker/hyperlink@bbf9a1c378ff83f0a4384730cfac78cbf13d6ff1 # v0.1.42
         with:
           args: --sources content --check-anchors public
