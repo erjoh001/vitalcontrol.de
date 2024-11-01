@@ -72,7 +72,7 @@ fi:
     tagi: tagit
     luokka: luokat  
 fr:
-  languageName: French
+  languageName: Français
   contentDir: content/fr
   taxonomies:
     étiquette: étiquettes
