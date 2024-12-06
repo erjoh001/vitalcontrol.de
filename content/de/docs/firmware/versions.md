@@ -28,6 +28,6 @@ Die folgende Tabelle listet die aktuellen Firmware-Versionen auf:
 | **Commit Hash** | 1ad71d79     | 4d7f851     | 344bc50    |
 | **Commit №**    | 2076         | n/a         | n/a        |
 
-{{% alert title="Tip" %}}
+{{% alert title="Tipp" %}}
 Falls Sie auf ihrem Gerät neuere Funktionen vermissen oder mit Stabilitätsproblemen konfrontiert sind, [aktualisieren](../update/) Sie ggf. die auf ihrem Gerät aufgespielte Firmwareversion.
 {{% /alert %}}
