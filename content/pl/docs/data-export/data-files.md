@@ -76,7 +76,6 @@ Każdy wiersz tabeli danych temperatury reprezentuje pomiar temperatury ciała w
 
 {{% data-files/en_2 %}}
 
-a
 Poniższa tabela wymienia i opisuje każdą kolumnę pliku eksportu zawierającego wartości temperatury ciała:
 
 |Kolumna| Nazwa kolumny       | Opis                                | Uwagi                                             |

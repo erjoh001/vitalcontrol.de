@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -19,12 +19,12 @@ jobs:
       - name: Setup Hugo
         uses: deining/actions-hugo@23c742ac548b48b5db7f35074895505e8a06d6db # v3.1.0-0
         with:
-          hugo-version: '0.139.3'
+          hugo-version: '0.140.2'
           withdeploy: true
           extended: true
 
       - name: Setup Go
-        uses: actions/setup-go@41dfa10bad2bb2ae585af6ee5bb4d7d973ad74ed # v5.1.0
+        uses: actions/setup-go@3041bf56c941b39c61721a86cd11f3bb1338122a # v5.2.0
         with:
           go-version: '1.23.4'
 

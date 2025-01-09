@@ -1,0 +1,14 @@
+{{ $_component := .Get "component" -}}
+{{ with $_component -}}
+  {{ $matched := findRE "^(gui|middleware|bootloader)$" . -}}
+  {{ if not $matched -}}
+    {{ errorf "Shortcode %q: parameter %q should be one of 'gui', 'middleware', or 'bootloader'; but got %s. Error position: %s" $.Name "persist" $_component $.Position  -}}
+  {{ end -}}
+  {{ if eq $_component "gui" -}}
+0.9.9
+  {{- else if eq $_component "middleware" -}}
+0.9.9
+  {{- else if eq $_component "bootloader" -}}
+1.06
+  {{- end -}}
+{{ end -}}
