@@ -23,9 +23,9 @@ description: >
 |                 | GUI-Фърмуер  | Middleware | Зареждаща програма |
 |-----------------|:-------------:|:-----------:|:----------:|
 | **Версия**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
-| **Дата**        | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middelware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
-| **Хеш на комит**  | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middelware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
-| **№ на комит**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middelware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
+| **Дата**        | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middleware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
+| **Хеш на комит**  | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middleware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
+| **№ на комит**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middleware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
 
 {{% alert title="Съвет" %}}
 Ако липсват по-нови функции на вашето устройство или имате проблеми със стабилността, препоръчва се [актуализация](../update/) на фърмуера на вашето устройство до последната издадена версия.
