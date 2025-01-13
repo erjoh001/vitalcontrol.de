@@ -20,12 +20,12 @@ description: >
 
 Ο παρακάτω πίνακας απαριθμεί τις τρέχουσες εκδόσεις firmware:
 
-|                 | GUI-Firmware | Middleware  | Bootloader |
-|-----------------|:------------:|:-----------:|:----------:|
-| **Έκδοση**      | 0.9.9        | 0.9.9       | 1.0.6      |
-| **Ημερομηνία**  | 20.03.2024   | 20.03.2024  | 15.03.2024 |
-| **Κωδικός commit** | 1ad71d79     | 4d7f851     | 344bc50    |
-| **Αριθμός commit** | 2076         | n/a         | n/a        |
+|                 | GUI-Firmware  | Middleware  | Bootloader |
+|-----------------|:-------------:|:-----------:|:----------:|
+| **Έκδοση**      | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
+| **Ημερομηνία**     | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middelware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
+| **Κωδικός commit** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middelware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
+| **Αριθμός commit**   | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middelware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
 
 {{% alert title="Συμβουλή" %}}
 Εάν σας λείπουν νεότερες δυνατότητες στη συσκευή σας ή αντιμετωπίζετε προβλήματα σταθερότητας, σας συνιστούμε να [ενημερώσετε](../update/) το firmware στη συσκευή σας στην τελευταία κυκλοφορημένη έκδοση.

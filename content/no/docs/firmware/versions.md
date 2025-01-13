@@ -20,12 +20,12 @@ description: >
 
 Følgende tabell viser de nåværende firmware-versjonene:
 
-|                 | GUI-Firmware | Middleware  | Bootloader |
-|-----------------|:------------:|:-----------:|:----------:|
-| **Versjon**     | 0.9.9        | 0.9.9       | 1.0.6      |
-| **Dato**        | 20.03.2024   | 20.03.2024  | 15.03.2024 |
-| **Commit hash** | 1ad71d79     | 4d7f851     | 344bc50    |
-| **Commit №**    | 2076         | n/a         | n/a        |
+|                 | GUI-Firmware  | Middleware  | Bootloader |
+|-----------------|:-------------:|:-----------:|:----------:|
+| **Versjon**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
+| **Dato**       | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middelware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
+| **Commit Hash** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middelware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
+| **Commit №**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middelware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
 
 {{% alert title="Tips" %}}
 Hvis du mangler nyere funksjoner på enheten din eller opplever stabilitetsproblemer, oppfordres du til å [oppdatere](../update/) firmwaren på enheten din til den nyeste utgitte versjonen.

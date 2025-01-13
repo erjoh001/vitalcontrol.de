@@ -1,8 +1,8 @@
 {{ $_component := .Get "component" -}}
 {{ with $_component -}}
-  {{ $matched := findRE "^(gui|middleware|bootloader)$" . -}}
+  {{ $matched := findRE "^(gui|middleware|bootloader|gui-date|middelware-date|bootloader-date|gui-date-DE|middelware-date-DE|bootloader-date-DE|gui-commitHash|middelware-commitHash|bootloader-commitHash|gui-commitNo|middelware-commitNo|bootloader-commitNo)$" . -}}
   {{ if not $matched -}}
-    {{ errorf "Shortcode %q: parameter %q should be one of 'gui', 'middleware', or 'bootloader'; but got %s. Error position: %s" $.Name "persist" $_component $.Position  -}}
+    {{ errorf "Shortcode %q: parameter %q should be one of 'gui', 'middleware',, 'bootloader', 'gui-date', 'middelware-date', 'bootloader-date-DE', 'gui-date-DE', 'middelware-date-DE', 'bootloader-date', 'gui-commitHash', 'middelware-commitHash', 'bootloader-commitHash', 'gui-commitNo', 'middelware-commitNo' or 'bootloader-commitNo'; but got %s. Error position: %s" $.Name "persist" $_component $.Position  -}}
   {{ end -}}
   {{ if eq $_component "gui" -}}
 0.9.9
@@ -10,5 +10,29 @@
 0.9.9
   {{- else if eq $_component "bootloader" -}}
 1.06
+  {{- else if eq $_component "gui-date-DE" -}}
+20.03.2024
+  {{- else if eq $_component "middelware-date-DE" -}}
+20.03.2024
+  {{- else if eq $_component "bootloader-date-DE" -}}  
+15.03.2024
+  {{- else if eq $_component "gui-date" -}}
+2024-03-20
+  {{- else if eq $_component "middelware-date" -}}
+2024-03-20
+  {{- else if eq $_component "bootloader-date" -}}  
+2024-03-15
+  {{- else if eq $_component "gui-commitHash" -}}
+1ad71d79 
+  {{- else if eq $_component "middelware-commitHash" -}}
+4d7f851
+  {{- else if eq $_component "bootloader-commitHash" -}}
+344bc50
+  {{- else if eq $_component "gui-commitNo" -}}
+  2076
+  {{- else if eq $_component "middelware-commitNo" -}}
+n/a 
+  {{- else if eq $_component "bootloader-commitNo" -}}
+n/a 
   {{- end -}}
 {{ end -}}

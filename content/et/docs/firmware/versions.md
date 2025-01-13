@@ -20,12 +20,12 @@ description: >
 
 Järgnev tabel loetleb praegused püsivara versioonid:
 
-|                 | GUI-püsivara | Tarkvara vahenduskiht  | Alglaadur |
-|-----------------|:------------:|:-----------:|:----------:|
-| **Versioon**     | 0.9.9        | 0.9.9       | 1.0.6      |
-| **Kuupäev**        | 20.03.2024   | 20.03.2024  | 15.03.2024 |
-| **Kommiti hash** | 1ad71d79     | 4d7f851     | 344bc50    |
-| **Kommiti №**    | 2076         | n/a         | n/a        |
+|                 | GUI-püsivara  | Tarkvara vahenduskiht  | Alglaadur |
+|-----------------|:-------------:|:-----------:|:----------:|
+| **Versioon**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
+| **Kuupäev**       | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middelware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
+| **Kommiti Hash** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middelware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
+| **Kommiti №**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middelware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
 
 {{% alert title="Nipp" %}}
 Kui sinu seadmel puuduvad uuemad funktsioonid või esineb stabiilsusprobleeme, soovitame [uuendada](../update/) seadme püsivara viimase välja antud versioonini.

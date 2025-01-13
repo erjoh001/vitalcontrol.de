@@ -20,12 +20,12 @@ description: >
 
 La siguiente tabla lista las versiones actuales de firmware:
 
-|                 | GUI-Firmware | Middleware  | Bootloader |
-|-----------------|:------------:|:-----------:|:----------:|
-| **Versión**     | 0.9.9        | 0.9.9       | 1.0.6      |
-| **Fecha**       | 20.03.2024   | 20.03.2024  | 15.03.2024 |
-| **Hash de commit** | 1ad71d79     | 4d7f851     | 344bc50    |
-| **Número de commit**    | 2076         | n/a         | n/a        |
+|                 | GUI-Firmware  | Middleware  | Bootloader |
+|-----------------|:-------------:|:-----------:|:----------:|
+| **Versión**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
+| **Fecha**       | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middelware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
+| **Hash de commit** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middelware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
+| **Número de commit**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middelware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
 
 {{% alert title="Consejo" %}}
 Si echa en falta nuevas características en su dispositivo o enfrenta problemas de estabilidad, se recomienda [actualizar](../update/) el firmware de su dispositivo a la última versión lanzada.

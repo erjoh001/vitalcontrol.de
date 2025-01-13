@@ -20,12 +20,12 @@ description: >
 
 В следующей таблице перечислены текущие версии прошивок:
 
-|                 | GUI-Прошивка | Промежуточное ПО  | Загрузчик |
-|-----------------|:------------:|:----------------:|:---------:|
-| **Версия**      | 0.9.9        | 0.9.9            | 1.0.6     |
-| **Дата**        | 20.03.2024   | 20.03.2024       | 15.03.2024 |
-| **Хеш коммита** | 1ad71d79     | 4d7f851          | 344bc50   |
-| **№ коммита**   | 2076         | n/a              | n/a       |
+|                 | GUI-Прошивка  | Промежуточное ПО  | Загрузчик |
+|-----------------|:-------------:|:-----------:|:----------:|
+| **Версия**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
+| **Дата**       | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middelware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
+| **Хеш коммита** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middelware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
+| **№ коммита**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middelware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
 
 {{% alert title="Совет" %}}
 Если вы не обнаруживаете новых функций на вашем устройстве или сталкиваетесь с проблемами стабильности, рекомендуется [обновить](../update/) прошивку вашего устройства до последней выпущенной версии.
