@@ -20,12 +20,12 @@ description: >
 
 Следната таблица изброява текущите версии на фърмуера:
 
-|                 | GUI-Фърмуер | Middleware  | Зареждаща програма |
-|-----------------|:------------:|:-----------:|:----------:|
-| **Версия**      | 0.9.9        | 0.9.9       | 1.0.6      |
-| **Дата**        | 20.03.2024   | 20.03.2024  | 15.03.2024 |
-| **Хеш на комит** | 1ad71d79     | 4d7f851     | 344bc50    |
-| **№ на комит**  | 2076         | n/a         | n/a        |
+|                 | GUI-Фърмуер  | Middleware | Зареждаща програма |
+|-----------------|:-------------:|:-----------:|:----------:|
+| **Версия**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
+| **Дата**        | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middelware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
+| **Хеш на комит**  | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middelware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
+| **№ на комит**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middelware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
 
 {{% alert title="Съвет" %}}
 Ако липсват по-нови функции на вашето устройство или имате проблеми със стабилността, препоръчва се [актуализация](../update/) на фърмуера на вашето устройство до последната издадена версия.

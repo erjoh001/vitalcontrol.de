@@ -20,12 +20,12 @@ description: >
 
 Šioje lentelėje pateikiamos dabartinės programinės įrangos versijos:
 
-|                 | GUI-Firmware | Middleware  | Bootloader |
-|-----------------|:------------:|:-----------:|:----------:|
-| **Versija**     | 0.9.9        | 0.9.9       | 1.0.6      |
-| **Data**        | 20.03.2024   | 20.03.2024  | 15.03.2024 |
-| **Commit hash** | 1ad71d79     | 4d7f851     | 344bc50    |
-| **Commit №**    | 2076         | n/a         | n/a        |
+|                 | GUI-Firmware  | Middleware  | Bootloader |
+|-----------------|:-------------:|:-----------:|:----------:|
+| **Versija**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
+| **Data**       | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middelware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
+| **Commit Hash** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middelware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
+| **Commit №**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middelware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
 
 {{% alert title="Patarimas" %}}
 Jei jūsų įrenginyje trūksta naujesnių funkcijų arba susiduriate su stabilumo problemomis, rekomenduojame [atnaujinti](../update/) įrenginio programinę įrangą į naujausią išleistą versiją.
