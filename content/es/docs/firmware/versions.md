@@ -23,9 +23,9 @@ La siguiente tabla lista las versiones actuales de firmware:
 |                 | GUI-Firmware  | Middleware  | Bootloader |
 |-----------------|:-------------:|:-----------:|:----------:|
 | **Versión**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
-| **Fecha**       | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middleware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
-| **Hash de commit** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middleware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
-| **Número de commit**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middleware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
+| **Fecha**       | {{% version/firmware component="gui" info="date" %}}  | {{% version/firmware component="middleware" info="date" %}} | {{% version/firmware component="bootloader" info="date" %}} |
+| **Hash de commit** | {{% version/firmware component="gui" info="commitHash" %}} | {{% version/firmware component="middleware" info="commitHash" %}} |  {{% version/firmware component="bootloader" info="commitHash" %}} |
+| **Número de commit**    | {{% version/firmware component="gui" info="commitNo" %}} | {{% version/firmware component="middleware" info="commitNo" %}} | {{% version/firmware component="bootloader" info="commitNo" %}}|
 
 {{% alert title="Consejo" %}}
 Si echa en falta nuevas características en su dispositivo o enfrenta problemas de estabilidad, se recomienda [actualizar](../update/) el firmware de su dispositivo a la última versión lanzada.

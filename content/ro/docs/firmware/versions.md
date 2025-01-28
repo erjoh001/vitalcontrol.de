@@ -23,9 +23,9 @@ Următorul tabel listează versiunile actuale de firmware:
 |                 | GUI-Firmware  | Middleware  | Bootloader |
 |-----------------|:-------------:|:-----------:|:----------:|
 | **Versiune**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
-| **Data**       | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middleware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
-| **Commit Hash** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middleware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
-| **Commit №**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middleware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
+| **Data**       | {{% version/firmware component="gui" info="date" %}}  | {{% version/firmware component="middleware" info="date" %}} | {{% version/firmware component="bootloader" info="date" %}} |
+| **Commit Hash** | {{% version/firmware component="gui" info="commitHash" %}} | {{% version/firmware component="middleware" info="commitHash" %}} |  {{% version/firmware component="bootloader" info="commitHash" %}} |
+| **Commit №**    | {{% version/firmware component="gui" info="commitNo" %}} | {{% version/firmware component="middleware" info="commitNo" %}} | {{% version/firmware component="bootloader" info="commitNo" %}}|
 
 {{% alert title="Sfat" %}}
 Dacă vă lipsesc funcții noi pe dispozitivul dvs. sau întâmpinați probleme de stabilitate, vă recomandăm să [actualizați](../update/) firmware-ul dispozitivului dvs. la cea mai recentă versiune lansată.

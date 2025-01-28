@@ -23,9 +23,9 @@ Järgnev tabel loetleb praegused püsivara versioonid:
 |                 | GUI-püsivara  | Tarkvara vahenduskiht  | Alglaadur |
 |-----------------|:-------------:|:-----------:|:----------:|
 | **Versioon**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
-| **Kuupäev**       | {{% version/firmware component="gui-date" %}} | {{% version/firmware component="middleware-date" %}} | {{% version/firmware component="bootloader-date" %}} |
-| **Kommiti Hash** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middleware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
-| **Kommiti №**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middleware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
+| **Kuupäev**       | {{% version/firmware component="gui" info="date" %}}  | {{% version/firmware component="middleware" info="date" %}} | {{% version/firmware component="bootloader" info="date" %}} |
+| **Kommiti Hash** | {{% version/firmware component="gui" info="commitHash" %}} | {{% version/firmware component="middleware" info="commitHash" %}} |  {{% version/firmware component="bootloader" info="commitHash" %}} |
+| **Kommiti №**    | {{% version/firmware component="gui" info="commitNo" %}} | {{% version/firmware component="middleware" info="commitNo" %}} | {{% version/firmware component="bootloader" info="commitNo" %}}|
 
 {{% alert title="Nipp" %}}
 Kui sinu seadmel puuduvad uuemad funktsioonid või esineb stabiilsusprobleeme, soovitame [uuendada](../update/) seadme püsivara viimase välja antud versioonini.

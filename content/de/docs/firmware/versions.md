@@ -20,13 +20,12 @@ description: >
 ## Aktuelle Firmware-Versionen: {#latest-firmware-versions}
 
 Die folgende Tabelle listet die aktuellen Firmware-Versionen auf:
-
 |                 | GUI-Firmware  | Middleware  | Bootloader |
 |-----------------|:-------------:|:-----------:|:----------:|
 | **Version**     | {{% version/firmware component="gui" %}} | {{% version/firmware component="middleware" %}} | {{% version/firmware component="bootloader" %}} |
-| **Datum**       | {{% version/firmware component="gui-date-DE" %}} | {{% version/firmware component="middleware-date-DE" %}} | {{% version/firmware component="bootloader-date-DE" %}} |
-| **Commit Hash** | {{% version/firmware component="gui-commitHash" %}} | {{% version/firmware component="middleware-commitHash" %}} |  {{% version/firmware component="bootloader-commitHash" %}} |
-| **Commit №**    | {{% version/firmware component="gui-commitNo" %}} | {{% version/firmware component="middleware-commitNo" %}} | {{% version/firmware component="bootloader-commitNo" %}}|
+| **Datum**       | {{% version/firmware component="gui" info="date" dateFormat="de" %}} | {{% version/firmware component="middleware" info="date" dateFormat="de" %}} | {{% version/firmware component="bootloader" info="date" dateFormat="de" %}} |
+| **Commit Hash** | {{% version/firmware component="gui" info="commitHash" %}} | {{% version/firmware component="middleware" info="commitHash" %}} |  {{% version/firmware component="bootloader" info="commitHash" %}} |
+| **Commit №**    | {{% version/firmware component="gui" info="commitNo" %}} | {{% version/firmware component="middleware" info="commitNo" %}} | {{% version/firmware component="bootloader" info="commitNo" %}} |
 
 {{% alert title="Tipp" %}}
 Falls Sie auf ihrem Gerät neuere Funktionen vermissen oder mit Stabilitätsproblemen konfrontiert sind, [aktualisieren](../update/) Sie ggf. die auf ihrem Gerät aufgespielte Firmwareversion.

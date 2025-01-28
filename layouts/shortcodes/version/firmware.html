@@ -1,38 +1,76 @@
 {{ $_component := .Get "component" -}}
-{{ with $_component -}}
-  {{ $matched := findRE "^(gui|middleware|bootloader|gui-date|middleware-date|bootloader-date|gui-date-DE|middleware-date-DE|bootloader-date-DE|gui-commitHash|middleware-commitHash|bootloader-commitHash|gui-commitNo|middleware-commitNo|bootloader-commitNo)$" . -}}
-  {{ if not $matched -}}
-    {{ errorf "Shortcode %q: parameter %q should be one of 'gui', 'middleware', 'bootloader', 'gui-date', 'middleware-date', 'bootloader-date-DE', 'gui-date-DE', 'middleware-date-DE', 'bootloader-date', 'gui-commitHash', 'middleware-commitHash', 'bootloader-commitHash', 'gui-commitNo', 'middleware-commitNo' or 'bootloader-commitNo'; but got %s. Error position: %s" $.Name "persist" $_component $.Position  -}}
+{{ $_info := .Get "info" | default "default" -}}
+{{ $_dateFormat := .Get "dateFormat" -}}
+
+{{- with $_component -}}
+  {{ $componentMatched := findRE "^(gui|middleware|bootloader)$" . -}}
+  {{ if not $componentMatched -}}
+    {{ errorf "Shortcode %q: parameter %q should be one of 'gui', 'middleware' or 'bootloader'; but got %s. Error position: %s" $.Name "component" $_component $.Position -}}
   {{ end -}}
-  {{ if eq $_component "gui" -}}
-0.9.9
-  {{- else if eq $_component "middleware" -}}
-0.9.9
-  {{- else if eq $_component "bootloader" -}}
-1.06
-  {{- else if eq $_component "gui-date-DE" -}}
-20.03.2024
-  {{- else if eq $_component "middleware-date-DE" -}}
-20.03.2024
-  {{- else if eq $_component "bootloader-date-DE" -}}  
-15.03.2024
-  {{- else if eq $_component "gui-date" -}}
-2024-03-20
-  {{- else if eq $_component "middleware-date" -}}
-2024-03-20
-  {{- else if eq $_component "bootloader-date" -}}  
-2024-03-15
-  {{- else if eq $_component "gui-commitHash" -}}
-1ad71d79 
-  {{- else if eq $_component "middleware-commitHash" -}}
-4d7f851
-  {{- else if eq $_component "bootloader-commitHash" -}}
-344bc50
-  {{- else if eq $_component "gui-commitNo" -}}
-2076
-  {{- else if eq $_component "middleware-commitNo" -}}
-n/a 
-  {{- else if eq $_component "bootloader-commitNo" -}}
-n/a 
+{{- end -}}
+
+{{- with $_info -}}
+  {{ $infoMatched := findRE "^(date|commitHash|commitNo|default)$" . -}}
+  {{ if not $infoMatched -}}
+    {{ errorf "Shortcode %q: info %q should be one of 'date', 'commitHash', 'commitNo', or 'default'; but got %s. Error position: %s" $.Name "info" $_info $.Position -}}
+  {{ end -}}
+{{- end -}}
+
+{{- with $_dateFormat -}}
+  {{ $dateFormatMatched := findRE "^(de)$" . -}}
+  {{ if not $dateFormatMatched -}}
+    {{ errorf "Shortcode %q: dateFormat %q should be 'de'; but got %s. Error position: %s" $.Name "dateFormat" $_dateFormat $.Position -}}
+  {{ end -}}
+{{- end -}}
+
+{{- if eq $_component "gui" -}}
+  {{- if eq $_info "default" -}}
+    0.9.9
+  {{- else if eq $_info "date" -}}
+    {{- if eq $_dateFormat "de" -}}
+      20.03.2024
+    {{- else -}}
+      2024-03-20
+    {{- end -}}
+  {{- else if eq $_info "commitHash" -}}
+    1ad71d79
+  {{- else if eq $_info "commitNo" -}}
+    2076
+  {{- else -}}
+    {{- errorf "Unhandled combination of parameters: component=%q, info=%q" $_component $_info -}}
   {{- end -}}
-{{ end -}}
+{{- else if eq $_component "middleware" -}}
+  {{- if eq $_info "default" -}}
+    0.9.9
+  {{- else if eq $_info "date" -}}
+    {{- if eq $_dateFormat "de" -}}
+      20.03.2024
+    {{- else -}}
+      2024-03-20
+    {{- end -}}
+  {{- else if eq $_info "commitHash" -}}
+    4d7f851
+  {{- else if eq $_info "commitNo" -}}
+    n/a
+  {{- else -}}
+    {{- errorf "Unhandled combination of parameters: component=%q, info=%q" $_component $_info -}}
+  {{- end -}}
+{{- else if eq $_component "bootloader" -}}
+  {{- if eq $_info "default" -}}
+    1.06
+  {{- else if eq $_info "date" -}}
+    {{- if eq $_dateFormat "de" -}}
+      15.03.2024
+    {{- else -}}
+      2024-03-15
+    {{- end -}}
+  {{- else if eq $_info "commitHash" -}}
+    344bc50
+  {{- else if eq $_info "commitNo" -}}
+    n/a
+  {{- else -}}
+    {{- errorf "Unhandled combination of parameters: component=%q, info=%q" $_component $_info -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "Unhandled component: %q" $_component -}}
+{{- end -}}
