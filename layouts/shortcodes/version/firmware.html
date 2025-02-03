@@ -25,31 +25,31 @@
 
 {{- if eq $_component "gui" -}}
   {{- if eq $_info "default" -}}
-    0.9.9
+    0.9.10
   {{- else if eq $_info "date" -}}
     {{- if eq $_dateFormat "de" -}}
-      20.03.2024
+      14.05.2024
     {{- else -}}
-      2024-03-20
+      2024-05-14
     {{- end -}}
   {{- else if eq $_info "commitHash" -}}
-    1ad71d79
+    5a9fcc3f
   {{- else if eq $_info "commitNo" -}}
-    2076
+    2182
   {{- else -}}
     {{- errorf "Unhandled combination of parameters: component=%q, info=%q" $_component $_info -}}
   {{- end -}}
 {{- else if eq $_component "middleware" -}}
   {{- if eq $_info "default" -}}
-    0.9.9
+    0.9.10
   {{- else if eq $_info "date" -}}
     {{- if eq $_dateFormat "de" -}}
-      20.03.2024
+      14.05.2024
     {{- else -}}
-      2024-03-20
+      2024-05-14
     {{- end -}}
   {{- else if eq $_info "commitHash" -}}
-    4d7f851
+    d4f1ceb
   {{- else if eq $_info "commitNo" -}}
     n/a
   {{- else -}}
