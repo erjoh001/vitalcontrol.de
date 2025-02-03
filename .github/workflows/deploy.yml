@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: deining/actions-hugo@23c742ac548b48b5db7f35074895505e8a06d6db # v3.1.0-0
         with:
-          hugo-version: '0.142.0'
+          hugo-version: '0.143.0'
           withdeploy: true
           extended: true
 
@@ -66,6 +66,6 @@ jobs:
         run: hugo --minify --cleanDestinationDir
 
       - name: Hyperlink link checker
-        uses: untitaker/hyperlink@06a65ffc7e4ec33040690022d9b94bcb4b64878b # v0.1.43
+        uses: untitaker/hyperlink@e66bb17cc9ae341677431edec3b893a0aa6ac747 # v0.1.44
         with:
           args: --sources content --check-anchors public

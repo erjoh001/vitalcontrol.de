@@ -8,6 +8,7 @@ description: >
 slug: aktivierung
 weight: 10
 Kategorien: [Alma Pro]
+translationKey: alma-pro/activation
 ---
 
 ![Einstellungen VitalControl: Aufruf](../images/open-settings-vitalcontrol.png "Aufruf Einstellungsmenü VitalControl")

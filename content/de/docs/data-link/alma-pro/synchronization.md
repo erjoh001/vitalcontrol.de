@@ -7,6 +7,7 @@ description: >
   Gleichen Sie den Tierbestand des VitalControls mit dem Tierbestand des Automaten ab und überspielen Sie mit dem VitalControl erfasste Messwerte für die vereinfachte Visualisierung und Auswertung an den Automaten.
 weight: 20
 Kategorien: [Datenaustausch, Alma Pro]
+translationKey: alma-pro/synchronization
 ---
 
 ## USB-Anschluss öffnen
