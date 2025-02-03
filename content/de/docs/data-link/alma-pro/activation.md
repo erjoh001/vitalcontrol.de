@@ -13,4 +13,10 @@ translationKey: alma-pro/activation
 
 ![Einstellungen VitalControl: Aufruf](../images/open-settings-vitalcontrol.png "Aufruf Einstellungsmenü VitalControl")
 
-![Einstellungen VitalControl: Seit 1](../images/settings-vitalcontrol-1.png "Einstellungen VitalControl (1)")
+## Seite 1
+
+![Einstellungen VitalControl: Seite 1](../images/settings-vitalcontrol-1.png "Einstellungen VitalControl (1)")
+
+## Seite 2
+
+![Einstellungen VitalControl: Seite 2](../images/settings-vitalcontrol-2.png "Einstellungen VitalControl (2)")
