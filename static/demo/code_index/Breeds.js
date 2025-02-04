@@ -608,6 +608,6 @@ C.AO={1:"Tele mu\u0161ko",25:"Heckova goveda",4:"Pekeln\xFD skot",5:"Heckkv\xE6g
 ,17:"Miniatury Zebu",18:"Miniatura Zebu",19:"Zebu \xEEn miniatur\u0103",20:"\u041A\u0430\u0440\u043B\u0438\u043A\u043E\u0432\u044B\u0439 \u0417\u0435\u0431\u0443"
 ,27:"Miniaturni zebu",22:"Miniatyrzebu",23:"Minyat\xFCr Zebu",24:"\u041C\u0456\u043D\u0456\u0430\u0442\u044E\u0440\u043D\u0438\u0439 \u0437\u0435\u0431\u0443"
 };
-C._Init=function(){};C._ReInit=function(){};C.DH=function(D){};return C;})();
+C._Init=function(){};C._ReInit=function(){};C.DI=function(D){};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
