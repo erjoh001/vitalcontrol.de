@@ -7,6 +7,6 @@ weight: 60
 description: Töltse le a legújabb firmware verziót és telepítse a VitalControl eszközére.
 translationKey: firmware
 ---
-#### VitalControl verzió 0.9.10
+#### VitalControl verzió {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Firmware letöltése</a>

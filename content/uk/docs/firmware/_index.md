@@ -7,6 +7,6 @@ weight: 60
 description: Завантажте останню версію прошивки та встановіть її на свій пристрій VitalControl.
 translationKey: firmware
 ---
-#### Версія VitalControl 0.9.10
+#### Версія VitalControl {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Завантажити прошивку</a>

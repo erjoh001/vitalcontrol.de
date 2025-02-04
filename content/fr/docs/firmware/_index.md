@@ -8,6 +8,6 @@ description: >
   Téléchargez la dernière version du micrologiciel et installez-la sur votre appareil VitalControl.
 translationKey: firmware
 ---
-#### Version VitalControl 0.9.10
+#### Version VitalControl {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Télécharger le micrologiciel</a>

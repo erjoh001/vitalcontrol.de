@@ -8,6 +8,6 @@ description: >
   Lataa uusin laiteohjelmiston versio ja asenna se VitalControl-laitteeseesi.
 translationKey: firmware
 ---
-#### VitalControl versio 0.9.10
+#### VitalControl versio {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Lataa laiteohjelmisto</a>

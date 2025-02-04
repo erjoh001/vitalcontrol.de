@@ -7,6 +7,6 @@ weight: 60
 description: Prenesite najnovejšo različico vdelane programske opreme in jo namestite na svojo napravo VitalControl.
 translationKey: firmware
 ---
-#### VitalControl različica 0.9.10
+#### VitalControl različica {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Prenesi vdelano programsko opremo</a>

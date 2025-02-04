@@ -7,6 +7,6 @@ weight: 60
 description: Stáhněte si nejnovější verzi firmwaru a nainstalujte ji na své zařízení VitalControl.
 translationKey: firmware
 ---
-#### VitalControl verze 0.9.10
+#### VitalControl verze {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Stáhnout firmware</a>

@@ -7,6 +7,6 @@ weight: 60
 description: En son firmware sürümünü indirip VitalControl cihazınıza yükleyin.
 translationKey: firmware
 ---
-#### VitalControl sürüm 0.9.10
+#### VitalControl sürüm {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Firmware indir</a>

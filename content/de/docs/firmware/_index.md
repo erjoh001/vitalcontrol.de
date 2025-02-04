@@ -7,6 +7,6 @@ description: Neueste Firmware-Version herunterladen und auf ihrem VitalControl-G
 weight: 100
 translationKey: firmware
 ---
-#### VitalControl Version 0.9.10
+#### VitalControl Version {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Firmware herunterladen</a>

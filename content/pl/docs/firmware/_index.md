@@ -7,6 +7,6 @@ weight: 60
 description: Pobierz najnowszą wersję oprogramowania układowego i zainstaluj ją na swoim urządzeniu VitalControl.
 translationKey: firmware
 ---
-#### VitalControl wersja 0.9.10
+#### VitalControl wersja {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Pobierz oprogramowanie układowe</a>

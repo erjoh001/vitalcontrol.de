@@ -7,6 +7,6 @@ weight: 60
 description: Scarica l'ultima versione del firmware e installala sul tuo dispositivo VitalControl.
 translationKey: firmware
 ---
-#### VitalControl versione 0.9.10
+#### VitalControl versione {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Scarica firmware</a>

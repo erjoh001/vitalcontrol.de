@@ -7,6 +7,6 @@ weight: 60
 description: Preuzmite najnoviju verziju firmvera i instalirajte je na svoj VitalControl uređaj.
 translationKey: firmware
 ---
-#### VitalControl verzija 0.9.10
+#### VitalControl verzija {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Preuzmite firmver</a>

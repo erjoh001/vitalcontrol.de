@@ -7,6 +7,6 @@ weight: 60
 description: Download den nyeste firmware-version og installer den på din VitalControl-enhed.
 translationKey: firmware
 ---
-#### VitalControl version 0.9.10
+#### VitalControl version {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Download firmware</a>

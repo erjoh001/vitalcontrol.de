@@ -7,6 +7,6 @@ weight: 60
 description: Κατεβάστε την τελευταία έκδοση του λογισμικού υλικού και εγκαταστήστε την στη συσκευή σας VitalControl.
 translationKey: firmware
 ---
-#### Έκδοση VitalControl 0.9.10
+#### Έκδοση VitalControl {{% version/firmware component="gui" %}}
 
 <a href="/download/firmware.vcu" role="button" class="btn btn-primary btn-lg">Κατεβάστε το λογισμικό υλικού</a>
