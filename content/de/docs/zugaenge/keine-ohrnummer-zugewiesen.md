@@ -73,7 +73,7 @@ Mithilfe der vorherigen Zusatzaktionen können Sie einstellen welche Aktionen Si
 
 4. Verwenden Sie die `F3` Taste &nbsp;<img src="/icons/footer/open-popup.svg" width="15" align="bottom" alt="Aufruf Popup" />&nbsp; um ein Popup aufzurufen. Navigieren Sie in diesem mit den Pfeiltasten △ ▽ zu dem Punkt `Vorherige Zusatzaktionen`.
 
-5. Nutzen Sie die Pfeiltasten △ ▽ um zwischen `Temp. messen`, `Tier bewerten` und `Tier wiegen` zu wählen. Bestätigen Sie mit `OK` um die Checkbox zu aktivieren. Es erscheint ein Hacken innerhalb der Checkbox als Bestätigung, dass die Aktion aktiviert ist. Bestätigen Sie erneut mit `OK` um die Aktion zu deaktivieren. Sie können beliebig viele Aktionen zur selben Zeit aktivieren. 
+5. Nutzen Sie die Pfeiltasten △ ▽ um zwischen `Temp. messen`, `Tier bewerten` und `Tier wiegen` zu wählen. Bestätigen Sie mit `OK` um die Checkbox zu aktivieren. Es erscheint ein Häkchen innerhalb der Checkbox als Bestätigung, dass die Aktion aktiviert ist. Bestätigen Sie erneut mit `OK` um die Aktion zu deaktivieren. Sie können beliebig viele Aktionen zur selben Zeit aktivieren. 
 
     ![VitalControl: Menüfolge Zugänge Keine Ohrmarkennummer zugewiesen](../bilder/weitere-aktionen.png "Keine Ohrmarkennummer zugewiesen, zusätzliche Aktionen")
 
