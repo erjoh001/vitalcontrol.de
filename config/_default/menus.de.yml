@@ -5,6 +5,9 @@ main:
   - name: Demonstrator
     url: /demo/
     weight: 40
+  - name: Fresseraufzucht
+    url: /fresser/
+    weight: 50
   - name: Firmware
     url: /docs/firmware/
-    weight: 50
+    weight: 60
