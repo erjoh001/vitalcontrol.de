@@ -1,6 +1,6 @@
 github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
-github.com/deining/docsy v0.0.0-20250219143719-209fbabaa250 h1:j9qDu7nQl01Do1oswBA9+fiSnb/kGwR/5++JQC5oJW8=
-github.com/deining/docsy v0.0.0-20250219143719-209fbabaa250/go.mod h1:W+gpPei86GvixGJJSL5/yxuPPD2djyRDOIx2InnG9A4=
+github.com/deining/docsy v0.0.0-20250219163141-6dc0d783b340 h1:AfuJyXQ9jI5q//omJnbLMYfsOUk6Kt81r7UexsTczrw=
+github.com/deining/docsy v0.0.0-20250219163141-6dc0d783b340/go.mod h1:W+gpPei86GvixGJJSL5/yxuPPD2djyRDOIx2InnG9A4=
 github.com/google/docsy v0.11.1-0.20250124012154-a854cb315ac2 h1:UGxilBOMpbjnqur8gPzsrMJGih9WPp05Bdz/pn4bWU4=
 github.com/google/docsy v0.11.1-0.20250124012154-a854cb315ac2/go.mod h1:KlC0P/65OfRUkVSLV9GG5E0APetr9l8qB8poCGAoOjg=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
