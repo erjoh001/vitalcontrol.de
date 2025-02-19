@@ -138,5 +138,5 @@ module:
     extended: true
     min: 0.141.0
   imports:
-    - path: github.com/google/docsy
+    - path: github.com/deining/docsy
       disable: false
