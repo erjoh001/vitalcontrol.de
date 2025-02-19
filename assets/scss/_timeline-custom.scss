@@ -1,0 +1,109 @@
+//////////////////////////
+//
+// timeline: item 1     //
+//
+//////////////////////////
+
+// Linie
+.timeline-item-1 {
+    --timeline-highlight: #128100;
+}
+//Text
+.link-item-1  {
+    color:#128100 !important;
+    text-decoration: none;
+}
+//Text: hover
+.link-item-1:hover {
+    color:#0c5a00 !important;
+    text-decoration: none;
+}
+// Erläuterung
+// Text
+.link-bg-item-1 {
+    color:#fff !important;
+    text-decoration: none;
+}
+// Rahmen
+.text-bg-item-1 {
+    color: #fff !important;
+    background-color: #128100 !important;
+}
+// Rahmen: hover
+.text-bg-item-1:hover {
+    color: #fff !important;
+    background-color: #0c5a00 !important;
+}
+
+//////////////////////////
+//
+// timeline: item 2     //
+//
+//////////////////////////
+// Linie
+.timeline-item-2 {
+    --timeline-highlight: #810012;
+}
+//Text
+.link-item-2  {
+    color:#810012 !important;
+    text-decoration: none;
+}
+//Text: hover
+.link-item-2:hover {
+    color:#380007 !important;
+    text-decoration: none;
+}
+
+// Erläuterung
+// Text
+.link-bg-item-2 {
+    color:#fff !important;
+    text-decoration: none;
+}
+// Rahmen
+.text-bg-item-2 {
+    color: #fff !important;
+    background-color: #810012 !important;
+}
+// Rahmen: hover
+.text-bg-item-2:hover {
+    color: #fff !important;
+    background-color: #380007 !important;
+}
+
+//////////////////////////
+//
+// timeline: item 2     //
+//
+//////////////////////////
+// Linie
+.timeline-item-3 {
+    --timeline-highlight: #001281;
+}
+//Text
+.link-item-3  {
+    color:#001281 !important;
+    text-decoration: none;
+}
+//Text
+.link-item-3:hover {
+    color:#000738 !important;
+    text-decoration: none;
+}
+// Erläuterung
+// Text
+.link-bg-item-3 {
+    color:#fff !important;
+    text-decoration: none;
+}
+// Rahmen
+.text-bg-item-3 {
+    color: #fff !important;
+    background-color: #001281 !important;
+}
+// Rahmen
+.text-bg-item-3 {
+    color: #fff !important;
+    background-color: #000738 !important;
+}
