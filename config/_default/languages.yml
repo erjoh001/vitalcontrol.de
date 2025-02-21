@@ -11,6 +11,7 @@ en:
   languageName: English
   contentDir: content/en
   weight: 20
+  disabled: false
   taxonomies:
     tag: tags
     category: categories
@@ -18,6 +19,7 @@ bs:
   languageName: Bosanski
   contentDir: content/bs
   weight: 30
+  disabled: false
   taxonomies:
     nadimak: oznake
     kategorija: kategorije  
@@ -25,6 +27,7 @@ bg:
   languageName: Български
   contentDir: content/bg
   weight: 35
+  disabled: false
   taxonomies:
     етикет: тагове
     категория: категории
@@ -32,12 +35,14 @@ cs:
   languageName: Čeština
   contentDir: content/cs
   weight: 40
+  disabled: false
   taxonomies:
     značka: štítky
     kategorie: kategorie
 da:
   languageName: Dansk
   contentDir: content/da
+  disabled: false
   taxonomies:
     tag: tags
     kategori: kategorier
@@ -46,6 +51,7 @@ et:
   languageName: Eesti
   contentDir: content/et
   weight: 50
+  disabled: false
   taxonomies:
     silt: sildid
     kategooria: kategooriad
@@ -53,6 +59,7 @@ el:
   languageName: Ελληνικά
   contentDir: content/el
   weight: 55
+  disabled: false
   taxonomies:
     ετικέτα: ετικέτες
     κατηγορία: κατηγορίες
@@ -60,6 +67,7 @@ es:
   languageName: Español
   contentDir: content/es
   title: Urban GmbH
+  disabled: false
   taxonomies:
     etiqueta: etiquetas
     categoría: categorías
@@ -68,12 +76,14 @@ fi:
   languageName: Suomalainen
   contentDir: content/fi
   weight: 125
+  disabled: false
   taxonomies:
     tagi: tagit
     luokka: luokat  
 fr:
   languageName: Français
   contentDir: content/fr
+  disabled: false
   taxonomies:
     étiquette: étiquettes
     catégorie: catégories
@@ -82,6 +92,7 @@ hr:
   languageName: Hrvatski
   contentDir: content/hr
   weight: 95
+  disabled: false
   taxonomies:
     címke: címkék
     kategória: kategóriák
@@ -89,12 +100,14 @@ hu:
   languageName: Magyar
   contentDir: content/hu
   weight: 90
+  disabled: false
   taxonomies:
     címke: címkék
     kategória: kategóriák  
 it:
   languageName: Italiano
   contentDir: content/it
+  disabled: false
   taxonomies:
     etichetta: etichette
     categoria: categorie
@@ -103,6 +116,7 @@ lt:
   languageName: Lietuviškas
   contentDir: content/lt
   weight: 94
+  disabled: false
   taxonomies:
     žyma: žymos
     kategorija: kategorijos  
@@ -113,6 +127,7 @@ lv:
 nl:
   languageName: Nederlands
   contentDir: content/nl
+  disabled: false
   taxonomies:
     tag: tags
     categorie: categorieën
@@ -121,6 +136,7 @@ no:
   languageName: Norsk
   contentDir: content/no
   weight: 110
+  disabled: false
   taxonomies:
     merke: tagger
     kategori: kategorier
@@ -128,12 +144,14 @@ pl:
   languageName: Polski
   contentDir: content/pl
   weight: 120
+  disabled: false
   taxonomies:
     znacznik: tagi
     kategoria: kategorie
 pt:
   languageName: Português
   contentDir: content/pt
+  disabled: false
   taxonomies:
     etiqueta: etiquetas
     categoria: categorias
@@ -142,6 +160,7 @@ ro:
   languageName: Română
   contentDir: content/ro
   weight: 123
+  disabled: false
   taxonomies:
     etichetă: etichete
     categorie: categorii  
@@ -149,6 +168,7 @@ ru:
   languageName: Русский
   contentDir: content/ru
   weight: 125
+  disabled: false
   taxonomies:
     тег: теги
     категория: категории
@@ -156,6 +176,7 @@ sl:
   languageName: Slovenščina
   contentDir: content/sl
   weight: 125
+  disabled: false
   taxonomies:
     oznaka: oznake
     kategorija: kategorije
@@ -163,6 +184,7 @@ sv:
   languageName: Svenska
   contentDir: content/sv
   weight: 128
+  disabled: false
   taxonomies:
     tagg: taggar
     kategori: kategorier
@@ -170,6 +192,7 @@ tr:
   languageName: Türkçe
   contentDir: content/tr
   weight: 130
+  disabled: false
   taxonomies:
     etiket: Etiketler
     Kategori: Kategoriler
@@ -177,11 +200,13 @@ uk:
   languageName: Український
   contentDir: content/uk
   weight: 150
+  disabled: false
   taxonomies:
     тег: теги
     категорія: категорії
 zh:
   languageName: 正體字/繁體字
   languageCode: zh-TW
+  disabled: false
   contentDir: content/zh
   weight: 140

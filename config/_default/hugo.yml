@@ -5,6 +5,8 @@ title: Urban GmbH
 contentDir: content/de
 defaultContentLanguage: de
 defaultContentLanguageInSubdir: false
+# disableLanguages: [bg, bs, cs, da, el, en, es, et, fi, fr, hr, hu, it, lt, lv, nl, "no", pl, pt, ro, ru, sl, sv, tr, uk, zh]
+
 # Useful when translating
 enableMissingTranslationPlaceholders: true
 
