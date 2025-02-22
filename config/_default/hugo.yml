@@ -46,6 +46,11 @@ outputs:
    - print
    - RSS
 
+mediaTypes:
+  application/javascript:
+    suffixes:
+    - js
+
 # hugo module configuration
 
 module:
