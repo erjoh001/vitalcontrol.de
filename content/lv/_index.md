@@ -1,10 +1,10 @@
 ---
-_build:
+build:
   render: never
   list: never
   publishResources: false
   cascade:
-  _build:
+  build:
     list: false
     render: true
 title: Demo VitalControl
