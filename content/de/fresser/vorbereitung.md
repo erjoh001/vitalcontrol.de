@@ -15,7 +15,10 @@ Um erfolgreich eine [Massenmeldung] ihrer zugekauften Tiere bei der HI-Tier Date
 
 2. Wechseln Sie ins Untermenü `Betrieb`. Es erscheint eine Eingabemaske, in der Sie bequem ihre Betriebsnummer einstellen können. Nutzen Sie die Pfeiltasten, um ihr Bundesland und ihre zehnstellige Betriebsnummer einzugeben.
 
-   ![VitalControl: Menüfolge Einstellung Betriebsnummer](/images/settings/de/betriebsnummer.png "Betriebsnummer einstellen")
+    <figure class="figure mt-2">
+        <img src="/images/settings/de/betriebsnummer.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Menüfolge Einstellung Betriebsnummer" title="Betriebsnummer einstellen" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 1: Aufruf des Bildschirms <span style="font-style: italic;">Einstellung Betriebsnummer</span></figcaption></a>
+    </figure>
 
 3. Bestätigen sie mit `OK`, sobald Sie ihre Nummernfolge korrekt eingeben ist. Die Betriebsnummer ist jetzt auf dem Gerät gespeichert.
 

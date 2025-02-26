@@ -49,7 +49,7 @@ Innerhalb des Menüs &nbsp;<img src="/icons/actions.svg" width="40" align="botto
 
 4. Falls gewünscht, können Sie jetzt eine weitere Aktion für das aktuelle Tier auswählen und ausführen.
 
-5. Nachdem Sie die von Ihnen gewünschte(n) Aktion(en) für das Tier durchgeführt haben, kehren Sie wieder zu Schritt 2 `Tierauswahl` zurück. Dazu drücken Sie die linke Taste `F1` unterhalb des `Zurück`-Symbols links unten in der Fußzeile.
+5. Nachdem Sie die von Ihnen gewünschte(n) Aktion(en) für das Tier durchgeführt haben, kehren Sie wieder zu Schritt 2 `Tierauswahl` zurück. Dazu drücken Sie die linke obere Taste `F1` unterhalb des Symbols <img src="/icons/footer/exit.svg" width="24" align="bottom" alt="Zurück" />&nbsp; `Zurück` links unten in der Fußzeile.
 
 6. Es öffnet sich automatisch wieder das Fenster aus Schritt zwei und Sie können das nächste Tier auswählen oder mittels der Taste `F1` unterhalb des `Zurück`-Symbols in das Hautpmenü zurückspringen.
 
