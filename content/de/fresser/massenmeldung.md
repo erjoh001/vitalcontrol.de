@@ -9,6 +9,10 @@ slug: massenmeldung
 description: >
   Nehmen Sie gemäß der folgenden Anleitung im HI-Tier Portal unter Zuhilfenahme der CSV-Exportdatei eine Massenmeldung für ihre zugekauften Tiere vor.
 ---
+
+{{< tabpane text=true >}}
+  {{% tab header="**Meldeportal**:" disabled=true /%}}
+  {{% tab header="HI-Tier klassisch" %}}
 1. Rufen Sie die [Anmeldeseite](https://www.hi-tier.de/hitCom/login.asp) des HI-Tier Portals auf und melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
 
     <figure class="figure" style="margin-top: 20px">
@@ -29,13 +33,12 @@ Setzen Sie sich in ihrem Browser ein Lesezeichen auf diese Seite, damit Sie sie 
 1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
 
     {{% alert title="Hinweis" %}}
-Bei einer größeren Anzahl an zu meldenden Tieren kann der Exportvorgang einige Zeit (bis zu 1 min und mehr) in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
+Bei einer größeren Anzahl an zu meldenden Tieren kann der Exportvorgang einige Zeit (eine Minute und mehr) in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
     {{% /alert %}}
-
-    <figure class="figure" style="margin-top: 20px">
-        <img src="../images/hi-tier/massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenmeldung" title="Massenmeldung HI-Tier" />
-        <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 10px;">
+    <img src="../images/hi-tier/massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenmeldung" title="Massenmeldung HI-Tier" />
+    <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
+</figure>
 
 1. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Gesamtzahl <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> der erfolgreichen Meldungen ebenso aufgeführt wie die Zahl der fehlgeschlagenen Meldungen.
 
@@ -43,10 +46,10 @@ Bei einer größeren Anzahl an zu meldenden Tieren kann der Exportvorgang einige
 Sollte es bei Ihrer Meldung zu Fehlern gekommen sein, nehmen Sie diese ernst und stellen Sie die aufgetretenen Fehler anhand der gegebenen Hinweise ab!
     {{% /alert %}}
 
-    <figure class="figure" style="margin-top: 20px">
-        <img src="../images/hi-tier/erfolg-massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
-        <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Massenmeldung</figcaption>
-    </figure>
+<figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
+    <img src="../images/hi-tier/erfolg-massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
+    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Massenmeldung</figcaption>
+</figure>
 
 
 ## Linkgeführter Aufruf des Bildschirms <span style="font-style: italic;">Massenmeldung</span>
@@ -55,10 +58,62 @@ Sollte es bei Ihrer Meldung zu Fehlern gekommen sein, nehmen Sie diese ernst und
 
 2.  Sie werden jetzt auf eine neue Seite weitergeleitet, auf der sich ein zweispaltiges Auswahlmenü `Weitere Abfragen und Funktionen` befindet. Klicken Sie in diesem Menü auf den Menüpunkt `Massenabfragen per Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" />. Sie werden jetzt auf die gewünschte Bildschirmseite [Massenmeldung per Datei](https://www.hi-tier.de/hitCom/l_upload1.asp?M=SON&txtLangFormUpl=False) weitergeleitet.
 
-<figure class="figure" style="margin-top: 20px">
+<figure class="figure" style="margin-top: 20px;">
     <img src="../images/hi-tier/aufruf-massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenmeldung" title="Aufruf Massenmeldung" />
     <figcaption class="figure-caption fs-6">Screenshot 4: Aufruf des Bildschirm <span style="font-style: italic;">Massenmeldung</span> via Links</figcaption>
 </figure>
+
+  {{% /tab %}}
+  {{% tab header="HI Tier Version 3" %}}
+
+1. Rufen Sie die [Anmeldeseite](https://www3.hi-tier.de/HitCom3/Home/Login) des HI-Tier Portals V3 auf und melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
+
+    <figure class="figure" style="margin-top: 20px">
+        <img src="../images/hi-tier/anmeldung_v3.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Anmeldebildschirm HI-Tier V3" title="Anmeldung bei HI-Tier V3" />
+        <figcaption class="figure-caption fs-6">Screenshot 1: Anmeldung beim HI-Tier Portal (Version 3)</figcaption>
+    </figure>
+
+1. Klicken Sie auf der Startseite auf den Hauptmenüpunkt `Rind` und wählen Sie aus dem Dropdown-Menü den Wert `Massenmeldungen` aus.
+
+<figure class="figure" style="margin-top: 10px;">
+    <img src="../images/hi-tier/aufruf-massenmeldung_v3.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenmeldung V3" title="Massenmeldung HI-Tier V3" />
+    <figcaption class="figure-caption fs-6">Screenshot 2: Aufruf des Bildschirms <span style="font-style: italic;">Massenmeldung (HIT V3)</span></figcaption>
+</figure>
+
+1- Die Bildschirmseite `Massenmeldung` wird jetzt aufgerufen.
+
+    {{% alert title="Tipp" %}}
+Setzen Sie sich in ihrem Browser ein Lesezeichen auf diese Seite, damit Sie sie beim nächsten Meldevorgang leichter wiederfinden können.
+    {{% /alert %}}
+
+1. Wählen Sie unter dem Punkt `(Art der) Meldung` <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> aus dem DropDown-Menü den Wert `Zugangsmeldung` aus.
+
+1. Wählen Sie unter dem Punkt `Daten-Datei` <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> diejenige CSV-Exportdatei auf ihrem USB-Stick aus, die Sie im vorherigen Schritt [Export CSV-Datei](export-csv) erzeugt haben.
+
+1. Klicken Sie auf die Schaltfläche `Einfügen` <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" />, um die Massenmeldung ihrer Zukäufe vorzunehmen.
+
+    {{% alert title="Hinweis" %}}
+Bei einer größeren Anzahl an zu meldenden Tieren kann der Exportvorgang einige Zeit (eine Minute und mehr) in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
+    {{% /alert %}}
+<figure class="figure" style="margin-top: 10px;">
+    <img src="../images/hi-tier/massenmeldung_v3.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Bildschirmseite Massenmeldung" title="Massenmeldung HI-Tier" />
+    <figcaption class="figure-caption fs-6">Screenshot 2: Bildschirm <span style="font-style: italic;">Massenmeldung</span></figcaption>
+</figure>
+
+1. Nach Abschluss der Massenmeldung wird in der unteren Bildschirmhälfte eine Statistik ihres Meldevorgangs angezeigt. In dieser Statistik wird die Gesamtzahl <img src="/digits/3_negative_circled.svg" width="25" align="middle" alt="Circled digit 3" title="Ziffer 3" /> der erfolgreichen Meldungen ebenso aufgeführt wie die Zahl der fehlgeschlagenen Meldungen.
+
+    {{% alert title="ACHTUNG" %}}
+Sollte es bei Ihrer Meldung zu Fehlern gekommen sein, nehmen Sie diese ernst und stellen Sie die aufgetretenen Fehler anhand der gegebenen Hinweise ab!
+    {{% /alert %}}
+
+<figure class="figure" style="margin-top: 20px;margin-bottom: 40px;">
+    <img src="../images/hi-tier/erfolg-massenmeldung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Erfolgsmeldung Massenmeldung" title="Erfolgsmeldung Massenmeldung" />
+    <figcaption class="figure-caption fs-6">Screenshot 3: Erfolgreiche Ausführung der Massenmeldung</figcaption>
+</figure>
+
+  {{% /tab %}}
+{{< /tabpane >}}
+
 
 <div style="max-width: 80%; margin-top: 25px;">
 <div class="container-fluid">
