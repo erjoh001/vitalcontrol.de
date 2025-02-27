@@ -9,7 +9,7 @@ slug: export-csv
 description: >
   Eine CSV-Datei mit den melderelevanten Daten aller zugekauften Tiere auf einen USB-Stick exportieren.
 ---
-1. Stellen Sie sicher, dass Sie sich im Bildschirm `Zukäufe` befinden und ihnen dort all ihre zugekauften Tiere aufgelistet werden. Sollte ihnen dieser Bildschirm `Zukäufe` nicht angezeigt werden, so folgend sie den untenstehenden [Anweisungen](#manueller-aufruf-des-bildschirms-zukäufe), um den Bildschirm manuell aufzurufen.
+1. Stellen Sie sicher, dass Sie sich im Bildschirm `Zukäufe` befinden und ihnen dort all ihre zugekauften Tiere aufgelistet werden. Sollte ihnen dieser Bildschirm `Zukäufe` nicht angezeigt werden, so folgen sie den untenstehenden [Anweisungen](#manueller-aufruf-des-bildschirms-zukäufe), um den Bildschirm manuell aufzurufen.
 
 1. Drücken Sie mittlere obere `F2` Taste `CSV-Export`, um den Datenexport zu starten. Es öffnet sich nun ein Popup-Fenster, in dem Sie aufgefordert werden, einen USB-Stick in Ihr VitalControl-Gerät einzustecken.
 
