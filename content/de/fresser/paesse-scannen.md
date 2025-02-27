@@ -35,7 +35,7 @@ Sollte nach dem Einstecken des Barcodescanner der Bildschirm `Massenzugang` nich
 
 1. Im Erfassungsbildschirm wird untereinander je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt.
 
-1. Richten Sie den Barcodescanner auf den obersten Tierpass. Zielen Sie dort auf den Barcode für die Ohrmarkennummer (Abbildung 2: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/O_negative_circled.svg" width="25" align="middle" alt="Circled letter O" title="Buchstable O" />). Drücken Sie die Taste am Griff des Scanners, um den Pass einzuscannen. Nach erfolgreichem Scan des Barcodes wird die eingescannte Nummer in das oberste Feld `Ohrmarkennummer` des Bildschirms übernommen. Zugleich wechselt die Umrandung des Feldes wechselt von rot zu grün.
+1. Richten Sie den Barcodescanner auf den obersten Tierpass. Zielen Sie dort auf den Barcode für die Ohrmarkennummer (Abbildung 2: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/O_negative_circled.svg" width="25" align="middle" alt="Circled letter O" title="Buchstabe O" />). Drücken Sie die Taste am Griff des Scanners, um den Pass einzuscannen. Nach erfolgreichem Scan des Barcodes wird die eingescannte Nummer in das oberste Feld `Ohrmarkennummer` des Bildschirms übernommen. Zugleich wechselt die Umrandung des Feldes wechselt von rot zu grün.
 
 1. Scannen Sie in gleicher Weise das Geburtsdatum des Tieres ein (Abbildung 2: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/G_negative_circled.svg" width="25" align="middle" alt="Circled letter O" title="Buchstable G" />).
 
@@ -76,9 +76,7 @@ Bezüglich des Ablaufs bei der Erfassung ihrer zugekauften Tiere bestehen zahlre
 
 1. Es öffnet sich der Erfassungsbildschirm, in dem je ein Feld für die Ohrmarkennummer und ein Feld für das Geburtsdatum des zu erfassenden Tieres angezeigt werden.
 
-<br>
-
-<figure class="figure">
+<figure class="figure" style="margin-top: 20px">
   <img src="../images/aufruf-massenzugang.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Massenzugang" title="Bildschirm Massenzugang" />
   <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 3: Aufruf des Bildschirms <span style="font-style: italic;">Massenzugang</span></figcaption></a>
 </figure>
