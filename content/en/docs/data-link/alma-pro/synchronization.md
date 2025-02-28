@@ -9,19 +9,28 @@ weight: 20
 categories: [Data exchange, Alma Pro]
 translationKey: alma-pro/synchronization
 ---
+
+To carry out synchronisation between the Alma Pro automatic feeder and the VitalControl device, proceed as follows:
+
 ## Open USB port
 
-<figure class="figure" style="margin-top: 10px;">
-    <a name="open-usb-slot"><img src="/images/synchronisation/open-usb-slot.svg" width="600" class="border border-3 figure-img img-fluid rounded p-4" align="bottom" alt="Open USB port" title="Open USB port" /></a>
-    <figcaption class="figure-caption fs-6">Figure 1: Open USB port</figcaption>
-</figure>
+1. Use a small screwdriver to loosen the locking screw on the flap of the USB port and fold it down:
+
+    <figure class="figure" style="margin-top: 10px;">
+        <a name="open-usb-slot"><img src="/images/synchronisation/open-usb-slot.svg" width="600" class="border border-3 figure-img img-fluid rounded p-4" align="bottom"     alt="Open USB port" title="Open USB port" /></a>
+        <figcaption class="figure-caption fs-6">Figure 1: Open USB port</figcaption>
+    </figure>
 
 ## Connect VitalControl
 
-<figure class="figure" style="margin-top: 10px;">
-    <a name="connect-vc-ap"><img src="/images/synchronisation/connect-vitalcontrol-alma_pro.svg" width="1024" class="border border-3 figure-img img-fluid rounded p-4" align="bottom" alt="Connect VitalControl to Alma Pro" title="Connection VitalControl Alma Pro" /></a>
-    <figcaption class="figure-caption fs-6">Figure 2: Connecting VitalControl to Alma Pro</figcaption>
-</figure>
+2. Switch on the VitalControl device by pressing the top centre `On/Off` button &nbsp;<img src="/icons/footer/on-off.svg" width="18" align="bottom" alt="On/Off button" />.
+
+2. Connect the USB-C socket of the VitalControl device using the USB cable supplied <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Digit 1" /> with the USB-A socket of the touchscreen <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Digit 2" />.
+
+    <figure class="figure" style="margin-top: 10px;">
+        <a name="connect-vc-ap"><img src="/images/synchronisation/connect-vitalcontrol-alma_pro.svg" width="1024" class="border border-3 figure-img img-fluid rounded p-4" align="bottom" alt="Connect VitalControl to Alma Pro" title="Connection VitalControl Alma Pro" /></a>
+        <figcaption class="figure-caption fs-6">Figure 2: Connecting VitalControl to Alma Pro</figcaption>
+    </figure>
 
 ## Close USB port
 
