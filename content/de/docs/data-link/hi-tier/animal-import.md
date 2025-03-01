@@ -64,7 +64,7 @@ Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht 
 1. Nach einer korrekten Passworteingabe werden die zu importierenden Tiere abgerufen und auf das VitalControl-Gerät übertragen.
 
     {{% alert title="Achtung" %}}
-Falls viele Tiere übertragen sollen, kann der Importvorgang eine gewisse Zeitspanne in Anspruch nehmen. Den Fortschritt des Datenimports können Sie dabei dem Display des VitalControl-Geräts entnehmen.
+Falls viele Tiere übertragen werden müssen, kann der Importvorgang eine gewisse Zeitspanne in Anspruch nehmen. Den Fortschritt des Datenimports können Sie dabei dem Display des VitalControl-Geräts entnehmen.
 
 ![Datenimport von HI-Tier, Fortschrittsanzeige](../../vcsynchronizer/images/tierimport/datenuebertragung.png "Fortschritt Datenimport")
     {{% /alert %}}

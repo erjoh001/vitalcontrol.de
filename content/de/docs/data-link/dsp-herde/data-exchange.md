@@ -43,7 +43,7 @@ Gehen Sie wie folgt vor, um Daten zwischen der Herde Software und dem VitalContr
    ![Herde Software: Erfolgsmeldung Datenaustausch](../screenshots/erfolgsmeldung.png "Herde: Erfolgsmeldung Datenaustausch")
 
     {{% alert title="Achtung" %}}
-Falls viele Tiere übertragen sollen, kann der Datenaustausch eine gewisse Zeitspanne in Anspruch nehmen. Den Fortschritt der Datenübertragung können Sie dabei dem Display des VitalControl-Geräts entnehmen.
+Falls viele Tiere übertragen werden müssen, kann der Datenaustausch eine gewisse Zeitspanne in Anspruch nehmen. Den Fortschritt der Datenübertragung können Sie dabei dem Display des VitalControl-Geräts entnehmen.
 
 ![Datensynchronisation mit Herde, Fortschrittsanzeige](../../vcsynchronizer/images/tierimport/datenuebertragung.png "VitalControl: Fortschritt Datenübertragung")
     {{% /alert %}}
