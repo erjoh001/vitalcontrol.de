@@ -62,7 +62,7 @@ To carry out synchronisation between the Alma Pro automatic feeder and the Vital
         </svg>
         <div>
             <span class="text-primary fs-3 fw-semibold">Attention</span><br>
-            If the symbol <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> for the <span style="font-family: monospace; font-size: 90%;">VitalControl</span> device in the right sidebar <span style="font-weight: bold;">not</span> displayed, the device is still deactivated in the settings. In this case, follow the instructions for one-time <a href="../activation" >activation</a> of the device.
+            If the symbol <img src="/icons/device.svg" width="25" align="bottom" alt="VitalControl device" title="VitalControl"/> for the <span style="font-family: monospace; font-size: 90%;">VitalControl</span> device in the right sidebar <span style="font-weight: bold;">not</span> displayed, the device is still deactivated in the settings. In this case, follow the instructions for one-time <a href="../configuration" >activation</a> of the device.
         </div>
     </div>
 
