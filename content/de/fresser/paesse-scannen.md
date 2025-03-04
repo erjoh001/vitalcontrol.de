@@ -81,17 +81,21 @@ Bezüglich des Ablaufs bei der Erfassung ihrer zugekauften Tiere bestehen zahlre
   <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 3: Aufruf des Bildschirms <span style="font-style: italic;">Massenzugang</span></figcaption></a>
 </figure>
 
+</style>
+
 <div style="max-width: 80%; margin-top: 20px">
   <div class="container-fluid">
     <div class="row">
       <div class="col">
         <div class="d-grid gap-2">
-          <a class="text-start btn btn-lg btn-outline-primary" role="button"  href="../betriebsnummer"><span class="fs-6">Vorherige</span><br><span class="fs-4 fw-semibold">« Eingabe Betriebsnummer</span></a>
+          <a class="text-start btn btn-lg btn-primary" role="button"  href="../betriebsnummer"><span class="fs-6">Vorherige Seite</span><br><br><span class="fs-4 fw-semibold">« Eingabe Betriebsnummer</span></a>
         </div>
       </div>
       <div class="col">
         <div class="d-grid gap-2">
-          <a class="btn btn-lg btn-outline-primary text-end" role="button" href="../export-csv"><span class="fs-6">Nächste</span><br><span class="fs-4 fw-semibold">Export CSV-Datei »</span></a>
+          <div class="btn btn-lg btn-primary text-end" role="button" ><span class="float-start fw-semibold fs-5">Tränkeautomat:</span><span class="fs-6">Nächste Seite:</span><br>
+            <span class="float-start fs-5">mit</span><span class="fs-4 fw-semibold"><a href="../transponder-zuordnen" class="link-light">Transponder zuordnen »</a></span><br><span class="float-start fs-5">ohne</span><span class="fs-4 fw-semibold"><a href="../export-csv" class="link-light">Export CSV-Datei »</a></span>
+          </div>
         </div>
       </div>
     </div>

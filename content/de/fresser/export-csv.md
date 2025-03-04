@@ -69,12 +69,12 @@ Der Listenbildschirm CSV-Export bietet mehrere [Direktfunktionen](/docs/zugaenge
   <div class="row">
     <div class="col">
       <div class="d-grid gap-2">
-        <a class="text-start btn btn-lg btn-outline-primary" role="button"  href="../paesse-scannen"><span class="fs-6">Vorherige</span><br><span class="fs-4 fw-semibold">« Scan aller Tierpässe</span></a>
+        <div class="text-start btn btn-lg btn-primary" role="button" ><span class="fs-6">Vorherige Seite</span><span class="float-end fw-semibold fs-5">Tränkeautomat:</span><br><span class="fs-4 fw-semibold"><a href="../synchronisation" class="link-light">« Synchronisation mit Alma Pro</a></span><span class="float-end fs-5">mit</span><br><span class="fs-4 fw-semibold"><a href="../synchronisation" class="link-light">« Scan aller Tierpässe</a></span><span class="float-end fs-5">ohne</span></div>
       </div>
     </div>
     <div class="col">
       <div class="d-grid gap-2">
-        <a class="btn btn-lg btn-outline-primary text-end" role="button" href="../massenmeldung"><span class="fs-6">Nächste</span><br><span class="fs-4 fw-semibold">Massenmeldung HI-Tier »</span></a>
+        <a class="btn btn-lg btn-primary text-end" role="button" href="../massenmeldung"><span class="fs-6">Nächste Seite</span><br><br><span class="fs-4 fw-semibold">Massenmeldung HI-Tier »</span></a>
       </div>
     </div>
   </div>
