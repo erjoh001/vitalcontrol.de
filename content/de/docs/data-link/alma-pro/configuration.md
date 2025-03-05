@@ -101,15 +101,36 @@ Auf der rechten Seite des Bildschirms befinden sich zwei Optionen:
         </div>
     </div>
 
-- Die Option <span style="font-style: italic;">Auf Automat neu anlegen</span> <span style="font-size: 140%">➃</span> regelt, ob dem VitalControl vorhandene Tiere, die dem Automaten unbekannt sind, im Zuge der nächsten Synchronisation auf dem Automaten angelegt werden. Aktivieren Sie diese Option, wenn die Ersterfassung ihrer Tiere mit dem VitalControl erfolgt. Lassen Sie diese Option deaktiviert, wenn Sie ein VitalControl an mehreren Automaten nutzen und/oder wenn ihre Tiere im Zuge der erstmaligen Fütterung am Automaten registriert werden.
+- Die Option <span style="font-style: italic;">Auf Automat neu anlegen</span> <span style="font-size: 140%">➃</span> regelt, ob auf dem VitalControl vorhandene Tiere, die dem Automaten unbekannt sind, im Zuge der nächsten Synchronisation auf dem Automaten angelegt werden. Im Standard ist diese Option nicht aktiviert. Aktivieren Sie diese Option, wenn die Ersterfassung ihrer Tiere mit dem VitalControl erfolgt. Lassen Sie diese Option deaktiviert, wenn Sie ein VitalControl an mehreren Automaten nutzen und/oder wenn ihre Tiere im Zuge der erstmaligen Fütterung am Automaten registriert werden.
+
+    <span style="font-weight: bold">Deaktivieren</span> Sie diese Option bzw. lassen Sie sie deaktiviert:
+    - wenn Sie Ihr VitalControl-Gerät an mehreren Automaten gleichzeitig nutzen,
+    - wenn Sie Ihre Tiere direkt an den Automaten bringen, ohne Sie vorher mit dem VitalControl zu erfassen.
+
+    <div class="alert alert-primary d-flex align-items-center" role="alert">
+        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+            <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+        </svg>
+        <div>
+            <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
+            Wird das VitalControl an mehreren Automaten genutzt und bleibt diese Option gesetzt, so werden im Zuge der Synchronisation ungewollt Tiere von einem Automaten auf den anderen übertragen.
+        </div>
+    </div>
 
     <span style="font-weight: bold">Aktivieren</span> Sie diese Option:
 
-    - wenn Sie ...
+    - wenn Sie ihre neugeborenen Tiere mit dem VitalControl erfassen,
+    - wenn Sie ihre zugekauften Tiere durch Einscannen der Tierpässe auf dem VitalControl erfassen.
 
-    <span style="font-weight: bold">Deaktivieren</span> Sie diese Option:
-    - wenn Sie 
-
+    <div class="alert alert-primary d-flex align-items-center" role="alert">
+        <svg xmlns="http://www.w3.org/2000/svg" width="70px" fill="#810012" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3" viewBox="0 0 16 16" role="img" aria-label="Info:">
+            <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+        </svg>
+        <div>
+            <span class="text-primary fs-3 fw-semibold">Achtung</span><br>
+            Aktivieren Sie diese Option nur, wenn sie das VitalControl an einem einzigen Automaten nutzen! Wollen Sie bei gesetzter Option die Synchronisation mit mehreren Automaten durchführen, so müssen Sie sich Automat ein separates VitalControl-Gerät nutzen.
+        </div>
+    </div>
 
 ## Einstellungsmenü `VitalControl` - Seite 2
 
