@@ -42,7 +42,7 @@ description: >
     </figure>
 
 {{% alert title="Hinweis" %}}
-Bei einer größeren Anzahl an zu exportierenden Tieren kann der Exportvorgang einige Zeit in Anspruch nehmen. Seien Sie bitte geduldig und warten das Erscheinen der Erfolgsmeldung ab!
+Bei einer größeren Anzahl an zu exportierenden Tieren kann der Exportvorgang einige Zeit in Anspruch nehmen. Entfernen Sie den USB-Stick nicht vor dem Erscheinen der Erfolgsmeldung!
 {{% /alert %}}
 
 ## Ergänzungen und Erläuterungen
