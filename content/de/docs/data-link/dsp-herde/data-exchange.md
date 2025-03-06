@@ -34,7 +34,7 @@ Gehen Sie wie folgt vor, um Daten zwischen der Herde Software und dem VitalContr
 
    ![Herde Software, Datenaustausch: Warnhinweis](../screenshots/warnmeldung.png "Datenaustausch: Warnhinweis")
 
-1. Der Datenaustausch ist ein zweistufiger Prozess: Im ersten Schritt ➊ werden die Stamm- bzw. Tierdaten von der `Herde`-Software an das VitalControl übergeben. Im zweiten Schritt ➋ werden die mit dem VitalControl erfassten Daten von der `Herde`-Software eingelesen. Die Anzahl der übergebenen Datensätze (Tiere, Abkalbungen, Technikalarme und Gewichte) ist in dem Popup aufgeführt:
+1. Der Datenaustausch ist ein zweistufiger Prozess: Im ersten Schritt <span style="font-size: 140%">➊</span> werden die Stamm- bzw. Tierdaten von der `Herde`-Software an das VitalControl übergeben. Im zweiten Schritt <span style="font-size: 140%">➋</span> werden die mit dem VitalControl erfassten Daten von der `Herde`-Software eingelesen. Die Anzahl der übergebenen Datensätze (Tiere, Abkalbungen, Technikalarme und Gewichte) ist in dem Popup aufgeführt:
 
    ![Datenaustausch mit Herde Software: Ablauf](../screenshots/ablauf-kopplung.png "Herde: Ablauf Datenaustausch")
 

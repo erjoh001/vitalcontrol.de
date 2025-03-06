@@ -23,9 +23,9 @@ A technológia beállításához kövesse az alábbi lépéseket:
 
    ![Software Herde: a beállítások menü megnyitása](../screenshots/settings.png "Herde: Beállítások megnyitása")
 
-1. Megnyílik egy felugró ablak `Beállítások`, amelynek bal oldali sávjában számos beállítási kategória található. Nyissa meg a `Szolgáltatás` ➊ kategóriát, és válassza a `Technológia` ➋ alkategóriát.
+1. Megnyílik egy felugró ablak `Beállítások`, amelynek bal oldali sávjában számos beállítási kategória található. Nyissa meg a `Szolgáltatás` <span style="font-size: 140%">➊</span> kategóriát, és válassza a `Technológia` <span style="font-size: 140%">➋</span> alkategóriát.
 
-1. A jobb oldali fő terület fejlécében most megjelenik egy legördülő menü, amelyben az összes meghatározott technológiai paraméterkészlet szerepel. A beállított technológiák száma jobbra látható. Kattintson a ![Software Herde: Új technológiai paraméterkészlet létrehozása](/icons/new.png "Herde: Technológiai kapcsolat létrehozása") `Új technológiai paraméterkészlet létrehozása` ➌ gombra.
+1. A jobb oldali fő terület fejlécében most megjelenik egy legördülő menü, amelyben az összes meghatározott technológiai paraméterkészlet szerepel. A beállított technológiák száma jobbra látható. Kattintson a ![Software Herde: Új technológiai paraméterkészlet létrehozása](/icons/new.png "Herde: Technológiai kapcsolat létrehozása") `Új technológiai paraméterkészlet létrehozása` <span style="font-size: 140%">➌</span> gombra.
 
    ![Software Herde: technológiai beállítások képernyője](../screenshots/settings-technology.png "Herde: Technológiai beállítások")
 
@@ -38,13 +38,13 @@ A technológia beállításához kövesse az alábbi lépéseket:
 
 ## Konfiguráció: Alapbeállítások
 
-Kezdetben az `Alapbeállítások` fül van kiválasztva a megjelenített képernyőn, ahogy az alábbi ábrán látható. Végezze el a beállításokat az `Külső program` ➊, `Állat adatok` ➋, `Helyszínek` ➌ és `Kilépés` ➍ kategóriákban a farm-specifikus feltételeknek megfelelően.
+Kezdetben az `Alapbeállítások` fül van kiválasztva a megjelenített képernyőn, ahogy az alábbi ábrán látható. Végezze el a beállításokat az `Külső program` <span style="font-size: 140%">➊</span>, `Állat adatok` <span style="font-size: 140%">➋</span>, `Helyszínek` <span style="font-size: 140%">➌</span> és `Kilépés` <span style="font-size: 140%">➍</span> kategóriákban a farm-specifikus feltételeknek megfelelően.
 
    ![Software Herde: Alapbeállítások konfigurálása](../screenshots/basic-settings.png "Technológia VitalControl: Alapbeállítások").
    
-### `Külső program` ➊ kategória
+### `Külső program` <span style="font-size: 140%">➊</span> kategória
 
-A VitalControl és a Herde Plus közötti adatcsere végrehajtásához alapvető szoftverre van szükség, amely a [VitalControl Synchronizer](../../vcsynchronizer) külső segédprogramként működik. A program helyes működéséhez néhány beállítást kell elvégezni a `Külső program` ➊ kategóriában.
+A VitalControl és a Herde Plus közötti adatcsere végrehajtásához alapvető szoftverre van szükség, amely a [VitalControl Synchronizer](../../vcsynchronizer) külső segédprogramként működik. A program helyes működéséhez néhány beállítást kell elvégezni a `Külső program` <span style="font-size: 140%">➊</span> kategóriában.
 
 - **Eszköz neve az adatcseréhez**:  
   Alapértelmezés szerint ez a mező üres. Azonban ajánlott megadni a számítógép nevét itt. Ehhez nyomja meg az ikont ![Herde Software: Új technológiai kapcsolat létrehozása](/icons/arrow-down.png "Herde: Technológiai kapcsolat létrehozása") `Le nyíl` a legördülő mező jobb végén. A számítógép neve most meghatározásra kerül és megjelenik a legördülő listában kiválasztásra. Miután a mező a számítógép nevével van kitöltve és ez a beállítás el van mentve, az adatcsere csak az Ön számítógépéről indítható el ezentúl.
@@ -59,9 +59,9 @@ A VitalControl és a Herde Plus közötti adatcsere végrehajtásához alapvető
 - **Technológia 🡒 Program HerdePlus**:  
   Ezt a mezőt a `vc_exp.bat` értékkel kell kitölteni. Az azonos nevű batch fájl meghatározza az adatexportálás során végrehajtandó műveletek sorrendjét.
 
-### Kategória `Állatadatok` ➋
+### Kategória `Állatadatok` <span style="font-size: 140%">➋</span>
 
-További beállításokat kell elvégezni az 'Állatadatok' ➋ kategóriában, hogy az adatcsere teljes mértékben működőképes legyen.
+További beállításokat kell elvégezni az 'Állatadatok' <span style="font-size: 140%">➋</span> kategóriában, hogy az adatcsere teljes mértékben működőképes legyen.
 
 - **Állatszám**:  
   Ez a beállítás határozza meg, hogy az állatok milyen azonosítót kapnak a VitalControl eszközön való megjelenítéshez:
@@ -80,11 +80,11 @@ További beállításokat kell elvégezni az 'Állatadatok' ➋ kategóriában, 
 - **Minimális átadási kor**:  
   Ha `0` értéket ad meg ebben a mezőben, **minden állat** átkerül a VitalControl eszközre, életkoruktól függetlenül. A `0`-nál nagyobb érték meghatározza az átadandó állatok minimális életkorát (napokban). Például, ha **csak teheneket** szeretne átadni az eszközre, itt 600 napos (= 20 hónap) értéket kell megadnia minimális életkorként.
 
-### Kategória `Helyszínek` ➌
+### Kategória `Helyszínek` <span style="font-size: 140%">➌</span>
 
 Használja ezt a kategóriát, hogy kizárja az állatokat bizonyos helyszíneken az eszközre történő adatátvitelből. Ehhez távolítsa el a pipát azon helyszínek mellől, ahonnan **nem** szeretné az ott tartott állatokat az eszközre átvinni.
 
-### Kategória `Távozás` ➍
+### Kategória `Távozás` <span style="font-size: 140%">➍</span>
 
 Itt jelölje be a 'Távozás a HERDEplus-ban' opciót. Ezzel meghatározza, hogy a nyájból távozott állatok is törlődjenek a VitalControl eszközről a szinkronizálás során.
 Jelölje be a 'Nem létezik a készletben' opciót is. Ezzel meghatározza, hogy a VitalControl-on lévő, de a `Herde` szoftver által nem ismert állatok törlődjenek a VitalControl-ról a szinkronizálás során.

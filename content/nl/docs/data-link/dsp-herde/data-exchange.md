@@ -33,7 +33,7 @@ Volg de onderstaande stappen om gegevens te synchroniseren tussen de software `H
 
    ![Software Herde, gegevensuitwisseling: waarschuwing](../screenshots/warning.png "Gegevensuitwisseling: waarschuwing")
 
-1. Gegevensuitwisseling is een tweestapsproces: In de eerste stap ➊ worden de diergegevens overgedragen van software `Herde` naar de VitalControl. In de tweede stap ➋ worden de meetgegevens die met de VitalControl zijn verzameld, overgedragen naar software `Herde`. Het aantal geïmporteerde gegevenssets (dieren, kalveren, waarschuwingen en gewichten) wordt vermeld in de pop-up:
+1. Gegevensuitwisseling is een tweestapsproces: In de eerste stap <span style="font-size: 140%">➊</span> worden de diergegevens overgedragen van software `Herde` naar de VitalControl. In de tweede stap <span style="font-size: 140%">➋</span> worden de meetgegevens die met de VitalControl zijn verzameld, overgedragen naar software `Herde`. Het aantal geïmporteerde gegevenssets (dieren, kalveren, waarschuwingen en gewichten) wordt vermeld in de pop-up:
 
 ![Data-uitwisseling met software Herde: Actieverloop](../screenshots/data-transfer.png "Data-uitwisseling: Actieverloop")
 

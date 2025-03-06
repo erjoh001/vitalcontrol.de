@@ -33,7 +33,7 @@ Noudata alla olevia ohjeita synkronoidaksesi tietoja `Herde`-ohjelmiston ja Vita
 
    ![Ohjelmisto Herde, tietojen vaihto: varoitus](../screenshots/warning.png "Tietojen vaihto: varoitus")
 
-1. Tietojen vaihto on kaksivaiheinen prosessi: Ensimmäisessä vaiheessa ➊ eläintiedot siirretään `Herde`-ohjelmistosta VitalControl-laitteeseen. Toisessa vaiheessa ➋ VitalControl-laitteella kerätyt mittausdata siirretään `Herde`-ohjelmistoon. Popup-ikkunassa luetellaan tuodut tietueet (eläimet, poikimiset, hälytykset ja painot):
+1. Tietojen vaihto on kaksivaiheinen prosessi: Ensimmäisessä vaiheessa <span style="font-size: 140%">➊</span> eläintiedot siirretään `Herde`-ohjelmistosta VitalControl-laitteeseen. Toisessa vaiheessa <span style="font-size: 140%">➋</span> VitalControl-laitteella kerätyt mittausdata siirretään `Herde`-ohjelmistoon. Popup-ikkunassa luetellaan tuodut tietueet (eläimet, poikimiset, hälytykset ja painot):
 
 ![Tietojenvaihto ohjelmiston Herde kanssa: Toimenpiteiden kulku](../screenshots/data-transfer.png "Tietojenvaihto: Toimenpiteiden kulku")
 

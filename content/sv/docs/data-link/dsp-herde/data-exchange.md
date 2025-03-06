@@ -33,7 +33,7 @@ Följ stegen nedan för att synkronisera data mellan programvaran `Herde` och Vi
 
    ![Programvara Herde, datautbyte: varning](../screenshots/warning.png "Datautbyte: varning")
 
-1. Datautbyte är en tvåstegsprocess: I det första steget ➊ överförs djurdata från programvaran `Herde` till VitalControl. I det andra steget ➋ överförs mätdata som samlats in med VitalControl till programvaran `Herde`. Antalet importerade dataset (djur, kalvningar, varningar och vikter) listas i pop-upen:
+1. Datautbyte är en tvåstegsprocess: I det första steget <span style="font-size: 140%">➊</span> överförs djurdata från programvaran `Herde` till VitalControl. I det andra steget <span style="font-size: 140%">➋</span> överförs mätdata som samlats in med VitalControl till programvaran `Herde`. Antalet importerade dataset (djur, kalvningar, varningar och vikter) listas i pop-upen:
 
 ![Data exchange with software Herde: Course of actions](../screenshots/data-transfer.png "Data exchange: Course of actions")
 

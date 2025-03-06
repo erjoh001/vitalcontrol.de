@@ -33,7 +33,7 @@ Siga os passos abaixo para sincronizar os dados entre o software `Herde` e o dis
 
    ![Software Herde, troca de dados: aviso](../screenshots/warning.png "Troca de dados: aviso")
 
-1. A troca de dados é um processo em duas etapas: Na primeira etapa ➊ os dados dos animais são transferidos do software `Herde` para o VitalControl. Na segunda etapa ➋, os dados de medição coletados com o VitalControl são transferidos para o software `Herde`. O número de conjuntos de dados importados (animais, partos, alertas e pesos) é listado na janela pop-up:
+1. A troca de dados é um processo em duas etapas: Na primeira etapa <span style="font-size: 140%">➊</span> os dados dos animais são transferidos do software `Herde` para o VitalControl. Na segunda etapa <span style="font-size: 140%">➋</span>, os dados de medição coletados com o VitalControl são transferidos para o software `Herde`. O número de conjuntos de dados importados (animais, partos, alertas e pesos) é listado na janela pop-up:
 
 
    ![Troca de dados com o software Herde: Curso das ações](../screenshots/data-transfer.png "Troca de dados: Curso das ações")

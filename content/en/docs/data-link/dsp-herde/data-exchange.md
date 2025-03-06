@@ -33,7 +33,7 @@ Follow the steps below to synchronize data between the software `Herde` and Vita
 
    ![Software Herde, data exchange: warning](../screenshots/warning.png "Data exchange: warning")
 
-1. Data exchange is a two-step process: In the first step ➊ the animal data are transferred from software `Herde` to the VitalControl. In the second step ➋, measurement data collected with the VitalControl are transferred into software `Herde`. The number of imported data sets (animals, calvings, alerts and weights) is listed in the pop-up:
+1. Data exchange is a two-step process: In the first step <span style="font-size: 140%">➊</span> the animal data are transferred from software `Herde` to the VitalControl. In the second step <span style="font-size: 140%">➋</span>, measurement data collected with the VitalControl are transferred into software `Herde`. The number of imported data sets (animals, calvings, alerts and weights) is listed in the pop-up:
 
    ![Data exchange with software Herde: Course of actions](../screenshots/data-transfer.png "Data exchange: Course of actions")
 

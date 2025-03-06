@@ -33,7 +33,7 @@ Urmați pașii de mai jos pentru a sincroniza datele între software-ul `Herde` 
 
    ![Software Herde, schimb de date: avertisment](../screenshots/warning.png "Schimb de date: avertisment")
 
-1. Schimbul de date este un proces în două etape: În prima etapă ➊ datele despre animale sunt transferate din software-ul `Herde` în VitalControl. În a doua etapă ➋, datele de măsurare colectate cu VitalControl sunt transferate în software-ul `Herde`. Numărul de seturi de date importate (animale, fătări, alerte și greutăți) este listat în pop-up:
+1. Schimbul de date este un proces în două etape: În prima etapă <span style="font-size: 140%">➊</span> datele despre animale sunt transferate din software-ul `Herde` în VitalControl. În a doua etapă <span style="font-size: 140%">➋</span>, datele de măsurare colectate cu VitalControl sunt transferate în software-ul `Herde`. Numărul de seturi de date importate (animale, fătări, alerte și greutăți) este listat în pop-up:
 
 ![Schimb de date cu software-ul Herde: Cursul acțiunilor](../screenshots/data-transfer.png "Schimb de date: Cursul acțiunilor")
 

@@ -23,9 +23,9 @@ For at opsætte teknologien, følg disse trin:
 
    ![Software Herde: åbning af indstillingsmenu](../screenshots/settings.png "Herde: åbne Indstillinger")
 
-1. Et pop-up vindue `Indstillinger` åbnes, i hvis venstre sidebjælke mange indstillingskategorier er listet. Åbn kategorien `Service` ➊ og vælg underkategorien `Teknologi` ➋.
+1. Et pop-up vindue `Indstillinger` åbnes, i hvis venstre sidebjælke mange indstillingskategorier er listet. Åbn kategorien `Service` <span style="font-size: 140%">➊</span> og vælg underkategorien `Teknologi` <span style="font-size: 140%">➋</span>.
 
-1. I overskriften af det højre hovedområde, vises nu en dropdown, hvor alle definerede teknologiparametersæt er listet. Antallet af opsatte teknologier vises til højre. Klik på knappen ![Software Herde: Opret nyt teknologiparametersæt](/icons/new.png "Herde: Opret Teknologikobling") `Opret nyt teknologiparametersæt` ➌.
+1. I overskriften af det højre hovedområde, vises nu en dropdown, hvor alle definerede teknologiparametersæt er listet. Antallet af opsatte teknologier vises til højre. Klik på knappen ![Software Herde: Opret nyt teknologiparametersæt](/icons/new.png "Herde: Opret Teknologikobling") `Opret nyt teknologiparametersæt` <span style="font-size: 140%">➌</span>.
 
 ![Software Herde: indstillingsskærm for teknologi](../screenshots/settings-technology.png "Herde: Indstillinger for Teknologi")
 
@@ -37,13 +37,13 @@ For at opsætte teknologien, følg disse trin:
 
 ## Konfiguration: Grundlæggende indstillinger {#configuration-basic-settings}
 
-Oprindeligt er fanen `Grundlæggende indstillinger` valgt på den viste skærm, som vist på figuren nedenfor. Foretag justeringer der i kategorierne `Eksternt program` ➊, `Dyredata` ➋, `Lokationer` ➌ og `Forlader` ➍ i henhold til dine gårdsspecifikke forhold.
+Oprindeligt er fanen `Grundlæggende indstillinger` valgt på den viste skærm, som vist på figuren nedenfor. Foretag justeringer der i kategorierne `Eksternt program` <span style="font-size: 140%">➊</span>, `Dyredata` <span style="font-size: 140%">➋</span>, `Lokationer` <span style="font-size: 140%">➌</span> og `Forlader` <span style="font-size: 140%">➍</span> i henhold til dine gårdsspecifikke forhold.
 
    ![Software Herde: Konfiguration af grundlæggende indstillinger](../screenshots/basic-settings.png "Teknologi VitalControl: Grundlæggende indstillinger").
    
-### Kategori `Eksternt program` ➊ {#category-external-program-}
+### Kategori `Eksternt program` <span style="font-size: 140%">➊</span> {#category-external-program-}
 
-For at udføre dataudveksling mellem VitalControl og Herde Plus, er grundlæggende software [VitalControl Synchronizer](../../vcsynchronizer) nødvendig som eksternt hjælpeprogram. For den korrekte funktion af dette program skal nogle justeringer foretages i kategorien `Eksternt program` ➊.
+For at udføre dataudveksling mellem VitalControl og Herde Plus, er grundlæggende software [VitalControl Synchronizer](../../vcsynchronizer) nødvendig som eksternt hjælpeprogram. For den korrekte funktion af dette program skal nogle justeringer foretages i kategorien `Eksternt program` <span style="font-size: 140%">➊</span>.
 
 - **Enhedsnavn til dataudveksling**:  
   Som standard er dette felt tomt. Det anbefales dog at indtaste navnet på din computer her. For at gøre dette, tryk på ikonet ![Herde Software: Opret ny teknologikobling](/icons/arrow-down.png "Herde: Opret teknologikobling") `Pil ned` i højre ende af drop-down feltet. Dit computernavn vil nu blive bestemt og vist til valg i drop-down listen. Når feltet er udfyldt med dit computernavn og denne indstilling er gemt, kan dataudveksling kun udløses fra din computer fremover.
@@ -58,9 +58,9 @@ For at udføre dataudveksling mellem VitalControl og Herde Plus, er grundlæggen
 - **Teknologi 🡒 Program HerdePlus**:  
   Dette inputfelt skal udfyldes med værdien `vc_exp.bat`. Den tilsvarende navngivne batchfil specificerer rækkefølgen af operationer under dataeksport.
 
-### Kategori `Dyredata` ➋ {#category-animal-data-}
+### Kategori `Dyredata` <span style="font-size: 140%">➋</span> {#category-animal-data-}
 
-Yderligere justeringer skal foretages i kategorien 'Dyredata' ➋ for at få dataudvekslingen fuldt funktionel.
+Yderligere justeringer skal foretages i kategorien 'Dyredata' <span style="font-size: 140%">➋</span> for at få dataudvekslingen fuldt funktionel.
 
 - **Dyrenummer**:  
   Denne indstilling bestemmer, hvilken ID dyr modtager til visning på VitalControl-enheden:
@@ -79,11 +79,11 @@ Yderligere justeringer skal foretages i kategorien 'Dyredata' ➋ for at få dat
 - **Minimumsalder for overførsel**:  
   Hvis `0` indtastes som værdi for dette inputfelt, vil **alle dyr** blive overført til VitalControl-enheden, uanset deres alder. En værdi større end `0` definerer minimumsalderen (i dage) for de dyr, der skal overføres. For eksempel, hvis **kun køer** skal overføres til enheden, skal en værdi på 600 dage (= 20 måneder) indtastes her som minimumsalder.
 
-### Kategori `Lokationer` ➌ {#category-locations-}
+### Kategori `Lokationer` <span style="font-size: 140%">➌</span> {#category-locations-}
 
 Brug denne kategori til at udelukke dyr på bestemte lokationer fra dataoverførsel til enheden. For at gøre dette, fjern markeringen fra de lokationer, hvor du **ikke** ønsker at overføre dyrene, der er opstaldet der, til enheden.
 
-### Kategori `Afgang` ➍ {#category-leaving-}
+### Kategori `Afgang` <span style="font-size: 140%">➍</span> {#category-leaving-}
 
 Sæt kryds ved 'Afgang i HERDEplus' her. På denne måde specificerer du, at dyr, der har forladt flokken, også slettes fra VitalControl-enheden under synkronisering.
 Sæt også kryds ved 'Findes ikke i bestanden'. På denne måde specificerer du, at dyr på VitalControl, som ikke er kendt af `Herde`-softwaren, slettes fra VitalControl under synkronisering.

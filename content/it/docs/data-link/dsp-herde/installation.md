@@ -23,9 +23,9 @@ Per configurare la tecnologia, procedere come segue:
 
    ![Software Herde: invocazione del menu impostazioni](../screenshots/settings.png "Herde: invocare Impostazioni")
 
-1. Si apre una finestra pop-up `Impostazioni`, nella cui barra laterale sinistra sono elencate numerose categorie di impostazioni. Aprire la categoria `Servizio` ➊ e selezionare la sottocategoria `Tecnologia` ➋.
+1. Si apre una finestra pop-up `Impostazioni`, nella cui barra laterale sinistra sono elencate numerose categorie di impostazioni. Aprire la categoria `Servizio` <span style="font-size: 140%">➊</span> e selezionare la sottocategoria `Tecnologia` <span style="font-size: 140%">➋</span>.
 
-1. Nell'intestazione dell'area principale a destra, appare ora un menu a discesa in cui sono elencati tutti i set di parametri tecnologici definiti. A destra viene mostrato il numero di tecnologie configurate. Fare clic sul pulsante ![Software Herde: Creare un nuovo set di parametri tecnologici](/icons/new.png "Herde: Creare Collegamento Tecnologico") `Creare un nuovo set di parametri tecnologici` ➌.
+1. Nell'intestazione dell'area principale a destra, appare ora un menu a discesa in cui sono elencati tutti i set di parametri tecnologici definiti. A destra viene mostrato il numero di tecnologie configurate. Fare clic sul pulsante ![Software Herde: Creare un nuovo set di parametri tecnologici](/icons/new.png "Herde: Creare Collegamento Tecnologico") `Creare un nuovo set di parametri tecnologici` <span style="font-size: 140%">➌</span>.
 
    ![Software Herde: schermata delle impostazioni per la tecnologia](../screenshots/settings-technology.png "Herde: Impostazioni per la Tecnologia")
 
@@ -38,13 +38,13 @@ Per configurare la tecnologia, procedere come segue:
 
 ## Configurazione: Impostazioni di base
 
-Inizialmente, la scheda `Impostazioni di base` è selezionata nella schermata visualizzata, come mostrato nella figura sottostante. Effettua le regolazioni nelle categorie `Programma esterno` ➊, `Dati animali` ➋, `Località` ➌ e `Uscita` ➍ in base alle condizioni specifiche della tua azienda agricola.
+Inizialmente, la scheda `Impostazioni di base` è selezionata nella schermata visualizzata, come mostrato nella figura sottostante. Effettua le regolazioni nelle categorie `Programma esterno` <span style="font-size: 140%">➊</span>, `Dati animali` <span style="font-size: 140%">➋</span>, `Località` <span style="font-size: 140%">➌</span> e `Uscita` <span style="font-size: 140%">➍</span> in base alle condizioni specifiche della tua azienda agricola.
 
    ![Software Herde: Configurazione delle impostazioni di base](../screenshots/basic-settings.png "Tecnologia VitalControl: Impostazioni di base").
    
-### Categoria `Programma esterno` ➊
+### Categoria `Programma esterno` <span style="font-size: 140%">➊</span>
 
-Per eseguire lo scambio di dati tra VitalControl e Herde Plus, è necessario il software di base [VitalControl Synchronizer](../../vcsynchronizer) come programma di supporto esterno. Per il corretto funzionamento di questo programma, devono essere effettuate alcune regolazioni nella categoria `Programma esterno` ➊.
+Per eseguire lo scambio di dati tra VitalControl e Herde Plus, è necessario il software di base [VitalControl Synchronizer](../../vcsynchronizer) come programma di supporto esterno. Per il corretto funzionamento di questo programma, devono essere effettuate alcune regolazioni nella categoria `Programma esterno` <span style="font-size: 140%">➊</span>.
 
 - **Nome del dispositivo per lo scambio di dati**:  
   Per impostazione predefinita, questo campo è vuoto. Tuttavia, è consigliabile inserire qui il nome del tuo computer. Per farlo, premi l'icona ![Herde Software: Crea nuova accoppiamento tecnologico](/icons/arrow-down.png "Herde: Crea accoppiamento tecnologico") `Freccia giù` all'estremità destra del campo a discesa. Il nome del tuo computer verrà ora determinato e visualizzato per la selezione all'interno della lista a discesa. Una volta che il campo è riempito con il nome del tuo computer e questa impostazione è memorizzata, lo scambio di dati potrà essere avviato solo dal tuo computer d'ora in poi.
@@ -59,9 +59,9 @@ Per eseguire lo scambio di dati tra VitalControl e Herde Plus, è necessario il 
 - **Tecnologia 🡒 Program HerdePlus**:  
   Questo campo di input deve essere compilato con il valore `vc_exp.bat`. Il file batch corrispondente specifica la sequenza delle operazioni durante l'esportazione dei dati.
 
-### Categoria `Dati Animali` ➋
+### Categoria `Dati Animali` <span style="font-size: 140%">➋</span>
 
-Ulteriori regolazioni devono essere effettuate nella categoria 'Dati animali' ➋ per rendere completamente funzionale lo scambio di dati.
+Ulteriori regolazioni devono essere effettuate nella categoria 'Dati animali' <span style="font-size: 140%">➋</span> per rendere completamente funzionale lo scambio di dati.
 
 - **Numero animale**:  
   Questa impostazione determina quale ID ricevono gli animali per la visualizzazione sul dispositivo VitalControl:
@@ -80,11 +80,11 @@ Ulteriori regolazioni devono essere effettuate nella categoria 'Dati animali' �
 - **Età minima per il trasferimento**:  
   Se `0` è inserito come valore per questo campo di input, **tutti gli animali** saranno trasferiti al dispositivo VitalControl, indipendentemente dalla loro età. Un valore maggiore di `0` definisce l'età minima (in giorni) per gli animali da trasferire. Per esempio, se **solo le mucche** devono essere trasferite al dispositivo, un valore di 600 giorni (= 20 mesi) deve essere inserito qui come età minima.
 
-### Categoria `Luoghi` ➌
+### Categoria `Luoghi` <span style="font-size: 140%">➌</span>
 
 Usa questa categoria per escludere gli animali in determinati luoghi dal trasferimento dei dati al dispositivo. Per farlo, rimuovi il segno di spunta dai luoghi per i quali **non** vuoi trasferire gli animali ospitati lì al dispositivo.
 
-### Categoria `Uscita` ➍
+### Categoria `Uscita` <span style="font-size: 140%">➍</span>
 
 Spunta l'opzione 'Uscita in HERDEplus' qui. In questo modo specifichi che gli animali che hanno lasciato il gregge vengono anche eliminati dal dispositivo VitalControl durante la sincronizzazione.
 Spunta anche l'opzione 'Non esiste in magazzino'. In questo modo specifichi che gli animali sul VitalControl che non sono conosciuti dal software `Herde` vengono eliminati dal VitalControl durante la sincronizzazione.

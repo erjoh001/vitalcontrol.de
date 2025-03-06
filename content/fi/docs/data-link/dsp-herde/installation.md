@@ -23,9 +23,9 @@ Tehdäksesi teknologian asetukset, toimi seuraavasti:
 
    ![Ohjelmisto Herde: asetusvalikon käynnistys](../screenshots/settings.png "Herde: kutsu Asetukset")
 
-1. Ponnahdusikkuna `Asetukset` avautuu, jonka vasemmassa sivupalkissa on lueteltu lukuisia asetuskategorioita. Avaa kategoria `Palvelu` ➊ ja valitse alakategoria `Teknologia` ➋.
+1. Ponnahdusikkuna `Asetukset` avautuu, jonka vasemmassa sivupalkissa on lueteltu lukuisia asetuskategorioita. Avaa kategoria `Palvelu` <span style="font-size: 140%">➊</span> ja valitse alakategoria `Teknologia` <span style="font-size: 140%">➋</span>.
 
-1. Oikean pääalueen ylälaidassa ilmestyy nyt pudotusvalikko, jossa on lueteltu kaikki määritellyt teknologiaparametrisetit. Asetettujen teknologioiden määrä näkyy oikealla. Napsauta painiketta ![Ohjelmisto Herde: Luo uusi teknologiaparametrisetti](/icons/new.png "Herde: Luo Teknologiakytkentä") `Luo uusi teknologiaparametrisetti` ➌.
+1. Oikean pääalueen ylälaidassa ilmestyy nyt pudotusvalikko, jossa on lueteltu kaikki määritellyt teknologiaparametrisetit. Asetettujen teknologioiden määrä näkyy oikealla. Napsauta painiketta ![Ohjelmisto Herde: Luo uusi teknologiaparametrisetti](/icons/new.png "Herde: Luo Teknologiakytkentä") `Luo uusi teknologiaparametrisetti` <span style="font-size: 140%">➌</span>.
 
    ![Ohjelmisto Herde: teknologia-asetusten näyttö](../screenshots/settings-technology.png "Herde: Teknologia-asetukset")
 
@@ -37,13 +37,13 @@ Tehdäksesi teknologian asetukset, toimi seuraavasti:
 
 ## Konfigurointi: Perusasetukset
 
-Aluksi välilehti `Perusasetukset` on valittuna näytöllä, kuten alla olevasta kuvasta näkyy. Tee siellä säädöt kategorioissa `Ulkoinen ohjelma` ➊, `Eläintiedot` ➋, `Sijainnit` ➌ ja `Poistuminen` ➍ farmikohtaisten olosuhteidesi mukaan.
+Aluksi välilehti `Perusasetukset` on valittuna näytöllä, kuten alla olevasta kuvasta näkyy. Tee siellä säädöt kategorioissa `Ulkoinen ohjelma` <span style="font-size: 140%">➊</span>, `Eläintiedot` <span style="font-size: 140%">➋</span>, `Sijainnit` <span style="font-size: 140%">➌</span> ja `Poistuminen` <span style="font-size: 140%">➍</span> farmikohtaisten olosuhteidesi mukaan.
 
    ![Software Herde: Perusasetusten konfigurointi](../screenshots/basic-settings.png "Teknologia VitalControl: Perusasetukset").
    
-### Kategoria `Ulkoinen ohjelma` ➊
+### Kategoria `Ulkoinen ohjelma` <span style="font-size: 140%">➊</span>
 
-Jotta VitalControl ja Herde Plus välillä voidaan suorittaa tiedonvaihto, tarvitaan ulkoinen apuohjelma [VitalControl Synchronizer](../../vcsynchronizer). Tämän ohjelman oikean toiminnan varmistamiseksi joitakin säätöjä on tehtävä kategoriassa `Ulkoinen ohjelma` ➊.
+Jotta VitalControl ja Herde Plus välillä voidaan suorittaa tiedonvaihto, tarvitaan ulkoinen apuohjelma [VitalControl Synchronizer](../../vcsynchronizer). Tämän ohjelman oikean toiminnan varmistamiseksi joitakin säätöjä on tehtävä kategoriassa `Ulkoinen ohjelma` <span style="font-size: 140%">➊</span>.
 
 - **Laitteen nimi tiedonvaihtoon**:  
   Oletusarvoisesti tämä kenttä on tyhjä. On kuitenkin suositeltavaa kirjoittaa tähän tietokoneesi nimi. Tee tämä painamalla kuvaketta ![Herde Software: Luo uusi teknologiakytkentä](/icons/arrow-down.png "Herde: Luo teknologiakytkentä") `Nuoli alas` pudotusvalikon oikeassa päässä. Tietokoneesi nimi määritetään nyt ja näytetään valittavaksi pudotusvalikossa. Kun kenttä on täytetty tietokoneesi nimellä ja tämä asetus on tallennettu, tiedonsiirto voidaan tästä lähtien laukaista vain tietokoneeltasi.
@@ -57,9 +57,9 @@ Jotta VitalControl ja Herde Plus välillä voidaan suorittaa tiedonvaihto, tarvi
 - **Teknologia 🡒 Ohjelma HerdePlus**:  
   Tähän syöttökenttään tulee täyttää arvo `vc_exp.bat`. Vastaavanniminen eräajotiedosto määrittelee toimenpiteiden järjestyksen tiedon viennin aikana.
 
-### Kategoria `Eläintiedot` ➋
+### Kategoria `Eläintiedot` <span style="font-size: 140%">➋</span>
 
-Lisäsäätöjä on tehtävä 'Eläintiedot' -kategoriassa ➋, jotta tiedonvaihto toimisi täysin.
+Lisäsäätöjä on tehtävä 'Eläintiedot' -kategoriassa <span style="font-size: 140%">➋</span>, jotta tiedonvaihto toimisi täysin.
 
 - **Eläimen numero**:  
   Tämä asetus määrittää, minkä ID:n eläimet saavat näytölle VitalControl-laitteessa:
@@ -78,11 +78,11 @@ Lisäsäätöjä on tehtävä 'Eläintiedot' -kategoriassa ➋, jotta tiedonvaih
 - **Minimi-ikä siirrolle**:  
   Jos tähän syöttökenttään syötetään arvo `0`, **kaikki eläimet** siirretään VitalControl-laitteeseen, iästä riippumatta. Arvo suurempi kuin `0` määrittelee minimi-iän (päivinä) siirrettäville eläimille. Esimerkiksi, jos **vain lehmät** halutaan siirtää laitteeseen, tulee tähän syöttää minimi-ikä 600 päivää (= 20 kuukautta).
 
-### Kategoria `Sijainnit` ➌
+### Kategoria `Sijainnit` <span style="font-size: 140%">➌</span>
 
 Käytä tätä kategoriaa poistaaksesi tietyt eläimet tiedonsiirrosta laitteelle tietyissä sijainneissa. Poista valinta sijainneista, joista **et** halua siirtää siellä olevia eläimiä laitteelle.
 
-### Kategoria `Lähtevät` ➍
+### Kategoria `Lähtevät` <span style="font-size: 140%">➍</span>
 
 Valitse tässä 'Lähtee HERDEplus'ssa' -vaihtoehto. Näin määrität, että laumasta lähteneet eläimet poistetaan myös VitalControl-laitteesta synkronoinnin aikana.
 Valitse myös 'Ei ole varastossa' -vaihtoehto. Näin määrität, että VitalControl-laitteessa olevat, mutta `Herde`-ohjelmistolle tuntemattomat eläimet poistetaan VitalControl-laitteesta synkronoinnin aikana.

@@ -23,9 +23,9 @@ Za postavljanje tehnologije, postupite na sljedeći način:
 
    ![Softver Herde: pozivanje izbornika postavki](../screenshots/settings.png "Herde: pozivanje Postavki")
 
-1. Otvara se skočni prozor `Postavke`, u čijoj lijevoj bočnoj traci je navedeno mnogo kategorija postavki. Otvorite kategoriju `Servis` ➊ i odaberite potkategoriju `Tehnologija` ➋.
+1. Otvara se skočni prozor `Postavke`, u čijoj lijevoj bočnoj traci je navedeno mnogo kategorija postavki. Otvorite kategoriju `Servis` <span style="font-size: 140%">➊</span> i odaberite potkategoriju `Tehnologija` <span style="font-size: 140%">➋</span>.
 
-1. U zaglavlju glavnog desnog područja sada se pojavljuje padajući izbornik u kojem su navedeni svi definirani skupovi tehnoloških parametara. Desno je prikazan broj postavljenih tehnologija. Kliknite na gumb ![Softver Herde: Stvorite novi skup tehnoloških parametara](/icons/new.png "Herde: Stvorite tehnološku vezu") `Stvorite novi skup tehnoloških parametara` ➌.
+1. U zaglavlju glavnog desnog područja sada se pojavljuje padajući izbornik u kojem su navedeni svi definirani skupovi tehnoloških parametara. Desno je prikazan broj postavljenih tehnologija. Kliknite na gumb ![Softver Herde: Stvorite novi skup tehnoloških parametara](/icons/new.png "Herde: Stvorite tehnološku vezu") `Stvorite novi skup tehnoloških parametara` <span style="font-size: 140%">➌</span>.
 
 ![Software Herde: settings screen for technology](../screenshots/settings-technology.png "Herde: Settings for Technology")
 
@@ -37,13 +37,13 @@ Za postavljanje tehnologije, postupite na sljedeći način:
 
 ## Konfiguracija: Osnovne postavke {#configuration-basic-settings}
 
-U početku je odabrana kartica `Osnovne postavke` na prikazanom ekranu, kao što je prikazano na slici ispod. Napravite prilagodbe u kategorijama `Vanjski program` ➊, `Podaci o životinjama` ➋, `Lokacije` ➌ i `Odlazak` ➍ prema specifičnim uvjetima vaše farme.
+U početku je odabrana kartica `Osnovne postavke` na prikazanom ekranu, kao što je prikazano na slici ispod. Napravite prilagodbe u kategorijama `Vanjski program` <span style="font-size: 140%">➊</span>, `Podaci o životinjama` <span style="font-size: 140%">➋</span>, `Lokacije` <span style="font-size: 140%">➌</span> i `Odlazak` <span style="font-size: 140%">➍</span> prema specifičnim uvjetima vaše farme.
 
    ![Software Herde: Configuration of basic settings](../screenshots/basic-settings.png "Technology VitalControl: Basic settings").
    
-### Kategorija `Vanjski program` ➊ {#category-external-program-}
+### Kategorija `Vanjski program` <span style="font-size: 140%">➊</span> {#category-external-program-}
 
-Kako bi se izvršila razmjena podataka između VitalControl i Herde Plus, potreban je osnovni softver [VitalControl Synchronizer](../../vcsynchronizer) kao vanjski pomoćni program. Za ispravno funkcioniranje ovog programa, potrebno je napraviti neke prilagodbe u kategoriji `Vanjski program` ➊.
+Kako bi se izvršila razmjena podataka između VitalControl i Herde Plus, potreban je osnovni softver [VitalControl Synchronizer](../../vcsynchronizer) kao vanjski pomoćni program. Za ispravno funkcioniranje ovog programa, potrebno je napraviti neke prilagodbe u kategoriji `Vanjski program` <span style="font-size: 140%">➊</span>.
 
 - **Naziv uređaja za razmjenu podataka**:  
   Po defaultu ovo polje je prazno. Međutim, preporuča se unijeti naziv vašeg računala ovdje. Da biste to učinili, pritisnite ikonu ![Herde Software: Create new technology coupling](/icons/arrow-down.png "Herde: Create technology coupling") `Strelica dolje` na desnom kraju padajućeg polja. Naziv vašeg računala će sada biti određen i prikazan za odabir unutar padajućeg popisa. Kada je polje popunjeno nazivom vašeg računala i ova postavka je pohranjena, razmjena podataka može se pokrenuti samo s vašeg računala od sada nadalje.
@@ -58,9 +58,9 @@ Kako bi se izvršila razmjena podataka između VitalControl i Herde Plus, potreb
 - **Tehnologija 🡒 Program HerdePlus**:  
   Ovo polje za unos treba ispuniti vrijednošću `vc_exp.bat`. Odgovarajuća batch datoteka specificira slijed operacija tijekom izvoza podataka.
 
-### Kategorija `Podaci o životinjama` ➋ {#category-animal-data-}
+### Kategorija `Podaci o životinjama` <span style="font-size: 140%">➋</span> {#category-animal-data-}
 
-Daljnje prilagodbe moraju se izvršiti u kategoriji 'Podaci o životinjama' ➋ kako bi razmjena podataka bila potpuno funkcionalna.
+Daljnje prilagodbe moraju se izvršiti u kategoriji 'Podaci o životinjama' <span style="font-size: 140%">➋</span> kako bi razmjena podataka bila potpuno funkcionalna.
 
 - **Broj životinje**:  
   Ova postavka određuje koji ID životinje dobivaju za prikaz na uređaju VitalControl:
@@ -79,11 +79,11 @@ Daljnje prilagodbe moraju se izvršiti u kategoriji 'Podaci o životinjama' ➋ 
 - **Minimalna dob za prijenos**:  
   Ako je kao vrijednost za ovo polje za unos unesen `0`, **sve životinje** će biti prenesene na uređaj VitalControl, bez obzira na njihovu dob. Vrijednost veća od `0` definira minimalnu dob (u danima) za životinje koje će biti prenesene. Na primjer, ako se **samo krave** trebaju prenijeti na uređaj, ovdje se mora unijeti vrijednost od 600 dana (= 20 mjeseci) kao minimalna dob.
 
-### Kategorija `Lokacije` ➌ {#category-locations-}
+### Kategorija `Lokacije` <span style="font-size: 140%">➌</span> {#category-locations-}
 
 Koristite ovu kategoriju kako biste isključili životinje na određenim lokacijama iz prijenosa podataka na uređaj. Da biste to učinili, uklonite kvačicu s lokacije(a) za koje **ne** želite prenijeti životinje smještene tamo na uređaj.
 
-### Kategorija `Odlazak` ➍ {#category-leaving-}
+### Kategorija `Odlazak` <span style="font-size: 140%">➍</span> {#category-leaving-}
 
 Označite opciju 'Odlazak u HERDEplus' ovdje. Na taj način specificirate da se životinje koje su napustile stado također brišu s VitalControl uređaja tijekom sinkronizacije.
 Također označite opciju 'Ne postoji na skladištu'. Na taj način specificirate da se životinje na VitalControl koje nisu poznate softveru `Herde` brišu s VitalControl tijekom sinkronizacije.

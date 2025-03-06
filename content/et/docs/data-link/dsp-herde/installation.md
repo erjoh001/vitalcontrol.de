@@ -23,9 +23,9 @@ Tehnoloogia seadistamiseks toimige järgmiselt:
 
    ![Tarkvara Herde: seadete menüü kutsumine](../screenshots/settings.png "Herde: kutsu Seaded")
 
-1. Avaneb hüpikaken `Seaded`, mille vasakus külgribas on loetletud arvukalt seadistuskategooriaid. Avage kategooria `Service` ➊ ja valige alamkategooria `Tehnoloogia` ➋.
+1. Avaneb hüpikaken `Seaded`, mille vasakus külgribas on loetletud arvukalt seadistuskategooriaid. Avage kategooria `Service` <span style="font-size: 140%">➊</span> ja valige alamkategooria `Tehnoloogia` <span style="font-size: 140%">➋</span>.
 
-1. Parempoolses põhialas ilmub nüüd rippmenüü, kus on loetletud kõik määratletud tehnoloogiaparameetrite komplektid. Seadistatud tehnoloogiate arv kuvatakse paremal. Klõpsake nupul ![Tarkvara Herde: loo uus tehnoloogiaparameetrite komplekt](/icons/new.png "Herde: Loo Tehnoloogia Ühendus") `Loo uus tehnoloogiaparameetrite komplekt` ➌.
+1. Parempoolses põhialas ilmub nüüd rippmenüü, kus on loetletud kõik määratletud tehnoloogiaparameetrite komplektid. Seadistatud tehnoloogiate arv kuvatakse paremal. Klõpsake nupul ![Tarkvara Herde: loo uus tehnoloogiaparameetrite komplekt](/icons/new.png "Herde: Loo Tehnoloogia Ühendus") `Loo uus tehnoloogiaparameetrite komplekt` <span style="font-size: 140%">➌</span>.
 
    ![Tarkvara Herde: tehnoloogia seadete ekraan](../screenshots/settings-technology.png "Herde: Tehnoloogia Seaded")
 
@@ -37,13 +37,13 @@ Tehnoloogia seadistamiseks toimige järgmiselt:
 
 ## Seadistamine: Põhiseaded
 
-Algselt on ekraanil valitud vaheleht `Põhiseaded`, nagu allpool toodud joonisel näha. Tee seal kategooriates `Väline programm` ➊, `Looma andmed` ➋, `Asukohad` ➌ ja `Lahkumine` ➍ oma farmi-spetsiifilised kohandused.
+Algselt on ekraanil valitud vaheleht `Põhiseaded`, nagu allpool toodud joonisel näha. Tee seal kategooriates `Väline programm` <span style="font-size: 140%">➊</span>, `Looma andmed` <span style="font-size: 140%">➋</span>, `Asukohad` <span style="font-size: 140%">➌</span> ja `Lahkumine` <span style="font-size: 140%">➍</span> oma farmi-spetsiifilised kohandused.
 
    ![Tarkvara Herde: Põhiseadete konfigureerimine](../screenshots/basic-settings.png "Tehnoloogia VitalControl: Põhiseaded").
    
-### Kategooria `Väline programm` ➊
+### Kategooria `Väline programm` <span style="font-size: 140%">➊</span>
 
-Andmevahetuse teostamiseks VitalControli ja Herde Plus vahel on vajalik väline abiprogramm [VitalControl Sünkroniseerija](../../vcsynchronizer). Selle programmi õigeks toimimiseks tuleb teha mõned kohandused kategoorias `Väline programm` ➊.
+Andmevahetuse teostamiseks VitalControli ja Herde Plus vahel on vajalik väline abiprogramm [VitalControl Sünkroniseerija](../../vcsynchronizer). Selle programmi õigeks toimimiseks tuleb teha mõned kohandused kategoorias `Väline programm` <span style="font-size: 140%">➊</span>.
 
 - **Seadme nimi andmevahetuseks**:  
   Vaikimisi on see väli tühi. Siiski on soovitatav siia sisestada oma arvuti nimi. Selleks vajuta ikoonil ![Herde tarkvara: Loo uus tehnoloogia sidumine](/icons/arrow-down.png "Herde: Loo tehnoloogia sidumine") `Nool alla` rippmenüü välja paremas otsas. Nüüd määratakse ja kuvatakse teie arvuti nimi valikus rippmenüüs. Kui väli on täidetud teie arvuti nimega ja see seadistus on salvestatud, saab andmevahetust edaspidi käivitada ainult teie arvutist.
@@ -57,9 +57,9 @@ Andmevahetuse teostamiseks VitalControli ja Herde Plus vahel on vajalik väline 
 - **Tehnoloogia 🡒 Programm HerdePlus**:  
   Selle sisestusvälja tuleb täita väärtusega `vc_exp.bat`. Vastavalt nimetatud partii fail määrab andmete eksportimise toimingute järjestuse.
 
-### Kategooria `Loomade andmed` ➋
+### Kategooria `Loomade andmed` <span style="font-size: 140%">➋</span>
 
-Kategoorias 'Loomade andmed' ➋ tuleb teha täiendavaid kohandusi, et andmevahetus toimiks täielikult.
+Kategoorias 'Loomade andmed' <span style="font-size: 140%">➋</span> tuleb teha täiendavaid kohandusi, et andmevahetus toimiks täielikult.
 
 - **Looma number**:  
   See seadistus määrab, millise ID loomad saavad VitalControl seadmel kuvamiseks:
@@ -78,11 +78,11 @@ Kategoorias 'Loomade andmed' ➋ tuleb teha täiendavaid kohandusi, et andmevahe
 - **Minimaalne vanus ülekandmiseks**:  
   Kui selle sisestusvälja väärtuseks on sisestatud `0`, siis **kõik loomad** kantakse üle VitalControl seadmele, olenemata nende vanusest. Väärtus suurem kui `0` määrab loomade ülekandmiseks minimaalse vanuse (päevades). Näiteks, kui **ainult lehmad** tuleb seadmele üle kanda, tuleb siin minimaalse vanusena sisestada 600 päeva (= 20 kuud).
 
-### Kategooria `Asukohad` ➌
+### Kategooria `Asukohad` <span style="font-size: 140%">➌</span>
 
 Kasutage seda kategooriat, et välistada teatud asukohtades olevad loomad andmeedastusest seadmesse. Selleks eemaldage linnuke asukohta(de)st, kus te **ei soovi** seal paiknevaid loomi seadmesse üle kanda.
 
-### Kategooria `Lahkumine` ➍
+### Kategooria `Lahkumine` <span style="font-size: 140%">➍</span>
 
 Märkige siin valik 'Lahkub HERDEplus'is'. Nii määrate, et karjast lahkunud loomad kustutatakse ka VitalControl seadmest sünkroniseerimise ajal.
 Märkige ka valik 'Ei eksisteeri laos'. Nii määrate, et VitalControlis olevad, kuid `Herde` tarkvarale tundmatud loomad kustutatakse VitalControlist sünkroniseerimise käigus.

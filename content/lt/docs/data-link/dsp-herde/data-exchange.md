@@ -33,7 +33,7 @@ Vykdykite toliau nurodytus veiksmus, kad sinchronizuotumėte duomenis tarp `Herd
 
    ![Programinė įranga Herde, duomenų mainai: įspėjimas](../screenshots/warning.png "Duomenų mainai: įspėjimas")
 
-1. Duomenų mainai yra dviejų etapų procesas: Pirmajame etape ➊ gyvūnų duomenys perduodami iš `Herde` programinės įrangos į VitalControl. Antrajame etape ➋, matavimo duomenys, surinkti su VitalControl, perduodami į `Herde` programinę įrangą. Importuotų duomenų rinkinių skaičius (gyvūnai, veršiavimai, įspėjimai ir svoriai) nurodomas iššokančiame lange:
+1. Duomenų mainai yra dviejų etapų procesas: Pirmajame etape <span style="font-size: 140%">➊</span> gyvūnų duomenys perduodami iš `Herde` programinės įrangos į VitalControl. Antrajame etape <span style="font-size: 140%">➋</span>, matavimo duomenys, surinkti su VitalControl, perduodami į `Herde` programinę įrangą. Importuotų duomenų rinkinių skaičius (gyvūnai, veršiavimai, įspėjimai ir svoriai) nurodomas iššokančiame lange:
 
 ![Duomenų mainai su programine įranga Herde: Veiksmų eiga](../screenshots/data-transfer.png "Duomenų mainai: Veiksmų eiga")
 
