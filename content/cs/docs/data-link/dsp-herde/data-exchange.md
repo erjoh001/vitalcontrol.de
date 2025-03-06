@@ -33,7 +33,7 @@ Postupujte podle níže uvedených kroků pro synchronizaci dat mezi softwarem `
 
    ![Software Herde, výměna dat: varování](../screenshots/warning.png "Výměna dat: varování")
 
-1. Výměna dat je dvoukrokový proces: V prvním kroku ➊ jsou data o zvířatech přenesena ze softwaru `Herde` do zařízení VitalControl. Ve druhém kroku ➋ jsou naměřená data shromážděná zařízením VitalControl přenesena do softwaru `Herde`. Počet importovaných datových sad (zvířata, porody, upozornění a váhy) je uveden ve vyskakovacím okně:
+1. Výměna dat je dvoukrokový proces: V prvním kroku <span style="font-size: 140%">➊</span> jsou data o zvířatech přenesena ze softwaru `Herde` do zařízení VitalControl. Ve druhém kroku <span style="font-size: 140%">➋</span> jsou naměřená data shromážděná zařízením VitalControl přenesena do softwaru `Herde`. Počet importovaných datových sad (zvířata, porody, upozornění a váhy) je uveden ve vyskakovacím okně:
 
 ![Výměna dat se softwarem Herde: Postup](../screenshots/data-transfer.png "Výměna dat: Postup")
 

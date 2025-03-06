@@ -33,7 +33,7 @@ Järgige alltoodud samme, et sünkroniseerida andmeid tarkvara `Herde` ja VitalC
 
    ![Tarkvara Herde, andmevahetus: hoiatus](../screenshots/warning.png "Andmevahetus: hoiatus")
 
-1. Andmevahetus on kaheetapiline protsess: Esimeses etapis ➊ kantakse loomaandmed tarkvarast `Herde` VitalControli. Teises etapis ➋ kantakse VitalControliga kogutud mõõtmisandmed tarkvarasse `Herde`. Hüpikaknas on loetletud imporditud andmekogumid (loomad, poegimised, hoiatused ja kaalud):
+1. Andmevahetus on kaheetapiline protsess: Esimeses etapis <span style="font-size: 140%">➊</span> kantakse loomaandmed tarkvarast `Herde` VitalControli. Teises etapis <span style="font-size: 140%">➋</span> kantakse VitalControliga kogutud mõõtmisandmed tarkvarasse `Herde`. Hüpikaknas on loetletud imporditud andmekogumid (loomad, poegimised, hoiatused ja kaalud):
 
 ![Andmete vahetus tarkvaraga Herde: Tegevuste käik](../screenshots/data-transfer.png "Andmete vahetus: Tegevuste käik")
 

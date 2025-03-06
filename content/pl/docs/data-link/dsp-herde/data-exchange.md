@@ -33,7 +33,7 @@ Postępuj zgodnie z poniższymi krokami, aby zsynchronizować dane między oprog
 
    ![Oprogramowanie Herde, wymiana danych: ostrzeżenie](../screenshots/warning.png "Wymiana danych: ostrzeżenie")
 
-1. Wymiana danych jest procesem dwuetapowym: W pierwszym kroku ➊ dane zwierząt są przenoszone z oprogramowania `Herde` do VitalControl. W drugim kroku ➋, dane pomiarowe zebrane za pomocą VitalControl są przenoszone do oprogramowania `Herde`. Liczba zaimportowanych zestawów danych (zwierzęta, porody, alerty i wagi) jest wyświetlana w oknie pop-up:
+1. Wymiana danych jest procesem dwuetapowym: W pierwszym kroku <span style="font-size: 140%">➊</span> dane zwierząt są przenoszone z oprogramowania `Herde` do VitalControl. W drugim kroku <span style="font-size: 140%">➋</span>, dane pomiarowe zebrane za pomocą VitalControl są przenoszone do oprogramowania `Herde`. Liczba zaimportowanych zestawów danych (zwierzęta, porody, alerty i wagi) jest wyświetlana w oknie pop-up:
 
 ![Wymiana danych z oprogramowaniem Herde: Przebieg działań](../screenshots/data-transfer.png "Wymiana danych: Przebieg działań")
 

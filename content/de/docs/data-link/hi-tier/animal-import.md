@@ -49,17 +49,17 @@ Falls Sie in der Liste ihrer Anwendungen den Eintrag `Urban VitalControl` nicht 
 
 1. Es öffnet sich ein DOS-Fenster, der Importvorgang wird gestartet. Es werden mehrere Abfragen gestellt, anhand derer sie Angaben zum Umfang des Tierimports festlegen können. Hierbei werden abgefragt:
 
-   - ➀ **Geschlecht** der zu importierenden Tiere:
+   - <span style="font-size: 140%">➀</span> **Geschlecht** der zu importierenden Tiere:
      Drücken Sie hier `M` oder `W` um nur **m**ännliche bzw. **w**eibliche Tiere zu importieren oder drücken Sie `OK` um alle Tiere zu berücksichtigen)
-   - ➁ **Mindest-** und ➂ **Maximalalter** der zu importierenden Tiere
+   - <span style="font-size: 140%">➁</span> **Mindest-** und <span style="font-size: 140%">➂</span> **Maximalalter** der zu importierenden Tiere
      Geben Sie hier jeweils entweder einen Zahlenwert (in Tagen) an oder drücken Sie `OK` wenn Sie keine Alterbeschränkung wünschen.
-   - ➃ **Zugangsdatum** der zu importierenden Tiere
+   - <span style="font-size: 140%">➃</span> **Zugangsdatum** der zu importierenden Tiere
      Geben Sie hier das Meldedatum der zu importierenden Tiere (im Format `Tag-Monat-Jahr`) an oder drücken Sie `OK` um ohne Datumsbeschränkung fortzufahren.
      <br>
 
    ![DOS-Fenster, Import des Tierbestandes aus HI-Tier](../../vcsynchronizer/images/tierimport/ablauf-import.png "DOS-Fenster, Import Tierbestand")
 
-1. Das Programm stellt nun anhand der im VitalControl hinterlegten [Betriebsnummer]({{< relref "../../einstellungen/farm-number.md" >}}) die Verbindung zur HI-Tier Datenbank her. In diesem Zuge wird ihr ➄ **Passwort** bei HI-Tier abgefragt, tippen Sie dieses im Fenster ein.
+1. Das Programm stellt nun anhand der im VitalControl hinterlegten [Betriebsnummer]({{< relref "../../einstellungen/farm-number.md" >}}) die Verbindung zur HI-Tier Datenbank her. In diesem Zuge wird ihr <span style="font-size: 140%">➄</span> **Passwort** bei HI-Tier abgefragt, tippen Sie dieses im Fenster ein.
 
 1. Nach einer korrekten Passworteingabe werden die zu importierenden Tiere abgerufen und auf das VitalControl-Gerät übertragen.
 

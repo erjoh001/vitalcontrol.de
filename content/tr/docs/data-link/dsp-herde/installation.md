@@ -23,9 +23,9 @@ Teknolojiyi kurmak için şu adımları izleyin:
 
    ![Software Herde: ayarlar menüsünü çağırma](../screenshots/settings.png "Herde: Ayarları Çağır")
 
-1. Sol kenar çubuğunda birçok ayar kategorisinin listelendiği bir açılır pencere `Ayarlar` açılır. `Servis` kategorisini ➊ açın ve `Teknoloji` alt kategorisini ➋ seçin.
+1. Sol kenar çubuğunda birçok ayar kategorisinin listelendiği bir açılır pencere `Ayarlar` açılır. `Servis` kategorisini <span style="font-size: 140%">➊</span> açın ve `Teknoloji` alt kategorisini <span style="font-size: 140%">➋</span> seçin.
 
-1. Sağ ana alanın üst kısmında, tanımlanmış tüm teknoloji parametre setlerinin listelendiği bir açılır menü görünür. Kurulmuş teknolojilerin sayısı sağda gösterilir. ![Software Herde: Yeni teknoloji parametre seti oluştur](/icons/new.png "Herde: Teknoloji Bağlantısı Oluştur") `Yeni teknoloji parametre seti oluştur` ➌ düğmesine tıklayın.
+1. Sağ ana alanın üst kısmında, tanımlanmış tüm teknoloji parametre setlerinin listelendiği bir açılır menü görünür. Kurulmuş teknolojilerin sayısı sağda gösterilir. ![Software Herde: Yeni teknoloji parametre seti oluştur](/icons/new.png "Herde: Teknoloji Bağlantısı Oluştur") `Yeni teknoloji parametre seti oluştur` <span style="font-size: 140%">➌</span> düğmesine tıklayın.
  
 ![Software Herde: settings screen for technology](../screenshots/settings-technology.png "Herde: Settings for Technology")
 
@@ -37,13 +37,13 @@ Teknolojiyi kurmak için şu adımları izleyin:
 
 ## Yapılandırma: Temel ayarlar {#configuration-basic-settings}
 
-Başlangıçta, aşağıdaki şekilde gösterildiği gibi, görüntülenen ekranda `Temel ayarlar` sekmesi seçilir. Çiftliğinize özgü koşullara göre `Harici program` ➊, `Hayvan verileri` ➋, `Konumlar` ➌ ve `Çıkış` ➍ kategorilerinde ayarlamalar yapın.
+Başlangıçta, aşağıdaki şekilde gösterildiği gibi, görüntülenen ekranda `Temel ayarlar` sekmesi seçilir. Çiftliğinize özgü koşullara göre `Harici program` <span style="font-size: 140%">➊</span>, `Hayvan verileri` <span style="font-size: 140%">➋</span>, `Konumlar` <span style="font-size: 140%">➌</span> ve `Çıkış` <span style="font-size: 140%">➍</span> kategorilerinde ayarlamalar yapın.
 
    ![Software Herde: Configuration of basic settings](../screenshots/basic-settings.png "Technology VitalControl: Basic settings").
    
-### Kategori `Harici program` ➊ {#category-external-program-}
+### Kategori `Harici program` <span style="font-size: 140%">➊</span> {#category-external-program-}
 
-VitalControl ve Herde Plus arasında veri alışverişi yapmak için, harici yardımcı program olarak temel yazılım [VitalControl Synchronizer](../../vcsynchronizer) gereklidir. Bu programın doğru çalışması için, `Harici program` ➊ kategorisinde bazı ayarlamalar yapılmalıdır.
+VitalControl ve Herde Plus arasında veri alışverişi yapmak için, harici yardımcı program olarak temel yazılım [VitalControl Synchronizer](../../vcsynchronizer) gereklidir. Bu programın doğru çalışması için, `Harici program` <span style="font-size: 140%">➊</span> kategorisinde bazı ayarlamalar yapılmalıdır.
 
 - **Veri alışverişi için cihaz adı**:  
   Varsayılan olarak bu alan boştur. Ancak, buraya bilgisayarınızın adını girmeniz önerilir. Bunu yapmak için, açılır alanın sağ ucundaki ![Herde Software: Create new technology coupling](/icons/arrow-down.png "Herde: Create technology coupling") `Aşağı ok` simgesine basın. Bilgisayar adınız şimdi belirlenip açılır listede seçim için görüntülenecektir. Alan bilgisayar adınızla doldurulduktan ve bu ayar kaydedildikten sonra, veri alışverişi yalnızca bilgisayarınızdan tetiklenebilir.
@@ -58,9 +58,9 @@ VitalControl ve Herde Plus arasında veri alışverişi yapmak için, harici yar
 - **Technology 🡒  Program HerdePlus**:  
   Bu giriş alanı `vc_exp.bat` değeri ile doldurulmalıdır. Aynı isimdeki toplu iş dosyası, veri ihracatı sırasında işlemlerin sırasını belirtir.
 
-### Kategori `Hayvan Verileri` ➋ {#category-animal-data-}
+### Kategori `Hayvan Verileri` <span style="font-size: 140%">➋</span> {#category-animal-data-}
 
-Veri alışverişinin tam olarak işlevsel olabilmesi için 'Hayvan verileri' ➋ kategorisinde ek ayarlamalar yapılmalıdır.
+Veri alışverişinin tam olarak işlevsel olabilmesi için 'Hayvan verileri' <span style="font-size: 140%">➋</span> kategorisinde ek ayarlamalar yapılmalıdır.
 
 - **Hayvan numarası**:  
   Bu ayar, hayvanların VitalControl cihazında hangi kimliği alacağını belirler:
@@ -79,11 +79,11 @@ Veri alışverişinin tam olarak işlevsel olabilmesi için 'Hayvan verileri' �
 - **Transfer için minimum yaş**:  
   Bu giriş alanına `0` değeri girilirse, **tüm hayvanlar** yaşlarına bakılmaksızın VitalControl cihazına aktarılacaktır. `0`dan büyük bir değer, aktarılacak hayvanlar için minimum yaşı (gün olarak) tanımlar. Örneğin, **sadece ineklerin** cihaza aktarılması gerekiyorsa, burada minimum yaş olarak 600 gün (= 20 ay) girilmelidir.
 
-### Kategori `Konumlar` ➌ {#category-locations-}
+### Kategori `Konumlar` <span style="font-size: 140%">➌</span> {#category-locations-}
 
 Bu kategoriyi, belirli konumlardaki hayvanları cihazınıza veri aktarımından hariç tutmak için kullanın. Bunu yapmak için, hayvanları cihazınıza **aktarmak istemediğiniz** konumların işaretini kaldırın.
 
-### Kategori `Ayrılma` ➍ {#category-leaving-}
+### Kategori `Ayrılma` <span style="font-size: 140%">➍</span> {#category-leaving-}
 
 Burada 'HERDEplus'ta Ayrılma' seçeneğini işaretleyin. Bu şekilde, sürüden ayrılan hayvanların senkronizasyon sırasında VitalControl cihazından da silineceğini belirtmiş olursunuz.
 Ayrıca 'Stokta mevcut değil' seçeneğini de işaretleyin. Bu şekilde, `Herde` yazılımında bilinmeyen hayvanların senkronizasyon sırasında VitalControl cihazından silineceğini belirtmiş olursunuz.

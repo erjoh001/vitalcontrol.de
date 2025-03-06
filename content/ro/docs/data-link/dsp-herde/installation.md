@@ -23,9 +23,9 @@ Pentru a configura tehnologia, procedați după cum urmează:
 
    ![Software Herde: invocarea meniului de setări](../screenshots/settings.png "Herde: invocare Setări")
 
-1. Se deschide o fereastră pop-up `Setări`, în a cărei bara laterală din stânga sunt listate numeroase categorii de setări. Deschideți categoria `Serviciu` ➊ și selectați subcategoria `Tehnologie` ➋.
+1. Se deschide o fereastră pop-up `Setări`, în a cărei bara laterală din stânga sunt listate numeroase categorii de setări. Deschideți categoria `Serviciu` <span style="font-size: 140%">➊</span> și selectați subcategoria `Tehnologie` <span style="font-size: 140%">➋</span>.
 
-1. În antetul zonei principale din dreapta, apare acum un dropdown în care sunt listate toate seturile de parametri de tehnologie definite. Numărul de tehnologii configurate este afișat în dreapta. Faceți clic pe butonul ![Software Herde: Creați un nou set de parametri de tehnologie](/icons/new.png "Herde: Creare Cuplare Tehnologie") `Creați un nou set de parametri de tehnologie` ➌.
+1. În antetul zonei principale din dreapta, apare acum un dropdown în care sunt listate toate seturile de parametri de tehnologie definite. Numărul de tehnologii configurate este afișat în dreapta. Faceți clic pe butonul ![Software Herde: Creați un nou set de parametri de tehnologie](/icons/new.png "Herde: Creare Cuplare Tehnologie") `Creați un nou set de parametri de tehnologie` <span style="font-size: 140%">➌</span>.
 
 ![Software Herde: settings screen for technology](../screenshots/settings-technology.png "Herde: Settings for Technology")
 
@@ -37,13 +37,13 @@ Pentru a configura tehnologia, procedați după cum urmează:
 
 ## Configurare: Setări de bază {#configuration-basic-settings}
 
-Inițial, fila `Setări de bază` este selectată în ecranul afișat, așa cum este prezentat în figura de mai jos. Faceți ajustări acolo în categoriile `Program extern` ➊, `Date despre animale` ➋, `Locații` ➌ și `Părăsire` ➍ în funcție de condițiile specifice fermei dvs.
+Inițial, fila `Setări de bază` este selectată în ecranul afișat, așa cum este prezentat în figura de mai jos. Faceți ajustări acolo în categoriile `Program extern` <span style="font-size: 140%">➊</span>, `Date despre animale` <span style="font-size: 140%">➋</span>, `Locații` <span style="font-size: 140%">➌</span> și `Părăsire` <span style="font-size: 140%">➍</span> în funcție de condițiile specifice fermei dvs.
 
    ![Software Herde: Configuration of basic settings](../screenshots/basic-settings.png "Technology VitalControl: Basic settings").
    
-### Categoria `Program extern` ➊ {#category-external-program-}
+### Categoria `Program extern` <span style="font-size: 140%">➊</span> {#category-external-program-}
 
-Pentru a efectua schimbul de date între VitalControl și Herde Plus, este necesar software-ul de bază [VitalControl Synchronizer](../../vcsynchronizer) ca program ajutător extern. Pentru funcționarea corectă a acestui program, trebuie făcute unele ajustări în categoria `Program extern` ➊.
+Pentru a efectua schimbul de date între VitalControl și Herde Plus, este necesar software-ul de bază [VitalControl Synchronizer](../../vcsynchronizer) ca program ajutător extern. Pentru funcționarea corectă a acestui program, trebuie făcute unele ajustări în categoria `Program extern` <span style="font-size: 140%">➊</span>.
 
 - **Nume dispozitiv pentru schimbul de date**:  
   În mod implicit, acest câmp este gol. Cu toate acestea, se recomandă să introduceți aici numele computerului dvs. Pentru a face acest lucru, apăsați pe pictograma ![Herde Software: Create new technology coupling](/icons/arrow-down.png "Herde: Create technology coupling") `Săgeată în jos` la capătul drept al câmpului drop-down. Numele computerului dvs. va fi acum determinat și afișat pentru selecție în lista drop-down. Odată ce câmpul este completat cu numele computerului dvs. și această setare este salvată, schimbul de date poate fi declanșat doar de pe computerul dvs. de acum înainte.
@@ -58,9 +58,9 @@ Pentru a efectua schimbul de date între VitalControl și Herde Plus, este neces
 - **Technology 🡒 Program HerdePlus**:  
   Acest câmp de intrare trebuie completat cu valoarea `vc_exp.bat`. Fișierul batch corespunzător specifică secvența de operațiuni în timpul exportului de date.
 
-### Category `Animal Data` ➋ {#category-animal-data-}
+### Category `Animal Data` <span style="font-size: 140%">➋</span> {#category-animal-data-}
 
-Trebuie făcute ajustări suplimentare în categoria 'Date despre animale' ➋ pentru a face schimbul de date complet funcțional.
+Trebuie făcute ajustări suplimentare în categoria 'Date despre animale' <span style="font-size: 140%">➋</span> pentru a face schimbul de date complet funcțional.
 
 - **Număr animal**:  
   Această setare determină ce ID primesc animalele pentru afișare pe dispozitivul VitalControl:
@@ -79,11 +79,11 @@ Trebuie făcute ajustări suplimentare în categoria 'Date despre animale' ➋ p
 - **Vârsta minimă pentru transfer**:  
   Dacă `0` este introdus ca valoare pentru acest câmp de intrare, **toate animalele** vor fi transferate pe dispozitivul VitalControl, indiferent de vârsta lor. O valoare mai mare decât `0` definește vârsta minimă (în zile) pentru animalele care urmează să fie transferate. De exemplu, dacă **doar vacile** urmează să fie transferate pe dispozitiv, trebuie introdusă aici o valoare de 600 de zile (= 20 de luni) ca vârstă minimă.
 
-### Categoria `Locații` ➌ {#category-locations-}
+### Categoria `Locații` <span style="font-size: 140%">➌</span> {#category-locations-}
 
 Utilizați această categorie pentru a exclude animalele din anumite locații de la transferul de date către dispozitiv. Pentru a face acest lucru, eliminați bifa de la locația/locațiile pentru care **nu** doriți să transferați animalele găzduite acolo către dispozitiv.
 
-### Categoria `Părăsire` ➍ {#category-leaving-}
+### Categoria `Părăsire` <span style="font-size: 140%">➍</span> {#category-leaving-}
 
 Bifați opțiunea 'Părăsire în HERDEplus' aici. În acest fel, specificați că animalele care au părăsit turma sunt, de asemenea, șterse de pe dispozitivul VitalControl în timpul sincronizării.
 De asemenea, bifați opțiunea 'Nu există în stoc'. În acest fel, specificați că animalele de pe VitalControl care nu sunt cunoscute de software-ul `Herde` sunt șterse de pe VitalControl în timpul sincronizării.

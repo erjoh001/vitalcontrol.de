@@ -33,7 +33,7 @@ Kövesse az alábbi lépéseket az adatok szinkronizálásához a `Herde` szoftv
 
    ![Herde szoftver, adatcsere: figyelmeztetés](../screenshots/warning.png "Adatcsere: figyelmeztetés")
 
-1. Az adatcsere kétlépcsős folyamat: Az első lépésben ➊ az állatadatok átkerülnek a `Herde` szoftverből a VitalControl-ba. A második lépésben ➋ a VitalControl-lal gyűjtött mérési adatok átkerülnek a `Herde` szoftverbe. Az importált adatkészletek (állatok, ellések, figyelmeztetések és súlyok) száma fel van tüntetve a felugró ablakban:
+1. Az adatcsere kétlépcsős folyamat: Az első lépésben <span style="font-size: 140%">➊</span> az állatadatok átkerülnek a `Herde` szoftverből a VitalControl-ba. A második lépésben <span style="font-size: 140%">➋</span> a VitalControl-lal gyűjtött mérési adatok átkerülnek a `Herde` szoftverbe. Az importált adatkészletek (állatok, ellések, figyelmeztetések és súlyok) száma fel van tüntetve a felugró ablakban:
 
 
    ![Adatcsere a Herde szoftverrel: Teendők](../screenshots/data-transfer.png "Adatcsere: Teendők")

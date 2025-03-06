@@ -23,9 +23,9 @@ Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
 
    ![Herde Software: Aufruf des Einstellungsmenüs](../screenshots/einstellungen.png "Herde: Aufruf Einstellungen")
 
-1. Es öffnet sich ein Pop-up betitelt `Einstellungen`, in dessen linker Seitenleiste zahlreiche Einstellungskategorien aufgelistet sind. Öffnen Sie die Kategorie `Service` ➊, und wählen sie die Unterkategorie `Technik` ➋ aus:
+1. Es öffnet sich ein Pop-up betitelt `Einstellungen`, in dessen linker Seitenleiste zahlreiche Einstellungskategorien aufgelistet sind. Öffnen Sie die Kategorie `Service` <span style="font-size: 140%">➊</span>, und wählen sie die Unterkategorie `Technik` <span style="font-size: 140%">➋</span> aus:
 
-1. In der Kopfzeile des rechten Hauptbereichs erscheint jetzt ein Dropdown im welchem die aktuell bereits eingerichteten Technikkopplungen aufgeführt sind. Rechts daneben wird die Anzahl der vorhandenen Kopplungen angegeben. Klicken Sie auf die Schaltfläche ![Herde Software: Neue Technikkopplung anlegen](/icons/new.png "Herde: Technikkopplung anlegen") `Neue Kopplung anlegen` ➌.
+1. In der Kopfzeile des rechten Hauptbereichs erscheint jetzt ein Dropdown im welchem die aktuell bereits eingerichteten Technikkopplungen aufgeführt sind. Rechts daneben wird die Anzahl der vorhandenen Kopplungen angegeben. Klicken Sie auf die Schaltfläche ![Herde Software: Neue Technikkopplung anlegen](/icons/new.png "Herde: Technikkopplung anlegen") `Neue Kopplung anlegen` <span style="font-size: 140%">➌</span>.
 
    ![Herde Software: Einstellungen Technik aufrufen](../screenshots/einstellungen-technik.png "Herde: Einstellungen Technik")
 
@@ -37,13 +37,13 @@ Zur Einrichtung der Kopplung selbst gegen Sie wie folgt vor:
 
 ## Grundeinstellungen konfigurieren
 
-Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` ➊, `Tierdaten` ➋, `Orte` ➌ und Abgang ➍ Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
+Initial ist im angezeigten Bildschirm der Reiter `Grundeinstellungen` ausgewählt, wie die untenstehende Abbildung zeigt. Nehmen Sie dort in den Kategorien `Externes Programm` <span style="font-size: 140%">➊</span>, `Tierdaten` <span style="font-size: 140%">➋</span>, `Orte` <span style="font-size: 140%">➌</span> und Abgang <span style="font-size: 140%">➍</span> Anpassungen gemäß ihren betriebsspezifischen Gegebenheiten vor.
 
    ![Herde Software: Konfiguration Technikkopplung](../screenshots/grundeinstellungen.png "Technikkopplung: Grundeinstellungen").
 
-### Kategorie `Externes Programm` ➊
+### Kategorie `Externes Programm` <span style="font-size: 140%">➊</span>
 
-Für die Durchführung des Datenaustauschs zwischen VitalControl und Herde Plus wird als externes Programm die Basissoftware [VitalControl Synchronizer](../../vcsynchronizer) verwendet. Für die korrekte Funktion dieses Programms müssen in der Kategorie `Externes Programm` ➊ einige Anpassungen vorgenommen werden:
+Für die Durchführung des Datenaustauschs zwischen VitalControl und Herde Plus wird als externes Programm die Basissoftware [VitalControl Synchronizer](../../vcsynchronizer) verwendet. Für die korrekte Funktion dieses Programms müssen in der Kategorie `Externes Programm` <span style="font-size: 140%">➊</span> einige Anpassungen vorgenommen werden:
 
 - **Rechnername Kopplung**:  
   In der Voreinstellung ist dieses Feld leer, es empfiehlt sich, hier den eigenen Rechnernamen einzutragen. Drücken Sie hierzu auf das Symbol `Pfeil nach unten` ![Herde Software: Neue Technikkopplung anlegen](/icons/arrow-down.png "Herde: Technikkopplung anlegen") am rechten Ende des Drop-Down Feldes. Ihr Rechnername wird jetzt ermittelt und zur Auswahl vorgeschlagen. Sofern in diesem Feld ihr Rechnername eingetragen ist, kann der Datenaustausch nur noch von ihrem Rechner aus gestartet werden, die Durchführung des Datenaustauschs wird also an ihren Rechner gebunden.
@@ -57,9 +57,9 @@ Für die Durchführung des Datenaustauschs zwischen VitalControl und Herde Plus 
 - **Technik 🡒  Herde**:  
   Hier bitte als Wert `vc_exp.bat` eintragen. Diese Batchdatei gibt den Ablauf des Datenexports vor.
 
-### Kategorie `Tierdaten` ➋
+### Kategorie `Tierdaten` <span style="font-size: 140%">➋</span>
 
-Für die korrekte Funktion des Datenaustausch müssen in der Kategorie `Tierdaten` ➋ weitere Anpassungen vorgenommen werden:
+Für die korrekte Funktion des Datenaustausch müssen in der Kategorie `Tierdaten` <span style="font-size: 140%">➋</span> weitere Anpassungen vorgenommen werden:
 
 - **Tier-Nummer**:  
   Diese Einstellung legt fest, welche ID die Tiere auf dem VitalControl zur Anzeige erhalten:
@@ -78,11 +78,11 @@ Für die korrekte Funktion des Datenaustausch müssen in der Kategorie `Tierdate
 - **Mindestalter für Übergabe**:  
   Ist hier als Wert `0` eintragen, so werden **alle Tiere** an das VitalControl-Gerät übertragen, unabhängig von ihrem Alter. Ein Wert größer `0` legt das Mindestalter (in Tagen) für die zu übertragenden Tiere fest. Sollen etwa **nur Kühe** auf das Gerät übertragen werden, so ist hier ein Wert von 600 Tagen (= 20 Monate) als Mindestalter einzutragen.
 
-### Kategorie `Orte` ➌
+### Kategorie `Orte` <span style="font-size: 140%">➌</span>
 
 Hier können Sie Tiere an bestimmten Orten von der Übertragung ausschließen. Entfernen Sie dazu das Häkchen von denjenigen Ort(en), für die Sie **keine** Übertragung der dort aufgestallten Tiere wünschen.
 
-### Kategorie `Abgang` ➍
+### Kategorie `Abgang` <span style="font-size: 140%">➍</span>
 
 Setzen Sie hier das das Häkchen bei der Option `In Herde abgegangen`. Dadurch legen Sie fest, dass abgegangene Tiere im Zuge der Synchronisation auch vom VitalControl gelöscht werden.
 Setzen bei der Option `In Herde nicht vorhanden` ebenfalls das Häkchen. Dadurch legen Sie fest, dass Tiere auf dem VitalControl, die der `Herde` Software nicht bekannt sind, im Zuge der Synchronisation vom VitalControl gelöscht werden.

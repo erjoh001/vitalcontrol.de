@@ -23,9 +23,9 @@ Pro nastavení technologie postupujte následovně:
 
    ![Software Herde: vyvolání menu nastavení](../screenshots/settings.png "Herde: vyvolání Nastavení")
 
-1. Otevře se vyskakovací okno `Nastavení`, v jehož levém postranním panelu je uvedeno mnoho kategorií nastavení. Otevřete kategorii `Služba` ➊ a vyberte podkategorii `Technologie` ➋.
+1. Otevře se vyskakovací okno `Nastavení`, v jehož levém postranním panelu je uvedeno mnoho kategorií nastavení. Otevřete kategorii `Služba` <span style="font-size: 140%">➊</span> a vyberte podkategorii `Technologie` <span style="font-size: 140%">➋</span>.
 
-1. V záhlaví hlavní oblasti vpravo se nyní objeví rozbalovací nabídka, ve které jsou uvedeny všechny definované sady parametrů technologie. Počet nastavených technologií je uveden vpravo. Klikněte na tlačítko ![Software Herde: Vytvoření nové sady parametrů technologie](/icons/new.png "Herde: Vytvoření technologického propojení") `Vytvořit novou sadu parametrů technologie` ➌.
+1. V záhlaví hlavní oblasti vpravo se nyní objeví rozbalovací nabídka, ve které jsou uvedeny všechny definované sady parametrů technologie. Počet nastavených technologií je uveden vpravo. Klikněte na tlačítko ![Software Herde: Vytvoření nové sady parametrů technologie](/icons/new.png "Herde: Vytvoření technologického propojení") `Vytvořit novou sadu parametrů technologie` <span style="font-size: 140%">➌</span>.
 
    ![Software Herde: obrazovka nastavení pro technologii](../screenshots/settings-technology.png "Herde: Nastavení pro technologii")
 
@@ -38,13 +38,13 @@ Pro nastavení technologie postupujte následovně:
 
 ## Konfigurace: Základní nastavení
 
-Na začátku je vybrána záložka `Základní nastavení` na zobrazené obrazovce, jak je znázorněno na obrázku níže. Proveďte úpravy v kategoriích `Externí program` ➊, `Údaje o zvířatech` ➋, `Lokality` ➌ a `Odchod` ➍ podle specifických podmínek vaší farmy.
+Na začátku je vybrána záložka `Základní nastavení` na zobrazené obrazovce, jak je znázorněno na obrázku níže. Proveďte úpravy v kategoriích `Externí program` <span style="font-size: 140%">➊</span>, `Údaje o zvířatech` <span style="font-size: 140%">➋</span>, `Lokality` <span style="font-size: 140%">➌</span> a `Odchod` <span style="font-size: 140%">➍</span> podle specifických podmínek vaší farmy.
 
    ![Software Herde: Konfigurace základních nastavení](../screenshots/basic-settings.png "Technologie VitalControl: Základní nastavení").
    
-### Kategorie `Externí program` ➊
+### Kategorie `Externí program` <span style="font-size: 140%">➊</span>
 
-Pro provádění výměny dat mezi VitalControl a Herde Plus je potřeba základní software [VitalControl Synchronizer](../../vcsynchronizer) jako externí pomocný program. Pro správnou funkci tohoto programu je třeba provést některé úpravy v kategorii `Externí program` ➊.
+Pro provádění výměny dat mezi VitalControl a Herde Plus je potřeba základní software [VitalControl Synchronizer](../../vcsynchronizer) jako externí pomocný program. Pro správnou funkci tohoto programu je třeba provést některé úpravy v kategorii `Externí program` <span style="font-size: 140%">➊</span>.
 
 - **Název zařízení pro výměnu dat**:  
   Ve výchozím nastavení je toto pole prázdné. Doporučuje se však zde zadat název vašeho počítače. Chcete-li to provést, stiskněte ikonu ![Herde Software: Vytvořit nové propojení technologie](/icons/arrow-down.png "Herde: Vytvořit propojení technologie") `Šipka dolů` na pravém konci rozbalovacího pole. Nyní bude určen a zobrazen název vašeho počítače pro výběr v rozbalovacím seznamu. Jakmile je pole vyplněno názvem vašeho počítače a toto nastavení je uloženo, výměna dat může být od této chvíle spuštěna pouze z vašeho počítače.
@@ -59,9 +59,9 @@ Pro provádění výměny dat mezi VitalControl a Herde Plus je potřeba základ
 - **Technologie 🡒 Program HerdePlus**:  
   Toto vstupní pole musí být vyplněno hodnotou `vc_exp.bat`. Odpovídající dávkový soubor určuje sled operací během exportu dat.
 
-### Kategorie `Údaje o zvířatech` ➋
+### Kategorie `Údaje o zvířatech` <span style="font-size: 140%">➋</span>
 
-Další úpravy je třeba provést v kategorii 'Údaje o zvířatech' ➋, aby byl výměna dat plně funkční.
+Další úpravy je třeba provést v kategorii 'Údaje o zvířatech' <span style="font-size: 140%">➋</span>, aby byl výměna dat plně funkční.
 
 - **Číslo zvířete**:  
   Toto nastavení určuje, jaké ID zvířata obdrží pro zobrazení na zařízení VitalControl:
@@ -80,11 +80,11 @@ Další úpravy je třeba provést v kategorii 'Údaje o zvířatech' ➋, aby b
 - **Minimální věk pro přenos**:  
   Pokud je jako hodnota tohoto vstupního pole zadáno `0`, **všechna zvířata** budou přenesena na zařízení VitalControl, bez ohledu na jejich věk. Hodnota větší než `0` definuje minimální věk (ve dnech) pro přenos zvířat. Například pokud mají být na zařízení přeneseny **pouze krávy**, musí být zde jako minimální věk zadána hodnota 600 dní (= 20 měsíců).
 
-### Kategorie `Lokality` ➌
+### Kategorie `Lokality` <span style="font-size: 140%">➌</span>
 
 Použijte tuto kategorii k vyloučení zvířat na určitých lokalitách z přenosu dat do zařízení. Chcete-li to provést, odstraňte zaškrtnutí u lokalit, pro které **nechcete** přenášet zvířata umístěná tam do zařízení.
 
-### Kategorie `Odchod` ➍
+### Kategorie `Odchod` <span style="font-size: 140%">➍</span>
 
 Zaškrtněte zde možnost 'Odchod v HERDEplus'. Tímto způsobem určíte, že zvířata, která opustila stádo, jsou také smazána ze zařízení VitalControl během synchronizace.
 Také zaškrtněte možnost 'Neexistuje na skladě'. Tímto způsobem určíte, že zvířata na zařízení VitalControl, která nejsou známa softwaru `Herde`, jsou během synchronizace smazána z VitalControl.

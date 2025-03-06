@@ -23,9 +23,9 @@ Norėdami nustatyti technologiją, atlikite šiuos veiksmus:
 
    ![Programinė įranga Herde: nustatymų meniu iškvietimas](../screenshots/settings.png "Herde: iškviesti Nustatymus")
 
-1. Atsidaro iššokantis langas `Nustatymai`, kurio kairiajame šoniniame meniu išvardytos daugybė nustatymų kategorijų. Atidarykite kategoriją `Paslauga` ➊ ir pasirinkite subkategoriją `Technologija` ➋.
+1. Atsidaro iššokantis langas `Nustatymai`, kurio kairiajame šoniniame meniu išvardytos daugybė nustatymų kategorijų. Atidarykite kategoriją `Paslauga` <span style="font-size: 140%">➊</span> ir pasirinkite subkategoriją `Technologija` <span style="font-size: 140%">➋</span>.
 
-1. Dešinės pagrindinės srities antraštėje dabar pasirodo išskleidžiamasis sąrašas, kuriame išvardyti visi apibrėžti technologijos parametrų rinkiniai. Dešinėje rodomas nustatytų technologijų skaičius. Spustelėkite mygtuką ![Programinė įranga Herde: Sukurti naują technologijos parametrų rinkinį](/icons/new.png "Herde: sukurti technologijos sujungimą") `Sukurti naują technologijos parametrų rinkinį` ➌.
+1. Dešinės pagrindinės srities antraštėje dabar pasirodo išskleidžiamasis sąrašas, kuriame išvardyti visi apibrėžti technologijos parametrų rinkiniai. Dešinėje rodomas nustatytų technologijų skaičius. Spustelėkite mygtuką ![Programinė įranga Herde: Sukurti naują technologijos parametrų rinkinį](/icons/new.png "Herde: sukurti technologijos sujungimą") `Sukurti naują technologijos parametrų rinkinį` <span style="font-size: 140%">➌</span>.
 
 ![Software Herde: settings screen for technology](../screenshots/settings-technology.png "Herde: Settings for Technology")
 
@@ -37,13 +37,13 @@ Norėdami nustatyti technologiją, atlikite šiuos veiksmus:
 
 ## Konfigūracija: Pagrindiniai nustatymai {#configuration-basic-settings}
 
-Iš pradžių ekrane pasirinkta `Pagrindiniai nustatymai` kortelė, kaip parodyta žemiau esančiame paveikslėlyje. Atlikite ten koregavimus kategorijose `Išorinė programa` ➊, `Gyvūnų duomenys` ➋, `Vietos` ➌ ir `Išėjimas` ➍ pagal jūsų ūkio specifines sąlygas.
+Iš pradžių ekrane pasirinkta `Pagrindiniai nustatymai` kortelė, kaip parodyta žemiau esančiame paveikslėlyje. Atlikite ten koregavimus kategorijose `Išorinė programa` <span style="font-size: 140%">➊</span>, `Gyvūnų duomenys` <span style="font-size: 140%">➋</span>, `Vietos` <span style="font-size: 140%">➌</span> ir `Išėjimas` <span style="font-size: 140%">➍</span> pagal jūsų ūkio specifines sąlygas.
 
    ![Software Herde: Configuration of basic settings](../screenshots/basic-settings.png "Technology VitalControl: Basic settings").
    
-### Kategorija `Išorinė programa` ➊ {#category-external-program-}
+### Kategorija `Išorinė programa` <span style="font-size: 140%">➊</span> {#category-external-program-}
 
-Norint atlikti duomenų mainus tarp VitalControl ir Herde Plus, reikalinga pagrindinė programinė įranga [VitalControl Synchronizer](../../vcsynchronizer) kaip išorinė pagalbinė programa. Kad ši programa veiktų tinkamai, reikia atlikti tam tikrus koregavimus kategorijoje `Išorinė programa` ➊.
+Norint atlikti duomenų mainus tarp VitalControl ir Herde Plus, reikalinga pagrindinė programinė įranga [VitalControl Synchronizer](../../vcsynchronizer) kaip išorinė pagalbinė programa. Kad ši programa veiktų tinkamai, reikia atlikti tam tikrus koregavimus kategorijoje `Išorinė programa` <span style="font-size: 140%">➊</span>.
 
 - **Įrenginio pavadinimas duomenų mainams**:  
   Pagal numatytuosius nustatymus šis laukas yra tuščias. Tačiau rekomenduojama čia įvesti jūsų kompiuterio pavadinimą. Norėdami tai padaryti, paspauskite piktogramą ![Herde Software: Create new technology coupling](/icons/arrow-down.png "Herde: Create technology coupling") `Rodyklė žemyn` dešiniajame išskleidžiamojo lauko gale. Dabar bus nustatytas ir rodomas jūsų kompiuterio pavadinimas pasirinkimui iš išskleidžiamojo sąrašo. Kai laukas bus užpildytas jūsų kompiuterio pavadinimu ir šis nustatymas bus išsaugotas, duomenų mainai nuo šiol galės būti inicijuojami tik iš jūsų kompiuterio.
@@ -57,9 +57,9 @@ Norint atlikti duomenų mainus tarp VitalControl ir Herde Plus, reikalinga pagri
 - **Technology 🡒 Program HerdePlus**:  
   Šis įvesties laukas turi būti užpildytas verte `vc_exp.bat`. Atitinkamai pavadintas paketinis failas nurodo operacijų seką duomenų eksporto metu.
 
-### Kategorija `Gyvūnų duomenys` ➋ {#category-animal-data-}
+### Kategorija `Gyvūnų duomenys` <span style="font-size: 140%">➋</span> {#category-animal-data-}
 
-Papildomi pakeitimai turi būti atlikti kategorijoje 'Gyvūnų duomenys' ➋, kad duomenų mainai būtų visiškai funkcionalūs.
+Papildomi pakeitimai turi būti atlikti kategorijoje 'Gyvūnų duomenys' <span style="font-size: 140%">➋</span>, kad duomenų mainai būtų visiškai funkcionalūs.
 
 - **Gyvūno numeris**:  
   Šis nustatymas lemia, kokį ID gyvūnai gauna rodymui VitalControl įrenginyje:
@@ -78,11 +78,11 @@ Papildomi pakeitimai turi būti atlikti kategorijoje 'Gyvūnų duomenys' ➋, ka
 - **Minimalus amžius perdavimui**:  
   Jei šiame įvesties lauke įvedama vertė `0`, **visi gyvūnai** bus perduoti į VitalControl įrenginį, nepriklausomai nuo jų amžiaus. Vertė, didesnė nei `0`, apibrėžia minimalų amžių (dienomis) gyvūnams, kurie bus perduoti. Pavyzdžiui, jei įrenginiui turi būti perduotos **tik karvės**, čia kaip minimalus amžius turi būti įvesta 600 dienų (= 20 mėnesių) vertė.
 
-### Kategorija `Vietos` ➌ {#category-locations-}
+### Kategorija `Vietos` <span style="font-size: 140%">➌</span> {#category-locations-}
 
 Naudokite šią kategoriją, kad išskirtumėte gyvūnus tam tikrose vietose iš duomenų perdavimo į įrenginį. Norėdami tai padaryti, pašalinkite žymėjimą iš vietos (-ų), kuriose **nenorite**, kad ten laikomi gyvūnai būtų perduoti į įrenginį.
 
-### Kategorija `Išvykimas` ➍ {#category-leaving-}
+### Kategorija `Išvykimas` <span style="font-size: 140%">➍</span> {#category-leaving-}
 
 Pažymėkite parinktį 'Išvykimas HERDEplus'. Tokiu būdu nurodote, kad gyvūnai, kurie paliko bandą, taip pat bus ištrinti iš VitalControl įrenginio sinchronizacijos metu.
 Taip pat pažymėkite parinktį 'Nėra sandėlyje'. Tokiu būdu nurodote, kad gyvūnai, esantys VitalControl, kurie nėra žinomi `Herde` programinei įrangai, bus ištrinti iš VitalControl sinchronizacijos metu.

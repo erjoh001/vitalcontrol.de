@@ -33,7 +33,7 @@ Aşağıdaki adımları izleyerek `Herde` yazılımı ile VitalControl cihazı a
 
    ![Herde Yazılımı, veri alışverişi: uyarı](../screenshots/warning.png "Veri alışverişi: uyarı")
 
-1. Veri alışverişi iki aşamalı bir süreçtir: İlk adımda ➊ hayvan verileri `Herde` yazılımından VitalControl'e aktarılır. İkinci adımda ➋, VitalControl ile toplanan ölçüm verileri `Herde` yazılımına aktarılır. İçe aktarılan veri setlerinin (hayvanlar, doğumlar, uyarılar ve ağırlıklar) sayısı açılır pencerede listelenir:
+1. Veri alışverişi iki aşamalı bir süreçtir: İlk adımda <span style="font-size: 140%">➊</span> hayvan verileri `Herde` yazılımından VitalControl'e aktarılır. İkinci adımda <span style="font-size: 140%">➋</span>, VitalControl ile toplanan ölçüm verileri `Herde` yazılımına aktarılır. İçe aktarılan veri setlerinin (hayvanlar, doğumlar, uyarılar ve ağırlıklar) sayısı açılır pencerede listelenir:
 
 ![Yazılım Herde ile veri alışverişi: İşlem adımları](../screenshots/data-transfer.png "Veri alışverişi: İşlem adımları")
 

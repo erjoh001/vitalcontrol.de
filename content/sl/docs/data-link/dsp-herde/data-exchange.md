@@ -33,7 +33,7 @@ Sledite spodnjim korakom za sinhronizacijo podatkov med programsko opremo `Herde
 
    ![Programska oprema Herde, izmenjava podatkov: opozorilo](../screenshots/warning.png "Izmenjava podatkov: opozorilo")
 
-1. Izmenjava podatkov je dvostopenjski proces: V prvem koraku ➊ se podatki o živalih prenesejo iz programske opreme `Herde` na VitalControl. V drugem koraku ➋ se merilni podatki, zbrani z VitalControl, prenesejo v programsko opremo `Herde`. Število uvoženih podatkovnih nizov (živali, telitve, opozorila in teže) je navedeno v pojavnem oknu:
+1. Izmenjava podatkov je dvostopenjski proces: V prvem koraku <span style="font-size: 140%">➊</span> se podatki o živalih prenesejo iz programske opreme `Herde` na VitalControl. V drugem koraku <span style="font-size: 140%">➋</span> se merilni podatki, zbrani z VitalControl, prenesejo v programsko opremo `Herde`. Število uvoženih podatkovnih nizov (živali, telitve, opozorila in teže) je navedeno v pojavnem oknu:
 
 ![Izmenjava podatkov s programsko opremo Herde: Potek dejanj](../screenshots/data-transfer.png "Izmenjava podatkov: Potek dejanj")
 

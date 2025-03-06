@@ -23,9 +23,9 @@ För att ställa in teknologin, gör följande:
 
    ![Software Herde: öppning av inställningsmenyn](../screenshots/settings.png "Herde: öppna Inställningar")
 
-1. Ett popup-fönster `Inställningar` öppnas, i vars vänstra sidofält många inställningskategorier är listade. Öppna kategorin `Service` ➊ och välj underkategorin `Teknologi` ➋.
+1. Ett popup-fönster `Inställningar` öppnas, i vars vänstra sidofält många inställningskategorier är listade. Öppna kategorin `Service` <span style="font-size: 140%">➊</span> och välj underkategorin `Teknologi` <span style="font-size: 140%">➋</span>.
 
-1. I rubriken av huvudområdet till höger visas nu en dropdown där alla definierade teknologiparameteruppsättningar är listade. Antalet uppsatta teknologier visas till höger. Klicka på knappen ![Software Herde: Skapa ny teknologiparameteruppsättning](/icons/new.png "Herde: Skapa Teknologikoppling") `Skapa ny teknologiparameteruppsättning` ➌.
+1. I rubriken av huvudområdet till höger visas nu en dropdown där alla definierade teknologiparameteruppsättningar är listade. Antalet uppsatta teknologier visas till höger. Klicka på knappen ![Software Herde: Skapa ny teknologiparameteruppsättning](/icons/new.png "Herde: Skapa Teknologikoppling") `Skapa ny teknologiparameteruppsättning` <span style="font-size: 140%">➌</span>.
 
 ![Software Herde: inställningsskärm för teknologi](../screenshots/settings-technology.png "Herde: Inställningar för Teknologi")
 
@@ -37,13 +37,13 @@ För att ställa in teknologin, gör följande:
 
 ## Konfiguration: Grundinställningar {#configuration-basic-settings}
 
-Inledningsvis är fliken `Grundinställningar` vald på den visade skärmen, som visas i figuren nedan. Gör justeringar där i kategorierna `Externt program` ➊, `Djurdata` ➋, `Platser` ➌ och `Lämnar` ➍ enligt dina gårdsspecifika förhållanden.
+Inledningsvis är fliken `Grundinställningar` vald på den visade skärmen, som visas i figuren nedan. Gör justeringar där i kategorierna `Externt program` <span style="font-size: 140%">➊</span>, `Djurdata` <span style="font-size: 140%">➋</span>, `Platser` <span style="font-size: 140%">➌</span> och `Lämnar` <span style="font-size: 140%">➍</span> enligt dina gårdsspecifika förhållanden.
 
    ![Software Herde: Konfiguration av grundinställningar](../screenshots/basic-settings.png "Teknologi VitalControl: Grundinställningar").
    
-### Kategori `Externt program` ➊ {#category-external-program-}
+### Kategori `Externt program` <span style="font-size: 140%">➊</span> {#category-external-program-}
 
-För att utföra datautbyte mellan VitalControl och Herde Plus behövs grundprogramvaran [VitalControl Synchronizer](../../vcsynchronizer) som externt hjälpprogram. För att detta program ska fungera korrekt måste vissa justeringar göras i kategorin `Externt program` ➊.
+För att utföra datautbyte mellan VitalControl och Herde Plus behövs grundprogramvaran [VitalControl Synchronizer](../../vcsynchronizer) som externt hjälpprogram. För att detta program ska fungera korrekt måste vissa justeringar göras i kategorin `Externt program` <span style="font-size: 140%">➊</span>.
 
 - **Enhetsnamn för datautbyte**:  
   Som standard är detta fält tomt. Det rekommenderas dock att ange namnet på din dator här. För att göra detta, tryck på ikonen ![Herde Software: Skapa ny teknologikoppling](/icons/arrow-down.png "Herde: Skapa teknologikoppling") `Pil nedåt` längst till höger i rullgardinsfältet. Ditt datornamn kommer nu att bestämmas och visas för val i rullgardinslistan. När fältet är fyllt med ditt datornamn och denna inställning är sparad, kan datautbyte endast utlösas från din dator hädanefter.
@@ -58,9 +58,9 @@ För att utföra datautbyte mellan VitalControl och Herde Plus behövs grundprog
 - **Technology 🡒 Program HerdePlus**:  
   Detta inmatningsfält måste fyllas i med värdet `vc_exp.bat`. Den motsvarande batchfilen specificerar sekvensen av operationer under dataexporten.
 
-### Kategori `Djurdata` ➋ {#category-animal-data-}
+### Kategori `Djurdata` <span style="font-size: 140%">➋</span> {#category-animal-data-}
 
-Ytterligare justeringar måste göras i kategorin 'Djurdata' ➋ för att få datautbytet fullt fungerande.
+Ytterligare justeringar måste göras i kategorin 'Djurdata' <span style="font-size: 140%">➋</span> för att få datautbytet fullt fungerande.
 
 - **Djurnummer**:  
   Denna inställning bestämmer vilket ID djuren får för visning på VitalControl-enheten:
@@ -79,11 +79,11 @@ Ytterligare justeringar måste göras i kategorin 'Djurdata' ➋ för att få da
 - **Minimiålder för överföring**:  
   Om `0` anges som värde för detta inmatningsfält, kommer **alla djur** att överföras till VitalControl-enheten, oavsett deras ålder. Ett värde större än `0` definierar minimiåldern (i dagar) för djuren som ska överföras. Till exempel, om **endast kor** ska överföras till enheten, måste ett värde på 600 dagar (= 20 månader) anges här som minimiålder.
 
-### Kategori `Platser` ➌ {#category-locations-}
+### Kategori `Platser` <span style="font-size: 140%">➌</span> {#category-locations-}
 
 Använd denna kategori för att exkludera djur på vissa platser från dataöverföring till enheten. För att göra detta, ta bort markeringen från platsen/platsena för vilka du **inte** vill överföra djuren som finns där till enheten.
 
-### Kategori `Lämnar` ➍ {#category-leaving-}
+### Kategori `Lämnar` <span style="font-size: 140%">➍</span> {#category-leaving-}
 
 Markera alternativet 'Lämnar i HERDEplus' här. På så sätt specificerar du att djur som lämnat flocken också tas bort från VitalControl-enheten under synkronisering.
 Markera också alternativet 'Finns inte i lager'. På så sätt specificerar du att djur på VitalControl som inte är kända av `Herde`-programvaran tas bort från VitalControl under synkronisering.

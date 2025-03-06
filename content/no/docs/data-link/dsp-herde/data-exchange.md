@@ -33,7 +33,7 @@ Følg trinnene nedenfor for å synkronisere data mellom programvaren `Herde` og 
 
    ![Programvare Herde, datautveksling: advarsel](../screenshots/warning.png "Datautveksling: advarsel")
 
-1. Datautveksling er en to-trinns prosess: I første trinn ➊ overføres dyredata fra programvaren `Herde` til VitalControl. I andre trinn ➋ overføres måledata samlet med VitalControl til programvaren `Herde`. Antall importerte datasett (dyr, kalvinger, varsler og vekter) er oppført i pop-up-vinduet:
+1. Datautveksling er en to-trinns prosess: I første trinn <span style="font-size: 140%">➊</span> overføres dyredata fra programvaren `Herde` til VitalControl. I andre trinn <span style="font-size: 140%">➋</span> overføres måledata samlet med VitalControl til programvaren `Herde`. Antall importerte datasett (dyr, kalvinger, varsler og vekter) er oppført i pop-up-vinduet:
 
 ![Data exchange with software Herde: Course of actions](../screenshots/data-transfer.png "Data exchange: Course of actions")
 

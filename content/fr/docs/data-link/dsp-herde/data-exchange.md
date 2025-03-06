@@ -33,7 +33,7 @@ Suivez les étapes ci-dessous pour synchroniser les données entre le logiciel `
 
    ![Logiciel Herde, échange de données : avertissement](../screenshots/warning.png "Échange de données : avertissement")
 
-1. L'échange de données est un processus en deux étapes : Dans la première étape ➊ les données des animaux sont transférées du logiciel `Herde` vers le VitalControl. Dans la deuxième étape ➋, les données de mesure collectées avec le VitalControl sont transférées dans le logiciel `Herde`. Le nombre de jeux de données importés (animaux, vêlages, alertes et poids) est listé dans la fenêtre pop-up :
+1. L'échange de données est un processus en deux étapes : Dans la première étape <span style="font-size: 140%">➊</span> les données des animaux sont transférées du logiciel `Herde` vers le VitalControl. Dans la deuxième étape <span style="font-size: 140%">➋</span>, les données de mesure collectées avec le VitalControl sont transférées dans le logiciel `Herde`. Le nombre de jeux de données importés (animaux, vêlages, alertes et poids) est listé dans la fenêtre pop-up :
 
 ![Échange de données avec le logiciel Herde : Déroulement des actions](../screenshots/data-transfer.png "Échange de données : Déroulement des actions")
 

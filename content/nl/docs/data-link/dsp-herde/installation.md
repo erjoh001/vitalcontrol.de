@@ -23,9 +23,9 @@ Om de technologie in te stellen, ga als volgt te werk:
 
    ![Software Herde: oproepen van instellingenmenu](../screenshots/settings.png "Herde: Instellingen oproepen")
 
-1. Een pop-upvenster `Instellingen` opent, waarin aan de linkerzijbalk talrijke instellingscategorieën worden vermeld. Open de categorie `Service` ➊ en selecteer de subcategorie `Technologie` ➋.
+1. Een pop-upvenster `Instellingen` opent, waarin aan de linkerzijbalk talrijke instellingscategorieën worden vermeld. Open de categorie `Service` <span style="font-size: 140%">➊</span> en selecteer de subcategorie `Technologie` <span style="font-size: 140%">➋</span>.
 
-1. In de kop van het hoofdgebied aan de rechterkant verschijnt nu een dropdown waarin alle gedefinieerde technologieparametersets worden vermeld. Het aantal ingestelde technologieën wordt rechts weergegeven. Klik op de knop ![Software Herde: Maak nieuwe technologieparameterset](/icons/new.png "Herde: Technologiekoppeling maken") `Maak nieuwe technologieparameterset` ➌.
+1. In de kop van het hoofdgebied aan de rechterkant verschijnt nu een dropdown waarin alle gedefinieerde technologieparametersets worden vermeld. Het aantal ingestelde technologieën wordt rechts weergegeven. Klik op de knop ![Software Herde: Maak nieuwe technologieparameterset](/icons/new.png "Herde: Technologiekoppeling maken") `Maak nieuwe technologieparameterset` <span style="font-size: 140%">➌</span>.
 
    ![Software Herde: instellingenscherm voor technologie](../screenshots/settings-technology.png "Herde: Instellingen voor Technologie")
 
@@ -37,13 +37,13 @@ Om de technologie in te stellen, ga als volgt te werk:
 
 ## Configuratie: Basisinstellingen
 
-Aanvankelijk is het tabblad `Basisinstellingen` geselecteerd op het weergegeven scherm, zoals hieronder in de figuur getoond. Maak daar aanpassingen in de categorieën `Extern programma` ➊, `Diergegevens` ➋, `Locaties` ➌ en `Vertrek` ➍ volgens de specifieke omstandigheden van uw boerderij.
+Aanvankelijk is het tabblad `Basisinstellingen` geselecteerd op het weergegeven scherm, zoals hieronder in de figuur getoond. Maak daar aanpassingen in de categorieën `Extern programma` <span style="font-size: 140%">➊</span>, `Diergegevens` <span style="font-size: 140%">➋</span>, `Locaties` <span style="font-size: 140%">➌</span> en `Vertrek` <span style="font-size: 140%">➍</span> volgens de specifieke omstandigheden van uw boerderij.
 
    ![Software Herde: Configuratie van basisinstellingen](../screenshots/basic-settings.png "Technologie VitalControl: Basisinstellingen").
    
-### Categorie `Extern programma` ➊
+### Categorie `Extern programma` <span style="font-size: 140%">➊</span>
 
-Om gegevensuitwisseling tussen VitalControl en Herde Plus mogelijk te maken, is basissoftware [VitalControl Synchronizer](../../vcsynchronizer) nodig als extern hulpprogramma. Voor de juiste werking van dit programma moeten enkele aanpassingen worden gemaakt in de categorie `Extern programma` ➊.
+Om gegevensuitwisseling tussen VitalControl en Herde Plus mogelijk te maken, is basissoftware [VitalControl Synchronizer](../../vcsynchronizer) nodig als extern hulpprogramma. Voor de juiste werking van dit programma moeten enkele aanpassingen worden gemaakt in de categorie `Extern programma` <span style="font-size: 140%">➊</span>.
 
 - **Apparaatnaam voor gegevensuitwisseling**:  
   Standaard is dit veld leeg. Het wordt echter aanbevolen om hier de naam van uw computer in te voeren. Om dit te doen, drukt u op het pictogram ![Herde Software: Maak nieuwe technologie koppeling](/icons/arrow-down.png "Herde: Maak technologie koppeling") `Pijl omlaag` aan het rechter uiteinde van het dropdown-veld. De naam van uw computer wordt nu bepaald en weergegeven voor selectie in de dropdown-lijst. Zodra het veld is ingevuld met uw computernaam en deze instelling is opgeslagen, kan gegevensuitwisseling vanaf nu alleen vanaf uw computer worden geactiveerd.
@@ -57,9 +57,9 @@ Om gegevensuitwisseling tussen VitalControl en Herde Plus mogelijk te maken, is 
 - **Technologie 🡒 Programma HerdePlus**:  
   Dit invoerveld moet worden ingevuld met de waarde `vc_exp.bat`. Het overeenkomstig genoemde batchbestand specificeert de volgorde van handelingen tijdens de gegevensexport.
 
-### Categorie `Diergegevens` ➋
+### Categorie `Diergegevens` <span style="font-size: 140%">➋</span>
 
-Verdere aanpassingen moeten worden gemaakt in de categorie 'Diergegevens' ➋ om de gegevensuitwisseling volledig functioneel te maken.
+Verdere aanpassingen moeten worden gemaakt in de categorie 'Diergegevens' <span style="font-size: 140%">➋</span> om de gegevensuitwisseling volledig functioneel te maken.
 
 - **Dier nummer**:  
   Deze instelling bepaalt welke ID dieren ontvangen voor weergave op het VitalControl-apparaat:
@@ -78,11 +78,11 @@ Verdere aanpassingen moeten worden gemaakt in de categorie 'Diergegevens' ➋ om
 - **Minimale leeftijd voor overdracht**:  
   Als `0` wordt ingevoerd als waarde voor dit invoerveld, worden **alle dieren** overgedragen naar het VitalControl-apparaat, ongeacht hun leeftijd. Een waarde groter dan `0` definieert de minimale leeftijd (in dagen) voor de over te dragen dieren. Bijvoorbeeld, als **alleen koeien** moeten worden overgedragen naar het apparaat, moet hier een waarde van 600 dagen (= 20 maanden) worden ingevoerd als minimale leeftijd.
 
-### Categorie `Locaties` ➌
+### Categorie `Locaties` <span style="font-size: 140%">➌</span>
 
 Gebruik deze categorie om dieren op bepaalde locaties uit te sluiten van gegevensoverdracht naar het apparaat. Om dit te doen, verwijder het vinkje bij de locatie(s) waarvoor je **niet** wilt dat de daar gehuisveste dieren naar het apparaat worden overgebracht.
 
-### Categorie `Vertrekken` ➍
+### Categorie `Vertrekken` <span style="font-size: 140%">➍</span>
 
 Vink hier de optie 'Vertrekken in HERDEplus' aan. Op deze manier geef je aan dat dieren die de kudde hebben verlaten ook worden verwijderd van het VitalControl-apparaat tijdens synchronisatie.
 Vink ook de optie 'Bestaat niet in voorraad' aan. Hiermee geef je aan dat dieren op de VitalControl die niet bekend zijn bij de `Herde` software, worden verwijderd van de VitalControl tijdens synchronisatie.

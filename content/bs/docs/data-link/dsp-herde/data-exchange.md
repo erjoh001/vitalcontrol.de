@@ -33,7 +33,7 @@ Slijedite korake ispod za sinhronizaciju podataka između softvera `Herde` i ure
 
    ![Softver Herde, razmjena podataka: upozorenje](../screenshots/warning.png "Razmjena podataka: upozorenje")
 
-1. Razmjena podataka je proces u dva koraka: U prvom koraku ➊ podaci o životinjama se prenose iz softvera `Herde` na VitalControl. U drugom koraku ➋, podaci o mjerenju prikupljeni uređajem VitalControl prenose se u softver `Herde`. Broj uvezenih setova podataka (životinje, teljenja, upozorenja i težine) naveden je u pop-upu:
+1. Razmjena podataka je proces u dva koraka: U prvom koraku <span style="font-size: 140%">➊</span> podaci o životinjama se prenose iz softvera `Herde` na VitalControl. U drugom koraku <span style="font-size: 140%">➋</span>, podaci o mjerenju prikupljeni uređajem VitalControl prenose se u softver `Herde`. Broj uvezenih setova podataka (životinje, teljenja, upozorenja i težine) naveden je u pop-upu:
 
 ![Razmjena podataka sa softverom Herde: Tok radnji](../screenshots/data-transfer.png "Razmjena podataka: Tok radnji")
 
