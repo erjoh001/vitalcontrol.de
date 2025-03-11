@@ -1,5 +1,5 @@
 ---
-title: Demo application VitalControl - Latvian
+title: Demo lietotne VitalControl - Latvian
 type: "docs"
 ---
 {{< demo lang="lv" >}}
