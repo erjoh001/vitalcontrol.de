@@ -23,7 +23,7 @@ maphilight: true
   <area shape="rect" coords="3,80,239,160" alt="Dzīvnieku vērtēšanas režīms" title="Iestatīt dzīvnieku vērtēšanas režīmu&#10;Peles klikšķis: atvērt dokumentāciju" href="#mode-of-animal-rating">
   <area shape="rect" coords="3,160,239,240" alt="Svaigu govju kontroles perioda garums" title="Iestatīt svaigu govju kontroles perioda garumu&#10;Peles klikšķis: atvērt dokumentāciju" href="#control-period-of-fresh-cows">
 
-  <area shape="rect" coords="2,282,125,318" alt="Atpakaļ" title="Atgriezties vienu līmeni atpakaļ" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="Atpakaļ" title="Atgriezties vienu līmeni atpakaļ" href="/lv/docs/settings/">
 </map>
 
 {{% alert title="Padoms" %}}

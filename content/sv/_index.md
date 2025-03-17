@@ -25,7 +25,7 @@ Med bara **en enhet** <br/>
 {{% /blocks/lead %}}
 
 {{< blocks/section color="dark" type="row" >}}
-{{% blocks/feature3 icon="fa-flag" title="16 Språk" %}}
+{{% blocks/feature3 icon="fa-flag" title="17 Språk" %}}
 <br>
 <div id="carouselLanguagesAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; margin-left: auto; margin-right: auto; background-color: #403f4c">
     <div class="carousel-indicators">
@@ -45,7 +45,8 @@ Med bara **en enhet** <br/>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="13" aria-label="Turkish"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="14" aria-label="Ukrainian"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="15" aria-label="Estonian"></button>
-    </div>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="16" aria-label="Latvian"></button>
+    </div> 
 <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="position-relative text-center">
@@ -82,7 +83,7 @@ Med bara **en enhet** <br/>
         <h3>Russian</h3>
       </div>
     <img src="/images/homescreen/russian.png" alt="Russian">
-    </div>
+    </div>  
     <div class="carousel-item">
       <div class="position-relative text-center">
         <h3>Spanish</h3>
@@ -124,33 +125,39 @@ Med bara **en enhet** <br/>
           <h3>Greek</h3>
         </div>
       <img src="/images/homescreen/greek.png" alt="Greek">
-      </div>
+      </div>      
       <div class="carousel-item">
         <div class="position-relative text-center">
           <h3>Turkish</h3>
         </div>
       <img src="/images/homescreen/turkish.png" alt="Turkish">
-      </div>
+      </div> 
       <div class="carousel-item">
         <div class="position-relative text-center">
           <h3>Ukrainian</h3>
         </div>
       <img src="/images/homescreen/ukrainian.png" alt="Ukrainian">
-      </div>
+      </div> 
       <div class="carousel-item">
         <div class="position-relative text-center">
           <h3>Estonian</h3>
         </div>
       <img src="/images/homescreen/estonian.png" alt="Estonian">
       </div>
+      <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Latvian</h3>
+      </div>
+      <img src="/images/homescreen/latvian.png" alt="Latvian">
+    </div>  
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
+    <span class="visually-hidden">Iepriekšējais</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
+    <span class="visually-hidden">Nākamais</span>
   </button>
 </div>
 

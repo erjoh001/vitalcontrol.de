@@ -3,8 +3,8 @@ title: Saraksti
 linkTitle: Saraksti
 description: Pārbaudiet savu dzīvnieku sarakstus
 weight: 70
-manualLink: /en/docs/lists/
+manualLink: /lv/docs/lists/
 ---
 <script>
-  window.location.href = "/en/docs/lists/";
+  window.location.href = "/lv/docs/lists/";
 </script>

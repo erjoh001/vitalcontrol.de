@@ -3,8 +3,8 @@ title: Dzīvnieks
 linkTitle: Dzīvnieks
 description: Skatīt svarīgu informāciju, kas saistīta ar atsevišķiem dzīvniekiem
 weight: 60
-manualLink: /en/docs/animal/
+manualLink: /lv/docs/animal/
 ---
 <script>
-  window.location.href = "/en/docs/animal/";
+  window.location.href = "/lv/docs/animal/";
 </script>

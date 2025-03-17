@@ -109,5 +109,3 @@ Lai veiktu sinhronizāciju starp Alma Pro automātisko barotavu un VitalControl 
         </figure>
     </div>
 </div>
-
-Izskatās, ka jūs neesat ievietojis nekādu saturu. Lūdzu, ielīmējiet Markdown saturu, kuru vēlaties tulkot, un es palīdzēšu ar tulkojumu.

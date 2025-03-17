@@ -6,8 +6,8 @@ weight: 40
 draft: false
 description: >
  Visa informācija un instrukcijas ierīces un dzīvnieku datu atiestatīšanai ir pieejama šeit
-manualLink: /en/docs/reset/
+manualLink: /lv/docs/reset/
 ---
 <script>
-  window.location.href = "/en/docs/reset/";
+  window.location.href = "/lv/docs/reset/";
 </script>

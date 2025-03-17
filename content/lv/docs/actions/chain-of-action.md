@@ -8,8 +8,8 @@ description: >
 date: 2023-07-26
 categories: [Darbības]
 tags: [Darbības, darbību ķēde]
-manualLink: /en/docs/chain-of-actions/
+manualLink: /lv/docs/chain-of-actions/
 ---
 <script>
-  window.location.href = "/en/docs/chain-of-actions/";
+  window.location.href = "/lv/docs/chain-of-actions/";
 </script>

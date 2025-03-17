@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instrukcijas par rezerves kopijas izveidi var atrast šeit
-manualLink: /en/docs/backup/backup/
+manualLink: /lv/docs/backup/backup/
 ---
 <script>
-  window.location.href = "/en/docs/backup/backup/";
+  window.location.href = "/lv/docs/backup/backup/";
 </script>

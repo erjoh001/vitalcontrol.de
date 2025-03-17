@@ -12,14 +12,14 @@ Izmantojot galvenās izvēlnes vienumu <img src="/icons/main/new-animal.svg" wid
 <img src="images/neuen.png" alt="VitalControl Jauns" title="Jauns" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="3,40,116,160" alt="Jauns dzīvnieks" title="Kā reģistrēt jaunu dzīvnieku, izmantojot VitalControl ierīci&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/new/animal/">
-  <area shape="rect" coords="3,160,116,280" alt="Teliņš" title="Kā reģistrēt jaunu teliņu, izmantojot VitalControl ierīci&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/new/calving/">
-  <area shape="rect" coords="3,280,116,399" alt="Dzīvnieka zaudējums" title="Kā reģistrēt dzīvnieka zaudējumu, izmantojot VitalControl ierīci&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/new/animal-loss/">
+  <area shape="rect" coords="3,40,116,160" alt="Jauns dzīvnieks" title="Kā reģistrēt jaunu dzīvnieku, izmantojot VitalControl ierīci&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/new/animal/">
+  <area shape="rect" coords="3,160,116,280" alt="Teliņš" title="Kā reģistrēt jaunu teliņu, izmantojot VitalControl ierīci&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/new/calving/">
+  <area shape="rect" coords="3,280,116,399" alt="Dzīvnieka zaudējums" title="Kā reģistrēt dzīvnieka zaudējumu, izmantojot VitalControl ierīci&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/new/animal-loss/">
 
-  <area shape="rect" coords="116,40,230,160" alt="Jauni dzīvnieki" title="Kā izveidot vairākus jaunus dzīvniekus uz VitalControl ierīces, izmantojot vienu darbību&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/new/animals/">
-  <area shape="rect" coords="116,160,230,280" alt="Masveida ierakstīšana" title="Izmantojiet svītrkodu skeneri, lai ierakstītu dažādus dzīvniekus&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/new/bulk-recording/">
+  <area shape="rect" coords="116,40,230,160" alt="Jauni dzīvnieki" title="Kā izveidot vairākus jaunus dzīvniekus uz VitalControl ierīces, izmantojot vienu darbību&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/new/animals/">
+  <area shape="rect" coords="116,160,230,280" alt="Masveida ierakstīšana" title="Izmantojiet svītrkodu skeneri, lai ierakstītu dažādus dzīvniekus&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/new/bulk-recording/">
 
-  <area shape="rect" coords="1,401,100,439" alt="Atpakaļ" title="Atgriezties vienu līmeni atpakaļ&#10;Peles klikšķis: uz dokumentāciju" href="/en/docs/menu/mainmenu/">
+  <area shape="rect" coords="1,401,100,439" alt="Atpakaļ" title="Atgriezties vienu līmeni atpakaļ&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/menu/mainmenu/">
 </map>
 
 {{% alert title="Padoms" %}}

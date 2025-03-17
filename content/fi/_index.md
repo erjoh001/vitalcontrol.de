@@ -26,134 +26,142 @@ Yhdellä **laitteella** <br/>
 
 
 {{< blocks/section color="dark" type="row" >}}
-{{% blocks/feature3 icon="fa-flag" title="16 Kieltä" %}}
+{{% blocks/feature3 icon="fa-flag" title="17 Kieltä" %}}
 <br>
 <div id="carouselLanguagesAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; margin-left: auto; margin-right: auto; background-color: #403f4c">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Saksa"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="1" aria-label="Englanti"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="2" aria-label="Hollanti"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="3" aria-label="Suomi"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="4" aria-label="Ranska"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="5" aria-label="Venäjä"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="6" aria-label="Espanja"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="7" aria-label="Bosnia"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="8" aria-label="Bulgaria"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="9" aria-label="Kiina"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="10" aria-label="Tšekki"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="11" aria-label="Norja"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="12" aria-label="Kreikka"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="13" aria-label="Turkki"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="14" aria-label="Ukraina"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="15" aria-label="Viro"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="1" aria-label="English"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="2" aria-label="Dutch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="3" aria-label="Finish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="4" aria-label="French"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="5" aria-label="Russian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="6" aria-label="Spanish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="7" aria-label="Bosnian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="8" aria-label="Bulgarian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="9" aria-label="Chinese"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="10" aria-label="Czech"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="11" aria-label="Norwegian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="12" aria-label="Greek"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="13" aria-label="Turkish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="14" aria-label="Ukrainian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="15" aria-label="Estonian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="16" aria-label="Latvian"></button>
     </div> 
 <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="position-relative text-center">
-        <h3>Saksa</h3>
+        <h3>German</h3>
       </div>
-      <img src="/images/homescreen/german.png" alt="Saksa">
+      <img src="/images/homescreen/german.png" alt="German">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Hollanti</h3>
+        <h3>Dutch</h3>
       </div>
-      <img src="/images/homescreen/dutch.png" alt="Hollanti">
+      <img src="/images/homescreen/dutch.png" alt="Dutch">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Englanti</h3>
+        <h3>English</h3>
       </div>
-      <img src="/images/homescreen/english.png" alt="Englanti">
+      <img src="/images/homescreen/english.png" alt="English">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Suomi</h3>
+        <h3>Finnish</h3>
       </div>
-      <img src="/images/homescreen/finnish.png" alt="Suomi">
+      <img src="/images/homescreen/finnish.png" alt="Finnish">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Ranska</h3>
+        <h3>French</h3>
       </div>
-      <img src="/images/homescreen/french.png" alt="Ranska">
+      <img src="/images/homescreen/french.png" alt="French">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Venäjä</h3>
+        <h3>Russian</h3>
       </div>
-    <img src="/images/homescreen/russian.png" alt="Venäjä">
+    <img src="/images/homescreen/russian.png" alt="Russian">
     </div>  
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Espanja</h3>
+        <h3>Spanish</h3>
       </div>
-    <img src="/images/homescreen/spanish.png" alt="Espanja">
+    <img src="/images/homescreen/spanish.png" alt="Spanish">
     </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Bosnia</h3>
+          <h3>Bosnian</h3>
         </div>
-      <img src="/images/homescreen/bosnian.png" alt="Bosnia">
+      <img src="/images/homescreen/bosnian.png" alt="Bosnian">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Bulgaria</h3>
+          <h3>Bulgarian</h3>
         </div>
-      <img src="/images/homescreen/bulgarian.png" alt="Bulgaria">
+      <img src="/images/homescreen/bulgarian.png" alt="Bulgarian">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Kiina</h3>
+          <h3>Chinese</h3>
         </div>
-      <img src="/images/homescreen/chinese.png" alt="Kiina">
+      <img src="/images/homescreen/chinese.png" alt="Chinese">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Tšekki</h3>
+          <h3>Czech</h3>
         </div>
-      <img src="/images/homescreen/czech.png" alt="Tšekki">
+      <img src="/images/homescreen/czech.png" alt="Czech">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Norja</h3>
+          <h3>Norwegian</h3>
         </div>
-      <img src="/images/homescreen/norwegian.png" alt="Norja">
+      <img src="/images/homescreen/norwegian.png" alt="Norwegian">
       </div>
       <div class="carousel-item">
-        <div the="position-relative text-center">
-          <h3>Kreikka</h3>
+        <div class="position-relative text-center">
+          <h3>Greek</h3>
         </div>
-      <img src="/images/homescreen/greek.png" alt="Kreikka">
+      <img src="/images/homescreen/greek.png" alt="Greek">
       </div>      
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Turkki</h3>
+          <h3>Turkish</h3>
         </div>
-      <img src="/images/homescreen/turkish.png" alt="Turkki">
+      <img src="/images/homescreen/turkish.png" alt="Turkish">
       </div> 
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Ukraina</h3>
+          <h3>Ukrainian</h3>
         </div>
-      <img src="/images/homescreen/ukrainian.png" alt="Ukraina">
+      <img src="/images/homescreen/ukrainian.png" alt="Ukrainian">
       </div> 
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Viro</h3>
+          <h3>Estonian</h3>
         </div>
-      <img src="/images/homescreen/estonian.png" alt="Viro">
-      </div> 
+      <img src="/images/homescreen/estonian.png" alt="Estonian">
+      </div>
+      <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Latvian</h3>
+      </div>
+      <img src="/images/homescreen/latvian.png" alt="Latvian">
+    </div>  
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Edellinen</span>
+    <span class="visually-hidden">Iepriekšējais</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Seuraava</span>
+    <span class="visually-hidden">Nākamais</span>
   </button>
 </div>
+
 
 {{% /blocks/feature3 %}}
 

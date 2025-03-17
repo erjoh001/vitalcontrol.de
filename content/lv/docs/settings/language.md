@@ -44,6 +44,7 @@ VitalControl programmaparatūra satur tulkojumus šādām valodām:
 - Čehu (CS)
 - Turku (TR)
 - Ukraiņu (UK)
+- Latviešu (LV)
 
 ## Galvenā izvēlne visās pieejamajās valodās {#main-menu-in-all-available-languages}
 
@@ -78,6 +79,9 @@ VitalControl programmaparatūra satur tulkojumus šādām valodām:
   {{% tab header="Dutch" lang="nl" %}}
 [![VitalControl: Main menu with Dutch language selected](/images/homescreen/dutch.png "Main menu Dutch")](/nl/demo/ "Demo app VitalControl (NL)")
   {{% /tab %}}
+  {{% tab header="Latvian" lang="lv" %}}
+[![VitalControl: Main menu with Latvian language selected](/images/homescreen/latvian.png "Main menu Dutch")](/lv/demo/ "Demo app VitalControl (LV)")
+  {{% /tab %}}
   {{% tab header="Norwegian" lang="no" %}}
 [![VitalControl: Main menu with Norwegian language selected](/images/homescreen/norwegian.png "Main menu Norwegian")](/no/demo/ "Demo app VitalControl (NO)")
   {{% /tab %}}
@@ -91,5 +95,3 @@ VitalControl programmaparatūra satur tulkojumus šādām valodām:
 [![VitalControl: Main menu with Ukrainian language selected](/images/homescreen/ukrainian.png "Main menu Ukrainian")](/uk/demo/ "Demo app VitalControl (UK)")
   {{% /tab %}}
 {{< /tabpane >}}
-
-It seems like you haven't pasted any Markdown content yet. Please provide the text you want translated, and I'll assist you with the translation.

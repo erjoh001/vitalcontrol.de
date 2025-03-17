@@ -14,9 +14,9 @@ Ja jūsu ierīcē ir darbības traucējumi, vispirms vajadzētu veikt aparatūra
 
 ## Pārbaudiet ierīces aparatūru {#check-the-hardware-of-your-device}
 
-1. Atveriet izvēlnes vienumu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `{{<T "Device" >}}` jūsu VitalControl ierīces galvenajā ekrānā.
+1. Atveriet izvēlnes vienumu &nbsp;<img src="/icons/device.svg" width="23" align="bottom" alt="Device" /> `{{< T "Device" >}}` jūsu VitalControl ierīces galvenajā ekrānā.
 
-1. Atveriet apakšizvēlni `{{<T "Service" >}}`, izvēlieties izvēlnes vienumu `{{<T "CheckDeviceDrivers" >}}` un apstipriniet ar `{{<T "Ok" >}}`.
+1. Atveriet apakšizvēlni `{{< T "Service" >}}`, izvēlieties izvēlnes vienumu `{{< T "CheckDeviceDrivers" >}}` un apstipriniet ar `{{<T "Ok" >}}`.
 
 Ierīce tagad uzskaitīs visus ierīces aparatūras komponentus kopā ar to statusu. Ideālā gadījumā visiem uzskaitītajiem komponentiem vajadzētu būt zaļam punktam tālajā labajā pusē; tas norāda uz funkcionējošu komponentu. Ja komponentam tiek parādīts sarkans punkts, tas norāda, ka attiecīgais komponents ir bojāts. Šādā gadījumā ierīce ir jāatgriež ražotājam apkalpošanai.
 

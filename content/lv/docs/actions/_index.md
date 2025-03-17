@@ -14,24 +14,24 @@ Atkarībā no dzīvnieka veida, jūs varat veikt līdz 16 dažādām darbībām 
 <img src="images/menu2.png" alt="VitalControl Darbības" title="Darbības" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="3,100,60,165" alt="Temperatūra" title="Mērīt drudzi jūsu dzīvniekiem&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/measure-temperature/">
-  <area shape="rect" coords="60,100,118,165" alt="Svars" title="Reģistrēt jūsu dzīvnieku svaru&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/record-weight/">
-  <area shape="rect" coords="118,100,174,165" alt="Vērtējums" title="Novērtēt jūsu dzīvniekus&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/rating/">
-  <area shape="rect" coords="174,100,230,165" alt="Darbību ķēde" title="Pielietot un iestatīt darbību ķēdi&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/chain-of-actions/">
-   <area shape="rect" coords="3,165,60,225" alt="Teļošana" title="Reģistrēt teļošanu&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/calving/">
-   <area shape="rect" coords="60,165,120,225" alt="Noslaukšana" title="Noslaucīt govi vai pievienot to svaigo govju sarakstam&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/dry-off/">
-   <area shape="rect" coords="120,165,175,225" alt="Trauksme" title="Pievienot un noņemt dzīvniekus no trauksmes saraksta&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/alarm/">
-   <area shape="rect" coords="175,165,230,225" alt="Uzraudzībā" title="Pievienot dzīvniekus uzraudzības sarakstam vai noņemt tos&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/on-watch/">
-   <area shape="rect" coords="3,225,60,280" alt="Dzīvnieka vēsture" title="Apskatīt dzīvnieka vēsturi&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/animal-history/">
-   <area shape="rect" coords="60,225,120,280" alt="Rediģēt" title="Rediģēt izvēlētā dzīvnieka datus&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/edit/">
-   <area shape="rect" coords="120,225,175,280" alt="Atsaukt reģistrāciju" title="Atsaukt dzīvnieka reģistrāciju&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/unregister/">
-   <area shape="rect" coords="175,225,230,280" alt="Dzīvnieka zaudējums" title="Reģistrēt dzīvnieka zaudējumu&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/animal-loss/">
-   <area shape="rect" coords="3,280,60,337" alt="Piesaistīt transponderu" title="Piesaistīt transponderu dzīvniekam&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/link-transponder/">
-   <area shape="rect" coords="55,280,120,337" alt="Atvienot transponderu" title="Noņemt transpondera saiti ar dzīvnieku&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/unlink-transponder/">
-   <area shape="rect" coords="120,280,175,337" alt="Piesaistīt dzīvnieka ID manuāli" title="Piesaistīt nacionālo dzīvnieka ID dzīvniekam, kuram nav nacionālā dzīvnieka ID&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/link-animal-id/#link-animal-id">
-   <area shape="rect" coords="175,280,230,337" alt="Piesaistīt dzīvnieka ID ar skenēšanu" title="Piesaistīt nacionālo dzīvnieka ID dzīvniekam, kuram nav nacionālā dzīvnieka ID&#10;Peles klikšķis: atvērt dokumentāciju" href="/en/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
+  <area shape="rect" coords="3,100,60,165" alt="Temperatūra" title="Mērīt drudzi jūsu dzīvniekiem&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/measure-temperature/">
+  <area shape="rect" coords="60,100,118,165" alt="Svars" title="Reģistrēt jūsu dzīvnieku svaru&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/record-weight/">
+  <area shape="rect" coords="118,100,174,165" alt="Vērtējums" title="Novērtēt jūsu dzīvniekus&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/rating/">
+  <area shape="rect" coords="174,100,230,165" alt="Darbību ķēde" title="Pielietot un iestatīt darbību ķēdi&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/chain-of-actions/">
+   <area shape="rect" coords="3,165,60,225" alt="Teļošana" title="Reģistrēt teļošanu&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/calving/">
+   <area shape="rect" coords="60,165,120,225" alt="Noslaukšana" title="Noslaucīt govi vai pievienot to svaigo govju sarakstam&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/dry-off/">
+   <area shape="rect" coords="120,165,175,225" alt="Trauksme" title="Pievienot un noņemt dzīvniekus no trauksmes saraksta&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/alarm/">
+   <area shape="rect" coords="175,165,230,225" alt="Uzraudzībā" title="Pievienot dzīvniekus uzraudzības sarakstam vai noņemt tos&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/on-watch/">
+   <area shape="rect" coords="3,225,60,280" alt="Dzīvnieka vēsture" title="Apskatīt dzīvnieka vēsturi&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/animal-history/">
+   <area shape="rect" coords="60,225,120,280" alt="Rediģēt" title="Rediģēt izvēlētā dzīvnieka datus&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/edit/">
+   <area shape="rect" coords="120,225,175,280" alt="Atsaukt reģistrāciju" title="Atsaukt dzīvnieka reģistrāciju&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/unregister/">
+   <area shape="rect" coords="175,225,230,280" alt="Dzīvnieka zaudējums" title="Reģistrēt dzīvnieka zaudējumu&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/animal-loss/">
+   <area shape="rect" coords="3,280,60,337" alt="Piesaistīt transponderu" title="Piesaistīt transponderu dzīvniekam&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/link-transponder/">
+   <area shape="rect" coords="55,280,120,337" alt="Atvienot transponderu" title="Noņemt transpondera saiti ar dzīvnieku&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/unlink-transponder/">
+   <area shape="rect" coords="120,280,175,337" alt="Piesaistīt dzīvnieka ID manuāli" title="Piesaistīt nacionālo dzīvnieka ID dzīvniekam, kuram nav nacionālā dzīvnieka ID&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/link-animal-id/#link-animal-id">
+   <area shape="rect" coords="175,280,230,337" alt="Piesaistīt dzīvnieka ID ar skenēšanu" title="Piesaistīt nacionālo dzīvnieka ID dzīvniekam, kuram nav nacionālā dzīvnieka ID&#10;Peles klikšķis: atvērt dokumentāciju" href="/lv/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
-<area shape="rect" coords="100,340,140,375" alt="Iestatījumi" title="Iestatījumu izsaukšana&#10;Peles klikšķis: uz dokumentāciju" href="/en/docs/actions/setting/">
+<area shape="rect" coords="100,340,140,375" alt="Iestatījumi" title="Iestatījumu izsaukšana&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/actions/setting/">
 </map>
 
 {{% alert title="Padoms" %}}
@@ -63,5 +63,3 @@ Izvēlnē <img src="/icons/actions.svg" width="40" align="bottom" alt="Darbības
 ![VitalControl: Izvēlne Darbības Vispārējā procedūra](images/next-animal-manual-select.png "Dzīvnieku darbību veikšana, manuāla izvēle")
 {{% /tab %}}
 {{< /tabpane >}}
-
-It seems like you haven't pasted any Markdown content yet. Please provide the text you want translated, and I'll assist you with the translation.

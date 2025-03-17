@@ -40,5 +40,3 @@ Lai iestatītu masas vienību savā ierīcē, rīkojieties šādi.
     ![VitalControl: izvēlnes iestatījumi masas vienība](../images/mass.png "Mass unit")
 
 Saglabājiet iestatījumus un izmantojiet taustiņu `F1` &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> lai atgrieztos uz augšējo izvēlni <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}`.
-
-It seems like you haven't pasted any Markdown content yet. Please provide the text you want translated, and I'll assist you with the translation.

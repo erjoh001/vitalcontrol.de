@@ -39,5 +39,3 @@ translationKey: data-export/usb-drive
   - Lai novērstu nejaušu eksporta failu pārrakstīšanu, katra eksporta faila nosaukumā vienmēr ir iekļauts datums un laiks, kad fails tika izveidots. Pārliecinieties, ka izmantojat jaunāko eksporta failu versiju, ja esat eksportējis dzīvnieku datus vairākas reizes.
   - Eksporta failu lielums ir atkarīgs no dzīvnieku skaita VitalControl un veikto mērījumu skaita. Parasti eksporta faili aizņem tikai dažus kB atmiņas vietas uz USB zibatmiņas.
    {{% /alert %}}
-
-Lūdzu, ielīmējiet Markdown saturu, kuru vēlaties tulkot.

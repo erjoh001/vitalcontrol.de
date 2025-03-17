@@ -6,8 +6,8 @@ weight: 20
 draft: false
 description: >
  Instrukcijas par rezerves kopijas atjaunošanu var atrast šeit
-manualLink: /en/docs/backup/restore/
+manualLink: /lv/docs/backup/restore/
 ---
 <script>
-  window.location.href = "/en/docs/backup/restore/";
+  window.location.href = "/lv/docs/backup/restore/";
 </script>

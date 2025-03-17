@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  Instrukcijas, kā apskatīt jūsu programmatūras versiju, var atrast šeit
-manualLink: /en/docs/firmware/versions/
+manualLink: /lv/docs/firmware/versions/
 ---
 <script>
-  window.location.href = "/en/docs/firmware/versions/";
+  window.location.href = "/lv/docs/firmware/versions/";
 </script>

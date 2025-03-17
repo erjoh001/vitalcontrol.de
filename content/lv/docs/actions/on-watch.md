@@ -38,5 +38,3 @@ Ar darbību `{{<T "OnWatch" >}}` jūs varat ievietot dzīvniekus uzraudzības sa
 {{% alert title="Padoms" %}}
 Ja šī darbība nav pieejama, iespējams, ka darbība ir deaktivēta! Aktivizējiet darbību izvēlnē [darbību iestatījumi](../setting/). Alternatīvi, visu darbību atiestatīšana atjaunos šo darbību.
 {{% /alert %}}
-
-It seems like you haven't pasted any Markdown content yet. Please provide the text you want translated, and I'll assist you with the translation.

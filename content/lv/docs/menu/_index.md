@@ -3,7 +3,7 @@ title: Grafiskās lietotāja saskarnes izvēlnes struktūra
 linkTitle: Izvēlnes koks
 date: 2023-09-15T12:45:53+02:00
 draft: false
-url: /en/docs/menu-tree
+url: /lv/docs/menu-tree
 weight: -10
 description: >
   Parāda VitalControl ierīces interaktīvo izvēlnes koku.

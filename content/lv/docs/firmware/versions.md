@@ -30,5 +30,3 @@ description: >
 {{% alert title="Padoms" %}}
 Ja jūsu ierīcē trūkst jaunāku funkciju vai rodas stabilitātes problēmas, ieteicams [atjaunināt](../update/) ierīces programmaparatūru uz jaunāko izlaisto versiju.
 {{% /alert %}}
-
-Izskatās, ka jūs neesat ievietojis nekādu saturu. Lūdzu, ievietojiet Markdown saturu, kuru vēlaties tulkot, un es palīdzēšu ar tulkojumu latviešu valodā.

@@ -22,12 +22,12 @@ Ja noklikšķināsiet uz izvēlnes vienuma, jūs tiksiet novirzīts uz attiecīg
 <img src="../images/imagemap.png" alt="VitalControl Novērtēšana" title="Svars" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="Šodienas svēršana" title="Novērtējiet savu dzīvnieku svara vērtības, kas ierakstītas ar VitalControl šodien&#10;Peles klikšķis: uz dokumentāciju" href="/en/docs/evaluation/weight/#todays-weighings">
-   <area shape="rect" coords="116,40,238,160" alt="Dzimšanas svari" title="Novērtējiet savus saglabātos dzimšanas svarus&#10;Peles klikšķis: uz dokumentāciju" href="/en/docs/evaluation/weight/#birth-weights">
-   <area shape="rect" coords="3,160,116,279" alt="Svaru attīstība" title="Novērtējiet savu dzīvnieku svara attīstību&#10;Peles klikšķis: uz dokumentāciju" href="/en/docs/evaluation/weight/#weight-development">
+   <area shape="rect" coords="3,40,116,160" alt="Šodienas svēršana" title="Novērtējiet savu dzīvnieku svara vērtības, kas ierakstītas ar VitalControl šodien&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="Dzimšanas svari" title="Novērtējiet savus saglabātos dzimšanas svarus&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="Svaru attīstība" title="Novērtējiet savu dzīvnieku svara attīstību&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/evaluation/weight/#weight-development">
 
-   <area shape="rect" coords="150,282,238,319" alt="Filtrs" title="Iestatīt filtru&#10;Peles klikšķis: uz dokumentāciju" href="/en/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="Atpakaļ" title="Atgriezties vienu līmeni atpakaļ&#10;Peles klikšķis: uz dokumentāciju" href="/en/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="Filtrs" title="Iestatīt filtru&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="Atpakaļ" title="Atgriezties vienu līmeni atpakaļ&#10;Peles klikšķis: uz dokumentāciju" href="/lv/docs/evaluation/">
 </map>
 
 ## Šodienas svēršana {#todays-weighings}

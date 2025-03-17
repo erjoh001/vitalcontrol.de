@@ -3,8 +3,8 @@ title: Darbības
 linkTitle: Darbības
 description: Veikt dažādas dzīvnieku darbības
 weight: 30
-manualLink: /en/docs/actions/
+manualLink: /lv/docs/actions/
 ---
 <script>
-  window.location.href = "/en/docs/actions/";
+  window.location.href = "/lv/docs/actions/";
 </script>
