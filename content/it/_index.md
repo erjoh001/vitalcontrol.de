@@ -26,132 +26,139 @@ Con un **solo dispositivo** <br/>
 
 
 {{< blocks/section color="dark" type="row" >}}
-{{% blocks/feature3 icon="fa-flag" title="16 Lingue" %}}
+{{% blocks/feature3 icon="fa-flag" title="17 Lingue" %}}
 <br>
 <div id="carouselLanguagesAutoplaying" class="carousel slide" data-bs-ride="carousel" style="width: 240px; height: 420px; margin-left: auto; margin-right: auto; background-color: #403f4c">
     <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Tedesco"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="1" aria-label="Inglese"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="2" aria-label="Olandese"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="3" aria-label="Finlandese"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="4" aria-label="Francese"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="5" aria-label="Russo"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="6" aria-label="Spagnolo"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="7" aria-label="Bosniaco"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="8" aria-label="Bulgaro"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="9" aria-label="Cinese"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="10" aria-label="Ceco"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="11" aria-label="Norvegese"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="12" aria-label="Greco"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="13" aria-label="Turco"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="14" aria-label="Ucraino"></button>
-    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="15" aria-label="Estone"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="German"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="1" aria-label="English"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="2" aria-label="Dutch"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="3" aria-label="Finish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="4" aria-label="French"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="5" aria-label="Russian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="6" aria-label="Spanish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="7" aria-label="Bosnian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="8" aria-label="Bulgarian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="9" aria-label="Chinese"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="10" aria-label="Czech"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="11" aria-label="Norwegian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="12" aria-label="Greek"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="13" aria-label="Turkish"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="14" aria-label="Ukrainian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="15" aria-label="Estonian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="16" aria-label="Latvian"></button>
     </div> 
 <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="position-relative text-center">
-        <h3>Tedesco</h3>
+        <h3>German</h3>
       </div>
-      <img src="/images/homescreen/german.png" alt="Tedesco">
+      <img src="/images/homescreen/german.png" alt="German">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Olandese</h3>
+        <h3>Dutch</h3>
       </div>
-      <img src="/images/homescreen/dutch.png" alt="Olandese">
+      <img src="/images/homescreen/dutch.png" alt="Dutch">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Inglese</h3>
+        <h3>English</h3>
       </div>
-      <img src="/images/homescreen/english.png" alt="Inglese">
+      <img src="/images/homescreen/english.png" alt="English">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Finlandese</h3>
+        <h3>Finnish</h3>
       </div>
-      <img src="/images/homescreen/finnish.png" alt="Finlandese">
+      <img src="/images/homescreen/finnish.png" alt="Finnish">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Francese</h3>
+        <h3>French</h3>
       </div>
-      <img src="/images/homescreen/french.png" alt="Francese">
+      <img src="/images/homescreen/french.png" alt="French">
     </div>
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Russo</h3>
+        <h3>Russian</h3>
       </div>
-    <img src="/images/homescreen/russian.png" alt="Russo">
+    <img src="/images/homescreen/russian.png" alt="Russian">
     </div>  
     <div class="carousel-item">
       <div class="position-relative text-center">
-        <h3>Spagnolo</h3>
+        <h3>Spanish</h3>
       </div>
-    <img src="/images/homescreen/spanish.png" alt="Spagnolo">
+    <img src="/images/homescreen/spanish.png" alt="Spanish">
     </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Bosniaco</h3>
+          <h3>Bosnian</h3>
         </div>
-      <img src="/images/homescreen/bosnian.png" alt="Bosniaco">
+      <img src="/images/homescreen/bosnian.png" alt="Bosnian">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Bulgaro</h3>
+          <h3>Bulgarian</h3>
         </div>
-      <img src="/images/homescreen/bulgarian.png" alt="Bulgaro">
+      <img src="/images/homescreen/bulgarian.png" alt="Bulgarian">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Cinese</h3>
+          <h3>Chinese</h3>
         </div>
-      <img src="/images/homescreen/chinese.png" alt="Cinese">
+      <img src="/images/homescreen/chinese.png" alt="Chinese">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Ceco</h3>
+          <h3>Czech</h3>
         </div>
-      <img src="/images/homescreen/czech.png" alt="Ceco">
+      <img src="/images/homescreen/czech.png" alt="Czech">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Norvegese</h3>
+          <h3>Norwegian</h3>
         </div>
-      <img src="/images/homescreen/norwegian.png" alt="Norvegese">
+      <img src="/images/homescreen/norwegian.png" alt="Norwegian">
       </div>
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Greco</h3>
+          <h3>Greek</h3>
         </div>
-      <img src="/images/homescreen/greek.png" alt="Greco">
+      <img src="/images/homescreen/greek.png" alt="Greek">
       </div>      
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Turco</h3>
+          <h3>Turkish</h3>
         </div>
-      <img src="/images/homescreen/turkish.png" alt="Turco">
+      <img src="/images/homescreen/turkish.png" alt="Turkish">
       </div> 
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Ucraino</h3>
+          <h3>Ukrainian</h3>
         </div>
-      <img src="/images/homescreen/ukrainian.png" alt="Ucraino">
+      <img src="/images/homescreen/ukrainian.png" alt="Ukrainian">
       </div> 
       <div class="carousel-item">
         <div class="position-relative text-center">
-          <h3>Estone</h3>
+          <h3>Estonian</h3>
         </div>
-      <img src="/images/homescreen/estonian.png" alt="Estone">
-      </div> 
+      <img src="/images/homescreen/estonian.png" alt="Estonian">
+      </div>
+      <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Latvian</h3>
+      </div>
+      <img src="/images/homescreen/latvian.png" alt="Latvian">
+    </div>  
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Precedente</span>
+    <span class="visually-hidden">Iepriekšējais</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Successivo</span>
+    <span class="visually-hidden">Nākamais</span>
   </button>
 </div>
 

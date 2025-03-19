@@ -46,6 +46,7 @@ title: Urban VitalControl
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="13" aria-label="Turkish"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="14" aria-label="Ukrainian"></button>
     <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="15" aria-label="Estonian"></button>
+    <button type="button" data-bs-target="#carouselLanguageIndicators" data-bs-slide-to="16" aria-label="Latvian"></button>
     </div> 
 <div class="carousel-inner">
     <div class="carousel-item active">
@@ -121,7 +122,7 @@ title: Urban VitalControl
       <img src="/images/homescreen/norwegian.png" alt="Norwegian">
       </div>
       <div class="carousel-item">
-        <div the="position-relative text-center">
+        <div class="position-relative text-center">
           <h3>Greek</h3>
         </div>
       <img src="/images/homescreen/greek.png" alt="Greek">
@@ -139,19 +140,25 @@ title: Urban VitalControl
       <img src="/images/homescreen/ukrainian.png" alt="Ukrainian">
       </div> 
       <div class="carousel-item">
-        <div the="position-relative text-center">
+        <div class="position-relative text-center">
           <h3>Estonian</h3>
         </div>
       <img src="/images/homescreen/estonian.png" alt="Estonian">
-      </div> 
+      </div>
+      <div class="carousel-item">
+      <div class="position-relative text-center">
+        <h3>Latvian</h3>
+      </div>
+      <img src="/images/homescreen/latvian.png" alt="Latvian">
+    </div>  
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="prev" style="left: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
+    <span class="visually-hidden">Iepriekšējais</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselLanguagesAutoplaying" data-bs-slide="next" style="right: 0px; top: 37px; height: 320px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
+    <span class="visually-hidden">Nākamais</span>
   </button>
 </div>
 
