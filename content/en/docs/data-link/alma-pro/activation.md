@@ -27,14 +27,14 @@ To be able to activate and set up the VitalControl device, you must be logged in
 
 1. One (or more) menu item(s) will now appear in the right-hand half of the centre screen. Click on the top button `VitalControl` <span style="font-size: 140%">➃</span>. The button now changes position and is shown in the left half of the centre screen.
     
-1. The button &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Open settings" title="Open settings VitalControl" /> `Open settings` <span style="font-size: 140%">➄</span>  is now displayed in the bottom of the right-hand side of the centre screen. Click on this button to open a pop-up window in which [page 1](#settings-menu-vitalcontrol---page-1) of the settings menu `VitalControl` is shown.
+1. The button &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Open settings" title="Open settings VitalControl" /> `Open settings` <span style="font-size: 140%">➄</span>  is now displayed in the bottom of the right-hand side of the centre screen. Click on this button to open a pop-up window in which [page 1](#settings-menu-vitalcontrol-page-1) of the settings menu `VitalControl` is shown.
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/open-settings-vitalcontrol.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Settings menu VitalControl: callup" title="Call up settings menu VitalControl" />
     <figcaption class="figure-caption fs-6">Screenshot 1: Calling up the settings menu <span style="font-style: italic;">VitalControl</span></figcaption>
 </figure>
 
-##  Settings menu `VitalControl` - Page 1
+##  Settings menu `VitalControl` - Page 1 {#settings-menu-vitalcontrol-page-1}
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-1.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Settings menu VitalControl: Page 1" title="Settings VitalControl (1)" />

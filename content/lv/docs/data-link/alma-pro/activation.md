@@ -27,14 +27,14 @@ Lai varētu aktivizēt un iestatīt VitalControl ierīci, jums ir jābūt pietei
 
 1. Tagad ekrāna centrālajā labajā pusē parādīsies viens (vai vairāki) izvēlnes vienums(i). Noklikšķiniet uz augšējās pogas `VitalControl` <span style="font-size: 140%">➃</span>. Poga tagad maina pozīciju un tiek parādīta ekrāna centrālajā kreisajā pusē.
 
-1. Tagad ekrāna centrālajā labajā pusē tiek parādīta poga &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Atvērt iestatījumus" title="Atvērt iestatījumus VitalControl" /> `Atvērt iestatījumus` <span style="font-size: 140%">➄</span>. Noklikšķiniet uz šīs pogas, lai atvērtu uznirstošo logu, kurā tiek parādīta [1. lapa](#settings-menu-vitalcontrol---page-1) no iestatījumu izvēlnes `VitalControl`.
+1. Tagad ekrāna centrālajā labajā pusē tiek parādīta poga &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Atvērt iestatījumus" title="Atvērt iestatījumus VitalControl" /> `Atvērt iestatījumus` <span style="font-size: 140%">➄</span>. Noklikšķiniet uz šīs pogas, lai atvērtu uznirstošo logu, kurā tiek parādīta [1. lapa](#settings-menu-vitalcontrol-page-1) no iestatījumu izvēlnes `VitalControl`.
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/open-settings-vitalcontrol.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Iestatījumu izvēlne VitalControl: izsaukums" title="Izsaukt iestatījumu izvēlni VitalControl" />
     <figcaption class="figure-caption fs-6">Ekrānuzņēmums 1: Iestatījumu izvēlnes izsaukšana <span style="font-style: italic;">VitalControl</span></figcaption>
 </figure>
 
-## Iestatījumu izvēlne `VitalControl` - 1. lapa
+## Iestatījumu izvēlne `VitalControl` - 1. lapa {#settings-menu-vitalcontrol-page-1}
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-1.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Iestatījumu izvēlne VitalControl: 1. lapa" title="Iestatījumi VitalControl (1)" />

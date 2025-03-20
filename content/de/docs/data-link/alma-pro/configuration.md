@@ -26,7 +26,7 @@ Um die Aktivierung und Einrichtung des VitalControl-Geräts vornehmen zu können
 
 1. In der rechten Hälfte des zentralen Bildschirmbereichs erscheint jetzt ein (oder ggf. auch mehrere) Menüpunkt(e). Klicken Sie auf die oberste Schaltfläche `VitalControl` <span style="font-size: 140%">➃</span>.  Die Schaltfläche wechselt jetzt auf die linke Bildschirmhälfte.
 
-1. Unten in der rechten Bildschirmhälfte wird nun die Schaltfläche &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Einstellungen VitalControl öffnen" title="Einstellungen öffnen" /> `Einstellungen öffnen` <span style="font-size: 140%">➄</span> angezeigt. Klicken Sie auf diese Schaltfläche, es öffnet sich dann ein Popup-Fenster, in welchem  [Seite 1](#einstellungsmenü-vitalcontrol---seite-1) des Einstellungsmenüs `VitalControl` angezeigt wird.
+1. Unten in der rechten Bildschirmhälfte wird nun die Schaltfläche &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="Einstellungen VitalControl öffnen" title="Einstellungen öffnen" /> `Einstellungen öffnen` <span style="font-size: 140%">➄</span> angezeigt. Klicken Sie auf diese Schaltfläche, es öffnet sich dann ein Popup-Fenster, in welchem  [Seite 1](#settings-menu-vitalcontrol-page-1) des Einstellungsmenüs `VitalControl` angezeigt wird.
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/open-settings-vitalcontrol.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Einstellungen VitalControl: Aufruf" title="Aufruf Einstellungsmenü VitalControl" />
@@ -35,7 +35,7 @@ Um die Aktivierung und Einrichtung des VitalControl-Geräts vornehmen zu können
 
 Das Einstellungsmenü `VitalControl` ist auf zwei Seiten verteilt: 
 
-## Einstellungsmenü `VitalControl` - Seite 1
+## Einstellungsmenü `VitalControl` - Seite 1 {#settings-menu-vitalcontrol-page-1}
 
 Seite 1 des Einstellungsmenüs <span style="font-style: italic;">VitalControl</span> präsentiert sich wie folgt:
 
