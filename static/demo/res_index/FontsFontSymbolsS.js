@@ -47,4 +47,4 @@ index.acJ=[18,4,0,16,3,3,"\
 \uB937\u39F7\u277B\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

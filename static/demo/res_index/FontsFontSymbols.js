@@ -152,4 +152,4 @@ index.acH=[38,10,0,16,21,21,"\
 \uABDE\uAC92\u77B5\u0001"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

@@ -2511,4 +2511,4 @@ e.le=0x00000100;e.o_=0x00000200;e.nc=0x00000300;e.abp=0x00000000;e.abr=0x0000010
 e.abt=0x00000202;e.abq=0x00000303;e.pb=0x00000000;e.pc=0x00010000;e.pd=0x00020000;
 e.wx=0;e.wv=1;e.rJ=2;e.ww=3;e.abB=4;e.ab4=0;e.wB=1;e.lj=2;e.li=3;return e;})();
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

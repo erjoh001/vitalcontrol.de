@@ -3161,4 +3161,4 @@ index.acF=[21,5,0,16,760,760,"\
 \uE05E\uBD5B\uAFC0\u05BE\u7EAA\u100F\uC01E\u0173\u09F2\u7F40\u802F\uF80B\u05ED\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

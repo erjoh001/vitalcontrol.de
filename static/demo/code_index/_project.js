@@ -41,7 +41,7 @@ A.Bosnian=1;A.Bulgarian=2;A.Chinese_TWN=3;A.Czech=4;A.Danish=5;A.Default=0;A.Dut
 13;A.Japanese=14;A.Latvian=15;A.Norwegian=16;A.Polish=17;A.Portuguese=18;A.Romanian=
 19;A.Russian=20;A.Spanish=21;A.Swedish=22;A.Turkish=23;A.Ukrainian=24;A.Croatian=
 25;A.Lithuanian=26;A.Slovenian=27;
-A.abC=[1000,740];A.rs=function(){return A.kR.AMY;};A.zU="URBAN VitalControl - Demo App";
+A.abC=[1000,740];A.rs=function(){return A.kR.AMW;};A.zU="URBAN VitalControl - Demo App";
 A.o7=0;A.wA=0;A.j0=[];A._Init=function(){A.Core._Init();A.acl._Init();A.Graphics.
 _Init();A.aci._Init();A.acg._Init();A.kR._Init();A.acf._Init();A.ach._Init();A.jb.
 _Init();A.fl._Init();A.acx._Init();A.acn._Init();A.acv._Init();A.Device._Init();
@@ -60,4 +60,4 @@ D);A.acn.DI(D);A.acv.DI(D);A.Device.DI(D);A.acq.DI(D);A.aco.DI(D);A.acw.DI(D);A.
 acr.DI(D);A.acy.DI(D);A.acj.DI(D);A.acA.DI(D);A.acB.DI(D);A.acs.DI(D);A.acm.DI(D
 );A.acz.DI(D);A.acu.DI(D);A.ack.DI(D);A.acp.DI(D);A.act.DI(D);};return A;})();
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

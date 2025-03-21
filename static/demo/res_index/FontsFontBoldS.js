@@ -2442,4 +2442,4 @@ index.acD=[18,5,0,16,760,760,"\
 \u304D\u7A8E\u6C61\u07EB\u9E7E\uF606\u017A\u03D5\uBFF0\uC07F\u0030\uB7FB\u0001\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

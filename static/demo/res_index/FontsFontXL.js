@@ -764,4 +764,4 @@ index.acK=[56,15,0,16,87,87,"\
 \u501A\u0001\u0000\u0F00\uF180\u0001\u0000\u3380\uCA9F\u7C88\u1DBE\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

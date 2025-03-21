@@ -40,4 +40,4 @@ acA=(function(){var A=index;var C={};
 
 C._Init=function(){};C._ReInit=function(){};C.DI=function(D){};return C;})();
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

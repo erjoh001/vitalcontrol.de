@@ -4351,4 +4351,4 @@ index.acE=[26,7,0,16,760,760,"\
 \u3901\u026A\uFE44\u8C01\u04FF\u0000\u6CF3\uFF00\u0318\u8860\uE800\u9FEF\u0000\u0000"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

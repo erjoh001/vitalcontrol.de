@@ -610,4 +610,4 @@ C.AO={1:"Tele mu\u0161ko",25:"Heckova goveda",4:"Pekeln\xFD skot",5:"Heckkv\xE6g
 };
 C._Init=function(){};C._ReInit=function(){};C.DI=function(D){};return C;})();
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

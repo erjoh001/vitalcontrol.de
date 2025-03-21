@@ -2952,4 +2952,4 @@ index.acC=[21,5,0,16,760,760,"\
 \u0BEF\u05C0\u7EFC\u05BF"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */

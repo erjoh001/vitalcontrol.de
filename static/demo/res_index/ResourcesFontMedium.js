@@ -448,4 +448,4 @@ index.acN=[19,5,0,16,192,192,"\
 \uA8AA\u7027\uF2FD\u13C0\u144F\u2A58\uDFC0\uFE05\u80F1\u1567\uF73C\u10D3\uBE31\u0004"
 ,null,null];
 
-/* VitalControl demonstration application, © Urban GmbH & Co.KG 2023 */
+/* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */
