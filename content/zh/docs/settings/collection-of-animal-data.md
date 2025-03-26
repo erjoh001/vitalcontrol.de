@@ -23,7 +23,7 @@ maphilight: true
   <area shape="rect" coords="3,80,239,160" alt="動物評分模式" title="設置動物評分模式&#10;滑鼠點擊：打開文檔" href="#mode-of-animal-rating">
   <area shape="rect" coords="3,160,239,240" alt="新鮮奶牛控制期長度" title="設置新鮮奶牛的控制期長度&#10;滑鼠點擊：打開文檔" href="#control-period-of-fresh-cows">
 
-  <area shape="rect" coords="2,282,125,318" alt="返回" title="返回上一級" href="/en/docs/settings/">
+  <area shape="rect" coords="2,282,125,318" alt="返回" title="返回上一級" href="/zh/docs/settings/">
 </map>
 
 {{% alert title="提示" %}}

@@ -1,7 +1,10 @@
 main:
-  - name: Homepage VitalControl (in English)
-    url: ../en/
-    weight: 10
-  - name: Documentation (in English)
-    url: ../en/docs/
-    weight: 20
+  - name: 功能表結構
+    url: /docs/menu-tree/
+    weight: 30
+  - name: 示範應用程式
+    url: /demo/
+    weight: 40
+  - name: 韌體
+    url: /docs/firmware/
+    weight: 50

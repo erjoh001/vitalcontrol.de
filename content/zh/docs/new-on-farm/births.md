@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "出生"
 linkTitle: "出生"
@@ -67,6 +66,6 @@ translationKey: new-on-farm/births
 
 1. 使用箭頭鍵 △ ▽ 選擇您要編輯的動物，並確認 `{{<T "Ok" >}}`。
 
-2. 將開啟一個子選單，您可以在其中調整各種設定。點擊[這裡](/en/docs/new/calving/#register-a-calving)查看逐步說明。
+2. 將開啟一個子選單，您可以在其中調整各種設定。點擊[這裡](/zh/docs/new/calving/#register-a-calving)查看逐步說明。
 
 ![VitalControl: Menu New on farm Births](../images/edit2.png "Edit a birth notice")

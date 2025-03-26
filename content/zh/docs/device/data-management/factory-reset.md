@@ -7,9 +7,8 @@ weight: 40
 draft: false
 description: >
  所有重置設備和動物數據的資訊和指示都可以在這裡找到
-manualLink: /en/docs/reset/
+manualLink: /zh/docs/reset/
 ---
 <script>
-  window.location.href = "/en/docs/reset/";
+  window.location.href = "/zh/docs/reset/";
 </script>
-```

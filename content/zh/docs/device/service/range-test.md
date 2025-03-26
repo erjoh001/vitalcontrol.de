@@ -6,5 +6,5 @@ weight: 30
 draft: false
 description: >
  範圍測試的操作說明可以在此找到
-manualLink: /en/docs/diagnosis/rfid-scan/
+manualLink: /zh/docs/diagnosis/rfid-scan/
 ---

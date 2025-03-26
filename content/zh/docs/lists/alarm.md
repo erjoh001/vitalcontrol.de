@@ -54,7 +54,7 @@ translationKey: lists/alarm
 
 3. 在警報列表中，使用箭頭鍵 △ ▽ 選擇所需的動物並按 `{{<T "Ok" >}}` 確認。或者，您可以搜尋動物。使用 `On/Off` 按鈕 <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> 並使用箭頭鍵 ◁ ▷ △ ▽ 選擇所需的數字。最後按 `{{<T "Ok" >}}` 確認。
 
-4. `{{<T "Actions" >}}` 選單將自動打開。操作的處理方式可以在[這裡](/en/docs/actions/)找到。
+4. `{{<T "Actions" >}}` 選單將自動打開。操作的處理方式可以在[這裡](/zh/docs/actions/)找到。
 
    ![VitalControl Lists Alarmlist](../images/actionmenu.png "Action menu")
 
@@ -78,7 +78,7 @@ translationKey: lists/alarm
 
 3. 在警報清單中，使用箭頭鍵 △ ▽ 選擇所需的動物，並用 `{{<T "Ok" >}}` 確認。或者，您可以搜尋動物。使用 `On/Off` 按鈕 <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> 並使用箭頭鍵 ◁ ▷ △ ▽ 選擇所需的數字。最後用 `{{<T "Ok" >}}` 確認。
 
-4. [測量體溫](/en/docs/actions/measure-temperature/#measure-fever) 功能現在自動啟動。
+4. [測量體溫](/zh/docs/actions/measure-temperature/#measure-fever) 功能現在自動啟動。
 
    ![VitalControl 清單 警報清單](../images/temperature.png "測量體溫")
 
@@ -90,7 +90,7 @@ translationKey: lists/alarm
 
 3. 在警報清單中，使用箭頭鍵 △ ▽ 選擇所需的動物，並用 `{{<T "Ok" >}}` 確認。或者，您可以搜尋動物。使用 `On/Off` 按鈕 <img src="/icons/footer/search.svg" width="15" align="bottom" alt="Search" /> 並使用箭頭鍵 ◁ ▷ △ ▽ 選擇所需的數字。最後用 `{{<T "Ok" >}}` 確認。
 
-4. [評價動物](/en/docs/actions/rating/#rate-your-animals) 功能現在自動啟動。
+4. [評價動物](/zh/docs/actions/rating/#rate-your-animals) 功能現在自動啟動。
 
 ![VitalControl Lists Alarmlist](../images/rateanimal.png "Rate animal")
 

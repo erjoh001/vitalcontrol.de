@@ -39,4 +39,3 @@ translationKey: actions/on-watch
 如果此動作不可用，可能是該動作已被停用！請在 [動作設定](../setting/) 菜單中啟用該動作。或者，重置所有動作將使該動作重新出現。
 {{% /alert %}}
 
-请粘贴您需要翻译的Markdown内容。

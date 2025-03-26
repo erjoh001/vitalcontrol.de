@@ -38,6 +38,6 @@ translationKey: actions/setting
 
 3. 子選單會打開。使用方向鍵 △ ▽ 選擇選單項目 &nbsp;<img src="/icons/actions/action-chain.svg" width="35" align="bottom" alt="Chain of actions" />&nbsp; `{{<T "ActionChain" >}}` 並按下 `{{<T "Ok" >}}` 確認。
 
-4. 更多指示可以在[這裡](/en/docs/chain-of-actions/#set-chain-of-actions)找到。
+4. 更多指示可以在[這裡](/zh/docs/chain-of-actions/#set-chain-of-actions)找到。
 
     ![VitalControl: Menu Actions Chain of Actions](../images/chainofactions.png "Chain of Actions")
