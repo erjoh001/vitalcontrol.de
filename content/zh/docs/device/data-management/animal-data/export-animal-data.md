@@ -6,8 +6,8 @@ weight: 30
 draft: false
 description: >
  所有匯出動物資料的資訊和指示都可以在這裡找到
-manualLink: /en/docs/data-export/usb-drive/
+manualLink: /zh/docs/data-export/usb-drive/
 ---
 <script>
-  window.location.href = "/en/docs/data-export/usb-drive/";
+  window.location.href = "/zh/docs/data-export/usb-drive/";
 </script>

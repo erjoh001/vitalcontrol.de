@@ -27,7 +27,7 @@ translationKey: data-export/data-files
 [重量資料]: #weight-data-weightscsv
 [動物評分]: #animal-ratings-ratingscsv
 
-所有四個檔案都是人類可讀的 [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) 文本檔案。檔案以 `UTF-8` 格式編碼，使用分號 (`;`) 作為欄位分隔符。各個資料欄位*不*用引號括起。各表格的每一行代表一個動物資料集或對動物進行的測量或評估。
+所有四個檔案都是人類可讀的 [CSV](https://zh.wikipedia.org/wiki/Comma-separated_values) 文本檔案。檔案以 `UTF-8` 格式編碼，使用分號 (`;`) 作為欄位分隔符。各個資料欄位*不*用引號括起。各表格的每一行代表一個動物資料集或對動物進行的測量或評估。
 
 ## 匯出資料的進一步處理 {#further-processing-of-exported-data}
 
@@ -60,7 +60,7 @@ translationKey: data-export/data-files
 | 5 | `Sex`                | 性別                           | _值:_ `M`: 男性, `F`: 女性, `?`: 未知                     |
 | 6 | `BirthWeight-Kg`     | 出生體重                       | 單位：`公斤`，可能未記錄 / 缺失                           |
 
-[ISO1174/85]: https://en.wikipedia.org/wiki/ISO_11784_and_ISO_11785
+[ISO1174/85]: https://zh.wikipedia.org/wiki/ISO_11784_and_ISO_11785
 
 如有需要，您也可以下載提供的範例檔案 [animals.csv][]。
 

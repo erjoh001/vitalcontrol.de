@@ -3,7 +3,7 @@ title: 圖形使用者介面的選單結構
 linkTitle: 選單樹
 date: 2023-09-15T12:45:53+02:00
 draft: false
-url: /en/docs/menu-tree
+url: /zh/docs/menu-tree
 weight: -10
 description: >
   顯示 VitalControl 裝置的互動式選單樹。

@@ -8,7 +8,7 @@ description: >
  透過資料還原，可以使用備份檔案將 VitalControl 裝置的全部資料還原到不同的裝置上。
 translationKey: restore
 ---
-{{% usb-drive/en "為了將資料備份還原到您的 VitalControl 裝置上，" %}}
+{{% usb-drive/zh "為了將資料備份還原到您的 VitalControl 裝置上，" %}}
 
 在此 USB 隨身碟上，必須存在一個目錄 `backup`，其中必須包含一個有效的 **資料備份檔案 `backup.vcu`**。
 

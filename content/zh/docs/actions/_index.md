@@ -14,25 +14,25 @@ maphilight: true
 <img src="images/menu2.png" alt="VitalControl Actions" title="Actions" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="3,100,60,165" alt="Temperature" title="測量動物的發燒&#10;滑鼠點擊：打開文件" href="/en/docs/actions/measure-temperature/">
-  <area shape="rect" coords="60,100,118,165" alt="Weighing" title="記錄動物的重量&#10;滑鼠點擊：打開文件" href="/en/docs/actions/record-weight/">
-  <area shape="rect" coords="118,100,174,165" alt="Rating" title="評價您的動物&#10;滑鼠點擊：打開文件" href="/en/docs/actions/rating/">
-  <area shape="rect" coords="174,100,230,165" alt="Chain of actions" title="應用和設置操作鏈&#10;滑鼠點擊：打開文件" href="/en/docs/chain-of-actions/">
-   <area shape="rect" coords="3,165,60,225" alt="Calving" title="註冊分娩&#10;滑鼠點擊：打開文件" href="/en/docs/actions/calving/">
-   <area shape="rect" coords="60,165,120,225" alt="Dry off" title=" 乾奶或將其添加到新鮮奶牛列表&#10;滑鼠點擊：打開文件" href="/en/docs/actions/dry-off/">
-   <area shape="rect" coords="120,165,175,225" alt="Alarm" title="將動物添加或移除警報列表&#10;滑鼠點擊：打開文件" href="/en/docs/actions/alarm/">
-   <area shape="rect" coords="175,165,230,225" alt="On watch" title="將動物放入觀察列表或移除&#10;滑鼠點擊：打開文件" href="/en/docs/actions/on-watch/">
-   <area shape="rect" coords="3,225,60,280" alt="Animal history" title="查看動物的歷史&#10;滑鼠點擊：打開文件" href="/en/docs/actions/animal-history/">
-   <area shape="rect" coords="60,225,120,280" alt="Edit" title="編輯所選動物的數據&#10;滑鼠點擊：打開文件" href="/en/docs/actions/edit/">
-   <area shape="rect" coords="120,225,175,280" alt="Unregister" title="取消註冊動物&#10;滑鼠點擊：打開文件" href="/en/docs/actions/unregister/">
-   <area shape="rect" coords="175,225,230,280" alt="Animal loss" title="註冊動物損失&#10;滑鼠點擊：打開文件" href="/en/docs/actions/animal-loss/">
-   <area shape="rect" coords="3,280,60,337" alt="Link transponder" title="為動物分配一個應答器&#10;滑鼠點擊：打開文件" href="/en/docs/actions/link-transponder/">
-   <area shape="rect" coords="55,280,120,337" alt="Unlink transponder" title="移除動物的應答器連結&#10;滑鼠點擊：打開文件" href="/en/docs/actions/unlink-transponder/">
-   <area shape="rect" coords="120,280,175,337" alt="Link animal ID manually" title="為沒有國家動物 ID 的動物分配一個國家動物 ID&#10;滑鼠點擊：打開文件" href="/en/docs/actions/link-animal-id/#link-animal-id">
-   <area shape="rect" coords="175,280,230,337" alt="Link animal ID with scan" title="為沒有國家動物 ID 的動物分配一個國家動物 ID&#10;滑鼠點擊：打開文件" href="/en/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
+  <area shape="rect" coords="3,100,60,165" alt="Temperature" title="測量動物的發燒&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/measure-temperature/">
+  <area shape="rect" coords="60,100,118,165" alt="Weighing" title="記錄動物的重量&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/record-weight/">
+  <area shape="rect" coords="118,100,174,165" alt="Rating" title="評價您的動物&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/rating/">
+  <area shape="rect" coords="174,100,230,165" alt="Chain of actions" title="應用和設置操作鏈&#10;滑鼠點擊：打開文件" href="/zh/docs/chain-of-actions/">
+   <area shape="rect" coords="3,165,60,225" alt="Calving" title="註冊分娩&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/calving/">
+   <area shape="rect" coords="60,165,120,225" alt="Dry off" title=" 乾奶或將其添加到新鮮奶牛列表&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/dry-off/">
+   <area shape="rect" coords="120,165,175,225" alt="Alarm" title="將動物添加或移除警報列表&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/alarm/">
+   <area shape="rect" coords="175,165,230,225" alt="On watch" title="將動物放入觀察列表或移除&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/on-watch/">
+   <area shape="rect" coords="3,225,60,280" alt="Animal history" title="查看動物的歷史&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/animal-history/">
+   <area shape="rect" coords="60,225,120,280" alt="Edit" title="編輯所選動物的數據&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/edit/">
+   <area shape="rect" coords="120,225,175,280" alt="Unregister" title="取消註冊動物&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/unregister/">
+   <area shape="rect" coords="175,225,230,280" alt="Animal loss" title="註冊動物損失&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/animal-loss/">
+   <area shape="rect" coords="3,280,60,337" alt="Link transponder" title="為動物分配一個應答器&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/link-transponder/">
+   <area shape="rect" coords="55,280,120,337" alt="Unlink transponder" title="移除動物的應答器連結&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/unlink-transponder/">
+   <area shape="rect" coords="120,280,175,337" alt="Link animal ID manually" title="為沒有國家動物 ID 的動物分配一個國家動物 ID&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/link-animal-id/#link-animal-id">
+   <area shape="rect" coords="175,280,230,337" alt="Link animal ID with scan" title="為沒有國家動物 ID 的動物分配一個國家動物 ID&#10;滑鼠點擊：打開文件" href="/zh/docs/actions/link-animal-id/#link-animal-id-with-electronic-ear-tag-scan">
 
 
-<area shape="rect" coords="100,340,140,375" alt="設定" title="呼叫設定&#10;滑鼠點擊：前往文件" href="/en/docs/actions/setting/">
+<area shape="rect" coords="100,340,140,375" alt="設定" title="呼叫設定&#10;滑鼠點擊：前往文件" href="/zh/docs/actions/setting/">
 </map>
 
 {{% alert title="提示" %}}
