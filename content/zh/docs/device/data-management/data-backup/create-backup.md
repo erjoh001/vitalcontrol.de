@@ -6,8 +6,8 @@ weight: 10
 draft: false
 description: >
  建立備份的說明可以在這裡找到
-manualLink: /en/docs/backup/backup/
+manualLink: /zh/docs/backup/backup/
 ---
 <script>
-  window.location.href = "/en/docs/backup/backup/";
+  window.location.href = "/zh/docs/backup/backup/";
 </script>

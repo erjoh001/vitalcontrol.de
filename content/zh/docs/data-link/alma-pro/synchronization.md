@@ -109,5 +109,3 @@ translationKey: alma-pro/synchronization
             </figure>
         </div>
     </div>
-
-请粘贴您需要翻译的Markdown内容。

@@ -22,12 +22,12 @@ maphilight: true
 <img src="../images/imagemap.png" alt="VitalControl 評估" title="重量" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-   <area shape="rect" coords="3,40,116,160" alt="今日稱重" title="評估您在當天使用 VitalControl 記錄的動物重量值&#10;滑鼠點擊：查看文件" href="/en/docs/evaluation/weight/#todays-weighings">
-   <area shape="rect" coords="116,40,238,160" alt="出生體重" title="評估您儲存的出生體重&#10;滑鼠點擊：查看文件" href="/en/docs/evaluation/weight/#birth-weights">
-   <area shape="rect" coords="3,160,116,279" alt="體重發展" title="評估您動物的體重發展&#10;滑鼠點擊：查看文件" href="/en/docs/evaluation/weight/#weight-development">
+   <area shape="rect" coords="3,40,116,160" alt="今日稱重" title="評估您在當天使用 VitalControl 記錄的動物重量值&#10;滑鼠點擊：查看文件" href="/zh/docs/evaluation/weight/#todays-weighings">
+   <area shape="rect" coords="116,40,238,160" alt="出生體重" title="評估您儲存的出生體重&#10;滑鼠點擊：查看文件" href="/zh/docs/evaluation/weight/#birth-weights">
+   <area shape="rect" coords="3,160,116,279" alt="體重發展" title="評估您動物的體重發展&#10;滑鼠點擊：查看文件" href="/zh/docs/evaluation/weight/#weight-development">
 
-   <area shape="rect" coords="150,282,238,319" alt="篩選器" title="設置篩選器&#10;滑鼠點擊：查看文件" href="/en/docs/filter">
-   <area shape="rect" coords="2,282,95,319" alt="返回" title="返回上一層&#10;滑鼠點擊：查看文件" href="/en/docs/evaluation/">
+   <area shape="rect" coords="150,282,238,319" alt="篩選器" title="設置篩選器&#10;滑鼠點擊：查看文件" href="/zh/docs/filter">
+   <area shape="rect" coords="2,282,95,319" alt="返回" title="返回上一層&#10;滑鼠點擊：查看文件" href="/zh/docs/evaluation/">
 </map>
 
 ## 今日稱重 {#todays-weighings}

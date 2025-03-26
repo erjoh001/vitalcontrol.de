@@ -115,6 +115,6 @@ translationKey: new-on-farm/new-on-farm
 
 1. 使用方向鍵 △ ▽ 選擇您要編輯的動物。
 
-2. 使用 `{{<T "Ok" >}}` 按鈕。會開啟一個包含動物資料的子選單。您可以在[這裡](/en/docs/actions/edit/#edit-animal-data)找到如何編輯這些資料。
+2. 使用 `{{<T "Ok" >}}` 按鈕。會開啟一個包含動物資料的子選單。您可以在[這裡](/zh/docs/actions/edit/#edit-animal-data)找到如何編輯這些資料。
 
     ![VitalControl：購買動物列表，編輯動物資料](../images/edit.png "編輯購買動物的資料")

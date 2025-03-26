@@ -6,8 +6,8 @@ weight: 20
 draft: false
 description: >
   還原備份的指示可以在此找到
-manualLink: /en/docs/backup/restore/
+manualLink: /zh/docs/backup/restore/
 ---
 <script>
-  window.location.href = "/en/docs/backup/restore/";
+  window.location.href = "/zh/docs/backup/restore/";
 </script>

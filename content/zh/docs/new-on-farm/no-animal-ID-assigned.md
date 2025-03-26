@@ -81,4 +81,4 @@ translationKey: new-on-farm/no-animal-ID-assigned
 
 ## 進一步的選單項目 {#further-menu-items}
 
-您還可以在彈出視窗中選擇 `{{<T "SearchAnimal" >}}` 和 `{{<T "SetFilter" >}}`。使用箭頭按鈕 △ ▽ 導航到相應的選單項目並確認 `{{<T "Ok" >}}`。`{{<T "SetFilter" >}}` 的資訊 [此處](/en/docs/filter/) 和 `{{<T "SearchAnimal" >}}` 的操作如 `{{<T "NoAnimalIDAssigned" >}}` 步驟 4。
+您還可以在彈出視窗中選擇 `{{<T "SearchAnimal" >}}` 和 `{{<T "SetFilter" >}}`。使用箭頭按鈕 △ ▽ 導航到相應的選單項目並確認 `{{<T "Ok" >}}`。`{{<T "SetFilter" >}}` 的資訊 [此處](/zh/docs/filter/) 和 `{{<T "SearchAnimal" >}}` 的操作如 `{{<T "NoAnimalIDAssigned" >}}` 步驟 4。

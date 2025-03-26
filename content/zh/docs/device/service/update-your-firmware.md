@@ -6,5 +6,5 @@ weight: 20
 draft: false
 description: >
  您可以在此找到更新韌體的說明
-manualLink: /en/docs/firmware/update/
+manualLink: /zh/docs/firmware/update/
 ---

@@ -6,5 +6,5 @@ weight: 10
 draft: false
 description: >
  您可以在此找到檢查設備驅動程式的說明
-manualLink: /en/docs/diagnosis/hardware/
+manualLink: /zh/docs/diagnosis/hardware/
 ---
