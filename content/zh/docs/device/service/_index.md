@@ -19,9 +19,9 @@ maphilight: true
 <img src="menu.png" alt="VitalControl 服務" title="服務" usemap="#workmap" class="maphilight" />
 
 <map name="workmap">
-  <area shape="rect" coords="2,42,238,82" alt="檢查設備驅動程式" title="檢查您的設備驅動程式的說明可以在這裡找到&#10;滑鼠點擊：打開文件" href="/en/docs/diagnosis/hardware/">
-  <area shape="rect" coords="2,82,238,122" alt="韌體更新" title="更新您的韌體的說明可以在這裡找到&#10;滑鼠點擊：打開文件" href="/en/docs/firmware/update/">
-  <area shape="rect" coords="2,122,238,162" alt="範圍測試" title="執行範圍測試的說明可以在這裡找到&#10;滑鼠點擊：打開文件" href="/en/docs/diagnosis/rfid-scan/">
+  <area shape="rect" coords="2,42,238,82" alt="檢查設備驅動程式" title="檢查您的設備驅動程式的說明可以在這裡找到&#10;滑鼠點擊：打開文件" href="/zh/docs/diagnosis/hardware/">
+  <area shape="rect" coords="2,82,238,122" alt="韌體更新" title="更新您的韌體的說明可以在這裡找到&#10;滑鼠點擊：打開文件" href="/zh/docs/firmware/update/">
+  <area shape="rect" coords="2,122,238,162" alt="範圍測試" title="執行範圍測試的說明可以在這裡找到&#10;滑鼠點擊：打開文件" href="/zh/docs/diagnosis/rfid-scan/">
 
-  <area shape="rect" coords="2,282,120,319" alt="返回" title="返回上一層&#10;滑鼠點擊：打開文件" href="/en/docs/device/">
+  <area shape="rect" coords="2,282,120,319" alt="返回" title="返回上一層&#10;滑鼠點擊：打開文件" href="/zh/docs/device/">
 </map>

@@ -91,5 +91,3 @@ VitalControl 韌體包含以下語言的翻譯：
 [![VitalControl: 主菜單選擇烏克蘭文](/images/homescreen/ukrainian.png "主菜單 烏克蘭文")](/uk/demo/ "Demo app VitalControl (UK)")
   {{% /tab %}}
 {{< /tabpane >}}
-
-请粘贴您需要翻译的Markdown内容。

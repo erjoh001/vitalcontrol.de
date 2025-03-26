@@ -9,7 +9,7 @@ categories: [資料匯出]
 tags: [CSV 檔案, USB 隨身碟]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/en "In order to perform an export of your device data," %}}
+{{% usb-drive/zh "In order to perform an export of your device data," %}}
 
 ## 執行資料匯出 {#perform-data-export}
 
@@ -39,5 +39,3 @@ translationKey: data-export/usb-drive
   - 為防止匯出檔案被意外覆蓋，每個匯出檔案的檔名中都包含檔案建立的日期和時間。如果您多次匯出動物資料，請務必使用匯出檔案的最新版本。
   - 匯出檔案的大小取決於 VitalControl 上的動物數量和執行的測量次數。一般來說，匯出檔案只佔用 USB 隨身碟上幾 kB 的儲存空間。
    {{% /alert %}}
-
-請提供要翻譯的 Markdown 內容。

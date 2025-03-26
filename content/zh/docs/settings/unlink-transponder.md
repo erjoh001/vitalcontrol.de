@@ -21,7 +21,7 @@ translationKey: settings/unlink-transponder
 
 3. 現在使用箭頭按鈕 ◁ ▷ 選擇您想要的設定。您可以選擇 `{{<T "NoChange" >}}` 或 `{{<T "DerivationEarTagNo" >}}`。
 
-4. 設定選項 `{{<T "DerivationEarTagNo" >}}` 允許您進行進一步的設定。請參見[這裡](/en/docs/settings/animal-registration/#digit-of-the-new-id)。
+4. 設定選項 `{{<T "DerivationEarTagNo" >}}` 允許您進行進一步的設定。請參見[這裡](/zh/docs/settings/animal-registration/#digit-of-the-new-id)。
 
    ![VitalControl: Menu Settings Unlink transponder](../images/unlink-transponder.png "Unlink transponder")
    

@@ -40,5 +40,3 @@ translationKey: settings/units
     ![VitalControl: menu settings mass unit](../images/mass.png "Mass unit")
 
 保存設定並使用 `F1` 鍵 &nbsp;<img src="/icons/footer/save_exit.svg" width="65" align="bottom" alt="Save and return" /> 返回頂層菜單 <img src="/icons/gear.svg" width="25" align="bottom" alt="Settings" /> `{{<T "Settings" >}}`。
-
-请提供要翻译的Markdown内容。

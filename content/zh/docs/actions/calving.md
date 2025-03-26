@@ -17,6 +17,6 @@ translationKey: actions/calving
 
 ## 登記分娩 {#register-a-calving}
 
-一旦進入動作選單，選擇選單項目 <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` 並確認 `{{<T "Ok" >}}`。按照[分娩登記](/en/docs/new/calving/)中的說明進行操作。
+一旦進入動作選單，選擇選單項目 <img src="/icons/actions/calving.svg" width="25" align="bottom" alt="Calving"  alt="Calving"/> `{{<T "Calving" >}}` 並確認 `{{<T "Ok" >}}`。按照[分娩登記](/zh/docs/new/calving/)中的說明進行操作。
 
    ![VitalControl: Menu Actions Calving](../images/calving.png "Calving")

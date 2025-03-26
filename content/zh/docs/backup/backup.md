@@ -9,7 +9,7 @@ categories: [資料備份]
 tags: [備份檔案, USB 隨身碟]
 translationKey: backup
 ---
-{{% usb-drive/en "為了對您的設備進行資料備份，" %}}
+{{% usb-drive/zh "為了對您的設備進行資料備份，" %}}
 
 ## 執行資料備份 {#perform-data-backup}
 

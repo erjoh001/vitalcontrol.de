@@ -13,7 +13,7 @@ translationKey: new-on-farm/new-on-farm, no transponder
 ---
 ### 新進農場，無晶片 {#new-on-farm-no-transponder}
 
-在此列表中，您將找到所有新創建的動物，這些動物的最大年齡為 X 天，尚未分配晶片。您可以在[這裡](/en/docs/settings/animal-registration/#set-default-values)設置最大年齡。一旦您從這些動物中收集到晶片，您可以在列表中搜索相應的動物 ID 並掃描相關的晶片。然後，晶片會自動分配給動物，該動物將從列表中刪除。要分配晶片，請按以下步驟進行：
+在此列表中，您將找到所有新創建的動物，這些動物的最大年齡為 X 天，尚未分配晶片。您可以在[這裡](/zh/docs/settings/animal-registration/#set-default-values)設置最大年齡。一旦您從這些動物中收集到晶片，您可以在列表中搜索相應的動物 ID 並掃描相關的晶片。然後，晶片會自動分配給動物，該動物將從列表中刪除。要分配晶片，請按以下步驟進行：
 
 1. 在您的 VitalControl 設備主屏幕中，選擇菜單項 <img src="/icons/main/new-on-farm.svg" width="40" align="bottom" alt="新進農場" /> `{{<T "NewOnFarm" >}}` 並按下 `{{<T "Ok" >}}` 按鈕。
 
@@ -61,4 +61,4 @@ translationKey: new-on-farm/new-on-farm, no transponder
 
 ## 其他菜單項目 {#further-menu-items}
 
-您還可以在彈出視窗中選擇 `{{<T "NewOnFarmNoTransponder" >}}`、`{{<T "Settings" >}}` 和 `{{<T "SetFilter" >}}`。使用箭頭按鈕 △ ▽ 導航到相應的菜單項目並按 `{{<T "Ok" >}}` 確認。菜單項目 `{{<T "NewOnFarmNoTransponder" >}}` 的信息可以在[這裡](/en/docs/settings/animal-registration/#set-default-values)找到，`{{<T "SetFilter" >}}` 的信息在[這裡](/en/docs/filter/)，而 `{{<T "Settings" >}}` 的操作如 `{{<T "Ok" >}}` 步驟3。
+您還可以在彈出視窗中選擇 `{{<T "NewOnFarmNoTransponder" >}}`、`{{<T "Settings" >}}` 和 `{{<T "SetFilter" >}}`。使用箭頭按鈕 △ ▽ 導航到相應的菜單項目並按 `{{<T "Ok" >}}` 確認。菜單項目 `{{<T "NewOnFarmNoTransponder" >}}` 的信息可以在[這裡](/zh/docs/settings/animal-registration/#set-default-values)找到，`{{<T "SetFilter" >}}` 的信息在[這裡](/zh/docs/filter/)，而 `{{<T "Settings" >}}` 的操作如 `{{<T "Ok" >}}` 步驟3。
