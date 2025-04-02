@@ -22,7 +22,10 @@ translationKey: backup
 
 3. Stecken Sie den USB-Stick (C-Stecker) in die Buchse im Handgriff des Geräts ein.
 
-   ![VitalControl: USB-Stick einstecken](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-Stick einstecken")
+    <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" width="500px" align="bottom" alt="VitalControl:USB-Stick einstecken" title="USB-Stick einstecken" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 2: USB-Stick am VitalControl einstecken</figcaption></a>
+    </figure>
 
 4. Sobald das Gerät das Einstecken des USB-Sticks erkannt hat wird automatisch mit der Durchführung der Datensicherung begonnen. Das Erfassen, Komprimieren und Schreiben des Backups kann eine Minute oder länger dauern. Nach Abschluss der Datensicherung wird eine Erfolgsmeldung angezeigt:
 
