@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Sisestage USB mälupulk (C pistik) seadme alumisse pistikupessa.
 
-   ![VitalControl: sisesta USB mälupulk](/images/firmware/update/plug-in-dual-usb-stick.svg "Sisesta USB mälupulk")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl:Sisestage USB-mälupulk" title="Sisestage USB-mälupulk" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Joonis 2: Sisestage USB-mälupulk VitalControli</figcaption></a>
+   </figure>
 
 4. Kui seade on USB pulga sisestamise tuvastanud, algab andmete varundamine automaatselt. Andmete kogumine, kokkupressimine ja kirjutamine võib võtta minuti või kauem. Kui varundamine on lõppenud, kuvatakse edukateade:
 

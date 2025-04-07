@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Вмъкнете USB флаш устройството (C конектор) в конектора в долната част на устройството.
 
-   ![VitalControl: вмъкване на USB флаш устройство](/images/firmware/update/plug-in-dual-usb-stick.svg "Вмъкване на USB флаш устройство")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Поставете USB стик" title="Поставете USB стик" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Фигура 2: Поставяне на USB паметта в VitalControl</figcaption></a>
+   </figure>
 
 4. След като устройството засече вмъкването на USB стика, резервното копие автоматично започва. Събирането, компресирането и записването на данните за резервно копие може да отнеме минута или повече. Когато резервното копие е готово, се показва съобщение за успех:
 

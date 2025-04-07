@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Insira o pen drive USB (plugue C) no conector na parte inferior do dispositivo.
 
-   ![VitalControl: inserir pen drive USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Inserir pen drive USB")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Insira o pendrive" title="Insira o pendrive" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Figura 2: Inserção do pendrive no VitalContro</figcaption></a>
+   </figure>
 
 4. Uma vez que o dispositivo detecte a inserção do pen drive, o backup de dados será iniciado automaticamente. Coletar, comprimir e gravar os dados do backup pode levar um minuto ou mais. Quando o backup estiver concluído, uma mensagem de sucesso será exibida:
 

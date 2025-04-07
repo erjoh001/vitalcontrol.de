@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Aseta USB-muistitikku (C-liitin) laitteen alaosassa olevaan liittimeen.
 
-   ![VitalControl: aseta USB-muistitikku](/images/firmware/update/plug-in-dual-usb-stick.svg "Aseta USB-muistitikku")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Aseta USB-tikku" title="Aseta USB-tikku" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Kuva 2: Aseta USB-tikku VitalControliin</figcaption></a>
+   </figure>
 
 4. Kun laite on havainnut USB-tikun asettamisen, tietojen varmuuskopiointi käynnistyy automaattisesti. Tietojen kerääminen, pakkaaminen ja varmuuskopiotiedoston kirjoittaminen voi kestää minuutin tai kauemmin. Kun varmuuskopiointi on valmis, näytölle tulee onnistumisilmoitus:
 

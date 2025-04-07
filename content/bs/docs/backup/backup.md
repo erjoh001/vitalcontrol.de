@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Umetnite USB flash drive (C priključak) u konektor na dnu uređaja.
 
-   ![VitalControl: umetnite USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Umetnite USB flash drive")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Umetnite USB stick" title="Umetnite USB stick" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Slika 2: Umetnite USB stick u VitalControl</figcaption></a>
+   </figure>
 
 4. Kada uređaj detektuje umetanje USB sticka, sigurnosna kopija podataka automatski započinje. Prikupljanje, kompresija i pisanje podataka sigurnosne kopije može potrajati minutu ili duže. Kada je sigurnosna kopija završena, prikazuje se poruka o uspjehu:
 

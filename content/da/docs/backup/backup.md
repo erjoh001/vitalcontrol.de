@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Indsæt USB-flashdrevet (C-stik) i stikket i bunden af enheden.
 
-   ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Indsæt USB-nøgle" title="Indsæt USB-nøgle" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Figur 2: Indsættelse af USB-stik i VitalControl</figcaption></a>
+   </figure>
 
 4. Når enheden har registreret indsættelsen af USB-stikket, starter databackuppen automatisk. Indsamling, komprimering og skrivning af backupdataene kan tage et minut eller længere. Når backupen er færdig, vises en succesmeddelelse:
 

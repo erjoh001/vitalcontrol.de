@@ -25,7 +25,10 @@ translationKey: backup
 
 4. Kad ierīce konstatē USB zibatmiņas ievietošanu, datu rezerves kopija tiek automātiski sākta. Datu savākšana, saspiešana un rakstīšana var aizņemt minūti vai ilgāk. Kad rezerves kopija ir pabeigta, tiek parādīts veiksmīgas darbības ziņojums:
 
-   ![VitalControl: veiksmīgas darbības ziņojums rezerves kopijai](../images/backup-done.png "Veiksmīga datu rezerves kopija")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Ievietojiet USB zibatmiņu" title="Ievietojiet USB zibatmiņu" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">2. attēls. Ievietojiet USB zibatmiņu programmā VitalControl</figcaption></a>
+   </figure>
 
 5. Datu rezerves kopija ir izveidota. Jūs atradīsiet izveidoto failu `backup.vcu` direktorijā `backup` uz jūsu USB zibatmiņas. Rezerves fails aizņem aptuveni 1 MB atmiņas vietas zibatmiņā.
 

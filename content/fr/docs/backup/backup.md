@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Insérez la clé USB (connecteur C) dans le connecteur situé en bas de l'appareil.
 
-   ![VitalControl : insérer une clé USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insérer une clé USB")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Insérer une clé USB" title="Insérer une clé USB" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Figure 2 : Insertion de la clé USB dans le VitalControl</figcaption></a>
+   </figure>
 
 4. Une fois que l'appareil a détecté l'insertion de la clé USB, la sauvegarde de données démarre automatiquement. La collecte, la compression et l'écriture des données de sauvegarde peuvent prendre une minute ou plus. Lorsque la sauvegarde est terminée, un message de succès s'affiche :
 

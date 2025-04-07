@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Włóż pendrive USB (wtyczka C) do złącza na dole urządzenia.
 
-   ![VitalControl: włóż pendrive USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Włóż pendrive USB")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl:Włóż pamięć USB" title="Włóż pamięć USB" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Rysunek 2: Wkładanie pamięci USB do VitalControl</figcaption></a>
+   </figure>
 
 4. Gdy urządzenie wykryje włożenie pendrive'a, kopia zapasowa danych zostanie automatycznie uruchomiona. Zbieranie, kompresowanie i zapisywanie danych kopii zapasowej może potrwać minutę lub dłużej. Po zakończeniu kopii zapasowej wyświetlony zostanie komunikat o sukcesie:
 

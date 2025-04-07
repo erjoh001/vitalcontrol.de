@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Vstavite USB ključek (C priključek) v priključek na dnu naprave.
 
-   ![VitalControl: vstavite USB ključek](/images/firmware/update/plug-in-dual-usb-stick.svg "Vstavite USB ključek")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Vstavite USB ključ" title="Vstavite USB ključ" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Slika 2: Vstavite USB ključek v VitalControl</figcaption></a>
+   </figure>
 
 4. Ko naprava zazna vstavitev USB ključka, se varnostna kopija podatkov samodejno začne. Zbiranje, stiskanje in zapisovanje varnostne kopije lahko traja minuto ali več. Ko je varnostna kopija končana, se prikaže sporočilo o uspehu:
 

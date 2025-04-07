@@ -21,7 +21,10 @@ translationKey: backup
 
 3. USB flash sürücüyü (C fişi) cihazın altındaki konektöre takın.
 
-   ![VitalControl: USB flash sürücü takın](/images/firmware/update/plug-in-dual-usb-stick.svg "USB flash sürücü takın")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: USB belleği takın" title="USB belleği takın" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Şekil 2: USB belleğin VitalControl'e takılması</figcaption></a>
+   </figure>
 
 4. Cihaz USB çubuğunun takıldığını algıladığında, veri yedeklemesi otomatik olarak başlar. Yedekleme verilerini toplama, sıkıştırma ve yazma işlemi bir dakika veya daha uzun sürebilir. Yedekleme tamamlandığında, bir başarı mesajı görüntülenir:
 

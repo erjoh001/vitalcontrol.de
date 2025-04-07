@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Insert the USB flash drive (C plug) into the connector at the bottom of the device.
 
-   ![VitalControl: insert USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Insert USB flash drive")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Insert USB stick" title="Insert USB stick" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Figure 2: Inserting the USB stick into the VitalControl</figcaption></a>
+   </figure>
 
 4. Once the device detected insertion of the USB stick, the data backup is automatically started. Collecting, compressing and writing the backup data may take a minute or longer. When the backup is done, a success message is displayed:
 

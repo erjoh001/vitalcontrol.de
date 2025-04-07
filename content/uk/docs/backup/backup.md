@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Вставте USB флеш-накопичувач (роз'єм C) у роз'єм на нижній частині пристрою.
 
-   ![VitalControl: вставте USB флеш-накопичувач](/images/firmware/update/plug-in-dual-usb-stick.svg "Вставте USB флеш-накопичувач")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Вставте USB-накопичувач" title="Вставте USB-накопичувач" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Рисунок 2: Вставте USB-накопичувач у VitalControl</figcaption></a>
+   </figure>
 
 4. Після того, як пристрій виявить вставлення USB флеш-накопичувача, резервне копіювання даних автоматично розпочнеться. Збір, стиснення та запис резервних даних можуть зайняти хвилину або більше. Коли резервне копіювання завершено, відображається повідомлення про успіх:
 
