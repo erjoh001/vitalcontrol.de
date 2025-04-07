@@ -1,5 +1,5 @@
-## Required accessory
+## 所需的配件
 
-{{ .Get 0 }} you need a dual USB flash drive (2-in-1 USB stick) Type-C/USB 3.0 with a USB C connector and a USB A connector. Such a dual USB flash drive is delivered together with your device. You may also purchase such an USB flash drive from different vendors.
+{{ .Get 0 }} 您需要一個 USB C 接頭和 USB A 接頭的 Type-C/USB 3.0 雙 USB 隨身碟 (2 合 1 USB 隨身碟)。這種雙重 USB 隨身碟會隨裝置一起出貨。您也可以從不同廠商購買這樣的 USB 隨身碟。
 
 ![Dual USB flash drive (USB A / USB C)](/images/firmware/update/usb-dual-stick.svg)

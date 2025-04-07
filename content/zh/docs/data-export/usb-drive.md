@@ -9,7 +9,7 @@ categories: [資料匯出]
 tags: [CSV 檔案, USB 隨身碟]
 translationKey: data-export/usb-drive
 ---
-{{% usb-drive/zh "In order to perform an export of your device data," %}}
+{{% usb-drive/zh "若要匯出您的裝置資料、" %}}
 
 ## 執行資料匯出 {#perform-data-export}
 
