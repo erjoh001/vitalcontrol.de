@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Introduceți unitatea flash USB (conector C) în conectorul de la baza dispozitivului.
 
-   ![VitalControl: introduceți unitatea flash USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Introduceți unitatea flash USB")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Introduceți un stick USB" title="Introduceți un stick USB" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Figura 2: Introduceți stick-ul USB în VitalControl</figcaption></a>
+   </figure>
 
 4. Odată ce dispozitivul a detectat introducerea stick-ului USB, backup-ul de date va începe automat. Colectarea, comprimarea și scrierea datelor de backup poate dura un minut sau mai mult. Când backup-ul este finalizat, va fi afișat un mesaj de succes:
 

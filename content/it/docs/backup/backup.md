@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Inserisci la chiavetta USB (plug C) nel connettore situato nella parte inferiore del dispositivo.
 
-   ![VitalControl: inserisci chiavetta USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Inserisci chiavetta USB")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl:Inserire la chiavetta USB" title="Inserire la chiavetta USB" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Figura 2: Inserimento della chiavetta USB nel VitalControl</figcaption></a>
+   </figure>
 
 4. Una volta che il dispositivo ha rilevato l'inserimento della chiavetta USB, il backup dei dati viene avviato automaticamente. La raccolta, compressione e scrittura dei dati di backup può richiedere un minuto o più. Quando il backup è completato, viene visualizzato un messaggio di successo:
 

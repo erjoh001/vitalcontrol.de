@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Įdėkite USB atmintinę (C jungtis) į jungtį įrenginio apačioje.
 
-   ![VitalControl: įdėti USB atmintinę](/images/firmware/update/plug-in-dual-usb-stick.svg "Įdėti USB atmintinę")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Įdėkite USB atmintinę" title="Įdėkite USB atmintinę" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">2 pav.: Įdėkite USB atmintinę į VitalContro</figcaption></a>
+   </figure>
 
 4. Kai įrenginys aptiks USB atmintinės įdėjimą, duomenų atsarginė kopija bus automatiškai pradėta. Duomenų rinkimas, suspaudimas ir rašymas gali užtrukti minutę ar ilgiau. Kai atsarginė kopija bus baigta, bus rodoma sėkmės žinutė:
 

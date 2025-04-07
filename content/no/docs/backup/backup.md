@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Sett inn USB-minnepinnen (C-plugg) i kontakten nederst på enheten.
 
-   ![VitalControl: sett inn USB-minnepinne](/images/firmware/update/plug-in-dual-usb-stick.svg "Sett inn USB-minnepinne")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Sett inn USB-pinne" title="Sett inn USB-pinne" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Figur 2: Sett inn USB-pinne i VitalControl</figcaption></a>
+   </figure>
 
 4. Når enheten har oppdaget innsetting av USB-pinnen, starter sikkerhetskopieringen automatisk. Innsamling, komprimering og skriving av sikkerhetskopidataene kan ta et minutt eller lengre. Når sikkerhetskopien er ferdig, vises en suksessmelding:
 

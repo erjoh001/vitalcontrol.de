@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Vložte USB flash disk (C konektor) do konektoru na spodní straně zařízení.
 
-   ![VitalControl: vložte USB flash disk](/images/firmware/update/plug-in-dual-usb-stick.svg "Vložte USB flash disk")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Vložení paměti USB" title="Vložení paměti USB" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Obrázek 2: Vložení USB klíče do zařízení VitalControl</figcaption></a>
+   </figure>
 
 4. Jakmile zařízení detekuje vložení USB disku, záloha dat se automaticky spustí. Shromažďování, komprese a zápis záložních dat může trvat minutu nebo déle. Po dokončení zálohy se zobrazí zpráva o úspěchu:
 

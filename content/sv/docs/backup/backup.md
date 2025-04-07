@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Sätt in USB-minnet (C-kontakt) i kontakten längst ner på enheten.
 
-   ![VitalControl: sätt in USB-minne](/images/firmware/update/plug-in-dual-usb-stick.svg "Sätt in USB-minne")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Sätt i USB-minnet" title="Sätt i USB-minnet" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Bild 2: Sätt i USB-minnet i VitalCon</figcaption></a>
+   </figure>
 
 4. När enheten har upptäckt att USB-minnet har satts in, startas databas säkerhetskopieringen automatiskt. Insamling, komprimering och skrivning av säkerhetskopieringsdata kan ta en minut eller längre. När säkerhetskopieringen är klar visas ett meddelande om framgång:
 

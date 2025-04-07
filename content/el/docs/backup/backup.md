@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Εισάγετε το USB flash drive (C plug) στην υποδοχή στο κάτω μέρος της συσκευής.
 
-   ![VitalControl: εισαγωγή USB flash drive](/images/firmware/update/plug-in-dual-usb-stick.svg "Εισαγωγή USB flash drive")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Τοποθετήστε το στικάκι USB" title="Τοποθετήστε το στικάκι USB" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Εικόνα 2: Εισαγωγή του στικ USB στο VitalControl</figcaption></a>
+   </figure>
 
 4. Μόλις η συσκευή ανιχνεύσει την εισαγωγή του USB stick, το αντίγραφο ασφαλείας ξεκινά αυτόματα. Η συλλογή, η συμπίεση και η εγγραφή των δεδομένων αντιγράφου ασφαλείας μπορεί να διαρκέσει ένα λεπτό ή περισσότερο. Όταν το αντίγραφο ασφαλείας ολοκληρωθεί, εμφανίζεται ένα μήνυμα επιτυχίας:
 

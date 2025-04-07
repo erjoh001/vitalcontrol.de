@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Вставьте USB-флеш-накопитель (разъем типа C) в разъем в нижней части устройства.
 
-   ![VitalControl: вставка USB-флеш-накопителя](/images/firmware/update/plug-in-dual-usb-stick.svg "Вставка USB-флеш-накопителя")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Вставьте USB-накопитель" title="Вставьте USB-накопитель" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Рисунок 2: Вставка USB-накопителя в VitalControl</figcaption></a>
+   </figure>
 
 4. Как только устройство обнаружит вставку USB-накопителя, резервное копирование данных автоматически начнется. Сбор, сжатие и запись данных резервной копии может занять минуту или дольше. Когда резервное копирование будет завершено, на экране появится сообщение об успехе:
 

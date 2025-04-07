@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Steek de USB-flashdrive (C-stekker) in de connector onderaan het apparaat.
 
-   ![VitalControl: USB-flashstation invoegen](/images/firmware/update/plug-in-dual-usb-stick.svg "USB-flashstation invoegen")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: USB-stick plaatsen" title="USB-stick plaatsen" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Afbeelding 2: De USB-stick in de VitalControl plaatsen</figcaption></a>
+   </figure>
 
 4. Zodra het apparaat de invoeging van de USB-stick detecteert, wordt de gegevensback-up automatisch gestart. Het verzamelen, comprimeren en schrijven van de back-upgegevens kan een minuut of langer duren. Wanneer de back-up is voltooid, wordt een succesbericht weergegeven:
 

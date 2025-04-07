@@ -21,7 +21,10 @@ translationKey: backup
 
 3. Inserte la unidad flash USB (conector tipo C) en el conector en la parte inferior del dispositivo.
 
-   ![VitalControl: insertar unidad flash USB](/images/firmware/update/plug-in-dual-usb-stick.svg "Insertar unidad flash USB")
+   <figure class="figure">
+        <img src="/images/firmware/update/plug-in-dual-usb-stick.svg" class="border border-2 figure-img img-fluid rounded p-3" style="max-width: 500px; width: 100%;" align="bottom" alt="VitalControl: Inserte la memoria USB" title="Inserte la memoria USB" />
+        <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Figura 2: Inserción de la memoria USB en el VitalControl</figcaption></a>
+   </figure>
 
 4. Una vez que el dispositivo detecte la inserción de la memoria USB, la copia de seguridad de datos se iniciará automáticamente. La recopilación, compresión y escritura de los datos de respaldo pueden tardar un minuto o más. Cuando se complete la copia de seguridad, se mostrará un mensaje de éxito:
 
