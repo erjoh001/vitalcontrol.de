@@ -11,7 +11,12 @@ type: docs
 
     <figure class="figure mt-2">
         <img src="../images/aufruf-transponder-zuordnen.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Wechsel zu Bildschirm Transponder verknüpfen" title="Transponder verknüpfen" />
-        <a name="link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 1: Wechsel zum Bildschirm <span style="font-style: italic;">Transponder zuordnen</span></figcaption></a>
+        <a name="screen-link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 1: Wechsel zum Bildschirm <span style="font-style: italic;">Transponder zuordnen</span></figcaption></a>
+    </figure>
+
+    <figure class="figure mt-2">
+        <img src="../images/ablauf-zuordnung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf Transponder verknüpfen" title="Ablauf Transponder verknüpfen" />
+        <a name="link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 2: Ablauf der Zuordnung von Transpondern</figcaption></a>
     </figure>
 
 <div style="max-width: 80%; margin-top: 20px;">
