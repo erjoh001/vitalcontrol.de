@@ -1,0 +1,42 @@
+{{ $_component := .Get "component" -}}
+{{ $_info := .Get "info" | default "default" -}}
+{{ $_dateFormat := .Get "dateFormat" -}}
+
+{{- with $_component -}}
+  {{ $componentMatched := findRE "^(vcsynchronizer)$" . -}}
+  {{ if not $componentMatched -}}
+    {{ errorf "Shortcode %q: parameter %q should be 'vcsynchronizer'; but got %s. Error position: %s" $.Name "component" $_component $.Position -}}
+  {{ end -}}
+{{- end -}}
+
+{{- with $_info -}}
+  {{ $infoMatched := findRE "^(date|commitHash|commitNo|default)$" . -}}
+  {{ if not $infoMatched -}}
+    {{ errorf "Shortcode %q: info %q should be one of 'date', 'commitHash' or 'default'; but got %s. Error position: %s" $.Name "info" $_info $.Position -}}
+  {{ end -}}
+{{- end -}}
+
+{{- with $_dateFormat -}}
+  {{ $dateFormatMatched := findRE "^(de)$" . -}}
+  {{ if not $dateFormatMatched -}}
+    {{ errorf "Shortcode %q: dateFormat %q should be 'de'; but got %s. Error position: %s" $.Name "dateFormat" $_dateFormat $.Position -}}
+  {{ end -}}
+{{- end -}}
+
+{{- if eq $_component "vcsynchronizer" -}}
+  {{- if eq $_info "default" -}}
+    0.9.12
+  {{- else if eq $_info "date" -}}
+    {{- if eq $_dateFormat "de" -}}
+      17.04.2025
+    {{- else -}}
+      2025-17-04
+    {{- end -}}
+  {{- else if eq $_info "commitHash" -}}
+    941d402d
+  {{- else -}}
+    {{- errorf "Unhandled combination of parameters: component=%q, info=%q" $_component $_info -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "Unhandled component: %q" $_component -}}
+{{- end -}}

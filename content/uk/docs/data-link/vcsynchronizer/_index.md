@@ -7,6 +7,6 @@ description: >
 weight: 10
 translationKey: vcsynchronizer
 ---
-#### VCSynchronizer версія 0.9.10
+#### VCSynchronizer версія {{% version/vcsynchronizer component="vcsynchronizer" %}}, {{% version/vcsynchronizer component="vcsynchronizer" info="date" %}}
 
 <a href="/download/SetupVitalControlSynchronizer.exe" role="button" class="btn btn-primary btn-lg">Завантажити VCSynchronizer</a>
