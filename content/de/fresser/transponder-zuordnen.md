@@ -25,13 +25,8 @@ description: >
 
 1. Wenn sich keine Tiere mehr auf dem Listenbildschirm befinden, ist die Zuordnung der Transponder beendet.
 
-    <figure class="figure mt-2">
-        <img src="../images/transponder-zuordnen.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf Transponder zuordnen" title="Ablauf Transponder zuordnen" />
-        <a name="link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 1: Grundlegender Ablauf der Zuordnung von Transpondern</figcaption></a>
-    </figure>
-
 {{< tabpane >}}
-{{< tab header="Tierauswahl:" text=true disabled=true />}}
+{{< tab header="**Tierauswahl:**" text=true disabled=true />}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
 ![Ablauf Transponder zuordnen, manuelle Suche](../images/transponder-zuordnen.png "Transponder zuordnen, manuelle Suche")
 {{% /tab %}}
