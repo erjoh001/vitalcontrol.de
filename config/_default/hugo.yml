@@ -53,7 +53,7 @@ security:
 # hugo module configuration
 
 module:
-  workspace: hugo.work
+  # workspace: hugo.work
   mounts:
     - source: static/demo
       target: static/en/demo
@@ -137,7 +137,7 @@ module:
       target: static
   hugoVersion:
     extended: true
-    min: 0.141.0
+    min: 0.146.7
   imports:
-    - path: github.com/deining/docsy
+    - path: github.com/google/docsy
       disable: false
