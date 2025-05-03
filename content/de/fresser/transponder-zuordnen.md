@@ -25,6 +25,7 @@ description: >
 
 1. Wenn sich keine Tiere mehr auf dem Listenbildschirm befinden, ist die Zuordnung der Transponder beendet.
 
+<figure class="figure mt-2">
 {{< tabpane >}}
 {{< tab header="**Tierauswahl:**" text=true disabled=true />}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
@@ -34,10 +35,12 @@ description: >
 ![Ablauf Transponder zuordnen, Barcodescan](../images/transponder-zuordnen-barcodescan.png "Transponder zuordnen, Barcodescan")
 {{% /tab %}}
 {{< /tabpane >}}
+<a name="link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 1: Grundlegender Ablauf der Zuordnung von Transpondern</figcaption></a>
+</figure>
 
 ## Barcodescanner abziehen
 
-1. Ziehen Sie nach dem Scan aller Tierpässe das Kabel des Barcode-Scanners von der USB-C Buchse des VitalControl-Gerät ab (<a href="#screen-link-transponder">Abbildung 2</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Schritt 1" />).
+1. Ziehen Sie nach dem Scan aller Tierpässe das Kabel des Barcodescanners von der USB-C Buchse des VitalControl-Gerät ab (<a href="#screen-link-transponder">Abbildung 2</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Schritt 1" />).
 
 1. Es öffnet sich ein Popup-Fenster, in dem abgefragt wird, ob zum Zuordnungsbildschirm weitergeleitet werden soll. Markieren sie hier mittels der Cursortasten die Option `Ja` und starten Sie die Weiterleitung mit der `OK`-Taste (<a href="#screen-link-transponder">Abbildung 2</a>: <span style="font-style: italic;">Schritt</span> <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Schritt 2" />).
 
@@ -56,10 +59,17 @@ Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder 
 
 1. Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
 
-    <figure class="figure mt-2">
-        <img src="../images/ablauf-zuordnung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf Transponder verknüpfen" title="Ablauf Transponder verknüpfen" />
-        <a name="link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 4: Ablauf der Zuordnung von Transpondern</figcaption></a>
-    </figure>
+{{< tabpane >}}
+{{< tab header="**Tierauswahl:**" text=true disabled=true />}}
+{{% tab header="Manuelle Auswahl aus Liste" text=true %}}
+![Ablauf der Verknüpfung von Transpondern, manuelle Zuordnung](../images/ablauf-zuordnung.png "Ablauf Transponder verknüpfen")
+{{% /tab %}}
+{{% tab header="Scan des Barcodes auf der Ohrmarke" text=true %}}
+![Ablauf der Verknüpfung von Transpondern, Barcodescan](../images/ablauf-zuordnung-barcodescan.png "Ablauf Transponder verknüpfen, Barcodescan")
+{{% /tab %}}
+{{< /tabpane >}}
+<a name="link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 3: Ablauf der Verknüpfung von Transpondern</figcaption></a>
+</figure>
 
 ## Ergänzungen und Erläuterungen
 
@@ -75,7 +85,7 @@ Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder 
 
 <figure class="figure" style="margin-top: 20px">
   <img src="../images/aufruf-transponder-zuordnen.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Aufruf Bildschirm Transponder zuordnen" title="Bildschirm Transponder zuordnen" />
-  <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 3: Aufruf des Bildschirms <span style="font-style: italic;">Transponder zuordnen</span></figcaption></a>
+  <a name="AnschlussBarcodescanner" ><figcaption class="figure-caption fs-6">Abbildung 4: Aufruf des Bildschirms <span style="font-style: italic;">Transponder zuordnen</span></figcaption></a>
 </figure>
 
 <div style="max-width: 80%; margin-top: 20px;">

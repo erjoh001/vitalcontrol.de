@@ -9,7 +9,8 @@ categories: [Datu rezerves kopija]
 tags: [rezerves fails, USB zibatmiņa]
 translationKey: backup
 ---
-{{% usb-drive/en "Lai veiktu ierīces datu rezerves kopiju," %}}
+{{% usb-drive/lv "Lai veiktu ierīces datu rezerves kopiju," %}}
+
 
 ## Veikt datu rezerves kopiju {#perform-data-backup}
 

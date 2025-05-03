@@ -7,7 +7,7 @@ description: >
  Izmantojot datu atjaunošanu, visa VitalControl ierīces datu kopija var tikt atjaunota citā ierīcē, izmantojot rezerves kopijas failu.
 translationKey: restore
 ---
-{{% usb-drive/en "Lai atjaunotu datu rezerves kopiju uz jūsu VitalControl ierīci," %}}
+{{% usb-drive/lv "Lai atjaunotu datu rezerves kopiju uz jūsu VitalControl ierīci," %}}
 
 Šajā USB zibatmiņā jābūt direktorijai `backup`, kurā jābūt derīgam **datu rezerves kopijas failam `backup.vcu`**.
 
