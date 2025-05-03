@@ -26,7 +26,7 @@ description: >
 1. Wenn sich keine Tiere mehr auf dem Listenbildschirm befinden, ist die Zuordnung der Transponder beendet.
 
 <figure class="figure mt-2">
-{{< tabpane >}}
+{{< tabpane persist="header" >}}
 {{< tab header="**Tierauswahl:**" text=true disabled=true />}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
 ![Ablauf Transponder zuordnen, manuelle Suche](../images/transponder-zuordnen.png "Transponder zuordnen, manuelle Suche")
@@ -59,7 +59,7 @@ Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder 
 
 1. Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
 
-{{< tabpane >}}
+{{< tabpane persist="header" >}}
 {{< tab header="**Tierauswahl:**" text=true disabled=true />}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
 ![Ablauf der Verknüpfung von Transpondern, manuelle Zuordnung](../images/ablauf-zuordnung.png "Ablauf Transponder verknüpfen")

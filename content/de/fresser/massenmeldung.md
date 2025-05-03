@@ -21,7 +21,7 @@ description: >
   </symbol>
 </svg>
 
-{{< tabpane text=true >}}
+{{< tabpane persist="header" text=true >}}
   {{% tab header="**Meldeportal**:" disabled=true /%}}
   {{% tab header="HI-Tier klassisch" %}}
 1. Rufen Sie die [Anmeldeseite](https://www.hi-tier.de/hitCom/login.asp) des HI-Tier Portals auf und melden Sie sich dort mit ihrer Betriebsnummer <img src="/digits/1_negative_circled.svg" width="25" align="middle" alt="Circled digit 1" title="Ziffer 1" /> und ihrem Passwort <img src="/digits/2_negative_circled.svg" width="25" align="middle" alt="Circled digit 2" title="Ziffer 2" /> an.
