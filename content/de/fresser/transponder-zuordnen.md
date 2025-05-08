@@ -11,15 +11,15 @@ description: >
 
 ## Grundlegender Ablauf
 
-1. Mittels des Scans der Tierpässe haben Sie im vorherigen Schritt anhand der eingescannten Ohrmarkennummer neue Tiere auf dem VitaControl angelegt. Diese Tiere werden im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` tabellarisch angezeigt.
+1. Mittels des Scans der Tierpässe haben Sie im [vorherigen Schritt](../paesse-scannen) anhand der eingescannten Ohrmarkennummer neue Tiere auf dem VitaControl angelegt. Diese Tiere werden im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` tabellarisch angezeigt.
 
-1. Jedes dieser Tiere muss jetzt noch einen mit einem Transponder ausgestattet werden, damit es im Tränkestand erkannt und damit am Automaten versorgt werden kann. Der Transponder wird dem Tiere entweder ins Ohr eingezogen oder er befindet sich in dem Halsband, welchen dem Tier umgehängt wird.
+1. Jedes dieser Tiere muss jetzt noch mit einem Transponder ausgestattet werden, damit es im Tränkestand erkannt und dadurch am Automaten versorgt werden kann. Der Transponder wird dem Tiere entweder ins Ohr eingezogen oder er befindet sich in dem Halsband, welchen dem Tier umgehängt wird.
 
-1. Dieser Transponder, mit dem das Tier ausgestattet wurde, muss dem Tier noch zugeordnet werden. Im Zuge des Zuordnung wird die Transpondernummer in den Tierdatensatz mit aufgenommen. Die Zuordnung des Transponders kann auf zweierlei Wegen erfolgen:
+1. Dieser Transponder, mit dem das Tier ausgestattet wurde, muss dem Tier noch zugeordnet werden. Im Zuge dieser Zuordnung wird die Transpondernummer in den Tierdatensatz mit aufgenommen. Die Zuordnung des Transponders kann auf zweierlei Wegen erfolgen:
 
     - Zuordnung des Transponders im Tränkestand, während das Tier angelernt und erstmalig nach dem Transport mit Tränke versorgt wird. Hierbei wird das im Tränkestand befindliche Tiere per manueller Suche aus der Tierliste ausgewählt.
 
-    - Zuordnung des Transponder während die Tiere im Fressgitter fixiert sind und der Tierart die Einstalluntersuchung durchführt. Hierbei erfolgt die Auswahl des Tieres aus der Tierliste per Scan desjenigen Barcodes, welcher auf der gelben Ohrmarke des Tieres aufgedruckt ist.
+    - Zuordnung des Transponder während die Tiere im Fressgitter fixiert sind und der Tierarzt die Einstalluntersuchung durchführt. Hierbei erfolgt die Auswahl des Tieres aus der Tierliste per Scan desjenigen Barcodes, welcher auf der gelben Ohrmarke des Tieres aufgedruckt ist.
 
 1. Nachdem einem Tier ein Transponder zugeordnet wurde, verschwindet dieses Tier aus dem Listenbildschirm. Die Anzahl der Tiere reduziert sich somit stetig.
 

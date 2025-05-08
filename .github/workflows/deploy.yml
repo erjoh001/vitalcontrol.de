@@ -19,14 +19,14 @@ jobs:
       - name: Setup Hugo
         uses: deining/actions-hugo@23c742ac548b48b5db7f35074895505e8a06d6db # v3.1.0-0
         with:
-          hugo-version: '0.147.1'
+          hugo-version: '0.147.2'
           withdeploy: true
           extended: true
 
       - name: Setup Go
         uses: actions/setup-go@0aaccfd150d50ccaeb58ebd88d36e91967a5f35b # v5.4.0
         with:
-          go-version: '1.24.2'
+          go-version: '1.24.3'
 
       - name: Setup Node
         uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
