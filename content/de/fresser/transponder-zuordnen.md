@@ -26,7 +26,7 @@ description: >
 1. Wenn sich keine Tiere mehr auf dem Listenbildschirm befinden, ist die Zuordnung der Transponder beendet.
 
 <figure class="figure mt-2">
-{{< tabpane persist="header" >}}
+{{< tabpane persist="header" text=true >}}
 {{< tab header="**Tierauswahl:**" text=true disabled=true />}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
 ![Ablauf Transponder zuordnen, manuelle Suche](../images/transponder-zuordnen.png "Transponder zuordnen, manuelle Suche")
@@ -57,19 +57,42 @@ Sollte nach dem Einstecken des Barcodescanner der Bildschirm `MassenTransponder 
 
 ## Transponder zuordnen
 
-1. Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
-
 {{< tabpane persist="header" >}}
 {{< tab header="**Tierauswahl:**" text=true disabled=true />}}
 {{% tab header="Manuelle Auswahl aus Liste" text=true %}}
-![Ablauf der Verknüpfung von Transpondern, manuelle Zuordnung](../images/ablauf-zuordnung.png "Ablauf Transponder verknüpfen")
+Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` (Abbildung 3: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/L_negative_circled.svg" width="25" align="middle" alt="Circled letter L" title="Buchstabe L" />) werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
+
+Gehen sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
+
+1. ...
+
+1. ...
+
+Wiederholen sie den in den obigen Punkten erläuterten Ablauf so lange, bis allen Tieren ein Transponder zugeordnet wurde und eine leere Liste angezeigt wird.  
+
+<figure class="figure" style="margin-top: 20px;margin-bottom: 10px;">
+    <img src="../images/ablauf-zuordnung.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf der Verknüpfung von Transpondern, manuelle Tiersuche" title="Ablauf Transponder verknüpfen" />
+    <figcaption class="figure-caption fs-6">Abbildung 3: Ablauf der Verknüpfung von Transpondern</figcaption>
+</figure>
+
 {{% /tab %}}
 {{% tab header="Scan des Barcodes auf der Ohrmarke" text=true %}}
-![Ablauf der Verknüpfung von Transpondern, Barcodescan](../images/ablauf-zuordnung-barcodescan.png "Ablauf Transponder verknüpfen, Barcodescan")
+Im Listenbildschirm `Zukäufe, kein Transponder zugeordnet` (Abbildung 3: <span style="font-style: italic;">Buchstabe</span> <img src="/digits/L_negative_circled.svg" width="25" align="middle" alt="Circled letter L" title="Buchstabe L" />) werden alle Zukäufe aufgelistet, denen aktuell noch kein Transponder zugewiesen wurde.
+
+Gehen sie wie folgt vor, um nacheinander allen Tieren Transponder zuzuweisen:
+
+1. ...
+
+1. ...
+
+Wiederholen sie den in den obigen Punkten erläuterten Ablauf so lange, bis allen Tieren ein Transponder zugeordnet wurde und eine leere Liste angezeigt wird.  
+
+<figure class="figure" style="margin-top: 20px;margin-bottom: 10px;">
+    <img src="../images/ablauf-zuordnung-barcodescan.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="Ablauf der Verknüpfung von Transpondern, Barcodescan" title="Ablauf Transponder verknüpfen, Barcodescan" />
+    <figcaption class="figure-caption fs-6">Abbildung 3: Ablauf der Verknüpfung von Transpondern, Barcodescan</figcaption>
+</figure>
 {{% /tab %}}
 {{< /tabpane >}}
-<a name="link-transponder" ><figcaption class="figure-caption fs-6">Abbildung 3: Ablauf der Verknüpfung von Transpondern</figcaption></a>
-</figure>
 
 ## Ergänzungen und Erläuterungen
 
