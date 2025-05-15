@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: deining/actions-hugo@23c742ac548b48b5db7f35074895505e8a06d6db # v3.1.0-0
         with:
-          hugo-version: '0.147.2'
+          hugo-version: '0.147.3'
           withdeploy: true
           extended: true
 
