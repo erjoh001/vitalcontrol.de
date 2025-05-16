@@ -571,7 +571,7 @@
 "WarningParsingDateFailed": "Dikkat!\n\nDoğum tarihi olarak okunan barkod geçerli bir tarih değerine dönüştürülemediği için atıldı!"
 "WarningParsingNaisIdFailed": "Dikkat!\n\nDoğum tarihi olarak okunan barkod geçerli bir tarih değerine dönüştürülemediği için atıldı!"
 "WarningResetAnimalData": "Tüm hayvan verileri silinecek!\nEmin misiniz?"
-"WarningResetDeviceData": "All device data will be deleted!\nAre you sure?"
+"WarningResetDeviceData": "Tüm cihaz verileri silinecektir!\nEmin misiniz?"
 "WarningResetFactorySettings": "Fabrika ayarlarına dönme uyarısı"
 "WarningResetTempThresholds": "Gerçekten tüm türler için sıcaklık eşik değerlerini sıfırlamak istiyor musunuz?"
 "WarningResetValueToDefault": "Bu değeri gerçekten fabrika varsayılanına ({1} {2}) sıfırlamak istiyor musunuz?"

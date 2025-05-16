@@ -571,7 +571,7 @@
 "WarningParsingDateFailed": "Huomio!\n\nSyntymäpäivänä luettua viivakoo~dia ei voitu muun~taa kelvolliseksi päivämääräarvoksi, joten se hylättiin!"
 "WarningParsingNaisIdFailed": "Huomio!\n\nLuettua viivakoodia ei voitu muuntaa kelvolliseksi korvamerkkinumeroksi, joten se hylättiin!"
 "WarningResetAnimalData": "Kaikki eläintiedot poistetaan!\nOletko varma?"
-"WarningResetDeviceData": "All device data will be deleted!\nAre you sure?"
+"WarningResetDeviceData": "Kaikki laitteen tiedot poistetaan!\nOletko varma?"
 "WarningResetFactorySettings": "Kaikki laite- ja eläintiedot poistetaan!\nOletko varma?"
 "WarningResetTempThresholds": "Haluatko todella nollata kaikkien lajien läm~pö~ti~la~rajat?"
 "WarningResetValueToDefault": "Haluatko todella palauttaa tämän arvon tehdasasetuksiin ({1} {2})?"
