@@ -61,7 +61,7 @@ null}};C.AM5={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResBa
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[90,33],FrameDelay:0,_this:
 null}};C.ADR={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconCheckmarkInCircle.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[34,34],FrameDelay:0,_this:
-null}};C.AeE={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconFilter.png"
+null}};C.AeF={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconFilter.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[28,28],FrameDelay:0,_this:
 null}};C.AP4={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconAnimal.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:2,FrameSize:[96,80],FrameDelay:0,_this:
@@ -83,9 +83,9 @@ null}};C.ARa={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIc
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[40,40],FrameDelay:0,_this:
 null}};C.Sg={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResCheckmark.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[36,39],FrameDelay:0,_this:
-null}};C.TT={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResCheckmarkBackground.png"
+null}};C.TU={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResCheckmarkBackground.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[66,65],FrameDelay:0,_this:
-null}};C.AeB={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconCalfSmallBase.png"
+null}};C.AeC={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconCalfSmallBase.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:2,FrameSize:[34,34],FrameDelay:0,_this:
 null}};C.AQV={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconOverlaySmallAlarm.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:3,FrameSize:[34,34],FrameDelay:0,_this:
@@ -123,9 +123,9 @@ null}};C.AL9={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResA9
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:2,FrameSize:[58,58],FrameDelay:0,_this:
 null}};C.AL8={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResA9WeighingLbs.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:2,FrameSize:[58,58],FrameDelay:0,_this:
-null}};C.AeF={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconSettingsSmall.png"
+null}};C.AeG={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconSettingsSmall.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[25,25],FrameDelay:0,_this:
-null}};C.AeC={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconClose.png"
+null}};C.AeD={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconClose.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[26,30],FrameDelay:0,_this:
 null}};C.AQA={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconHerd.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:2,FrameSize:[100,80],FrameDelay:0,_this:
@@ -187,7 +187,7 @@ null}};C.AM0={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResAr
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[27,40],FrameDelay:0,_this:
 null}};C.Edit={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResEdit.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[28,30],FrameDelay:0,_this:
-null}};C.Aff={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResRFIDWaves.png"
+null}};C.Afg={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResRFIDWaves.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[24,34],FrameDelay:0,_this:
 null}};C.AP6={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconAnimalListControl.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[27,40],FrameDelay:0,_this:
@@ -207,7 +207,7 @@ null}};C.AQx={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIc
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:2,FrameSize:[96,80],FrameDelay:0,_this:
 null}};C.APr={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResHeaderIconFreshCowsList.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[28,40],FrameDelay:0,_this:
-null}};C.YH={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconSaveAndExitF1.png"
+null}};C.YI={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconSaveAndExitF1.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[85,40],FrameDelay:0,_this:
 null}};C.Arl={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconUp.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[23,40],FrameDelay:0,_this:
@@ -227,7 +227,7 @@ null}};C.ALU={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResA1
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:2,FrameSize:[58,58],FrameDelay:0,_this:
 null}};C.AQC={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconHideTempLast6h.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[41,40],FrameDelay:0,_this:
-null}};C.AeD={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconContinue.png"
+null}};C.AeE={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconContinue.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[31,24],FrameDelay:0,_this:
 null}};C.AQQ={_class:function(){return A.aci.Al;},0:{FileName:"./res_index/ResIconNoAnimalID.png"
 ,Format:A._PIXEL_FORMAT_ALPHA8,NoOfFrames:1,FrameSize:[34,40],FrameDelay:0,_this:
@@ -434,8 +434,8 @@ _cycle!=D))B._Done(C.Ajv[0]._this=null);if((B=C.N0[0]._this)&&(B._cycle!=D))B._D
 C.N0[0]._this=null);if((B=C.AvQ[0]._this)&&(B._cycle!=D))B._Done(C.AvQ[0]._this=
 null);if((B=C.AvS[0]._this)&&(B._cycle!=D))B._Done(C.AvS[0]._this=null);if((B=C.
 AM5[0]._this)&&(B._cycle!=D))B._Done(C.AM5[0]._this=null);if((B=C.ADR[0]._this)&&(
-B._cycle!=D))B._Done(C.ADR[0]._this=null);if((B=C.AeE[0]._this)&&(B._cycle!=D))B.
-_Done(C.AeE[0]._this=null);if((B=C.AP4[0]._this)&&(B._cycle!=D))B._Done(C.AP4[0].
+B._cycle!=D))B._Done(C.ADR[0]._this=null);if((B=C.AeF[0]._this)&&(B._cycle!=D))B.
+_Done(C.AeF[0]._this=null);if((B=C.AP4[0]._this)&&(B._cycle!=D))B._Done(C.AP4[0].
 _this=null);if((B=C.ADY[0]._this)&&(B._cycle!=D))B._Done(C.ADY[0]._this=null);if((
 B=C.AQ_[0]._this)&&(B._cycle!=D))B._Done(C.AQ_[0]._this=null);if((B=C.AQm[0]._this
 )&&(B._cycle!=D))B._Done(C.AQm[0]._this=null);if((B=C.AqW[0]._this)&&(B._cycle!=
@@ -443,8 +443,8 @@ D))B._Done(C.AqW[0]._this=null);if((B=C.ARV[0]._this)&&(B._cycle!=D))B._Done(C.A
 0]._this=null);if((B=C.N1[0]._this)&&(B._cycle!=D))B._Done(C.N1[0]._this=null);if((
 B=C.AQ$[0]._this)&&(B._cycle!=D))B._Done(C.AQ$[0]._this=null);if((B=C.ARa[0]._this
 )&&(B._cycle!=D))B._Done(C.ARa[0]._this=null);if((B=C.Sg[0]._this)&&(B._cycle!=D
-))B._Done(C.Sg[0]._this=null);if((B=C.TT[0]._this)&&(B._cycle!=D))B._Done(C.TT[0
-]._this=null);if((B=C.AeB[0]._this)&&(B._cycle!=D))B._Done(C.AeB[0]._this=null);
+))B._Done(C.Sg[0]._this=null);if((B=C.TU[0]._this)&&(B._cycle!=D))B._Done(C.TU[0
+]._this=null);if((B=C.AeC[0]._this)&&(B._cycle!=D))B._Done(C.AeC[0]._this=null);
 if((B=C.AQV[0]._this)&&(B._cycle!=D))B._Done(C.AQV[0]._this=null);if((B=C.AQW[0].
 _this)&&(B._cycle!=D))B._Done(C.AQW[0]._this=null);if((B=C.AL1[0]._this)&&(B._cycle
 !=D))B._Done(C.AL1[0]._this=null);if((B=C.AL0[0]._this)&&(B._cycle!=D))B._Done(C.
@@ -459,8 +459,8 @@ B._cycle!=D))B._Done(C.E2[0]._this=null);if((B=C.ANw[0]._this)&&(B._cycle!=D))B.
 _Done(C.ANw[0]._this=null);if((B=C.AqL[0]._this)&&(B._cycle!=D))B._Done(C.AqL[0].
 _this=null);if((B=C.ACP[0]._this)&&(B._cycle!=D))B._Done(C.ACP[0]._this=null);if((
 B=C.AL9[0]._this)&&(B._cycle!=D))B._Done(C.AL9[0]._this=null);if((B=C.AL8[0]._this
-)&&(B._cycle!=D))B._Done(C.AL8[0]._this=null);if((B=C.AeF[0]._this)&&(B._cycle!=
-D))B._Done(C.AeF[0]._this=null);if((B=C.AeC[0]._this)&&(B._cycle!=D))B._Done(C.AeC[
+)&&(B._cycle!=D))B._Done(C.AL8[0]._this=null);if((B=C.AeG[0]._this)&&(B._cycle!=
+D))B._Done(C.AeG[0]._this=null);if((B=C.AeD[0]._this)&&(B._cycle!=D))B._Done(C.AeD[
 0]._this=null);if((B=C.AQA[0]._this)&&(B._cycle!=D))B._Done(C.AQA[0]._this=null);
 if((B=C.AQ9[0]._this)&&(B._cycle!=D))B._Done(C.AQ9[0]._this=null);if((B=C.AD1[0].
 _this)&&(B._cycle!=D))B._Done(C.AD1[0]._this=null);if((B=C.AvR[0]._this)&&(B._cycle
@@ -485,24 +485,24 @@ _this)&&(B._cycle!=D))B._Done(C.AMZ[0]._this=null);if((B=C.Aju[0]._this)&&(B._cy
 AD[0]._this=null);if((B=C.Options[0]._this)&&(B._cycle!=D))B._Done(C.Options[0].
 _this=null);if((B=C.AQG[0]._this)&&(B._cycle!=D))B._Done(C.AQG[0]._this=null);if((
 B=C.AM0[0]._this)&&(B._cycle!=D))B._Done(C.AM0[0]._this=null);if((B=C.Edit[0]._this
-)&&(B._cycle!=D))B._Done(C.Edit[0]._this=null);if((B=C.Aff[0]._this)&&(B._cycle!=
-D))B._Done(C.Aff[0]._this=null);if((B=C.AP6[0]._this)&&(B._cycle!=D))B._Done(C.AP6[
+)&&(B._cycle!=D))B._Done(C.Edit[0]._this=null);if((B=C.Afg[0]._this)&&(B._cycle!=
+D))B._Done(C.Afg[0]._this=null);if((B=C.AP6[0]._this)&&(B._cycle!=D))B._Done(C.AP6[
 0]._this=null);if((B=C.AP$[0]._this)&&(B._cycle!=D))B._Done(C.AP$[0]._this=null);
 if((B=C.AB7[0]._this)&&(B._cycle!=D))B._Done(C.AB7[0]._this=null);if((B=C.ADv[0].
 _this)&&(B._cycle!=D))B._Done(C.ADv[0]._this=null);if((B=C.ADu[0]._this)&&(B._cycle
 !=D))B._Done(C.ADu[0]._this=null);if((B=C.ADw[0]._this)&&(B._cycle!=D))B._Done(C.
 ADw[0]._this=null);if((B=C.APq[0]._this)&&(B._cycle!=D))B._Done(C.APq[0]._this=null
 );if((B=C.AQx[0]._this)&&(B._cycle!=D))B._Done(C.AQx[0]._this=null);if((B=C.APr[
-0]._this)&&(B._cycle!=D))B._Done(C.APr[0]._this=null);if((B=C.YH[0]._this)&&(B._cycle
-!=D))B._Done(C.YH[0]._this=null);if((B=C.Arl[0]._this)&&(B._cycle!=D))B._Done(C.
+0]._this)&&(B._cycle!=D))B._Done(C.APr[0]._this=null);if((B=C.YI[0]._this)&&(B._cycle
+!=D))B._Done(C.YI[0]._this=null);if((B=C.Arl[0]._this)&&(B._cycle!=D))B._Done(C.
 Arl[0]._this=null);if((B=C.Ard[0]._this)&&(B._cycle!=D))B._Done(C.Ard[0]._this=null
 );if((B=C.ALT[0]._this)&&(B._cycle!=D))B._Done(C.ALT[0]._this=null);if((B=C.AjY[
 0]._this)&&(B._cycle!=D))B._Done(C.AjY[0]._this=null);if((B=C.AQS[0]._this)&&(B.
 _cycle!=D))B._Done(C.AQS[0]._this=null);if((B=C.AQT[0]._this)&&(B._cycle!=D))B._Done(
 C.AQT[0]._this=null);if((B=C.APy[0]._this)&&(B._cycle!=D))B._Done(C.APy[0]._this=
 null);if((B=C.ALU[0]._this)&&(B._cycle!=D))B._Done(C.ALU[0]._this=null);if((B=C.
-AQC[0]._this)&&(B._cycle!=D))B._Done(C.AQC[0]._this=null);if((B=C.AeD[0]._this)&&(
-B._cycle!=D))B._Done(C.AeD[0]._this=null);if((B=C.AQQ[0]._this)&&(B._cycle!=D))B.
+AQC[0]._this)&&(B._cycle!=D))B._Done(C.AQC[0]._this=null);if((B=C.AeE[0]._this)&&(
+B._cycle!=D))B._Done(C.AeE[0]._this=null);if((B=C.AQQ[0]._this)&&(B._cycle!=D))B.
 _Done(C.AQQ[0]._this=null);if((B=C.AvH[0]._this)&&(B._cycle!=D))B._Done(C.AvH[0].
 _this=null);if((B=C.AQR[0]._this)&&(B._cycle!=D))B._Done(C.AQR[0]._this=null);if((
 B=C.APx[0]._this)&&(B._cycle!=D))B._Done(C.APx[0]._this=null);if((B=C.Am7[0]._this

@@ -37,7 +37,7 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 );if(index.acf)throw new Error("The unit file 'Strings.js' included twice!");index.
 acf=(function(){var A=index;var C={};
 
-C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433\u043E\u0432\u043E - \u0446\u0438\u0444\u0440\u043E\u0432 "+
+C.Bhz={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433\u043E\u0432\u043E - \u0446\u0438\u0444\u0440\u043E\u0432 "+
 "\u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0435\u043D "+"\u043F\u0440\u0435\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u0442\u0435\u043B"
 ,3:"AD \u8F49\u63DB\u5668\u6EAB\u5EA6",25:"AD pretvornik temperature",4:"P\u0159evodn\xEDk AD teploty"
 ,5:"AD-omformer temperatur",0:"AD Converter Temperature",6:"AD Converter Temperatuur"
@@ -51,7 +51,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,27:"Pretvornik AD temperature",21:"Conversor de temperaturas",22:"AD-omvandlare temperatur"
 ,23:"Analog-Dijital(AD) \xC7evirici S\u0131cakl\u0131\u011F\u0131",24:"\u0422\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u0430\u043D\u0430\u043B\u043E\u0433\u043E-\u0446\u0438\u0444\u043E\u0440\u0432\u043E\u0433\u043E "+
 "\u043F\u0435\u0440\u0435\u0442\u0432\u043E\u0440\u044E\u0432\u0430\u0447\u0430"
-};C.Bhz="(\xD8 {1} {2})";C.AL_={1:"prosje\u010Dan prirast, \xD8\nod ro\u0111enja"
+};C.BhA="(\xD8 {1} {2})";C.AL_={1:"prosje\u010Dan prirast, \xD8\nod ro\u0111enja"
 ,2:"\u0414\u043D\u0435\u0432\u0435\u043D \u043F\u0440\u0438\u0440\u0430\u0441\u0442, "+
 "\xD8\n\u043E\u0442 \u0440\u0430\u0436\u0434\u0430\u043D\u0435",3:"\u6BCF\u65E5\u589E\u91CD\uFF0C\xD8\n\u5F9E\u51FA\u751F\u6642"
 ,25:"Dnevni porast te\u017Eine, \xD8\nod ro\u0111enja",4:"Pr\u016Fm. denn\xED p\u0159\xEDr\u016Fstek od narozen\xED"
@@ -70,7 +70,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,22:"Daglig vikt\xF6kning, \xD8\nsedan f\xF6dseln",23:"G\xFCnl\xFCk A\u011F\u0131rl\u0131k Art\u0131\u015F\u0131, \xD8\n Do\u011Fumdan "+
 "\u0130tibaren",24:"\u0421\u0435\u0440\u0435\u0434\u043D\u044C\u043E\u0434\u043E\u0431\u043E\u0432\u0438\u0439 "+
 "\u043F\u0440\u0438\u0440\u0456\u0441\u0442 \u0437 \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F"
-};C.BhA={1:"prosje\u010Dan prirast, \xD8\nod prvog vaganja",2:"\u0414\u043D\u0435\u0432\u0435\u043D \u043F\u0440\u0438\u0440\u0430\u0441\u0442, "+
+};C.BhB={1:"prosje\u010Dan prirast, \xD8\nod prvog vaganja",2:"\u0414\u043D\u0435\u0432\u0435\u043D \u043F\u0440\u0438\u0440\u0430\u0441\u0442, "+
 "\xD8\n\u043E\u0442 \u043F\u044A\u0440\u0432\u043E\u0442\u043E \u0442\u0435\u0433\u043B\u0435\u043D\u0435"
 ,3:"\u6BCF\u65E5\u589E\u91CD\uFF0C\xD8\n\u81EA\u9996\u6B21\u7A31\u91CD\u4EE5\u4F86"
 ,25:"Dnevni prirast te\u017Eine, \xD8\nod prvog vaganja",4:"Pr\u016Fm. denn\xED p\u0159\xEDr\u016Fstek od prvn\xEDho v\xE1\u017Een\xED"
@@ -140,9 +140,9 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "\u0434\u043B\u044F \u0432\u0437\u0432\u0430\u0436\u0443\u0432\u0430\u043D\u043D\u044F "+
 "\u0432 \u0442\u043E\u0439 \u0441\u0430\u043C\u0438\u0439 \u0434\u0435\u043D\u044C"
 };C.AL$={2:"\u0434",3:"\u65E5",0:"d",6:"D",7:"P\xE4ev",8:"pv",9:"J",10:"T",11:"\u03B7"
-,12:"n",13:"g",16:"D",19:"z",20:"\u0434",23:"G",24:"\u0434"};C.BhC={2:"\u043C",3:
+,12:"n",13:"g",16:"D",19:"z",20:"\u0434",23:"G",24:"\u0434"};C.BhD={2:"\u043C",3:
 "\u6708",25:"M",5:"M",0:"m",6:"M",7:"Kuu",8:"kk",9:"M",10:"M",11:"\u03BC",12:"h"
-,16:"M",19:"l",20:"\u043C",23:"A",24:"\u043C"};C.BhD={1:"god",2:"\u0433",3:"\u5E74"
+,16:"M",19:"l",20:"\u043C",23:"A",24:"\u043C"};C.BhE={1:"god",2:"\u0433",3:"\u5E74"
 ,25:"G",4:"R",5:"\xC5",0:"y",6:"J",7:"Aasta",8:"v",9:"A",10:"J",11:"\u03B5",12:"\xE9"
 ,13:"a",15:"g",26:"M",16:"\xC5",17:"r",18:"A",19:"a",20:"\u0433",27:"L",21:"a",22:
 "\xE5",23:"Y",24:"\u0440"};C.About={1:"o",2:"\u041E\u0442\u043D\u043E\u0441\u043D\u043E"
@@ -151,7 +151,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,12:"K\xF6r\xFClbel\xFCl",13:"Circa",15:"Par",26:"Apie",16:"Om",17:"O, na temat"
 ,18:"Sobre",19:"Despre",20:"\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F"
 ,27:"O, pribli\u017Eno",21:"Sobre",22:"Om",23:"Bilgi",24:"\u0406\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0456\u044F"
-};C.TF={1:"Lanac radnji",2:"\u041F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430~\u0442\u0435\u043B\u043D\u043E\u0441\u0442 "+
+};C.TG={1:"Lanac radnji",2:"\u041F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430~\u0442\u0435\u043B\u043D\u043E\u0441\u0442 "+
 "\u043E\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F",3:"\u884C\u52D5\u93C8"
 ,25:"Lanac radnji",4:"\u0158et\u011Bzec akc\xED",5:"K\xE6de af handlinger",0:"Chain of actions"
 ,6:"Opeenvol~gende acties",7:"Tegevuste ahel",8:"Toimintaketju",9:"Cha\xEEne d\'actions"
@@ -194,7 +194,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,19:"Set\u0103ri de ac\u021Biune",20:"\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439"
 ,27:"Nastavitve dejanj",21:"Ajustes acciones",22:"\xC5tg\xE4rdsinst\xE4llningar"
 ,23:"Eylem ayarlar\u0131",24:"\u041D\u0430\u043B\u0430\u0448\u0442\u0443\u0432\u0430\u043D\u043D\u044F "+
-"\u0434\u0456\u0439"};C.VD={1:"Aktivnosti",2:"\u0414\u0435\u0439\u0441\u0442\u0432\u0438\u044F"
+"\u0434\u0456\u0439"};C.VE={1:"Aktivnosti",2:"\u0414\u0435\u0439\u0441\u0442\u0432\u0438\u044F"
 ,3:"\u884C\u52D5",25:"Akcije",4:"Akce",5:"Handlinger",0:"Actions",6:"Acties",7:"Tegevused"
 ,8:"Toiminnat",9:"Action",10:"Aktionen",11:"\u0395\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03B5\u03C2"
 ,12:"Cselekv\xE9sek",13:"Azioni",15:"Darb\u012Bbas",26:"Veiksmai",16:"Aksjoner",
@@ -219,7 +219,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,25:"Dob",4:"V\u011Bk",5:"Alder",0:"Age",6:"Leef~tijd",7:"Vanus",8:"Ik\xE4",9:"\xC2ge"
 ,10:"Alter",11:"\u0397\u03BB\u03B9\u03BA\u03AF\u03B1",12:"Kor",13:"Et\xE0",15:"Vecums"
 ,26:"Am\u017Eius",16:"Alder",17:"Wiek",18:"Idade",19:"V\xE2rst\u0103",20:"\u0412\u043E\u0437\u0440\u0430\u0441\u0442"
-,27:"Starost",21:"Edad",22:"\xC5lder",23:"Ya\u015F",24:"\u0412\u0456\u043A"};C.AdU={
+,27:"Starost",21:"Edad",22:"\xC5lder",23:"Ya\u015F",24:"\u0412\u0456\u043A"};C.AdV={
 1:"Starost (novo tele/jagnje)",2:"\u0412\u044A\u0437\u0440\u0430\u0441\u0442 (\u043D\u043E\u0432\u043E \u0442\u0435\u043B\u0435/\u0430\u0433\u043D\u0435)"
 ,3:"\u5E74\u9F61\uFF08\u65B0\u751F\u5C0F\u725B\uFF0F\u5C0F\u7F8A\uFF09",25:"Starost (novoro\u0111eno tele/janje)"
 ,4:"V\u011Bk (nov\xE9 tele/jehn\u011B)",5:"Alder (ny kalv/lam)",0:"Age (new calf/lamb)"
@@ -237,7 +237,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,3:"\u8B66\u5831",0:"Alarm",7:"Hoiatus",8:"H\xE4lytys",9:"Alarme",11:"\u03A3\u03C5\u03BD\u03B1\u03B3\u03B5\u03C1\u03BC\u03CC\u03C2"
 ,12:"\xC9breszt\u0151",13:"Allarme",15:"Trauksme",26:"Signalas",18:"Alarme",19:"Alarm\u0103"
 ,20:"\u0421\u0438\u0433\u043D\u0430\u043B",21:"Alarma",22:"Larm",24:"\u0421\u0438\u0433\u043D\u0430\u043B"
-};C.BhJ={1:"ve\u0107 povezani",2:"\u0412\u0435\u0447\u0435 \u0435 \u043F\u0440\u0438\u0431\u0430\u0432\u0435\u043D"
+};C.BhK={1:"ve\u0107 povezani",2:"\u0412\u0435\u0447\u0435 \u0435 \u043F\u0440\u0438\u0431\u0430\u0432\u0435\u043D"
 ,3:"\u5DF2\u7D93\u5206\u914D",25:"Ve\u0107 dodijeljeno",4:"Ji\u017E p\u0159id\u011Bleno"
 ,5:"Allerede tildelt",0:"Already assigned",6:"al toegewezen",7:"Juba m\xE4\xE4ratud"
 ,8:"Jo m\xE4\xE4ritetty",9:"D\xE9j\xE0 attribu\xE9",10:"Bereits verkn\xFCpft",11:
@@ -252,7 +252,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,10:"Einzeltier",11:"\u0396\u03CE\u03BF",12:"\xC1llat",13:"Animale",15:"Dz\u012Bvnieks"
 ,26:"Gyv\u016Bnas",16:"Dyr",17:"Zwierz\u0119",20:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E\u0435"
 ,27:"\u017Dival",21:"Animal individual",22:"Djur",23:"Hayvan",24:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430"
-};C.AdW={1:"podaci o \u017Eivotinji",2:"\u0414\u0430\u043D\u043D\u0438 \u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E"
+};C.AdX={1:"podaci o \u017Eivotinji",2:"\u0414\u0430\u043D\u043D\u0438 \u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E"
 ,3:"\u5C0F\u725B\u8CC7\u6599",25:"Podaci o \u017Eivotinjama",4:"Data o zv\xED\u0159eti"
 ,5:"Dyredata",0:"Animal data",6:"Dier data",7:"Looma info",8:"Tietoa el\xE4imist\xE4"
 ,9:"Donn\xE9es de l\u2019animal",10:"Tierdaten",11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03B6\u03CE\u03BF\u03C5"
@@ -260,7 +260,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,16:"Dyr- data",17:"Dane zwierz\u0119ce",18:"Dados sobre animais",19:"Date despre animale"
 ,20:"\u0414\u0430\u043D\u043D\u044B\u0435 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E"
 ,27:"Podatki o \u017Eivalih",21:"Datos animales",22:"Djurdata",23:"Hayvan Verisi"
-,24:"\u0414\u0430\u043D\u0456 \u0442\u0432\u0430\u0440\u0438\u043D\u0438"};C.BhK={
+,24:"\u0414\u0430\u043D\u0456 \u0442\u0432\u0430\u0440\u0438\u043D\u0438"};C.BhL={
 1:"Podaci o \u017Eivotinji: Br. markice za uho",2:"\u0414\u0430\u043D\u043D\u0438 \u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043E: "+
 "\u2116 \u0443\u0448\u043D\u0430 \u043C\u0430\u0440\u043A\u0430",3:"\u52D5\u7269\u8CC7\u6599\uFF1A\u8033\u6A19\u7DE8\u865F"
 ,25:"Podaci o \u017Eivotinji: broj markice za uho",4:"\xDAdaje o zv\xED\u0159eti: \u010D. n\xE1u\u0161nice"
@@ -370,7 +370,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "{1} \u043D\u0435 \u043D\u0430\u0439\u0434\u0435\u043D\u043E",27:"\u017Dival z ID {1} ni bila najdena."
 ,21:"No se encontr\xF3 el animal con la ID {1}",22:"Djur med ID {1} hittades inte"
 ,23:"Hayvan bulunamad\u0131",24:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u2116 {1} \u043D\u0435 \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u0430"
-};C.BhQ={1:"\u017Eivotinja sa ID {1} jo\u0161 nije registrovan",2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u2116 {1} \u043D\u0435 \u0435 "+
+};C.BhR={1:"\u017Eivotinja sa ID {1} jo\u0161 nije registrovan",2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u2116 {1} \u043D\u0435 \u0435 "+
 "\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430\u043D\u043E "+"\u0432\u0441\u0435 \u043E\u0449\u0435"
 ,3:"\u7DE8\u865F\u70BA{1}\u7684\u5C0F\u725B\u5C1A\u672A\u8A3B\u518A",25:"\u017Divotinja s ID-om {1} jo\u0161 nije registrirana"
 ,4:"Zv\xED\u0159e s ID {1} nebylo registrov\xE1no",5:"Dyr med ID {1} er endnu ikke registreret"
@@ -470,7 +470,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,19:"ID alocat",20:"\u041D\u043E\u0432\u043E\u0435 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0435 "+
 "\u2116",27:"Dodeljena ID \u0161tevilka",21:"ID asignado",22:"Tilldelat ID",23:"Otomatik Atanm\u0131\u015F Kimlik"
 ,24:"\u041D\u043E\u0432\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0430 \u2116"
-};C.Aba={1:"automatski uklju\u010Di/isklju\u010Di",2:"\u0410\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u043D\u043E \u0412\u043A\u043B/\u0418\u0437\u043A\u043B"
+};C.Abb={1:"automatski uklju\u010Di/isklju\u010Di",2:"\u0410\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u043D\u043E \u0412\u043A\u043B/\u0418\u0437\u043A\u043B"
 ,3:"\u81EA\u52D5\u6E2C\u91CF\u958B/\u95DC",25:"Automatsko uklju\u010Divanje/isklju\u010Divanje"
 ,4:"Auto ZAP/VYP",5:"Automatisk T\xC6ND/SLUK",0:"Auto ON/OFF",6:"Aan/Uit-Automatic"
 ,7:"Automaatne sisse/v\xE4lja l\xFClitamine",10:"Ein/Aus-Automatik",11:"\u0391\u03C5\u03C4\u03CC\u03BC\u03B1\u03C4\u03BF \u03AC\u03BD\u03BF\u03B9\u03B3\u03BC\u03B1/\u03BA\u03BB\u03B5\u03AF\u03C3\u03B9\u03BC\u03BF"
@@ -525,7 +525,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "\u043F\u0440\u0438\u0432\u0435\u0441",27:"Povpre\u010Den dnevni prirastek te\u017Ee"
 ,21:"Ganancia diaria promedia",22:"Genomsnittlig daglig vikt\xF6kning",23:"Ortalama G\xFCnl\xFCk A\u011F\u0131rl\u0131 Kazan\u0131m\u0131"
 ,24:"\u0421\u0435\u0440\u0435\u0434\u043D\u044C\u043E\u0434\u043E\u0431\u043E\u0432\u0438\u0439 "+
-"\u043F\u0440\u0438\u0440\u0456\u0441\u0442"};C.BhW={1:"\xD8 Prirast: {1} {2}",2:
+"\u043F\u0440\u0438\u0440\u0456\u0441\u0442"};C.BhX={1:"\xD8 Prirast: {1} {2}",2:
 "\xD8 \u041F\u0440\u0438\u0440\u0430\u0441\u0442: {1} {2}",3:"\xD8\u9AD4\u91CD\u589E\u52A0\uFF1A{1} {2}"
 ,25:"Weight gain: Pove\u0107anje te\u017Eine",4:"P\u0159\xEDr\u016Fstek hmotnosti: {1} {2}"
 ,5:"V\xE6gt\xF8gning: {1} {2}",0:"\xD8 Weight gain: {1} {2}",6:"\xD8 Gewichtstoename: {1} {2}"
@@ -548,7 +548,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,18:"Peso m\xE9dio dos animais",19:"Greutatea medie a animalelor",20:"\u0421\u0440\u0435\u0434\u043D\u0438\u0439 \u0432\u0435\u0441 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E"
 ,27:"Povpre\u010Dna te\u017Ea \u017Eivali",21:"Peso medio del animal",22:"Genomsnittlig djurvikt"
 ,23:"Ortalama Hayvan A\u011F\u0131rl\u0131\u011F\u0131",24:"\u0421\u0435\u0440\u0435\u0434\u043D\u044F \u0432\u0430\u0433\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0438"
-};C.BhY={1:"Kopiranje u toku!\n\nOvaj proces mo\u017Ee trajati minutu ili du\u017Ee, "+
+};C.BhZ={1:"Kopiranje u toku!\n\nOvaj proces mo\u017Ee trajati minutu ili du\u017Ee, "+
 "molimo vas da budete strpljivi!",2:"\u0418\u0437\u0432\u044A\u0440\u0448\u0432\u0430 \u0441\u0435 \u0430\u0440\u0445\u0438\u0432\u0438\u0440\u0430\u043D\u0435!\n\n\u0432 "+
 "\u0422\u043E\u0437\u0438 \u043F\u0440\u043E\u0446\u0435\u0441 \u043C\u043E\u0436\u0435 "+
 "\u0434\u0430 \u043E\u0442\u043D\u0435\u043C\u0435 \u043C\u0438\u043D\u0443\u0442\u0430 "+
@@ -591,7 +591,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "\u043C\u043E\u0436\u0435 \u0437\u0430\u0439\u043D\u044F\u0442\u0438 \u0445\u0432\u0438\u043B\u0438\u043D\u0443 "+
 "\u0430\u0431\u043E \u0431\u0456\u043B\u044C\u0448\u0435, \u0431\u0443\u0434\u044C "+
 "\u043B\u0430\u0441\u043A\u0430, \u0437\u0430\u0447\u0435\u043A\u0430\u0439\u0442\u0435!"
-};C.VN={1:"Barkod",2:"\u0411\u0430\u0440\u043A\u043E\u0434",3:"\u689D\u78BC",25:
+};C.VO={1:"Barkod",2:"\u0411\u0430\u0440\u043A\u043E\u0434",3:"\u689D\u78BC",25:
 "Barkod",4:"\u010C\xE1rov\xFD k\xF3d",5:"Stregkode",0:"Barcode",7:"Triipkood",9:
 "Code \xE0 barres",11:"\u0393\u03C1\u03B1\u03BC\u03BC\u03C9\u03C4\u03CC\u03C2 \u03BA\u03CE\u03B4\u03B9\u03BA\u03B1\u03C2"
 ,12:"Vonalk\xF3d",13:"Codice a barre",15:"Sv\u012Btrkods",26:"Br\u016Bk\u0161ninis kodas"
@@ -603,7 +603,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "Alap",13:"Basico",15:"Pamata",26:"Pagrindinis",16:"Grunnleggende",17:"Podstawowy"
 ,18:"B\xE1sico",19:"De baz\u0103",20:"\u0411\u0430\u0437\u043E\u0432\u044B\u0439"
 ,27:"Osnovno",21:"B\xE1sico",22:"Grundl\xE4ggande",23:"Temel",24:"\u0411\u0430\u0437\u043E\u0432\u0438\u0439"
-};C.Bh0={1:"Baterija \u0107e se isprazniti!",2:"\u0411\u0430\u0442\u0435\u0440\u0438\u044F\u0442\u0430 \u0435 \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u043E "+
+};C.Bh1={1:"Baterija \u0107e se isprazniti!",2:"\u0411\u0430\u0442\u0435\u0440\u0438\u044F\u0442\u0430 \u0435 \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u043E "+
 "\u0438\u0437\u0442\u043E\u0449\u0435\u043D\u0430!",3:"\u96FB\u6C60\u96FB\u91CF\u56B4\u91CD\u4E0D\u8DB3\uFF01"
 ,25:"Baterija je kriti\u010Dno prazna!",4:"Stav baterie p\u0159\xEDli\u0161 n\xEDzk\xFD"
 ,5:"Batteriet er kritisk lavt!",0:"Battery is critically low!",6:"Batterij is erg laag!"
@@ -640,7 +640,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "\u043D\u0438\u0437\u043A\u0438\u0439 \u0437\u0430\u0440\u044F\u0434!",27:"Napolnjenost baterije je nizka!"
 ,21:"\xA1Bater\xEDa baja!",22:"Batteriets laddning \xE4r l\xE5g!",23:"Pilin \u015Farj\u0131 az!"
 ,24:"\u0414\u0443\u0436\u0435 \u043D\u0438\u0437\u044C\u043A\u0438\u0439 \u0437\u0430\u0440\u044F\u0434 "+
-"\u0431\u0430\u0442\u0430\u0440\u0435\u0457!"};C.Bh2={1:"trenutno + ro\u0111enje"
+"\u0431\u0430\u0442\u0430\u0440\u0435\u0457!"};C.Bh3={1:"trenutno + ro\u0111enje"
 ,2:"\u041D\u0430\u0441\u0442\u043E\u044F\u0449\u043E + \u0440\u0430\u0436\u0434\u0430\u043D\u0435"
 ,3:"\u76EE\u524D\u7684+\u51FA\u751F",25:"Trenutni + ro\u0111enje",4:"Porodn\xED hmotnost aktu\xE1ln\xED"
 ,5:"Nuv\xE6rende + f\xF8dsel",0:"Current + birth",6:"Huidig+ Geboorte",7:"Praegune + s\xFCnd"
@@ -666,7 +666,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "\u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u0430",27:"Datum rojstva obvezen"
 ,21:"Fecha de nacimiento obligatoria",22:"F\xF6delsedatum obligatoriskt",23:"Zorunlu Do\u011Fum Tarihi"
 ,24:"\u0414\u0430\u0442\u0430 \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
-"\u043E\u0431\u043E\u0432\'\u044F\u0437\u043A\u043E\u0432\u0430"};C.Bh3={1:"lista ro\u0111enja"
+"\u043E\u0431\u043E\u0432\'\u044F\u0437\u043A\u043E\u0432\u0430"};C.Bh4={1:"lista ro\u0111enja"
 ,2:"\u0441\u043F\u0438\u0441\u044A\u043A \u0440\u0430\u0436\u0434\u0430\u043D\u0438\u044F"
 ,3:"\u51FA\u751F\u6E05\u55AE",25:"popis ro\u0111enih",4:"seznam narozen\xED",5:"f\xF8dselsliste"
 ,0:"birth list",6:"geboortelijst",7:"s\xFCnniloend",8:"syntym\xE4lista",9:"liste de naissance"
@@ -676,7 +676,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,20:"\u0441\u043F\u0438\u0441\u043E\u043A \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F"
 ,27:"seznam rojstev",21:"Lista de nacimientos",22:"f\xF6delselista",23:"Do\u011Fum Listesi"
 ,24:"\u0441\u043F\u0438\u0441\u043E\u043A \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F"
-};C.Bh4={1:"Obavijesti o ro\u0111enju su izbrisane nakon izvoza!",2:"\u0411\u0435\u043B\u0435\u0436\u043A\u0438\u0442\u0435 \u0437\u0430 \u0440\u0430\u0436\u0434\u0430\u043D\u0435 "+
+};C.Bh5={1:"Obavijesti o ro\u0111enju su izbrisane nakon izvoza!",2:"\u0411\u0435\u043B\u0435\u0436\u043A\u0438\u0442\u0435 \u0437\u0430 \u0440\u0430\u0436\u0434\u0430\u043D\u0435 "+
 "\u0431\u044F\u0445\u0430 \u0438\u0437\u0442\u0440\u0438\u0442\u0438 \u0441\u043B\u0435\u0434 "+
 "\u0435\u043A\u0441\u043F\u043E\u0440\u0442\u0438\u0440\u0430\u043D\u0435!",3:"\u51FA\u751F\u901A\u77E5\u5728\u532F\u51FA\u5F8C\u88AB\u522A\u9664\u4E86\uFF01"
 ,25:"Obavijesti o ro\u0111enju su izbrisane nakon izvoza!",4:"Ozn\xE1men\xED o narozen\xED byla smaz\xE1na po exportu!"
@@ -724,7 +724,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,22:"F\xF6delsevikten f\xF6rdubblades efter",23:"\u0130kiye katlanan sonraki do\u011Fum a\u011F\u0131rl\u0131\u011F\u0131"
 ,24:"\u0412\u0430\u0433\u0430 \u043F\u0440\u0438 \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u0456 "+
 "\u043F\u043E\u0434\u0432\u043E\u0457\u043B\u0430\u0441\u044F \u0447\u0435\u0440\u0435\u0437"
-};C.Bh6={1:"na ro\u0111enju",2:"\u041F\u0440\u0438 \u0440\u0430\u0436\u0434\u0430\u043D\u0435"
+};C.Bh7={1:"na ro\u0111enju",2:"\u041F\u0440\u0438 \u0440\u0430\u0436\u0434\u0430\u043D\u0435"
 ,3:"\u51FA\u751F\u6642",25:"Pri ro\u0111enju",4:"Porodn\xED hmotnost",5:"Ved f\xF8dslen"
 ,0:"At birth",6:"Bij geboorte",7:"S\xFCndides",8:"Syntym\xE4ss\xE4",9:"\xE0 la naissance"
 ,10:"Bei Geburt",11:"\u039B\u03AF\u03C3\u03C4\u03B1 \u03B2\u03B1\u03C1\u03CE\u03BD \u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7\u03C2"
@@ -747,7 +747,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,12:"Sz\xFClet\xE9sek",13:"Nascite",15:"Dzim\u0161anas",26:"Gimimai",16:"F\xF8dsler"
 ,17:"Urodzenia",18:"Nascimentos",19:"Na\u0219teri",20:"\u0420\u043E\u0436\u0434\u0435\u043D\u0438\u044F"
 ,27:"Rojstva",21:"Nacimientos",22:"F\xF6dslar",23:"Do\u011Fumlar",24:"\u041D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F"
-};C.Bh8={2:"\u0413\u043E\u0432\u0435\u0434\u0430",3:"\u725B",25:"Goveda",4:"dobytek"
+};C.Bh9={2:"\u0413\u043E\u0432\u0435\u0434\u0430",3:"\u725B",25:"Goveda",4:"dobytek"
 ,5:"Kv\xE6g",0:"Bovine/cattle",6:"Rund",7:"Veised",9:"Bovine",10:"Rind",11:"\u0392\u03BF\u03BF\u03B5\u03B9\u03B4\u03AD\u03C2"
 ,12:"Szarvasmarha",13:"Bovino",15:"Lopkop\u012Bba",26:"Karv\u0117s",16:"Bovine/storfe"
 ,17:"Byd\u0142o",18:"Bovino/gado",19:"Bovine/vite",20:"\u041A\u0420\u0421",27:"Govedo"
@@ -782,7 +782,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,16:"CSV-eksport",17:"eksport CSV",18:"Exporta\xE7\xE3o de CSV",19:"Export CSV",
 20:"\u042D\u043A\u0441\u043F\u043E\u0440\u0442 CSV",27:"Izvoz CSV",21:"Exportar CSV"
 ,22:"CSV-export",23:"CSV d\u0131\u015Fa aktar",24:"\u0415\u043A\u0441\u043F\u043E\u0440\u0442 CSV"
-};C.Bh_={1:"Izvoz CSV datoteke je u tijeku!\n\nOvaj proces mo\u017Ee potrajati nekoliko "+
+};C.Bh$={1:"Izvoz CSV datoteke je u tijeku!\n\nOvaj proces mo\u017Ee potrajati nekoliko "+
 "sekundi, molimo budite strpljivi!",2:"\u0418\u0437\u0432\u044A\u0440\u0448\u0432\u0430 \u0441\u0435 \u0435\u043A\u0441\u043F\u043E\u0440\u0442\u0438\u0440\u0430\u043D\u0435 "+
 "\u043D\u0430 CSV!\n\n \u0422\u043E\u0437\u0438 \u043F\u0440\u043E\u0446\u0435\u0441 "+
 "\u043C\u043E\u0436\u0435 \u0434\u0430 \u043E\u0442\u043D\u0435\u043C\u0435 "+"\u043D\u044F\u043A\u043E\u043B\u043A\u043E \u0441\u0435~\u043A\u0443\u043D~\u0434\u0438, "+
@@ -794,8 +794,8 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "venlig at v\xE6re t\xE5lmodig!",0:"CSV export in progress!\n\nThis process may take a few se~conds, please "+
 "be patient!",6:"CSV-export bezig!\n\nDit proces kan enkele seconden duren, graag geduld!"
 ,7:"CSV eksportimine k\xE4ib!\n\nSee protsess v\xF5ib v\xF5tta m\xF5ned sekundid, "+
-"palun ole kannatlik!",9:"Exportation CSV en cours !\n\nCe processus peut prendre quelques secondes, "+
-"veuillez patienter !",10:"CSV-Datei wird erstellt!\n\nDieser Vorgang kann einige Se~kunden dauern, "+
+"palun ole kannatlik!",9:"Exportation CSV en cours\xA0!\n\nCe processus peut prendre quelques secondes, "+
+"veuillez patienter\xA0!",10:"CSV-Datei wird erstellt!\n\nDieser Vorgang kann einige Se~kunden dauern, "+
 "etwas Geduld bitte!",11:"\u0395\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE CSV \u03C3\u03B5 \u03B5\u03BE\u03AD\u03BB\u03B9\u03BE\u03B7!\n\n\u0397 "+
 "\u03B4\u03B9\u03B1\u03B4\u03B9\u03BA\u03B1\u03C3\u03AF\u03B1 \u03B1\u03C5\u03C4\u03AE "+
 "\u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03B4\u03B9\u03B1\u03C1\u03BA\u03AD\u03C3\u03B5\u03B9 "+
@@ -818,7 +818,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 "birka\xE7 saniye s\xFCrebilir, l\xFCtfen sab\u0131rl\u0131 olun!",24:"\u0415\u043A\u0441\u043F\u043E\u0440\u0442 CSV \u0442\u0440\u0438\u0432\u0430\u0454!\n\n\u0426\u0435\u0439 "+
 "\u043F\u0440\u043E\u0446\u0435\u0441 \u043C\u043E\u0436\u0435 \u0437\u0430\u0439\u043D\u044F\u0442\u0438 "+
 "\u043A\u0456\u043B\u044C\u043A\u0430 \u0441\u0435\u043A\u0443\u043D\u0434, "+"\u0431\u0443\u0434\u044C \u043B\u0430\u0441\u043A\u0430, \u0437\u0430\u0447\u0435\u043A\u0430\u0439\u0442\u0435!"
-};C.Bh$={1:"tele",2:"\u0422\u0435\u043B\u0435",3:"\u5C0F\u725B",25:"Tele",4:"Telec"
+};C.Bia={1:"tele",2:"\u0422\u0435\u043B\u0435",3:"\u5C0F\u725B",25:"Tele",4:"Telec"
 ,5:"Kalv",0:"Calf",6:"Kalf",7:"Vasikas",8:"Lehm\xE4vasikka",9:"Veau",10:"Kalb",11:
 "\u039C\u03BF\u03C3\u03C7\u03AC\u03C1\u03B9",12:"Borj\xFA",13:"Vitello",15:"Te\u013C\u0161"
 ,26:"Ver\u0161elis",16:"Kalv",17:"Ciel\u0119",18:"Bezerra",19:"Vitel",20:"\u0422\u0435\u043B\u0451\u043D\u043E\u043A"
@@ -873,7 +873,7 @@ C.Bhy={1:"AD pretvara\u010D temperature",2:"\u0410\u043D\u0430\u043B\u043E\u0433
 ,15:"Atcelt",26:"At\u0161aukti",16:"Avbryt",17:"Anuluj",18:"Cancelar",19:"Anula\u021Bi"
 ,20:"\u0417\u0430\u043A\u0440\u044B\u0442\u044C",27:"Prekli\u010Di",21:"Cancelar"
 ,22:"Avbryt",23:"\u0130ptal",24:"\u0417\u0430\u043A\u0440\u0438\u0442\u0438"};C.
-Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \u0437\u0430 \u0437\u0430\u0440\u0435\u0436\u0434\u0430\u043D\u0435"
+Bid={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \u0437\u0430 \u0437\u0430\u0440\u0435\u0436\u0434\u0430\u043D\u0435"
 ,3:"\u5145\u96FB\u63A7\u5236\u5668",25:"Regulator punjenja",4:"Regul\xE1tor nab\xEDjen\xED"
 ,5:"Laderegulator",0:"Charge controller",6:"laadregelaar",7:"Laadige kontrollseadet"
 ,8:"Latauss\xE4\xE4din",9:"Contr\xF4le de chargeur",10:"Laderegler",11:"\u0395\u03BB\u03B5\u03B3\u03BA\u03C4\u03AE\u03C2 \u03C6\u03CC\u03C1\u03C4\u03B7\u03C3\u03B7\u03C2"
@@ -916,7 +916,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,26:"Pasirinkti veiksm\u0105",16:"Velg handling",17:"Wybierz dzia\u0142anie",18:
 "Escolha a\xE7\xE3o",19:"Alege\u021Bi ac\u021Biunea",20:"\u0412\u044B\u0431\u0440\u0430\u0442\u044C \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435"
 ,27:"Izberi dejanje",21:"Seleccionar acci\xF3n",22:"V\xE4lj handling",23:"Eylem Se\xE7in"
-,24:"\u0412\u0438\u0431\u0440\u0430\u0442\u0438 \u0434\u0456\u044E"};C.Bie={1:"odaberite sl aktivnost"
+,24:"\u0412\u0438\u0431\u0440\u0430\u0442\u0438 \u0434\u0456\u044E"};C.Bif={1:"odaberite sl aktivnost"
 ,2:"\u0418\u0437\u0431\u0435\u0440\u0438 \u0441\u043B\u0435\u0434\u0432\u0430\u0449\u043E "+
 "\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435",3:"\u9078\u64C7\u4E0B\u4E00\u6B65\u884C\u52D5"
 ,25:"Odaberite sljede\u0107u radnju",4:"Vyberte dal\u0161\xED akci.",5:"V\xE6lg n\xE6ste handling"
@@ -1048,7 +1048,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,18:"Ingest\xE3o de colostro",19:"Aport de colostru",20:"\u041F\u043E\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435 \u043A\u043E\u043B\u043E\u0441\u0442\u0440\u0443\u043C\u0430(\u043C\u043E\u043B\u043E\u0437\u0438\u0432\u0430)"
 ,27:"Vnos kolostruma",21:"Consumo de calostro",22:"Intag av r\xE5mj\xF6lk",23:"Kolostrum Al\u0131m\u0131"
 ,24:"\u0421\u043F\u043E\u0436\u0438\u0432\u0430\u043D\u043D\u044F \u043A\u043E\u043B\u043E\u0441\u0442\u0440\u0443\u043C\u0430 "+
-"(\u043C\u043E\u043B\u043E\u0437\u0438\u0432\u0430)"};C.Bih={1:"Naslov kolone",2:
+"(\u043C\u043E\u043B\u043E\u0437\u0438\u0432\u0430)"};C.Bii={1:"Naslov kolone",2:
 "\u0417\u0430\u0433\u043B\u0430\u0432\u0438\u044F \u043D\u0430 \u043A\u043E\u043B\u043E\u043D\u0438"
 ,3:"Spaltentitel",25:"Zaglavlja stupaca",4:"Z\xE1hlav\xED sloupc\u016F",5:"Kolonneoverskrifter"
 ,0:"Column headers",6:"Column titel",7:"Veeru pealkiri",8:"Sarakeotsikot",9:"En-t\xEAtes de colonne"
@@ -1058,7 +1058,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,18:"Cabe\xE7alhos de coluna",19:"Antete de coloane",20:"\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u0441\u0442\u043E\u043B\u0431\u0446\u0430"
 ,27:"Glave stolpcev",21:"T\xEDtulos de columna",22:"Kolumnrubriker",23:"S\xFCtun Ba\u015Fl\u0131klar\u0131"
 ,24:"\u041D\u0430\u0437\u0432\u0430 \u0441\u0442\u043E\u0432\u0431\u0447\u0438\u043A\u0443"
-};C.Bij={1:"Stanje",2:"\u041A\u043E\u043D\u0434\u0438\u0446\u0438\u044F",3:"\u72C0\u614B"
+};C.Bik={1:"Stanje",2:"\u041A\u043E\u043D\u0434\u0438\u0446\u0438\u044F",3:"\u72C0\u614B"
 ,25:"Stanje",4:"Kondice",5:"Tilstand",0:"Condition",6:"Conditie",7:"Seisund",8:"Kunto"
 ,9:"\xC9tat",10:"Zustand",11:"\u039A\u03B1\u03C4\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7"
 ,12:"\xC1llapot",13:"Condizione",15:"St\u0101voklis",26:"B\u016Bkl\u0117",16:"Tilstand"
@@ -1066,7 +1066,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,27:"Stanje",21:"Condici\xF3n",22:"Tillst\xE5nd",23:"Durum",24:"\u0421\u0442\u0430\u043D"
 };C.ANJ={2:"\u041A",3:"\u72C0\u614B",25:"S",4:"K",0:"C",7:"S",8:"K",9:"\xC9",10:
 "Z",11:"\u039A",15:"S",26:"B",16:"T",17:"S",20:"\u0421",27:"S",23:"K",24:"\u0421"
-};C.Bik={1:"Korisnik potvrdio",2:"\u041F\u043E\u0442\u0432\u044A\u0440\u0434\u0435\u043D\u043E \u043E\u0442 "+
+};C.Bil={1:"Korisnik potvrdio",2:"\u041F\u043E\u0442\u0432\u044A\u0440\u0434\u0435\u043D\u043E \u043E\u0442 "+
 "\u043F\u043E\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043B",3:"\u7528\u6236\u78BA\u8A8D"
 ,25:"Korisnik je potvrdio",4:"Potvrzeno u\u017Eivatelem",5:"Bruger bekr\xE6ftet"
 ,0:"User confirmed",6:"Gebruiker bevestigt",7:"Kasutaja kinnitatud",8:"K\xE4ytt\xE4j\xE4 vahvistettu"
@@ -1146,16 +1146,16 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,10:"Land",11:"\u03A7\u03CE\u03C1\u03B1",12:"Orsz\xE1g",13:"Paese",15:"Valsts",26:
 "\u0160alis",16:"Land",17:"Kraj",18:"Pa\xEDs",19:"\u021Aar\u0103",20:"\u0421\u0442\u0440\u0430\u043D\u0430"
 ,27:"Dr\u017Eava",21:"Pa\xEDs",22:"Land",23:"\xDClke",24:"\u041A\u0440\u0430\u0457\u043D\u0430"
-};C.Bin={1:"krava",2:"\u041A\u0440\u0430\u0432\u0430",3:"\u725B",25:"Krava",4:"Kr\xE1va"
+};C.Bio={1:"krava",2:"\u041A\u0440\u0430\u0432\u0430",3:"\u725B",25:"Krava",4:"Kr\xE1va"
 ,5:"Ko",0:"Cow",6:"Koe",7:"Lehm",8:"Lehm\xE4",9:"Vache",10:"Kuh",11:"\u0391\u03B3\u03B5\u03BB\u03AC\u03B4\u03B1"
 ,12:"Teh\xE9n",13:"Mucca",15:"Govs",26:"Karv\u0117",16:"Ku",17:"Krowa",18:"Vaca"
 ,19:"Vaca",20:"\u041A\u043E\u0440\u043E\u0432\u0430",27:"Krava",21:"Vaca",22:"Ko"
-,23:"Inek",24:"\u041A\u043E\u0440\u043E\u0432\u0430"};C.Bio={1:"krava",2:"\u043A\u0440\u0430\u0432\u0430"
+,23:"Inek",24:"\u041A\u043E\u0440\u043E\u0432\u0430"};C.Bip={1:"krava",2:"\u043A\u0440\u0430\u0432\u0430"
 ,3:"\u725B",25:"krava",4:"kr\xE1va",5:"ko",0:"cow",6:"koe",7:"lehm",8:"Lehm\xE4"
 ,9:"vache",10:"Kuh",11:"\u0391\u03B3\u03B5\u03BB\u03AC\u03B4\u03B1",12:"teh\xE9n"
 ,13:"mucca",15:"govs",26:"karv\u0117",16:"ku",17:"krowa",18:"vaca",19:"vac\u0103"
 ,20:"\u041A\u043E\u0440\u043E\u0432\u0430",27:"krava",21:"vaca",22:"ko",23:"Inek"
-,24:"\u043A\u043E\u0440\u043E\u0432\u0430"};C.Bip={1:"krave",2:"\u043A\u0440\u0430\u0432\u0438"
+,24:"\u043A\u043E\u0440\u043E\u0432\u0430"};C.Biq={1:"krave",2:"\u043A\u0440\u0430\u0432\u0438"
 ,3:"\u5976\u725B",25:"krave",4:"kr\xE1vy",5:"k\xF8er",0:"cows",6:"koeien",7:"lehmad"
 ,8:"lehm\xE4t",9:"vaches",10:"K\xFChe",11:"\u0391\u03B3\u03B5\u03BB\u03AC\u03B4\u03B5\u03C2"
 ,12:"tehenek",13:"mucche",15:"govis",26:"karv\u0117s",16:"Kyr",17:"krowy",18:"vacas"
@@ -1172,7 +1172,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,19:"Creeaz\u0103 o copie de rezerv\u0103",20:"\u0421\u043E\u0437\u0434\u0430\u0442\u044C \u0440\u0435\u0437\u0435\u0440\u0432\u043D\u0443\u044E "+
 "\u043A\u043E\u043F\u0438\u044E",27:"Ustvari varnostno kopijo",21:"Crear copia de seguridad"
 ,22:"Skapa s\xE4kerhetskopia",23:"Yedek Olu\u015Ftur",24:"\u0421\u0442\u0432\u043E\u0440\u0438\u0442\u0438 \u0440\u0435\u0437\u0435\u0440\u0432\u043D\u0443 "+
-"\u043A\u043E\u043F\u0456\u044E"};C.Biq={1:"Kreiranje {1} novih \u017Eivotinja\n\n{2}%% obavljeno\n\nregistracija \u017Eivotinje "+
+"\u043A\u043E\u043F\u0456\u044E"};C.Bir={1:"Kreiranje {1} novih \u017Eivotinja\n\n{2}%% obavljeno\n\nregistracija \u017Eivotinje "+
 "{3}",2:"\u0421\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435 \u043D\u0430 {1} "+
 "\u043D\u043E\u0432\u0438 \u0436\u0438\u0432\u043E\u0442\u043D\u0438\n\n{2} "+"%% \u0433\u043E\u0442\u043E\u0432\u043E\n\n\u0421\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E {3}",3:"\u5EFA\u7ACB{1}\u96BB\u65B0\u5C0F\u725B\n\n{2} %%\u5DF2\u5B8C\u6210\n\n{3}\u96BB\u5C0F\u725B\u5EFA\u7ACB\u4E2D"
@@ -1211,7 +1211,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 "Esamas svoris",16:"N\xE5v\xE6rende vekt",17:"Aktualna waga",18:"Peso atual",19:
 "Greutate actual\u0103",20:"\u0422\u0435\u043A\u0443\u0449\u0438\u0439 \u0432\u0435\u0441"
 ,27:"Trenutna te\u017Ea",21:"Peso actual",22:"Aktuell vikt",23:"Mevcut A\u011F\u0131rl\u0131k"
-,24:"\u041D\u0438\u043D\u0456\u0448\u043D\u044F \u0432\u0430\u0433\u0430"};C.Bis={
+,24:"\u041D\u0438\u043D\u0456\u0448\u043D\u044F \u0432\u0430\u0433\u0430"};C.Bit={
 1:"trenutno",2:"\u0422\u0435\u043A\u0443\u0449",3:"\u76EE\u524D\u7684",25:"Trenutni"
 ,4:"Aktu\xE1ln\xED hmotnost zkr\xE1cen\xE1",5:"Aktuel",0:"Current",6:"Huidig",7:
 "Praegune",8:"Nykyinen",9:"Actuel",10:"Aktuelles",11:"\u03A4\u03C1\u03AD\u03C7\u03C9\u03BD"
@@ -1284,7 +1284,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,27:"Sinhronizacija podatkov",21:"Sincronizaci\xF3n de datos",22:"Data-synkronisering"
 ,23:"Bilgi senkronizasyonu",24:"\u0421\u0438\u043D\u0445\u0440\u043E\u043D\u0456\u0437\u0430\u0446\u0456\u044F "+
 "\u0434\u0430\u043D\u0438\u0445 \u0456\u0437 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C"
-};C.Biv={1:"sinhronizacija podataka u toku {1}%% / obavljena",2:"\u0418\u0437\u0432\u044A\u0440\u0448\u0432\u0430 \u0441\u0435 \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0438\u0440\u0430\u043D\u0435 "+
+};C.Biw={1:"sinhronizacija podataka u toku {1}%% / obavljena",2:"\u0418\u0437\u0432\u044A\u0440\u0448\u0432\u0430 \u0441\u0435 \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0438\u0440\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0434\u0430\u043D\u043D\u0438\n\n{1} %% \u0437\u0430\u0432\u044A\u0440\u0448\u0435\u043D\u043E"
 ,3:"\u8CC7\u6599\u540C\u6B65\u4E2D\n\n{1} %% \u5B8C\u6210",25:"Sinkronizacija podataka u tijeku\n\n{1} %% dovr\u0161eno"
 ,4:"Synch. dat prob\xEDh\xE1\n{1} %% hotovo",5:"Data synkronisering i gang\n\n{1} %% udf\xF8rt"
@@ -1307,7 +1307,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,8:"P\xE4iv\xE4",10:"Datum",11:"\u0397\u03BC\u03B5\u03C1\u03BF\u03BC\u03B7\u03BD\u03AF\u03B1"
 ,12:"D\xE1tum",13:"Data",15:"Datums",26:"Data",16:"Dato",17:"Data",18:"Data",19:
 "Dat\u0103",20:"\u0414\u0430\u0442\u0430",27:"Datum",21:"Fecha",22:"Datum",23:"Tarih"
-,24:"\u0414\u0430\u0442\u0430"};C.Aeh={1:"datum ro\u0111enja",2:"\u0414\u0430\u0442\u0430 \u043D\u0430 \u0440\u0430\u0436\u0434."
+,24:"\u0414\u0430\u0442\u0430"};C.Aei={1:"datum ro\u0111enja",2:"\u0414\u0430\u0442\u0430 \u043D\u0430 \u0440\u0430\u0436\u0434."
 ,3:"\u751F\u65E5",25:"Datum ro\u0111enja",4:"Datum narozen\xED",5:"F\xF8dselsdato"
 ,0:"Date of birth",6:"Geboortedatum",7:"S\xFCnnikuup\xE4ev",8:"Syntym\xE4p\xE4iv\xE4"
 ,9:"Date de naissance",10:"Geburtsdatum",11:"\u0397\u03BC\u03B5\u03C1\u03BF\u03BC\u03B7\u03BD\u03AF\u03B1 \u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7\u03C2"
@@ -1345,7 +1345,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,7:"p\xE4evad",8:"P\xE4iv\xE4t",9:"jours",10:"Tage",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2"
 ,12:"napok",13:"giorni",15:"dienas",26:"dienos",16:"Dager",17:"dni",18:"dias",19:
 "zile",20:"\u0414\u043D\u0438",27:"dnevi",21:"d\xEDas",22:"dagar",23:"g\xFCnler"
-,24:"\u0414\u043D\u0456\u0432"};C.Biw={1:"dani",2:"\u0434\u043D\u0438",3:"\u5929\u6578"
+,24:"\u0414\u043D\u0456\u0432"};C.Bix={1:"dani",2:"\u0434\u043D\u0438",3:"\u5929\u6578"
 ,25:"dani",4:"Dny",5:"dage",0:"days",6:"Dagen",7:"p\xE4evad",8:"P\xE4iv\xE4t",9:
 "jours",10:"Tagen",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2",12:"napok",13:"giorni"
 ,15:"dienas",26:"dienos",16:"Dager",17:"dni",18:"dias",19:"zile",20:"\u0414\u043D\u0435\u0439"
@@ -1359,7 +1359,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,20:"\u0414\u043D\u0438 \u043D\u0430 \u0442\u0440\u0435\u0432\u043E\u0433\u0435"
 ,27:"Dnevi v alarmu",21:"D\xEDas en alarma",22:"Dagar i larm",23:"Alamdaki g\xFCnler"
 ,24:"\u0414\u043D\u0456\u0432 \u0443 \u0442\u0440\u0438\u0432\u043E\u0437\u0456"
-};C.Bix={1:"dani / temperatura",2:"\u0414\u043D\u0438 \u0441 \u0442\u0440\u0435\u0441\u043A\u0430"
+};C.Biy={1:"dani / temperatura",2:"\u0414\u043D\u0438 \u0441 \u0442\u0440\u0435\u0441\u043A\u0430"
 ,3:"\u767C\u71D2\u5929\u6578",25:"Dani u groznici",4:"Dny v hore\u010Dce",5:"Dage i feber"
 ,0:"Days in fever",6:"Koorts dagen",7:"P\xE4evi palavikus",8:"Kuumep\xE4iv\xE4t"
 ,9:"Des jours de fi\xE8vre",10:"Fiebertage",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2 \u03C3\u03B5 \u03C0\u03C5\u03C1\u03B5\u03C4\u03CC"
@@ -1368,7 +1368,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,18:"Dias com febre",19:"Zile \xEEn febr\u0103",20:"\u0414\u043D\u0435\u0439 \u0441 \u0442\u0435\u043C~\u043F\u0435~\u0440\u0430~\u0442\u0443\u0440\u043E\u0439"
 ,27:"Dnevi v vro\u010Dici",21:"D\xEDas con fiebre",22:"Dagar i feber",23:"Ate\u015Fli g\xFCnler"
 ,24:"\u0414\u043D\u0456\u0432 \u0437 \u0442\u0435\u043C~\u043F\u0435~\u0440\u0430~\u0442\u0443\u0440\u043E\u044E"
-};C.Biy={1:"Dani",2:"\u0414\u043D\u0438 -",3:"\u5929\u6578",25:"Days - Dani",4:"Dny"
+};C.Biz={1:"Dani",2:"\u0414\u043D\u0438 -",3:"\u5929\u6578",25:"Days - Dani",4:"Dny"
 ,5:"Dage",0:"Days-",6:"Days - Dagen",7:"P\xE4evad",9:"Jours",10:"Tage-",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2"
 ,12:"Napok",13:"Giorni",15:"Days - Dienas",26:"Dienos",16:"Dager",17:"Dni",18:"Dias"
 ,19:"Zile",20:"\u0414\u043D\u0438",27:"Days - Dnevi",22:"Days - Dagar",24:"\u0414\u043D\u0456"
@@ -1382,7 +1382,7 @@ Bic={1:"punja\u010D",2:"\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u0440 \
 ,19:"Zile de veghe",20:"\u0414\u043D\u0438 \u043D\u0430 \u0434\u0435\u0436\u0443\u0440\u0441\u0442\u0432\u0435"
 ,27:"Dnevi na stra\u017Ei",21:"D\xEDas en observaci\xF3n",22:"Dagar p\xE5 vakt",
 23:"\u0130zlemedeki g\xFCnler",24:"\u0414\u043D\u0456 \u043D\u0430 \u0432\u0430\u0440\u0442\u0456"
-};C.Biz={1:"Dana+",2:"\u0414\u043D\u0438 +",3:"\u5929\u6578+",25:"Dana",4:"Dny",
+};C.BiA={1:"Dana+",2:"\u0414\u043D\u0438 +",3:"\u5929\u6578+",25:"Dana",4:"Dny",
 5:"Dage",0:"Days+",6:"Dagen",7:"P\xE4evad+",9:"Jours",10:"Tage+",11:"\u0397\u03BC\u03AD\u03C1\u03B5\u03C2"
 ,12:"Napok+",13:"Giorni",15:"Dienas",26:"Dienos",16:"Dager",17:"Dni",18:"Dias",19:
 "Zile",20:"\u0414\u043D\u0438",27:"Dnevi",22:"Dagar",24:"\u0414\u043D\u0456+"};C.
@@ -1447,7 +1447,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,18:"Modo de demonstra\xE7\xE3o",19:"Mod de demonstra\u021Bie",20:"\u0420\u0435\u0436\u0438\u043C \u043F\u0440\u0435\u0437\u0435\u043D\u0442\u0430\u0446\u0438\u0438"
 ,27:"Na\u010Din demonstracije",21:"Modo de presentaci\xF3n",22:"Demosl\xE4ge",23:
 "Demo modu",24:"\u0420\u0435\u0436\u0438\u043C \u043F\u0440\u0435\u0437\u0435\u043D\u0442\u0430\u0446\u0456\u0457"
-};C.BiC={1:"Izvod iz broja markice za uho",2:"\u0418\u0437\u0432\u043B\u0438\u0447\u0430\u043D\u0435 \u043E\u0442 \u043D\u043E\u043C\u0435\u0440\u0430 "+
+};C.BiD={1:"Izvod iz broja markice za uho",2:"\u0418\u0437\u0432\u043B\u0438\u0447\u0430\u043D\u0435 \u043E\u0442 \u043D\u043E\u043C\u0435\u0440\u0430 "+
 "\u043D\u0430 \u0443\u0448\u043D\u0430\u0442\u0430 \u043C\u0430\u0440\u043A\u0430"
 ,3:"\u5F9E\u8033\u6A19\u865F\u78BC\u63A8\u5C0E",25:"Izvedenica iz broja markice za uho"
 ,4:"Odvodit z \u010D\xEDsla u\u0161n\xED zn\xE1mky",5:"Afstamning fra \xF8rem\xE6rkenummer"
@@ -1480,7 +1480,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 "\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430",27:"Izpeljava iz \u0161tevilke transponderja"
 ,21:"Derivaci\xF3n del \u2116 de transpondedor",22:"Derivering fr\xE5n transpondernummer"
 ,23:"Aktar\u0131c\u0131 numaras\u0131ndan t\xFCretme",24:"\u0412\u0438\u0441\u043D\u043E\u0432\u043E\u043A \u0456\u0437 \u043D\u043E\u043C\u0435\u0440\u0443 "+
-"\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"};C.BiD={
+"\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"};C.BiE={
 1:"Opis kolone",2:"\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u043D\u0430 \u0437\u0430\u0433\u043B\u0430\u0432\u0438\u044F "+
 "\u043D\u0430 \u043A\u043E\u043B\u043E\u043D\u0438",3:"\u6A19\u984C\u8AAA\u660E"
 ,25:"Opis. zaglavlja stupaca",4:"Popis z\xE1hlav\xED sloupc\u016F",5:"Beskrivelse. kolonneoverskrifter"
@@ -1529,14 +1529,15 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,2:"\u0421\u0430\u043C\u043E \u0434\u0430\u043D\u043D\u0438 \u0437\u0430 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E"
 ,3:"\u50C5\u9650\u8A2D\u5099\u6578\u64DA",25:"Podaci ure\u0111aja samo",4:"Data za\u0159\xEDzen\xED pouze"
 ,5:"Enhedsdata kun",0:"Device data only",6:"Apparaatgegevens alleen",7:"Ainult seadme andmed"
-,9:"Donn\xE9es de l\'appareil uniquement",10:"Nur Ger\xE4tedaten",11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2 "+
+,8:"Vain laitetiedot",9:"Donn\xE9es de l\'appareil uniquement",10:"Nur Ger\xE4tedaten"
+,11:"\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2 "+
 "\u03BC\u03CC\u03BD\u03BF",12:"K\xE9sz\xFCl\xE9kadatok csak",13:"Dati del dispositivo solo"
 ,15:"Ier\u012Bces dati tikai",26:"\u012Erenginio duomenys tik",16:"Enhetsdata bare"
 ,17:"Dane urz\u0105dzenia tylko",18:"Dados do dispositivo apenas",19:"Datele dispozitivului numai"
 ,20:"\u0414\u0430\u043D\u043D\u044B\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430 "+
-"\u0442\u043E\u043B\u044C\u043A\u043E",27:"Podatki naprave samo",22:"Enbart enhetsdata"
-,24:"\u0414\u0430\u043D\u0456 \u043F\u0440\u0438\u0441\u0442\u0440\u043E\u044E "+
-"\u043B\u0438\u0448\u0435"};C.BiE={1:"upravlja\u010Dki program ure\u0111aja USB C"
+"\u0442\u043E\u043B\u044C\u043A\u043E",27:"Podatki naprave samo",21:"S\xF3lo datos del dispositivo"
+,22:"Enbart enhetsdata",23:"Yaln\u0131zca cihaz verileri",24:"\u0414\u0430\u043D\u0456 \u043F\u0440\u0438\u0441\u0442\u0440\u043E\u044E "+
+"\u043B\u0438\u0448\u0435"};C.BiF={1:"upravlja\u010Dki program ure\u0111aja USB C"
 ,2:"\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u043D\u0430 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
 "USB C",3:"USB C \u88DD\u7F6E\u9A45\u52D5\u7A0B\u5F0F",25:"Upravlja\u010Dki program za USB C ure\u0111aj"
 ,4:"Ovlada\u010D za\u0159\xEDzen\xED USB C",5:"Enhedsdriver USB C",0:"Device driver USB C"
@@ -1618,7 +1619,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,15:"Displejs",26:"Ekranas",16:"Skjerm",17:"Wy\u015Bwietlacz",18:"Exibi\xE7\xE3o"
 ,19:"Afi\u0219aj",20:"\u0414\u0438\u0441\u043F\u043B\u0435\u0439",27:"Zaslon",21:
 "Visualizaci\xF3n",22:"Visa",23:"G\xF6r\xFCnt\xFCle",24:"\u0414\u0438\u0441\u043F\u043B\u0435\u0439"
-};C.BiH={1:"prikazane informacije",2:"\u041F\u043E\u043A\u0430\u0437\u0432\u0430\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F"
+};C.BiI={1:"prikazane informacije",2:"\u041F\u043E\u043A\u0430\u0437\u0432\u0430\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F"
 ,3:"\u986F\u793A\u7684\u8A0A\u606F",25:"Prikazane informacije o \u017Eivotinji",
 4:"Zobrazen\xED info",5:"Viste dyreoplysninger",0:"Displayed animal info",6:"Weergegeven informatie"
 ,7:"Kuvatava looma info",8:"N\xE4ytetyt tiedot",9:"Informations affich\xE9es",10:
@@ -1631,7 +1632,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 "\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F",27:"Prikazane informacije o \u017Eivali"
 ,21:"Informaci\xF3n mostrada",22:"Visad djurinfo",23:"G\xF6r\xFCnt\xFClenen hayvan bilgileri"
 ,24:"\u0412\u0456\u0434\u043E\u0431\u0440\u0430\u0436\u0443\u0432\u0430\u043D\u0430 "+
-"\u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0456\u044F"};C.BiI={1:"Informacije prikazane u listi"
+"\u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0456\u044F"};C.BiJ={1:"Informacije prikazane u listi"
 ,2:"\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\u0442\u0430 "+"\u0441\u0435 \u043F\u043E\u043A\u0430\u0437\u0432\u0430 \u0432 \u0441\u043F\u0438\u0441\u044A\u043A\u0430"
 ,3:"\u8CC7\u8A0A\u986F\u793A\u65BC\u5217\u8868\u4E2D",25:"Informacije prikazane u popisu"
 ,4:"Informace zobrazen\xE9 v seznamu",5:"Informationer vises p\xE5 liste",0:"Info displayed in list"
@@ -1644,7 +1645,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,20:"\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F, \u043E\u0442\u043E\u0431\u0440\u0430\u0436\u0430\u0435\u043C\u0430\u044F "+
 "\u0432 \u0441\u043F\u0438\u0441\u043A\u0435",27:"Informacije prikazane na seznamu"
 ,22:"Information visas i lista",23:"Listede g\xF6r\xFCnt\xFClenen bilgiler",24:"\u0406\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0456\u044F \u0432\u0456\u0434\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0430 "+
-"\u0443 \u0441\u043F\u0438\u0441\u043A\u0443"};C.Lh={1:"obavljeno",2:"\u0413\u043E\u0442\u043E\u0432\u043E"
+"\u0443 \u0441\u043F\u0438\u0441\u043A\u0443"};C.Lg={1:"obavljeno",2:"\u0413\u043E\u0442\u043E\u0432\u043E"
 ,3:"\u5B8C\u6210\u4E86",25:"gotovo",4:"hotovo",5:"f\xE6rdig",0:"done",6:"klaar",
 7:"Tehtud",8:"Tehty",9:"fait",10:"erledigt",11:"\u0388\u03B3\u03B9\u03BD\u03B5",
 12:"k\xE9sz",13:"fatto",15:"pabeigts",26:"padaryta",16:"Ferdig",17:"zrobione",18:
@@ -1656,7 +1657,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,12:"Kisz\xE1radt",13:"Asciugato",15:"Iz\u017E\u0101v\u0113ts",26:"I\u0161d\u017Ei\u016Bv\u0119s"
 ,16:"T\xF8rket-av",17:"Wysuszony",18:"Seco",19:"Uscat",20:"\u0421\u0443\u0445~\u043E\u0441\u0442\u043E\u0439\u043D\u044B\u0435"
 ,27:"Posu\u0161en",21:"Secada",22:"Avtorkad",23:"Kuru-Kapal\u0131",24:"\u0421\u0443\u0445\u043E\u0441\u0442\u0456\u0439\u043A\u0456"
-};C.Bi2={1:"upravlja\u010Dki program monitora",2:"\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u0437\u0430 \u0434\u0438\u0441\u043F\u043B\u0435\u0439"
+};C.Bi3={1:"upravlja\u010Dki program monitora",2:"\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u0437\u0430 \u0434\u0438\u0441\u043F\u043B\u0435\u0439"
 ,3:"\u986F\u793A\u5361\u9A45\u52D5\u7A0B\u5F0F",25:"Upravlja\u010Dki program za prikaz"
 ,4:"Ovlada\u010D zobrazov\xE1n\xED",5:"Sk\xE6rmdriver",0:"Display driver",7:"Ekraani draiver"
 ,8:"N\xE4yt\xF6nohjain",9:"Pilote d\'\xE9cran",10:"Bildschirmtreiber",11:"\u0395\u03BC\u03C6\u03AC\u03BD\u03B9\u03C3\u03B7 \u03BF\u03B4\u03B7\u03B3\u03BF\u03CD"
@@ -1665,7 +1666,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 "Controlador de v\xEDdeo",19:"Driverul de afi\u0219are",20:"\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u044D\u043A\u0440\u0430\u043D\u0430"
 ,27:"Prikazovalni gonilnik",21:"Controlador de pantalla",22:"Sk\xE4rmdrivrutin",
 23:"G\xF6r\xFCnt\xFCleyici S\xFCr\xFCc\xFCs\xFC",24:"\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u0435\u043A\u0440\u0430\u043D\u0443"
-};C.Bi3={1:"suho",2:"\u0421\u0443\u0445\u043E\u0441\u0442\u043E\u0439\u043D\u0438"
+};C.Bi4={1:"suho",2:"\u0421\u0443\u0445\u043E\u0441\u0442\u043E\u0439\u043D\u0438"
 ,3:"\u4E7E\u71E5",25:"Suho",4:"Such\xFD",5:"T\xF8r",0:"Dry",6:"Droog",7:"Kinnij\xE4etud"
 ,8:"Ummessa",9:"Tarie",10:"T",11:"\u03A3\u03C4\u03B5\u03AF\u03C1\u03B1",12:"Sz\xE1raz"
 ,13:"Secco",15:"Sausa",26:"Sausas",16:"T\xF8rke",17:"Suchy",18:"Seco",19:"Uscat"
@@ -1684,7 +1685,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,12:"Lesz\xE1r\xEDt",13:"Asciugati",15:"Nosusin\u0101ties",26:"Nusausinkite",16:
 "T\xF8rk-av",17:"Wysusz si\u0119",18:"Secar-se",19:"Usc\u0103-te",20:"\u0417\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C"
 ,27:"Osusi se",21:"Secar",22:"Torka av",23:"Kuru Kapal\u0131",24:"\u0417\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u0438"
-};C.Bi4={1:"EEPROM mati\u010Dna plo\u010Da",3:"EEPROM \u4E3B\u6A5F\u677F",25:"EEPROM mati\u010Dna plo\u010Da"
+};C.Bi5={1:"EEPROM mati\u010Dna plo\u010Da",3:"EEPROM \u4E3B\u6A5F\u677F",25:"EEPROM mati\u010Dna plo\u010Da"
 ,4:"EEPROM z\xE1kladn\xED deska",5:"EEPROM-hovedkort",0:"EEPROM Mainboard",7:"EEPROM emaplaat"
 ,8:"EEPROM -emolevy",9:"EEPROM carte -m\xE8re",11:"\u039A\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE \u03C0\u03BB\u03B1\u03BA\u03AD\u03C4\u03B1 "+
 "EEPROM",12:"EEPROM alaplap",13:"Scheda madre EEPROM",15:"EEPROM galven\u0101 plate"
@@ -1692,7 +1693,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,18:"Placa-m\xE3e EEPROM",19:"Plac\u0103 de baz\u0103 EEPROM",20:"\u041C\u0430\u0442\u0435\u0440\u0438\u043D\u0441\u043A\u0430\u044F \u043F\u043B\u0430\u0442\u0430 "+
 "EEPROM",27:"EEPROM osnovna plo\u0161\u010Da",21:"EEPROM Placa principal",22:"EEPROM moderkort"
 ,23:"EEPROM Anakart",24:"\u041C\u0430\u0442\u0435\u0440\u0438\u043D\u0441\u044C\u043A\u0430 \u043F\u043B\u0430\u0442\u0430 "+
-"EEPROM"};C.Bi5={1:"EEPROMplo\u010Da",3:"EEPROM \u71D2\u9304\u677F",0:"EEPROM Torchboard"
+"EEPROM"};C.Bi6={1:"EEPROMplo\u010Da",3:"EEPROM \u71D2\u9304\u677F",0:"EEPROM Torchboard"
 ,9:"EEPROM carte (lumi\xE8re)",11:"\u03A0\u03BB\u03B1\u03BA\u03AD\u03C4\u03B1 \u03C6\u03B1\u03BA\u03BF\u03CD "+
 "EEPROM",13:"Memoria EEPROM Torchboard",15:"EEPROM lukturis",16:"EEPROM Datakort"
 ,21:"EEPROM Placa de antorcha",23:"EEPROM Me\u015Fale Tahtas\u0131"};C.A6K={3:"\u9000\u51FA"
@@ -1740,7 +1741,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,12:"Szerkeszt",13:"Modifica",15:"Redi\u0123\u0113t",26:"Redaguoti",16:"Rediger"
 ,17:"Edytuj",18:"Editar",19:"Edita\u021Bi",20:"\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C"
 ,27:"Uredi",21:"Modificar",22:"Redigera",23:"D\xFCzenle",24:"\u0417\u043C\u0456\u043D\u0438\u0442\u0438"
-};C.Bi7={1:"elektronska u\u0161na markica",2:"\u0415\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043D\u0430 \u0443\u0448\u043D\u0430 "+
+};C.Bi8={1:"elektronska u\u0161na markica",2:"\u0415\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043D\u0430 \u0443\u0448\u043D\u0430 "+
 "\u043C\u0430\u0440\u043A\u0430",3:"\u96FB\u5B50\u8033\u6A19",25:"Elektroni\u010Dka markica za uho"
 ,4:"Elektronick\xE1 u\u0161n\xED zn\xE1mka",5:"Elektronisk \xF8rem\xE6rke",0:"Electronic eartag"
 ,6:"Elektronische Oortag",7:"Elektrooniline k\xF5rvam\xE4rk",8:"Elektr. korvamerkki"
@@ -1851,7 +1852,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,19:"Activeaz\u0103 tot + reseteaz\u0103 ordinea",20:"\u0421\u0431\u0440\u043E\u0441\u0438\u0442\u044C \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
 ,27:"Omogo\u010Di vse + ponastavi vrstni red",21:"Restablecer orden",22:"Aktivera alla + \xE5terst\xE4ll ordning"
 ,23:"T\xFCm\xFCn\xFC etkinle\u015Ftir + sipari\u015Fi s\u0131f\u0131rla",24:"\u0421\u043A\u0438\u043D\u0443\u0442\u0438 \u043F\u043E\u0441\u043B\u0456\u0434\u043E\u0432\u043D\u0456\u0441\u0442\u044C"
-};C.Bi8={1:"Unesite ID \u017Eivotinje ru\u010Dno",2:"\u0412\u044A\u0432\u0435\u0434\u0435\u0442\u0435 ID \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E "+
+};C.Bi9={1:"Unesite ID \u017Eivotinje ru\u010Dno",2:"\u0412\u044A\u0432\u0435\u0434\u0435\u0442\u0435 ID \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E "+
 "\u0440\u044A\u0447\u043D\u043E",3:"\u624B\u52D5\u8F38\u5165\u52D5\u7269ID",25:"Unesite ID \u017Eivotinje ru\u010Dno"
 ,4:"Zadejte ID zv\xED\u0159ete ru\u010Dn\u011B",5:"Indtast dyrets ID manuelt",0:
 "Enter animal ID manually",6:"Diernummer handmatig geven",7:"Sisesta looma ID k\xE4sitsi"
@@ -1866,7 +1867,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 "\u0432\u0440\u0443\u0447\u043D\u0443\u044E",27:"Vnesite identifikacijsko \u0161tevilko \u017Eivali ro\u010Dno"
 ,21:"Ingresar ID del animal manualmente",22:"Ange djur-ID manuellt",23:"Hayvan kimli\u011Fini manuel olarak girin"
 ,24:"\u0423\u0432\u0435\u0441\u0442\u0438 ID \u0442\u0432\u0430\u0440\u0438\u043D\u0438 "+
-"\u0432\u0440\u0443\u0447\u043D\u0443"};C.Bi9={1:"Aparat \u0107e pre\u0107i u modus mirovanja za {#} minute. Za ponovno pokretanje "+
+"\u0432\u0440\u0443\u0447\u043D\u0443"};C.Bi_={1:"Aparat \u0107e pre\u0107i u modus mirovanja za {#} minute. Za ponovno pokretanje "+
 "pritisnite bilo koje dugme.",2:"\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
 "\u0449\u0435 \u0432\u043B\u0435\u0437\u0435 \u0432 \u0440\u0435\u0436\u0438\u043C "+
 "\u043D\u0430 \u0437\u0430\u0441\u043F\u0438\u0432\u0430\u043D\u0435 \u0441\u043B\u0435\u0434 "+
@@ -1910,14 +1911,14 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 "\u0431\u0443\u0434\u0435 \u0430\u043A\u0442\u0438\u0432\u043E\u0432\u0430\u043D\u043E "+
 "\u0447\u0435\u0440\u0435\u0437 {#} \u043C\u0438\u043D\u0443\u0442\u044B. "+"\u0414\u043B\u044F \u043F\u0440\u043E\u0434\u043E\u0432\u0436\u0435\u043D\u043D\u044F "+
 "\u043D\u0430\u0436\u043C\u0456\u0442\u044C \u0431\u0443\u0434\u044C \u044F\u043A\u0443 "+
-"\u043A\u043B\u0430\u0432\u0456\u0448\u0443."};C.Bi_={1:"Kopitar / konj",2:"\u0415\u0434\u043D\u043E\u043A\u043E\u043F\u0438\u0442\u043D\u043E/\u043A\u043E\u043D"
+"\u043A\u043B\u0430\u0432\u0456\u0448\u0443."};C.Bi$={1:"Kopitar / konj",2:"\u0415\u0434\u043D\u043E\u043A\u043E\u043F\u0438\u0442\u043D\u043E/\u043A\u043E\u043D"
 ,3:"\u99AC",25:"Konj",4:"K\u016F\u0148",5:"Hest",0:"Equine/horse",6:"Paard",7:"Hobune"
 ,9:"\xC9quid\xE9/cheval",10:"Einhufer/Pferd",11:"\u0386\u03BB\u03BF\u03B3\u03BF"
 ,12:"l\xF3",13:"Cavallo",15:"zirgs",26:"Arklys",16:"Hest",17:"ko\u0144",18:"Equino/cavalo"
 ,19:"Cal",20:"\u041D\u0435\u043F\u0430\u0440\u043D\u043E\u043A\u043E\u043F\u044B\u0442\u043D\u044B\u0435 "+
 "/ \u043B\u043E\u0448\u0430\u0434\u044C",27:"konj",21:"Equino/ Caballo",22:"H\xE4st"
 ,23:"At",24:"\u041D\u0435\u043F\u0430\u0440\u043D\u043E\u043A\u043E\u043F\u0438\u0442\u043D\u0456 "+
-"/ \u043A\u0456\u043D\u044C"};C.Bi$={1:"Gre\u0161ka(e) prilikom provjere upravlja\u010Dkih programa!\n\n\u017Delite "+
+"/ \u043A\u0456\u043D\u044C"};C.Bja={1:"Gre\u0161ka(e) prilikom provjere upravlja\u010Dkih programa!\n\n\u017Delite "+
 "li vidjeti detaljne informacije o gre\u0161ci(ama)?",2:"\u0413\u0440\u0435\u0448\u043A\u0430(\u0438) \u043F\u0440\u0438 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430 "+
 "\u043D\u0430 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0438 \u043D\u0430 "+"\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430!\n\n\u0418\u0441\u043A\u0430\u0442\u0435 "+
 "\u043B\u0438 \u0434\u0430 \u0432\u0438\u0434\u0438\u0442\u0435 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0430 "+
@@ -2155,7 +2156,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,20:"\u0421\u0431\u0440\u043E\u0441 \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043A"
 ,27:"Tovarni\u0161ka nastavitev",21:"Restablecer ajustes f\xE1brica",22:"Fabriks\xE5terst\xE4llning"
 ,23:"Fabrika ayarlar\u0131",24:"\u0421\u043A\u0438\u0434\u0430\u043D\u043D\u044F \u043D\u0430\u043B\u0430\u0448\u0442\u0443\u0432\u0430\u043D\u044C"
-};C.Bjb={1:"Gre\u0161ka prilikom kreiranja sigurnosne kopije na USB fle\u0161 disku!"
+};C.Bjc={1:"Gre\u0161ka prilikom kreiranja sigurnosne kopije na USB fle\u0161 disku!"
 ,2:"\u0413\u0440\u0435\u0448\u043A\u0430 \u043F\u0440\u0438 \u0441\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0440\u0435\u0437\u0435\u0440\u0432\u043D\u043E \u043A\u043E\u043F\u0438\u0435 "+
 "\u043D\u0430 USB \u0444\u043B\u0430\u0448 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E!"
@@ -2180,7 +2181,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,22:"Fel vid skapande av s\xE4kerhetskopia p\xE5 USB-minne!",23:"USB flash s\xFCr\xFCc\xFCde yedekleme olu\u015Fturulurken hata olu\u015Ftu!"
 ,24:"\u041F\u043E\u043C\u0438\u043B\u043A\u0430 \u043F\u0440\u0438 \u0441\u0442\u0432\u043E\u0440\u0435\u043D\u043D\u0456 "+
 "\u0440\u0435\u0437\u0435\u0440\u0432\u043D\u043E\u0457 \u043A\u043E\u043F\u0456\u0457 "+
-"\u043D\u0430 USB-\u0444\u043B\u0435\u0448\u0446\u0456!"};C.Bjc={1:"Gre\u0161ka prilikom vra\u0107anja sigurnosne kopije sa USB flash diska!"
+"\u043D\u0430 USB-\u0444\u043B\u0435\u0448\u0446\u0456!"};C.Bjd={1:"Gre\u0161ka prilikom vra\u0107anja sigurnosne kopije sa USB flash diska!"
 ,2:"\u0413\u0440\u0435\u0448\u043A\u0430 \u043F\u0440\u0438 \u0432\u044A\u0437\u0441\u0442\u0430\u043D\u043E\u0432\u044F\u0432\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0440\u0435\u0437\u0435\u0440\u0432\u043D\u043E \u043A\u043E\u043F\u0438\u0435 "+
 "\u043E\u0442 USB \u0444\u043B\u0430\u0448 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E!"
@@ -2205,7 +2206,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,24:"\u041F\u043E\u043C\u0438\u043B\u043A\u0430 \u043F\u0456\u0434 \u0447\u0430\u0441 "+
 "\u0432\u0456\u0434\u043D\u043E\u0432\u043B\u0435\u043D\u043D\u044F \u0440\u0435\u0437\u0435\u0440\u0432\u043D\u043E\u0457 "+
 "\u043A\u043E\u043F\u0456\u0457 \u0437 USB-\u0444\u043B\u0435\u0448\u043A\u0438!"
-};C.Bjd={1:"Gre\u0161ka prilikom pisanja CSV datoteke s obavijestima o ro\u0111enju "+
+};C.Bje={1:"Gre\u0161ka prilikom pisanja CSV datoteke s obavijestima o ro\u0111enju "+
 "na USB flash disk!",2:"\u0413\u0440\u0435\u0448\u043A\u0430 \u043F\u0440\u0438 \u0437\u0430\u043F\u0438\u0441 "+
 "\u043D\u0430 CSV \u0444\u0430\u0439\u043B \u0441 \u0431\u0435\u043B\u0435\u0436\u043A\u0438 "+
 "\u0437\u0430 \u0440\u0430\u0436\u0434\u0430\u043D\u0435 \u043D\u0430 USB "+"\u0444\u043B\u0430\u0448\u043A\u0430!"
@@ -2242,7 +2243,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 "\u0456\u0437 \u043F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F\u043C\u0438 "+
 "\u043F\u0440\u043E \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
 "\u043D\u0430 USB \u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447!"
-};C.Bje={1:"Gre\u0161ka prilikom pisanja CSV datoteke s podacima o \u017Eivotinjama "+
+};C.Bjf={1:"Gre\u0161ka prilikom pisanja CSV datoteke s podacima o \u017Eivotinjama "+
 "na USB fle\u0161 drajv!",2:"\u0413\u0440\u0435\u0448\u043A\u0430 \u043F\u0440\u0438 \u0437\u0430\u043F\u0438\u0441 "+
 "\u043D\u0430 CSV \u0444\u0430\u0439\u043B \u0441 \u0434\u0430\u043D\u043D\u0438 "+
 "\u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u0438 \u043D\u0430 USB "+"\u0444\u043B\u0430\u0448\u043A\u0430!"
@@ -2271,7 +2272,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 "USB.",22:"Fel vid skrivning av CSV-fil med djurdata till USB-minne!",23:"Do\u011Fum bildirimlerini i\xE7eren CSV dosyas\u0131n\u0131 USB flash "+
 "s\xFCr\xFCc\xFCye yazarken hata olu\u015Ftu!",24:"\u041F\u043E\u043C\u0438\u043B\u043A\u0430 \u043F\u0456\u0434 \u0447\u0430\u0441 "+
 "\u0437\u0430\u043F\u0438\u0441\u0443 CSV-\u0444\u0430\u0439\u043B\u0443 "+"\u0437 \u0434\u0430\u043D\u0438\u043C\u0438 \u043F\u0440\u043E \u0442\u0432\u0430\u0440\u0438\u043D "+
-"\u043D\u0430 USB-\u0444\u043B\u0435\u0448\u043A\u0443!"};C.Bjf={1:"Gre\u0161ka prilikom pisanja CSV datoteke s obavijestima o kupovini na "+
+"\u043D\u0430 USB-\u0444\u043B\u0435\u0448\u043A\u0443!"};C.Bjg={1:"Gre\u0161ka prilikom pisanja CSV datoteke s obavijestima o kupovini na "+
 "USB flash disk!",2:"\u0413\u0440\u0435\u0448\u043A\u0430 \u043F\u0440\u0438 \u0437\u0430\u043F\u0438\u0441 "+
 "\u043D\u0430 CSV \u0444\u0430\u0439\u043B \u0441 \u0431\u0435\u043B\u0435\u0436\u043A\u0438 "+
 "\u0437\u0430 \u043F\u043E\u043A\u0443\u043F\u043A\u0430 \u043D\u0430 USB "+"\u0444\u043B\u0430\u0448\u043A\u0430!"
@@ -2358,7 +2359,7 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 ,10:"Futter",11:"\u03A4\u03C1\u03BF\u03C6\u03AE",12:"Etet",13:"Nutrire",15:"Barot"
 ,26:"Maitinti",16:"F\xF4r",17:"Karmi\u0107",18:"Alimentar",19:"Hr\u0103ni\u021Bi"
 ,20:"\u041A\u043E\u0440\u043C",27:"Hrani",21:"Alimento",22:"Mata",23:"Besleme",24:
-"\u041A\u043E\u0440\u043C"};C.Bjh={1:"Konzumacija hrane",2:"\u0418\u0437\u044F\u0434\u0435\u043D\u0430 \u0445\u0440\u0430\u043D\u0430"
+"\u041A\u043E\u0440\u043C"};C.Bji={1:"Konzumacija hrane",2:"\u0418\u0437\u044F\u0434\u0435\u043D\u0430 \u0445\u0440\u0430\u043D\u0430"
 ,3:"\u63A1\u98DF",25:"Unos hrane",4:"Hodnocen\xED p\u0159\xEDjmu krmen\xED",5:"Foderindtag"
 ,0:"Feed intake",6:"Voeropname",7:"S\xF6\xF6mus",8:"Rehunsy\xF6nti",9:"Consommation"
 ,10:"Futterverzehr",11:"\u03A0\u03C1\u03CC\u03C3\u03BB\u03B7\u03C8\u03B7 \u03C4\u03C1\u03BF\u03C6\u03AE\u03C2"
@@ -2413,9 +2414,9 @@ AjH={1:"zadane vrijednosti",2:"\u0421\u0442\u043E\u0439\u043D\u043E\u0441\u0442\
 };C.Ag1={1:"%d. %m. %Y",2:"%d.%m.%Y",4:"%d. %m. %Y",0:"%Y-%m-%d",6:"%d-%m-%Y",7:
 "%p.%k.%aa",8:"%d.%m.%Y",9:"%d/%m/%Y",10:"%d.%m.%Y",11:"%#d/%#m/%Y",13:"%d/%m/%Y"
 ,14:"%Y\u5E74%m\u6708%d\u65E5",16:"%d.%m.%Y",18:"%A-%m-%d",20:"%d-%m-%Y",21:"%d/%m/%Y"
-,23:"%d.%m.%Y",24:"%d.%m.%Y"};C.Bjp={1:"%d. %m.",2:"%d.%m",4:"%d. %m.",5:"%d. %m."
+,23:"%d.%m.%Y",24:"%d.%m.%Y"};C.Bjq={1:"%d. %m.",2:"%d.%m",4:"%d. %m.",5:"%d. %m."
 ,0:"%m-%d",6:"%d-%m",7:"%p.%k",8:"%d.%m",9:"%d/%m",10:"%d.%m",11:"%#d/%#m",13:"%d/%m"
-,14:"%m\u6708%d\u65E5",16:"%d.%m",20:"%d-%m",21:"%d/%m",24:"%d.%m"};C.Bjq={1:"%H:%M %d. %m. %Y"
+,14:"%m\u6708%d\u65E5",16:"%d.%m",20:"%d-%m",21:"%d/%m",24:"%d.%m"};C.Bjr={1:"%H:%M %d. %m. %Y"
 ,2:"%H:%M %d.%m.%Y",4:"%H:%M %d. %m. %Y",0:"%H:%M %Y-%m-%d",6:"%H:%M %d-%m-%Y",7:
 "%H:%k %p.%k.%aa",8:"%H:%M %d.%m.%Y",9:"%H:%M %d/%m/%Y",10:"%H:%M %d.%m.%Y",11:"%H:%M %#d/%#m/%Y"
 ,13:"%H:%M %d/%m/%Y",14:"%H:%M %Y\u5E74%m\u6708%d\u65E5",16:"%H:%M %d.%m.%Y",20:
@@ -2439,7 +2440,7 @@ AOS={1:"Grla koja se muzu",2:"\u0421\u043A\u043E\u0440\u043E \u043E\u0442\u0435\
 ,20:"\u0418\u043D\u0434\u0438\u043A\u0430\u0442\u043E\u0440 \u0437\u0430\u0440\u044F\u0434\u0430"
 ,27:"Merilnik goriva",21:"Indicador de carga",22:"Br\xE4nslem\xE4tare",23:"Yak\u0131t g\xF6stergesi"
 ,24:"\u0406\u043D\u0434\u0438\u043A\u0430\u0442\u043E\u0440 \u0437\u0430\u0440\u044F\u0434\u0443"
-};C.Bju={1:"Ova funkcija nije dostupna u demo verziji!",2:"\u0422\u0430\u0437\u0438 \u0444\u0443\u043D\u043A\u0446\u0438\u044F \u043D\u0435 "+
+};C.Bjv={1:"Ova funkcija nije dostupna u demo verziji!",2:"\u0422\u0430\u0437\u0438 \u0444\u0443\u043D\u043A\u0446\u0438\u044F \u043D\u0435 "+
 "\u0435 \u043D\u0430\u043B\u0438\u0447\u043D\u0430 \u0432 \u0434\u0435\u043C\u043E "+
 "\u0432\u0435\u0440\u0441\u0438\u044F\u0442\u0430!",3:"\u6B64\u529F\u80FD\u5728\u6F14\u793A\u7248\u672C\u4E2D\u4E0D\u53EF\u7528\uFF01"
 ,25:"Ova funkcija nije dostupna u demo verziji!",4:"Tato funkce nen\xED dostupn\xE1 v demoverzi!"
@@ -2461,7 +2462,7 @@ AOS={1:"Grla koja se muzu",2:"\u0421\u043A\u043E\u0440\u043E \u043E\u0442\u0435\
 ,22:"Den h\xE4r funktionen \xE4r inte tillg\xE4nglig i demoversionen!",23:"Bu i\u015Flev demo s\xFCr\xFCm\xFCnde mevcut de\u011Fildir!"
 ,24:"\u0426\u044F \u0444\u0443\u043D\u043A\u0446\u0456\u044F \u043D\u0435\u0434\u043E\u0441\u0442\u0443\u043F\u043D\u0430 "+
 "\u0443 \u0434\u0435\u043C\u043E\u043D\u0441\u0442\u0440\u0430\u0446\u0456\u0439\u043D\u0456\u0439 "+
-"\u0432\u0435\u0440\u0441\u0456\u0457!"};C.BjW={1:"gr/dan",2:"\u0433/\u0434\u0435\u043D"
+"\u0432\u0435\u0440\u0441\u0456\u0457!"};C.BjX={1:"gr/dan",2:"\u0433/\u0434\u0435\u043D"
 ,3:"\u516C\u514B/\u65E5",25:"dobar dan",4:"gram\u016F za den",5:"god dag",0:"g/day"
 ,6:"g/dag",7:"g/p\xE4evas",8:"g/pv",9:"g/jour",10:"g/Tag",11:"\u03B3\u03C1./\u03BC\u03AD\u03C1\u03B1"
 ,12:"J\xF3 napot!",13:"buongiorno",15:"Labdien",26:"labas",16:"gr./pr dag",17:"dzie\u0144 dobry"
@@ -2486,7 +2487,7 @@ AOS={1:"Grla koja se muzu",2:"\u0421\u043A\u043E\u0440\u043E \u043E\u0442\u0435\
 ,12:"Hardver",13:"Ferramenta",15:"Aparat\u016Bra",26:"Aparat\u016Bra",16:"Maskinvare"
 ,17:"Sprz\u0119t komputerowy",18:"Ferragens",19:"Feronerie",20:"\u041E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u0435"
 ,27:"Strojna oprema",22:"H\xE5rdvara",23:"Donan\u0131m",24:"\u0430\u043F\u0430\u0440\u0430\u0442\u043D\u0435 \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F"
-};C.BjZ={1:"Junica",2:"\u042E\u043D\u0438\u0446\u0430",3:"\u725D\u725B",25:"Junica"
+};C.Bj0={1:"Junica",2:"\u042E\u043D\u0438\u0446\u0430",3:"\u725D\u725B",25:"Junica"
 ,4:"Jalovice",5:"Kviekalv",0:"Heifer",6:"Vaars",7:"Mullikas",8:"Hieho",9:"G\xE9nisse"
 ,10:"F\xE4rse",11:"\u03A4\u03B5\u03BB\u03AF\u03C4\u03C3\u03B1",12:"\xDCsz\u0151"
 ,13:"Manza",15:"T\u0113lava",26:"Ver\u0161elis",16:"Kvige",17:"Ja\u0142\xF3wka",
@@ -2508,7 +2509,7 @@ APV={1:"krdo",2:"\u0421\u0442\u0430\u0434\u043E",3:"\u725B\u7FA4",25:"Stado",4:"
 ,19:"Ascunde-te dup\u0103 ac\u021Biune",20:"\u0421\u043A\u0440\u044B\u0442\u044C \u043F\u043E\u0441\u043B\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F"
 ,27:"Skrij se po dejanju",21:"Ocultar despu\xE9s de la acci\xF3n",22:"D\xF6lj efter \xE5tg\xE4rd"
 ,23:"\u0130\u015Flemden sonra gizle",24:"\u041F\u0440\u0438\u0445\u043E\u0432\u0430\u0442\u0438 \u043F\u0456\u0441\u043B\u044F "+
-"\u0434\u0456\u0457"};C.Bj0={1:"Ne prikazu izmjerena grla",2:"\u0421\u043A\u0440\u0438\u0439 \u0438\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0442\u0435 "+
+"\u0434\u0456\u0457"};C.Bj1={1:"Ne prikazu izmjerena grla",2:"\u0421\u043A\u0440\u0438\u0439 \u0438\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0442\u0435 "+
 "\u043A\u0440\u0430\u0432\u0438",3:"\u96B1\u85CF\u6E2C\u91CF\u904E\u7684\u725B",
 25:"Sakrij izmjerene krave",4:"Schovej zm\u011B\u0159en\xE9 kr\xE1vy",5:"Skjul m\xE5lte k\xF8er"
 ,0:"Hide measured cows",6:"Verborgen gemeten koeien",7:"Peida m\xF5\xF5detud lehmad"
@@ -2524,7 +2525,7 @@ APV={1:"krdo",2:"\u0421\u0442\u0430\u0434\u043E",3:"\u725B\u7FA4",25:"Stado",4:"
 ,5:"H\xF8j",0:"High",6:"Hoog",7:"K\xF5rge",8:"Korkeus",9:"Haut",10:"Hoch",11:"\u03A8\u03B7\u03BB\u03AC"
 ,12:"Magas",13:"Alto",15:"Augsts",26:"Auk\u0161tas",16:"H\xF8y",17:"Wysoki",18:"Alto"
 ,19:"\xCEnalt",20:"\u0412\u044B\u0441\u043E\u043A\u0438\u0439",27:"Visok",21:"Alto"
-,22:"H\xF6g",23:"Y\xFCksek",24:"\u0412\u0438\u0441\u043E\u043A\u0438\u0439"};C.Bj1={
+,22:"H\xF6g",23:"Y\xFCksek",24:"\u0412\u0438\u0441\u043E\u043A\u0438\u0439"};C.Bj2={
 1:"Dokumentacija o uvozu kupljenih \u017Eivotinja u softver za upravljanje "+"stadom \'Herde Mast\' ili \'Herde Plus\':\n\nhttps://herde.vitalcontrol.de"
 ,2:"\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0430\u0446\u0438\u044F "+"\u0437\u0430 \u0438\u043C\u043F\u043E\u0440\u0442\u0438\u0440\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0437\u0430\u043A\u0443\u043F\u0435\u043D\u0438 \u0436\u0438\u0432\u043E\u0442\u043D\u0438 "+
@@ -2615,7 +2616,7 @@ APV={1:"krdo",2:"\u0421\u0442\u0430\u0434\u043E",3:"\u725B\u7FA4",25:"Stado",4:"
 "\u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E",27:"ID zadnje \u017Eivali"
 ,21:"ID del \xFAltimo animal",22:"ID f\xF6r sista djuret",23:"Son Hayvan Kimli\u011Fi"
 ,24:"ID-\u043D\u043E\u043C\u0435\u0440 \u043E\u0441\u0442\u0430\u043D\u043D\u044C\u043E\u0457 "+
-"\u0442\u0432\u0430\u0440\u0438\u043D\u0438"};C.Bj4={1:"za jedan dan",2:"\u0437\u0430 \u0435\u0434\u0438\u043D \u0434\u0435\u043D"
+"\u0442\u0432\u0430\u0440\u0438\u043D\u0438"};C.Bj5={1:"za jedan dan",2:"\u0437\u0430 \u0435\u0434\u0438\u043D \u0434\u0435\u043D"
 ,3:"\u4E00\u5929\u4E4B\u5167",25:"za jedan dan",4:"za jeden den",5:"p\xE5 en dag"
 ,0:"in one day",6:"op een dag",7:"\xDChe p\xE4eva jooksul",8:"p\xE4iv\xE4ss\xE4"
 ,9:"En une journ\xE9e",10:"in einem Tag",11:"\u039C\u03AD\u03C3\u03B1 \u03C3\u03B5 \u03BC\u03B9\u03B1 \u03BC\u03AD\u03C1\u03B1"
@@ -2623,7 +2624,7 @@ APV={1:"krdo",2:"\u0421\u0442\u0430\u0434\u043E",3:"\u725B\u7FA4",25:"Stado",4:"
 ,16:"P\xE5 en dag",17:"za jeden dzie\u0144",18:"em um dia",19:"\xEEntr-o zi",20:
 "\u0437\u0430 \u043E\u0434\u0438\u043D \u0434\u0435\u043D\u044C",27:"v enem dnevu"
 ,21:"en un d\xEDa",22:"p\xE5 en dag",23:"Bir g\xFCnde",24:"\u0437\u0430 \u043E\u0434\u0438\u043D \u0434\u0435\u043D\u044C"
-};C.Bj5={1:"za {DAYS} dana",2:"\u0441\u043B\u0435\u0434 {DAYS} \u0434\u043D\u0438"
+};C.Bj6={1:"za {DAYS} dana",2:"\u0441\u043B\u0435\u0434 {DAYS} \u0434\u043D\u0438"
 ,3:"{DAYS} \u5929\u5F8C",25:"za {DANE} dana",4:"za {DAYS} dn\xED",5:"om {DAGE} dage"
 ,0:"in {DAYS} days",6:"in {DAYS} dagen",7:"{DAYS} p\xE4eva jooksul",8:"{DAYS} p\xE4iv\xE4ss\xE4"
 ,9:"en {DAYS} jours",10:"in {DAYS} Tagen",11:"\u039C\u03AD\u03C3\u03B1 \u03C3\u03B5 {DAYS} \u03BC\u03AD\u03C1\u03B5\u03C2"
@@ -2631,7 +2632,7 @@ APV={1:"krdo",2:"\u0421\u0442\u0430\u0434\u043E",3:"\u725B\u7FA4",25:"Stado",4:"
 ,26:"per {DIENAS} dienas",16:"om {DAYS} dager",17:"za {DNI} dni",18:"em {DAYS} dias"
 ,19:"\xEEn {DAYS} zile",20:"\u0447\u0435\u0440\u0435\u0437 {DAYS} \u0434\u043D\u0435\u0439"
 ,27:"\u010Dez {DAYS} dni",21:"en {DAYS} d\xEDas",22:"om {DAYS} dagar",23:"in {DAYS} ka\xE7 g\xFCn i\xE7inde"
-,24:"\u0447\u0435\u0440\u0435\u0437 {DAYS} \u0434\u043D\u0456\u0432"};C.Bj6={1:"u pozadini"
+,24:"\u0447\u0435\u0440\u0435\u0437 {DAYS} \u0434\u043D\u0456\u0432"};C.Bj7={1:"u pozadini"
 ,2:"\u0412\u044A\u0432 \u0444\u043E\u043D\u043E\u0432 \u0440\u0435\u0436\u0438\u043C"
 ,3:"\u81EA\u52D5\u767B\u9304",25:"U pozadini",4:"Na pozad\xED",5:"I baggrunden",
 0:"In background",6:"In de achtergrond",7:"Taustal",8:"Taustalla",9:"En arri\xE8re-plan"
@@ -2639,7 +2640,7 @@ APV={1:"krdo",2:"\u0421\u0442\u0430\u0434\u043E",3:"\u725B\u7FA4",25:"Stado",4:"
 ,12:"A h\xE1tt\xE9rben",13:"In background - In secondo piano",15:"Fon\u0101",26:
 "Fone",16:"I bakgrunnen",17:"W tle",18:"Em segundo plano",19:"\xCEn fundal",20:"\u0412 \u0444\u043E\u043D\u043E\u0432\u043E\u043C \u0440\u0435\u0436\u0438\u043C\u0435"
 ,27:"V ozadju",21:"En el fondo",22:"I bakgrunden",23:"Arka planda",24:"\u0423 \u0444\u043E\u043D\u043E\u0432\u043E\u043C\u0443 \u0440\u0435\u0436\u0438\u043C\u0456"
-};C.Bj7={1:"povi\u0161eno",2:"\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D",
+};C.Bj8={1:"povi\u0161eno",2:"\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D",
 3:"\u589E\u52A0",25:"Pove\u0107ano",4:"Zv\xFD\u0161eno",5:"\xD8get",0:"Increased"
 ,6:"Verhoogt",7:"T\xF5usnud",8:"Lis\xE4\xE4ntynyt",9:"Augment\xE9",10:"Erh\xF6ht"
 ,11:"\u0391\u03C5\u03BE\u03B7\u03BC\u03AD\u03BD\u03BF",12:"N\xF6vekedett",13:"Aumentato"
@@ -2672,7 +2673,7 @@ C.Info={1:"Informacija",2:"\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u043
 ,20:"\u0412\u0432\u0435\u0441\u0442\u0438 \u0442\u0435\u0440\u043C\u043E\u043C\u0435\u0442\u0440"
 ,27:"Vstavite merilno konico",21:"Insertar la punta\nde medici\xF3n",22:"S\xE4tt i m\xE4tspetsen"
 ,23:"\xD6l\xE7\xFCm ucunu tak\u0131n",24:"\u0412\u0432\u0435\u0441\u0442\u0438 \u0442\u0435\u0440\u043C\u043E\u043C\u0435\u0442\u0440"
-};C.Bkr={1:"kilogram",2:"\u041A\u0438\u043B\u043E\u0433\u0440\u0430\u043C",3:"\u516C\u65A4"
+};C.Bks={1:"kilogram",2:"\u041A\u0438\u043B\u043E\u0433\u0440\u0430\u043C",3:"\u516C\u65A4"
 ,0:"Kilogram",7:"Kilogramm",8:"Kiloa",9:"Kilogramme",10:"Kilogramm",11:"\u039A\u03B9\u03BB\u03CC"
 ,12:"kilogramm",13:"Chilogrammo",15:"Kilograms",26:"Kilogramas",18:"Quilograma",
 20:"\u043A\u0438\u043B\u043E\u0433\u0440\u0430\u043C\u043C",21:"Kilogramos",24:"\u043A\u0456\u043B\u043E\u0433\u0440\u0430\u043C"
@@ -2682,7 +2683,7 @@ C.Info={1:"Informacija",2:"\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u043
 12:"Szoptat\xE1s",13:"Lattazione",15:"Lakt\u0101cija",26:"Laktacija",16:"Laktasjon"
 ,17:"Laktacja",18:"Lacta\xE7\xE3o",19:"Lacta\u021Bie",20:"\u041B\u0430\u043A\u0442\u0430\u0446\u0438\u044F"
 ,27:"Laktacija",21:"Lactancia",22:"Amning",23:"Emzirme",24:"\u041B\u0430\u043A\u0442\u0430\u0446\u0456\u044F"
-};C.Bks={1:"dan laktacije",2:"\u0414\u0435\u043D \u0432 \u043B\u0430\u043A\u0442\u0430\u0446\u0438\u044F"
+};C.Bkt={1:"dan laktacije",2:"\u0414\u0435\u043D \u0432 \u043B\u0430\u043A\u0442\u0430\u0446\u0438\u044F"
 ,3:"\u54FA\u4E73\u65E5",25:"Dan laktacije",4:"Den laktace",5:"Dag for laktation"
 ,0:"Day of lactation",6:"Lactatiedag",7:"Laktatsiooni p\xE4ev",8:"Lypsyp\xE4iv\xE4"
 ,9:"Jour de lactation",10:"Laktations~tag",11:"\u0397\u03BC\u03AD\u03C1\u03B1 \u03B3\u03B1\u03BB\u03BF\u03C5\u03C7\u03AF\u03B1\u03C2"
@@ -2697,16 +2698,16 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,13:"Lattazione",15:"Lakt\u0101cija",26:"Laktacija",16:"Lakta-\nsjon",17:"Laktacja"
 ,18:"Lacta\xE7\xE3o",19:"Lacta\u021Bie",20:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F"
 ,27:"Laktacija",21:"Lac~tancia",22:"Amning",23:"Emz~irme",24:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0456\u044F"
-};C.Bkt={1:"janje",2:"\u0410\u0433\u043D\u0435",3:"\u5C0F\u7F8A",25:"Jagnje",4:"Jehn\u011B"
+};C.Bku={1:"janje",2:"\u0410\u0433\u043D\u0435",3:"\u5C0F\u7F8A",25:"Jagnje",4:"Jehn\u011B"
 ,5:"Lam",0:"Lamb",6:"Lam",7:"Tall",8:"Lammas",9:"Agneau",10:"Lamm",11:"\u0391\u03C1\u03BD\u03AF"
 ,12:"B\xE1r\xE1ny",13:"Agnello",15:"J\u0113rs",26:"\u0117riukas",16:"Lam",17:"Baranek"
 ,18:"Cordeiro",19:"Miel",20:"\u042F\u0433\u043D\u044F\u0442",27:"Jagnje",21:"Cordero"
-,22:"Lamm",23:"Kuzu",24:"\u042F\u0433\u043D\u044F\u0442"};C.Bku={1:"janje",2:"\u0430\u0433\u043D\u0435"
+,22:"Lamm",23:"Kuzu",24:"\u042F\u0433\u043D\u044F\u0442"};C.Bkv={1:"janje",2:"\u0430\u0433\u043D\u0435"
 ,3:"\u5C0F\u7F8A",25:"janje",4:"jehn\u011B",5:"lam",0:"lamb",6:"lam",7:"Tall",8:
 "lammas",9:"agneau",10:"Lamm",11:"\u03B1\u03C1\u03BD\u03AF",12:"b\xE1r\xE1ny",13:
 "agnello",15:"j\u0113rs",26:"\u0117riukas",16:"Lam",17:"baranek",18:"cordeiro",19:
 "miel",20:"\u042F\u0433\u043D\u044F\u0442",27:"jagnje",21:"cordero",22:"lamm",23:
-"Kuzu",24:"\u042F\u0433\u043D\u044F\u0442"};C.Bkv={1:"janjad",2:"\u0430\u0433\u043D\u0435\u0442\u0430"
+"Kuzu",24:"\u042F\u0433\u043D\u044F\u0442"};C.Bkw={1:"janjad",2:"\u0430\u0433\u043D\u0435\u0442\u0430"
 ,3:"\u5C0F\u7F8A",25:"janjci",4:"jah\u0148ata",5:"lam",0:"lambs",6:"lammeren",7:
 "talled",8:"lampaat",9:"agneaux",10:"L\xE4mmer",11:"\u0391\u03C1\u03BD\u03B9\u03AC"
 ,12:"b\xE1r\xE1nyok",13:"agnelli",15:"j\u0113ri",26:"\u0117riukai",16:"Lam",17:"jagni\u0119ta"
@@ -2777,7 +2778,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,8:"Valo",9:"Lumi\xE8re\n",10:"Licht",11:"\u0395\u03BB\u03B1\u03C6\u03C1\u03CD",
 12:"F\xE9ny",13:"Luce",15:"Gaisma",26:"\u0160viesa",16:"Lys",17:"\u015Bwiat\u0142o"
 ,18:"Luz",19:"Lumin\u0103",20:"\u0421\u0432\u0435\u0442",27:"Svetloba",21:"Linterna\n"
-,22:"Ljus",23:"A\xE7\u0131k",24:"\u0421\u0432\u0456\u0442\u043B\u043E"};C.Bky={1:
+,22:"Ljus",23:"A\xE7\u0131k",24:"\u0421\u0432\u0456\u0442\u043B\u043E"};C.Bkz={1:
 "povezati ID broj \u017Eivotinja",2:"\u0412\u0440\u044A\u0437\u043A\u0430 \u2116 \u0436\u0438\u0432\u043E\u0442\u043D\u043E"
 ,3:"\u9023\u7D50\u52D5\u7269\u7DE8\u865F",25:"Pove\u017Ei ID \u017Eivotinje",4:"Spojit ID zv\xED\u0159ete"
 ,5:"Knyt dyre-ID",0:"Link animal ID",6:"Link dier ID",7:"Seo looma ID",8:"Linkit\xE4 el\xE4imen ID"
@@ -2847,7 +2848,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,10:"Listen",11:"\u039B\u03AF\u03C3\u03C4\u03B5\u03C2",12:"List\xE1k",13:"Elenchi"
 ,15:"Saraksti",26:"S\u0105ra\u0161ai",16:"Lister",17:"Listy",18:"Listas",19:"Liste"
 ,20:"\u0421\u043F\u0438\u0441\u043A\u0438",27:"Seznami",21:"Listas",22:"Listor",
-23:"Listeler",24:"\u0421\u043F\u0438\u0441\u043A\u0438"};C.BkC={1:"nisko",2:"\u041D\u0438\u0441\u044A\u043A"
+23:"Listeler",24:"\u0421\u043F\u0438\u0441\u043A\u0438"};C.BkD={1:"nisko",2:"\u041D\u0438\u0441\u044A\u043A"
 ,3:"\u4F4E",25:"Nizak",4:"N\xEDzk\xFD",5:"Lav",0:"Low",6:"Laag",7:"Madal",8:"Matala"
 ,9:"Bas",10:"Niedrig",11:"\u03A7\u03B1\u03BC\u03B7\u03BB\u03AC",12:"Alacsony",13:
 "Basso",15:"Zems",26:"\u017Demas",16:"Lav",17:"Niski",18:"Baixo",19:"Sc\u0103zut"
@@ -2879,7 +2880,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,25:"Ru\u010Dno brisanje obavijesti s popisa je potrebno!",4:"Ru\u010Dn\xED odstran\u011Bn\xED ozn\xE1men\xED ze seznamu je nutn\xE9!"
 ,5:"Manuel sletning af meddelelser fra listen kr\xE6ves!",0:"Manual deletion of notices from list required!"
 ,6:"Handmatige verwijdering van meldingen uit lijst vereist!",7:"Vajalik on k\xE4sitsi teadete kustutamine nimekirjast!"
-,9:"Suppression manuelle des avis de la liste requise !",10:"Meldungen m\xFCs~sen noch manuell gel\xF6scht werden!"
+,9:"Suppression manuelle des avis de la liste requise\xA0!",10:"Meldungen m\xFCs~sen noch manuell gel\xF6scht werden!"
 ,11:"\u0391\u03C0\u03B1\u03B9\u03C4\u03B5\u03AF\u03C4\u03B1\u03B9 \u03C7\u03B5\u03B9\u03C1\u03BF\u03BA\u03AF\u03BD\u03B7\u03C4\u03B7 "+
 "\u03B4\u03B9\u03B1\u03B3\u03C1\u03B1\u03C6\u03AE \u03B5\u03B9\u03B4\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03C9\u03BD "+
 "\u03B1\u03C0\u03CC \u03C4\u03B7 \u03BB\u03AF\u03C3\u03C4\u03B1!",12:"K\xE9zi t\xF6rl\xE9s sz\xFCks\xE9ges az \xE9rtes\xEDt\xE9sek list\xE1j\xE1r\xF3l!"
@@ -2907,7 +2908,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 "\u0432\u043E\u0437\u0440\u0430\u0441\u0442",27:"Kupljeni teleti:\nnajve\u010Dja starost"
 ,21:"Comprados terneros:\nedad m\xE1xima",22:"Ink\xF6pta kalvar:\nmaximal \xE5lder"
 ,23:"Sat\u0131n al\u0131nan buza\u011F\u0131lar:\nmaksimum ya\u015F",24:"\u041A\u0443\u043F\u043B\u0435\u043D\u0456 \u0442\u0435\u043B\u044F\u0442\u0430:\n\u043C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u0438\u0439 "+
-"\u0432\u0456\u043A"};C.BkH={1:"Mogu\u0107e pohraniti samo {1} \u017Eivotinja!",
+"\u0432\u0456\u043A"};C.BkI={1:"Mogu\u0107e pohraniti samo {1} \u017Eivotinja!",
 2:"\u041C\u043E\u0433\u0430\u0442 \u0434\u0430 \u0441\u0435 \u0441\u044A\u0445\u0440\u0430\u043D\u044F\u0432\u0430\u0442 "+
 "\u0441\u0430\u043C\u043E \u0434\u043E {1} \u0436\u0438\u0432\u043E\u0442\u043D\u0438!"
 ,3:"\u53EA\u80FD\u5B58\u653E{1}\u96BB\u52D5\u7269\uFF01",25:"Samo do {1} \u017Eivotinja mo\u017Ee biti pohranjeno!"
@@ -2927,7 +2928,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,22:"Endast upp till {1} djur kan lagras!",23:"Yaln\u0131zca en fazla {1} hayvan saklanabilir!"
 ,24:"\u041C\u043E\u0436\u043D\u0430 \u043A\u0435\u0440\u0443\u0432\u0430\u0442\u0438 "+
 "\u043D\u0435 \u0431\u0456\u043B\u044C\u0448 \u043D\u0456\u0436 {1} \u0442\u0432\u0430\u0440\u0438\u043D\u043E\u044E/\u0430\u043C\u0438!"
-};C.BkI={1:"Mogu\u0107e pohraniti samo {1} neregistrovanih \u017Eivotinja!",2:"\u041C\u043E\u0433\u0430\u0442 \u0434\u0430 \u0441\u0435 \u0441\u044A\u0445\u0440\u0430\u043D\u044F\u0432\u0430\u0442 "+
+};C.BkJ={1:"Mogu\u0107e pohraniti samo {1} neregistrovanih \u017Eivotinja!",2:"\u041C\u043E\u0433\u0430\u0442 \u0434\u0430 \u0441\u0435 \u0441\u044A\u0445\u0440\u0430\u043D\u044F\u0432\u0430\u0442 "+
 "\u0441\u0430\u043C\u043E \u0434\u043E {1} \u043E\u0442\u043C\u0435\u043D\u0435\u043D\u0438 "+
 "\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043D\u0430 "+
 "\u0436\u0438\u0432\u043E\u0442\u043D\u0438!",3:"\u53EA\u80FD\u5132\u5B58{1}\u500B\u52D5\u7269\u672A\u767B\u8A18\u7684\u8A18\u9304\uFF01"
@@ -2948,7 +2949,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,21:"\xA1Solo se pueden almacenar hasta {1} anulaciones de animales!",22:"Endast upp till {1} djuravregistreringar kan lagras!"
 ,23:"Yaln\u0131zca {1} adete kadar hayvan kayd\u0131 silinebilir!",24:"\u041C\u043E\u0436\u043D\u0430 \u043A\u0435\u0440\u0443\u0432\u0430\u0442\u0438 "+
 "\u043D\u0435 \u0431\u0456\u043B\u044C\u0448 \u043D\u0456\u0436 {1} \u0437\u043D\u044F\u0442\u0442\u044F\u043C "+
-"\u0437 \u043E\u0431\u043B\u0456\u043A\u0443!"};C.BkJ={1:"Mogu\u0107e pohraniti samo {1} podataka po \u017Eivotinji!"
+"\u0437 \u043E\u0431\u043B\u0456\u043A\u0443!"};C.BkK={1:"Mogu\u0107e pohraniti samo {1} podataka po \u017Eivotinji!"
 ,2:"\u0421\u0430\u043C\u043E \u0434\u043E {1} \u0435\u0434\u0438\u043D\u0438\u0446\u0438 "+
 "\u0434\u0430\u043D\u043D\u0438 \u043C\u043E\u0433\u0430\u0442 \u0434\u0430 "+"\u0441\u0435 \u0441\u044A\u0445\u0440\u0430\u043D\u044F\u0432\u0430\u0442 "+
 "\u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E!",3:"\u6BCF\u96BB\u52D5\u7269\u6700\u591A\u53EA\u80FD\u5132\u5B58 {1} \u500B\u6578\u64DA\u5BE6\u9AD4\uFF01"
@@ -3016,7 +3017,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,20:"\u0418\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0435 \u043F\u0440\u0438",
 27:"Vrste izmerjene",21:"Medici\xF3n de",22:"Arter m\xE4tta",23:"Hayvan\u0131n t\xFCr\xFC \xF6l\xE7\xFCm\xFC"
 ,24:"\u0412\u0438\u043C\u0456\u0440\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u0438"
-};C.BkL={1:"mjerenje nije uspjelo",2:"\u041D\u0435\u0443\u0441\u043F. \u0438\u0437\u043C\u0435\u0440\u0432\u0430\u043D\u0435"
+};C.BkM={1:"mjerenje nije uspjelo",2:"\u041D\u0435\u0443\u0441\u043F. \u0438\u0437\u043C\u0435\u0440\u0432\u0430\u043D\u0435"
 ,3:"\u6E2C\u91CF\u5931\u6557",25:"Mjera nije uspjela",4:"M\u011B\u0159en\xED chyba"
 ,5:"M\xE5ling mislykkedes",0:"Measure failed",6:"Meting mislukt",7:"M\xF5\xF5tm. eba\xF5nnestus"
 ,8:"Mittausvirhe",9:"\xC9chec de la mesure",10:"Messung fehlgeschlagen",11:"\u0391\u03C0\u03BF\u03C4\u03C5\u03C7\u03B7\u03BC\u03AD\u03BD\u03B7 \u03BC\u03AD\u03C4\u03C1\u03B7\u03C3\u03B7"
@@ -3025,7 +3026,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,19:"M\u0103sura a e\u0219uat",20:"\u0418\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0435 \u043D\u0435 \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u043E"
 ,27:"Meritve niso uspele",21:"Fallo medici\xF3n",22:"M\xE5ttet misslyckades",23:
 "\xD6l\xE7\xFCm ba\u015Far\u0131s\u0131z",24:"\u0412\u0438\u043C\u0456\u0440\u044E\u0432\u0430\u043D\u043D\u044F \u043D\u0435 "+
-"\u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043E"};C.BkM={1:"mjerenje uspjelo",
+"\u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043E"};C.BkN={1:"mjerenje uspjelo",
 2:"\u0418\u0437\u043C\u0435\u0440\u0432\u0430\u043D\u0435\u0442\u043E \u0435 "+"\u0443\u0441\u043F\u0435\u0448\u043D\u043E"
 ,3:"\u63AA\u65BD\u6210\u529F\u4E86",25:"Mjera uspjela",4:"M\u011B\u0159en\xED bylo \xFAsp\u011B\u0161n\xE9"
 ,5:"M\xE5ling lykkedes",0:"Measure succeeded",6:"Meting succesvol",7:"M\xF5\xF5tmine \xF5nnestus"
@@ -3110,7 +3111,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 ,12:"T\xF6bbsz\xF6r\xF6s\xF6k",13:"Multipli",15:"Reizin\u0101jumi",26:"Kartotiniai"
 ,16:"Multipliser",17:"Wielokrotno\u015Bci",18:"M\xFAltiplos",19:"Multipli",20:"\u0411\u043B\u0438\u0437\u043D\u0435\u0446\u044B"
 ,27:"Ve\u010Dkratniki",21:"Ternero simple/m\xFAltiple",22:"Multipel",23:"\xC7oklu"
-,24:"\u0411\u043B\u0438\u0437\u043D\u044E\u043A\u0438"};C.BkR={1:"prije {1} dana"
+,24:"\u0411\u043B\u0438\u0437\u043D\u044E\u043A\u0438"};C.BkS={1:"prije {1} dana"
 ,2:"\u041F\u0440\u0435\u0434\u0438 {1} \u0434\u043D\u0438",3:"{1}\u5929\u524D",25:
 "{1} dana prije",4:"Dny p\u0159ed",5:"{1} dage siden",0:"{1} days ago",6:"{1} dagen geleden"
 ,7:"{1} p\xE4eva tagasi",8:"{1} p\xE4iv\xE4\xE4 sitten",9:"il y a {1} jour",10:"vor {1} Tagen"
@@ -3124,7 +3125,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 9:"{1} de 4",10:"{1} von 4",11:"{1} \u03B1\u03C0\u03CC 4",12:"{1} a 4-b\u0151l",
 13:"{1} di 4",15:"{1} no 4",26:"{1} i\u0161 4",16:"{1} av 4",17:"{1} z 4",18:"{1} de 4"
 ,19:"{1} din 4",20:"{1} \u0438\u0437 4",27:"{1} od 4",21:"{1} de 4",22:"{1} av 4"
-,23:"{1} / 4",24:"{1} \u0456\u0437 4"};C.BkU={1:"Identifikacioni broj \u017Eivotinje je ve\u0107 povezan s ovom \u017Eivotinjom!\nPonovna "+
+,23:"{1} / 4",24:"{1} \u0456\u0437 4"};C.BkV={1:"Identifikacioni broj \u017Eivotinje je ve\u0107 povezan s ovom \u017Eivotinjom!\nPonovna "+
 "dodjela ID-a nije mogu\u0107a!",2:"ID \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u0432\u0435\u0447\u0435 "+
 "\u0435 \u0441\u0432\u044A\u0440\u0437\u0430\u043D\u043E \u0441 \u0442\u043E\u0432\u0430 "+
 "\u0436\u0438\u0432\u043E\u0442\u043D\u043E!\n\u041F\u0440\u0435\u043D\u0430\u0437\u043D\u0430\u0447\u0430\u0432\u0430\u043D\u0435\u0442\u043E "+
@@ -3158,7 +3159,7 @@ C.AEn={1:"Lakta~cija",2:"\u041B\u0430\u043A\u0442\u0430~\u0446\u0438\u044F",3:"\
 "inte m\xF6jlig!",23:"Bu hayvana zaten bir hayvan kimli\u011Fi ba\u011Fl\u0131!\nKimli\u011Fin "+
 "yeniden atanmas\u0131 m\xFCmk\xFCn de\u011Fil!",24:"\u0414\u043E \u0446\u0456\u0454\u0457 \u0442\u0432\u0430\u0440\u0438\u043D\u0438 "+
 "\u0443\u0436\u0435 \u043F\u0440\u0438\u0432\'\u044F\u0437\u0430\u043D\u043E "+"ID!\n\u041F\u0435\u0440\u0435\u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F "+
-"ID \u043D\u0435 \u0454 \u043C\u043E\u0436\u043B\u0438\u0432\u0438\u043C!"};C.Uo={
+"ID \u043D\u0435 \u0454 \u043C\u043E\u0436\u043B\u0438\u0432\u0438\u043C!"};C.Uq={
 1:"Oznaka u\u0161ne markice",2:"\u0423\u0448\u043D\u0430 \u043C\u0430\u0440\u043A\u0430"
 ,3:"\u570B\u5BB6\u52D5\u7269\u8B58\u5225\u78BC",25:"Nacionalni identifikacijski broj \u017Eivotinje"
 ,4:"N\xE1rodn\xED identifikace zv\xED\u0159at",5:"Nationalt dyre-ID",0:"National animal ID"
@@ -3447,7 +3448,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 "Joki\u0173 poky\u010Di\u0173",16:"Ingen endring",17:"Bez zmian",18:"Sem mudan\xE7a"
 ,19:"F\u0103r\u0103 schimbare",20:"\u0411\u0435\u0437 \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u0439"
 ,27:"Brez spremembe",21:"Sin cambios",22:"Ingen f\xF6r\xE4ndring",23:"De\u011Fi\u015Fiklik yokHYD"
-,24:"\u0411\u0435\u0437 \u0437\u043C\u0456\u043D"};C.BkW={1:"Nema krava na spisku!"
+,24:"\u0411\u0435\u0437 \u0437\u043C\u0456\u043D"};C.BkX={1:"Nema krava na spisku!"
 ,2:"\u041D\u044F\u043C\u0430 \u043A\u0440\u0430\u0432\u0430 (\u0438) \u0432 "+"\u0441\u043F\u0438\u0441\u044A\u043A\u0430"
 ,3:"\u540D\u55AE\u4E0A\u6C92\u6709\u725B\uFF01",25:"Nema krava na popisu!",4:"\u017D\xE1dn\xE1 kr\xE1va (kr\xE1vy) na seznamu!"
 ,5:"Ingen ko(er) p\xE5 listen!",0:"No cow(s) on list!",6:"geen koeien op de lijst"
@@ -3493,7 +3494,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 ,22:"Inga f\xE4rska kor p\xE5 listan!",23:"Listede yeni do\u011Fum yapm\u0131\u015F inek yok!"
 ,24:"\u0423 \u0441\u043F\u0438\u0441\u043A\u0443 \u043D\u0435\u043C\u0430\u0454 "+
 "\u043D\u043E\u0432\u043E\u0442\u0456\u043B\u044C\u043D\u0438\u0445 \u043A\u043E\u0440\u0456\u0432!"
-};C.BkY={1:"Nema zabilje\u017Eenih ocjena u prikazanom vremenskom periodu!",2:"\u041D\u044F\u043C\u0430 \u0437\u0430\u043F\u0438\u0441\u0430\u043D\u0438 "+
+};C.BkZ={1:"Nema zabilje\u017Eenih ocjena u prikazanom vremenskom periodu!",2:"\u041D\u044F\u043C\u0430 \u0437\u0430\u043F\u0438\u0441\u0430\u043D\u0438 "+
 "\u043E\u0446\u0435\u043D\u043A\u0438 \u0437\u0430 \u043F\u043E\u043A\u0430\u0437\u0430\u043D\u0438\u044F "+
 "\u043F\u0435\u0440\u0438\u043E\u0434 \u043E\u0442 \u0434\u0430\u0442\u0430!",3:
 "\u986F\u793A\u65E5\u671F\u7BC4\u570D\u5167\u6C92\u6709\u8A55\u5206\u8A18\u9304\uFF01"
@@ -3591,7 +3592,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 "hayvan bulunamad\u0131!",24:"\u0420\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0456\u0432 \u043F\u043E\u0448\u0443\u043A\u0443 "+
 "\u043D\u0435\u043C\u0430\u0454:\n\u0442\u0432\u0430\u0440\u0438\u043D, "+"\u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u043D\u043E\u0457 \u043F\u043E\u0441\u043B\u0456\u0434\u043E\u0432\u043D\u043E\u0441\u0442\u0456 "+
 "\u0446\u0438\u0444\u0440, \u043D\u0435 \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u043E!"
-};C.BkZ={1:"Nema zabilje\u017Eenih temperatura i ocjena u prikazanom periodu na grafiku!"
+};C.Bk0={1:"Nema zabilje\u017Eenih temperatura i ocjena u prikazanom periodu na grafiku!"
 ,2:"\u041D\u044F\u043C\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430\u043D\u0438 "+
 "\u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0438 \u0438 "+"\u043E\u0446\u0435\u043D\u043A\u0438 \u0432 \u043F\u0435\u0440\u0438\u043E\u0434\u0430, "+
 "\u043F\u043E\u043A\u0430\u0437\u0430\u043D \u043D\u0430 \u0433\u0440\u0430\u0444\u0438\u043A\u0430\u0442\u0430!"
@@ -3624,7 +3625,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 "derecelendirme kaydedilmedi!",24:"\u0412 \u0432\u0456\u0434\u043E\u0431\u0440\u0430\u0436\u0443\u0432\u0430\u043D\u0438\u0439 "+
 "\u043F\u0435\u0440\u0456\u043E\u0434 \u043D\u0435 \u0431\u0443\u043B\u043E "+"\u0437\u0430\u043F\u0438\u0441\u0430\u043D\u043E \u043D\u0456\u044F\u043A\u0438\u0445 "+
 "\u043E\u0446\u0456\u043D\u043E\u043A \u0442\u0430 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440!"
-};C.Bk0={1:"Nema sa\u010Duvanih vrijednosti temperature!",2:"\u0412\u0441\u0435 \u043E\u0449\u0435 \u043D\u044F\u043C\u0430 \u0437\u0430\u043F\u0438\u0441\u0438 "+
+};C.Bk1={1:"Nema sa\u010Duvanih vrijednosti temperature!",2:"\u0412\u0441\u0435 \u043E\u0449\u0435 \u043D\u044F\u043C\u0430 \u0437\u0430\u043F\u0438\u0441\u0438 "+
 "\u0437\u0430 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0430 "+
 "\u0438 \u043E\u0446\u0435\u043D\u043A\u0430!",3:"\u5C1A\u672A\u6709\u6EAB\u5EA6\u548C\u8A55\u5206\u8A18\u9304\uFF01"
 ,25:"Jo\u0161 nisu zabilje\u017Eene temperature ni ocjene!",4:"Dosud nebyly zaznamen\xE1ny \u017E\xE1dn\xE9 teploty a \u017E\xE1dn\xE1 "+
@@ -3776,7 +3777,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 "\u03BA\u03B1\u03BD\u03AD\u03BD\u03B1",12:"egyik sem",13:"nessuno",15:"neviena",
 26:"n\u0117 vienas",16:"ingen",17:"\u017Caden",18:"nenhum",19:"niciunul",20:"\u041D\u0435\u0442"
 ,27:"noben",21:"-",22:"ingen",23:"Hi\xE7biri",24:"\u043D\u0435\u043C\u0430\u0454"
-};C.Bk1={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",25:"Nijedan",4:"\u017D\xE1dn\xFD"
+};C.Bk2={1:"nema",2:"\u043D\u044F\u043C\u0430",3:"\u6C92\u6709",25:"Nijedan",4:"\u017D\xE1dn\xFD"
 ,5:"Ingen",0:"None",6:"geen",7:"Pole",8:"Ei yht\xE4\xE4n",9:"aucun",10:"Keine",11:
 "\u039A\u03B1\u03BD\u03AD\u03BD\u03B1",12:"Semmi",13:"Nessuno",15:"Neviens",26:"N\u0117 vienas"
 ,16:"ingen",17:"\u017Baden",18:"Nenhum",19:"Niciunul",20:"\u041D\u0435\u0442",27:
@@ -3827,7 +3828,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 ,27:"Desni zamik",21:"Compensaci\xF3n derecha",22:"H\xF6ger offset",23:"Sa\u011F ofset"
 ,24:"\u0417\u043C\u0456\u0449\u0435\u043D\u043D\u044F \u0432\u043F\u0440\u0430\u0432\u043E"
 };C.Ok={3:"\u597D\u7684",0:"OK",7:"Jah",11:"\u0395\u03BD\u03C4\u03AC\u03BE\u03B5\u03B9"
-,20:"\u041E\u041A",24:"\u041E\u041A"};C.Bk5={1:"Stariji od {1} dana",2:"\u041F\u043E-\u0441\u0442\u0430\u0440\u0438 \u043E\u0442 {1} \u0434\u043D\u0438"
+,20:"\u041E\u041A",24:"\u041E\u041A"};C.Bk6={1:"Stariji od {1} dana",2:"\u041F\u043E-\u0441\u0442\u0430\u0440\u0438 \u043E\u0442 {1} \u0434\u043D\u0438"
 ,3:"\u8D85\u904E {1} \u5929\u7684",25:"Starije od {1} dana",4:"Star\u0161\xED ne\u017E {1} dn\xED"
 ,5:"\xC6ldre end {1} dage",0:"Older than {1} days",6:"ouder dan {1} dagen",7:"Vanem kui {1} p\xE4eva"
 ,8:"Yli {1} p\xE4iv\xE4\xE4 vanhempi",9:"Plus \xE2g\xE9 que {1} jours",10:"\xC4lter als {1} Tage"
@@ -3848,7 +3849,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 ,12:"\u0150rs\xE9gben",13:"In guardia",15:"De\u017E\u016Br\u0101",26:"Bud\u0117ti"
 ,16:"P\xE5 vakt",17:"Na warcie",18:"De guarda",19:"De gard\u0103",20:"\u041D\u0430 \u0441\u0442\u0440\u0430\u0436\u0435"
 ,27:"Na stra\u017Ei",21:"En seguimiento",22:"P\xE5 vakt",23:"\u0130zlemede",24:"\u041D\u0430 \u0432\u0430\u0440\u0442\u0456"
-};C.BoD={1:"Jedan interval za brojeve za \u2642 i \u2640",2:"\u0415\u0434\u0438\u043D \u0434\u0438\u0430\u043F\u0430\u0437\u043E\u043D "+
+};C.BoE={1:"Jedan interval za brojeve za \u2642 i \u2640",2:"\u0415\u0434\u0438\u043D \u0434\u0438\u0430\u043F\u0430\u0437\u043E\u043D "+
 "\u0437\u0430 \u2642 \u0438 \u2640",3:"\u4E00\u500B\u9069\u5408\u7537\u6027\u548C\u5973\u6027\u7684\u55AE\u4E00\u7BC4\u570D"
 ,25:"Jedan jedinstveni raspon za oba \u2642 i \u2640",4:"Jeden jednotn\xFD rozsah pro ob\u011B pohlav\xED \u2642 a \u2640"
 ,5:"\xC9n enkelt st\xF8rrelse for b\xE5de \u2642 og \u2640",0:"One single range for both \u2642 and \u2640"
@@ -3872,7 +3873,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 ,12:"Lehet\u0151s\xE9gek",13:"Opzioni",15:"Iesp\u0113jas",26:"Pasirinkimai",16:"Alternativer"
 ,17:"Opcje",18:"Op\xE7\xF5es",19:"Op\u021Biuni",20:"\u041E\u043F\u0446\u0438\u0438"
 ,27:"Mo\u017Enosti",21:"Opciones",22:"Alternativ",24:"\u041E\u043F\u0446\u0456\u0457"
-};C.BoE={1:"druga oboljenja",2:"\u0414\u0440\u0443\u0433\u0438 \u0437\u0430\u0431\u043E\u043B\u044F\u0432\u0430\u043D\u0438\u044F"
+};C.BoF={1:"druga oboljenja",2:"\u0414\u0440\u0443\u0433\u0438 \u0437\u0430\u0431\u043E\u043B\u044F\u0432\u0430\u043D\u0438\u044F"
 ,3:"\u5176\u4ED6\u75BE\u75C5",25:"Druge bolesti",4:"Jin\xE9 nemoci",5:"Andre sygdomme"
 ,0:"Other illnesses",6:"Andere ziektes",7:"Teised haigused",8:"Muut sairaudet",9:
 "Autres maladies",10:"Sonstige Krankheiten",11:"\u0386\u03BB\u03BB\u03B5\u03C2 \u03B1\u03C3\u03B8\u03AD\u03BD\u03B5\u03B9\u03B5\u03C2"
@@ -3908,7 +3909,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 ,5:"Pund",0:"Pound",6:"Pond",7:"Nael",8:"pauna",9:"Livre",10:"Pfund",11:"\u039B\u03AF\u03B2\u03C1\u03B1"
 ,12:"Font",13:"Libbra",15:"M\u0101rci\u0146a",26:"Svaras",16:"Pund",17:"Funt",18:
 "Libra",19:"Livr\u0103",20:"\u0424\u0443\u043D\u0442",27:"Funt",21:"Libras",22:"Pund"
-,23:"Paund",24:"\u0424\u0443\u043D\u0442"};C.BoM={2:"\u041B\u0438\u0431\u0440\u0438/\u0434\u0435\u043D"
+,23:"Paund",24:"\u0424\u0443\u043D\u0442"};C.BoN={2:"\u041B\u0438\u0431\u0440\u0438/\u0434\u0435\u043D"
 ,3:"\u78C5/\u65E5",25:"funte/d",4:"Libra/den",5:"pund pr. dag",0:"lbs/d",6:"ponden/dag"
 ,7:"Kg p\xE4evas",8:"lbs/pv",9:"lbs/jour",11:"\u039B\u03AF\u03B2\u03C1\u03B5\u03C2/\u03BC\u03AD\u03C1\u03B1"
 ,12:"font naponta",13:"libbre/g",15:"m\u0101rci\u0146as/dien\u0101",26:"svarai per dien\u0105"
@@ -3931,7 +3932,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 ,19:"Num\u0103rul de identificare al propriet\u0103\u021Bii",20:"\u041D\u043E\u043C\u0435\u0440 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u044F"
 ,27:"\u0160tevilka identifikacije prostorov",21:"ID de predios",22:"Fastighets-ID-nummer"
 ,23:"Tesis kimlik numaras\u0131",24:"\u041D\u043E\u043C\u0435\u0440 \u043F\u0440\u0438\u043C\u0456\u0449\u0435\u043D\u043D\u044F-ID"
-};C.BoN={1:"Prethodne dodatne radnje",2:"\u041F\u0440\u0435\u0434\u0438\u0448\u043D\u0438 \u0434\u043E\u043F\u044A\u043B\u043D\u0438\u0442\u0435\u043B\u043D\u0438 "+
+};C.BoO={1:"Prethodne dodatne radnje",2:"\u041F\u0440\u0435\u0434\u0438\u0448\u043D\u0438 \u0434\u043E\u043F\u044A\u043B\u043D\u0438\u0442\u0435\u043B\u043D\u0438 "+
 "\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F",3:"\u5148\u524D\u7684\u984D\u5916\u884C\u52D5"
 ,25:"Prethodne dodatne radnje",4:"P\u0159edchoz\xED dal\u0161\xED kroky",5:"Tidligere yderligere handlinger"
 ,0:"Previous additional actions",6:"Vorige toegevoegde acties",7:"Eelmised lisategevused"
@@ -3945,7 +3946,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 "\u041F\u0440\u0435\u0434\u044B\u0434\u0443\u0449\u0438\u0435 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0435 "+
 "\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F",27:"Prej\u0161nja dodatna dejanja"
 ,22:"Tidigare ytterligare \xE5tg\xE4rder",23:"\xD6nceki ek i\u015Flemler",24:"\u041F\u043E\u043F\u0435\u0440\u0435\u0434\u043D\u0456 \u0434\u043E\u0434\u0430\u0442\u043A\u043E\u0432\u0456 "+
-"\u0434\u0456\u0457"};C.BoO={1:"Problemati\u010Dna prilikom mu\u017Enje",2:"\u041F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u043F\u0440\u0438 "+
+"\u0434\u0456\u0457"};C.BoP={1:"Problemati\u010Dna prilikom mu\u017Enje",2:"\u041F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u043F\u0440\u0438 "+
 "\u0434\u043E\u0435\u043D\u0435",3:"\u554F\u984C\u6027\u7684\u64E0\u5976\u884C\u70BA"
 ,25:"Problemati\u010Dno pona\u0161anje pri mu\u017Enji",4:"Probl\xE9mov\xE9 dojic\xED chov\xE1n\xED"
 ,5:"Problematisk malkning adf\xE6rd",0:"Problematic milking behavior",6:"Problematisch drinkgedrag"
@@ -3961,7 +3962,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 "\u043F\u0440\u0438 \u0434\u043E\u0435\u043D\u0438\u0438",27:"Problemati\u010Dno vedenje pri mol\u017Ei"
 ,21:"Comportamiento problem\xE1tico durante el orde\xF1o",22:"Problematiskt mj\xF6lkande beteende"
 ,23:"Sorunlu sa\u011F\u0131m davran\u0131\u015F\u0131",24:"\u041F\u0440\u043E\u0431\u043B\u0435\u043C\u043D\u0430 \u043F\u043E\u0432\u0435\u0434\u0456\u043D\u043A\u0430 "+
-"\u043F\u0440\u0438 \u0434\u043E\u0457\u043D\u043D\u0456"};C.BoP={1:"Problemati\u010Dno pona\u0161enje u stadu"
+"\u043F\u0440\u0438 \u0434\u043E\u0457\u043D\u043D\u0456"};C.BoQ={1:"Problemati\u010Dno pona\u0161enje u stadu"
 ,2:"\u041F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435",3:"\u554F\u984C\u6027\u793E\u6703\u884C\u70BA"
 ,25:"Problemati\u010Dno dru\u0161tveno pona\u0161anje",4:"Problemati\u010Dn\xED soci\xE1ln\xED chov\xE1n\xED"
 ,5:"Problematisk social adf\xE6rd",0:"Problematic social behavior",6:"Problematisch sociaal gedrag"
@@ -3975,7 +3976,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 "\u043F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435",27:"Problemati\u010Dno dru\u017Ebeno vedenje"
 ,21:"Comportamiento social problem\xE1tico",22:"Problematiskt socialt beteende",
 23:"Sorunlu sosyal davran\u0131\u015F",24:"\u041F\u0440\u043E\u0431\u043B\u0435\u043C\u043D\u0430 \u0441\u043E\u0446\u0456\u0430\u043B\u044C\u043D\u0430 "+
-"\u043F\u043E\u0432\u0435\u0434\u0456\u043D\u043A\u0430"};C.BoQ={1:"Proizvedeno"
+"\u043F\u043E\u0432\u0435\u0434\u0456\u043D\u043A\u0430"};C.BoR={1:"Proizvedeno"
 ,2:"\u041F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u043E",3:"\u88FD\u4F5C"
 ,25:"Proizvedeno",4:"Vyprodukovan\xFD",5:"Produceret",0:"Produced",6:"Geproduceerd"
 ,7:"Toodetud",8:"Tuotettu",9:"Produit",10:"Produziert",11:"\u03A0\u03B1\u03C1\u03AC\u03C7\u03B8\u03B7\u03BA\u03B5"
@@ -3988,7 +3989,7 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 ,12:"Termel\u0151",13:"Produttore",15:"Ra\u017Eot\u0101js",26:"Prodiuseris",16:"Produsent"
 ,17:"Producent",18:"Produtor",19:"Produc\u0103tor",20:"\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C"
 ,27:"Producent",21:"Fabricante",22:"Producent",23:"\xDCretici",24:"\u0412\u0438\u0440\u043E\u0431\u043D\u0438\u043A"
-};C.BoR={1:"Ubacite USB sa va\u017Ee\u0107im programom - a\u017Euriranje",2:"\u041C\u043E\u043B\u044F, \u043F\u043E\u0441\u0442\u0430\u0432\u0435\u0442\u0435 "+
+};C.BoS={1:"Ubacite USB sa va\u017Ee\u0107im programom - a\u017Euriranje",2:"\u041C\u043E\u043B\u044F, \u043F\u043E\u0441\u0442\u0430\u0432\u0435\u0442\u0435 "+
 "USB \u0444\u043B\u0430\u0448 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E "+
 "\u0441 \u0432\u0430\u043B\u0438\u0434\u0435\u043D \u0444\u0430\u0439\u043B "+"\u043D\u0430 \u0444\u044A\u0440\u043C\u0443\u0435\u0440\u0430 \u2019firmware.vcu\u2019!"
 ,3:"\u8ACB\u63D2\u5165\u542B\u6709\u6709\u6548\u97CC\u9AD4\u6A94\u6848 \'firmware.vcu\' "+
@@ -4133,14 +4134,14 @@ A8x={1:"Bez promjene",2:"\u0411\u0435\u0437 \u043F\u0440\u043E\u043C\u044F\u043D
 "\u0431\u0430\u0436\u0430\u0454\u0442\u0435 \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438 "+
 "\u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u043D\u0443 \u0440\u043E\u0434\u0438\u043D\u043D\u0443 "+
 "\u0442\u0432\u0430\u0440\u0438\u043D\u0443 \u0437\u0430\u0440\u0430\u0437?"};C.
-Afe={3:"\u554F\u865F",0:"?",9:"\xA0?"};C.A$y={1:"RFID \u010Dita\u010D",2:"RFID \u0447\u0435\u0442\u0435\u0446"
+Aff={3:"\u554F\u865F",0:"?",9:"\xA0?"};C.A$y={1:"RFID \u010Dita\u010D",2:"RFID \u0447\u0435\u0442\u0435\u0446"
 ,3:"RFID \u8B80\u53D6\u5668",25:"\u010Dita\u010D RFID",4:"\u010Dte\u010Dka RFID"
 ,5:"RFID-l\xE6ser",0:"RFID reader",6:"RFID lezer",7:"RFID lugeja",8:"RFID lukija"
 ,9:"Lecteur RFID",10:"RFID-Leseger\xE4t",11:"\u0391\u03BD\u03B1\u03B3\u03BD\u03CE\u03C3\u03C4\u03B7\u03C2 RFID"
 ,12:"RFID olvas\xF3",13:"Lettore RFID",15:"RFID las\u012Bt\u0101js",26:"RFID skaitytuvas"
 ,16:"RFID-leser",17:"czytnik RFID",18:"Leitor de RFID",19:"Cititor RFID",20:"\u0421\u0447\u0438\u0442\u044B\u0432\u0430\u0442\u0435\u043B\u044C RFID"
 ,27:"\u010Ditalnik RFID",21:"Lector RFID",22:"RFID-l\xE4sare",23:"RFID okuyucu",
-24:"\u0417\u0447\u0438\u0442\u0443\u0432\u0430\u0447 RFID"};C.BoT={3:"RGB \u767C\u5149\u4E8C\u6975\u9AD4"
+24:"\u0417\u0447\u0438\u0442\u0443\u0432\u0430\u0447 RFID"};C.BoU={3:"RGB \u767C\u5149\u4E8C\u6975\u9AD4"
 ,0:"RGB LED",13:"LED RGB",17:"Dioda LED RGB",18:"LED RGB",19:"LED RGB",21:"LED RGB"
 ,23:"RGB LED\'i"};C.A$A={1:"real time sat",2:"\u0427\u0430\u0441\u043E\u0432\u043D\u0438\u043A \u0437\u0430 \u0440\u0435\u0430\u043B\u043D\u043E "+
 "\u0432\u0440\u0435\u043C\u0435",3:"\u5BE6\u6642\u6642\u9418",25:"Stvarno vrijeme sata"
@@ -4194,7 +4195,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "Evaluarea animalelor",20:"\u041E\u0446\u0435\u043D\u043A\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E"
 ,27:"Ocenjevanje \u017Eivali",21:"Evaluaci\xF3n de animales",22:"Betyg p\xE5 djur"
 ,23:"Hayvanlar\u0131n derecelendirilmesi",24:"\u041E\u0446\u0456\u043D\u043A\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0438"
-};C.BoV={1:"Ukupno stanje \u017Eivotinja",2:"\u041E\u0431\u0449\u043E \u0441\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
+};C.BoW={1:"Ukupno stanje \u017Eivotinja",2:"\u041E\u0431\u0449\u043E \u0441\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 ,3:"\u5916\u89C0\u8A55\u5206",25:"Op\u0107e stanje",4:"Hodnocen\xED vzhledu celkov\xE9"
 ,5:"Generel tilstand",0:"General condition",6:"Algemeen optreden",7:"Keskmine seisund"
 ,8:"Yleiskunto",9:"\xC9tat g\xE9n\xE9ral",10:"Allgemein~zustand",11:"\u0393\u03B5\u03BD\u03B9\u03BA\u03CC\u03C4\u03B5\u03C1\u03B7 \u03BA\u03B1\u03C4\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7"
@@ -4209,7 +4210,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,12:"\xC1llapot",13:"Condizione",15:"St\u0101voklis",26:"B\u016Bkl\u0117",16:"Tilstand"
 ,17:"Stan",18:"Condi\xE7\xE3o",19:"Condi\u021Bie",20:"\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 ,27:"Stanje",21:"Aspecto",22:"Tillst\xE5nd",23:"G\xF6r\xFCn\xFCm",24:"\u0421\u0442\u0430\u043D"
-};C.BoW={1:"Konzistencija izmeta",2:"\u041A\u043E\u043D\u0441\u0438\u0441\u0442\u0435\u043D\u0446\u0438\u044F "+
+};C.BoX={1:"Konzistencija izmeta",2:"\u041A\u043E\u043D\u0441\u0438\u0441\u0442\u0435\u043D\u0446\u0438\u044F "+
 "\u043D\u0430 \u0438\u0437\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\u0442\u0430"
 ,3:"\u7CDE\u4FBF\u5206\u7D1A",25:"Konzistentnost stolice",4:"Hodnocen\xED konzistence v\xFDkal\u016F"
 ,5:"Konsistens af aff\xF8ring",0:"Consistency of faeces",6:"Mestconsistentie",7:
@@ -4227,7 +4228,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,12:"Sz\xE9klet",13:"Feci",15:"F\u0113ces",26:"I\u0161matos",16:"Avf\xF8ring",17:
 "Ka\u0142",18:"Fezes",19:"Excremente",20:"\u0424\u0435\u043A\u0430\u043B\u0438\u0438"
 ,27:"Blato",21:"Heces",22:"Avf\xF6ring",23:"D\u0131\u015Fk\u0131",24:"\u0424\u0435\u043A\u0430\u043B\u0456\u0457"
-};C.BoX={1:"Konzumacija hrane",2:"\u0418\u0437\u044F\u0434\u0435\u043D\u0430 \u0445\u0440\u0430\u043D\u0430"
+};C.BoY={1:"Konzumacija hrane",2:"\u0418\u0437\u044F\u0434\u0435\u043D\u0430 \u0445\u0440\u0430\u043D\u0430"
 ,3:"\u63A1\u98DF",25:"Unos hrane",4:"Hodnocen\xED p\u0159\xEDjmu krmen\xED",5:"Foderindtag"
 ,0:"Feed intake",6:"Voeropname",7:"S\xF6\xF6mus",8:"Rehunsy\xF6nti",9:"Consommation"
 ,10:"Futteraufnahme",11:"\u03A0\u03C1\u03CC\u03C3\u03BB\u03B7\u03C8\u03B7 \u03C4\u03C1\u03BF\u03C6\u03AE\u03C2"
@@ -4236,7 +4237,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "Ingest\xE3o de alimento",19:"Consumul de hran\u0103",20:"\u041F\u043E\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435 \u043A\u043E\u0440\u043C\u0430"
 ,27:"Vnos hrane",21:"Ingesta de alimento",22:"Foderintag",23:"Besin derecelendirmesi"
 ,24:"\u0421\u043F\u043E\u0436\u0438\u0432\u0430\u043D\u043D\u044F \u043A\u043E\u0440\u043C\u0443"
-};C.BoY={1:"Oboljenja disajnih puteva",2:"\u0420\u0435\u0441\u043F\u0438\u0440\u0430\u0442\u043E\u0440\u043D\u0430 "+
+};C.BoZ={1:"Oboljenja disajnih puteva",2:"\u0420\u0435\u0441\u043F\u0438\u0440\u0430\u0442\u043E\u0440\u043D\u0430 "+
 "\u0431\u043E\u043B\u0435\u0441\u0442",3:"\u547C\u5438\u75BE\u75C5",25:"Respiratorna bolest"
 ,4:"Hodnocen\xED respira\u010Dn\xEDch nemoc\xED",5:"Respirationssygdom",0:"Respiratory disease"
 ,6:"Ademwegsziekte",7:"Hingamisteede haigus",8:"Hengityssairaus",9:"Maladie respiratoire"
@@ -4246,7 +4247,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "Doen\xE7a respirat\xF3ria",19:"Boal\u0103 respiratorie",20:"\u0417\u0430\u0431\u043E\u043B\u0435\u0432\u0430\u043D\u0438\u044F \u0434\u044B\u0445\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0445 "+
 "\u043F\u0443\u0442\u0435\u0439",27:"Bolezen dihal",21:"Enfermedad respiratoria"
 ,22:"Andningssjukdom",23:"Solunum derecelendirmesi",24:"\u0425\u0432\u043E\u0440\u043E\u0431\u0438 \u0434\u0438\u0445\u0430\u043B\u044C\u043D\u0438\u0445 "+
-"\u0448\u043B\u044F\u0445\u0456\u0432"};C.BoZ={1:"Oboljenja disajnih puteva",2:"\u0420\u0435\u0441\u043F\u0438\u0440\u0430\u0442\u043E\u0440\u043D\u0430 "+
+"\u0448\u043B\u044F\u0445\u0456\u0432"};C.Bo0={1:"Oboljenja disajnih puteva",2:"\u0420\u0435\u0441\u043F\u0438\u0440\u0430\u0442\u043E\u0440\u043D\u0430 "+
 "\u0431\u043E\u043B\u0435\u0441\u0442",3:"\u547C\u5438\u9053\u75BE\u75C5",25:"Respiratorna bolest"
 ,4:"Hodnocen\xED respira\u010Dn\xEDch nemoc\xED pomoc",5:"Respiratorisk sygdom",
 0:"Respiratory disease",6:"Ademwegsziekte",7:"Hingamisteede haigus",8:"Hengitys~sairaus"
@@ -4266,7 +4267,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,12:"L\xE9gz\u0151rendszeri",13:"Respiratorio",15:"Elpo\u0161anas",26:"Kv\u0117pavimo"
 ,16:"Luftveiene",17:"Oddechowy",18:"Respirat\xF3rio",19:"Respirator",20:"\u041E\u0440\u0433\u0430\u043D\u044B \u0434\u044B\u0445\u0430\u043D\u0438\u044F"
 ,27:"Dihalni",21:"V\xEDas respi~ratorias",22:"Andnings-",23:"Solunum",24:"\u041E\u0440\u0433\u0430\u043D\u0438 \u0434\u0438\u0445\u0430\u043D\u043D\u044F"
-};C.Bo0={1:"\u010Cisti",2:"\u0414\u0438\u0430\u0440\u0438\u044F",3:"\u64E6\u6D17"
+};C.Bo1={1:"\u010Cisti",2:"\u0414\u0438\u0430\u0440\u0438\u044F",3:"\u64E6\u6D17"
 ,25:"\u010Cisti",4:"Pr\u016Fjem",5:"Skurer",0:"Scours",6:"Diarree",7:"K\xF5hulahtisus"
 ,8:"Ulosteet",9:"Diarrh\xE9e",10:"Kotkonsistenz",11:"\u0394\u03B9\u03AC\u03C1\u03C1\u03BF\u03B9\u03B1"
 ,12:"D\xF6rzs\xF6l",13:"Scrofola",15:"Skalo",26:"\u0160vei\u010Dia",16:"Diare vurdering"
@@ -4301,7 +4302,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,18:"Recarregue o dispositivo!",19:"\xCEncarc\u0103 dispozitivul!",20:"\u0417\u0430\u0440\u044F\u0434\u0438\u0442\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E!"
 ,27:"Ponovno napolni napravo!",21:"\xA1Recargar dispositivo!",22:"Ladda enheten!"
 ,23:"Cihaz\u0131 \u015Farj edin!",24:"\u0417\u0430\u0440\u044F\u0434\u0456\u0442\u044C \u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439!"
-};C.Bo1={1:"Zapis {1} od {2}",2:"\u0417\u0430\u043F\u0438\u0441 {1} \u043E\u0442 {2}"
+};C.Bo2={1:"Zapis {1} od {2}",2:"\u0417\u0430\u043F\u0438\u0441 {1} \u043E\u0442 {2}"
 ,3:"\u8A18\u9304 {1} \u5171 {2} \u689D",25:"Zapis {1} od {2}",4:"Z\xE1znam {1} z {2}"
 ,5:"Post {1} af {2}",0:"Record {1} of {2}",6:"Opname {1} van {2}",7:"Salvesta{1} {2}st"
 ,8:"Enn\xE4tys {1} / {2}",9:"Enregistrement {1} de {2}",10:"Datensatz {1} von {2}"
@@ -4321,7 +4322,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,19:"Valori \xEEnregistrate",20:"\u0417\u0430\u043F\u0438\u0441\u0430\u043D\u043D\u044B\u0435 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F"
 ,27:"Zabele\u017Eene vrednosti",21:"Valores registrados",22:"Registrerade v\xE4rden"
 ,23:"Kaydedilen de\u011Ferler",24:"\u0417\u0430\u043F\u0438\u0441\u0430\u043D\u0456 \u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F"
-};C.Bo2={1:"Dodjela transpondera uspje\u0161no zavr\u0161ena!\n\nPreusmjeriti sada "+
+};C.Bo3={1:"Dodjela transpondera uspje\u0161no zavr\u0161ena!\n\nPreusmjeriti sada "+
 "na ekran \'Kupljene \u017Eivotinje\'?\n\nTamo mo\u017Eete izvesti CSV datoteku "+
 "za uvoz \u017Eivotinja u sistem upravljanja stadom.",2:"\u041F\u0440\u0438\u0441\u0432\u043E\u044F\u0432\u0430\u043D\u0435\u0442\u043E "+
 "\u043D\u0430 \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440 \u0437\u0430\u0432\u044A\u0440\u0448\u0438 "+
@@ -4346,9 +4347,9 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "\'Gekochte dieren\' nu?\nDaar kunt u een CSV-bestand exporteren voor dierimport "+
 "in het kuddebeheersysteem.",7:"Transponderi m\xE4\xE4ramine l\xF5petatud edukalt!\n\nSuunata n\xFC\xFCd "+
 "ekraanile \"Ostetud loomad\"?\n\nSeal saate eksportida loomade importimise "+"CSV-faili karjahalduss\xFCsteemi."
-,9:"Affectation du transpondeur termin\xE9e avec succ\xE8s !\nRediriger maintenant "+
-"vers l\'\xE9cran \'Animaux achet\xE9s\' ?\nL\xE0, vous pouvez exporter "+"un fichier CSV pour l\'importation des animaux dans le syst\xE8me de gestion "+
-"de troupeau.",10:"Zuordnung beendet!\n\nJetzt auf Bildschirm \u2019Zug\xE4nge\u2019 umleiten?\n\nDort "+
+,9:"Affectation du transpondeur termin\xE9e avec succ\xE8s\xA0!\nRediriger "+"maintenant vers l\'\xE9cran \'Animaux achet\xE9s\'\xA0?\nL\xE0, vous pouvez "+
+"exporter un fichier CSV pour l\'importation des animaux dans le syst\xE8me "+"de gestion de troupeau."
+,10:"Zuordnung beendet!\n\nJetzt auf Bildschirm \u2019Zug\xE4nge\u2019 umleiten?\n\nDort "+
 "dann eine CSV-Datei f\xFCr die Zugangsmeldung bei HI-Tier oder f\xFCr "+"den Import in HERDE Mast erstellen!"
 ,11:"\u0397 \u03B1\u03BD\u03AC\u03B8\u03B5\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03B4\u03AD\u03BA\u03C4\u03B7-\u03C0\u03BF\u03BC\u03C0\u03BF\u03CD "+
 "\u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03B8\u03B7\u03BA\u03B5 "+"\u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03CE\u03C2!\n\n\u0391\u03BD\u03B1\u03BA\u03B1\u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7 "+
@@ -4390,14 +4391,14 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "\u0444\u0430\u0439\u043B CSV \u0434\u043B\u044F \u0456\u043C\u043F\u043E\u0440\u0442\u0443 "+
 "\u0442\u0432\u0430\u0440\u0438\u043D \u0443 \u0441\u0438\u0441\u0442\u0435\u043C\u0443 "+
 "\u0443\u043F\u0440\u0430\u0432\u043B\u0456\u043D\u043D\u044F \u0441\u0442\u0430\u0434\u043E\u043C."
-};C.Bo4={1:"registrivati",2:"\u0420\u0435\u0433\u0438\u0441\u0442\u044A\u0440",3:
+};C.Bo5={1:"registrivati",2:"\u0420\u0435\u0433\u0438\u0441\u0442\u044A\u0440",3:
 "\u767B\u9304",25:"Registrirati",4:"Registrovat",5:"Registrer",0:"Register",6:"Aanleggen"
 ,7:"Registreeri",8:"Rekister\xF6idy",9:"Enregistrer",10:"Anlegen",11:"\u039A\u03B1\u03C4\u03B1\u03C7\u03C9\u03C1\u03AE\u03C3\u03C4\u03B5"
 ,12:"Regisztr\xE1lj",13:"Registrare",15:"Re\u0123istr\u0113ties",26:"Registruoti"
 ,16:"Registrere",17:"Zarejestrowa\u0107",18:"Registrar",19:"\xCEnregistreaz\u0103"
 ,20:"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u0442\u044C"
 ,27:"Registriraj",21:"Registrar",22:"Registrera",23:"Kay\u0131t",24:"\u0417\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438"
-};C.Bo5={1:"registrovana",2:"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430\u043D\u0438"
+};C.Bo6={1:"registrovana",2:"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430\u043D\u0438"
 ,3:"\u767B\u9304",25:"Registriran",4:"Registrovan\xFD",5:"Registreret",0:"Registered"
 ,6:"Registreerd",7:"Registreeritud",8:"Rekister\xF6ity",9:"Enregistr\xE9",10:"Registriert"
 ,11:"\u0395\u03B3\u03B3\u03B5\u03B3\u03C1\u03B1\u03BC\u03AD\u03BD\u03BF",12:"Regisztr\xE1lt"
@@ -4414,7 +4415,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,18:"Registro de animais",19:"\xCEnregistrarea animalelor",20:"\u0420\u0435\u0433\u0438\u0442\u0441\u0440\u0430\u0446\u0438\u044F \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E"
 ,27:"Registracija \u017Eivali",21:"Registrar animales",22:"Registrering av djur"
 ,23:"Kay\u0131t",24:"\u0420\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u044F \u0442\u0432\u0430\u0440\u0438\u043D\u0438"
-};C.Bo9={1:"Ukloni sa liste pra\u0107enja",2:"\u041F\u0440\u0435\u043C\u0430\u0445\u0432\u0430\u043D\u0435 \u043E\u0442 "+
+};C.Bo_={1:"Ukloni sa liste pra\u0107enja",2:"\u041F\u0440\u0435\u043C\u0430\u0445\u0432\u0430\u043D\u0435 \u043E\u0442 "+
 "\u0441\u043F\u0438\u0441\u044A\u043A\u0430 \u0437\u0430 \u043D\u0430\u0431\u043B\u044E\u0434\u0435\u043D\u0438\u0435"
 ,3:"\u5F9E\u89C0\u5BDF\u6E05\u55AE\u4E2D\u79FB\u9664",25:"Ukloni s popisa pra\u0107enja"
 ,4:"Odebrat ze seznamu sledov\xE1n\xED",5:"Fjern fra overv\xE5gningsliste",0:"Remove from watch list"
@@ -4481,7 +4482,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "\u0440\u0435\u0437\u0435\u0440\u0432\u043D\u0443\u044E \u043A\u043E\u043F\u0438\u044E"
 ,27:"Obnovi varnostno kopijo",21:"Restaurar copia de seguridad",22:"\xC5terst\xE4ll s\xE4kerhetskopia"
 ,23:"Yede\u011Fi geri y\xFCkle",24:"\u0412\u0456\u0434\u043D\u043E\u0432\u0438\u0442\u0438 \u0440\u0435\u0437\u0435\u0440\u0432\u043D\u0443 "+
-"\u043A\u043E\u043F\u0456\u044E"};C.Bpc={1:"Obnavljanje u toku!\n\nOvaj proces mo\u017Ee trajati minutu ili du\u017Ee, "+
+"\u043A\u043E\u043F\u0456\u044E"};C.Bpd={1:"Obnavljanje u toku!\n\nOvaj proces mo\u017Ee trajati minutu ili du\u017Ee, "+
 "molimo vas budite strpljivi!",2:"\u0412\u044A\u0437\u0441\u0442\u0430\u043D\u043E\u0432\u044F\u0432\u0430\u043D\u0435\u0442\u043E "+
 "\u0435 \u0432 \u0445\u043E\u0434!\n\n \u0422\u043E\u0437\u0438 \u043F\u0440\u043E\u0446\u0435\u0441 "+
 "\u043C\u043E\u0436\u0435 \u0434\u0430 \u043E\u0442\u043D\u0435\u043C\u0435 "+"\u043C\u0438\u043D\u0443\u0442\u0430 \u0438\u043B\u0438 \u043F\u043E\u0432\u0435\u0447\u0435, "+
@@ -4529,13 +4530,13 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,12:"SD k\xE1rtya",13:"Scheda SD",15:"SD karte",26:"SD kortel\u0117",16:"SD kort"
 ,17:"Karta SD",18:"Cart\xE3o SD",19:"Card SD",20:"\u041A\u0430\u0440\u0442\u0430 \u043F\u0430\u043C\u044F\u0442\u0438 SD"
 ,27:"SD kartica",21:"Tarjeta SD",22:"SD-kort",23:"SD Kart",24:"\u041A\u0430\u0440\u0442\u0430 \u043F\u0430\u043C\'\u044F\u0442\u0456 "+
-"SD"};C.Bpk={1:"skenirati",2:"\u0421\u043A\u0430\u043D\u0438~\u0440\u0430\u043D\u0435"
+"SD"};C.Bpl={1:"skenirati",2:"\u0421\u043A\u0430\u043D\u0438~\u0440\u0430\u043D\u0435"
 ,3:"\u6383\u63CF",25:"Skenirati",4:"Ske~no~vat",5:"Skan",0:"Scan",7:"Skanni",8:"Skan~naa"
 ,9:"Scan~ner",11:"\u0391\u03BD\u03B9\u03C7~\u03BD\u03B5\u03CD\u03C3\u03C4\u03B5"
 ,12:"Szkennel",13:"Scansione",15:"Sken\u0113t",26:"Skenavimas",16:"Skanning",17:
 "Skanowa\u0107",18:"Escanear",19:"Scanare",20:"\u0421\u043A\u0430\u043D\u0438~\u0440\u043E~\u0432\u0430\u043D\u0438\u0435"
 ,27:"Skeniraj",21:"Esca~neo",22:"Skanna",23:"Tara",24:"\u0421\u043A\u0430\u043D\u0443\u0432\u0430\u043D\u043D\u044F"
-};C.Bpl={1:"Skenirajte ID \u017Eivotinje",2:"\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u0439\u0442\u0435 ID \u043D\u0430 "+
+};C.Bpm={1:"Skenirajte ID \u017Eivotinje",2:"\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u0439\u0442\u0435 ID \u043D\u0430 "+
 "\u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0442\u043E",3:"\u6383\u63CF\u52D5\u7269\u7684ID"
 ,25:"Skenirajte ID \u017Eivotinje",4:"Skenovat ID zv\xED\u0159ete",5:"Scan ID af dyr"
 ,0:"Scan ID of animal",6:"Scan dier ID",7:"Looma ID skannimine",8:"Skannaa el\xE4imen tunnus"
@@ -4546,7 +4547,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,20:"\u0421\u043A\u0430\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C ID "+"\u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E"
 ,27:"Skeniraj ID \u017Eivali",21:"Escanear el ID del animal",22:"Skanna ID f\xF6r djur"
 ,23:"Hayvan\u0131n tarama kimli\u011Fi",24:"\u0421\u043A\u0430\u043D\u0443\u0432\u0430\u0442\u0438 ID \u0442\u0432\u0430\u0440\u0438\u043D\u0438"
-};C.Bpm={1:"Skenirajte datum ro\u0111enja, molim.",2:"\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u0439\u0442\u0435 \u0434\u0430\u0442\u0430\u0442\u0430 "+
+};C.Bpn={1:"Skenirajte datum ro\u0111enja, molim.",2:"\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u0439\u0442\u0435 \u0434\u0430\u0442\u0430\u0442\u0430 "+
 "\u043D\u0430 \u0440\u0430\u0436\u0434\u0430\u043D\u0435, \u043C\u043E\u043B\u044F"
 ,3:"\u8ACB\u6383\u63CF\u51FA\u751F\u65E5\u671F",25:"Skenirajte datum ro\u0111enja, molim."
 ,4:"Naskenujte datum narozen\xED, pros\xEDm.",5:"Skan f\xF8dselsdato, venligst."
@@ -4644,7 +4645,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,18:"Escaneie o transponder",19:"Scaneaz\u0103 \xEEn transponder",20:"\u0421\u043A\u0430\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440"
 ,27:"Skeniraj transponder",21:"Escanear trans~pondedor del animal",22:"Skanna in transponder"
 ,23:"Yeni transponder tara",24:"\u0421\u043A\u0430\u043D\u0443\u0432\u0430\u0442\u0438 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440"
-};C.Bpn={1:"Otkriven \u010Dita\u010D barkodova! Promijenite na ekran \'Novo\' \u2014> "+
+};C.Bpo={1:"Otkriven \u010Dita\u010D barkodova! Promijenite na ekran \'Novo\' \u2014> "+
 "\'Masovno snimanje\' kako biste registrirali kupljene \u017Eivotinje?",2:"\u041E\u0442\u043A\u0440\u0438\u0442 \u0435 \u0441\u043A\u0435\u043D\u0435\u0440 "+
 "\u0437\u0430 \u0431\u0430\u0440\u043A\u043E\u0434!\n\u041F\u0440\u043E\u043C\u044F\u043D\u0430 "+
 "\u043D\u0430 \u0435\u043A\u0440\u0430\u043D \u201E\u041D\u043E\u0432\u043E\u201C "+
@@ -4659,10 +4660,11 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "for at registrere dine k\xF8bte dyr?",0:"Barcode scanner detected!\nChange to screen \u2019New\u2019 \u2014> \u2019Bulk "+
 "recording\u2019 in order to register your purchased animals?",6:"Barcode scanner gedetecteerd! Wijzig naar scherm \'Nieuw\' \u2014> \'Bulkopname\' "+
 "om uw gekochte dieren te registreren?",7:"Triipkoodi skanner tuvastatud! Muuda ekraanil \"Uus\" -> \"Hulgisalvestus\", "+
-"et registreerida ostetud loomad?",9:"Le scanner de codes-barres d\xE9tect\xE9 !\nChangez \xE0 l\'\xE9cran \'Nouveau\' "+
-"\u2014> \'Enregistrement en masse\' pour enregistrer vos animaux achet\xE9s "+"?"
-,10:"Barcodescanner erkannt!\nBitte zum Bild~schirm \u2019Neu\u2019 \u2014> "+"\u2019Massen~zugang\u2019 wechseln, dort k\xF6nnen Sie ihre zuge~kauften "+
-"Tiere erfassen!",11:"\u0395\u03BD\u03C4\u03BF\u03C0\u03AF\u03C3\u03C4\u03B7\u03BA\u03B5 \u03C3\u03B1\u03C1\u03C9\u03C4\u03AE\u03C2 "+
+"et registreerida ostetud loomad?",9:"Le scanner de codes-barres d\xE9tect\xE9\xA0!\nChangez \xE0 l\'\xE9cran "+
+"\'Nouveau\' \u2014> \'Enregistrement en masse\' pour enregistrer vos animaux "+
+"achet\xE9s\xA0?",10:"Barcodescanner erkannt!\nBitte zum Bild~schirm \u2019Neu\u2019 \u2014> "+
+"\u2019Massen~zugang\u2019 wechseln, dort k\xF6nnen Sie ihre zuge~kauften "+"Tiere erfassen!"
+,11:"\u0395\u03BD\u03C4\u03BF\u03C0\u03AF\u03C3\u03C4\u03B7\u03BA\u03B5 \u03C3\u03B1\u03C1\u03C9\u03C4\u03AE\u03C2 "+
 "\u03B3\u03C1\u03B1\u03BC\u03BC\u03C9\u03C4\u03BF\u03CD \u03BA\u03CE\u03B4\u03B9\u03BA\u03B1! "+
 "\u0391\u03BB\u03BB\u03AC\u03BE\u03C4\u03B5 \u03C3\u03C4\u03B7\u03BD \u03BF\u03B8\u03CC\u03BD\u03B7 "+
 "\"\u039D\u03AD\u03BF\" -> \"\u039C\u03B1\u03B6\u03B9\u03BA\u03AE \u03BA\u03B1\u03C4\u03B1\u03B3\u03C1\u03B1\u03C6\u03AE\" "+
@@ -4695,7 +4697,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "\u2014> \"\u041C\u0430\u0441\u043E\u0432\u0438\u0439 \u0437\u0430\u043F\u0438\u0441\", "+
 "\u0449\u043E\u0431 \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438 "+
 "\u0432\u0430\u0448\u0456 \u043F\u0440\u0438\u0434\u0431\u0430\u043D\u0456 "+"\u0442\u0432\u0430\u0440\u0438\u043D\u0438?"
-};C.Bpo={1:"Skenir ure\u0111aj uklonjen!\n\nPreusmjeriti na ekran za dodjeljivanje?\n\nTamo "+
+};C.Bpp={1:"Skenir ure\u0111aj uklonjen!\n\nPreusmjeriti na ekran za dodjeljivanje?\n\nTamo "+
 "mo\u017Eete dodijeliti transpondere va\u0161im kupljenim \u017Eivotinjama.",2:"\u0421\u043A\u0435\u043D\u0435\u0440\u044A\u0442 \u0435 \u043F\u0440\u0435\u043C\u0430\u0445\u043D\u0430\u0442!\n\n\u041F\u0440\u0435\u043D\u0430\u0441\u043E\u0447\u0432\u0430\u043D\u0435 "+
 "\u043A\u044A\u043C \u0435\u043A\u0440\u0430\u043D\u0430 \u0437\u0430 \u043F\u0440\u0438~\u0441\u0432\u043E\u044F\u0432~\u0430\u043D\u0435?\n\u041A\u044A\u0434\u0435\u0442\u043E "+
 "\u043C\u043E\u0436\u0435\u0442\u0435 \u0434\u0430 \u043F\u0440\u0438\u0441\u0432\u043E\u0438\u0442\u0435 "+
@@ -4707,7 +4709,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 "transpondere til dine k\xF8bte dyr.",0:"Scanner removed!\n\nRedirect to as~sign~ment screen?\nThere you can assign "+
 "trans~ponders to your purchased animals.",6:"Scanner verwijderd!\n\nDoorverwijzen naar het toewijzingsscherm?\nDaar "+
 "kunt u transponders toewijzen aan uw gekochte dieren.",7:"Skanner eemaldatud!\n\nSuunata \xFClesannete ekraanile?\nSeal saate oma "+
-"ostetud loomadele transpondereid m\xE4\xE4rata.",9:"Scanner retir\xE9 !\n\nRediriger vers l\'\xE9cran des affectations ?\n\nL\xE0, "+
+"ostetud loomadele transpondereid m\xE4\xE4rata.",9:"Scanner retir\xE9\xA0!\n\nRediriger vers l\'\xE9cran des affectations\xA0?\n\nL\xE0, "+
 "vous pouvez attribuer des transpondeurs \xE0 vos animaux achet\xE9s.",10:"Scanner entfernt!\n\nJetzt zum Zuordnungs~bild~schirm umleiten?\nDort "+
 "k\xF6nnen Sie ihren zugekauften Tieren Transpon~der zuweisen.",11:"\u039F \u03C3\u03B1\u03C1\u03C9\u03C4\u03AE\u03C2 \u03B1\u03C6\u03B1\u03B9\u03C1\u03AD\u03B8\u03B7\u03BA\u03B5!\n\n\u0391\u03BD\u03B1\u03BA\u03B1\u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7 "+
 "\u03C3\u03C4\u03B7\u03BD \u03BF\u03B8\u03CC\u03BD\u03B7 \u03B1\u03BD\u03AC\u03B8\u03B5\u03C3\u03B7\u03C2;\n\u0395\u03BA\u03B5\u03AF "+
@@ -4809,7 +4811,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,18:"Erro grave: {1}",19:"Eroare grav\u0103: {1}",20:"\u0421\u0435\u0440\u044A\u0451\u0437\u043D\u0430\u044F \u043E\u0448\u0438\u0431\u043A\u0430: "+
 "{1}",27:"Huda napaka: {1}",21:"Error grave: {1}",22:"Allvarligt fel: {1}",23:"Ciddi hata"
 ,24:"\u0421\u0435\u0440\u0439\u043E\u0437\u043D\u0430 \u043F\u043E\u043C\u0438\u043B\u043A\u0430: "+
-"{1}"};C.Afr={1:"Spol",2:"\u041F\u043E\u043B",3:"\u6027\u5225",25:"Spol",4:"Rod"
+"{1}"};C.Afs={1:"Spol",2:"\u041F\u043E\u043B",3:"\u6027\u5225",25:"Spol",4:"Rod"
 ,5:"Seks",0:"Sex",6:"Ge~slacht",7:"Sugu",8:"Suku~puoli",9:"Sexe",10:"Ge~schlecht"
 ,11:"\u03A6\u03CD\u03BB\u03BF",12:"Szex",13:"Sesso",15:"Sekss",26:"Lytis",16:"Kj\xF8nn"
 ,17:"P\u0142e\u0107",18:"Sexo",20:"\u041F\u043E\u043B",27:"Spol",21:"Sexo",23:"Cins~iyet"
@@ -4817,7 +4819,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,25:"Spol",4:"Rod",5:"Seks",0:"Sex",6:"Ge~slacht",7:"Sugu",8:"Suku~puoli",9:"Sexe"
 ,10:"Ge~schl.",11:"\u03A6\u03CD\u03BB\u03BF",12:"Szex",13:"Sesso",15:"Sekss",26:
 "Lytis",16:"Kj\xF8nn",17:"P\u0142e\u0107",18:"Sexo",20:"\u041F\u043E\u043B",27:"Spol"
-,21:"Sexo",23:"Cins~iyet",24:"\u0421\u0442\u0430\u0442\u044C"};C.BpD={1:"Ovca/koza"
+,21:"Sexo",23:"Cins~iyet",24:"\u0421\u0442\u0430\u0442\u044C"};C.BpE={1:"Ovca/koza"
 ,2:"\u041E\u0432\u0446\u0430/\u043A\u043E\u0437\u0430",3:"\u7F8A",25:"Ovca/koza"
 ,4:"ovce/koza",5:"F\xE5r/ged",0:"Sheep/goat",6:"Schaap/Geit",7:"Lammas/kits",8:"Lammas/vuohi"
 ,9:"Mouton/Ch\xE8vre",10:"Schaf/Ziege",11:"\u03A0\u03C1\u03CC\u03B2\u03B1\u03C4\u03BF/\u03BA\u03B1\u03C4\u03C3\u03AF\u03BA\u03B9"
@@ -4841,7 +4843,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,19:"\xCEnchide dispozitivul dup\u0103",20:"\u0412\u044B\u043A\u043B\u044E\u0447\u0438\u0442\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E "+
 "\u043F\u043E\u0441\u043B\u0435",27:"Izklopi napravo po",21:"Apagar el dispositivo despu\xE9s de"
 ,22:"St\xE4ng av enheten efter",23:"Sonras\u0131nda Ayg\u0131t\u0131 Kapat",24:"\u0412\u0438\u043C\u043A\u043D\u0456\u0442\u044C \u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439 "+
-"\u043F\u0456\u0441\u043B\u044F"};C.BpK={1:"Pojedina\u010Dni pogled na \u017Eivotinju"
+"\u043F\u0456\u0441\u043B\u044F"};C.BpL={1:"Pojedina\u010Dni pogled na \u017Eivotinju"
 ,2:"\u0418\u0437\u0433\u043B\u0435\u0434 \u043D\u0430 \u0435\u0434\u043D\u043E "+
 "\u0436\u0438\u0432\u043E\u0442\u043D\u043E",3:"\u55AE\u4E00\u52D5\u7269\u8996\u89D2"
 ,25:"Pogled na pojedina\u010Dnu \u017Eivotinju",4:"Pohled na jedno zv\xED\u0159e"
@@ -4853,7 +4855,7 @@ C.AGx={1:"Ocjenjivanje \u017Eivotinje",2:"\u041E\u0446\u0435\u043D\u043A\u0430 \
 ,19:"Vedere unic\u0103 a animalului",20:"\u041E\u0434\u0438\u043D\u043E\u043A\u043E\u0435 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0435"
 ,27:"Pogled na posamezno \u017Eival",21:"Vista de animal individual",22:"Enskild djurvy"
 ,23:"Tek hayvan g\xF6r\xFCn\xFCm\xFC",24:"\u041E\u0434\u0438\u043D\u0438\u0447\u043D\u0438\u0439 \u0432\u0438\u0434 "+
-"\u043D\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0443"};C.BpL={1:"jedno grlo u leglu"
+"\u043D\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0443"};C.BpM={1:"jedno grlo u leglu"
 ,2:"\u0415\u0434\u043D\u043E \u0440\u0430\u0436\u0434\u0430\u043D\u0435",3:"\u55AE\u80DE\u80CE"
 ,25:"Pojedina\u010Dni porod",4:"Jednotliv\xFD porod",5:"Enkeltf\xF8dsel",0:"Single birth"
 ,6:"Eenling",7:"\xDCksik s\xFCnd",8:"Yhden syntym\xE4",9:"Unique",10:"Einling",11:
@@ -4926,7 +4928,7 @@ C.EN={1:"Dr\u017Eava",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 ,18:"Estado",19:"Stat",20:"\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043D\u0430\u044F "+
 "\u0437\u0435\u043C\u043B\u044F",27:"dr\u017Eava",21:"Estado",22:"Stat",23:"Durum"
 ,24:"\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043D\u0430 \u0437\u0435\u043C\u043B\u044F"
-};C.SY={1:"Status baterije",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435 \u043D\u0430 \u0437\u0430\u0440\u0435\u0436\u0434\u0430\u043D\u0435"
+};C.SZ={1:"Status baterije",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435 \u043D\u0430 \u0437\u0430\u0440\u0435\u0436\u0434\u0430\u043D\u0435"
 ,3:"\u5145\u96FB\u72C0\u614B",25:"Stanje punjenja",4:"Stav nab\xEDjen\xED",5:"Tilstand af opladning"
 ,0:"State of charge",6:"Batterijstatus",7:"Aku tase",8:"Lataustila",9:"Niveau de charge\nde la batterie"
 ,10:"Ladezustand Batterie",11:"\u039A\u03B1\u03C4\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7 \u03C6\u03CC\u03C1\u03C4\u03B7\u03C3\u03B7\u03C2"
@@ -4939,7 +4941,7 @@ C.EN={1:"Dr\u017Eava",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 "Stav",0:"Status",7:"Seisund",8:"Tila",9:"Statut",11:"\u0398\u03AD\u03C3\u03B7",
 12:"\xC1llapot",13:"Stato",15:"Statuss",26:"Statusas",18:"Estado",19:"Stare",20:
 "\u0421\u0442\u0430\u0442\u0443\u0441",21:"Estado",23:"Durum",24:"\u0421\u0442\u0430\u0442\u0443\u0441"
-};C.BpV={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no dodana na spisak \u017Eivotinja!"
+};C.BpW={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no dodana na spisak \u017Eivotinja!"
 ,2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u0441 \u2116 {1} \u0443\u0441\u043F\u0435\u0448\u043D\u043E "+
 "\u0435 \u0434\u043E\u0431\u0430\u0432\u0435\u043D\u043E \u043A\u044A\u043C "+"\u0441\u043F\u0438\u0441\u044A\u043A\u0430 \u0441 \u0430\u043B\u0430\u0440\u043C\u0438!"
 ,3:"ID\u70BA{1}\u725B\u96BB\u5DF2\u6210\u529F\u7684\u52A0\u5230\u8B66\u544A\u540D\u55AE\u4E2D\uFF01"
@@ -4963,7 +4965,7 @@ C.EN={1:"Dr\u017Eava",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 "Djur med ID {1} har framg\xE5ngsrikt lagts till i larm listan!",23:"Alarm listesine ekleme ba\u015Far\u0131l\u0131"
 ,24:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u2116 {1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0434\u043E\u0434\u0430\u043D\u0430 \u0443 \u0441\u043F\u0438\u0441\u043E\u043A "+
-"\u0442\u0440\u0438\u0432\u043E\u0433!"};C.BpW={1:"\u017Divotinja s ID {1} uspje\u0161no dodana na listu pra\u0107enja!"
+"\u0442\u0440\u0438\u0432\u043E\u0433!"};C.BpX={1:"\u017Divotinja s ID {1} uspje\u0161no dodana na listu pra\u0107enja!"
 ,2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u0441 ID {1} \u0443\u0441\u043F\u0435\u0448\u043D\u043E~\u043D\u0430\u043F\u044A\u043B\u043D\u043E "+
 "\u0434\u043E\u0431\u0430\u0432\u0435\u043D\u043E \u043A\u044A\u043C \u0441\u043F\u0438\u0441\u044A\u043A\u0430 "+
 "\u0437\u0430 \u043D\u0430\u0431\u043B\u044E\u0434\u0435\u043D\u0438\u0435!",3:"\u5DF2\u6210\u529F\u5C07\u5E36\u6709 ID {1} \u7684\u52D5\u7269\u52A0\u5165\u89C0\u5BDF\u540D\u55AE\uFF01"
@@ -4992,7 +4994,7 @@ C.EN={1:"Dr\u017Eava",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 ,23:"{1} kimlikli hayvan ba\u015Far\u0131yla izleme listesine eklendi!",24:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u0437 ID {1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0434\u043E\u0434\u0430\u043D\u0430 \u0434\u043E \u0441\u043F\u0438\u0441\u043A\u0443 "+
 "\u0441\u043F\u043E\u0441\u0442\u0435\u0440\u0435\u0436\u0435\u043D\u043D\u044F!"
-};C.BpX={1:"Bootloader je uspje\u0161no a\u017Euriran.\nUSB flash disk se mo\u017Ee "+
+};C.BpY={1:"Bootloader je uspje\u0161no a\u017Euriran.\nUSB flash disk se mo\u017Ee "+
 "sigurno ukloniti.",2:"\u0411\u0443\u0443\u0442\u043B\u043E\u0443\u0434\u044A\u0440\u044A\u0442 "+
 "\u0431\u0435 \u0430\u043A\u0442\u0443\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E.\nUSB \u0444\u043B\u0430\u0448 "+"\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
@@ -5027,7 +5029,7 @@ C.EN={1:"Dr\u017Eava",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 "\u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u043E\u043D\u043E\u0432\u043B\u0435\u043D\u043E.\nUSB "+
 "\u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447 \u043C\u043E\u0436\u043D\u0430 "+
 "\u0431\u0435\u0437\u043F\u0435\u0447\u043D\u043E \u0432\u0438\u0442\u044F\u0433\u043D\u0443\u0442\u0438."
-};C.BpY={1:"Povezani transponder za \u017Eivotinju sa ID {1} je uspje\u0161no zamijenjen!"
+};C.BpZ={1:"Povezani transponder za \u017Eivotinju sa ID {1} je uspje\u0161no zamijenjen!"
 ,2:"\u0421\u0432\u044A\u0440\u0437\u0430\u043D\u0438\u044F\u0442 \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440 "+
 "\u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u0441 ID {1} \u0431\u0435\u0448\u0435 "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E~\u043D\u0430\u043F\u044A\u043B\u043D\u043E "+
@@ -5058,7 +5060,7 @@ C.EN={1:"Dr\u017Eava",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 23:"{1} kimlikli hayvan i\xE7in ba\u011Flant\u0131l\u0131 aktar\u0131c\u0131 "+"ba\u015Far\u0131yla de\u011Fi\u015Ftirildi!"
 ,24:"\u0422\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440, \u043F\u043E\u0432\'\u044F\u0437\u0430\u043D\u0438\u0439 "+
 "\u0437 \u0442\u0432\u0430\u0440\u0438\u043D\u043E\u044E \u0437 ID {1}, "+"\u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0437\u0430\u043C\u0456\u043D\u0435\u043D\u043E!"
-};C.BpZ={1:"{1} obavijesti o ro\u0111enju su uspje\u0161no obra\u0111ene!",2:"{1} \u0438\u0437\u0432\u0435\u0441\u0442\u0438\u044F \u0437\u0430 \u0440\u0430\u0436\u0434\u0430\u043D\u0435 "+
+};C.Bp0={1:"{1} obavijesti o ro\u0111enju su uspje\u0161no obra\u0111ene!",2:"{1} \u0438\u0437\u0432\u0435\u0441\u0442\u0438\u044F \u0437\u0430 \u0440\u0430\u0436\u0434\u0430\u043D\u0435 "+
 "\u0431\u044F\u0445\u0430 \u0438\u0437\u0447\u0438\u0441\u0442\u0435\u043D\u0438 "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E!",3:"{1} \u500B\u51FA\u751F\u901A\u77E5\u5DF2\u6210\u529F\u6E05\u9664\uFF01"
 ,25:"{1} obavijesti o ro\u0111enju su uspje\u0161no o\u010Di\u0161\u0107ene!",4:
@@ -5079,7 +5081,7 @@ C.EN={1:"Dr\u017Eava",2:"\u0421\u044A\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
 ,23:"{1} do\u011Fum bildirimi ba\u015Far\u0131yla temizlendi!",24:"{1} \u041F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u044C "+
 "\u043F\u0440\u043E \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
 "\u0431\u0443\u043B\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"};C.
-Bp0={1:"{1} obavijesti o kupovini su uspje\u0161no o\u010Di\u0161\u0107ene!",2:"{1} \u0438\u0437\u0432\u0435\u0441\u0442\u0438\u044F \u0437\u0430 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 "+
+Bp1={1:"{1} obavijesti o kupovini su uspje\u0161no o\u010Di\u0161\u0107ene!",2:"{1} \u0438\u0437\u0432\u0435\u0441\u0442\u0438\u044F \u0437\u0430 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 "+
 "\u0431\u044F\u0445\u0430 \u0438\u0437\u0447\u0438\u0441\u0442\u0435\u043D\u0438 "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E!",3:"{1} \u7B46\u8CFC\u8CB7\u901A\u77E5\u5DF2\u6210\u529F\u6E05\u9664\uFF01"
 ,25:"{1} obavijesti o kupnji su uspje\u0161no o\u010Di\u0161\u0107ene!",4:"{1} ozn\xE1men\xED o n\xE1kupu bylo \xFAsp\u011B\u0161n\u011B vy\u0159\xEDzeno!"
@@ -5124,7 +5126,7 @@ Bp0={1:"{1} obavijesti o kupovini su uspje\u0161no o\u010Di\u0161\u0107ene!",2:"
 ,24:"\u041F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+
 "\u043F\u0440\u043E \u0432\u0442\u0440\u0430\u0442\u0438 \u0442\u0432\u0430\u0440\u0438\u043D "+
 "\u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"
-};C.Bp1={1:"Obavijest o ro\u0111enju \u017Eivotinje {1} je uspje\u0161no odobrena!"
+};C.Bp2={1:"Obavijest o ro\u0111enju \u017Eivotinje {1} je uspje\u0161no odobrena!"
 ,2:"\u0421\u044A\u043E\u0431\u0449\u0435\u043D\u0438\u0435\u0442\u043E \u0437\u0430 "+
 "\u0440\u0430\u0436\u0434\u0430\u043D\u0435 \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E "+
 "{1} \u0431\u0435 \u0438\u0437\u0447\u0438\u0441\u0442\u0435\u043D\u043E "+"\u0443\u0441\u043F\u0435\u0448\u043D\u043E!"
@@ -5153,7 +5155,7 @@ Bp0={1:"{1} obavijesti o kupovini su uspje\u0161no o\u010Di\u0161\u0107ene!",2:"
 "onayland\u0131!",24:"\u041F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+
 "\u043F\u0440\u043E \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
 "\u0442\u0432\u0430\u0440\u0438\u043D {1} \u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
-"\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"};C.Bp2={1:"Obavijest o kupovini za \u017Eivotinju {1} je uspje\u0161no odobrena!"
+"\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"};C.Bp3={1:"Obavijest o kupovini za \u017Eivotinju {1} je uspje\u0161no odobrena!"
 ,2:"\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u0435\u0442\u043E \u0437\u0430 "+
 "\u043F\u043E\u043A\u0443\u043F\u043A\u0430 \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E "+
 "{1} \u0431\u0435 \u0438\u0437\u0447\u0438\u0441\u0442\u0435\u043D\u043E "+"\u0443\u0441\u043F\u0435\u0448\u043D\u043E!"
@@ -5181,7 +5183,7 @@ Bp0={1:"{1} obavijesti o kupovini su uspje\u0161no o\u010Di\u0161\u0107ene!",2:"
 "onayland\u0131!",24:"\u041F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+
 "\u043F\u0440\u043E \u043A\u0443\u043F\u0456\u0432\u043B\u044E \u0442\u0432\u0430\u0440\u0438\u043D\u0438 "+
 "{1} \u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+"\u043F\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043D\u043E!"
-};C.Bp3={1:"Sigurnosna kopija datoteke \'backup.vcb\' s podacima ure\u0111aja i {1} "+
+};C.Bp4={1:"Sigurnosna kopija datoteke \'backup.vcb\' s podacima ure\u0111aja i {1} "+
 "skupom podataka o \u017Eivotinjama uspje\u0161no je zapisana na USB flash "+"disk!"
 ,2:"\u0410\u0440\u0445\u0438\u0432\u043D\u0438\u044F\u0442 \u0444\u0430\u0439\u043B "+
 "\u201Ebackup.vcb\u201C \u0441 \u0434\u0430\u043D\u043D\u0438 \u0437\u0430 "+"\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
@@ -5287,7 +5289,7 @@ Bp0={1:"{1} obavijesti o kupovini su uspje\u0161no o\u010Di\u0161\u0107ene!",2:"
 ,21:"Se han sincronizado los datos con \xE9xito con el alimentador.",22:"Data framg\xE5ngsrikt synkroniserad till mataren!"
 ,23:"Besleyiciyle bilgi senkronizasyonu ba\u015Far\u0131yla yap\u0131ld\u0131!",
 24:"\u0414\u0430\u043D\u0456 \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u043E\u0432\u0430\u043D\u043E "+
-"\u0437 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C"};C.Bp4={1:"\u017Divotinja sa ID brojm {1} uspje\u0161no zasu\u0161ena!"
+"\u0437 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C"};C.Bp5={1:"\u017Divotinja sa ID brojm {1} uspje\u0161no zasu\u0161ena!"
 ,2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u0441 \u0438\u0434\u0435\u043D\u0442\u0438\u0444\u0438\u043A\u0430\u0442\u043E\u0440 "+
 "{1} \u0443\u0441\u043F\u0435\u0448\u043D\u043E~\u043D\u0430\u043F\u044A\u043B\u043D\u043E "+
 "\u043C\u0430\u0440\u043A\u0438\u0440\u0430\u043D\u043E \u043A\u0430\u0442\u043E "+
@@ -5312,7 +5314,7 @@ Bp0={1:"{1} obavijesti o kupovini su uspje\u0161no o\u010Di\u0161\u0107ene!",2:"
 ,22:"Djur med ID {1} har framg\xE5ngsrikt markerats som torrt!",23:"{1} kimlikli hayvan ba\u015Far\u0131yla kuru olarak i\u015Faretlendi!"
 ,24:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u2116 {1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0432\u0456\u0434\u043C\u0456\u0447\u0435\u043D\u0430 \u044F\u043A \u0441\u0443\u0445\u043E\u0441\u0442\u0456\u0439\u043A\u0430!"
-};C.Bp5={1:"Sistem je uspje\u0161no a\u017Euriran, mo\u017Eete izvaditi USB.",2:
+};C.Bp6={1:"Sistem je uspje\u0161no a\u017Euriran, mo\u017Eete izvaditi USB.",2:
 "\u0424\u044A\u0440\u043C\u0443\u0435\u0440\u044A\u0442 \u0435 \u0430\u043A\u0442\u0443\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E.\nUSB \u0444\u043B\u0430\u0448 "+"\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
 "\u043C\u043E\u0436\u0435 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E "+
@@ -5348,7 +5350,7 @@ Bp0={1:"{1} obavijesti o kupovini su uspje\u0161no o\u010Di\u0161\u0107ene!",2:"
 "g\xFCvenli bir \u015Fekilde \xE7\u0131kar\u0131labilir.",24:"\u0412\u0435\u0440\u0441\u0456\u044F \u041F\u041E \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u043E\u043D\u043E\u0432\u043B\u0435\u043D\u0430! USB-\u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447 "+
 "\u043C\u043E\u0436\u043D\u0430 \u0432\u0438\u0442\u044F\u0433\u0442\u0438!"};C.
-Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
+Bp7={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,2:"ID \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u0431\u0435\u0448\u0435 "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E \u0441\u0432\u044A\u0440\u0437\u0430\u043D "+
 "\u0441 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u0441 ID {1}!",3:"\u52D5\u7269ID\u5DF2\u6210\u529F\u9023\u7D50\u81F3ID\u70BA{1}\u7684\u52D5\u7269\uFF01"
@@ -5398,7 +5400,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,21:"El transpondedor se asign\xF3 con \xE9xito al animal con ID {1}.",22:"Transponder tilldelades framg\xE5ngsrikt till djuret med ID {1}!"
 ,23:"Transponder ba\u015Far\u0131yla {1} kimlikli hayvana atand\u0131!",24:"\u0422\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440 \u0431\u0443\u0432 "+
 "\u0443\u0441\u043F\u0456\u0448\u043D\u043E \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0439 "+
-"\u0442\u0432\u0430\u0440\u0438\u043D\u0456 \u0437 ID {1}!"};C.Bp7={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no ozna\u010Dena - u fazi laktacije!"
+"\u0442\u0432\u0430\u0440\u0438\u043D\u0456 \u0437 ID {1}!"};C.Bp8={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no ozna\u010Dena - u fazi laktacije!"
 ,2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u0441 ID {1} \u0443\u0441\u043F\u0435\u0448\u043D\u043E~\u043D\u0430\u043F\u044A\u043B\u043D\u043E "+
 "\u043C\u0430\u0440\u043A\u0438\u0440\u0430\u043D\u043E \u043A\u0430\u0442\u043E "+
 "\u043B\u0430\u043A\u0442\u0438\u0440\u0430\u0449\u043E!",3:"\u6A19\u8A18\u52D5\u7269ID {1} \u70BA\u6B63\u5728\u6CCC\u4E73\u6210\u529F\uFF01"
@@ -5406,8 +5408,8 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "laktuj\xEDc\xED!",5:"Dyr med ID {1} er succesfuldt markeret som lakterende!",0:
 "Animal with ID {1} success~fully marked as lactating!",6:"Dier met ID {1} is succesvol gemarkeerd als lacterend"
 ,7:"Loom ID-ga {1} m\xE4rgitud lakteerivaks!",8:"El\xE4in ID {1} onnistunut merkitty lypsyyn!"
-,9:"L\'animal avec l\'ID {1} a \xE9t\xE9 marqu\xE9 avec succ\xE8s comme allaitant "+
-"!",10:"Tier mit ID {1} wurde erfolgreich als laktierend markiert!",11:"\u03A4\u03BF \u03B6\u03CE\u03BF \u03BC\u03B5 \u03B1\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC "+
+,9:"L\'animal avec l\'ID {1} a \xE9t\xE9 marqu\xE9 avec succ\xE8s comme allaitant\xA0!"
+,10:"Tier mit ID {1} wurde erfolgreich als laktierend markiert!",11:"\u03A4\u03BF \u03B6\u03CE\u03BF \u03BC\u03B5 \u03B1\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC "+
 "{1} \u03B5\u03C0\u03B9\u03C3\u03B7\u03BC\u03AC\u03BD\u03B8\u03B7\u03BA\u03B5 "+
 "\u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03CE\u03C2 \u03C9\u03C2 \u03B3\u03B1\u03BB\u03BF\u03C5\u03C7\u03AF\u03B1\u03C2!"
 ,12:"Az {1} azonos\xEDt\xF3j\xFA \xE1llat sikeresen megjel\xF6lve, mint tejel\u0151!"
@@ -5442,7 +5444,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,22:"{1} djur avregistrerades framg\xE5ngsrikt!",23:"{1} hayvan\u0131n kayd\u0131 ba\u015Far\u0131yla~kald\u0131r\u0131ld\u0131!"
 ,24:"{1} \u0442\u0432\u0430\u0440\u0438\u043D \u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E \u0437 \u0440\u0435\u0454\u0441\u0442\u0440\u0443!"
-};C.Bp8={1:"\u017Divotinja {1}\nje uspje\u0161no registrovana.",2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E {1}\n\u0441\u0435 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430 "+
+};C.Bp9={1:"\u017Divotinja {1}\nje uspje\u0161no registrovana.",2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E {1}\n\u0441\u0435 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430 "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E.",3:"\u52D5\u7269 {1}\n\u5DF2\u6210\u529F\u8A3B\u518A\u3002"
 ,25:"\u017Divotinja {1}\nje uspje\u0161no registrirana.",4:"Zv\xED\u0159e {1}\nbylo \xFAsp\u011B\u0161n\u011B zaregistrov\xE1no."
 ,5:"Dyret blev registreret med succes.",0:"Animal {1}\nwas registered successfully."
@@ -5459,7 +5461,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,22:"Djuret registrerades framg\xE5ngsrikt.",23:"Hayvan {1}\nba\u015Far\u0131yla kaydedildi."
 ,24:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 {1}\n\u0431\u0443\u043B\u0430 "+
 "\u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u043E\u0432\u0430\u043D\u0430."
-};C.Bp9={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no izbrisana sa liste!",2:
+};C.Bp_={1:"\u017Divotinja sa ID brojem {1} uspje\u0161no izbrisana sa liste!",2:
 "\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u0441 \u2116 {1} \u0443\u0441\u043F\u0435\u0448\u043D\u043E "+
 "\u0435 \u043F\u0440\u0435\u043C\u0430\u0445\u043D\u0430\u0442\u043E \u043A\u044A\u043C "+
 "\u0441\u043F\u0438\u0441\u044A\u043A\u0430 \u0441 \u0430\u043B\u0430\u0440\u043C\u0438!"
@@ -5484,7 +5486,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 22:"Djur med ID {1} har tagits bort fr\xE5n larm listan!",23:"Alarm listesini kald\u0131rmak ba\u015Far\u0131l\u0131"
 ,24:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u2116 {1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u0430 \u0437\u0456 \u0441\u043F\u0438\u0441\u043A\u0443 "+
-"\u0442\u0440\u0438\u0432\u043E\u0433!"};C.Bp_={1:"\u017Divotinja s ID {1} uspje\u0161no uklonjena s liste pra\u0107enja!"
+"\u0442\u0440\u0438\u0432\u043E\u0433!"};C.Bp$={1:"\u017Divotinja s ID {1} uspje\u0161no uklonjena s liste pra\u0107enja!"
 ,2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E \u0441 \u0438\u0434\u0435\u043D\u0442\u0438\u0444\u0438\u043A\u0430\u0442\u043E\u0440 "+
 "{1} \u0443\u0441\u043F\u0435\u0448\u043D\u043E~\u043D\u0430\u043F\u044A\u043B\u043D\u043E "+
 "\u043F\u0440\u0435\u043C\u0430\u0445\u043D\u0430\u0442\u043E \u043E\u0442 "+"\u0441\u043F\u0438\u0441\u044A\u043A\u0430 \u0437\u0430 \u043D\u0430\u0431\u043B\u044E\u0434\u0435\u043D\u0438\u0435!"
@@ -5533,13 +5535,13 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,22:"Djurdata raderades framg\xE5ngsrikt!",23:"Hayvan verileri ba\u015Far\u0131yla silindi!"
 ,24:"\u0414\u0430\u043D\u0456 \u043F\u0440\u043E \u0442\u0432\u0430\u0440\u0438\u043D "+
 "\u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"
-};C.Bp$={1:"Podaci ure\u0111aja su uspje\u0161no izbrisani!",2:"\u0414\u0430\u043D\u043D\u0438\u0442\u0435 \u043D\u0430 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
+};C.Bqa={1:"Podaci ure\u0111aja su uspje\u0161no izbrisani!",2:"\u0414\u0430\u043D\u043D\u0438\u0442\u0435 \u043D\u0430 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+
 "\u0431\u044F\u0445\u0430 \u0438\u0437\u0442\u0440\u0438\u0442\u0438 \u0443\u0441\u043F\u0435~\u0448\u043D\u043E!"
 ,3:"\u88DD\u7F6E\u8CC7\u6599\u5DF2\u6210\u529F\u522A\u9664\uFF01",25:"Podaci ure\u0111aja su uspje\u0161no izbrisani!"
 ,4:"Data za\u0159\xEDzen\xED byla \xFAsp\u011B\u0161n\u011B smaz\xE1na!",5:"Enhedsdata blev slettet succesfuldt!"
 ,0:"Device data were deleted success~fully!",6:"Apparaatgegevens zijn succesvol verwijderd!"
-,7:"Seadme andmed kustutati edukalt!",9:"Les donn\xE9es de l\'appareil ont \xE9t\xE9 supprim\xE9es avec succ\xE8s "+
-"!",10:"Ger\xE4tedaten wurden erfolgreich gel\xF6scht!",11:"\u03A4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C4\u03B7\u03C2 "+
+,7:"Seadme andmed kustutati edukalt!",9:"Les donn\xE9es de l\'appareil ont \xE9t\xE9 supprim\xE9es avec succ\xE8s\xA0!"
+,10:"Ger\xE4tedaten wurden erfolgreich gel\xF6scht!",11:"\u03A4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03C4\u03B7\u03C2 "+
 "\u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2 \u03B4\u03B9\u03B1\u03B3\u03C1\u03AC\u03C6\u03B7\u03BA\u03B1\u03BD "+
 "\u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03CE\u03C2!",12:"Az eszk\xF6zadatok sikeresen t\xF6rl\u0151dtek!"
 ,13:"I dati del dispositivo sono stati eliminati con successo!",15:"Ier\u012Bces dati tika veiksm\u012Bgi dz\u0113sti!"
@@ -5629,8 +5631,8 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,3:"\u5DF2\u6210\u529F\u5C07\u6307\u5B9A\u7684\u61C9\u7B54\u5668\u8207\u7DE8\u865F "+
 "{1} \u7684\u52D5\u7269\u89E3\u9664\u9023\u7D50\uFF01",25:"Dodijeljeni transponder je uspje\u0161no odvojen od \u017Eivotinje s ID-om "+
 "{1}!",4:"P\u0159i\u0159azen\xFD transpond\xE9r byl \xFAsp\u011B\u0161n\u011B odpojen "+
-"od zv\xED\u0159ete s ID {1}!",5:"Tildelt transponder blev succesfuldt afkoblet fra dyret med ID {1} !"
-,0:"Assigned transponder was successfully unlinked from animal with ID {1} "+"!"
+"od zv\xED\u0159ete s ID {1}!",5:"Tildelt transponder blev succesfuldt afkoblet fra dyret med ID {1}\xA0!"
+,0:"Assigned transponder was successfully unlinked from animal with ID {1}\xA0!"
 ,6:"Toegekend transponder is succesvol gesplitst van dier met ID {1}!",7:"M\xE4\xE4ratud transponder on edukalt looma ID-st {1} lahti \xFChendatud!"
 ,8:"M\xE4\xE4ritetty transponderi on poistettu onnistuneesti el\xE4imest\xE4, "+
 "jonka tunnus on {1}!",9:"Le transpondeur attribu\xE9 a \xE9t\xE9 supprim\xE9 avec succ\xE8s des "+
@@ -5639,11 +5641,11 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u03B4\u03B9\u03B1\u03B2\u03B9\u03B2\u03B1\u03C3\u03C4\u03AE\u03C1\u03B1\u03C2 "+
 "\u03B1\u03C0\u03BF\u03C3\u03C5\u03BD\u03B4\u03AD\u03B8\u03B7\u03BA\u03B5 "+"\u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03CE\u03C2 \u03B1\u03C0\u03CC \u03C4\u03BF "+
 "\u03B6\u03CE\u03BF \u03BC\u03B5 \u03B1\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC "+
-"{1} !",12:"A hozz\xE1rendelt transzponder sikeresen le lett v\xE1lasztva az {1} azonos\xEDt\xF3j\xFA "+
+"{1}\xA0!",12:"A hozz\xE1rendelt transzponder sikeresen le lett v\xE1lasztva az {1} azonos\xEDt\xF3j\xFA "+
 "\xE1llatr\xF3l!",13:"Il transponder assegnato \xE8 stato scollegato con successo dall\'animale "+
 "con ID {1}!",15:"Pie\u0161\u0137irtais transponders veiksm\u012Bgi atvienots no dz\u012Bvnieka "+
 "ar ID {1}!",26:"Priskirtas atsakiklis s\u0117kmingai atjungtas nuo gyv\u016Bno su ID {1}!"
-,16:"Tildelt transponder ble vellykket frakoblet fra dyret med ID {1} !",17:"Przypisany transponder zosta\u0142 pomy\u015Blnie od\u0142\u0105czony "+
+,16:"Tildelt transponder ble vellykket frakoblet fra dyret med ID {1}\xA0!",17:"Przypisany transponder zosta\u0142 pomy\u015Blnie od\u0142\u0105czony "+
 "od zwierz\u0119cia o ID {1}!",18:"O transponder atribu\xEDdo foi desvinculado com sucesso do animal com "+
 "o ID {1}!",19:"Transponderul atribuit a fost dezlegat cu succes de la animalul cu ID-ul "+
 "{1}!",20:"\u041D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044B\u0439 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440 "+
@@ -5672,7 +5674,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0443\u0434\u0430\u043B\u0435\u043D\u043E!",27:"\u017Dival z ID {1} uspe\u0161no odjavljena!"
 ,21:"Se ha anulado con \xE9xito el registro del animal con ID {1}.",22:"Djur med ID {1} har framg\xE5ngsrikt avregistrerats!"
 ,23:"Kay\u0131t silme ba\u015Far\u0131l\u0131",24:"\u0422\u0432\u0430\u0440\u0438\u043D\u0430 \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
-"\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u0430!"};C.Bqa={1:"\u017Divotinja {1} i odgovaraju\u0107a obavijest o ro\u0111enju su uspje\u0161no "+
+"\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u0430!"};C.Bqb={1:"\u017Divotinja {1} i odgovaraju\u0107a obavijest o ro\u0111enju su uspje\u0161no "+
 "izbrisani!",2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E\u0442\u043E {1} \u0438 \u0441\u044A\u043E\u0442\u0432\u0435\u0442\u043D\u043E\u0442\u043E "+
 "\u0438\u0437\u0432\u0435\u0441\u0442\u0438\u0435 \u0437\u0430 \u0440\u0430\u0436\u0434\u0430\u043D\u0435 "+
 "\u0431\u044F\u0445\u0430 \u0438\u0437\u0442\u0440\u0438\u0442\u0438 \u0443\u0441\u043F\u0435\u0448\u043D\u043E!"
@@ -5705,7 +5707,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0422\u0432\u0430\u0440\u0438\u043D\u0430 {1} \u0438 \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u043D\u0435 "+
 "\u043F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+"\u043F\u0440\u043E \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u044F "+
 "\u0431\u0443\u043B\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"
-};C.Bqb={1:"\u017Divotinja {1} i odgovaraju\u0107e obavje\u0161tenje o kupovini su "+
+};C.Bqc={1:"\u017Divotinja {1} i odgovaraju\u0107e obavje\u0161tenje o kupovini su "+
 "uspje\u0161no izbrisani!",2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E\u0442\u043E {1} \u0438 \u0441\u044A\u043E\u0442\u0432\u0435\u0442\u043D\u043E\u0442\u043E "+
 "\u0438\u0437\u0432\u0435\u0441\u0442\u0438\u0435 \u0437\u0430 \u043F\u043E\u043A\u0443\u043F\u043A\u0430 "+
 "\u0431\u044F\u0445\u0430 \u0438\u0437\u0442\u0440\u0438\u0442\u0438 \u0443\u0441\u043F\u0435\u0448\u043D\u043E!"
@@ -5758,7 +5760,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,23:"{1} kimlikli telef olan hayvan\u0131n kayd\u0131 ba\u015Far\u0131yla iptal "+
 "edildi!",24:"\u041C\u0435\u0440\u0442\u0432\u0443 \u0442\u0432\u0430\u0440\u0438\u043D\u0443 "+
 "{1} \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!"
-};C.Bqc={1:"Podaci o \u017Eivotinjama su uspje\u0161no zapisani u direktorij \'export-csv\' "+
+};C.Bqd={1:"Podaci o \u017Eivotinjama su uspje\u0161no zapisani u direktorij \'export-csv\' "+
 "na USB flash disku.",2:"\u0414\u0430\u043D\u043D\u0438\u0442\u0435 \u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u0438 "+
 "\u0431\u044F\u0445\u0430 \u0443\u0441\u043F\u0435\u0448\u043D\u043E \u0437\u0430\u043F\u0438\u0441\u0430\u043D\u0438 "+
 "\u0432 \u0434\u0438\u0440\u0435\u043A\u0442\u043E\u0440\u0438\u044F \u201Eexport-csv\u201C "+
@@ -5796,7 +5798,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0443\u0441\u043F\u0456\u0448\u043D\u043E \u0437\u0430\u043F\u0438\u0441\u0430\u043D\u043E "+
 "\u0432 \u043A\u0430\u0442\u0430\u043B\u043E\u0433 \'export-csv\' \u043D\u0430 "+
 "USB-\u0444\u043B\u0435\u0448-\u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447\u0456."
-};C.Bqd={1:"Podaci o \u017Eivotinjama su uspje\u0161no zapisani na USB flash disk! "+
+};C.Bqe={1:"Podaci o \u017Eivotinjama su uspje\u0161no zapisani na USB flash disk! "+
 "\u017Delite li sada preuzeti datoteku \'animals.csv\'?",2:"\u0414\u0430\u043D\u043D\u0438\u0442\u0435 \u0437\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u0438\u0442\u0435 "+
 "\u0431\u044F\u0445\u0430 \u0443\u0441\u043F\u0435\u0448\u043D\u043E \u0437\u0430\u043F\u0438\u0441\u0430\u043D\u0438 "+
 "\u043D\u0430 USB \u0444\u043B\u0430\u0448 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E! "+
@@ -5878,7 +5880,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "{1} \u043F\u043E\u0432\u0456\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u044F "+
 "\u0431\u0443\u0432 \u0443\u0441\u043F\u0456\u0448\u043D\u043E \u043F\u0435\u0440\u0435\u043F\u0438\u0441\u0430\u043D\u0438\u0439 "+
 "\u043D\u0430 USB \u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447."
-};C.Bqe={1:"CSV datoteka s obavijestima o ro\u0111enju uspje\u0161no je zapisana na "+
+};C.Bqf={1:"CSV datoteka s obavijestima o ro\u0111enju uspje\u0161no je zapisana na "+
 "USB flash disk! \u017Delite li sada preuzeti generiranu CSV datoteku?",2:"CSV \u0444\u0430\u0439\u043B \u0441 \u0431\u0435\u043B\u0435\u0436\u043A\u0438 "+
 "\u0437\u0430 \u0440\u0430\u0436\u0434\u0430\u043D\u0435, \u0443\u0441\u043F\u0435\u0448\u043D\u043E "+
 "\u0437\u0430\u043F\u0438\u0441\u0430\u043D \u043D\u0430 USB \u0444\u043B\u0430\u0448\u043A\u0430! "+
@@ -5967,7 +5969,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u043F\u0440\u043E \u043F\u043E\u043A\u0443\u043F\u043A\u0443 \u0443\u0441\u043F\u0456\u0448\u043D\u043E "+
 "\u0437\u0430\u043F\u0438\u0441\u0430\u043D\u043E \u0432 \u043F\u0430\u043F\u043A\u0443 "+
 "\'{2}\' \u043D\u0430 USB-\u0444\u043B\u0435\u0448-\u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447\u0456."
-};C.Bqf={1:"CSV datoteka s obavijestima o kupovini uspje\u0161no je zapisana na USB "+
+};C.Bqg={1:"CSV datoteka s obavijestima o kupovini uspje\u0161no je zapisana na USB "+
 "flash disk! Preuzmite generiranu CSV datoteku sada?",2:"CSV \u0444\u0430\u0439\u043B \u0441 \u0438\u0437\u0432\u0435\u0441\u0442\u0438\u044F "+
 "\u0437\u0430 \u043F\u043E\u043A\u0443\u043F\u043A\u0430, \u0443\u0441\u043F\u0435\u0448\u043D\u043E "+
 "\u0437\u0430\u043F\u0438\u0441\u0430\u043D \u043D\u0430 USB \u0444\u043B\u0430\u0448 "+
@@ -6022,7 +6024,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,12:"M\u0171t\xE9t",13:"Chirurgia",15:"\u0136irur\u0123ija",26:"Chirurgija",16:"Kirurgi"
 ,17:"Chirurgia",18:"Cirurgia",19:"Chirurgie",20:"\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u044F"
 ,27:"Kirurgija",21:"Cirug\xEDa",22:"Kirurgi",23:"Ameliyat",24:"\u041E\u043F\u0435\u0440\u0430\u0446\u0456\u044F"
-};C.Bqk={1:"Slanje podataka",2:"\u0418\u0437\u043F\u0440\u0430\u0449\u0430\u043D\u0435 \u043D\u0430 \u0434\u0430\u043D\u043D\u0438"
+};C.Bql={1:"Slanje podataka",2:"\u0418\u0437\u043F\u0440\u0430\u0449\u0430\u043D\u0435 \u043D\u0430 \u0434\u0430\u043D\u043D\u0438"
 ,3:"\u50B3\u9001\u8CC7\u6599",25:"Slanje podataka",4:"Odes\xEDl\xE1n\xED dat",5:
 "Afsendelse af data",0:"Sending data",6:"Zend data",7:"Andmete edastamine",8:"L\xE4hetet\xE4\xE4n tietoja"
 ,9:"Envoi de donn\xE9es",10:"Sende Daten",11:"\u0391\u03C0\u03BF\u03C3\u03C4\u03BF\u03BB\u03AE \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD"
@@ -6031,7 +6033,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,20:"\u041E\u0442\u043F\u0440\u0430\u0432\u043A\u0430 \u0434\u0430\u043D\u043D\u044B\u0445"
 ,27:"Po\u0161iljanje podatkov",21:"Enviando datos",22:"Skickar data",23:"Veri g\xF6nderiliyor"
 ,24:"\u0412\u0456\u0434\u043F\u0440\u0430\u0432\u043A\u0430 \u0434\u0430\u043D\u0438\u0445"
-};C.Bql={1:"Sinhronizacija nije uspjela",2:"\u041D\u0435\u0443\u0441\u043F\u0435\u0448\u043D\u0430 \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0438\u044F"
+};C.Bqm={1:"Sinhronizacija nije uspjela",2:"\u041D\u0435\u0443\u0441\u043F\u0435\u0448\u043D\u0430 \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0438\u044F"
 ,3:"\u540C\u6B65\u5931\u6557",25:"Sinkronizacija nije uspjela",4:"Synchronizace selhala"
 ,5:"Synkronisering mislykkedes",0:"Synchronization failed",6:"Synchronization gefaald"
 ,7:"S\xFCnkroniseerimine eba\xF5nnestus",8:"L\xE4hetys Synkronointi ep\xE4onnistui"
@@ -6043,7 +6045,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u043D\u0435 \u0443\u0434\u0430\u043B\u0430\u0441\u044C",27:"Sinhronizacija ni uspela."
 ,21:"Fallo en la sincronizaci\xF3n",22:"Synkronisering misslyckades",23:"Senkronizasyon ba\u015Far\u0131s\u0131z oldu"
 ,24:"\u0421\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0456\u044F "+
-"\u043D\u0435 \u0432\u0434\u0430\u043B\u0430\u0441\u044C"};C.Bqm={1:"Primati podatke"
+"\u043D\u0435 \u0432\u0434\u0430\u043B\u0430\u0441\u044C"};C.Bqn={1:"Primati podatke"
 ,2:"\u041F\u043E\u043B\u0443\u0447\u0430\u0432\u0430\u043D\u0435 \u043D\u0430 "+
 "\u0434\u0430\u043D\u043D\u0438",3:"\u63A5\u6536\u8CC7\u6599",25:"Primanje podataka"
 ,4:"P\u0159\xEDjem dat",5:"Modtager data",0:"Receiving data",6:"Ontvangen data",
@@ -6054,7 +6056,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,20:"\u041F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0445"
 ,27:"Prejemanje podatkov",21:"Recibiendo datos",22:"Mottagning av data",23:"Veri al\u0131yor"
 ,24:"\u041E\u0442\u0440\u0438\u043C\u0430\u043D\u043D\u044F \u0434\u0430\u043D\u0438\u0445"
-};C.Bqn={1:"Pokretanje\u2026",2:"\u0418\u043D\u0438\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0435\u2026"
+};C.Bqo={1:"Pokretanje\u2026",2:"\u0418\u043D\u0438\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0435\u2026"
 ,3:"\u521D\u59CB\u5316\u4E2D\u2026",25:"Pokretanje\u2026",4:"Inicializace\u2026"
 ,5:"Initialisering\u2026",0:"Initialising\u2026",7:"Alustamine...",8:"Alustetaan\u2026"
 ,9:"Initialiser...",10:"Initialisiere\u2026",11:"\u0391\u03C1\u03C7\u03B9\u03BA\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7..."
@@ -6063,7 +6065,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,19:"Ini\u021Bializare\u2026",20:"\u0418\u043D\u0438\u0446\u0438\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F..."
 ,27:"Za\u010Denjam\u2026",21:"Inicializando...",22:"Initierar...",23:"Ba\u015Flat\u0131l\u0131yor\u2026"
 ,24:"\u0406\u043D\u0456\u0446\u0456\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F..."
-};C.Bqo={1:"Inicijalizacija uvoza",2:"\u0418\u043D\u0438\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0435 "+
+};C.Bqp={1:"Inicijalizacija uvoza",2:"\u0418\u043D\u0438\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0438\u043C\u043F\u043E\u0440\u0442\u0438\u0440\u0430\u043D\u0435"
 ,3:"\u521D\u59CB\u5316\u5C0E\u5165",25:"Inicijalizacija uvoza",4:"Inicializace importu"
 ,5:"Initialisering af import",0:"Initialising import",7:"Impordi alustamine",8:"Alustetaan tuontia"
@@ -6074,7 +6076,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 18:"Inicializando importa\xE7\xE3o",19:"Ini\u021Bializarea importului",20:"\u0418\u043D\u0438\u0446\u0438\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F "+
 "\u0438\u043C\u043F\u043E\u0440\u0442\u0430",27:"Za\u010Denjam uvoz",21:"Inicializando importaci\xF3n"
 ,22:"Initierar import",23:"\u0130\xE7e aktarma ba\u015Flat\u0131l\u0131yor",24:"\u0406\u043D\u0456\u0446\u0456\u0430\u043B\u0456\u0437\u0430\u0446\u0456\u044F "+
-"\u0456\u043C\u043F\u043E\u0440\u0442\u0443"};C.Bqp={1:"\u010Ci\u0161\u0107enje\u2026"
+"\u0456\u043C\u043F\u043E\u0440\u0442\u0443"};C.Bqq={1:"\u010Ci\u0161\u0107enje\u2026"
 ,2:"\u041F\u043E\u0447\u0438\u0441\u0442\u0432\u0430\u043D\u0435...",3:"\u6253\u6383\u4E2D\u2026"
 ,25:"\u010Ci\u0161\u0107enje\u2026",4:"Ukl\xEDz\xEDm\u2026",5:"Rydder op\u2026",
 0:"Cleaning up\u2026",6:"Opschonen",7:"Impordij\xE4rgne s\xFCnkroniseerimine \u2026"
@@ -6083,7 +6085,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "Tvarkymasis...",16:"Rydder opp\u2026",17:"Sprz\u0105tanie\u2026",18:"Limpando..."
 ,19:"Cur\u0103\u021Benie \xEEn curs\u2026",20:"\u041E\u0447\u0438\u0441\u0442\u043A\u0430..."
 ,27:"\u010Ci\u0161\u010Denje...",21:"Limpiando...",22:"St\xE4dar upp...",23:"Temizleniyor..."
-,24:"\u041E\u0447\u0438\u0441\u0442\u043A\u0430..."};C.Bqq={1:"Prijenos podataka uspje\u0161no zavr\u0161en"
+,24:"\u041E\u0447\u0438\u0441\u0442\u043A\u0430..."};C.Bqr={1:"Prijenos podataka uspje\u0161no zavr\u0161en"
 ,2:"\u041F\u0440\u0435\u0445\u0432\u044A\u0440\u043B\u044F\u043D\u0435\u0442\u043E "+
 "\u043D\u0430 \u0434\u0430\u043D\u043D\u0438 \u043F\u0440\u0438\u043A\u043B\u044E\u0447\u0438 "+
 "\u0443\u0441\u043F\u0435\u0448\u043D\u043E",3:"\u8CC7\u6599\u50B3\u8F38\u6210\u529F\u5B8C\u6210"
@@ -6112,7 +6114,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,17:"Synchronizowanie",18:"Sincronizando",19:"Sincronizare",20:"\u041F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u0434\u0430\u043D\u043D\u044B\u0445"
 ,27:"Sinhroniziranje",21:"Sincronizando",22:"Synkronisering",23:"Senkronize ediliyor"
 ,24:"\u041F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u0434\u0430\u043D\u0438\u0445"
-};C.AG_={0:"\xB0C",8:"\xB0 C"};C.Bqr="\xB0F";C.TempMeasurement={1:"mjerenje temperature"
+};C.AG_={0:"\xB0C",8:"\xB0 C"};C.Bqs="\xB0F";C.TempMeasurement={1:"mjerenje temperature"
 ,2:"\u0422\u0435\u043C\u043F. \u0438\u0437\u043C\u0435\u0440\u0432\u0430\u043D\u0435"
 ,3:"\u6EAB\u5EA6\u6E2C\u91CF",25:"Mjerenje temperature",4:"M\u011B\u0159en\xED teploty"
 ,5:"Temperaturm\xE5ling",0:"Temp. measurement",6:"Temperatuur meting",7:"Tempertuuri m\xF5\xF5t"
@@ -6193,7 +6195,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440\u0430",27:"Spremeni status ure"
 ,21:"Cambiar estado de seguimiento",22:"\xC4ndra klockans status",23:"\u0130zleme durumunu de\u011Fi\u015Ftir"
 ,24:"\u041F\u0435\u0440\u0435\u043C\u043A\u043D\u0443\u0442\u0438 \u0441\u0442\u0430\u0442\u0443\u0441 "+
-"\u0433\u043E\u0434\u0438\u043D\u043D\u0438\u043A\u0430"};C.BqA={1:"ukupno",2:"\u041E\u0431\u0449\u043E"
+"\u0433\u043E\u0434\u0438\u043D\u043D\u0438\u043A\u0430"};C.BqB={1:"ukupno",2:"\u041E\u0431\u0449\u043E"
 ,3:"\u7E3D\u8A08",25:"Ukupno",4:"Celkov\xFD",0:"Total",6:"Totaal",7:"Kokku",8:"Yh~teen~s\xE4"
 ,11:"\u03A3\u03CD\u03BD\u03BF\u03BB\u03BF",12:"Teljes",13:"Totale",15:"Kop\u0101"
 ,26:"Viso",17:"Ca\u0142kowity",20:"\u0412\u0441\u0435\u0433\u043E",27:"Skupaj",23:
@@ -6244,7 +6246,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0443\u0436\u0435 \u0432\u0438\u043A\u043E\u0440\u0438~\u0441\u0442\u043E\u0432\u0443\u0454\u0442\u044C\u0441\u044F!\n\u0411\u0443\u0434\u044C "+
 "\u043B\u0430\u0441\u043A\u0430, \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u0439\u0442\u0435 "+
 "\u0456\u043D\u0448\u0438\u0439 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440!"
-};C.BqE={1:"Nepoznat transponder! Skenirani transponder ID broj nije prona\u0111en "+
+};C.BqF={1:"Nepoznat transponder! Skenirani transponder ID broj nije prona\u0111en "+
 "u sistemu!",2:"\u041D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440! "+
 "\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u043D\u0438\u044F \u2116 \u043D\u0430 "+
 "\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440 \u043D\u0435 \u0435 "+"\u043D\u0430\u043C\u0435\u0440\u0435\u043D\n\u0432 \u0441\u0438\u0441\u0442\u0435\u043C\u0430\u0442\u0430!"
@@ -6286,7 +6288,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,19:"Num\u0103rul transponderului",20:"\u041D\u043E\u043C\u0435\u0440 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"
 ,27:"\u0160tevilka transponderja",21:"N\xFAmero del transpondedor",22:"Transpondernummer"
 ,23:"Aktar\u0131c\u0131 numaras\u0131",24:"\u041D\u043E\u043C\u0435\u0440 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430"
-};C.BqF={1:"Transponder je ve\u0107 dodijeljen ovoj \u017Eivotinji! Odspojiti trenutni "+
+};C.BqG={1:"Transponder je ve\u0107 dodijeljen ovoj \u017Eivotinji! Odspojiti trenutni "+
 "transponder i zamijeniti ga sa skeniranim transponderom?",2:"\u0420\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u044A\u0442 \u0432\u0435\u0447\u0435 "+
 "\u0435 \u043F\u0440\u0438\u0441\u0432\u043E\u0435\u043D \u043A\u044A\u043C "+"\u0442\u043E\u0432\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E!\n\u041F\u0440\u0435\u043A\u044A\u0441\u0432\u0430\u043D\u0435 "+
 "\u043D\u0430 \u0432\u0440\u044A\u0437\u043A\u0430\u0442\u0430 \u0441 \u0442\u0435\u043A\u0443\u0449\u0438\u044F "+
@@ -6353,14 +6355,14 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,12:"H\xE1rmasikrek",13:"Triplette",15:"Tr\u012Bn\u012B\u0161i",26:"Trynukai",16:
 "Trillinger",17:"Trojaczki",18:"Trig\xEAmeos",19:"Triple\u021Bi",20:"\u0422\u0440\u043E\u0439\u043D\u044F"
 ,27:"Troj\u010Dki",21:"Trillizos",22:"Trillingar",23:"\xDC\xE7\xFCzler",24:"\u0422\u0440\u0456\u0439\u043D\u044F"
-};C.BqJ={1:"dvojke",2:"\u0411\u043B\u0438\u0437\u043D\u0430\u0446\u0438",3:"\u96D9\u80DE\u80CE"
+};C.BqK={1:"dvojke",2:"\u0411\u043B\u0438\u0437\u043D\u0430\u0446\u0438",3:"\u96D9\u80DE\u80CE"
 ,25:"Blizana\u010Dki porod",4:"Dvoj\u010Data",5:"Tvillingef\xF8dsel",0:"Twin birth"
 ,6:"Tweeling",7:"Kaksikud",8:"Kaksoset",9:"Multiple",10:"Zwillingskalb",11:"\u0394\u03AF\u03B4\u03C5\u03BC\u03B7 \u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7"
 ,12:"Iker sz\xFClet\xE9s",13:"Parto gemellare",15:"Dv\u012B\u0146u dzim\u0161ana"
 ,26:"Dvyni\u0173 gimimas",16:"Tvillingf\xF8dsel",17:"Por\xF3d bli\u017Ani\u0105t"
 ,18:"Nascimento de g\xEAmeos",19:"Na\u0219tere de gemeni",20:"\u0411\u043B\u0438\u0437\u043D\u0435\u0446"
 ,27:"Dvoj\u010Dka",21:"Ternero m\xFAltiple",22:"Tvillingf\xF6dsel",23:"\u0130kiz do\u011Fum"
-,24:"\u0411\u043B\u0438\u0437\u043D\u044E\u043A"};C.BqK={1:"Dva intervala za \u2642 i \u2640"
+,24:"\u0411\u043B\u0438\u0437\u043D\u044E\u043A"};C.BqL={1:"Dva intervala za \u2642 i \u2640"
 ,2:"\u0414\u0432\u0430 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u0438 \u0434\u0438\u0430\u043F\u0430\u0437\u043E\u043D\u0430 "+
 "\u0437\u0430 \u2642 \u0438 \u2640",3:"\u5169\u500B\u4E0D\u540C\u7684\u7BC4\u570D\uFF0C\u5206\u5225\u70BA\u2642\u548C\u2640"
 ,25:"Dva razli\u010Dita raspona za \u2642 i \u2640",4:"Dva odli\u0161n\xE9 rozsahy pro \u2642 a \u2640"
@@ -6383,7 +6385,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,0:"Type",7:"T\xF5ug",8:"Tyyp~pi",10:"Typ",11:"\u03A4\u03CD~\u03C0\u03BF\u03C2",
 12:"T\xEDpus",13:"Digitare",15:"Tips",26:"Tipas",17:"Rodzaj",18:"Tipo",19:"Tip",
 20:"\u0422\u0438\u043F",27:"Vrsta",21:"Tipo",22:"Typ",23:"Tip",24:"\u0422\u0438\u043F"
-};C.Afw={1:"tip \u017Eivotinje",2:"\u0422\u0438\u043F \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E"
+};C.Afx={1:"tip \u017Eivotinje",2:"\u0422\u0438\u043F \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E"
 ,3:"\u52D5\u7269\u7684\u7A2E\u985E",25:"Vrsta \u017Eivotinje",4:"Druh zv\xED\u0159ete"
 ,5:"Type af dyr",0:"Type of animal",6:"Type van nutdier",7:"Looma t\xF5ug",8:"El\xE4inlaji"
 ,9:"Type d\u2019animal",10:"Art des Nutztiers",11:"\u03A4\u03CD\u03C0\u03BF\u03C2 \u03B6\u03CE\u03BF\u03C5"
@@ -6427,10 +6429,10 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,20:"\u0415\u0434\u0438\u043D\u0438\u0446\u0430 \u0438\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u044F"
 ,27:"Merska enota za maso",21:"Unidad de masa",22:"Massenhet",23:"K\xFCtle birimi"
 ,24:"\u041E\u0434\u0438\u043D\u0438\u0446\u044F \u0432\u0438\u043C\u0456\u0440\u044E\u0432\u0430\u043D\u043D\u044F"
-};C.BqN={1:"celzijus",2:"\u0426\u0435\u043B\u0437\u0438\u0439",3:"\u651D\u6C0F",
+};C.BqO={1:"celzijus",2:"\u0426\u0435\u043B\u0437\u0438\u0439",3:"\u651D\u6C0F",
 25:"Celzijus",4:"Celsia",0:"Celsius",11:"\u039A\u03B5\u03BB\u03C3\u03AF\u03BF\u03C5"
 ,15:"Celsijs",26:"Celsijus",17:"Celsjusz",20:"\u0426\u0435\u043B\u044C\u0441\u0438\u0439"
-,27:"Celzij",23:"Santigrat",24:"\u0426\u0435\u043B\u044C\u0441\u0456\u0439"};C.BqO={
+,27:"Celzij",23:"Santigrat",24:"\u0426\u0435\u043B\u044C\u0441\u0456\u0439"};C.BqP={
 1:"farenhajt",2:"\u0424\u0430\u0440\u0435\u043D\u0445\u0430\u0439\u0442",3:"\u83EF\u6C0F"
 ,4:"Fahrenheita",0:"Fahrenheit",11:"\u03A6\u03B1\u03C1\u03B5\u03BD\u03B1\u0390\u03C4"
 ,15:"F\u0101renheits",26:"Farenheitas",20:"\u0424\u0430\u0440\u0435\u043D\u0433\u0435\u0439\u0442"
@@ -6461,7 +6463,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,12:"Ismeretlen",13:"Sconosciuto",15:"Nezin\u0101ms",26:"Ne\u017Einomas",16:"Ukjent"
 ,17:"Nieznany",18:"Desconhecido",19:"Necunoscut",20:"\u041D\u0435\u0438~\u0437\u0432\u0435\u0441\u0442\u043D\u043E"
 ,27:"Neznano",21:"Des~cono~cida",22:"Ok\xE4nd",23:"Bilinmiyor",24:"\u041D\u0435\u0432\u0456\u0434\u043E\u043C\u043E"
-};C.BqP={1:"Skenirani transponder je ve\u0107 dodijeljen drugoj \u017Eivotinji! Odspojite "+
+};C.BqQ={1:"Skenirani transponder je ve\u0107 dodijeljen drugoj \u017Eivotinji! Odspojite "+
 "transponder i dodijelite ga odabranoj \u017Eivotinji {1}?",2:"\u0421\u043A\u0430\u043D\u0438\u0440\u0430\u043D\u0438\u044F\u0442 \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440 "+
 "\u0432\u0435\u0447\u0435 \u0435 \u043F\u0440\u0438\u0441\u0432\u043E\u0435\u043D "+
 "\u043D\u0430 \u0434\u0440\u0443\u0433\u043E \u0436\u0438\u0432\u043E\u0442\u043D\u043E!\n\u041F\u0440\u0435\u043A\u0440\u0430\u0442\u0435\u0442\u0435 "+
@@ -6587,12 +6589,12 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,26:"Vir\u0161utin\u0117 riba",16:"\xD8vre grense",17:"G\xF3rna granica",18:"Limite superior"
 ,19:"Limit\u0103 superioar\u0103",20:"\u0412\u0435\u0440\u0445\u043D\u0438\u0439 \u043F\u0440\u0435\u0434\u0435\u043B"
 ,27:"Zgornja meja",21:"L\xEDmite superior",22:"\xD6vre gr\xE4ns",23:"\xDCst limit"
-,24:"\u0412\u0435\u0440\u0445\u043D\u044F \u043C\u0435\u0436\u0430"};C.BqT={3:"Urban \u5065\u5EB7\u76E3\u63A7\u7CFB\u7D71\n\xA9 Urban GmbH & Co.KG, 2025"
+,24:"\u0412\u0435\u0440\u0445\u043D\u044F \u043C\u0435\u0436\u0430"};C.BqU={3:"Urban \u5065\u5EB7\u76E3\u63A7\u7CFB\u7D71\n\xA9 Urban GmbH & Co.KG, 2025"
 ,0:"Urban VitalControl\n\xA9 Urban GmbH & Co.KG, 2025",12:"V\xE1rosi VitalControl\n\xA9 Urban GmbH & Co.KG, 2025"
 ,13:"Controllo Vitale Urbano\n\xA9 Urban GmbH & Co.KG, 2025",15:"Pils\u0113tas VitalControl\n\xA9 Urban GmbH & Co.KG, 2025"
 ,26:"Miesto Gyvyb\u0117s Kontrol\u0117\n\xA9 Urban GmbH & Co.KG, 2025",17:"Kontrola Witalno\u015Bci Miejskiej\n\xA9 Urban GmbH & Co.KG, 2025"
 ,18:"Controle Vital Urbano\n\xA9 Urban GmbH & Co.KG, 2025",19:"Controlul Vital Urban\n\xA9 Urban GmbH & Co.KG, 2025"
-};C.BqU={1:"Tov (spostveni)",2:"\u0413\u043E\u0432\u0435\u0434\u043E (\u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u0430 "+
+};C.BqV={1:"Tov (spostveni)",2:"\u0413\u043E\u0432\u0435\u0434\u043E (\u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u0430 "+
 "\u0444\u0435\u0440\u043C\u0430)",3:"\u725B\u8089\uFF08\u81EA\u5BB6\u8FB2\u5834\uFF09"
 ,25:"Govedina (vlastita farma)",4:"Hov\u011Bz\xED (vlastn\xED farma)",5:"Oksek\xF8d (egen g\xE5rd)"
 ,0:"Beef (own farm)",6:"Mest (eigen bedrijf)",7:"Veiseliha (oma farm)",8:"Liharotu (oma tila)"
@@ -6604,7 +6606,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435)",27:"Govedina (lastna kmetija)"
 ,21:"Carne (granja propia)",22:"N\xF6tk\xF6tt (egen g\xE5rd)",23:"Et\xE7i(kendi \xE7iftli\u011Fi)"
 ,24:"\u041D\u0430 \u043C\'\u044F\u0441\u043E (\u0432\u043B\u0430\u0441\u043D\u0435 "+
-"\u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0441\u0442\u0432\u043E)"};C.BqV={
+"\u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0441\u0442\u0432\u043E)"};C.BqW={
 1:"Uzgoj (spostveni)",2:"\u0420\u0430\u0437\u0432\u044A\u0436\u0434\u0430\u043D\u0435 (\u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u0430 "+
 "\u0444\u0435\u0440\u043C\u0430)",3:"\u81EA\u5BB6\u7E41\u6B96",25:"Uzgoj (vlastita farma)"
 ,4:"Chov (vlastn\xED farma)",5:"Avl (egen g\xE5rd)",0:"Breeding (own farm)",6:"Fokkerij(eigen bedrijf)"
@@ -6618,7 +6620,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435)",27:"Reja (lastna kmetija)"
 ,21:"Cr\xEDa (granja propia)",22:"Avel (egen g\xE5rd)",23:"Yeti\u015Ftirme(kendi \xE7iftli\u011Fi)"
 ,24:"\u0414\u043B\u044F \u0441\u0435\u043B\u0435\u043A\u0446\u0456\u0457 (\u0432\u043B\u0430\u0441\u043D\u0435 "+
-"\u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0441\u0442\u0432\u043E)"};C.BqW={
+"\u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0441\u0442\u0432\u043E)"};C.BqX={
 1:"deformitet prilikom ro\u0111enja",2:"\u0412\u0440\u043E\u0434\u0435\u043D\u043E \u0443\u0432\u0440\u0435\u0436\u0434\u0430\u043D\u0435"
 ,3:"\u5148\u5929\u7F3A\u9677",25:"Uro\u0111ena mana",4:"Vrozen\xE1 vada",5:"F\xF8dselsdefekt"
 ,0:"Birth defect",6:"Miskraam",7:"S\xFCnnidefekt",8:"Synnynn\xE4inen vika",9:"Anomalie de naissance"
@@ -6628,7 +6630,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,19:"Defect congenital",20:"\u0412\u0440\u043E\u0436\u0434\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u0444\u0435\u043A\u0442"
 ,27:"Prirojena napaka",21:"Defecto de nacimiento",22:"F\xF6delsefel",23:"Do\u011Fum kusuru"
 ,24:"\u0423\u0440\u043E\u0434\u0436\u0435\u043D\u0438\u0439 \u0434\u0435\u0444\u0435\u043A\u0442"
-};C.BqX={1:"mrtvoro\u0111eno",2:"\u041C\u044A\u0440\u0442\u0432\u043E \u0440\u043E\u0434\u0435\u043D\u043E"
+};C.BqY={1:"mrtvoro\u0111eno",2:"\u041C\u044A\u0440\u0442\u0432\u043E \u0440\u043E\u0434\u0435\u043D\u043E"
 ,3:"\u6B7B\u80CE",25:"Mrtvoro\u0111en\u010Dad",4:"Mrtv\u011B narozen\xFD",5:"D\xF8df\xF8dt"
 ,0:"Dead born",6:"Doodgeboren",7:"Surnults\xFCnd",8:"Syntynyt kuolleena",9:"Mort-n\xE9"
 ,10:"Tot geboren",11:"\u039D\u03B5\u03BA\u03C1\u03BF\u03B3\u03AD\u03BD\u03BD\u03B7\u03C3\u03B7"
@@ -6637,7 +6639,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 20:"\u041C\u0451\u0440\u0442\u0432\u043E\u0440\u043E\u0436\u0434\u0451\u043D\u043D\u044B\u0439"
 ,27:"Mrtvorojen",21:"Nacido muerto",22:"D\xF6df\xF6dd",23:"\xD6l\xFC do\u011Fum"
 ,24:"\u041C\u0435\u0440\u0442\u0432\u043E\u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u0438\u0439"
-};C.BqY={1:"Uginulo: nakon 3. dana",2:"\u0423\u043C\u0438\u0440\u044F\u043B\u043E: \u0441\u043B\u0435\u0434 3 "+
+};C.BqZ={1:"Uginulo: nakon 3. dana",2:"\u0423\u043C\u0438\u0440\u044F\u043B\u043E: \u0441\u043B\u0435\u0434 3 "+
 "\u0434\u0435\u043D",3:"\u6B7B\u4EA1\uFF1A\u5F9E\u7B2C\u4E09\u5929\u8D77",25:"Preminuo: od tre\u0107eg dana nadalje"
 ,4:"Zem\u0159el: od t\u0159et\xEDho dne d\xE1le",5:"D\xF8d: fra dag 3 og fremefter"
 ,0:"Died: from day 3 onwards",6:"Dood: vanaf dag 3",7:"Suri: alates 3. p\xE4evast"
@@ -6650,7 +6652,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 20:"\u0423\u043C\u0435\u0440: \u0441 3-\u0433\u043E \u0434\u043D\u044F",27:"Umrli: od tretjega dne dalje"
 ,21:"Muerto: a partir del tercer d\xEDa",22:"Avled: fr\xE5n dag 3 och fram\xE5t"
 ,23:"\xD6l\xFCm: 3. g\xFCnden itibaren",24:"\u041F\u043E\u043C\u0435\u0440: \u0437 3-\u0433\u043E \u0434\u043D\u044F"
-};C.BqZ={1:"Uginulo: nakon 48 h",2:"\u0423\u043C\u0438\u0440\u044F\u043B\u043E: \u0432 \u0440\u0430\u043C\u043A\u0438\u0442\u0435 "+
+};C.Bq0={1:"Uginulo: nakon 48 h",2:"\u0423\u043C\u0438\u0440\u044F\u043B\u043E: \u0432 \u0440\u0430\u043C\u043A\u0438\u0442\u0435 "+
 "\u043D\u0430 48 \u0447\u0430\u0441\u0430",3:"\u6B7B\u4EA1\uFF1A48\u5C0F\u6642\u5167"
 ,25:"Preminuo: unutar 48 sati",4:"Zem\u0159el: do 48 hodin",5:"D\xF8d: inden for 48 timer"
 ,0:"Died: within 48 h",6:"Dood: in eerste 48 uur",7:"Suri: 48 tunni jooksul",8:"Kuollut: 48 tunnin kuluessa"
@@ -6661,7 +6663,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,20:"\u0423\u043C\u0435\u0440: \u043F\u0435\u0440\u0432\u044B\u0435 48 \u0447\u0430\u0441\u043E\u0432"
 ,27:"Umrlo: v 48 urah",21:"Muerto: en las primeras 48 horas",22:"Dog: inom 48 timmar"
 ,23:"\xD6l\xFCm: 48 saat i\xE7inde",24:"\u041F\u043E\u043C\u0435\u0440: \u043F\u0435\u0440\u0448\u0456 48 \u0433\u043E\u0434\u0438\u043D"
-};C.Bq0={1:"Ostaje kod prodava\u010Da",2:"\u041E\u0441\u0442\u0430\u0432\u0430 \u0432\u044A\u0432 \u0444\u0435\u0440\u043C\u0430\u0442\u0430 "+
+};C.Bq1={1:"Ostaje kod prodava\u010Da",2:"\u041E\u0441\u0442\u0430\u0432\u0430 \u0432\u044A\u0432 \u0444\u0435\u0440\u043C\u0430\u0442\u0430 "+
 "\u043D\u0430 \u043F\u0440\u043E\u0434\u0430\u0432\u0430\u0447\u0430",3:"\u7559\u5728\u8CE3\u65B9\u7684\u8FB2\u5834"
 ,25:"Ostaje na farmi prodavatelja",4:"Z\u016Fst\xE1v\xE1 na farm\u011B prod\xE1vaj\xEDc\xEDho"
 ,5:"Forbliver p\xE5 s\xE6lgers g\xE5rd",0:"Remains at seller\u2019s farm",6:"Blijft bij verkoper"
@@ -6676,13 +6678,13 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,21:"Permanece en la granja del vendedor",22:"Kvar p\xE5 s\xE4ljarens g\xE5rd",23:
 "Sat\u0131c\u0131n\u0131n \xE7iftli\u011Finde kalan",24:"\u0417\u0430\u043B\u0438\u0448\u0430\u0454\u0442\u044C\u0441\u044F \u043D\u0430 "+
 "\u0444\u0435\u0440\u043C\u0456 \u043F\u0440\u043E\u0434\u0430\u0432\u0446\u044F"
-};C.Bq1={1:"Abortirano",2:"\u0410\u0431\u043E\u0440\u0442",3:"\u4E2D\u6B62",25:"Prekinuti"
+};C.Bq2={1:"Abortirano",2:"\u0410\u0431\u043E\u0440\u0442",3:"\u4E2D\u6B62",25:"Prekinuti"
 ,4:"P\u0159eru\u0161it",5:"Afbryd",0:"Abort",6:"Afbreken",7:"Katkesta",8:"Keskeytt\xE4\xE4"
 ,9:"Fausse couche",10:"Ver~kalbung",11:"\u03A0\u03C1\u03BF\u03C7\u03C9\u03C1\u03AE\u03C3\u03C4\u03B5 \u03C3\u03B5 "+
 "\u03B1\u03C0\u03BF\u03B2\u03BF\u03BB\u03AE",12:"Megszak\xEDt",13:"Abortire",15:
 "Abort\u0113t",26:"At\u0161aukti",16:"Avbryte",17:"Przerwij",18:"Abortar",19:"Avorta"
 ,20:"\u0410\u0431\u043E\u0440\u0442",27:"Prekini",21:"Aborto",22:"Avbryt",23:"D\xFC\u015F\xFCk"
-,24:"\u0410\u0431\u043E\u0440\u0442"};C.Bq2={1:"Tov (prodato)",2:"\u0413\u043E\u0432\u0435\u0434\u043E (\u043F\u0440\u043E\u0434\u0430\u0434\u0435\u043D\u043E)"
+,24:"\u0410\u0431\u043E\u0440\u0442"};C.Bq3={1:"Tov (prodato)",2:"\u0413\u043E\u0432\u0435\u0434\u043E (\u043F\u0440\u043E\u0434\u0430\u0434\u0435\u043D\u043E)"
 ,3:"\u725B\u8089\uFF08\u552E\u51FA\uFF09",25:"Govedina (prodano)",4:"Hov\u011Bz\xED maso (prod\xE1van\xE9)"
 ,5:"Oksek\xF8d (solgt)",0:"Beef (sold)",6:"Mest (verkocht)",7:"Veiseliha (m\xFC\xFCdud)"
 ,8:"Liharotu (myyty)",9:"Engraissement (vente)",10:"Mast (Verkauf)",11:"\u039A\u03C1\u03B5\u03B1\u03C4\u03BF\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2 "+
@@ -6692,7 +6694,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,19:"Vit\u0103 (v\xE2ndut\u0103)",20:"\u041D\u0430 \u043C\u044F\u0441\u043E (\u043F\u0440\u043E\u0434\u0430\u0436\u0430)"
 ,27:"Govedina (prodano)",21:"Carne (vendido)",22:"N\xF6tk\xF6tt (s\xE5ldes)",23:
 "Et\xE7i (sat\u0131ld\u0131)",24:"\u041D\u0430 \u043C\'\u044F\u0441\u043E (\u043F\u0440\u043E\u0434\u0430\u0436)"
-};C.Bq3={1:"Uzgoj (prodato)",2:"\u0420\u0430\u0437\u0432\u044A\u0436\u0434\u0430\u043D\u0435 (\u043F\u0440\u043E\u0434\u0430\u0434\u0435\u043D\u043E)"
+};C.Bq4={1:"Uzgoj (prodato)",2:"\u0420\u0430\u0437\u0432\u044A\u0436\u0434\u0430\u043D\u0435 (\u043F\u0440\u043E\u0434\u0430\u0434\u0435\u043D\u043E)"
 ,3:"\u7E41\u6B96\uFF08\u552E\u51FA\uFF09",25:"Uzgoj (prodaja)",4:"Chov (prod\xE1n)"
 ,5:"Opdr\xE6t (solgt)",0:"Breeding (sold)",6:"Fokkerij (verkocht)",7:"Aretus (m\xFC\xFCdud)"
 ,8:"Jalostus (myyty)",9:"\xC9levage (vente)",10:"Zucht (Verkauf)",11:"\u0391\u03BD\u03B1\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2 "+
@@ -6702,7 +6704,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,20:"\u0414\u043B\u044F \u0441\u0435\u043B\u0435\u043A\u0446\u0438\u0438 (\u043F\u0440\u043E\u0434\u0430\u0436\u0430)"
 ,27:"Reja (prodano)",21:"Cr\xEDa (vendido)",22:"Avel (s\xE5ld)",23:"Yeti\u015Ftirme (sat\u0131ld\u0131)"
 ,24:"\u0414\u043B\u044F \u0441\u0435\u043B\u0435\u043A\u0446\u0456\u0457 (\u043F\u0440\u043E\u0434\u0430\u0436\u0443)"
-};C.Bq4={1:"vibrator",2:"\u0412\u0438\u0431\u0440\u0430\u0446\u0438\u043E\u043D\u0435\u043D \u043C\u043E\u0442\u043E\u0440"
+};C.Bq5={1:"vibrator",2:"\u0412\u0438\u0431\u0440\u0430\u0446\u0438\u043E\u043D\u0435\u043D \u043C\u043E\u0442\u043E\u0440"
 ,3:"\u632F\u52D5\u99AC\u9054",25:"Vibracijski motor",4:"Vibra\u010Dn\xED motor",
 5:"Vibrationsmotor",0:"Vibration motor",6:"Tril motor",7:"Vibratsioonimootor",9:
 "Moteur \xE0 vibration",10:"Vibrationsmotor",11:"\u039C\u03BF\u03C4\u03AD\u03C1 \u03B4\u03CC\u03BD\u03B7\u03C3\u03B7\u03C2"
@@ -6725,15 +6727,15 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u043A\u043D\u043E\u043F\u043A\u0438",27:"Vibracija ob pritisku tipke",21:"Vibraci\xF3n al pulsar un bot\xF3n"
 ,22:"Vibration vid knapptryckning",23:"Tu\u015Fa bas\u0131ld\u0131\u011F\u0131nda titre\u015Fimi aktif hale getir"
 ,24:"\u0412\u0456\u0431\u0440\u0430\u0446\u0456\u044F \u043D\u0430\u0442\u0438\u0441\u043D\u0435\u043D\u043D\u044F "+
-"\u043A\u043D\u043E\u043F\u043A\u0438"};C.Bq7={1:"Demo CitalControl",2:"\u0414\u0435\u043C\u043E VitalControl"
+"\u043A\u043D\u043E\u043F\u043A\u0438"};C.Bq8={1:"Demo CitalControl",2:"\u0414\u0435\u043C\u043E VitalControl"
 ,3:"\u6F14\u793A VitalControl",0:"Demo VitalControl",7:"VitalControl demo",11:"\u0395\u03C0\u03AF\u03B4\u03B5\u03B9\u03BE\u03B7 VitalControl"
 ,18:"Demo Controle Vital",20:"\u0414\u0435\u043C\u043E VitalControl",21:"Demostraci\xF3n de VitalControl"
-,24:"\u0414\u0435\u043C\u043E VitalControl"};C.Bq8={1:"WLAN \u010Dip",2:"\u0427\u0438\u043F WiFI"
+,24:"\u0414\u0435\u043C\u043E VitalControl"};C.Bq9={1:"WLAN \u010Dip",2:"\u0427\u0438\u043F WiFI"
 ,3:"WLAN \u6676\u7247",25:"WLAN \u010Dip",4:"\u010Dip WLAN",5:"WLAN-chip",0:"WLAN Chip"
 ,7:"WLAN kiip",8:"WLAN -siru",9:"Puce WIFI",11:"WLAN \u03C4\u03C3\u03AF\u03C0",12:
 "WLAN chip",13:"Chip WLAN",15:"WLAN mikrosh\u0113ma",26:"Mikroschemos WLAN",17:"Czip WLAN"
 ,18:"Chip WLAN",19:"Cip WLAN",20:"\u0427\u0438\u043F WiFI",27:"\u010Dip WLAN",21:
-"LED blanco",22:"WLAN-chip",23:"WLAN \xC7ipi",24:"\u0427\u0456\u043F WiFi"};C.Bq9={
+"LED blanco",22:"WLAN-chip",23:"WLAN \xC7ipi",24:"\u0427\u0456\u043F WiFi"};C.Bq_={
 1:"\u010Cekanje da se vrijednost o\u010Dita",2:"\u0418\u0437\u0447\u0430\u043A\u0432\u0430 \u0441\u0435 \u0441\u0442\u0430\u0431\u0438\u043B\u043D\u0430 "+
 "\u0441\u0442\u043E\u0439\u043D\u043E\u0441\u0442",3:"\u7B49\u5F85\u7A69\u5B9A\u7684\u503C"
 ,25:"\u010Cekanje na stabilnu vrijednost",4:"\u010Cek\xE1n\xED na stabiln\xED hodnotu"
@@ -6802,7 +6804,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 ,27:"Pozor!\n\nID \u017Eivali {1} \u017Ee obstaja!",21:"Atenci\xF3n:\n\xA1Ya existe un animal con ID {1}!"
 ,22:"Uppm\xE4rksamhet!\n\nDjur-ID {1} finns redan!",23:"Dikkat!\n\nHayvan Kimli\u011Fi {1} zaten mevcut!"
 ,24:"\u0423\u0432\u0430\u0433\u0430!\n\u0422\u0432\u0430\u0440\u0438\u043D\u0430 "+
-"\u2116 {1} \u0432\u0436\u0435 \u0456\u0441\u043D\u0443\u0454"};C.Bq_={1:"Pa\u017Enja!\n\nPrilikom vra\u0107anja sigurnosne kopije, va\u0161i trenutni "+
+"\u2116 {1} \u0432\u0436\u0435 \u0456\u0441\u043D\u0443\u0454"};C.Bq$={1:"Pa\u017Enja!\n\nPrilikom vra\u0107anja sigurnosne kopije, va\u0161i trenutni "+
 "podaci o \u017Eivotinjama i ure\u0111aju \u0107e biti prepisani!\nDa li "+"zaista \u017Eelite nastaviti s vra\u0107anjem podataka?"
 ,2:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435!\n\u041A\u043E\u0433\u0430\u0442\u043E "+
 "\u0432\u044A\u0437\u0441\u0442\u0430\u043D\u043E\u0432\u044F\u0432\u0430\u0442\u0435 "+
@@ -6906,7 +6908,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0434\u0430\u043D\u0456 \u0437 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u043E\u043C? "+
 "\u041F\u0456\u0441\u043B\u044F \u0446\u044C\u043E\u0433\u043E \u0434\u0430\u043D\u0456 "+
 "\u0431\u0443\u0434\u0435 \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E!\n\u0412\u0438 "+
-"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bq$={1:"Oprez:\nStandardna markice imaju ID od 13, 14 ili 15 brojeva. Na skeniranoj "+
+"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bra={1:"Oprez:\nStandardna markice imaju ID od 13, 14 ili 15 brojeva. Na skeniranoj "+
 "markici se o\u010Ditavaj samo {1} brojeva!",2:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435:\n\u0421\u044A\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0430\u0449\u0438\u044F\u0442 "+
 "\u2116 \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u0442\u0440\u044F\u0431\u0432\u0430 "+
 "\u0434\u0430 \u0431\u044A\u0434\u0435 \u0434\u044A\u043B\u044A\u0433 13, "+"14 \u0438\u043B\u0438 15 \u0446\u0438\u0444\u0440\u0438.\n\u0412\u044A\u043F\u0440\u0435\u043A\u0438 "+
@@ -7002,7 +7004,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u0456 \u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439 \u0431\u0443\u0434\u0435 "+
 "\u0432\u0438\u0434\u0430\u043B\u0435\u043D\u043E, \u0430 \u0434\u0435\u043C\u043E\u043D\u0441\u0442\u0440\u0430\u0446\u0456\u0439\u043D\u0456 "+
 "\u0434\u0430\u043D\u0456 \u0431\u0443\u0434\u0443\u0442\u044C \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u0456!\n\u0412\u0438 "+
-"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bra={1:"Pa\u017Enja!\n\nDa li zaista \u017Eelite odjaviti {1} \u017Eivotinja?"
+"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Brb={1:"Pa\u017Enja!\n\nDa li zaista \u017Eelite odjaviti {1} \u017Eivotinja?"
 ,2:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435!\n\n\u041D\u0430\u0438\u0441\u0442\u0438\u043D\u0430 "+
 "\u043B\u0438 \u0438\u0441\u043A\u0430\u0442\u0435 \u0434\u0430 \u0434\u0435\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0430\u0442\u0435 "+
 "{1} \u0436\u0438\u0432\u043E\u0442\u043D\u0438?",3:"\u6CE8\u610F\uFF01\n\n\u60A8\u78BA\u5B9A\u8981\u53D6\u6D88\u8A3B\u518A "+
@@ -7028,7 +7030,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "istiyor musunuz?",24:"\u0423\u0432\u0430\u0433\u0430!\n\n\u0412\u0438 \u0434\u0456\u0439\u0441\u043D\u043E "+
 "\u0445\u043E\u0447\u0435\u0442\u0435 \u0432\u0438\u0434\u0430\u043B\u0438\u0442\u0438 "+
 "\u0440\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u044E {1} \u0442\u0432\u0430\u0440\u0438\u043D?"
-};C.Brb={1:"Nedostaje ID \u017Eivotinje! Molimo odredite ID \u017Eivotinje koji je "+
+};C.Brc={1:"Nedostaje ID \u017Eivotinje! Molimo odredite ID \u017Eivotinje koji je "+
 "potrebno kreirati!",2:"\u2116 \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u043B\u0438\u043F\u0441\u0432\u0430!\n\u041C\u043E\u043B\u044F, "+
 "\u043F\u043E\u0441\u043E\u0447\u0435\u0442\u0435 \u2116 \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0442\u043E, "+
 "\u043A\u043E\u0435\u0442\u043E \u0449\u0435 \u0431\u044A\u0434\u0435 \u0441\u044A\u0437\u0434\u0430\u0434\u0435\u043D\u043E!"
@@ -7061,7 +7063,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "kimli\u011Fini belirtin!",24:"\u0412\u0456\u0434\u0441\u0443\u0442\u043D\u0456\u0439 ID-\u043D\u043E\u043C\u0435\u0440 "+
 "\u0442\u0432\u0430\u0440\u0438\u043D\u0438!\n\u0411\u0443\u0434\u044C "+"\u043B\u0430\u0441\u043A\u0430, \u0432\u0432\u0435\u0434\u0456\u0442\u044C "+
 "ID-\u043D\u043E\u043C\u0435\u0440 \u043D\u043E\u0432\u043E\u0457 \u0442\u0432\u0430\u0440\u0438\u043D\u0438!"
-};C.Brc={1:"\u017Divotinja odabrana kao majka nema dodijeljen 15-cifreni identifikacijski "+
+};C.Brd={1:"\u017Divotinja odabrana kao majka nema dodijeljen 15-cifreni identifikacijski "+
 "broj \u017Eivotinje.\n\u017Delite li kreirati \u017Eivotinju bez dodijeljene "+
 "majke?",2:"\u0416\u0438\u0432\u043E\u0442\u043D\u043E\u0442\u043E, \u0438\u0437\u0431\u0440\u0430\u043D\u043E "+
 "\u043A\u0430\u0442\u043E \u043C\u0430\u0439\u043A\u0430, \u043D\u044F\u043C\u0430 "+
@@ -7115,7 +7117,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u044F\u043A \u043C\u0430\u0442\u0438 \u043D\u0435 \u043C\u0430\u0454 "+"15-\u0442\u0438\u0437\u043D\u0430\u0447\u043D\u043E\u0433\u043E ID.\n\u0427\u0438 "+
 "\u0445\u043E\u0447\u0435\u0442\u0435 \u0432\u0438 \u0441\u0442\u0432\u043E\u0440\u0438\u0442\u0438 "+
 "\u0442\u0432\u0430\u0440\u0438\u043D\u0443 \u0431\u0435\u0437 \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F "+
-"\u043C\u0430\u0442\u0435\u0440\u0456?"};C.Brd={1:"Ne mogu oduzeti identifikacijski broj \u017Eivotinje zbog nedostatka broja "+
+"\u043C\u0430\u0442\u0435\u0440\u0456?"};C.Bre={1:"Ne mogu oduzeti identifikacijski broj \u017Eivotinje zbog nedostatka broja "+
 "markice na uhu!\nMolimo navedite broj markice na uhu za \u017Eivotinju "+"koja \u0107e biti kreirana!"
 ,2:"\u041D\u0435 \u043C\u043E\u0436\u0435 \u0434\u0430 \u0431\u044A\u0434\u0435 "+
 "\u043F\u0440\u0438\u0441\u043F\u0430\u0434\u043D\u0430\u0442\u0430 \u0438\u0434\u0435\u043D\u0442\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F "+
@@ -7180,7 +7182,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u043B\u0430\u0441\u043A\u0430, \u0432\u043A\u0430\u0436\u0456\u0442\u044C "+"\u043D\u043E\u043C\u0435\u0440 \u0441\u0435\u0440\u0435\u0436\u043A\u0438 "+
 "\u0432 \u0432\u0443\u0441\u0456 \u0434\u043B\u044F \u0441\u0442\u0432\u043E\u0440\u0435\u043D\u043D\u044F "+
 "\u0437\u0430\u043F\u0438\u0441\u0443 \u0442\u0432\u0430\u0440\u0438\u043D\u0438!"
-};C.Bre={1:"Nijedan transponder nije povezan sa odabranom \u017Eivotinjom, stoga odspajanje "+
+};C.Brf={1:"Nijedan transponder nije povezan sa odabranom \u017Eivotinjom, stoga odspajanje "+
 "transpondera nije mogu\u0107e!",2:"\u041D\u0438\u0442\u043E \u0435\u0434\u0438\u043D \u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u0440 "+
 "\u043D\u0435 \u0435 \u0441\u0432\u044A\u0440\u0437\u0430\u043D \u0441 \u0438\u0437\u0431\u0440\u0430\u043D\u043E "+
 "\u0436\u0438\u0432\u043E\u0442\u043D\u043E, \u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u043D\u043E "+
@@ -7222,7 +7224,7 @@ Bp6={1:"ID \u017Eivotinje je uspje\u0161no povezan sa \u017Eivotinjom s ID {1}!"
 "\u043D\u0435 \u043F\u043E\u0432\'\u044F\u0437\u0430\u043D\u0438\u0439 "+"\u0437 \u0432\u0438\u0431\u0440\u0430\u043D\u0438\u043C \u0442\u0432\u0430\u0440\u0438\u043D\u0430\u043C, "+
 "\u0442\u043E\u043C\u0443 \u0432\u0456\u0434\'\u0454\u0434\u043D\u0430\u043D\u043D\u044F "+
 "\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u043D\u0434\u0435\u0440\u0430 "+"\u043D\u0435\u043C\u043E\u0436\u043B\u0438\u0432\u0435!"
-};C.Brf={1:"Nije mogu\u0107e oduzeti ID \u017Eivotinje zbog nedostaju\u0107eg broja "+
+};C.Brg={1:"Nije mogu\u0107e oduzeti ID \u017Eivotinje zbog nedostaju\u0107eg broja "+
 "transpondera!\nMolimo navedite broj transpondera za kreiranje \u017Eivotinje!",
 2:"\u041D\u0435 \u043C\u043E\u0436\u0435 \u0434\u0430 \u0441\u0435 \u043F\u0440\u0438\u0441\u043F\u0430\u0434\u043D\u0435 "+
 "ID \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u043D\u043E \u043F\u043E\u0440\u0430\u0434\u0438 "+
@@ -7480,7 +7482,7 @@ C.WarningNoActionsForAnimalLoss={1:"Izvo\u0111enje radnji koje nisu dozvoljene z
 "\u043A\u043E\u043F\u0456\u0457 \u2019backup.vcu\u2019 \u0443 \u043F\u0430\u043F\u0446\u0456 "+
 "\u2019backup\u2019 \u043D\u0430 \u0432\u0430\u0448\u043E\u043C\u0443 USB-\u043D\u0430\u043A\u043E\u043F\u0438\u0447\u0443\u0432\u0430\u0447\u0456, "+
 "\u0430\u043B\u0435 \u043F\u0430\u043F\u043A\u0443 \u2019backup\u2019 \u043D\u0435 "+
-"\u0437\u043D\u0430\u0439\u0434\u0435\u043D\u043E!"};C.Brg={1:"Pa\u017Enja!\nK\xF4d dr\u017Eave nije mogao biti prona\u0111en ni u skeniranom "+
+"\u0437\u043D\u0430\u0439\u0434\u0435\u043D\u043E!"};C.Brh={1:"Pa\u017Enja!\nK\xF4d dr\u017Eave nije mogao biti prona\u0111en ni u skeniranom "+
 "ID-u niti izveden iz ID-a prostorija. \u017Delite li sada unijeti svoj "+"ID prostorija?"
 ,2:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435!\n\u041A\u043E\u0434\u044A\u0442 "+
 "\u043D\u0430 \u0434\u044A\u0440~\u0436\u0430~\u0432\u0430~\u0442\u0430 "+"\u043D\u0435 \u043C\u043E\u0436\u0435 \u0434\u0430 \u0431\u044A\u0434\u0435 "+
@@ -7933,8 +7935,9 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 ,25:"Svi podaci na ure\u0111aju bit \u0107e izbrisani! \nJeste li sigurni?",4:"Ve\u0161ker\xE1 data za\u0159\xEDzen\xED budou smaz\xE1na!\nJste si jisti?"
 ,5:"Alle enhedsdata vil blive slettet!\nEr du sikker?",0:"All device data will be deleted!\nAre you sure?"
 ,6:"Alle apparaatgegevens worden verwijderd!\nWeet u het zeker?",7:"K\xF5ik seadme andmed kustutatakse!\nKas olete kindel?"
-,9:"Toutes les donn\xE9es de l\'appareil seront supprim\xE9es !\n\xCAtes-vous "+
-"s\xFBr ?",10:"Alle Ger\xE4tedaten werden gel\xF6scht!\nSind Sie sicher?",11:"\u038C\u03BB\u03B1 \u03C4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 "+
+,9:"Toutes les donn\xE9es de l\'appareil seront supprim\xE9es\xA0!\n\xCAtes-vous "+
+"s\xFBr\xA0?",10:"Alle Ger\xE4tedaten werden gel\xF6scht!\nSind Sie sicher?",11:
+"\u038C\u03BB\u03B1 \u03C4\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 "+
 "\u03C4\u03B7\u03C2 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2 \u03B8\u03B1 "+
 "\u03B4\u03B9\u03B1\u03B3\u03C1\u03B1\u03C6\u03BF\u03CD\u03BD!\n\u0395\u03AF\u03C3\u03C4\u03B5 "+
 "\u03C3\u03AF\u03B3\u03BF\u03C5\u03C1\u03BF\u03B9;",12:"Minden eszk\xF6zadat t\xF6rl\u0151dik!\nBiztos benne?"
@@ -7948,7 +7951,7 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 ,21:"\xA1Se borrar\xE1n todos los datos del dispositivo!\n\xBFEst\xE1 seguro?",22:
 "All enhetsdata kommer att raderas!\n\xC4r du s\xE4ker?",24:"\u0412\u0441\u0456 \u0434\u0430\u043D\u0456 \u043F\u0440\u0438\u0441\u0442\u0440\u043E\u044E "+
 "\u0431\u0443\u0434\u0443\u0442\u044C \u0432\u0438\u0434\u0430\u043B\u0435\u043D\u0456!\n\u0412\u0438 "+
-"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Brh={1:"Svi podaci o aparatima i \u017Eivotinjama bi\u0107e izbrisani! Jeste li "+
+"\u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"};C.Bri={1:"Svi podaci o aparatima i \u017Eivotinjama bi\u0107e izbrisani! Jeste li "+
 "sigurni\"",2:"\u0412\u0441\u0438\u0447\u043A\u0438 \u0434\u0430\u043D\u043D\u0438 \u0437\u0430 "+
 "\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430 \u0438 \u0436\u0438\u0432\u043E\u0442\u043D\u0438 "+
 "\u0449\u0435 \u0431\u044A\u0434\u0430\u0442 \u0438\u0437\u0442\u0440\u0438\u0442\u0438!\n\u0421\u0438\u0433\u0443\u0440\u043D\u0438 "+
@@ -8013,7 +8016,7 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 "\u043F\u043E\u0440\u043E\u0433\u0438 \u0434\u043B\u044F \u0443\u0441\u0456\u0445 "+
 "\u0432\u0438\u0434\u0456\u0432 \u0442\u0432\u0430\u0440\u0438\u043D \u0431\u0443\u0434\u0435 "+
 "\u0441\u043A\u0438\u043D\u0443\u0442\u043E!\n\u0412\u0438 \u0432\u043F\u0435\u0432\u043D\u0435\u043D\u0456?"
-};C.Bri={1:"Da li stvarno \u017Eelite vratiti na fabri\u010Dke postavke ({1} {2})?"
+};C.Brj={1:"Da li stvarno \u017Eelite vratiti na fabri\u010Dke postavke ({1} {2})?"
 ,2:"\u041D\u0430\u0438\u0441\u0442\u0438\u043D\u0430 \u043B\u0438 \u0438\u0441\u043A\u0430\u0442\u0435 "+
 "\u0434\u0430 \u0432\u044A\u0437\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u0435 "+
 "\u0442\u0430\u0437\u0438 \u0441\u0442\u043E\u0439\u043D\u043E\u0441\u0442 "+"\u0434\u043E \u0444\u0430\u0431\u0440\u0438\u0447\u043D\u0438\u0442\u0435 "+
@@ -8100,7 +8103,7 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 ,21:"\xBFRealmente quiere reiniciar el dispositivo?",22:"Vill du verkligen starta om enheten?"
 ,23:"Yeniden ba\u015Flatma uyar\u0131s\u0131",24:"\u0412\u0438 \u0441\u043F\u0440\u0430\u0432\u0434\u0456 \u0445\u043E\u0447\u0435\u0442\u0435 "+
 "\u043F\u0435\u0440\u0435\u0437\u0430\u0432\u0430\u043D\u0442\u0430\u0436\u0438\u0442\u0438 "+
-"\u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439?"};C.Brj={1:"Da li stvarno \u017Eelite isklju\u010Diti aparat?"
+"\u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439?"};C.Brk={1:"Da li stvarno \u017Eelite isklju\u010Diti aparat?"
 ,2:"\u041D\u0430\u0438\u0441\u0442\u0438\u043D\u0430 \u043B\u0438 \u0436\u0435\u043B\u0430\u0435\u0442\u0435 "+
 "\u0434\u0430 \u0438\u0437\u043A\u043B\u044E\u0447\u0438\u0442\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E?"
 ,3:"\u4F60\u771F\u7684\u60F3\u95DC\u6A5F\u55CE\uFF1F",25:"\u017Delite li doista isklju\u010Diti ure\u0111aj?"
@@ -8119,7 +8122,7 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 ,21:"\xBFRealmente quiere apagar el dispositivo?",22:"Vill du verkligen st\xE4nga av enheten?"
 ,23:"Kapatma uyar\u0131s\u0131",24:"\u0412\u0438 \u0441\u043F\u0440\u0430\u0432\u0434\u0456 \u0445\u043E\u0447\u0435\u0442\u0435 "+
 "\u0432\u0438\u043C\u043A\u043D\u0443\u0442\u0438 \u043F\u0440\u0438\u0441\u0442\u0440\u0456\u0439?"
-};C.Brk={1:"Aparat \u0107e se isklju\u010Diti za {1} sekundi!",2:"\u0418\u0437\u043A\u043B\u044E\u0447\u0432\u0430\u043D\u0435 \u043D\u0430 "+
+};C.Brl={1:"Aparat \u0107e se isklju\u010Diti za {1} sekundi!",2:"\u0418\u0437\u043A\u043B\u044E\u0447\u0432\u0430\u043D\u0435 \u043D\u0430 "+
 "\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u0442\u043E "+"\u0441\u043B\u0435\u0434 {1} \u0441\u0435\u043A\u0443\u043D\u0434\u0438!"
 ,3:"\u5728{1}\u79D2\u5167\u95DC\u9589\u8A2D\u5099\uFF01",25:"Isklju\u010Divanje ure\u0111aja za {1} sekundi!"
 ,4:"Vyp\xEDn\xE1n\xED za\u0159\xEDzen\xED za {1} sekund!",5:"Enheden lukker ned om {1} sekunder!"
@@ -8136,7 +8139,7 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 "\u0447\u0435\u0440\u0435\u0437 {1} \u0441\u0435\u043A\u0443\u043D\u0434!",27:"Izklop naprave \u010Dez {1} sekund!"
 ,21:"\xA1El dispositivo se apagar\xE1 dentro de {1} segundos!",22:"St\xE4nger av enheten om {1} sekunder!"
 ,23:"Cihaz {1} saniye i\xE7inde kapat\u0131l\u0131yor!",24:"\u041F\u0440\u0438\u0441\u0442\u0440\u0456\u0439 \u0432\u0456\u0434\u043A\u043B\u044E\u0447\u0438\u0442\u044C\u0441\u044F "+
-"\u0447\u0435\u0440\u0435\u0437 {1} \u0441\u0435\u043A\u0443\u043D\u0434!"};C.Brl={
+"\u0447\u0435\u0440\u0435\u0437 {1} \u0441\u0435\u043A\u0443\u043D\u0434!"};C.Brm={
 3:"\u672A\u77E5\u8033\u6A19\uFF01\n\n\u6383\u63CF\u5230\u7684\u8033\u6A19\u865F\u78BC\u5728\u52D5\u7269\u540D\u55AE\u4E2D\u627E\u4E0D\u5230\uFF01"
 ,0:"Unknown ear tag!\n\nScanned ear tag number could not be found in animal "+"list!"
 ,10:"Unbekannte Ohrmarke!\nDie eingelesene Ohrmarken~nummer wurde nicht in "+"der Tierliste gefunden!"
@@ -8259,7 +8262,7 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 "\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F \u0432\u0437\u0432\u0430\u0436\u0443\u0432\u0430\u043D\u043D\u044F "+
 "\u043A\u043E\u0440\u043E\u0432\u0438 (\u2116 {1}) \u0442\u0430\u043A\u043E\u0436 "+
 "\u0431\u0443\u043B\u043E \u043E\u043F\u0440\u0430\u0446\u044C\u043E\u0432\u0430\u043D\u043E!"
-};C.Brm={1:"Pa\u017Enja!\n\nPogre\u0161no pode\u0161eni datum i vrijeme, molimo ponovo "+
+};C.Brn={1:"Pa\u017Enja!\n\nPogre\u0161no pode\u0161eni datum i vrijeme, molimo ponovo "+
 "unesite datum i vrijeme!",2:"\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435!\n\n\u0413\u0440\u0435\u0448\u043D\u0438 "+
 "\u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u0437\u0430 \u0434\u0430\u0442\u0430 "+
 "\u0438 \u0447\u0430\u0441, \u043C\u043E\u043B\u044F, \u0432\u044A\u0432\u0435\u0434\u0435\u0442\u0435 "+
@@ -8334,7 +8337,7 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 ,15:"Svari",26:"Svarstymai",16:"Veiinger",17:"Wa\u017Cenia",18:"Pesagens",19:"C\xE2nt\u0103riri"
 ,20:"\u0412\u0437\u0432\u0435\u0448\u0438\u0432\u0430\u043D\u0438\u044F",27:"Tehtanja"
 ,21:"Pesajes",22:"V\xE4gningar",23:"Tart\u0131mlar",24:"\u0412\u0437\u0432\u0430\u0436\u0443\u0432\u0430\u043D\u043D\u044F"
-};C.Afy={1:"te\u017Eina",2:"\u0422\u0435\u0433\u043B\u043E",3:"\u91CD\u91CF",25:
+};C.Afz={1:"te\u017Eina",2:"\u0422\u0435\u0433\u043B\u043E",3:"\u91CD\u91CF",25:
 "Te\u017Eina",4:"V\xE1ha",5:"V\xE6gt",0:"Weight",6:"Gewicht",7:"Kaal",8:"Paino",
 9:"Poids",10:"Gewicht",11:"\u0392\u03AC\u03C1\u03BF\u03C2",12:"S\xFAly",13:"Peso"
 ,15:"Svars",26:"Svoris",16:"Vekt",17:"Waga",18:"Peso",19:"Greutate",20:"\u0412\u0435\u0441"
@@ -8347,7 +8350,7 @@ WarningParsedDateInFutureInvalid={1:"Pa\u017Enja!\n\nDatum ro\u0111enja koji je 
 ,16:"Dyrevekt",17:"Waga zwierz\u0119cia",18:"Peso do animal",19:"Greutatea animalului"
 ,20:"\u0412\u0435\u0441 \u0436\u0438\u0432\u043E\u0442\u043D\u043E\u0433\u043E",
 27:"Te\u017Ea \u017Eivali",21:"Peso del animal",22:"Djurs vikt",23:"Hayvan\u0131n a\u011F\u0131rl\u0131\u011F\u0131"
-,24:"\u0412\u0430\u0433\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0438"};C.Brp={
+,24:"\u0412\u0430\u0433\u0430 \u0442\u0432\u0430\u0440\u0438\u043D\u0438"};C.Brq={
 1:"Te\u017Eina trupa",2:"\u0422\u0440\u0443\u043F\u043D\u043E \u0442\u0435\u0433\u043B\u043E"
 ,3:"\u9AD4\u91CD\u91CF",25:"Te\u017Eina trupa",4:"Hmotnost uhynul\xE9ho zv\xED\u0159ete"
 ,5:"Slagtev\xE6gt",0:"Carcass weight",6:"Kadavergewicht",7:"R\xFCmba kaal",8:"Ruhon paino"
@@ -8451,7 +8454,7 @@ C.AHu={1:"prirast",2:"\u041F\u0440\u0438\u0440\u0430\u0441\u0442",3:"\u589E\u91C
 ,27:"Da",21:"S\xED",22:"Ja",23:"Evet",24:"\u0422\u0430\u043A"};C.AiG={3:"\u514B"
 ,0:"g",11:"\u03B3",20:"\u0433",24:"\u0491"};C.AAn={2:"\u043A\u0433",3:"\u516C\u65A4"
 ,0:"kg",6:"Kg",11:"\u039A\u03B9\u03BB\u03AC",20:"\u043A\u0433",24:"\u043A\u0433"
-};C.Af_={2:"\u041B\u0438\u0442\u044A\u0440",3:"\u516C\u5347",4:"Litr",0:"l",7:"L"
+};C.Af$={2:"\u041B\u0438\u0442\u044A\u0440",3:"\u516C\u5347",4:"Litr",0:"l",7:"L"
 ,11:"\u0399",20:"\u043B",23:"I",24:"\u043B"};
 C._Init=function(){};C._ReInit=function(){};C.DI=function(D){};return C;})();
 

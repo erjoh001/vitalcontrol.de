@@ -13,7 +13,7 @@ translationKey: actions/alarm
 
 ## Alert {#alert}
 
-With the action `{{<T "Alarm" >}}` you put animals on the alarm list or remove them from it. The alarm list helps you to find conspicuous animals more quickly and easily, making your daily routine checks easier. To apply the `{{<T "Alarm" >}}` action, proceed as follows:
+With the action `{{< T "Alarm" >}}` you put animals on the alarm list or remove them from it. The alarm list helps you to find conspicuous animals more quickly and easily, making your daily routine checks easier. To apply the `{{<T "Alarm" >}}` action, proceed as follows:
 
 1. In the main screen of your VitalControl device, select the menu item `{{<T "Actions" >}}` &nbsp;<img src="/icons/actions.svg" width="40" align="bottom" alt="Actions" />  and press the `{{<T "Ok" >}}` button.
 

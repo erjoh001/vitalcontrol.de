@@ -38,7 +38,7 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 acu=(function(){var A=index;var C={};
 
 C.Akl={0:"\u2013.\u2013",17:"-.-",19:"-.-",20:"-.-",21:"-.-",22:"-.-",24:"-.-"};C.
-Bqz={1:"previsoko",2:"\u0412\u0438\u0441\u043E\u043A\u0430!",3:"\u9AD8",25:"Previsoko"
+BqA={1:"previsoko",2:"\u0412\u0438\u0441\u043E\u043A\u0430!",3:"\u9AD8",25:"Previsoko"
 ,4:"P\u0159\xEDli\u0161 vysok\xFD",5:"For h\xF8j",0:"Too high",6:"Te hoog",7:"Liiga k\xF5rge"
 ,8:"Korkeus",9:"Haut",10:"Hoch",11:"\u03A8\u03B7\u03BB\u03AC",12:"T\xFAl magas",
 13:"Troppo alto",15:"P\u0101r\u0101k augsts",26:"Per auk\u0161tai",16:"For h\xF8y"

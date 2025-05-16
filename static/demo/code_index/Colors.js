@@ -39,8 +39,8 @@ jb=(function(){var A=index;var C={};
 
 C.CU=0xFFFFFFFF;C.CK=0xFFE6DED8;C.Rk=0x00000000;C.Text=0xFF333333;C.AV=0xFFB6771A;
 C.Ib=0xFF00DCFF;C.E1=0xFF3DD87D;C.Gk=0xFF001EFF;C.Bm=0xFFFFFFFF;C.Bc=0xFF7B7975;
-C.Afx=0xFFFFB03B;C.Bj8=0xFFD9D2CC;C.ARk=0xFFF5ECE5;C.Am8=0xFF6E6E6E;C.Aec=0xFF5F5350;
-C.Bpp=0xAA5F5350;C.Bkx=0xE6FFFFFF;
+C.Afy=0xFFFFB03B;C.Bj9=0xFFD9D2CC;C.ARk=0xFFF5ECE5;C.Am8=0xFF6E6E6E;C.Aed=0xFF5F5350;
+C.Bpq=0xAA5F5350;C.Bky=0xE6FFFFFF;
 C._Init=function(){};C._ReInit=function(){};C.DI=function(D){};return C;})();
 
 /* VitalControl demonstration application, © Urban GmbH & Co.KG 2025 */
