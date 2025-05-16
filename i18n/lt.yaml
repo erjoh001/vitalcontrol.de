@@ -122,7 +122,7 @@
 "DataSyncInProgress": "Duomenų sinchronizacija vyksta\n\n{1} %% baigta"
 "Date": "Data"
 "DateBirth": "Gimimo data"
-"DateFormat": "DD-MM-YYYY in Lithuanian can be translated as DD-MM-MMMM."
+"DateFormat": "DD-MM-YYYY"
 "DateTime": "Data ir laikas"
 "Day": "diena"
 "DayUppercase": "Diena"

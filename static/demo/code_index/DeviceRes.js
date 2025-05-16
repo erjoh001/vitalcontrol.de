@@ -38,117 +38,117 @@ var index;if(!index)throw new Error("The application file '_project.js' isn't ye
 acj=(function(){var A=index;var C={};
 var Cf="Unhandled enum BodyTemperature: ";var BD="Unhandled BodyTemperatureValue: ";
 var E8="ERROR: Unhandled temperature unit: ";var Hs="ERROR: unhandled assessment.";
-var I0="%H:%M";var Iw="Invalid month";var O$="%";var Qb="Invalid format code";var
-Qc=" %Y";var CR="ERROR: Unhandled mass unit: ";
-C.Bad={BAk:function(Eo,Rx){if((Rx>=A._GetAutoObject(A.Device.Helper).ADc(Eo))||(Rx<=
-A._GetAutoObject(A.Device.Device).AcL))return 1;else return 0;},BAj:function(Eo,
-Rx){var NC=A._GetAutoObject(A.Device.Converter).Ajo(Rx,Eo);switch(NC){case 3:return A.
-aaR(A.acf.AvF);case 2:return A.aaR(A.acf.Bj8);case 1:return A.aaR(A.acf.Normal);
-case 0:return A.aaR(A.acf.BkD);default:throw new Error(Cf+NC.toFixed());}},BAb:function(
-Eo,Rx){var NC=A._GetAutoObject(A.Device.Converter).Ajo(Rx,Eo);switch(NC){case 3:
-return A.jb.Gk;case 2:return A.jb.Ib;case 1:return A.jb.E1;case 0:return A.jb.Afy;
-default:throw new Error(BD+NC.toFixed());}},AlQ:function(){switch(A._GetAutoObject(
-A.Device.Device).TemperatureUnit){case 0:return A.aaR(A.acf.AG_);case 1:return A.
-acf.Bqs;default:A.ab5("%s%s",E8,A._GetAutoObject(A.Device.Device).TemperatureUnit.
-toFixed());}return A.jV;},BAc:function(Eo,Rx){var NC=A._GetAutoObject(A.Device.Converter
-).Ajo(Rx,Eo);switch(NC){case 2:return A.jb.Text;case 3:case 1:case 0:return A.jb.
-Bm;default:throw new Error(Cf+NC.toFixed());}},BAe:function(Eo,Rx){var NC=A._GetAutoObject(
-A.Device.Converter).Ajo(Rx,Eo);switch(NC){case 3:return A.jb.Gk;case 2:return A.
-jb.Text;case 1:return A.jb.E1;case 0:return A.jb.Afy;default:throw new Error(BD+
-NC.toFixed());}},BAf:function(Eo,Rx){var NC=A._GetAutoObject(A.Device.Converter).
-Ajo(Rx,Eo);switch(NC){case 3:return 16711680;case 2:return 16776960;case 1:return 65280;
-case 0:return 255;default:throw new Error(Cf+NC.toFixed());}},BAd:function(Eo,Rx
-){var NC=A._GetAutoObject(A.Device.Converter).Ajo(Rx,Eo);switch(NC){case 3:return A.
+var I0="%H:%M";var Iw="Invalid month";var O$="%";var Qc="Invalid format code";var
+Qd=" %Y";var CR="ERROR: Unhandled mass unit: ";
+C.Baf={BAm:function(Eo,Ry){if((Ry>=A._GetAutoObject(A.Device.Helper).ADe(Eo))||(Ry<=
+A._GetAutoObject(A.Device.Device).AcM))return 1;else return 0;},BAl:function(Eo,
+Ry){var NC=A._GetAutoObject(A.Device.Converter).Ajp(Ry,Eo);switch(NC){case 3:return A.
+aaR(A.acf.AvG);case 2:return A.aaR(A.acf.Bj_);case 1:return A.aaR(A.acf.Normal);
+case 0:return A.aaR(A.acf.BkF);default:throw new Error(Cf+NC.toFixed());}},BAd:function(
+Eo,Ry){var NC=A._GetAutoObject(A.Device.Converter).Ajp(Ry,Eo);switch(NC){case 3:
+return A.jb.Gk;case 2:return A.jb.Ib;case 1:return A.jb.E1;case 0:return A.jb.Afz;
+default:throw new Error(BD+NC.toFixed());}},AlR:function(){switch(A._GetAutoObject(
+A.Device.Device).TemperatureUnit){case 0:return A.aaR(A.acf.AHa);case 1:return A.
+acf.Bqu;default:A.ab5("%s%s",E8,A._GetAutoObject(A.Device.Device).TemperatureUnit.
+toFixed());}return A.jV;},BAe:function(Eo,Ry){var NC=A._GetAutoObject(A.Device.Converter
+).Ajp(Ry,Eo);switch(NC){case 2:return A.jb.Text;case 3:case 1:case 0:return A.jb.
+Bm;default:throw new Error(Cf+NC.toFixed());}},BAg:function(Eo,Ry){var NC=A._GetAutoObject(
+A.Device.Converter).Ajp(Ry,Eo);switch(NC){case 3:return A.jb.Gk;case 2:return A.
+jb.Text;case 1:return A.jb.E1;case 0:return A.jb.Afz;default:throw new Error(BD+
+NC.toFixed());}},BAh:function(Eo,Ry){var NC=A._GetAutoObject(A.Device.Converter).
+Ajp(Ry,Eo);switch(NC){case 3:return 16711680;case 2:return 16776960;case 1:return 65280;
+case 0:return 255;default:throw new Error(Cf+NC.toFixed());}},BAf:function(Eo,Ry
+){var NC=A._GetAutoObject(A.Device.Converter).Ajp(Ry,Eo);switch(NC){case 3:return A.
 jb.Bm;case 2:case 1:case 0:return A.jb.Gk;default:throw new Error(Cf+NC.toFixed(
-));}},_Init:function(aArg){this.__proto__=C.Bad;A.h7++;},_Done:function(){this.__proto__=
+));}},_Init:function(aArg){this.__proto__=C.Baf;A.h7++;},_Done:function(){this.__proto__=
 null;A.h7--;},_ReInit:function(){},_Mark:function(D){var B;if((B=this.I)&&(B._cycle
 !=D))B._Mark(B._cycle=D);},I:null,_cycle:0,_observers:null,_className:"DeviceRes::TemperatureClass"
-};C.Temperature={_Init:function(){C.Bad._Init.call(this,0);},_ReInit:function(){
-},_variants:function(){return this;},_this:null};C.A5H={BdS:function(NA){var B4=
-A.jb.Rk;switch(NA){case 3:B4=A.jb.E1;break;case 2:B4=A.jb.Ib;break;case 1:B4=A.jb.
-Gk;break;case 4:B4=A.jb.Afy;break;case 0:case 5:B4=A.jb.Rk;break;default:A.ab5("%s"
-,Hs);}return B4;},Qu:function(NA){var B4=A.jb.Rk;switch(NA){case 3:B4=A.jb.E1;break;
-case 2:B4=A.jb.Ib;break;case 1:B4=A.jb.Gk;break;case 0:case 5:B4=A.jb.CK;break;case
-4:B4=A.jb.Afy;break;default:A.ab5("%s%e",Hs,NA);}return B4;},XH:function(NA){var
+};C.Temperature={_Init:function(){C.Baf._Init.call(this,0);},_ReInit:function(){
+},_variants:function(){return this;},_this:null};C.A5J={BdU:function(NA){var B4=
+A.jb.Rl;switch(NA){case 3:B4=A.jb.E1;break;case 2:B4=A.jb.Ib;break;case 1:B4=A.jb.
+Gk;break;case 4:B4=A.jb.Afz;break;case 0:case 5:B4=A.jb.Rl;break;default:A.ab5("%s"
+,Hs);}return B4;},Qv:function(NA){var B4=A.jb.Rl;switch(NA){case 3:B4=A.jb.E1;break;
+case 2:B4=A.jb.Ib;break;case 1:B4=A.jb.Gk;break;case 0:case 5:B4=A.jb.CJ;break;case
+4:B4=A.jb.Afz;break;default:A.ab5("%s%e",Hs,NA);}return B4;},XH:function(NA){var
 B4=A.jb.Text;switch(NA){case 3:case 1:B4=A.jb.Bm;break;case 2:case 0:case 4:case
 5:B4=A.jb.Text;break;default:A.ab5("%s",Hs);}return B4;},_Init:function(aArg){this.
-__proto__=C.A5H;A.h7++;},_Done:function(){this.__proto__=null;A.h7--;},_ReInit:function(
+__proto__=C.A5J;A.h7++;},_Done:function(){this.__proto__=null;A.h7--;},_ReInit:function(
 ){},_Mark:function(D){var B;if((B=this.I)&&(B._cycle!=D))B._Mark(B._cycle=D);},I:
 null,_cycle:0,_observers:null,_className:"DeviceRes::AssessmentClass"};C.Assessment={
-_Init:function(){C.A5H._Init.call(this,0);},_ReInit:function(){},_variants:function(
-){return this;},_this:null};C.A6m={MonthToString:null,Bjp:function(L$){if(!L$)return A.
+_Init:function(){C.A5J._Init.call(this,0);},_ReInit:function(){},_variants:function(
+){return this;},_this:null};C.A6o={MonthToString:null,Bjr:function(L$){if(!L$)return A.
 jV;else{var Av=A._NewObject(A.Core.Bs,0);Av.Initialize(L$);return Av.Format(A.aaR(
-A.acf.Bjr));}},AjN:function(L$){if(!L$)return A.jV;else{var Av=A._NewObject(A.Core.
-Bs,0);Av.Initialize(L$);return Av.Format(A.aaR(A.acf.Ag1));}},AC$:function(L$){if(
+A.acf.Bjt));}},AjO:function(L$){if(!L$)return A.jV;else{var Av=A._NewObject(A.Core.
+Bs,0);Av.Initialize(L$);return Av.Format(A.aaR(A.acf.Ag2));}},ADb:function(L$){if(
 !L$)return A.jV;else{var Av=A._NewObject(A.Core.Bs,0);Av.Initialize(L$);return Av.
-Format(A.aaR(A.acf.Bjq));}},A64:function(L$){if(!L$)return A.jV;else{var Av=A._NewObject(
-A.Core.Bs,0);Av.Initialize(L$);return Av.Format(I0);}},ADa:function(A1D,A1l,Iz){
-var B;var Dx=A._NewObject(A.Core.Bs,0);var Qr=A._NewObject(A.Core.Bs,0);var Bc8=
-A1l<A1D;if(Bc8){Dx.Initialize(A1l);Qr.Initialize(A1D);}else{Dx.Initialize(A1D);Qr.
-Initialize(A1l);}var ABS=0;var ApE=0;var Qp=0;Qp+=(Qr.GL-Dx.GL);if(Qp<0){switch(
-Qr.Hm){case 1:case 2:case 4:case 6:case 8:case 9:case 11:Qp+=31;break;case 5:case
-7:case 10:case 12:Qp+=30;break;case 3:if(this.Bkj(Qr.Year))Qp+=29;else Qp+=28;break;
-default:A.ab5("%s%i",Iw,Qr.Hm);}ApE--;}ApE+=(Qr.Hm-Dx.Hm);if(ApE<0){ApE+=12;ABS--;
-}ABS+=(Qr.Year-Dx.Year);if(Bc8){ABS=-ABS;ApE=-ApE;Qp=-Qp;}var index=Iz.indexOf(String.
-fromCharCode(0x25),0);while(index>=0){var Bev=Iz.charCodeAt(index+1)||0;Iz=A.ab1(
-Iz,index,2);switch(Bev){case 0x64:Iz=A.abU(Iz,Qp.toFixed(),index);break;case 0x6D:
-Iz=A.abU(Iz,ApE.toFixed(),index);break;case 0x79:case 0x59:Iz=A.abU(Iz,ABS.toFixed(
-),index);break;case 0x25:Iz=A.abU(Iz,O$,index);break;default:A.ab5("%s%s",Qb,O$+
-String.fromCharCode(Bev));}index=Iz.indexOf(String.fromCharCode(0x25),index+1);}
-return Iz;},Bkj:function(Ac9){if(!(Ac9%4)&&!!(Ac9%100))return true;if(!(Ac9%400)
-)return true;return false;},Bjl:function(L$){if(!L$)return A.jV;else{var Av=A._NewObject(
-A.Core.Bs,0);Av.Initialize(L$);return this.MonthToString.BT(Av.Hm)+Av.Format(Qc);
+Format(A.aaR(A.acf.Bjs));}},A66:function(L$){if(!L$)return A.jV;else{var Av=A._NewObject(
+A.Core.Bs,0);Av.Initialize(L$);return Av.Format(I0);}},ADc:function(A1F,A1n,Iz){
+var B;var Dx=A._NewObject(A.Core.Bs,0);var Qs=A._NewObject(A.Core.Bs,0);var Bc_=
+A1n<A1F;if(Bc_){Dx.Initialize(A1n);Qs.Initialize(A1F);}else{Dx.Initialize(A1F);Qs.
+Initialize(A1n);}var ABU=0;var ApF=0;var Qq=0;Qq+=(Qs.GL-Dx.GL);if(Qq<0){switch(
+Qs.Hl){case 1:case 2:case 4:case 6:case 8:case 9:case 11:Qq+=31;break;case 5:case
+7:case 10:case 12:Qq+=30;break;case 3:if(this.Bkl(Qs.Year))Qq+=29;else Qq+=28;break;
+default:A.ab5("%s%i",Iw,Qs.Hl);}ApF--;}ApF+=(Qs.Hl-Dx.Hl);if(ApF<0){ApF+=12;ABU--;
+}ABU+=(Qs.Year-Dx.Year);if(Bc_){ABU=-ABU;ApF=-ApF;Qq=-Qq;}var index=Iz.indexOf(String.
+fromCharCode(0x25),0);while(index>=0){var Bex=Iz.charCodeAt(index+1)||0;Iz=A.ab1(
+Iz,index,2);switch(Bex){case 0x64:Iz=A.abU(Iz,Qq.toFixed(),index);break;case 0x6D:
+Iz=A.abU(Iz,ApF.toFixed(),index);break;case 0x79:case 0x59:Iz=A.abU(Iz,ABU.toFixed(
+),index);break;case 0x25:Iz=A.abU(Iz,O$,index);break;default:A.ab5("%s%s",Qc,O$+
+String.fromCharCode(Bex));}index=Iz.indexOf(String.fromCharCode(0x25),index+1);}
+return Iz;},Bkl:function(Ac_){if(!(Ac_%4)&&!!(Ac_%100))return true;if(!(Ac_%400)
+)return true;return false;},Bjn:function(L$){if(!L$)return A.jV;else{var Av=A._NewObject(
+A.Core.Bs,0);Av.Initialize(L$);return this.MonthToString.BT(Av.Hl)+Av.Format(Qd);
 }},_Init:function(aArg){A.Device.MonthToString._Init.call(this.MonthToString={I:
-this},0);this.__proto__=C.A6m;A.h7++;},_Done:function(){this.__proto__=null;this.
+this},0);this.__proto__=C.A6o;A.h7++;},_Done:function(){this.__proto__=null;this.
 MonthToString._Done();A.h7--;},_ReInit:function(){this.MonthToString._ReInit();}
 ,_Mark:function(D){var B;if((B=this.MonthToString)._cycle!=D)B._Mark(B._cycle=D);
 if((B=this.I)&&(B._cycle!=D))B._Mark(B._cycle=D);},I:null,_cycle:0,_observers:null
-,_className:"DeviceRes::DateFormatterClass"};C.KR={_Init:function(){C.A6m._Init.
+,_className:"DeviceRes::DateFormatterClass"};C.KR={_Init:function(){C.A6o._Init.
 call(this,0);},_ReInit:function(){},_variants:function(){return this;},_this:null
-};C.A79={Af8:function(){switch(A._GetAutoObject(A.Device.Device).MassUnit){case 0:
-return A.aaR(A.acf.AAn);case 1:return A.aaR(A.acf.A7Z);default:A.ab5("%s%s",CR,A.
-_GetAutoObject(A.Device.Device).MassUnit.toFixed());}return A.jV;},BAa:function(
-){switch(A._GetAutoObject(A.Device.Device).MassUnit){case 0:return A.aaL(A.ach.AL9
-);case 1:return A.aaL(A.ach.AL8);default:A.ab5("%s%s",CR,A._GetAutoObject(A.Device.
-Device).MassUnit.toFixed());}return null;},Az5:function(AoX,Eo){if(AoX<A._GetAutoObject(
-A.Device.Helper).ADp(Eo))return A.jb.Gk;else if(AoX<A._GetAutoObject(A.Device.Helper
-).ADo(Eo))return A.jb.Ib;else return A.jb.E1;},Az7:function(AoX,Eo){if(AoX<A._GetAutoObject(
-A.Device.Helper).ADp(Eo))return A.jb.Bm;else{A._GetAutoObject(A.Device.Helper).ADo(
+};C.A7$={Af9:function(){switch(A._GetAutoObject(A.Device.Device).MassUnit){case 0:
+return A.aaR(A.acf.AAo);case 1:return A.aaR(A.acf.A71);default:A.ab5("%s%s",CR,A.
+_GetAutoObject(A.Device.Device).MassUnit.toFixed());}return A.jV;},BAc:function(
+){switch(A._GetAutoObject(A.Device.Device).MassUnit){case 0:return A.aaL(A.ach.AL$
+);case 1:return A.aaL(A.ach.AL_);default:A.ab5("%s%s",CR,A._GetAutoObject(A.Device.
+Device).MassUnit.toFixed());}return null;},Az6:function(AoY,Eo){if(AoY<A._GetAutoObject(
+A.Device.Helper).ADr(Eo))return A.jb.Gk;else if(AoY<A._GetAutoObject(A.Device.Helper
+).ADq(Eo))return A.jb.Ib;else return A.jb.E1;},Az8:function(AoY,Eo){if(AoY<A._GetAutoObject(
+A.Device.Helper).ADr(Eo))return A.jb.Bm;else{A._GetAutoObject(A.Device.Helper).ADq(
 Eo);return A.jb.Text;}},AaE:function(){switch(A._GetAutoObject(A.Device.Device).
-MassUnit){case 0:return A.aaR(A.acf.BjX);case 1:return A.aaR(A.acf.BoN);default:
+MassUnit){case 0:return A.aaR(A.acf.BjZ);case 1:return A.aaR(A.acf.BoP);default:
 A.ab5("%s%s",CR,A._GetAutoObject(A.Device.Device).MassUnit.toFixed());}return A.
-jV;},Az6:function(){switch(A._GetAutoObject(A.Device.Device).MassUnit){case 0:return 10;
+jV;},Az7:function(){switch(A._GetAutoObject(A.Device.Device).MassUnit){case 0:return 10;
 case 1:return 5;default:A.ab5("%s%s",CR,A._GetAutoObject(A.Device.Device).MassUnit.
-toFixed());}return 10;},Bd3:function(Atx,GA){var Aqh;if(((Atx<10000)||((Atx===10000
-)&&(GA===5)))&&(A._GetAutoObject(A.Device.Device).OT===2))Aqh=10;else if(((Atx<50000
-)||((Atx===50000)&&(GA===5)))&&!!A._GetAutoObject(A.Device.Device).OT)Aqh=100;else
-if(((Atx<100000)||((Atx===100000)&&(GA===5)))&&!!A._GetAutoObject(A.Device.Device
-).OT)Aqh=500;else Aqh=1000;switch(A._GetAutoObject(A.Device.Device).MassUnit){case
-0:break;case 1:Aqh=(Aqh/2)|0;break;default:A.ab5("%s%s",CR,A._GetAutoObject(A.Device.
-Device).MassUnit.toFixed());}return Aqh;},BdX:function(){switch(A._GetAutoObject(
-A.Device.Device).MassUnit){case 0:return A.aaL(A.ach.AD6);case 1:return A.aaL(A.
-ach.AD7);default:A.ab5("%s%s",CR,A._GetAutoObject(A.Device.Device).MassUnit.toFixed(
-));}return null;},AlE:function(Bct,Byv,BxG){if(!Bct)return 0;return Math.round((
-BxG-Byv)/Bct)|0;},_Init:function(aArg){this.__proto__=C.A79;A.h7++;},_Done:function(
+toFixed());}return 10;},Bd5:function(Aty,GA){var Aqi;if(((Aty<10000)||((Aty===10000
+)&&(GA===5)))&&(A._GetAutoObject(A.Device.Device).OT===2))Aqi=10;else if(((Aty<50000
+)||((Aty===50000)&&(GA===5)))&&!!A._GetAutoObject(A.Device.Device).OT)Aqi=100;else
+if(((Aty<100000)||((Aty===100000)&&(GA===5)))&&!!A._GetAutoObject(A.Device.Device
+).OT)Aqi=500;else Aqi=1000;switch(A._GetAutoObject(A.Device.Device).MassUnit){case
+0:break;case 1:Aqi=(Aqi/2)|0;break;default:A.ab5("%s%s",CR,A._GetAutoObject(A.Device.
+Device).MassUnit.toFixed());}return Aqi;},BdZ:function(){switch(A._GetAutoObject(
+A.Device.Device).MassUnit){case 0:return A.aaL(A.ach.AD8);case 1:return A.aaL(A.
+ach.AD9);default:A.ab5("%s%s",CR,A._GetAutoObject(A.Device.Device).MassUnit.toFixed(
+));}return null;},AlF:function(Bcv,Byx,BxI){if(!Bcv)return 0;return Math.round((
+BxI-Byx)/Bcv)|0;},_Init:function(aArg){this.__proto__=C.A7$;A.h7++;},_Done:function(
 ){this.__proto__=null;A.h7--;},_ReInit:function(){},_Mark:function(D){var B;if((
 B=this.I)&&(B._cycle!=D))B._Mark(B._cycle=D);},I:null,_cycle:0,_observers:null,_className:
-"DeviceRes::MassClass"};C.DU={_Init:function(){C.A79._Init.call(this,0);},_ReInit:
-function(){},_variants:function(){return this;},_this:null};C.BpS={3:"\u7DA0\u8272"
+"DeviceRes::MassClass"};C.DU={_Init:function(){C.A7$._Init.call(this,0);},_ReInit:
+function(){},_variants:function(){return this;},_this:null};C.BpU={3:"\u7DA0\u8272"
 ,0:"Green",8:"Vihre\xE4",9:"Vert",10:"Gr\xFCn",11:"\u03A0\u03C1\u03AC\u03C3\u03B9\u03BD\u03BF"
-,20:"\u0417\u0435\u043B\u0451\u043D\u044B\u0439",23:"Ye\u015Fil"};C.BpT={3:"\u7D05\u8272"
+,20:"\u0417\u0435\u043B\u0451\u043D\u044B\u0439",23:"Ye\u015Fil"};C.BpV={3:"\u7D05\u8272"
 ,0:"Red",8:"Punainen",9:"Rouge",10:"Rot",11:"\u039A\u03CC\u03BA\u03BA\u03B9\u03BD\u03BF"
 ,20:"\u043A\u0440\u0430\u0441\u043D\u044B\u0439",23:"K\u0131rm\u0131z\u0131"};C.
-BpU={3:"\u9EC3\u8272",0:"Yellow",8:"Keltainen",9:"Jaune",10:"Gelb",11:"\u039A\u03AF\u03C4\u03C1\u03B9\u03BD\u03BF"
-,20:"\u0416\u0451\u043B\u0442\u044B\u0439",23:"Sar\u0131"};C.A5S={ADg:function(AfM
-){var B;if(!!!(AfM.length%2))return-1;var BgW=0;var BgX=0;var Aiq;var O=0;for(;O<
-AfM.length;O++){Aiq=A.wz(A.abW(AfM,O,1),-1,10);if(Aiq===-1)return-1;if(!!(O%2))BgW+=
-Aiq;else BgX+=Aiq;}Aiq=((3*BgX)+BgW)%10;if(!!Aiq)Aiq=10-Aiq;return Aiq;},AV1:function(
-AfM){if(!AfM.length)return false;if(!!(AfM.length%2))return false;return A.wz(A.
-abW(AfM,AfM.length-1,1),-2,10)===this.ADg(A.abV(AfM,AfM.length-1));},_Init:function(
-aArg){this.__proto__=C.A5S;A.h7++;},_Done:function(){this.__proto__=null;A.h7--;
+BpW={3:"\u9EC3\u8272",0:"Yellow",8:"Keltainen",9:"Jaune",10:"Gelb",11:"\u039A\u03AF\u03C4\u03C1\u03B9\u03BD\u03BF"
+,20:"\u0416\u0451\u043B\u0442\u044B\u0439",23:"Sar\u0131"};C.A5U={ADi:function(AfN
+){var B;if(!!!(AfN.length%2))return-1;var BgY=0;var BgZ=0;var Air;var O=0;for(;O<
+AfN.length;O++){Air=A.wz(A.abW(AfN,O,1),-1,10);if(Air===-1)return-1;if(!!(O%2))BgY+=
+Air;else BgZ+=Air;}Air=((3*BgZ)+BgY)%10;if(!!Air)Air=10-Air;return Air;},AV3:function(
+AfN){if(!AfN.length)return false;if(!!(AfN.length%2))return false;return A.wz(A.
+abW(AfN,AfN.length-1,1),-2,10)===this.ADi(A.abV(AfN,AfN.length-1));},_Init:function(
+aArg){this.__proto__=C.A5U;A.h7++;},_Done:function(){this.__proto__=null;A.h7--;
 },_ReInit:function(){},_Mark:function(D){var B;if((B=this.I)&&(B._cycle!=D))B._Mark(
 B._cycle=D);},I:null,_cycle:0,_observers:null,_className:"DeviceRes::BarcodeClass"
-};C.VO={_Init:function(){C.A5S._Init.call(this,0);},_ReInit:function(){},_variants:
+};C.VO={_Init:function(){C.A5U._Init.call(this,0);},_ReInit:function(){},_variants:
 function(){return this;},_this:null};
 C._Init=function(){};C._ReInit=function(){var B;if((B=C.Temperature._this))B._ReInit(
 ),C.Temperature._ReInit.call(B);if((B=C.Assessment._this))B._ReInit(),C.Assessment.

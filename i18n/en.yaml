@@ -465,7 +465,7 @@
 "SuccessResetDeviceData": "Device data were deleted success~fully!"
 "SuccessResetFactorySettings": "Device success~fully reset to factory defaults!"
 "SuccessRestoreBackup": "Successfully restored device data and {1}\x00A0animal data set(s) from backup file on USB flash drive!"
-"SuccessUnlinkTransponder": "Assigned transponder was successfully unlinked from animal with ID {1} !"
+"SuccessUnlinkTransponder": "Assigned transponder was successfully unlinked from animal with ID {1}\x00A0!"
 "SuccessUnregister": "Animal with ID {1} successfully unregistered!"
 "SuccessUnregisterAnimalAndBirthNotice": "Animal {1} and corresponding birth notice were deleted successfully!"
 "SuccessUnregisterAnimalAndPurchaseNotice": "Animal {1} and corresponding purchase notice were deleted successfully!"

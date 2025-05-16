@@ -465,7 +465,7 @@
 "SuccessResetDeviceData": "Enhedsdata blev slettet succesfuldt!"
 "SuccessResetFactorySettings": "Enheden er nulstillet til fabriksindstillingerne!"
 "SuccessRestoreBackup": "Genskabt enhedsdata og {1}\x00A0datasæt med dyredata fra sikkerhedskopi på USB-nøgle!"
-"SuccessUnlinkTransponder": "Tildelt transponder blev succesfuldt afkoblet fra dyret med ID {1} !"
+"SuccessUnlinkTransponder": "Tildelt transponder blev succesfuldt afkoblet fra dyret med ID {1}\x00A0!"
 "SuccessUnregister": "Dyr med ID {1} er blevet afmeldt!"
 "SuccessUnregisterAnimalAndBirthNotice": "Dyret {1} og den tilsvarende fødselsmeddelelse blev slettet succesfuldt!"
 "SuccessUnregisterAnimalAndPurchaseNotice": "Dyr {1} og tilhørende købsmeddelelse blev slettet succesfuldt!"
