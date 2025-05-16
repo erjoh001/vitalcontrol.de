@@ -27,14 +27,14 @@ translationKey: alma-pro/configuration
 
 1. 現在中央螢幕的右半部分會出現一個（或多個）選單項目。點擊頂部按鈕 `VitalControl` <span style="font-size: 140%">➃</span>。按鈕現在改變位置，顯示在中央螢幕的左半部分。
 
-1. 現在在中央螢幕的右下方顯示按鈕 &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="打開設定" title="打開設定 VitalControl" /> `打開設定` <span style="font-size: 140%">➄</span>。點擊此按鈕以打開一個彈出窗口，其中顯示設定選單 `VitalControl` 的[第 1 頁](#settings-menu-vitalcontrol---page-1)。
+1. 現在在中央螢幕的右下方顯示按鈕 &nbsp;<img src="/icons/actions/edit.svg" width="24" align="bottom" alt="打開設定" title="打開設定 VitalControl" /> `打開設定` <span style="font-size: 140%">➄</span>。點擊此按鈕以打開一個彈出窗口，其中顯示設定選單 `VitalControl` 的[第 1 頁](#settings-menu-vitalcontrol-page-1)。
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/open-settings-vitalcontrol.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="設定選單 VitalControl: 呼叫" title="呼叫設定選單 VitalControl" />
     <figcaption class="figure-caption fs-6">截圖 1：呼叫設定選單 <span style="font-style: italic;">VitalControl</span></figcaption>
 </figure>
 
-## 設定選單 `VitalControl` - 第 1 頁
+## 設定選單 `VitalControl` - 第 1 頁 {#settings-menu-vitalcontrol-page-1}
 
 <figure class="figure" style="margin-top: 5px;">
     <img src="../images/settings-vitalcontrol-1.png" class="border border-2 figure-img img-fluid rounded p-3" align="bottom" alt="設定選單 VitalControl: 第 1 頁" title="設定 VitalControl (1)" />
